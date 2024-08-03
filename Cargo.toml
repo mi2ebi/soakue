@@ -1,0 +1,10 @@
+[package]
+name = "backup-toakue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.13.0"
+reqwest = { version = "0.12.5", features = ["blocking"] }
+serde = { version = "1.0.204", features = ["derive"] }
+serde_json = "1.0.122"
