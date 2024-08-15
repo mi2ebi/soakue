@@ -1,10 +1,10 @@
 name: the
 permissions:
   contents: write
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: 0 0 2 * * # day after dictionary-counter
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: 0 */6 * * * 
 
 jobs:
   the:
@@ -13,12 +13,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: "true"
-
       - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
       - name: the
-        run: cargo run --release
-
+        run: cargo run --bin data --release
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: update
+          

@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    transition-property: color, background-color;
+    transition-duration: 0.2s;
+}
+body {
+    font-family: "u25af", var(--sans);
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 8px;
+    background-color: #ededfc; /* 95 .02 288 */
+}
+#search {
+    font-size: 20px;
+    padding: 4px;
+    width: 300px;
+    font-family: var(--sans);
+    border: none;
+}
+::placeholder, .scope {
+    opacity: 1;
+    color: #636363; /* 50 0 0 */
+}
+a {
+    color: #1c6e80; /* 50 .08 216 */
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline 1px solid currentColor;
+}
+code {
+    color: #7f5b2b; /* 50 .08 72 */
+    font-family: monospace, var(--sans);
+}
+#bottom:not(:empty) + #howto, #res:not(:empty) ~ #howto {
+    display: none;
+}
+#bottom, #res {
+    margin-top: 12px;
+}
+.indent {
+    text-indent: 20px hanging each-line;
+}
+dt {
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+}
+dd {
+    margin-left: 20px;
+}
+.toa {
+    color: #615c8e; /* 50 .08 288 */
+}
+.u25af {
+    font-family: sans-serif;
+}
+.score {
+    color: #805175; /* 50 .08 336 */
+}
+.notes {
+    font-size: small;
+    margin-top: 0.2em;
+}
+button {
+    font-size: 16px;
+    font-family: inherit;
+    border: 1px solid transparent;
+    border-radius: 0;
+    padding: 2px 4px;
+    background-color: #1c6e80;
+    color: #fff;
+}
+button:hover {
+    cursor: pointer;
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #211e34; /* 25 .04 288 */
+        color: #fff;
+    }
+    input {
+        background-color: #000;
+        color: #fff;
+    }
+    ::placeholder, .scope {
+        color: #aeaeae; /* 75 0 0 */
+    }
+    a {
+        color: #37c0de; /* 75 .12 216 */
+    }    
+    code {
+        color: #dda151; /* 75 .12 72 */
+    }
+    .toa {
+        color: #aaa1f6; /* 75 .12 288 */
+    }
+    .score {
+        color: #de90cb; /* 75 .12 336 */
+    }
+    button {
+        border: 1px currentColor solid;
+        color: #37c0de;
+        background: none !important;
+    }
+}
