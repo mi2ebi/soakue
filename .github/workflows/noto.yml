@@ -1,4 +1,4 @@
-name: the
+name: noto
 permissions:
   contents: write
 on:
@@ -7,7 +7,6 @@ on:
     - cron: 0 0 1 */3 * 
 
 jobs:
-  the:
   noto:
     runs-on: ubuntu-latest
     steps:
