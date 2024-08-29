@@ -24,11 +24,12 @@ function redirect() {
 var timer;
 $`search`.addEventListener("input", function() {
     clearTimeout(timer);
-    q = $`search`.value;
+    q = $`search`.value.trim();
     res = null;
     clearRes();
+    // todo: handle `=` + tones/ıꝡ here rather than in `worker.js`
     redirect();
-    $`bottom`.innerHTML = "lao jí pó sá joaıse ka..."
+    $`bottom`.innerHTML = "chum lao jí pó jóaıse"
     timer = setTimeout(function() {
         if (q.length) {
             worker.postMessage({"q": q})

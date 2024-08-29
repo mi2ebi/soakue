@@ -10,34 +10,35 @@
     </head>
     <body>
         <h1>backup toadua</h1>
-        <input type="text" id="search" name="search" autocomplete="off" spellcheck="false" size="1" placeholder="lao jí pó tóakue..." disabled />
+        <input type="text" id="search" name="search" autocomplete="off" spellcheck="false" size="1" placeholder="chum lao jí pó tóakue" disabled />
         <button type="reset" id="clear">sıajòaı</button>
         <span id="len"></span>
         <div id="res"></div>
         <div id="bottom"></div>
         <div id="howto">
             <h2>about</h2>
-            <p>this updates every 6 hours, and whenever <a href="https://toadua.uakci.pl">toadua</a> breaks (502s etc).</p>
+            <p>this updates every 6 hours, and whenever <a href="https://toadua.uakci.space">toadua</a> breaks (502s etc).</p>
             <h2>operators</h2>
-            <p><code>=</code> searches just the words themselves. there are a couple fancy things you can do with this:</p>
+            <p><code>=</code> searches just the words themselves. there are a couple fancy things you can do with this <b>not yet bc they don't work lol</b>:</p>
             <div class="indent"><p>
+                matching extra things:<br />
                 <code>*</code> matches anything (or nothing, i.e. it's <code>/.*/</code>)<br />
                 <code>?</code> matches any single letter, <code>/[aeıoumpbfntdczsrljꝡqkg'h]|[ncs]h/i</code><br />
-                <code>C</code>, <code>V</code>, <code>F</code>, <code>Q</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note that <code>VV</code>&nbsp;⊋&nbsp;<code>F</code>)<br />
-                <code>i</code> = <code>ı</code><br />
-                <code>v</code> = <code>w</code> = <code>y</code> = <code>ꝡ</code><br />
-                <code>-</code> or <code>.</code> or <code>◌̣</code> mark the end of prefixes<br />
-                <code>1234</code> also work for <code>◌̀◌́◌̈◌̂</code><br />
+                <code>CVFQ</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note that <code>VV</code>&nbsp;⊋&nbsp;<code>F</code>)<br />
                 <code>R</code> matches a raku</code><br />
                 <code>_</code> matches a space<br />
                 <code>()[]|</code> work like in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern">regex</a>
             </p></div>
-            <p>e.g. you can find conjunctions prefixed with <b class="toa">na-</b> using <code>=na.R*2</code>. per <a href="https://discord.com/channels/311223912044167168/311223912044167168/1272642091192946758">consensus</a> <code>rie2i</code> = <b class="toa">ríe'ı</b></p>
+            <div class="indent"><p>
+                automatic replacements:<br />
+                <code>i</code>, <code>vwy</code> → <code>ı</code>, <code>ꝡ</code><br />
+                <code>-</code> or <code>.</code> → <code>◌̣</code><br />
+                <code>234</code> → tones, + <code>1</code> → <code>◌̀</code>
+            </p></div>
             <p><code>~</code> is similar but will also match word-internally: <code>~◌</code> = <code>=*◌*</code></p>
             <p><code>@</code> searches word authors</p>
             <p><code>#</code> find the word with that id</p>
             <p><code>/</code> finds definitions with a certain number of slots</p>
-            <p><code>$</code> searches just the scores. you can do e.g. <code>$&lt;-2</code> to find spam (why would you want to do that though)</p>
             <p><code>!</code> or <code>-</code> negate a query, e.g. <code>-@official</code></p>
             <h2>things you can't do here</h2>
             <p>anything that requires logging in</p>
@@ -47,12 +48,17 @@
         <script src="events.js"></script>
         <script>
             $`search`.removeAttribute("disabled");
-            $`search`.setAttribute("placeholder", "joaı bâq toa súq doa");
+            $`search`.setAttribute("placeholder", "joaıteoq");
             worker = new Worker("worker.js");
             worker.addEventListener("message", function(e) {
                 res = e.data;
+                if (res.err) {
+                    $`res`.innerHTML = res.err;
+                    $`bottom`.innerHTML = "";
+                    return;
+                }
                 $`res`.innerHTML = "";
-                $`len`.innerHTML = "joaıse " + res.length + " raı";
+                $`len`.innerHTML = "joaıse\u{00a0}" + res.length + "\u{00a0}raı";
                 page = 0;
                 load(res, page);
                 checkLength();
