@@ -29,7 +29,7 @@ a {
     text-decoration-color: #1c6e80 !important;
 }
 a:hover {
-    text-decoration: underline 1px solid;
+    text-decoration: solid underline;
 }
 code {
     color: #7f5b2b; /* 50 .08 72 */
