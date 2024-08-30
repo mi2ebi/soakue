@@ -26,7 +26,7 @@ fn main() {
         dict_str = to_string(&dict).unwrap();
         res.is_err()
             || !res.as_ref().unwrap().status().is_success()
-            || Utc::now().time() - start.time() < TimeDelta::seconds(6 * 3600 - 60)
+            || Utc::now().time() - start.time() < TimeDelta::seconds(6 * 3600 - 2 * 60)
             || old.starts_with("<")
             || dict_str == "[]"
         // 'keep checking toadua until it breaks or more than 6 hours have passed'
