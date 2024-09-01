@@ -319,6 +319,7 @@ aobılua
 aobıluaı
 aobımoı
 aobımoı
+aobımoıkıubu
 aobınıeq
 aobıruaq
 aobızu
@@ -6749,6 +6750,7 @@ feze
 fı
 Fı ruqshua.
 Fı tua tı jí súq báq tıoqbue nha.
+fî X nä Y
 fıa
 fıa
 fıa
@@ -7460,6 +7462,7 @@ garusapu
 gate
 gatepeo
 gay
+gcjh
 ge
 ge
 ge
@@ -8840,6 +8843,7 @@ Haı bıaq loq náo da.
 Haı bıaq loq náo da.
 Haı nıe jí kúa.
 Haı nıe jí kúa.
+hâı X nä Y
 haı'a
 haıba
 hâıba
@@ -9718,6 +9722,7 @@ hıpuı
 hıq
 hıq
 Hıq jea sá núı'eku jıbo.
+hîq X nä Y
 hıq'ıq
 hıqbo
 Hıqdıa
@@ -9783,6 +9788,7 @@ hoaı
 hoaı
 hoaı
 hoaı-
+hôaı X nä Y
 hoaıduo
 hoaıduoı
 hoaıgıaq
@@ -10480,6 +10486,7 @@ Ilakıshızu
 ınha
 ınha
 ínha
+ınhame
 ınhaq
 ınhaq
 ınho
@@ -12950,6 +12957,7 @@ kaotıeq
 kaotua
 kapaco
 kapacosoa
+kapacha
 kapasa
 kapasaı
 kapasasaı
@@ -16113,6 +16121,7 @@ Luı tao jí ráı.
 Luı tıbufa ke pıa sü hó mí Jeıny
 Luı tısha júo.
 Luı tısha míru Ohara.
+lûı X nä Y
 Luıboı noaqchoa jí
 luıcuajuoq
 luıgı
@@ -16731,6 +16740,8 @@ majıtoa
 majoneze
 majoneze
 majonezy
+maju
+máju
 Makabanımoa
 makaka
 makasıq
@@ -16760,6 +16771,7 @@ Malı
 malıe
 Malıgua
 Malıgua
+málım
 malufaı
 Malufaızu
 malukumeıbaıche
@@ -23808,6 +23820,8 @@ saro
 sasa
 sasahu
 sasalı
+sashe
+sashe
 sashı
 sata
 satıo
@@ -24225,6 +24239,8 @@ sıaseu
 sıasıa
 sıasıalı
 sıasoa
+sıashe
+sıashe
 sıasho
 sıazıu
 sıba
@@ -28884,6 +28900,7 @@ Za haqsue jí báq nueq po báq goso ró báq guobe.
 Za roq nháo.
 Za sha tı chúe
 Za tısha nháo.
+zâ X nä Y
 za'um
 zabıe
 zabıeguınhoq
@@ -29116,10 +29133,10 @@ zeumde
 zeumdedo
 zeumla
 zı
+zı
+zı
+zı
 - zı
-zı
-zı
-zı
 zí
 zıa
 zıa
