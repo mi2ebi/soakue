@@ -53,14 +53,14 @@ function replaceLinks(str) {
     .replace(/\*\*/g, "📦")
     .replace(/https:\/\/([a-z0-9./#%?=&_:()'-]+)/giu, "🌐$1🌐")
     .replace(/(?<!🌐[^ ]*)#([a-z0-9_-]{9,})(?=[^a-z0-9_-]|$)/giu, "🆔$1🆔")
-    .replace(/<((@[a-z0-9]+) )?([^>]+)>/giu, "📎$3 $2📎")
+    .replace(/<((?![/ ])[^>]+(?<! ))>(?!.+<\/\1>)/giu, "📎$1📎")
     .split(/(?=[📦🆔🌐📎])/u);
     for (var i = 0; i < bits.length; i++) {
         if (i == 0) continue;
         if ([...bits[i]][0] === [...bits[i-1]][0] && "📦🆔🌐📎".includes([...bits[i]][0])) {
             bits[i] = bits[i].replace(/^[📦🆔🌐📎]/u, "");
-            var hrefprefix = bits[i - 1].startsWith("📦") || bits[i - 1].startsWith("📎") ? "?q=%3D" : bits[i - 1].startsWith("🆔") ? "?q=%23" : "https://";
-            var textprefix = bits[i - 1].startsWith("📦") || bits[i - 1].startsWith("📎") ? ""       : bits[i - 1].startsWith("🆔") ? "#"      : "https://";
+            var hrefprefix = bits[i - 1].startsWith("📦") ? "?q=%3D" : bits[i - 1].startsWith("🆔") ? "?q=%23" : bits[i - 1].startsWith("📎") ? "?q=" : "https://";
+            var textprefix = bits[i - 1].startsWith("📦") || bits[i - 1].startsWith("📎") ? "" : bits[i - 1].startsWith("🆔") ? "#" : "https://";
             if (i >= 2 && bits[i - 1].startsWith("🌐") && bits[i - 1].endsWith(")") && bits[i - 2].endsWith("(")) {
                 bits[i - 1] = bits[i - 1].replace(/\)$/, "");
                 bits[i] = ")" + bits[i];
@@ -68,8 +68,6 @@ function replaceLinks(str) {
             var href = bits[i - 1].replace(/^[📦🆔🌐📎]/u, "");
             if (bits[i - 1].startsWith("📦")) {
                 href = href.replace(/ /g, "|");
-            } else if (bits[i - 1].startsWith("📎")) {
-                bits[i - 1] = bits[i - 1].replace(/^📎([^ ]+) (.+)$/, "📎$2 $1").trim();
             }
             bits[i - 1] = mkel("a", {
                 "href": hrefprefix + (hrefprefix != "https://" ? encodeURIComponent : (x) => x)(href)

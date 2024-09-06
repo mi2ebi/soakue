@@ -30,10 +30,12 @@ function search(q) {
             }
             if (["body", ""].includes(t.op)) {
                 pass[i] = true;
-                const v = t.v.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-                if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(entry.body)) {
+                const v = normalize(t.v).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+                if (RegExp(`▯ ?(is|are)( a)? ${v}`, "iu").test(normalize(entry.body))) {
+                    score = 3.2;
+                } else if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(normalize(entry.body))) {
                     score = 3.1;
-                } else if (entry.body.includes(t.v)) {
+                } else if (normalize(entry.body).includes(normalize(t.v))) {
                     score = 3;
                 } else {
                     pass[i] = false;
@@ -42,7 +44,7 @@ function search(q) {
             }
             if (!t.op) {
                 pass[i] = true;
-                if (entry.notes.some(n => n.content.includes(t.v))) {
+                if (entry.notes.some(n => normalize(n.content).includes(normalize(t.v)))) {
                     score = 2;
                 } else if (normalize(entry.head).startsWith(normalize(t.v))) {
                     score = 1.1;
