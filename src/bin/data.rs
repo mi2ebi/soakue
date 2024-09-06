@@ -1,15 +1,19 @@
-use chrono::{TimeDelta, Utc};
+use chrono::Utc;
 use humantime::format_duration;
 use itertools::Itertools;
 use regex::bytes::{Regex, RegexBuilder};
 use reqwest::blocking::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
-use std::{fs, sync::LazyLock, time::Duration};
+use std::{
+    fs,
+    sync::LazyLock,
+    time::{Duration, Instant},
+};
 use unicode_normalization::UnicodeNormalization;
 
 fn main() {
-    let start = Utc::now();
+    let start = Instant::now();
     let client = Client::builder()
         .timeout(Duration::from_secs(60))
         .build()
@@ -17,30 +21,25 @@ fn main() {
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
     let mut old = r#"{"results":[]}"#.to_string();
     let (mut dict, mut dict_str, mut res);
-    while {
+    loop {
         res = client
             .post("https://toadua.uakci.space/api")
             .body(query.clone())
             .send();
         dict = dictify(&old);
         dict_str = to_string(&dict).unwrap();
-        res.is_err()
+        if (res.is_err()
             || !res.as_ref().unwrap().status().is_success()
-            || Utc::now().time() - start.time() < TimeDelta::seconds(6 * 3600 - 2 * 60)
-            || old.starts_with("<")
-            || dict_str == "[]"
-        // 'keep checking toadua until it breaks or more than 6 hours have passed'
-    } {
+            || start.elapsed() >= Duration::from_secs(6 * 3600 - 2 * 60))
+            && !old.starts_with("<")
+            && dict_str != "[]"
+        {
+            break;
+        }
         old = res.unwrap().text().unwrap();
-        println!(
-            "{}",
-            format_duration((Utc::now().time() - start.time()).to_std().unwrap())
-        );
+        println!("{}", format_duration(start.elapsed()));
     }
-    println!(
-        "{} - end",
-        format_duration((Utc::now().time() - start.time()).to_std().unwrap())
-    );
+    println!("{} - end", format_duration(start.elapsed()));
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
     fs::write(
         "data/all.txt",
