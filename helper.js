@@ -51,7 +51,7 @@ function replaceLinks(str) {
     // ugh why isn't /u a default regex flag
     var bits = str
     .replace(/\*\*/g, "📦")
-    .replace(/https:\/\/([a-z0-9./#%?=&_:()'-]+)/giu, "🌐$1🌐")
+    .replace(/https?:\/\/([a-z0-9./#%?=&_:()'-]+)/giu, "🌐$1🌐")
     .replace(/(?<!🌐[^ ]*)#([a-z0-9_-]{9,})(?=[^a-z0-9_-]|$)/giu, "🆔$1🆔")
     .replace(/<((?![/ ])[^>]+(?<! ))>(?!.+<\/\1>)/giu, "📎$1📎")
     .split(/(?=[📦🆔🌐📎])/u);
