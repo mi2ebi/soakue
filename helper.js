@@ -57,7 +57,7 @@ function replaceLinks(str) {
     .split(/(?=[📦🆔🌐📎])/u);
     for (var i = 0; i < bits.length; i++) {
         if (i == 0) continue;
-        if ([...bits[i]][0] === [...bits[i-1]][0] && "📦🆔🌐📎".includes([...bits[i]][0])) {
+        if ([...bits[i]][0] === [...bits[i - 1]][0] && "📦🆔🌐📎".includes([...bits[i]][0])) {
             bits[i] = bits[i].replace(/^[📦🆔🌐📎]/u, "");
             var hrefprefix = bits[i - 1].startsWith("📦") ? "?q=%3D" : bits[i - 1].startsWith("🆔") ? "?q=%23" : bits[i - 1].startsWith("📎") ? "?q=" : "https://";
             var textprefix = bits[i - 1].startsWith("📦") || bits[i - 1].startsWith("📎") ? "" : bits[i - 1].startsWith("🆔") ? "#" : "https://";
