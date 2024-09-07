@@ -15,7 +15,7 @@ use unicode_normalization::UnicodeNormalization;
 fn main() {
     let start = Instant::now();
     let client = Client::builder()
-        .timeout(Duration::from_secs(60))
+        .timeout(Duration::from_secs(6 * 3600 - 2 * 60))
         .build()
         .unwrap();
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
