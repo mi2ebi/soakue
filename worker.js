@@ -19,7 +19,7 @@ function search(q) {
                 pass[i] = true;
                 if (normalize(entry.head) == normalize(t.v)) {
                     score = 4.2;
-                } else if (compareish(normalizeToneless(t.v), normalizeToneless(entry.head))) {
+                } else if (!t.op && compareish(normalizeToneless(t.v), normalizeToneless(entry.head))) {
                     score = 4.1;
                 } else if (t.op && compareish(t.v, entry.head)) {
                     score = 4;
@@ -69,6 +69,7 @@ function normalizeToneless(w) {
 function normalize(w) {
     return w.normalize("NFD").toLowerCase().replace(/i/g, "ı").replace(/[vwy]/g, "ꝡ");
 }
+// todo: make è match è and e (currently only matches è)
 function compareish(a, b) {
     a = normalize(a);
     b = normalize(b);

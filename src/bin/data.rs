@@ -39,7 +39,16 @@ fn main() {
         old = res.unwrap().text().unwrap();
         println!("{}", format_duration(start.elapsed()));
     }
-    println!("{} - end", format_duration(start.elapsed()));
+    println!(
+        "{}",
+        if res.is_err() {
+            "could not send request".to_string()
+        } else if !res.as_ref().unwrap().status().is_success() {
+            format!("api returned a status code of {}", res.unwrap().status())
+        } else {
+            "yay it went 6 hours without breaking".to_string()
+        }
+    );
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
     fs::write(
         "data/all.txt",
