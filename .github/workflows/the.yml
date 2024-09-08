@@ -3,8 +3,8 @@ permissions:
   contents: write
 on:
   workflow_dispatch:
-  repository_dispatch:
-    types: [run-scheduled-trigger]
+  schedule:
+    - cron: 0 0 * * * 
 
 jobs:
   the:
@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
       - name: the
-        run: cargo run --bin data --release
+        run: cargo run --bin data --release; cargo run --bin noto --release
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: update
