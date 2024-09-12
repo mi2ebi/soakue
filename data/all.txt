@@ -2611,6 +2611,7 @@ cıuchıa
 cıudoe
 cıufa
 cıufua
+cıufuq
 cıugıq
 cıukıoq
 cıukuaı
@@ -3444,7 +3445,9 @@ chıaıretao
 chıaıruaq
 chıaısı
 chıaısı
+chıaısı
 Chıaısı súq ba
+chıaısıcıa
 chıaısıcıa
 chıaısıtao
 chıaıtao
@@ -3573,6 +3576,7 @@ chıelo
 chıeluı
 chıeme
 chıemegaq
+chıemıa
 chıenıq
 chıenoı
 chıenue
@@ -5326,6 +5330,7 @@ dıyq
 do
 do
 do
+do
 Do jí nháo súshı.
 Do súq náqpıa jıbo ní ba.
 doa
@@ -6265,6 +6270,7 @@ fa
 fa
 fa
 fa
+fa
 fa-
 Fa déo chíejıo ba.
 Fa íme sá kıqjıo ba.
@@ -6453,6 +6459,7 @@ faosıa
 faosıa
 faosha
 faotao
+faote
 faotoa
 faotua
 faq
@@ -6633,6 +6640,7 @@ feleteı
 fem
 femıtom
 fenuaıpeq
+fenuım
 fenuım
 fenusı
 feo
@@ -6988,6 +6996,7 @@ fueıruo
 fuepaq
 fuepue
 fueq
+fueqcaı
 fueqcıa
 fueqfueq
 fueqfuo
@@ -7913,6 +7922,7 @@ gıqpoaqzıu
 gıqseu
 gıqsıo
 gıqshoe
+gıqtanı
 gıqtao
 gıqtı
 gıqtısha
@@ -11457,7 +11467,7 @@ jı
 jı
 jı
 jı
-jı
+jí
 jí
 jí
 jí
@@ -11675,6 +11685,7 @@ jıaqsha
 jıaqtu
 jıaqtu
 jıaqꝡa
+jıarao
 jıaruaq
 jıasa
 jıasıa
@@ -12699,6 +12710,7 @@ kaı
 kaı
 kaı
 kaı
+kaı
 Kaı súq áqbo chua ba.
 Kaı súq chúa aqbo ba.
 Kaı súq sa dıaı gı kuqtoaı ba.
@@ -12748,6 +12760,7 @@ kaıpıo
 kaıpume
 kaırıoq
 kaırıoqme
+kaırom
 kaıse
 kaıse
 kaısebe
@@ -13074,6 +13087,7 @@ kary
 Kasakazu
 kası
 kası
+kasıaq
 kasıchuo
 kasuarı
 kasha
@@ -13696,6 +13710,8 @@ Kırıbatıgua
 kırıcojıu
 kırıcokoko
 kırıkuatom
+kırıpırı
+kırıpırıca
 kırıso
 kırısochuaq
 kırısochuaqkue
@@ -14058,6 +14074,7 @@ kuabue
 kuabue
 kuabuejıo
 kuachoa
+kuaı
 kuaı
 kuaı
 kuaı
@@ -15313,9 +15330,11 @@ lıemu
 lıeq
 lıeq
 lıeqgoa
+lıeqkuoq
 lıeqlaı
 lıeqnua
 lıeqtao
+lıeqteıkuoq
 lıeruıq
 lıese
 lıesıao
@@ -16744,6 +16763,7 @@ marahako
 maramelo
 marao
 marao
+maraotoaı
 marapaı
 mararujı
 Maratızu
@@ -17311,6 +17331,7 @@ mıeshea
 mıeshı
 mıesho
 mıetao
+mıetaodam
 mıetıaı
 mıetıeq
 mıetoaı
@@ -18587,6 +18608,7 @@ naojıu
 naokaıchuo
 naokeq
 naokıbu
+naoku
 naokua
 naokua
 naokua
@@ -19433,6 +19455,7 @@ nísıe
 nısıme
 nısıne
 nısıtıaı
+nısha
 nıtı
 nıtırao
 nıto
@@ -20906,6 +20929,7 @@ peso'aı
 pesofuq
 pesojıeq
 pesojoq
+pesokuoq
 pesopıu
 pesoq
 pesoreq
@@ -21946,6 +21970,7 @@ puqdeu
 puqdı
 puqgaıno
 puqho
+puqhueq
 puqja
 puqjı
 puqjı
@@ -21956,7 +21981,6 @@ puqmeame
 puqmuı
 puqneoqsuq
 puqnuadeq
-puqrem
 puqsı
 puqsuq
 puqtıq
@@ -21965,6 +21989,7 @@ puqtoe
 puqtoeq
 puqtoq
 puqzuchıeq
+purao
 purımy
 purune
 puruq
@@ -24057,6 +24082,7 @@ Sıaoreılıa
 sıaorıaq
 sıaorıu
 sıaosuao
+sıaote
 sıaotoa
 sıaotu
 sıapeı
@@ -24979,7 +25005,7 @@ suq
 suq
 suq
 suq
-suq
+súq
 súq
 súq
 súq
@@ -25943,6 +25969,7 @@ shua
 shua
 shua
 shua
+shua
 Shua jí da.
 Shua múao bộtao jí.
 Shua ní bıo kùı shâı jıaı jí bóu da.
@@ -26087,6 +26114,7 @@ shuıfa
 shuıfaı
 shuıgıq
 shuıgıqkuq
+shuıha
 shuıhaqshuo
 shuıhıeq
 shuıhuoı
@@ -26653,6 +26681,8 @@ teıgaı
 teıge
 teıgıaıchuo
 teıgıu
+teıgıu
+teıhueq
 teıjeq
 teıjom
 teıkuaq
@@ -26680,6 +26710,7 @@ teıteı
 teıtıao
 teıtoaı
 teıtoaı
+teıtoq
 teıtue
 teızıu
 Tẹkaqgaı ní nueq da.
@@ -28613,6 +28644,7 @@ uzıu
 ꝡáı
 ꝡaılı
 ꝡajao
+ꝡajı
 ꝡalaı
 ꝡalaqteı
 ꝡam
