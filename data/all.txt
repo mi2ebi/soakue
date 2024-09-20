@@ -623,6 +623,7 @@ Bao báq peq, rú kuo báq pıo da.
 Bao péq na, ru kuo pío da.
 Bao péq, rú kuo pío da.
 baobao
+baobao
 baobego
 baobeq
 baochoa
@@ -874,6 +875,7 @@ beo
 beo
 beo
 beo zuchoq
+beobeo
 beocaı
 beocıa
 beocha
@@ -1960,6 +1962,7 @@ buoqruaq
 buoqse
 buoqtoa
 buotao
+buotıaq
 Bupuıpoqduarıaq
 buq
 buq
@@ -2290,6 +2293,7 @@ caq
 caq
 caq
 caq
+caqbeq
 caqbo
 caqcıa
 caqche
@@ -4898,6 +4902,7 @@ de
 de
 de
 de
+de-
 De ké shatı po nháo da.
 De ké shatı po súq da.
 De ní fuaq da.
@@ -6121,6 +6126,7 @@ edıa
 eduı
 efue
 ege
+egebu
 ego
 ëgo
 ehe
@@ -6426,7 +6432,6 @@ faıneme
 faınhoa
 faınhuo
 faıpoq
-faıpy
 faıraq
 faırıoq
 faıteı
@@ -6545,8 +6550,10 @@ faseo
 faseodashı
 faseodashı
 fası
+fası
 fasıao
 fasıe
+fasına
 fasıu
 fashaı
 fashaıchuo
@@ -6868,6 +6875,7 @@ fıu
 fıu'ıq
 fıugıu
 fıugu
+fıula
 fıunuo
 fıuq
 fıuqpaq
@@ -8107,6 +8115,7 @@ gobaq
 gobesaı
 gochıq
 gochıqmıqte
+gochujaq
 godeoq
 godo
 godoı
@@ -8615,6 +8624,7 @@ Guobe ní.
 Guobe ní. Ꝡa chuq hó báq poıba.
 guobenoaı
 guobenueq
+guobeze
 guobo
 guobo
 guobo'ıq
@@ -8679,7 +8689,6 @@ gupulıao
 gupuloha
 guputano
 guputıaı
-guq
 guq
 guq
 guq
@@ -12094,6 +12103,7 @@ joaqmı
 joarao
 joareo
 joasaq
+jocıoq
 joe
 joe
 joe
@@ -13743,6 +13753,8 @@ kıqgaı
 kıqgaı
 kıqjı
 kıqjıo
+kıqjıpoaı
+kıqjıpuo
 kıqkea
 kıqkea
 kıqluaq
@@ -14474,6 +14486,7 @@ kulu
 kuluceke
 kum
 kumı
+kumıq
 kumo
 kumocua
 kumzıu
@@ -14544,6 +14557,7 @@ kuomatu
 kuone
 kuonoqpıo
 kuonoqsaı
+kuopıpa
 kuopo
 kuoq
 kuoq
@@ -15166,6 +15180,7 @@ lemıu
 lemıu
 lemmıa
 lemoq
+lemoqse
 lemtoa
 lemuo
 lemure
@@ -15632,6 +15647,7 @@ loechoq
 loechuo
 loefa
 loefua
+loegoso
 loehaq
 loehaqchao
 loehıeqchuo
@@ -15659,6 +15675,8 @@ loepuao
 loepuaobıu
 loeq
 loeqfua
+loeqja
+loeqjueq
 loeqtoq
 loeqtoq
 loereobo
@@ -16649,11 +16667,13 @@ Maı tuq poq chéq ba.
 Maı túq poq chéq ba.
 Maı tuq req chéq ba.
 Maı túq req chéq ba.
+maıbıa
 maıceke
 maıcoeq
 maıchaı
 maıdeaı
 maıduı
+maıfaı
 maıgaq
 maıgaq
 maıgaqtue
@@ -17952,7 +17972,6 @@ moykuo
 moze
 mozıu
 mõq
-mu
 mu
 mu
 mu
@@ -19962,6 +19981,7 @@ nueqrıeqchuq
 nueqsueqseraq
 nueqshoaı
 nueqtuo
+nueqze
 nuese
 nueshaı
 nuetaı
@@ -27003,7 +27023,6 @@ Tı tú shı áq da.
 tıa
 tıa
 tıa
-tıa
 Tìa jío bı shı de meırıe da.
 Tıa sá meırıe de shı jí da.
 Tıa sa shı de meırıe jío da.
@@ -27064,6 +27083,7 @@ Tıaq kíaq jıbo da.
 tıaqduao
 tıaqge
 tıaqkeıke
+tıaqla
 Tıaqnete
 tıaqrıhı
 tıaqtaqpıo
@@ -28470,6 +28490,7 @@ tutu
 tútu
 tutulı
 tutuq
+tututoı
 tuꝡa
 tuyq
 tuze
