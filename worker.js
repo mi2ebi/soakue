@@ -7,7 +7,8 @@ function search(q) {
         return op ? {"op": (op[1]).replace(/:$/, ""), "v": op[2].toLowerCase(), "colon": /:$/.test(op[1])} : {"op": "", "v": t.toLowerCase()};
     });
     for (const entry of dict) {
-        const bonus = (entry.user == "official") ? 0.3 : (entry.user == "oldofficial" || /^(old)?(countries|examples)$/.test(entry.user)) ? -0.3 : 0;
+        var bonus = (entry.user == "official") ? 0.3 : (entry.user == "oldofficial" || /^(old)?(countries|examples)$/.test(entry.user)) ? -0.3 : 0;
+        bonus += entry.score / 20;
         var pass = Array(terms.length).fill(false);
         var score = 0;
         for (var i = 0; i < terms.length; i++) {
@@ -31,7 +32,7 @@ function search(q) {
             if (["body", ""].includes(t.op)) {
                 pass[i] = true;
                 const v = normalize(t.v).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-                if (RegExp(`▯ ?(is|are)( a)? ${v}`, "iu").test(normalize(entry.body))) {
+                if (RegExp(`▯ ?(is|are)( a)? ([^ /▯]+/)*${v}`, "iu").test(normalize(entry.body))) {
                     score = 3.2;
                 } else if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(normalize(entry.body))) {
                     score = 3.1;
