@@ -104,10 +104,15 @@
     font-display: swap;
 }
 @font-face {
+    font-family: "Noto Serif Tangut";
+    src: url("fonts/NotoSerifTangut-Regular.ttf");
+    font-display: swap;
+}
+@font-face {
     font-family: "Noto Sans CJK HK";
     src: url("fonts/NotoSansCJKhk-Regular.otf");
     font-display: swap;
 }
 :root {
-    --sans: "Noto Sans", "Noto Sans Armenian", "Noto Sans Hebrew", "Noto Sans Arabic", "Noto Sans Syriac", "Noto Sans Devanagari", "Noto Sans Bengali", "Noto Sans Tamil", "Noto Sans Grantha", "Noto Sans Thai", "Noto Sans Lao", "Noto Serif Tibetan", "Noto Sans Myanmar", "Noto Sans Georgian", "Noto Sans Khmer", "Noto Sans Mongolian", "Noto Sans Math", "Noto Sans Symbols", "Noto Sans Symbols 2", "Noto Sans Avestan", "Noto Sans Cuneiform", "Noto Sans CJK HK", ui-sans-serif, sans-serif;
+    --sans: "Noto Sans", "Noto Sans Armenian", "Noto Sans Hebrew", "Noto Sans Arabic", "Noto Sans Syriac", "Noto Sans Devanagari", "Noto Sans Bengali", "Noto Sans Tamil", "Noto Sans Grantha", "Noto Sans Thai", "Noto Sans Lao", "Noto Serif Tibetan", "Noto Sans Myanmar", "Noto Sans Georgian", "Noto Sans Khmer", "Noto Sans Mongolian", "Noto Sans Math", "Noto Sans Symbols", "Noto Sans Symbols 2", "Noto Sans Avestan", "Noto Sans Cuneiform", "Noto Serif Tangut", "Noto Sans CJK HK", ui-sans-serif, sans-serif;
 }
