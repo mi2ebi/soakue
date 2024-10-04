@@ -3,7 +3,7 @@
     transition: background-color 0.2s;
 }
 body {
-    font-family: var(--sans);
+    font-family: var(--sans), "Iosevka Toaq Aile";
     max-width: 600px;
     margin: 0 auto;
     padding: 8px;
@@ -13,7 +13,7 @@ body {
     font-size: 20px;
     padding: 4px;
     width: 300px;
-    font-family: var(--sans);
+    font-family: var(--sans), "Iosevka Toaq Aile";
     border: none;
 }
 ::placeholder, .scope {

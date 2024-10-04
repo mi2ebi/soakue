@@ -1,8 +1,18 @@
 @font-face {
-    font-family: "Iosevka Toaq";
+    font-family: "Iosevka Toaq Aile";
     src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaqAile-Regular.woff2") format(woff2);
-}@font-face {
-    font-family: "Iosevka Toaq";
+}
+@font-face {
+    font-family: "Iosevka Toaq Aile";
     src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaqAile-Bold.woff2") format(woff2);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Iosevka Toaq";
+    src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaq-Regular.woff2") format(woff2);
+}
+@font-face {
+    font-family: "Iosevka Toaq";
+    src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaq-Bold.woff2") format(woff2);
     font-weight: 700;
 }
