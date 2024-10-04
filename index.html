@@ -1,76 +1,8 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>mí soakue</title>
-        <link href="noto.css" rel="stylesheet" />
-        <link href="iosevka.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" />
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
-    </head>
-    <body>
-        <h1>mí soakue / 󱚰󱛊󱚹 󱚺󱛃󱛍󱚺󱛄󱚲󱛍󱚴</h1>
-        <p><a href="https://github.com/berrymot/soakue">github</a></p>
-        <input type="text" id="search" name="search" autocomplete="off" spellcheck="false" size="1" placeholder="chum lao jí pó tóakue" disabled />
-        <button type="reset" id="clear">sıajòaı</button>
-        <span id="len"></span>
-        <div id="res"></div>
-        <div id="bottom"></div>
-        <div id="howto">
-            <h2>about</h2>
-            <p>this updates every day. it used to update every 6 hours, but github actions scheduling is not very precise.</p>
-            <p>the fonts here are mostly in Noto, except the font for Tangut (which is by BabelStone) and the Deranı one (Iosevka modified by Laqme+Kıa).</p>
-            <h2>operators</h2>
-            <p><code>=</code> searches just the words themselves. there are a couple fancy things you can do with this <b>not yet bc they don't work lol</b>:</p>
-            <div class="indent"><p>
-                <code>*</code> matches anything (or nothing, i.e. it's <code>/.*/</code>)<br />
-                <code>?</code> matches any single letter, <code>/[aeıoumpbfntdczsrljꝡqkg'h]|[ncs]h/i</code><br />
-                <code>CVFQ</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note that <code>VV</code>&nbsp;⊋&nbsp;<code>F</code>)<br />
-                <code>R</code> matches a raku</code><br />
-                <code>_</code> matches a space<br />
-                <code>()[]|</code> work like in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern">regex</a>
-            </p></div>
-            <div class="indent"><p>
-                <code>i</code>, <code>vwy</code> → <code>ı</code>, <code>ꝡ</code><br />
-                <code>-</code> or <code>.</code> → <code>◌̣</code><br />
-                <code>234</code> → tones, + <code>1</code> → <code>◌̀</code>
-            </p></div>
-            <p><code>~</code> is similar but will also match word-internally: <code>~◌</code> = <code>=*◌*</code></p>
-            <p><code>@</code> searches word authors</p>
-            <p><code>#</code> find the word with that id</p>
-            <p><code>/</code> finds definitions with a certain number of slots</p>
-            <p><code>!</code> or <code>-</code> negate a query, e.g. <code>-@official</code></p>
-            <h2>things you can't do here</h2>
-            <p>anything that requires logging in</p>
-        </div>
-        <script src="data/toakue.js"></script>
-        <script src="helper.js"></script>
-        <script src="events.js"></script>
-        <script>
-            $`search`.removeAttribute("disabled");
-            $`search`.setAttribute("placeholder", "joaıteoq");
-            worker = new Worker("worker.js");
-            worker.addEventListener("message", function(e) {
-                res = e.data;
-                if (res.err) {
-                    $`res`.innerHTML = res.err;
-                    $`bottom`.innerHTML = "";
-                    return;
-                }
-                $`res`.innerHTML = "";
-                $`len`.innerHTML = "joaıse\u{00a0}<b>" + res.length + "</b>\u{00a0}raı";
-                page = 0;
-                load(res, page);
-                checkLength();
-            });
-            window.addEventListener("DOMContentLoaded", function(e) {
-                var par = new URLSearchParams(window.location.search);
-                var par_q = par.get("q");
-                $`search`.value = par_q;
-                dispatchSearch();
-                $`search`.focus();
-            });
-        </script>
-    </body>
-</html> 
+<!doctype html>
+<body>
+    <p>hi here's all the words</p>
+    <pre id="all"></pre>
+    <script>
+        fetch("data/all.txt").then(r => r.text()).then(t => document.getElementById("all").innerText = t).catch(e => console.log(e));
+    </script>
+</body>
