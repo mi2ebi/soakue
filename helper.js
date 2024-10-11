@@ -41,7 +41,7 @@ function htmlify(json) {
             ]),
             mkel("span", {}, replaceLinks(note.content)),
             " ",
-            mkel("span", {"className": "scope"}, [note.date.slice(0, 10)]),
+            mkel("span", {"className": "scope"}, [/^\d/.test(note.date) ? note.date.slice(0, 10) : new Date(note.date).toISOString().slice(0, 10)]),
             mkel("br", {}, [])
         ]).flat(Infinity))
     ]);
