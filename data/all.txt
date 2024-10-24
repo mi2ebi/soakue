@@ -2752,6 +2752,7 @@ com-
 comoq
 comruaq
 coq
+coqfuaq
 coqjıe
 cotoa
 cou
@@ -6827,7 +6828,6 @@ fıhoq
 fıjeı
 fıjı
 fıjı
-fıjı
 fıkuzeo
 Fılasıq
 Fılasıq
@@ -6854,7 +6854,6 @@ fısuq
 fısuq
 fıtoa
 fıtoame
-fıtu
 fıu
 fıu
 fıu'ıq
@@ -6976,15 +6975,14 @@ fuaq
 fuaq
 fuaq
 fuaq
-fuaqbo
 fuaqchue
 fuaqchuekue
 fuaqchuepaq
 fuaqdoekao
 fuaqfıeq
 fuaqfıeq
+fuaqfuom
 Fuaqguolaı
-fuaqheq
 fuaqheq
 fuaqkaı
 fuaqkaı
@@ -7074,6 +7072,7 @@ fuoja
 fuojuı
 fuoke
 fuokuaı
+fuom
 fuome
 fuoq
 fuorue
@@ -10499,6 +10498,7 @@ Iqdonesıazu
 ıqdua
 ıqfaı
 ıqfeu
+ıqfuaq
 ıqfylueqtıa
 ıqgı
 ıqgı
@@ -10513,6 +10513,7 @@ Iqdonesıazu
 ıqjao
 ıqjea
 ıqjea
+ıqjı
 ıqjı
 ıqjı
 ıqjuı
@@ -11287,7 +11288,6 @@ jeojeq
 jeojeq
 jeojeq
 jeojua
-jeojuaq
 jeojuı
 jeojuı
 jeojy
@@ -11300,7 +11300,6 @@ jeoku
 jeokuq
 jeolaı
 jeoma
-jeomao
 jeome
 jeomı
 jeomıeq
@@ -11633,6 +11632,7 @@ jıao
 jıao
 jıao'aı
 jıao'eı
+jıaobo
 jıaodeoq
 jıaodıu
 jıaodoı
@@ -12359,6 +12359,7 @@ juaotua
 juaq
 júaq
 juaq-
+juaq'ıq
 juaqjeo
 juaqru
 juase
@@ -13207,6 +13208,7 @@ keakoaı
 keakue
 keakuq
 keam
+keam-
 keameaı
 kéao
 keapoq
@@ -15258,6 +15260,8 @@ lıaıshoaı
 lıaızıu
 lıajeo
 lıakoı
+lıaleoq
+lıaleoqche
 lıam
 lıamı
 lıaneo
@@ -16091,6 +16095,7 @@ lulu
 lulu
 lulu
 lúm
+lumbo
 lumeq
 lumuı
 lumuoıhapoıjıaıhoa
@@ -16736,6 +16741,7 @@ mao
 mao
 máo
 mao-
+mao'ıq
 mao'ıq
 maodaq
 maoguı
@@ -17464,6 +17470,7 @@ mıqtekıoq
 mıqtesaı
 mıqzaı
 mıqzu
+mıqzuchuaq
 mıqzudıu
 mıqzugua
 mıraı
@@ -19151,6 +19158,7 @@ nıbatorıdaı
 nıbatorıdaı
 nıbı
 nıbo
+nıbo
 nıce
 nıce
 nıcham
@@ -19775,6 +19783,7 @@ notuqpuo
 notuqsaı
 notuqtoı
 nou
+noꝡe
 noy
 nu
 nu
@@ -20371,6 +20380,7 @@ nhubı
 nhuga
 nhukı
 nhúm
+nhumbo
 nhunı
 nhuo
 nhuoby
@@ -21415,7 +21425,6 @@ poıla
 poınu
 pojı
 pojı
-pojıao
 poka
 pokame
 poke
@@ -21447,7 +21456,6 @@ Ponazu
 ponazu
 ponazufu
 ponazupoq
-ponı
 popı
 poq
 poq
@@ -22630,6 +22638,7 @@ rıaıbetoq
 rıaıbıru
 rıaıbo
 rıaıceaq
+rıaıchaı
 rıaıhe(kea)
 rıaıhua
 rıaıhuafuq
@@ -22858,6 +22867,7 @@ ro
 ro
 ro
 ró
+ro-
 ro'aq
 roa
 roa
@@ -23629,7 +23639,6 @@ saofa
 saogeı
 saoguaı
 saoja
-saojaq
 saojaq
 saojea
 saojeaq
@@ -26999,6 +27008,8 @@ tıaıfua
 tıaıfuatıaı
 tıajeoq
 tıakoı
+tıaleoq
+tıaleoqche
 tıam
 tıao
 tıao
@@ -27498,8 +27509,6 @@ toabu
 toabuaq
 toabuı
 toabuıchıaq
-@toacıa
-@toacıa
 @toacıa
 @toacıa
 @toacıa
@@ -28271,10 +28280,12 @@ tuku
 tukuaq
 tukue
 tulı
+tulı
 túm
 tumaı
 tumao
 tume
+tumlı
 tumy
 tune
 Tunesıa
@@ -28439,6 +28450,7 @@ tutulı
 tutuq
 tututoı
 tuꝡa
+tuꝡe
 tuyq
 tuze
 tuzedıu
@@ -28535,6 +28547,7 @@ Umaq
 Umaqgua
 Umaqgua
 umarele
+umbo
 ume
 ume
 ume
