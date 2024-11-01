@@ -53,7 +53,7 @@ function search(q) {
             if (["body", ""].includes(t.op)) {
                 pass[i] = true;
                 const v = normalize(t.v).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-                if (RegExp(`▯ ?(is|are)( a)? ([^ /▯]+/)*${v}`, "iu").test(normalize(entry.body))) {
+                if (RegExp(`▯ ?(is|are)?( an?)? ([^ /▯]+/)*${v}`, "iu").test(normalize(entry.body))) {
                     score = 3.2;
                 } else if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(normalize(entry.body))) {
                     score = 3.1;
