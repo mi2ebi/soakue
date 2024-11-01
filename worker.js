@@ -13,7 +13,7 @@ function search(q) {
         var score = 0;
         for (var i = 0; i < terms.length; i++) {
             const t = terms[i];
-            if (t.colon && !["head", "body", "user", "score", "id"].includes(t.op)) {
+            if (t.colon && !["head", "body", "user", "score", "id", "scope"].includes(t.op)) {
                 return {"err": "bu jıq mıjóaıchase «<code>" + t.op + "</code>»"};
             }
             if (["#", "id"].includes(t.op)) {
@@ -38,6 +38,13 @@ function search(q) {
             }
             if (["@", "user"].includes(t.op)) {
                 if (entry.user.toLowerCase() == t.v.toLowerCase()) {
+                    pass[i] = true;
+                    score = 4;
+                    continue;
+                }
+            }
+            if (["scope"].includes(t.op)) {
+                if (entry.scope.toLowerCase() == t.v.toLowerCase()) {
                     pass[i] = true;
                     score = 4;
                     continue;
