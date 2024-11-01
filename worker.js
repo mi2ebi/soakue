@@ -4,7 +4,7 @@ function search(q) {
     var res = [];
     terms = terms.map(t => {
         var op = t.match(/^(==|[=~@#/$!-]|[a-z]*:)(.*)/);
-        return op ? {"op": (op[1]).replace(/:$/, ""), "v": op[2].toLowerCase(), "colon": /:$/.test(op[1])} : {"op": "", "v": t.toLowerCase()};
+        return op ? {"op": (op[1]).replace(/:$/, ""), "orig": op[2], "v": op[2].toLowerCase(), "colon": /:$/.test(op[1])} : {"op": "", "orig": t, "v": t.toLowerCase()};
     });
     for (const entry of dict) {
         var bonus = (entry.user == "official") ? 0.3 : (entry.user == "oldofficial" || /^(old)?(countries|examples)$/.test(entry.user)) ? -0.3 : 0;
@@ -13,21 +13,35 @@ function search(q) {
         var score = 0;
         for (var i = 0; i < terms.length; i++) {
             const t = terms[i];
-            if (t.colon && !["head", "body", "score"].includes(t.op)) {
+            if (t.colon && !["head", "body", "user", "score", "id"].includes(t.op)) {
                 return {"err": "bu jıq mí «<code>" + t.op + "</code>»"};
+            }
+            if (["#", "id"].includes(t.op)) {
+                if (entry.id == t.orig) {
+                    pass[i] = true;
+                    score = 6;
+                    continue;
+                }
             }
             if (["=", "head", ""].includes(t.op)) {
                 pass[i] = true;
                 if (normalize(entry.head) == normalize(t.v)) {
-                    score = 4.2;
+                    score = 5.2;
                 } else if (!t.op && compareish(normalizeToneless(t.v), normalizeToneless(entry.head))) {
-                    score = 4.1;
+                    score = 5.1;
                 } else if (t.op && compareish(t.v, entry.head)) {
-                    score = 4;
+                    score = 5;
                 } else {
                     pass[i] = false;
                 }
                 if (pass[i]) {continue;}
+            }
+            if (["@", "user"].includes(t.op)) {
+                if (entry.user.toLowerCase() == t.v.toLowerCase()) {
+                    pass[i] = true;
+                    score = 4;
+                    continue;
+                }
             }
             if (["body", ""].includes(t.op)) {
                 pass[i] = true;
