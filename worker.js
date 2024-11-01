@@ -14,7 +14,7 @@ function search(q) {
         for (var i = 0; i < terms.length; i++) {
             const t = terms[i];
             if (t.colon && !["head", "body", "user", "score", "id"].includes(t.op)) {
-                return {"err": "bu jıq mí «<code>" + t.op + "</code>»"};
+                return {"err": "bu jıq mıjóaıchase «<code>" + t.op + "</code>»"};
             }
             if (["#", "id"].includes(t.op)) {
                 if (entry.id == t.orig) {
