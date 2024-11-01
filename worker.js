@@ -84,11 +84,16 @@ function normalizeToneless(w) {
 function normalize(w) {
     return w.normalize("NFD").toLowerCase().replace(/i/g, "ı").replace(/[vwy]/g, "ꝡ");
 }
-// todo: make è match è and e (currently only matches è)
+// todo: make a = è match b = è and b = e without any tone (currently only matches b = è)
+// todo: make a = naXbıe NOT match b = nạ́bıe (currently it matches regardless of what character X is)
+// todo: make a = nabie match b = nạ́bıe
 function compareish(a, b) {
     a = normalize(a);
     b = normalize(b);
     for (var i = 0, j = 0; i < (a.length >= b.length ? a : b).length; i++, j++) {
+        if (i == a.length && b[j] == "-") {
+            continue;
+        }
         if (!isTone(a[i]) && isTone(b[j]) && a[i - 1] == b[j - 1]) {
             i--; continue;
         }
