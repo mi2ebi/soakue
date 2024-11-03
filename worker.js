@@ -89,7 +89,7 @@ function normalizeToneless(w) {
     return [...normalize(w)].filter(c => !isTone(c)).join("");
 }
 function normalize(w) {
-    return w.normalize("NFD").toLowerCase().replace(/i/g, "ı").replace(/[vwy]/g, "ꝡ");
+    return w.normalize("NFD").toLowerCase().replace(/i/g, "ı").replace(/[vwy]/g, "ꝡ").replace(/[x‘’]/g, "'");
 }
 // todo: make a = è match b = è and b = e without any tone (currently only matches b = è)
 // todo: make a = naXbıe NOT match b = nạ́bıe (currently it matches regardless of what character X is)
