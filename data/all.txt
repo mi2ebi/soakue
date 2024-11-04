@@ -2920,6 +2920,8 @@ cuenım
 cueq
 cueqcheaq
 cueqdeoq
+cueqha
+cueqhe
 cueqsoaq
 cueqsuım
 cueqshuo
@@ -6009,6 +6011,7 @@ dukuı
 dula
 duna
 dunafuom
+dunarıeq
 duo
 duo
 duo
@@ -6028,8 +6031,10 @@ duofey
 duogoı
 duohuame
 duoı
+duoıfaı
 duoıjao
 duoıjuı
+duoıleı
 duoısa
 duoısıa
 duoıshe
@@ -7286,6 +7291,7 @@ gaıjuq
 gaıjuqmoe
 gaıkaruaq
 gaıkea
+gaıkea
 gaıkıu
 gaıkıubu
 gaıkoy
@@ -8479,6 +8485,7 @@ guaqtoe
 guaqtoq
 guaqzeo
 guaqzu
+guaqzuom
 guarıe
 guaseachaq
 Guaseachaq baq jıuchaq mı Bashıqtoq
@@ -9492,6 +9499,7 @@ hıaoce
 hıaocıa
 hıaocıa
 hıaocıasıo
+hıaocha
 hıaochuo
 hıaodaı
 hıaodaımoe
@@ -9860,6 +9868,7 @@ hoaqrıo
 hoaqrıo
 hoaqshuao
 hoaqtue
+hoaqzuom
 hoaraı
 hobı
 hobıche
@@ -10662,6 +10671,7 @@ Iranıgua
 ırıdı
 ırıja
 ırıtoa
+ıroha
 ırue
 ırue
 ırue
@@ -11764,6 +11774,7 @@ jıaqsha
 jıaqtu
 jıaqtu
 jıaqꝡa
+jıaqzuom
 jıarao
 jıaruaq
 jıasa
@@ -11772,6 +11783,7 @@ jıashao
 jıashao
 jıataı
 jıatao
+jıaꝡaı
 jıazoaımeo
 jıba
 jıbı
@@ -13098,6 +13110,7 @@ kaqlagaı
 kaqlugaı
 kaqluq
 kaqma
+kaqme
 kaqmoaq
 kaqmuoı
 Kaqnadazu
@@ -15332,12 +15345,14 @@ leubeq
 leubeqmıa
 leuq
 leuqboe
+leuqcueq
 leuqde
 leuqdoaq
 leuqjue
 leuqpaı
 leuqpoq
 leuqreo
+leuqshuı
 leusho
 lezı
 lezurom
@@ -15821,9 +15836,11 @@ lojızu
 lolaqteı
 lom
 loma
+lomcha
 lomde
 lomja
 lomjafuaı
+lomkıu
 lomlıem
 lomluq
 lommoe
@@ -17120,6 +17137,7 @@ meırıe
 Meırıe de sá shı tîa jío da.
 meısala
 meısao
+meızuom
 meje
 mejeo
 mejeo
@@ -17961,7 +17979,6 @@ moıse
 moıse
 moısea
 moıseakuaı
-moısebıa
 moısı
 moısı
 moısı bâq gochıq
@@ -20593,6 +20610,7 @@ obe
 obelaı
 obo
 oboa
+obozuom
 ocara
 ocı
 ocıjeq
@@ -22040,6 +22058,7 @@ puebeq
 puebeqgea
 puebıo
 puebıu
+puebu
 puecea
 pueceaq
 puecıoq
@@ -22954,6 +22973,7 @@ rıomy
 rıonao
 rıonaomaı
 rıopeo
+rıopı
 rıopıe
 rıopuo
 rıoq
@@ -23551,6 +23571,7 @@ ruqshuanaı
 ruqtıe
 ruqtoaı
 ruqtue
+ruqzuom
 rurabu
 rurao
 rurı
@@ -24801,6 +24822,7 @@ soıtaı
 soıtaı
 soıteı
 soıtue
+soızuom
 sojı
 soju
 soka
@@ -25063,6 +25085,7 @@ subutu
 sudachızeo
 sudo
 sudo
+suduq
 sue
 sue
 sue
@@ -26396,6 +26419,7 @@ shuıfaı
 shuıgıqkuq
 shuıha
 shuıhaqshuo
+shuıhe
 shuıhıeq
 shuıhuoı
 shuıja
@@ -26632,6 +26656,7 @@ Taochı jí, ꝡä chuq ra nuo já.
 taochıe
 taochıfea
 taochımoaqshaı
+taochımoı
 taochıshaı
 taocho
 Taocho chuq sa geo poq baq guı da.
@@ -27938,6 +27963,7 @@ toateoqme
 toatoaı
 toatuq
 toatuqjeq
+toazana
 tobı
 tobıq
 Tobuchuq
@@ -29558,6 +29584,7 @@ zuoı
 zuoıcaq
 zuoıfeqchuoı
 zuoluoq
+zuom
 zuomıa
 zuomuo
 zuonoı
