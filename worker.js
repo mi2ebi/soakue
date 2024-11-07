@@ -107,11 +107,15 @@ function normalizeToneless(w) {
     return [...normalize(w)].filter(c => !isTone(c)).join("");
 }
 function normalize(w) {
-    return w.normalize("NFD").toLowerCase().replace(/i/g, "ı").replace(/[vwy]/g, "ꝡ").replace(/[x‘’]/g, "'");
+    return w.normalize("NFD")
+    .toLowerCase()
+    .replace(/i/g, "ı")
+    .replace(/[vwy]/g, "ꝡ")
+    .replace(/[x‘’]/g, "'")
+    .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323")
+    ;
 }
-// todo: make a = è match b = è and b = e without any tone (currently only matches b = è)
-// todo: make a = naXbıe NOT match b = nạ́bıe (currently it matches regardless of what character X is)
-// todo: make a = nabie match b = nạ́bıe
+// todo: make a = nạbie match b = nạ́bıe
 function compareish(a, b) {
     a = normalize(a);
     b = normalize(b);
@@ -120,7 +124,11 @@ function compareish(a, b) {
             continue;
         }
         if (!isTone(a[i]) && isTone(b[j]) && a[i - 1] == b[j - 1]) {
-            i--; continue;
+            if (j + 1 < b.length && isTone(b[j + 1])) {
+                j++;
+            }
+            i--; 
+            continue;
         }
         if (a[i] != b[j] && isTone(a[i]) == isTone(b[j])) {
             return false;
