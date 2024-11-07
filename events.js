@@ -27,7 +27,6 @@ $`search`.addEventListener("input", function() {
     q = $`search`.value.trim();
     res = null;
     clearRes();
-    // todo: handle `=` + tones/ıꝡ here rather than in `worker.js`
     redirect();
     $`bottom`.innerHTML = "chum lao jí pó jóaıse"
     timer = setTimeout(function() {
