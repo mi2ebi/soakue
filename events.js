@@ -44,6 +44,13 @@ $`clear`.addEventListener("click", function() {
     $`search`.focus();
     dispatchSearch();
 });
+$`english`.addEventListener("click", function() {
+    $`search`.value = $`search`.value.split(" ").filter(t => !/^([!:]|not:)*scope:/.test(t)).join(" ").trim();
+    if (!$`search`.value.split(" ").includes("scope:en")) {
+        $`search`.value += " scope:en";
+        dispatchSearch();
+    }
+});
 function dispatchSearch() {
     $`search`.dispatchEvent(new Event("input", {"bubbles": true}));
 }

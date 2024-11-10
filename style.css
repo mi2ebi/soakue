@@ -8,6 +8,10 @@ body {
     margin: 0 auto;
     padding: 8px;
     background-color: #ededfc; /* 95 .02 288 */
+    word-break: break-word;
+}
+#btns, #len {
+    white-space: nowrap;
 }
 #search {
     font-size: 20px;
@@ -15,6 +19,7 @@ body {
     width: 300px;
     font-family: var(--sans), "Iosevka Toaq Aile";
     border: none;
+    margin-bottom: 4px;
 }
 ::placeholder, .scope {
     opacity: 1;

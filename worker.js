@@ -6,7 +6,6 @@ function search(q) {
         var op = t.match(/^(==|[=~@#/$!-]|[a-z]*:)(.*)/);
         return op ? {"op": (op[1]).replace(/:$/, ""), "orig": op[2], "v": op[2].toLowerCase(), "colon": /:$/.test(op[1])} : {"op": "", "orig": t, "v": t.toLowerCase()};
     });
-    console.log(terms);
     var excl = Array(terms.length);
     for (var i = 0; i < terms.length; i++) {
         excl[i] = ["!", "-", "not"].includes(terms[i].op);
@@ -15,7 +14,7 @@ function search(q) {
             if (no.err) {
                 return no;
             }
-            excl[i] = no.map(e => {console.log(e[0].id); return e[0].id})
+            excl[i] = no.map(e => e[0].id);
         } else {excl[i] = [];}
     }
     excl = new Set(excl.flat());
