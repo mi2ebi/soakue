@@ -45,12 +45,11 @@ $`clear`.addEventListener("click", function() {
     dispatchSearch();
 });
 $`english`.addEventListener("click", function() {
-    $`search`.value = $`search`.value.split(" ").filter(t => !/^([!:]|not:)*scope:/.test(t)).join(" ").trim();
-    if (!$`search`.value.split(" ").includes("scope:en")) {
-        $`search`.value += " scope:en";
-        $`search`.value = $`search`.value.trim();
-        dispatchSearch();
-    }
+    $`search`.value =
+    $`search`.value.split(" ")
+    .filter(t => !/^([!-]|not:)*scope:/.test(t))
+    .concat(["scope:en"]).join(" ").trim();
+    dispatchSearch();
 });
 function dispatchSearch() {
     $`search`.dispatchEvent(new Event("input", {"bubbles": true}));
