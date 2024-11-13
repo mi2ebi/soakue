@@ -116,14 +116,13 @@ function normalize(w) {
     .replace(/i/g, "ı")
     .replace(/[vwy]/g, "ꝡ")
     .replace(/[x‘’]/g, "'")
-    .replace(/_/g, " ")
     .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323")
     ;
 }
 // todo: make a = nạbie match b = nạ́bıe
 function compareish(a, b) {
-    a = normalize(a);
-    b = normalize(b);
+    a = normalize(a).replace(/_/g, " ");
+    b = normalize(b).replace(/_/g, " ");
     for (var i = 0, j = 0; i < (a.length >= b.length ? a : b).length; i++, j++) {
         if (i == a.length && b[j] == "-") {
             continue;
