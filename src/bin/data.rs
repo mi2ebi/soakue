@@ -54,20 +54,26 @@ fn dictify(the: &str) -> Vec<Toa> {
                 toa,
             )
         })
-        .filter(|(info, toa)| {
-            !([
-                "ae", "au", "ou", "nhi", "vi", "vu", "aiq", "aoq", "eiq", "oiq",
-            ]
-            .iter()
-            .any(|v| info.0.contains(v))
-                || TOO_MANY_V.is_match(info.0.as_bytes())
-                || toa.head.chars().any(|c| {
-                    !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
-                      AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
-                      .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
-                        .contains(c)
-                }))
-                || toa.body.contains("textspeak")
+        .map(|(info, toa)| {
+            (
+                info.clone(),
+                Toa {
+                    warn: ([
+                        "ae", "au", "ou", "nhi", "vi", "vu", "aiq", "aoq", "eiq", "oiq",
+                    ]
+                    .iter()
+                    .any(|v| info.0.contains(v))
+                        || TOO_MANY_V.is_match(info.0.as_bytes())
+                        || toa.head.chars().any(|c| {
+                            !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
+                              AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
+                              .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
+                                .contains(c)
+                        }))
+                        && !toa.body.contains("textspeak"),
+                    ..toa
+                },
+            )
         })
         .sorted_by_key(|(info, _)| info.clone())
         .map(|(_, toa)| toa)
@@ -179,6 +185,8 @@ struct Toa {
     notes: Vec<Note>,
     score: i32,
     scope: String,
+    #[serde(default, skip_serializing_if = "std::ops::Not::not")]
+    warn: bool,
 }
 #[derive(Deserialize, Serialize, Clone)]
 struct Note {

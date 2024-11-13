@@ -29,6 +29,7 @@ function htmlify(json) {
                 ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1")
             ]),
             " • ",
+            mkel("span", {}, json.warn ? "⚠️ " : ""),
             mkel("a", {"href": "?q=" + encodeURIComponent("#" + json.id)}, [json.date.slice(0, 10)]),
             " ",
             mkel("a", {"href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id)}, ["↗"]),
