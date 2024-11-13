@@ -3,7 +3,7 @@ function search(q) {
     var terms = q.split(" ");
     var res = [];
     terms = terms.map(t => {
-        var op = t.match(/^(==|[=~@#/$!-]|[a-z]*:)(.*)/);
+        var op = t.match(/^(==|[=~@#/$!^-]|[a-z]*:)(.*)/);
         return op ? {"op": (op[1]).replace(/:$/, ""), "orig": op[2], "v": op[2].toLowerCase(), "colon": /:$/.test(op[1])} : {"op": "", "orig": t, "v": t.toLowerCase()};
     });
     var excl = Array(terms.length);
@@ -29,6 +29,8 @@ function search(q) {
                 return {"err": "bu jıq mıjóaıchase « <code>" + t.op + "</code> »"};
             } else if (["/", "arity"].includes(t.op) && !(+t.v >= 0)) {
                 return {"err": "bu tıozıu mí « <code>" + t.v + "</code> » (kïo tıao máo kóam kı)"};
+            } else if (["^", "score"].includes(t.op) && isNaN(t.v.replace(/^=/, ""))) {
+                return {"err": "bu zıu mí « <code>" + t.v.replace(/^=/, "") + "</code> »"};
             }
             if (["!", "-", "not"].includes(t.op)) {
                 pass[i] = true;
@@ -56,16 +58,6 @@ function search(q) {
                     pass[i] = false;
                 }
                 if (pass[i]) {continue;}
-            }
-            // 4: other
-            if (
-                ["@", "user"].includes(t.op) && entry.user.toLowerCase() == t.v.toLowerCase()
-                || ["scope"].includes(t.op) && entry.scope.toLowerCase() == t.v.toLowerCase()
-                || ["/", "arity"].includes(t.op) && t.v == entry.body.split("▯").length - 1
-            ) {
-                pass[i] = true;
-                score = Math.max(score, 4);
-                continue;
             }
             // 3: body
             if (["body", ""].includes(t.op)) {
@@ -95,6 +87,17 @@ function search(q) {
                     pass[i] = false;
                 }
                 if (pass[i]) {continue;}
+            }
+            // other
+            if (
+                ["@", "user"].includes(t.op) && entry.user.toLowerCase() == t.v.toLowerCase()
+                || ["$", "scope"].includes(t.op) && entry.scope.toLowerCase() == t.v.toLowerCase()
+                || ["/", "arity"].includes(t.op) && t.v == entry.body.split("▯").length - 1
+                || ["^", "score"].includes(t.op) && (entry.score >= t.v || entry.score == t.v.replace(/^=/, ""))
+            ) {
+                pass[i] = true;
+                score = Math.max(score, 0.1);
+                continue;
             }
         }
         if (pass.reduce((a, b) => a && b) && score && !excl.has(entry.id)) res.push([entry, score + bonus]);

@@ -47,8 +47,8 @@ $`clear`.addEventListener("click", function() {
 $`english`.addEventListener("click", function() {
     $`search`.value =
     $`search`.value.split(" ")
-    .filter(t => !/^([!-]|not:)*scope:/.test(t))
-    .concat(["scope:en"]).join(" ").trim();
+    .filter(t => !/^([!-]|not:)*(\$|scope:)/.test(t))
+    .concat(["$en"]).join(" ").trim();
     $`search`.focus();
     dispatchSearch();
 });
