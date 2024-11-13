@@ -67,6 +67,7 @@ fn dictify(the: &str) -> Vec<Toa> {
                       .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
                         .contains(c)
                 }))
+                || toa.body.contains("textspeak")
         })
         .sorted_by_key(|(info, _)| info.clone())
         .map(|(_, toa)| toa)
