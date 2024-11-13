@@ -1,6 +1,6 @@
 use chrono::Utc;
 use itertools::Itertools;
-use regex::bytes::{Regex, RegexBuilder};
+use regex::bytes::Regex;
 use reqwest::blocking::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
@@ -33,6 +33,7 @@ fn main() {
 }
 
 fn dictify(the: &str) -> Vec<Toa> {
+    // static TOO_MANY_V: LazyLock<Regex> = LazyLock::new(|| Regex::new("[aeiou]{3,}").unwrap());
     from_str::<Toadua>(the)
         .unwrap()
         .results
@@ -53,6 +54,7 @@ fn dictify(the: &str) -> Vec<Toa> {
                 toa,
             )
         })
+        .filter(|(info, toa)| !["ae", "au", "ou", "nhi", "vi", "vu"].iter().any(|v| info.0.contains(v)) && !toa.head.chars().any(|c| !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}".contains(c)))
         .sorted_by_key(|(info, _)| info.clone())
         .map(|(_, toa)| toa)
         .collect_vec()
@@ -60,12 +62,7 @@ fn dictify(the: &str) -> Vec<Toa> {
 
 static DOT_TONE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new("\u{0323}([\u{0301}\u{0302}\u{0308}])").unwrap());
-static PALATAL: LazyLock<Regex> = LazyLock::new(|| {
-    RegexBuilder::new("([ncs])h")
-        .case_insensitive(true)
-        .build()
-        .unwrap()
-});
+static PALATAL: LazyLock<Regex> = LazyLock::new(|| Regex::new("([ncsNCS])[hH]").unwrap());
 const TONES: &str = "\u{0300}\u{0301}\u{0308}\u{0302}";
 const _CONSONANTS: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
 const _VOWELS: &str = "[aeiouAEIOU]";

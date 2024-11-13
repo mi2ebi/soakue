@@ -111,6 +111,7 @@ function normalize(w) {
     .replace(/i/g, "ı")
     .replace(/[vwy]/g, "ꝡ")
     .replace(/[x‘’]/g, "'")
+    .replace(/_/g, " ")
     .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323")
     ;
 }
