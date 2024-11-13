@@ -33,7 +33,7 @@ fn main() {
 }
 
 fn dictify(the: &str) -> Vec<Toa> {
-    // static TOO_MANY_V: LazyLock<Regex> = LazyLock::new(|| Regex::new("[aeiou]{3,}").unwrap());
+    static TOO_MANY_V: LazyLock<Regex> = LazyLock::new(|| Regex::new("[aeiou]{4,}").unwrap());
     from_str::<Toadua>(the)
         .unwrap()
         .results
@@ -54,7 +54,20 @@ fn dictify(the: &str) -> Vec<Toa> {
                 toa,
             )
         })
-        .filter(|(info, toa)| !["ae", "au", "ou", "nhi", "vi", "vu"].iter().any(|v| info.0.contains(v)) && !toa.head.chars().any(|c| !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}".contains(c)))
+        .filter(|(info, toa)| {
+            !([
+                "ae", "au", "ou", "nhi", "vi", "vu", "aiq", "aoq", "eiq", "oiq",
+            ]
+            .iter()
+            .any(|v| info.0.contains(v))
+                || TOO_MANY_V.is_match(info.0.as_bytes())
+                || toa.head.chars().any(|c| {
+                    !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
+                      AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
+                      .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
+                        .contains(c)
+                }))
+        })
         .sorted_by_key(|(info, _)| info.clone())
         .map(|(_, toa)| toa)
         .collect_vec()
