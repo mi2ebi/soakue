@@ -1,152 +1,202 @@
 importScripts("data/toakue.js");
+
+let escapeHTML = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+let error = (words, err) => ({ err: words.join(`« <code> ${escapeHTML(err)} </code> »`) });
+
 function search(q) {
-    var terms = q.split(" ");
-    var res = [];
-    terms = terms.map(t => {
-        var op = t.match(/^(==|[=~@#/$!^-]|[a-z]*:)(.*)/);
-        return op ? {"op": (op[1]).replace(/:$/, ""), "orig": op[2], "v": op[2].toLowerCase(), "colon": /:$/.test(op[1])} : {"op": "", "orig": t, "v": t.toLowerCase()};
+    let terms = q.split(" ");
+
+    terms = terms.map(term => {
+        let [_, operator, query] = term.match(/^(==|[=~@#/$!^-]|[a-z]*:)(.*)/) ?? [];
+        if (!operator) return { op: "", orig: term, value: term.toLowerCase() };
+
+        let colon = operator.endsWith(":");
+        operator = operator.replace(/:$/, "");
+
+        const operators = ["head", "body", "user", "score", "id", "scope", "arity", "not"];
+        if (colon && !operators.includes(operator))
+            return error`bu jıq mıjóaıchase ${operator}`;
+
+        if (["/", "arity"].includes(operator) && !/^[1-9]$/.test(query))
+            return error`bu tıozıu mí ${query} (kïo tıao máo kóam kı)`;
+
+        if (["^", "score"].includes(operator) && isNaN(query.replace(/^=/, "")))
+            return error`bu zıu mí ${query.replace(/^=/, "")}`;
+
+        if (["head", "=", "~"].includes(operator)) {
+            let regex = queryToRegex(query);
+            if (regex.err) return regex;
+        }
+
+        return {
+            op: operator,
+            orig: query,
+            value: query.toLowerCase()
+        };
     });
-    var excl = Array(terms.length);
-    for (var i = 0; i < terms.length; i++) {
-        excl[i] = ["!", "-", "not"].includes(terms[i].op);
-        if (excl[i]) {
-            const no = search(terms[i].orig);
-            if (no.err) {
-                return no;
-            }
-            excl[i] = no.map(e => e[0].id);
-        } else {excl[i] = [];}
-    }
-    excl = new Set(excl.flat());
+
+    let err = terms.find(t => t.err);
+    if (err) return err;
+
+    let excluded = terms
+        .filter(t => ["!", "-", "not"].includes(t.op))
+        .map(t => search(t.orig));
+
+    err = excluded.find(e => e.err);
+    if (err) return err;
+    excluded = new Set(excluded.flat().map(e => e[0].id));
+
+    let res = [];
     for (const entry of dict) {
-        var bonus = (entry.user == "official") ? 0.3 : (entry.user == "oldofficial" || /^(old)?(countries|examples)$/.test(entry.user)) ? -0.3 : 0;
-        bonus += entry.score / 20;
-        var pass = Array(terms.length).fill(false);
-        var score = 0;
-        for (var i = 0; i < terms.length; i++) {
-            const t = terms[i];
-            if (t.colon && !["head", "body", "user", "score", "id", "scope", "arity", "not"].includes(t.op)) {
-                return {"err": "bu jıq mıjóaıchase « <code>" + t.op + "</code> »"};
-            } else if (["/", "arity"].includes(t.op) && !(+t.v >= 0)) {
-                return {"err": "bu tıozıu mí « <code>" + t.v + "</code> » (kïo tıao máo kóam kı)"};
-            } else if (["^", "score"].includes(t.op) && isNaN(t.v.replace(/^=/, ""))) {
-                return {"err": "bu zıu mí « <code>" + t.v.replace(/^=/, "") + "</code> »"};
-            }
-            if (["!", "-", "not"].includes(t.op)) {
-                pass[i] = true;
-                score = Math.max(score, 0.1);
-                continue;
-            }
+        if (excluded.has(entry.id)) continue;
+
+        const arity = Math.max(...entry.body.split(/[;.?!]/).map(b => b.split("▯").length - 1));
+
+        // Each term is mapped to the baseline score from that term type, or undefined if it doesn't match
+
+        let scores = terms.map(({ op, orig, value }) => {
             // 6: id
-            if (["#", "id"].includes(t.op)) {
-                if (entry.id == t.orig) {
-                    pass[i] = true;
-                    score = Math.max(score, 6);
-                    continue;
-                }
-            }
+            if (["#", "id"].includes(op) && entry.id == orig) return 6;
+
             // 5: head
-            if (["=", "head", ""].includes(t.op)) {
-                pass[i] = true;
-                if (normalize(entry.head) == normalize(t.v)) {
-                    score = Math.max(score, 5.2);
-                } else if (!t.op && compareish(normalizeToneless(t.v), normalizeToneless(entry.head))) {
-                    score = Math.max(score, 5.1);
-                } else if (t.op && compareish(t.v, entry.head)) {
-                    score = Math.max(score, 5);
-                } else {
-                    pass[i] = false;
-                }
-                if (pass[i]) {continue;}
+            if (["=", "head", "~", ""].includes(op) && compareish(normalize(value), normalize(entry.head))) return 5.2;
+            if (!op && compareish(normalizeToneless(value), normalizeToneless(entry.head))) return 5.1;
+
+            // and regex matching
+            if (["=", "head", "~"].includes(op)) {
+                let regex = queryToRegex(_normalize(orig), op != '~');
+                //console.log(regex);
+                if (regex.test(normalize(entry.head))) return 5;
             }
+
             // 3: body
-            if (["body", ""].includes(t.op)) {
-                pass[i] = true;
-                const v = normalize(t.v).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-                if (RegExp(`▯ ?(is|are)?( an?)? ([^ /▯]+/)*${v}`, "iu").test(normalize(entry.body))) {
-                    score = Math.max(score, 3.2);
-                } else if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(normalize(entry.body))) {
-                    score = Math.max(score, 3.1);
-                } else if (normalize(entry.body).includes(normalize(t.v))) {
-                    score = Math.max(score, 3);
-                } else {
-                    pass[i] = false;
-                }
-                if (pass[i]) {continue;}
+            if (["body", ""].includes(op)) {
+                const v = normalize(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+                const body = normalize(entry.body);
+
+                if (RegExp(`▯ ?(is|are)?( an?)? ([^ /▯]+/)*${v}`, "iu").test(body)) return 3.2
+                if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(body)) return 3.1
+                if (body.includes(normalize(value))) return 3;
             }
+
             // 1-2: no op
-            if (!t.op) {
-                pass[i] = true;
-                if (entry.notes.some(n => normalize(n.content).includes(normalize(t.v)))) {
-                    score = Math.max(score, 2);
-                } else if (normalize(entry.head).startsWith(normalize(t.v))) {
-                    score = Math.max(score, 1.1);
-                } else if (normalizeToneless(entry.head).includes(normalizeToneless(t.v))) {
-                    score = Math.max(score, 1);
-                } else {
-                    pass[i] = false;
-                }
-                if (pass[i]) {continue;}
+            if (!op) {
+                if (entry.notes.some(n => normalize(n.content).includes(normalize(value)))) return 2;
+                if (normalize(entry.head).startsWith(normalize(value))) return 1.1;
+                if (normalizeToneless(entry.head).includes(normalizeToneless(value))) return 1;
             }
+
             // other
             if (
-                ["@", "user"].includes(t.op) && entry.user.toLowerCase() == t.v.toLowerCase()
-                || ["$", "scope"].includes(t.op) && entry.scope.toLowerCase() == t.v.toLowerCase()
-                || ["/", "arity"].includes(t.op) && t.v == entry.body.split("▯").length - 1
-                || ["^", "score"].includes(t.op) && (entry.score >= t.v || entry.score == t.v.replace(/^=/, ""))
-            ) {
-                pass[i] = true;
-                score = Math.max(score, 0.1);
-                continue;
-            }
-        }
-        if (pass.reduce((a, b) => a && b) && score && !excl.has(entry.id)) res.push([entry, score + bonus]);
+                ["@", "user"].includes(op) && entry.user.toLowerCase() == value.toLowerCase()
+                || ["$", "scope"].includes(op) && entry.scope.toLowerCase() == value.toLowerCase()
+                || ["/", "arity"].includes(op) && value == arity
+                || ["^", "score"].includes(op) && (entry.score >= value || entry.score == value.replace(/^=/, ""))
+                || ["!", "-", "not"].includes(op)
+            ) return 0.1;
+        })
+
+        if (scores.some(s => !s)) continue;
+
+        let bonus = entry.user == "official" ? 0.3 :
+            entry.user == "oldofficial" || /^(old)?(countries|examples)$/.test(entry.user) ? -0.3 : 0;
+        bonus += entry.score / 20;
+        res.push([entry, Math.max(...scores) + bonus]);
     }
     return res.sort((a, b) => b[1] - a[1]);
 }
-function isTone(c) {
-    return /^[\u0300\u0301\u0308\u0302\u0323]$/.test(c);
+
+const tones = `\u0300\u0301\u0308\u0302`;
+const underdot = `\u0323`;
+const vowels = `aeıou`;
+
+const char_match = `(.[${tones}]?${underdot}?)`;
+const vowel_match = `([${vowels}][${tones}]?${underdot}?)`;
+const init_consonants = `([mpbfntdczsrljꝡkg'h]|[ncs]h)`;
+const letter = `(${vowel_match}|${init_consonants}|q)`;
+const finals = `[mq]`;
+const dipthongs = `(aı|ao|oı|eı)`;
+
+const raku = `${init_consonants}?${vowel_match}?(${dipthongs}|${vowel_match}${finals}?)`;
+
+let substitutions = {
+    '*': '.*',
+    '?': letter,
+    'C': init_consonants,
+    'V': vowel_match,
+    'F': dipthongs,
+    'Q': finals,
+    'R': raku,
+    '_': ' ',
 }
-function normalizeToneless(w) {
-    return [...normalize(w)].filter(c => !isTone(c)).join("");
+
+// If a tone is present in the query, it's required in the word; if not present any tone(s) are allowed.
+// Underdots are dealt with separately, so query nạbie matches word nạ́bıe
+for (let vowel of vowels) {
+    substitutions[vowel] = `${vowel}[${tones}]?${underdot}?`
+    substitutions[vowel + underdot] = `${vowel}[${tones}]?${underdot}`
+    for (let tone of tones) {
+        substitutions[vowel + tone] = `${vowel}${tone}${underdot}?`
+    }
 }
-function normalize(w) {
-    return w.normalize("NFD")
-    .toLowerCase()
+
+const word_diacritic_regex = new RegExp(`(\\S+)([1234])`, "iug");
+const diacritic_tones = {
+    '1': '\u0300',
+    '2': '\u0301',
+    '3': '\u0308',
+    '4': '\u0302',
+}
+const vowel_regex = new RegExp(`${vowel_match}`, "iug");
+const underdot_regex = new RegExp(`(${raku})([\.])`, "iug");
+
+const isTone = c => /^[\u0300\u0301\u0308\u0302\u0323]$/.test(c);
+
+const normalizeToneless = w => [...normalize(w)].filter(c => !isTone(c)).join("");
+
+// for regex sarch purposes, we don't want to convert to lowercase since C/F/Q/R/V exist
+const _normalize = w => w.normalize("NFD")
     .replace(/i/g, "ı")
     .replace(/[vwy]/g, "ꝡ")
     .replace(/[x‘’]/g, "'")
     .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323")
-    ;
-}
-// todo: make a = nạbie match b = nạ́bıe
-function compareish(a, b) {
-    a = normalize(a).replace(/_/g, " ");
-    b = normalize(b).replace(/_/g, " ");
-    for (var i = 0, j = 0; i < (a.length >= b.length ? a : b).length; i++, j++) {
-        if (i == a.length && b[j] == "-") {
-            continue;
-        }
-        if (!isTone(a[i]) && isTone(b[j]) && a[i - 1] == b[j - 1]) {
-            if (j + 1 < b.length && isTone(b[j + 1])) {
-                j++;
-            }
-            i--; 
-            continue;
-        }
-        if (a[i] != b[j] && isTone(a[i]) == isTone(b[j])) {
-            return false;
-        }
-        if (isTone(a[i]) && !isTone(b[j]) && a[i - 1] == b[j - 1]) {
-            return false;
-        }
+    .replace(word_diacritic_regex, (_, word, number) =>
+        word.replace(vowel_regex, c => c + diacritic_tones[number])
+    ).replace(underdot_regex, (_, word) =>
+        word.replace(vowel_regex, c => c + underdot)
+    )
+
+const normalize = w => _normalize(w.toLowerCase())
+
+// handle prefix hyphens
+const compareish = (query, word) => query == word || query == word.replace(/-$/, "");
+
+const char_regex = new RegExp(`${char_match}`, "iug");
+const char_brackets_regex = new RegExp(`\\[${char_match}*?\\]`, "iug");
+
+// I don't know how much performance impact compiling 25000 regexes would have but better safe than sorry
+const cache = new Map();
+const queryToRegex = (query, anchored = true) => {
+    let hash = query + anchored;
+    if (cache.has(hash)) return cache.get(hash);
+    // due to [...] not being true character classes, we can't directly substitute them
+    // and instead have to turn [abc] into (a|b|c)
+    let compiled = query
+        .replace(char_brackets_regex, c => `(${c.slice(1, -1).match(char_regex)?.join("|") ?? ''})`)
+        .replace(char_regex, c => substitutions[c] ?? c)
+
+    // Rather than attempting to deal with invalid regexes manually, just let javascript barf if something goes wrong
+    // -? is added to the end to allow for prefix hyphens
+    try {
+        let regex = new RegExp(anchored ? `^${compiled}-?$` : `${compiled}-?`, "ui");
+        cache.set(hash, regex);
+        return regex;
+    } catch (e) {
+        return error`bu sekogeq mí ${query}`;
     }
-    return true;
 }
-function sort(a) {
-    return a.sort((a, b) => b[1] - a[1]);
-}
-onmessage = function(e) {
+
+onmessage = e => {
     var q = e.data.q;
     var res = search(q);
     postMessage(res);
