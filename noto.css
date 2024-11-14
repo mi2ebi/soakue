@@ -108,6 +108,7 @@
     font-family: "Noto Sans CJK HK";
     src: url("fonts/NotoSansCJKhk-Regular.otf");
     font-display: swap;
+    unicode-range: 0000-269f, 26a1-10ffff;
 }
 @font-face {
     font-family: "Tangut Yinchuan";

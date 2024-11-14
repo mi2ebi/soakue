@@ -18,10 +18,10 @@ fn main() {
     fonts.retain(|f| !["Noto Color Emoji", "Noto Serif Tangut"].contains(&f.fontname.as_str()));
     let client = Client::new();
     #[allow(clippy::single_element_loop)]
-    for (url, filename, fontname) in [(
-        "https://www.babelstone.co.uk/Fonts/Download/TangutYinchuan.ttf",
+    for (filename, fontname, url) in [(
         "TangutYinchuan.ttf",
         "Tangut Yinchuan",
+        "https://www.babelstone.co.uk/Fonts/Download/TangutYinchuan.ttf",
     )] {
         fonts.push(Font {
             filename: filename.to_string(),
@@ -40,7 +40,7 @@ fn main() {
              font-display: swap;\r\n{}}}\r\n",
             font.fontname,
             font.filename,
-            if font.fontname == "Noto Sans Symbols 2" {
+            if ["Noto Sans Symbols 2", "Noto Sans CJK HK"].contains(&font.fontname.as_str()) {
                 "    unicode-range: 0000-269f, 26a1-10ffff;\r\n"
             } else {
                 ""

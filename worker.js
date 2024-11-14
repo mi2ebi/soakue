@@ -115,16 +115,16 @@ const vowel_match = `(?:[${vowels}][${tones}]?${underdot}?)`;
 const init_consonants = `(?:[mpbfntdczsrljꝡkg'h]|[ncs]h)`;
 const letter = `(?:${vowel_match}|${init_consonants}|q)`;
 const finals = `[mq]`;
-const dipthongs = `([aeo]ı|ao)`;
+const diphthongs = `([aeo]ı|ao)`;
 
-const raku = `((?<= |^)|${init_consonants})${vowel_match}?(${dipthongs}|${vowel_match}${finals}?)`;
+const raku = `((?<= |^)|${init_consonants})${vowel_match}?(${diphthongs}|${vowel_match}${finals}?)`;
 
 let substitutions = {
     '*': '.*',
     '?': letter,
     'C': init_consonants,
     'V': vowel_match,
-    'F': dipthongs,
+    'F': diphthongs,
     'Q': finals,
     'R': raku,
     '_': ' ',
