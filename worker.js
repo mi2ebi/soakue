@@ -1,7 +1,7 @@
 importScripts("data/toakue.js");
 
 let escapeHTML = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-let error = (words, err) => ({ err: words.join(`« <code> ${escapeHTML(err)} </code> »`) });
+let error = (words, err) => ({ err: words.join(`« <code>${escapeHTML(err)}</code> »`) });
 
 function search(q) {
     let terms = q.split(" ");
@@ -17,7 +17,7 @@ function search(q) {
         if (colon && !operators.includes(operator))
             return error`bu jıq mıjóaıchase ${operator}`;
 
-        if (["/", "arity"].includes(operator) && !/^[1-9]$/.test(query))
+        if (["/", "arity"].includes(operator) && !/^[0-9]?$/.test(query))
             return error`bu tıozıu mí ${query} (kïo tıao máo kóam kı)`;
 
         if (["^", "score"].includes(operator) && isNaN(query.replace(/^=/, "")))
@@ -115,9 +115,9 @@ const vowel_match = `([${vowels}][${tones}]?${underdot}?)`;
 const init_consonants = `([mpbfntdczsrljꝡkg'h]|[ncs]h)`;
 const letter = `(${vowel_match}|${init_consonants}|q)`;
 const finals = `[mq]`;
-const dipthongs = `(aı|ao|oı|eı)`;
+const dipthongs = `([aeo]ı|ao)`;
 
-const raku = `${init_consonants}?${vowel_match}?(${dipthongs}|${vowel_match}${finals}?)`;
+const raku = `((?<= |^)|${init_consonants})${vowel_match}?(${dipthongs}|${vowel_match}${finals}?)`;
 
 let substitutions = {
     '*': '.*',
@@ -157,7 +157,7 @@ const normalizeToneless = w => [...normalize(w)].filter(c => !isTone(c)).join(""
 // for regex sarch purposes, we don't want to convert to lowercase since C/F/Q/R/V exist
 const _normalize = w => w.normalize("NFD")
     .replace(/i/g, "ı")
-    .replace(/[vwy]/g, "ꝡ")
+    .replace(/[vw]/g, "ꝡ")
     .replace(/[x‘’]/g, "'")
     .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323")
     .replace(word_diacritic_regex, (_, word, number) =>
@@ -188,7 +188,7 @@ const queryToRegex = (query, anchored = true) => {
     // Rather than attempting to deal with invalid regexes manually, just let javascript barf if something goes wrong
     // -? is added to the end to allow for prefix hyphens
     try {
-        let regex = new RegExp(anchored ? `^${compiled}-?$` : `${compiled}-?`, "ui");
+        let regex = new RegExp(anchored ? `^(${compiled})-?$` : `(${compiled})-?`, "ui");
         cache.set(hash, regex);
         return regex;
     } catch (e) {
