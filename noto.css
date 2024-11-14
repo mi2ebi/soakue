@@ -87,12 +87,12 @@
     font-family: "Noto Sans Symbols";
     src: url("fonts/NotoSansSymbols-Regular.ttf");
     font-display: swap;
-    unicode-range: 0000-269f, 26a1-10ffff;
 }
 @font-face {
     font-family: "Noto Sans Symbols 2";
     src: url("fonts/NotoSansSymbols2-Regular.ttf");
     font-display: swap;
+    unicode-range: 0000-269f, 26a1-10ffff;
 }
 @font-face {
     font-family: "Noto Sans Avestan";

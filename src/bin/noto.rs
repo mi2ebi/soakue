@@ -40,7 +40,7 @@ fn main() {
              font-display: swap;\r\n{}}}\r\n",
             font.fontname,
             font.filename,
-            if font.fontname == "Noto Sans Symbols" {
+            if font.fontname == "Noto Sans Symbols 2" {
                 "    unicode-range: 0000-269f, 26a1-10ffff;\r\n"
             } else {
                 ""
