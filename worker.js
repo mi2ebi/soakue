@@ -110,10 +110,10 @@ const tones = `\u0300\u0301\u0308\u0302`;
 const underdot = `\u0323`;
 const vowels = `aeıou`;
 
-const char_match = `(.[${tones}]?${underdot}?)`;
-const vowel_match = `([${vowels}][${tones}]?${underdot}?)`;
-const init_consonants = `([mpbfntdczsrljꝡkg'h]|[ncs]h)`;
-const letter = `(${vowel_match}|${init_consonants}|q)`;
+const char_match = `(?:.[${tones}]?${underdot}?)`;
+const vowel_match = `(?:[${vowels}][${tones}]?${underdot}?)`;
+const init_consonants = `(?:[mpbfntdczsrljꝡkg'h]|[ncs]h)`;
+const letter = `(?:${vowel_match}|${init_consonants}|q)`;
 const finals = `[mq]`;
 const dipthongs = `([aeo]ı|ao)`;
 
@@ -140,14 +140,14 @@ for (let vowel of vowels) {
     }
 }
 
-const word_diacritic_regex = new RegExp(`(\\S+)([1234])`, "iug");
+const word_diacritic_regex = new RegExp(`(${letter}+)([1234])`, "iug");
 const diacritic_tones = {
     '1': '\u0300',
     '2': '\u0301',
     '3': '\u0308',
     '4': '\u0302',
 }
-const vowel_regex = new RegExp(`${vowel_match}`, "iug");
+const vowel_regex = new RegExp(`${vowel_match}`, "iu");
 const underdot_regex = new RegExp(`(${raku})([\.])`, "iug");
 
 const isTone = c => /^[\u0300\u0301\u0308\u0302\u0323]$/.test(c);
