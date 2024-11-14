@@ -37,8 +37,14 @@ fn main() {
         fs::write(format!("fonts/{}", font.filename), font.bytes).unwrap();
         css += &format!(
             "@font-face {{\r\n    font-family: \"{}\";\r\n    src: url(\"fonts/{}\");\r\n    \
-             font-display: swap;\r\n}}\r\n",
-            font.fontname, font.filename
+             font-display: swap;\r\n{}}}\r\n",
+            font.fontname,
+            font.filename,
+            if font.fontname == "Noto Sans Symbols" {
+                "    unicode-range: 0000-269f, 26a1-10ffff;\r\n"
+            } else {
+                ""
+            }
         );
     }
     css += &format!(
