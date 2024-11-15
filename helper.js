@@ -1,4 +1,30 @@
 const $ = x => document.getElementById(x);
+
+function ipa(head) {
+    head = head.toLowerCase().normalize("NFD")
+    .replace(/[.,?!]/g, "")
+    .replace(/\u0323([\u0301\u0308\u0302])/g, "$1\u0323")
+    .replace(/ı/g, "i")
+    .replace(/([ptkc])/g, "$1ʰ")
+    .replace(/c/g, "ts")
+    .replace(/s(ʰ?)h/g, "ɕ$1")
+    .replace(/z/g, "dz")
+    .replace(/j/g, "dʑ")
+    .replace(/nh/g, "ɲ")
+    .replace(/q/g, "ŋ")
+    .replace(/'|(?:^| )([aeiou])/g, "ʔ$1")
+    .replace(/a([\u0301\u0308\u0302]?\u0323?)o/, "a$1w")
+    .replace(/([aeo][\u0301\u0308\u0302]?\u0323?)i/, "$1j")
+    .replace(/([eij][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1w")
+    .replace(/([ouw][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1j")
+    .replace(/e([iŋ])/g, "ɛ$1")
+    .replace(/i([\u0301\u0308\u0302]?\u0323?)ŋ/g, "ɪ$1ŋ")
+    .replace(/o([\u0301\u0308\u0302]?\u0323?)ŋ/g, "ɔ$1ŋ")
+    .replace(/u([\u0301\u0308\u0302]?\u0323?)ŋ/g, "ʊ$1ŋ")
+    ;
+    return `/${head}/`;
+}
+
 function mkel(tag, props, children) {
     const element = document.createElement(tag);
     Object.assign(element, props);
@@ -13,10 +39,13 @@ function htmlify(json) {
     const entry =
     mkel("div", {"className": "entry"}, [
         mkel("dt", {}, [
+            json.warn ? mkel("span", {}, "⚠\ufe0f ") : null,
             mkel("a", {
                 "className": "toa",
                 "href": "?q=" + encodeURIComponent(json.head)
             }, [json.head]),
+            " ",
+            !json.warn ? mkel("span", {"className": "scope"}, ipa(json.head)) : null,
             " • ",
             mkel("a", {
                 "className": "scope",
@@ -29,7 +58,6 @@ function htmlify(json) {
                 ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1")
             ]),
             " • ",
-            mkel("span", {}, json.warn ? "⚠\ufe0f " : ""),
             mkel("a", {"href": "?q=" + encodeURIComponent("#" + json.id)}, [json.date.slice(0, 10)]),
             " ",
             mkel("a", {"href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id)}, ["↗"]),
