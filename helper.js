@@ -16,7 +16,7 @@ function ipa(head) {
     .replace(/'|(^| )([aeiou])/g, "$1ʔ$2")
     .replace(/a([\u0301\u0308\u0302]?\u0323?)o/, "a$1w")
     .replace(/([aeo][\u0301\u0308\u0302]?\u0323?)i/, "$1j")
-    .replace(/([eij][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1w")
+    .replace(/([eɛij][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1w")
     .replace(/([ouw][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1j")
     .replace(/ɛ([aeou])/g, "e$1")
     .replace(/i([\u0301\u0308\u0302]?\u0323?)ŋ/g, "ɪ$1ŋ")
