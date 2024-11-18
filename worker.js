@@ -4,7 +4,6 @@ let escapeHTML = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/
 let error = (words, err) => ({ err: words.join(`« <code>${escapeHTML(err)}</code> »`) });
 
 function search(q) {
-    console.time("search");
     let terms = q.split(" ");
 
     terms = terms.map(term => {
@@ -107,7 +106,6 @@ function search(q) {
         bonus += entry.score / 20;
         res.push([entry, Math.max(...scores) + bonus]);
     }
-    console.timeEnd("search");
     return res.sort((a, b) => b[1] - a[1]);
 }
 
