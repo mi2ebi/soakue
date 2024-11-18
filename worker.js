@@ -154,6 +154,7 @@ const underdot_regex = new RegExp(`(${raku})([\.])`, "iug");
 
 const isTone = c => /^[\u0300\u0301\u0308\u0302\u0323]$/.test(c);
 
+// attach a cache to a function, so that it doesn't recalculate the same values
 const memoize = fn => {
     const cache = new Map();
     return (...args) => {
@@ -167,7 +168,7 @@ const memoize = fn => {
 
 const normalizeToneless = memoize(w => [...normalize(w)].filter(c => !isTone(c)).join(""));
 
-// for regex sarch purposes, we don't want to convert to lowercase since C/F/Q/R/V exist
+// for regex search purposes, we don't want to convert to lowercase since C/F/Q/R/V exist
 const normalize = memoize((w, lowercase = true) =>
     (lowercase ? w.toLowerCase() : w)
         .normalize("NFD")
@@ -176,6 +177,7 @@ const normalize = memoize((w, lowercase = true) =>
         .replace(/[x‘’]/g, "'")
         .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323"))
 
+// queries also have underdot and number replacements, which can be dealt with separately (and are somewhat expensive)
 const normalize_query = memoize((w, lowercase = true) =>
     normalize(w, lowercase).replace(word_diacritic_regex, (_, word, number) =>
         word.replace(vowel_regex, c => c + diacritic_tones[number])
