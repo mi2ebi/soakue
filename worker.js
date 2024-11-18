@@ -51,7 +51,10 @@ function search(q) {
     for (const entry of dict) {
         if (excluded.has(entry.id)) continue;
 
-        const arity = Math.max(...entry.body.split(/[;.?!]/).map(b => b.split("▯").length - 1));
+        let arities = entry.body.split(/[;.?!]/).map(b => b.split("▯").length - 1);
+        if (!arities.every(x => x == 0)) {
+            arities = arities.filter(x => x != 0);
+        }
 
         // Each term is mapped to the baseline score from that term type, or undefined if it doesn't match
 
@@ -91,7 +94,7 @@ function search(q) {
             if (
                 ["@", "user"].includes(op) && entry.user.toLowerCase() == value.toLowerCase()
                 || ["$", "scope"].includes(op) && entry.scope.toLowerCase() == value.toLowerCase()
-                || ["/", "arity"].includes(op) && value == arity
+                || ["/", "arity"].includes(op) && arities.includes(+value)
                 || ["^", "score"].includes(op) && (entry.score >= value || entry.score == value.replace(/^=/, ""))
                 || ["!", "-", "not"].includes(op)
             ) return 0.1;

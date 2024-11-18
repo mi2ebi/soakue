@@ -12,17 +12,18 @@ function ipa(head) {
     .replace(/j/g, "dʑ")
     .replace(/nh/g, "ɲ")
     .replace(/q/g, "ŋ")
-    .replace(/'|(?:^| )([aeiou])/g, "ʔ$1")
+    .replace(/e/g, "ɛ")
+    .replace(/'|(^| )([aeiou])/g, "$1ʔ$2")
     .replace(/a([\u0301\u0308\u0302]?\u0323?)o/, "a$1w")
     .replace(/([aeo][\u0301\u0308\u0302]?\u0323?)i/, "$1j")
-    .replace(/([eij][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1w")
+    .replace(/([eɛij][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1w")
     .replace(/([ouw][\u0301\u0308\u0302]?\u0323? ?)ꝡ/g, "$1j")
-    .replace(/e([iŋ])/g, "ɛ$1")
+    .replace(/ɛ([aeou])/g, "e$1")
     .replace(/i([\u0301\u0308\u0302]?\u0323?)ŋ/g, "ɪ$1ŋ")
     .replace(/o([\u0301\u0308\u0302]?\u0323?)ŋ/g, "ɔ$1ŋ")
     .replace(/u([\u0301\u0308\u0302]?\u0323?)ŋ/g, "ʊ$1ŋ")
     ;
-    return `/${head}/`;
+    return "/" + head + "/";
 }
 
 function mkel(tag, props, children) {
@@ -45,7 +46,7 @@ function htmlify(json) {
                 "href": "?q=" + encodeURIComponent(json.head)
             }, [json.head]),
             " ",
-            !json.warn ? mkel("span", {"className": "scope"}, ipa(json.head)) : null,
+            !json.warn ? mkel("span", {"className": "scope"}, [ipa(json.head)]) : null,
             " • ",
             mkel("a", {
                 "className": "scope",
