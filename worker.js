@@ -62,30 +62,30 @@ function search(q) {
             if (["#", "id"].includes(op) && entry.id == orig) return 6;
 
             // 5: head
-            if (["=", "head", "~", ""].includes(op) && compareish(normalize(value), normalize(entry.head))) return 5.2;
+            if (["=", "head", "~", ""].includes(op) && compareish(normalize_query(value), normalize(entry.head))) return 5.2;
             if (!op && compareish(normalizeToneless(value), normalizeToneless(entry.head))) return 5.1;
 
             // and regex matching
             if (["=", "head", "~"].includes(op)) {
-                let regex = queryToRegex(_normalize(orig), op != '~');
+                let regex = queryToRegex(normalize(orig, false), op != '~');
                 //console.log(regex);
                 if (regex.test(normalize(entry.head))) return 5;
             }
 
             // 3: body
             if (["body", ""].includes(op)) {
-                const v = normalize(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+                const v = normalize_query(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
                 const body = normalize(entry.body);
 
                 if (RegExp(`▯ ?(is|are)?( an?)? ([^ /▯]+/)*${v}`, "iu").test(body)) return 3.2
                 if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(body)) return 3.1
-                if (body.includes(normalize(value))) return 3;
+                if (body.includes(normalize_query(value))) return 3;
             }
 
             // 1-2: no op
             if (!op) {
-                if (entry.notes.some(n => normalize(n.content).includes(normalize(value)))) return 2;
-                if (normalize(entry.head).startsWith(normalize(value))) return 1.1;
+                if (entry.notes.some(n => normalize(n.content).includes(normalize_query(value)))) return 2;
+                if (normalize(entry.head).startsWith(normalize_query(value))) return 1.1;
                 if (normalizeToneless(entry.head).includes(normalizeToneless(value))) return 1;
             }
 
@@ -155,21 +155,36 @@ const underdot_regex = new RegExp(`(${raku})([\.])`, "iug");
 
 const isTone = c => /^[\u0300\u0301\u0308\u0302\u0323]$/.test(c);
 
-const normalizeToneless = w => [...normalize(w)].filter(c => !isTone(c)).join("");
+// attach a cache to a function, so that it doesn't recalculate the same values
+const memoize = fn => {
+    const cache = new Map();
+    return (...args) => {
+        let hash = args.join("\x00");
+        if (cache.has(hash)) return cache.get(hash);
+        let res = fn(...args);
+        cache.set(hash, res);
+        return res;
+    }
+}
 
-// for regex sarch purposes, we don't want to convert to lowercase since C/F/Q/R/V exist
-const _normalize = w => w.normalize("NFD")
-    .replace(/i/g, "ı")
-    .replace(/[vw]/g, "ꝡ")
-    .replace(/[x‘’]/g, "'")
-    .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323")
-    .replace(word_diacritic_regex, (_, word, number) =>
+const normalizeToneless = memoize(w => [...normalize(w)].filter(c => !isTone(c)).join(""));
+
+// for regex search purposes, we don't want to convert to lowercase since C/F/Q/R/V exist
+const normalize = memoize((w, lowercase = true) =>
+    (lowercase ? w.toLowerCase() : w)
+        .normalize("NFD")
+        .replace(/i/g, "ı")
+        .replace(/[vw]/g, "ꝡ")
+        .replace(/[x‘’]/g, "'")
+        .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323"))
+
+// queries also have underdot and number replacements, which can be dealt with separately (and are somewhat expensive)
+const normalize_query = memoize((w, lowercase = true) =>
+    normalize(w, lowercase).replace(word_diacritic_regex, (_, word, number) =>
         word.replace(vowel_regex, c => c + diacritic_tones[number])
     ).replace(underdot_regex, (_, word) =>
         word.replace(vowel_regex, c => c + underdot)
-    )
-
-const normalize = w => _normalize(w.toLowerCase())
+    ))
 
 // handle prefix hyphens
 const compareish = (query, word) => query == word || query == word.replace(/-$/, "");
@@ -177,11 +192,8 @@ const compareish = (query, word) => query == word || query == word.replace(/-$/,
 const char_regex = new RegExp(`${char_match}`, "iug");
 const char_brackets_regex = new RegExp(`\\[${char_match}*?\\]`, "iug");
 
-// I don't know how much performance impact compiling 25000 regexes would have but better safe than sorry
-const cache = new Map();
-const queryToRegex = (query, anchored = true) => {
-    let hash = query + anchored;
-    if (cache.has(hash)) return cache.get(hash);
+
+const queryToRegex = memoize((query, anchored = true) => {
     // due to [...] not being true character classes, we can't directly substitute them
     // and instead have to turn [abc] into (a|b|c)
     let compiled = query
@@ -192,12 +204,11 @@ const queryToRegex = (query, anchored = true) => {
     // -? is added to the end to allow for prefix hyphens
     try {
         let regex = new RegExp(anchored ? `^(${compiled})-?$` : `(${compiled})-?`, "ui");
-        cache.set(hash, regex);
         return regex;
     } catch (e) {
         return error`bu sekogeq mí ${query}`;
     }
-}
+})
 
 onmessage = e => {
     var q = e.data.q;
