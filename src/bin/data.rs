@@ -40,8 +40,12 @@ const CONSONANTS_STR: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
 const VOWELS_STR: &str = "[aeiouAEIOU]";
 // static CONSONANTS: LazyLock<Regex> = LazyLock::new(|| Regex::new(CONSONANTS_STR).unwrap());
 static VOWELS: LazyLock<Regex> = LazyLock::new(|| Regex::new(VOWELS_STR).unwrap());
-static FIND_STEM: LazyLock<Regex> =
-    LazyLock::new(|| Regex::new(&format!("\u{0323}({CONSONANTS_STR}*{VOWELS_STR})")).unwrap());
+static FIND_STEM: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(&format!(
+        "[{TONES}]?\u{0323}({VOWELS_STR}*{CONSONANTS_STR}*{VOWELS_STR})"
+    ))
+    .unwrap()
+});
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     Regex::new("^((^|[mpbfntdczsrljvkg'h ]|[ncs]ʰ)[aeiou]?([aeo]i|ao|[aeiou][qm]?)|[ .,?!()])+$")
@@ -137,8 +141,13 @@ fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {
                 )
                 .unwrap(),
             );
+        } else if !word.contains("\u{0323}") {
+            moved.push(word.to_string());
         }
         for c in word.chars() {
+            if TONES.contains(c) {
+                tone = t2n(c);
+            }
             if c == '\u{0323}' {
                 moved.push(
                     String::from_utf8(
@@ -148,10 +157,6 @@ fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {
                     )
                     .unwrap(),
                 );
-            }
-            if TONES.contains(c) {
-                tone = t2n(c);
-                moved.push(word.to_string());
             }
         }
     }
