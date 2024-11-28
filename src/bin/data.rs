@@ -32,9 +32,25 @@ fn main() {
     fs::write("data/time.txt", format!("{:?}", Utc::now())).unwrap();
 }
 
+static DOT_TONE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new("\u{0323}([\u{0301}\u{0302}\u{0308}])").unwrap());
+static PALATAL: LazyLock<Regex> = LazyLock::new(|| Regex::new("([ncsNCS])[hH]").unwrap());
+const TONES: &str = "\u{0300}\u{0301}\u{0308}\u{0302}";
+const _CONSONANTS: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
+const _VOWELS: &str = "[aeiouAEIOU]";
+// static CONSONANTS: LazyLock<Regex> = LazyLock::new(|| Regex::new(_CONSONANTS).unwrap());
+static VOWELS: LazyLock<Regex> = LazyLock::new(|| Regex::new(_VOWELS).unwrap());
+static FIND_STEM: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(&format!("\u{0323}({_CONSONANTS}*{_VOWELS})")).unwrap());
+
+static TOO_MANY_V: LazyLock<Regex> = LazyLock::new(|| Regex::new("[aeiou]{4,}").unwrap());
+static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new("^((^|[mpbfntdczsrljvkg'h ]|[ncs]ʰ)[aeiou]?([aeo]i|ao|[aeiou][qm]?)|[ .,?!()])+$")
+        .unwrap()
+});
+
 fn dictify(the: &str) -> Vec<Toa> {
-    static TOO_MANY_V: LazyLock<Regex> = LazyLock::new(|| Regex::new("[aeiou]{4,}").unwrap());
-    from_str::<Toadua>(the)
+    let out = from_str::<Toadua>(the)
         .unwrap()
         .results
         .into_iter()
@@ -63,6 +79,7 @@ fn dictify(the: &str) -> Vec<Toa> {
                     ]
                     .iter()
                     .any(|v| info.0.contains(v))
+                        || !MADE_OF_RAKU.is_match(info.0.as_bytes())
                         || TOO_MANY_V.is_match(info.0.as_bytes())
                         || toa.head.chars().any(|c| {
                             !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
@@ -70,30 +87,22 @@ fn dictify(the: &str) -> Vec<Toa> {
                               .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
                                 .contains(c)
                         }))
-                        && !toa.body.contains("textspeak"),
+                        && !toa.body.contains("textspeak")
+                        && !toa.notes.iter().any(|n| n.content.contains("textspeak")),
                     ..toa
                 },
             )
         })
         .sorted_by_key(|(info, _)| info.clone())
         .map(|(_, toa)| toa)
-        .collect_vec()
+        .collect_vec();
+    out
 }
 
-static DOT_TONE: LazyLock<Regex> =
-    LazyLock::new(|| Regex::new("\u{0323}([\u{0301}\u{0302}\u{0308}])").unwrap());
-static PALATAL: LazyLock<Regex> = LazyLock::new(|| Regex::new("([ncsNCS])[hH]").unwrap());
-const TONES: &str = "\u{0300}\u{0301}\u{0308}\u{0302}";
-const _CONSONANTS: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
-const _VOWELS: &str = "[aeiouAEIOU]";
-// static CONSONANTS: LazyLock<Regex> = LazyLock::new(|| Regex::new(_CONSONANTS).unwrap());
-static VOWELS: LazyLock<Regex> = LazyLock::new(|| Regex::new(_VOWELS).unwrap());
-static FIND_STEM: LazyLock<Regex> =
-    LazyLock::new(|| Regex::new(&format!("\u{0323}({_CONSONANTS}+{_VOWELS})")).unwrap());
 fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {
     let head = String::from_utf8(
         PALATAL
-            .replace(
+            .replace_all(
                 &DOT_TONE.replace(
                     head.nfd()
                         .to_string()
