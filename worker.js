@@ -67,7 +67,7 @@ function search(q) {
 
             // and regex matching
             if (["=", "head", "~"].includes(op)) {
-                let regex = queryToRegex(normalize(orig, false), op != '~');
+                let regex = queryToRegex(normalize_query(orig, false), op != '~');
                 //console.log(regex);
                 if (regex.test(normalize(entry.head))) return 5;
             }
