@@ -86,7 +86,8 @@ fn dictify(the: &str) -> Vec<Toa> {
                               AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
                               .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
                                 .contains(c)
-                        }))
+                        })
+                        || toa.user.starts_with("old"))
                         && !toa.body.contains("textspeak")
                         && !toa.notes.iter().any(|n| n.content.contains("textspeak")),
                     ..toa
