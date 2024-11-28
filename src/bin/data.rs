@@ -36,12 +36,12 @@ static DOT_TONE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new("\u{0323}([\u{0301}\u{0302}\u{0308}])").unwrap());
 static PALATAL: LazyLock<Regex> = LazyLock::new(|| Regex::new("([ncsNCS])[hH]").unwrap());
 const TONES: &str = "\u{0300}\u{0301}\u{0308}\u{0302}";
-const _CONSONANTS: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
-const _VOWELS: &str = "[aeiouAEIOU]";
-// static CONSONANTS: LazyLock<Regex> = LazyLock::new(|| Regex::new(_CONSONANTS).unwrap());
-static VOWELS: LazyLock<Regex> = LazyLock::new(|| Regex::new(_VOWELS).unwrap());
+const CONSONANTS_STR: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
+const VOWELS_STR: &str = "[aeiouAEIOU]";
+// static CONSONANTS: LazyLock<Regex> = LazyLock::new(|| Regex::new(CONSONANTS_STR).unwrap());
+static VOWELS: LazyLock<Regex> = LazyLock::new(|| Regex::new(VOWELS_STR).unwrap());
 static FIND_STEM: LazyLock<Regex> =
-    LazyLock::new(|| Regex::new(&format!("\u{0323}({_CONSONANTS}*{_VOWELS})")).unwrap());
+    LazyLock::new(|| Regex::new(&format!("\u{0323}({CONSONANTS_STR}*{VOWELS_STR})")).unwrap());
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     Regex::new("^((^|[mpbfntdczsrljvkg'h ]|[ncs]ʰ)[aeiou]?([aeo]i|ao|[aeiou][qm]?)|[ .,?!()])+$")
