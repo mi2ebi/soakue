@@ -43,7 +43,6 @@ static VOWELS: LazyLock<Regex> = LazyLock::new(|| Regex::new(_VOWELS).unwrap());
 static FIND_STEM: LazyLock<Regex> =
     LazyLock::new(|| Regex::new(&format!("\u{0323}({_CONSONANTS}*{_VOWELS})")).unwrap());
 
-static TOO_MANY_V: LazyLock<Regex> = LazyLock::new(|| Regex::new("[aeiou]{4,}").unwrap());
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     Regex::new("^((^|[mpbfntdczsrljvkg'h ]|[ncs]ʰ)[aeiou]?([aeo]i|ao|[aeiou][qm]?)|[ .,?!()])+$")
         .unwrap()
@@ -80,7 +79,6 @@ fn dictify(the: &str) -> Vec<Toa> {
                     .iter()
                     .any(|v| info.0.contains(v))
                         || !MADE_OF_RAKU.is_match(info.0.as_bytes())
-                        || TOO_MANY_V.is_match(info.0.as_bytes())
                         || toa.head.chars().any(|c| {
                             !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
                               AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
