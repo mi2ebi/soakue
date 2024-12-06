@@ -49,6 +49,7 @@ function htmlify(json) {
     ]);
     return entry;
 }
+
 function replaceLinks(str) {
     // ugh why isn't /u a default regex flag
     var bits = str
