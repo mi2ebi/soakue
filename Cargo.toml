@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-chrono = "0.4.38"
 humantime = "2.1.0"
 itertools = "0.13.0"
 notoize = "2.13.0"

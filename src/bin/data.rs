@@ -1,4 +1,3 @@
-use chrono::Utc;
 use itertools::Itertools;
 use regex::bytes::Regex;
 use reqwest::blocking::Client;
@@ -29,7 +28,6 @@ fn main() {
             .join("\r\n"),
     )
     .unwrap();
-    fs::write("data/time.txt", format!("{:?}", Utc::now())).unwrap();
 }
 
 static DOT_TONE: LazyLock<Regex> =
