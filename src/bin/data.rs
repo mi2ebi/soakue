@@ -76,7 +76,7 @@ fn dictify(the: &str) -> Vec<Toa> {
                 info.clone(),
                 Toa {
                     warn: ([
-                        "ae", "au", "ou", "nhi", "vi", "vu", "aiq", "aoq", "eiq", "oiq",
+                        "ae", "au", "ou", "nʰi", "vi", "vu", "aiq", "aoq", "eiq", "oiq",
                     ]
                     .iter()
                     .any(|v| info.0.contains(v))
