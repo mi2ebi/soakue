@@ -32,6 +32,7 @@ a {
     color: #1c6e80; /* 50 .08 216 */
     text-decoration: none;
     text-decoration-color: #1c6e80 !important;
+    cursor: pointer;
 }
 a:hover {
     text-decoration: solid underline;
