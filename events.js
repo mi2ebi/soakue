@@ -21,18 +21,18 @@ function navigate(q, push_state = true, is_search = false) {
     clearRes();
     if (!is_search) $`search`.value = q;
 
-    if (q == '') {
-        page = 0;
-        return
-    }
-
     let newLink = window.location.href.split("?")[0] + (q ? "?q=" + encodeURIComponent(q) : '')
     if (push_state) {
         window.history.pushState('', '', newLink)
     } else {
         window.history.replaceState('', '', newLink)
     }
-
+    
+    if (q == '') {
+        page = 0;
+        return
+    }
+    
     $`bottom`.innerHTML = "chum lao jí pó jóaıse"
     worker.postMessage({ q })
 }

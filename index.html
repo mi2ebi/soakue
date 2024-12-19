@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>mí soakue</title>
+        <link href="fonts/NotoSans-Regular.ttf" rel="preload" as="font" crossorigin />
         <link href="noto.css" rel="stylesheet" />
         <link href="iosevka.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" />
@@ -83,7 +84,7 @@
             });
             function updateFromQuery() {
                 var par = new URLSearchParams(window.location.search);
-                navigate(par.get("q"), false);
+                navigate(par.get("q") ?? "", false);
                 $`search`.focus();
             }
             window.addEventListener("DOMContentLoaded", updateFromQuery);
