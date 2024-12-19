@@ -1,6 +1,6 @@
-var worker = {"postMessage": function(a) {}};
-var page, q = "", res = [];
-window.addEventListener("scroll", function(e) {
+var worker = { postMessage() { } };
+var page, res = [];
+window.addEventListener("scroll", function (e) {
     if (window.innerHeight + window.scrollY >= document.body.scrollHeight - 100) {
         page++;
         load(res, page);
@@ -13,45 +13,47 @@ function checkLength() {
     }
 }
 function clearRes() {
+    res = null;
     [`res`, `len`, `bottom`].forEach(x => $(x).innerHTML = "");
 }
-function redirect() {
-    var v = "?";
-    if (q) v += "&q=" + encodeURIComponent(q);
-    v = v.replace(/\?&/g, "?").replace(/[?&]+$/, "");
-    window.history.pushState(null, null, window.location.href.split("?")[0] + v);
-}
-var timer;
-$`search`.addEventListener("input", function() {
-    clearTimeout(timer);
-    q = $`search`.value.trim();
-    res = null;
+
+function navigate(q, push_state = true, is_search = false) {
     clearRes();
-    redirect();
+    if (!is_search) $`search`.value = q;
+
+    if (q == '') {
+        page = 0;
+        return
+    }
+
+    let newLink = window.location.href.split("?")[0] + (q ? "?q=" + encodeURIComponent(q) : '')
+    if (push_state) {
+        window.history.pushState('', '', newLink)
+    } else {
+        window.history.replaceState('', '', newLink)
+    }
+
     $`bottom`.innerHTML = "chum lao jí pó jóaıse"
-    timer = setTimeout(function() {
-        if (q.length) {
-            worker.postMessage({"q": q})
-        } else {
-            res = null;
-            clearRes();
-            page = 0;
-        }
-    }, 100);
-});
-$`clear`.addEventListener("click", function() {
-    $`search`.value = "";
-    $`search`.focus();
-    dispatchSearch();
-});
-$`english`.addEventListener("click", function() {
-    $`search`.value =
-    $`search`.value.split(" ")
-    .filter(t => !/^([!-]|not:)*(\$|scope:)/.test(t))
-    .concat(["$en"]).join(" ").trim();
-    $`search`.focus();
-    dispatchSearch();
-});
-function dispatchSearch() {
-    $`search`.dispatchEvent(new Event("input", {"bubbles": true}));
+    worker.postMessage({ q })
 }
+
+let timer;
+$`search`.addEventListener("input", function () {
+    clearTimeout(timer);
+    clearRes();
+    timer = setTimeout(() => {
+        navigate(this.value.trim(), false, true);
+    }, 100)
+});
+$`clear`.addEventListener("click", function () {
+    $`search`.focus();
+    navigate("", false);
+});
+$`english`.addEventListener("click", function () {
+    let newQuery =
+        $`search`.value.split(" ")
+            .filter(t => !/^([!-]|not:)*(\$|scope:)/.test(t))
+            .concat(["$en"]).join(" ").trim();
+    $`search`.focus();
+    navigate(newQuery, false);
+});
