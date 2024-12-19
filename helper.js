@@ -48,15 +48,6 @@ function htmlify(json) {
         ]))
     ]);
 }
-/*
- - replace **word** with a link to said word
- - replace https://example.com with a link to said URL
- - replace #ID with a link to said ID
- - replace <stuff> with a link to the query stuff [???]
- */
-// just me trying to figure out how this works
-// i'll probably replace this with a more descriptive one once things work again
-
 
 function replaceLinks(str) {
     // ugh why isn't /u a default regex flag
