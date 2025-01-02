@@ -17,10 +17,12 @@ function clearRes() {
     [`res`, `len`, `bottom`].forEach(x => $(x).innerHTML = "");
 }
 
+let URLfromQuery = q => window.location.href.split("?")[0] + (q ? "?q=" + encodeURIComponent(q) : '')
+
 function navigate(q, push_state = true, is_search = false) {
     clearRes();
     if (!is_search) $`search`.value = q;
-    let newLink = window.location.href.split("?")[0] + (q ? "?q=" + encodeURIComponent(q) : '')
+    let newLink = URLfromQuery(q);
     if (push_state) {
         window.history.pushState('', '', newLink)
     } else {
