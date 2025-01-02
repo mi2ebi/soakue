@@ -36,10 +36,15 @@ fn main() {
     for font in fonts.clone() {
         fs::write(format!("fonts/{}", font.filename), font.bytes).unwrap();
         css += &format!(
-            "@font-face {{\r\n    font-family: \"{}\";\r\n    src: url(\"fonts/{}\");\r\n    \
-             font-display: swap;\r\n{}}}\r\n",
+            "@font-face {{\r\n    font-family: \"{}\";\r\n    src: \
+             url(\"fonts/{}\");\r\n{}{}}}\r\n",
             font.fontname,
             font.filename,
+            if font.fontname == "Noto Sans" {
+                "    font-display: swap;\r\n"
+            } else {
+                ""
+            },
             if ["Noto Sans Symbols 2", "Noto Sans CJK HK"].contains(&font.fontname.as_str()) {
                 "    unicode-range: 0000-269f, 26a1-10ffff;\r\n"
             } else {
