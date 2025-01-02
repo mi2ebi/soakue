@@ -9,34 +9,38 @@ function mkel(tag, props, children) {
     }
     return element;
 }
+
+let makeLink = (query, text = query, props = {}) => mkel("a", {
+    onclick(event) {
+        event.preventDefault();
+        navigate(query)
+    },
+    href: URLfromQuery(query),
+    ...props
+}, [text])
+
 function htmlify(json) {
     return mkel("div", {"className": "entry"}, [
         mkel("dt", {}, [
             json.warn ? mkel("span", {}, "⚠\ufe0f ") : null,
-            mkel("a", {
-                "className": "toa",
-                onclick() {navigate(json.head)}
-            }, [json.head]),
+            makeLink(json.head, json.head, {className: "toa"}),
             " • ",
-            mkel("a", {
-                "className": "scope",
-                onclick() {navigate("scope:" + json.scope)}
-            }, [json.scope]),
+            makeLink("scope:" + json.scope, json.scope, {className: "scope"}),
             " ",
-            mkel("a", {onclick() {navigate("@" + json.user)}}, [json.user]),
+            makeLink("@" + json.user, json.user),
             " ",
             mkel("span", {"className": "score"}, [
                 ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1")
             ]),
             " • ",
-            mkel("a", {onclick() {navigate("#" + json.id)}}, [json.date.slice(0, 10)]),
+            makeLink("#" + json.id, json.date.slice(0, 10)),
             " ",
             mkel("a", {"href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id)}, ["↗"]),
         ]),
         mkel("dd", {}, replaceLinks(json.body)),
         mkel("div", {"className": "notes indent"}, json.notes.flatMap(note => [
             mkel("span", {"className": "score"}, [
-                mkel("a", {onclick() {navigate("@" + note.user)}}, [note.user]),
+                makeLink("@" + note.user, note.user),
                 ": "
             ]),
             mkel("span", {}, replaceLinks(note.content)),
@@ -64,7 +68,7 @@ function replaceLinks(str) {
             return mkel("a", { href: body }, [body]);
         }
         let search = head === '📦' ? '=' + body.replace(/ /g, '|') : body;
-        return mkel("a", { onclick() { navigate(search) } }, [body]);
+        return makeLink(search, body);
     })
 }
 function load(res, page) {
