@@ -64,21 +64,17 @@
     src: url("fonts/NotoSansMongolian-Regular.ttf");
 }
 @font-face {
-    font-family: "Noto Sans Symbols";
-    src: url("fonts/NotoSansSymbols-Regular.ttf");
-}
-@font-face {
     font-family: "Noto Sans Math";
     src: url("fonts/NotoSansMath-Regular.ttf");
+}
+@font-face {
+    font-family: "Noto Sans Symbols";
+    src: url("fonts/NotoSansSymbols-Regular.ttf");
 }
 @font-face {
     font-family: "Noto Sans Symbols 2";
     src: url("fonts/NotoSansSymbols2-Regular.ttf");
     unicode-range: 0000-269f, 26a1-10ffff;
-}
-@font-face {
-    font-family: "Noto Sans Glagolitic";
-    src: url("fonts/NotoSansGlagolitic-Regular.ttf");
 }
 @font-face {
     font-family: "Noto Sans Avestan";
@@ -98,5 +94,5 @@
     src: url("fonts/TangutYinchuan.ttf");
 }
 :root {
-    --sans: "Noto Sans", "Noto Sans Armenian", "Noto Sans Hebrew", "Noto Sans Arabic", "Noto Sans Syriac", "Noto Sans Devanagari", "Noto Sans Bengali", "Noto Sans Tamil", "Noto Sans Grantha", "Noto Sans Thai", "Noto Sans Lao", "Noto Serif Tibetan", "Noto Sans Myanmar", "Noto Sans Georgian", "Noto Sans Khmer", "Noto Sans Mongolian", "Noto Sans Symbols", "Noto Sans Math", "Noto Sans Symbols 2", "Noto Sans Glagolitic", "Noto Sans Avestan", "Noto Sans Cuneiform", "Noto Sans CJK HK", "Tangut Yinchuan", ui-sans-serif, sans-serif;
+    --sans: "Noto Sans", "Noto Sans Armenian", "Noto Sans Hebrew", "Noto Sans Arabic", "Noto Sans Syriac", "Noto Sans Devanagari", "Noto Sans Bengali", "Noto Sans Tamil", "Noto Sans Grantha", "Noto Sans Thai", "Noto Sans Lao", "Noto Serif Tibetan", "Noto Sans Myanmar", "Noto Sans Georgian", "Noto Sans Khmer", "Noto Sans Mongolian", "Noto Sans Math", "Noto Sans Symbols", "Noto Sans Symbols 2", "Noto Sans Avestan", "Noto Sans Cuneiform", "Noto Sans CJK HK", "Tangut Yinchuan", ui-sans-serif, sans-serif;
 }
