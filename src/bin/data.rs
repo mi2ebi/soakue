@@ -14,7 +14,7 @@ fn main() {
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
     let res = client
         .post("https://toadua.uakci.space/api")
-        .body(query.clone())
+        .body(query)
         .send();
     let text = res.unwrap().text().unwrap();
     let dict = dictify(&text);
