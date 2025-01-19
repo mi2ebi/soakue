@@ -1,6 +1,13 @@
 importScripts("data/toakue.js");
 let escapeHTML = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 let error = (words, err) => ({ err: words.join(`« <code>${escapeHTML(err)}</code> »`) });
+const orders = {
+    default: (a, b) => b[1] - a[1],
+    random:  (a, b) => Math.random() - 0.5,
+    alpha:   (a, b) => dict.indexOf(a[0]) - dict.indexOf(b[0]),
+    newest:  (a, b) => new Date(b[0].date) - new Date(a[0].date),
+    score:   (a, b) => b[0].score - a[0].score
+}
 function search(q) {
     let terms = q.split(" ");
     terms = terms.map(term => {
@@ -8,7 +15,7 @@ function search(q) {
         if (!operator) return {op: "", orig: term, value: term.toLowerCase()};
         let colon = operator.endsWith(":");
         operator = operator.replace(/:$/, "");
-        const operators = ["head", "body", "user", "score", "id", "scope", "arity", "not"];
+        const operators = ["head", "body", "user", "score", "id", "scope", "arity", "not", "order"];
         if (colon && !operators.includes(operator))
             return error`bu jıq mıjóaıchase ${operator}`;
         if (["/", "arity"].includes(operator) && !/^[0-9]?$/.test(query))
@@ -19,12 +26,20 @@ function search(q) {
             let regex = queryToRegex(query);
             if (regex.err) return regex;
         }
+        if (operator == "order") {
+            if (terms.length == 1)
+                return {err: "sua pó méuq joaıteoq"};
+            if (!orders[query])
+                return error`bu chase suım mí ${query}`;
+        }
         return {
             op: operator,
             orig: query,
             value: query.toLowerCase()
         };
     });
+    if (terms.filter(t => t.op == "order").length > 1)
+        return error`bu daı gaoshì pó mí ${"order"}`;
     let err = terms.find(t => t.err);
     if (err) return err;
     let excluded = terms
@@ -40,7 +55,7 @@ function search(q) {
         if (!arities.every(x => x == 0)) {
             arities = arities.filter(x => x != 0);
         }
-        let scores = terms.map(({op, orig, value}) => {
+        let scores = terms.filter(t => t.op != "order").map(({op, orig, value}) => {
             // 6: id
             if (["#", "id"].includes(op) && entry.id == orig) return 6;
             // 5: head
@@ -80,7 +95,7 @@ function search(q) {
         bonus += entry.score / 20;
         res.push([entry, Math.max(...scores) + bonus]);
     }
-    return res.sort((a, b) => b[1] - a[1]);
+    return res.sort(orders[(terms.find(t => t.op == "order") || {value: "default"}).value]);
 }
 const tones = `\u0300\u0301\u0308\u0302`;
 const underdot = `\u0323`;
