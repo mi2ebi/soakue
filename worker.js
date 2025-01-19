@@ -3,10 +3,17 @@ let escapeHTML = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/
 let error = (words, err) => ({ err: words.join(`« <code>${escapeHTML(err)}</code> »`) });
 const orders = {
     default: (a, b) => b[1] - a[1],
-    random:  (a, b) => Math.random() - 0.5,
+    random:  true,
     alpha:   (a, b) => dict.indexOf(a[0]) - dict.indexOf(b[0]),
     newest:  (a, b) => new Date(b[0].date) - new Date(a[0].date),
     score:   (a, b) => b[0].score - a[0].score
+}
+function shuffle(a) {
+    for (let i = a.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
 }
 function search(q) {
     let terms = q.split(" ");
@@ -95,7 +102,9 @@ function search(q) {
         bonus += entry.score / 20;
         res.push([entry, Math.max(...scores) + bonus]);
     }
-    return res.sort(orders[(terms.find(t => t.op == "order") || {value: "default"}).value]);
+    let order = terms.find(t => t.op == "order") || {value: "default"};
+    if (order.value == "random") return shuffle(res);
+    return res.sort(orders[order.value]);
 }
 const tones = `\u0300\u0301\u0308\u0302`;
 const underdot = `\u0323`;
