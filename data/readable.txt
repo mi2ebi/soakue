@@ -3944,9 +3944,6 @@ particle: terminates multi-sentence prenex. The scope of this prenex ends when a
 ⚠ Bĩejuı bı shagıq tı gú jua choaq ± `en` @examples #VcgbQi8NKJ
 (B0173) The two strange guests soon went away
 
-⚠ Bĩejuı bı shaı ruqshua -1 `en` @oldexamples #mWpTC6y0FW
-(B0029) Soon the rain stopped
-
 bo +2 `en` @official #5P3S2bnM6T
 predicate: ‘have’; ▯ has/possesses ▯.
 
@@ -4778,7 +4775,7 @@ I'm not certain. Maybe he's ill.
 ⚠ Bu caıdua jí hóq. Je, daı bıa nháo da. -1 `en` @oldexamples #JueQKLFP99u
 I'm not certain. Maybe he's ill.
 
-⚠ Bu cho jí baq bıra da. -1 `en` @oldexamples #A4pTiZjZT_a
+⚠ Bu cho jí baq bıra da. -2 `en` @oldexamples #A4pTiZjZT_a
 I don't like beer.
 
 Bu cho jí báq bıra da. ± `en` @examples #y9pg6U_8xl
@@ -4804,9 +4801,6 @@ No human should fail to like themselves.
 
 Bu choaıjaq máq da. ± `en` @examples #VoipLbotXB4k
 It isn't expensive.
-
-⚠ Bu chufaq kaqsı jí tíbı da. -1 `en` @oldexamples #-KSsN-JeEbH
-I am not looking at TV right now.
 
 Bu chum kaqsı jí tíbı da. ± `en` @examples #AVp20EYufZC
 I am not looking at TV right now.
@@ -4895,7 +4889,7 @@ The beautiful one does not know that I like them.
 Bu dua dé ꝡä cho jí tá. ± `en` @examples #MPkFyJ-jwci
 The beautiful one does not know that I like them.
 
-⚠ Bu dua jí chûa hı raı ní da. -1 `en` @oldexamples #-_NbNnqejZh
+⚠ Bu dua jí chûa hı raı ní da. -2 `en` @oldexamples #-_NbNnqejZh
 I don't know what this thing is named.
 
 ⚠ Bu dua jí hûaqcho nháo baq kafe rı baq chaı da. -1 `en` @oldexamples #foVBNHOkTy
@@ -6593,9 +6587,6 @@ buzolokıa ± `en` @Laqme #O2g-TZCJL
 ⚠ buzy -1 `tok` @el #VBa7UULXp
 "mi sona ala"
 
-⚠ buzy -2 `en` @oldofficial #TMUSLmFUpsZ
-interjection: ‘dunno’; expressing a lack of knowledge
-
 ⚠ Bũ bı chuqkuaı jí, keo pıekuaı jẽo jí da. -1 `en` @oldexamples #FJP3_qqJHfZ
 I'm not hungry, but I *am* thirsty.
 
@@ -7758,9 +7749,6 @@ predicate: ‘begin’; ▯ begins/starts to occur; ▯ begins/starts to satisfy
 (B0095) The train starts from St. Louis at noon
 
 ⚠ Ceo sá chıedıo nıq. -1 `en` @oldexamples #7mgLmK2EgP
-(B0009) School began again
-
-⚠ Ceo sa nıq chıedaq -1 `en` @oldexamples #4E42puUwWq
 (B0009) School began again
 
 ⚠ Ceo taq cho jí. -1 `en` @oldofficial #LiMZtTsBOAn
@@ -10646,7 +10634,7 @@ I believe what they believe.
 ⚠ Chı jí chô nháo súq. -1 `en` @oldofficial #YI4fafuUWtt
 I believe he likes you.
 
-⚠ Chı jí hêq náo sa cıe da. -1 `en` @oldexamples #i841Hn9c8g6
+⚠ Chı jí hêq náo sa cıe da. -2 `en` @oldexamples #i841Hn9c8g6
 I believe the water contains some fish.
 
 ⚠ Chı jí ke chï nháo hóa da. -1 `en` @oldexamples #H6_59JlULte
@@ -10658,7 +10646,7 @@ I think they love me.
 ⚠ Chı jí lâ bu anou nháo jí da. -1 `en` @oldexamples #sueMH8wcSlM
 I don’t think they love me.
 
-⚠ Chı jí lâ bu huogaı nháo lâ kuq súq da. -1 `en` @oldexamples #zNbAha-M21qi
+⚠ Chı jí lâ bu huogaı nháo lâ kuq súq da. -2 `en` @oldexamples #zNbAha-M21qi
 I think he didn't hear you say anything.
 
 ⚠ Chı jí lâ heomaı nháo da. -1 `en` @oldexamples #hPzBrryRXTh
@@ -11846,7 +11834,7 @@ As for the liker, they’re working.
 Cho íme súq da. ± `en` @examples #X0qDDJ6sEKLZ
 We like you.
 
-⚠ Cho jí baq nao da. -1 `en` @oldexamples #KpFu8fnXKUf
+⚠ Cho jí baq nao da. -2 `en` @oldexamples #KpFu8fnXKUf
 I like water.
 
 Cho jí báq nao da. ± `en` @examples #a93U0bJIY9
@@ -12050,7 +12038,7 @@ He likes brown eyes.
 Cho nháo báq nuaı ru shú nuaı da. ± `en` @examples #uM83PIfjBDP
 He likes money and the word "money".
 
-⚠ Cho nháo baq tıaq kaqhua da. -1 `en` @oldexamples #WqwcUynNaIgD
+⚠ Cho nháo baq tıaq kaqhua da. -2 `en` @oldexamples #WqwcUynNaIgD
 He likes brown eyes.
 
 Cho nháo cháı da. ± `en` @examples #l_RHxXGOS-p
@@ -12178,9 +12166,6 @@ I moan because there’s pain in my arm.
 
 Choa jí kûı, ꝡä noı gí po jí da. ± `en` @examples #s5UdIRg4faR
 I moan because there’s pain in my arm.
-
-⚠ Choa lãqrue sa apı -1 `en` @oldexamples #sF0KJK5rF
-(B0004) Bees hum
 
 ⚠ Choa nháo kùı nôı baq noı pó fúy ga gıe da. -1 `en` @oldexamples #-NyIs8WqBHq
 They moan because there’s pain in their arm.
@@ -12337,9 +12322,6 @@ choakıu ± `en` @brunofrancosalamin #fhTVEz_2G
 
 ⚠ choakoy -1 `en` @Ilmen #lq5A3Autr
 ▯ talks to ▯.
-
-⚠ choakoy -2 `en` @oldofficial #xCQmN6JofY2
-predicate: ‘talk’; ▯ talks to ▯.
 
 choakuq ± `en` @Ilmen #3Citm6VT8
 ▯ utters, says vocally quote ▯.
@@ -13214,13 +13196,13 @@ chua ± `tr` @kazoo #EF0J6jVSa
 chua ± `zh` @mimiaoganhaqpy #hWrnt68hi
 謂詞：「名稱」、「名字」；▯是▯的名字。
 
-⚠ Chua hı raı ní moq. -1 `en` @oldexamples #FNiup3FE9St
+⚠ Chua hı raı ní moq. -2 `en` @oldexamples #FNiup3FE9St
 What is the name of this?
 
 Chua hí raı ní móq? ± `en` @examples #qKVXDnvUpWG
 What is the name of this?
 
-⚠ Chua hı raı súq moq. -1 `en` @oldexamples #0UJKxmF89cB
+⚠ Chua hı raı súq moq. -2 `en` @oldexamples #0UJKxmF89cB
 What is your name?
 
 Chua hí raı súq móq? ± `en` @examples #PhnizVX7wM
@@ -13661,46 +13643,22 @@ chuezu ± `en` @Laqme #6ymwdgt0h
 chufana +1 `en` @robintown #WIg-iZy1W
 (Lanao) ▯ is inbound / headed to the center of the spiral.
 
-chufaq ± `tok` @el #KyFIOZ0VD
+chufaq -2 `tok` @el #KyFIOZ0VD
 tenpo ni la ▯ li open li pini ala
 
-⚠ chufaq -1 `en` @oldofficial #JpYSC0JPwQ
-predicate: ‘[progressive]’; ▯ is ongoing; ▯ is in the middle of taking place; ▯ is ▯-ing.
-
-⚠ Chufaq bua nháo sa bıajıo da. -1 `en` @oldexamples #fX0mZz03NNu
+⚠ Chufaq bua nháo sa bıajıo da. -2 `en` @oldexamples #fX0mZz03NNu
 He is staying at some hospital.
 
-Chufaq cheo gaq guaı gú deo ± `en` @examples #FY-jW0F65C
+Chufaq cheo gaq guaı gú deo -1 `en` @examples #FY-jW0F65C
 (B0046) The two boys are working together
 
-⚠ Chufaq chıetao nháo da. -1 `en` @oldexamples #TQRHdSepd5p
-He is studying now.
-
-⚠ Chufaq fa jí jéarıaq da. -1 `en` @oldexamples #_AN6hCuw0nN
-I am going to the store.
-
-⚠ Chufaq geı nháo sa sao chea da. -1 `en` @oldexamples #EEYkicVZMig
-He's wearing a big hat.
-
-⚠ Chufaq jıaı nháo sa shamu da. -1 `en` @oldexamples #Gmwd-arNfLwG
-He is holding an apple.
-
-⚠ Chufaq kaı lú chıetua hóa míy ± `en` @examples #Ag-bsRMU5O
+⚠ Chufaq kaı lú chıetua hóa míy -1 `en` @examples #Ag-bsRMU5O
 (B0035) Our teacher is writing
 
-⚠ Chufaq lao nháo tîsho púıchao da. -1 `en` @oldexamples #yBazad_YIUd
-He is waiting for the bus to arrive.
-
-⚠ Chufaq lao súq hı moq. -1 `en` @oldexamples #FcMp8G2uz43q
-What are you waiting for?
-
-Chufaq laocaı jí ± `en` @examples #i3zZQMn3qC
+Chufaq laocaı jí -1 `en` @examples #i3zZQMn3qC
 (B0043) I am patiently waiting
 
-⚠ Chufaq nuo kúne. -2 `en` @oldofficial #oKEw4NAPLvl
-The dog is sleeping.
-
-chufaqkuq ± `en` @fagri #5__S4nQNT
+chufaqkuq -2 `en` @fagri #5__S4nQNT
 ▯ interrupts ▯ (person) to say ▯
 
 chuge ± `en` @uakci #_k0fRZw1X
@@ -13838,7 +13796,7 @@ chuleı +1 `en` @uakci #9tI0H8PcV
 chuleıse ± `en` @uakci #L4Uw3OQzG
 ▯ is a kink/fetish.
 
-chum ± `en` @official #wb7GgIMTG
+chum +2 `en` @official #wb7GgIMTG
 aspect: ‘IMPF’; imperfective (is X-ing)
 
 Chum bua nháo sá bıajıo da. ± `en` @examples #3fo728MAxh
@@ -14234,7 +14192,7 @@ chuqguao ± `tok` @ijonetun #bXgeJmjCU
 chuqguao ± `tok` @nano #wFJ4C_Kk8
 ▯ li ilo jo moku.
 
-chuqguao -2 `en` @official #T0Fo22SkZG
+chuqguao -1 `en` @official #T0Fo22SkZG
 predicate: ‘fork’; ▯ is a fork.
 
 chuqguıq +1 `en` @Laqme #-wYKv63PW
@@ -14449,9 +14407,6 @@ I may be there in the future.
 
 Daı naı loı nháo jí da. ± `en` @examples #jLO2S9OpVWLS
 It's possible that he hates me now.
-
-⚠ Dàı tî súq ru jí ní doaq bı cheo geq múy. -2 `en` @oldofficial #J2FQVvTLcNY
-If you and I are both in this city, we can meet.
 
 Dâı, ꝡä sho zao jí ní ocha, nä ano jí hó da. ± `en` @examples #j2sDmpLmjNB
 I could love this person if I got to know them.
@@ -14968,9 +14923,6 @@ It's often the case that I'm hungry.
 
 Daqfaı taoshao bu fa jí da. ± `en` @examples #Lyg8LPppo21
 Often I intend not to go.
-
-⚠ Daqfaı zûy jíbo jıoqkea da. -2 `en` @oldexamples #7Gz7shEh_nnn
-My computer is often broken.
 
 Daqfaı, ꝡä zueq jíoqkea jıbo da. ± `en` @examples #yprb63ga_8h-
 My computer is often broken.
@@ -17503,9 +17455,6 @@ It seems like only YOU went to the place.
 Du zueq máo máq da. ± `en` @examples #BqiZQmPD_dT
 It, too, seems broken.
 
-⚠ Du zuy mao máq da. -2 `en` @oldexamples #eZOJlCCu2QEC
-It, too, seems broken.
-
 du'aı ± `en` @uakci #c3Xnj4wUu
 ▯ is an imitation of property ▯.
 
@@ -18064,11 +18013,11 @@ duaı ± `pl` @jiqci #5djXkdtAI
 duaı ± `tok` @nano #YgT090Ue7
 ▯ o ▯.
 
+duaı -1 `en` @official #PAC4WWU4zf
+predicate: ‘must’; ▯ must satisfy property ▯.
+
 duaı -1 `tok` @el #13JIE0RPV
 ▯₂ la ▯₁ li wile
-
-duaı -2 `en` @official #PAC4WWU4zf
-predicate: ‘must’; ▯ must satisfy property ▯.
 
 Duaı bu muıbo sá toa shı sá puq da. ± `en` @examples #ULpx68v5DB2
 No word must have more than one meaning.
@@ -18957,9 +18906,6 @@ Particle: begin incidental relative clause (takes only a single statement, not a
 
 ⚠ duy -2 `en` @Laqme #CABK_zTdq
 ▯ moves.
-
-⚠ Duy írue -1 `en` @oldexamples #_cohxAfdb
-(B0007) The wind blows
 
 ⚠ duybo ± `en` @uakci #RQGzrrRSX
 ▯ is displaced/shifted by ▯.
@@ -23620,7 +23566,7 @@ Geba'egua ± `en` @jiqci #_MpUOl3la
 Geba'ezu ± `en` @jiqci #IDoX1seO5
 ▯ is the PIE / Proto-Indo-European language.
 
-gebo ± `en` @uakci #xRH-13PlH
+gebo +1 `en` @uakci #xRH-13PlH
 ▯ (event) has some perceptible signs to account for it / as proof for it happening; ▯ is visible/apparent/noticeable/(somehow) external(ized).
 
 gecaı +2 `en` @Laqme #PaYBjhl-r
@@ -24895,9 +24841,6 @@ gıosheq ± `en` @jiqci #ZRBKMjCEa
 gıoshuaq ± `en` @fagri #2tLxKaldC
 ▯ shines (produces light)
 
-⚠ Gıoshuaq níhoe -1 `en` @oldexamples #JCuvNDpDds
-(B0006) The sun shines
-
 gıotı ± `en` @uakci #zvxBExHFM
 ▯ (object/space) is illuminated.
 
@@ -26016,9 +25959,6 @@ These are two chickens.
 
 ⚠ Gu jíbo fu. -1 `en` @oldofficial #icrMwXEDZZB
 My children are two in number.
-
-⚠ Gu múy. -2 `en` @oldofficial #9rDef-Pm-cX
-We are two.
 
 Gu ní goso da. ± `en` @examples #uI6sBJ3Mn_t
 These chickens are two in number.
@@ -27976,9 +27916,6 @@ hao ± `toa` @Ilmen #JV1oY-q-H
 hao ± `toa` @robintown #D6XrKkeas
 Iq ▯ ráı.
 
-⚠ hao -2 `en` @oldofficial #OdK8aUep_r
-predicate: ‘stuff’; the salient predicate
-
 hao- +1 `en` @uakci #ICnLyPFqZ
 prefix: reduce verb's valency to intransitive by handwaving the oblique arguments
 
@@ -28118,9 +28055,6 @@ haqbaı ± `tok` @el #b2EnYVCuY
 ▯ li pali e moku ▯
 
 Haqbaı jí báq tuze râo níchaq, ru hao jí báq pıca râo jíachaq nha. ± `en` @examples #M3zkTT2BENo
-I'll cook soup today, and pizza tomorrow.
-
-⚠ Haqbaı jí to ru baq tuzy rào níchaq to baq pıca rào jíachaq nha. -2 `en` @oldexamples #f7ThXipG2hAc
 I'll cook soup today, and pizza tomorrow.
 
 haqbaıcase ± `en` @fagri #xWsizQtfF
@@ -30284,9 +30218,6 @@ Hıo jí súna ka. ± `en` @examples #Ig5eWe3re
 Hello to you all.
 
 Hıo jí súq ka. ± `en` @examples #T3TU-6tGh
-I hereby greet you.
-
-⚠ Hıo jí súq ka. -1 `en` @oldexamples #uvtj7pF2QZC
 I hereby greet you.
 
 ⚠ Hıo jí súq ka. -1 `en` @oldexamples #zh4FgoZaJ-BG
@@ -32500,9 +32431,6 @@ huqjeo ± `en` @uakci #J7eIqBD-e
 huqkıa ± `en` @Ilmen #1XXkP7Orf
 ▯ is a snow leopard (Panthera uncia).
 
-huqkıa -2 `en` @Ilmen #eU9CPgkBt
-▯ is a jaguar (Panthera onca).
-
 huqmı ± `en` @uakci #svVX0Xbo8
 ▯ is a specific entity the listener has in mind whose identity is not known to the speaker.
 
@@ -32523,9 +32451,6 @@ predicate: ‘rumble’; ▯ is a rumbling sound
 
 husı ± `en` @Ilmen #GTH-H_hbI
 ▯ is or are you, the intended addressee(s) of this speech act, of this utterance.
-
-⚠ Husonagua -2 `en` @oldofficial #1nBKk0qWCB
-predicate: ‘USA’; ▯ are the USA.
 
 husho ± `en` @official #xi2_Bk0pV
 predicate: ‘hush’; ▯ becomes quiet/silent; ▯ hushes.
@@ -34035,9 +33960,6 @@ His family is very friendly.
 Jaq paıgı pó lúo nhaobo da. ± `en` @examples #BMFC1mLFbwb
 His family is very friendly.
 
-⚠ Jaq paıgı pó nháobo luo da. -1 `en` @oldexamples #UiE9S6sJaALD
-His family is very friendly.
-
 Jaq pıekuaı jí da. ± `en` @examples #ZbI1sfTJ4H0
 I'm very thirsty.
 
@@ -34179,7 +34101,7 @@ jaqjaq ± `en` @uakci #DMHzJD1bs
 jaqjeq ± `pl` @jiqci #pW7I-DfoV
 ▯ w tym samym stopniu / tyle samo co ▯ spełnia własność ▯.
 
-jaqjeq -2 `en` @official #qVwqtuPOy6
+jaqjeq -1 `en` @official #qVwqtuPOy6
 predicate: ‘to.same.degree’; ▯ is as much as ▯ in property ▯.
 
 jaqjuı ± `en` @fagri #mQEYFCeK5
@@ -35496,9 +35418,6 @@ jeojeq ± `toa` @Ilmen #PAbtk0j_2
 jeojua ± `en` @Ilmen #-ud3Cexsw
 It is is odd, weird that ▯ is the case.
 
-⚠ jeojuı -2 `en` @oldofficial #DxkO8K_NmT
-predicate: ‘almost’; ▯ is almost the case; ▯ almost satisfies property ▯.
-
 ⚠ jeojy ± `en` @uakci #K1cliwY-l
 ▯ is a proposition whose first slot's referents and the property arising from removing the first slot are in relation ▯.
 
@@ -35568,7 +35487,7 @@ jeoneuchu ± `en` @Ilmen #CythTEHdZ
 jeonue ± `pl` @jiqci #BWNz0NVvJG
 ▯ obiecuje ▯, że ▯ zachodzi.
 
-jeonue -2 `en` @official #KWn6x43SPy
+jeonue -1 `en` @official #KWn6x43SPy
 predicate: ‘promise’; ▯ promises to ▯ that ▯ is the case.
 
 jeonueqlıao ± `en` @Snow #cTY1s2wxB
@@ -36366,7 +36285,7 @@ I hold the fish.
 Jıaı jí ké cıe da. ± `en` @examples #__s-qMADDKi
 I hold the fish.
 
-⚠ Jıaı súq jíbo muq ba. -1 `en` @oldexamples #eoG8YvPVNThK
+⚠ Jıaı súq jíbo muq ba. -2 `en` @oldexamples #eoG8YvPVNThK
 Hold my hand.
 
 Jıaı súq múq jıbo doa. ± `en` @examples #8AADYIv16RJ
@@ -38430,7 +38349,7 @@ jotoq ± `en` @jiqci #5dpktEPHz
 ⚠ jou -2 `en` @akesi #JgTvtyo60
 predicate: ‘describe’; ▯ describes ▯ as satisfying property ▯.
 
-⚠ Jou chufaq jeaq roe déo ± `en` @examples #G1n2LP6ts
+⚠ Jou chufaq jeaq roe déo -2 `en` @examples #G1n2LP6ts
 (B0186) The child's health is steadily improving
 
 ⚠ jou jeaq ± `en` @uakci #9aIEPecKi
@@ -38450,9 +38369,6 @@ psılêı tha, he re’hwuňaı psölêı
 
 jozogo ± `en` @Machy #fke4Pt622
 ▯ is an event in ▯'s life that's the most important thing since the time of that event.
-
-⚠ ju -2 `en` @oldofficial #wD5582dOQl
-free modifier: ‘begin.incidental’; begin incidental clause
 
 jü +1 `en` @uakci #wxgAHeEcj
 begin incidental relative clause
@@ -38950,7 +38866,7 @@ jueqkoı ± `en` @seaqtaq #xBNUhP0Ov
 ▯ stumbles / staggers / lurches / flounders.
 
 jueqkubo ± `en` @jiqci #cOy8hcInh
-▯ is/are scrabled eggs.
+▯ is/are scrambled eggs.
 
 jueqkubo ± `en` @robintown #FhDVezwmZ
 ▯ is scrambled eggs.
@@ -40701,9 +40617,6 @@ I saw their eyes, and this made me love them.
 Kaqgaı jí káqhua nhaobo, rú ca ní shâo jí mâıjıaı jí nháo rá luaofuo jí nháo da. ± `en` @examples #1nfxo4eoXLn
 I saw their eyes, and it made me want to hug them or kiss them.
 
-⚠ Kaqgaı jí ku sa shuao. -2 `en` @oldexamples #U2pRyXPpF0_
-A bird, is what I saw.
-
 Kaqgaı jí kú sá shuao. ± `en` @examples #HWaF84za8eu
 A bird, is what I saw.
 
@@ -40743,7 +40656,7 @@ I see you.
 Kaqgaı súq báq aıpu, gö bu chı jí hóa. ± `en` @examples #itOaBKrWVUH
 [that] You saw a ghost, I don't believe (that).
 
-⚠ Kaqgaı súq hı moq. -1 `en` @oldexamples #rgmp6hyI3t80
+⚠ Kaqgaı súq hı moq. -2 `en` @oldexamples #rgmp6hyI3t80
 What do you see?
 
 Kaqgaı súq hí móq? ± `en` @examples #M1ZfhDvJoVA
@@ -41210,9 +41123,6 @@ kato ± `tok` @mimiaoganhaqpy #EeYh1Z8E3
 
 kato ± `zh` @mimiaoganhaqpy #RL53sW5zh
 ▯是貓
-
-⚠ kato tı nï bue -1 `en` @oldexamples #bRr-CSMhRP
-the cat in this home
 
 káto tı nî bue ± `en` @examples #jbHN7peIl
 the cat in this home
@@ -42296,7 +42206,7 @@ juı reo ja baq sıaı ocha
 kıa ± `tok` @el #Sgm_KZfn8
 ▯ li loje
 
-⚠ Kıa jíbo kıaq da. -1 `en` @oldexamples #L18n9Nuk5mR
+⚠ Kıa jíbo kıaq da. -2 `en` @oldexamples #L18n9Nuk5mR
 My hair is red.
 
 Kıa kíaq jıbo da. ± `en` @examples #uPpxoLxqdv
@@ -45394,9 +45304,6 @@ This is a dog.
 
 kunechoa -1 `en` @seaqtaq #N6Q1F-peL
 ▯ barks (▯)
-
-⚠ Kunechoa sa kune -1 `en` @oldexamples #XK9adIA1Pp
-(B0003) Dogs bark
 
 ⚠ Kunechoa sá kune. -1 `en` @oldexamples #Vkp3_K7bN-
 (B0003) Dogs bark
@@ -49950,9 +49857,6 @@ luaq ± `tok` @el #-XEuPAiW5
 Luaq ru suaq tu deo ± `en` @examples #EIfjEXBvE-
 (B0368) All the children played and sang
 
-⚠ Luaq sa deo -1 `en` @oldexamples #OI-tTTITkZ
-(B0002) Children play
-
 ⚠ Luaq sá deo. -1 `en` @oldexamples #m3nDD7rHP
 (B0002) Children play
 
@@ -50439,19 +50343,16 @@ I've changed my mind.
 Luı boshaı jí áqbo muqfuq ± `en` @examples #LPXY8YeOEo
 (B0307) I have lost my gloves
 
-⚠ Luı ceo doe táqchao -1 `en` @oldexamples #QhH3RFg_Lg
-(B0008) The car started
-
 luı cheaqzua +1 `en` @robintown #WdBXebrJ2
 ▯ is a traitor to ▯.
 
 Luı cheo ruao gú da. ± `en` @examples #lQFUj0EUrp
 The two have forgiven each other.
 
-⚠ Luı chufaq chıetao míy ± `en` @examples #Yx2qeGQM2
+⚠ Luı chufaq chıetao míy -2 `en` @examples #Yx2qeGQM2
 (B0049) We have been studying
 
-⚠ Luı chufaq gaqcıa tuı jí tì ní ± `en` @examples #vByF_U4Hj
+⚠ Luı chufaq gaqcıa tuı jí tì ní -2 `en` @examples #vByF_U4Hj
 (B0178) I have been sitting here alone
 
 Luı guchıo sıqtua jí máq da. ± `en` @examples #fPeLeg5z8L2
@@ -50895,9 +50796,6 @@ Is the water hot enough?
 ⚠ Ma bıaq daqjaq nuo súq moq. -1 `en` @oldexamples #o-j2DzuePKD
 Have you slept long enough?
 
-⚠ Ma bıaq loq náo moq. -1 `en` @oldexamples #gU1pLjLPQ2cB
-Is the water hot enough?
-
 Ma bıaq loq náo móq? ± `en` @examples #Mvtp86c_Ii
 Is the water hot enough?
 
@@ -50916,11 +50814,8 @@ Ma bu jeıdua súq jí moq, hu jíbo suoq ± `en` @examples #H31X0N_dVs
 ⚠ Ma bu nâqfu sa raı súq moq. -1 `en` @oldexamples #PgfS7VAabq
 Do you not have any sons?
 
-⚠ Ma buaı póho kıaq moq. -1 `en` @oldexamples #iGIoL__TcSK
+⚠ Ma buaı póho kıaq moq. -2 `en` @oldexamples #iGIoL__TcSK
 Is his hair long?
-
-⚠ Ma buajıo ní moq. -1 `en` @oldexamples #nRp3Lz9nUAy
-Is this a house?
 
 Ma cua nháo ké, lä sho feı já móq? ± `en` @examples #FYB7S3kv-dx
 Did she respond by getting angry?
@@ -50970,10 +50865,10 @@ Do you think you’re the (only) one I love?
 ⚠ Ma chı súq jêı súq lú deq anou jí hóa moq. -1 `en` @oldexamples #BEQG9Bjj7OVG
 Do you think you’re the (only) one I can love?
 
-⚠ Ma chı súq lâ jıao moq. -1 `en` @oldexamples #SUp6Lnt7dca3
+⚠ Ma chı súq lâ jıao moq. -2 `en` @oldexamples #SUp6Lnt7dca3
 Do you believe in god?
 
-⚠ Ma chı súq lâ jıq sa jıao moq. -1 `en` @oldexamples #qsJ4UUmIIfij
+⚠ Ma chı súq lâ jıq sa jıao moq. -2 `en` @oldexamples #qsJ4UUmIIfij
 Do you believe any gods exist?
 
 Ma chı súq, ꝡä jeı ní ꝡé juoq chuq jí hóa móq? ± `en` @examples #8MRFCEY79LP
@@ -51071,9 +50966,6 @@ Is "Lee" your name?
 
 ⚠ Ma chua shú ‹ Lıy › súq moq. -1 `en` @oldexamples #N7yO3ED7gsqP
 Is "Lee" your name?
-
-⚠ Ma chufaq kaqgaı súq jí moq. -1 `en` @oldexamples #4vx4GR5_PnG
-Do you see me?
 
 Ma chum kaqgaı súq jí móq? ± `en` @examples #hmW2V0dU2bn
 Do you see me?
@@ -51336,7 +51228,7 @@ Did you see the eight birds?
 Ma kaqgaı súq shúao róaı móq? ± `en` @examples #BAW-srURB4q
 Did you see the eight birds?
 
-⚠ Ma kaqgı ní jìe súq moq. -1 `en` @oldexamples #B1Ly1FiUMXKP
+⚠ Ma kaqgı ní jìe súq moq. -2 `en` @oldexamples #B1Ly1FiUMXKP
 Does this look good to you?
 
 Ma kaqgı ní jîe súq móq? ± `en` @examples #LwhIgdgN1qC
@@ -51348,7 +51240,7 @@ Ma kıachaq níchaq moq ± `en` @examples #QnkEaIdKhD
 Ma ko shı chaq po baq jöa baq kıachaq moq ± `en` @examples #ggXaOKbq5j
 (B0333) Is Sunday the first day of theweek?
 
-⚠ Ma koa ní nao moq. -1 `en` @oldexamples #BFUwsMcqNGb
+⚠ Ma koa ní nao moq. -2 `en` @oldexamples #BFUwsMcqNGb
 Is this water cold?
 
 Ma kú ní teaqrıaı nä naı tıjoaı súq hóa móq? ± `en` @examples #oTN6oZVKZ_r
@@ -51579,9 +51471,6 @@ Are you asleep?
 Ma nuo súq móq? ± `en` @examples #59i_Tkg3cqpQ
 Are you asleep?
 
-⚠ Ma nuokuaı súq moq. -1 `en` @oldexamples #xAl_SRbyACn
-Are you tired?
-
 Ma nuokuaı súq móq? ± `en` @examples #QyJ4JorBz
 Are you tired?
 
@@ -51590,9 +51479,6 @@ Is he friends with Lee?
 
 ⚠ Ma paı nháo mí Lıy moq. -1 `en` @oldexamples #QF8B0bC6sVUY
 Is he friends with Lee?
-
-⚠ Ma pıekuaı súq moq. -1 `en` @oldexamples #3dQoOkfBl7G
-Are you thirsty?
 
 Ma pu kaqgaı súq báq jarafa? ± `en` @examples #cjoPAZcNFiD
 Did you see a giraffe? (e.g. on your journey)
@@ -51639,9 +51525,6 @@ Is the bottle empty?
 Ma shoe keoı súq jí áq móq? ± `en` @examples #fhqSJwGX7BK
 Do you allow me to talk to you?
 
-⚠ Ma shoe koy súq jí áq moq. -2 `en` @oldexamples #4YHVJpL6aynC
-Do you allow me to talk to you?
-
 ⚠ Ma shua jĩa hóe moq. -1 `en` @oldexamples #-m1G741rRGhw
 Is the sun going to fall?
 
@@ -51653,9 +51536,6 @@ Are the clouds going to fall?
 
 ⚠ Ma shua jĩa séoq moq. -1 `en` @oldexamples #X0SHBAyk9MRz
 Is the sky going to fall?
-
-⚠ Ma taı fa hü aıpujıo súq? -1 `en` @oldexamples #04lkTSuRcO
-Did you manage to go to the haunted house?
 
 Ma taı fa hû aıpujıo súq? ± `en` @examples #i89WZl_WQm
 Did you manage to go to the haunted house?
@@ -51709,9 +51589,6 @@ Is the workplace far from your house?
 (B0328) Have all the leaves fallen from the tree?
 
 Ma tuze báq kuha leu móq? ± `en` @examples #tjHFQ9D9D4wt
-Is melted cheese a soup?
-
-⚠ Ma tuzy baq naosaı kuha moq. -2 `en` @oldexamples #MV0Fr4XgO1R3
 Is melted cheese a soup?
 
 Ma zao súq nháo? ± `en` @examples #Y9c5sRwF8Dp
@@ -52055,9 +51932,6 @@ Shi loves herself.
 
 ⚠ Maı míy súq hu mí Hoemaı da! -1 `en` @oldexamples #YVuPNDB9M1a
 We love you Solpahi!
-
-⚠ Maı míy súq hu mí Hoemaı da! -2 `en` @oldexamples #DgbW2pdaVy
-We love you, Hoemai!
 
 Maı náq roı líq chéq da. ± `en` @examples #H8jJYOXOs4Eu
 The man and the woman love each other.
@@ -53922,9 +53796,6 @@ mıa ± `tok` @el #1mkIjLHEI
 Mıa buo nháo da. ± `en` @examples #rXKGnehpTOa
 He's ready for anything.
 
-⚠ Mıa chufaq moe jí da. -1 `en` @oldexamples #qbVfBjUWoXa
-I'm in the midst of a lot of emotions.
-
 Mıa dua nháo da. ± `en` @examples #lrOlL1lOIb_
 She knows a lot.
 
@@ -54351,7 +54222,7 @@ mıeq +1 `en` @fagri #g1wrJLYfU
 mıeq ± `pl` @jiqci #AIjt8DfJ7D
 ▯ mierzy/sprawdza/ustala ▯.  [p. komentarze pod **jioq**]
 
-mıeq -2 `en` @official #1Ut7BR3vub
+mıeq -1 `en` @official #1Ut7BR3vub
 predicate: ‘measure’; ▯ measures/evaluates/determines what satisfies property ▯.
 
 ⚠ Mıeq jí mâ haı tı nháo ba. -1 `en` @oldexamples #UirxnDU9Wkz4
@@ -55237,9 +55108,6 @@ mıutuq -1 `en` @uakci #iioB5q7A4
 
 mıꝡezım ± `en` @kazoo #OPZvChrYR
 ▯ is syllabic verse
-
-⚠ míy -2 `en` @oldofficial #DuJxlSvh3To
-pronoun: ‘us’; 1st + 3rd person personal pronoun
 
 ⚠ mıybo -1 `en` @oldofficial #dCpiUPGM3Fg
 predicate: ‘our’; ▯ is ours (1st + 3rd person).
@@ -56693,9 +56561,6 @@ muche ± `en` @TheAndSys #Lru0-DeOZ
 Mụcho jí zạ́faq. ± `en` @examples #bxisprLxmJj
 I dislike the thing that's going to happen.
 
-⚠ Mụcho nháo jéa lö chao. -1 `en` @oldexamples #YYDpnWwj2I
-He dislikes the buyer of the vehicle.
-
 Mụcho nháo jéa lô chao. ± `en` @examples #tPEvRppJO
 He dislikes the buyer of the vehicle.
 
@@ -57929,9 +57794,6 @@ mutu ± `toa` @el #daCHXQvyV
 ⚠ muy ± `toa` @Ilmen #qrJ-5aPmM
 = ▯ jeı jí roı súq.
 
-⚠ múy -2 `en` @oldofficial #L0RXIL06Zed
-pronoun: ‘us’; 1st + 2nd person personal pronoun
-
 ⚠ muybo -1 `en` @oldofficial #AzywGdcQaFr
 predicate: ‘our’; ▯ is ours (1st + 2nd person).
 
@@ -58106,7 +57968,7 @@ tenpo ni la ▯
 ⚠ naı -1 `en` @oldofficial #tQevtioqW
 predicate: ‘[present]’; ▯ happens now.
 
-Naı chufaq ceo ríao ± `en` @examples #oYr3gRtd-U
+Naı chufaq ceo ríao -1 `en` @examples #oYr3gRtd-U
 (B0044) Now the day is dawning
 
 Naı chuq jí da. ± `en` @examples #QkCiCR5EbfTC
@@ -61865,7 +61727,7 @@ noqgı ± `pl` @jiqci #MkYrydbwfm
 noqgı ± `tok` @el #gnZ5_QQo-
 ▯ li pona tawa uta
 
-⚠ Noqgı baq chaı da. -1 `en` @oldexamples #xrXORgEa5uQ
+⚠ Noqgı baq chaı da. -2 `en` @oldexamples #xrXORgEa5uQ
 Tea tastes good.
 
 Noqgı báq chaı da. ± `en` @examples #gsxZ9rkA6M
@@ -63557,7 +63419,7 @@ nhaojı ± `en` @Machy #XDNejeTkR
 nhaotoa ± `en` @el #TJJot4dXI
 ▯ is an exophoric pronoun
 
-nhaq +14 `en` @el #xLyC14SY_
+nhaq +15 `en` @el #xLyC14SY_
 interjection: nyaan
 
 nhaq ± `jbo` @el #3zgWWAeHD
@@ -66701,9 +66563,6 @@ po -1 `toa` @Ilmen #ZPb5p9g7A
 po- ± `en` @uakci #t9EZwnEWq
 prefix: raises the direct object with **po**
 
-⚠ po baq aıpu ga jıo -2 `en` @oldofficial #OuuSlnW9NH
-to be a ghost house
-
 ⚠ Po baq elu tíse. -1 `en` @oldofficial #Vrpl9k3-OP
 The trace is of an elephant.
 
@@ -67742,13 +67601,13 @@ Your used your eyes.
 ⚠ Pu choq súq ku pó súq ga kaqhua da. -1 `en` @oldexamples #4wp2G39Hxos
 Your used your eyes.
 
-⚠ Pu chufaq kudote nhõycıa gú geo cheo paı ± `en` @examples #jXze3qd6d
+⚠ Pu chufaq kudote nhõycıa gú geo cheo paı -2 `en` @examples #jXze3qd6d
 (B0180) The two old comrades were talking together earnestly
 
-Pu chufaq meoqkoı sa dıaı nuı pıa tëı baq chue hó ± `en` @examples #vY1rGcv_h
+Pu chufaq meoqkoı sa dıaı nuı pıa tëı baq chue hó -1 `en` @examples #vY1rGcv_h
 (B0097) Seven little sisters were walking in a row
 
-Pu chufaq taomıa guaı tushı tı ± `en` @examples #nZsWl3Cx-q
+Pu chufaq taomıa guaı tushı tı -1 `en` @examples #nZsWl3Cx-q
 (B0053) Everybody was busily working
 
 ⚠ Pu chuq nháo juaq zéo. -1 `en` @oldofficial #MV56gMJ70Wp
@@ -67771,9 +67630,6 @@ Who gave this to you?
 
 ⚠ Pu doa bo hı raı ní súq moq. -1 `en` @oldexamples #3Cs7Vkj7in
 Who gave you this?
-
-⚠ Pu doa còu máy sáo muao lêoq máq ja dùo féı seoq -1 `en` @oldexamples #0cAaFT1gLQ
-(B0584) The great tree afforded us shelter during the storm
 
 ⚠ Pu doa còu máy sáo muao lêoq máq ja dùo féıseoq ± `en` @examples #y-c5LoQeAL1c
 (B0584) The great tree afforded us shelter during the storm
@@ -67821,9 +67677,6 @@ The animal perceived my presence.
 What happened?
 
 ⚠ Pu hıaı bém. -1 `en` @oldexamples #ymahrXwyn
-(B0005) Baby laughed
-
-⚠ Pu hıaı sa be -1 `en` @oldexamples #HYIWq1f4un
 (B0005) Baby laughed
 
 Pu hıaotao jí áq ± `en` @examples #2fepscK46a
@@ -68102,10 +67955,10 @@ I was sad, and I cried.
 Pu meo jí, rú pu roq jí da. ± `en` @examples #Po-yUUXRvUQ
 I was sad, and I cried.
 
-Pu meoq chufaq jeaq doq bóaq pö baq muao ± `en` @examples #cd-wCI5C1_
+Pu meoq chufaq jeaq doq bóaq pö baq muao -1 `en` @examples #cd-wCI5C1_
 (B0390) The shadows of the trees were gradually growing shorter
 
-Pu meoq chufaq sha tı sa juıme bao nıapuao ± `en` @examples #ykusmCY1g
+Pu meoq chufaq sha tı sa juıme bao nıapuao -1 `en` @examples #ykusmCY1g
 (B0179) Slowly a thick white mist was arising
 
 ⚠ Pu muo jou jaıbuq nháo ± `en` @examples #2R1FBPp_Yv
@@ -68140,9 +67993,6 @@ She helped a sick dog.
 
 Pu soa nháo sá kune bıa da. ± `en` @examples #YERMCrXecpMy
 She helped a sick dog.
-
-⚠ Pu suaı jara déo -1 `en` @oldexamples #i1UVjh1Er
-(B0010) The child ran quickly
 
 ⚠ Pu shaı koı tì kíao déo tüqfıa hó chúe ± `en` @examples #y5doK8AYH
 (B0219) The first boy in the line stopped at the door
@@ -69482,6 +69332,9 @@ ragoqzeo ± `en` @Ilmen #GjzYl6Xi4
 
 ragozeo -1 `en` @Ilmen #c5F_-dsYu
 ▯ is a strawberry fruit.
+
+rahatalokum +1 `en` @jiqci #9GbGeKIcm
+▯ is rahat lokum / Turkish delight.
 
 Rahına ± `en` @countries #KPZvZpqkE4j
 ▯ pertains to the culture of Ukraine.
@@ -73407,9 +73260,6 @@ determiner prefix form: ‘of:some’; fills object of verb with sá (existentia
 ⚠ Sa arane bı dua jí chô súq árane. -1 `en` @oldofficial #y3sj-exNCbG
 As for some spiders, I know that you like them.
 
-⚠ sa chome tüa kúne têa chóme -2 `en` @oldofficial #n_9zSWnm52O
-some insect that the dog made scared
-
 sá chuq ± `en` @examples #qjaBJWnD-U3
 someone who eats (normal DP, no relative clause)
 
@@ -73586,9 +73436,6 @@ Some people who were sleeping are working.
 
 ⚠ Sa puı naq bı, mıu jaq le hó hóq da. -1 `en` @oldexamples #JxV8LQ8t9l_
 Many men think it’s very likely.
-
-⚠ Sa raı bı chufaq chuq jí ráı da. -1 `en` @oldexamples #zv_BYkB-g1k
-I'm eating something right now.
 
 ⚠ Sa raı bı dua jí chô súq ráı da -1 `en` @oldexamples #HPYlsg73HsC
 There is something I know you like.
@@ -77372,9 +77219,6 @@ What's the worst thing he has done?
 ⚠ soq nuı -1 `en` @oldofficial #XHh7LzQW_D
 predicate: ‘smallest’; ▯ is the smallest among ▯.
 
-⚠ soq puı -2 `en` @oldofficial #3_FAt46FO
-predicate: ‘most’; ▯ are the most numerous among ▯.
-
 ⚠ soq sao -1 `en` @oldofficial #OMX8g2ebkl
 predicate: ‘biggest’; ▯ is the biggest among ▯.
 
@@ -77921,9 +77765,6 @@ They’re only singing this.
 
 ⚠ Suaq nháo tou máq da. -1 `en` @oldexamples #3QSHXhLXlR_
 They’re only singing this.
-
-⚠ Suaq sa shuao -1 `en` @oldexamples #3aDLNDpnD
-(B0001) Birds sing
 
 ⚠ Suaq sá shuao. -1 `en` @oldexamples #Cs80S9Cju
 (B0001) Birds sing
@@ -78709,9 +78550,6 @@ pronome: segunda pessoa singular
 súq ± `ru` @SuperSpaceNiM #gtZ6cfEBt
 местоимение: ‘2S’; личное мест. 2 лица ед. ч.; ты/тебя/тебе/тобой
 
-⚠ súq -2 `en` @oldofficial #0tKZL2_6x08
-pronoun: ‘you’; 2nd person personal pronoun
-
 suq- +1 `en` @Laqme #fd4xKyrL_
 prefix: incorporate **súq** object
 
@@ -79186,7 +79024,7 @@ The four want one another to be happy.
 Shao jaı ní jo chéq da. ± `en` @examples #o_gDmOBqvHoh
 These four want one another to be happy.
 
-⚠ Shao jí chûq súq ní da. -1 `en` @oldexamples #8K-bGdqePsh
+⚠ Shao jí chûq súq ní da. -2 `en` @oldexamples #8K-bGdqePsh
 I want you to eat this.
 
 ⚠ Shao jí gâq súq nháo rào níchaq da. -1 `en` @oldexamples #NjffWNpXgiY
@@ -80206,7 +80044,7 @@ shı ± `tr` @kazoo #ggb9nCJGn
 shı- ± `en` @Laqme #Wepvv32nb
 determiner prefix form: fills object of verb with **nhọ́shı (raı)**
 
-⚠ Shı de coa gào náo da. -1 `en` @oldexamples #uMKT-Bmibid
+⚠ Shı de coa gào náo da. -2 `en` @oldexamples #uMKT-Bmibid
 There is a beautiful bridge above the water.
 
 ⚠ Shı lú maı jẽo jí hóa da. -1 `en` @oldexamples #4ZEF91jlEfh
@@ -84244,14 +84082,14 @@ to roı doa dóshı sa pó dógu nuaı dósaq to jeo dósaq dójo da
 teq ± `tok` @el #9soc-P2eE
 ▯ li pana e mani ▯ tawa ▯
 
+teq -1 `en` @official #_OjhZ8xNb
+predicate: ‘pay’; ▯ pays ▯ to ▯ for satisfying property ▯.
+
 teq -1 `en` @salarua #RfFb3oIrE
 predicate: ‘pay’; ▯ pays ▯ for ▯ being the case.
 
 teq -1 `en` @uakci #Deg1tVpJw
 ▯ pays money ▯ for property ▯.
-
-teq -2 `en` @official #_OjhZ8xNb
-predicate: ‘pay’; ▯ pays ▯ to ▯ for satisfying property ▯.
 
 teqboe ± `en` @uakci #JHfkdetQM
 ▯ is a coupon.
@@ -84529,9 +84367,6 @@ There are dogs in my garden.
 Tı báq kune jíbo soaq da. ± `en` @examples #jIf5nro2J2t
 There are dogs in my garden.
 
-⚠ Tı déo hı moq. -1 `en` @oldexamples #YLn-4sLeY1B
-Where are the children?
-
 Tı déo hí móq? ± `en` @examples #swCqAcPJqZ
 Where are the children?
 
@@ -84631,7 +84466,7 @@ Where are your parents?
 ⚠ Tı sa bao kato sóaq da. -1 `en` @oldexamples #b8jsbpYKws7
 There is a white cat in the garden.
 
-⚠ Tı sa cıurıaq hı moq. -1 `en` @oldexamples #o-NOvbk_W55
+⚠ Tı sa cıurıaq hı moq. -2 `en` @oldexamples #o-NOvbk_W55
 Where is there a toilet?
 
 Tı sá cıurıaq hí móq? ± `en` @examples #wbtDIqbEXJ
@@ -85498,9 +85333,6 @@ How old are you?
 Tıo geo súq móq? ± `en` @examples #K467o07eFF4
 How old are you?
 
-⚠ Tıo hoı kua bı sao máq moq. -1 `en` @oldexamples #qPe_k4Tg-hOg
-How big (vs. small) is the aforementioned room?
-
 Tıo hú kua nä sao máq móq? ± `en` @examples #mOpKPFeJ6FO
 How big (vs. small) is the aforementioned room?
 
@@ -86241,9 +86073,6 @@ tızuo ± `en` @Ilmen #2Nag2eiUO
 
 tızuodo ± `en` @Ilmen #EL7UD3ZN_
 ▯ puts ▯ to prepared storage location ▯.
-
-⚠ to -2 `en` @oldofficial #Demg_cqaB
-separator: ‘CONJ’; helper particle in forethought conjunctions: to + conj ▯ to ▯
 
 tó +1 `en` @official #8WvqDF0_9vB
 focus particle: ‘only’; only
@@ -87523,9 +87352,6 @@ Focus prefix: "only"
 ⚠ tou ± `tok` @el #Ak5bNgv_d
 "tou X" li sama "X taso"
 
-⚠ tou -2 `en` @oldofficial #OKlpz0CgIyQ
-focus prefix: ‘only’; only
-
 ⚠ tou'ıq ± `en` @uakci #m7Wv07y6P
 ▯ are the only things that satisfy property ▯.
 
@@ -87619,7 +87445,7 @@ All those who watched the aforementioned movie liked it.
 Tú nhạshı nä maı nhạ́shı sá nhạgu. ± `en` @examples #i2Nb5Z1bwS_
 Every X is such that X loves some Y.
 
-⚠ Tu poq bı cho póq baq joafao da. -1 `en` @oldexamples #Xkr-b0_fWsru
+⚠ Tu poq bı cho póq baq joafao da. -2 `en` @oldexamples #Xkr-b0_fWsru
 Everyone likes the weekend.
 
 Tú poq nä cho póq ba joafao da. ± `en` @examples #7KpBBXdvqE
@@ -90355,9 +90181,6 @@ the relation ▯ is the N-th iterate or N-th relational power of the relation �
 ⚠ yzy -1 `tok` @el #h-UugskYF
 ▯ li sitelen ni: Y
 
-⚠ yzy -2 `en` @oldofficial #MtPH-rTLvjD
-predicate: ‘Y’; ▯ is the letter Y.
-
 ⚠ ỷ'o -2 `en` @akesi #7mwJ5CVSF
 interjection: oof, ouch, ow
 
@@ -90634,9 +90457,6 @@ I know someone named Hoaqgio.
 Zao jí sá mı Hoaqgıo da. ± `en` @examples #OAdEhBmeFl23
 I know someone named Hoaqgio.
 
-⚠ Zao jí sa mı Hoemaı da. -2 `en` @oldexamples #aHrAtDpm3TJD
-I know someone named Hoemai.
-
 Zao jí sá mı Hoemaı da. ± `en` @examples #OXck_-NvS18Z
 I know someone named Hoemai.
 
@@ -90909,9 +90729,6 @@ informal suffix: nominalizer (akin to **- ma**) for liquids
 
 zé ± `ja` @Laqme #sBhCbxEFF
 代名詞：「それ」；有生性クラス VII（PO句）の限定詞句を参照する束縛代名詞
-
-⚠ zé -2 `en` @oldofficial #otIFA39S3sV
-pronoun: ‘it.VII’; anaphoric pronoun for PO phrases (class VII)
 
 ze- ± `en` @robintown #yVHK36AQn
 turns a positive number N into "negative N"
@@ -92079,12 +91896,6 @@ zutoshaone ± `en` @jiqci #TJiwJu71x
 
 ⚠ zuy -1 `ja` @Laqme #7ShU1RZ10
 ▯は壊れている／故障している
-
-⚠ zuy -2 `en` @oldofficial #ieZmTcGRx
-predicate: ‘broken’; ▯ is broken/inoperable.
-
-⚠ Zuy pó chíetua ga tuımy. -2 `en` @oldofficial #c4k28fsBCI
-The teacher’s seat is broken.
 
 ⚠ Zuy réqmy pö núı deo -1 `en` @examples #t86-cKPm8k
 (B0077) The little girl's doll is broken

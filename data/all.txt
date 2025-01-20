@@ -1313,7 +1313,6 @@ bıy
 bıyq
 Bĩejuı bı koı bé
 Bĩejuı bı shagıq tı gú jua choaq
-Bĩejuı bı shaı ruqshua
 bo
 bo
 bo
@@ -1600,7 +1599,6 @@ Bu cho sía req shı áq ba.
 Bu cho sıa shı poq áq ba.
 Bu cho sıa shı req áq ba.
 Bu choaıjaq máq da.
-Bu chufaq kaqsı jí tíbı da.
 Bu chum kaqsı jí tíbı da.
 Bu chuq súq shámu ba.
 Bu chuqkuaı jí, kéo jeo pıekuaı jí da.
@@ -2196,7 +2194,6 @@ buza
 buzoaı
 buzolokıa
 buzy
-buzy
 Bũ bı chuqkuaı jí, keo pıekuaı jẽo jí da.
 by
 by
@@ -2585,7 +2582,6 @@ ceo
 ceo
 Ceo fa chúe sìy mí Seılu'ı rào díochu
 Ceo sá chıedıo nıq.
-Ceo sa nıq chıedaq
 Ceo taq cho jí.
 ceocıa
 ceocıy
@@ -4058,7 +4054,6 @@ Chóa bı, guaı hó da.
 Chóa bï, guaı hó da.
 Choa jí kùı nôı baq noı pó fúy ga gıe da.
 Choa jí kûı, ꝡä noı gí po jí da.
-Choa lãqrue sa apı
 Choa nháo kùı nôı baq noı pó fúy ga gıe da.
 Choa nháo kûı, ꝡä noı gí po nháo da.
 Choa sóq koaq deo põı hıaodaısı
@@ -4109,7 +4104,6 @@ choakao
 choakea
 choakeoı
 choakıu
-choakoy
 choakoy
 choakoy
 choakuq
@@ -4553,18 +4547,10 @@ chuetıeq
 chuezu
 chufana
 chufaq
-chufaq
 Chufaq bua nháo sa bıajıo da.
 Chufaq cheo gaq guaı gú deo
-Chufaq chıetao nháo da.
-Chufaq fa jí jéarıaq da.
-Chufaq geı nháo sa sao chea da.
-Chufaq jıaı nháo sa shamu da.
 Chufaq kaı lú chıetua hóa míy
-Chufaq lao nháo tîsho púıchao da.
-Chufaq lao súq hı moq.
 Chufaq laocaı jí
-Chufaq nuo kúne.
 chufaqkuq
 chuge
 chugua
@@ -4815,7 +4801,6 @@ Daı hóq. Keo bu le hóq da.
 Daı jıa tı jí ríaq da.
 Daı jîa tı jí ríaq da.
 Daı naı loı nháo jí da.
-Dàı tî súq ru jí ní doaq bı cheo geq múy.
 Dâı, ꝡä sho zao jí ní ocha, nä ano jí hó da.
 Dâı, ꝡä sho zao ní ocha jí, nä ano hó jí da.
 daıca
@@ -4988,7 +4973,6 @@ daqfaı
 Daqfaı bu taoshao fa jí da.
 Daqfaı chuqkuaı jí da.
 Daqfaı taoshao bu fa jí da.
-Daqfaı zûy jíbo jıoqkea da.
 Daqfaı, ꝡä zueq jíoqkea jıbo da.
 daqfao
 daqfao
@@ -5832,7 +5816,6 @@ du ru bu
 du rua jaq de
 Du ꝡä fa tó súq ríaq.
 Du zueq máo máq da.
-Du zuy mao máq da.
 du'aı
 dua
 dua
@@ -6317,7 +6300,6 @@ dute
 duy
 duy
 duy
-Duy írue
 duybo
 duyca
 duyde
@@ -8296,7 +8278,6 @@ gıosıao
 gıosoaı
 gıosheq
 gıoshuaq
-Gıoshuaq níhoe
 gıotı
 gıotıca
 gıotıcıa
@@ -8670,7 +8651,6 @@ gu cheo maıgaq
 Gu góso da.
 Gu goso ní da.
 Gu jíbo fu.
-Gu múy.
 Gu ní goso da.
 Gu súq róı jí.
 gú tuq …
@@ -9323,7 +9303,6 @@ hao
 hao
 hao
 hao
-hao
 hao-
 haobı
 haochoq
@@ -9371,7 +9350,6 @@ haqbaı
 haqbaı
 haqbaı
 Haqbaı jí báq tuze râo níchaq, ru hao jí báq pıca râo jíachaq nha.
-Haqbaı jí to ru baq tuzy rào níchaq to baq pıca rào jíachaq nha.
 haqbaıcase
 haqbaıche
 haqbaıjı
@@ -10092,7 +10070,6 @@ Hıo jí réq pũ da.
 Hıo jí réq roı ke päı hó da.
 Hıo jí réq róı ké päı hó da.
 Hıo jí súna ka.
-Hıo jí súq ka.
 Hıo jí súq ka.
 Hıo jí súq ka.
 Hıo jí súq ka.
@@ -10831,7 +10808,6 @@ huqgıq
 huqje
 huqjeo
 huqkıa
-huqkıa
 huqmı
 hurahe
 hurı
@@ -10839,7 +10815,6 @@ hurıgupaqluko
 hurıluko
 hurulaq
 husı
-Husonagua
 husho
 husho
 Husho tú ba!
@@ -11342,7 +11317,6 @@ Jaq mıa jí, lä mala tı já poq já gua da.
 Jaq paıgı báq poq po lúo nhaobo da.
 Jaq paıgı baq poq pö nháobo luo da.
 Jaq paıgı pó lúo nhaobo da.
-Jaq paıgı pó nháobo luo da.
 Jaq pıekuaı jí da.
 Jaq puı lú deq nháo hóa da.
 Jaq puı, ꝡé deq nháo hóa da.
@@ -11829,7 +11803,6 @@ jeojeq
 jeojeq
 jeojeq
 jeojua
-jeojuı
 jeojy
 jeokao
 jeokeo
@@ -12814,7 +12787,6 @@ jouhe
 joutue
 joutue
 jozogo
-ju
 jü
 jü
 jü
@@ -13564,7 +13536,6 @@ Kaqgaı jí é marao súq.
 Kaqgaı jí káqhua nhaobo, cà shâo jí mâıjıaı jí nháo rá luaofuo jí nháo da.
 Kaqgaı jí káqhua nhaobo, rú ca ní mâı jí nháo da.
 Kaqgaı jí káqhua nhaobo, rú ca ní shâo jí mâıjıaı jí nháo rá luaofuo jí nháo da.
-Kaqgaı jí ku sa shuao.
 Kaqgaı jí kú sá shuao.
 Kaqgaı jí nháobo kaqhua na, ru ca ní mâı jí nháo da.
 Kaqgaı jí nháobo kaqhua na, ru ca ní shâo jí mâıjıaı jí nháo na ra luaofuo jí nháo da.
@@ -13734,7 +13705,6 @@ kato
 kato
 kato
 kato
-kato tı nï bue
 káto tı nî bue
 kato ꝡë tı hóa ní bue
 katoa
@@ -15128,7 +15098,6 @@ kune
 kune
 Kune ní da.
 kunechoa
-Kunechoa sa kune
 Kunechoa sá kune.
 kunedı
 kunemaı
@@ -16646,7 +16615,6 @@ luaq
 luaq
 luaq
 Luaq ru suaq tu deo
-Luaq sa deo
 Luaq sá deo.
 luaq'ıq
 luaq'uo
@@ -16809,7 +16777,6 @@ Luı beo jí mîu ja hı raı da.
 Luı beo jí, lä mıu já hí raı da.
 Luı beo mıu jí da.
 Luı boshaı jí áqbo muqfuq
-Luı ceo doe táqchao
 luı cheaqzua
 Luı cheo ruao gú da.
 Luı chufaq chıetao míy
@@ -16961,7 +16928,6 @@ mä
 ma-
 Ma bı áq loq náo móq?
 Ma bıaq daqjaq nuo súq moq.
-Ma bıaq loq náo moq.
 Ma bıaq loq náo móq?
 Ma bıaq nheoı nuo súq móq?
 Ma bo súq sa koqpıuta moq.
@@ -16969,7 +16935,6 @@ Ma bo súq sá koqpıuta?
 Ma bu jeıdua súq jí moq, hu jíbo suoq
 Ma bu nâqfu sa raı súq moq.
 Ma buaı póho kıaq moq.
-Ma buajıo ní moq.
 Ma cua nháo ké, lä sho feı já móq?
 Ma cua nháo ráy shô feı ja moq.
 Ma cheo paı nhána?
@@ -17020,7 +16985,6 @@ Ma cho súq nháobo kua moq.
 Ma choaqjıo huı máq móq?
 Ma chua shu ‹ Lı › súq móq?
 Ma chua shú ‹ Lıy › súq moq.
-Ma chufaq kaqgaı súq jí moq.
 Ma chum kaqgaı súq jí móq?
 Ma chuqkuaı mao súq moq.
 Ma chuqkuaı máo súq?
@@ -17189,11 +17153,9 @@ Ma noqgı ní jîe súq móq?
 Ma noqgı ní súq moq.
 Ma nuo súq moq.
 Ma nuo súq móq?
-Ma nuokuaı súq moq.
 Ma nuokuaı súq móq?
 Ma paı nháo mí Lı móq?
 Ma paı nháo mí Lıy moq.
-Ma pıekuaı súq moq.
 Ma pu kaqgaı súq báq jarafa?
 Ma pu kuq jí sa luaı moq.
 Ma pu kuq jí sá luaı móq?
@@ -17209,12 +17171,10 @@ Ma shao súq pâı fúy jí moq.
 Ma shao súq, ꝡä paı súq jí móq?
 Ma shea chéoq moq.
 Ma shoe keoı súq jí áq móq?
-Ma shoe koy súq jí áq moq.
 Ma shua jĩa hóe moq.
 Ma shua jĩa míao moq.
 Ma shua jĩa púao moq.
 Ma shua jĩa séoq moq.
-Ma taı fa hü aıpujıo súq?
 Ma taı fa hû aıpujıo súq?
 Ma taocho huosı súq baq gıaq moq.
 Ma taocho huosı súq báq gıaq móq?
@@ -17233,7 +17193,6 @@ Ma tıjao gúaırıaq búajıo suqbo móq?
 Ma tıjao gúaırıaq súqbo buajıo moq.
 Ma tushı nıuboe bı luı shua máq sìy múao moq
 Ma tuze báq kuha leu móq?
-Ma tuzy baq naosaı kuha moq.
 Ma zao súq nháo?
 Ma zao súq sá chı ꝡâ bore píanete?
 Ma zao súq shú bou moq.
@@ -17347,7 +17306,6 @@ Maı máy tu nıaı ba.
 Maı máy tu req ba.
 Maı mí Gu áq da.
 Maı mí Shı áq da.
-Maı míy súq hu mí Hoemaı da!
 Maı míy súq hu mí Hoemaı da!
 Maı náq roı líq chéq da.
 Maı nháo mí Caılu rı géo naq moq.
@@ -17970,7 +17928,6 @@ mıa
 mıa
 mıa
 Mıa buo nháo da.
-Mıa chufaq moe jí da.
 Mıa dua nháo da.
 Mıa moe nãı jí da.
 mıabıa
@@ -18408,7 +18365,6 @@ mıutom
 mıutu
 mıutuq
 mıꝡezım
-míy
 mıybo
 Mıyma
 Mıyma
@@ -18893,7 +18849,6 @@ mụcoebaı
 mụcuao
 muche
 Mụcho jí zạ́faq.
-Mụcho nháo jéa lö chao.
 Mụcho nháo jéa lô chao.
 muchoa
 mụdıaq
@@ -19305,7 +19260,6 @@ mutu
 mutu
 muy
 muy
-múy
 muybo
 my
 myfy
@@ -22229,7 +22183,6 @@ po
 po
 po
 po-
-po baq aıpu ga jıo
 Po baq elu tíse.
 Po báq elu tíse.
 po baq lıq ga chıejıo
@@ -22586,7 +22539,6 @@ Pu dıeq pó jí ga roaqpıa sa sao juo còu jí
 Pu do hí raı súq ní móq?
 Pu doa bo hı raı ní súq moq.
 Pu doa bo hı raı ní súq moq.
-Pu doa còu máy sáo muao lêoq máq ja dùo féı seoq
 Pu doa còu máy sáo muao lêoq máq ja dùo féıseoq
 Pu doa duaı hó máy sa jaq noage
 Pu duasue jí nháo mâ taoshao fa mao fúy da.
@@ -22603,7 +22555,6 @@ Pu gaq cheo koy nháo jíbo pao dùo sa heı mınu
 Pu gıaqduy mí Cıqderela põı jaı tì gíaqpatı chòe núaqchu
 Pu hı moq.
 Pu hıaı bém.
-Pu hıaı sa be
 Pu hıaotao jí áq
 Pu hıo jí líq da.
 Pu hıo jí náq da.
@@ -22709,7 +22660,6 @@ Pú sea bı, naı guaı hó da.
 Pú sea bï, naı guaı hó da.
 Pu soa nháo sa bıa kune da.
 Pu soa nháo sá kune bıa da.
-Pu suaı jara déo
 Pu shaı koı tì kíao déo tüqfıa hó chúe
 Pu sheaq põı bu duy déo tüqsıe hóa chúe
 Pu sho nháo gôıche ja da.
@@ -23155,6 +23105,7 @@ ragoq
 ragoq
 ragoqzeo
 ragozeo
+rahatalokum
 Rahına
 Rahına
 Rahınagua
@@ -24463,7 +24414,6 @@ sá
 sa-
 sa-
 Sa arane bı dua jí chô súq árane.
-sa chome tüa kúne têa chóme
 sá chuq
 Sa duı puı toame bı choa há tushı mea tá põı bu hıaodaısı
 sá kue, ꝡë cho jí hóa
@@ -24523,7 +24473,6 @@ Sá poq nä lao jí, ꝡä tı hóa da.
 Sa pu nuo bı, guaı hó da.
 Sá pu nuo bï, guaı hó da.
 Sa puı naq bı, mıu jaq le hó hóq da.
-Sa raı bı chufaq chuq jí ráı da.
 Sa raı bı dua jí chô súq ráı da
 Sa raı bı shao jí tâo jí ráı.
 Sá raı nä chum chuq jí hóa da.
@@ -25784,7 +25733,6 @@ Soq huı hí raı, ꝡé luı tao nháo hóa móq?
 Soq huı lu tao nháo hóa ky hı raı moq.
 Soq lu rào hóa bı cıa bo baq muao baq nıuboe ky baq koacao
 soq nuı
-soq puı
 soq sao
 Soq sao ní jıo báq nıe nî doaq da.
 Soq sao ní jío baq nıe nı doaq da.
@@ -25967,7 +25915,6 @@ Suaq jí tó máq da.
 Suaq jí tou máq da.
 Suaq nháo tó máq da.
 Suaq nháo tou máq da.
-Suaq sa shuao
 Suaq sá shuao.
 Suaq tó jí máq da.
 Suaq tó nháo máq da.
@@ -26225,7 +26172,6 @@ suq
 suq
 suq
 suq
-súq
 súq
 súq
 súq
@@ -28169,7 +28115,6 @@ Tı baq kato jíbo soaq da.
 Tı báq kato jíbo soaq da.
 Tı baq kune jíbo soaq da.
 Tı báq kune jíbo soaq da.
-Tı déo hı moq.
 Tı déo hí móq?
 Tı fú nhaobo chíejıo da.
 tî hí
@@ -28492,7 +28437,6 @@ Tıo geo ní jıo moq.
 Tıo geo ní jıo móq?
 Tıo geo súq moq.
 Tıo geo súq móq?
-Tıo hoı kua bı sao máq moq.
 Tıo hú kua nä sao máq móq?
 Tıo nea mí Mısısıpı ga hıu moq
 Tıo raq kúqse jí moq.
@@ -28740,7 +28684,6 @@ tızua
 tızua
 tızuo
 tızuodo
-to
 tó
 to-
 To ra ruaq jeo súq hóq to ruaq bu súq hóq ba.
@@ -29165,7 +29108,6 @@ toru
 toru
 tọshı
 toteqdo
-tou
 tou
 tou
 tou'ıq
@@ -30110,7 +30052,6 @@ yko
 yko
 yqgy
 yzy
-yzy
 ỷ'o
 za
 za
@@ -30203,7 +30144,6 @@ Zao jí sa mı Gu da.
 Zao jí sá mı Gu da.
 Zao jí sa mı Hoaqgıo da.
 Zao jí sá mı Hoaqgıo da.
-Zao jí sa mı Hoemaı da.
 Zao jí sá mı Hoemaı da.
 Zao jí sa mı Lına da.
 Zao jí sá mı Lına da.
@@ -30294,7 +30234,6 @@ zazıkı
 ze
 ze
 - ze
-zé
 zé
 ze-
 zeı
@@ -30685,8 +30624,6 @@ zutogıq
 zutoshao
 zutoshaone
 zuy
-zuy
-Zuy pó chíetua ga tuımy.
 Zuy réqmy pö núı deo
 zuychoq
 zuydea
