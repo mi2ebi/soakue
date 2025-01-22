@@ -4532,6 +4532,12 @@ boqloq ± `en` @seaqtaq #xdw9IBz4u
 boqmıaq ± `en` @uakci #qymX9JDFC
 ▯ is unrealized/squandered value in ▯.
 
+boqnua ± `en` @Laqme #PGKrIoTC6
+▯ unleashes / unfetters / unshackles / unchains / sets ▯ free.
+
+boqraı ± `en` @Laqme #ohqOIfr9-
+▯ is a restraint / trammel / chain / shackle / fetter.
+
 boqsa ± `en` @uakci #0XEwSmZYJ
 ▯ is a preventable loss; ▯ happens, woefully, but could easily have been prevented with a tiiny bit of foresight.
 
@@ -17176,6 +17182,9 @@ dolom ± `ru` @SuperSpaceNiM #wDwieQQbi
 dolomhua ± `en` @jiqci #wkbvjyfXE
 ▯ is an eardrum.
 
+dolomrueqguhu ± `en` @jiqci #BFV0bWLzh
+▯ is a tensor tympani muscle.
+
 dom +1 `en` @fagri #KNxFHz4X_
 ▯ is inactive/asleep/off/disengaged
 
@@ -23868,6 +23877,9 @@ predicate: ‘gray’; ▯ is a gray (unit of measurement)
 
 gereleoqtıechao ± `en` @Ilmen #jvurCINFq
 ▯ is a vehicle covered with an anti-drone hedgehog shell (densely covered with spikes).
+
+geretao ± `en` @jiqci #YSu59F3QT
+▯ curls up into a ball.
 
 gero +1 `en` @Ilmen #nGjowJvr_
 ▯ is a crane (Grus genus)
@@ -36279,6 +36291,9 @@ jıaleo ± `en` @uakci #nRKBOZ5Y9
 jıaleo ± `en` @uakci #MDe9jYnFw
 ▯ intends to do ▯ at some point in the future.
 
+jıam ± `en` @jiqci #t0W6G5pqt
+▯ kills ▯.
+
 jıame +1 `en` @uakci #nRSxrDexM
 ▯ is a/the future; ▯ is a/the sum of upcoming/yet-to-arise events.
 
@@ -46455,7 +46470,7 @@ laqcaı ± `pl` @jiqci #c8pje01M5D
 laqcaı ± `toa` @uakci #bKnZVD-gn
 caı dóshı laq da
 
-laqcıa ± `en` @robintown #aSLa-Htrx
+laqcıa +1 `en` @robintown #aSLa-Htrx
 ▯ is silent/soundless.
 
 laqchue ± `en` @uakci #XQKsz5ZDw
@@ -68453,6 +68468,9 @@ puımıq ± `en` @Ilmen #6V6-l7857
 puımkuo ± `en` @Laqme #jmy859V6d
 ▯ is pitch black / inky black.
 
+puımmuo ± `en` @robintown #NdG3wT3_f
+▯ is filled in / colored in / graphically "solid".
+
 puımo ± `en` @jiqci #HTeoU5fpE
 ▯ is a squid (orders Myopsida, Oegopsida, Spirulida).
 
@@ -69954,6 +69972,9 @@ rea'ıq ± `en` @Laqme #QJr5lPMJD
 reacıa ± `en` @jiqci #f-VQqgfmq
 ▯ is an open set (topological sense).
 
+reacıa ± `en` @robintown #JdDJeuL3L
+▯ is without definite boundaries / extends ambiguously or perhaps indefinitely far into its environment.
+
 reacıkı ± `en` @seaqtaq #u_CuX9bUR
 ▯ is serrated/sawlike
 
@@ -69962,6 +69983,9 @@ readıa ± `en` @seaqtaq #ch0qCIvsu
 
 reafana +1 `en` @robintown #hHJM5aZMF
 (Lanao) ▯ is outbound / headed to the outskirts of the spiral.
+
+reagıu ± `en` @Laqme #QMRxpt7bA
+▯ is an outline.
 
 reahuashoaı ± `en` @Ilmen #D0LdNwPTL
 ▯ is a colugo (Dermoptera taxonomic order).
@@ -70388,6 +70412,15 @@ reotoq ± `en` @Laqme #Gmp39-g9x
 
 reotuaı ± `en` @Hoemai #pQi8W8ZaP
 ▯ is a chromosome.
+
+reotuaıme ± `en` @Ilmen #tX8GP6saH
+▯ is a full set of chromosomes.
+
+reotuaımedıu ± `en` @Ilmen #O8qfb9w-9
+▯ is karyology.
+
+reotuaımerıoqbo ± `en` @Ilmen #AbMpGbtBs
+▯ has karyotype ▯.
 
 repaı ± `en` @jiqci #RTsrVt26s
 ▯ is a frenemy of ▯.
@@ -78000,6 +78033,9 @@ suımjeq ± `en` @jiqci #IctEGzeC_
 
 suımma ± `en` @seaqtaq #ista65j6R
 ▯ is something which is in a state of cleanliness or orderliness
+
+suımmuo ± `en` @Laqme #qbomKg8Cn
+▯ (binary relation) is a total order.
 
 suımse +1 `en` @Laqme #_FKK0m_m9
 ▯ is order.
@@ -85849,6 +85885,9 @@ toabuı ± `en` @uakci #GYJPG7Lbk
 toabuıchıaq ± `en` @uakci #kKZhVVv_2
 ▯ knows ▯ but can’t put it in words / find words for it; ▯ has incommunicable awareness of ▯.
 
+toacıa +2 `en` @Laqme #0ATiUcLaC
+There's no (Toaq) word for ▯.
+
 ⚠ @toacıa ± `en` @Ilmen #hpisR-GbA
 ▯ is flaccid.
 
@@ -85866,9 +85905,6 @@ toabuıchıaq ± `en` @uakci #kKZhVVv_2
 
 ⚠ @toacıa ± `en` @salarua #cwbK2MykJ
 ▯ is a pleura.
-
-toacıa ± `en` @Laqme #0ATiUcLaC
-There's no (Toaq) word for ▯.
 
 toacue ± `en` @Laqme #CX-6dFuSj
 ▯ (phrase) scopes over ▯ (phrase).

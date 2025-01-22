@@ -1509,6 +1509,8 @@ boqle
 boqleo
 boqloq
 boqmıaq
+boqnua
+boqraı
 boqsa
 boqsaı
 boqsıa
@@ -5723,6 +5725,7 @@ dole
 dolom
 dolom
 dolomhua
+dolomrueqguhu
 dom
 domcıoq
 domeı
@@ -7954,6 +7957,7 @@ gereba
 Gerebadam
 gereı
 gereleoqtıechao
+geretao
 gero
 gerobea
 gerou
@@ -12090,6 +12094,7 @@ jıakoekao
 jıakuaı
 jıaleo
 jıaleo
+jıam
 jıame
 jıame
 jıamıq
@@ -22813,6 +22818,7 @@ puımıeqdıu
 puımıeqtaı
 puımıq
 puımkuo
+puımmuo
 puımo
 puımoe
 puımu
@@ -23312,9 +23318,11 @@ rea
 rea
 rea'ıq
 reacıa
+reacıa
 reacıkı
 readıa
 reafana
+reagıu
 reahuashoaı
 reahueq
 reaı
@@ -23457,6 +23465,9 @@ reosıa
 reosıa
 reotoq
 reotuaı
+reotuaıme
+reotuaımedıu
+reotuaımerıoqbo
 repaı
 req
 req
@@ -25993,6 +26004,7 @@ suımea
 suımgeaq
 suımjeq
 suımma
+suımmuo
 suımse
 suımsıq
 suımsıu
@@ -28609,13 +28621,13 @@ toabu
 toabuaq
 toabuı
 toabuıchıaq
-@toacıa
-@toacıa
-@toacıa
-@toacıa
-@toacıa
-@toacıa
 toacıa
+@toacıa
+@toacıa
+@toacıa
+@toacıa
+@toacıa
+@toacıa
 toacue
 toacuerıaq
 toachıeq
