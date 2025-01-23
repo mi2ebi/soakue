@@ -406,7 +406,7 @@ aıpam ± `en` @jiqci #pCrXWB1Q7
 aıpe +1 `en` @akesi #dXVY8Yl0y
 ▯ is a gnome, dwarf, or the like
 
-aıpı +2 `en` @akesi #myVFBVHD6
+aıpı +1 `en` @akesi #myVFBVHD6
 ▯ is a faerie/fairy, an elf or an imp, or a brownie. 
 in the spirit of aıpū but with an ī because i find it cuter
 
@@ -23587,6 +23587,9 @@ geısıa ± `en` @Ilmen #yvXFTtzKJ
 geısıao ± `en` @uakci #mW3CDiDIb
 ▯ is underwear.
 
+geıshaı ± `en` @jiqci #V10X-JrCy
+▯ takes clothing ▯ off.
+
 geısho ± `en` @Laqme #XjfC1Danf
 ▯ puts on (starts wearing) ▯.
 
@@ -33512,6 +33515,9 @@ jaıjaı ± `en` @Ilmen #yq3X7-Ndn
 jaıjaıkuaq ± `en` @Ilmen #nuYQFs9OH
 ▯ congratulates ▯ for satisfying property ▯.
 
+jaıjıam ± `en` @Laqme #rUiAB2O9f
+▯ kills ▯'s joy.
+
 jaıkaqhua +1 `en` @fagri #FT_Fa_lDX
 ▯ squeezes their eyes in an expression of positive emotion
 
@@ -36294,20 +36300,47 @@ jıaleo ± `en` @uakci #MDe9jYnFw
 jıam ± `en` @jiqci #t0W6G5pqt
 ▯ kills ▯.
 
+jıamche ± `en` @Laqme #Ew5cOoWiq
+▯ is an assassin.
+
 jıame +1 `en` @uakci #nRSxrDexM
 ▯ is a/the future; ▯ is a/the sum of upcoming/yet-to-arise events.
 
 jıame ± `en` @jiqci #tvf4uUkI0
 ▯ is a/the future.
 
+jıamfeı ± `en` @Laqme #Xm94ZwZhH
+▯ is berserk / in a violent rage.
+
 jıamıq ± `en` @fagri #CUjJxiQ9U
 ▯ will always be the case
+
+jıamlua ± `en` @Laqme #GdovJHIam
+▯ is a murder mystery.
+
+jıammuaq ± `en` @Laqme #MnygnWOAG
+▯ has been killed/murdered.
+
+jıamnuaı ± `en` @Laqme #OZhoxQSNI
+▯ is a bounty / prize on someone's head.
+
+jıamnha ± `en` @Laqme #iVV6VyKC8
+interjection: "I'll kill you! You're going down!"
 
 jıamoaq ± `en` @lassc #vw7l37HYx
 ▯ envisions/forecasts the consequence/outcome of action ▯.
 
 jıamoaq ± `en` @Ilmen #RBMxfFNlc
 ▯ has memory of future event ▯.
+
+jıamtaı ± `en` @Laqme #3ePxi2zb1
+▯ slays / vanquishes ▯.
+
+jıamtaq ± `en` @jiqci #_ygFkmJB5
+▯ commits suicide.
+
+jıamte ± `en` @Laqme #MZNGH_pYr
+▯ has been killed/murdered.
 
 jıana ± `en` @Ilmen #wGZ9vq-qO
 ▯ will be the case in the future, after the focused time interval.
@@ -61439,6 +61472,9 @@ nojase ± `en` @Laqme #3i4t2gSWp
 nojıaq ± `en` @jiqci #0khHYlCWL
 ▯ is the universe in which literature/work/media ▯ is set.
 
+noke ± `en` @jiqci #1ZJ8INLif
+▯ is a bomb.
+
 nokıu ± `en` @uakci #HrUUVmlSu
 ▯ is semantically potent/bearing as a medium/format/carrier; ▯ is a plausible medium.
 
@@ -70263,6 +70299,9 @@ predicate: ‘coloured’; ▯ is coloured; ▯ is of colour ▯.
 reo ± `en` @Machy #wQoDYPWb2
 predicate: ‘colored’; ▯ is colored; ▯ is of color ▯.
 
+reo ± `en` @Laqme #PloWQglHg
+▯ is a color.
+
 reo ± `ja` @Laqme #6IJ87o3PD
 ▯は色付き；▯に▯という色が付いている
 
@@ -79015,6 +79054,9 @@ shaohuı ± `pl` @jiqci #PcUuRV77fQ
 shaojao ± `en` @lotofago #H2UnGHQz0
 ▯ wants to avoid ▯ ; ▯ wants event ▯ to not happen.
 
+shaojıam ± `en` @Laqme #oD17JBm0F
+▯ murders ▯.
+
 shaojuı ± `en` @lotofago #wB4o0-i2b
 ▯ is attracted to ▯ ; ▯ want event ▯ to happen
 
@@ -79131,6 +79173,9 @@ shaqkea +1 `en` @Laqme #vHV8X9ZPF
 
 shaqkearom ± `en` @Laqme #XzDSjDemD
 ▯ is a terminal emulator / console.
+
+shaqkerapıu ± `en` @jiqci #SsiYYSlom
+▯ is a prefrontal cortex.
 
 shaqkıa ± `en` @Ilmen #EwKG7u7Zz
 ▯ blushes.
@@ -88170,6 +88215,9 @@ predicate: ‘bench’; ▯ is a bench.
 tuıtoq ± `pl` @jiqci #8eXYB9iZsG
 ▯ to ławka.
 
+tujıam ± `en` @Laqme #0f488jcHl
+▯ exterminates / causes ▯ to go extinct.
+
 tujuı ± `en` @Ilmen #4XSj2joGG
 Almost all of ▯ satisfy the property ▯.
 
@@ -89986,7 +90034,7 @@ interjection: watch out!, keep this in mind!, you’d better not!, pay attention
 zagıq ± `en` @uakci #lhItlRfH6
 ▯ has just stopped being the case; ▯ is freshly done. (cessative aspect)
 
-zaı +2 `en` @Hoemai #3cfDxspI7
+zaı +3 `en` @Hoemai #3cfDxspI7
 ▯ hopes that ▯ is the case.
 
 zaı +1 `en` @robintown #NBSOMczfr
@@ -90834,6 +90882,9 @@ zıqhuıche +1 `en` @Laqme #rI0sSBhin
 
 zıqjao ± `en` @uakci #vR3rnjUlU
 ▯ happens remotely / over the internet.
+
+zıqjıam ± `en` @Laqme #xH3ktzHzR
+▯ bans ▯ (from some online space).
 
 zıqjıaq ± `en` @Laqme #EYHqq8AwA
 ▯ is an online/digital world / cyberspace.
