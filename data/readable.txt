@@ -14165,6 +14165,9 @@ chuqjuao +1 `en` @seaqtaq #sEpSCUpLX
 chuqjuao gạnhoa ± `en` @seaqtaq #shv_-CpTZ
 ▯ is a starvation diet
 
+chuqke ± `en` @jiqci #8Id_ZQccq
+▯ is a snack/treat.
+
 chuqkua ± `en` @seaqtaq #x1Q-h81NF
 ▯ is a dining room
 
@@ -16896,6 +16899,9 @@ doedao ± `en` @uakci #MDhv4PrDF
 
 doedı ± `en` @Laqme #bbjNGo9u7
 ▯ MAY be the case according to technical specification; ▯ MAY be the case if ▯ is the case.
+
+doedıu ± `en` @Laqme #vt9jRK6WO
+▯ is physiology.
 
 doeduaı ± `en` @Laqme #709vYqZEZ
 ▯ MUST be the case according to technical specification; ▯ MUST be the case if ▯ is the case.
@@ -55532,6 +55538,12 @@ moıchu +1 `en` @robintown #wDEqr4N7e
 moıchucıa ± `en` @seaqtaq #xMoYBRwDo
 ▯ is mindless/brainless/obtuse/dull
 
+moıchuche ± `en` @Laqme #8JOtQwU49
+▯ is psychologist.
+
+moıchudıu ± `en` @Laqme #0HL1LSx5Q
+▯ is psychology.
+
 moıchue -1 `en` @uakci #3diVMfnsi
 ▯ is a train of thought; ▯ is a series of thoughts, each arising from the one before; ▯ is a sequential thought process; ▯ is a stream of consciousness.
 
@@ -58717,6 +58729,9 @@ nasa +1 `en` @robintown #IIqm6jbIr
 
 nasa ± `tok` @el #dI7Uuh4qH
 ▯ li nasa li ike
+
+nasıq ± `en` @Laqme #AgoToPasI
+▯ is a "deliberate idiolect" / the way someone uses a (usually constructed) language.
 
 naso -1 `en` @Hydro #YiMhfPSob
 ▯ is a nose.
@@ -83484,6 +83499,9 @@ tefam ± `en` @Laqme #SDreY9CDD
 
 tefamıa ± `en` @seaqtaq #mhlNWC3Di
 ▯ is knotty/gnarly/gnarled/twisted/knotted
+
+tefamnam ± `en` @evie #08lDOKxCP
+▯ is a pretzel
 
 tefatezeq ± `en` @jiqci #KW6uvWSzw
 ▯ is a quagmire / tangled mess of a situation.
