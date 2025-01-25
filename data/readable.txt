@@ -2633,10 +2633,10 @@ focus particle prefix form: ‘FOC.CONTR’; contrastive focus
 beı'o ± `en` @Ilmen #Nu5r_TUBm
 ▯ is wine (an alcoholic beverage made by fermenting the juice of grapes).
 
-beıgo ± `en` @Laqme #ix1m9NQiU
+beıgo +1 `en` @Laqme #ix1m9NQiU
 ▯ is a bagel.
 
-⚠ beıgou +1 `en` @el #F5kQEeqd5
+⚠ beıgou ± `en` @el #F5kQEeqd5
 ▯ is a bagel.
 
 beıho +1 `en` @Hoemai #yC8ge5CrK
@@ -3911,7 +3911,7 @@ bıutıaı ± `en` @robintown #xueirVCoR
 bıutoaı ± `en` @Ilmen #VpgC5jIKK
 ▯ is a ring (shape).
 
-bıutoaıhaq ± `en` @seaqtaq #ejIdKUMNB
+bıutoaıhaq -1 `en` @seaqtaq #ejIdKUMNB
 ▯ is a bagel/donut
 
 bıutuaı ± `en` @robintown #i0T4D8Lyb
@@ -9538,6 +9538,9 @@ chadua +1 `en` @uakci #_8A31jUns
 
 chafaq ± `en` @fagri #nEE58BMkk
 ▯ takes place in a way that suggests that ▯ is true
+
+chagı ± `en` @Laqme #q8LeGl5Se
+▯ happens properly / thoroughly.
 
 chahatapoq ± `en` @Ilmen #-Tae0Ta5D
 ▯ is a Choctaw person.
@@ -17215,7 +17218,7 @@ domzue ± `en` @seaqtaq #lL_LE5nSj
 dona +1 `en` @Isi #F-MN7g2PX
 predicate: ‘giving.to’; ▯ is an event of something being given to recipient ▯.
 
-donata ± `en` @robintown #iY_eK0cKq
+donata +1 `en` @robintown #iY_eK0cKq
 ▯ is a donut/doughnut.
 
 done ± `en` @Laqme #lqRCwFLw-
@@ -18058,7 +18061,7 @@ duao ± `tok` @nano #VLm-AjsV0
 duao'adaso ± `en` @robintown #0htdRBieU
 ▯ is anise.
 
-duaobıu ± `en` @uakci #UPEx2zLYE
+duaobıu +1 `en` @uakci #UPEx2zLYE
 ▯ is a donut.
 
 duaoboe +1 `en` @fagri #BXP7Nzq89
@@ -18073,7 +18076,7 @@ duaochaı +1 `en` @robintown #mlXFFOTJA
 duaodu ± `en` @uakci #mirCrnKji
 ▯ is an artificial sweetener.
 
-duaoduaoreı ± `en` @uakci #fsonbYGHU
+duaoduaoreı -1 `en` @uakci #fsonbYGHU
 ▯ is a donut.
 
 duaofaseo +1 `en` @salarua #YPyWcNNYR
@@ -18100,7 +18103,7 @@ duaoloha ± `en` @seaqtaq #KGzhQXkmE
 duaomara +1 `en` @uakci #dpSSGvBL9
 ▯ is cotton candy / fairy floss.
 
-duaomuoıhaq ± `en` @seaqtaq #6sa3szJhU
+duaomuoıhaq -1 `en` @seaqtaq #6sa3szJhU
 ▯ is a donut
 
 ⚠ duaonaby ± `en` @uakci #UiQnilOxS
@@ -18118,7 +18121,7 @@ duaopuao ± `en` @seaqtaq #ZZhrxdpnu
 duaopuo ± `en` @fagri #KH7pCaEUm
 ▯ is sugar
 
-duaoreı ± `en` @uakci #9CIzaWiW3
+duaoreı -1 `en` @uakci #9CIzaWiW3
 ▯ is a donut.
 
 duaosaı ± `en` @seaqtaq #gwb52TaBA
@@ -42101,7 +42104,7 @@ kı- ± `tr` @kazoo #Jf3DiDcKD
 kı'ao ± `en` @seaqtaq #hGKLgfKuS
 ▯ is a valve
 
-kıa ± `en` @official #SDXJvXU7-0
+kıa +1 `en` @official #SDXJvXU7-0
 predicate: ‘red’; ▯ is red.
 
 kıa ± `pl` @jiqci #Pi5B_NplRw
@@ -42767,7 +42770,7 @@ kıoqmuoı ± `en` @seaqtaq #acbauIoPX
 kıoqmuoıfuıchuoraq ± `ru` @jiqci #Mz8TsAgfg
 ▯ шарикоподшипниковое.
 
-kıoqmuoıhaq ± `en` @seaqtaq #pl6Z4QSD7
+kıoqmuoıhaq -1 `en` @seaqtaq #pl6Z4QSD7
 ▯ is a bagel/donut
 
 kıoqnuoqchuo ± `en` @jiqci #A-bUNy6re
@@ -48750,7 +48753,7 @@ loaloa ± `en` @robintown #xjJjbLXlA
 loanıu ± `en` @uakci #2gfvyn4Mq
 ▯ is a violet; ▯ is a plant of genus Viola.
 
-loanhe +3 `en` @Laqme #ExdMnXvX2
+loanhe +2 `en` @Laqme #ExdMnXvX2
 ▯ is an event with an extent metaphorically expressed by the hue of ▯: red is (almost) none, orange a little more, (etc.), and purple is very much.
 
 loao +1 `en` @fagri #irTpBtujm
@@ -52631,6 +52634,9 @@ mazıboe ± `en` @uakci #wr3f1e1Tp
 
 mazıcheı ± `en` @uakci #Xx9oOsK0S
 ▯ are french fries / chips.
+
+mazıkochom ± `en` @jiqci #6npxImLW4
+▯ is a Colorado potato beetle (Leptinotarsa decemlineata).
 
 mazıme ± `en` @uakci #cMNYfJaER
 ▯ does ▯, refuses to elaborate, then leaves.
@@ -57496,6 +57502,9 @@ muqne +1 `en` @Laqme #NLFkJjNrh
 
 muqnıeq ± `en` @Laqme #YDok-DUW7
 ▯ is clumsy / bad with their hands / has poor fine motor skills.
+
+muqnoke ± `en` @jiqci #O0EijUwzn
+▯ is a grenade (handheld explosive weapon).
 
 muqnotuqkea ± `en` @Ilmen #yOz0aM2E6
 ▯ is a grenade (handheld explosive weapon).
@@ -74235,6 +74244,9 @@ saqsuse +1 `en` @robintown #tC9TsCRXG
 
 saqsheutoluze ± `en` @jiqci #8vdNKrjwy
 ▯ is trinitrotoluene / TNT.
+
+Saqshım ± `en` @jiqci #s-6rDmlad
+▯ is the Orion's Belt (asterism).
 
 saqtıq ± `en` @jiqci #hXL589llG
 ▯ is a triomino.
