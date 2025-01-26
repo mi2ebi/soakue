@@ -1,4 +1,17 @@
 @font-face {
+    font-family: "Noto Sans";
+    src: url("https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/refs/heads/gh-pages/fonts/NotoSans/hinted/ttf/NotoSans-Regular.ttf");
+}
+@font-face {
+    font-family: "Noto Sans";
+    src: url("https://raw.githubusercontent.com/notofonts/latin-greek-cyrillic/refs/heads/gh-pages/fonts/NotoSans/hinted/ttf/NotoSans-Bold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Noto Sans CJK JP";
+    src: url("https://raw.githubusercontent.com/notofonts/noto-cjk/refs/heads/main/Sans/OTF/Japanese/NotoSansCJKjp-Regular.otf");
+}
+@font-face {
     font-family: "Iosevka Toaq Aile";
     src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaqAile-Regular.woff2") format(woff2);
 }

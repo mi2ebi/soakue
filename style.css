@@ -2,8 +2,11 @@
     box-sizing: border-box;
     transition: background-color 0.2s;
 }
+:root {
+    --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile";
+}
 body {
-    font-family: var(--sans), "Iosevka Toaq Aile";
+    font-family: var(--font);
     max-width: 600px;
     margin: 0 auto;
     padding: 8px;
@@ -16,7 +19,7 @@ body {
 input[type=text] {
     padding: 4px;
     width: 300px;
-    font-family: var(--sans), "Iosevka Toaq Aile";
+    font-family: var(--font);
     border: none;
     margin-bottom: 4px;
     font-size: inherit;
@@ -42,7 +45,7 @@ a:hover {
 }
 code {
     color: #7f5b2b; /* 50 .08 72 */
-    font-family: "Iosevka Toaq", var(--sans);
+    font-family: "Iosevka Toaq", var(--font);
 }
 :is(#bottom, #res, #len):not(:empty) ~ #howto {
     display: none;
@@ -66,9 +69,6 @@ dd {
 .toa {
     color: #615c8e; /* 50 .08 288 */
     font-weight: 700;
-}
-.u25af {
-    font-family: sans-serif;
 }
 .score, .score a {
     color: #805175; /* 50 .08 336 */
