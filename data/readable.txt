@@ -13214,6 +13214,9 @@ chuadoem ± `en` @seaqtaq #ptxG8pohd
 chuadua ± `en` @Ilmen #QfUkuIaoT
 ▯ knows by name ▯ thing or person ▯.
 
+chuahıa ± `en` @Laqme #uw1RTii7W
+What's ▯ called?
+
 chuahımoq +1 `en` @uakci #8dBkHGmQm
 ▯ is a thingy, widget, thingamajig, whatchamacallit.
 
@@ -41100,6 +41103,9 @@ kaze ± `en` @lassc #Bls-rMJsd
 kazeguo +1 `en` @lassc #KoJas3wXr
 ▯ is a beat/pulse/throb.
 
+kazela ± `en` @jiqci #GalC-Xu_1
+▯ pulses/beats/throbs.
+
 kazu +2 `en` @el #H8o0nGRKB
 ▯ is a kazoo
 
@@ -61519,6 +61525,9 @@ predicate: ‘gustatory’; ▯ is gustatory; ▯ pertains to the sense of taste
 
 noq ± `pl` @jiqci #3dnp-DenQk
 ▯ jest smakowy, związany ze zmysłem smaku.
+
+noqba ± `nl` @robintown #lDzKLfIpj
+tussenwerpsel: 'Smakelijk!'
 
 noqbeq ± `en` @jiqci #C6pehj9A0
 ▯ is a tastebud.
@@ -86028,6 +86037,9 @@ toahaka -1 `en` @Ilmen #x2EZxel2m
 
 toaheo ± `en` @Ilmen #QVtopzfB7
 ▯ is a rewording of sentence/text ▯.
+
+toahıa ± `en` @Laqme #eipS1F5qk
+What's the word for ▯?
 
 toahıaq ± `en` @uakci #_9PMRt3yZ
 ▯ is laconic / aphoristic / epigrammatical / pithy.
