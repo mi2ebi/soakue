@@ -8624,6 +8624,9 @@ coetua ± `pl` @jiqci #_C5Xf52Uru
 coetua ± `tok` @nano #H8Bo8c7uy
 ▯ li wan e ona la ▯ en ▯ li wan.
 
+coeze ± `en` @Laqme #8xywxlZDg
+▯ is glue / paste.
+
 coezo ± `en` @salarua #nDgjGtbkb
 predicate: ‘pin’; ▯ is a pin
 
@@ -16294,6 +16297,9 @@ dıekuq ± `en` @uakci #t3vSHzsuR
 
 dıelea ± `en` @Laqme #bZfPifO0c
 ▯ is rhetoric.
+
+dıeluoq ± `en` @Laqme #iJrVcyM0Q
+▯ debates ▯.
 
 dıem ± `en` @Laqme #THXeop8O3
 ▯ is a shop/store.
@@ -33035,6 +33041,9 @@ predicate: ‘take.property’; ▯, from ▯, takes/removes property ▯.
 ıqsa ± `en` @Ilmen #w0YhmH9KM
 Something has property ▯.
 
+ıqsa'ıqsa ± `en` @Laqme #V4QyQEK4j
+▯ satisfy property ▯ one after another / bit by bit (uncoordinated).
+
 ıqse ± `en` @Laqme #4KdBrMxwU
 ▯ is jade / jadeite / nephrite.
 
@@ -33175,6 +33184,9 @@ predicate: ‘wind’; ▯ is a wind/breeze.
 
 ıruefa ± `en` @robintown #d964nZYYn
 ▯ sails to ▯.
+
+ıruejake ± `en` @robintown #lQ6Ao1va_
+▯ is a windbreaker.
 
 ıruekea ± `en` @el #Cv9i_O9hp
 ▯ is a fan
@@ -49281,6 +49293,9 @@ loq'e ± `en` @uakci #IhVgzEWqE
 loqbıa ± `en` @Ilmen #8pbuXGjBQ
 ▯ suffers heat illness ▯.
 
+loqboq ± `en` @Laqme #np-Fd1qZy
+▯ staves off the heat / keeps you cool.
+
 loqcaıpıo ± `en` @Snow #oqS9xOvPK
 ▯ is hornfels.
 
@@ -49322,6 +49337,9 @@ predicate: ‘heatstroke’; ▯ suffers heatstroke
 
 loqduı ± `en` @Machy #pf_OvQFtN
 ▯ burns (is damaged from too much heat).
+
+loqge ± `en` @Laqme #P_0xtW5VS
+▯ offers warmth / heats you up / keeps you warm.
 
 loqgearı ± `en` @jiqci #T5Jg5ZGPC
 ▯ is a blast furnace.
@@ -61526,6 +61544,9 @@ predicate: ‘gustatory’; ▯ is gustatory; ▯ pertains to the sense of taste
 noq ± `pl` @jiqci #3dnp-DenQk
 ▯ jest smakowy, związany ze zmysłem smaku.
 
+noqba ± `en` @Laqme #Lmen3FJpp
+interjection: said before sharing a meal
+
 noqba ± `nl` @robintown #lDzKLfIpj
 tussenwerpsel: 'Smakelijk!'
 
@@ -67376,7 +67397,7 @@ pozola ± `en` @robintown #Gvk4eppiV
 ⚠ predıcate +3 `en` @Laqme #eRB2wK4sc
 ▯ is a dirty SEO hack, and the Toaq word for "predicate" is **saja** or **jabı**.
 
-⚠ psyac ± `en` @Machy #xenMy4HLX
+⚠ psyac -1 `en` @Machy #xenMy4HLX
 ▯ violates ordinary phonotactics of language ▯.
 
 pu +1 `toa` @Ilmen #gdQwr5JGU
@@ -68939,6 +68960,9 @@ puqtoeq ± `en` @uakci #87EToDiGx
 
 puqtoq ± `en` @jiqci #WaId88z5R
 ▯ is a polyhedron.
+
+puqzıu ± `en` @kazoo #3odEtq7y1
+▯ is a coefficient of ▯
 
 puqzuchıeq ± `en` @robintown #_BwozxoA5
 ▯ is cross-linguistic (common to some set of languages).
@@ -76880,6 +76904,9 @@ soıneam ± `en` @jiqci #zMQZwklkS
 soıpaı +1 `en` @lassc #lhchetvBb
 ▯ is a rival of ▯.
 
+sóıroı ± `en` @Laqme #hBxNXlGOy
+plural coordinator: 'versus'
+
 soıruo ± `en` @uakci #nvJ0BTI8S
 ▯ is an act of violence; ▯ commits act of violence ▯.
 
@@ -78319,7 +78346,7 @@ Suomıgua ± `en` @countries #hkCGVuSXYWw
 ⚠ Suomıgua -1 `en` @oldcountries #vSnPjZAIu
 ▯ is the country Finland – Republic of Finland.
 
-⚠ suomꝡı -1 `en` @Ilmen #jFhDgD3wr
+⚠ suomꝡı -2 `en` @Ilmen #jFhDgD3wr
 ▯ is us (he, she, they & you & I).
 
 suoq +3 `en` @Machy #GI1xELz5Q
@@ -84151,7 +84178,7 @@ teugu ± `en` @uakci #ohkLf7VKc
 teujeaq ± `en` @jiqci #E83RIub-7
 ▯ grows exponentially, exhibits exponential increase in property ▯.
 
-teuq ± `en` @jiqci #xYghiVm0Y
+teuq +1 `en` @jiqci #xYghiVm0Y
 ▯ is a square.
 
 teuq- ± `en` @evie #5IsKZhsga
@@ -90630,6 +90657,9 @@ The apple is a fruit.
 
 ⚠ Zeo shámu. -1 `en` @oldofficial #KEc4-kRcRp
 The apple is a fruit.
+
+zeocoeze ± `en` @Laqme #MERxCQDxt
+▯ is pectin.
 
 ⚠ zeoduaozy -2 `en` @Laqme #skYniC7Ae
 ▯ is fructose.
