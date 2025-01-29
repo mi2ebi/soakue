@@ -36141,6 +36141,9 @@ The doctor will tell us whether the girl is well.
 Jıa tua dua góıche úmo, mä roe náqdeo da. ± `en` @examples #vAKsExieWx
 The doctor will tell us whether the boy is well.
 
+jıa'aı +1 `en` @Laqme #vCrJe2zPq
+▯ is futuristic / ultra-modern.
+
 jıabuaq ± `en` @uakci #9xkY2lPyV
 ▯ forgets to do ▯.
 
@@ -40454,6 +40457,9 @@ kaqcoe ± `en` @Laqme #JEsz4r1tm
 
 kaqchıeqse ± `en` @jiqci #7wK0Z0dhE
 ▯ is an optic chiasm.
+
+kaqcho +1 `en` @Laqme #EtCvBDwi2
+▯ likes the look of / finds ▯ pretty.
 
 kaqchu +1 `en` @uakci #G0WNKVbdj
 ▯ is the retina of an eye.
@@ -59309,6 +59315,9 @@ neqgı ± `en` @fagri #5xH7YlSPD
 neqgıq ± `en` @xorxes #4yYbAE0q-
 ▯ is determined by fate / predestined for ▯.
 
+neqgochıq ± `en` @Laqme #EZXC-S0XE
+▯ is a maneki-neko / lucky cat.
+
 neqjoı ± `en` @seaqtaq #_QgHae1pf
 ▯ is coincidental to ▯
 
@@ -68680,6 +68689,9 @@ pújı ± `en` @Ilmen #0JtQcSOEW
 
 pujıa +1 `en` @el #4nlFfK4QP
 ▯ was/is/will happen/ing; ▯ (will) satisfied/es/y ▯ (the tense arising from time travel, where all of **pu** / **naı** / **jıa** become unhelpful)
+
+pujıa'aı +1 `en` @jiqci #wDAjAiSt1
+▯ is retro-futuristic; ▯ is how the future/modernity used to be envisioned.
 
 pujıchaq ± `en` @seaqtaq #NZ0Xznmw_
 ▯ is the previous period in which the speaker was awake; ▯ is "yesterday"
@@ -87267,6 +87279,9 @@ predicatizer: ‘distributive identity’; turns following phrase X into predica
 
 ⚠ toyq ± `en` @Ilmen #5OpQXWA8n
 separator: medial conjunction in polyadic forethought conjunction constructions: to RU … toyq … (toyq … (toyq … (…))).
+
+⚠ tramchao +2 `en` @Laqme #OJAc9BHyO
+▯ is a tram car.
 
 tu ± `ja` @Laqme #clKDzZ-hs
 限定詞：「あらゆる…」（全称記号、∀）
