@@ -461,6 +461,9 @@ Aıueo [ja] [ja] [ja]
 aıze ± `en` @uakci #H6NCcdvOI
 polarity: ‘bad presupposition’ (e.g., a failed reference to something which does not exist)
 
+aızıa ± `en` @TheAndSys #LnyMp1gSe
+▯ satisfies property ▯ openly and without reservation
+
 aızoq ± `en` @TheAndSys #1wsB5vaw8
 ▯ is the letter y
 
@@ -8206,6 +8209,9 @@ cıkı ± `en` @Laqme #2j-uLNRNK
 
 cıkınam ± `en` @Laqme #DfU781nTq
 ▯ is toast.
+
+cıkınamkea ± `en` @jiqci #okmWWK-N_
+▯ is a toaster.
 
 cıko ± `en` @official #eQdRfasbb4
 predicate: ‘sixth’; ▯ is sixth among ▯.
@@ -56177,6 +56183,9 @@ muaoceme ± `en` @jiqci #Dfs0xTn14
 muaogaı +2 `en` @el #5jlwIPkbY
 ▯ parses ▯ (presumably into a tree-ish structure)
 
+muaogaınıu ± `en` @robintown #ou1h_X5TZ
+▯ is parsely.
+
 muaogaırom ± `en` @Laqme #SZ6aYE6lk
 ▯ is a parser (software).
 
@@ -56893,6 +56902,9 @@ muıjeqkue +1 `en` @Laqme #GrU0YXRVg
 
 muıjeqkuq ± `en` @Laqme #Wu4acHg3K
 ▯ says something with the same meaning as ▯ to ▯.
+
+muıjeqnam +1 `en` @Laqme #gy_QnDxU2
+▯ is a synonym roll.
 
 muıjeqtoa +1 `en` @Laqme #R05uNpfdO
 ▯ is a synonym of ▯.
@@ -65242,6 +65254,9 @@ pasha ± `en` @zumruduanka #DcdXZ6Yk2
 
 pasho ± `en` @robintown #WIAnSxxF4
 ▯ splashes liquid ▯.
+
+pashose ± `en` @Laqme #OoZXgdHtN
+▯ is a splash.
 
 pashosueq ± `en` @robintown #mFE2H9Grc
 ▯ is a splash.
@@ -74260,6 +74275,9 @@ predicate: ‘S’; ▯ is the letter S.
 saqseoq ± `pl` @jiqci #UoVDYu11Vh
 ▯ to litera S.
 
+saqsıesoı ± `en` @Laqme #D1a5oScnR
+▯ is tic-tac-toe.
+
 saqsıoq ± `en` @official #fqHFytVBBj
 predicate: ‘tricycle’; ▯ is a tricycle.
 
@@ -75519,6 +75537,9 @@ sıaojeaq ± `en` @seaqtaq #bhEckrTY_
 
 sıaojuı ± `en` @seaqtaq #uoiCj02a8
 ▯ is faithful to ▯; ▯ is close to its predecessor or inspiration▯ to a great degree
+
+sıaokaıdo ± `en` @jiqci #YSUotANvN
+▯ is the original poster in an internet discussion.
 
 sıaokaıdoa ± `en` @salarua #X9EiRtWNS
 ▯ is the original poster in an internet discussion
@@ -77303,6 +77324,12 @@ soꝡa ± `en` @Snow #6a8fQyG1d
 
 ⚠ soyrea ± `en` @Machy #sJmTQbP5T
 ▯ is the edge of a flat round shape; ▯ is a rim.
+
+sozı ± `en` @jiqci #17mYwQMQq
+▯ is a vector.
+
+sozıgoa ± `en` @jiqci #vn2NfaQO4
+▯ is a vector space.
 
 ⚠ sraı +1 `en` @Laqme #GzDfr6aw6
 contraction of **sá raı**
@@ -86457,6 +86484,9 @@ toaqmuıjuao -1 `en` @Ilmen #UFez1RZYM
 
 toaqmuo ± `en` @Laqme #LrH9xL2am
 ▯ is "all in Toaq" / Toaq-only.
+
+toaqmuochaq ± `en` @Laqme #oFQxQCdJY
+▯ is a Toaq-only day (an event whose participants talk to each other only in Toaq for an entire day).
 
 Toaqmuqzu ± `en` @jiqci #wD0pxc3SD
 ▯ is the Toaq Sign Language (TMZ).
