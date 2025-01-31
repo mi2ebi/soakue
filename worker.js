@@ -35,7 +35,7 @@ function search(q) {
         }
         if (operator == "order") {
             if (terms.length == 1)
-                return {err: "sua pó méuq joaıteoq"};
+                return error`nhoa né nî joaıteoq da. dıese, muana, mí ${"~"}`;
             if (!orders[query])
                 return error`bu chase suım mí ${query}`;
         }
