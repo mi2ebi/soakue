@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 use itertools::Itertools;
 use regex::bytes::Regex;
 use reqwest::blocking::Client;
@@ -6,26 +8,23 @@ use serde_json::{from_str, to_string};
 use std::{fs, sync::LazyLock, time::Duration};
 use unicode_normalization::UnicodeNormalization;
 
-fn main() {
+pub fn main() {
     let client = Client::builder()
         .timeout(Duration::from_secs(60))
         .build()
         .expect("Building client failed");
-
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
-
     let res = client
         .post("https://toadua.uakci.space/api")
         .body(query)
-        .send();
-
+        .send()
+        .expect("Couldn't receive toadua's response");
     let text = res
-        .expect("Error receiving query results")
         .text()
-        .expect("Couldn't convert Toadua's response to a String");
+        .expect("Couldn't convert toadua's response to a string");
 
     let dict = dictify(&text);
-    let dict_str = to_string(&dict).unwrap();
+    let dict_str = to_string(&dict).expect("Couldn't convert dictionary data to a string");
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
     fs::write(
         "data/all.txt",
@@ -59,13 +58,10 @@ fn main() {
     .unwrap();
 }
 
-const TONES: &str = "\u{0300}\u{0301}\u{0308}\u{0302}";
-
-/// Matches all tone-underdot combinations
 static DOT_TONE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new("\u{0323}([\u{0301}\u{0302}\u{0308}])").unwrap());
-
 static PALATAL: LazyLock<Regex> = LazyLock::new(|| Regex::new("([ncsNCS])[hH]").unwrap());
+const TONES: &str = "\u{0300}\u{0301}\u{0308}\u{0302}";
 const CONSONANTS_STR: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
 const VOWELS_STR: &str = "[aeiouAEIOU]";
 // static CONSONANTS: LazyLock<Regex> = LazyLock::new(|| Regex::new(CONSONANTS_STR).unwrap());
@@ -132,25 +128,31 @@ fn dictify(the: &str) -> Vec<Toa> {
     out
 }
 
-fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {
-    let head = head
-        .nfd()
-        .to_string()
-        .to_lowercase()
-        .trim_start_matches(|c| "*-@., ".contains(c))
-        .chars()
-        .map(|c| match c {
-            'ı' => 'i',
-            'ꝡ' => 'v',
-            x => x,
-        })
-        .filter(|c| !"()".contains(*c))
-        .collect::<String>();
-
-    let head = DOT_TONE.replace(head.as_bytes(), "$1\u{0323}".as_bytes());
-
-    let head = String::from_utf8(PALATAL.replace_all(&head, "$1ʰ".as_bytes()).to_vec()).unwrap();
-
+pub fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {
+    let head = String::from_utf8(
+        PALATAL
+            .replace_all(
+                &DOT_TONE.replace(
+                    head.nfd()
+                        .to_string()
+                        .to_lowercase()
+                        .trim_start_matches(|c| "*-@., ".contains(c))
+                        .chars()
+                        .map(|c| match c {
+                            'ı' => 'i',
+                            'ꝡ' => 'v',
+                            x => x,
+                        })
+                        .filter(|c| !"()".contains(*c))
+                        .collect::<String>()
+                        .as_bytes(),
+                    "$1\u{0323}".as_bytes(),
+                ),
+                "$1ʰ".as_bytes(),
+            )
+            .to_vec(),
+    )
+    .unwrap();
     let mut tones = vec![];
     let mut nat_indices = vec![];
     let mut moved = vec![];
@@ -208,13 +210,10 @@ fn n2t(n: usize) -> char {
     TONES.chars().nth(n - 1).unwrap()
 }
 
-/// Struct containing all results from a Toadua search
 #[derive(Deserialize, Serialize)]
 struct Toadua {
     results: Vec<Toa>,
 }
-
-/// All information about a word
 #[derive(Deserialize, Serialize, Clone)]
 struct Toa {
     id: String,
@@ -228,8 +227,6 @@ struct Toa {
     #[serde(default, skip_serializing_if = "std::ops::Not::not")]
     warn: bool,
 }
-
-/// Notes left by users as comments on an entry
 #[derive(Deserialize, Serialize, Clone)]
 struct Note {
     date: String,
