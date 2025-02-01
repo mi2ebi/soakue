@@ -1,3 +1,5 @@
+use std::fmt::Display;
+
 use serde::{Deserialize, Serialize};
 
 #[derive(Deserialize, Serialize)]
@@ -16,6 +18,26 @@ pub struct Toa {
     pub scope: String,
     #[serde(default, skip_serializing_if = "std::ops::Not::not")]
     pub warn: bool,
+}
+
+impl Display for Toa {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(
+            f,
+            "{}{} {} `{}` @{} #{}\n{}",
+            if self.warn { "⚠ " } else { "" },
+            self.head,
+            match self.score {
+                0 => "±".to_string(),
+                x if x > 0 => format!("+{}", self.score),
+                _ => self.score.to_string(),
+            },
+            self.scope,
+            self.user,
+            self.id,
+            self.body,
+        )
+    }
 }
 
 #[derive(Deserialize, Serialize, Clone)]

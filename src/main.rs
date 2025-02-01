@@ -37,24 +37,7 @@ pub fn main() {
     .unwrap();
     fs::write(
         "data/readable.txt",
-        dict.iter()
-            .map(|toa| {
-                format!(
-                    "{}{} {} `{}` @{} #{}\n{}",
-                    if toa.warn { "⚠ " } else { "" },
-                    toa.head,
-                    match toa.score {
-                        0 => "±".to_string(),
-                        x if x > 0 => format!("+{}", toa.score),
-                        _ => toa.score.to_string(),
-                    },
-                    toa.scope,
-                    toa.user,
-                    toa.id,
-                    toa.body,
-                )
-            })
-            .join("\r\n\r\n"),
+        dict.iter().map(ToString::to_string).join("\r\n\r\n"),
     )
     .unwrap();
 }
