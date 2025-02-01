@@ -1,9 +1,10 @@
-#![allow(dead_code)]
+mod toadua;
 
+use crate::toadua::Toa;
+use crate::toadua::Toadua;
 use itertools::Itertools;
 use regex::bytes::Regex;
 use reqwest::blocking::Client;
-use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
 use std::{fs, sync::LazyLock, time::Duration};
 use unicode_normalization::UnicodeNormalization;
@@ -208,28 +209,4 @@ fn t2n(c: char) -> usize {
 }
 fn n2t(n: usize) -> char {
     TONES.chars().nth(n - 1).unwrap()
-}
-
-#[derive(Deserialize, Serialize)]
-struct Toadua {
-    results: Vec<Toa>,
-}
-#[derive(Deserialize, Serialize, Clone)]
-struct Toa {
-    id: String,
-    date: String,
-    head: String,
-    body: String,
-    user: String,
-    notes: Vec<Note>,
-    score: i32,
-    scope: String,
-    #[serde(default, skip_serializing_if = "std::ops::Not::not")]
-    warn: bool,
-}
-#[derive(Deserialize, Serialize, Clone)]
-struct Note {
-    date: String,
-    user: String,
-    content: String,
 }
