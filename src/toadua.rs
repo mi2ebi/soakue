@@ -1,12 +1,14 @@
-use std::fmt::Display;
+use std::{cmp::Ordering, fmt::Display};
 
 use serde::{Deserialize, Serialize};
+
+use crate::letters::{GraphResult, GraphsIter, Tone};
 
 #[derive(Deserialize, Serialize)]
 pub struct Toadua {
     pub results: Vec<Toa>,
 }
-#[derive(Deserialize, Serialize, Clone)]
+#[derive(Deserialize, Serialize, Clone, PartialEq, Eq)]
 pub struct Toa {
     pub id: String,
     pub date: String,
@@ -40,7 +42,61 @@ impl Display for Toa {
     }
 }
 
-#[derive(Deserialize, Serialize, Clone)]
+impl PartialOrd for Toa {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
+
+impl Ord for Toa {
+    fn cmp(&self, other: &Self) -> Ordering {
+        // Move example phrases to the end of the list
+        if self.head.contains(' ') && !other.head.contains(' ') {
+            return Ordering::Greater;
+        } else if other.head.contains(' ') && !self.head.contains(' ') {
+            return Ordering::Less;
+        }
+
+        let mut self_iter = GraphsIter::new(&self.head);
+        let mut other_iter = GraphsIter::new(&other.head);
+
+        let mut self_highest_tone = Tone::None;
+        let mut other_highest_tone = Tone::None;
+
+        loop {
+            let self_letter = self_iter.next();
+            let other_letter = other_iter.next();
+
+            match (self_letter, other_letter) {
+                (GraphResult::Finished, GraphResult::Finished) => {
+                    // If two strings reach this point, that means that their letters are identical, so the only way to differentiate is with the tone.
+                    return self_highest_tone.cmp(&other_highest_tone);
+                }
+                (GraphResult::Err(_), GraphResult::Err(_)) => return Ordering::Equal,
+                (GraphResult::Ok(self_graph), GraphResult::Ok(other_graph)) => {
+                    match self_graph.letter.cmp(&other_graph.letter) {
+                        Ordering::Equal => {
+                            self_highest_tone = self_highest_tone.max(self_graph.tone);
+                            other_highest_tone = other_highest_tone.max(other_graph.tone);
+                            continue;
+                        }
+                        ordering => return ordering,
+                    }
+                }
+
+                // Shorter strings are finished first. They go above longer strings.
+                (GraphResult::Finished, GraphResult::Ok(_)) => return Ordering::Less,
+                (GraphResult::Ok(_), GraphResult::Finished) => return Ordering::Greater,
+
+                // Move failures to the end of the list
+                (GraphResult::Err(_), _) => return Ordering::Greater,
+                (_, GraphResult::Err(_)) => return Ordering::Less,
+            }
+        }
+    }
+}
+
+#[derive(Deserialize, Serialize, Clone, PartialEq, Eq)]
 pub struct Note {
     pub date: String,
     pub user: String,
