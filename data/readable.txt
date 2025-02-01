@@ -4451,7 +4451,7 @@ bopaqdoem ± `en` @Laqme #4ANA2KAHM
 bopaqme ± `en` @Laqme #ZnQvtS6kI
 ▯ is (a company's) stock.
 
-bopı +1 `en` @robintown #-uMdZR9ko
+bopı +2 `en` @robintown #-uMdZR9ko
 ▯ is a water bottle.
 
 bopıosaı -1 `en` @elements #agNKPzr5X
@@ -7630,6 +7630,9 @@ cecuao ± `en` @uakci #YDbKOK03C
 
 cechue ± `en` @seaqtaq #9vAORpRHb
 ▯ is a linked list
+
+cedeaq ± `en` @Laqme #hjxgOuI0o
+▯ is a platform (at a station).
 
 cedıeq ± `en` @Laqme #iVLv3WNNT
 ▯ mails, to ▯, ▯.
@@ -15232,6 +15235,9 @@ daqshıkogıq +1 `en` @Ilmen #Z1sLIEYhX
 
 daqshıkogıq ± `en` @Ilmen #Ei4qarXG1
 ▯ is temporally the last one to satisfy property ▯ among ▯.
+
+daqtaı ± `en` @Laqme #BQIsw8bC0
+▯ satisfies property ▯ in time.
 
 daqteı ± `en` @Laqme #TbpvwL-ao
 ▯ is an aspect (linguistics sense).
@@ -23599,6 +23605,9 @@ geıdutao ± `en` @fagri #3_jv3pl39
 geıfao ± `en` @uakci #Ti3h4nfky
 ▯ is outerwear.
 
+geımıq +1 `en` @robintown #hPevvJNPG
+▯ games / plays video games.
+
 geınua ± `en` @uakci #UEFn8zC_r
 ▯ takes clothing ▯ off ▯.
 
@@ -26445,9 +26454,6 @@ guasoırea ± `en` @Ilmen #igcNdjXki
 
 guasoıreagıeshıobeaqsoıchedıeq ± `en` @Ilmen #H9oNoN5da
 ▯ forcibly sends back crutch-walking soldiers ▯ to frontline ▯.
-
-guashao +1 `en` @kazoo #yjVoIz0DV
-▯ is the Deep State.
 
 Guasheamıduafacaqfuaı +1 `en` @Avaxar #Y9DoP5MzD
 ▯ is the Toaqguan National Aerospace Exploration Agency.
@@ -32680,8 +32686,14 @@ interjection: okay? got it?
 ïna ± `en` @kazoo #lwtiM6fNq
 interjection: saying "understood" but unsure about what the other speaker quite meant
 
+îna ± `en` @kazoo #WWoYjS7Mo
+interjection: acknowledging that the other side has understood what i said
+
 ınaı ± `en` @Hoemai #UgmssJc1J
 Tense: now (absolute)
+
+ınaq +4 `en` @kazoo #YkWY8n8af
+▯ is a chair.
 
 ıne ± `en` @TheAndSys #qmpxG-ilY
 interjection: I see, I understand
@@ -45452,6 +45464,12 @@ kuoq ± `pl` @jiqci #LfTgidoj2
 kuoq ± `tr` @kazoo #niMveOqSH
 ▯ kemiktir.
 
+kuoq'akaı ± `en` @seaqtaq #aczk5T3z7
+▯ is bone-soreness/bone-ache; ▯ is the sensation of soreness or ache that feels so deep as to be emanating from one's bones
+
+kuoq'akaılıe ± `en` @seaqtaq #YyYOQtI1g
+▯ feels bone-soreness/bone-ache; ▯experiences the sensation of soreness or ache that feels so deep as to be emanating from one's bones
+
 kuoqbeanoso ± `en` @Hydro #ahs49bUJW
 ▯ suffers from osteoarthritis (OA).
 
@@ -48255,7 +48273,7 @@ lına ± `tok` @el #yG0BQnaij
 lınagam +1 `en` @Laqme #1kay1jS8v
 ▯ is a brick.
 
-lınaq ± `en` @robintown #_lQIOOipb
+lınaq +1 `en` @robintown #_lQIOOipb
 ▯ is a vast, open expanse.
 
 lıo +2 `en` @official #xyJPpp4TAl
@@ -61427,6 +61445,9 @@ nocaq ± `en` @seaqtaq #4MVx7Pc-L
 nochı +1 `en` @TheAndSys #1mEVWbk6T
 ▯ is a note
 
+nochıkue ± `en` @robintown #E0ewjF3Og
+▯ is a notebook.
+
 nochuq ± `en` @seaqtaq #FJVlAedaT
 ▯ consumes media ▯
 
@@ -68921,6 +68942,9 @@ pupuchaq +1 `en` @Laqme #jc4k27bEl
 puq ± `en` @official #Jrc_mBvVPD
 predicate: ‘multiple’; ▯ are more than one / multiple things.
 
+puq ± `en` @uakci #0-R5zc0uO
+as a non-standalone number component: a couple, several (some contextual “digit” value bigger than 1 and smaller than 10)
+
 puq ± `pl` @jiqci #vh1I-LTadI
 ▯ to więcej niż jedna rzecz.
 
@@ -72210,11 +72234,11 @@ ruaılıqfu ± `pl` @jiqci #elaYBtLjBO
 ruaınaq ± `en` @saqraku #cKV882H8W
 predicate: ‘king’; ▯ is a king.
 
+ruaınaqfu +1 `pl` @jiqci #I5cZqvh49
+▯ to książę.
+
 ruaınaqfu ± `en` @official #uokFXrUriz
 predicate: ‘prince’; ▯ is a prince.
-
-ruaınaqfu ± `pl` @jiqci #I5cZqvh49
-▯ to książę.
 
 ruaıpoq ± `en` @fagri #v5dyoN4Bp
 ▯ is a member of the royal court
@@ -81190,6 +81214,9 @@ shoa ± `jbo` @zearen #YrWLz5WIq
 shoa ± `pl` @jiqci #42NZkpXLb
 ▯ jest głęboki.
 
+shoacueme ± `en` @kazoo #dnEsPdNe1
+▯ is the Deep State.
+
 shoadaosı ± `en` @Laqme #Qcyopj4TP
 ▯ has a special interest in ▯.
 
@@ -90014,6 +90041,9 @@ prefix: reduce verb valency to nullary (forming what’s often called an “obse
 
 ꝡoamgına ± `en` @jiqci #lmkUHRYtA
 ▯ is disappointing/anticlimactic.
+
+ꝡoao ± `en` @robintown #SZ2y0wL0-
+▯ yawns.
 
 ꝡoaq +1 `en` @uakci #pwCuS9p3X
 predicate: ‘Ꝡoaqic’; ▯ is Ꝡoaqic; ▯ is of or pertaining to Ꝡoaq.
