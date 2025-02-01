@@ -15,19 +15,24 @@ pub fn main() {
         .timeout(Duration::from_secs(60))
         .build()
         .expect("Building client failed");
+
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
+
     let res = client
         .post("https://toadua.uakci.space/api")
         .body(query)
         .send()
         .expect("Couldn't receive toadua's response");
+
     let text = res
         .text()
         .expect("Couldn't convert toadua's response to a string");
 
     let dict = dictify(&text);
     let dict_str = to_string(&dict).expect("Couldn't convert dictionary data to a string");
+
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
+
     fs::write(
         "data/all.txt",
         dict.iter()
@@ -36,6 +41,7 @@ pub fn main() {
             .join("\r\n"),
     )
     .unwrap();
+
     fs::write(
         "data/readable.txt",
         dict.iter().map(ToString::to_string).join("\r\n\r\n"),
