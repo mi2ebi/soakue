@@ -1,3 +1,4 @@
+mod old_main;
 #[cfg(test)]
 mod tests;
 
@@ -58,6 +59,7 @@ fn dictify(the: &str) -> Vec<Toa> {
         .results
         .into_iter()
         .filter(|toa| toa.score >= -2)
+        .update(Toa::set_warning)
         .sorted_by(Toa::cmp)
         .collect_vec()
 }

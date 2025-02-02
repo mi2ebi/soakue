@@ -154,6 +154,9 @@ achu +1 `en` @seaqtaq #whu7Isr4E
 achucua ± `en` @uakci #8UaEIlIlf
 ▯ blesses ▯ as they've sneezed.
 
+achuhuche ± `en` @seaqtaq #eT_I-OPZp
+▯ is let down upon the realization that they won't in fact sneeze after they've already been gearing up to in anticipation of doing so
+
 achuo ± `en` @uakci #FAkbYZBEA
 ▯ is a resource depleted/consumed/used up as part of satisfying property ▯.
 
@@ -23608,7 +23611,7 @@ geıdutao ± `en` @fagri #3_jv3pl39
 geıfao ± `en` @uakci #Ti3h4nfky
 ▯ is outerwear.
 
-geımıq +1 `en` @robintown #hPevvJNPG
+geımıq +2 `en` @robintown #hPevvJNPG
 ▯ games / plays video games.
 
 geınua ± `en` @uakci #UEFn8zC_r
@@ -31636,6 +31639,9 @@ huatuq ± `en` @uakci #UtVYjhIEi
 hubaq ± `toa` @uakci #n0c2MMTWO
 bu huaq
 
+huche ± `en` @seaqtaq #uFCpXtFMq
+▯, after great anticipation of ▯ happening, which seemed to be just on the verge of happening, is sharply let down as it comes to happen that that event won't be realized happening
+
 hue ± `en` @official #wI3y534Tq
 predicate: ‘feather’; ▯ is a feather.
 
@@ -38678,6 +38684,9 @@ juaoseo ± `en` @uakci #1g5ScHVJd
 
 juaosıachua ± `en` @uakci #Sw6hPBwPt
 ▯ is one of ▯'s not legally recognised names.
+
+juaosoa ± `en` @Laqme #cKsd532iH
+▯ provides legal aid to ▯.
 
 juaosoache ± `en` @mimiaoganhaqpy #XX6UdFoh4
 ▯ is a lawyer
@@ -64028,6 +64037,9 @@ predicate: ‘fragrance’; ▯ is a wearable fragrance
 oeq ± `en` @Laqme #mzUP1s88u
 ▯ is authorized/decreed/decided/enforced by ▯.
 
+oesu ± `en` @salarua #ADiO4zhTm
+▯ is glorious/majestic/splendid/radiant (figuratively or literally)
+
 oganesoq ± `en` @shuaida #JNPWn6599
 ▯ is Oganesson
 
@@ -72003,7 +72015,7 @@ romjomboq ± `en` @jiqci #EaBT9HEpj
 romkaı ± `en` @Laqme #zWpVHbf5m
 ▯ programs / writes code ▯.
 
-romkea +1 `en` @Laqme #MXHakGAC9
+romkea +2 `en` @Laqme #MXHakGAC9
 ▯ is a computer.
 
 romlaı ± `en` @Laqme #M1OIP6T6I
@@ -78303,6 +78315,9 @@ sukuaı ± `en` @TheAndSys #uQdxr5tj7
 
 sukuaıpoq ± `en` @TheAndSys #T5DPyo-fd
 ▯ is a favorite person of ▯ (in the BPD sense)
+
+sukuaıse ± `en` @salarua #cLjkMdXQZ
+▯ is an urging/strong advice
 
 sula ± `en` @official #v-UcJmjVzg
 tense: ‘EXS’; unrestricted existential
@@ -90057,6 +90072,9 @@ prefix: reduce verb valency to nullary (forming what’s often called an “obse
 ꝡoao ± `en` @robintown #SZ2y0wL0-
 ▯ yawns.
 
+ꝡoaose ± `en` @Laqme #QMSZNy51o
+▯ is a yawn.
+
 ꝡoaq +1 `en` @uakci #pwCuS9p3X
 predicate: ‘Ꝡoaqic’; ▯ is Ꝡoaqic; ▯ is of or pertaining to Ꝡoaq.
 
@@ -90328,7 +90346,7 @@ zana ± `en` @seaqtaq #pu7D4STL9
 zanachıeqdo ± `en` @seaqtaq #S09UI27cr
 ▯ take communion with each other
 
-zanua +1 `en` @Laqme #21IwbsrtX
+zanua ± `en` @Laqme #21IwbsrtX
 ▯ steals, from ▯, ▯.
 
 zao +4 `en` @Hoemai #SHBG1_g1u
@@ -90700,6 +90718,24 @@ zé ± `ja` @Laqme #sBhCbxEFF
 ze- ± `en` @robintown #yVHK36AQn
 turns a positive number N into "negative N"
 
+zea ± `en` @Laqme #6UYOExAxc
+▯ is illegal / criminal / a violation / a foul / against the rules.
+
+zeache ± `en` @Laqme #Vs7f0_AUp
+▯ is a criminal / outlaw.
+
+zeafa ± `en` @Laqme #-7k1DxCdi
+▯ breaks into / trespasses on ▯.
+
+zeanua ± `en` @Laqme #l226MmiHX
+▯ steals ▯.
+
+zearaı ± `en` @Laqme #uOc6LjKOK
+▯ are illegal wares / is anything that it's illegal to possess.
+
+zeatao ± `en` @Laqme #AjOmeEc5Z
+▯ commits crime / violation ▯.
+
 zeı ± `en` @el #TRa0dcDj4
 focus prefix in KU, opposite of **tou**; marks that this *isn't* the only case where this predicate holds – others work too
 
@@ -90891,6 +90927,9 @@ zeumde ± `en` @Laqme #a0Gfh86tf
 
 zeumdedo ± `en` @Laqme #jNxPAS854
 ▯ embroiders ▯ (cloth) with ▯ (image).
+
+zeumkuoq ± `en` @jiqci #PtkD7cF2H
+▯ is a fibula / calfbone.
 
 zeumla ± `en` @jiqci #k-0eHkPDB
 ▯ pierces / penetrates ▯.
@@ -91161,6 +91200,12 @@ zıqtoaı ± `en` @uakci #TvaL4WrlG
 
 zıqtoaı ± `en` @jiqci #loJyhJDEB
 ▯ is a transistor.
+
+zıqzea ± `en` @Laqme #54WL-1bGa
+▯ is cybercrime/hacking.
+
+zıqzeache ± `en` @Laqme #rwFKLQhDu
+▯ is a cyber-criminal / ("black-hat") hacker.
 
 zırıkonıum ± `en` @Laqme #p5VJgxFXl
 ▯ is zirconium.

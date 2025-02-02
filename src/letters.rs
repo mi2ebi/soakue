@@ -115,7 +115,7 @@ pub enum GraphResult {
     Finished,
 }
 
-fn filter(x: &char) -> bool {
+pub fn filter(x: &char) -> bool {
     !x.is_whitespace() && !['*', '-', '.', ',', '!', '?', '«', '»', '"'].contains(x)
 }
 
