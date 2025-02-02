@@ -1,8 +1,16 @@
-use std::{cmp::Ordering, fmt::Display};
+use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
 
+use regex::Regex;
 use serde::{Deserialize, Serialize};
 
-use crate::letters::{GraphResult, GraphsIter, Tone};
+use crate::letters::{filter, GraphResult, GraphsIter, Tone};
+
+static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        "^(((^|[mpbfntdczꝡsrljvkg'wh ]|[ncs]h)([aeiouáéíóúâêîôûäëïẹịöụüıạọ]([aeo](ı)|ao|[aeiıou])?|[aeiouáéíóúâêîôûäëïẹịöụüıạọ])[qm]?)[ .,?!()]?)+$",
+    )
+    .unwrap()
+});
 
 #[derive(Deserialize, Serialize)]
 pub struct Toadua {
@@ -20,6 +28,34 @@ pub struct Toa {
     pub scope: String,
     #[serde(default, skip_serializing_if = "std::ops::Not::not")]
     pub warn: bool,
+}
+
+impl Toa {
+    pub fn set_warning(&mut self) {
+        self.warn = ([
+            "ae", "au", "ou", "nhi", "vi", "vu", "aiq", "aoq", "eiq", "oiq", "ꝡi", "ꝡu", "ae",
+            "au", "ou", "nhı", "vı", "vu", "aıq", "aoq", "eıq", "oiq", "ꝡı", "ꝡu",
+        ]
+        .iter()
+        .any(|v| self.head.contains(v))
+            || {
+                !MADE_OF_RAKU.is_match(
+                    &self
+                        .head
+                        .to_lowercase()
+                        .replace(|x| !filter(&x) && !x.is_whitespace(), ""),
+                )
+            }
+            || self.head.chars().any(|c| {
+                !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
+                              AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
+                              .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
+                    .contains(c)
+            })
+            || self.user.starts_with("old"))
+            && !self.body.contains("textspeak")
+            && !self.notes.iter().any(|n| n.content.contains("textspeak"));
+    }
 }
 
 impl Display for Toa {
