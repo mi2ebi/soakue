@@ -4598,8 +4598,14 @@ buaıduoı +1 `en` @uakci #U6ddSPH5R
 buaıfa +1 `en` @uakci #Gmq4Pna-z
 ▯ journeys/travels; ▯ makes a journey to ▯ from ▯.
 
+buaıhosı ± `en` @Ilmen #TP1ANhctY
+▯ is a cavy of the Dolichotis genus.
+
 buaıhuao ± `en` @Laqme #uf4YleBTt
 ▯ is loose / slack.
+
+buaıhuohua ± `en` @Ilmen #Q9bS1TqDa
+▯ is a cavy of the Dolichotis genus.
 
 buaıjıo +1 `en` @Machy #nhEKk700Z
 ▯ is a tower.
@@ -11263,6 +11269,9 @@ chueq ± `en` @Laqme #JJPht0W6N
 
 chueqbeaq ± `en` @Laqme #D9YKS_VyT
 ▯ is a pestle.
+
+chueqdoao ± `en` @jiqci #ur7jMPvh-
+▯ is a mortar.
 
 chueqnıoq ± `en` @Laqme #vBfoz8Ysv
 ▯ is a molar (tooth).
@@ -18328,6 +18337,9 @@ fuqsaı ± `tok` @el #R_7VAsD6e
 fuqsaıchuo ± `en` @robintown #ydFo1Dbv7
 ▯ is a loom.
 
+fuqsıqkea ± `en` @Laqme #U4GNL-atZ
+▯ is a washing machine.
+
 fuqshuo +1 `en` @Laqme #g6yoxVChg
 ▯ is a closet / wardrobe.
 
@@ -20103,6 +20115,9 @@ gıemkıoq ± `en` @jiqci #uBQvV5ff-
 
 gıempıa ± `en` @Laqme #sUt5a3xh2
 ▯ is a half-sibling of ▯.
+
+gıemshıe ± `en` @Laqme #oXXP6-bpE
+▯ is half-asleep / half-awake.
 
 gıeq ± `en` @official #AGzEjORT_F
 predicate: ‘shock’; ▯ shocks ▯.
@@ -22009,7 +22024,7 @@ gubuı +1 `en` @uakci #aobeBUdBi
 gubuıbo ± `en` @uakci #71FrJy4xG
 ▯ is enbies’; ▯ is gendered non-binary/intergender/third-gender.
 
-gubutu ± `en` @uakci #yViMsRzCl
+gubutu -1 `en` @uakci #yViMsRzCl
 ▯ is zero or one of ▯ and ▯.
 
 gucaı ± `en` @TheAndSys #CbjQJuT1E
@@ -22341,6 +22356,9 @@ gukojuju ± `en` @fagri #xK3mb9NFW
 
 gukuoı -1 `en` @seaqtaq #OS1lklwSi
 ▯ is less related to ▯ than to ▯ by binary property ▯.
+
+gula ± `en` @Laqme #H6MVNLZl9
+▯ is an even number.
 
 gulaq ± `en` @Ilmen #codEkWw6H
 ▯ is a gland.
@@ -26017,6 +26035,9 @@ horoq ± `en` @jiqci #JxVSfJvUG
 horuo ± `en` @uakci #c_wdCsvD9
 ▯ acts selflessly so as to benefit ▯.
 
+hosı ± `en` @Ilmen #jd4D0ECT3
+▯ is an ear.
+
 hósıe ± `en` @seaqtaq #E9aJ-Ngmg
 pronoun: ‘CAT.it.I’; cataphoric pronoun for animate DPs (class I)
 
@@ -26044,7 +26065,7 @@ Illocution: suggestive ("X could happen, maybe", "X is an idea")
 ⚠ house ± `en` @uakci #Xfol-mvXH
 ▯ is a suggestion 🏡.
 
-⚠ housı ± `en` @Ilmen #UxR4Bs94O
+⚠ housı -1 `en` @Ilmen #UxR4Bs94O
 ▯ is an ear.
 
 hóꝡa +1 `en` @Laqme #hDqV3vHx2
@@ -27168,6 +27189,9 @@ sentence connector: "I mean..." "or rather..." (aborting and correcting the prev
 
 ıeshuajıuchaqpoq ± `en` @Ilmen #-MTd2fyNP
 ▯ is Santa Claus.
+
+ıfı ± `en` @Laqme #Y6WU8sB4b
+▯ is an odd number.
 
 ıfu ± `en` @official #hu9rXcuu6ID
 interjection: ‘eww’; disgust
@@ -35474,7 +35498,7 @@ kıoraq ± `en` @Laqme #RFOhcn8qL
 kıoru ± `en` @Laqme #p4WIcJmcQ
 conjunction: X (and parenthetically also Y)
 
-kıosha ± `en` @Laqme #VHMQP6wK0
+kıosha +1 `en` @Laqme #VHMQP6wK0
 interjection: 'there!', 'done'
 
 kıpıso ± `en` @Laqme #boWVpHon5
@@ -35797,6 +35821,9 @@ koacuaı ± `en` @Machy #GpYVryX_B
 
 koafurı +1 `en` @robintown #hNXISwXp1
 ▯ shivers.
+
+koage ± `en` @Laqme #X41bk_GmS
+▯ offers coolness / cools you down / keeps you cold.
 
 koagoeq ± `en` @Ilmen #ZCZ5QX7rn
 ▯ is isolation against cold.
@@ -44007,6 +44034,9 @@ mıeq ± `pl` @jiqci #AIjt8DfJ7D
 mıeqbeaq ± `en` @Laqme #h9R07qvcs
 ▯ is a ruler/yardstick.
 
+mıeqbıo ± `en` @Laqme #U9yHhNH_e
+▯ is a measuring cup.
+
 mıeqcha ± `en` @sheireq #EZX6_KvqF
 ▯ is a measurement system.
 
@@ -46031,7 +46061,7 @@ mufıq ± `en` @jiqci #HJHayBUKN
 mugale ± `en` @Ilmen #DbqLTNQpt
 ▯ is a spider of the genus Mygale.
 
-mugo ± `en` @jiqci #5VUglUZT4
+mugo +1 `en` @jiqci #5VUglUZT4
 ▯ is wood.
 
 muguqrua ± `en` @el #PHJxePEzM
@@ -54499,6 +54529,9 @@ pıutıq ± `en` @jiqci #OTlWCkVPe
 
 pıuzake ± `en` @seaqtaq #1botAXCh6
 ▯ is light-skinned/pale
+
+pıuze ± `en` @Laqme #Up8ksCTOM
+▯ is sweat.
 
 pıze ± `en` @jiqci #y0tNr42DX
 ▯ is urine/pee/piss.
@@ -65794,6 +65827,9 @@ shıene ± `en` @uakci #aAyITbbm5
 shıenuo ± `en` @jiqci #4T10oNPCG
 ▯ daydreams/zones out.
 
+shıesheaq ± `en` @Laqme #PGVCjma6r
+▯ gets up / gets out of bed / (starts their day).
+
 shıesho ± `en` @official #zrguUzKEr8a
 predicate: ‘wake.up’; ▯ wakes up.
 
@@ -67345,6 +67381,9 @@ There is too much ▯ (in reserve/to go around)
 shuofua ± `en` @Ilmen #lBh6xObCJ
 ▯ is a closet/cupboard.
 
+shuogoa ± `en` @Laqme #eze2ovJWy
+▯ is storage space.
+
 shuoha ± `en` @Snow #t8t4mz96p
 ▯ stores ▯ away for later use. ▯ stashes/shelves/tables ▯. (literally or metaphorically)
 
@@ -67371,6 +67410,9 @@ shuokopı ± `en` @Laqme #hplBtVncc
 
 shuokopıshuaq ± `en` @Laqme #6f-kmzjqN
 ▯ backs up / makes a backup of ▯.
+
+shuokua ± `en` @Laqme #QUei4G1KT
+▯ is a walk-in closet.
 
 shuokue ± `en` @uakci #XovP5ttxI
 ▯ is a reference document / documentation.
@@ -69075,6 +69117,9 @@ Teto -2 `en` @Peter #8bqb0QG2w
 
 tetoa ± `en` @uakci #4CDOYtIEq
 ▯ is a passivizer / passivized derivation of verb ▯.
+
+tetorıjuqca ± `en` @TheAndSys #pDn3DgOhP
+▯ experiences tetris effect
 
 teu- ± `en` @uakci #tJd0gLzVv
 decimal order of magnitude prefix: turn a number denoting some number 𝑛 into a number denoting 10^𝑛, usable in the same fashion as positional powers **heı**, **fue**, **bıq**, **mega**, etc.
