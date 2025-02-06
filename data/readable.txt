@@ -2240,7 +2240,7 @@ be ± `pl` @jiqci #aAZFSjY6fW
 be -1 `tok` @el #obRbY1Cnu
 ▯ li jan lili anu akesi lili anu waso lili anu ...
 
-bé ± `en` @Laqme #UdvGYejsr
+bé +1 `en` @Laqme #UdvGYejsr
 determiner: **báq po báq**
 
 bë ± `en` @Laqme #0HBo7Jy60
@@ -6550,6 +6550,9 @@ cekecheapıo ± `en` @Snow #8E1GRt5JF
 
 cekekoaı ± `en` @robintown #qCrMlcxI-
 ▯ is chain mail.
+
+cekesıoq ± `en` @seaqtaq #d9eMevDfK
+▯ is a Ferrous wheel
 
 celadoa ± `en` @uakci #phZ-7jR6G
 ▯ is a cellar door.
@@ -24667,6 +24670,9 @@ hıaogaıpua ± `en` @uakci #KbxVfbKmQ
 hıaoge +1 `en` @Laqme #LBhH9U-1U
 ▯ is emotionally scarring / disturbing / "NSFL".
 
+hıaoge ± `en` @seaqtaq #wmIpQcpke
+▯ is a cognitohazard
+
 hıaogıq ± `en` @uakci #az2eB3-ik
 ▯ heals/recovers ▯.
 
@@ -36038,14 +36044,14 @@ koe +3 `en` @el #K2KJy_vKA
 koe +1 `toa` @Ilmen #Liqp87sMJ
 = ja moı ja raı ja puq ja guja bı to ru shao móı gûjeo móı sa mëa hóa púq na gúja to to ru tu mëa hóa púq pa lu mıu daı móı gûjeo móı hóa gúja na na ru raqmoı móı sê ja lúhoq to bìe tóhoı bı sho taoshao móı jêı ráı ru sıa mëa hóa púq ru sıa jeı ráı na lú gujeo ja hóa gúja.
 
+koe +1 `en` @robintown #4q_6zXA9a
+▯ chooses ▯ out of ▯.
+
 koe ± `toa` @uakci #n75LHl8wO
 dua dóshı lû tu dó měa hóa dósaq bı deq dóshı lî gujeo ja ráı dó dójo na na, na ru gujeo dóshı ku dógu dójo da
 
 koe ± `en` @xorxes #7WIVPim3-
 ▯ chooses that ▯ happen; ▯chooses ▯to satisfy property ▯.
-
-koe ± `en` @robintown #4q_6zXA9a
-▯ chooses ▯ out of ▯.
 
 koe ± `en` @Ilmen #mrL9hLn8I
 ▯ chooses ▯ as being what the former will make have property ▯.
@@ -41246,6 +41252,9 @@ luaqdea ± `en` @seaqtaq #R18AS9Z3z
 
 luaqdoaq ± `en` @Laqme #lmxKDjvKf
 ▯ is an amusement park / theme park.
+
+luaqdoe ± `en` @TheAndSys #1-e0zvfLV
+▯ is a game system/game mechanic
 
 luaqdueq ± `en` @jiqci #ISQiBvPF8
 ▯ is a playing field / pitch.
@@ -62193,6 +62202,9 @@ sıeqjıe ± `en` @robintown #NioGZtheP
 
 sıeqnhe ± `en` @seaqtaq #uucY0p4QB
 ▯ is the case to a spectular/amazing degree
+
+sıeqsıoq ± `en` @Laqme #RjOgHTpCL
+▯ is a Ferris wheel.
 
 sıeqsuoı ± `en` @Laqme #3cP9crbXF
 ▯ is miraculous / wondrous / awe-striking / phenomenal.
