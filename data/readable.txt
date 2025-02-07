@@ -3281,7 +3281,7 @@ bıdeolucu ± `en` @robintown #0CwR_nRgu
 bıdeozıa ± `en` @eednb #7i5VVw5lX
 ▯ streams ▯ live
 
-bıe ± `en` @official #jc4Pz8XNd1
+bıe +1 `en` @official #jc4Pz8XNd1
 predicate: ‘after’; ▯ takes place after ▯.
 
 bıe ± `toa` @Ilmen #rX5j-5yyx
@@ -11593,6 +11593,9 @@ chuomlaı ± `en` @Laqme #stMQaAFQf
 
 chuomlea ± `en` @robintown #yPbHtpJS2
 ▯ is "8-bit" art.
+
+chuomno ± `en` @Laqme #Th76LMCHu
+▯ is in bytes / binary (of a file) / digital.
 
 chuomzıu ± `en` @Laqme #HrBkAU3ys
 ▯ is a char / 8-bit number.
@@ -29469,7 +29472,7 @@ jeqdaleu ± `en` @robintown #sZ1eyc_eT
 jeqdareum +1 `en` @Laqme #_iS23FQT-
 ▯ performs gender ▯ (property).
 
-jeqdaru'o ± `en` @Laqme #jfya9Tg2s
+jeqdaru'o -1 `en` @Laqme #jfya9Tg2s
 ▯ exhibits / performs gender ▯ (property).
 
 jeqdasuku +2 `en` @fagri #la5jfJh5o
@@ -31104,7 +31107,7 @@ joamoa ± `en` @uakci #T_LRqCZNI
 joanhuo ± `en` @uakci #YrXPgVsuM
 ▯ is a weekly timetable.
 
-jóao +1 `en` @robintown #K3Cg7I2yi
+jóao +2 `en` @robintown #K3Cg7I2yi
 focus particle: mainly, chiefly
 
 joaq ± `en` @official #V9JGkUHtrO
@@ -31616,6 +31619,9 @@ jorokuaq ± `en` @Laqme #V9cON-qQM
 
 jorosıq ± `en` @Laqme #NJ6tu9Kza
 ▯ is pure / innocent / free of sin.
+
+jorotao ± `en` @mimiaoganhaqpy #bhPfOLiDc
+predicate: ‘sin’; ▯ sins; ▯ commits sin by satisfying property ▯.
 
 josekı ± `en` @fagri #jiLjJKDrb
 ▯ is a joseki (in Go, a set pattern of moves determined by pre-play study to be optimal for both players, usually near one of the corners of the board)
@@ -34751,7 +34757,7 @@ keqpueq +1 `en` @Laqme #-EQbNG1IE
 keqseao ± `en` @Laqme #hzBrGX6n1
 ▯ is a laxative.
 
-kera ± `en` @Hoemai #R9LcsT6WX
+kera +1 `en` @Hoemai #R9LcsT6WX
 ▯ is a brain.
 
 keramoham ± `en` @jiqci #auUVQU-T9
@@ -38877,11 +38883,11 @@ predicate: ‘adjacent’; ▯ is adjacent to ▯ in property ▯.
 leaq ± `pl` @jiqci #l4nray-3Cw
 ▯ jest obok/sąsiaduje z ▯ pod względem własności ▯.
 
+leaqbıe +1 `en` @Ilmen #8geSg3FUC
+▯ takes place next after ▯
+
 leaqbıe +1 `toa` @Ilmen #S33HUclAQ
 = ja shıko ja guko bı bıe shíko gúko na ru sıa duoısıa güoshı bı bıe dúoısıa gúko na ru shıu dúoısıa shíko.
-
-leaqbıe ± `en` @Ilmen #8geSg3FUC
-▯ takes place next after ▯
 
 leaqbıe ± `toa` @Ilmen #jK0KkhEHm
 = ja shıko ja guko bı bıe shíko gúko na ru sıa saqko bı bıe sáqko gúko na ru shıu sáqko shíko.
@@ -40751,6 +40757,9 @@ loıgoı ± `en` @jiqci #AMUBb7rfs
 
 loıseaq ± `en` @Machy #jNngiYyvZ
 ▯ hatefucks ▯.
+
+lojeı ± `en` @evie #Tgg0wfeVN
+▯ is concise
 
 Lojıbaq ± `en` @official #V0258x6zNP
 predicate: ‘Lojban’; ▯ is the Lojban language.
@@ -51770,7 +51779,7 @@ archaic/formal/polite 3rd person personal pronoun
 nhamka ± `en` @seaqtaq #vg5mgw7XK
 ▯ embraces / confronts / takes on / faces up to / indulges in / revels in satisfying property ▯.
 
-nhamla +2 `en` @Laqme #HmFR1T-jZ
+nhamla +3 `en` @Laqme #HmFR1T-jZ
 ▯ caresses / cuddles / snuggles ▯.
 
 nhamnhaq ± `en` @robintown #Ajy7fM_LL
@@ -52325,7 +52334,7 @@ predicate: ‘newton’; ▯ is a newton
 o- ± `en` @lassc #mWgwK4-Dk
 prefix: ideophone of X
 
-o +1 `en` @Laqme #D7S-WkJN1
+o +2 `en` @Laqme #D7S-WkJN1
 interjection: 'oh'
 
 o'aomo ± `en` @official #JYxZ5sdi1eS
@@ -52855,6 +52864,9 @@ paıfuo ± `en` @robintown #shN0DrY_s
 
 paıgaq ± `en` @Ilmen #_2aTVQINt
 ▯ is a companion/mate/comrade/associate/partner of ▯.
+
+paıge ± `en` @uakci #btQTLy0mQ
+▯ is friendly / amiable / inspires friendliness.
 
 paıgı ± `en` @official #04s-QRp0eP
 predicate: ‘friendly’; ▯ is friendly towards ▯.
@@ -57986,6 +57998,9 @@ predicate: ‘avoid’; ▯ avoids/evades satisfying property ▯.
 
 rıeq ± `pl` @jiqci #aFtENOTSmc
 ▯ unika spełniania własności ▯.
+
+rıeqbuaq ± `en` @mimiaoganhaqpy #pHNVY6Y5U
+predicate: ‘indulge’; ▯ indulges in satisfying property ▯; fails to avoid satisfying property ▯ due to temptation.
 
 rıeqcıoq +1 `en` @Laqme #9TJ9VEpMb
 ▯ is an Esc (Escape) key.
@@ -65158,14 +65173,14 @@ sheapua ± `en` @seaqtaq #Jm05D9xI5
 sheaq ± `en` @official #rivSipW01r
 predicate: ‘stand’; ▯ stands on ▯.
 
+sheaq +1 `en` @fagri #m1RJsJIKM
+▯ stands
+
 sheaq ± `ja` @Laqme #bL2Mi5VQP
 ▯は▯の上に立っている
 
 sheaq ± `en` @uakci #W8btyJRZ9
 ▯ stands on ▯; ▯ is upright.
-
-sheaq ± `en` @fagri #m1RJsJIKM
-▯ stands
 
 sheaq ± `pl` @jiqci #qVrLhD86jv
 ▯ stoi na ▯.
@@ -66826,7 +66841,7 @@ shu ± `jbo` @zearen #nZE0DNkIW
 ⚠ shu -1 `en` @oldofficial #DWrFUoF6c1m
 word-quote: ‘the.word’; turn next word into quote predicate
 
-shú ± `en` @Laqme #eLZk8RIN8
+shú +1 `en` @Laqme #eLZk8RIN8
 word-quoting determiner: the word…
 
 shu'aı ± `en` @Machy #axWLzIFVo
