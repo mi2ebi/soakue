@@ -17293,7 +17293,7 @@ predicate: ‘previous’; ▯ is previous to ▯ in sequence ▯; ▯ precedes 
 fıa ± `pl` @jiqci #9BgXgpa3Ke
 ▯ poprzedza ▯ w kolejności ▯.
 
-fíachaq ± `en` @robintown #2an4kDx3Q
+fíachaq +1 `en` @robintown #2an4kDx3Q
 pronoun: yesterday
 
 fıache ± `en` @seaqtaq #-g9RS1aNT
@@ -29691,7 +29691,7 @@ jıadıo ± `en` @jiqci #2kr57H8LG
 jıadıu ± `en` @Ilmen #5QeaOf9I9
 ▯ is futurology.
 
-jíafıachaq ± `en` @Laqme #rHbFps87r
+jíafıachaq +1 `en` @Laqme #rHbFps87r
 pronoun: the day after tomorrow
 
 jıahe ± `en` @seaqtaq #2tvt_KHqF
@@ -29826,7 +29826,7 @@ jıaleo ± `en` @uakci #nRKBOZ5Y9
 jıaleo ± `en` @uakci #MDe9jYnFw
 ▯ intends to do ▯ at some point in the future.
 
-jıam ± `en` @jiqci #t0W6G5pqt
+jıam +1 `en` @jiqci #t0W6G5pqt
 ▯ kills ▯.
 
 jıamche ± `en` @Laqme #Ew5cOoWiq
@@ -30045,7 +30045,7 @@ jıaqme ± `en` @Ilmen #7AFr9LCz1
 jıaqrao ± `en` @Ilmen #Xmatrh6Z3
 null tense: ▯ is true without contextual restriction of interval of time (cancelling, substituting to any syntactically imposed tense).
 
-jıaqsha +1 `en` @TheAndSys #yhVSw26fK
+jıaqsha ± `en` @TheAndSys #yhVSw26fK
 ▯ kills ▯
 
 jıaqtu ± `en` @official #yLV9xfvsOW
@@ -45494,7 +45494,7 @@ mole ± `en` @Ilmen #IoLQyKsBO
 mole ± `en` @salarua #VOqAAAnk3
 predicate: ‘mole’; ▯ is a mole (unit of measurement)
 
-molem ± `en` @magnap #8HICOI_WT
+molem +1 `en` @magnap #8HICOI_WT
 ▯D/c holds in their mind the possibilities-inherent-in-▯N/0 (declarative *or* interrogative clause); from Estonian "mõtlema"
 
 molotochaı ± `en` @jiqci #taxJytcOM
@@ -48884,7 +48884,7 @@ nıchaq ± `tok` @el #CfOQwaIus
 nıchaq ± `pl` @jiqci #FmYyl4cGf
 ▯ to dziś/dzisiaj.
 
-níchaq ± `en` @robintown #t7gQ_DRRj
+níchaq +1 `en` @robintown #t7gQ_DRRj
 pronoun: today
 
 nıdaq +1 `en` @official #BnPkw6kUbH
@@ -56337,7 +56337,7 @@ tense: medial past
 pusıa ± `en` @seaqtaq #zFn9eiS90
 ▯ has never been the case
 
-púsıechaq ± `en` @Laqme #ByVTyw42l
+púsıechaq +1 `en` @Laqme #ByVTyw42l
 pronoun: the day before yesterday
 
 pusho ± `en` @Laqme #MWPGicGLa
@@ -62089,7 +62089,7 @@ sıeceo ± `en` @Ilmen #KtSx4-iqA
 sıecuoı ± `en` @uakci #0cuN6nJQg
 ▯, with each element of sequence ▯ in order, satisfies ▯ (relation).
 
-síechaq ± `en` @robintown #zgaAshRgV
+síechaq +1 `en` @robintown #zgaAshRgV
 pronoun: tomorrow
 
 sıeche ± `en` @Laqme #tRqEQG2qB
@@ -64269,6 +64269,9 @@ Po súo ▯.
 
 ⚠ suobo -1 `en` @oldofficial #XSljMryJqVV
 predicate: ‘our’; ▯ is yours (2nd + 3rd person).
+
+suoga +1 `en` @salarua #LxsVwu989
+▯ is a heaven.
 
 suoı ± `en` @official #SRciuI2k_
 predicate: ‘great’; ▯ is greatly/awesomely/impressively ▯.
@@ -73328,6 +73331,9 @@ illocution / speech act particle: "what a ...!" / "how ...!"
 
 ꝡéı ± `en` @Laqme #6FjrzeCEL
 illocution: question/exclamation of disbelief
+
+ꝡeıge ± `en` @robintown #jfSwTta9Y
+▯ is amazing/great/surprising; ▯ makes you say 'ꝡeı'.
 
 ꝡeıpapa ± `en` @robintown #MIct3H7PS
 ▯ is Ꝡ-pop.
