@@ -473,6 +473,9 @@ aja ± `tr` @kazoo #EcwfBPHft
 ⚠ aja -1 `en` @oldofficial #yG019S9yyj
 interjection: ‘yay’; happiness
 
+âja ± `en` @Laqme #97odUIUnC
+interjection: "yay! happy for you!"
+
 ajenalıq ± `en` @robintown #pUHIZC84s
 ▯ is adrenaline.
 
@@ -706,6 +709,9 @@ interjection: 'just kidding!'
 
 Anaosamızu ± `en` @salarua #zVX3tzfRI
 predicate: ‘Inari.Sami.language’; ▯ is the Inari Sami language
+
+anemone ± `en` @Laqme #wRbogIafn
+▯ is a sea anemone.
 
 anı +1 `en` @Hoemai #LOTyDA7if
 ▯ is sand.
@@ -24523,6 +24529,9 @@ hıa ± `en` @uakci #SpDQxv5xQ
 hıa ± `en` @uakci #D4NgXFm9t
 ▯ is what? ▯ satisfies what property?
 
+hıaba ± `en` @Laqme #TmY7QK-l1
+echo question version of **hıa**: "▯ is what now?"
+
 hıafaq +1 `en` @mimiaoganhaqpy #Ayo1fOdl2
 What the fuck is ▯?; What the fuck is ▯ doing?
 
@@ -24811,8 +24820,8 @@ hıaqmuo ± `en` @seaqtaq #Ft0p-xXUK
 hıba +5 `en` @Hoemai #7CFQA8mrR
 Interjection: "please repeat", "come again?", "sorry?"
 
-hıba ± `en` @Laqme #zOGhwjg6m
-I didn't understand what you just said, and I would like you to repeat it.
+híba ± `en` @Laqme #FFVx0b-Vo
+interjection: "pardon?" / "come again?"
 
 hıbotom ± `en` @Snow #wg1sZJWi5
 ▯is a Higgs boson.
@@ -42852,6 +42861,9 @@ mazıu +1 `en` @Laqme #Ag3FL4eLx
 me ± `en` @official #iQcN_msUxG
 predicate: ‘aggregate’; ▯ is an aggregate of ▯.
 
+me +1 `en` @Laqme #JXyL4i43t
+▯ is an aggregate of members satisfying property ▯.
+
 me ± `toa` @uakci #VkBDgNLnN
 tu lú mea hóa dógu pa paq dóshı, na ru shı dóshı, na ru daı râo sa héo bû shı lú tuq paq hóa dóshı da
 
@@ -44288,6 +44300,9 @@ name verb honoring the deceased
 
 mımoe ± `en` @uakci #wo56vtLG-
 onomatopoeic/mimetic quote: ▯ goes X (as in, displays behaviour or state of mind or feeling that “rattles” like X; not necessarily that they *say* X out loud).
+
+mımtoaı ± `en` @Laqme #_qEN7rYSB
+▯ is a meme.
 
 mınajoaı ± `en` @jiqci #7juZm0cCs
 ▯ does minesweeping.
@@ -51803,7 +51818,7 @@ number: one billionth, nano-
 nhanha ± `en` @uakci #vLvQk1M9Q
 interjection: ‘there, there’
 
-nhanho ± `en` @robintown #nt_54LCeM
+nhanho +1 `en` @robintown #nt_54LCeM
 interjection: cutesy 'yes'
 
 nhanhoq ± `en` @official #mf54EyLLfV
@@ -62013,6 +62028,9 @@ sıazıu ± `en` @Ilmen #sjNHCXuia
 
 sıba +1 `en` @uakci #-wa2ymUSt
 ▯ calls ▯’s attention.
+
+sıba ± `en` @Laqme #cKE_unV-w
+interjection: "look out!" / "watch out!" / "careful!"
 
 sıbeo +2 `en` @uakci #2A9lb67R-
 ▯ is distracted from ▯; ▯ averts focus from ▯.
