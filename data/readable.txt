@@ -18316,6 +18316,9 @@ fuqcea ± `en` @Laqme #lTpJKPBgd
 fuqcıa ± `en` @seaqtaq #PCc14OfgX
 ▯ is naked/bare
 
+fuqde ± `en` @Laqme #XjCuDlQQM
+▯ is well-dressed / wearing nice clothes.
+
 fuqgıuq ± `en` @Laqme #Ih9MoIRaY
 ▯ is a wall hook for hanging coats.
 
@@ -23224,6 +23227,15 @@ hake -1 `en` @Xylochoron #o_O6s_CA7
 hakejo ± `en` @jiqci #mlU99j0rJ
 ▯ = ▯ ^^ ▯. (tetration/power tower)
 
+hakıq ± `en` @robintown #iE3Y-Uioi
+▯ hacks on things.
+
+hakıqche ± `en` @robintown #m6jszf7KQ
+▯ is a hacker (one who participates in hacker culture).
+
+hakıqtoq ± `en` @robintown #HXaca3Dbs
+▯ is a hackathon.
+
 hako ± `en` @Ilmen #yeRd1W5ej
 ▯ is a bear.
 
@@ -25933,7 +25945,7 @@ predicate: ‘human’; ▯ is a human.
 honı ± `en` @Ilmen #ST3mfUNM_
 ▯ is this/that animate thing satisfying property ▯.
 
-hopa +1 `en` @Laqme #CpfLIsrhn
+hopa ± `en` @Laqme #CpfLIsrhn
 ▯ is satisfied by him/her/them.
 
 hoq ± `jbo` @Laqme #ccCRbOkw9
@@ -33432,6 +33444,9 @@ kampı ± `en` @jiqci #YqW1GZ5Km
 kampıbeaq ± `en` @jiqci #P7CygwryC
 ▯ is a crankshaft.
 
+kampıqrıaq ± `en` @robintown #J_W7KTuEG
+▯ is a campsite.
+
 Kanada ± `en` @sheireq #6gRfVhxmS
 predicate: 'Canadian'; ▯ is Canadian/pertains to Canada.
 
@@ -34796,6 +34811,9 @@ kerıoq ± `en` @seaqtaq #vcSwBjWJs
 kero +1 `en` @Ilmen #8P-C5of_J
 ▯ is a tree or shrub of the Citrus genus.
 
+kerozeo ± `en` @Laqme #3oQ5Cy6L6
+▯ is a citrus fruit.
+
 kesı ± `en` @jiqci #XhfCho2SB
 ▯ is a lizard.
 
@@ -35669,10 +35687,10 @@ Kırıgısızu ± `en` @jiqci #4R5reACeJ
 kırıkuatom ± `en` @Snow #sGPIFM4C4
 ▯is a charm quark.
 
-kırıpırı +1 `en` @seaqtaq #TwH4tgVH1
+kırıpırı +2 `en` @seaqtaq #TwH4tgVH1
 ▯ is cutely-annoyed; ▯ feels a sense of amusement at being lightly teased in a cute or endearing fashion
 
-kırıpırıca ± `en` @seaqtaq #v_5eylzN2
+kırıpırıca +1 `en` @seaqtaq #v_5eylzN2
 ▯ cutely-annoys ▯; ▯ lightly teases ▯ in a cute or endearing fashion causing them to feel amused
 
 kırıso ± `en` @mimiaoganhaqpy #v3oBy-vTC
@@ -36097,6 +36115,9 @@ koecachuaq ± `en` @seaqtaq #JdCK3-FIe
 
 koecaı ± `en` @uakci #QqSFY1_UZ
 ▯ is confident/decided in property ▯.
+
+koecem ± `en` @Laqme #vR-Wws7fZ
+▯ is (a) default.
 
 koechuaq ± `en` @seaqtaq #n5yMBp5c4
 ▯ is existentialism
@@ -42741,6 +42762,12 @@ marashamuao ± `en` @jiqci #SJo137hdm
 Maratızu ± `en` @eednb #aL_mvAqgD
 ▯ is the Marathi language.
 
+maratoq ± `en` @robintown #j2HXlpJoE
+▯ is a marathon (42.195 km race).
+
+maratoq'aı ± `en` @robintown #_GBbeuL8j
+▯ is a marathon (figuratively).
+
 marıhuana +1 `en` @Hoemai #5R-fhrDk7
 ▯ is marihuana (genus Cannabis).
 
@@ -47861,6 +47888,9 @@ naraqchaq ± `pl` @jiqci #PfL97OhW40
 naraqjıaq ± `en` @TheAndSys #CNM7ITiYn
 ▯ is an orange cosmos
 
+naraqkero ± `en` @Laqme #rZpNT3rY-
+▯ is an orange tree.
+
 naraqkıa ± `en` @Machy #M8GoJBvC-
 ▯ is vermilion.
 
@@ -47876,7 +47906,7 @@ Naraqnete +1 `en` @jiqci #sSWwj6gPF
 naraqtıeq ± `en` @Laqme #ChXk6EHDK
 ▯ is a Dorian scale.
 
-naraqzeo ± `en` @fagri #h7kaHC5Dn
+naraqzeo +1 `en` @fagri #h7kaHC5Dn
 ▯ is an orange (fruit)
 
 naraqzeonao ± `en` @fagri #CLjIcZB0X
@@ -56932,7 +56962,7 @@ raqhalı ± `en` @el #3cOVfovBe
 ▯ has insight relating to ▯
 
 raqheo +1 `en` @Laqme #LjXH9WDKY
-▯ is about something else; ▯ and ▯ pertain to different things.
+▯ and ▯ pertain to different things.
 
 raqjao ± `en` @Laqme #zFMt6daUf
 ▯ is barely related / not so relevant / has little to do with ▯.
@@ -63287,6 +63317,9 @@ soke ± `en` @uakci #8iX2foi-g
 soke'acı ± `en` @salarua #JBoV87wet
 ▯ is citric acid
 
+sokezeo ± `en` @Laqme #A7E_KYYwI
+▯ is a citrus fruit.
+
 sokuao ± `en` @jiqci #cwJUxbOPC
 ▯ is a spork.
 
@@ -64525,7 +64558,7 @@ suqnaı ± `en` @seaqtaq #BCzmiXtfg8E
 suqneoq ± `en` @Ilmen #jRMNX10Vr
 ▯ is you (polite pronoun).
 
-suqpa +1 `en` @Laqme #MUIvp4ypD
+suqpa ± `en` @Laqme #MUIvp4ypD
 ▯ is satisfied by you.
 
 suqpao ± `en` @Machy #1_7LZiRhI
