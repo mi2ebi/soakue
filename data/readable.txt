@@ -9725,6 +9725,9 @@ chıeqtıeq ± `en` @seaqtaq #1MPOG9tea
 chıeqzu ± `en` @shamu #MrHMXEEum
 ▯ is an auxiliary language / interlingua / lingua franca / auxlang.
 
+chıese ± `en` @TheAndSys #wUKmdYfUD
+▯ is a class (an event of going to study in a school)
+
 chıesoachuo ± `en` @uakci #Olss3VFwZ
 ▯ is learning material (not necessarily written or a book).
 
@@ -23284,7 +23287,7 @@ hana ± `en` @Ilmen #r2NNl3ZDA
 hane ± `en` @kazoo #AScdKZBzU
 speech act: referencing a previous event/thing, "remember when..."
 
-hanı ± `en` @kazoo #kNQBFmDtJ
+hanı +1 `en` @kazoo #kNQBFmDtJ
 interjection: reminding someone they've forgotten something or to prompt them about a task or duty they're neglecting.
 
 hanoı ± `en` @Ilmen #TjGZ3X4Zd
@@ -23709,6 +23712,9 @@ haranıka ± `en` @Hoemai #eNn63YUcK
 
 harı +1 `en` @Machy #tCoZ39Cpp
 ▯ is a wizard.
+
+harısa +1 `en` @Laqme #HUlSPp-Ei
+▯ is harissa (chili pepper paste).
 
 hasa +2 `en` @Laqme #9tffIt1-6
 ▯ sighs.
@@ -28656,6 +28662,9 @@ jeadıe ± `en` @jiqci #AT2-H0Jii
 jeadoaqpaq ± `en` @robintown #dozHGH0Cd
 ▯ is a shopping/business district.
 
+jeafeu ± `en` @Laqme #x2yyHVJI_
+▯ boycotts ▯.
+
 jeaguo ± `en` @seaqtaq #gMj3XOy5_
 ▯ is a purchase/transaction
 
@@ -31436,6 +31445,9 @@ jomlaıme ± `en` @Snow #Zv7IU1ctx
 
 jommana ± `en` @uakci #alYp5Sabw
 ▯ is Monster Energy.
+
+jomnıu +1 `en` @Laqme #j6dngql0g
+▯ is a plant of genus Monstera.
 
 Jomnuım ± `en` @jiqci #TSOwAtlZw
 ▯ is Algol / the Demon Star.
@@ -38661,7 +38673,7 @@ laqluoqchue ± `en` @uakci #9qPW9cctb
 laqme ± `en` @uakci #JRLGrhqMe
 ▯ is a chord/cluster/(vertical composition of sounds/pitches).
 
-laqmeaı ± `en` @Laqme #ixTbCQvtl
+laqmeaı +1 `en` @Laqme #ixTbCQvtl
 ▯ is Laqmesque / is the kind of thing Laqme would like or invent.
 
 laqmechue ± `en` @uakci #B0c92Jue2
@@ -39495,7 +39507,7 @@ lıaısheq ± `en` @Machy #6KXBrOM2n
 lıaıshoaı ± `en` @Ilmen #msLpyuhWV
 ▯ is a fin (body part).
 
-lıaıshoaı ± `en` @Ilmen #V0Kpf4bSE
+lıaıshoaı -1 `en` @Ilmen #V0Kpf4bSE
 ▯ is a fine (body part).
 
 lıaızıu ± `en` @Laqme #JUHXl83lu
@@ -40791,7 +40803,7 @@ loıgoı ± `en` @jiqci #AMUBb7rfs
 loıseaq ± `en` @Machy #jNngiYyvZ
 ▯ hatefucks ▯.
 
-lojeı ± `en` @evie #Tgg0wfeVN
+lojeı +1 `en` @evie #Tgg0wfeVN
 ▯ is concise
 
 Lojıbaq ± `en` @official #V0258x6zNP
@@ -41063,6 +41075,9 @@ lorıq ± `en` @uakci #kLq35lRNp
 
 loseduhu +2 `en` @Ilmen #LE8IUnjZG
 the text/utterance ▯ is verbose.
+
+lota ± `en` @kazoo #f3mIfgaxM
+▯ fishes; ▯ makes an attempt to catch fish from a body of water and potentially succeeds
 
 lotıehua ± `en` @RaineTheEnby #Keir_7ReKOs
 ▯ is a mechanical exoskeleton worn by ▯
@@ -44644,6 +44659,9 @@ predicate: ‘protest’; ▯ protests against ▯ by satisfying property ▯
 
 mıuhıa +1 `en` @Laqme #DO7QDYzuB
 What do (you) think about ▯?
+
+mıuja +1 `en` @Laqme #uc7CD96wX
+▯ convinces ▯ that ▯ is the case.
 
 mıujeq ± `en` @official #MqbI127mqD
 predicate: ‘agree’; ▯ agrees with ▯ that ▯ is the case.
@@ -53278,6 +53296,9 @@ paqkaı ± `en` @seaqtaq #V_8Sxz193
 
 paqke +1 `en` @uakci #1hmiVMdGG
 ▯ are American-style pancakes (smallish, round, rather thick, not rolled up, usually stacked on top of each other for gluttony’s worth).
+
+paqkenıu ± `en` @Laqme #UthdaNSu-
+▯ is a Pilea peperomioides / Chinese money plant.
 
 paqkı +3 `en` @jiqci #NttNVxYOp
 ▯ is related to punk genre/subculture.
@@ -73353,7 +73374,10 @@ interjection: cool!, sick!, wicked!, impressive!, tubular!
 ꝡaꝡacaı ± `en` @jiqci #hEPxeUR-f
 ▯ is badass.
 
-ꝡé +2 `en` @mimiaoganhaqpy #pC-pFAWo3
+ꝡe ± `en` @mimiaoganhaqpy #2vo_GPGUu
+free relative: ‘that.which’; turn clause into predicate
+
+ꝡé +2 `toa` @mimiaoganhaqpy #pC-pFAWo3
 = ló ꝡë
 
 ꝡë ± `en` @official #14sAFSNAzJD
@@ -73572,11 +73596,11 @@ polarity prefix: bad presupposition
 zaı +3 `en` @Hoemai #3cfDxspI7
 ▯ hopes that ▯ is the case.
 
-zaı +1 `en` @robintown #NBSOMczfr
-▯ feels hope; ▯ is hopeful for ▯ being the case.
-
 zaı ± `en` @official #EY0YqiI2-6A
 predicate: ‘hope’; ▯ hopes that ▯ is the case.
+
+zaı ± `en` @robintown #NBSOMczfr
+▯ feels hope; ▯ is hopeful for ▯ being the case.
 
 zaı ± `ja` @uakci #1hjJA6X97
 ▯は▯が起ると希望する／望む
@@ -73920,6 +73944,9 @@ zena ± `en` @Ilmen #sneGjfhcK
 zenadaı ± `en` @Ilmen #8YYxOaO7Y
 ▯ is elastic.
 
+zenaseom ± `en` @Laqme #aPjQstuSd
+▯ stretches (exercises their muscles).
+
 zenateı ± `en` @jiqci #cogEBI97x
 ▯ is topologically equivalent to ▯.
 
@@ -73971,7 +73998,7 @@ zeo ± `tr` @kazoo #MCkOR45d_
 zeocoeze ± `en` @Laqme #MERxCQDxt
 ▯ is pectin.
 
-zeoı +1 `en` @kazoo #Od4UyBH_E
+zeoı +2 `en` @kazoo #Od4UyBH_E
 self-exclusionary 1st person plural: the speaker addresses a group (as if/normally) they belong to it, but excludes themselves from it
 
 zeokoaq ± `en` @Ilmen #UDC5pNgFi
@@ -85731,7 +85758,7 @@ sem tı ± `en` @Laqme #tjSWQDWO3
 Seo súna chéq ka. ± `en` @examples #mLGKC6Y6aDi
 I now pronounce you husband and wife.
 
-Shaı ba hóı buoq! ± `en` @examples #rZIglqy69a-X
+Shaı ba hóı buoq! -1 `en` @examples #rZIglqy69a-X
 Oh, stop it, you clown!
 
 ⚠ Shaı ba hu búoq! -1 `en` @oldexamples #4ihHgYhuxhk
