@@ -202,6 +202,9 @@ Afarı ± `pl` @jiqci #Ch-VITkiM
 Afarı ± `lou` @eednb #E1-Sens1a
 prédika: ‘Lafrik’; ▯ çé Lafrik.
 
+Afarı'usona ± `en` @Laqme #AU8lu8b89
+▯ is African-American.
+
 Afıkaqzu ± `en` @jiqci #a6cU0AvKk
 ▯ is the Afrikaans language.
 
@@ -30858,7 +30861,7 @@ jıtı ± `en` @uakci #MkMsjBqCw
 jıto +2 `en` @Ilmen #qzIc9PViu
 ▯ guesses that ▯ is the case (correctness of the guess not implied).
 
-jıtoa +1 `en` @el #NNDR-WztA
+jıtoa +2 `en` @el #NNDR-WztA
 ▯ is a pronoun
 
 jıtoaq ± `en` @Machy #Gvte7zsUq
@@ -42066,7 +42069,7 @@ complementizer: ‘whether’; opens polar question subordinate clause
 ma'epıqꝡarı ± `en` @Ilmen #m9Sk-MkTR
 ▯ is a mapinguari.
 
-ma'ı ± `en` @Machy #cd-k4p1yk
+ma'ı -1 `en` @Machy #cd-k4p1yk
 ▯ is romantic.
 
 ma'ıpaı ± `en` @Machy #cnGck-QNv
@@ -45725,6 +45728,9 @@ moteo +2 `en` @Ilmen #_JbKFg0vw
 moteolaı ± `en` @el #ze6UANcY4
 ▯ are quotes («, », “, ”, ", etc)
 
+motogusıoq ± `en` @TheAndSys #dNZ4skvNo
+▯ is a motorbike
+
 motosıoq +1 `en` @Laqme #DMoqwJ_gO
 ▯ is a motorcycle.
 
@@ -46448,11 +46454,11 @@ predicate: ‘whole’; ▯ is whole/complete in aspect ▯.
 muo +1 `en` @Laqme #i5mdfG4rI
 ▯ wholly/completely satisfies property ▯.
 
+muo +1 `en` @robintown #BShD7acr3
+degree: fully, completely
+
 muo ± `pl` @jiqci #rw87wY1Tg
 ▯ jest pełny/kompletny pod względem własności ▯.
-
-muo ± `en` @robintown #BShD7acr3
-degree: fully, completely
 
 muoboaq ± `en` @jiqci #lympUfL6d
 ▯ is an umbra (part of a shadow).
@@ -46602,7 +46608,7 @@ muoıtoq ± `en` @kazoo #dF1B4EMkF
 ▯ is a turntable.
 
 muojaq ± `en` @Laqme #NF1Nn2sap
-▯ is the case as much as possible.
+degree: as much as possible
 
 muojoaı +1 `en` @jiqci #1dzMR4uzr
 ▯ systematically/exhaustively looks for ▯, ▯ brute-forces ▯.
@@ -58923,6 +58929,9 @@ roıtoame ± `en` @Laqme #ij2AXudOK
 rokodelo +1 `en` @Ilmen #NyHNVaJU1
 ▯ is a crocodile.
 
+rokodeno ± `tok` @evie #-j6zKpCKK
+▯ li kepeken toki kokosila
+
 rom +4 `en` @salarua #UTROaZMeN
 predicate: ‘program’; ▯ is a computer program
 
@@ -63486,7 +63495,7 @@ soqjapıo ± `en` @robintown #H97-o30tK
 ▯ is tuff.
 
 soqjaq +1 `en` @Laqme #ZlqlnAUkv
-▯ is the case as much as possible.
+degree: as much as possible
 
 soqjeo ± `en` @Ilmen #Fb4vkLBrD
 ▯ is the case to the highest extent that allows its having that extent to satisfy property ▯;
@@ -63800,6 +63809,9 @@ suaıtao ± `en` @Ilmen #QGo5tfptW
 
 suaıtaobu ± `en` @Ilmen #cq-7S3WPt
 ▯ takes his/her/their time in satisfying property ▯.
+
+suaıtoa ± `en` @TheAndSys #tXlHfPb8i
+▯ is a honorific (some word or phrase or whatever used to make a more respectful reference to someone)
 
 suaıtom ± `en` @jiqci #iyDI4EbmU
 ▯ is a tachyon.
@@ -81627,7 +81639,7 @@ Everybody wait.
 ⚠ La ruqshua. -1 `en` @oldofficial #65RCSTiUtQ2
 It's raining.
 
-lä tïo ± `en` @seaqtaq #xYgFqmJy-
+lä tïo -1 `en` @seaqtaq #xYgFqmJy-
 complementizer: ‘λ’; opens property clause which indicates a degree question
 
 la toaheo ± `en` @Ilmen #bPdipjSO5
