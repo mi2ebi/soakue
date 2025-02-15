@@ -707,10 +707,10 @@ Sentimiento de vivo afecto e inclinación hacia una persona o cosa a la que se l
 ampea ± `en` @salarua #4o9TqJQRC
 predicate: ‘ampere’; ▯ is an ampere
 
-amra ± `en` @robintown #LyljqYZCl
+amra +1 `en` @robintown #LyljqYZCl
 ▯ (action) is devious/mischievous/sly.
 
-amralam ± `en` @robintown #eOI_5M2RU
+amralam +1 `en` @robintown #eOI_5M2RU
 ▯ (agent) is devious/mischievous/sly in character.
 
 anaı ± `en` @Laqme #pQe5GYNjd
@@ -5116,6 +5116,9 @@ buınua +2 `en` @Laqme #kPkU_EkCH
 
 buıpıanete ± `en` @mimiaoganhaqpy #oxmj55lWl
 ▯ is an exoplanet.
+
+buıpoha ± `en` @Laqme #cE1dcZmzu
+▯ refers exophorically to ▯.
 
 buırurıtoa ± `en` @Laqme #rUH2i235Z
 ▯ is an exophoric pronoun.
@@ -15607,6 +15610,9 @@ echımı ± `en` @seaqtaq #6jnKxXej9
 efue ± `en` @robintown #GXcCOGSGW
 interjection: praise; 'very good!', 'that's right!'
 
+efuela ± `en` @Laqme #-BBqoeLqt
+▯ praises ▯.
+
 ege ± `en` @uakci #1htKeYsm9
 ▯ feels an unfamiliar or unsettling sensation.
 
@@ -17083,6 +17089,9 @@ femıtom ± `en` @Snow #K5gEoV7sI
 femto ± `en` @jiqci #d0EaIcm5j
 number: one quadrillionth (10^-15), femto-
 
+fene ± `en` @kazoo #4cVI9iz9P
+▯ is a "technic" science, e.g. math, physics, engineering, biology, chemistry, astronomy
+
 fenoqpuo ± `en` @robintown #xAbbqHuOe
 ▯ is five-spice powder.
 
@@ -17361,6 +17370,9 @@ fıamaq ± `en` @Ilmen #IOnJoEJwz
 
 fíanuaq ± `en` @robintown #6mMjWDSih
 pronoun: last night
+
+fıapoha ± `en` @Laqme #naNVRzQhe
+▯ refers anaphorically to ▯.
 
 fıaq +1 `en` @TheAndSys #ZfzhcSPsJ
 interjection: Anyways, regardless
@@ -19470,6 +19482,24 @@ gemuaq ± `en` @Laqme #QR-cj3YHo
 
 gemueı ± `en` @Laqme #pYGpW1hoo
 ▯ is a button magnet / fridge magnet.
+
+genea ± `en` @Ilmen #6wOZ3oZPH
+▯ is a gene.
+
+genea'uchı ± `en` @Ilmen #VLOvj3hlF
+▯ has sex phenotype ▯.
+
+geneadıu ± `en` @Laqme #zuJXXFpRE
+▯ is genetics.
+
+geneame ± `en` @Ilmen #g1oHz9cPq
+▯ is a genome.
+
+geneamerıoq ± `en` @Ilmen #YpXLuqrhM
+▯ has genotype ▯.
+
+genearıoq ± `en` @Ilmen #99leO_JhL
+▯ is an allele of gene ▯.
 
 geneutom ± `en` @Snow #vu5qsV_ob
 ▯is a neutrino.
@@ -24142,9 +24172,6 @@ heo ± `jbo` @zearen #u7YMEo97A
 heo ± `pl` @jiqci #sWvF3ijpCO
 ▯ jest odmienny/inny niż ▯; ▯_ różni się od ▯ pod względem własności ▯.
 
-héo ± `en` @uakci #4nbnn-son
-focus particle: a different X
-
 heo'aq ± `en` @akesi #4DWQfZXAe
 ▯ is hypocritical, ▯ is a hypocrite
 
@@ -24492,6 +24519,9 @@ hesıa ± `en` @uakci #buY7a2iT_
 
 heu +1 `en` @Ilmen #vwoFAK-9M
 particle: this particle is placed between two serial predicates, the second of which beginning on a high-falling tone; the serial predicates on both sides are each considered as if they were single predicate words, and their meanings and argument structures combine serially according to the usual serialization rules.
+
+héu ± `en` @uakci #dwlh5t0Kd
+determiner: distinct X or X-s in all cases (under all possible choices of scoping **rú**, **tú**, etc.)
 
 heubuo -1 `en` @fagri #qUSqQ2x_D
 ▯ is ripe
@@ -27457,7 +27487,7 @@ interjection: yes (explicitly rejecting a negative claim just made)
 ıo- ± `en` @Laqme #NNE1uZFtT
 prefix: attaches to a speech act particle to mark the sentence as a proverb, snowclone, reference, quote, etc
 
-ıo +3 `en` @Hoemai #bB7SVASN4
+ıo +4 `en` @Hoemai #bB7SVASN4
 interjection: agreement, "yeah", "totally", "agreed", "I feel the same way"
 
 ıo +2 `en` @akesi #6IclhCW3n
@@ -28157,7 +28187,7 @@ interjection: 'unhello' (goodbye)
 jadıla ± `en` @uakci #_AchOkVYa
 ▯ says **jadı** to ▯ [informal synonym of **hıo** or such].
 
-jadına ± `en` @Laqme #40ISreDX-
+jadına +1 `en` @Laqme #40ISreDX-
 interjection: ‘hello everyone’
 
 jaga +2 `en` @Laqme #JJQhCscC_
@@ -29439,9 +29469,6 @@ jeq -1 `toa` @Ilmen #z0ZxMnmk8
 jeq -1 `toa` @Ilmen #kXR5-cfXE
 = [XX2] Tu dójo bı sa jeo dosaq to re dóshı dójo to dógu dójo.
 
-jéq ± `en` @uakci #q081SLfHo
-focus particle: a/the same X
-
 jeqbo -1 `en` @uakci #-T6K0LK5T
 ▯ shares/co-owns ▯ with some other.
 
@@ -29663,6 +29690,9 @@ interjection: ‘so like…’ (youthful, slangy **je**)
 
 jeu -1 `en` @fagri #xByJbp2ej
 Shorthand for "ja rái"
+
+jéu ± `en` @uakci #oLmxaSnzS
+determiner: the same X or X-s in all cases (under all possible choices of scoping **rú**, **tú**, etc.)
 
 jı- ± `en` @Laqme #dd4W5mkqR
 prefix: incorporate **jí** object
@@ -34858,6 +34888,9 @@ kerıoq ± `en` @seaqtaq #vcSwBjWJs
 
 kero +1 `en` @Ilmen #8P-C5of_J
 ▯ is a tree or shrub of the Citrus genus.
+
+kerojeqdabo ± `en` @Ilmen #vyCUakfew
+▯ has ‘brain gender’ ▯.
 
 kerozeo ± `en` @Laqme #3oQ5Cy6L6
 ▯ is a citrus fruit.
@@ -49148,6 +49181,9 @@ nıenua ± `en` @Ilmen #F-mt7xmXd
 nıepeo ± `en` @seaqtaq #xGfIQhwQ-
 ▯ (non-agent) penetrates object ▯
 
+nıepoha ± `en` @Laqme #USaULxjtF
+▯ refers endophorically to ▯.
+
 nıeq ± `en` @official #Hq6wmB9Nz-
 predicate: ‘unskilled’; ▯ is unskilled at satisfying property ▯.
 
@@ -53134,6 +53170,9 @@ paq ▯ báq, ꝡë coq ▯ hóa
 
 pambo ± `en` @Laqme #II1ydMeJP
 ▯ has ▯ (projected/displayed/written…) on it.
+
+pamdamkao ± `en` @jiqci #ha91chrsQ
+▯ is a screenshot.
 
 pamkea ± `en` @salarua #LIq-MALry
 predicate: ‘projector’; ▯ is a projector
@@ -60144,6 +60183,9 @@ sabo ± `en` @uakci #9VurH0BTH
 sabu ± `en` @uakci #L215KvucN
 ▯ is noise/din/clamor (sound deemed insignificant or troublesome/irritating).
 
+sạbuıpoha ± `en` @Laqme #NYHgJkygU
+▯ is an exophora / exophoric reference.
+
 sabutao ± `en` @uakci #Jrfyr-rjG
 ▯ makes a racket.
 
@@ -60167,6 +60209,9 @@ saduo ± `en` @TheAndSys #vTctS_oJg
 
 sáfaq ± `en` @evie #UfzUeOdE6
 determiner: some fucking ...
+
+sạfıapoha ± `en` @Laqme #fY1lb0BII
+▯ is an anaphora / anaphoric reference.
 
 safıra ± `en` @Laqme #R6twG3a3V
 ▯ is a sapphire.
@@ -60474,6 +60519,9 @@ samuoq ± `en` @Ilmen #xk_o_64eb
 
 samuraı ± `en` @Ilmen #yYIRHomux
 ▯ is a samurai.
+
+sạnıepoha ± `en` @Laqme #lMXwm2A4M
+▯ is an endophora / endophoric reference.
 
 sanhe +1 `en` @uakci #kjkgy25gr
 ▯ is true to *some* extent; ▯ is the case, however little; ▯ is true by the skin of one’s teeth.
@@ -60996,6 +61044,9 @@ nullary predicate: always false
 
 sasalı +1 `en` @Ilmen #eM9VveiCk
 ▯ is a property satisfied by at least one thing among everything imaginable.
+
+sạsıepoha ± `en` @Laqme #Uyg518hUj
+▯ is a cataphora / cataphoric reference.
 
 sashe +1 `en` @Laqme #cCtnU3SAH
 Maybe ▯ is the case (who knows).
@@ -62307,6 +62358,9 @@ interjection: next bullet point / item / argument etc.
 
 síenı ± `en` @uakci #zh6o3gV1V
 cataphoric pronoun: the following sentence
+
+sıepoha ± `en` @Laqme #iBX5HXgje
+▯ refers cataphorically to ▯.
 
 sıeq ± `en` @official #15Gz-IiE24
 predicate: ‘awe’; ▯ feels awe; ▯ is amazed.
@@ -66244,7 +66298,7 @@ shıoqmıe ± `en` @seaqtaq #VkXU3X9_R
 shıoqrıje ± `en` @seaqtaq #nXBLDpRDY
 ▯ reforms/regenerates spiritually/emotionally
 
-shıoqrue ± `en` @robintown #KSHSz1qlC
+shıoqrue +1 `en` @robintown #KSHSz1qlC
 ▯ is apathetic/dispirited/depressed.
 
 shıoqsıq ± `en` @seaqtaq #f4XZ8dy_n
@@ -68530,6 +68584,9 @@ te ± `ja` @uakci #SmChYzTbb
 te -1 `pl` @jiqci #W9eEp8hhrz
 ▯ został ▯-ęty/ony; z ▯ została spełniona relacja ▯.
 
+té ± `en` @TheAndSys #0t757H76m
+pronoun: the fronted quote
+
 te'eı ± `en` @seaqtaq #1dP9a87Yg
 ▯ is the submissive participant in relation ▯
 
@@ -69757,6 +69814,9 @@ predicate: ‘lid’; ▯ is a lid/cover.
 tıechuo ± `pl` @jiqci #4V6KHkKtk0
 ▯ to pokrywa/przykrywka.
 
+tıedo ± `en` @Laqme #A6CZ-hIUN
+▯ wraps/covers/boxes up ▯.
+
 tıefuq ± `en` @Laqme #Li2FuIoZ5
 ▯ is a coat/overcoat/cloak.
 
@@ -69780,6 +69840,9 @@ tıemu ± `en` @uakci #pS4Mimw31
 
 tıena +3 `en` @Hoemai #WyKNtk6zl
 ▯ hears about (possibly false) fact ▯.
+
+tıenua ± `en` @Laqme #EVyNUAZIG
+▯ unwraps/uncovers/unboxes ▯.
 
 tıeq +1 `en` @official #05FYKG1Yk3
 predicate: ‘path’; ▯ is a way/path.
@@ -73332,7 +73395,7 @@ komplémentœr: ‘COMP’; komens in pròpozisyon sibòrdoné déklarativ
 ꝡadı +2 `en` @robintown #6wr2MSm5L
 interjection: hi, hey
 
-ꝡadına ± `en` @Laqme #iHXH3MRx6
+ꝡadına +1 `en` @Laqme #iHXH3MRx6
 interjection: ‘hi everyone, hey y'all’
 
 ꝡafeu ± `en` @Laqme #wuuXD3q-Z
@@ -75047,6 +75110,9 @@ zuqkeq ± `en` @jiqci #-MRgi-msm
 
 zuqkuq ± `en` @jiqci #D5H2Efxm8
 ▯ quips/snarks/jibes/retorts (saying) ▯.
+
+zuqla ± `en` @Laqme #eytlzddNW
+▯ scolds / tells off ▯.
 
 zurıoq ± `en` @uakci #TyeAo2vWl
 ▯ is a dialect of ▯.
@@ -83280,6 +83346,9 @@ mı Huaıbaı ± `jbo` @el #lkKtgXuBE
 mí Ira ± `en` @jiqci #y-PdoUzg1
 ▯ is Ira, the residence of gods in Toaq mythology.
 
+mí Irakaq ± `en` @mimiaoganhaqpy #jI8Vk52yC
+(poetic) ▯ is the world in which we live.
+
 mí Iraoha ± `en` @Laqme #YgAV7TXuu
 a Toaqic sun god in salarua's worldbuilding
 
@@ -89379,9 +89448,6 @@ jaonoı(lıe) ± `en` @Hoemai #WVKqhQ9e2
 ⚠ jeqjeymaı ± `en` @uakci #Tk55EPg8X
 ▯ is homosexual/homoromantic.
 
-⚠ jey +1 `en` @uakci #b94MgI4Nj
-▯ is a gender; ▯ is a/the gender role achieved by performing roles ▯.
-
 ⚠ jeycıa +1 `en` @uakci #-NcugVVaj
 ▯ is agender.
 
@@ -89390,6 +89456,9 @@ jaonoı(lıe) ± `en` @Hoemai #WVKqhQ9e2
 
 ⚠ jeykuaı +1 `en` @uakci #zraLyeYYB
 ▯ craves gender property ▯.
+
+⚠ jey ± `en` @uakci #b94MgI4Nj
+▯ is a gender; ▯ is a/the gender role achieved by performing roles ▯.
 
 ⚠ jeycuao ± `en` @uakci #sY4J0FcC7
 ▯ is genderqueer/transgender.
