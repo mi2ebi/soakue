@@ -5,8 +5,7 @@ mod tests;
 mod letters;
 mod toadua;
 
-use crate::toadua::Toa;
-use crate::toadua::Toadua;
+use crate::toadua::{Toa, Toadua};
 use itertools::Itertools;
 use reqwest::blocking::Client;
 use serde_json::{from_str, to_string};
@@ -14,6 +13,7 @@ use std::{fs, time::Duration};
 
 const UNDERDOT: char = '\u{0323}';
 
+#[allow(clippy::missing_panics_doc)]
 pub fn main() {
     let client = Client::builder()
         .timeout(Duration::from_secs(60))

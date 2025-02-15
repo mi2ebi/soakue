@@ -7,7 +7,9 @@ use crate::letters::{filter, GraphResult, GraphsIter, Tone};
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     Regex::new(
-        "^(((^|[mpbfntdczꝡsrljvkg'wh ]|[ncs]h)([aeiouáéíóúâêîôûäëïẹịöụüıạọ]([aeo](ı)|ao|[aeiıou])?|[aeiouáéíóúâêîôûäëïẹịöụüıạọ])[qm]?)[ .,?!()]?)+$",
+        "^(((^|[mpbfntdczꝡsrljvkg'wh \
+         ]|[ncs]h)([aeiouáéíóúâêîôûäëïẹịöụüıạọ]([aeo](ı)|ao|[aeiıou])?\
+         |[aeiouáéíóúâêîôûäëïẹịöụüıạọ])[qm]?)[ .,?!()]?)+$",
     )
     .unwrap()
 });
@@ -43,13 +45,13 @@ impl Toa {
                     &self
                         .head
                         .to_lowercase()
-                        .replace(|x| !filter(&x) && !x.is_whitespace(), ""),
+                        .replace(|x| !filter(x) && !x.is_whitespace(), ""),
                 )
             }
             || self.head.chars().any(|c| {
                 !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
-                              AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
-                              .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
+                  AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
+                  .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
                     .contains(c)
             })
             || self.user.starts_with("old"))
@@ -111,14 +113,15 @@ impl Ord for Toa {
 
             match (self_letter, other_letter) {
                 (GraphResult::Finished, GraphResult::Finished) => {
-                    // If two strings reach this point, that means that their letters are identical, so the only way to differentiate is with the tone and whether one is a prefix.
+                    // If two strings reach this point, that means that their letters are identical,
+                    // so the only way to differentiate is with the tone and whether one is a
+                    // prefix.
                     if self.head.ends_with('-') && !other.head.ends_with('-') {
                         return Ordering::Less;
                     } else if other.head.ends_with('-') && !self.head.ends_with('-') {
                         return Ordering::Greater;
-                    } else {
-                        return self_highest_tone.cmp(&other_highest_tone);
                     }
+                    return self_highest_tone.cmp(&other_highest_tone);
                 }
                 (GraphResult::Err(_), GraphResult::Err(_)) => {
                     return self_highest_tone.cmp(&other_highest_tone)
@@ -130,7 +133,6 @@ impl Ord for Toa {
                                 self_highest_tone.max((self_graph.tone, self_graph.underdot));
                             other_highest_tone =
                                 other_highest_tone.max((other_graph.tone, other_graph.underdot));
-                            continue;
                         }
                         ordering => {
                             let self_fails = self_iter.will_fail();
@@ -142,20 +144,19 @@ impl Ord for Toa {
                                 return Ordering::Greater;
                             } else if other_fails {
                                 return Ordering::Less;
-                            } else {
-                                return ordering;
                             }
+                            return ordering;
                         }
                     }
                 }
 
-                (GraphResult::Finished, GraphResult::Ok(_)) => return Ordering::Less,
-
-                (GraphResult::Ok(_), GraphResult::Finished) => return Ordering::Greater,
-
                 // Move failures to the end of the list
-                (GraphResult::Err(_), _) => return Ordering::Greater,
-                (_, GraphResult::Err(_)) => return Ordering::Less,
+                (GraphResult::Err(_), _) | (GraphResult::Ok(_), GraphResult::Finished) => {
+                    return Ordering::Greater
+                }
+                (_, GraphResult::Err(_)) | (GraphResult::Finished, GraphResult::Ok(_)) => {
+                    return Ordering::Less
+                }
             }
         }
     }

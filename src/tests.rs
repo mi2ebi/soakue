@@ -4,7 +4,8 @@ use itertools::Itertools;
 
 use crate::toadua::Toa;
 
-/// Used to test all possible orders of a slice. This is important because we are performing sorting tests, and we want to ensure that the orders picked for testing are not biased for success
+/// Used to test all possible orders of a slice. This is important because we are performing sorting
+/// tests, and we want to ensure that the orders picked for testing are not biased for success
 fn permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &[T], fun: F) {
     let mut current_perm = slice.to_vec();
 
@@ -12,10 +13,11 @@ fn permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &[T], fun: F) {
     heap_permute(&mut current_perm, len, fun);
 }
 
-/// This does the actual permuation. I just didn't want to be using a function with a parameter that will always be something.len().
+/// This does the actual permuation. I just didn't want to be using a function with a parameter that
+/// will always be `something.len()`.
 fn heap_permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &mut Vec<T>, n: usize, fun: F) {
     if n == 1 {
-        fun(slice.to_vec());
+        fun(slice.clone());
     }
     for i in 0..n {
         heap_permute(slice, n - 1, fun);
@@ -100,7 +102,7 @@ fn error_ordering() {
             &["Usona mí Lısa da.", "x", "uatı / uakı / (uakytı?)"],
             words.as_slice()
         );
-    })
+    });
 }
 
 #[test]
@@ -118,7 +120,7 @@ fn sentence_ordering() {
             &["ana", "ina", "ana da", "ina da", "x", "x x"],
             words.as_slice()
         );
-    })
+    });
 }
 
 #[test]
@@ -127,8 +129,10 @@ fn strict_ordering() {
     // - Both words finish at the same time, and one is a prefix
     // - Both words finish at the same time, no prefixes
     // - Both words fail at the same time
-    // - Neither word finishes, but that is enough for a success. One word would eventually fail if its parsing continued.
-    // - Neither word finishes, but that is enough for a success. No word fails and the success is left in the hands of the tone.
+    // - Neither word finishes, but that is enough for a success. One word would eventually fail if
+    //   its parsing continued.
+    // - Neither word finishes, but that is enough for a success. No word fails and the success is
+    //   left in the hands of the tone.
     // - One word ends, the other one fails at the same time
     // - One word ends, the other one does not, but *will* eventually fail
     let mut words =
@@ -147,29 +151,32 @@ fn strict_ordering() {
         match equalities.entry(key) {
             Entry::Occupied(entry) => {
                 let val = entry.get();
-                if *val != cmp {
-                    panic!(
-                        "{:?} was previously {:?} wrt {:?} but is now {cmp:?}",
-                        a.head, val, b.head
-                    );
-                }
+                assert!(
+                    *val == cmp,
+                    "{:?} was previously {:?} wrt {:?} but is now {cmp:?}",
+                    a.head,
+                    val,
+                    b.head
+                );
             }
             Entry::Vacant(_) => {
                 // Make sure the sorting hasn't been done before in the opposite order
                 let key = (b.head.clone(), a.head.clone());
 
-                // CANNOT be the invert() of the existing comparison because we are *verifying*, among other things, that `a.cmp(b).invert()` is the same as `b.cmp(a)`
+                // CANNOT be the invert() of the existing comparison because we are *verifying*,
+                // among other things, that `a.cmp(b).invert()` is the same as `b.cmp(a)`
                 let cmp = b.cmp(&a);
 
                 match equalities.entry(key) {
                     Entry::Occupied(entry) => {
                         let val = entry.get();
-                        if *val != cmp {
-                            panic!(
-                                "{:?} was previously {:?} wrt {:?} but is now {cmp:?}",
-                                b.head, val, a.head
-                            );
-                        }
+                        assert!(
+                            *val == cmp,
+                            "{:?} was previously {:?} wrt {:?} but is now {cmp:?}",
+                            b.head,
+                            val,
+                            a.head
+                        );
                     }
                     Entry::Vacant(vacant_entry) => {
                         vacant_entry.insert(cmp);

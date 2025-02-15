@@ -42,7 +42,7 @@ pub enum Letter {
 }
 
 impl Letter {
-    pub fn build_h_digraph(chr: char) -> Option<Self> {
+    pub const fn build_h_digraph(chr: char) -> Option<Self> {
         match chr {
             'c' => Some(Self::Ch),
             'n' => Some(Self::Nh),
@@ -115,11 +115,12 @@ pub enum GraphResult {
     Finished,
 }
 
-pub fn filter(x: &char) -> bool {
-    !x.is_whitespace() && !['*', '-', '.', ',', '!', '?', '«', '»', '"'].contains(x)
+pub fn filter(x: char) -> bool {
+    !x.is_whitespace() && !['*', '-', '.', ',', '!', '?', '«', '»', '"'].contains(&x)
 }
 
-/// An "iterator" over a string's `Graph`emes. Returns `MaybeGraph` to encode the possibility of finishing with failure instead of succesful iteration.
+/// An "iterator" over a string's `Graph`emes. Returns `MaybeGraph` to encode the possibility of
+/// finishing with failure instead of succesful iteration.
 pub struct GraphsIter<'a> {
     base: Peekable<Decompositions<Chars<'a>>>,
     lowest_tone: Tone,
@@ -143,7 +144,7 @@ impl<'a> GraphsIter<'a> {
         let mut letter = None;
 
         for char in self.base.by_ref() {
-            if filter(&char) {
+            if filter(char) {
                 letter = Some(char);
                 break;
             }
@@ -175,13 +176,13 @@ impl<'a> GraphsIter<'a> {
 
         // Tone and underdot characters are always after the letter.
         self.base
-            .next_if(|next| tone_or_underdot(next, &mut tone, &mut underdot));
+            .next_if(|next| tone_or_underdot(*next, &mut tone, &mut underdot));
         self.base
-            .next_if(|next| tone_or_underdot(next, &mut tone, &mut underdot));
+            .next_if(|next| tone_or_underdot(*next, &mut tone, &mut underdot));
 
         GraphResult::Ok(Grapheme {
-            letter,
             tone,
+            letter,
             underdot,
         })
     }
@@ -191,7 +192,7 @@ impl<'a> GraphsIter<'a> {
             let next = self.next();
 
             match next {
-                GraphResult::Ok(_) => continue,
+                GraphResult::Ok(_) => {}
                 GraphResult::Err(_) => return true,
                 GraphResult::Finished => return false,
             }
@@ -199,8 +200,9 @@ impl<'a> GraphsIter<'a> {
     }
 }
 
-/// Modifies `tone` and `underdot` if `chr` is either an underdot character or a tone character. Returns true only if this happens.
-fn tone_or_underdot(chr: &char, tone: &mut Tone, underdot: &mut bool) -> bool {
+/// Modifies `tone` and `underdot` if `chr` is either an underdot character or a tone character.
+/// Returns true only if this happens.
+const fn tone_or_underdot(chr: char, tone: &mut Tone, underdot: &mut bool) -> bool {
     match chr {
         '\u{0300}' => {
             *tone = Tone::Verb;
@@ -209,7 +211,7 @@ fn tone_or_underdot(chr: &char, tone: &mut Tone, underdot: &mut bool) -> bool {
         '\u{0301}' => *tone = Tone::Noun,
         '\u{0308}' => *tone = Tone::Clause,
         '\u{0302}' => *tone = Tone::Adjunct,
-        &UNDERDOT => *underdot = true,
+        UNDERDOT => *underdot = true,
         _ => return false,
     }
     true
