@@ -29526,6 +29526,9 @@ jeqda'ıaq ± `en` @uakci #dEmxyX2hL
 jeqda'ıjı ± `en` @robintown #Qo7pzvxuY
 ▯ experiences gender euphoria.
 
+jeqda'uchıkaına ± `en` @Ilmen #8_NR7jQRK
+▯ has gender incongruence.
+
 jeqdabeo +3 `en` @fagri #QPYTmIRMp
 ▯ is transgender
 
@@ -33680,6 +33683,9 @@ kaomuao ± `en` @uakci #RAueC-73r
 
 kaonu ± `en` @jiqci #fNT0gMwGG
 ▯ is the case formally/officially/on paper.
+
+kaonu'uchı ± `en` @Ilmen #DMoDkHRRL
+▯ has official sex ▯ (e.g. in official records…).
 
 kaonua ± `en` @uakci #ruF-43-X4
 ▯ reads/retrieves from (location/storage unit) ▯ data/symbols ▯.
@@ -47480,7 +47486,7 @@ nanı -1 `en` @Machy #go7E6WbVg
 nánı +2 `en` @robintown #9WxZGE8ys
 determiner: ‘that’; distal demonstrative
 
-náno +2 `en` @nano #a7fl5oZcg
+náno +1 `en` @nano #a7fl5oZcg
 pronoun: 'nano'; nano's personal pronoun referring to it/itself
 
 nanopaı +1 `en` @Laqme #GuD9kWiow
@@ -51868,6 +51874,9 @@ nutuao ± `en` @Laqme #zqRi6pQNd
 
 nutulaq ± `en` @jiqci #m0eSgtMDB
 ▯ is the high-pitched hum heard after after a loud and violent sound nearby, often edited in movies to emphasize an explosion.
+
+nutuq ± `en` @Laqme #V9Ge0QbnD
+It is what it is. / It can't be helped. / Things are as they are. (nullary predicate)
 
 nha- ± `en` @official #DrggJMW7MwN
 prefix: ‘VAR’; derives ad-hoc variable out of following material
@@ -56738,6 +56747,9 @@ raı -1 `toa` @Ilmen #51SYlWlx2
 
 raı -1 `toa` @Ilmen #ILtTGxwtu
 = [X] jeı ja hoı.
+
+raıbo ± `en` @Laqme #FzfAXgAs0
+▯ is **ráı**'s.
 
 raıdıu ± `en` @Ilmen #3Wwm-v-8z
 ▯ is ontology.
