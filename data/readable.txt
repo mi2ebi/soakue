@@ -3743,6 +3743,9 @@ bıutuaı ± `en` @robintown #i0T4D8Lyb
 bıuzeum ± `en` @Laqme #Zq6wN4obx
 ▯ is a syringe.
 
+bmj ± `en` @evie #k_PtmIIHm
+textspeak for **bu moaq jí** (i don't remember)
+
 bo- ± `en` @official #SVzJvr62Sb1
 prefix: ‘PASS’; be X'd by …; passive
 
@@ -11300,7 +11303,7 @@ Eq ▯ baq chue më hóa ▯.
 chuepatı ± `en` @lassc #GervBEPGx
 ▯ is a procession/parade.
 
-chueq ± `en` @Laqme #JJPht0W6N
+chueq +1 `en` @Laqme #JJPht0W6N
 ▯ crushes/mashes/squashes ▯.
 
 chueqbeaq ± `en` @Laqme #D9YKS_VyT
@@ -19153,7 +19156,7 @@ gatepeo ± `en` @jiqci #p_u5fgnzj
 gatesho ± `en` @seaqtaq #maHK7lLVw
 ▯ solidifies/coagulates/congeals/gels
 
-gcjh ± `en` @Laqme #3Did75-uc
+gcjh +1 `en` @Laqme #3Did75-uc
 textspeak abbreviation of **gö chı jí hóa**
 
 ge- +1 `en` @official #ywb03rXNS9a
@@ -27235,6 +27238,9 @@ modal: no matter / regardless of
 ıaq ± `en` @uakci #9BZFHYXnv
 ▯ is the case no matter (if) ▯ [clause with or without indirect question].
 
+ıaqdere ± `en` @TheAndSys #G8Txqa-zh
+▯ is a yandere
+
 ıaqjı ± `en` @uakci #w8BzO9Zpe
 ▯ occurs whether I like it or not; ▯ occurs without accounting for my opinion.
 
@@ -29610,7 +29616,7 @@ jeqkuna ± `en` @Laqme #0K8e5m1uG
 jeqkuoı ± `en` @Ilmen #GWxyXB6ST
 ▯ is equally or less the case than ▯; ▯ is equally or less than ▯ in property ▯.
 
-jeqmaı +1 `en` @fagri #feaLJPvcZ
+jeqmaı +2 `en` @fagri #feaLJPvcZ
 ▯ is gay (attracted to people of the same sex)
 
 jeqmaı ± `en` @seaqtaq #XGKvy7Y3Z
@@ -37169,11 +37175,11 @@ kueponao ± `en` @seaqtaq #eB3lc0RCW
 kueq ± `en` @official #RyObLaLkfK
 predicate: ‘gather’; ▯ (plural) gather/collect at locus ▯ (intransitive and non-agentive).
 
+kueq +1 `en` @Laqme #9PjGGIJQO
+▯ (plural) gather/come together.
+
 kueq ± `pl` @jiqci #z8oZIOTgUk
 ▯ są zgromadzone w/wokół ▯.
-
-kueq ± `en` @Laqme #9PjGGIJQO
-▯ (plural) gather/come together.
 
 kueqbeq ± `en` @uakci #nUF7ky0oh
 ▯ is a heap/pile of ▯.
@@ -38006,7 +38012,7 @@ kusugaqtue ± `en` @robintown #0FsOlh7Mp
 kusugom ± `en` @robintown #5Mf-LtiAh
 ▯ is a jack-o'-lantern.
 
-kusukuaı ± `en` @robintown #SRWBFGOnz
+kusukuaı +1 `en` @robintown #SRWBFGOnz
 ▯ squishes / has a queerplatonic crush on ▯.
 
 kusumaı ± `en` @robintown #4Dj4BzCud
@@ -42348,7 +42354,7 @@ predicate: ‘love.letter’; ▯ is a love letter.
 maıjuo ± `pl` @jiqci #GXPh89kdB
 ▯ to list miłosny.
 
-maıkuaı +1 `en` @Laqme #Bjj9iRa8n
+maıkuaı +2 `en` @Laqme #Bjj9iRa8n
 ▯ romantically lusts for / crushes on ▯.
 
 maıkuaq ± `en` @Laqme #G3Kr9XqDH
@@ -44836,6 +44842,9 @@ mızusaı +1 `en` @seaqtaq #-Sb_h-gZS
 
 mjs +3 `en` @evie #HT220Th0l
 textspeak for **maı** **jí** **súq** (ily)
+
+mo- +1 `en` @kazoo #eOboknUm7
+converts string of syllables into base64 Geo64 code, where each syllable represents a base64 digit.
 
 mo ± `en` @official #2vgWRyvs7C
 text quote: ‘QUOTE’; begin full-text quote
@@ -53066,7 +53075,7 @@ paıjıaı ± `en` @Laqme #5rw7A5EhW
 paıjuı ± `en` @seaqtaq #G5GpwjTRp
 ▯ is somewhere between an acquaintance and a friend of ▯
 
-paıkuaı ± `en` @robintown #dJHBxVKGe
+paıkuaı +1 `en` @robintown #dJHBxVKGe
 ▯ squishes / has a platonic crush on ▯.
 
 paıluo +2 `en` @Laqme #AS1xKLwS8
@@ -68602,7 +68611,7 @@ te ± `ja` @uakci #SmChYzTbb
 te -1 `pl` @jiqci #W9eEp8hhrz
 ▯ został ▯-ęty/ony; z ▯ została spełniona relacja ▯.
 
-té ± `en` @TheAndSys #0t757H76m
+té +1 `en` @TheAndSys #0t757H76m
 pronoun: the fronted quote
 
 te'eı ± `en` @seaqtaq #1dP9a87Yg
@@ -73649,6 +73658,9 @@ predicate: ‘Ꝡoaqic’; ▯ is Southern Toaqic; ▯ is of or pertaining to So
 
 ꝡogu +2 `en` @uakci #mBqmrnfyL
 ▯ is yogurt/yoghurt.
+
+ꝡogua ± `en` @evie #hOVWcZCiH
+▯ is an empire
 
 ꝡoı- ± `en` @uakci #MOBDaiPdO
 pseudo-adjective head (grammar resembling **kị-**): relates a noun form and a reduced relative clause into a full clause in the vein of **ꝡöı**
