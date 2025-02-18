@@ -2063,6 +2063,9 @@ predicatizer: turns following phrase X into verb: ▯ is the kind of being among
 baqmea ± `toa` @Ilmen #Bw9mjPeAG
 ▯ nä jeı báq, ꝡë mea hóa sá eq ▯.
 
+baqmı ± `en` @Laqme #ImjS_okSQ
+▯ is a bánh mì.
+
 baqraı ± `en` @Ilmen #Nx6cT-ULI
 ▯ is a generic instance; ▯ is a kind; ▯ is a myopic singular.
 
@@ -19396,6 +19399,9 @@ geıfao ± `en` @uakci #Ti3h4nfky
 geımıq +2 `en` @robintown #hPevvJNPG
 ▯ games / plays video games.
 
+geımıqche ± `en` @robintown #Uj4rIFkM8
+▯ is a gamer.
+
 geınua ± `en` @uakci #UEFn8zC_r
 ▯ takes clothing ▯ off ▯.
 
@@ -34646,6 +34652,12 @@ keke ± `en` @uakci #xxola_hXo
 kekeoı ± `en` @Laqme #WSvkD8Zap
 ▯ chats / talks informally with ▯.
 
+kelam ± `en` @Laqme #Mf5rT7rws
+▯ is a coconut.
+
+kelapa ± `en` @Laqme #iNblMdfma
+▯ is a coconut tree.
+
 kelebıq +1 `en` @salarua #9mC1lHcdj
 predicate: ‘Kelvin’; ▯ is a Kelvin
 
@@ -40613,6 +40625,9 @@ loebıutuaı ± `en` @robintown #J8ZD9CJFr
 
 loebo ± `en` @seaqtaq #iqij5Aj-S
 ▯ is on fire
+
+loeboe ± `en` @Laqme #X3uS7hm2O
+▯ is a nettle.
 
 loecabaq ± `en` @Laqme #I_kBG9VYF
 ▯ is heat.
@@ -51371,6 +51386,9 @@ nuırea -1 `en` @Ilmen #vwhHA8A1V
 nuıseje ± `en` @Machy #q3hEeEu0V
 ▯ is LGBT+.
 
+nuısuhebo ± `en` @seaqtaq #lAStrusn9
+▯ is pusillanimous/cowardly/timid
+
 nuısuq ± `en` @Machy #k60JDPEyd
 ▯ is you (informal and affectionate to an inferior or dependent). This term may be patronizing. resembles "my dear",  but do not use for lovers. "Little one"
 
@@ -61192,7 +61210,7 @@ seajaı +1 `en` @seaqtaq #jZI1a8RvT
 seakoı ± `en` @uakci #t0JTWjR-j
 ▯ goes on a walk/stroll/constitutional.
 
-seakuaı ± `en` @official #eaHr8K2qik
+seakuaı +1 `en` @official #eaHr8K2qik
 predicate: ‘exhausted’; ▯ is exhausted.
 
 seakuaı ± `pl` @jiqci #bYh0NHtUeF
@@ -73481,6 +73499,9 @@ interjection: "for real/indeed", agreement + emphasis towards previous statement
 
 ꝡaoꝡao ± `en` @uakci #SpxDTe6NL
 onomatopoeia: ‘meow’
+
+ꝡaqdere ± `en` @mimiaoganhaqpy #NDdxbAEZv
+▯ is a yandere
 
 ꝡaqdo ± `en` @TheAndSys #dCR5GB3JT
 ▯ finds/discovers ▯ (encounters it for the first time)
