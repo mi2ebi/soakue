@@ -5831,7 +5831,7 @@ cahahua ± `en` @Ilmen #2VTszbSWk
 cahanoa ± `en` @seaqtaq #mwS_7V06t
 It's hard to breathe in ▯ (location)
 
-cahasuaı ± `en` @Ilmen #R1OlHXVrg
+cahasuaı +1 `en` @Ilmen #R1OlHXVrg
 ▯ pants, breathes with short, quick breaths.
 
 cahazua ± `en` @seaqtaq #g-INB5JYa
@@ -24958,7 +24958,7 @@ hıechao ± `en` @robintown #DkzZi2szk
 hıeche ± `en` @salarua #yIIY8pqkG
 ▯ is a porter.
 
-hıefa +1 `en` @TheAndSys #M3EwDIMCK
+hıefa +2 `en` @TheAndSys #M3EwDIMCK
 ▯, to ▯, brings ▯
 
 hıefa -2 `en` @Ilmen #K5bmiPKm6
@@ -27204,6 +27204,9 @@ husho ± `pl` @jiqci #skgyJ3icqM
 
 hushotoı ± `en` @TheAndSys #5eX0V7iJ8
 ▯ is still, quiet, calm, doesn't move
+
+ı- ± `en` @TheAndSys #79nP7v3sm
+Pertaining to cyberspace
 
 ı ± `en` @uakci #1Z1sroujR
 ▯ pertains to cyberspace.
@@ -40431,6 +40434,9 @@ loaıfuı +1 `en` @seaqtaq #mhqxIMghE
 loaıfuısaı ± `en` @seaqtaq #HmnIiOCRc
 ▯ is a lubricant
 
+loaıfuq ± `en` @mimiaoganhaqpy #KqnMrWZ5Y
+predicate: ‘dress’; ▯ is a dress.
+
 loaıgoaı ± `en` @robintown #FOqIR3RlM
 ▯ slips/slides against/across ▯.
 
@@ -42762,7 +42768,7 @@ focus prefix: amongst others; not just
 maona +1 `en` @uakci #-EnWSePW7
 interjection: ‘moreover’; ‘in addition’; [in some contexts] ‘let alone’
 
-maoneı ± `en` @jiqci #IR07tJIq0
+maoneı +1 `en` @jiqci #IR07tJIq0
 ▯ is mayonnaise.
 
 maoru ± `en` @robintown #I7A3bjPXA
@@ -61165,6 +61171,9 @@ seachaq ± `en` @uakci #4_AAo5Hx0
 seachaqchue ± `en` @uakci #G9-702Yqq
 ▯ is holidays/vacation.
 
+seafa ± `en` @Laqme #ddhOgIFqr
+▯ goes on holiday to / travels to ▯ as a tourist.
+
 seaha ± `en` @Ilmen #Ymuwzgvlk
 ▯ yawns.
 
@@ -61356,6 +61365,9 @@ seatabu ± `en` @seaqtaq #qU4Rl-Ruf
 
 seatao ± `en` @uakci #nsnh2fxtk
 ▯ relaxes by satisfying property ▯; ▯ does ▯ as a form of relaxation/recreation.
+
+seatı ± `en` @Laqme #MBW2ouCDi
+▯ is sightseeing / doing tourism / on holiday at ▯.
 
 seberaq +1 `en` @robintown #bIEZ4-6HV
 ▯ is opposite / across from (and perhaps facing) ▯.
@@ -73067,6 +73079,9 @@ uıjatoq +1 `en` @robintown #rIxBD6vf9
 
 ujı +1 `en` @robintown #lMO9RfW_6
 ▯ tests/assesses/checks/trials/tries out ▯.
+
+ujıla ± `en` @mimiaoganhaqpy #TWXQrAtNw
+predicate: ‘try out’; ▯ tests/assesses/checks/trials/tries out satisfying property ▯.
 
 ujoq ± `en` @official #OReOxhkdQ
 predicate: ‘mallet’; ▯ is a club/mallet/baton/hammer/pestle.
@@ -85266,7 +85281,7 @@ Pu meoq chufaq jeaq doq bóaq pö baq muao -1 `en` @examples #cd-wCI5C1_
 Pu meoq chufaq sha tı sa juıme bao nıapuao -1 `en` @examples #ykusmCY1g
 (B0179) Slowly a thick white mist was arising
 
-⚠ Pu muo jou jaıbuq nháo ± `en` @examples #2R1FBPp_Yv
+⚠ Pu muo jou jaıbuq nháo -1 `en` @examples #2R1FBPp_Yv
 (B0042) She was always smiling
 
 ⚠ Pú nuo bı, naı guaı hó da. -1 `en` @oldexamples #sot4mb74O4A
