@@ -1634,6 +1634,12 @@ babue ± `en` @Hoemai #UiJGPH-t6
 bace ± `en` @jiqci #1pw85hqDO
 ▯ is the metal tin.
 
+bachuoq ± `en` @Laqme #dm3H4Jg0w
+▯ slams into ▯.
+
+badea ± `en` @Laqme #RXemg9Qxq
+▯ slams/whacks ▯.
+
 baga +1 `en` @Ilmen #f0_Ttdwfx
 ▯ pulls ▯.
 
@@ -2188,9 +2194,6 @@ basueruo ± `en` @uakci #8JoJCTOia
 
 basuetoı ± `en` @uakci #xdRhu0tcI
 ▯ is dominant/possessive towards ▯.
-
-bashı ± `toa` @seaqtaq #FvuQNHZIiW
-▯ tua ra ca ra ge lû ▯ pa sho chırue jîq lú gaı hó hóa
 
 bashoq ± `en` @Laqme #3M2rZJ7Rp
 ▯ is a version of ▯.
@@ -10775,6 +10778,9 @@ choqhuı ± `pl` @jiqci #rgpgUiAhU
 choqjıaı ± `en` @jiqci #a6AL4hLgM
 ▯ wields ▯.
 
+choqjoe ± `en` @Laqme #Il5B8iqk3
+▯ is resourceful.
+
 choqjuaokao ± `en` @Ilmen #56Rgt-eBl
 ▯ is a copyright license file.
 
@@ -13289,6 +13295,9 @@ desaıcıa ± `en` @uakci #Jpa6SGqYw
 desaıteı ± `en` @uakci #k_F9PC1d7
 ▯ is the makeup on ▯; ▯ is the way ▯ is made-up.
 
+desı ± `en` @tonibrown #wOc_J3xMi
+number: one-tenth, deci-
+
 desıbele ± `en` @salarua #_sFtYFuhZ
 predicate: ‘decibel’; ▯ is a decibel
 
@@ -14577,6 +14586,9 @@ doraı ± `en` @uakci #lXz1xuGPe
 
 doroq ± `en` @robintown #hyv_6tJP9
 ▯ is a drone (aircraft).
+
+doroqmeaq ± `en` @Ilmen #m58hXr4wB
+▯ is a naval drone, an unmanned sea vehicle (USV).
 
 dosı ± `en` @jiqci #s6WgnCXaU
 ▯ is a hydroxyl group/hydroxide ion.
@@ -16048,10 +16060,10 @@ esa ± `pl` @jiqci #qAJkm-PPg5
 esa ± `tr` @kazoo #zlHqcYx_F
 ▯ sayıca 10^18'dir (1.000.000.000.000.000.000); ▯ bir kentilyondur.
 
-esachu +1 `en` @seaqtaq #BwWZZiItk
+esachu +2 `en` @seaqtaq #BwWZZiItk
 ▯ is mid / alright / meh / super mediocre.
 
-esagı ± `en` @Laqme #t-l5fJBpg
+esagı +1 `en` @Laqme #t-l5fJBpg
 ▯ rocks / slaps / is awesome / is super good.
 
 esagı ± `tok` @el #6gV86DGMl
@@ -16060,7 +16072,7 @@ esagı ± `tok` @el #6gV86DGMl
 esagı ± `tok` @mimiaoganhaqpy #-ULbN-Dn4
 ▯ li epiku.
 
-esahuı +1 `en` @seaqtaq #_nQeTjSkA
+esahuı +2 `en` @seaqtaq #_nQeTjSkA
 ▯ sucks / is awful / is super bad.
 
 esenesa ± `en` @salarua #ersx9tRYB
@@ -17787,6 +17799,9 @@ foaqfuı ± `pl` @jiqci #kW29uQ0t0M
 
 foaqgı ± `en` @robintown #YlJkKm-2H
 ▯ is comfortable / provides comfort.
+
+foaqhaq ± `en` @Laqme #aBSO_hYjN
+▯ is comfort food.
 
 foaqhuı ± `en` @robintown #w_06iWnzJ
 ▯ is uncomfortable / creates discomfort.
@@ -21885,6 +21900,9 @@ guaqdıu ± `en` @Laqme #dxnVRP3Gm
 
 guaqdıuche ± `en` @Ilmen #EJTwr_Tks
 ▯ is a geographer.
+
+guaqdoroq ± `en` @Ilmen #tkuoB9FOT
+▯ is an unmanned ground vehicle (UGV).
 
 guaqfuaq ± `en` @Laqme #G2rBBVoVA
 ▯ is a map.
@@ -30291,9 +30309,6 @@ jıekaı ± `en` @TheAndSys #UVU3piz1e
 jıekıu ± `en` @seaqtaq #DIjB6Iw0W
 ▯ is subjective
 
-jıelu ± `en` @seaqtaq #bcFU7ufzr
-▯ is subjective
-
 jïem ± `en` @evie #PHHsxGBgM
 cleft thingy: 'according to x'
 
@@ -33045,6 +33060,9 @@ kachıq ± `en` @jiqci #BUIEhH_Ma
 kachıqtoq ± `en` @jiqci #lFMLf18mV
 ▯ is a clapperboard.
 
+kachuoq ± `en` @Laqme #j4h_CvXvk
+▯ crashes into ▯.
+
 kadamom ± `en` @salarua #yj_Lhxvd8
 predicate: ‘cardamom.plant’; ▯ is a member of species E. cardamomum (true cardamom)
 
@@ -33056,6 +33074,9 @@ predicate: ‘cardamom.roll’; ▯ is a cardamom roll
 
 kadaq ± `en` @Hoemai #YQ4nshLQE
 Usually/most of the time, ▯.
+
+kadea ± `en` @Laqme #5jmOronSC
+▯ smashes/crushes ▯.
 
 kadeoq ± `en` @Ilmen #CNUYKakjZ
 ▯ declares/pronounces that he/she/they satisfy property ▯ to audience ▯.
@@ -35633,7 +35654,7 @@ kıoqnuoqchuo ± `en` @jiqci #A-bUNy6re
 kıoqseu ± `en` @Ilmen #ECd8U_Zde
 ▯ is the number π.
 
-kıoqsuoı ± `en` @uakci #AOjBun9tt
+kıoqsuoı -1 `en` @uakci #AOjBun9tt
 ▯ is marbellous.
 
 kıoqsho ± `en` @Laqme #fU1KSkkFY
@@ -36457,6 +36478,9 @@ kokınelasıu ± `en` @Ilmen #fbtngDm1u
 
 koko ± `en` @fagri #CdE7N431c
 ▯ is related to ▯; ▯ and ▯ are relevant to one another somehow
+
+kokojıe ± `en` @seaqtaq #296lKPUrV
+▯ attributes ▯ to ▯ (and vice versa); ▯ deems ▯ and ▯ to be relevant to one another
 
 kokolu ± `en` @Machy #GtM9lE6XB
 ▯ is someone who butters their toast on the wrong side (extremely offensive curse word).
@@ -39168,6 +39192,9 @@ predicate: ‘rare’; ▯ is rare in property ▯; ▯ satisfies rare/infrequen
 leı'ıq ± `en` @Laqme #gHFfZOouz
 ▯ satisfies rare/infrequent property ▯.
 
+leıbo ± `en` @Laqme #5ztvUmfx6
+▯ features / has noteworthy part ▯.
+
 leıdı +1 `en` @Laqme #LX3EOrQZk
 ▯ has special permission / is exceptionally allowed to ▯.
 
@@ -39224,6 +39251,9 @@ lekuı +1 `en` @Ilmen #Fe_YAp6b8
 
 lem ± `en` @jiqci #qwd3gAzMp
 ▯ is the feature/characteristic/property/trait ▯ (property place).
+
+lembo ± `en` @Laqme #f8hoV7qgD
+▯ features/demonstrates characteristic/property/trait ▯ (property place).
 
 lemcıa ± `en` @seaqtaq #HtzSowj6d
 ▯ is featureless/plain/dull
@@ -43305,6 +43335,9 @@ medıteı ± `en` @fagri #f_1HAU3YW
 medo ± `en` @seaqtaq #XXyMJPied
 ▯ shares with ▯, ▯
 
+medoaq ± `en` @Laqme #wJxOhaeWX
+▯ is a metropolis.
+
 medu ± `en` @Laqme #MjFr-o9v3
 ▯ is mead.
 
@@ -44039,6 +44072,9 @@ mıe'aı ± `en` @uakci #Hihc0LSbH
 
 mıebıe ± `en` @salarua #JvuMmANUS
 ▯ is an afterlife
+
+mıecaı ± `en` @Laqme #9Y_StIRFq
+▯ is resilient/tough/hardy.
 
 mıeceme ± `en` @seaqtaq #gKRySsAm-
 ▯ is an ecological network
@@ -49328,6 +49364,9 @@ nıhao ± `en` @seaqtaq #x6swtP4eu
 nıhoe +2 `en` @Ilmen #p4OQmh8bb
 ▯ is our sun (any star regularly bringing light and warmth to the place where the speaker is at the time of utterance; the star(s) the speaker is currently orbiting).
 
+níhoeı ± `en` @Laqme #LPQe_c36T
+pronoun: this morning
+
 Nıhoq ± `en` @Laqme #tTJBZgw7t
 ▯ is Japanese / is of Japan, its languages or people.
 
@@ -49885,6 +49924,9 @@ nırıaq ± `en` @Ilmen #KCWpFwbLl
 
 nırıqchaqchuaq ± `en` @jiqci #lpIf8pnee
 ▯ is Last Thursdayism.
+
+níseum ± `en` @Laqme #TQSawBo-1
+pronoun: tonight, this evening
 
 nısı ± `en` @jiqci #SbRzu_5SA
 ▯ is a cog / gear wheel.
@@ -50512,6 +50554,9 @@ noqdoa ± `en` @uakci #8tiy20tvC
 
 noqdoase ± `en` @uakci #l14_VMHqC
 ▯ is the flavor/taste “variant” of ▯.
+
+noqfuı ± `en` @Laqme #vzzvOu96S
+▯ is mild (not spicy).
 
 noqgaı ± `en` @official #Gf8HlD7cS11
 predicate: ‘taste’; ▯ tastes state of affairs ▯.
@@ -51995,7 +52040,7 @@ pronoun: ‘3P’; 3rd person plural personal pronoun; they/them
 nhanabo ± `en` @official #uTFvbhmwajn
 predicate: ‘their’; ▯ is theirs (multiple 3rd persons').
 
-nhano +1 `en` @Laqme #zBNk24oY3
+nhano +2 `en` @Laqme #zBNk24oY3
 number: one billionth, nano-
 
 nhanha ± `en` @uakci #vLvQk1M9Q
@@ -52931,8 +52976,14 @@ Osumaqgua ± `en` @kazoo #kOME2Qjxb
 ota ± `en` @Machy #R6_PaVBcW
 ▯ are oats(the food).
 
+otakasha ± `en` @Laqme #4katSfmJj
+▯ is oatmeal.
+
 otanıu ± `en` @Machy #eVIHxYWNr
 ▯ is oats(the plant).
+
+otanoaı ± `en` @Laqme #pLVPVBeX6
+▯ is oat milk.
 
 ote +1 `en` @Ilmen #kTVKuE8HL
 ▯ is the case to an average extent (neither great nor small); ▯ satisfies property ▯ to an average extent.
@@ -63776,6 +63827,9 @@ non-assertive illocution
 
 soꝡa ± `en` @Snow #6a8fQyG1d
 ▯ is a soy bean.
+
+soꝡanoaı ± `en` @Laqme #RzOMO4n9r
+▯ is soy milk.
 
 sozı ± `en` @jiqci #17mYwQMQq
 ▯ is a vector.
@@ -80525,9 +80579,6 @@ This cup, is it mine or yours?
 
 ⚠ Jı da. -1 `en` @oldexamples #aI8_nijznG8Q
 It's me.
-
-jıe koko ± `en` @seaqtaq #PES2_D2Hv
-▯ attributes ▯ to ▯ (and vice versa); ▯ deems ▯ and ▯ to be relevant to one another
 
 ⚠ Jı ní da. -1 `en` @oldexamples #Olj36QJkWr2
 This is me.
