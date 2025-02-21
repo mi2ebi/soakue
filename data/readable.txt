@@ -9899,6 +9899,12 @@ chımıa ± `en` @uakci #K217cRzJk
 chımuo ± `en` @Ilmen #NNhJ-W01C
 predicate: ‘certain’; ▯ is certain that ▯ is the case.
 
+chıne ± `en` @Laqme #x1h9FkS_S
+▯ is a Bayesian probability / (one's) degree of belief that ▯ is the case.
+
+chınedıu ± `en` @Laqme #FxrHBzew_
+▯ is Bayesian statistics.
+
 chınoa ± `en` @Ilmen #11k5HuOgb
 ▯ is unbelievable; ▯ is hard to believe.
 
@@ -15912,6 +15918,9 @@ empanada ± `en` @Laqme #h7zZCbals
 
 emu +2 `en` @uakci #ZAYFrZubd
 interjection: ‘well’, ‘after all’, ‘essentially’, ‘what I mean is’; clarifying, specifying, shifting the discourse closer to the wishes of the speaker
+
+ena +1 `en` @Laqme #XP2_DL8cN
+interjection: "over there!", "look at that!"
 
 enı ± `en` @official #cUxnaOAzFrE
 interjection: ‘here’; here / take this / look at this
@@ -24318,6 +24327,9 @@ predicate: ‘waist’; ▯ is a waist.
 
 heoq ± `pl` @jiqci #YZYzQS9NPf
 ▯ to pas/talia.
+
+heoqdoq ± `en` @Laqme #Ew-_BjP9H
+▯ is a crop top.
 
 heoqgıa ± `en` @official #PKny3W7gn
 predicate: ‘belt’; ▯ is a belt.
@@ -34678,6 +34690,9 @@ kekeoı ± `en` @Laqme #WSvkD8Zap
 
 kelam ± `en` @Laqme #Mf5rT7rws
 ▯ is a coconut.
+
+kelamnao ± `en` @Laqme #Ld-dM0Nqe
+▯ is coconut water.
 
 kelapa ± `en` @Laqme #iNblMdfma
 ▯ is a coconut tree.
@@ -52607,6 +52622,9 @@ interjection: "uh-oh, looks like you're in trouble"
 oaımoe ± `en` @Ilmen #vtrwbkKir
 ▯ feels concern or realization of ▯ being the case.
 
+oao ± `en` @Laqme #FxC_aMOCR
+onomatopoeia: yawn
+
 oba ± `en` @Ilmen #fywkQA_-c
 ▯ is massive, has a great mass.
 
@@ -55888,6 +55906,9 @@ puasea ± `en` @uakci #AIJJO-mWi
 
 puasoao ± `en` @Laqme #mkhjdirUO
 ▯ hangs out with / spends quality time with ▯.
+
+puateı ± `en` @Laqme #wcRkxwKSN
+▯ is a hobby.
 
 pucıq ± `en` @salarua #oJ4BSG4In
 ▯ is poutine
@@ -63491,6 +63512,12 @@ soıjam ± `en` @Laqme #0paqpD6-7
 soıjeoqtıeq ± `en` @Ilmen #hDQ2cJVTi
 ▯ is a war trench.
 
+soıkulo ± `en` @Ilmen #GgWXipGwD
+▯ is a combat mosquito (mosquito used as a weapon).
+
+soıkulozıadoroq ± `en` @Ilmen #RoyUoUpNE
+▯ is a drone spreading combat mosquitoes.
+
 soılıao ± `en` @Snow #tATCHMY3r
 ▯ is a fungus of genus Tricholoma.
 
@@ -69138,6 +69165,9 @@ teızıu ± `en` @verte #KGySkqMay
 
 teka ± `en` @seaqtaq #MhaXHb_WG
 ▯ makes a cracking noise
+
+teketeke ± `en` @Laqme #RteMW7-Li
+onomatopoeia: typing
 
 teluo ± `en` @jiqci #Ba35maBGP
 ▯ is a mafia/mob/yakuza/organized crime syndicate.
