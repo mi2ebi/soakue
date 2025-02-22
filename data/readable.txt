@@ -3524,7 +3524,7 @@ bıoıchuao ± `en` @Laqme #t7Kq5_VQ4
 bıoıdeoq ± `en` @Laqme #Gk4o8BKuJ
 ▯ reveals / leaks to ▯ that ▯ is the case.
 
-bıoıdıao ± `en` @uakci #gia69vmuN
+bıoıdıao +1 `en` @uakci #gia69vmuN
 ▯ is “the last straw”.
 
 bıoıheq ± `en` @Laqme #w4nw_OtMA
@@ -5155,6 +5155,9 @@ buıtoa ± `en` @Laqme #85BzYzLj1
 
 buıtua ± `en` @seaqtaq #DUgv0ORmg
 ▯ expels ▯ from ▯
+
+buıtua ± `en` @evie #R4xLk8u-3
+▯, from ▯, expels/ejects ▯
 
 buıtuaıfuom ± `en` @seaqtaq #j8vYtYd7W
 ▯ is a (corporeal) exoskeleton
@@ -24328,7 +24331,7 @@ predicate: ‘waist’; ▯ is a waist.
 heoq ± `pl` @jiqci #YZYzQS9NPf
 ▯ to pas/talia.
 
-heoqdoq ± `en` @Laqme #Ew-_BjP9H
+heoqdoq +1 `en` @Laqme #Ew-_BjP9H
 ▯ is a crop top.
 
 heoqgıa ± `en` @official #PKny3W7gn
@@ -35363,7 +35366,7 @@ kıedo ± `en` @Ilmen #wNYfYbu7u
 kıegıq +1 `en` @Ilmen #SIG-xusrN
 ▯ feels resentment/bitterness towards ▯ for action ▯.
 
-kıeı +1 `en` @Laqme #gQF5ugOZT
+kıeı +2 `en` @Laqme #gQF5ugOZT
 ▯ is ice.
 
 kıeıchaı ± `en` @Snow #8O-q3MzTl
@@ -44559,7 +44562,7 @@ mıochaq ± `pl` @jiqci #hc5U8CIF34
 mıofıqzashuao ± `en` @jiqci #chCkyRNRn
 ▯ is a blue-fronted lancebill (Doryfera johannae).
 
-mıoı ± `en` @akesi #y-vmnEeO1
+mıoı -1 `en` @akesi #y-vmnEeO1
 predicate: null/no meaning, fills in a blank spot with no meaning, verbal form of ▯
 mỉoı jí súq - I ▯ you
 dỏa míoı míoı súq - ▯ gives property ▯ to you
@@ -46277,7 +46280,7 @@ mụdıoq +1 `en` @Laqme #IcmqY1wD7
 mụdoı ± `en` @Laqme #b7B_vE1TJ
 ▯ insults / dishonors / disrespects ▯.
 
-mueı ± `en` @Laqme #6ih4cDvTx
+mueı +1 `en` @Laqme #6ih4cDvTx
 ▯ is magnetic.
 
 mueıgoa ± `en` @Laqme #pbMFTBari
@@ -47380,6 +47383,9 @@ naıtoa ± `en` @Laqme #51ge0DbzT
 
 ⚠ nạ́jaqbıaq +1 `en` @Laqme #PONicJB88
 conjunction: "so much that"
+
+nájeq ± `en` @Laqme #4vL1NqQOt
+conjunction: "that is", "or equivalently", "i.e."
 
 ⚠ nạ́joı ± `en` @Laqme #LzsagDxwT
 conjunction: and (happening together)
@@ -49342,6 +49348,9 @@ predicate: ‘insert’; ▯ puts ▯ inside ▯.
 
 nıetua ± `pl` @jiqci #fxCn_gvXtT
 ▯ wkłada ▯ do ▯.
+
+nıetua ± `en` @evie #aqoBnuv4G
+▯, into ▯, inserts ▯
 
 nıetuaıfuom ± `en` @seaqtaq #tQwuoAcdZ
 ▯ is a (corporeal) endoskeleton
