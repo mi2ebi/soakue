@@ -48668,7 +48668,7 @@ netedoaq ± `en` @jiqci #BTBbwEbz0
 netepıu ± `en` @jiqci #6_rpANx-u
 ▯ is the crust of a planet.
 
-netı +1 `en` @Laqme #58H8hbQE1
+netı +2 `en` @Laqme #58H8hbQE1
 There is/are ▯.
 
 neto ± `en` @jiqci #SzPWjiXhx
@@ -68608,6 +68608,9 @@ taqkuq ± `en` @Laqme #slV7IG0v5
 taqmudaı ± `en` @uakci #dehnhirv1
 ▯ is a relation.
 
+taqmuo ± `en` @Laqme #Hgo-7EMu5
+▯ is complete/full/whole.
+
 taqnulı ± `en` @jiqci #2iXstWxKz
 ▯ is tar.
 
@@ -74958,6 +74961,9 @@ predicate: ‘temporarily’; ▯ temporarily/non-permanently satisfies property
 zue ± `pl` @jiqci #HYYve4EOrz
 ▯ tymczasowo spełnia własność ▯.
 
+zuebaı ± `en` @Laqme #MVS4HzCwH
+▯ fashions / hacks together / jury-rigs ▯.
+
 zuebo ± `en` @Laqme #2TCTOIfHv
 ▯ is borrowing (ownership of) ▯.
 
@@ -74966,6 +74972,9 @@ zueca ± `en` @uakci #ZO9N27Hn7
 
 zuedo ± `en` @nano #LMilaYVFW
 ▯ lends to ▯ possession of ▯.
+
+zuefıeq ± `en` @Laqme #u1nfoSfKy
+▯ improvises / makes up ▯ on the spot.
 
 zuegıq +1 `en` @Laqme #pgLzMn2oZ
 ▯ permanently satisfies ▯.
@@ -75362,6 +75371,9 @@ zuzana ± `en` @seaqtaq #QkHAzchsl
 
 zuzao ± `en` @seaqtaq #FSwCYMNA2
 ▯ knows language ▯
+
+zuzu ± `en` @evie #_y3TD0PaT
+▯ is a metalanguage
 
 ⚠ A'o tao mao jí hóq da. -1 `en` @oldexamples #lZZRQiNf0qNr
 I would have done the same thing.
