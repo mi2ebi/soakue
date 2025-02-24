@@ -5546,6 +5546,9 @@ buqtıetı ± `en` @seaqtaq #s_B9CKDlf
 buqtuaq ± `en` @Ilmen #PCfxlBNZu
 ▯ is a beak.
 
+búra ± `en` @kazoo #QlV_c98jP
+conjunction: ‘implies’; not or, material implication, P → Q
+
 buraqsaı ± `en` @seaqtaq #Sc0xAgWXx
 ▯ is (a quantity of) Boron (element 5)
 
@@ -42453,6 +42456,9 @@ maıpaı +1 `en` @uakci #u74DPBYBG
 maıpaıchaq +1 `en` @uakci #sgxmCSkCr
 ▯ is Valentine’s Day.
 
+maıpeaı ± `en` @Laqme #VjVkNAKPg
+▯ breaks ▯'s heart.
+
 maıreaq ± `en` @Laqme #1z_HArS37
 ▯ makes love to ▯.
 
@@ -51668,7 +51674,7 @@ predicate: ‘pyjama’; ▯ is a pyjama.
 nuofuq ± `pl` @jiqci #NkxDOvrU1
 ▯ to piżama.
 
-nuogaı +10 `en` @Ilmen #RZJs3Ltv3
+nuogaı +11 `en` @Ilmen #RZJs3Ltv3
 ▯ dreams ▯.
 
 nuogaı ± `en` @official #q6lwc68c_3
@@ -53777,7 +53783,7 @@ peaboı ± `en` @seaqtaq #uzYDR5ZdJ
 peachaq ± `en` @Machy #IlqmDejQX
 The day ▯ days ago.
 
-peaı +2 `en` @jiqci #JRJNN-8GE
+peaı +3 `en` @jiqci #JRJNN-8GE
 ▯ tears / rips / rends ▯.
 
 peaıse +1 `en` @Laqme #FV3tO-a1y
@@ -56468,7 +56474,7 @@ puoqhuı ± `en` @uakci #eZmyIREQa
 puoqmuı ± `en` @uakci #DU5VpIlzT
 ▯ is the purpose/significance/meaning of ▯ happening.
 
-puoqsaı +1 `en` @uakci #nenv9Cd6y
+puoqsaı ± `en` @uakci #nenv9Cd6y
 ▯ is a substance intended to incur effect ▯.
 
 puoqshao ± `en` @Machy #8nZDT3vmn
@@ -63677,7 +63683,7 @@ sopemoı ± `en` @uakci #cWNgfi_NF
 soq +6 `en` @uakci #8FtyCn9fR
 ▯ satisfies property ▯ the most.
 
-soq +4 `en` @fagri #yXBeLlHeW
+soq +3 `en` @fagri #yXBeLlHeW
 (fork of official) predicate: ▯, among ▯, is the ▯est;  ▯, among ▯, satisfies property ▯ the most
 
 soq +1 `toa` @Ilmen #JP651xyO5
@@ -82554,7 +82560,7 @@ Is the food too hot?
 ⚠ Ma duı loq háq moq. -1 `en` @oldexamples #hAQODxN99BSC
 Is the food too hot?
 
-⚠ Ma duı sao ní muqfuq pùoq gêı súq máq moq ± `en` @examples #kLC_JR2teA
+⚠ Ma duı sao ní muqfuq pùoq gêı súq máq moq -1 `en` @examples #kLC_JR2teA
 (B0334) Are these gloves too big for you?
 
 Ma fa nháo Fáraqsegua râo zásoq loqcao móq? ± `en` @examples #_ztOvbfH30r
@@ -85221,7 +85227,7 @@ I was born on an island.
 Pu jıu mí Aroq tî áomo. ± `en` @examples #sQKbJjcMwEM
 Aaron was born on the island.
 
-Pu kaıfıeq mí Heleq sa juo püoq hóa páı ta tï hó mí Saq Aqtonıo ± `en` @examples #gm6hyowjfO
+Pu kaıfıeq mí Heleq sa juo püoq hóa páı ta tï hó mí Saq Aqtonıo -1 `en` @examples #gm6hyowjfO
 (B0312) Helen wrote a letter to her friend in San Antonio
 
 Pu kaqgaı jêomao jí sá tıqshoaı. ± `en` @examples #jUO3_ExbFk1
