@@ -452,7 +452,7 @@ interjection: "omg no way! I can't even! be for real!"
 ⚠ aıueo -2 `toa` @el #_ZAscTzOo
 Aıueo [ja] [ja] [ja]
 
-aıze ± `en` @uakci #H6NCcdvOI
+aıze +1 `en` @uakci #H6NCcdvOI
 polarity: ‘bad presupposition’ (e.g., a failed reference to something which does not exist)
 
 aızıa ± `en` @TheAndSys #LnyMp1gSe
@@ -6935,7 +6935,7 @@ cı ± `tr` @kazoo #qR1hMzPjp
 cıa- +1 `en` @uakci #JnaQCd_DM
 prefix: indicates that a property is false with the tagged word present, but remains true when the word is left out
 
-cıa- ± `en` @Laqme #XaOxTwOhH
+cıa- +1 `en` @Laqme #XaOxTwOhH
 prefix: X-less, without X
 
 cıa ± `en` @official #YY4kKytR-G
@@ -11545,6 +11545,9 @@ chunımoe +1 `en` @fagri #zCwKTmXuJ
 
 chunınhuoı ± `en` @seaqtaq #_dkl4IEpW
 ▯ is lascivious/lecherous/salacious
+
+chunua ± `en` @evie #Mi4tqqCGi
+▯ cores (removes the middle of) ▯
 
 chuo ± `en` @official #zz8TqixaD0
 predicate: ‘tool’; ▯ is a tool/utensil/resource/instrument for satisfying property ▯.
@@ -16657,6 +16660,9 @@ faqjuım ± `en` @seaqtaq #IoESBL7vh
 faqjuq +1 `en` @robintown #Ih7_Li1CX
 ▯ undergoes ▯; ▯ has ▯ happen to it.
 
+faqkıubu ± `en` @Laqme #yYxdAhdZA
+▯ is impossible / can't happen.
+
 faqleı ± `en` @Laqme #Z18nE8OKI
 ▯ rarely happens.
 
@@ -21424,6 +21430,9 @@ golaq ± `en` @Machy #F2rKk8BEw
 golofe ± `en` @Hoemai #VAgTuFCoQ
 ▯ is golf (game).
 
+gom- ± `en` @salarua #IEeWYYK4q
+prefix: mis-X; indicates that X is erroneous or is being done erroneously
+
 gom +1 `en` @Laqme #VEPq5pCfj
 ▯ makes the error/mistake of satisfying property ▯.
 
@@ -24334,7 +24343,7 @@ predicate: ‘waist’; ▯ is a waist.
 heoq ± `pl` @jiqci #YZYzQS9NPf
 ▯ to pas/talia.
 
-heoqdoq +1 `en` @Laqme #Ew-_BjP9H
+heoqdoq +2 `en` @Laqme #Ew-_BjP9H
 ▯ is a crop top.
 
 heoqgıa ± `en` @official #PKny3W7gn
@@ -36464,6 +36473,9 @@ Interjection: taunting, provoking
 koıkoı +1 `en` @robintown #iubYlsR4i
 ▯ goes on a walk.
 
+koıkuaı ± `en` @tonibrown #9sj0uolhb
+▯ longs to travel
+
 koıpeo ± `en` @Ilmen #UJWr70F7D
 ▯ ambulates through ▯.
 
@@ -43836,6 +43848,9 @@ name verb: ‘called’; turns following phrase X into verb: ▯ is called X.
 mí +3 `en` @Isi #IfvZShzCx
 name pronoun: ‘NAME’; turns following word X into pronoun: the thing called X.
 
+mí ± `en` @Laqme #d687KPzDG
+determiner: proper noun
+
 mı'aq ± `en` @uakci #Co8xgBT6z
 name verb: dear/valued X
 
@@ -48155,7 +48170,7 @@ particle: discourse-level frame-setting cleft — placed after a tense or modal 
 ⚠ nạ́ꝡoshı +1 `en` @Laqme #3zS_1OHb7
 conjunction: "in the sense that"
 
-naze +1 `en` @lassc #dE7mJcWxG
+naze +2 `en` @lassc #dE7mJcWxG
 interjection: bad underlying assumption
 
 ne- ± `en` @robintown #T--1gcG6w
@@ -57060,6 +57075,9 @@ tenpo ▯ la ▯
 rao ± `pl` @jiqci #L48QsvKJK2
 ▯ zdarza się wtedy, gdy/w tym samym czasie, co ▯.
 
+rao ± `en` @Laqme #JvA8sbmJQ
+▯ happens during ▯.
+
 raogı ± `en` @Ilmen #YGBRgyBJW
 ▯ is timely.
 
@@ -62806,6 +62824,9 @@ sıomfıuq ± `en` @Laqme #St83RZ456
 sıomjıo ± `en` @Laqme #0qkg48J33
 ▯ is a school (building).
 
+sıomoı ± `en` @Laqme #HM_0AeoLU
+▯ thinks.
+
 sıomrıaq ± `en` @Laqme #LWQzOqz9A
 ▯ is a school.
 
@@ -64617,6 +64638,9 @@ suoga +1 `en` @salarua #LxsVwu989
 
 suoı ± `en` @official #SRciuI2k_
 predicate: ‘great’; ▯ is greatly/awesomely/impressively ▯.
+
+suoı +1 `en` @Laqme #AsaLYSg80
+▯ is great/awesome/impressive.
 
 suoı ± `en` @Machy #J3ru5EDKD
 ▯ is great/mythic/awesome in the extent to which it satisfies property ▯.
@@ -69988,6 +70012,9 @@ tıehuashoaı ± `en` @Ilmen #Wom76RoGx
 tıem +1 `en` @Laqme #XE23KG_18
 ▯ is a function / mapping / map.
 
+tıembo ± `en` @Laqme #9akN_EJ_q
+▯ is associated with / maps to ▯.
+
 tıemdo ± `en` @seaqtaq #T_m2MLy5R
 ▯ assigns/allocates to ▯, ▯
 
@@ -73568,6 +73595,12 @@ pronoun: the proposition expressed by the previous sentence.
 
 ꝡáı ± `en` @uakci #xvC8-FhEy
 vague definite determiner; ‘the’
+
+ꝡaıfaı ± `en` @robintown #rS6fThDRM
+▯ is a Wi-Fi network.
+
+ꝡaıfaıdeq ± `en` @robintown #VD2WA7ZkA
+▯ is Wi-Fi-enabled / can communicate over Wi-Fi.
 
 ꝡaılı ± `en` @salarua #rENfkrYrA
 predicate: ‘joyous’; ▯ is joyous
