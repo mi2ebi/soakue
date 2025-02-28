@@ -8891,6 +8891,9 @@ chefuq +1 `en` @Laqme #wjLxydE-O
 cheheomıeq ± `en` @kazoo #OUJiF0bqsj
 ▯ is a measurement device used for measuring property ▯
 
+cheı- ± `en` @Laqme #A51ADoXzP
+verb prefix: way/manner/method of verb-ing
+
 cheı ± `en` @official #ZnHPYYjKz
 predicate: ‘digit’; ▯ is a digit/finger/toe.
 
@@ -38141,7 +38144,7 @@ prefix: turns verb into a pronoun referring to the relation underpinning that ve
 ⚠ la -1 `en` @oldofficial #dEm5widdTSY
 complementizer: ‘that’; declarative or non-polar interrogative
 
-lá ± `en` @uakci #e5yuRAgtN
+lá +1 `en` @uakci #e5yuRAgtN
 unary property complementizer with subject implicitly filled with **já**
 
 lá -1 `en` @Hoemai #dG9dOrfYw
@@ -43848,7 +43851,7 @@ name verb: ‘called’; turns following phrase X into verb: ▯ is called X.
 mí +3 `en` @Isi #IfvZShzCx
 name pronoun: ‘NAME’; turns following word X into pronoun: the thing called X.
 
-mí ± `en` @Laqme #d687KPzDG
+mí +1 `en` @Laqme #d687KPzDG
 determiner: proper noun
 
 mı'aq ± `en` @uakci #Co8xgBT6z
