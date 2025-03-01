@@ -6398,6 +6398,12 @@ cası ± `en` @Machy #kYvFmd02P
 casıa +1 `en` @Laqme #hn3SCOjBU
 ▯ happens without result / fruitlessly / in vain / to no effect / without consequences / scot-free / (causing nothing relevant, no matter positive or negative).
 
+casuao ± `en` @Laqme #izc5Z5TeD
+▯ matters / is of consequence.
+
+casuaocıa ± `en` @uakci #qA6TSLvDB
+▯ is inconsequential.
+
 cashe ± `en` @Ilmen #h17yXirZa
 ▯ is such that, if ▯ is the case, then the latter causes the former.
 
@@ -14179,6 +14185,9 @@ daı chôq sa ráı dóshı sa ráı kùı jêo dóshı dógu da
 doe ± `pl` @jiqci #2ksklJmN8
 ▯ działa/wykonuje własność ▯.
 
+doebo ± `en` @Laqme #tDNcYpN4K
+▯ has functionality for / supports ▯.
+
 doecakea ± `en` @jiqci #VOQ59S2sk
 ▯ is an engine.
 
@@ -15646,7 +15655,7 @@ echıkuoq ± `en` @jiqci #ds6-0z3nT
 echımı ± `en` @seaqtaq #6jnKxXej9
 ▯ is anything that allows access to some resource or desired entity or property one wishes to have whether circumstantially or inherently; ▯ is a key/id card/access code/password/ticket/testimonial
 
-efue ± `en` @robintown #GXcCOGSGW
+efue +1 `en` @robintown #GXcCOGSGW
 interjection: praise; 'very good!', 'that's right!'
 
 efuela ± `en` @Laqme #-BBqoeLqt
@@ -16587,6 +16596,9 @@ faote ± `en` @Laqme #WKz3hAxiu
 
 faotoa ± `en` @el #ssDStol8r
 ▯ is a terminating particle (as of this definition: **cy**, **ky**, **na**, etc)
+
+fapoaq ± `en` @Laqme #mxvX6OTBA
+▯ part ways / go in separate directions.
 
 faq ± `en` @official #K8qF94Oqbf
 predicate: ‘happen’; ▯ happens / takes place.
@@ -19086,6 +19098,9 @@ gaqnua ± `en` @uakci #xMVD5AmBZ
 
 gaqnuao ± `en` @Ilmen #eHEgU071g
 ▯ is a synapsid.
+
+gaqpoaq ± `en` @Laqme #gNKpJNtxY
+▯ part (finish hanging out / stop accompanying each other).
 
 gaqraı ± `en` @uakci #7frLo5lEV
 ▯ has a root-like, earthy taste, as of ginger, cinnamon, turmeric, etc.
@@ -25276,6 +25291,9 @@ hıokata +1 `en` @Laqme #PiMRjI-UM
 hıokuq +1 `en` @evie #X0jVxylff
 ▯ says ▯ as a greeting
 
+hıopoaq ± `en` @Laqme #02IGA9SCW
+▯ say their goodbyes.
+
 hıoq ± `en` @official #yUbGJ8XFvR
 predicate: ‘proud’; ▯ is proud / feels pride.
 
@@ -30294,9 +30312,6 @@ prefix: X understood subjectively / as judged by a personal standard / from a pe
 jıe +4 `en` @robintown #YbopIs6U-
 ▯ deems/judges/finds ▯ to be the case.
 
-jıe -1 `en` @official #F1GlTqD-eg
-predicate: ‘deemed’; ▯ is as ▯ deems/judges/evaluates things to be.
-
 jıe ± `toa` @uakci #Bdo9hycCo
 mıu dógu sa lú she dóshı dó da
 
@@ -30308,6 +30323,9 @@ jıe ± `zh` @mimiaoganhaqpy #LHpz6vscW
 
 jıe ± `pl` @jiqci #ChDKuqKZtg
 ▯ jest według/jak uważa/sądzi ▯.
+
+jıe -2 `en` @official #F1GlTqD-eg
+predicate: ‘deemed’; ▯ is as ▯ deems/judges/evaluates things to be.
 
 jıeba +1 `en` @Laqme #1T19T4GiC
 interjection: "dude!", "holy shit!"
@@ -30476,6 +30494,9 @@ jıkoboe ± `en` @robintown #OtQO6QBtQ
 
 jıkochıu ± `en` @jiqci #YbKTUZOfK
 ▯ is the IP address of ▯.
+
+jıkofıem ± `en` @jiqci #9QZrzsgcd
+▯ is a webring.
 
 jıkofuaqkue ± `en` @Laqme #gTbp3pyiH
 ▯ is a webcomic.
@@ -70377,6 +70398,9 @@ tıosuıpuı ± `en` @Laqme #FNKtPY838
 
 tıozıu +1 `en` @Laqme #CRF6XyCtw
 ▯ is a positive integer / natural number excluding 0.
+
+tıpoaq ± `en` @Laqme #9Ap9mU2i3
+▯ part / split up (stop being in the same place).
 
 tıpoe ± `en` @Ilmen #1vahMHA6G
 ▯ is spatially separate from ▯.
