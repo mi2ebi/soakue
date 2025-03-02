@@ -8039,6 +8039,9 @@ cueqcheaq ± `en` @uakci #23i9xBMce
 cueqdeoq ± `en` @Laqme #XhMTZuABz
 ▯ announces to ▯ that ▯ is the case.
 
+cueqgua ± `en` @jiqci #ZXCcstZ-u
+▯ is a republic.
+
 cueqha ± `en` @seaqtaq #zaWyaFAA3
 ▯ comes out/reveals themselves
 
@@ -30365,6 +30368,9 @@ jıemıa ± `en` @uakci #ZqiwEeWvj
 
 jıemıajoe ± `en` @uakci #vZ9M4K-YS
 ▯ is a professional at ▯.
+
+jıeq- ± `en` @kazoo #XHCAOPdYy
+prefix: makes 2D shape names based on its number of angles, X-gon
 
 jıeq ± `en` @official #t0JbCD5WHP
 predicate: ‘tip’; ▯ is a tip / pointed end.
@@ -67243,7 +67249,7 @@ nimi nimi: ni li kon sona pi «shu X»: ▯ li nimi "X"
 shu ± `jbo` @zearen #nZE0DNkIW
 .i zoi ty.« shu »ty. cmavo fi loka brivla loka li'erla'i valsi .i simsa zo zo .i mu'a lu« zo pi »li'u smusmi zoi ty.« shu pi »ty.
 
-⚠ shu -1 `en` @oldofficial #DWrFUoF6c1m
+⚠ shu -2 `en` @oldofficial #DWrFUoF6c1m
 word-quote: ‘the.word’; turn next word into quote predicate
 
 shú +1 `en` @Laqme #eLZk8RIN8
@@ -68715,6 +68721,9 @@ taqzoaı ± `en` @jiqci #JJCHsJBBT
 
 taqzu +1 `en` @Laqme #tHMqXp51X
 ▯ is an idiolect.
+
+tarampagua ± `en` @Ilmen #TunVIknuR
+▯ is Trumpistan.
 
 tarı ± `en` @Ilmen #zo7S5TCWZ
 ▯ refuses that ▯ be the case.
@@ -70639,7 +70648,7 @@ tıudıu ± `en` @Laqme #viBvYiUtu
 tıudıutoaq -1 `en` @akesi #uJ0-ZxO8Q
 ▯ is a logical language.
 
-tıudıuzu +1 `en` @Laqme #bqHdm7ksZ
+tıudıuzu +2 `en` @Laqme #bqHdm7ksZ
 ▯ is a logical language.
 
 tıudıuzu -1 `en` @mimiaoganhaqpy #dL_cIBOh-
@@ -73877,6 +73886,9 @@ faux relative clause marker piecing a noun form and a subject-truncated clause t
 
 ꝡom ± `en` @kazoo #iZNfxp1VG
 ▯ is non-extant, ▯ does not exist.
+
+Ꝡomıq ± `en` @uakci #Bq8NbPpIf
+▯ pertains to the US state of Wyoming.
 
 ꝡoq +1 `en` @TheAndSys #GijqhFd78
 ▯ is a guy, a dude, a gal (overly casual version of poq)
@@ -78908,6 +78920,9 @@ gaq bua ± `en` @seaqtaq #AXDBXreDX
 
 Gaq fa jí súq Méhıkogua nha. ± `en` @examples #ZR_5mu56L9jC
 I promise to go with you to Mexico.
+
+Gáqfuaı Paqgua bẹ'Amerıka ± `en` @jiqci #EpXHvqV0z
+proper noun: the United States of America (full name)
 
 Gaq hao jí súq nha. ± `en` @examples #tKygyLPu0vs
 I promise I’ll join you in that.
