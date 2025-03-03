@@ -4478,8 +4478,11 @@ boteq ± `en` @salarua #mR8xyUugQ
 boteq ± `en` @uakci #BnFtY-w8V
 ▯ pays money ▯ for the possession of ▯.
 
-boteqdoa ± `en` @uakci #QVQfD0idY
+boteqdoa -1 `en` @uakci #QVQfD0idY
 ▯ sells, for money ▯, possession of ▯.
+
+botı ± `en` @Laqme #R0job9JEI
+▯ is had by / belongs to ▯.
 
 botıqlınhuo ± `en` @jiqci #xrmTIE0zb
 Number ▯ is little-endian (written with the most significant digit at the end) / in "Vötgil ordering".
@@ -7621,6 +7624,9 @@ Particle: "directed at". A poi-like that adds the phrase "... intending that [..
 
 cu- ± `en` @salarua #NXy24X4Ha
 prefix: pejorative
+
+cu ± `en` @Laqme #NSPwLIb2q
+▯ happens with recipient ▯.
 
 cua ± `en` @official #Cxk9NJMY9
 predicate: ‘respond’; ▯ responds to satisfying property ▯ by satisfying property ▯.
@@ -15195,6 +15201,9 @@ duı ± `pl` @jiqci #_sQz60FXxk
 
 duı ± `en` @evie #-oa4PN4bW
 ▯ is too much / excessive
+
+duı ± `en` @Laqme #fZMcamXBO
+degree: too much
 
 duı'uo ± `en` @evie #wgnAJpr5k
 ▯ overeeps (eeps too much)
@@ -23383,6 +23392,12 @@ hakoceaq ± `en` @jiqci #mI0N8rtY9
 hakolueq ± `en` @funbreaker #C2lPQyN9j
 ▯ performs a service in a way that is ultimately detrimental
 
+halao ± `en` @Laqme #gAMgoyB3F
+▯ dispels / banishes / removes / makes ▯ go away.
+
+halaotaq ± `en` @seaqtaq #nns_BvBsY
+▯ leaves/scurries off/removes themselves/gets out
+
 halapenho ± `en` @Laqme #7FB28btwl
 ▯ is a jalapeño pepper.
 
@@ -26308,6 +26323,9 @@ predicate: ‘scoop’; ▯ scoops ▯ out of ▯.
 huaı ± `pl` @jiqci #1LrksyIKsL
 ▯ czerpie/nabiera/wykopuje ▯ z ▯.
 
+huaı ± `en` @Laqme #lqIMVQEBN
+▯ scoops ▯.
+
 huaıchao ± `en` @jiqci #DqtVLkgq3
 ▯ is an excavator.
 
@@ -28805,6 +28823,9 @@ jeachoaq ± `en` @uakci #IJYMsrTpL
 
 jeadıe ± `en` @jiqci #AT2-H0Jii
 ▯ advertises product/service ▯.
+
+jeado ± `en` @Laqme #w1D84hx5y
+▯ sells ▯.
 
 jeadoaqpaq ± `en` @robintown #dozHGH0Cd
 ▯ is a shopping/business district.
@@ -42282,6 +42303,9 @@ mabea ± `en` @Machy #zGmm7QIcb
 mabo ± `en` @seaqtaq #xxdKTLilh
 ▯ has truth value ▯
 
+mabu ± `en` @Laqme #TfMGHfWZw
+polarity: "whether not..." / "doesn't ...?"
+
 mabula +1 `en` @Ilmen #zrRfSIgk3
 ▯ is execrable/deplorable/wretched/shitty/awful/rotten/miserable/contemptible/crappy/inferior/low-quality.
 
@@ -42551,6 +42575,9 @@ Majaragua ± `en` @countries #hQM6gIEYYPH
 
 majeaq ± `en` @uakci #Qhk1rzh9A
 ▯ consumes ▯.
+
+majeo ± `en` @Laqme #EY93Woou0
+polarity: "whether indeed..." / "..., right?"
 
 majeq ± `en` @Ilmen #PfkK96wFr
 ▯ and ▯ have the same truth value.
@@ -50876,6 +50903,9 @@ nua ± `toa` @uakci #M8qKkNQr5
 nua ± `pl` @jiqci #Bf2-R__6q
 ▯ zabiera ▯ obiekt ▯.
 
+nua ± `en` @Laqme #iffLZkXWj
+▯ takes ▯.
+
 nua -1 `en` @uakci #H8jIqrelp
 ▯ takes from ▯ property ▯.
 
@@ -52013,6 +52043,9 @@ nuqleq ± `en` @Hoemai #TCaJGTFRL
 nuqshoaı ± `en` @uakci #qXSOrYAKy
 ▯ is “the other shoe that drops” wrt ▯; ▯ is the inevitability anticipated to happen after ▯ has happened.
 
+nuqteq ± `en` @Laqme #jwHDGBZTc
+▯ repays amount ▯.
+
 nuru ± `en` @Laqme #iFLC8wXbT
 ▯ is a worm-like animal.
 
@@ -52336,6 +52369,9 @@ nhoa +1 `en` @uakci #Zs9xy9XVL
 
 nhoa ± `en` @evie #4ff4TDDH_
 ▯ is too little
+
+nhoa ± `en` @Laqme #wY1KqKKLl
+degree: too little
 
 nhoabota ± `en` @seaqtaq #kYup4VdBT
 ▯ is generous with/doesn't hold back from/isn't shy about satisfying property ▯
@@ -52958,7 +52994,7 @@ oq'oguı ± `pl` @jiqci #bIU5iucNys
 oqdaotıuq ± `en` @jiqci #Ui_y2q3td
 ▯ is ribulose.
 
-oqsı +1 `en` @zearen #OuNthxvnj
+oqsı +2 `en` @zearen #OuNthxvnj
 ▯ is oxygen.
 
 oqsısaı ± `en` @seaqtaq #Jy3RsME9u
@@ -67108,6 +67144,9 @@ shoemmoe ± `en` @Laqme #Aj4EDvD35
 shoemtuao ± `en` @seaqtaq #GX4Gz4HLD
 ▯ is dipped in ▯; ▯ is very lightly immersed in ▯;
 
+shoeq ± `en` @Laqme #B7PgCCXLi
+▯ happens with donor/source ▯.
+
 shoerueq ± `en` @seaqtaq #CcAxhCQ6V
 ▯ is strict in how they treat others under their control
 
@@ -69412,7 +69451,7 @@ teqdıu ± `en` @Laqme #QEyxCllkY
 teqdo ± `en` @TheAndSys #4t--r4RVZ
 ▯ sells ▯ in exchange for ▯
 
-teqdoa ± `en` @uakci #J935evXZb
+teqdoa -1 `en` @uakci #J935evXZb
 ▯ sells, for money ▯, property ▯.
 
 teqdoem ± `en` @jiqci #GLFCzUWYf
@@ -69492,6 +69531,9 @@ teqse ± `en` @seaqtaq #UeQLV6QT0
 
 teqsıa -1 `en` @uakci #DmaUtKwJ3
 ▯ gifts property ▯ to ▯.
+
+teqsom ± `en` @Laqme #mWmPnE55E
+▯ repays / reimburses / settles their debt to ▯.
 
 teqsue ± `en` @seaqtaq #yD-cNuXu8
 ▯ charges for item/service ▯, price ▯
@@ -73284,7 +73326,7 @@ Ukaınazu ± `en` @mimiaoganhaqpy #yDrlU92eN
 Ukaınazu ± `en` @Laqme #R81FR0k3h
 ▯ is the Ukrainian language.
 
-ukıu +1 `en` @salarua #xPaW20tHu
+ukıu +2 `en` @salarua #xPaW20tHu
 predicate: ‘adorable’; ▯ is adorable
 
 uko +1 `en` @jiqci #S0Q1_fhcZ
