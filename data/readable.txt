@@ -15976,6 +15976,9 @@ eo ± `en` @el #XtMczCAN4
 eoq ± `en` @el #nljbIuHkP
 in JE: "in any case, ..." "regardless, ..."
 
+Eorasıa ± `en` @Isi #ZPhprBess
+predicate: ‘Eurasia’; ▯ is Eurasia (the landmass consisting of Europe and Asia).
+
 eoro ± `en` @Laqme #XddyvMNW2
 unit: euro (currency)
 
@@ -22114,7 +22117,7 @@ guaqtoq ± `en` @Ilmen #eiOH0cK1t
 guaqzeo ± `en` @uakci #zS_lsvOWY
 ▯ is a tuber (potato, beetroot…).
 
-guaqzu ± `en` @uakci #KCPVpEu7r
+guaqzu -1 `en` @uakci #KCPVpEu7r
 ▯ is the Polish language.
 
 guaqzuom ± `en` @Laqme #lf5aAguXx
@@ -29039,6 +29042,9 @@ jearıaq ± `tok` @el #HSrZjmi3R
 
 jearıaq ± `pl` @jiqci #8Pjz4m_Jcu
 ▯ to sklep/targ/bazar.
+
+jeasoıche ± `en` @jiqci #fIjsakK2j
+▯ is a mercenary.
 
 jeatıaı ± `en` @lassc #iPR-rvgii
 ▯ is a package/parcel containing ▯.
@@ -71308,7 +71314,7 @@ toaqzu ± `tok` @mimiaoganhaqpy #uFqYyRnXp
 Toaqzu ± `pl` @jiqci #kB37E56ES6
 ▯ to język Toaq.
 
-Tóaqzu ± `en` @robintown #Zpox4-4I6
+Tóaqzu +1 `en` @robintown #Zpox4-4I6
 pronoun: the Toaq language
 
 toaqzuno ± `en` @uakci #ApwF0dEpT
