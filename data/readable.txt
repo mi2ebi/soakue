@@ -3620,6 +3620,9 @@ bırım ± `en` @jiqci #VoLhx8jE1
 bırıqjı ± `en` @Hoemai #3JEtFXmqo
 ▯ is a member of genus Oryza (rice).
 
+bıro +1 `en` @jiqci #3dFhdAfPQ
+▯ is a ballpoint pen.
+
 bıru ± `en` @Ilmen #ZAIBBaq8b
 ▯ is a virus (infectious agent).
 
@@ -28217,6 +28220,9 @@ prefix: properly, actually, in the literal/strict sense
 ıumeo ± `en` @Laqme #hyf9hDfro
 ▯ is sad that ▯ is the case.
 
+ıupe ± `en` @jiqci #OhsRXbhWV
+▯ (counterfactual) is the case in comparison to how things actually are.
+
 ıurıka ± `en` @Snow #V0L2bw-mE
 ▯ is a plant in the subfamily Betoideae.
 
@@ -51734,6 +51740,9 @@ nuochoa ± `en` @uakci #xmHcdyWYj
 nuocholı ± `en` @Ilmen #5meTuetGP
 ▯ is a mattress.
 
+nuochu ± `en` @seaqtaq #jWYyKtKRb
+▯ is half-asleep; ▯ is asleep but also vaguely aware of their surroundings and could very easily be roused from this very sensitive state
+
 nuodaq ± `en` @robintown #-kJ2psIK2
 ▯ is a period of sleep / sleeping hours / "quiet hours".
 
@@ -51902,6 +51911,9 @@ nuonhe -1 `en` @uakci #g4Vd_nGEO
 nuonheoı ± `en` @TheAndSys #dWYnrd-fO
 ▯ hibernates
 
+nuopeochıaq ± `en` @seaqtaq #3sspgdJVO
+▯ is aware of their crossing the edge/threshold of sleep; ▯ falls asleep while being aware that they are falling asleep
+
 nuopoajıaı ± `en` @el #NTofqDIJJ
 ▯ holds ▯ while asleep in such a way that the latter can't leave without waking the former up
 
@@ -51976,6 +51988,9 @@ nuoqteoq ± `en` @Laqme #erLXgJuN9
 
 nuoraı ± `en` @nano #iU7zoLEbf
 ▯ is a dream object.
+
+nuorea ± `en` @seaqtaq #VHgOz-B7r
+▯ is the “edge/threshold of sleep"; ▯ is the boundary which divides a state of consciousness from a state of sleep or unconsciousness
 
 nuorıaı ± `en` @Ilmen #wH2uha8ox
 ▯ is a mattress.
@@ -66490,7 +66505,7 @@ shıluı ± `en` @uakci #MCsWhlqxT
 shım ± `en` @magnap #Qh-Wwc14a
 ▯N/c is cohesive/unified / internally consistent / in harmony with itself or between each other
 
-shıma ± `en` @Laqme #hNcPixGf6
+shıma +1 `en` @Laqme #hNcPixGf6
 ▯ is a nose.
 
 shımagoeq ± `en` @jiqci #K3FEKQIuf
@@ -89205,7 +89220,7 @@ in state of affairs▯, the semantic role of FORCE is assumed by ▯
 ⚠ cuhybıa +2 `en` @uakci #f4SmsiWGI
 ▯ has asthma / is an asthmatic.
 
-⚠ cuhyshaı -1 `en` @salarua #RCUaC03dI
+⚠ cuhyshaı -2 `en` @salarua #RCUaC03dI
 ▯ suffocates/asphyxiates/drowns/cannot breathe
 
 ⚠ cuoımy ± `en` @Ilmen #J_lVQ8kuL
