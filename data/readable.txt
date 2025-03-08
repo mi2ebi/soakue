@@ -6893,7 +6893,7 @@ Chekasuobakıgua ± `en` @jiqci #QrMh5bpdo
 Chekazu ± `en` @eednb #xIhI1DKSo
 ▯ is the Czech language.
 
-Chıaqnuo -1 `en` @brunofrancosalamin #Lb4BRxi3t
+Chıaqnuo -2 `en` @brunofrancosalamin #Lb4BRxi3t
 ▯ is lucid-dreaming
 
 Chıle ± `en` @countries #OjmQ4pGO4N
@@ -9346,6 +9346,9 @@ chıaıtaq +1 `en` @akesi #CivmfNKa4
 
 chıaıtuere -1 `en` @seaqtaq #dBjgAVbWh
 ▯ is a back up/recovery of ▯
+
+chıalıeı ± `en` @uakci #P5rubM5xz
+▯ accommodates (“answers”/provides for) need ▯.
 
 chıam +1 `en` @Laqme #FKI7oTieQ
 ▯ is magic / witchcraft / sorcery.
@@ -16099,7 +16102,7 @@ Erıegua ± `en` @countries #0ylfZORPUW
 ⚠ Erıegua -1 `en` @oldcountries #tXrI3fUrwM4
 ▯ is the country Ireland[25].
 
-erıq ± `en` @fagri #eI05ob6BW
+erıq -1 `en` @fagri #eI05ob6BW
 ▯ ıs me / the speaker (equivalent to jı, plus connotations of explicitly rejecting the connotations of "tashi" and "boku")
 
 eru +1 `en` @Laqme #5eqLuEh2b
@@ -18558,6 +18561,9 @@ prefix: combines previous word X and next (attached) word Y into the compound YX
 
 ⚠ ga -1 `en` @oldofficial #GK2pzkfRE
 terminator: ‘[end]’; end object incorporating verb or name verb
+
+gâ ± `en` @Hoemai #a2boFbpIg
+pendent particle: allows placing an argument in front and outside of a phrase in order to bind a variable within that phrase
 
 ga'achaq ± `en` @salarua #TJ7DbXtTX
 ▯ is Earth Day
@@ -37004,6 +37010,9 @@ kuaıhaq ± `en` @TheAndSys #GgKWNC2MW
 kuaıkuaı ± `en` @uakci #HyPMzhrwU
 ▯ is insatiable.
 
+kuaılıeı ± `en` @uakci #7JkoFgY9S
+▯ fulfills/aids in resolving ▯’s urge to satisfy property ▯.
+
 kuaıluaq +3 `en` @Laqme #bryx8TVAr
 ▯ teases ▯ by arousing the latter's urge to satisfy ▯.
 
@@ -39948,11 +39957,26 @@ What's it like to experience property ▯?
 lıeı +3 `en` @Laqme #nfJuIXszk
 ▯ follows / matches / obeys / goes along / is in accordance with ▯.
 
+lıeı'ıq ± `en` @uakci #_cBuH6UN_
+▯ obeys/is in accordance with ▯ by satisfying property ▯.
+
+lıeıcua ± `en` @uakci #s2XQcitqI
+▯ obeys, in response to ▯ (some “request-like” stimulus, such as a command or a suggestion), by thence satisfying property ▯.
+
+lıeıdao ± `en` @uakci #dY8ayer4J
+▯ is a (potential) answer/solution to ▯ (question/problem).
+
 lıeıma ± `en` @seaqtaq #OjeX9Bppg
 ▯ is a model/guide/(abstract) template; ▯ is something that another obeys/follows/is in agreement with
 
+lıeınuq'o ± `en` @uakci #TvYFBkzv_
+▯ satisfies request/command ▯ by acting in response / giving answer ▯.
+
 lıeıruo ± `en` @seaqtaq #9jtthYLkE
 ▯ conforms in behavior to rule/standard/law ▯
+
+lıeıtao ± `en` @uakci #1t8N6A2wx
+▯ obeys/is in accordance with ▯ by doing property ▯.
 
 lıeıtaq ± `en` @Laqme #N4NQBLIT6
 ▯ is consistent / follows a pattern.
@@ -46187,7 +46211,7 @@ muaopoq ± `en` @jiqci #aEq7xHWnv
 muaopuo ± `en` @jiqci #EiN_sKGmV
 ▯ is sawdust.
 
-muaosaı +2 `en` @seaqtaq #nQQafHiv4
+muaosaı +1 `en` @seaqtaq #nQQafHiv4
 (fork of #Ip1S8wNr8) wood
 
 muaosaımuoq ± `en` @xorxes #jLOky_xfT
@@ -51881,7 +51905,7 @@ nuojom +1 `en` @Laqme #WtR9WzAOD
 nuokoı +1 `en` @uakci #m6l_JZjtW
 ▯ somnambulates; ▯ walks in their sleep.
 
-nuokoı -1 `en` @brunofrancosalamin #QAt-jIma0
+nuokoı -2 `en` @brunofrancosalamin #QAt-jIma0
 ▯ is sleep-talk
 
 nuokua ± `en` @official #GdfzhzD9ZD
@@ -52808,7 +52832,7 @@ ocısopocua ± `en` @Ilmen #p51eQg88q
 ocısopocuapuo ± `en` @Ilmen #gryNyOYN0
 ▯ is thermite.
 
-ocha +2 `en` @Laqme #Q_Rqv4kfm
+ocha +3 `en` @Laqme #Q_Rqv4kfm
 ▯ is a human.
 
 ocha +1 `en` @official #KLv0d16sjeh
@@ -52837,6 +52861,9 @@ ochajukufase ± `en` @Ilmen #oA-UHaR3f
 
 ochareq ± `en` @jiqci #FxPRH6__1
 ▯ is a modern human (species Homo sapiens).
+
+ochareq ± `en` @jiqci #BlHtfblcR
+▯ is a human from species Homo sapiens.
 
 ochasesaı ± `en` @uakci #edXGVzL1B
 ▯ is plastic.
@@ -58022,6 +58049,12 @@ req ± `pl` @jiqci #TZ_toe2FQ3
 
 req ± `ru` @SuperSpaceNiM #zbZsFVfMW
 ▯ — человек, человеческое существо
+
+req ± `en` @jiqci #DT_WcfST2
+▯ is a sentient being.
+
+req'ocha ± `en` @jiqci #ItwMEEqtB
+▯ is a human from species Homo sapiens.
 
 reqbu ± `en` @Ilmen #yT8dG5mTr
 ▯ is a nonhuman living being.
@@ -64390,7 +64423,7 @@ suecaq +3 `en` @Ilmen #uwbF6Eey4
 ▯ commands ▯ to do ▯; ▯ issues to ▯ the order ▯.
 
 suecua +2 `en` @Ilmen #Bo8BjFODH
-▯ obeys ▯; ▯ obeys ▯ in his/her/their request/command of satisfying property ▯.
+▯ obeys ▯'s request or command of having property ▯.
 
 suecuahe ± `en` @Ilmen #te52ANmUK
 ▯ is obedient.
@@ -65355,6 +65388,9 @@ shaojuı ± `en` @lotofago #wB4o0-i2b
 
 shaolao ± `en` @Laqme #Ch0j19mq-
 ▯ expects ▯ to be the case.
+
+shaolıeı ± `en` @uakci #ZNC6RI8VX
+▯ fulfills one’s wish for ▯ to be the case.
 
 shaoloq ± `en` @Laqme #jXUJ0lq1x
 ▯ is enthusiastic / passionate / ardent / zealous about satisfying property ▯.
@@ -67348,14 +67384,14 @@ word-quote: turn next word, *not* including tone, into quote predicate.
 shu'u ± `en` @robintown #-iS6S8cHI
 ▯ is a birdie.
 
+shua +3 `en` @robintown #Ep5zGd5sB
+▯ falls.
+
 shua +1 `toa` @uakci #Rh3DZMa0I
 ca duo pó gáıha dóshı dógu hǔaq juı hóa gáıha dósaq na dósaq da
 
 shua ± `en` @official #G1Nz5qFrIY
 predicate: ‘fall’; ▯ falls to ▯.
-
-shua +1 `en` @robintown #Ep5zGd5sB
-▯ falls.
 
 shua ± `pl` @jiqci #NC3VjsLLdO
 ▯ spada do ▯.
@@ -68851,7 +68887,7 @@ tası ± `pl` @jiqci #frPiXsRjzz
 tásıe ± `en` @seaqtaq #Zw4dv3LSH
 pronoun: ‘CAT.it.IV’; cataphoric pronoun for adjective DPs (class IV)
 
-tashı ± `en` @fagri #O80bwFueX
+tashı -1 `en` @fagri #O80bwFueX
 ▯ is me / the speaker (equivalent to jı, plus feminine connotations)
 
 tatarasaoza ± `en` @TheAndSys #pvkTyxbL_
@@ -74184,6 +74220,9 @@ zao ± `tr` @kazoo #WGNmONV0A
 zaobu ± `en` @fagri #97KloOan3
 ▯ is a stranger to ▯
 
+zaobumolem ± `en` @seaqtaq #VR8BkK-s7
+▯ wonders what it's like to experience satisfying property ▯ as someone or something unaccustomed to or unfamiliar with satisfying said property
+
 zaocem ± `en` @Laqme #KTX6CTLZi
 ▯ is familiar.
 
@@ -74715,7 +74754,7 @@ zımkue ± `en` @Laqme #sV8pUGM8H
 zımru ± `en` @jiqci #VBTopigdK
 ▯ is a juniper (genus Juniperus).
 
-zıo -1 `en` @fagri #mbPPBTd8B
+zıo -2 `en` @fagri #mbPPBTd8B
 Particle bound by "nhoi", see #YPotwOdAN
 
 zıq ± `en` @uakci #2v8-2iKhY
@@ -89373,7 +89412,7 @@ in state of affairs ▯, the semantic role of INSTRUMENT is assumed by ▯
 ⚠ dãqleı ± `en` @robintown #XlCngdQkq
 as seldom occurs
 
-⚠ dã -1 `en` @Machy #cbpyueBko
+⚠ dã -2 `en` @Machy #cbpyueBko
 Head-initial assertive illocution
 
 ⚠ dechey +1 `en` @Laqme #7ztqPXJed
