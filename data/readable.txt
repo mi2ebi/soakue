@@ -17329,7 +17329,7 @@ Particle: turn the next word into a conjunction.
 feq'ırue ± `en` @jiqci #ODl_Vhk-v
 ▯ is a Foehn wind.
 
-feqboı ± `en` @uakci #UeuQ3Hb4I
+feqboı -1 `en` @uakci #UeuQ3Hb4I
 ▯ has been going on / seemed truer and truer ever since one intuited that ▯ might be the case.
 
 feqcoe ± `en` @Laqme #Pvm37xLrk
@@ -19480,6 +19480,9 @@ geıcıa +1 `en` @fagri #dCmnCRTK9
 geıcheı ± `en` @jiqci #7N1xGTC5I
 ▯ is a hot-dog.
 
+geıdo ± `en` @jiqci #Kvhw4qcgj
+▯ puts on ▯ clothing ▯; ▯ dresses / clothes ▯ with ▯
+
 geıdutao ± `en` @fagri #3_jv3pl39
 ▯ dresses up as ▯
 
@@ -19494,6 +19497,9 @@ geımıqche ± `en` @robintown #Uj4rIFkM8
 
 geınua ± `en` @uakci #UEFn8zC_r
 ▯ takes clothing ▯ off ▯.
+
+geınua ± `en` @jiqci #sx4G6A8-i
+▯ takes off ▯ clothing ▯.
 
 geınhoq ± `en` @jiqci #6TBXZbz_8
 ▯ is a cable (insulated wire).
@@ -47768,6 +47774,9 @@ naochıa ± `en` @fagri #PRuAkXPHQ
 naochıohuaımoe ± `en` @seaqtaq #zh_7vMEmt
 ▯ feels as if they are repeatedly taking water in their hands, only to watch it consistently fall out (a specific type of frustration) 
 
+naochoa ± `en` @kazoo #FW-ANgloM
+▯ is the phenomenon where a consonant at the end of a word forms a syllable with a vowel in the start of the following word.
+
 naodo ± `en` @TheAndSys #dCT__-fzK
 ▯ gives ▯ something to drink (not necessarily water)
 
@@ -51220,6 +51229,9 @@ It's night time.
 
 nuaqshıe ± `en` @robintown #k0aAk9BhO
 ▯ is nocturnal.
+
+nuaqshoa ± `en` @TheAndSys #A9V92JOSY
+▯ happens late at night
 
 nuaqtıqshoaı ± `en` @Laqme #rk9nxEFoU
 ▯ is a moth.
@@ -55693,9 +55705,6 @@ posuq ± `toa` @Ilmen #MIYidfcf-
 
 posuq ± `toa` @Ilmen #wgPmRISQY
 = po súq ga ▯.
-
-posuq -2 `en` @Machy #uarWZjhjn
-▯ is yours.
 
 potaq +1 `en` @Ilmen #ju15HLSJH
 ▯ is related to its/his/her ▯ by the relation ▯.
@@ -89235,7 +89244,7 @@ in state of affairs▯, the semantic role of FORCE is assumed by ▯
 ⚠ canhy ± `en` @Laqme #kaqS_SZjN
 ▯ is a chestnut (edible fruit of Castanea tree).
 
-⚠ ceocıy ± `en` @uakci #QE96T5VXP
+⚠ ceocıy -1 `en` @uakci #QE96T5VXP
 ▯ has been the case since forever; There’s no beginning / onset point to ▯.
 
 ⚠ ceyq -1 `en` @akesi #zKm6czTFx
@@ -90144,7 +90153,7 @@ loq(nemıeq)chuo -1 `en` @seaqtaq #yVSCN9IdI
 ⚠ loynueq ± `en` @uakci #QkvBikHfM
 ▯ is prepared meat.
 
-⚠ loyq -1 `en` @akesi #0htjLRYMt
+⚠ loyq -2 `en` @akesi #0htjLRYMt
 ▯ is an unused Toaq syllable ending.
 
 ⚠ luaqkıqmy ± `en` @Machy #S3trmc0sR
