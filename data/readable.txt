@@ -14527,7 +14527,7 @@ unit: dollar
 dole ± `en` @Ilmen #7H5Pf_XmD
 ▯ is generous.
 
-dolom +1 `en` @mimiaoganhaqpy #MylNfRTUg
+dolom +2 `en` @mimiaoganhaqpy #MylNfRTUg
 ▯ is a drum.
 
 dolom ± `ru` @SuperSpaceNiM #wDwieQQbi
@@ -14535,6 +14535,9 @@ dolom ± `ru` @SuperSpaceNiM #wDwieQQbi
 
 dolomhua ± `en` @jiqci #wkbvjyfXE
 ▯ is an eardrum.
+
+dolomme ± `en` @Laqme #namWCBV5a
+▯ is a drum kit.
 
 dolomrueqguhu ± `en` @jiqci #BFV0bWLzh
 ▯ is a tensor tympani muscle.
@@ -28984,7 +28987,7 @@ jeaqdao ± `en` @uakci #1ryvsJbj8
 ▯ is a tag/marker/piece of metadata attached to ▯.
 
 jeaqdıa +1 `en` @Ilmen #xXOtC-XZ_
-▯ fluctuates in how much it is the case; ▯ fluctuates in how much it satisfies the property ▯.
+▯ fluctuates in how much it is the case.
 
 jeaqdıakaı ± `en` @seaqtaq #O3j3bmAUE
 ▯ WriTEs ▯ LIkE tHiS
@@ -48480,7 +48483,7 @@ nefuaq ± `en` @uakci #M0079sltL
 chart
 
 nefurı ± `en` @Ilmen #KFOkA-pd0
-▯ fluctuates in how much it is the case; ▯ fluctuates in how much it satisfies the property ▯.
+▯ fluctuates in how much it is the case.
 
 nefurı ± `en` @seaqtaq #aKq6tqBxJ
 ▯ fluctuates as to the degree of it being the case; ▯ fluctuates in how intensely it satisfies property ▯.
@@ -56183,6 +56186,9 @@ predicate: ‘kick’; ▯ kicks ▯.
 puedea ± `pl` @jiqci #j_yF73LgI-
 ▯ kopie ▯.
 
+puedolom ± `en` @Laqme #wRg3El5K5
+▯ is a kick drum.
+
 puefuq ± `en` @official #4kikyEGCU5
 predicate: ‘shoe’; ▯ is a shoe.
 
@@ -59445,6 +59451,9 @@ roqkuaıge ± `en` @uakci #1ZcCHZ0IS
 roqla ± `en` @Laqme #bWl4nD95X
 ▯ tears up.
 
+roqlaq ± `en` @Laqme #GxUK9WoO0
+▯ is the sound of someone sobbing/crying.
+
 roqtoaı ± `en` @Laqme #SoXKh0oYM
 ▯ is a teardrop.
 
@@ -60311,6 +60320,9 @@ ruqkea ± `en` @jiqci #ecnXfHbYu
 
 ruqkueqbeqpuao ± `en` @salarua #RuKvMuMcA
 predicate: ‘cumulonimbus.cloud’; ▯ is a cumulonimbus cloud
+
+ruqkuluq ± `en` @Laqme #Keh71E5EB
+▯ is a cymbal.
 
 ruqla ± `en` @Laqme #1o8y12rT0
 It rains.
@@ -63800,6 +63812,9 @@ Somalıagua ± `en` @countries #zeHg-FeuDS2
 ⚠ Somalıagua -1 `en` @oldcountries #DeCg5Ihepq
 ▯ is the country Somalia – Federal Republic of Somalia.
 
+somche ± `en` @Laqme #Ad3c9eieS
+▯ is a handyman/fixer/technician.
+
 someone ± `en` @Machy #e3kkc4C_7
 ▯ is one who should do ▯ (impersonal generic).
 
@@ -66525,6 +66540,9 @@ shıkogıq ± `en` @Ilmen #NejcE_q8t
 
 shıkotao ± `en` @uakci #tKibQKARS
 ▯ is done firstly / in the first place; ▯ does ▯ firstly / as the first thing (out of ▯).
+
+shıkuluq ± `en` @Laqme #pGH5HTIDT
+▯ is a chime / small bell.
 
 shıkuq ± `en` @Laqme #5TXqCQdA8
 ▯ delivers monologue/speech ▯ to ▯. (talking alone for an extended period of time)
