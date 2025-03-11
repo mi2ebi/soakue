@@ -500,6 +500,9 @@ ajıhaq ± `en` @jiqci #kP6m3HHXv
 ajıkea ± `en` @robintown #KZkYwYR5T
 ▯ is a crossbow.
 
+ajınhoq ± `en` @kazoo #MUv63LfN3
+▯ is a bowstring.
+
 aka +1 `en` @Ilmen #TC7dzcYrB
 ▯ is a root (of a plant).
 
@@ -3989,6 +3992,9 @@ boetupa ± `en` @robintown #koEcWwe-B
 bofaı ± `en` @Laqme #uoRX3kpLn
 ▯ is common to own.
 
+bofeu ± `en` @jiqci #ldp2CkZ7u
+▯ discards/abandons/relinquishes/throws away ▯.
+
 Bogarıa ± `en` @countries #sJEBJAml1
 ▯ pertains to the culture of Bulgaria – Republic of Bulgaria.
 
@@ -5527,6 +5533,9 @@ buqnao +1 `en` @Ilmen #WX6KWoPsS
 
 buqne +1 `en` @Laqme #oc1bj0k_s
 ▯ is a mouthful / bite / gulp / morsel.
+
+buqnuaıdıa ± `en` @kazoo #Y0434fw-l
+▯ (currency) is experiencing extreme value loss.
 
 buqpıo ± `en` @Ilmen #sJ_ZTfSjR
 ▯ is a tooth.
@@ -13463,6 +13472,9 @@ dıaı ± `pl` @jiqci #I8nIKdHP5O
 dıaı ± `tr` @kazoo #_9bRuVVrZ
 ▯ sayıca yedidir.
 
+dıaıjo ± `en` @kazoo #4fie9Fe8l
+▯ is a Toaqic poem with 4 lines, 7 raku on each line and with rhyme of "A A B A".
+
 dıaıjuao ± `en` @uakci #PWfnFvcl0
 ▯ is law enforcing that ▯ happen.
 
@@ -19492,6 +19504,9 @@ geıdutao ± `en` @fagri #3_jv3pl39
 geıfao ± `en` @uakci #Ti3h4nfky
 ▯ is outerwear.
 
+geıkıaq ± `en` @Laqme #vUCkgNDDI
+▯ is a wig / toupée.
+
 geımıq +2 `en` @robintown #hPevvJNPG
 ▯ games / plays video games.
 
@@ -25162,7 +25177,7 @@ hıeqnuao ± `en` @Ilmen #QgU3Uj8HJ
 hıeqnuaobeaq ± `en` @Ilmen #4tHeTLk_K
 ▯ is an arrow (pointed missile).
 
-hıeqnuaohaq ± `en` @Ilmen #RwMkzViTe
+hıeqnuaohaq -1 `en` @Ilmen #RwMkzViTe
 ▯ is an arrow (pointed missile).
 
 hıeqpoaq ± `en` @Ilmen #sudd0hTIZ
@@ -26748,6 +26763,9 @@ huıgı +1 `en` @uakci #eX4kp9muZ
 
 Huıgıdezu ± `en` @mimiaoganhaqpy #lr9kjY7lf
 ▯ is the ygyde language.
+
+huıgıla ± `en` @Hoemai #YWWepQMCR
+▯ makes ▯ worse in an honest but failed attempt to improve it.
 
 huıhota ± `en` @Machy #xCv2m_KvJ
 ▯ metastasizes.
@@ -30471,6 +30489,9 @@ jıeqgıubo ± `en` @seaqtaq #q3OSjhYeh
 jıeqgıune ± `en` @seaqtaq #bG3WU-zwN
 (fork of #Uy-_Gua5X) ▯ is the angle of ▯
 
+jıeqheq ± `en` @kazoo #gM95CNa8E
+▯ is a quiver.
+
 jıeqja ± `en` @uakci #Fgg0WYzeZ
 ▯ brings ▯ (situation) to its edge/utmost.
 
@@ -33957,6 +33978,9 @@ kaqchıeqse ± `en` @jiqci #7wK0Z0dhE
 kaqcho +1 `en` @Laqme #EtCvBDwi2
 ▯ likes the look of / finds ▯ pretty.
 
+kaqchoq ± `en` @kazoo #eEjusDCvG
+▯ is an aim/sight device (for bows, guns, etc.)
+
 kaqchu +1 `en` @uakci #G0WNKVbdj
 ▯ is the retina of an eye.
 
@@ -35209,6 +35233,9 @@ kıaıshea ± `en` @Laqme #vGfWGmCqS
 
 kıaısho ± `en` @TheAndSys #daO9MMtFI
 predicate: ‘adopt’; ▯ adopts ▯.
+
+kıajo ± `en` @Laqme #dJdwKtHD5
+▯ is a major seventh (maj7) chord.
 
 kıakambe ± `en` @Snow #vhykJYs4K
 ▯ is brassica oleracea var. capitata f. rubra
@@ -37072,6 +37099,9 @@ predicate: ‘Friday’; ▯ is a Friday.
 
 kuaochaq ± `pl` @jiqci #WlSJt0EYLW
 ▯ to piątek.
+
+kuaojo ± `en` @Laqme #87JZFXLG2
+▯ is a dominant seventh (7) chord.
 
 kuaokao ± `en` @jiqci #5edSsx55U
 ▯ is a blog.
@@ -40715,6 +40745,9 @@ loaızıa ± `en` @seaqtaq #-Qt0DdFcY
 
 loaızuı ± `en` @jiqci #fElRULyGt
 ▯ has low throughput.
+
+loajo ± `en` @Laqme #4UmGw0iaH
+▯ is a half-diminished (m7♭5) chord.
 
 loakepa +1 `en` @el #6Qz98dI4_
 ▯ is a red onion
@@ -44711,6 +44744,9 @@ predicate: null/no meaning, fills in a blank spot with no meaning, verbal form o
 mỉoı jí súq - I ▯ you
 dỏa míoı míoı súq - ▯ gives property ▯ to you
 
+mıojo ± `en` @Laqme #l9M98gXPU
+▯ is a minor seventh (m7) chord.
+
 mıoketo ± `en` @jiqci #JqqcLdKbf
 ▯ is a blue whale.
 
@@ -47710,6 +47746,12 @@ nanaq ± `pl` @jiqci #75g_-kqwB0
 
 nanasa ± `en` @Hoemai #H4HcsvzpR
 ▯ is a member of genus Ananas (the pineapple and similar plants).
+
+⚠ nạ́nehuaq ± `en` @Laqme #1sr02hJKH
+conjunction: "more than"
+
+⚠ nạ́nejeq ± `en` @Laqme #1g8DBzh5l
+conjunction: "as much as"
 
 nanı +1 `en` @Hoemai #WQDyI_Lzt
 determiner: ‘that’; demonstrative; that X
@@ -52547,7 +52589,7 @@ nhomgoaı ± `en` @Ilmen #YLLj1823o
 nhomtoı ± `en` @Ilmen #tMFmzsxCR
 ▯ is affectionate to ▯.
 
-nhoq +1 `en` @robintown #_7jSiWg4o
+nhoq +2 `en` @robintown #_7jSiWg4o
 ▯ is a cord/rope/thread/string.
 
 nhoq ± `tok` @el #6uwjoH57T
@@ -65248,6 +65290,9 @@ shaısıa ± `en` @fagri #vK-paa2Oq
 shaısho ± `en` @fagri #PI_Nj8IY7
 ▯ stops satisfying property ▯ and starts satisfying property ▯
 
+shaıtao ± `en` @jiqci #NpV9WgIua
+▯ renounces / forswears / quits satisfying property ▯.
+
 shaıtuao +1 `en` @uakci #gTrwi4ymy
 ▯ pauses (temporarily stops) happening; ▯ pauses (temporarily stops) doing ▯.
 
@@ -68446,6 +68491,9 @@ taofa ± `en` @Ilmen #pKIPyzUCV
 taofaı ± `en` @Laqme #_JUnMAmhg
 It's a common practice to do ▯.
 
+taofeu ± `en` @seaqtaq #YIQ7crQND
+▯ renounces / forswears / quits satisfying property ▯.
+
 taofıeq ± `en` @Laqme #ktwXyEOtS
 ▯ thinks of doing / comes up with course of action ▯.
 
@@ -70891,7 +70939,7 @@ toa ± `ru` @SuperSpaceNiM #oLir22B1H
 toa ± `tr` @kazoo #Qi5h7PJl_
 ▯ kelime/sözcüktür.
 
-toabaı ± `en` @jiqci #WlBhZ2h7w
+toabaı -1 `en` @jiqci #WlBhZ2h7w
 ▯ coins a compound/derived word ▯.
 
 toabeoq +1 `en` @Ilmen #Eqm9bdqB3
@@ -73802,6 +73850,9 @@ vague definite determiner; ‘the’
 
 ꝡaılı ± `en` @salarua #rENfkrYrA
 predicate: ‘joyous’; ▯ is joyous
+
+ꝡaja ± `en` @TheAndSys #49NGEaZ-U
+interjection: "same"/"i relate"/"mood"
 
 ꝡajao +1 `en` @Laqme #4r3qrIDF-
 ▯ is fucking awesome / is the shit.
