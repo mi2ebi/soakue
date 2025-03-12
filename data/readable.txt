@@ -23851,6 +23851,9 @@ predicate: ‘plate’; ▯ is a plate/dish.
 haqrıaq -1 `en` @el #yzO7x1nGE
 ▯ is a restaurant, serving ▯
 
+haqsaı ± `en` @Laqme #rOGDIgHhe
+▯ is an ingredient / grocery / foodstuff.
+
 haqsaokua ± `en` @Machy #c9kay9mGx
 ▯ is a dining hall.
 
@@ -36932,6 +36935,9 @@ State of affairs ▯ is soothed/ailed/assuaged.
 koꝡeja ± `en` @jiqci #mcUTNFzYN
 ▯ calms down / de-escalates state of affairs ▯.
 
+kps ± `en` @evie #XWRikLgmY
+textspeak for **ké po sá**
+
 ⚠ ksk ± `toa` @el #DoB85MEVR
 = kuaq sheo ka
 
@@ -49196,6 +49202,9 @@ predicate: ‘annual’; ▯ is annual.
 nıaqdıaq ± `pl` @jiqci #IqA2JlfaPN
 ▯ jest coroczny, zdarza się co rok.
 
+nıaqfaochaq ± `en` @Laqme #Gtp2IkTJc
+▯ is December 31 / New Year's Eve.
+
 nıaqfue ± `en` @Laqme #pHq6vUL5D
 ▯ is a century.
 
@@ -49714,6 +49723,9 @@ nım +2 `en` @nano #XBtCeZ42J
 
 nımchuaq ± `en` @Laqme #tEl9s2iw2
 ▯ is an "ism" that divides people into classes or strata.
+
+nıme ± `en` @Laqme #OklMgK8QV
+▯ is an event whose PATIENT comes from / stops belonging to ▯.
 
 nımgea ± `en` @Laqme #GDqEWSTyK
 ▯ is privileged / upper-class / highly ranked.
@@ -60087,6 +60099,9 @@ rukacea ± `en` @Laqme #NMXKmKrA3
 rukachu ± `en` @jiqci #RyoiFDKZb
 ▯ is a spinal cord.
 
+rukafıem ± `en` @jiqci #TyNHh98Lv
+▯ is a vertebra.
+
 rukahıe ± `en` @Ilmen #_VQa3qag8
 ▯ carries ▯ on their back.
 
@@ -67299,9 +67314,6 @@ shoemmoe ± `en` @Laqme #Aj4EDvD35
 
 shoemtuao ± `en` @seaqtaq #GX4Gz4HLD
 ▯ is dipped in ▯; ▯ is very lightly immersed in ▯;
-
-shoeq ± `en` @Laqme #B7PgCCXLi
-▯ happens with donor/source ▯.
 
 shoerueq ± `en` @seaqtaq #CcAxhCQ6V
 ▯ is strict in how they treat others under their control
