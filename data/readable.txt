@@ -1271,7 +1271,7 @@ aqno ± `en` @uakci #-qOtmdxKD
 aqnu ± `en` @Laqme #Rw9aCJd6o
 Even if I say so myself, ▯ is the case.
 
-aqnha ± `en` @uakci #xvjMED8LH
+aqnha +1 `en` @uakci #xvjMED8LH
 ▯ intends to do ▯; ▯ is committed to satisfying property ▯ (now or in the future).
 
 aqpılaı ± `en` @jiqci #R9WDJDWzZ
@@ -4478,7 +4478,7 @@ bosho ± `en` @Ilmen #wi_TCP8sL
 boshue ± `en` @Laqme #UYespNSzh
 ▯ keeps / retains possession of ▯.
 
-bota +3 `en` @Laqme #pKosdgFAx
+bota +4 `en` @Laqme #pKosdgFAx
 ▯ holds off / refrains / stops themselves from satisfying ▯.
 
 bọtao ± `en` @Laqme #4NBg1IRtS
@@ -7448,6 +7448,9 @@ coeboe ± `en` @fagri #3r2SLT86g
 coebuı ± `en` @uakci #ZU0J8AOML
 ▯ is offline from ▯.
 
+coecuq ± `en` @Laqme #BQJbVX5qM
+▯ disconnects from ▯.
+
 coechu ± `en` @uakci #gQBJFDrxg
 ▯ is enduring a connection with ▯; ▯ is online.
 
@@ -7480,6 +7483,9 @@ coehuao ± `en` @seaqtaq #UMXYziG38
 
 coeke ± `en` @Laqme #8FEh_Exp6
 ▯ is a button (fastener).
+
+coelaı ± `en` @salarua #XwzOIiQ_P
+▯ is a cursive hand.
 
 coele +1 `en` @seaqtaq #f229grVif
 ▯ is sticky
@@ -13097,6 +13103,9 @@ dekuq ± `en` @uakci #FfblxW-lW
 dekuqse ± `en` @Ilmen #EdHHjO7Zu
 ▯ is a poem.
 
+delaı ± `en` @salarua #SKM1A03tl
+▯ is a calligraphic hand.
+
 delua +1 `en` @uakci #0G5SFU9Xs
 ▯ is a poem.
 
@@ -13670,7 +13679,7 @@ dıelea ± `en` @Laqme #bZfPifO0c
 dıeluoq ± `en` @Laqme #iJrVcyM0Q
 ▯ debates ▯.
 
-dıem ± `en` @Laqme #THXeop8O3
+dıem +1 `en` @Laqme #THXeop8O3
 ▯ is a shop/store.
 
 dıemchao ± `en` @Laqme #EYt5SRwq3
@@ -15796,6 +15805,9 @@ eka ± `en` @Laqme #E0iYTsy82
 ekabom ± `en` @seaqtaq #bwj_jwReC
 ▯ experiences an upheaval/disruption
 
+ekade ± `en` @lassc #aqg1Lv8ya
+▯ experiences a sudden hyper-awareness of their existence / presence within life.
+
 ekafıeq ± `en` @Laqme #IXgHVOajq
 ▯ improvises / makes up ▯ on the spot.
 
@@ -17422,7 +17434,7 @@ ferısıoq ± `en` @robintown #5S0q2uW4c
 fetıq ± `en` @jiqci #V2oqMkR0i
 ▯ is a pentomino.
 
-feu ± `en` @salarua #g-IRBf1F1
+feu +1 `en` @salarua #g-IRBf1F1
 predicate: ‘disown’; ▯ disowns/disavows/disclaims/rejects association with ▯
 
 feze ± `en` @jiqci #1qMy2rWa9
@@ -21739,6 +21751,9 @@ predicate: ‘work’; ▯ works in satisfying property ▯; ▯ satisfies prope
 guaı ± `pl` @jiqci #Ug-QgA-hcR
 ▯ pracuje spełniając własność ▯.
 
+guaı ± `en` @Laqme #YkSgZ8DGb
+▯ works.
+
 guaıcaq ± `en` @uakci #DX4RcxIZR
 ▯ is ▯’s manager/employer/ordinator/boss.
 
@@ -22170,6 +22185,9 @@ guaqzuom ± `en` @Laqme #lf5aAguXx
 
 guarıe ± `en` @Laqme #jUzxtKwDJ
 ▯ is international, happening with the involvement of (people from) countries ▯.
+
+guarurıche ± `en` @robintown #9_X-EAHqx
+▯ is a diplomat/ambassador.
 
 guasama ± `en` @Ilmen #F6pCC1_6v
 ▯ is a citizen of state ▯.
@@ -41682,7 +41700,7 @@ luaqjuao ± `en` @Ilmen #Odj14b7Hn
 luaqkata ± `en` @Ilmen #m72WWIV46
 ▯ is a playing card.
 
-luaqkea +1 `en` @Laqme #yLmcTpu_e
+luaqkea +2 `en` @Laqme #yLmcTpu_e
 ▯ is a video game console.
 
 luaqkım ± `en` @uakci #K_787fFv0
@@ -41754,7 +41772,7 @@ luaqpua ± `en` @Ilmen #GQxEJA6nv
 luaqraı ± `en` @Laqme #his5lMM0l
 ▯ is a toy.
 
-luaqrom ± `en` @Laqme #5WD67L_mY
+luaqrom +1 `en` @Laqme #5WD67L_mY
 ▯ is a video game.
 
 luaqse ± `en` @Laqme #wiWYSqjFD
@@ -43694,6 +43712,9 @@ mejeo ± `toa` @Ilmen #gX8axdCN2
 
 mejı ± `en` @uakci #0NpHrNz_F
 ▯ is us (used in a plural/DID/OSDD/etc context to indicate the full system and not the current speaker/fronter)
+
+mejıe ± `en` @lassc #ztbDRm_rw
+▯ is socially accepted to be the case; ▯ is the case with regards to "common sense"; ▯ is intersubjectively the case
 
 mejıo ± `en` @Laqme #nsC7IBIzL
 ▯ is a museum.
@@ -45923,7 +45944,7 @@ molotochaı ± `en` @jiqci #taxJytcOM
 molu ± `en` @Laqme #f2flFto4t
 In other words, ▯ is the case.
 
-móm ± `en` @uakci #nt9TFZllo
+móm +1 `en` @uakci #nt9TFZllo
 conjunction: X, or equivalently, Y
 
 moma ± `en` @Laqme #rCUMOkOBB
@@ -50306,6 +50327,9 @@ nıuqde +1 `en` @Laqme #FHJhWxknr
 nıuqfıe +1 `en` @Laqme #nfNtUCjyE
 ▯ is vulgar / lowly / plebeian.
 
+nıuqnıu ± `en` @lassc #JHaxMYony
+▯ is a night-blooming plant.
+
 nıuqsue ± `en` @Laqme #HHoiFaVwE
 ▯ begs ▯ to satisfy ▯.
 
@@ -52997,6 +53021,9 @@ Ohomıazu ± `en` @eednb #7bKufF2Zv
 oı- ± `en` @TheAndSys #9jWcXd_DQ
 Number component: More than
 
+oı ± `en` @salarua #VGQjJagkP
+▯ is the case with respect to property ▯.
+
 oı'oıne +1 `en` @el #hko6Fz7KG
 ▯ is the letter Oı
 
@@ -53032,6 +53059,9 @@ oısotoro ± `en` @Ilmen #YaPBtyQ6X
 
 oja +1 `en` @Laqme #7cgAzDm-p
 ▯ makes a bow / curtsy; ▯ bows (as a social gesture).
+
+ojarua ± `en` @lassc #Kjjt4AN5c
+▯ is a member of the genus Datura (commonly referred to as "thornapples" and "jimsonweeds").
 
 oka +3 `en` @lassc #BqntvW_Vp
 interjection: "goodbye"; indication of departure with expectation of return
@@ -53671,6 +53701,9 @@ paqcıa ± `pl` @jiqci #kdjVkqEC6R
 
 paqcueme ± `en` @Ilmen #5U6Lr-qxf
 ▯ is a partially self-governing province/state of federation ▯.
+
+paqcuq ± `en` @Laqme #90IBU7a68
+Part ▯ detaches from ▯.
 
 paqcheo ± `en` @fagri #6P8Sy4DwJ
 some of ▯ do ▯ to each other
@@ -55354,6 +55387,9 @@ predicate: ‘Tibet’; ▯ is Tibet
 
 poekıubu ± `en` @seaqtaq #jhZxsClDK
 ▯ is inalienable to ▯
+
+poelaı ± `en` @salarua #sFnZkfVnd
+▯ is a print/block-letter hand.
 
 poemoaq +1 `en` @uakci #Dj0oxZ01s
 ▯ has a vague memory of something ▯, but that thing doesn’t ever seem to come into focus, choosing to instead loiter “on the tip of the (mental) tongue”.
@@ -59445,6 +59481,12 @@ romnuıja ± `en` @evie #-R1TJp-nK
 romrıaq ± `en` @robintown #2QuL9DXxv
 ▯ is an app store.
 
+romrom ± `en` @lassc #aSmmJ2zmA
+▯ is an application/program that modifies another application/program's execution.
+
+romromche ± `en` @lassc #3znZHLa9r
+▯ is a mod developer.
+
 romsea +1 `en` @Laqme #X8zsgaekf
 ▯ spends idle time on a computer / phone.
 
@@ -60823,7 +60865,7 @@ sakura ± `en` @Amo #Z8KVkOcod
 sakurazeo ± `en` @Amo #b8b6eNSQ6
 ▯ is a cherry (berry of a cherry tree).
 
-sala +1 `en` @uakci #JAQha5oZf
+sala +2 `en` @uakci #JAQha5oZf
 ▯ expands/unwinds.
 
 salaı ± `en` @uakci #QhDMslJBJ
@@ -65380,7 +65422,7 @@ shanapıu ± `en` @uakci #ttT1jattp
 shanashaı ± `en` @salarua #OxeWwoETF
 ▯ undergoes menopause
 
-shao +5 `en` @uakci #FcGl3tIP1
+shao +4 `en` @uakci #FcGl3tIP1
 ▯ wants to satisfy property ▯.
 
 shao ± `en` @official #z_8bYr9LF7
@@ -66432,6 +66474,9 @@ shıebo ± `en` @uakci #cjeOI88kD
 
 shıedaq ± `en` @robintown #rh5jPiyzk
 ▯ is a period of wakefulness / waking hours.
+
+shıeduq ± `en` @lassc #NvqQg5QsG
+▯ is a circadian rhythm.
 
 shıegaı ± `en` @robintown #4wVFLilc4
 ▯ daydreams ▯.
@@ -69658,6 +69703,9 @@ predicate: ‘pay.work’; ▯ does paid work ▯; ▯ does ▯ as a job.
 teqguaı ± `pl` @jiqci #ro-csie95-
 ▯ pracuje/spełnia własność ▯ jako (płatny) zawód.
 
+teqguaı ± `en` @Laqme #A-IFQ91cE
+▯ does paid work / works their job.
+
 teqguaıhe ± `en` @Ilmen #AsQ5tYvIm
 ▯ has satisfying property ▯ as one of his/her/their jobs/occupations (paid work).
 
@@ -70180,7 +70228,7 @@ tıdıbu ± `en` @uakci #Rtf90XTyG
 tıdo ± `en` @uakci #8OaOMHHgU
 ▯ puts/inserts ▯ at/in(to) location ▯.
 
-tıdu +1 `en` @jiqci #QJs5-dBB3
+tıdu +2 `en` @jiqci #QJs5-dBB3
 ▯ folds / rolls up / crumples (opposite of **sala**).
 
 tıdua ± `en` @Laqme #7Sk3rNh_e
@@ -70204,7 +70252,7 @@ predicate: ‘find’; ▯ finds ▯; ▯ discovers that ▯ is at ▯.
 tıduasho ± `pl` @jiqci #lbt5moJJej
 ▯ znajduje ▯; ▯ odkrywa/dowiaduje się, że ▯ jest w miejscu ▯.
 
-tıduja ± `en` @Laqme #tTBeXsZ4d
+tıduja +1 `en` @Laqme #tTBeXsZ4d
 ▯ folds / rolls up / crumples / collapses ▯.
 
 tıduna ± `en` @jiqci #-kruT61tT
