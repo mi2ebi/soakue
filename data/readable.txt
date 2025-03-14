@@ -4214,7 +4214,7 @@ bomtaı ± `en` @uakci #tCuF6TNn8
 bomtaq ± `en` @seaqtaq #HUj43Q8L8
 ▯ experiences structural stress whether due to external or internal forces
 
-bomu +1 `en` @Laqme #3TXTWt3GN
+bomu +2 `en` @Laqme #3TXTWt3GN
 ▯ is a possession of / is something owned by / belongs to ▯.
 
 bone ± `en` @official #WfFZKUwcLF
@@ -5566,6 +5566,9 @@ buqtuaq ± `en` @Ilmen #PCfxlBNZu
 
 búra ± `en` @kazoo #QlV_c98jP
 conjunction: ‘implies’; not or, material implication, P → Q
+
+buraq ± `en` @Laqme #3yXS9bj3N
+▯ is off-topic / extraneous.
 
 buraqsaı ± `en` @seaqtaq #Sc0xAgWXx
 ▯ is (a quantity of) Boron (element 5)
@@ -17238,9 +17241,6 @@ feoca ± `en` @Machy #U8G-gSKGi
 
 feocaq +1 `en` @Laqme #qrme4cTQ0
 ▯ steers ▯.
-
-feocaq -1 `en` @lassc #sT1dL6bi0
-▯ advises/guides/leads ▯ to satisfy property ▯.
 
 feocaqsıoq ± `en` @jiqci #Igllv693c
 ▯ is a steering wheel / helm.
@@ -68728,6 +68728,9 @@ taosea ± `en` @Laqme #vdzm_gJrW
 taosem ± `en` @Laqme #uPzn5xHCY
 ▯ leaves agent ▯ alone / undisturbed.
 
+taosı ± `en` @salarua #-u_vlB7ba
+▯ is interested in satisfying property ▯.
+
 taosıo ± `en` @official #jI4c4EF96c1
 predicate: ‘plan’; ▯ is an idea/plan.
 
@@ -69806,13 +69809,16 @@ teta +1 `en` @jiqci #QKZZqzjSe
 ▯ is a turtle shell.
 
 tetabo +1 `en` @Ilmen #arTLoN_p8
-▯ is a turtle/tortoise/terrapin (Testudinata taxonomic subclass).
+▯ is a turtle, tortoise or terrapin (Testudines taxonomic order).
 
 tetabokuoq ± `en` @robintown #0s4aal81O
 ▯ is a turtle shell.
 
 tetao +1 `en` @TheAndSys #NL2XZ1Zuo
 ▯ is a sport
+
+tetaraqbo ± `en` @Ilmen #-cZOEuUPD
+▯ is a tetrapode with a true turtle shell (Testudinata taxonomic subclass).
 
 tetasaı ± `en` @jiqci #IrT-O97xI
 ▯ is tortoiseshell (material).
