@@ -18838,6 +18838,9 @@ gale +1 `en` @Machy #X_BglWICR
 galeche +1 `en` @Machy #CX5a-dKSa
 ▯ is a teacher of student(s) ▯.
 
+galeche ± `en` @Laqme #QkJQIYfmr
+▯ is a teacher.
+
 galeı ± `en` @Ilmen #STvZF7T7C
 ▯ is an edible dormouse (Glis glis).
 
@@ -18846,6 +18849,9 @@ galeıpuq ± `en` @Ilmen #QW63ZlkjO
 
 galejı ± `en` @jiqci #KVlz-Sych
 ▯ is a professor.
+
+galekeoı ± `en` @Laqme #sY71pVQoF
+▯ lectures / gives a lesson to ▯.
 
 galese ± `en` @uakci #mbQcWlSAg
 ▯ is a school/university course/term centered around ▯.
@@ -19624,7 +19630,7 @@ gemueı ± `en` @Laqme #pYGpW1hoo
 genea ± `en` @Ilmen #6wOZ3oZPH
 ▯ is a gene.
 
-genea'uchı ± `en` @Ilmen #VLOvj3hlF
+genea'uchı -2 `en` @Ilmen #VLOvj3hlF
 ▯ has sex phenotype ▯.
 
 geneadıu ± `en` @Laqme #zuJXXFpRE
@@ -22240,7 +22246,7 @@ gubu ± `en` @uakci #vOYadIctB
 gubuceaq ± `en` @jiqci #W2itVP5Sa
 ▯ is a perissodactyl / odd-toed ungulate.
 
-gubuı +1 `en` @uakci #aobeBUdBi
+gubuı ± `en` @uakci #aobeBUdBi
 ▯ is nonbinary / an enby.
 
 gubuıbo ± `en` @uakci #71FrJy4xG
@@ -28719,6 +28725,9 @@ jaqchuaqpoq ± `en` @fagri #ddGWs43nR
 jaqdaq ± `en` @TheAndSys #MvgIK_7tQ
 ▯ happens many times
 
+jaqduı ± `en` @Laqme #n-zGJGQAw
+degree: "far too much"
+
 jaqgala ± `en` @official #_45tj5CMR
 predicate: ‘jungle’; ▯ is a jungle.
 
@@ -33120,7 +33129,7 @@ jurıdı ± `en` @uakci #J0OO9o9V1
 juru +3 `en` @Ilmen #MUvl5diwp
 connective: incidental “and”: “X (in addition to Y)”. The second connectand represents an incidental claim part of an implicit additional assertive sentence.
 
-jutaq +1 `en` @uakci #BeX2_xuNf
+jutaq +2 `en` @uakci #BeX2_xuNf
 ▯ identifies as/with property ▯.
 
 jutaq ± `toa` @uakci #RSNb4N-V4
@@ -34664,6 +34673,9 @@ keajuaobaı ± `en` @uakci #BKvUqHU_k
 
 keakaı ± `en` @Ilmen #y3caTUxQf
 ▯ types text ▯ on machine ▯.
+
+keakaı ± `en` @Laqme #-dBMpgyeD
+▯ types ▯.
 
 keakaıteı ± `en` @mimiaoganhaqpy #IBo5uN9hH
 ▯ is a keyboard layout.
@@ -37544,6 +37556,9 @@ kuıboq ± `en` @Laqme #vOtm2EJSQ
 kuıca +2 `en` @Laqme #LEGqk_GRo
 ▯ is a reason why ▯ is the case.
 
+kuıcana ± `en` @Laqme #dJcEleZPD
+discursive: "the reason is..." / "this is because..."
+
 kuıcoı ± `en` @jiqci #BrYXj1UDS
 ▯ ensues, occurs as a result of something mentioned before.
 
@@ -38603,8 +38618,14 @@ laıtoaı ± `en` @uakci #phA1PSqvw
 laıtoq ± `en` @robintown #sMtHI_RAw
 ▯ is a sign (any board/panel with writing).
 
+laızı ± `en` @Ilmen #kINKz-FzB
+▯ is a lychee plant.
+
 laızıu ± `en` @el #kZDz5Jcg3
 ▯ is a code point representing character ▯
+
+laızızeo ± `en` @Ilmen #8qW2_JzRt
+▯ is a lychee fruit.
 
 lajeq ± `en` @Ilmen #5xnqKs5P1
 ▯ being the case is the same thing as ▯ being the case; ▯ and ▯ logically entail each other.
@@ -40239,6 +40260,9 @@ lımjoe ± `en` @Laqme #YX1Fj33qz
 lımjua ± `en` @Laqme #CdrHgE6Os
 ▯ doesn't make any sense / defies understanding.
 
+lımnoa ± `en` @Laqme #dm0kk7Xar
+▯ is hard to understand / complicated.
+
 lımruaq ± `en` @Laqme #Z6m0bX6Dt
 ▯ explains that ▯ is the case.
 
@@ -40901,6 +40925,9 @@ loehaqchao ± `en` @jiqci #H9j2_Vtwp
 
 loehıeqchuo ± `en` @seaqtaq #03gOqwCW0
 ▯ is a flame thrower
+
+loeı ± `en` @lassc #28Guub71j
+▯ has an effect on / affects ▯; ▯ is relevant to ▯.
 
 loekıa +1 `en` @robintown #5ryfGCIar
 ▯ is crimson.
@@ -52349,7 +52376,7 @@ nhaotoa ± `en` @el #TJJot4dXI
 nhaq- ± `en` @magnap #Ex3BV2WS8
 experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
 
-nhaq +15 `en` @el #xLyC14SY_
+nhaq +16 `en` @el #xLyC14SY_
 interjection: nyaan
 
 nhaq ± `tok` @el #0q3dpz393
@@ -60378,7 +60405,7 @@ ruozıam ± `en` @seaqtaq #W_prxIx0G
 rupıa ± `en` @jiqci #GxP46_AJA
 ▯ is a rupee.
 
-ruq- +1 `en` @salarua #-jqRAu0in
+ruq- ± `en` @salarua #-jqRAu0in
 prefix: approbative
 
 ruq ± `en` @official #XI7ND0876n
@@ -72082,7 +72109,7 @@ toqsa ± `en` @Hoemai #juvybs9XA
 toqsaora ± `en` @jiqci #wwafaTuPg
 ▯ is a stegosaurus.
 
-toqsı +3 `en` @uakci #udVtAyUz6
+toqsı +2 `en` @uakci #udVtAyUz6
 ▯ is genderqueer/transgender/nonbinary.
 
 toqsı ± `tok` @el #41Y5CyGkD
@@ -72091,7 +72118,7 @@ toqsı ± `tok` @el #41Y5CyGkD
 toqsı ± `ru` @SuperSpaceNiM #Vl6ZEQPdE
 ▯ — гендерквир/трансгендер/небинарная персона.
 
-toqsıde +1 `en` @uakci #qabMuGUgJ
+toqsıde ± `en` @uakci #qabMuGUgJ
 ▯ exhibits typically genderqueer beauty [not necessarily androgynous/nonbinary beauty].
 
 toqsıtachı +1 `en` @seaqtaq #AkyJyhojc
@@ -73416,7 +73443,7 @@ ubulalaq ± `en` @Ilmen #J7BMkozysgJ
 ubulatı ± `en` @seaqtaq #6zJ6DtlMF
 ▯ is uvular/articulated at/using the uvula (phonetics)
 
-uchı ± `en` @Ilmen #BecmYQ8Kr
+uchı -2 `en` @Ilmen #BecmYQ8Kr
 ▯ has sex phenotype ▯ (property).
 
 uchıheo +1 `en` @Laqme #JyWvxFt5D
@@ -74721,14 +74748,23 @@ zepa ± `en` @jiqci #lhrUNrijB
 zepahokuzu ± `en` @jiqci #uysG1bHaa
 ▯ is a lossy compression format.
 
-zeq ± `en` @el #_lxBw9okC
+zeq +1 `en` @lassc #aQQtGZy4d
+▯ is non-binary / third-gender.
+
+zeq -1 `en` @el #_lxBw9okC
 followed by a verb phrase; combines meanings of serial components in a vague, tanru-like way, yielding a new verb
 
-zeq ± `en` @jiqci #Y87kySnCr
+zeq -1 `en` @jiqci #Y87kySnCr
 ▯ is an aromatic compound.
 
 zeqbudachuaq ± `en` @uakci #D9g_-rG7T
 ▯ is Zen Buddhism
+
+zeqde +1 `en` @Laqme #QM44Q6i_c
+▯ exhibits non-binary / third-gender / gender-non-conforming beauty or charm.
+
+zeqdeo +1 `en` @Laqme #qDEvnbx5n
+▯ is a non-binary kid/child.
 
 zeqma ± `en` @seaqtaq #8428itbKA
 ▯ (property) is an abstraction/generalization of ▯ (property)
