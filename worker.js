@@ -58,7 +58,7 @@ function search(q) {
     let res = [];
     for (const entry of dict) {
         if (excluded.has(entry.id)) continue;
-        let arities = entry.body.split(/[;.?!]/).map(b => b.split("▯").length - 1);
+        let arities = entry.body.split(/[;.?!；]/).map(b => b.split("▯").length - 1);
         if (!arities.every(x => x == 0)) {
             arities = arities.filter(x => x != 0);
         }
