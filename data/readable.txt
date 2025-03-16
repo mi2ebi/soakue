@@ -569,6 +569,9 @@ ako ± `en` @Machy #SbDFONKK6
 akoı ± `en` @Laqme #Dw58J854L
 interjection: 'sympathy'
 
+akoka ± `en` @lassc #YfxRQ94wQ
+▯ is a crab.
+
 akolıeq ± `en` @jiqci #CN5Xo_b8r
 ▯ is a keystone.
 
@@ -6779,6 +6782,9 @@ ceoqne ± `en` @jiqci #66WVZSpGw
 ceoqnhoq ± `en` @robintown #05aqQQV49
 ▯ is an electric cord / wire.
 
+ceoqnhoq ± `en` @lassc #Yf0kOebis
+▯ is an electrical cable.
+
 ceoqpeq ± `en` @uakci #aetYA7afn
 ▯ is an e-mail.
 
@@ -7820,6 +7826,9 @@ interjection: introduces one of two opposing points; ‘on the one hand’; ‘o
 cuaonaq ± `en` @uakci #kC4OPJ62w
 ▯ is a transgender man; ▯ is transmasc; ▯ is FtM (female-to-male).
 
+cuaosaı ± `en` @lassc #P04yWtcQC
+▯ is aether/sky/void/quintessence/the "fifth classical element".
+
 cuaosona ± `en` @jiqci #5-osjzzd6
 ▯ is a hypercycle (in hyperbolic geometry).
 
@@ -8560,6 +8569,9 @@ chaoche ± `en` @seaqtaq #qc7IMlIvu
 
 chaochoaq ± `en` @Laqme #7vVJ828jS
 ▯ is a passenger; ▯ is a passenger aboard ▯.
+
+chaoduna ± `en` @lassc #wtCJnApwV
+▯ is traffic.
 
 chaofa ± `en` @Laqme #qjzPPjlA-
 ▯ drives/rides/goes to ▯ from ▯ by some vehicle.
@@ -25513,7 +25525,7 @@ hırupıo ± `en` @TheAndSys #PWOaifmF1
 hısa ± `en` @el #MKS9T5NEH
 determiner: which X? (an exhaustive answer is not required)
 
-hısısı ± `en` @Machy #PTKwfi7w3
+hısısı +1 `en` @Machy #PTKwfi7w3
 onomatopoeia: 'snake hissing'
 
 hısue ± `en` @Laqme #nTerIRMGj
@@ -27657,6 +27669,9 @@ vi'o
 
 ínha ± `en` @Laqme #lv0ZCRr0m
 interjection: okay? will you?
+
+ınhaka ± `en` @lassc #tveVlO-zO
+interjection: "yeah, yeah"; expression of sarcastic/hyperbolic exasperation towards previous statement
 
 ınhame ± `en` @Laqme #_TM09jJ6z
 ▯ grins.
@@ -37349,6 +37364,9 @@ kuedıem ± `en` @Laqme #tdjGZadbr
 kuefua +1 `en` @Ilmen #IjfE5EFJV
 ▯ is a bookcase.
 
+kuefuom ± `en` @lassc #eZ2PEhx4r
+▯ is a table of contents.
+
 kuegara ± `en` @jiqci #xtX0DE1Fl
 ▯ is an omasum (third stomach compartment in ruminants).
 
@@ -40557,7 +40575,7 @@ lıuloha -1 `en` @Ilmen #pjF2rrBUw
 lıumıaoloha -1 `en` @Ilmen #9uaIWDzoC
 ▯ is aluminium.
 
-lıuq +1 `en` @uakci #4im26W0jT
+lıuq +2 `en` @uakci #4im26W0jT
 ▯ is a level/tier/rung/echelon; ▯ is one on a discrete scale of values.
 
 lıuqdıa ± `en` @uakci #mFwHYRneQ
@@ -43301,6 +43319,9 @@ me ± `tok` @el #hG2tbhWEa
 
 me ± `pl` @jiqci #WaCknRVZZX
 ▯ to zbiór/zestawienie ▯.
+
+me'e ± `en` @lassc #q5n7PwIwk
+onomatopoeia: baa [sheep, goat, etc]
 
 mea- +1 `en` @Laqme #TGbviYv0k
 turns focus particle into conjunction: X **mẹ́aku** Y = "out of X, **kú** Y"
@@ -50642,7 +50663,7 @@ nobatao ± `en` @lassc #rdRTgKrqN
 nocaq ± `en` @seaqtaq #4MVx7Pc-L
 ▯ directs/has a predominant degree of control over the execution of piece of media ▯ (play, tv show, movie, symphony, etc.)
 
-nochı +1 `en` @TheAndSys #1mEVWbk6T
+nochı +2 `en` @TheAndSys #1mEVWbk6T
 ▯ is a note
 
 nochıkue ± `en` @robintown #E0ewjF3Og
@@ -62401,6 +62422,9 @@ sıaınao ± `en` @jiqci #fskkTNLm2
 sıaıpıe ± `en` @Machy #4LMe0okE2
 ▯ is a vampire.
 
+sıaıreonım ± `en` @lassc #s3lhRC7je
+▯ is the hemospectrum (Homestuck).
+
 sıaırıoq ± `en` @Machy #zVrL0pauL
 ▯ is the blood type associated with ▯.
 
@@ -63961,6 +63985,9 @@ sona ± `tok` @el #12MYsfF6l
 
 sonabore ± `en` @Ilmen #ibInq6vci
 ▯ is a disc (2D shape).
+
+sonajıeq ± `en` @lassc #GSk9UbUif
+▯ is cone-shaped.
 
 sonashıaq ± `en` @jiqci #yrGs4HMYX
 ▯ is a compass (for drawing circles).
@@ -67465,7 +67492,7 @@ shomdea ± `en` @Laqme #OaZ9sqA1Z
 shomdu ± `en` @Laqme #zVVwj0blM
 ▯ seems to satisfy property ▯ judging by the look on their face.
 
-shomfuq ± `en` @Laqme #tLdk7ukKL
+shomfuq +1 `en` @Laqme #tLdk7ukKL
 ▯ is a mask.
 
 shomgeq ± `en` @Laqme #Epzv-4Vuq
@@ -68785,6 +68812,9 @@ taotarı ± `en` @Ilmen #HLFBopWjE
 taotıao +1 `en` @uakci #0-0NVvCvd
 ▯ is in ▯’s favor by satisfying property ▯ ; ▯ cooperates/acts in harmony/consent with ▯ by satisfying property ▯; ▯ obeys ▯ in doing ▯.
 
+taotıeq ± `en` @lassc #aGGiRbUTi
+▯ is a regimen/course/program/structured schedule of events.
+
 taotoaı +2 `en` @seaqtaq #XzUIh2_UQ
 ▯ is a step in doing ▯
 
@@ -69151,7 +69181,7 @@ teaı +1 `en` @Machy #kyaa-w7jQ
 teaızua ± `en` @seaqtaq #tVQ5CvmHn
 ▯ (agent) averts/delays/staves off ▯ happening
 
-teajua +1 `en` @Laqme #MA9x8Cn0v
+teajua +2 `en` @Laqme #MA9x8Cn0v
 ▯ is creepy/unsettling.
 
 teakıq ± `en` @robintown #hgLjeB5K5
@@ -69904,8 +69934,11 @@ teujeaq ± `en` @jiqci #E83RIub-7
 teuq- ± `en` @evie #5IsKZhsga
 unit exponent: raise the preceding unit to whatever number this is attached to, ex. **meta** tẹuq**gu** "square meter"
 
-teuq +1 `en` @jiqci #xYghiVm0Y
+teuq +2 `en` @jiqci #xYghiVm0Y
 ▯ is a square.
+
+teuqjıeq ± `en` @lassc #MRH8EjP-o
+▯ is square pyramid-shaped
 
 tezeq ± `en` @jiqci #jvAmjROEO
 ▯ is peat.
@@ -70386,6 +70419,9 @@ tıeqchue ± `en` @jiqci #XSn2sSTh2
 
 tıeqfa -1 `en` @Machy #_2xu8ZwkK
 ▯ goes along path ▯.
+
+tıeqfuom ± `en` @lassc #LGn6mPLNn
+▯ is a specification of a plan.
 
 tıeqguao ± `en` @Laqme #Qr78Y6bAX
 ▯ is a fork in the road.
@@ -74754,16 +74790,13 @@ zeq +1 `en` @lassc #aQQtGZy4d
 zeq -1 `en` @el #_lxBw9okC
 followed by a verb phrase; combines meanings of serial components in a vague, tanru-like way, yielding a new verb
 
-zeq -1 `en` @jiqci #Y87kySnCr
-▯ is an aromatic compound.
-
 zeqbudachuaq ± `en` @uakci #D9g_-rG7T
 ▯ is Zen Buddhism
 
-zeqde +1 `en` @Laqme #QM44Q6i_c
+zeqde +2 `en` @Laqme #QM44Q6i_c
 ▯ exhibits non-binary / third-gender / gender-non-conforming beauty or charm.
 
-zeqdeo +1 `en` @Laqme #qDEvnbx5n
+zeqdeo +2 `en` @Laqme #qDEvnbx5n
 ▯ is a non-binary kid/child.
 
 zeqma ± `en` @seaqtaq #8428itbKA
