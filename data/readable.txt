@@ -4391,6 +4391,9 @@ borelıabıa ± `en` @jiqci #_EGrmYMuX
 boremeı ± `en` @salarua #7jLtdefz9
 predicate: ‘plateau’; ▯ is a plateau
 
+borenam ± `en` @lassc #GBho1H4wU
+▯ is a flatbread.
+
 borenuq ± `en` @jiqci #hEExifFKL
 ▯ is a flatworm / platyhelminth.
 
@@ -5818,6 +5821,9 @@ In proposition ▯, ▯ assumes the semantic role FORCE
 
 cachu +1 `en` @jiqci #KLeScEpGK
 ▯ is a gun.
+
+cachuche ± `en` @lassc #DwiTj9qtC
+▯ is a shooter/gunner/marksman/rifleman/artilleryman.
 
 cadaı ± `en` @uakci #4IdkphWqs
 ▯ is potential energy; ▯ is energy resting within object ▯, enabling them to possibly cause event ▯ to occur.
@@ -7286,6 +7292,9 @@ cıqpeqjı ± `en` @Ilmen #PBu5gWdO2
 cırı +1 `en` @Ilmen #jkivghn6O
 ▯ is a chain.
 
+cırıtoekea ± `en` @jiqci #0-LWsx4qy
+▯ is a chainsaw.
+
 cıseı ± `en` @Machy #ta3jzhjwK
 ▯ shills ▯.
 
@@ -8525,6 +8534,9 @@ chamrı ± `en` @jiqci #yPtUslZnp
 chamtam ± `en` @uakci #zDUNaqocW
 ▯ is harsh/violent.
 
+chamue ± `en` @lassc #AWOEYsk-h
+▯ is improved/enhanced/upgraded/refined to satisfy property ▯.
+
 chana ± `en` @Laqme #2GK0F8oyt
 ▯ is a chickpea.
 
@@ -8575,6 +8587,9 @@ chaoduna ± `en` @lassc #wtCJnApwV
 
 chaofa ± `en` @Laqme #qjzPPjlA-
 ▯ drives/rides/goes to ▯ from ▯ by some vehicle.
+
+chaofase ± `en` @Laqme #WMdEtOT09
+▯ is a drive / a road trip.
 
 chaohıu ± `en` @robintown #wF5EJ88db
 ▯ is a highway/motorway/freeway.
@@ -9709,6 +9724,9 @@ chıekue ± `en` @fagri #YUAZQOXi2
 
 chıelo ± `en` @Machy #sP_zHAkE2
 ▯ is a class for studying ▯.
+
+chıelueq ± `en` @zearen #CRXxuQIZb
+▯ is a disciple of ▯
 
 chıeluı ± `en` @Ilmen #EOnF_OsWc
 ▯ has learnt to satisfy property ▯; ▯ satisfies property ▯ as a result of having learnt to be/do so.
@@ -14371,7 +14389,7 @@ doemıatoame ± `en` @Ilmen #_wFKWWgGm
 doemıeq ± `en` @Laqme #iLd5OBI4J
 ▯ tests if ▯ works, namely if it satisfies property ▯.
 
-doemıq ± `en` @uakci #ghV0XSBHC
+doemıq -1 `en` @uakci #ghV0XSBHC
 #miqdoe
 
 doepaq ± `en` @Ilmen #3bHy0E_hX
@@ -16476,6 +16494,12 @@ Property ▯ is common/frequent among ▯.
 
 faılıao ± `en` @Laqme #pbt8080uM
 ▯ is a common/button/white/champignon/chestnut mushroom (Agaricus bisporus).
+
+faımıe ± `en` @seaqtaq #B-BiefgZJ
+▯ is a cenobite/monk/member of a monastic order or convent
+
+faımıeme ± `en` @seaqtaq #_sX5R0FRT
+▯ is a monastic order or convent
 
 faımıq ± `en` @uakci #BRXMeb4BP
 ▯ is universal in property ▯; ▯ satisfies universal property ▯; ▯ satisfies property ▯, as does everything/everyone else.
@@ -18651,6 +18675,9 @@ gaı ± `ru` @SuperSpaceNiM #lsl12n9Ie
 
 gaı ± `en` @Laqme #znUUtn9YI
 ▯ perceives/senses ▯.
+
+gaı ± `tlh` @evie #p9UADTPCs
+▯₂ tu'/jem ▯₁
 
 gaıbıoı ± `en` @uakci #_msHb3IXm
 ▯ gets spotted / fails to stay hidden or contained.
@@ -22786,7 +22813,7 @@ guoraq ± `en` @uakci #EQGMeWXU7
 guorı +1 `en` @robintown #C0pBoF0kY
 ▯ is a treat / an indulgent snack.
 
-guosa ± `en` @official #vgMRB_vCMc
+guosa +1 `en` @official #vgMRB_vCMc
 predicate: ‘sometimes’; ▯ happens sometimes.
 
 guosa ± `pl` @jiqci #yXA3es0CeI
@@ -31389,6 +31416,9 @@ joaı ± `tok` @el #08faKidUX
 joaı ± `pl` @jiqci #63K3hW2UWI
 ▯ szuka ▯.
 
+joaı ± `tlh` @evie #HAYUeMjOj
+▯₂ nej ▯₁
+
 joaıgıo ± `en` @seaqtaq #IItx-pGOl
 ▯ is a searchlight
 
@@ -31401,7 +31431,7 @@ joaıjıoq ± `en` @uakci #KjFWy9m38
 joaıkea ± `en` @evie #0szUoLWoo
 ▯ is a search engine for finding ▯
 
-joaıse ± `en` @evie #U5FdB4uEJ
+joaıse -1 `en` @evie #U5FdB4uEJ
 ▯ is found / a search result
 
 joaısı ± `en` @uakci #Nha2gb5Xb
@@ -38069,6 +38099,9 @@ kuq ± `zh` @mimiaoganhaqpy #6sM5hGxZb
 kuq ± `pl` @jiqci #DwoYcvUNA
 ▯ mówi/powiada ▯.
 
+kuq ± `jbo` @zearen #Xv-SqhjFE
+▯ cusku ja skuna ▯
+
 kuqbuaq +1 `en` @Ilmen #rKEXK3czx
 ▯ means to say ▯ but mistakenly says ▯ instead.
 
@@ -41949,7 +41982,7 @@ luegaqrasaı ± `en` @jiqci #dtxTLsmz-
 luehojıro ± `en` @jiqci #RnYJa2u7N
 ▯ is a yellowhammer (Emberiza citrinella).
 
-lueı ± `en` @uakci #HGT_M3GRe
+lueı +1 `en` @uakci #HGT_M3GRe
 ▯ is a kind, type, class.
 
 lueke ± `en` @jiqci #4eN3oGrpC
@@ -42239,6 +42272,12 @@ luoı ± `en` @Laqme #0K6tOmkd8
 
 luoıbo ± `en` @uakci #oQmzyEaKw
 ▯ happens with ▯ as target.
+
+luoıdeq ± `en` @lassc #VdoqULJ3t
+▯ is one's aim/accuracy/precision/marksmanship.
+
+luoıjoe ± `en` @lassc #oTHHEPYvN
+▯ is accurate/precise/spot-on/capable of successfully reaching a target.
 
 luoıkuaı ± `en` @uakci #32VyeAIgD
 ▯ feels an urge towards ▯ (object of stimulus).
@@ -43653,6 +43692,9 @@ meı ± `tok` @el #A6ihyhP-p
 meı ± `pl` @jiqci #fCGQFIQRAK
 ▯ to wzgórze/góra.
 
+meı ± `jbo` @zearen #Igu1A4I6W
+▯ cmana
+
 meı'aq +1 `en` @jiqci #bKNH8KDvP
 ▯ is a mountain pass.
 
@@ -44891,6 +44933,9 @@ mıq ± `pl` @jiqci #Wvyj7WzGFf
 mıq'aı ± `en` @uakci #TXim4GrFz
 ▯ satisfies property ▯ to a seemingly infinite extent / uncountably/unfathomably much.
 
+mıqboı ± `en` @Laqme #8WJTRrrn0
+▯ has been taking place forever.
+
 mıqcuq ± `en` @lassc #6jlPZUeKT
 ▯ leaves/departs from ▯ with the intention of not returning.
 
@@ -44900,11 +44945,11 @@ mıqda ± `en` @jiqci #JEHvyM-sw
 mıqdanoaı ± `en` @Laqme #pHxAwSHr9
 ▯ is almond milk.
 
-mıqdoe ± `en` @uakci #ccKO4w7gf
-#doemiq
-
 mıqdoe ± `en` @uakci #SCP1WFmJ1
 ▯ executes ▯ perpetually; ▯ is stuck in infinite loop ▯; ▯ doesn’t halt.
+
+mıqdoe -1 `en` @uakci #ccKO4w7gf
+#doemiq
 
 mıqgıq ± `en` @Laqme #RDvmg88fe
 ▯ is finite / limited in how much it satisfies ▯.
@@ -46538,6 +46583,12 @@ mụdıoq +1 `en` @Laqme #IcmqY1wD7
 mụdoı ± `en` @Laqme #b7B_vE1TJ
 ▯ insults / dishonors / disrespects ▯.
 
+mue ± `en` @lassc #FZYKubK8V
+▯ improves/enhances/upgrades/refines ▯.
+
+mueguaı ± `en` @lassc #bng5aLpzP
+▯ trains/practices/rehearses to (improve at) satisfy(ing) property ▯.
+
 mueı +1 `en` @Laqme #6ih4cDvTx
 ▯ is magnetic.
 
@@ -46564,6 +46615,9 @@ mueq ± `toa` @uakci #BAbmf2x00
 
 mueqkea ± `en` @uakci #kAw9A0ji9
 ▯ is a computer.
+
+muetao ± `en` @lassc #mpBdYsQza
+Satisfying property ▯ improves ▯.
 
 mufıq ± `en` @jiqci #HJHayBUKN
 ▯ is a muffin/cupcake.
@@ -46697,7 +46751,7 @@ muıjeqkue +1 `en` @Laqme #GrU0YXRVg
 muıjeqkuq ± `en` @Laqme #Wu4acHg3K
 ▯ says something with the same meaning as ▯ to ▯.
 
-muıjeqnam +1 `en` @Laqme #gy_QnDxU2
+muıjeqnam +2 `en` @Laqme #gy_QnDxU2
 ▯ is a synonym roll.
 
 muıjeqtoa +1 `en` @Laqme #R05uNpfdO
@@ -48218,7 +48272,7 @@ naqcıo ± `en` @Laqme #BpZcHZqyQ
 naqde +2 `en` @uakci #2NSHqWMUT
 ▯ has masculine beauty; ▯’s aesthetic comes off as having a male(-aligned) undertone.
 
-naqdelıq +3 `en` @TheAndSys #ehdtbnnyV
+naqdelıq +4 `en` @TheAndSys #ehdtbnnyV
 ▯ is a tomboy
 
 naqdeo ± `en` @official #DwFhvcc7IA
@@ -48937,6 +48991,12 @@ netepıu ± `en` @jiqci #6_rpANx-u
 
 netı +2 `en` @Laqme #58H8hbQE1
 There is/are ▯.
+
+netıcuq ± `en` @Laqme #4QI7dYrip
+▯ leaves.
+
+netısha ± `en` @Laqme #Lko1VSk9b
+▯ arrives.
 
 neto ± `en` @jiqci #SzPWjiXhx
 ▯ is a unit of measurement for measuring property ▯.
@@ -51431,7 +51491,7 @@ nueqche ± `en` @robintown #YSmsMMuxP
 nueqcheı ± `en` @jiqci #yjxHbfJ-v
 ▯ is a sausage.
 
-nueqcheıbısu ± `en` @jiqci #dSfklHAUH
+nueqcheıbısa ± `en` @jiqci #YOSeYiDyo
 ▯ is botulinum toxin / botox.
 
 nueqchuq ± `en` @Ilmen #GtaDFKAgx
@@ -51652,6 +51712,9 @@ nuımeaq ± `en` @Laqme #csgoShnFr
 
 nuımeı +1 `en` @Ilmen #b8Q7blyI5
 ▯ is a hill.
+
+nuımeı ± `jbo` @zearen #3YncHIbfS
+▯ cmama'a
 
 nuımıe ± `en` @seaqtaq #3yRDOlpks
 ▯ is a microbe
@@ -58302,6 +58365,9 @@ reu ± `en` @el #LcljwEwkd
 reubo ± `en` @Laqme #yZ4ubfYY5
 ▯ is divisible by ▯.
 
+reuda ± `en` @jiqci #G9oYG5MJe
+▯ is a roach (genus Rutilus).
+
 reugo ± `en` @Laqme #6pCO8HNLl
 ▯ equals ▯ divided by ▯.
 
@@ -60933,6 +60999,12 @@ some thing(s) has/have property ▯ (among the things having the property ▯)
 
 salı ± `toa` @Ilmen #8xWoDuWgj
 = [1] jeo sa ▯. = [1] bu tulı bu ▯. = [1X] salı lî jeo ja ▯ ru ▯.
+
+sam ± `en` @evie #1krb-QETx
+▯ locates/finds ▯
+
+sam ± `tlh` @evie #vpETxLSxr
+▯₂ Sam ▯₁
 
 sama ± `en` @Ilmen #ebDbdvmVT
 ▯ is a social member of organization ▯ (state, association, club…).
@@ -67837,7 +67909,7 @@ shuehaq ± `en` @robintown #Ax536OpZX
 shuehuıcea ± `en` @Ilmen #MxfLWQ1KV
 ▯ is a garbage bag.
 
-shueı ± `en` @el #kGK2KJuzy
+shueı -1 `en` @el #kGK2KJuzy
 [MI] Quotes one Toaq phrase, forming a verb: ▯ is [quoted text]
 
 shuekuoq ± `en` @uakci #1Po4uGAZN
@@ -69975,6 +70047,9 @@ tı ± `ru` @SuperSpaceNiM #QuitYzux9
 
 tı ± `tr` @kazoo #wUBtkxpy7
 ▯, ▯'dadır.
+
+tı ± `jbo` @zearen #DHi0jPQXL
+▯ zvati ▯
 
 tıa ± `en` @official #k5hAvb9ciQ
 predicate: ‘behind’; ▯ is behind ▯.
@@ -74370,7 +74445,7 @@ zakaı ± `en` @seaqtaq #28D7aXOEC
 zakaıcua ± `en` @seaqtaq #7t6qvBng6
 ▯ reacts to incredibly specific situation/sensation ▯ which would normally be quite difficult if not impossible to explain with any degree of concision in the toaq language
 
-zake ± `en` @seaqtaq #o7wrASNqY
+zake +1 `en` @seaqtaq #o7wrASNqY
 ▯ is light/bright
 
 zakıq ± `en` @jiqci #rTb5h2P0X
