@@ -223,8 +223,11 @@ Ageqtınagua ± `en` @countries #gmgtQiRbFiC
 ⚠ Ageqtınagua -1 `en` @oldcountries #LydTlD2l09
 ▯ is the country Argentina – Argentine Republic.
 
-agora ± `en` @uakci #zsaHYuaW0
+agora +1 `en` @uakci #zsaHYuaW0
 ▯ is a public gathering / meeting space; ▯ is somewhere people tend to hang out at, such as a café, a public park, or the area surrounding a coffee machine.
+
+agoratea ± `en` @lassc #TvvhUCERV
+▯ has agoraphobia.
 
 aha +1 `en` @robintown #lOtmuqnpT
 interjection: laughter
@@ -18097,9 +18100,6 @@ sentence connector: ‘by.the.way’; go on tangent
 fsh ± `en` @evie #B_dyLSWn-
 textspeak for **foa súq hí?** (how are you?)
 
-fu- ± `en` @lassc #jt7Q29ACS
-prefix: abessive; without/lacking X
-
 fu +1 `en` @official #30_daspdrp
 predicate: ‘offspring’; ▯ is a biological offspring of ▯.
 
@@ -20016,6 +20016,9 @@ gıakao ± `en` @Laqme #eDlKyVQYr
 
 gıakaq ± `en` @Ilmen #OqcwV2fBh
 ▯ is a strip (a visual pattern, not a tridimentional shape).
+
+gıakea ± `en` @lassc #rSwyXyBXE
+▯ is a cassette player/personal stereo/walkman.
 
 gıakodo ± `en` @robintown #h-7wevRze
 ▯ is a barcode.
@@ -27043,7 +27046,7 @@ hukıfurı ± `en` @robintown #w7_xaALdG
 hukıse ± `en` @mimiaoganhaqpy #T_4Rd5NBE
 ▯ is a punishment.
 
-huko +1 `en` @salarua #aiAAF-Q4x
+huko +2 `en` @salarua #aiAAF-Q4x
 interjection: "no way", "you've gotta be kidding me", "give me a break"; amazement (negative connotation), exasperation, frustration
 
 huku ± `en` @Ilmen #el8dYmEj4
@@ -40314,6 +40317,9 @@ lımjua ± `en` @Laqme #CdrHgE6Os
 lımnoa ± `en` @Laqme #dm0kk7Xar
 ▯ is hard to understand / complicated.
 
+lımpı ± `en` @jiqci #lYtFmzjl6
+▯ is a sister of ▯.
+
 lımruaq ± `en` @Laqme #Z6m0bX6Dt
 ▯ explains that ▯ is the case.
 
@@ -47846,6 +47852,9 @@ namka ± `en` @Laqme #yt9YsimKT
 nammuao ± `en` @abcdeusername #0PWb5ILxd
 ▯ is a tree with bread stapled to it.
 
+nampı ± `en` @jiqci #krbHLVj2i
+▯ is a brother of ▯.
+
 nampuo ± `en` @jiqci #C0c0y-pOx
 ▯ are breadcrumbs.
 
@@ -48437,7 +48446,7 @@ pronoun: that place over there
 nasa +1 `en` @robintown #IIqm6jbIr
 ▯ is weird/strange/silly.
 
-nasa ± `tok` @el #dI7Uuh4qH
+nasa -1 `tok` @el #dI7Uuh4qH
 ▯ li nasa li ike
 
 nasıq ± `en` @Laqme #AgoToPasI
@@ -51872,6 +51881,9 @@ nulıdoa ± `en` @Machy #SM3oHwCvF
 nulıhıeq ± `en` @el #QbFiqtkXt
 ▯ spatters oil (when cooking, for instance)
 
+nulıloeq ± `en` @lassc #8hWSi3Yzo
+▯ fries ▯.
+
 nulımeaq ± `en` @jiqci #_gmCx0jdr
 ▯ is a tanker ship.
 
@@ -53414,7 +53426,7 @@ predicate: ‘it’; relative pronoun whose antecedent is the head of the contai
 pa -1 `en` @el #6GYakxr1u
 argument fronter: takes a single argument (not an adverbial) to its left, and the verbal complex to its right; inserts the left argument between the verb and the first argument on the right
 
-pá +2 `en` @Laqme #f_T-L2FKt
+pá +3 `en` @Laqme #f_T-L2FKt
 illocution marker: imperative with elided súq subject
 
 paba ± `en` @seaqtaq #aWTdPBkb_
@@ -53678,7 +53690,7 @@ pammuq ± `en` @jiqci #nUsXR0im6
 pamnua ± `en` @Laqme #XztOl1TIB
 ▯, off of surface ▯, wipes/scrubs/peels/removes ▯.
 
-pampam +2 `en` @Laqme #BWW7d8o8i
+pampam +3 `en` @Laqme #BWW7d8o8i
 ▯ pets / pats / strokes ▯.
 
 pamrea ± `en` @jiqci #MaGZhmQiV
@@ -74862,7 +74874,7 @@ zepahokuzu ± `en` @jiqci #uysG1bHaa
 zeq +2 `en` @lassc #aQQtGZy4d
 ▯ is non-binary / third-gender.
 
-zeq -1 `en` @el #_lxBw9okC
+zeq -2 `en` @el #_lxBw9okC
 followed by a verb phrase; combines meanings of serial components in a vague, tanru-like way, yielding a new verb
 
 zeqbudachuaq ± `en` @uakci #D9g_-rG7T
@@ -75140,6 +75152,9 @@ zıqsopekea ± `en` @seaqtaq #DGYw6meZF
 
 zıqsha ± `en` @el #fqyT9muIN
 ▯ joins online community/locus/chatroom/etc ▯
+
+zıqshuısı ± `en` @lassc #JGPeVekai
+▯ closely monitors the internet activity of ▯.
 
 zıqtı ± `en` @uakci #it_n6vhBY
 ▯ is digitally present at venue ▯; ▯ is online; ▯ is dwelling cyberspace room ▯.
@@ -75681,7 +75696,7 @@ zunofıeq ± `en` @mimiaoganhaqpy #JogIgsEiy
 zuo- +2 `en` @uakci #X0W5TLL9i
 prefix: turn any verb X into: ▯ is intended / initially envisioned to X (whether or not it actually X’s in the end).
 
-zuo +2 `en` @official #oi9C5T2w1Kp
+zuo +3 `en` @official #oi9C5T2w1Kp
 predicate: ‘have.purpose’; ▯ is for purpose ▯.
 
 zuo ± `tok` @el #-QXzOdgSA
@@ -78191,6 +78206,9 @@ His legs are short.
 
 Do súq náqpıa jıbo ní ba. ± `en` @examples #_cFcJcZ9Ci2
 Give my brother this.
+
+dote po ké muq lıo ± `en` @salarua #4VwXkQlET
+idiom: ‘gift from the left hand’; a superficially altruistic act with a self-serving ulterior motive
 
 Dua hínoke, ꝡä tı máq hí. ± `en` @jiqci #2223YFFHU
 The missile knows where it is.
@@ -89670,7 +89688,7 @@ chı(jıo)joaq ± `en` @seaqtaq #rTYEp_qYw
 ⚠ choqmy ± `en` @Laqme #59rYAo-6F
 ▯ is a gadget/trinket/tool.
 
-⚠ chorosy +1 `en` @Machy #MLvNZa3ai
+⚠ chorosy ± `en` @Machy #MLvNZa3ai
 interjection: Cheers!
 
 ⚠ chuaımy ± `en` @uakci #-R0u9EO6w
