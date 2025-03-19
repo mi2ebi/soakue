@@ -662,6 +662,9 @@ amam ± `en` @nano #Kk6YN-ygS
 Amarazu ± `en` @eednb #jXsnQvc1x
 ▯ is the Amharic language.
 
+ame ± `en` @lassc #j6guO__qF
+interjection: early termination of sentence
+
 Amenıa ± `en` @countries #8LPYpnwNbJs
 ▯ pertains to the culture of Armenia – Republic of Armenia.
 
@@ -4949,6 +4952,9 @@ bueguaq ± `en` @Ilmen #oCFcgshV_
 bueguaq ± `en` @robintown #0bS5MaXk9
 ▯ is ▯'s homeland.
 
+bueı ± `en` @lassc #gb_lCnkwj
+▯ is in favor of/prefers/supports satisfying property ▯.
+
 buejaı ± `en` @Ilmen #47rZ3oong
 ▯ has a subjective feeling of safety, relaxation, and peace-of-mind due to being at home; ▯ has a "home-sweet-home" feeling.
 
@@ -6371,6 +6377,9 @@ caqtoa ± `en` @uakci #1wEjqFB9x
 caqtoaı ± `en` @Laqme #w-H5r4okY
 ▯ is an instruction / step (as in a recipe) / command (as to a computer).
 
+caqtuq ± `en` @seaqtaq #J0zCtuD4a
+▯ is a Leviathan; ▯ is a centralized government or embodiment of the state deemed necessary to possess absolute control over its citizens, lest they "naturally" devolve into chaotic, animalistic behavior
+
 caqzuom ± `en` @Laqme #HkrnZ2mZL
 ▯ is a crisis.
 
@@ -7616,7 +7625,7 @@ how many things satisfy property ▯?
 com- ± `en` @uakci #3mltOXgXW
 prefix: turns verb (of any arity) into binary verb: ▯ does X at/to/towards ▯ (recipient or intended audience).
 
-com +5 `en` @Laqme #_MNzppBpD
+com +6 `en` @Laqme #_MNzppBpD
 ▯ (some event of expression) is directed at / expressed toward audience ▯.
 
 com ± `tok` @el #YiPaDjebM
@@ -12026,7 +12035,7 @@ edimsöz: bildirme, bildiri
 dá +3 `en` @Laqme #m7Pr0ap0a
 illocution: "isn't it?"
 
-dä +1 `en` @jiqci #KFx27mEl5
+dä +2 `en` @jiqci #KFx27mEl5
 illocution: corrective
 
 dä -1 `en` @Machy #P-3X2vVZG
@@ -13654,6 +13663,9 @@ dıasuım ± `en` @jiqci #zvVMd9tGz
 
 dıba +2 `en` @Ilmen #hF5Nmfxp8
 ▯ replaces/substitutes for ▯ in satisfying property ▯.
+
+dıba ± `en` @lassc #xeS1DW3Eo
+▯ replaces/substitutes/exchanges/displaces/swaps/supplants something in place of ▯.
 
 dıbacheokıu ± `en` @seaqtaq #XCB77VJqY
 ▯ are interchangeable
@@ -21604,6 +21616,9 @@ gomse ± `en` @Laqme #E_yMsZUo3
 gomsı ± `en` @Laqme #hTw-y6f6D
 ▯ is careful so as not to satisfy property ▯.
 
+gomtea +1 `en` @ijonetun #xCY-MZIDq
+▯ is the fear/dislike of making mistakes.
+
 gomu ± `en` @uakci #yMWx4j0W2
 The converse of ▯ is true; When the first and second arguments of proposition ▯ are swapped, it is the case.
 
@@ -21790,11 +21805,11 @@ guahezo ± `en` @seaqtaq #pxYqoFm05
 guaı ± `en` @official #1C2X8oirKF
 predicate: ‘work’; ▯ works in satisfying property ▯.
 
+guaı +1 `en` @Ilmen #Lyb_Ujp34
+predicate: ‘work’; ▯ works in satisfying property ▯; ▯ satisfies property ▯ with effort.
+
 guaı ± `toa` @uakci #ly53AmDd8
 tao dóshı dógu, na ru dógu pa lu sa dó báq bı ca tâo dó dógu na kûaı sea dó da
-
-guaı ± `en` @Ilmen #Lyb_Ujp34
-predicate: ‘work’; ▯ works in satisfying property ▯; ▯ satisfies property ▯ with effort.
 
 guaı ± `pl` @jiqci #Ug-QgA-hcR
 ▯ pracuje spełniając własność ▯.
@@ -25354,8 +25369,14 @@ hılu ± `en` @Ilmen #5byQlDfpm
 hím +3 `en` @uakci #gKjuPgy6C
 determiner: [the indirect question asking] what X-s/is an X
 
+hıme ± `en` @lassc #dS9qHlT1m
+▯ references/quotes/attributes/cites/recites/parrots ▯.
+
 hımea ± `en` @uakci #NcdDJH2op
 Which of the arguments is true?
+
+hımehıme ± `en` @lassc #P_bqqzPX5
+▯ asserts that a salient source asserts that ▯ is the case.
 
 hımera ± `en` @seaqtaq #o3qO0AMF-
 ▯ is a chimera monster
@@ -29598,11 +29619,11 @@ jeonechu ± `toa` @Ilmen #DTMHCGpOe
 jeoneuchu ± `en` @Ilmen #CythTEHdZ
 ▯ is the arithmetic mean of the amounts of each of ▯ satisfying greatness property ▯.
 
-jeonue -1 `en` @official #KWn6x43SPy
-predicate: ‘promise’; ▯ promises to ▯ that ▯ is the case.
-
 jeonue ± `pl` @jiqci #BWNz0NVvJG
 ▯ obiecuje ▯, że ▯ zachodzi.
+
+jeonue -2 `en` @official #KWn6x43SPy
+predicate: ‘promise’; ▯ promises to ▯ that ▯ is the case.
 
 jeonueqlıao ± `en` @Snow #cTY1s2wxB
 ▯ is a hon-shimeji mushroom. ▯ is Lyophyllum shimeji.
@@ -38159,7 +38180,7 @@ kuqhıao +1 `en` @Laqme #7eke1-DBy
 kuqhuı -1 `en` @Ilmen #O8Hen-SUE
 ▯ tells the lie ▯.
 
-kuqhuı -1 `en` @ijonetun #0e-qWHAns
+kuqhuı -1 `tok` @ijonetun #0e-qWHAns
 ▯ li toki e toki pi lon ala ni: ▯
 
 kuqjaq ± `en` @salarua #ZU7PoyaTJ
@@ -46226,31 +46247,31 @@ mozıu ± `en` @Laqme #SbZjvFrdZ
 mu- ± `en` @official #6tl1uHLAOc
 prefix: ‘OPP’; un-X; forms antonyms
 
-mu +1 `en` @Ilmen #BDcrdhZWs
+mu ± `en` @Ilmen #BDcrdhZWs
 ▯ is/are such that something is in relation ▯ with it/them; ▯ and ▯ are such that the latter is in relation ▯ with the former.
 
-mu ± `toa` @Ilmen #2LMKd1fY4
+mu -1 `toa` @Ilmen #2LMKd1fY4
 = gujeo go ▯ sa ▯; gujeo go ▯ ▯ ▯.
 
-mu -1 `toa` @uakci #S2H1quHQ2
+mu -2 `toa` @uakci #S2H1quHQ2
 [pó mí Huaqchı ga muı bı:] gujeo dógu dóshı dósaq da
 
-mu -1 `en` @Ilmen #9tCuMYfED
+mu -2 `en` @Ilmen #9tCuMYfED
 ▯ and ▯ are such that the latter is in relation ▯ with the former.
 
-mu -1 `en` @uakci #W1S5QMEyn
+mu -2 `en` @uakci #W1S5QMEyn
 ▯ has something be in relation ▯ with it; ▯ has ▯ be in relation ▯ with it.
 
-mu -1 `en` @Machy #hAOGGXYsk
+mu -2 `en` @Machy #hAOGGXYsk
 ▯ and ▯ satisfy relation ▯ but with the latter in the first slot and the former in the second slot.
 
-mu -1 `tok` @el #FHzhFF2uE
+mu -2 `tok` @el #FHzhFF2uE
 ▯ la ▯ li ▯ e ona
 
-mu -1 `jbo` @zearen #CDANQzvIL
+mu -2 `jbo` @zearen #CDANQzvIL
 ▯ ▯ se ckini ▯
 
-mu -1 `pl` @jiqci #mU7piggx5R
+mu -2 `pl` @jiqci #mU7piggx5R
 ▯ spełnia z ▯ relację ▯ z zamienionymi miejscami / w stronie biernej.
 
 mu'uq +1 `en` @Ilmen #C3UZt2u83
@@ -51446,11 +51467,11 @@ nubo +1 `en` @uakci #Fi0WykEbN
 nue ± `en` @official #QxjT4RWwrE
 predicate: ‘promise’; ▯ promises/threatens to ▯ to satisfy property ▯.
 
+nue +1 `en` @takoda #5xaXsbcJd
+▯ promises/threatens to satisfy property ▯.
+
 nue ± `pl` @jiqci #trizMHQDPu
 ▯ obiecuje/grozi ▯, że spełni własność ▯.
-
-nue ± `en` @takoda #5xaXsbcJd
-▯ promises/threatens to satisfy property ▯.
 
 nuebuaq ± `en` @uakci #BwDBIg7n_
 ▯ fails ▯ in delivering promise ▯ to them.
@@ -58320,6 +58341,12 @@ Satisfying property ▯ is a human right.
 reqkıbucıabıso ± `en` @Hydro #72prIUBgm
 ▯ is HIV (human immunodeficiency virus).
 
+reqloı ± `en` @seaqtaq #4lIyDtvuR
+▯ is misanthropic
+
+reqloısıo ± `en` @seaqtaq #XEUxvmBR3
+▯ is misanthropy
+
 reqnoaı ± `en` @Laqme #wo_qYVtML
 ▯ is breast milk.
 
@@ -63839,6 +63866,9 @@ soelı +2 `en` @jiqci #eHBQUdIUs
 soeluesaı ± `en` @jiqci #VKlIGkKSy
 ▯ is tartrazine (E102).
 
+soem ± `en` @lassc #9XQFPSDic
+▯ is against/objects to/opposes satisfying property ▯.
+
 soemo ± `en` @jiqci #_id2NDu3L
 ▯ is a sorrel (genus Rumex).
 
@@ -67923,6 +67953,9 @@ shuehuıcea ± `en` @Ilmen #MxfLWQ1KV
 
 shueı -1 `en` @el #kGK2KJuzy
 [MI] Quotes one Toaq phrase, forming a verb: ▯ is [quoted text]
+
+shuekaze ± `en` @lassc #9gBSRc5Ng
+▯ rhythmically beats/pulses/throbs.
 
 shuekuoq ± `en` @uakci #1Po4uGAZN
 ▯ is an apple core, meat bone, fish rib, etc.; ▯ is the part of a dish that is traditionally left uneaten.
@@ -72873,6 +72906,9 @@ tuecaq ± `en` @seaqtaq #lFmbup6hy
 tuefeq ± `en` @jiqci #Qzs2kLt_f
 ▯ is of the clubs suit.
 
+tuehıme ± `en` @lassc #gskkz972Y
+▯ reports/relays/accounts that ▯ is the case.
+
 tuejoaq ± `en` @seaqtaq #oz0gkyaO_
 ▯ is in charge/responsible/overseeing
 
@@ -72881,6 +72917,9 @@ tueme ± `en` @seaqtaq #HsmXGQKMP
 
 tueno ± `en` @uakci #IJEEO9uiI
 ▯ happens in (the) context (of) ▯.
+
+tuenue ± `en` @lassc #duSq5xs_y
+▯ promises that ▯ is the case.
 
 tuerıoq ± `en` @uakci #ak7irG756
 ▯ is one mode/state of ▯.
