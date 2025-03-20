@@ -4,13 +4,23 @@
 }
 :root {
     --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile";
+    --bg: #ededfc; /* 95 0.02 288 */
+    --fg: #000;
+    --input: #fff;
+    --gray: #636363; /* 50 0 0 */
+    --focus: #8b504d; /* 50 .08 24 */
+    --orange: #7f5b2b; /* 50 .08 72 */
+    --blue: #1c6e80; /* 50 .08 216 */
+    --purple: #615c8e; /* 50 .08 288 */
+    --pink: #805175; /* 50 .08 336 */
 }
 body {
     font-family: var(--font);
     max-width: 600px;
     margin: 0 auto;
     padding: 8px;
-    background-color: #ededfc; /* 95 .02 288 */
+    background-color: var(--bg);
+    color: var(--fg);
     word-break: break-word;
 }
 #btns, #len {
@@ -20,6 +30,8 @@ input[type=text] {
     padding: 4px;
     width: 300px;
     font-family: var(--font);
+    background-color: var(--input);
+    color: var(--fg);
     border: none;
     margin-bottom: 4px;
     font-size: inherit;
@@ -29,22 +41,22 @@ input[type=text] {
 }
 ::placeholder, .scope {
     opacity: 1;
-    color: #636363; /* 50 0 0 */
+    color: var(--gray);
 }
 .scope {
     display: inline-block;
 }
 a {
-    color: #1c6e80; /* 50 .08 216 */
+    color: var(--blue);
     text-decoration: none;
-    text-decoration-color: #1c6e80 !important;
+    text-decoration-color: var(--blue) !important;
     cursor: pointer;
 }
 a:hover {
     text-decoration: solid underline;
 }
 code {
-    color: #7f5b2b; /* 50 .08 72 */
+    color: var(--orange);
     font-family: "Iosevka Toaq", var(--font);
 }
 :is(#bottom, #res, #len):not(:empty) ~ #howto {
@@ -67,11 +79,11 @@ dd {
     margin-left: 20px;
 }
 .toa {
-    color: #615c8e; /* 50 .08 288 */
+    color: var(--purple);
     font-weight: 700;
 }
 .score, .score a {
-    color: #805175; /* 50 .08 336 */
+    color: var(--pink);
 }
 .notes {
     font-size: small;
@@ -83,55 +95,30 @@ button {
     border: 1px solid transparent;
     border-radius: 0;
     padding: 2px 4px;
-    background-color: #1c6e80;
-    color: #fff;
+    background-color: var(--blue);
+    color: var(--input);
 }
 button:hover {
     cursor: pointer;
 }
 :focus {
-    outline: 1px solid #8b504d; /* 50 .08 24 */
-}
-mark {
-    background-color: #716328; /* 50 .08 96 */
-    padding: 2px;
-    border: 1px solid #fff;
+    outline: 1px solid var(--focus);
 }
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: #211e34; /* 25 .04 288 */
-        color: #fff;
-    }
-    input {
-        background-color: #000;
-        color: #fff;
-    }
-    ::placeholder, .scope {
-        color: #aeaeae; /* 75 0 0 */
-    }
-    a {
-        color: #37c0de; /* 75 .12 216 */
-        text-decoration-color: #37c0de !important;
-    }
-    code {
-        color: #dda151; /* 75 .12 72 */
-    }
-    .toa {
-        color: #aaa1f6; /* 75 .12 288 */
-    }
-    .score, .score a {
-        color: #de90cb; /* 75 .12 336 */
+    :root {
+        --bg: #211e34; /* 25 .04 288 */
+        --input: #000;
+        --fg: #fff;
+        --gray: #aeaeae; /* 75 0 0 */
+        --blue: #37c0de; /* 75 .12 216 */
+        --orange: #dda151; /* 75 .12 72 */
+        --purple: #aaa1f6; /* 75 .12 288 */
+        --pink: #de90cb; /* 75 .12 336 */
+        --focus: #f08e89 /* 75 .12 24 */;
     }
     button {
         border: 1px currentColor solid;
-        color: #37c0de;
+        color: var(--blue);
         background: none !important;
-    }
-    :focus {
-        outline-color: #f08e89 /* 75 .12 24 */;
-    }
-    mark {
-        background-color: none;
-        border-color: #c5ad4c; /* 75 .12 96 */
     }
 }
