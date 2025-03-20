@@ -3035,6 +3035,9 @@ may sakit ang ▯; dumamdam ang ▯ ng sakit na ▯.
 bıa ± `en` @robintown #6YtxKiTj5
 ▯ is sick/ill.
 
+bıa ± `en` @lassc #xZv2z4q4s
+▯ is afflicted with ▯.
+
 bıaca ± `en` @seaqtaq #-goN2Jk8M
 ▯ is an illness
 
@@ -6956,7 +6959,7 @@ Chuamerıka ± `en` @robintown #yCiiiKfaG
 ⚠ Chuq. -1 `en` @oldofficial #4JNGztZ_rW
 Eating is going on.
 
-cı- +1 `en` @uakci #0h9-8kiFw
+cı- +2 `en` @uakci #0h9-8kiFw
 gloss over the initial part of a compound which ends with the following material
 
 cı ± `en` @official #cjVX8sq7Pc
@@ -7352,6 +7355,9 @@ cıukıoq ± `en` @uakci #lL9D_06KN
 cıupıo ± `en` @uakci #WH9X3TiIb
 ▯ is a stone (e.g., kidney stone, gallstone).
 
+cıuq ± `en` @lassc #th34nDMtL
+▯ places/positions ▯.
+
 cıurıaq ± `en` @official #4UjXuDhq2g
 predicate: ‘toilet’; ▯ is a toilet.
 
@@ -7544,7 +7550,7 @@ coepotısa ± `en` @Machy #sUwZjkQYr
 coepuo ± `en` @uakci #d6mRVpxb0
 ▯ is lint.
 
-coeq +1 `en` @robintown #duqEyPkL4
+coeq +2 `en` @robintown #duqEyPkL4
 ▯ are connected by relation ▯.
 
 coeq ± `toa` @robintown #WFPI_ejcU
@@ -11135,6 +11141,9 @@ chuaıruq ± `pl` @jiqci #iTtWythktE
 chuaıruq ± `tr` @kazoo #GsNek-oot
 ▯ doludur. (hava durumu)
 
+chuaıruq ± `en` @lassc #WLNUgTomh
+▯ is sleet/slush/frozen rain.
+
 chuaıruq -1 `tok` @el #JoZQP_S3T
 ▯ li telo kiwen li kama anpa tan sewi
 
@@ -11600,7 +11609,7 @@ chumıq +2 `en` @robintown #Vdb-IGUCA
 chumoalaı ± `en` @Laqme #Eas4Vv2Mx
 ▯ is an interpunct (·).
 
-chune ± `en` @seaqtaq #W2zoTI4zh
+chune +1 `en` @seaqtaq #W2zoTI4zh
 ▯ is the interval between ▯ and ▯
 
 chunegoa ± `en` @jiqci #AWspY5IxZ
@@ -12269,6 +12278,9 @@ Daochuaq ± `en` @uakci #CSOs9QhAW
 daochue ± `en` @uakci #iJOv5RBEv
 ▯ is an array/list/matrix/table/map/dictionary/set/tree/[higher level data structure built upon a basis element type] of things constrained by property ▯.
 
+daodıeq ± `en` @Ilmen #nV4s7EJ8T
+▯ transmits to ▯ data ▯.
+
 daodo ± `en` @robintown #D2dSoobCn
 ▯ informs ▯ that ▯ is the case.
 
@@ -12505,6 +12517,9 @@ daqbuaı ± `en` @fagri #sM-wi6PdV
 
 daqbuaı ± `tok` @el #bcJngxeSU
 tenpo suli la ▯
+
+daqcıuq ± `en` @lassc #oQOT8up2e
+▯ is scheduled to be the case.
 
 daqchao ± `en` @jiqci #s4avLlr-_
 ▯ is a time machine.
@@ -13662,10 +13677,7 @@ dıasuım ± `en` @jiqci #zvVMd9tGz
 ▯ sorts/arranges/orders ▯ from satisfying property ▯ the most to the least.
 
 dıba +2 `en` @Ilmen #hF5Nmfxp8
-▯ replaces/substitutes for ▯ in satisfying property ▯.
-
-dıba ± `en` @lassc #xeS1DW3Eo
-▯ replaces/substitutes/exchanges/displaces/swaps/supplants something in place of ▯.
+▯ replaces, substitutes for ▯ in having property ▯: the former now has the property, while the latter no longer has it (no agentivity implied).
 
 dıbacheokıu ± `en` @seaqtaq #XCB77VJqY
 ▯ are interchangeable
@@ -14712,6 +14724,9 @@ doraı ± `en` @uakci #lXz1xuGPe
 
 doroq ± `en` @robintown #hyv_6tJP9
 ▯ is a drone (aircraft).
+
+doroqgıonhoqpuıtefamuao ± `en` @Ilmen #YAoxEViYd
+▯ are trees wrapped in optical fiber cables ▯ left over time by countless passing-by optical fiber FPV drones.
 
 doroqmeaq ± `en` @Ilmen #m58hXr4wB
 ▯ is a naval drone, an unmanned sea vehicle (USV).
@@ -16747,7 +16762,7 @@ faqchıu ± `en` @uakci #Jwq9-OS7V
 faqchu ± `en` @seaqtaq #mlOQk2kbB
 Process ▯ progresses
 
-faqchune ± `en` @seaqtaq #8j9Co7WQ-
+faqchune +1 `en` @seaqtaq #8j9Co7WQ-
 ▯ is the time distance between ▯ and ▯.
 
 faqdekı ± `en` @fagri #v7KMGJ_Cy
@@ -16993,11 +17008,11 @@ fe ± `tr` @kazoo #GktiGdcI6
 fea +3 `en` @Machy #Kg5y2sIhH
 ▯ endures satisfying property ▯.
 
+fea +1 `en` @robintown #TWsvf5TYp
+▯ endures/withstands ▯.
+
 fea ± `pl` @jiqci #aP7qppMmX
 ▯ wytrzymuje spełnianie własności ▯ spełniając własność ▯.
-
-fea ± `en` @robintown #TWsvf5TYp
-▯ endures/withstands ▯.
 
 fea -1 `en` @uakci #bcxDtJTUG
 ▯ maintains property ▯.
@@ -17653,7 +17668,7 @@ fıeqzupoq ± `tok` @ijonetun #SPOgIKcTM
 fıesom ± `en` @jiqci #pxNB3KW6A
 ▯ is a kludge/hack/workaround/quick-and-dirty fix for problem ▯.
 
-fıete ± `en` @robintown #AJ0sZ4Aku
+fıete +1 `en` @robintown #AJ0sZ4Aku
 ▯ hits on / flirts with ▯.
 
 fıetoa ± `en` @Laqme #6b614C_QA
@@ -18864,6 +18879,9 @@ gaızana ± `en` @seaqtaq #osFL2EOz0
 
 gaızeum ± `en` @Laqme #4anm_eT0u
 ▯ is an antenna / feeler.
+
+gaızıa ± `en` @Ilmen #21uItPm8v
+▯ emits, e.g. via radio waves or other signal, perceptual data ▯ recorded by the former.
 
 gaızıe ± `en` @uakci #3ssKAnhpl
 Event ▯ references (for the jie perceiver) ▯; The sight of ▯ is associated with ▯.
@@ -20677,6 +20695,9 @@ gıonuoqchuo ± `en` @Ilmen #3fsZ-Coiv
 gıonhoq ± `en` @jiqci #QUM_dm9jM
 ▯ is an optical fiber / fibre optic cable.
 
+gıonhoqkaqgaızıadoroq ± `en` @Ilmen #OPCzF9Igq
+▯ is an optical fiber first-person view (FPV) drone (with a fiber cable spool).
+
 gıopoa ± `en` @Ilmen #rmB3pWen4
 ▯ is opaque.
 
@@ -21909,6 +21930,9 @@ guaıleo ± `en` @uakci #RN-_18vM8
 
 guaıleoq ± `en` @uakci #A3wl7sXOZ
 ▯ is lazy.
+
+guaılueq ± `en` @lassc #cccYqROfS
+▯ works for/is employed by ▯.
 
 guaıme ± `en` @uakci #gjaaszee3
 ▯ is an organization.
@@ -24742,7 +24766,7 @@ heseoq +1 `en` @Machy #bRq30CvLG
 hesıa ± `en` @uakci #buY7a2iT_
 ▯ is an empty set/collection.
 
-heu +1 `en` @Ilmen #vwoFAK-9M
+heu ± `en` @Ilmen #vwoFAK-9M
 particle: this particle is placed between two serial predicates, the second of which beginning on a high-falling tone; the serial predicates on both sides are each considered as if they were single predicate words, and their meanings and argument structures combine serially according to the usual serialization rules.
 
 héu ± `en` @uakci #dwlh5t0Kd
@@ -32556,7 +32580,7 @@ Jueseıgua +1 `en` @Ilmen #kWKeYAYkC
 juı- +2 `en` @uakci #ai1dO-Gs2
 prefix: approximately, roughly, just about
 
-juı +1 `en` @official #w9hOKEWAif
+juı +2 `en` @official #w9hOKEWAif
 predicate: ‘near’; ▯ is near ▯ in property ▯.
 
 juı ± `pl` @jiqci #zfG-uEk6A8
@@ -33209,6 +33233,9 @@ jutoı ± `en` @TheAndSys #zDXSUuHch
 
 juꝡa ± `en` @uakci #wu6ofraDo
 complementizer: like **ju**, but makes a statement about the literal words/phrasing of an utterance
+
+juze +1 `en` @TheAndSys #QSednuIlj
+▯ is done for ▯
 
 juzuzeo ± `en` @el #mcfpabZFN
 ▯ is a yuzu (Citrus junos), an East Asian citrus
@@ -34172,6 +34199,12 @@ kaqgaıkıu ± `en` @xorxes #u-b1vEXnS
 
 kaqgaıtaqchuo ± `en` @Ilmen #LPuSQGwOE
 ▯ is a mirror.
+
+kaqgaızıa ± `en` @Ilmen #q3i2XDEqO
+▯ emits, e.g. via radio waves or other signal, video data ▯ recorded by the former.
+
+kaqgaızıadoroq ± `en` @Ilmen #wiDbLt3Cf
+▯ is a first-person view (FPV) drone.
 
 kaqgaq ± `en` @seaqtaq #BleEwzEAq
 ▯ spectates event/match/performance ▯
@@ -35621,6 +35654,12 @@ kıeıla ± `en` @Laqme #ck658nyVK
 kıeıleq +1 `en` @jiqci #lFNpdNrOR
 ▯ is a glacier.
 
+kıeıruq ± `en` @lassc #xcHN_AwzZ
+▯ is hail.
+
+kıeıruqshua ± `en` @lassc #9F0WaYCL6
+It hails.
+
 kıeısoaı ± `en` @jiqci #yDIVRc6kV
 ▯ is an intercontinental ballistic missile.
 
@@ -35647,6 +35686,9 @@ predicate: ‘thank’; ▯ says thanks to ▯.
 
 kıekuq ± `pl` @jiqci #Dlrf7cnBIk
 ▯ dziękuje ▯.
+
+kıem ± `en` @evie #fT-Op3vnN
+▯ keeps ▯ the case
 
 kıeq ± `en` @official #fDa4iCCk7B
 predicate: ‘disgusted’; ▯ experiences disgust.
@@ -42477,13 +42519,13 @@ predicate anaphora: repeats the last clausal verb.
 lusuıq ± `en` @jiqci #74qvWP6WD
 ▯ is an asparagus.
 
-lusha ± `en` @Ilmen #mcJyBkW4T
+lusha +1 `en` @Ilmen #mcJyBkW4T
 ▯ slips/slides/glides on ▯.
 
-lushaca ± `en` @Ilmen #l6ZXMyseX
+lushaca +1 `en` @Ilmen #l6ZXMyseX
 ▯ is slippery.
 
-lushaleu ± `en` @Laqme #k4ZqhkJQU
+lushaleu +1 `en` @Laqme #k4ZqhkJQU
 ▯ is lubricant.
 
 lutea +1 `en` @seaqtaq #x0sjPgoux
@@ -44576,6 +44618,9 @@ mıenheo ± `en` @uakci #ACyE4-sbT
 
 mıepıo ± `en` @Ilmen #ltA30WYQ5
 ▯ is a fossil of ▯.
+
+mıeq- ± `en` @lassc #32_w0UDRb
+prefix: creates an ad-hoc unit of measurement from a verb
 
 mıeq +2 `en` @uakci #tYJNbmwr7
 ▯ measures ▯ [see notes].
@@ -53585,6 +53630,9 @@ paıkuaı +1 `en` @robintown #dJHBxVKGe
 paıluo +2 `en` @Laqme #AS1xKLwS8
 ▯ is a found family (friends who consider each other family).
 
+paımana +1 `en` @ijonetun #hNCHSHAan
+▯ is the "power of friendship"; the energy/motivation given to ▯ from the presence/support of their friends.
+
 paıme +1 `en` @Laqme #3xmADPafW
 ▯ is a friend group / circle of friends.
 
@@ -58116,6 +58164,9 @@ remtı ± `en` @uakci #WhttscYSS
 remꝡera ± `en` @seaqtaq #CKs1GdNqs
 ▯ is raw/tender/chafed
 
+remzıeremzıeremremzıe ± `en` @kazoo #dk4MyaF4S
+▯ is a sequence that contains the numbers ▯ and ▯ in order.
+
 rena ± `en` @seaqtaq #i4rLbZYhd
 ▯ is conducive to ▯; ▯ is (likely to) engender conditions favorable for ▯ to happen
 
@@ -58862,6 +58913,9 @@ rıoguı +2 `en` @uakci #a3x5VskrN
 
 rıohua ± `en` @Laqme #fvFznrtkE
 ▯ is a lung.
+
+ríoı +1 `en` @lassc #Q-tXCgXWG
+plural coordinator: order-preserving roı
 
 rıoıcıa ± `en` @uakci #PSs-7Ij9X
 ▯ satisfies property ▯ directly rather than proxying/substituting/standing in for another.
@@ -60669,7 +60723,7 @@ conjunction: both or neither (iff)
 rurao ± `en` @Laqme #3ZgMMfXRZ
 conjunction: ‘and at the same time’, ‘and simultaneously’
 
-rurı ± `en` @uakci #mZDvpbIyv
+rurı +1 `en` @uakci #mZDvpbIyv
 ▯ stands in for ▯ in satisfying property ▯.
 
 rurıche +1 `en` @uakci #OQ9rv3sGs
@@ -66376,6 +66430,9 @@ shetoame ± `en` @evie #LZnSVzF7s
 shetuq ± `en` @uakci #edV2cxiRf
 ▯ iff ▯; ▯ is the case if and only if ▯ is the case.
 
+shéu +1 `en` @kazoo #WJvoMa722
+plural coordinator: range between
+
 sheu'acı ± `en` @jiqci #SWSAn2G0z
 ▯ is nitric acid HNO3.
 
@@ -68626,6 +68683,9 @@ tao +2 `toa` @Ilmen #1xcxEbPTn
 tao ± `en` @official #1BszDPm_R9
 predicate: ‘do’; ▯ does ▯.
 
+tao +1 `en` @Isi #G8ZOUyaZc
+predicate: ‘do’; ▯ intentionally makes itself satisfy property ▯.
+
 tao ± `ja` @Laqme #izJ5lUzfa
 ▯は▯を行為／実行する
 
@@ -68634,9 +68694,6 @@ tao ± `tok` @el #F3Xx8F9X3
 
 tao ± `pl` @jiqci #xhKQw1bEz
 ▯ robi ▯.
-
-tao ± `en` @Isi #G8ZOUyaZc
-predicate: ‘do’; ▯ intentionally makes itself satisfy property ▯.
 
 tao ± `jbo` @zearen #Qo-U-kCXl
 ▯ zukte ▯
@@ -68661,6 +68718,9 @@ predicate: ‘accidental’; ▯ is accidental/unintentional.
 
 taocıa ± `pl` @jiqci #tpxZnTa0-F
 ▯ jest przypadkowy/niezamierzony.
+
+taocıuq ± `en` @lassc #ljgCbqswb
+▯ is scheduled to satisfy property ▯.
 
 taocha ± `en` @Ilmen #N9t8FZbSd
 in event ▯, ▯ is an agent-patient.
@@ -68779,10 +68839,10 @@ taokakoe +2 `en` @Ilmen #5IkUbx57N
 taokıubu ± `en` @Laqme #8eBzW9LWz
 ▯ is impossible to do.
 
-taoko ± `en` @Machy #ukKEuecWn
+taoko +1 `en` @Machy #ukKEuecWn
 ▯ is a planner/schedule.
 
-taokoe ± `en` @official #1XIVIZBp6X
+taokoe +1 `en` @official #1XIVIZBp6X
 predicate: ‘choose.to’; ▯ chooses to do ▯.
 
 taokoe +1 `en` @Ilmen #8btOkjufL
@@ -70384,7 +70444,7 @@ tıchıu ± `en` @Ilmen #1zb6N4xKN
 tıchu ± `en` @uakci #3oQi_5NMK
 ▯ goes via ▯; ▯ happens with ▯ as an/the itinerary.
 
-tıchune ± `en` @seaqtaq #GwTAPV19X
+tıchune +1 `en` @seaqtaq #GwTAPV19X
 ▯ is the (spacial) distance between ▯ and ▯.
 
 tıdao ± `en` @seaqtaq #6ydNWj5QK
@@ -73329,6 +73389,9 @@ Property ▯ uniquely identifies ▯; ▯ is ▯’s identity (one sense).
 tuqmudoa ± `en` @Machy #9CpWHGLeK
 ▯ uniquely identifies ▯ as ▯.
 
+tuqna ± `en` @Laqme #hQTw570Na
+discursive: in the first place / to begin with / anyway
+
 tuqne ± `en` @seaqtaq #yI23bvmxy
 ▯ is the net amount of ▯
 
@@ -75257,6 +75320,9 @@ zıubuzıu ± `en` @Laqme #tdHBiC0Dk
 
 zıuchue ± `en` @Laqme #cSdIm3AGo
 ▯ is a sequence (mathematics).
+
+zıuchune ± `en` @lassc #BsCZK--qq
+▯ is a range between the numbers ▯ and ▯.
 
 zıudıu ± `en` @jiqci #M93RFXaio
 ▯ is number theory.
