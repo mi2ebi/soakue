@@ -106,8 +106,8 @@ button:hover {
 }
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #211e34; /* 25 .04 288 */
-        --input: #000;
+        --bg: #0f0c20; /* 17 .04 288 */
+        --input: #222; /* 25 0 0 */
         --fg: #fff;
         --gray: #aeaeae; /* 75 0 0 */
         --blue: #37c0de; /* 75 .12 216 */
