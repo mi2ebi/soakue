@@ -665,6 +665,9 @@ amam ± `en` @nano #Kk6YN-ygS
 Amarazu ± `en` @eednb #jXsnQvc1x
 ▯ is the Amharic language.
 
+amba ± `en` @lassc #kvpVNPn9i
+interjection: "stay strong!", "keep going!", "hold on!"
+
 ame ± `en` @lassc #j6guO__qF
 interjection: early termination of sentence
 
@@ -8846,6 +8849,9 @@ chea ± `pl` @jiqci #24VpmPzn9Q
 chea ± `ru` @SuperSpaceNiM #CwO9Vwelt
 ▯ — шляпа, шапка, головной убор
 
+cheaı +2 `en` @Laqme #NI4r74I3c
+▯ is unforced / (a result of) letting things go their way / non-goal-oriented / casual / spontaneous.
+
 chealaı +3 `en` @Machy #-a3BC4c1o
 ▯ is a diacritic
 
@@ -11141,7 +11147,7 @@ chuaınao -1 `tok` @el #zBaJkiFPW
 chuaınoaı ± `en` @lassc #vxWI3KCfW
 ▯ is custard/pudding/ice cream/frozen yogurt/a milkshake/a dairy-based frozen treat.
 
-chuaıruq +1 `en` @official #REUu6CiC-1
+chuaıruq ± `en` @official #REUu6CiC-1
 predicate: ‘hail’; ▯ is hail.
 
 chuaıruq ± `tok` @nano #ynPfGS4z1
@@ -14737,6 +14743,9 @@ doroq ± `en` @robintown #hyv_6tJP9
 doroqgıonhoqpuıtefamuao ± `en` @Ilmen #YAoxEViYd
 ▯ are trees wrapped in optical fiber cables ▯ left over time by countless passing-by optical fiber FPV drones.
 
+doroqgıonhoqtefasıoqchao ± `en` @Ilmen #s4Uv5mF94
+▯ is a vehicle whose wheels have got tangled in mass ▯ of FPV drone optical fiber cables.
+
 doroqmeaq ± `en` @Ilmen #m58hXr4wB
 ▯ is a naval drone, an unmanned sea vehicle (USV).
 
@@ -15897,6 +15906,9 @@ ekakoabıu ± `en` @jiqci #la28xOTFU
 
 ekaleo +1 `en` @salarua #6FgR5dhig
 ▯ attempts to satisfy property ▯ without prior training or experience
+
+ekanuo ± `en` @lassc #-vqP_XOFu
+▯ is narcolepsy.
 
 ekasuoı ± `en` @seaqtaq #6mqSxSfY1
 ▯ experiences an upheaval/disruption
@@ -17143,6 +17155,12 @@ fecoelaı ± `en` @Laqme #GjcsmbpLX
 feduao ± `en` @jiqci #wD3ean119
 ▯ is a pentose.
 
+fega ± `en` @seaqtaq #9NGYvJ0If
+▯ suddenly experiences something grotesque or unsettling; ▯ undergoes something akin to accidentally swiping a small puddle of slime of unknown origin on a countertop with their hand
+
+fegakıeq ± `en` @seaqtaq #oqWiwUI4r
+▯ suddenly experiences great disgust and discomfort at coming into contact or perceiving something grotesque or unsettling
+
 fegıu ± `en` @jiqci #Zzl-4HNqO
 ▯ is a staff/stave.
 
@@ -17508,6 +17526,9 @@ feqsunem ± `en` @jiqci #Y1OIcY3Jg
 
 ferısıoq ± `en` @robintown #5S0q2uW4c
 ▯ is a Ferris wheel.
+
+feta ± `en` @lassc #uLO8Em2o8
+▯ is a crumbly cheese.
 
 fetıq ± `en` @jiqci #V2oqMkR0i
 ▯ is a pentomino.
@@ -17890,6 +17911,9 @@ How is ▯ doing/faring?
 foaı ± `en` @uakci #ranAO2oEs
 ▯ is a detail of/on ▯.
 
+foaı ± `en` @lassc #VWkAiN04G
+▯ is a detail/nuance/aspect/subtlety/particular/factor/facet of something.
+
 foaı'ıdeı ± `en` @fagri #20YFs5xjt
 ▯ detail-panics (becomes fixated on some tiny thing that probably doesn't matter and grows increasingly uncomfortable until it's put right)
 
@@ -17916,6 +17940,9 @@ foaınuı ± `en` @seaqtaq #f4nderp21
 
 foaıpıao ± `en` @jiqci #uJg7XaGUq
 ▯ is intricate / elaborate / finely detailed.
+
+foaıpuı ± `en` @lassc #vFzV7XdfQ
+▯ is nuanced/multi-faceted/subtle/particular.
 
 foaısı +1 `en` @seaqtaq #oOlmMtENB
 ▯ is (being) scrupulous/meticulous/diligent/attentive
@@ -23063,7 +23090,7 @@ guqkaıse ± `en` @Laqme #jI_0r8VPh
 ▯ are subtitles.
 
 guqkaq ± `en` @kazoo #24-m0QD2m
-▯ is detained (legally) by authority/entity ▯
+▯ arrests ▯.
 
 guqkua ± `en` @jiqci #dQYd_MFr2
 ▯ is a cellar/basement.
@@ -27788,6 +27815,9 @@ interjection: agreement, "yeah", "totally", "agreed", "I feel the same way"
 particle: emphasis, attention-drawing, exclamation
 gı̉da ıo! that's great!
 
+ıo ± `jbo` @zearen #CjN6YWMrc
+cnivla jecu smudu'i zo «.ie»
+
 ío ± `en` @Laqme #U9bb9_pMp
 interjection: y'know? don't you agree?
 
@@ -30773,6 +30803,9 @@ jılaotuoı ± `en` @seaqtaq #79L4VrIFM
 
 jım +2 `en` @Laqme #8blsKPrFw
 ▯ lasts for a short amount of time / is brief.
+
+jımboq ± `en` @kazoo #bR3X5LGzQ
+▯ (legally) detains person ▯.
 
 jımduo ± `en` @robintown #SKFw304bc
 ▯ lasts for a short amount of time / is brief.
@@ -39921,6 +39954,9 @@ lezurom ± `en` @Laqme #o94wynLn8
 ⚠ lha -1 `en` @akesi #wbP9Ojvkr
 illocution: requestive
 
+lı- ± `en` @lassc #ciQ4ovqmE
+prefix: "-level", "difficulty"; niche prefix used to denote levels of difficulty within a range
+
 lı ± `en` @uakci #phXJYoHPd
 As a general rule, one satisfies, with ▯, relation ▯; [≈ **he** **ıqha**]
 
@@ -43530,6 +43566,9 @@ meaımeaqme ± `en` @evie #sVjKpzwMV
 meaımıq ± `en` @Laqme #aJ3RuA3Uc
 ▯ is infinite like the galaxy.
 
+meaıpoq ± `en` @robintown #2sYk36CDI
+▯ is an alien.
+
 meaıshua ± `en` @robintown #gJ9zFRgR0
 It's meteor showering.
 
@@ -44102,6 +44141,9 @@ mepaq ± `en` @Ilmen #ZJmZH2xgn
 
 mepoaq ± `en` @Ilmen #HPnECLpJg
 ▯ splits/divides into pieces ▯.
+
+mepoq ± `en` @lassc #ic7eRnSiK
+▯ is a member of a plural system.
 
 mepuıne ± `en` @Ilmen #i3-rCtLwE
 ▯ is the cardinality of the set/multiset/sequence ▯.
@@ -44847,6 +44889,9 @@ interjection: yeah I agree
 mıja ± `jbo` @el #HF3jm-Eux
 .i ca'e le valsi cu cnima'o jecu smudu'i zo {.ie}
 
+mıja ± `jbo` @zearen #X4KLA72Ev
+cnivla jecu smudu'i zo «.ie» ja lu« sei tugni »li'u
+
 míja ± `en` @jiqci #nFGDZpjhM
 interjection: don't you think? don't you agree?
 
@@ -45380,6 +45425,9 @@ moajuı ± `en` @fagri #JRqhVL9Wm
 moalaı ± `en` @Ilmen #MxbEcIcIX
 ▯ is a dot, period, or full stop (written character).
 
+moalaıgom ± `en` @ijonetun #QOEMOoMIg
+▯ is a mistake involving writing dots where there shouldn't be or vice versa.
+
 moalaıpue ± `en` @mimiaoganhaqpy #rzQxZw8gd
 ▯ is the dot below diacritic.
 
@@ -45853,6 +45901,9 @@ moıduotua -1 `en` @uakci #WLF_Jn435
 
 moıfaı ± `en` @Laqme #ulopXoSPH
 ▯ is neurotypical.
+
+moıfega ± `en` @seaqtaq #_UjyrE5U_y
+▯ suddenly experiences a grotesque or unsettling thought
 
 moıge +3 `en` @Laqme #d3W96P-Gc
 ▯ is an intellectual stimulus / really makes you think / is food for thought.
@@ -49454,7 +49505,7 @@ nıaqgu ± `en` @Laqme #QravWDVZN
 nıaqheı ± `en` @Laqme #RQaaOi7th
 ▯ is a decade.
 
-nıaqjue ± `en` @akesi #XEp7azq6x
+nıaqjue +1 `en` @akesi #XEp7azq6x
 ▯ is calendar ▯ (Mayan calendar, Gregorian, Muslim calendar, etc.)
 
 nıaqjuehoe ± `en` @akesi #aI64N7OO6
@@ -50305,12 +50356,6 @@ nıqkaı ± `en` @Laqme #k-QFaL10q
 
 nıqkao +1 `en` @Laqme #WPnjCc5jx
 ▯ is a news article.
-
-nıqkato ± `en` @kazoo #mD9HRUlRW
-▯ is nıqkato (user neuekatze/kazoo)
-
-Nıqkato ± `en` @kazoo #GLENpx9wD
-▯ is a member of the genus Neofelis
 
 nıqkıutua ± `en` @seaqtaq #-jrDFvjiN
 ▯ recycles ▯
@@ -51848,11 +51893,8 @@ nuımme ± `en` @jiqci #U3ZDm2it6
 nuımnhuo ± `en` @seaqtaq #Sw7jHC8NA
 ▯ is a constellation
 
-nuımpoq ± `en` @robintown #XrscmU4mS
-▯ is an alien.
-
-nuımpoqchao ± `en` @robintown #svum9coh5
-▯ is a UFO.
+nuımpoq ± `en` @lassc #mqD0uNDEF
+▯ is a day-sleeper/"night owl".
 
 nuımpuı ± `en` @Laqme #CiSolALBV
 ▯ are innumerable / countless.
@@ -52717,6 +52759,9 @@ State/circumstance ▯ is chronic/long-term
 
 nheq- ± `en` @seaqtaq #5z9h4TBNU
 prefix: turns verb X into verb meaning ▯ is X to degree/amount ▯
+
+nheq ± `en` @lassc #bEq6RsvQH
+interjection: "bleh", "hehe [hands placed to head]", expression of bashfulness/whimsy
 
 nheu ± `en` @Ilmen #tKeNyu2Cy
 tone-inflecting particle: sequence initiator.
@@ -55868,6 +55913,9 @@ poq ± `ru` @SuperSpaceNiM #63q_7ShXA
 poq ± `tr` @kazoo #xDEDGud2p
 ▯ kişidir.
 
+poq ± `jbo` @zearen #yxEmDlD5w
+▯ prenu
+
 poqbo ± `en` @Machy #4Xo9xMlsA
 ▯ is master to ▯.
 
@@ -58403,6 +58451,9 @@ req ± `ru` @SuperSpaceNiM #zbZsFVfMW
 
 req ± `en` @jiqci #DT_WcfST2
 ▯ is a sentient being.
+
+req ± `jbo` @zearen #9DlfBGpS9
+▯ remna
 
 req'ocha ± `en` @jiqci #ItwMEEqtB
 ▯ is a human from species Homo sapiens.
@@ -72481,11 +72532,11 @@ tọshı ± `en` @uakci #qclWbl2Nz
 toteqdo ± `en` @jiqci #lODQaywwJ
 ▯ has a monopoly over product/service ▯.
 
-⚠ tou ± `en` @Hoemai #MCSIlHFqc
-Focus prefix: "only"
-
 ⚠ tou ± `tok` @el #Ak5bNgv_d
 "tou X" li sama "X taso"
+
+⚠ tou -1 `en` @Hoemai #MCSIlHFqc
+Focus prefix: "only"
 
 ⚠ tou'ıq ± `en` @uakci #m7Wv07y6P
 ▯ are the only things that satisfy property ▯.
@@ -74865,7 +74916,7 @@ zazıkı ± `en` @robintown #BtgD102la
 ze- ± `en` @robintown #yVHK36AQn
 turns a positive number N into "negative N"
 
-ze +2 `en` @uakci #ZIS_sfbDA
+ze +3 `en` @uakci #ZIS_sfbDA
 ▯ is a liquid; ▯ is liquid.
 
 ze +2 `en` @robintown #tJSiqzAau
@@ -74898,7 +74949,7 @@ focus prefix in KU, opposite of **tou**; marks that this *isn't* the only case w
 zeı ± `toa` @el #Yzi0uwORZ
 = kueu deı lâ ja raı ja shıja bı mua ráı baq jëo hóa shíja ga ga
 
-zéı +1 `en` @Laqme #_G220-Xoz
+zéı +2 `en` @Laqme #_G220-Xoz
 focus particle: 'for one'
 
 zejeo -1 `en` @uakci #WEg0X-83V
@@ -75587,6 +75638,9 @@ zuaı ± `en` @jiqci #FMYMBTSMd
 
 zuaıcıa ± `pl` @jiqci #vL67qxW7IT
 ▯ jest pewien, że ▯.
+
+zûam ± `en` @Hoemai #qLM_HkYz8
+adjunct head: forms subject-sharing adverbials expressing "(in order) to"
 
 zuaq ± `en` @Machy #YWrK4m14U
 ▯ is the property ▯.
@@ -89790,7 +89844,7 @@ terminator: ‘[end]’; end complementizer phrase
 cheaq(gı)chı ± `en` @seaqtaq #AbE9sNwKy
 ▯ believes ▯to be trustworthy; ▯ trusts▯
 
-⚠ checy ± `en` @el #ucdaKLBXh
+⚠ checy -1 `en` @el #ucdaKLBXh
 ▯ is unstably/precariously true; ▯ unstably/precariously satisfies ▯ (JEO frame)
 
 ⚠ chey ± `en` @uakci #n_gLDx0ap
