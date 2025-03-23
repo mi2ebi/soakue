@@ -4622,6 +4622,9 @@ buachao ± `en` @Ilmen #DO5UQsoCO
 buachıjıo ± `en` @Machy #I0nZEUfKw
 ▯ is an abbey.
 
+buadıba ± `en` @seaqtaq #QEI7KwahR
+▯ colonizes ▯; ▯ invasively populates ▯ while aggressively displacing its native inhabitants
+
 buaduna ± `en` @jiqci #2pD46PwmX
 ▯ is homestuck.
 
@@ -4756,6 +4759,9 @@ bahay/tirahan ang ▯.
 
 buajıome ± `en` @fagri #NR4u8pBSR
 ▯ is a neighborhood
+
+buakeru ± `en` @seaqtaq #iJY-NCh4A
+▯ is a pioneer/colonist/settler/frontiersman
 
 buam ± `en` @TheAndSys #-yJcxHsp4
 ▯ must be the case in oder for ▯ to be the case
@@ -7969,9 +7975,6 @@ cuaqpıe ± `en` @uakci #fvhXhtQRl
 
 cuaqraı ± `en` @Laqme #aVMLtRwoE
 ▯ is abstract.
-
-cuaqsala ± `en` @seaqtaq #Sozoleb-O
-▯ pioneers satisfying property ▯
 
 cuaqsao ± `en` @uakci #neMTvYO60
 ▯ is huge/profound/nuanced/convoluted / has a lot going into it.
@@ -12215,6 +12218,12 @@ dalao +1 `en` @Laqme #WKMmxgGVk
 dalatoq ± `en` @salarua #vmTKlh78g
 predicate: ‘dalton’; ▯ is a dalton (unit of measurement)
 
+dale ± `en` @kazoo #TKnpd93Jt
+▯ is justice.
+
+dale ± `tr` @kazoo #jKetz1qFM
+▯ adalettir.
+
 dalu +1 `en` @seaqtaq #wcz9vWk55
 I assert that ▯ is the case
 
@@ -13699,6 +13708,9 @@ dıba +2 `en` @Ilmen #hF5Nmfxp8
 
 dıbacheokıu ± `en` @seaqtaq #XCB77VJqY
 ▯ are interchangeable
+
+dıbajeaq ± `en` @seaqtaq #yXEVkEq2q
+▯ colonizes ▯; ▯ invasively populates ▯ while displacing its native inhabitants (not necessarily volitional nor intentional)
 
 dıbakıu ± `en` @seaqtaq #uVeqaeAhq
 ▯ is replaceable/expendable
@@ -16623,6 +16635,9 @@ fajuı ± `en` @fagri #N_7Xol0fi
 
 fakea ± `en` @Ilmen #s8d50UYJG
 ▯ is a robot (not necessarily humanoid).
+
+fakeru ± `en` @seaqtaq #lFwfl2AP4
+▯ is a discoverer/explorer
 
 fakıq ± `en` @seaqtaq #Crsppf4oo
 ▯ is a visiplate
@@ -23692,7 +23707,7 @@ haodoe ± `en` @uakci #gZ649ZiLI
 haofaq +1 `en` @uakci #8xP-kGTxO
 Some unspecified salient proposition is the case.
 
-haogaq +4 `en` @seaqtaq #8gud3BaWc
+haogaq +5 `en` @seaqtaq #8gud3BaWc
 ▯ hangs out with ▯
 
 haogaq ± `en` @fagri #W8PrKTPOc
@@ -23755,7 +23770,7 @@ One/you/they (generic impersonal pronoun) satisfies property ▯.
 hapaka ± `en` @Hoemai #MNZdyf9YL
 ▯ is an alpaca (Vicugna pacos).
 
-hapı +4 `en` @Ilmen #E8V-Kqn8Y
+hapı +5 `en` @Ilmen #E8V-Kqn8Y
 ▯ is a bee.
 
 hapıa ± `en` @robintown #yf7B8lN6H
@@ -23793,6 +23808,9 @@ haqbaı ± `tok` @el #b2EnYVCuY
 
 haqbaı ± `pl` @jiqci #9cO8ydvBc
 ▯ gotuje/przygotowuje ▯.
+
+haqbaı ± `en` @robintown #4qPYRGaDS
+▯ prepares food / cooks / bakes.
 
 haqbaıcase ± `en` @fagri #xWsizQtfF
 ▯ is a recipe
@@ -28562,6 +28580,9 @@ jaıchaq ± `en` @kazoo #WK0kxDwMF
 jaıchoa +1 `en` @fagri #V-xCTwtzK
 ▯ makes a happy sound, especially a nonverbal or at least non-grammatical one
 
+jaıdı ± `en` @lassc #a8Ij8FRh0
+interjection: "hiya!"; emphatic greeting
+
 jaıdıru ± `en` @Laqme #ifyPsce-5
 ▯ sends well-wishes / wishes happiness upon ▯.
 
@@ -29693,9 +29714,6 @@ jeoneuchu ± `en` @Ilmen #CythTEHdZ
 
 jeonue ± `pl` @jiqci #BWNz0NVvJG
 ▯ obiecuje ▯, że ▯ zachodzi.
-
-jeonue -2 `en` @official #KWn6x43SPy
-predicate: ‘promise’; ▯ promises to ▯ that ▯ is the case.
 
 jeonueqlıao ± `en` @Snow #cTY1s2wxB
 ▯ is a hon-shimeji mushroom. ▯ is Lyophyllum shimeji.
@@ -32226,6 +32244,9 @@ predicate: ‘rule’; ▯ is a rule/law.
 juao ± `pl` @jiqci #xb08lbizs2
 ▯ to reguła/prawo
 
+juao ± `tr` @kazoo #tx9e6wpxC
+▯ kural/yasadır.
+
 juaobue ± `en` @Machy #ST-ZpvQfo
 ▯ is an abode / legal/formal residence of ▯.
 
@@ -34632,7 +34653,7 @@ katana ± `en` @Ilmen #GuN1A8nt1
 kataraı ± `en` @TheAndSys #akR807YQd
 ▯ is an Object (technical term for use in card games where the word "kata" is reserved for something more specific)
 
-kato +8 `en` @Ilmen #mih9DrlXs
+kato +9 `en` @Ilmen #mih9DrlXs
 ▯ is a cat.
 
 kato ± `en` @official #8xeYTnotf
@@ -34784,6 +34805,9 @@ predicate: ‘have.right’; ▯ has the right to satisfy property ▯.
 
 keaı ± `pl` @jiqci #kmXx8GlSum
 ▯ ma prawo do spełniania własności ▯.
+
+keaı ± `tr` @kazoo #VD2mNSokn
+▯, ▯ niteliğini tamamlamaya hakkı var.
 
 keaıcoı ± `en` @uakci #vNumP6cFQ
 ▯ has universal right ▯.
@@ -35281,6 +35305,9 @@ kerojeqdabo ± `en` @Ilmen #vyCUakfew
 
 kerozeo ± `en` @Laqme #3oQ5Cy6L6
 ▯ is a citrus fruit.
+
+keru ± `en` @seaqtaq #3w4XMiG-G
+▯ is a pioneer in / at the forefront of / a member of the vanguard of movement/field/discipline ▯
 
 kesı ± `en` @jiqci #XhfCho2SB
 ▯ is a lizard.
@@ -41607,6 +41634,9 @@ loqsheq ± `en` @Laqme #6gmajg2Ox
 loqtıaı +2 `en` @fagri #X9PSWgI4T
 ▯ is an oven, kiln, or other enclosed space used to heat stuff to very hot temperatures
 
+loqtoq ± `en` @lassc #yu_7RsUi-
+▯ is a sandwich/waffle maker.
+
 loqtue ± `en` @robintown #Q7O7zEcXZ
 ▯ is a heat wave.
 
@@ -45128,7 +45158,7 @@ mıqmuao ± `en` @uakci #7UH2VglYg
 mıqnao ± `en` @Laqme #NyqAYHfFB
 ▯ is seawater.
 
-mıqpaı +1 `en` @Laqme #iehTvBQe9
+mıqpaı +2 `en` @Laqme #iehTvBQe9
 ▯ is a "BFF" (eternally loyal, "would do anything", ride-or-die, etc. kind of friend) of ▯.
 
 mıqrıao ± `en` @robintown #IJYkLniD6
@@ -47824,6 +47854,9 @@ naıpu -1 `en` @fagri #NUnMVxJol
 
 ⚠ naıq ± `en` @mimiaoganhaqpy #yf9fRAyPl
 ▯ would cause angels to weep.
+
+naırao ± `en` @Laqme #bYif6cyuI
+▯ is current / is happening now.
 
 naısu +1 `en` @evie #KDFlcsL1a
 interjection: 'nice!'
@@ -53537,6 +53570,9 @@ Osoreılıagua ± `en` @countries #VWMFxLcT64s
 Osumaqgua ± `en` @kazoo #kOME2Qjxb
 ▯ is the Ottoman Empire
 
+osherem ± `en` @kazoo #-Z9AQ93nK
+▯ is Ottoman sherbet.
+
 ota ± `en` @Machy #R6_PaVBcW
 ▯ are oats(the food).
 
@@ -55885,6 +55921,12 @@ ponazufu ± `en` @jiqci #mEpjCytGx
 
 ponazupoq ± `tok` @el #7jshZUecb
 ▯ li jan pi toki pona
+
+popa ± `en` @lassc #AQthnsZ_B
+onomatopoeia: "pop", "bang", "crack", "shoot"
+
+popanam ± `en` @lassc #bFzeLqyMG
+▯ is a toaster.
 
 popı ± `en` @robintown #UbR21YCsM
 ▯ is a poppy.
@@ -65965,6 +66007,9 @@ shaqkıa ± `en` @Ilmen #EwKG7u7Zz
 shaqkua ± `en` @seaqtaq #IXvxtDNKZ
 ▯ is an antechamber/vestibule
 
+shaqleoqche ± `en` @seaqtaq #POoNvZRAr
+▯ is a vanguard (of some army or force)
+
 shaqlıe ± `en` @seaqtaq #nR_w2JhWS
 ▯ experiences ▯ irl/in real life
 
@@ -66160,11 +66205,11 @@ sheaq +1 `en` @fagri #m1RJsJIKM
 sheaq ± `ja` @Laqme #bL2Mi5VQP
 ▯は▯の上に立っている
 
-sheaq ± `en` @uakci #W8btyJRZ9
-▯ stands on ▯; ▯ is upright.
-
 sheaq ± `pl` @jiqci #qVrLhD86jv
 ▯ stoi na ▯.
+
+sheaq -1 `en` @uakci #W8btyJRZ9
+▯ stands on ▯; ▯ is upright.
 
 sheaq'ocha ± `en` @jiqci #r3Qo0NMtZ
 ▯ is a Homo erectus.
@@ -66544,7 +66589,7 @@ shetoame ± `en` @evie #LZnSVzF7s
 shetuq ± `en` @uakci #edV2cxiRf
 ▯ iff ▯; ▯ is the case if and only if ▯ is the case.
 
-shéu +5 `en` @kazoo #WJvoMa722
+shéu +7 `en` @kazoo #WJvoMa722
 plural coordinator: range between
 
 sheu'acı ± `en` @jiqci #SWSAn2G0z
@@ -68842,6 +68887,9 @@ taocıuq ± `en` @lassc #ljgCbqswb
 taocha ± `en` @Ilmen #N9t8FZbSd
 in event ▯, ▯ is an agent-patient.
 
+taocheaı ± `en` @Laqme #-ktm7X6H2
+▯ does whatever comes naturally / goes with the flow / doesn't force things.
+
 taochı ± `en` @uakci #N5zaPPawH
 ▯ plans/intends/is going to do ▯.
 
@@ -69060,9 +69108,6 @@ taoroakoı ± `en` @seaqtaq #P6Hr_EBw5
 
 taorue ± `en` @robintown #MyM3VIq5E
 ▯ is timid/shy.
-
-taosala ± `en` @seaqtaq #3zcc1ERi8
-▯ pioneers satisfying property ▯
 
 taosapa ± `en` @Ilmen #Q7-fuZD95
 ▯ accepts/agrees to satisfy property ▯.
@@ -73847,6 +73892,9 @@ Ugaqdagua ± `en` @countries #m-NQF5YhavT
 
 ugı +1 `en` @Ilmen #lZvggPGCL
 ▯ is fair/just/equitable.
+
+ugı ± `tr` @kazoo #ZvIY5FLRJ
+▯ adil/adaletlidir.
 
 ugıjıaq ± `en` @eednb #qjLtgwknq
 ▯ is a heaven/valhalla (positive connotation)
