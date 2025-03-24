@@ -1055,6 +1055,9 @@ aomosoaq ± `en` @robintown #i7ZgFmGsj
 aona +1 `en` @Hoemai #tKhhWkwvG
 ▯ comes to ▯.
 
+aonam +2 `en` @Laqme #fvBDUHDAM
+interjection: come over here, c'mere
+
 aono ± `en` @uakci #VRrmfopto
 ▯ is the case according to textual medium ▯; ▯ is true in-universe.
 
@@ -1294,6 +1297,9 @@ aqnha +1 `en` @uakci #xvjMED8LH
 
 aqpılaı ± `en` @jiqci #R9WDJDWzZ
 ▯ is adenosine
+
+aqpılaozu ± `en` @Ilmen #QcbPYsbGo
+▯ is the APL programming language.
 
 aqpızeq ± `en` @jiqci #ridPB4i8m
 ▯ is adenine.
@@ -2506,6 +2512,9 @@ focus prefix: ‘[contrastive.focus]’; contrastive focus
 
 béı ± `en` @official #G5zvBOQsKYu
 focus particle: ‘FOC.CONTR’; contrastive focus
+
+beı'ıq ± `en` @Ilmen #CV1nOr_JH
+contrarily to your expectation, it's ▯ which is what has property ▯; ▯ is the answer to the question of what satisfies property ▯, which I expect is not the answer you expected.
 
 beı'o ± `en` @Ilmen #Nu5r_TUBm
 ▯ is wine (an alcoholic beverage made by fermenting the juice of grapes).
@@ -5348,6 +5357,9 @@ predicate: ‘boomerang’; ▯ is a boomerang.
 bumeraq ± `pl` @jiqci #APTctzi9y
 ▯ to bumerang.
 
+bumı ± `en` @lassc #oIwYP4xEd
+▯ is something from the ground; ▯ is earth (element).
+
 bumuojuı +1 `en` @uakci #JiZGp0W-f
 ▯ is hardly/barely even the case; ▯ is at the brink of not being the case at all.
 
@@ -6455,7 +6467,10 @@ casaı ± `en` @uakci #BldsxZCks
 casaı'aı ± `en` @uakci #exfofXwdQ
 ▯ is nutritious/stuffy/hearty.
 
-case +1 `en` @Machy #9nFygiMYP
+case +1 `en` @Laqme #jBh6nAzAm
+▯ is an effect / result.
+
+case ± `en` @Machy #9nFygiMYP
 ▯ is a process.
 
 cası ± `en` @Machy #kYvFmd02P
@@ -6911,6 +6926,12 @@ cesafeı ± `en` @jiqci #bh2JplPpF
 cesanao ± `en` @el #TY-2jHGvo
 ▯ is sparkling water
 
+cesasa ± `en` @Ilmen #sJY9r69A3
+▯ is data in CSS file format.
+
+cesasafaılu ± `en` @Ilmen #oTMqKEcCv
+▯ is a CSS file.
+
 cesasha ± `en` @uakci #U6xOqVmq5
 ▯ boils/seethes/simmers.
 
@@ -7024,6 +7045,9 @@ cıa ± `tok` @nano #4UP7ZF5ge
 
 cıa ± `pl` @jiqci #fiw34u6T-l
 ▯ brakuje/ma brak własności ▯.
+
+cıa ± `en` @Laqme #BaEtxfuM7
+▯ is without property ▯.
 
 cıa -1 `tok` @el #qOfu7f37H
 ▯ li ▯ ala
@@ -14755,9 +14779,6 @@ doroq ± `en` @robintown #hyv_6tJP9
 doroqgıonhoqpuıtefamuao ± `en` @Ilmen #YAoxEViYd
 ▯ are trees wrapped in optical fiber cables ▯ left over time by countless passing-by optical fiber FPV drones.
 
-doroqgıonhoqtefasıoqchao ± `en` @Ilmen #s4Uv5mF94
-▯ is a vehicle whose wheels have got tangled in mass ▯ of FPV drone optical fiber cables.
-
 doroqmeaq ± `en` @Ilmen #m58hXr4wB
 ▯ is a naval drone, an unmanned sea vehicle (USV).
 
@@ -16174,6 +16195,9 @@ eq'elu ± `pl` @jiqci #B6KT1OsDxP
 eqbı ± `en` @uakci #lHlUlfzMX
 ▯ is nonbinary.
 
+eqbu ± `en` @lassc #zLFnBq9TS
+▯ is not even ▯.
+
 eqchı ± `en` @uakci #axigcxVmn
 ▯ perceives ▯ as the kind of thing that satisfies property ▯; ▯ mentally classifies or registers ▯ as something of kind ▯ (property).
 
@@ -16560,6 +16584,15 @@ Property ▯ is common/frequent among ▯.
 
 faılıao ± `en` @Laqme #pbt8080uM
 ▯ is a common/button/white/champignon/chestnut mushroom (Agaricus bisporus).
+
+faılu ± `en` @Ilmen #Qcj1EEpLR
+▯ is a computer file.
+
+faıluchıu ± `en` @Ilmen #EmuQqBrEY
+▯ is a file path of file ▯.
+
+faıluchua ± `en` @Ilmen #pA5G4aBpE
+▯ is a filename of file ▯.
 
 faımıe ± `en` @seaqtaq #B-BiefgZJ
 ▯ is a cenobite/monk/member of a monastic order or convent
@@ -19267,11 +19300,11 @@ Gaqmatoaq ± `en` @uakci #gargUTmrT
 gaqme +1 `en` @Ilmen #ZE5V5iKLo
 ▯ is a group/band/gang/pack/herd/swarm/flock of the animals/people satisfying property ▯.
 
+gaqme ± `en` @official #IRT35tGCaKH
+predicate: ‘group’; ▯ is a group/team/gang/band.
+
 gaqme ± `en` @Ilmen #9LVGphnvO
 ▯ is a community (group of interacting organisms).
-
-gaqme -1 `en` @official #IRT35tGCaKH
-predicate: ‘group’; ▯ is a group/team/gang/band.
 
 gaqme ± `en` @uakci #5c9OcXA1z
 ▯ is a group/band/gang/pack/herd/swarm/flock of people/animals ▯.
@@ -19290,6 +19323,9 @@ gaqnua ± `en` @uakci #xMVD5AmBZ
 
 gaqnuao ± `en` @Ilmen #eHEgU071g
 ▯ is a synapsid.
+
+gaqnhue ± `en` @Laqme #jJ3FsX9xF
+▯ is lonesome.
 
 gaqpoaq ± `en` @Laqme #gNKpJNtxY
 ▯ part (finish hanging out / stop accompanying each other).
@@ -24724,6 +24760,9 @@ heqka +1 `en` @Laqme #rRFOTPdZw
 heqkachuo +1 `en` @Laqme #NJ9glgrr8
 ▯ is a can opener.
 
+heqkao ± `en` @Ilmen #DvXl7wnQU
+file ▯ contains data ▯ (whole content).
+
 heqkulu ± `en` @Laqme #FLkQKRWg-
 ▯ pours the contents of ▯.
 
@@ -24829,6 +24868,15 @@ heseoq +1 `en` @Machy #bRq30CvLG
 hesıa ± `en` @uakci #buY7a2iT_
 ▯ is an empty set/collection.
 
+hetımalao ± `en` @Ilmen #g54Nmi_kw
+▯ is data in HTML format.
+
+hetımalaofaılu ± `en` @Ilmen #Bk_qN1-tk
+▯ is an HTML file.
+
+hetımalaozu ± `en` @Ilmen #2aLNAIeep
+▯ is the HTML language.
+
 heu ± `en` @Ilmen #vwoFAK-9M
 particle: this particle is placed between two serial predicates, the second of which beginning on a high-falling tone; the serial predicates on both sides are each considered as if they were single predicate words, and their meanings and argument structures combine serially according to the usual serialization rules.
 
@@ -24919,7 +24967,7 @@ hıa ± `en` @uakci #SpDQxv5xQ
 hıa ± `en` @uakci #D4NgXFm9t
 ▯ is what? ▯ satisfies what property?
 
-hıaba ± `en` @Laqme #TmY7QK-l1
+hıaba +1 `en` @Laqme #TmY7QK-l1
 echo question version of **hıa**: "▯ is what now?"
 
 hıafaq +1 `en` @mimiaoganhaqpy #Ayo1fOdl2
@@ -26107,7 +26155,7 @@ hoela +2 `en` @TheAndSys #ktJybt0FK
 hoelıaq ± `en` @Machy #WEslVbpLr
 ▯ is a Toaq adaptation of the Elian script.
 
-hoeloha +4 `en` @Ilmen #JR75rHIKR
+hoeloha +5 `en` @Ilmen #JR75rHIKR
 ▯ is gold.
 
 hoeloha ± `tok` @el #PalYy0OIM
@@ -27664,7 +27712,7 @@ Tense: absolute existential future.
 ıjıa ± `en` @Ilmen #uS5C_1ItA
 Tense: future (absolute)
 
-ıjo +1 `en` @fagri #x1s1-wvZO
+ıjo +2 `en` @fagri #x1s1-wvZO
 ▯ shows/presents ▯
 
 ıjoboe ± `en` @robintown #ekNwMlccf
@@ -28478,6 +28526,9 @@ determiner: ‘X’; lambda
 Ja'aıjaoza ± `en` @Ilmen #wQYAkVi_I
 ▯ is Betelgeuse.
 
+ja'eqmalao ± `en` @Ilmen #q59YZameI
+▯ is data in YAML format.
+
 jabı ± `en` @uakci #DSQlP6jJh
 ▯ is a predicate.
 
@@ -28580,7 +28631,7 @@ jaıchaq ± `en` @kazoo #WK0kxDwMF
 jaıchoa +1 `en` @fagri #V-xCTwtzK
 ▯ makes a happy sound, especially a nonverbal or at least non-grammatical one
 
-jaıdı ± `en` @lassc #a8Ij8FRh0
+jaıdı +1 `en` @lassc #a8Ij8FRh0
 interjection: "hiya!"; emphatic greeting
 
 jaıdıru ± `en` @Laqme #ifyPsce-5
@@ -30582,8 +30633,11 @@ jıdao ± `en` @Ilmen #ZRMTVqXSM
 jıe- ± `en` @uakci #XBOwn9yvl
 prefix: X understood subjectively / as judged by a personal standard / from a personal viewpoint
 
-jıe +4 `en` @robintown #YbopIs6U-
+jıe +3 `en` @robintown #YbopIs6U-
 ▯ deems/judges/finds ▯ to be the case.
+
+jıe -1 `en` @official #F1GlTqD-eg
+predicate: ‘deemed’; ▯ is as ▯ deems/judges/evaluates things to be.
 
 jıe ± `toa` @uakci #Bdo9hycCo
 mıu dógu sa lú she dóshı dó da
@@ -30596,9 +30650,6 @@ jıe ± `zh` @mimiaoganhaqpy #LHpz6vscW
 
 jıe ± `pl` @jiqci #ChDKuqKZtg
 ▯ jest według/jak uważa/sądzi ▯.
-
-jıe -2 `en` @official #F1GlTqD-eg
-predicate: ‘deemed’; ▯ is as ▯ deems/judges/evaluates things to be.
 
 jıeba +1 `en` @Laqme #1T19T4GiC
 interjection: "dude!", "holy shit!"
@@ -30746,6 +30797,9 @@ response to / acknowledgment of **kıkı** (cf **kıjı**→**jıkı**)
 
 jıjıe ± `en` @Laqme #o14fTIn40
 ▯ is how I deem/judge things to be / is my opinion.
+
+jıka ± `en` @ijonetun #5eQ2gmpj7
+▯ is unique / iconic / bold / passionate / fierce.
 
 jıkı +2 `en` @fagri #2ttbV5Mfp
 Interjection: acknowledgement of **kıjı**
@@ -31017,6 +31071,12 @@ jıoqlu ± `en` @uakci #jInaL88Vs
 jıoqmıu ± `en` @Laqme #cNWcrVFj4
 ▯, by weighing all the relevant factors / analyzing all the facts, opines that ▯ is the case.
 
+jıoqpım ± `en` @Laqme #vsjl4MOcJ
+▯ is a computational effect / side effect.
+
+jıoqpımdoem ± `en` @Laqme #nhAg36ebD
+▯ is an effects system.
+
 jıoqrıoq ± `en` @Laqme #MVvCtR5Zt
 ▯ is a (mathematical) category.
 
@@ -31031,6 +31091,9 @@ jıoqseı ± `en` @uakci #FmbJfFpSG
 
 jıoqsıla ± `en` @jiqci #N_pfoaRlF
 ▯ is a computing thread.
+
+jıoqsıq ± `en` @Laqme #ClCmkHeE8
+▯ is computationally pure.
 
 jıoqsoeı ± `en` @Laqme #XK8hrl8ff
 ▯ has dyscalculia.
@@ -31268,6 +31331,12 @@ jısı +2 `en` @TheAndSys #42sPrqIA4
 
 jísıenı ± `en` @uakci #0ELtMdpUC
 cataphoric pronoun: the following sentence to be uttered by me
+
+jısoq ± `en` @Ilmen #xwfWxpDVE
+▯ is data in JSON format.
+
+jısoqzu ± `en` @Ilmen #9sSFdZRmt
+▯ is the JSON file format.
 
 jısuq ± `en` @Ilmen #K9Upn8t6r
 I am in binary relation ▯ with you.
@@ -31770,7 +31839,7 @@ joı ± `tok` @el #n4QauB2qi
 joı ± `pl` @jiqci #lBk2qsqt90
 ▯ zachodzi razem z ▯.
 
-joıcıa ± `en` @seaqtaq #Po6e67_W-
+joıcıa +1 `en` @seaqtaq #Po6e67_W-
 ▯ occurs without ▯ occuring; ▯ is the case without ▯ being the case
 
 joıgı ± `en` @salarua #wp8cVoqRT
@@ -33101,6 +33170,12 @@ juotaogaq ± `en` @fagri #YzvIDKlNG
 
 juotoq ± `en` @robintown #j9ghwWnm1
 ▯ is a bulletin board / notice board.
+
+jupıgu ± `en` @Ilmen #TbsO3VpXT
+▯ is data in JPEG, JPG format.
+
+jupıgufaılu ± `en` @Ilmen #kS4LqtHst
+▯ is a JPEG, a JPG file.
 
 jupu ± `en` @Laqme #sdvuM195x
 ▯ skips / excludes ▯ in relation ▯.
@@ -35465,7 +35540,7 @@ kıalıese ± `en` @Ilmen #tk27ReC8b
 kıaloa ± `en` @uakci #s96UAtobm
 ▯ is a spectrum of ▯; ▯ is the gamut of all the possible extents to which ▯ may be satisfied.
 
-kıaloha +1 `en` @Ilmen #Nj-UtultK
+kıaloha +2 `en` @Ilmen #Nj-UtultK
 ▯ is copper.
 
 kıaluqke ± `en` @jiqci #B2wMfm1Fq
@@ -35675,7 +35750,7 @@ kıcıotıe ± `en` @robintown #8LZwTzIA_
 kıcıu ± `en` @uakci #0BwCjuzzm
 ▯ produces mucus; ▯ has a runny nose.
 
-kıdo +1 `en` @Laqme #fanJD4ACg
+kıdo +2 `en` @Laqme #fanJD4ACg
 ▯ is copper.
 
 kıdolueke ± `en` @jiqci #LQP3YQIuu
@@ -37192,6 +37267,9 @@ ku'aı ± `en` @seaqtaq #tEiknLi87
 
 ku'aq ± `en` @Ilmen #XUPoSlarc
 ▯ displays, noticeably satisfies property ▯ with the hope that something satisfying property ▯ perceives it.
+
+ku'ıq ± `en` @Ilmen #A_uAeCVEP
+it's ▯ which is what has property ▯; ▯ is the answer to the question of what has property ▯, and I’m saying this either because the question was explicitly asked, or because I otherwise think it’s useful to point out.
 
 kua ± `en` @official #yO835ItRF
 predicate: ‘room’; ▯ is a room.
@@ -38837,6 +38915,12 @@ laızızeo ± `en` @Ilmen #8qW2_JzRt
 lajeq ± `en` @Ilmen #5xnqKs5P1
 ▯ being the case is the same thing as ▯ being the case; ▯ and ▯ logically entail each other.
 
+lajı ± `en` @lassc #sgP-Bass-
+▯ stains/discolors/tarnishes ▯.
+
+lajıse ± `en` @lassc #IXTydmzix
+▯ is a stain/discoloration.
+
 lajoq ± `en` @Laqme #5aSLdo94G
 ▯ is a hook/chorus (memorable/main part of a song).
 
@@ -39982,7 +40066,7 @@ lezurom ± `en` @Laqme #o94wynLn8
 illocution: requestive
 
 lı- ± `en` @lassc #ciQ4ovqmE
-prefix: "-level", "difficulty"; niche prefix used to denote levels of difficulty within a range
+prefix: "-level"; level/tier/stage/status/rank of X
 
 lı ± `en` @uakci #phXJYoHPd
 As a general rule, one satisfies, with ▯, relation ▯; [≈ **he** **ıqha**]
@@ -40419,7 +40503,7 @@ lıla +2 `en` @robintown #HJHWokbQU
 lılalıao ± `en` @Snow #dfpkcJn5a
 ▯ is a wood blewit. ▯ is Collybia nuda.
 
-lıluhoajajuao ± `en` @ykulvaarlck #9N7NqSaW3
+lıluhoajajuao -1 `en` @ykulvaarlck #9N7NqSaW3
 ▯is a syntactic rule for the usage of lı and lu
 
 lılulılululı -1 `en` @Machy #DQmsuB6uu
@@ -41312,6 +41396,9 @@ lohakoaı ± `en` @uakci #Hham6GMiQ
 
 lohakulu ± `en` @jiqci #O0495nYEP
 ▯ casts ▯ out of molten metal.
+
+lohalajı ± `en` @lassc #9SPugznKG
+▯ is rust.
 
 lohaluaı -1 `en` @uakci #4d8IRNdF7
 ▯ is ironic; ▯ is funny in how it turns out or was said with the intention of being contrary to one’s expectation.
@@ -44376,7 +44463,7 @@ mıajoaı ± `en` @jiqci #weiw0SSYs
 mıakuaı ± `en` @uakci #oRBhFIMUs
 ▯ wants to engage in ▯; ▯ wants to be places.
 
-mıala +1 `en` @Laqme #zCTRGnD-L
+mıala +2 `en` @Laqme #zCTRGnD-L
 ▯ is silver.
 
 mıalaıbıa ± `en` @Hydro #ocHNZpxAn
@@ -44433,7 +44520,7 @@ mıaodoaı ± `en` @Hydro #BbDUbIdbA
 mıaogıo ± `en` @fagri #MqC4-v7v7
 ▯ is moonlight
 
-mıaoloha +3 `en` @Ilmen #udkrtbuKB
+mıaoloha +4 `en` @Ilmen #udkrtbuKB
 ▯ is silver.
 
 mıaoluko ± `en` @robintown #LJKG1hN98
@@ -44507,6 +44594,9 @@ mıaqmıq ± `en` @fagri #n3lE2aXeI
 
 mıaqmıq ± `en` @robintown #i-qNPD3ho
 ▯ is invaluable/priceless/precious.
+
+mıaqnhue ± `en` @Laqme #_PawLqDJq
+▯ is worthless.
 
 mıaqsao ± `en` @robintown #MKZfw7kD3
 ▯ is valuable/precious.
@@ -45456,7 +45546,7 @@ moalaı ± `en` @Ilmen #MxbEcIcIX
 ▯ is a dot, period, or full stop (written character).
 
 moalaıgom ± `en` @ijonetun #QOEMOoMIg
-▯ is a mistake involving writing dots where there shouldn't be or vice versa.
+▯ accidentally writes dots where they shouldn't be or vice versa.
 
 moalaıpue ± `en` @mimiaoganhaqpy #rzQxZw8gd
 ▯ is the dot below diacritic.
@@ -47021,6 +47111,9 @@ muınıemu ± `en` @uakci #-1f9D_rgD
 muınua ± `en` @Laqme #Vv8KXS4nr
 ▯ interprets ▯ as meaning ▯.
 
+muınhue ± `en` @Laqme #WPfklSonR
+▯ is nonsensical / gibberish.
+
 muıpaq ± `en` @uakci #KKzsHnCCo
 ▯ is a nuance/entailment contained within word ▯.
 
@@ -47855,7 +47948,7 @@ naıpu -1 `en` @fagri #NUnMVxJol
 ⚠ naıq ± `en` @mimiaoganhaqpy #yf9fRAyPl
 ▯ would cause angels to weep.
 
-naırao ± `en` @Laqme #bYif6cyuI
+naırao +1 `en` @Laqme #bYif6cyuI
 ▯ is current / is happening now.
 
 naısu +1 `en` @evie #KDFlcsL1a
@@ -48700,6 +48793,9 @@ neagıaq ± `en` @nabbbyspi #P4oxDYgDo
 
 neaı +1 `en` @Laqme #mNW4nz0jE
 ▯ proves / shows / demonstrates that ▯ is the case.
+
+neaıbaıse ± `en` @Laqme #oBHjGC1Pu
+▯ is a proof-of-concept / prototype.
 
 neaıfao ± `en` @robintown #vtskK8gWV
 QED; I have proven that which was to be proven.
@@ -50648,6 +50744,9 @@ nıusoaq ± `en` @Laqme #g673dA-BK
 nıushuaqdıu ± `en` @seaqtaq #nAhDZczXT
 (fork of #teR-oLaTU) ▯ is agriculture.
 
+nıutefa ± `en` @lassc #XX6ug-IY4
+▯ is overgrown.
+
 nıutıaı ± `en` @robintown #0FxK5clO7
 ▯ is a planter.
 
@@ -51036,7 +51135,7 @@ noıtua ± `en` @robintown #ixxE7yvf4
 ▯ hurts / inflicts pain on ▯.
 
 noja +1 `en` @Laqme #jOYzrarxZ
-▯ adapts/converts/translates ▯ into medium/format/language ▯.
+▯ adapts/converts/translates ▯.
 
 nojase ± `en` @Laqme #3i4t2gSWp
 ▯ is a translation/adaptation.
@@ -52673,6 +52772,9 @@ nhaqdeo ± `en` @seaqtaq #lYGXnH2a_
 nhaqdı +1 `en` @nano #PsCUGzRCI
 interjection: "hai", "hewwo"; (cutesy hi/hello)
 
+nhaqla ± `en` @mimiaoganhaqpy #rx0v8j2YK
+▯ is a kitty-cat.
+
 nhaqluaı ± `en` @nano #mjoOLvzRZ
 ▯ is silly :3
 
@@ -53038,6 +53140,9 @@ nhubı ± `en` @Ilmen #zKsxMJa2I
 
 nhubıkıu ± `en` @jiqci #xICrNTii0
 ▯ is differentiable.
+
+nhue ± `en` @Laqme #gN8roi9_0
+▯ lacks / is missing property ▯.
 
 nhuga -1 `en` @Ilmen #LfbN5n_5C
 ▯ is the integral of function ▯ (binary predicate) over the interval ranging from ▯ to ▯.
@@ -53757,7 +53862,7 @@ paıluo +2 `en` @Laqme #AS1xKLwS8
 ▯ is a found family (friends who consider each other family).
 
 paımana +1 `en` @ijonetun #hNCHSHAan
-▯ is the "power of friendship"; the energy/motivation given to ▯ from the presence/support of their friends.
+▯ is the "power of friendship"; the energy/motivation given to one from the presence/support of their friends.
 
 paıme +1 `en` @Laqme #3xmADPafW
 ▯ is a friend group / circle of friends.
@@ -54017,6 +54122,9 @@ predicate: ‘lack’; ▯ lacks part ▯; ▯ is missing part ▯.
 paqcıa ± `pl` @jiqci #kdjVkqEC6R
 ▯ brakuje części ▯.
 
+paqcıa ± `en` @Laqme #1wkPtJN4A
+▯ is without / doesn't have part ▯.
+
 paqcueme ± `en` @Ilmen #5U6Lr-qxf
 ▯ is a partially self-governing province/state of federation ▯.
 
@@ -54145,6 +54253,9 @@ paqnua ± `pl` @jiqci #xAbKmO6vU-
 
 paqnuı ± `en` @seaqtaq #Vkq2Gzpy1
 ▯ is a little bit of ▯
+
+paqnhue ± `en` @Laqme #4TpKLpPVi
+▯ is lacking/missing part ▯.
 
 paqpaqgua ± `en` @kazoo #bqAsL9sds
 ▯ is a subdivision of a province.
@@ -54908,6 +55019,9 @@ pıdufodao ± `en` @Ilmen #McAR8Oxkr
 pıdufodaozu ± `en` @Ilmen #1g2zgfKGj
 ▯ is the PDF file format.
 
+pıdufofaılu ± `en` @Ilmen #XApZwOukh
+▯ is a PDF file.
+
 pıdufokao ± `en` @Ilmen #ogxG_dL0v
 ▯ is a PDF file.
 
@@ -55097,6 +55211,12 @@ pımıeqta +1 `en` @seaqtaq #6b7M81QRX
 pımna +1 `en` @Laqme #lyks0qqFY
 interjection: 'secondarily / incidentally / as a side note / PS / by the way…'
 
+pınagu ± `en` @Ilmen #MW0k4GO7h
+▯ is data in PNG format.
+
+pınagufaılu ± `en` @Ilmen #wivDo5Ggb
+▯ is a PNG file.
+
 pınu ± `en` @Ilmen #UKHQwYR2S
 ▯ is a pine tree.
 
@@ -55153,6 +55273,9 @@ pıohoe ± `en` @seaqtaq #mPjAod_bN
 
 pıohoe ± `tok` @el #x5Fwx0Eoi
 ▯ li mun ma
+
+pıolıuq ± `en` @lassc #caKqqlsZv
+▯ is a stratum.
 
 pıoloha ± `en` @Ilmen #Jk5wUgliS
 ▯ is lithium.
@@ -55774,6 +55897,9 @@ poha ± `en` @Ilmen #ic9ATvkQ1
 
 poha ± `toa` @Ilmen #oVL2vNRwv
 = po há ga ▯.
+
+pohasıq ± `en` @Laqme #0pW9pPsxz
+▯ is referentially transparent.
 
 pohı ± `en` @Ilmen #8LWC_PvWn
 ▯ is whose?
@@ -58284,7 +58410,7 @@ interjection (or &' phrase?): "and so on"
 rem- ± `en` @seaqtaq #fBJ8pO07P
 prefix: turns a verb x into a verb meaning "Something associated with ▯ is/does X"
 
-rem +1 `en` @uakci #9Og5oDsso
+rem +2 `en` @uakci #9Og5oDsso
 ▯ is the surface of ▯.
 
 reme ± `en` @kazoo #PFaXKJD-n
@@ -58295,6 +58421,9 @@ remne ± `en` @jiqci #octoqqXHu
 
 remnhe ± `en` @seaqtaq #a1c4uueLJ
 ▯ has area ▯.
+
+remrea ± `en` @lassc #4_d3mgGFo
+▯ is topsoil/"the surface" (in reference to the Earth).
 
 remshoa ± `en` @seaqtaq #fSInqLBaW
 ▯ is a pit/gulf/basin/chasm/abyss
@@ -60467,9 +60596,6 @@ ruırualıao ± `en` @Snow #9Z-trznw8
 
 ruıshe ± `en` @robintown #JOlc4o84J
 ▯ is clearly/definitely the case; ▯ is clearly/definitely the case if ▯ is the case.
-
-rujeo +2 `en` @Ilmen #VWQTlFvnM
-▯ is the case and ▯ is the case; ▯ satisfies property ▯ and satisfies property ▯.
 
 rujı ± `en` @Ilmen #cGJA1Uh3e
 ▯ is cream.
@@ -66979,6 +67105,9 @@ shıjeo ± `en` @uakci #OGrIaN4sJ
 shıjeome ± `en` @xorxes #Xlzwct5Ne
 ▯ satisfy property ▯ one at a time.
 
+shıjo +1 `en` @lassc #Vtht4TjKk
+▯ introduces/establishes/presents ▯ for the first time.
+
 shıjue +1 `en` @fagri #tYqumr2-s
 ▯ is a January
 
@@ -70560,6 +70689,9 @@ tıbıao ± `en` @Machy #JytJjuH_b
 
 tıbıkıqme ± `en` @mimiaoganhaqpy #2XM8TaLmV
 ▯ is a television show.
+
+tıbo ± `en` @Laqme #FaX9KHKVd
+▯ has ▯ at it.
 
 tıbu ± `en` @Laqme #EHJzK-OF8
 ▯ is gone / missing / absent from ▯.
@@ -74301,6 +74433,9 @@ complémenteur: ‘COMP’; commence une proposition subordonnée déclarative
 ꝡä ± `lou` @eednb #aQqzc359_
 komplémentœr: ‘COMP’; komens in pròpozisyon sibòrdoné déklarativ
 
+ꝡa'emele ± `en` @Ilmen #R7Z1_Ic_L
+▯ is data in YAML format.
+
 ꝡa'oı ± `en` @uakci #5SWJedJhl
 ▯ is yaoi.
 
@@ -74309,6 +74444,9 @@ komplémentœr: ‘COMP’; komens in pròpozisyon sibòrdoné déklarativ
 
 ꝡada ± `en` @uakci #aGvhLssEW
 ▯ is a declarative statement.
+
+ꝡada ± `en` @Avaxar #kHL3_VFHb
+interjection: "that's it", "that concludes it", "I have nothing else to say", "I don't know what else to say"
 
 ꝡadı +2 `en` @robintown #6wr2MSm5L
 interjection: hi, hey
