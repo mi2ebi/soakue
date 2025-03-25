@@ -539,6 +539,9 @@ akao ± `en` @evie #pvrHkNGZQ
 akaraı +2 `en` @TheAndSys #Me_ZiNZh7
 interjection: ah shit, oh fuck
 
+akaraı ± `es` @TheAndSys #M7g7CFmXo
+interjección: "ah, caray"
+
 akatanı ± `en` @jiqci #DwDUjaT4r
 ▯ is a rhizome / rootstalk.
 
@@ -21733,6 +21736,9 @@ gomsı ± `en` @Laqme #hTw-y6f6D
 gomtea +1 `en` @ijonetun #xCY-MZIDq
 ▯ is the fear/dislike of making mistakes.
 
+gomtoa ± `en` @lassc #9wIc0kfaA
+▯ is a Toaq word originating from a mistake/confusion between two similar roots.
+
 gomu ± `en` @uakci #yMWx4j0W2
 The converse of ▯ is true; When the first and second arguments of proposition ▯ are swapped, it is the case.
 
@@ -23493,6 +23499,9 @@ better
 
 haha +1 `en` @Laqme #ZKDyjKcNz
 interjection: "haha" (laughter)
+
+haha ± `jbo` @zearen #3crmmGZAt
+smudu'i zo «.u'i»
 
 haı- +1 `en` @Laqme #XYYJYoDwZ
 pre-aspect: 'already'
@@ -29522,6 +29531,9 @@ jem ± `en` @salarua #j4fy5aJQI
 
 jem ± `toa` @salarua #MfpFLtjzS
 Nu ▯ jêq, ꝡä nu hú âo, ꝡä ▯.
+
+jemaı ± `en` @lassc #1ftO3S5GS
+▯ is incredible/unbelievable/unthinkable/awe-inspiring.
 
 jemarao ± `en` @TheAndSys #LXJabF_9j
 ▯ performs a (sacred) ritual
@@ -38429,6 +38441,9 @@ kuqkao ± `en` @Machy #M0fesOy4G
 kuqkıu ± `en` @Machy #G1sVIDx9P
 ▯ is remarkable to ▯.
 
+kuqkuoı ± `en` @lassc #mrf3SVTLZ
+▯ is semiverbal/semispeaking.
+
 kuqlaı ± `en` @Laqme #zVPDAb1vw
 ▯ is a phoneme.
 
@@ -38449,6 +38464,9 @@ kuqnu ± `pl` @jiqci #7YEr-bPc1n
 
 ⚠ kuqnu -1 `en` @oldofficial #UZlL270ai2H
 predicate: ‘alleged’; ▯ is said/alleged to be the case; ▯ allegedly satisfies property ▯.
+
+kuqnhue ± `en` @lassc #zEAlhBnWx
+▯ is nonverbal/nonspeaking.
 
 kuqpoaqse ± `en` @Laqme #9djqwp44V
 ▯ is a fragment (text).
@@ -54365,6 +54383,9 @@ parıq ± `en` @seaqtaq #gzrooyUTkMh
 parıqtı ± `en` @seaqtaq #_0JtZsC_p
 ▯ is pharyngeal/articulated at/using the pharynx
 
+parısaı ± `en` @zearen #ocR_oxB1z
+▯ is a Pharisee
+
 paro -1 `en` @wefs #nIbLqu-0I
 ▯ goes to a secured area and manages to convince the security forces in the area that said ▯ (subject) is allowed to be in said area but has someone else sabotage and foil their plans
 
@@ -61366,7 +61387,7 @@ some thing(s) has/have property ▯ (among the things having the property ▯)
 salı ± `toa` @Ilmen #8xWoDuWgj
 = [1] jeo sa ▯. = [1] bu tulı bu ▯. = [1X] salı lî jeo ja ▯ ru ▯.
 
-sam ± `en` @evie #1krb-QETx
+sam +3 `en` @evie #1krb-QETx
 ▯ locates/finds ▯
 
 sam ± `tlh` @evie #vpETxLSxr
@@ -67297,11 +67318,11 @@ Shı [ja poq] ru bı bu chıaqme póq
 shıposodaoluezeq ± `en` @jiqci #C8j9MvYdZ
 ▯ is flavin mononucleotide (FMN).
 
+shıq +2 `en` @Laqme #oL8jm7NcV
+▯ smells ▯.
+
 shıq ± `en` @official #IlyS9gYHEn
 predicate: ‘smell’; ▯ is olfactory; ▯ pertains to the sense of smell/olfaction.
-
-shıq +1 `en` @Laqme #oL8jm7NcV
-▯ smells ▯.
 
 shıq ± `pl` @jiqci #P4Mj0Nd98u
 ▯ jest nosowy/węchowy, związany ze zmysłem węchu.
@@ -67345,7 +67366,7 @@ shıqdenao ± `en` @uakci #Dz9fsZ6-D
 shıqduao ± `en` @Neaqbua #eCOF7TODT
 ▯ is sweet-smelling; ▯ has a sweet fragrance.
 
-shıqgaı ± `en` @official #Dk6HVmzjmyL
+shıqgaı -1 `en` @official #Dk6HVmzjmyL
 predicate: ‘smell’; ▯ smells state of affairs ▯.
 
 shıqgaı ± `toa` @robintown #9VB-z_5s0
@@ -69574,11 +69595,11 @@ te +1 `toa` @Ilmen #F7sWrRGKt
 te ± `toa` @uakci #3fJ5Q7g7K
 luı gujeo sa ráı dóshı dógu da
 
-⚠ te ± `en` @oldofficial #RWqVJt8Oik
-predicate: ‘-ed’; ▯ has been ▯-ed (property).
-
 te ± `ja` @uakci #SmChYzTbb
 ▯は二項関係▯が遣られたことがある
+
+⚠ te -1 `en` @oldofficial #RWqVJt8Oik
+predicate: ‘-ed’; ▯ has been ▯-ed (property).
 
 te -1 `pl` @jiqci #W9eEp8hhrz
 ▯ został ▯-ęty/ony; z ▯ została spełniona relacja ▯.
@@ -69699,6 +69720,9 @@ teaqjıeq ± `pl` @jiqci #spkZiDC_zE
 
 teaqkuoq ± `en` @jiqci #2q4usO6qB
 ▯ is a breastbone/sternum.
+
+teaqkuq ± `en` @lassc #rW-vmwXRC
+▯ solicits/woos/flirts at ▯.
 
 teaqlıem ± `en` @uakci #73x4Cc5TW
 ▯ is a brooch.
