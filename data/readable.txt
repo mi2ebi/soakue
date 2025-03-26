@@ -854,6 +854,9 @@ anoketoınue ± `en` @Ilmen #bvxusthWt
 anoketoınuecheo ± `en` @jiqci #4CF0cUHEU
 ▯ are at peace under MAD (mutually assured destruction).
 
+anokuaı ± `en` @lassc #_5Ktmt_3k
+▯ romantically crushes on ▯.
+
 anopoaq ± `en` @fagri #BOqq5XMO8
 ▯ break up (end a romantic relationship)
 
@@ -2560,6 +2563,9 @@ beınoq +1 `en` @Ilmen #iuRPE4pmq
 
 beınoqlıao ± `en` @Snow #Q_EG74UM0
 ▯ is a wine cap stropharia/burgundy mushroom. ▯ is Stropharia rugosoannulata.
+
+beıra ± `en` @Laqme #zJD5yjoXy
+▯ is a hill.
 
 beıso ± `en` @Ilmen #4a3EEcMJH
 ▯ is a virus (infectious agent).
@@ -4852,6 +4858,9 @@ buaqtaı ± `en` @jiqci #ZHdiu0t2Y
 
 buasıao ± `en` @seaqtaq #6e6l5_0bM
 ▯ is where ▯ hails from
+
+buasho ± `en` @seaqtaq #UR53NrbdG
+▯ settle/colonize (location) ▯
 
 buatı ± `en` @fagri #tCvkbPL_c
 ▯ is at ▯ in a manner that is like living there, but they don't live there
@@ -13490,6 +13499,9 @@ desom ± `en` @Laqme #DKFnYTixo
 desu ± `en` @uakci #TW8nYbf6E
 = **daha**
 
+deshue ± `en` @lassc #DhgArzSxK
+▯ is enamored with the beauty of ▯.
+
 detıao ± `en` @Laqme #oXCB62Wjm
 ▯ and ▯ go beautifully together; ▯ nicely suits / fits / looks good on ▯.
 
@@ -13733,11 +13745,17 @@ dıasuım ± `en` @jiqci #zvVMd9tGz
 dıba +2 `en` @Ilmen #hF5Nmfxp8
 ▯ replaces, substitutes for ▯ in having property ▯: the former now has the property, while the latter no longer has it (no agentivity implied).
 
+dıbabuasho ± `en` @seaqtaq #ECPjP_nDm
+▯ colonizes ▯; ▯ invasively populates ▯ while aggressively displacing its native inhabitants
+
 dıbacheokıu ± `en` @seaqtaq #XCB77VJqY
 ▯ are interchangeable
 
-dıbajeaq ± `en` @seaqtaq #yXEVkEq2q
-▯ colonizes ▯; ▯ invasively populates ▯ while displacing its native inhabitants (not necessarily volitional nor intentional)
+dıbadoaqla ± `en` @seaqtaq #jL5Gpnd1C
+▯ colonizes ▯; ▯ invasively populates ▯ while aggressively displacing its native inhabitants
+
+dıbajeaq ± `en` @seaqtaq #E6xb2u7kE
+▯ displace ▯
 
 dıbakıu ± `en` @seaqtaq #uVeqaeAhq
 ▯ is replaceable/expendable
@@ -14287,11 +14305,11 @@ doaqgua ± `en` @jiqci #DDgIhhUvH
 doaqgusıoq ± `en` @Laqme #Yzcotcwed
 ▯ is a utility bicycle / city bike.
 
-doaqja ± `en` @seaqtaq #8U4FhKQhn
-▯ settle (location) ▯
-
 doaqjoaq ± `en` @jiqci #bA5UPPper
 ▯ is a mayor.
+
+doaqla ± `en` @seaqtaq #-D-RbLUGg
+▯ settle/colonize (location) ▯
 
 doaqpaq ± `en` @official #z7NfRJwgk
 predicate: ‘district’; ▯ is a district.
@@ -16690,6 +16708,9 @@ fakueq ± `en` @Laqme #2V4svZ_78
 falafeo ± `en` @el #7aiCXcEiF
 ▯ is a falafel (the fried thing, not the whole dish)
 
+falıeı ± `en` @Laqme #wGWfKlZdC
+▯ goes along / follows path ▯.
+
 fam- ± `en` @seaqtaq #GpXiod1t8
 number component: turn an arbitrary verb into a unit word
 
@@ -18088,6 +18109,9 @@ foazameme +1 `en` @akesi #1K9md_OD7
 foazao ± `en` @seaqtaq #nsopQDpiF
 ▯ knows what it's like to fare like ▯ (property); ▯ knows how it feels to ▯
 
+foe ± `en` @lassc #LAa-SdrYO
+▯ is "performative love", i.e. love expressed via actions towards another.
+
 fofuaq ± `en` @official #W3ejKIJKE4d
 predicate: ‘F’; ▯ is the letter F.
 
@@ -18217,14 +18241,14 @@ sentence connector: ‘by.the.way’; go on tangent
 fsh ± `en` @evie #B_dyLSWn-
 textspeak for **foa súq hí?** (how are you?)
 
-fu +1 `en` @official #30_daspdrp
+fu +4 `en` @Laqme #Pam8cBXNm
+▯ is a child of ▯.
+
+fu ± `en` @official #30_daspdrp
 predicate: ‘offspring’; ▯ is a biological offspring of ▯.
 
 fu +1 `toa` @Ilmen #46_qoLed_
 = mu roaq ▯ ▯.
-
-fu +1 `en` @Laqme #Pam8cBXNm
-▯ is a child of ▯.
 
 fu ± `pl` @jiqci #-KbXhqU_m
 ▯ to dziecko/potomek rodzica ▯.
@@ -24526,6 +24550,9 @@ heo ± `jbo` @zearen #u7YMEo97A
 heo ± `pl` @jiqci #sWvF3ijpCO
 ▯ jest odmienny/inny niż ▯; ▯_ różni się od ▯ pod względem własności ▯.
 
+heo ± `en` @salarua #MpucRIC8C
+▯ (plural) are different.
+
 heo'aq ± `en` @akesi #4DWQfZXAe
 ▯ is hypocritical, ▯ is a hypocrite
 
@@ -27577,6 +27604,9 @@ husho ± `pl` @jiqci #skgyJ3icqM
 hushotoı ± `en` @TheAndSys #5eX0V7iJ8
 ▯ is still, quiet, calm, doesn't move
 
+hushue ± `en` @Laqme #THzIpUT5r
+▯ keeps quiet / does not speak.
+
 ı- ± `en` @TheAndSys #79nP7v3sm
 Pertaining to cyberspace
 
@@ -27886,7 +27916,7 @@ prefix: attaches to a speech act particle to mark the sentence as a proverb, sno
 ıo +4 `en` @Hoemai #bB7SVASN4
 interjection: agreement, "yeah", "totally", "agreed", "I feel the same way"
 
-ıo +2 `en` @akesi #6IclhCW3n
+ıo +1 `en` @akesi #6IclhCW3n
 particle: emphasis, attention-drawing, exclamation
 gı̉da ıo! that's great!
 
@@ -28190,6 +28220,9 @@ predicate: ‘take.property’; ▯, from ▯, takes/removes property ▯.
 ıqraı ± `en` @uakci #tZzhGdkVf
 ▯ is an object/entity/thing/phenomenon.
 
+ıqraq ± `en` @Laqme #8obLOulrF
+▯ is intensional / pertains to intensions.
+
 ịqrıta ± `en` @seaqtaq #PR2Vs5sGx
 ▯ insists upon/demands satisfying property ▯
 
@@ -28243,6 +28276,9 @@ Inshallah / God willing / if God wills it / (hopefully), ▯ shall be the case.
 
 ịqtarı ± `en` @seaqtaq #kGkZeYw6-
 ▯ refuses to satisfy property ▯.
+
+ıqte +1 `en` @Laqme #Lvx7INyB8
+▯ is an intension.
 
 ıqteıcha ± `en` @mimiaoganhaqpy #rhCxhyWvj
 ▯ satisfies property ▯ by satisfying property ▯.
@@ -28769,6 +28805,9 @@ jaocaqrıochao ± `en` @jiqci #vF6_AX4Xd
 
 jaocua ± `en` @uakci #NA5nOMljr
 ▯ is (being) cold/distant/unapproachable/standoffish towards ▯ in satisfying property ▯.
+
+jaocuao ± `en` @ijonetun #jR106m6-7
+▯ is blazed / blasted / extremely high (on a substance/drug).
 
 jaochuo ± `en` @uakci #Oi3uyLPyG
 ▯ is a television.
@@ -29882,6 +29921,9 @@ jeq ± `pl` @jiqci #OZ4ukGG9i_
 
 jeq ± `en` @takoda #ZxvnEYm-S
 ▯ and ▯ are one and the same; ▯ refers to the same thing as ▯
+
+jeq ± `en` @salarua #ealjrO6mB
+▯ (plural) are the same/identical.
 
 jeq -1 `toa` @Ilmen #z0ZxMnmk8
 = [XX1] Jeo dóshı ru dógu dósaq.
@@ -31416,7 +31458,7 @@ jıudoa ± `en` @Hoemai #aouMnvPD0
 jıuduaı ± `en` @seaqtaq #35WNp8YB1
 It is ▯'s destiny to satisfy property ▯; ▯ has purpose ▯ imposed on them upon or before birth
 
-jıufu +1 `en` @Laqme #ghzo00F5L
+jıufu +2 `en` @Laqme #ghzo00F5L
 ▯ is a biological offspring/child of ▯.
 
 jıuhaqhua ± `en` @Laqme #EW_fLTyug
@@ -32784,6 +32826,9 @@ Chess piece ▯ captures chess piece ▯ en passant.
 juıkuaı ± `en` @uakci #zlCPI8eSh
 ▯ wants to assimilate with ▯.
 
+juıkuaı ± `en` @lassc #yfmbS1Bmk
+▯ yearns/longs/desire to be physically close to ▯.
+
 juılıe ± `en` @uakci #UWsYP1xy1
 ▯ is exposed to property ▯.
 
@@ -33104,6 +33149,9 @@ juojıo ± `en` @Ilmen #ggUce16-n
 
 juonuaı ± `en` @jiqci #wdqScouL5
 ▯ is a postage stamp.
+
+juopaı ± `en` @lassc #ytAu8Qgjy
+▯ is a pen-pal.
 
 juopaku ± `en` @jiqci #Ur-EA70O4
 ▯ is sealing wax.
@@ -36389,9 +36437,6 @@ sa dó pǔıjeq hóa dósaq ru měa hóa dógu bı, soq gıq dóshı dójo dó, 
 ko +1 `en` @uakci #6QH-Y-UcS
 ▯ is ▯-th among ▯.
 
-ko -1 `en` @official #YYMrd1k62i
-predicate: ‘nth’; ▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.
-
 ko ± `toa` @Ilmen #14uIYEUYz
 = [XX12] Mea dóshı dógu na ru sa dosaq dógu sa dǒjo hóa dóshı.
 
@@ -36415,6 +36460,9 @@ ko ± `en` @el #PVYMGtHTS
 
 ko ± `pl` @jiqci #VsBBaVtDZ
 ▯ jest N-ty spośród ▯, gdzie N = ▯, pod względem własności ▯.
+
+ko -2 `en` @official #YYMrd1k62i
+predicate: ‘nth’; ▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.
 
 kö +1 `en` @TheAndSys #--BhGZdbn
 Starts "inner clause" allowing you to fill nouns' slots
@@ -38930,6 +38978,9 @@ laızıu ± `en` @el #kZDz5Jcg3
 laızızeo ± `en` @Ilmen #8qW2_JzRt
 ▯ is a lychee fruit.
 
+lajao ± `en` @Laqme #Fh2Ux0ple
+Just because ▯ is the case, doesn't mean that ▯ is the case.
+
 lajeq ± `en` @Ilmen #5xnqKs5P1
 ▯ being the case is the same thing as ▯ being the case; ▯ and ▯ logically entail each other.
 
@@ -38972,6 +39023,9 @@ lame ± `en` @uakci #r9qx5yFME
 
 lamıa ± `en` @robintown #7DWJbDoE7
 ▯ is a lamia.
+
+lanıe ± `en` @Laqme #59YO-aU-5
+▯ being the case is entailed by / implied by ▯ being the case.
 
 lao ± `en` @official #2B2zzGRMA_
 predicate: ‘wait’; ▯ waits for ▯ to be the case.
@@ -40572,6 +40626,9 @@ lımjoe ± `en` @Laqme #YX1Fj33qz
 lımjua ± `en` @Laqme #CdrHgE6Os
 ▯ doesn't make any sense / defies understanding.
 
+lımkuaı ± `en` @lassc #M7y8zJZdq
+▯ yearns to fully understand the ins and outs of ▯.
+
 lımnoa ± `en` @Laqme #dm0kk7Xar
 ▯ is hard to understand / complicated.
 
@@ -40826,6 +40883,9 @@ Lıqteqtaıgua ± `en` @countries #Gp-AX8n_d7V
 
 ⚠ Lıqteqtaıgua -1 `en` @oldcountries #-SAP1Fxe-j
 ▯ is the country Liechtenstein – Principality of Liechtenstein.
+
+lırı ± `en` @lassc #lrGd13Ebz
+▯ looks up to/idolizes ▯.
 
 lıru ± `en` @Ilmen #iY1JymKqv
 ▯ satisfies property ▯ and property ▯.
@@ -43026,7 +43086,7 @@ maıtefa ± `en` @Laqme #JM3Cn6oDC
 maıtefam ± `en` @Laqme #_YsIBbyV6
 ▯ is a love triangle / love polygon.
 
-maıtı ± `en` @Laqme #e-SRv-nXC
+maıtı +1 `en` @Laqme #e-SRv-nXC
 ▯ exhibits a state of loving-kindness / maitrī / mettā.
 
 maıtıao ± `en` @Laqme #9CVJ9eB0q
@@ -43833,6 +43893,9 @@ meaqtıeq ± `en` @Laqme #OYAU1nO5Y
 meaqtuaı ± `en` @Laqme #tClYqMjm0
 ▯ is the hull of ship ▯.
 
+mearaq ± `en` @Laqme #mEQ0Iecmq
+▯ is extensional / pertains to extensions.
+
 mearuaq ± `en` @uakci #Ve-prhCxJ
 ▯ implies (with their words / through stating something else) that ▯ is the case; ▯ says something that entails or presupposes ▯ being the case.
 
@@ -43856,6 +43919,9 @@ measho ± `en` @jiqci #JLqSNjfpp
 
 meashoe ± `en` @Laqme #MNxqNxUQ7
 ▯ admits / allows / ushers in ▯ among ▯.
+
+meate ± `en` @Laqme #hCuCLwJLw
+▯ is an extension / set (esp. of all things satisfying a common property).
 
 ⚠ meatou ± `en` @el #VAVmf0xT1
 ▯ is the only thing among ▯ which satisfies ▯/1
@@ -43974,7 +44040,7 @@ meı'aq +1 `en` @jiqci #bKNH8KDvP
 meıbeoq ± `en` @robintown #H154iaM77
 ▯ is the base/foot of a mountain.
 
-meıbı ± `en` @Ilmen #RLv3Nn4QK
+meıbı -1 `en` @Ilmen #RLv3Nn4QK
 ▯ is the case with regards to hills/mountains.
 
 meıchaınıu +1 `en` @ramasu #bGj0cjKI8
@@ -46508,32 +46574,14 @@ mozıu ± `en` @Laqme #SbZjvFrdZ
 mu- ± `en` @official #6tl1uHLAOc
 prefix: ‘OPP’; un-X; forms antonyms
 
-mu ± `en` @Ilmen #BDcrdhZWs
+mu -1 `en` @Ilmen #BDcrdhZWs
 ▯ is/are such that something is in relation ▯ with it/them; ▯ and ▯ are such that the latter is in relation ▯ with the former.
-
-mu -1 `toa` @Ilmen #2LMKd1fY4
-= gujeo go ▯ sa ▯; gujeo go ▯ ▯ ▯.
 
 mu -2 `toa` @uakci #S2H1quHQ2
 [pó mí Huaqchı ga muı bı:] gujeo dógu dóshı dósaq da
 
-mu -2 `en` @Ilmen #9tCuMYfED
-▯ and ▯ are such that the latter is in relation ▯ with the former.
-
-mu -2 `en` @uakci #W1S5QMEyn
-▯ has something be in relation ▯ with it; ▯ has ▯ be in relation ▯ with it.
-
-mu -2 `en` @Machy #hAOGGXYsk
-▯ and ▯ satisfy relation ▯ but with the latter in the first slot and the former in the second slot.
-
-mu -2 `tok` @el #FHzhFF2uE
-▯ la ▯ li ▯ e ona
-
-mu -2 `jbo` @zearen #CDANQzvIL
-▯ ▯ se ckini ▯
-
-mu -2 `pl` @jiqci #mU7piggx5R
-▯ spełnia z ▯ relację ▯ z zamienionymi miejscami / w stronie biernej.
+mu -2 `toa` @Ilmen #2LMKd1fY4
+= gujeo go ▯ sa ▯; gujeo go ▯ ▯ ▯.
 
 mu'uq +1 `en` @Ilmen #C3UZt2u83
 ▯ says something roughly equivalent to ▯ (possibly in another language).
@@ -49723,6 +49771,9 @@ nıaro ± `en` @Laqme #8MpVaT-Gh
 
 nıashıaq ± `en` @uakci #gyFBw-pVm
 ▯ is a lower leg; ▯ is a calf.
+
+nıba ± `en` @ijonetun #pDH1sIUA-
+▯ flaunts / shows off / works ▯
 
 nıbatorıdaı ± `ja` @mimiaoganhaqpy #5NKWn9apJ
 「なるほど」
@@ -53132,6 +53183,9 @@ sentence connector: ‘anyway’; return to old topic
 nhu ± `en` @Laqme #cm5N-1rzm
 interjection: ‘anyway’ (return to old topic)
 
+nhua ± `en` @lassc #pjFB_Y5zp
+▯ is "promissive love", i.e. love expressed via commitments/promises/oaths.
+
 nhuaı- ± `en` @Neaqbua #S_5mEGPtU
 prefix: Like **nhu-**, but always names a new variable, overriding previous ‹nhu-X› bindings.
 
@@ -53557,6 +53611,9 @@ omorashı ± `en` @nsfw #u16XferJk
 
 omorı +2 `en` @jiqci #mUnEqFYvF
 ▯ is a hermit/recluse.
+
+one +1 `en` @Laqme #OF5oAGJ8a
+interjection: "babe", "honey", "dear"
 
 onuq ± `en` @uakci #7qnUKKlWK
 ▯ is the reverse of ▯; ▯ is reversed/inverted/upside-down/inside-out (wrt ▯).
@@ -59721,6 +59778,9 @@ roaq ± `tok` @el #QD1htzH3Y
 roaq ± `pl` @jiqci #_xGWkg39Y
 ▯ to (biologiczny) rodziciel ▯.
 
+roaq ± `en` @uakci #mlppyJcqA
+▯ is biologically related/blood-related to ▯.
+
 roaqce ± `en` @seaqtaq #BQpitUlCH
 ▯ is a parent node to ▯
 
@@ -59730,11 +59790,17 @@ roaqdeq ± `en` @Ilmen #TBEOrodUR
 roaqdeqbu ± `en` @Ilmen #HJ0Mjo0lb
 ▯ is infertile.
 
+roaqdo ± `en` @uakci #gRT3Illp5
+▯ is a biological parent of ▯.
+
 roaqdoaq ± `en` @seaqtaq #0oYlmvBgn
 ▯ is a metropolis; ▯ is a large, densely populated industrial or commercial city
 
 roaqfu ± `en` @sheireq #pV_SB516R
 ▯ is a half-sibling of ▯.
+
+roaqfu ± `en` @uakci #JVVASb_7X
+▯ is a biological child of ▯.
 
 roaqgulaq ± `en` @Ilmen #cfea8sqX3
 ▯ is a gonad.
@@ -61450,6 +61516,9 @@ samuoq ± `en` @Ilmen #xk_o_64eb
 samuraı ± `en` @Ilmen #yYIRHomux
 ▯ is a samurai.
 
+sana ± `en` @lassc #c0aT1D9JW
+▯ wishes to be sexually intimate with ▯.
+
 sạnıepoha ± `en` @Laqme #lMXwm2A4M
 ▯ is an endophora / endophoric reference.
 
@@ -62722,6 +62791,9 @@ seutoaq -1 `en` @seaqtaq #090EfL9zh
 seza ± `en` @Laqme #Mf0KD_lbZ
 ▯ becomes such that they satisfy bad/undesirable property ▯.
 
+Shasafu ± `en` @tonibrown #RnWguyntw
+▯ is Shasavic
+
 Sheshetaq +2 `en` @uakci #3FL6K9fqd
 ▯ pertains to Xextan (a logical language).
 
@@ -62937,6 +63009,9 @@ sıam +3 `en` @kazoo #QSNjymbAO
 
 sıame ± `en` @uakci #X2746yXLb
 ▯ is an empty aggregate.
+
+sıamjara ± `en` @juao #Fwb6opp82
+▯ runs in-place (e.g. for exercise)
 
 sıane ± `en` @Laqme #3OS5wXQ5J
 It's been ▯ (duration) since ▯ has been the case.
@@ -63904,6 +63979,9 @@ sıu ± `pl` @jiqci #oilIVV0oQl
 
 sıu ± `ru` @SuperSpaceNiM #ZG0o4QdZS
 ▯ напоминает, похож на ▯ по свойству ▯.
+
+sıu ± `en` @salarua #daysbjKUv
+▯ (plural) are similar.
 
 sıuchoa ± `en` @Laqme #b9OfbVPd1
 ▯ imitates sound ▯ with their voice.
@@ -66736,7 +66814,7 @@ shetoame ± `en` @evie #LZnSVzF7s
 shetuq ± `en` @uakci #edV2cxiRf
 ▯ iff ▯; ▯ is the case if and only if ▯ is the case.
 
-shéu +7 `en` @kazoo #WJvoMa722
+shéu +6 `en` @kazoo #WJvoMa722
 plural coordinator: range between
 
 sheu'acı ± `en` @jiqci #SWSAn2G0z
@@ -67258,6 +67336,9 @@ shıo'ako ± `en` @jiqci #lupk-dtvK
 shıodıa +1 `en` @jiqci #BOT02r2ZW
 ▯ shrugs.
 
+shıoı ± `en` @lassc #L1DgOD1aC
+▯ is loyal/devoted/committed to ▯.
+
 shıojom ± `en` @jiqci #8zmp_YdS0
 ▯ is a shoulder devil (personified temptation).
 
@@ -67606,6 +67687,9 @@ shıuduq ± `en` @fagri #z0b0edJWT
 shıufa ± `en` @uakci #4tc_rGNy9
 ▯ goes to ▯ in order to ▯.
 
+shıuheo ± `en` @salarua #o4eLZ2_PE
+▯ is different from before.
+
 shıuheq ± `en` @seaqtaq #XF5mzlM5V
 ▯ comes with ▯ built-in/prepackaged
 
@@ -67623,6 +67707,9 @@ shıujao ± `toa` @Ilmen #PPJXpBZp6
 
 shıujea ± `en` @Laqme #3gGt9G4N0
 ▯ books / makes a paid reservation for ▯ to happen.
+
+shıujeq ± `en` @salarua #IWs6w0yHR
+▯ is the same as before.
 
 shịujıe -1 `en` @kazoo #O2rgrdEau
 ▯ has prejudice about/for ▯
@@ -69709,7 +69796,7 @@ teaqdo ± `en` @Laqme #xTzwotRz1
 teaqfeoq ± `en` @uakci #1igmB8hRU
 ▯ is an aureola.
 
-teaqfuq +1 `en` @fagri #hE6RJaIef
+teaqfuq ± `en` @fagri #hE6RJaIef
 ▯ is a bra
 
 teaqjıeq ± `en` @official #XfcubNfTyC
@@ -69742,13 +69829,13 @@ teaqno ± `en` @jiqci #gVRAcocrh
 teaqpıe ± `en` @uakci #xM0rejV03
 ▯ feeds from ▯’s breast; ▯ is breastfed by ▯.
 
-teaqrıaı -1 `en` @official #P6aDM34fQ
+teaqrıaı ± `en` @official #P6aDM34fQ
 predicate: ‘bra’; ▯ is a bra.
 
 teaqrıaı ± `pl` @jiqci #HI90GcYIw
 ▯ to biustonosz.
 
-teaqrıaıfuq +1 `en` @fagri #Q4FM_7vEJ
+teaqrıaıfuq ± `en` @fagri #Q4FM_7vEJ
 ▯ is a bra
 
 teasaora +1 `en` @Hoemai #6rGZWL3HV
@@ -74664,6 +74751,9 @@ illocution: question/exclamation of disbelief
 ꝡeraja ± `en` @evie #Tq0W-ZK38
 ▯ damages ▯
 
+ꝡerakuoq -1 `en` @juao #ySPotca95
+▯ breaks their bone that belongs to organ ▯
+
 ꝡeꝡa ± `en` @official #YXmVcKvjdYi
 predicate: ‘Ꝡ’; ▯ is the letter Ꝡ.
 
@@ -76152,7 +76242,7 @@ zuo -1 `en` @fagri #WcMdUm5HK
 zuo -1 `en` @uakci #zaiwBlref
 ▯ is in motion; ▯ moves (around).
 
-zuocha ± `en` @uakci #PU37dcnRl
+zuocha -1 `en` @uakci #PU37dcnRl
 ▯ happens along path/trajectory ▯.
 
 zuohı ± `en` @jiqci #F79pdxMah
