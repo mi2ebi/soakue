@@ -722,7 +722,7 @@ amla +3 `en` @Laqme #o4x5E-U_i
 amlaı ± `en` @uakci #hQ7voTYMB
 ▯ is the derani glyph for codal M.
 
-⚠ amor -1 `es` @zerot #htHCTOKPj
+⚠ amor -2 `es` @zerot #htHCTOKPj
 Sentimiento de vivo afecto e inclinación hacia una persona o cosa a la que se le desea todo lo bueno
 
 ampea ± `en` @salarua #4o9TqJQRC
@@ -1463,6 +1463,9 @@ asu +5 `en` @robintown #VOFxkUi_I
 asu ± `ru` @SuperSpaceNiM #s6qKJHsXF
 ▯ — собака (пёс).
 
+asu ± `es` @TheAndSys #Vs9o0yZgp
+▯ es un perro
+
 Asua ± `en` @funbreaker #rk_-AREFL
 ▯ pertains to Abkhaz culture.
 
@@ -1661,6 +1664,9 @@ babakoa ± `en` @seaqtaq #DS9oUu8uS
 babakoakueq ± `en` @seaqtaq #gQwTOeAe9
 ▯ is a barbacue
 
+babıchuaq +1 `en` @salarua #zRNCpq6rB
+▯ is Bábism.
+
 babue ± `en` @Hoemai #UiJGPH-t6
 ▯ is a member of genus Papio (the baboons).
 
@@ -1712,8 +1718,8 @@ bagatom ± `en` @jiqci #eXYasjVVQ
 bage ± `en` @uakci #s0ELxD8jz
 ▯ is a baguette.
 
-baha'ı ± `en` @salarua #44Mhh2t6L
-▯ is Bahá'í (being a Bahá'í, or relating to Bahá'ís or the Bahá'í faith)
+bahaıchuaq +1 `en` @salarua #V4D7X4DFf
+▯ is the Bahá’í Faith.
 
 Bahama ± `en` @countries #eemTtQj0cuF
 ▯ pertains to the culture of The Bahamas → Bahamas, The.
@@ -2056,6 +2062,9 @@ determiner: ‘GEN’; generic; X-kind
 
 báq ± `en` @robintown #F-7uwwkD5
 determiner: ‘GEN’; generic; an X / Xs / “the X”
+
+báq ± `es` @TheAndSys #CinwZOXg5
+determinante: ‘GEN‘; genérico; tipo X
 
 baqcu ± `en` @TheAndSys #How4vjosS
 ▯ is the archetypal idea of things that satisfy property ▯
@@ -4601,6 +4610,9 @@ bo'a jitfa
 bu ± `tr` @kazoo #vv8d_apvA
 değil
 
+bu ± `es` @TheAndSys #fFSQ6d31O
+polaridad: ‘NEG’; no
+
 ⚠ bu -1 `en` @oldofficial #lqkh8PKbu
 predicate: ‘not’; ▯ is not the case / is false.
 
@@ -4627,6 +4639,9 @@ naninirahan ang ▯ sa ▯.
 
 bua ± `ru` @SuperSpaceNiM #PTLW9CrHK
 ▯ проживает в, живёт в, населяет ▯.
+
+bua ± `es` @TheAndSys #q8dKqZApD
+▯ habita/vive en ▯
 
 buabeo ± `en` @Ilmen #bQMullluZ
 ▯ moves house, relocates to ▯ from ▯.
@@ -4775,6 +4790,9 @@ buajıo ± `pl` @jiqci #6pnVFr6XJY
 buajıo ± `tl` @Hoekeiboi #5Wp5fJu9T
 bahay/tirahan ang ▯.
 
+buajıo ± `es` @TheAndSys #Her-13X0B
+▯ es una casa
+
 buajıome ± `en` @fagri #NR4u8pBSR
 ▯ is a neighborhood
 
@@ -4907,7 +4925,7 @@ buda +1 `en` @Ilmen #F_UIrGkHk
 budachı ± `en` @Ilmen #6MaCJ7lC6
 ▯ is a Buddhist.
 
-budachuaq ± `en` @Ilmen #KebTHUg0f
+budachuaq +1 `en` @Ilmen #KebTHUg0f
 ▯ is Buddhism.
 
 budaıbu ± `en` @uakci #0Wmeglgfg
@@ -4915,9 +4933,6 @@ It is not possible for ▯ not to be the case; ▯ must happen.
 
 budajıuchaq ± `en` @salarua #1cJUVg8gG
 ▯ is Buddha Jayanti
-
-budakoko ± `en` @salarua #jTq0Y0QXa
-▯ is Buddhist (being a Buddhist, or relating to Buddhists or Buddhism)
 
 budaq ± `en` @kazoo #umv8ZL--x
 ▯ is a knot (in a tree)
@@ -8462,6 +8477,9 @@ interjection: "Go ahead," "all right," Sounds good!"
 chacha ± `en` @official #ecT6yto3i4m
 interjection: ‘go.ahead’; giving permission; go ahead
 
+chacha ± `es` @TheAndSys #2eE_XmxyZ
+interjección: "vale" / "dale"
+
 chácha ± `en` @Laqme #gJYT24BOn
 interjection: is that okay / shall I go ahead and…?
 
@@ -9341,6 +9359,9 @@ pilin ▯ la ▯ li lon
 chı ± `pl` @jiqci #9OGeX2xtqT
 ▯ wierzy, że ▯ zachodzi/jest prawdziwe.
 
+chı ± `es` @TheAndSys #nyL7-DyDt
+▯ cree que ▯ es el caso
+
 chıa +3 `en` @robintown #edbWuy1vi
 ▯ needs to satisfy property ▯.
 
@@ -10085,6 +10106,9 @@ chıo ± `tok` @nano #pv-ADW0Wv
 chıo ± `pl` @jiqci #ipgO9LeUTe
 ▯ powtarza się ▯ razy.
 
+chıo ± `en` @Laqme #dkdCxD6R2
+▯ (number) repetitions of ▯ happen in a row.
+
 chıo -1 `toa` @Ilmen #ICjJlHAEq
 tuq guo go dóshı sa lú puıne dógu hóa
 
@@ -10298,6 +10322,9 @@ cho ± `fr` @zearen #q9fyHN8sU
 cho ± `tr` @kazoo #LXTtsRTA-
 ▯, ▯'i sever.
 
+cho ± `es` @TheAndSys #ITnmlx00z
+a ▯ le gusta ▯
+
 choa ± `en` @official #g4Klr-U2WY
 predicate: ‘utter’; ▯ utters ▯.
 
@@ -10315,6 +10342,9 @@ choa ± `pl` @jiqci #KG0W_IWbNT
 
 choa ± `ru` @SuperSpaceNiM #3qNu_yn04
 предикат: ‘произносить звук’; ▯ произносит ▯.
+
+choa ± `es` @TheAndSys #ur88dlLbv
+▯ pronuncia/dice ▯
 
 choaboq ± `en` @seaqtaq #DNtsx2IBf
 ▯ is a consonant
@@ -11894,6 +11924,9 @@ kumain ang ▯ ng ▯.
 chuq ± `ru` @SuperSpaceNiM #QftzMzMiX
 предикат: ‘есть (кушать)’; ▯ ест; ▯ ест ▯.
 
+chuq ± `es` @TheAndSys #H6bvZ93xC
+▯ se come a ▯
+
 chuqbeaq +1 `en` @Laqme #ZpIcHFODY
 ▯ are chopsticks.
 
@@ -13012,6 +13045,9 @@ de ± `pl` @jiqci #Hrompb3S8r
 
 de ± `ru` @SuperSpaceNiM #nlw0zJpQh
 ▯ красивый.
+
+de ± `es` @TheAndSys #3te5N_r1F
+▯ es hermoso
 
 dea ± `en` @official #peyouO8gu2
 predicate: ‘hit’; ▯ hits/punches/kicks ▯.
@@ -14878,6 +14914,9 @@ dua ± `ru` @SuperSpaceNiM #D-wE75xWD
 dua ± `tr` @kazoo #TsBvx5Lxc
 ▯, ▯'nın doğruluğunu bilir.
 
+dua ± `es` @TheAndSys #gmD_9XP0H
+▯ sabe que ▯ es el caso/es verdad
+
 duabu ± `en` @uakci #SMz8fQCCs
 ▯ does not know ▯ to be true [the implication being that it is true].
 
@@ -15868,6 +15907,9 @@ eventive retroactive cleft: ‘EV.RETROCLE’; lift the event of the top-level c
 ehe +2 `en` @robintown #f-pQHgAe1
 interjection: nervous laughter
 
+eheꝡa ± `en` @TheAndSys #OPdhRm6Hy
+▯ is nervousness
+
 ehı ± `en` @el #XPB9JaIVa
 Determiner: same as **hı**, but bubbles up to right under the illocution to avoid indirect questions
 
@@ -16198,11 +16240,14 @@ Epıtoaq +1 `en` @robintown #WFZEWQybP
 eq- +1 `en` @evie #NdFtFx4Pv
 prefix: forces the use of the official definition even if the speaker usually uses an unofficial one
 
-eq +2 `en` @robintown #RaqwykTBg
+eq +3 `en` @robintown #RaqwykTBg
 ▯ is/are ▯.
 
 eq +1 `en` @uakci #xZMm80OIG
 ▯ is an instance/manifestation/reification of kind ▯.
+
+eq ± `es` @TheAndSys #vs73GPTpU
+▯ es ▯
 
 eq'elu ± `en` @official #OLWs8S273OO
 predicate: ‘E’; ▯ is the letter E.
@@ -19966,6 +20011,9 @@ geq ± `ja` @Laqme #bRXR_rhSj
 geq ± `pl` @jiqci #PFhgF1s0wn
 ▯ spotyka się z ▯.
 
+geq ± `es` @TheAndSys #_qE7KgTRT
+▯ se encuentra con ▯
+
 geqcho ± `en` @uakci #O7wyyUGu4
 ▯ likes ▯; ▯ enjoys the social presence of ▯; ▯ enjoys being around ▯.
 
@@ -21409,6 +21457,9 @@ gochıq +3 `en` @robintown #uxNLtBYqe
 gochıq ± `fr` @zearen #RFU2JZADd
 ▯ est un chat domestique
 
+gochıq ± `es` @TheAndSys #yBbr49N6r
+▯ es un gato doméstico
+
 gochıqmıqte ± `en` @robintown #EB9LuNWQh
 ▯ is catnip.
 
@@ -21729,6 +21780,9 @@ gom +1 `en` @Laqme #VEPq5pCfj
 
 gom ± `en` @robintown #r8dB5R3ZG
 ▯ errs / makes a mistake.
+
+gom ± `es` @TheAndSys #c0a0wqNc0
+▯ se equivoca/comete un error
 
 gomaq ± `toa` @Ilmen #_2uXgQ0gz
 gujeo ▯ máq ▯.
@@ -23755,6 +23809,9 @@ Iq ▯ ráı.
 hao ± `jbo` @zearen #H6gjKUU03
 ▯ co'e
 
+hao ± `es` @TheAndSys #kiynHLfsJ
+predicate: ‘wea’; ▯ satisface algún predicado saliente no específicado
+
 haobı ± `en` @jiqci #SS7zXlzse
 ▯ is barley.
 
@@ -24979,6 +25036,9 @@ determiner: ‘which’; which?
 hí ± `en` @official #0t8N6zhSH
 determiner: ‘which’; which X? / what X?
 
+hí ± `es` @TheAndSys #B7r3xSGFi
+determinante: ‘cuál‘; cuál X? / qué X?
+
 hıa +2 `en` @Ilmen #_5chCCpS-
 ▯ is/does what?
 
@@ -25011,6 +25071,9 @@ What the fuck is ▯?; What the fuck is ▯ doing?
 
 hıafaq ± `zh` @mimiaoganhaqpy #exG_dCQq7
 ▯ 是什麼鬼？；▯ 做什麼鬼？
+
+hıafaq ± `es` @TheAndSys #_yXwubveD
+qué mierda es ▯?; qué mierda está haciendo ▯?
 
 hıahıa ± `en` @uakci #W4GbM50kH
 ▯ is/does what to/with/in relation with ▯?;  What is ▯ with regards to ▯?; ▯ satisfies what relation with ▯?
@@ -25381,6 +25444,9 @@ hıena ± `en` @Hoemai #j4Q2HZFX1
 hıeq ± `en` @Ilmen #atrsEilOF
 ▯ throws ▯.
 
+hıeq ± `es` @TheAndSys #BazCaUbEG
+▯ lanza a ▯
+
 hıeqbıa ± `en` @uakci #MwxSkkxdy
 ▯ feels nauseous / sick to the stomach / as if to throw up.
 
@@ -25464,6 +25530,9 @@ hıetısha ± `en` @Ilmen #MijnwGxo_
 
 hífaq ± `en` @Laqme #oLje2jfzp
 determiner: “which … the fuck?”
+
+hífaq ± `es` @TheAndSys #9HIyEqa32
+determinante: cuál pinche X?; cuál maldito X?
 
 hıfe ± `en` @jiqci #0cPKS4jfp
 ▯ is in trouble/distress.
@@ -25693,8 +25762,8 @@ hıqdıamaqkaıheaq ± `en` @Ilmen #nsVRtDQK1
 Hıqdızu ± `en` @Laqme #ss2VQobK3
 ▯ is the Hindi language.
 
-hıqdu ± `en` @salarua #1XRh45bP2
-▯ is Hindu (being a Hindu, or relating to Hindus or Hinduism)
+hıqduchuaq +1 `en` @salarua #36DR7FQis
+▯ is Hinduism.
 
 hıqlıe ± `en` @uakci #NaMkQi0rU
 ▯ undergoes the direct emotional/experiential consequences of satisfying property ▯, having just done so.
@@ -25848,6 +25917,9 @@ pronoun: ‘it.I’; anaphoric pronoun for animate DPs (class I)
 
 hó ± `ja` @Laqme #SdXu4e5g9
 代名詞：「その人、その動物」；有生性クラス I（有生／人／動物）の限定詞句を参照する束縛代名詞
+
+hó ± `es` @TheAndSys #2rW1MswRm
+pronombre: ‘it.I‘; pronombre anafórico para DPs animadas (clase I)
 
 hoa- +1 `en` @Hoemai #RqPgWwlZ9
 prefix: prefills verb complement with **hoa**
@@ -26428,6 +26500,9 @@ pronoun: ‘it.III’; anaphoric pronoun for abstract DPs (class III)
 hóq ± `ja` @Laqme #vw0mWvk-W
 代名詞：「それ」；有生性クラス III（抽象概念）の限定詞句を参照する束縛代名詞
 
+hóq ± `es` @TheAndSys #x5k9RbuYA
+pronombre: ‘it.III‘; pronombre anafórico para DPs abstractas (clase III)
+
 hoqbıe ± `en` @official #xWt0Gnbyhd
 predicate: ‘afterwards’; ▯ is afterwards.
 
@@ -26598,6 +26673,9 @@ determiner: ‘ENDO’; endophoric; the aforementioned X
 
 hú ± `en` @Laqme #OUp8klV5J
 endophoric determiner: 'the aforementioned…'
+
+hú ± `es` @TheAndSys #tv3hIvOMl
+determinante: ‘ENDO‘; endofórico; el X mencionado anteriormente
 
 hu'aqtaı ± `en` @uakci #lkluvpNAe
 ▯ excels themselves in property ▯; ▯ breaks new ground in how much they ▯.
@@ -27259,6 +27337,9 @@ hulumıo ± `en` @takoda #WMOLlo7k_
 hum +1 `en` @TheAndSys #p5wk_WJJj
 Interjection: Maybe (answer to yes/no question)
 
+hum ± `es` @TheAndSys #LUzvZdasW
+Interjección: De pronto (respuesta a una pregunta de sí o no)
+
 huna ± `en` @Ilmen #sxlWtFxuh
 ▯ is soft, easily giving way under pressure.
 
@@ -27850,6 +27931,12 @@ toki a: "oke"
 ına ± `zh` @mimiaoganhaqpy #Q-QlW2os1
 感嘆詞：「懂了」／「明白了」／「原來如此」
 
+ına ± `es` @TheAndSys #7IFV26oxQ
+interjección: ‘entendido’; OK, recibido y entendido
+
+ına ± `tr` @kazoo #WRs4eQc-0
+ünlem: tamam, anladım, ileti alındı ve anlaşıldı
+
 ⚠ ına -1 `en` @oldofficial #auHADbHmN
 interjection: ‘roger’; received and understood
 
@@ -27976,6 +28063,9 @@ woţpêı tha thëıxauksa oţpízcıu’lu
 
 ıq ± `jbo` @Ilmen #bQQL3QCW5
 ▯ ckaji ▯
+
+ıq ± `es` @TheAndSys #3fJv-HLwV
+▯ satisface la propiedad ▯
 
 ıq'aq ± `en` @seaqtaq #sbeDbX6j0
 Itself is with ▯ in relation ▯
@@ -28436,6 +28526,9 @@ Isıkuıgua +1 `en` @jiqci #KgXJMDtw9
 ısıkuıpoq +1 `en` @Avaxar #WOM2bCxg1
 ▯ is an Ithkuilian/Ithkuilist/Ithkuilite.
 
+ısılam +1 `en` @salarua #OXe-s-XrM
+▯ is Islam.
+
 Isılaq ± `en` @countries #EDyApyh_OIV
 ▯ pertains to the culture of Iceland.
 
@@ -28657,6 +28750,9 @@ jaı ± `tok` @el #Z_-GGgdMa
 
 jaı ± `pl` @jiqci #pJfho1QQ1Y
 ▯ jest radosny/szczęśliwy.
+
+jaı ± `es` @TheAndSys #CUtoXvV7O
+▯ está feliz
 
 jaıbıa ± `en` @uakci #bvdUlxOlm
 ▯ is manic; ▯ has manic episodes.
@@ -29436,7 +29532,7 @@ jehua ± `en` @uakci #BFK-OLwHb
 jehudı ± `en` @Hoemai #lDqaYu0M1
 ▯ is Jewish (being a Jew, or relating to Jews or Judaism).
 
-jehudıchuaq ± `en` @uakci #xsyWuVOz2
+jehudıchuaq +1 `en` @uakci #xsyWuVOz2
 ▯ is Judaism.
 
 jehudıchuaqchı ± `en` @uakci #8hIGND7g0
@@ -30191,6 +30287,9 @@ jí ± `ru` @SuperSpaceNiM #DntgdHlDI
 
 jí ± `pt` @maigoi #6yNlKiN0g
 pronome: primeira pessoa do singular
+
+jí ± `es` @TheAndSys #sK0IBl_ZL
+pronombre: ‘1S‘; pronombre personal de primera persona; yo
 
 ⚠ jí -1 `en` @oldofficial #cw2eh3D6O7D
 pronoun: ‘me’; 1st person personal pronoun
@@ -33681,6 +33780,9 @@ kaı ± `pl` @jiqci #SwOmV4gY5C
 kaı ± `pt` @maigoi #jB4XSONaq
 ▯ escreve ▯ sobre superfície ▯
 
+kaı ± `es` @TheAndSys #JjpPGGxk1
+▯ escribe ▯
+
 kaı -1 `en` @robintown #bINVjpKE0
 ▯ writes on ▯, ▯.
 
@@ -34050,6 +34152,9 @@ predicate: 'Canadian'; ▯ is Canadian/pertains to Canada.
 Kanada ± `en` @countries #_Envkgnlq
 ▯ pertains to the culture of Canada.
 
+Kanada ± `es` @TheAndSys #rI_5OC39J
+▯ es perteneciente a Canadá
+
 ⚠ Kanada -1 `en` @oldcountries #Bsdd_JHU8q
 ▯ pertains to the culture of Canada[k].
 
@@ -34112,6 +34217,9 @@ kao ± `pl` @jiqci #PwlAvQ-GXX
 
 kao ± `en` @Laqme #idAhIpCq0
 ▯ is a record.
+
+kao ± `es` @TheAndSys #rkXwYsz3e
+▯ es un registro de información
 
 kaoce ± `en` @uakci #yfHjEXcm2
 ▯ is a graph vertex.
@@ -34397,6 +34505,9 @@ kaqgaı ± `tok` @el #c8Xoas6Dm
 
 kaqgaı ± `pl` @jiqci #1WmmPh5f4T
 ▯ widzi ▯.
+
+kaqgaı ± `es` @TheAndSys #wdkggrW9b
+▯ ve a ▯
 
 kaqgaıkea +1 `en` @Ilmen #0LZVxZOVn
 ▯ is a film camera.
@@ -34815,6 +34926,9 @@ kato ± `ru` @SuperSpaceNiM #cbuD7Phps
 kato ± `fr` @zearen #nC44Cx8Yq
 ▯ est un chat
 
+kato ± `es` @TheAndSys #902tIIAKm
+▯ es un gato
+
 katoa +1 `en` @Laqme #ZR5YNSZXO
 ▯ is an illocution-marking particle (like **ka**, **da**, **moq**, etc).
 
@@ -34889,6 +35003,9 @@ determiner: ‘the’; definite quantifier
 
 ké +1 `en` @official #2EG1It1W3Jf
 determiner: ‘EXO’; exophoric; this X (not previously mentioned)
+
+ké ± `es` @TheAndSys #WjNn5LXuG
+determinante; ‘EXO‘; exofórico; este X (no mencionado anteriormente)
 
 kea- ± `en` @Laqme #BiGeGYrPX
 prefix: quasi-X, pesudo-X, virtually X, something that is as if it were X but isn't really
@@ -35269,6 +35386,9 @@ keoı +1 `en` @Laqme #3_4pR2Kb4
 
 keoı ± `tok` @nano #zlLqevS8x
 ▯ li toki tawa ▯.
+
+keoı ± `es` @TheAndSys #Huw0EAWPf
+▯ habla con ▯
 
 keoıceme ± `en` @uakci #q6LvU8pNo
 ▯ is a social graph; ▯ is a totality of friends and friendships/interactions between them.
@@ -36110,6 +36230,9 @@ kıoq ± `jbo` @zearen #VJTBAsM8e
 kıoq ± `pl` @jiqci #ogtmVhw7nM
 ▯ to kula/sfera/piłka.
 
+kıoq ± `es` @TheAndSys #XLeVMTen4
+▯ es una pelota/esfera
+
 kıoq'aı ± `en` @xorxes #jGYCpQBwn
 ▯ is rounded.
 
@@ -36314,9 +36437,6 @@ Kırıbatıgua ± `en` @countries #j3jkH9HBgp-
 kırıcojıu ± `en` @salarua #ZK0PXjLWM
 ▯ is Christmas
 
-kırıcokoko ± `en` @salarua #VZ6wipX8w
-▯ is Christian (being a Christian, or relating to Christians or Christianity)
-
 Kırıgısı ± `en` @jiqci #Y7AAT6D2I
 ▯ is Kyrgyz / related to Kyrgyzstan.
 
@@ -36428,14 +36548,14 @@ kızıkaı ± `en` @jiqci #Xl65eg_Ys
 ko- ± `en` @robintown #nY8ziX1nT
 turns a natural number N into the verb "▯ is Nth in sequence ▯."
 
+ko +2 `en` @uakci #6QH-Y-UcS
+▯ is ▯-th among ▯.
+
 ko +1 `toa` @uakci #nYd6qptxZ
 bu huaq puı dósaq dógu, na ru jèojeq shî dósaq pa, soq dóshı dójo dógu, na ru jèojeq bû puq dósaq na sa dó lı shı sa túq lu bu jeojeq mêa hóa ja ráı na mêa hóa dósaq bı, ko dóshı sa lú dóheo hoa bı soq go dójo cu dógu fı sa lú tuq hóa lú bu jeojeq mêa hóa dóheo na mêa hóa dógu ceı ceı ceı dó dójo da
 
 ko +1 `toa` @uakci #BeyEIOQea
 sa dó pǔıjeq hóa dósaq ru měa hóa dógu bı, soq gıq dóshı dójo dó, na ru huaq tu lú mea hóa shı dó ceı dójo tu lú mea hóa shı to ru dó bũ to dógu jẽo da
-
-ko +1 `en` @uakci #6QH-Y-UcS
-▯ is ▯-th among ▯.
 
 ko ± `toa` @Ilmen #14uIYEUYz
 = [XX12] Mea dóshı dógu na ru sa dosaq dógu sa dǒjo hóa dóshı.
@@ -38015,6 +38135,9 @@ kujeo ± `en` @Laqme #scGP-znRO
 kujı +1 `en` @fagri #30LTcQRLD
 Conjunction: X less than Y
 
+kujını ± `en` @TheAndSys #2RsSfCUyX
+▯ is the case, just in case ▯ is the case
+
 kujoı ± `toa` @uakci #GYVBVu1io
 kuoı ra jeq
 
@@ -38113,6 +38236,9 @@ bo'a gerku
 
 kune ± `pl` @jiqci #XUX3zE3yvd
 ▯ to pies/wilk/kojot/szakal (rodzaj Canis - wilk)
+
+kune ± `es` @TheAndSys #d-3rL2PyM
+▯ es un perro (miembro del genus Canis, incluye perros, lobos, coyotes, etc)
 
 kunechoa -1 `en` @seaqtaq #N6Q1F-peL
 ▯ barks (▯)
@@ -38395,6 +38521,9 @@ kuq ± `pl` @jiqci #DwoYcvUNA
 
 kuq ± `jbo` @zearen #Xv-SqhjFE
 ▯ cusku ja skuna ▯
+
+kuq ± `es` @TheAndSys #P95MQgLRp
+▯ dice ▯
 
 kuqbuaq +1 `en` @Ilmen #rKEXK3czx
 ▯ means to say ▯ but mistakenly says ▯ instead.
@@ -38810,6 +38939,9 @@ laıchue ± `en` @robintown #ZojbWYFZK
 laıchuekao ± `en` @robintown #Lrg1YefPg
 ▯ is a plain text file.
 
+laıchuo ± `es` @TheAndSys #uicQdqrFl
+▯ es una secuencia de caractéres
+
 laıdapa ± `en` @jiqci #3pJLjh2Ez
 ▯ is a serif (of a letter/character).
 
@@ -38944,6 +39076,9 @@ laısunıqjıuchaq +1 `en` @uakci #UgfWJRjaf
 
 laıshı ± `en` @uakci #XrSNGG5TM
 ▯ is Christ.
+
+laıshıchuaq +1 `en` @salarua #ul7zQ4uvA
+▯ is Christianity.
 
 laıshom ± `en` @Laqme #Kqt6kZ279
 ▯ is an emoticon.
@@ -40736,6 +40871,9 @@ lıq ± `ru` @SuperSpaceNiM #UrPnvoCsJ
 
 lıq ± `tr` @kazoo #iHBMEQudw
 ▯ kadın/dişidir.
+
+lıq ± `es` @TheAndSys #mHDscEZYo
+▯ es femenino/es mujer
 
 lıq'a ± `en` @Machy #Gg5allST7
 ▯ is a lass.
@@ -42972,6 +43110,9 @@ maı ± `pt` @maigoi #lbiLtfwzI
 maı ± `fr` @zearen #JuCvqqfQ0
 ▯ aime amoureusement ▯(qqn)
 
+maı ± `es` @TheAndSys #rnDTqx_7B
+▯ ama a ▯
+
 maı -1 `toa` @uakci #Zq6KDwt9s
 = #jaq #cho
 
@@ -43451,6 +43592,9 @@ pronoun: ‘it.II’; anaphoric pronoun for inanimate DPs (class II)
 
 máq ± `ja` @Laqme #5lPMnJZ-I
 代名詞：「それ」；有生性クラス II（無生物）の限定詞句を参照する束縛代名詞
+
+máq ± `es` @TheAndSys #WwFEyz_pl
+pronombre: ‘it.II‘; pronombre anafórico para DPs inanimadas (clase II)
 
 maqbo ± `en` @official #7n-EE40MS_3
 predicate: ‘its’; ▯ is máq's (the referent of the recent inanimate DP's).
@@ -45431,6 +45575,9 @@ mıu ± `ru` @SuperSpaceNiM #8P-C6zmqn
 mıu ± `tr` @kazoo #99PppNkui
 ▯, ▯'nın doğruluğunu düşünür/inanır.
 
+mıu ± `es` @TheAndSys #a-yeE0C4T
+▯ opina que ▯ es el caso
+
 mıuboaı ± `en` @Laqme #e7BUMPnUf
 ▯ admits / concedes that ▯ is the case.
 
@@ -46037,6 +46184,9 @@ moı ± `pl` @jiqci #NLM9_ZFilh
 moı ± `ru` @SuperSpaceNiM #fhfUmBBRP
 предикат: ‘думать’; ▯ думает, мыслит; у ▯ в голове мысль ▯.
 
+moı ± `es` @TheAndSys #w8gHMWnOS
+▯ piensa
+
 moıbaq ± `en` @uakci #khtjL1ogL
 ▯ is a mind.
 
@@ -46207,6 +46357,9 @@ moıkuq ± `en` @Ilmen #ToQ8csAnR
 
 moıkuq ± `tok` @el #gaW4nP9Jn
 ▯ li toki e ▯ tawa ▯ kepeken uta ala
+
+moıkuq ± `es` @TheAndSys #NYSiGopBw
+▯ piensa ▯
 
 moılao ± `en` @official #lzTISbMKlr
 predicate: ‘hesitate’; ▯ hesitates.
@@ -47783,6 +47936,9 @@ musemusela ± `en` @Ilmen #KhZl4NHUP
 musenuı ± `en` @Ilmen #16b0D27ET
 ▯ is a house mouse.
 
+musılım +1 `en` @salarua #ActiBtK06
+▯ is Muslim (relating to Islam); synonym of **po Ísılam**
+
 muso +2 `en` @Neaqbua #SkgC6iVQO
 ▯ is wood
 
@@ -48592,6 +48748,9 @@ naq ± `pl` @jiqci #bZU05k7Scc
 
 naq ± `ru` @SuperSpaceNiM #ikYxcBTOm
 ▯ — мужчина, самец, мужского пола.
+
+naq ± `es` @TheAndSys #HoiomyiNZ
+▯ es masculino/es hombre
 
 naq'aı ± `en` @seaqtaq #cocsGNVB3
 ▯ is masculine
@@ -49448,6 +49607,9 @@ determiner, but binds bóu: this thing which satisfies X
 ní ± `ru` @SuperSpaceNiM #OslcK-ens
 определитель: ‘этот’; указательное мест.; этот/тот X
 
+ní ± `es` @TheAndSys #70AdBlFuS
+determinante: ‘este‘; demonstrativo; este/ese/aquel X
+
 nı'aı ± `en` @Ilmen #p0a1vRrBY
 ▯ is a thing satisfying property ▯ such/resembling that thing satisfying the same property.
 
@@ -49885,6 +50047,9 @@ nıe ± `zh` @mimiaoganhaqpy #ltk1OytbW
 
 nıe ± `ru` @SuperSpaceNiM #tBv7gR8Yl
 ▯ (находится) внутри ▯.
+
+nıe ± `es` @TheAndSys #Oe-dH6Ajj
+▯ está adentro de ▯
 
 nıebo ± `en` @Ilmen #KbNMxOQuR
 ▯ has ▯ in it.
@@ -50837,6 +51002,9 @@ predicate: ‘in’; ▯ is in format/medium/genre ▯.
 no ± `pl` @jiqci #lAUbKxJP8
 ▯ jest w formacie/medium ▯.
 
+no ± `es` @TheAndSys #K5C42-qaD
+▯ está en formato/medio ▯
+
 no'ao ± `en` @uakci #lnUIbtWVo
 ▯ is true in piece of literature/media / “in the cinematic universe of” ▯.
 
@@ -51206,6 +51374,9 @@ noıtua ± `en` @robintown #ixxE7yvf4
 noja +1 `en` @Laqme #jOYzrarxZ
 ▯ adapts/converts/translates ▯.
 
+noja ± `es` @TheAndSys #v7D1ASSef
+▯ traduce/adapta/convierte ▯
+
 nojase ± `en` @Laqme #3i4t2gSWp
 ▯ is a translation/adaptation.
 
@@ -51427,6 +51598,12 @@ Noregagua ± `en` @Ilmen #XpR_uQWMh
 
 Noregazu ± `en` @Ilmen #h8Kjmrtyc
 ▯ is (one of) the language(s) spoken in Norway – Kingdom of Norway.
+
+noruzo ± `en` @kazoo #FAsW4bvns
+▯ is Nevruz/Novruz/Navruz/Nawruz/Newroz/Naw-Rúz.
+
+noruzo -1 `en` @salarua #gmvuK_Xy1
+▯ is Naw-Rúz.
 
 nose ± `en` @Laqme #xbSRbPztV
 ▯ is a translation/adaptation.
@@ -52994,6 +53171,9 @@ nimi a: "lon"
 nho ± `ru` @SuperSpaceNiM #9ATekHQ5q
 междометие: ‘да’; да
 
+nho ± `es` @TheAndSys #7AXf1zjL3
+interjección: ‘sí‘; sí
+
 nhó +2 `en` @robintown #xFp_MuDto
 interjection: right?, okay?
 
@@ -53612,8 +53792,11 @@ omorashı ± `en` @nsfw #u16XferJk
 omorı +2 `en` @jiqci #mUnEqFYvF
 ▯ is a hermit/recluse.
 
-one +1 `en` @Laqme #OF5oAGJ8a
+one +2 `en` @Laqme #OF5oAGJ8a
 interjection: "babe", "honey", "dear"
+
+onem ± `en` @evie #dZTgf9k9u
+▯ is a partner of ▯
 
 onuq ± `en` @uakci #7qnUKKlWK
 ▯ is the reverse of ▯; ▯ is reversed/inverted/upside-down/inside-out (wrt ▯).
@@ -53644,6 +53827,9 @@ Particle: accepts a predicate in the fourth tone and produces a high adverb that
 
 ôq +2 `en` @Laqme #70rCWf6zQ
 Adjunct head for direct-object-sharing adverbials
+
+ôq ± `es` @TheAndSys #QBy0GYLxd
+núcleo de adjuntos para adverbios que comparten objeto directo
 
 oq'oguı ± `en` @official #G_uQk6XbNr4
 predicate: ‘O’; ▯ is the letter O.
@@ -54067,6 +54253,9 @@ pamnua ± `en` @Laqme #XztOl1TIB
 
 pampam +3 `en` @Laqme #BWW7d8o8i
 ▯ pets / pats / strokes ▯.
+
+pampam ± `es` @TheAndSys #OIJ87kA64
+▯ acaricia / le hace patpat a ▯
 
 pamrea ± `en` @jiqci #MaGZhmQiV
 ▯ is a screen (onto which an image is projected).
@@ -58068,6 +58257,9 @@ raqmoı ± `tok` @el #iX522ZYyi
 raqmoı ± `pl` @jiqci #Kvc31Arl_s
 ▯ myśli o ▯.
 
+raqmoı ± `es` @TheAndSys #T1A6DArl6
+▯ piensa en ▯
+
 raqna ± `en` @Hoemai #SIdenjHX_
 ▯ is a topic/subject.
 
@@ -58859,6 +59051,9 @@ reutoaı ± `en` @Laqme #uNMPAnFXt
 
 reꝡa ± `en` @Ilmen #s9SeJ1WOr
 ▯ is a color.
+
+rezuaq ± `en` @salarua #iTDj7w5nA
+▯ is the Festival of Riḍván.
 
 rhr ± `en` @evie #WyGdcosbS
 textspeak for **râo hí raı** ("when?")
@@ -60318,6 +60513,9 @@ predicate: ‘forgive’; ▯ forgives ▯ for satisfying property ▯.
 ruao ± `pl` @jiqci #YVDwgjE6V1
 ▯ wybacza ▯ spełnianie własności ▯.
 
+ruao ± `en` @evie #ggryDYxyX
+▯ forgives ▯
+
 ruaogı ± `en` @Laqme #xVFp6tgrq
 ▯ is merciful / shows mercy towards ▯.
 
@@ -61145,6 +61343,9 @@ determiner: ‘some’; existential quantifier
 
 sá ± `en` @official #Mj3mHixNAb
 determiner: ‘some’; existential quantifier
+
+sá ± `es` @TheAndSys #WxIOAXnS9
+determinante: ‘algún‘; cuantificador existencial
 
 sabaq ± `en` @official #vQrcddaYR
 predicate: ‘soap’; ▯ is soap.
@@ -62857,6 +63058,9 @@ determiner: ‘no’; zero quantifier
 sía ± `en` @official #XjSHUEBMEDu
 determiner: ‘no’; zero quantifier
 
+sía ± `es` @TheAndSys #vadb_uy0Y
+determinante: ‘ningún’; cuantificador cero
+
 ⚠ sıa'anouhe ± `en` @fagri #3jAbwdLNI
 ▯ is aromantic (not capable of romantic attraction)
 
@@ -63673,8 +63877,14 @@ sıojuq ± `en` @Ilmen #ZLPYMZ8WD
 sıom ± `en` @Laqme #FkVO9EsmO
 ▯ studies ▯.
 
+sıom ± `es` @TheAndSys #YkqGj7Fsa
+▯ estudia ▯
+
 sıomche ± `en` @Laqme #bSvx2MQrB
 ▯ is a student.
+
+sıomche ± `es` @TheAndSys #Ue7VJpyuf
+▯ es un estudiante
 
 sıomfıuq ± `en` @Laqme #St83RZ456
 ▯ is a school (organization).
@@ -64770,6 +64980,9 @@ soꝡanoaı ± `en` @Laqme #RzOMO4n9r
 sozı ± `en` @jiqci #17mYwQMQq
 ▯ is a vector.
 
+sozı ± `es` @TheAndSys #MfO5-7Mzf
+▯ es un vector
+
 sozıgoa ± `en` @jiqci #vn2NfaQO4
 ▯ is a vector space.
 
@@ -65677,6 +65890,9 @@ súq ± `ru` @SuperSpaceNiM #gtZ6cfEBt
 súq ± `pt` @maigoi #A0eZh99Y8
 pronome: segunda pessoa singular
 
+súq ± `es` @TheAndSys #phsi2DCAw
+pronombre: ‘2S‘; pronombre personal de segunda persona; tú/usted
+
 suqbeı ± `en` @uakci #ah6dW2mZ0
 interjection: no u
 
@@ -65991,6 +66207,9 @@ shamu ± `pl` @jiqci #Rxv-2Idnlz
 
 shamu ± `ru` @SuperSpaceNiM #O0donRDhA
 ▯ — яблоко.
+
+shamu ± `es` @TheAndSys #jLxrV7Q8B
+▯ es una manzana
 
 shamu -1 `en` @seaqtaq #FobPGP1_G
 property ▯ is arrived at by ▯
@@ -68812,6 +69031,9 @@ pronoun: ‘it.IV’; anaphoric pronoun for adjective DPs (class IV)
 tá ± `ja` @Laqme #1H-YG0GpK
 代名詞：「それ」；有生性クラス IV（形容詞）の限定詞句を参照する束縛代名詞
 
+tá ± `es` @TheAndSys #buhaqjGLo
+pronombre: ‘it.IV‘ pronombre anafórico para DPs adjetivas (clase IV)
+
 ta'ı ± `en` @uakci #WQNrZ929i
 ▯ is a taxi.
 
@@ -70558,6 +70780,9 @@ tı ± `tr` @kazoo #wUBtkxpy7
 tı ± `jbo` @zearen #DHi0jPQXL
 ▯ zvati ▯
 
+tı ± `es` @TheAndSys #Sh0VIFk1a
+▯ está en ▯
+
 tıa ± `en` @official #k5hAvb9ciQ
 predicate: ‘behind’; ▯ is behind ▯.
 
@@ -70584,6 +70809,9 @@ predicate: ‘box’; ▯ is a box.
 
 tıaı ± `pl` @jiqci #v_LNd0IVV3
 ▯ to pudełko.
+
+tıaı ± `es` @TheAndSys #1Hb-7iFlh
+▯ es una caja
 
 tıaıbıo ± `en` @Laqme #9iOcFzN5o
 ▯ is a jar.
@@ -70626,6 +70854,9 @@ gıjıe dógu jêo dóshı dósaq da
 
 tıao ± `pl` @jiqci #jJgGFGmr9N
 ▯ pasuje do ▯ pod względem relacji ▯.
+
+tıao ± `es` @TheAndSys #YmEwtSUV8
+▯ le queda a ▯; ▯ encaja con ▯
 
 tıaobeo ± `en` @uakci #exFA_mVrc
 ▯ adjusts to match/fit/suit ▯ in property ▯.
@@ -71137,6 +71368,9 @@ tıjuı ± `toa` @Ilmen #esroRfV9t
 tıjuı ± `pl` @jiqci #_hYedCm_yZ
 ▯ jest blisko/przy/w pobliżu ▯.
 
+tıjuı ± `es` @TheAndSys #wzbcSMQL6
+▯ está cerca de ▯
+
 tıjuq ± `en` @uakci #wRtaHL29Z
 ▯ (non-agentively) inserts/slots itself into ▯.
 
@@ -71274,6 +71508,9 @@ Ile jest ▯?
 
 tíopuı ± `en` @robintown #hpx11Qoqo
 pseudo natural number: how many?
+
+tıopuıchıo ± `en` @robintown #_YAdDkxp4
+adverb of quantification: how many times?
 
 tıoq ± `en` @official #jPICytS3V
 predicate: ‘lock’; ▯ is a lock.
@@ -72898,6 +73135,9 @@ determiner: ‘each’; singular universal quantifier
 tú ± `tr` @kazoo #wbuxwZLVZ
 belirleyici: "her", tekil evrensel niceleyici
 
+tú ± `es` @TheAndSys #r_TWc8TS9
+determinatne: ‘cada.un‘; cuantificador universal singular
+
 tua ± `en` @official #mUQU-Ns_8i
 predicate: ‘make.happen’; ▯ makes ▯ happen.
 
@@ -73703,6 +73943,9 @@ determiner: ‘all’; collective universal quantifier
 
 túq ± `en` @official #NU0hcE1iwyy
 determiner: ‘all’; collective universal quantifier
+
+túq ± `es` @TheAndSys #KxEqjNdV0
+determinante: ‘todos‘; cuantificador universal colectivo
 
 tuq'aı ± `en` @Laqme #x2KveJx-M
 ▯ are complete / comprehensive / exhaustive / "are all of them".
@@ -75030,6 +75273,9 @@ zao ± `pl` @jiqci #Xkf9e8xIR
 zao ± `tr` @kazoo #WGNmONV0A
 ▯, ▯'i bilir/haşır-neşirdir.
 
+zao ± `es` @TheAndSys #hyhkl1hi6
+▯ conoce a ▯
+
 zaobu ± `en` @fagri #97KloOan3
 ▯ is a stranger to ▯
 
@@ -75182,6 +75428,9 @@ zaqsı ± `en` @uakci #20UlLV8TD
 
 zaqtua ± `en` @robintown #WxBKZkwpk
 ▯ conjures/summons ▯.
+
+zaratuchoachuaq +1 `en` @salarua #yhdTtUsbi
+▯ is Zoroastrianism.
 
 zaru +3 `en` @Laqme #_PfrnLMCM
 ▯ warns ▯ that ▯ is the case.
@@ -75452,6 +75701,9 @@ nimi a: "ala"
 
 zı ± `ru` @SuperSpaceNiM #prsXN-oYz
 междометие: ‘нет’; нет
+
+zı ± `es` @TheAndSys #rbbuN_p7o
+interjección: ‘no’; no
 
 zí ± `en` @official #XiYQfmrg42_
 interjection: ‘no?’; isn't it?
@@ -75920,6 +76172,9 @@ zu ± `zh` @zephr #MIg3TTk8Y
 
 zu ± `tr` @kazoo #3sYFkWLQ6
 ▯ dildir. ("konuşma" anlamında dil)
+
+zu ± `es` @TheAndSys #xtjp1_jHx
+▯ es un lenguaje
 
 zua +2 `en` @uakci #LK0wzVYXq
 ▯ makes ▯ not be the case.
@@ -91014,9 +91269,6 @@ statement prefix: 'that'; turn phrase into a predicate
 ⚠ Masarygua -1 `en` @oldcountries #AXFsy4oC_KA
 ▯ is the country Egypt – Arab Republic of Egypt.
 
-⚠ maza'asyna ± `en` @salarua #6fvTU4fq2
-▯ is Zoroastrian (being a Zoroastrian, or relating to Zoroastrians or Zoroastrianism)
-
 ⚠ may ± `en` @akesi #YnwTllYHH
 (provisional) ▯ is us (me, you, and them)
 
@@ -91106,9 +91358,6 @@ Head-initial interrogative illocution
 
 ⚠ musoky ± `en` @salarua #tWdVd00xl
 ▯ is Korean shamanist (being a Korean shaman, or relating to Korean shamans or Korean shamanism)
-
-⚠ musylıq ± `en` @salarua #cMgg_FemV
-▯ is Islamic (being a Muslim, or relating to Muslims or Islam)
 
 ⚠ muteheqmy ± `en` @salarua #QaaIiM7Fa
 ▯ is a trash can
@@ -91824,7 +92073,7 @@ interjection: ‘uwu’
 ⚠ zaqshıy ± `en` @uakci #_HHuiYGBz
 ▯ is elusive/evasive.
 
-⚠ zaratushytyrachı ± `en` @Ilmen #2eZ0mU3Cu
+⚠ zaratushytyrachı -1 `en` @Ilmen #2eZ0mU3Cu
 ▯ is a Zoroastrian.
 
 ⚠ zay -1 `en` @oldofficial #MTjlhBVsYf
@@ -91862,6 +92111,9 @@ Sa raı bı, me go ▯ méa ▯ ga tïaojeo hóa ráı ▯ da
 
 ⚠ zyzy -2 `en` @Machy #FE3i35KQk
 interjection: confusion
+
+⚠ 🪑 +1 `toa` @zearen #LXa3s1qTA
+Ina
 
 ⚠ @toacıa ± `en` @Ilmen #hpisR-GbA
 ▯ is flaccid.
