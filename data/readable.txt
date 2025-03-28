@@ -14284,6 +14284,9 @@ do ± `jbo` @zearen #JnNbqmnsp
 do ± `pl` @jiqci #Z5qzd_-sz0
 ▯ daje ▯ obiekt/posiadanie ▯.
 
+do ± `es` @TheAndSys #XwpK3ePyX
+predicado: 'dar'; ▯, a ▯, le da ▯
+
 doa ± `en` @official #cOl5x4Ix4m
 illocution: ‘PERM’; permissive
 
@@ -27727,7 +27730,7 @@ focus marker: regardless of X
 ıaq- -1 `en` @seaqtaq #K7i_8zDdZ
 adjective phrase head: regardless of whether or not (it is) or the degree to which (it is) X
 
-ıaq +1 `en` @robintown #86BRXGY2I
+ıaq +2 `en` @robintown #86BRXGY2I
 modal: no matter / regardless of
 
 ıaq ± `en` @Laqme #vbzS6UMgR
@@ -44505,7 +44508,7 @@ prefix: turn verb into focus prefix
 meq +1 `en` @Ilmen #RSxfBglvT
 quantifier: the proposition in which this quantifier appears is treated as a property with a lambda slot placed exactly where this quantifier appears; the resulting property is then claimed to satisfy the first slot of the predicate introduced by this quantifier.
 
-⚠ mẹ́qjoq'ıq ± `en` @uakci #Rz5ut7I-m
+mẹ́qjoq'ıq ± `en` @uakci #Rz5ut7I-m
 focus marker: primarily, predominantly, mainly, chiefly, overwhelmingly, as a majority (of cases / of concern)
 
 mera +1 `en` @Laqme #Pl51IIkL7
@@ -48020,7 +48023,7 @@ cleft verb: ‘CLE’; raise argument to the front of the clause
 nä ± `en` @uakci #u0JnbARC4
 cleft verb (“to be such that”); allows modifying word order by extracting terms to its left
 
-⚠ nạ́'ao +1 `en` @salarua #xNXVz1ZJR
+nạ́'ao +1 `en` @salarua #xNXVz1ZJR
 conjunction: except
 
 Naba ± `en` @funbreaker #d2XTgWJpz
@@ -48038,7 +48041,7 @@ Nabeho ± `en` @Ilmen #XGxjrzLju
 nabı +1 `en` @akesi #ypQPUDYVZ
 ▯ is spiritual (as in shamans, tarot, etc)
 
-⚠ nạ́bıe ± `en` @Laqme #2GIeRP89y
+nạ́bıe ± `en` @Laqme #2GIeRP89y
 conjunction: after
 
 nabıkata -1 `en` @akesi #JQ9vMZdHy
@@ -48053,16 +48056,16 @@ nabıpoq ± `en` @akesi #QrA2hiK3I
 nabıshuıche ± `en` @akesi #pEkiNnVMa
 ▯ is a hierophant: a person who interprets spiritual mysteries.
 
-⚠ nạ́boq ± `en` @Laqme #YLjcW7k6w
+nạ́boq ± `en` @Laqme #YLjcW7k6w
 conjunction: 'preventing'
 
 nábụshe ± `en` @salarua #OeYfHu3wk
 conjunction: except
 
-⚠ nạ́ca ± `en` @Laqme #xfSnM4A9G
+nạ́ca ± `en` @Laqme #xfSnM4A9G
 conjunction: "causing"
 
-⚠ nạ́cabo ± `en` @Laqme #uIw2laNAB
+nạ́cabo ± `en` @Laqme #uIw2laNAB
 conjunction: "caused by"
 
 nacho ± `en` @fagri #RJAutyISs
@@ -48071,7 +48074,7 @@ nacho ± `en` @fagri #RJAutyISs
 nadeq -1 `en` @uakci #SIUZZTlDh
 ▯ is an adder; ▯ is a nadder.
 
-⚠ nạ́dıam +1 `en` @Laqme #onzruaYbh
+nạ́dıam +1 `en` @Laqme #onzruaYbh
 conjunction: "enabling", "allowing"
 
 nádu +2 `en` @Laqme #FAhP7Bo1_
@@ -48206,22 +48209,22 @@ naıteqkata ± `en` @seaqtaq #YM_9Jh_K0
 naıtoa ± `en` @Laqme #51ge0DbzT
 ▯ is a nonce word (made up on the spot by its speaker to cover a lexical gap).
 
-⚠ nạ́jaqbıaq +1 `en` @Laqme #PONicJB88
+nạ́jaqbıaq +1 `en` @Laqme #PONicJB88
 conjunction: "so much that"
 
 nájeq ± `en` @Laqme #4vL1NqQOt
 conjunction: "that is", "or equivalently", "i.e."
 
-⚠ nạ́joı ± `en` @Laqme #LzsagDxwT
+nạ́joı ± `en` @Laqme #LzsagDxwT
 conjunction: and (happening together)
 
 nako ± `en` @TheAndSys #jFrXcagpo
 ▯ is spare, is extra, is a leftover from process ▯
 
-⚠ nạ́kuı ± `en` @robintown #iNKXn_RUc
+nạ́kuı ± `en` @robintown #iNKXn_RUc
 conjunction: because
 
-⚠ nạ́laheq ± `en` @Laqme #_s2xLmUyF
+nạ́laheq ± `en` @Laqme #_s2xLmUyF
 conjunction: 'entailing', '⊧', logical consequence
 
 nam- ± `en` @seaqtaq #X8MMqrTvL
@@ -48392,10 +48395,10 @@ nanaq ± `pl` @jiqci #75g_-kqwB0
 nanasa ± `en` @Hoemai #H4HcsvzpR
 ▯ is a member of genus Ananas (the pineapple and similar plants).
 
-⚠ nạ́nehuaq ± `en` @Laqme #1sr02hJKH
+nạ́nehuaq ± `en` @Laqme #1sr02hJKH
 conjunction: "more than"
 
-⚠ nạ́nejeq ± `en` @Laqme #1g8DBzh5l
+nạ́nejeq ± `en` @Laqme #1g8DBzh5l
 conjunction: "as much as"
 
 nanı +1 `en` @Hoemai #WQDyI_Lzt
@@ -48971,7 +48974,7 @@ naso -1 `en` @Hydro #YiMhfPSob
 nasoparuqnoso ± `en` @Hydro #lRU7FTZGk
 ▯ suffers from nasopharyngitis.
 
-⚠ nạ́shıu ± `en` @Laqme #vxF5KljcK
+nạ́shıu ± `en` @Laqme #vxF5KljcK
 conjunction: before
 
 natı +1 `en` @Laqme #g5wvMzKO2
@@ -48989,7 +48992,7 @@ natutıum ± `en` @Snow #oBHGWjZrE
 näꝡa ± `en` @Ilmen #Exo8377ZD
 particle: discourse-level frame-setting cleft — placed after a tense or modal expression, setting it as the domain in which the following sentences are evaluated as true, until the next occurrence of ⟪näꝡa⟫. May be used for introducing storytelling, in which case the following sentences are set to describe a context unrelated to the “here and now” of the speaker and addressees, describing instead events set in the past or in an imaginary universe.
 
-⚠ nạ́ꝡoshı +1 `en` @Laqme #3zS_1OHb7
+nạ́ꝡoshı +1 `en` @Laqme #3zS_1OHb7
 conjunction: "in the sense that"
 
 naze +2 `en` @lassc #dE7mJcWxG
@@ -49976,6 +49979,9 @@ nıce -2 `en` @akesi #UmNoejSoI
 nıcham ± `en` @TheAndSys #ND5rYq_pa
 ▯ happens today
 
+nıcham ± `es` @TheAndSys #eVOcjMcuV
+▯ ocurre hoy
+
 nıchaq ± `en` @official #xjxLDJb3R
 predicate: ‘today’; ▯ is today.
 
@@ -49990,6 +49996,9 @@ nıchaq ± `tok` @el #CfOQwaIus
 
 nıchaq ± `pl` @jiqci #FmYyl4cGf
 ▯ to dziś/dzisiaj.
+
+nıchaq ± `es` @TheAndSys #xPQlkUSMA
+▯ es hoy
 
 níchaq +1 `en` @robintown #t7gQ_DRRj
 pronoun: today
@@ -67948,7 +67957,7 @@ shıujea ± `en` @Laqme #3gGt9G4N0
 shıujeq ± `en` @salarua #IWs6w0yHR
 ▯ is the same as before.
 
-shịujıe -1 `en` @kazoo #O2rgrdEau
+shịujıe -2 `en` @kazoo #O2rgrdEau
 ▯ has prejudice about/for ▯
 
 shıujue +1 `en` @salarua #IM3cCZesZ
@@ -71668,6 +71677,9 @@ tırıge ± `en` @Ilmen #RBNENvZdY
 tırıgeteı ± `en` @Ilmen #JELde8Xu2
 ▯ is an owl.
 
+tırıgeteı ± `es` @TheAndSys #TRo5nnocU
+▯ es un búho
+
 tırıu ± `en` @official #2KMVhYm0YJ
 predicate: ‘return’; ▯ returns to location ▯.
 
@@ -74219,6 +74231,9 @@ tutı ± `en` @uakci #ZyhytJyoI
 
 tuto ± `en` @Hoemai #uRn7bLYkk
 ▯ is a member of the genus Tyto (the true barn owls, grass owls and masked owls).
+
+tuto ± `es` @TheAndSys #_uwbnQ_d6
+▯ es una lechuza
 
 tutu +1 `en` @el #rvADAWxJr
 determiner: "all Xses" / "every Xs" / plural universal quantifier
@@ -77295,7 +77310,7 @@ I did not see a giraffe. (e.g. on my journey)
 Bụqde ní. ± `en` @examples #pOZJQiCNaR1
 This is hella pretty.
 
-⚠ Bụqgı mí « Teoq Guheı » da! ± `en` @examples #-au34VqdJS
+Bụqgı mí « Teoq Guheı » da! ± `en` @examples #-au34VqdJS
 Twenty Questions is awesome!
 
 bu raı ± `en` @uakci #asJJlvKD5
@@ -77472,7 +77487,7 @@ I don’t know the person I’m looking at.
 Bu zao jí póq ꝡë kaqsı súq hóa da. ± `en` @examples #69j-FtzVQ7p
 I don’t know the person you’re looking at.
 
-⚠ Bu zueqja gẹ́dıao pío da, zueqja sá dıao faı pío ± `en` @kazoo #CuAKwi3cR
+Bu zueqja gẹ́dıao pío da, zueqja sá dıao faı pío ± `en` @kazoo #CuAKwi3cR
 "The big drop does not break the stone, the frequent drops break the stone." -- Toaqic proverb
 
 Ca cuaı pó sá dıao puı chúao da. ± `en` @examples #aMC-v898E7e2
@@ -77685,7 +77700,7 @@ I need your help.
 Chıeche nä kaı hó ꝡé kuq gáleche hóa da. ± `en` @examples #owxSB1xoAIh
 The learner writes what the teacher says.
 
-⚠ Chı jí bọ́chı nhâo da. ± `en` @examples #kF-sypWwpig
+Chı jí bọ́chı nhâo da. ± `en` @examples #kF-sypWwpig
 I believe what they believe.
 
 ⚠ Chı jí chô nháo súq. -1 `en` @oldofficial #YI4fafuUWtt
@@ -77919,7 +77934,7 @@ We like you.
 Cho jí báq nao da. ± `en` @examples #a93U0bJIY9
 I like water.
 
-⚠ Cho jí bọ́reo lô sueta suqbo da. ± `en` @examples #JZvmshXUzqR
+Cho jí bọ́reo lô sueta suqbo da. ± `en` @examples #JZvmshXUzqR
 I like the color of your sweater.
 
 ⚠ Cho jí gûaı jí rào baq nuaq da. -1 `en` @oldexamples #a5jpUCpBmkiJ
@@ -78483,7 +78498,7 @@ They eat.
 ⚠ Chuq nháo ku sa shamu da. -1 `en` @oldexamples #Mbr1Y6pV7SlD
 It's an apple that he ate.
 
-⚠ Chuq nháo kụ́sa shamu da. ± `en` @examples #rqhvB13_w4g
+Chuq nháo kụ́sa shamu da. ± `en` @examples #rqhvB13_w4g
 It's an apple that he ate.
 
 Chuq nháo sá shamu shı da. ± `en` @examples #kTuMy-Ja8qF
@@ -78882,7 +78897,7 @@ This kid can do things that I can't do.
 ⚠ Deq nháo ku sa jaq puı da. -1 `en` @oldexamples #1c_9gXeYH8
 He can do a lot of things.
 
-⚠ Deq nháo kụ́sa jaq puı da. ± `en` @examples #3AZZrJmV_t
+Deq nháo kụ́sa jaq puı da. ± `en` @examples #3AZZrJmV_t
 He can do a lot of things.
 
 ⚠ Deq nháo kụ́ sá jaq puı da. -1 `en` @oldexamples #N2IwiLBZxLI
@@ -78936,7 +78951,7 @@ All people are beautiful.
 De tú poq da. ± `en` @examples #9340zOv_rST
 All people are beautiful.
 
-⚠ - dı ± `en` @uakci #_3HjXObo3
+- dı ± `en` @uakci #_3HjXObo3
 informal suffix: forms descriptions of sexualities/gender identities
 
 Dıaı búajıo da. ± `en` @examples #9RZDCDdAmCF
@@ -78972,7 +78987,7 @@ I regularly run.
 Dıe jí, ꝡä taogaq íme réısoı ka. ± `en` @examples #qV58268x9zb
 I hereby suggest we play Go.
 
-⚠ - dıq ± `en` @uakci #nkL7th0iy
+- dıq ± `en` @uakci #nkL7th0iy
 informal suffix: in parallel to a **- dı** word, forms a verb of an arbitrary frame describing the act inherent to the identity described by that word
 
 ⚠ Doa bo súq ní jíbo naqpıa ba. -1 `en` @oldexamples #M2FAo65DyHNb
@@ -79278,7 +79293,7 @@ I know that your name is Sara.
 Dua jí, ꝡä nıe súq kúa, rú ꝡä feı súq. ± `en` @examples #UaZ10WBZFeH
 I know that you are in the room and that you are angry.
 
-⚠ Dua jí, ꝡä paı súq jí, rú juoq he ruogı há bọ́paı hâ da. ± `en` @examples #fGdm7h9232d
+Dua jí, ꝡä paı súq jí, rú juoq he ruogı há bọ́paı hâ da. ± `en` @examples #fGdm7h9232d
 I know that you’re my friend, and that people should be kind to their friends.
 
 Dua jí ꝡä ruqshua. ± `en` @examples #-dAI4duJ4ca
@@ -79821,7 +79836,7 @@ Go to that tall building yonder!
 Fa súq níjao jıo geabuaı ba. ± `en` @examples #ueUiSX_S_ig
 Go to that tall building yonder!
 
-⚠ - fe ± `en` @uakci #m7cc5na-5
+- fe ± `en` @uakci #m7cc5na-5
 informal suffix: cycle of X
 
 fea doıjı ± `en` @uakci #MFj--5Llw
@@ -80028,7 +80043,7 @@ I see that the glass is starting to fall.
 Gaı jí, ꝡä shua bío da. ± `en` @examples #50c6HCpgpilW
 I see that the glass is falling.
 
-⚠ Gaı jí, ꝡä shua shíabıo rú ꝡä tua kú káto hụ́ꝡa da. ± `en` @examples #AivD0wjpWGO
+Gaı jí, ꝡä shua shíabıo rú ꝡä tua kú káto hụ́ꝡa da. ± `en` @examples #AivD0wjpWGO
 I see that the glass fell and that the cat is the one that caused it.
 
 ⚠ Gaı nháo hê bu shua baq puao da. -1 `en` @oldexamples #ZEE48TXj-JT
@@ -80154,7 +80169,7 @@ See how I drop the cup, causing it to fall.
 gaı tı +1 `en` @robintown #r9DFXpaOa
 ▯ finds ▯ at ▯.
 
-⚠ Gáma róı élu bï luı jea jí hụ́roı. ± `en` @examples #auNGzGa-P33
+Gáma róı élu bï luı jea jí hụ́roı. ± `en` @examples #auNGzGa-P33
 The camel and the elephant, I bought them.
 
 gaq bua ± `en` @seaqtaq #AXDBXreDX
@@ -80313,7 +80328,7 @@ My sister is a doctor.
 Goıche líqpıa jî da. ± `en` @examples #sJGSwJPCaNZ
 My sister is a doctor.
 
-⚠ ..., gö kuq jí hóa âo, ꝡä bu sahu hóa. ± `en` @jiqci #3B33ljxT0
+..., gö kuq jí hóa âo, ꝡä bu sahu hóa. ± `en` @jiqci #3B33ljxT0
 ..., that is what I would have said, if it wasn't a lie.
 
 gom chuoq ± `en` @Laqme #xjG4t6zFq
@@ -81195,10 +81210,10 @@ He buys some food at the store.
 Jea jí kúe zûo ꝡä sho zudeq jí Íqlızu. ± `en` @examples #PRAe6deKvZc
 I bought the book in order to learn English.
 
-⚠ Jea nháo mạ́obaq nam. ± `en` @examples #No3R_SGnO3V
+Jea nháo mạ́obaq nam. ± `en` @examples #No3R_SGnO3V
 He also bought BREAD.
 
-⚠ Jea nháo nạ́boq jí kúe. ± `en` @examples #bhi47M0lgZX
+Jea nháo nạ́boq jí kúe. ± `en` @examples #bhi47M0lgZX
 He bought the book, preventing me from buying the book.
 
 Jeaq caı jí nha. ± `en` @examples #a1QDioGUzFL6
@@ -82104,7 +82119,7 @@ It's true.
 Juna hú da. ± `en` @examples #Kzl3U4ekTyY
 It's true.
 
-⚠ Juna hụ́ꝡa da. ± `en` @examples #5jSWjQ2D5rt
+Juna hụ́ꝡa da. ± `en` @examples #5jSWjQ2D5rt
 It's true.
 
 Juna máo, ꝡä pu kaqgaı jí sá tıqshoaı. ± `en` @examples #jLnWizFJ1cu
@@ -83181,7 +83196,7 @@ Say either “hello” or “goodbye” (not both).
 kû rao kíachaq ± `en` @examples #o34WJfBfPbY
 ON MONDAY
 
-⚠ - la ± `en` @Hoemai #MyAVtiTGt
+- la ± `en` @Hoemai #MyAVtiTGt
 pseudo-suffix: used for deriving the verb most commonly associated with a given stem
 
 laı bạ'aıpu ± `en` @fagri #X_CEGLW83
@@ -84609,7 +84624,7 @@ Is the workplace far from your house?
 ⚠ Ma tıjao gúaırıaq súqbo buajıo moq. -1 `en` @oldexamples #jjPFU7kP5iE
 Is the workplace far from your house?
 
-⚠ Mä tı ríaq Éoropa bï bu moaq jí hụ́ma. ± `en` @examples #ZkNpTCQOKOR
+Mä tı ríaq Éoropa bï bu moaq jí hụ́ma. ± `en` @examples #ZkNpTCQOKOR
 As for whether that place is in Europe, I do not remember that.
 
 ⚠ Mâ tı ríaq Éoropa bı bu moaq jí róu. -1 `en` @oldofficial #hg4T3Z0Kzgn
@@ -84699,7 +84714,7 @@ Please speak slowly.
 Meo súq kûı hí móq? ± `en` @examples #KZjALH9nRPR
 Why are you sad?
 
-⚠ - mı ± `en` @jiqci #iUFIzIgoJ
+- mı ± `en` @jiqci #iUFIzIgoJ
 suffix: forms words denoting a vast expanse of something
 
 Mıa buo nháo da. ± `en` @examples #rXKGnehpTOa
@@ -85128,7 +85143,7 @@ mu boqbu -1 `en` @Laqme #7d4Lavvf-
 mu boqbu -1 `en` @Ilmen #z34-iesIc
 ▯ is the case despite / in spite of ▯ being the case.
 
-⚠ Mụcho jí zạ́faq. ± `en` @examples #bxisprLxmJj
+Mụcho jí zạ́faq. ± `en` @examples #bxisprLxmJj
 I dislike the thing that's going to happen.
 
 Mụcho nháo jéa lô chao. ± `en` @examples #tPEvRppJO
@@ -85860,7 +85875,7 @@ Sleep, baby!
 ⚠ Nuo súq hu bébe ba. -1 `en` @oldexamples #smYki9Si3loY
 Sleep, baby!
 
-⚠ Nuo súq nạ́rao jí. ± `en` @examples #3s8OZlRQU93
+Nuo súq nạ́rao jí. ± `en` @examples #3s8OZlRQU93
 You sleep at the same as I do.
 
 Nuo súq tî hí naq? ± `en` @examples #-fqIy0vppDE
@@ -86592,13 +86607,13 @@ I said “I promise I won’t do it again.”
 Pu kuq jí mó «Bu, ꝡä jıa nıqguo toı jí súq hóq nha.» teo da. ± `en` @examples #fWTY89QJoKV-
 I said “I promise I won’t do it to you again.”
 
-⚠ Pu kuq jí mó « Cho jí súq da » teo da. ± `en` @examples #j15-B7SNY6X7
+Pu kuq jí mó « Cho jí súq da » teo da. ± `en` @examples #j15-B7SNY6X7
 I said ‘I like you’.
 
 ⚠ Pu kûq jí mó « Cho jí súq da » teo da. -1 `en` @oldexamples #ymDKwpTyLv7
 I said ‘I like you’.
 
-⚠ Pu kuq jí mó « Chua hí raı súq móq? » teo da. ± `en` @examples #UXRoS3vrxJd
+Pu kuq jí mó « Chua hí raı súq móq? » teo da. ± `en` @examples #UXRoS3vrxJd
 I said "What's your name?".
 
 ⚠ Pu kuq jí mó « Chua hı raı súq moq » teo da. -1 `en` @oldexamples #quoGIFeNE7Le
@@ -86685,7 +86700,7 @@ I said “I promise I’ll play with them today.”
 ⚠ Pu kuq nháo mó « Geqkuaı jí áqbo lıqpao da » teo da. -1 `en` @oldexamples #AsZyEKhIS4t
 He said «I miss my mom».
 
-⚠ Pu kuq nháo mó « Geqkuaı jí líqpao aqbo » teo da. ± `en` @examples #sjjMJXtd0T-
+Pu kuq nháo mó « Geqkuaı jí líqpao aqbo » teo da. ± `en` @examples #sjjMJXtd0T-
 He said «I miss my mom».
 
 Pu leo keoru buaq nháo ± `en` @examples #RdUZva1Za1
@@ -86772,7 +86787,7 @@ The apple fell on his head.
 Pu te nhea doa joe kébo pö núı ruaıfu ± `en` @examples #FMdiDQsyqJ
 (B0181) The little prince's horse had been carefully trained
 
-⚠ Pu teoqkuq côm nháo jí mó « ma tıaq báq muao móq? » teo da. ± `en` @examples #elBxhX2vslt
+Pu teoqkuq côm nháo jí mó « ma tıaq báq muao móq? » teo da. ± `en` @examples #elBxhX2vslt
 I asked him "Are trees brown?".
 
 ⚠ Pu teoqkuq còu nháo jí mó « ma tıaq baq muao moq » teo da. -1 `en` @oldexamples #OY3Cf1wOYIg
@@ -88038,7 +88053,7 @@ Everyone is paying attention to how I’m beautiful!
 Sı tú ꝡä fıe jí da! ± `en` @examples #PRDvyV2pnii
 Everyone is paying attention to how I’m ugly!
 
-⚠ - sıu ± `en` @jiqci #k5y3nViCV
+- sıu ± `en` @jiqci #k5y3nViCV
 taxonomy suffix: forms names for families (zoology: -idae, botany: -aceae)
 
 ⚠ Sıu chà baq noq baq sepe baq goso da. -1 `en` @oldexamples #r_R-mja30r3
@@ -88320,7 +88335,7 @@ I kindly request that you come to my home.
 Sue shoe ka. ± `en` @robintown #sqy72WDMB
 Excuse me; pardon me; may I?
 
-⚠ - suım ± `en` @jiqci #7cszfb3A2
+- suım ± `en` @jiqci #7cszfb3A2
 taxonomy suffix: forms names of orders (botany: -ales, zoology: -iformes)
 
 ⚠ Súqbo toakue bı naı choq nháo máq, ju bu dua jí nâı tı nháo hı raı da. -1 `en` @oldexamples #7Dh7unVwn9ad
@@ -88653,7 +88668,7 @@ The beautiful thing was chosen for many purposes.
 ⚠ Te koe dé sa puı da. -1 `en` @oldexamples #dqfVUbwgzY78
 The beautiful thing was chosen for many purposes.
 
-⚠ Tẹkuq mó « Paı jí súq ba » teo da. ± `en` @examples #5hSNfHlPyDOz
+Tẹkuq mó « Paı jí súq ba » teo da. ± `en` @examples #5hSNfHlPyDOz
 "You should be my friend," it was said.
 
 ⚠ Te kuq mó « Paı jí súq ba » teo da. -1 `en` @oldexamples #s3UBLJKSzjDg
@@ -89043,7 +89058,7 @@ There are three beautiful flowers in my garden.
 ⚠ Tı súqbo pao hı raı moq. -1 `en` @oldexamples #TQlHPVrwqFVL
 Where are your parents?
 
-⚠ Tısha nháo nạ́bıe súq. ± `en` @examples #rVycG__ANqY
+Tısha nháo nạ́bıe súq. ± `en` @examples #rVycG__ANqY
 He arrived after you did.
 
 ⚠ Tısha nháo rào hı chaq moq? -1 `en` @oldofficial #2-cr9gzWvw
@@ -89685,7 +89700,7 @@ Feel free to take a seat.
 tu jıq ± `en` @akesi #o1MPBsc-D
 ▯ is everything, ▯ is all of existence
 
-⚠ Tú nhạshı nä maı nhạ́shı sá nhạgu. ± `en` @examples #i2Nb5Z1bwS_
+Tú nhạshı nä maı nhạ́shı sá nhạgu. ± `en` @examples #i2Nb5Z1bwS_
 Every X is such that X loves some Y.
 
 ⚠ Tuoq chóme nhè sáqfue garaq. -1 `en` @oldofficial #K1ep61Dh873
@@ -89763,202 +89778,202 @@ Lisa is American.
 ⚠ Usona mí Lı sá da. -1 `en` @oldexamples #ZFbUckPCdAY
 Lisa is American.
 
-⚠ Ꝡä fa nháo cu dóaq bï, chı jí hụ́ꝡa da. ± `en` @examples #rn7nrHPNAYWX
+Ꝡä fa nháo cu dóaq bï, chı jí hụ́ꝡa da. ± `en` @examples #rn7nrHPNAYWX
 I think they came from the town.
 
-⚠ Ꝡä fa nháo cu dóaq bï, daı hụ́ꝡa da. ± `en` @examples #N6zq_JJUnbeK
+Ꝡä fa nháo cu dóaq bï, daı hụ́ꝡa da. ± `en` @examples #N6zq_JJUnbeK
 It’s possible they came from the town.
 
-⚠ Ꝡä fa nháo cu dóaq bï, dua jí hụ́ꝡa da. ± `en` @examples #dabygz4rKqKv
+Ꝡä fa nháo cu dóaq bï, dua jí hụ́ꝡa da. ± `en` @examples #dabygz4rKqKv
 I know they came from the town.
 
-⚠ Ꝡä fa nháo cu dóaq bï, le hụ́ꝡa da. ± `en` @examples #rLNqfnhtrMIw
+Ꝡä fa nháo cu dóaq bï, le hụ́ꝡa da. ± `en` @examples #rLNqfnhtrMIw
 It’s likely they came from the town.
 
-⚠ Ꝡä fa nháo cu gúa bï, chı jí hụ́ꝡa da. ± `en` @examples #U-DXD64IDjHN
+Ꝡä fa nháo cu gúa bï, chı jí hụ́ꝡa da. ± `en` @examples #U-DXD64IDjHN
 I think they came from the country.
 
-⚠ Ꝡä fa nháo cu gúa bï, daı hụ́ꝡa da. ± `en` @examples #MRA4ZqiIrZRF
+Ꝡä fa nháo cu gúa bï, daı hụ́ꝡa da. ± `en` @examples #MRA4ZqiIrZRF
 It’s possible they came from the country.
 
-⚠ Ꝡä fa nháo cu gúa bï, dua jí hụ́ꝡa da. ± `en` @examples #hn1x8BtOnu_R
+Ꝡä fa nháo cu gúa bï, dua jí hụ́ꝡa da. ± `en` @examples #hn1x8BtOnu_R
 I know they went to the country.
 
-⚠ Ꝡä fa nháo cu gúa bï, le hụ́ꝡa da. ± `en` @examples #yhxjV_8HRuV6
+Ꝡä fa nháo cu gúa bï, le hụ́ꝡa da. ± `en` @examples #yhxjV_8HRuV6
 It’s likely they came from the country.
 
-⚠ Ꝡä fa nháo cu máq bï, chı jí hụ́ꝡa da. ± `en` @examples #91GDwyEhjB4W
+Ꝡä fa nháo cu máq bï, chı jí hụ́ꝡa da. ± `en` @examples #91GDwyEhjB4W
 I think they came from there.
 
-⚠ Ꝡä fa nháo cu máq bï, daı hụ́ꝡa da. ± `en` @examples #KqeFA6TdKQ8n
+Ꝡä fa nháo cu máq bï, daı hụ́ꝡa da. ± `en` @examples #KqeFA6TdKQ8n
 It’s possible they came from there.
 
-⚠ Ꝡä fa nháo cu máq bï, dua jí hụ́ꝡa da. ± `en` @examples #Sz_-kZiFk0em
+Ꝡä fa nháo cu máq bï, dua jí hụ́ꝡa da. ± `en` @examples #Sz_-kZiFk0em
 I know they came from there.
 
-⚠ Ꝡä fa nháo cu máq bï, le hụ́ꝡa da. ± `en` @examples #gh0zzGZ_vqw4
+Ꝡä fa nháo cu máq bï, le hụ́ꝡa da. ± `en` @examples #gh0zzGZ_vqw4
 It’s likely they came from there.
 
-⚠ Ꝡä fa nháo dóaq bï, chı jí hụ́ꝡa da. ± `en` @examples #PKqPRy9Xtsp0
+Ꝡä fa nháo dóaq bï, chı jí hụ́ꝡa da. ± `en` @examples #PKqPRy9Xtsp0
 I think they went to the town.
 
-⚠ Ꝡä fa nháo dóaq bï, daı hụ́ꝡa da. ± `en` @examples #6KwW8LImuK2p
+Ꝡä fa nháo dóaq bï, daı hụ́ꝡa da. ± `en` @examples #6KwW8LImuK2p
 It’s possible they went to the town.
 
-⚠ Ꝡä fa nháo dóaq bï, dua jí hụ́ꝡa da. ± `en` @examples #tyuqBHH7q0JH
+Ꝡä fa nháo dóaq bï, dua jí hụ́ꝡa da. ± `en` @examples #tyuqBHH7q0JH
 I know they went to the town.
 
-⚠ Ꝡä fa nháo dóaq bï, le hụ́ꝡa da. ± `en` @examples #QpeMR8WDx0FT
+Ꝡä fa nháo dóaq bï, le hụ́ꝡa da. ± `en` @examples #QpeMR8WDx0FT
 It’s likely they went to the town.
 
-⚠ Ꝡä fa nháo gúa bï, chı jí hụ́ꝡa da. ± `en` @examples #LnGQvXlvKRY1
+Ꝡä fa nháo gúa bï, chı jí hụ́ꝡa da. ± `en` @examples #LnGQvXlvKRY1
 I think they went to the country.
 
-⚠ Ꝡä fa nháo gúa bï, daı hụ́ꝡa da. ± `en` @examples #ZlrY6vLfsifp
+Ꝡä fa nháo gúa bï, daı hụ́ꝡa da. ± `en` @examples #ZlrY6vLfsifp
 It’s possible they went to the country.
 
-⚠ Ꝡä fa nháo gúa bï, dua jí hụ́ꝡa da. ± `en` @examples #TwiGbmsVpXJH
+Ꝡä fa nháo gúa bï, dua jí hụ́ꝡa da. ± `en` @examples #TwiGbmsVpXJH
 I know they went to the country.
 
-⚠ Ꝡä fa nháo gúa bï, le hụ́ꝡa da. ± `en` @examples #8htAcNAoS_IZ
+Ꝡä fa nháo gúa bï, le hụ́ꝡa da. ± `en` @examples #8htAcNAoS_IZ
 It’s likely they went to the country.
 
-⚠ Ꝡä fa nháo máq bï, chı jí hụ́ꝡa da. ± `en` @examples #RFBVulj11l0H
+Ꝡä fa nháo máq bï, chı jí hụ́ꝡa da. ± `en` @examples #RFBVulj11l0H
 I think they went there.
 
-⚠ Ꝡä fa nháo máq bï, daı hụ́ꝡa da. ± `en` @examples #mqMWFWHFDl0h
+Ꝡä fa nháo máq bï, daı hụ́ꝡa da. ± `en` @examples #mqMWFWHFDl0h
 It’s possible they went there.
 
-⚠ Ꝡä fa nháo máq bï, dua jí hụ́ꝡa da. ± `en` @examples #8RxEdmPiwV1R
+Ꝡä fa nháo máq bï, dua jí hụ́ꝡa da. ± `en` @examples #8RxEdmPiwV1R
 I know they went there.
 
-⚠ Ꝡä fa nháo máq bï, le hụ́ꝡa da. ± `en` @examples #kL00oJzAUrGC
+Ꝡä fa nháo máq bï, le hụ́ꝡa da. ± `en` @examples #kL00oJzAUrGC
 It’s likely they went there.
 
-⚠ Ꝡä fa nháo ní Báreınıgua bï, daı hụ́ꝡa da. ± `en` @examples #XFab7MXAFT33
+Ꝡä fa nháo ní Báreınıgua bï, daı hụ́ꝡa da. ± `en` @examples #XFab7MXAFT33
 It’s possible she came here from Bahrain.
 
-⚠ Ꝡä fa nháo ní Bénıqgua bï, daı hụ́ꝡa da. ± `en` @examples #x_yVsLijckVQ
+Ꝡä fa nháo ní Bénıqgua bï, daı hụ́ꝡa da. ± `en` @examples #x_yVsLijckVQ
 It’s possible she came here from Benini.
 
-⚠ Ꝡä fa nháo ní Chílegua bï, daı hụ́ꝡa da. ± `en` @examples #ZeQIXkGe3mh3
+Ꝡä fa nháo ní Chílegua bï, daı hụ́ꝡa da. ± `en` @examples #ZeQIXkGe3mh3
 It’s possible she came here from Chile.
 
-⚠ Ꝡä fa nháo ní Dóıchegua bï, daı hụ́ꝡa da. ± `en` @examples #SsUxXAoYFXDy
+Ꝡä fa nháo ní Dóıchegua bï, daı hụ́ꝡa da. ± `en` @examples #SsUxXAoYFXDy
 It’s possible she came here from Germany.
 
-⚠ Ꝡä fa nháo ní Fáraqsegua bï, daı hụ́ꝡa da. ± `en` @examples #TpP3F0hgNufP
+Ꝡä fa nháo ní Fáraqsegua bï, daı hụ́ꝡa da. ± `en` @examples #TpP3F0hgNufP
 It’s possible she came here from France.
 
-⚠ Ꝡä fa nháo ní Hóqduragua bï, daı hụ́ꝡa da. ± `en` @examples #4OjB4nZWVp7M
+Ꝡä fa nháo ní Hóqduragua bï, daı hụ́ꝡa da. ± `en` @examples #4OjB4nZWVp7M
 It’s possible she came here from Honduras.
 
-⚠ Ꝡä fa nháo ní Kánadagua bï, daı hụ́ꝡa da. ± `en` @examples #Yl33MfyRDVIi
+Ꝡä fa nháo ní Kánadagua bï, daı hụ́ꝡa da. ± `en` @examples #Yl33MfyRDVIi
 It’s possible she came here from Canada.
 
-⚠ Ꝡä fa nháo ní Lágerıa bï, daı hụ́ꝡa da. ± `en` @examples #j0WUG1KFkShB
+Ꝡä fa nháo ní Lágerıa bï, daı hụ́ꝡa da. ± `en` @examples #j0WUG1KFkShB
 It’s possible she came here from Algeria.
 
-⚠ Ꝡä fa nháo ní sîna Báreınıgua bï, le hụ́ꝡa da. ± `en` @examples #Rqv_ryUA8VD3
+Ꝡä fa nháo ní sîna Báreınıgua bï, le hụ́ꝡa da. ± `en` @examples #Rqv_ryUA8VD3
 It’s likely she came here from Bahrain.
 
-⚠ Ꝡä fa nháo ní sîna Bénıqgua bï, le hụ́ꝡa da. ± `en` @examples #YUN1CtPadylo
+Ꝡä fa nháo ní sîna Bénıqgua bï, le hụ́ꝡa da. ± `en` @examples #YUN1CtPadylo
 It’s likely she came here from Benini.
 
-⚠ Ꝡä fa nháo ní sîna Chílegua bï, le hụ́ꝡa da. ± `en` @examples #teK_nhinjYDz
+Ꝡä fa nháo ní sîna Chílegua bï, le hụ́ꝡa da. ± `en` @examples #teK_nhinjYDz
 It’s likely she came here from Chile.
 
-⚠ Ꝡä fa nháo ní sîna Dóıchegua bï, le hụ́ꝡa da. ± `en` @examples #bFESnCXKHosI
+Ꝡä fa nháo ní sîna Dóıchegua bï, le hụ́ꝡa da. ± `en` @examples #bFESnCXKHosI
 It’s likely she came here from Germany.
 
-⚠ Ꝡä fa nháo ní sîna Fáraqsegua bï, le hụ́ꝡa da. ± `en` @examples #bh5YOoNhfcIT
+Ꝡä fa nháo ní sîna Fáraqsegua bï, le hụ́ꝡa da. ± `en` @examples #bh5YOoNhfcIT
 It’s likely she came here from France.
 
-⚠ Ꝡä fa nháo ní sîna Hóqduragua bï, le hụ́ꝡa da. ± `en` @examples #t3CKaaqg9ysG
+Ꝡä fa nháo ní sîna Hóqduragua bï, le hụ́ꝡa da. ± `en` @examples #t3CKaaqg9ysG
 It’s likely she came here from Honduras.
 
-⚠ Ꝡä fa nháo ní sîna Kánadagua bï, le hụ́ꝡa da. ± `en` @examples #NNekxpsD30g_
+Ꝡä fa nháo ní sîna Kánadagua bï, le hụ́ꝡa da. ± `en` @examples #NNekxpsD30g_
 It’s likely she came here from Canada.
 
-⚠ Ꝡä fa nháo ní sîna Lágerıa bï, le hụ́ꝡa da. ± `en` @examples #BZtvJUthXMEa
+Ꝡä fa nháo ní sîna Lágerıa bï, le hụ́ꝡa da. ± `en` @examples #BZtvJUthXMEa
 It’s likely she came here from Algeria.
 
-⚠ Ꝡä fa nháo ní sîna úsonagua bï, le hụ́ꝡa da. ± `en` @examples #B1zwjXnGPjDM
+Ꝡä fa nháo ní sîna úsonagua bï, le hụ́ꝡa da. ± `en` @examples #B1zwjXnGPjDM
 It’s likely she came here from the US.
 
-⚠ Ꝡä fa nháo ní úsonagua bï, daı hụ́ꝡa da. ± `en` @examples #4qJg2u98T-78
+Ꝡä fa nháo ní úsonagua bï, daı hụ́ꝡa da. ± `en` @examples #4qJg2u98T-78
 It’s possible she came here from the US.
 
 Ꝡa guobe ní da. ± `en` @examples #ETGLZ3SN53p
 [I assert] that this is a cow.
 
-⚠ Ꝡä jaı nháo bï, jaıca hụ́ꝡa jí da. ± `en` @examples #C9RUqAvXn0r
+Ꝡä jaı nháo bï, jaıca hụ́ꝡa jí da. ± `en` @examples #C9RUqAvXn0r
 Them being happy makes me happy.
 
-⚠ Ꝡä jaı súq bï, jaıca hụ́ꝡa jí da. ± `en` @examples #b7FHQ1Y0kSE
+Ꝡä jaı súq bï, jaıca hụ́ꝡa jí da. ± `en` @examples #b7FHQ1Y0kSE
 You being happy makes me happy.
 
-⚠ Ꝡä jeı súq múaqtua bï, ma dua sá raı hụ́ꝡa móq? ± `en` @examples #KTRw7TP4hiB
+Ꝡä jeı súq múaqtua bï, ma dua sá raı hụ́ꝡa móq? ± `en` @examples #KTRw7TP4hiB
 As for you being the killer, does anyone know it?
 
-⚠ Ꝡä jeı súq múaqtua bï, ma jaıca hụ́ꝡa súq móq? ± `en` @examples #9KHrSMTTb9l-
+Ꝡä jeı súq múaqtua bï, ma jaıca hụ́ꝡa súq móq? ± `en` @examples #9KHrSMTTb9l-
 As for you being the killer, are you happy about that?
 
-⚠ Ꝡä jıa maı jí déo bï, daı hụ́ꝡa da. ± `en` @examples #41-ZdnNrf0Wd
+Ꝡä jıa maı jí déo bï, daı hụ́ꝡa da. ± `en` @examples #41-ZdnNrf0Wd
 It’s possible that I’ll love the child one day.
 
-⚠ Ꝡä jıa maı jí déo bï, le hụ́ꝡa da. ± `en` @examples #-s3DG46L-gWQ
+Ꝡä jıa maı jí déo bï, le hụ́ꝡa da. ± `en` @examples #-s3DG46L-gWQ
 It’s likely that I’ll love the child one day.
 
-⚠ Ꝡä jıa maı jí líqdeo bï, daı hụ́ꝡa da. ± `en` @examples #NtTVmj8WYpq5
+Ꝡä jıa maı jí líqdeo bï, daı hụ́ꝡa da. ± `en` @examples #NtTVmj8WYpq5
 It’s possible that I’ll love the girl one day.
 
-⚠ Ꝡä jıa maı jí líqdeo bï, le hụ́ꝡa da. ± `en` @examples #kSR4qq9_2lTq
+Ꝡä jıa maı jí líqdeo bï, le hụ́ꝡa da. ± `en` @examples #kSR4qq9_2lTq
 It’s likely that I’ll love the girl one day.
 
-⚠ Ꝡä jıa maı jí náqdeo bï, daı hụ́ꝡa da. ± `en` @examples #jYnsbYyWd_-e
+Ꝡä jıa maı jí náqdeo bï, daı hụ́ꝡa da. ± `en` @examples #jYnsbYyWd_-e
 It’s possible that I’ll love the boy one day.
 
-⚠ Ꝡä jıa maı jí náqdeo bï, le hụ́ꝡa da. ± `en` @examples #IsOxxXy2jFJi
+Ꝡä jıa maı jí náqdeo bï, le hụ́ꝡa da. ± `en` @examples #IsOxxXy2jFJi
 It’s likely that I’ll love the boy one day.
 
-⚠ Ꝡä jıa maı jí nháo bï, daı hụ́ꝡa da. ± `en` @examples #RRufDsbTdStl
+Ꝡä jıa maı jí nháo bï, daı hụ́ꝡa da. ± `en` @examples #RRufDsbTdStl
 It’s possible that I’ll love him one day.
 
-⚠ Ꝡä jıa maı jí nháo bï, le hụ́ꝡa da. ± `en` @examples #ZsJzRsuWmWVP
+Ꝡä jıa maı jí nháo bï, le hụ́ꝡa da. ± `en` @examples #ZsJzRsuWmWVP
 It’s likely that I’ll love him one day.
 
-⚠ Ꝡä jıa maı jí súq bï, daı hụ́ꝡa da. ± `en` @examples #hcd5Nq_Mk8K2
+Ꝡä jıa maı jí súq bï, daı hụ́ꝡa da. ± `en` @examples #hcd5Nq_Mk8K2
 It’s possible that I’ll love you one day.
 
-⚠ Ꝡä jıa maı jí súq bï, le hụ́ꝡa da. ± `en` @examples #lcY8n-i7sZRV
+Ꝡä jıa maı jí súq bï, le hụ́ꝡa da. ± `en` @examples #lcY8n-i7sZRV
 It’s likely that I’ll love you one day.
 
-⚠ Ꝡä jıa muoı jíaq bï, goe hụ́ꝡa da. -1 `en` @kazoo #d0eq-OJXF
+Ꝡä jıa muoı jíaq bï, goe hụ́ꝡa da. -1 `en` @kazoo #d0eq-OJXF
 "One day the world will turn." -- An idiom meaning "There will be a time in the future where the roles will reverse."
 
-⚠ Ꝡä kuq nháo máq bï, chı jí hụ́ꝡa da. ± `en` @examples #RJylq79DDJ_4
+Ꝡä kuq nháo máq bï, chı jí hụ́ꝡa da. ± `en` @examples #RJylq79DDJ_4
 I think they said that.
 
-⚠ Ꝡä kuq nháo máq bï, daı hụ́ꝡa da. ± `en` @examples #goez7EUAYpRI
+Ꝡä kuq nháo máq bï, daı hụ́ꝡa da. ± `en` @examples #goez7EUAYpRI
 It’s possible she said that.
 
-⚠ Ꝡä kuq nháo máq bï, dua jí hụ́ꝡa da. ± `en` @examples #Q95HuMTaeUJS
+Ꝡä kuq nháo máq bï, dua jí hụ́ꝡa da. ± `en` @examples #Q95HuMTaeUJS
 I know they said that.
 
-⚠ Ꝡä kuq nháo máq bï, le hụ́ꝡa da. ± `en` @examples #S0ZvDLygLeR5
+Ꝡä kuq nháo máq bï, le hụ́ꝡa da. ± `en` @examples #S0ZvDLygLeR5
 It’s likely she said that.
 
-⚠ Ꝡä maı súq jí bï, ca hụ́ꝡa mâı jí súq da. ± `en` @examples #ybGEGn54tA57
+Ꝡä maı súq jí bï, ca hụ́ꝡa mâı jí súq da. ± `en` @examples #ybGEGn54tA57
 Your loving me makes me love you.
 
-⚠ Ꝡä maı súq jí bï, ca hụ́ꝡa mâı jí túq poq da. ± `en` @examples #pzo70VBroibJ
+Ꝡä maı súq jí bï, ca hụ́ꝡa mâı jí túq poq da. ± `en` @examples #pzo70VBroibJ
 Your loving me makes me love all people.
 
-⚠ Ꝡä paı súq jí bï, ca hụ́ꝡa ꝡä paı jí súq da. ± `en` @examples #wdn0W632kaHa
+Ꝡä paı súq jí bï, ca hụ́ꝡa ꝡä paı jí súq da. ± `en` @examples #wdn0W632kaHa
 Your being a friend to me makes me a friend to you.
 
-⚠ Ꝡä paı súq jí bï, ca hụ́ꝡa ꝡä paı jí túq poq da. ± `en` @examples #71T5QFniM5y1
+Ꝡä paı súq jí bï, ca hụ́ꝡa ꝡä paı jí túq poq da. ± `en` @examples #71T5QFniM5y1
 Your being a friend to me makes me a friend to all people.
 
 Ꝡä tı súq ní, bï jaı jí. ± `en` @robintown #sL7_nzMNF
@@ -90195,7 +90210,7 @@ Za sha tı chúe ± `en` @examples #M0jle2bO0R
 Za tısha nháo. ± `en` @examples #wFmZPaaGG2c
 He has yet to arrive.
 
-⚠ - ze ± `en` @uakci #xiWKEVDTO
+- ze ± `en` @uakci #xiWKEVDTO
 informal suffix: nominalizer (akin to **- ma**) for liquids
 
 Zeo shámu. ± `en` @examples #Fit8V4rG7KC
@@ -92437,7 +92452,7 @@ interjection: “You made a typo.”
 ⚠ fî X nä Y ± `en` @seaqtaq #4C6LOayzg
 At the time of X happening, Y is just about to happen
 
-⚠ Foa súq hı raı (móq)? -1 `en` @panWaja #-H_d-nJ0k
+Foa súq hı raı (móq)? -1 `en` @panWaja #-H_d-nJ0k
 How are you?
 
 ⚠ Gaı jí râq puy kue sıa da. -1 `en` @oldexamples #jWazcddUdMSr
@@ -93004,7 +93019,7 @@ Is "Lee" your name?
 ⚠ Ma chua shú ‹ Lıy › súq moq. -1 `en` @oldexamples #N7yO3ED7gsqP
 Is "Lee" your name?
 
-⚠ Ma deq hao súq (kïo lä lıaı já kı) móq? ± `en` @examples #6Sqp9mBJ2S6
+Ma deq hao súq (kïo lä lıaı já kı) móq? ± `en` @examples #6Sqp9mBJ2S6
 Can you do it (swim)?
 
 ⚠ Ma guo koysoı pó lâqcaı súq roı súqbo pıa moq. -1 `en` @oldexamples #h1YBicGlejey
@@ -93448,7 +93463,7 @@ While you’re all working, I sleep.
 ⚠ Rao gûaı súq cy, nûo jí da. -1 `en` @oldexamples #YJa1TnGrBnX
 While you’re working, I sleep.
 
-⚠ Râo kóacao (kïo cho jí báq koacao kı) nä baı jí báq nıaopoq. ± `en` @examples #Vf_9nPonEKc
+Râo kóacao (kïo cho jí báq koacao kı) nä baı jí báq nıaopoq. ± `en` @examples #Vf_9nPonEKc
 This winter (I like winter) I built a snow figure.
 
 ⚠ Rao nûo jí cy, gûaı réq da. -1 `en` @oldexamples #aBmQO-BnMud
@@ -93634,7 +93649,7 @@ How much does what the doctor said relate to my child?
 ⚠ Tısue súq déo ba, hu mí Ruty ± `en` @examples #z2iDWz106z
 (B0659) Call the children, Ruth
 
-⚠ Tóakue suqbo bï naı choq nháo máq (kïo bu dua jí, ꝡä naı tı nháo hí raı kı). ± `en` @examples #9O_m5iMxTH2P
+Tóakue suqbo bï naı choq nháo máq (kïo bu dua jí, ꝡä naı tı nháo hí raı kı). ± `en` @examples #9O_m5iMxTH2P
 As for your dictionary, he is currently using it (I don't know where he is now).
 
 ⚠ toaqmuı ▯ cu ▯ lú toaqmuı ▯ hóa ▯ -2 `en` @Ilmen #A2p0xqZRu

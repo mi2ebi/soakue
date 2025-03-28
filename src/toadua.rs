@@ -1,16 +1,21 @@
 use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
 
-use regex::Regex;
+use regex::bytes::{Regex, RegexBuilder};
 use serde::{Deserialize, Serialize};
+use unicode_normalization::UnicodeNormalization;
 
 use crate::letters::{filter, GraphResult, GraphsIter, Tone};
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(
-        "^(((^|[mpbfntdczꝡsrljvkg'wh \
-         ]|[ncs]h)([aeiouáéíóúâêîôûäëïẹịöụüıạọ]([aeo](ı)|ao|[aeiıou])?\
-         |[aeiouáéíóúâêîôûäëïẹịöụüıạọ])[qm]?)[ .,?!()]?)+$",
+    RegexBuilder::new(
+        r"^((
+            (^|[\ mpbfntdczꝡsrljkg'h]|[ncs]h)
+            ([aeiıou])? 
+            ([aeo][iı]|ao|[aeiıou][qm]?)
+        )[ .,?!()]?)+$",
     )
+    .ignore_whitespace(true)
+    .build()
     .unwrap()
 });
 
@@ -35,23 +40,33 @@ pub struct Toa {
 impl Toa {
     pub fn set_warning(&mut self) {
         self.warn = ([
-            "ae", "au", "ou", "nhi", "vi", "vu", "aiq", "aoq", "eiq", "oiq", "ꝡi", "ꝡu", "ae",
-            "au", "ou", "nhı", "vı", "vu", "aıq", "aoq", "eıq", "oiq", "ꝡı", "ꝡu",
+            "ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq",
         ]
         .iter()
         .any(|v| self.head.contains(v))
             || {
                 !MADE_OF_RAKU.is_match(
-                    &self
-                        .head
+                    self.head
+                        .nfd()
+                        .to_string()
                         .to_lowercase()
-                        .replace(|x| !filter(x) && !x.is_whitespace(), ""),
+                        .replace(" a", "'a")
+                        .replace(" e", "'e")
+                        .replace(" i", "'i")
+                        .replace(" ı", "'i")
+                        .replace(" o", "'o")
+                        .replace(" u", "'u")
+                        .replace(
+                            |x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x),
+                            "",
+                        )
+                        .as_bytes(),
                 )
             }
-            || self.head.chars().any(|c| {
+            || self.head.nfc().any(|c| {
                 !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
                   AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
-                  .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
+                  .,?!-\u{0301}\u{0302}\u{0308}\u{0323}()«»‹›"
                     .contains(c)
             })
             || self.user.starts_with("old"))
