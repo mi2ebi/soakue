@@ -5159,6 +5159,9 @@ buıguapoq ± `en` @Hoemai #1ZwJ2myGW
 buıhoq ± `en` @Ilmen #Ug-r4lDEE
 ▯ is the next outer proposition.
 
+buıhoq ± `en` @kazoo #2dvdrllZI
+▯ forms an exothermic reaction.
+
 buıhupa ± `en` @jiqci #IAr474UDJ
 ▯ pushes ▯ out of ▯.
 
@@ -7292,6 +7295,9 @@ cınaq +2 `en` @evie #YyOyQ087z
 cıneıcheo +1 `en` @Hoemai #isL71KWwv
 ▯ (plural) do 69 (sex position).
 
+cınha ± `en` @TheAndSys #XE2BpMNpr
+▯ is on the side of ▯
+
 cıo ± `en` @official #tEw6wYrr-m
 predicate: ‘adolescent’; ▯ is adolescent/pubescent.
 
@@ -8230,6 +8236,9 @@ cuetaq ± `en` @Ilmen #3MrbkvCD3
 
 cueteı ± `en` @Ilmen #JyF3fo7XQ
 ▯ is a polity (organizational structure).
+
+cuetue ± `en` @Laqme #38Qk51NXx
+▯ is a political affair / is some politics.
 
 cuga ± `en` @Hoemai #eDWM2ie2A
 ▯ is a hemlock tree.
@@ -10085,7 +10094,7 @@ chınedıu ± `en` @Laqme #FxrHBzew_
 chınoa ± `en` @Ilmen #11k5HuOgb
 ▯ is unbelievable; ▯ is hard to believe.
 
-chıo- ± `en` @seaqtaq #FTC3TpZar
+chıo- +1 `en` @seaqtaq #FTC3TpZar
 prefix: turns number N into a verb meaning ▯ happens N times
 
 chıo ± `en` @official #W6UgZ0gMaE
@@ -26449,9 +26458,6 @@ hojı ± `en` @Hoemai #qIrygGOL3
 hojıro ± `en` @jiqci #WfVT5U2u6
 ▯ is a bunting (genus Emberiza).
 
-hokapı ± `en` @Ilmen #s9DMWpkPC
-▯ is an okapi.
-
 hokı ± `en` @Hoemai #foW0UH9Sc
 ▯ is hockey (game).
 
@@ -36464,7 +36470,7 @@ kırısochuaq ± `en` @mimiaoganhaqpy #cZVaBl9Us
 kırısochuaqkue ± `en` @mimiaoganhaqpy #duFCAhpUu
 ▯ is a bible.
 
-kırısochuaqpoq ± `en` @Ilmen #ZH4iRdZbl
+kırısochuaqpoq -1 `en` @Ilmen #ZH4iRdZbl
 ▯ is a Christian.
 
 kıro ± `en` @robintown #iBi9fgB_P
@@ -38789,13 +38795,13 @@ textspeak for **kûı ꝡä** (because)
 la- ± `en` @uakci #bhkaW7xdL
 prefix: turns verb into a pronoun referring to the relation underpinning that verb
 
-⚠ la -1 `en` @oldofficial #dEm5widdTSY
+⚠ la -2 `en` @oldofficial #dEm5widdTSY
 complementizer: ‘that’; declarative or non-polar interrogative
 
-lá +1 `en` @uakci #e5yuRAgtN
+lá ± `en` @uakci #e5yuRAgtN
 unary property complementizer with subject implicitly filled with **já**
 
-lá -1 `en` @Hoemai #dG9dOrfYw
+lá -2 `en` @Hoemai #dG9dOrfYw
 contraction of t2 + null verb + lä
 
 lä ± `en` @official #qTpBIgw2zdp
@@ -39056,7 +39062,7 @@ laısucao +1 `en` @uakci #41Uf6u1bl
 laısuchaq +1 `en` @uakci #EoJQTC0rr
 ▯ is any holiday associated with Christ.
 
-laısuchuaq +1 `en` @uakci #MZ3pZ6XiU
+laısuchuaq ± `en` @uakci #MZ3pZ6XiU
 ▯ is Christianity.
 
 laısuchuqrıeq +1 `en` @uakci #tToE19wSR
@@ -44697,7 +44703,7 @@ mıala +2 `en` @Laqme #zCTRGnD-L
 mıalaıbıa ± `en` @Hydro #ocHNZpxAn
 ▯ suffers from a syndrome.
 
-mıam ± `en` @uakci #fEB6VzURM
+mıam +1 `en` @uakci #fEB6VzURM
 onomatopoeia: miaow
 
 ⚠ Mıama ± `en` @oldcountries #UEQbD5sN8
@@ -45279,6 +45285,9 @@ mıma ± `tok` @ijonetun #MNXOXlHmd
 ⚠ Mımagua -1 `en` @oldcountries #WJpLyi2KSF
 ▯ is the country Myanmar – Republic of the Union of Myanmar[x].
 
+mımea ± `en` @salarua #mGs0Cufnf
+▯ is a meme (sociological sense).
+
 mımı ± `en` @fagri #htLCnJKrt
 ▯ is a meme / internet joke
 
@@ -45655,6 +45664,12 @@ mıuleı +2 `en` @uakci #-7Br8C_ZF
 
 mıum ± `en` @uakci #wsi1ZHvl6
 onomatopoeia: mewl
+
+mıum ± `en` @evie #Q9mjdRM8e
+interjection: <3
+
+mıum ± `jbo` @evie #cvjnf92yT
+smudu'i zo «.iu»
 
 mıumıa ± `en` @seaqtaq #eMvMmOVGT
 ▯ is widely believed
@@ -51599,11 +51614,8 @@ Noregagua ± `en` @Ilmen #XpR_uQWMh
 Noregazu ± `en` @Ilmen #h8Kjmrtyc
 ▯ is (one of) the language(s) spoken in Norway – Kingdom of Norway.
 
-noruzo ± `en` @kazoo #FAsW4bvns
+noruzo +2 `en` @kazoo #FAsW4bvns
 ▯ is Nevruz/Novruz/Navruz/Nawruz/Newroz/Naw-Rúz.
-
-noruzo -1 `en` @salarua #gmvuK_Xy1
-▯ is Naw-Rúz.
 
 nose ± `en` @Laqme #xbSRbPztV
 ▯ is a translation/adaptation.
@@ -53561,6 +53573,9 @@ interjection: ‘oh’; surprise; oh
 obe ± `tok` @el #aeE0VXUzj
 nimi mu: "wa!"
 
+obe ± `jbo` @evie #q4nE0x-8v
+smudu'i zo «.ue»
+
 ⚠ obe -1 `en` @oldofficial #KKPB5wYcFPm
 interjection: ‘oh’; surprise
 
@@ -53620,9 +53635,6 @@ ochajukufase ± `en` @Ilmen #oA-UHaR3f
 
 ochareq ± `en` @jiqci #FxPRH6__1
 ▯ is a modern human (species Homo sapiens).
-
-ochareq ± `en` @jiqci #BlHtfblcR
-▯ is a human from species Homo sapiens.
 
 ochasesaı ± `en` @uakci #edXGVzL1B
 ▯ is plastic.
@@ -53735,6 +53747,9 @@ interjection: "goodbye"; indication of departure with expectation of return
 oka ± `zh` @mimiaoganhaqpy #07EQ0ppct
 感嘆詞：「再見」；表明離開，預期回來
 
+okapı ± `en` @Ilmen #kzRhmEbQc
+▯ is an okapi.
+
 okeı +1 `en` @Laqme #dH3dUir_c
 ▯ is OK (okay, fine, acceptable, all right).
 
@@ -53792,7 +53807,7 @@ omorashı ± `en` @nsfw #u16XferJk
 omorı +2 `en` @jiqci #mUnEqFYvF
 ▯ is a hermit/recluse.
 
-one +2 `en` @Laqme #OF5oAGJ8a
+one +3 `en` @Laqme #OF5oAGJ8a
 interjection: "babe", "honey", "dear"
 
 onem ± `en` @evie #dZTgf9k9u
@@ -65457,6 +65472,9 @@ Suerıegua ± `en` @countries #oShGDcg_LaK
 ⚠ Suerıegua -1 `en` @oldcountries #DN9ug_R1q5
 ▯ is the country Sweden – Kingdom of Sweden.
 
+suesoa ± `en` @TheAndSys #OxtSziRdH
+▯ advises ▯ to satisfy property ▯
+
 sueta ± `en` @official #_jyuQzyhkZ
 predicate: ‘sweater’; ▯ is a sweater.
 
@@ -65469,7 +65487,7 @@ suetao ± `en` @uakci #36oCV5aHv
 suezıam ± `en` @Laqme #-VPqqYZAY
 ▯ disobeys ▯.
 
-sụgı ± `en` @examples #2qXOJaQUT6F
+sụgı +1 `en` @examples #2qXOJaQUT6F
 best
 
 sugo +1 `en` @Ilmen #A7MUMpT-n
@@ -91080,7 +91098,7 @@ Head-initial performative illocution
 ⚠ kırısytochuaqkue ± `en` @Ilmen #N_xez8FMX
 ▯ is a bible.
 
-⚠ kırısytochuaq -1 `en` @Ilmen #gWkMZfl7x
+⚠ kırısytochuaq -2 `en` @Ilmen #gWkMZfl7x
 ▯ is Christianity.
 
 ⚠ Kısymasy -2 `en` @Laqme #G1goVbhn1
@@ -91170,14 +91188,14 @@ in state of affairs ▯, ▯ plays semantic role described by property ▯
 ⚠ kyroqbıa -1 `en` @Hydro #baEPDkr68
 ▯ suffers from Crohn's disease.
 
-⚠ kyraısytychuaq -1 `en` @fagri #Uns4xbjzj
-▯ is Christianity
-
 ⚠ kyraısytychuaqkue -1 `en` @fagri #8J8om6T44
 ▯ is a bible
 
 ⚠ ky -1 `en` @oldofficial #H5qFuH3dP_
 terminator: ‘[end]’; end free relative
+
+⚠ kyraısytychuaq -2 `en` @fagri #Uns4xbjzj
+▯ is Christianity
 
 ⚠ lagyba'ome ± `en` @salarua #vWxGAQ_uo
 ▯ is Lag BaOmer
@@ -91188,7 +91206,7 @@ terminator: ‘[end]’; end free relative
 ⚠ laofey ± `en` @uakci #cM0SV2H3o
 ▯ is excited/restless in anticipation.
 
-⚠ lã ± `en` @el #LoYEMzn3-
+⚠ lã -1 `en` @el #LoYEMzn3-
 = jẽı lá ...
 
 ⚠ leoqmy ± `en` @robintown #48JfPi2my
