@@ -262,6 +262,9 @@ ahoı +1 `en` @akesi #qUe-IB27i
 ahokıaq ± `en` @jiqci #eK5nMezmu
 ▯ is an ahoge/"stupid hair".
 
+áhona ± `en` @lassc #sKpreD3sN
+pronoun: 'y'all'; vulgar/insulting plural 2nd person pronoun
+
 áhoq +4 `en` @Laqme #pFgPk-44Z
 pronoun: 'you'; vulgar/insulting 2nd person pronoun
 
@@ -1574,7 +1577,7 @@ atomshıa ± `en` @jiqci #XPF1LJo1v
 atomzıa +1 `en` @Ilmen #SJpQoEgJg
 ▯ emits radioactivity, nuclear radiation ▯.
 
-áꝡa +2 `en` @uakci #G7fiMCu2v
+áꝡa +3 `en` @uakci #G7fiMCu2v
 pronoun: referring to the 1st, 2nd, or 3rd “person” when the individual in question does not want to have **jí**/**súq**/**nháo** used to refer to them
 
 aꝡaꝡa ± `en` @mimiaoganhaqpy #Eqyjq7wkL
@@ -5423,18 +5426,6 @@ handa ang ▯ na matamasang ▯.
 buofuq +1 `en` @uakci #a3r6ttXBF
 ▯ is clean laundry, ready-/appropriate-to-wear clothing.
 
-buoı ± `en` @salarua #wz9vA675I
-▯ feels the emotion associated with encountering "dark" topics (shock, followed by a renewed awareness of the world's ills and possibly a diminishing of hope)
-
-buoıluaı ± `en` @salarua #2jaWRqV65
-▯ is darkly humorous
-
-buoımeoca ± `en` @salarua #Td8lISy3z
-▯ is tragic
-
-buoınoaq ± `en` @salarua #RB6sSM9bQ
-▯ doomscrolls
-
 buojuq ± `en` @uakci #C3hMUtsME
 ▯ accepts property ▯.
 
@@ -6598,6 +6589,9 @@ ceaıruaq ± `en` @fagri #PICPPsdXI
 
 ceakea ± `en` @uakci #22N87P9hQ
 ▯ is a pocket device (calculator, smartphone, etc.).
+
+cealaısaı ± `en` @Laqme #KR6t1DTOj
+▯ is follicle-stimulating hormone.
 
 cealıao ± `en` @jiqci #-QggSrEWr
 ▯ is a sac fungus / acsomycete (phylum Ascomycota).
@@ -12161,6 +12155,9 @@ dache ± `en` @jiqci #Le1PaIzju
 dada ± `en` @Ilmen #REvymov0J
 ▯ is a chest (anatomy).
 
+dagı ± `en` @ijonetun #kwhn5YSYY
+interjection: good to know (accepting useful information)
+
 dago ± `en` @jiqci #8EjnHj4Bt
 ▯ is a DAG (directed acyclic graph).
 
@@ -14290,7 +14287,7 @@ predicado: 'dar'; ▯, a ▯, le da ▯
 doa ± `en` @official #cOl5x4Ix4m
 illocution: ‘PERM’; permissive
 
-dóa +1 `en` @Laqme #yi6dINBKk
+dóa +2 `en` @Laqme #yi6dINBKk
 illocution: asking for permission
 
 dóa ± `en` @uakci #pPkYeQCUA
@@ -16155,6 +16152,9 @@ eluchom ± `en` @jiqci #FpBp9vK9d
 
 em- ± `en` @uakci #qXXJKOSgD
 prefix: hesitation
+
+em- ± `en` @lassc #j_Hnz9g0W
+prefix: attaches implicit question as to the validity of the usage of the phrase within context
 
 em +2 `en` @Laqme #nSX8fe1z5
 interjection: "um…"
@@ -23719,6 +23719,9 @@ hakejo ± `en` @jiqci #mlU99j0rJ
 hákı ± `en` @lassc #z8Rtcnez0
 pronoun: vulgar/insulting 3rd-person
 
+hákına ± `en` @lassc #ZZI7N4sma
+pronoun: vulgar/insulting plural 3rd-person
+
 hakıq ± `en` @robintown #iE3Y-Uioi
 ▯ hacks on things.
 
@@ -25852,7 +25855,7 @@ hıtao ± `en` @uakci #doC9585pX
 hıtaola ± `en` @uakci #f97tbIt67
 ▯ does what to ▯? What relation does ▯ act upon ▯ with?
 
-hıte +1 `en` @robintown #b4xoCB2yQ
+hıte +2 `en` @robintown #b4xoCB2yQ
 interjection: 'no way'; astonished disbelief
 
 hıtı ± `en` @Laqme #_dphaV4Oc
@@ -30951,11 +30954,11 @@ jıjeo ± `en` @uakci #MQZIYzMy1
 jıjeo ± `toa` @uakci #r_HatNQds
 sa lo shú jí èa sâ kuq jí zé bı muı ▯ zé
 
-jıjı ± `en` @Machy #D4w76Tj0X
-▯ is the two of us; ▯ is we two.
-
 jıjı ± `en` @evie #uUGxZJNd_
 response to / acknowledgment of **kıkı** (cf **kıjı**→**jıkı**)
+
+jıjı -1 `en` @Machy #D4w76Tj0X
+▯ is the two of us; ▯ is we two.
 
 jıjıe ± `en` @Laqme #o14fTIn40
 ▯ is how I deem/judge things to be / is my opinion.
@@ -31605,6 +31608,9 @@ jıukao ± `en` @Laqme #Ks6SqC0fa
 jıuku ± `en` @salarua #SZW6VjfDz
 predicate: ‘dine’; ▯ dines on ▯
 
+jıulao ± `en` @Laqme #7nrtGbmLv
+▯ is pregnant.
+
 jıulıuq ± `en` @seaqtaq #u7lbrXu42
 ▯ is a generation (group of living organisms born around the same time)
 
@@ -31667,6 +31673,9 @@ jıushıe ± `en` @mimiaoganhaqpy #1AjTuB3aZ
 
 jıushoe ± `en` @uakci #b_dWr20XU
 ▯ bears ▯.
+
+jıutoaı ± `en` @Laqme #gsdb9HNfq
+▯ is a gamete.
 
 jıutua ± `en` @uakci #OAyIvwZAq
 ▯ bears ▯.
@@ -33080,6 +33089,9 @@ conjunction: X, which incidentally is the same as Y
 
 jumam ± `en` @seaqtaq #5hE5QVkin
 ▯ is the case then/at that time that/given that ▯ is the case
+
+jume ± `en` @Laqme #oBt2zMc2S
+▯ is an ovum / egg cell.
 
 jumoe ± `en` @TheAndSys #qJJmDEZHm
 ▯ is close to ▯ (emotionally, interpersonally)
@@ -42471,6 +42483,9 @@ luekeheıgutoq ± `en` @jiqci #87FM581T6
 luekıa ± `en` @Ilmen #_phWP3HIp
 predicate: ‘orange’; ▯ is the colour orange.
 
+luelaısaı ± `en` @Laqme #hsUNbtCjH
+▯ is luteinizing hormone.
+
 lueloha -1 `en` @seaqtaq #-14sBHub6
 (fork of #n5yoso9Q4) ▯ is gold
 
@@ -44849,6 +44864,12 @@ mıasıu ± `en` @Laqme #26QzslQ2R
 
 mıbo ± `en` @Ilmen #cn3l-rWAy
 object incorporating+name verb: ‘of that called’; turns following phrase X into verb: ▯ is of that which is called X.
+
+mıca ± `en` @Laqme #MeGqyPtL0
+▯ is semen.
+
+mıcatoaı ± `en` @Laqme #FF16PZf-G
+▯ is a sperm cell.
 
 mıcıoq +1 `en` @Laqme #S5z2PrzuJ
 name verb: ▯ is a button/switch/dial marked X.
@@ -48077,7 +48098,7 @@ nadeq -1 `en` @uakci #SIUZZTlDh
 nạ́dıam +1 `en` @Laqme #onzruaYbh
 conjunction: "enabling", "allowing"
 
-nádu +2 `en` @Laqme #FAhP7Bo1_
+nádu +3 `en` @Laqme #FAhP7Bo1_
 pronoun: 'that event/situation' (that you are / they are in)
 
 naga ± `en` @Hoemai #FBFzUIRIy
@@ -54449,6 +54470,9 @@ paqdıu ± `en` @Laqme #B9OpBYvjH
 paqdo ± `en` @Laqme #Up8Sk5Yfo
 ▯ contributes/adds to ▯ part ▯.
 
+paqdokıu ± `en` @Ilmen #8-Sp6cRm4
+▯ is an optional complement, an ‘add-on’ to ▯.
+
 paqdoraqmu ± `en` @uakci #JFJyCmb3V
 ▯ is a conversation topic that always leads to extreme amounts of insight and discussion and therefore should not be opened as one might fear closing the conversation without exhausting their arguments.
 
@@ -55901,6 +55925,9 @@ predicate: ‘seed’; ▯ is a seed/spore/egg/gamete/ovum/sperm/pollen.
 poaı +1 `en` @el #AIEC30Byv
 (fork of official) predicate: ‘seed’; ▯ is a seed/spore/egg/gamete/ovum/sperm/pollen, to grow into ▯
 
+poaı +1 `en` @Laqme #oM-2ak9FA
+▯ is a seed.
+
 poaı ± `pl` @jiqci #VEM4Z1JBtj
 ▯ to jajko/nasiono/gameta/pyłek/plemnik.
 
@@ -55925,7 +55952,7 @@ poaıpao +1 `en` @Hoemai #uWGLa9lf-
 poaıpuao ± `en` @uakci #Lw7Hary_E
 ▯ is a meringue.
 
-poaıpuo ± `en` @robintown #OXrydY-m5
+poaıpuo +1 `en` @robintown #OXrydY-m5
 ▯ is pollen/spores.
 
 poaırıaq ± `en` @seaqtaq #ZYJyKpPp6
