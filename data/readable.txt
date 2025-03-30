@@ -1004,7 +1004,7 @@ modality: X would happen if … were truer/more-so than it really is
 aohıa +1 `en` @Laqme #qCiqeAIXd
 What if ▯ were the case?
 
-aoja ± `en` @uakci #KFZSuGqG_
+aoja +1 `en` @uakci #KFZSuGqG_
 ▯ is detached/dissociated/distant / feels insentient.
 
 aojaı +3 `en` @Hoemai #QvbWT8jU7
@@ -1286,7 +1286,7 @@ Aqlızu ± `en` @mimiaoganhaqpy #I3AWVkHTE
 aqlua ± `en` @lassc #uDgFu652g
 ▯ is the collection of meaning-making and life experiences  that one has.
 
-aqmana +1 `en` @uakci #f_tvG0eAV
+aqmana ± `en` @uakci #f_tvG0eAV
 ▯ is the letter Q.
 
 aqmı ± `en` @Laqme #Uadf-s1l5
@@ -7052,11 +7052,11 @@ cı ± `pl` @jiqci #c_EH9hX44K
 cı ± `tr` @kazoo #qR1hMzPjp
 ▯ sayıca altıdır.
 
-cıa- +1 `en` @uakci #JnaQCd_DM
-prefix: indicates that a property is false with the tagged word present, but remains true when the word is left out
-
-cıa- +1 `en` @Laqme #XaOxTwOhH
+cıa- +2 `en` @Laqme #XaOxTwOhH
 prefix: X-less, without X
+
+cıa- ± `en` @uakci #JnaQCd_DM
+prefix: indicates that a property is false with the tagged word present, but remains true when the word is left out
 
 cıa ± `en` @official #YY4kKytR-G
 predicate: ‘lack’; ▯ lacks property ▯.
@@ -7687,6 +7687,9 @@ coezu ± `en` @Laqme #dJn9FiQOS
 
 coı- ± `en` @uakci #6KbbKwR0Q
 prefix: X understood objectively / as judged by some universal or agreed-upon standard
+
+cóı ± `en` @lassc #uDVudiR_y
+plural coordinator: ordered sequence
 
 coıha ± `en` @uakci #5Rs5n2wb-
 ▯ is a property that every person satisfies.
@@ -15412,6 +15415,9 @@ dugu ± `en` @Ilmen #pqWruCLmi
 duı- ± `en` @lassc #fM7prt_BO
 prefix: "too (much) X"
 
+duı +1 `en` @Laqme #fZMcamXBO
+degree: too much
+
 duı -1 `en` @official #3Vm7UxaZef
 predicate: ‘too.much’; ▯ is too much ▯; ▯ satisfies property ▯ too much to satisfy property ▯.
 
@@ -15429,9 +15435,6 @@ duı ± `pl` @jiqci #_sQz60FXxk
 
 duı ± `en` @evie #-oa4PN4bW
 ▯ is too much / excessive
-
-duı ± `en` @Laqme #fZMcamXBO
-degree: too much
 
 duı'uo ± `en` @evie #wgnAJpr5k
 ▯ overeeps (eeps too much)
@@ -16362,6 +16365,9 @@ esagı ± `tok` @el #6gV86DGMl
 
 esagı ± `tok` @mimiaoganhaqpy #-ULbN-Dn4
 ▯ li epiku.
+
+esagı ± `es` @TheAndSys #TAa7MJ6G3
+▯ es chido / genial / super bueno
 
 esahuı +2 `en` @seaqtaq #_nQeTjSkA
 ▯ sucks / is awful / is super bad.
@@ -23717,10 +23723,10 @@ hakejo ± `en` @jiqci #mlU99j0rJ
 ▯ = ▯ ^^ ▯. (tetration/power tower)
 
 hákı ± `en` @lassc #z8Rtcnez0
-pronoun: vulgar/insulting 3rd-person
+pronoun: "they"; vulgar/insulting 3rd-person
 
 hákına ± `en` @lassc #ZZI7N4sma
-pronoun: vulgar/insulting plural 3rd-person
+pronoun: "they"; vulgar/insulting plural 3rd-person
 
 hakıq ± `en` @robintown #iE3Y-Uioi
 ▯ hacks on things.
@@ -29031,6 +29037,9 @@ jaozum ± `en` @jiqci #4NyZoieYA
 jaq ± `en` @official #9SaWes7DxS
 predicate: ‘very’; ▯ is very much/extremely the case.
 
+jaq +1 `en` @robintown #8Fd3WJVlo
+degree: very, extremely
+
 jaq ± `tok` @el #c1zSzRFjF
 ▯ li ▯ mute
 
@@ -29039,9 +29048,6 @@ jaq ± `pl` @jiqci #vzscDEPB4N
 
 jaq ± `ru` @SuperSpaceNiM #gOyUx1ylW
 предикат: ‘очень’; ▯ очень, в значительной степени соответствует действительности.
-
-jaq ± `en` @robintown #8Fd3WJVlo
-degree: very, extremely
 
 ⚠ jaq -1 `en` @oldofficial #8lq5YdvCn3
 predicate: ‘very’; ▯ is very much the case; ▯ is very/extremely ▯.
@@ -29091,7 +29097,7 @@ jaqchuaqpoq ± `en` @fagri #ddGWs43nR
 jaqdaq ± `en` @TheAndSys #MvgIK_7tQ
 ▯ happens many times
 
-jaqduı ± `en` @Laqme #n-zGJGQAw
+jaqduı +1 `en` @Laqme #n-zGJGQAw
 degree: "far too much"
 
 jaqgala ± `en` @official #_45tj5CMR
@@ -35279,7 +35285,7 @@ predicate: ‘Pluto’; ▯ is the planet Pluto.
 keı- ± `en` @Laqme #TuLHnUF8m
 prefix: fill direct object with **kéı raı**
 
-keı -1 `en` @Machy #ZafseQfJ9
+keı -2 `en` @Machy #ZafseQfJ9
 Particle: is the following word what you meant to say?
 
 kéı +1 `en` @Laqme #a-nLVd0Ww
@@ -40926,6 +40932,9 @@ lıqde +2 `en` @uakci #EGmQUnTm4
 lıqdenaq +4 `en` @mimiaoganhaqpy #k0kkxTTda
 ▯ is a femboy.
 
+lıqdenaq ± `es` @TheAndSys #BrNMBsmfb
+▯ es un femboy
+
 lıqdeo ± `en` @official #4Fo3YeM7zt
 predicate: ‘girl’; ▯ is a girl.
 
@@ -42423,7 +42432,7 @@ lucaqdı ± `en` @seaqtaq #V13AF5Zoa
 luce ± `en` @Hydro #ORgXgiLDD
 ▯ is an ulcer.
 
-lucu +1 `en` @TheAndSys #YNZpqQD84
+lucu +2 `en` @TheAndSys #YNZpqQD84
 ▯ is a game
 
 Ludachuaq ± `en` @salarua #xGjkGIgqK
@@ -42962,6 +42971,9 @@ lutoame +1 `en` @el #j0R5rhCm8
 
 luꝡa ± `en` @uakci #YvoFJxc7q
 interjection: opening a story, starting an anecdote, entering an (extended) indirect/irrealis quote, beginning to entertain a parable/situation; “it goes like this: …”
+
+luzagı ± `en` @seaqtaq #AA5SxZy2T
+interjection: "Match point!"/"Game point!"
 
 ⚠ m +1 `en` @Laqme #XLsTvyaNO
 interjection: 'umm…' / 'hmm…'
@@ -48347,7 +48359,7 @@ namıhore ± `en` @Laqme #59Fmha2vM
 Namıjuqguonaomı ± `en` @jiqci #IkF5qp7hx
 ▯ is the South China Sea.
 
-namımerıka ± `en` @fagri #xidpIdXyM
+namımerıka -1 `en` @fagri #xidpIdXyM
 ▯ is South America (continent)
 
 namımoa ± `en` @Laqme #08Vck8xGv
@@ -48459,6 +48471,9 @@ nao ± `tr` @kazoo #ViRfrr-Cd
 ▯ sudur.
 
 nao'aı ± `en` @Ilmen #yExJbH5EZ
+▯ is liquid.
+
+nao'aı ± `en` @Ilmen #_GBR7VC3a
 ▯ is liquid.
 
 naobeq ± `en` @Ilmen #P82x2doCt
@@ -48817,6 +48832,9 @@ naqde +2 `en` @uakci #2NSHqWMUT
 
 naqdelıq +4 `en` @TheAndSys #ehdtbnnyV
 ▯ is a tomboy
+
+naqdelıq ± `es` @TheAndSys #x8PGDl2_Q
+▯ es una tomboy
 
 naqdeo ± `en` @official #DwFhvcc7IA
 predicate: ‘boy’; ▯ is a boy.
@@ -52475,10 +52493,10 @@ numero ± `en` @xorxes #I3Lozgsc_
 numpe ± `en` @takoda #ss5B-u7nR
 ▯ is a nymph.
 
-nunu +2 `en` @uakci #LQUKwCmXb
+nunu +3 `en` @uakci #LQUKwCmXb
 ‘there, there’; ‘it’s okay’
 
-nunu ± `en` @fagri #T1b7H-qGC
+nunu -1 `en` @fagri #T1b7H-qGC
 ▯ expresses sympathy for ▯ ; ▯ uunmo ▯ (lojban)
 
 nunuq +1 `en` @Ilmen #mwWWSSwIN
@@ -52487,7 +52505,7 @@ nunuq +1 `en` @Ilmen #mwWWSSwIN
 nunhe +1 `en` @Laqme #CQtciZFt_
 ▯ is the case to such an extent.
 
-nunhe ± `en` @robintown #u4dlWl4LK
+nunhe +1 `en` @robintown #u4dlWl4LK
 degree: to such an extent
 
 nuo ± `en` @official #c3d_uqXJB9
@@ -53228,11 +53246,11 @@ prefix: "not enough X/not X enough"
 nhoa +1 `en` @uakci #Zs9xy9XVL
 ▯ is the case to too small of an extent; ▯ satisfies property ▯ too little.
 
+nhoa +1 `en` @Laqme #wY1KqKKLl
+degree: too little
+
 nhoa ± `en` @evie #4ff4TDDH_
 ▯ is too little
-
-nhoa ± `en` @Laqme #wY1KqKKLl
-degree: too little
 
 nhoabota ± `en` @seaqtaq #kYup4VdBT
 ▯ is generous with/doesn't hold back from/isn't shy about satisfying property ▯
@@ -54055,6 +54073,9 @@ pabopıo ± `en` @jiqci #4F32rw6S8
 
 pachısı ± `en` @jiqci #YLMfE-XEC
 ▯ is Ludo, Mensch ärgere Dich nicht, aeroplane chess or similar game based on Pachisi.
+
+pachulı ± `en` @jiqci #c24NTy0iw
+▯ is a patchouli plant (Pogostemon cablin).
 
 pagaq ± `en` @salarua #tKjaF_esm
 ▯ is pagan (being a pagan, or relating to pagans or a pagan religion)
@@ -59511,9 +59532,6 @@ rıoguı +2 `en` @uakci #a3x5VskrN
 rıohua ± `en` @Laqme #fvFznrtkE
 ▯ is a lung.
 
-ríoı +1 `en` @lassc #Q-tXCgXWG
-plural coordinator: order-preserving roı
-
 rıoıcıa ± `en` @uakci #PSs-7Ij9X
 ▯ satisfies property ▯ directly rather than proxying/substituting/standing in for another.
 
@@ -59756,6 +59774,12 @@ rıtı ± `en` @robintown #Ft85AXccl
 
 rıtıgıa ± `en` @jiqci #Edi-NeYge
 ▯ is a ziptie.
+
+rıu- ± `en` @lassc #v_hJW1S7O
+prefix: "un-"; specifies the inverse/reverse of a verb
+
+rıu- ± `tlh` @evie #THzDDMQqV
+-Ha' («mItbe'» ghaSbe')
 
 rıu ± `en` @official #HPxEJAjOZw
 predicate: ‘return’; ▯ returns to satisfying property ▯.
@@ -62281,6 +62305,9 @@ saraq ± `en` @Ilmen #Cb6wHB_Sb
 sarashı +2 `en` @TheAndSys #f40ryTyrQ
 ▯ is a kind of linen-wrapping worn in Toaqgua to cover the arms, and sometimes also leg and torso
 
+sarashı ± `es` @TheAndSys #YEMKTmZ0m
+▯ es una venda de lino vestida en Toaqgua que cubre los brazos, y a veces tambien las piernas y el torso
+
 sarazam ± `en` @kazoo #PJ77rdslM
 ▯ is a Grand Vizier
 
@@ -63940,6 +63967,9 @@ sıomche ± `es` @TheAndSys #Ue7VJpyuf
 sıomfıuq ± `en` @Laqme #St83RZ456
 ▯ is a school (organization).
 
+sıomfuaı ± `en` @jiqci #uda2M5iZj
+▯ is an academic / scholarly association.
+
 sıomjıo ± `en` @Laqme #0qkg48J33
 ▯ is a school (building).
 
@@ -64250,7 +64280,7 @@ sıuchoa ± `en` @Laqme #b9OfbVPd1
 sıugıq ± `en` @Ilmen #Oqs1PxOxm
 ▯ is dissimilar from ▯.
 
-sıujeo ± `en` @Ilmen #seuqrZLfS
+sıujeo -1 `en` @Ilmen #seuqrZLfS
 something like ▯ is the case.
 
 sıujeo -1 `en` @Ilmen #oUtC1thmF
@@ -64808,14 +64838,14 @@ sonatanı ± `en` @jiqci #Y_yuGEYUH
 sono +1 `en` @fagri #hWXnKb_Xx
 ▯ happens a little bit (opposite of jaq)
 
+sono +1 `en` @robintown #mmyUtT1No
+degree: a little, a little bit
+
 sono ± `tok` @el #iw_S_5ps8
 ▯ li ▯ lili
 
 sono ± `en` @Isi #DjNdVK_xf
 predicate: ‘a.little’; ▯ is the case a little bit.
-
-sono ± `en` @robintown #mmyUtT1No
-degree: a little, a little bit
 
 sono'acı ± `en` @Machy #brBKjVdzj
 ▯ is a weak acid.
@@ -65685,6 +65715,9 @@ illocution: requestive illocution.
 
 ⚠ sujou ± `en` @fagri #e7qbQDXy9
 ▯ is a bundle of strings, ropes, wires, etc that are all running parallel to each other
+
+súkena ± `en` @lassc #31_RGG3f9
+pronoun: "you"; vulgar/arrogant/superior 2nd person plural
 
 sukıfımeaq ± `en` @Xeizzen #ymAWpTjBi
 ▯ is a skiff type of a boat
@@ -69373,6 +69406,9 @@ tao ± `pl` @jiqci #xhKQw1bEz
 tao ± `jbo` @zearen #Qo-U-kCXl
 ▯ zukte ▯
 
+tao ± `es` @TheAndSys #IZN0Dioq6
+▯ hace ▯
+
 taobıao ± `en` @Laqme #Di-SmUDrl
 ▯ is at a loss / baffled / stumped.
 
@@ -71533,7 +71569,7 @@ prefix: Intensity of X
 tıo ± `en` @official #kBErYnUaxq7
 complementizer: ‘how.much’; opens degree question matrix clause
 
-tıo ± `en` @robintown #kVz-T8NFj
+tıo +1 `en` @robintown #kVz-T8NFj
 degree: how much?
 
 ⚠ tıo -1 `en` @oldofficial #WBT9z3pQKw7
@@ -73480,6 +73516,9 @@ prefix: given a verb, derive a verb that expresses: Some stage of [verb] takes p
 tuao ± `en` @official #GrRuwM7OI4i
 predicate: ‘little’; ▯ is the case a little bit.
 
+tuao +1 `en` @robintown #GLkOZfbxs
+degree: little, not much
+
 tuao ± `toa` @Ilmen #b_awIqwfI
 = tuaope ▯ háo. = tuaope ▯ ▯ háo.
 
@@ -73492,14 +73531,14 @@ tuao ± `pl` @jiqci #N08qKDzKif
 tuao ± `en` @Isi #UWIcTQJ1J
 predicate: ‘little’; ▯ is little / not much the case.
 
-tuao ± `en` @robintown #GLkOZfbxs
-degree: little, not much
-
 ⚠ tuao -1 `en` @oldofficial #Jj1SZnfKF
 predicate: ‘little’; ▯ is a little bit the case; ▯ is little/non-much in property ▯.
 
 tuaobeı ± `en` @seaqtaq #AnQ1uwnOq
 ▯ is so little the case (emphatic/expressive)
+
+tuaobu +1 `en` @robintown #_eXDLlQ07
+degree: quite
 
 tuaobu -1 `en` @official #LOMwk66b76
 predicate: ‘quite’; ▯ is quite ▯.
@@ -73512,9 +73551,6 @@ tuaobu ± `toa` @Ilmen #_qv5FWnz4
 
 tuaobu ± `pl` @jiqci #i__fTYnl-C
 ▯ dosyć/całkiem zachodzi.
-
-tuaobu ± `en` @robintown #_eXDLlQ07
-degree: quite
 
 tuaobupe ± `en` @Ilmen #MULDX5up3
 the degree to which ▯ is the case is greater than the average among ▯;
@@ -74904,10 +74940,10 @@ predicate: ‘subordination.mark’; ▯ is the Derani subordination mark
 ꝡalaqteı ± `en` @salarua #bGME7Kx-I
 predicate: ‘glottal.tone’; ▯ is the glottal tone
 
-ꝡam ± `en` @uakci #r4td67pCC
+ꝡam -1 `en` @uakci #r4td67pCC
 illocution: [I] act this out [on you] in a roleplay/ERP fashion
 
-ꝡám ± `en` @uakci #tc8Wlw_fQ
+ꝡám +1 `en` @uakci #tc8Wlw_fQ
 focus prefix: *this* much / to *this* extent
 
 ꝡamluaq ± `en` @uakci #-teyeqQ3s
@@ -90654,7 +90690,7 @@ Member of PO: creates a predicate meaning "▯ is the answer to [complement]"
 ⚠ dyq -1 `en` @fagri #EgAW1Gp-3
 ▯ is off/inactive
 
-⚠ eımy ± `en` @seaqtaq #Hchm4p_tn
+⚠ eımy -1 `en` @seaqtaq #Hchm4p_tn
 ▯ is a role (assigned functional niche/societal status)
 
 ⚠ eqdyhaıda ± `en` @Machy #DLZvSxeYG
@@ -91629,16 +91665,16 @@ focus marker: re-quantify the marked noun phrase, asserting that rather than for
 ⚠ olıqpıky ± `en` @Hydro #lkvsxPLAa
 ○ is Olympic
 
-⚠ Osyreılıa -1 `en` @oldcountries #OsXxEtx_8
+⚠ Osyreılıa -2 `en` @oldcountries #OsXxEtx_8
 ▯ pertains to the culture of Australia – Commonwealth of Australia.
 
-⚠ Osyreılıagua -1 `en` @oldcountries #WXNFVGFIbp
+⚠ Osyreılıagua -2 `en` @oldcountries #WXNFVGFIbp
 ▯ is the country Australia – Commonwealth of Australia.
 
-⚠ Osȳreılıa -1 `en` @oldcountries #oF2TtWJNc
+⚠ Osȳreılıa -2 `en` @oldcountries #oF2TtWJNc
 ▯ pertains to the culture of Australia – Commonwealth of Australia.
 
-⚠ Osȳreılıagua -1 `en` @oldcountries #72Sw7tR5H9
+⚠ Osȳreılıagua -2 `en` @oldcountries #72Sw7tR5H9
 ▯ is the country Australia – Commonwealth of Australia.
 
 ⚠ otakocy ± `en` @Machy #KyfRqZkHq
@@ -93766,5 +93802,5 @@ At the time of X happening, Y is about to happen
 ⚠ Zuy réqmy pö núı deo -1 `en` @examples #t86-cKPm8k
 (B0077) The little girl's doll is broken
 
-⚠ X ru Y ru lıho ± `en` @panWaja #fAV5rcNkN
+⚠ X ru Y ru lıho -1 `en` @panWaja #fAV5rcNkN
 X and Y and so on...
