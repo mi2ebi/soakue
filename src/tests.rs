@@ -1,8 +1,6 @@
-use std::collections::{hash_map::Entry, HashMap};
-
-use itertools::Itertools;
-
 use crate::toadua::Toa;
+use itertools::Itertools as _;
+use std::collections::{hash_map::Entry, HashMap};
 
 /// Used to test all possible orders of a slice. This is important because we are performing sorting
 /// tests, and we want to ensure that the orders picked for testing are not biased for success

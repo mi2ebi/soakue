@@ -1,8 +1,6 @@
-use std::{iter::Peekable, str::Chars};
-
-use unicode_normalization::{Decompositions, UnicodeNormalization};
-
 use crate::UNDERDOT;
+use std::{iter::Peekable, str::Chars};
+use unicode_normalization::{Decompositions, UnicodeNormalization as _};
 
 #[derive(Debug, PartialEq, Eq)]
 pub enum Error {

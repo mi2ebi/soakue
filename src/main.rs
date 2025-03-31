@@ -1,12 +1,11 @@
+mod letters;
 mod old_main;
 #[cfg(test)]
 mod tests;
-
-mod letters;
 mod toadua;
 
 use crate::toadua::{Toa, Toadua};
-use itertools::Itertools;
+use itertools::Itertools as _;
 use reqwest::blocking::Client;
 use serde_json::{from_str, to_string};
 use std::{fs, time::Duration};

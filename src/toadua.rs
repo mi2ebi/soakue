@@ -1,10 +1,8 @@
-use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
-
+use crate::letters::{filter, GraphResult, GraphsIter, Tone};
 use regex::bytes::{Regex, RegexBuilder};
 use serde::{Deserialize, Serialize};
-use unicode_normalization::UnicodeNormalization;
-
-use crate::letters::{filter, GraphResult, GraphsIter, Tone};
+use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
+use unicode_normalization::UnicodeNormalization as _;
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     RegexBuilder::new(

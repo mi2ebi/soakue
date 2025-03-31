@@ -1,12 +1,12 @@
 #![allow(dead_code)]
 
-use itertools::Itertools;
+use itertools::Itertools as _;
 use regex::bytes::Regex;
 use reqwest::blocking::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
 use std::{fs, sync::LazyLock, time::Duration};
-use unicode_normalization::UnicodeNormalization;
+use unicode_normalization::UnicodeNormalization as _;
 
 pub fn main() {
     let client = Client::builder()
