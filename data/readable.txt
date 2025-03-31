@@ -11954,11 +11954,11 @@ chuqchuosıqkea ± `en` @Laqme #TcpY2fZF_
 chuqchuosıqtua ± `en` @Laqme #QJL01kUm8
 ▯ washes the dishes.
 
-chuqchuq ± `en` @uakci #lrd_J7RDf
-▯ devours, slurps, gulps, aahs, smacks their mouth.
-
 chuqchuq ± `en` @uakci #UbnXsu1YA
 interjection: nom nom
+
+chuqchuq -1 `en` @uakci #lrd_J7RDf
+▯ devours, slurps, gulps, aahs, smacks their mouth.
 
 chuqdere ± `en` @uakci #9T4gbT6Ax
 ▯ is obsessed with eating.
@@ -18823,6 +18823,9 @@ furo ± `en` @Laqme #R5DLmgOYK
 fushuaq ± `en` @seaqtaq #bXwXvP8fP
 (fork of #MPIwE70e7) ▯ procreates/reproduces; ▯ begets offspring ▯.
 
+⚠ g ± `en` @Laqme #bvr8NpVm6
+clitic: make the next word not attach to incorporated/predicatizer objects
+
 ga- ± `en` @uakci #ZV2R-s68D
 prefix: combines previous word X and next (attached) word Y into the compound YX, expressed as two parts for clarity or when forming an ad-hoc compound
 
@@ -20379,6 +20382,9 @@ gıaqfao ± `en` @Laqme #mhjH8-kmR
 
 gıaqfıeq ± `en` @uakci #zc_M7GFcF
 ▯ composes music ▯.
+
+gıaqguo ± `en` @ijonetun #RrmAF-pH2
+▯ plays / streams / puts on ▯
 
 gıaqjaı ± `en` @Machy #84BI_M16s
 ▯ is vibing.
@@ -22236,6 +22242,9 @@ guaokopı ± `en` @Ilmen #oKD11E1ps
 
 guaome ± `en` @seaqtaq #lTXkvdAkn
 ▯ is a tree (abstract sense)
+
+guaoneo ± `en` @Ilmen #-5tYcGnxY
+▯ is in a crux or furcation of ▯ (e.g. a tree).
 
 guaosıao ± `en` @seaqtaq #fqOcuK8SU
 ▯ is the root node of a tree
@@ -34092,6 +34101,9 @@ kalaı ± `en` @TheAndSys #lyWnIKFNA
 kalaınacheoq ± `en` @jiqci #y8Dz5ruNV
 ▯ is a Klein bottle.
 
+kalaqnıu ± `en` @Laqme #epfc6kswG
+▯ is a kalanchoe plant.
+
 kalasha ± `en` @jiqci #Og3MLFPNZ
 ▯ is a Kalashnikov / AK-47 assault rifle.
 
@@ -37439,7 +37451,7 @@ kotuase ± `en` @uakci #psDH-B0jT
 koꝡa ± `en` @eednb #Qv6GMpswC
 interjection: 'after all'
 
-koꝡe ± `en` @uakci #7W1SNjkH_
+koꝡe +1 `en` @uakci #7W1SNjkH_
 State of affairs ▯ is soothed/ailed/assuaged.
 
 koꝡeja ± `en` @jiqci #mcUTNFzYN
@@ -39200,6 +39212,9 @@ lao ± `pl` @jiqci #n5qgsb0UZC
 
 lao ± `en` @robintown #mHKkxmDml
 ▯ awaits / waits for ▯.
+
+laoba ± `en` @Laqme #3LM62eqyi
+interjection: "wait!", "stop!", "don't!"
 
 laobu ± `en` @uakci #K_Z248xdv
 ▯ does ▯ without waiting/hesitation/holding themselves back; ▯ goes ahead and does ▯ right away.
@@ -48299,6 +48314,9 @@ namakola ± `en` @seaqtaq #QUzoWKY3p
 namakolaı +2 `en` @Laqme #kcZvu5CxM
 ▯ is a dingbat / typographic decoration.
 
+nambaı ± `en` @Laqme #fVP1d4Cxa
+▯ bakes.
+
 nambaıpuo ± `en` @Laqme #lcgAJOmND
 ▯ is baking powder.
 
@@ -50452,6 +50470,9 @@ nımıcıoq ± `en` @salarua #kr30HH8Fv
 
 nımılaı +1 `en` @Laqme #sKZcfsQ3Y
 ▯ is a pleading face emoji.
+
+nımıtao ± `en` @salarua #SKFSpexZa
+▯ pleads.
 
 nımme ± `en` @Laqme #6QA5Lp_4i
 ▯ is a class system.
@@ -53950,6 +53971,9 @@ orogı ± `en` @Hoemai #L-iYAeMQj
 
 orohuı ± `en` @Ilmen #33QZPOPly
 ▯ is a source of exasperation.
+
+orola +1 `en` @Laqme #Ip2Za1o_m
+▯ grumbles / gripes / kvetches / complains.
 
 orolaı ± `en` @uakci #4qGJe7z0e
 ▯ is a passive–aggressive use of punctuation.
@@ -65070,6 +65094,9 @@ sozıgoa ± `en` @jiqci #vn2NfaQO4
 ⚠ sraı +1 `en` @Laqme #GzDfr6aw6
 contraction of **sá raı**
 
+⚠ stenokaı ± `en` @Laqme #klHnKpo9B
+▯ writes ▯ using stenography.
+
 su- ± `en` @official #xk_7BagKQq
 prefix: ‘SUP’; X-est; most X; superlative
 
@@ -70831,6 +70858,9 @@ teuq +2 `en` @jiqci #xYghiVm0Y
 teuqjıeq ± `en` @lassc #MRH8EjP-o
 ▯ is square pyramid-shaped
 
+teꝡa ± `en` @Laqme #kQ04QAeSL
+▯ is a rumor / some hearsay.
+
 tezeq ± `en` @jiqci #jvAmjROEO
 ▯ is peat.
 
@@ -74742,6 +74772,9 @@ uqkao ± `en` @seaqtaq #V23my9OSY
 uqkaocua ± `en` @seaqtaq #b1FUS6yCS
 ▯ apologizes to ▯ for ▯ happening despite having no part in it
 
+uqla ± `en` @Laqme #5TMeB0L8N
+▯ backchannels / goes "mhm" (uq) to show they're listening.
+
 uqsaqbuce ± `en` @salarua #56XT2SJlN
 ▯ is a USB port
 
@@ -75026,6 +75059,9 @@ interjection: cool!, sick!, wicked!, impressive!, tubular!
 
 ꝡaꝡacaı ± `en` @jiqci #hEPxeUR-f
 ▯ is badass.
+
+ꝡaꝡao ± `en` @evie #FdgGvDlB8
+interjection: cuter **ꝡadı**
 
 ꝡe ± `en` @mimiaoganhaqpy #2vo_GPGUu
 free relative: ‘that.which’; turn clause into predicate
