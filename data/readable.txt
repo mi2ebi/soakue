@@ -1883,6 +1883,15 @@ balaq ± `en` @uakci #tFOleNiWD
 bam'a +3 `en` @eednb #NX3vQbJjo
 interjection: "fuck it we ball"
 
+bam'aı ± `en` @lassc #TYxVKLuJ4
+interjection: "shoot your shot!", "make a move!"; encourages others' action when hesitant, especially in contexts of love
+
+bam'oe ± `en` @lassc #0bHDdYoQq
+▯ is the perceived "threshold" at which one loses the ability to care about a salient situation.
+
+bamaı ± `en` @lassc #JYTdo6nN7
+▯ expresses "optative love" (i.e. love via desires/urges/longing) towards ▯.
+
 Bamanazu ± `en` @eednb #VdxQW9MaH
 ▯ is the Bambara (Bamanankan) language.
 
@@ -7097,11 +7106,11 @@ cıane ± `en` @uakci #2GkKZQ5OF
 cıanhe ± `en` @uakci #UdP_BSzLT
 ▯ has zero extent / is zero in measure.
 
-cıao +3 `en` @Ilmen #3gqrO8MwM
-the behaviors and attitudes ▯ (properties) are a culture shared among ▯ (usually by transmission from member to member).
-
-cıao +2 `en` @Laqme #FnegqpJlf
+cıao +3 `en` @Laqme #FnegqpJlf
 ▯ is a culture.
+
+cıao +2 `en` @Ilmen #3gqrO8MwM
+the behaviors and attitudes ▯ (properties) are a culture shared among ▯ (usually by transmission from member to member).
 
 cıaodua ± `en` @Ilmen #u6DgL6fwf
 ▯ has cultural/shared/collective/conventional knowledge ▯.
@@ -16609,6 +16618,9 @@ predicate: ‘frequent’; ▯ frequently/often satisfies property ▯.
 faı ± `pl` @jiqci #7EkKiI9wn7
 ▯ często spełnia własność ▯.
 
+faı ± `en` @robintown #iLPjXIFrU
+adverb of quantification: often, frequently
+
 faı -1 `toa` @uakci #L06v-g8B-
 puı sa túq lu guo hóa jêo dóshı dógu da
 
@@ -18172,9 +18184,6 @@ foazameme +1 `en` @akesi #1K9md_OD7
 foazao ± `en` @seaqtaq #nsopQDpiF
 ▯ knows what it's like to fare like ▯ (property); ▯ knows how it feels to ▯
 
-foe ± `en` @lassc #LAa-SdrYO
-▯ is "performative love", i.e. love expressed via actions towards another.
-
 fofuaq ± `en` @official #W3ejKIJKE4d
 predicate: ‘F’; ▯ is the letter F.
 
@@ -18204,6 +18213,9 @@ foıfaı ± `en` @Laqme #g31g4Msmc
 
 foıge +1 `en` @uakci #3n9trss6c
 ▯ is something that incites boredom (in one).
+
+foıge ± `en` @official #oG82jo0ki
+predicate: ‘boring’; ▯ is boring.
 
 foıguaı ± `en` @uakci #qhmbcRTdG
 ▯ is on to a menial task; ▯ fulfills mundane work (▯).
@@ -22561,6 +22573,9 @@ guchıe ± `pl` @jiqci #LIZzMX4kCh
 guchıo ± `en` @official #owSRy0LMLo
 predicate: ‘twice’; ▯ happens twice / two times.
 
+guchıo ± `en` @robintown #tvCgAfIW8
+adverb of quantification: twice
+
 guchıogaı ± `en` @sheireq #7kAiXVoY-
 ▯ does a double take on ▯.
 
@@ -23065,6 +23080,9 @@ predicate: ‘sometimes’; ▯ happens sometimes.
 guosa ± `pl` @jiqci #yXA3es0CeI
 ▯ zdarza się czasem/czasami.
 
+guosa ± `en` @robintown #3Dk6Tw5aL
+adverb of quantification: sometimes
+
 guosı ± `en` @uakci #2Oug4pj6s
 ▯ watches/listens to ▯.
 
@@ -23076,6 +23094,9 @@ guosıa ± `tok` @el #Rxqc_xEQc
 
 guosıa ± `pl` @jiqci #pdr2rbrWS
 ▯ nigdy się nie zdarza.
+
+guosıa ± `en` @robintown #LtkhnxvjS
+adverb of quantification: never
 
 guoso +1 `en` @Ilmen #QFGpi1qQA
 ▯ is cattle (Bos taxonomic genus).
@@ -23097,6 +23118,9 @@ guoteı ± `en` @robintown #OCAKXl31Y
 
 guotoa ± `en` @uakci #cfkUIEGx_
 ▯ is a verb.
+
+guotu ± `en` @robintown #SDWlB4H9r
+adverb of quantification: always
 
 gupaq ± `en` @official #gF_9yHrGIp
 predicate: ‘half’; ▯ is a half.
@@ -34122,6 +34146,9 @@ Number component: "and some"
 kám +1 `en` @uakci #AN91v-3b1
 focus prefix like **bí**: expresses that the speaker is spelling out a definition for the marked phrase
 
+kamaı ± `en` @lassc #kM6j870LP
+▯ expresses "performative love" (i.e. love expressed via actions) towards ▯.
+
 Kamaızu ± `en` @eednb #V-Tc8NKeE
 ▯ is the Khmer language.
 
@@ -36757,6 +36784,9 @@ koamajı ± `en` @Vinterfred #oaC8mFejT
 
 koamchıo ± `en` @Laqme #Yd46jpdpe
 ▯ never happens.
+
+koamchıo ± `en` @robintown #jYIJiGfl0
+adverb of quantification: zero times
 
 koamgoe ± `en` @Laqme #GTAK9KZYb
 ▯ happens immediately.
@@ -39932,6 +39962,9 @@ leı ± `en` @Ilmen #FueN29IW6
 
 leı ± `pl` @jiqci #aWO37MWGQj
 ▯ rzadko spełnia własność ▯.
+
+leı ± `en` @robintown #LGfhAUYjm
+adverb of quantification: seldom, rarely
 
 leı -1 `toa` @uakci #isq1G4lux
 = bu #faı
@@ -44364,6 +44397,9 @@ melaq +1 `en` @Laqme #XTbtnoIWV
 mele ± `en` @jiqci #YuSxNf9Ld
 ▯ is a badger (genus Meles)
 
+melım ± `en` @lassc #VhKWT0vIm
+▯ is known to satisfy property ▯ socially/"on the outside".
+
 melo ± `en` @jiqci #Kwl5B_8gI
 ▯ is a mallow (genus Malva).
 
@@ -44601,6 +44637,9 @@ meteı ± `en` @Ilmen #g4FY-BYV9
 metero ± `en` @seaqtaq #7zOihMK4K
 ▯ is a metro/subway
 
+metıao ± `en` @lassc #fCo0BVd89
+▯ conforms to social norms.
+
 metoa +1 `en` @Laqme #XUbwiFlPv
 ▯ is a compound word.
 
@@ -44627,6 +44666,9 @@ determiner: "more X"/"additional X"
 
 meuzua ± `en` @Laqme #H-yRP6dkq
 ▯ reminds ▯ to satisfy property ▯.
+
+mezao ± `en` @lassc #KqSmLB_2t
+▯ is a celebrity.
 
 mezuoı ± `en` @seaqtaq #msbfdES7z
 ▯ swarm; ▯ collectively move around
@@ -49622,6 +49664,9 @@ neuce ± `en` @jiqci #lCO75Iy1t
 neuceme ± `en` @Laqme #9CCZvxmYb
 ▯ is a neural network.
 
+neugıq ± `en` @Laqme #VP6Ijj-K5
+▯ is the additive inverse / negative of ▯.
+
 neugo ± `en` @Laqme #AWEXfLfLT
 ▯ equals ▯ minus ▯.
 
@@ -52991,6 +53036,9 @@ nhaı ± `en` @salarua #wso3XEhZo
 nham ± `en` @robintown #AJZZbLt7F
 ▯ is dear to ▯.
 
+nhamaı ± `en` @lassc #xEesQWcQh
+▯ expresses "promissive love" (i.e. love expressed via commitments/promises/oaths) to ▯.
+
 nhamcho ± `en` @Laqme #ymfUufckV
 ▯ cherishes ▯.
 
@@ -53444,9 +53492,6 @@ sentence connector: ‘anyway’; return to old topic
 nhu ± `en` @Laqme #cm5N-1rzm
 interjection: ‘anyway’ (return to old topic)
 
-nhua ± `en` @lassc #pjFB_Y5zp
-▯ is "promissive love", i.e. love expressed via commitments/promises/oaths.
-
 nhuaı- ± `en` @Neaqbua #S_5mEGPtU
 prefix: Like **nhu-**, but always names a new variable, overriding previous ‹nhu-X› bindings.
 
@@ -53804,7 +53849,7 @@ oınesheq ± `en` @Laqme #f2jSC7gIQ
 oısotoro ± `en` @Ilmen #YaPBtyQ6X
 ▯ is a botfly (Oestridae family).
 
-oja +1 `en` @Laqme #7cgAzDm-p
+oja +2 `en` @Laqme #7cgAzDm-p
 ▯ makes a bow / curtsy; ▯ bows (as a social gesture).
 
 ojarua ± `en` @lassc #Kjjt4AN5c
@@ -55228,6 +55273,9 @@ petuao ± `en` @Ilmen #aE0_sSYfv
 
 peu ± `en` @uakci #wCq89XbO8
 decimal point [@Ilmen]
+
+pezıu ± `en` @Laqme #Qo7Y95RQ6
+▯ is a ratio.
 
 pı- ± `en` @seaqtaq #lmRJCrMH1
 prefix: 'middle voice': promotes object to subject, disallows referencing the original subject through even oblique semantic role marking
@@ -59082,20 +59130,23 @@ rerısaı ± `en` @uakci #31-lNd7Dg
 retete ± `en` @seaqtaq #v73j3gIcc
 ▯ sputters
 
+reu +1 `en` @el #LcljwEwkd
+▯ is the product of ▯ (roı of peıs)
+
 reu ± `en` @Ilmen #pBt8IhRwU
 ▯ = ▯ × ▯.
 
 reu ± `toa` @uakci #kDdK9_gVn
 tu dópa pǔıjeq hóa dóshı na tu dógu lǔ to ru puıjeq hóa dógu to lı mea ja dó to ru dópa to hóa ceı sıa ráı bı puıjeq dóshı tu lú tu dó bı jeojeq mêa dó hóa na mê dó sa lú mea hóa shı dópa na roı sa lú mea hóa shı dóre da
 
-reu ± `en` @el #LcljwEwkd
-▯ is the product of ▯ (roı of peıs)
-
 reubo ± `en` @Laqme #yZ4ubfYY5
 ▯ is divisible by ▯.
 
 reuda ± `en` @jiqci #G9oYG5MJe
 ▯ is a roach (genus Rutilus).
+
+reugıq ± `en` @Laqme #ltu0U6gcD
+▯ is the multiplicative inverse / reciprocal of ▯.
 
 reugo ± `en` @Laqme #6pCO8HNLl
 ▯ equals ▯ divided by ▯.
@@ -62170,6 +62221,9 @@ predicate: ‘thrice’; ▯ happens thrice / three times.
 saqchıo ± `pl` @jiqci #lOs2cl5UMJ
 ▯ zdarza się trzykrotnie.
 
+saqchıo ± `en` @robintown #RYW-fQTcv
+adverb of quantification: three times, thrice
+
 saqdı ± `en` @uakci #OcENBOUzO
 ▯ is sandhi.
 
@@ -62418,6 +62472,9 @@ seaboaı ± `en` @seaqtaq #OeNnvnYvr
 
 seachaq ± `en` @uakci #4_AAo5Hx0
 ▯ is a holiday (weekends, national holidays, days off…).
+
+seachaq ± `en` @seaqtaq #7wCJBKgp0
+▯ is a resting/break holiday (as opposed to a celebrative holiday)
 
 seachaqchue ± `en` @uakci #G9-702Yqq
 ▯ is holidays/vacation.
@@ -67362,6 +67419,9 @@ predicate: ‘once’; ▯ happens once / one time.
 
 shıchıo ± `pl` @jiqci #vBsyr47GK3
 ▯ zdarza się raz.
+
+shıchıo ± `en` @robintown #L1UhLFGaC
+adverb of quantification: once
 
 shıchıotoa ± `en` @Laqme #1Zf66EqEj
 ▯ is a word used only once in its source body of text ("hapax legomenon").
@@ -72555,6 +72615,9 @@ toaraq ± `en` @uakci #Ftkvbt4nM
 
 toaraqluaq ± `en` @uakci #wP_PbFQMH
 ▯ plays word association; ▯ play a game where each word uttered by (consequent) player is related to the previous one.
+
+toasao ± `en` @Laqme #U7qYDpW7L
+▯ is verbose.
 
 toasıao +1 `en` @uakci #AW3FrEj2N
 ▯ is the etymology of word ▯.
@@ -87054,7 +87117,7 @@ As for the people, they’re working.
 Réq bï, guaı hó da. ± `en` @examples #phL1EwvzNbW
 As for the people, they’re working.
 
-reu go ± `en` @Ilmen #OJDFX97Wi
+reu go -1 `en` @Ilmen #OJDFX97Wi
 ▯ = ▯ ÷ ▯.
 
 Rıufa hú naq. ± `en` @examples #fZcMKKWBq6D
