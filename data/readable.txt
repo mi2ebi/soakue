@@ -100,7 +100,7 @@ ache ± `en` @TheAndSys #tLPA1hhWs
 achetao ± `en` @jiqci #106F-gyjy
 ▯ does ▯ from the beginning / from scratch.
 
-achı ± `en` @Machy #j7nCaadSe
+achı +1 `en` @Machy #j7nCaadSe
 ▯ is fun.
 
 acho ± `en` @uakci #_5yAz5142
@@ -3071,6 +3071,9 @@ bı'atacha ± `en` @Hoemai #waJJiVWtE
 bıa ± `en` @official #fOFG0r1r5m
 predicate: ‘sick’; ▯ is sick/ill; ▯ is sick/ill with ▯.
 
+bıa +1 `en` @lassc #xZv2z4q4s
+▯ is afflicted with ▯.
+
 bıa ± `tok` @el #oIlYhABjX
 sijelo pi ▯ li jaki
 
@@ -3088,9 +3091,6 @@ may sakit ang ▯; dumamdam ang ▯ ng sakit na ▯.
 
 bıa ± `en` @robintown #6YtxKiTj5
 ▯ is sick/ill.
-
-bıa ± `en` @lassc #xZv2z4q4s
-▯ is afflicted with ▯.
 
 bıaca ± `en` @seaqtaq #-goN2Jk8M
 ▯ is an illness
@@ -9386,6 +9386,9 @@ chı ± `pl` @jiqci #9OGeX2xtqT
 chı ± `es` @TheAndSys #nyL7-DyDt
 ▯ cree que ▯ es el caso
 
+chı'ıa +1 `en` @lassc #h-nRKwd_p
+interjection: "you got this!", "happy X-ing!", "wishing you well!"
+
 chıa +3 `en` @robintown #edbWuy1vi
 ▯ needs to satisfy property ▯.
 
@@ -14126,6 +14129,9 @@ dıoqfa ± `en` @Laqme #SWegQZw7U
 dıoqkuq ± `en` @jiqci #RS7ut5mYr
 ▯ says ▯ directly / explicitly.
 
+dıoqno +1 `en` @Laqme #8yVUXltD8
+▯ is explicit (clearly stated).
+
 dıorıpıo ± `en` @robintown #mNiqGKd2F
 ▯ is diorite.
 
@@ -18592,7 +18598,7 @@ Fu ▯ sa raı fü ráı ▯.
 fufufu ± `en` @Ilmen #WMaL47hHU
 ▯ is a grand-grandchild of ▯; ▯ is an offspring of an offspring of an offspring of ▯.
 
-fuha ± `en` @jiqci #zYhstG_sk
+fuha +1 `en` @jiqci #zYhstG_sk
 ▯ blows.
 
 fuhacea ± `en` @jiqci #d6VHcFbrz
@@ -37052,6 +37058,9 @@ koedeq ± `en` @lassc #BNnDudx4O
 koedı ± `en` @lassc #MzhhD5P-Z
 ▯ consents to being in relation ▯.
 
+koeduna ± `en` @ijonetun #qJjwhpzQn
+▯ experiences choice/analysis paralysis around ▯
+
 koefaı ± `en` @Laqme #RRsKX6w0J
 ▯ is an arbitrary / random thing satisfying property ▯.
 
@@ -44508,7 +44517,7 @@ meloq -1 `en` @Ilmen #_nnHzwcLi
 mem +1 `en` @uakci #VFBgY4zY0
 object incorporating verb: ‘among’; turns following phrase X into verb: ▯ is among the things forming mass/aggregate X.
 
-meme ± `en` @uakci #rwACRo8V1
+meme +1 `en` @uakci #rwACRo8V1
 ▯ is a meme.
 
 meme ± `en` @fagri #4zvKdy42n
@@ -45473,6 +45482,9 @@ mıma ± `tok` @ijonetun #MNXOXlHmd
 
 mımea ± `en` @salarua #mGs0Cufnf
 ▯ is a meme (sociological sense).
+
+mımeame ± `en` @jiqci #iqYPdhdVY
+▯ is a memome.
 
 mımı ± `en` @fagri #htLCnJKrt
 ▯ is a meme / internet joke
@@ -55280,6 +55292,15 @@ peqtıse ± `en` @jiqci #UWsAwI4U3
 peqtoq ± `en` @fagri #XE78ROiQ1
 ▯ is a clipboard
 
+pera ± `en` @salarua #iWkuN9CM3
+▯ is intestinal gas.
+
+peracıu ± `en` @salarua #gelYRaUXR
+▯ passes gas.
+
+peranoı ± `en` @salarua #fCy5bz1d9
+▯ feels intestinal pain.
+
 perao ± `en` @evie #zPZIxHny3
 ▯ is a radish.
 
@@ -59655,7 +59676,7 @@ rıoce ± `en` @Laqme #2t5a1MnG5
 rıocemeaq ± `en` @jiqci #e-Ff3Qb3W
 ▯ is an aircraft carrier.
 
-rıocıu ± `en` @uakci #HLiEOLJqt
+rıocıu -1 `en` @uakci #HLiEOLJqt
 ▯ belches/farts/burps/passes gas.
 
 rıocuaı ± `en` @mimiaoganhaqpy #Pbg2ToP8p
@@ -61521,8 +61542,17 @@ ruqtue ± `en` @robintown #875ibX9vl
 ruqzuom ± `en` @Laqme #n7kM5F6Mx
 ▯ is a flood.
 
+rura ± `en` @salarua #AmYiVsYHy
+▯ is stomach gas.
+
 rurabu ± `en` @uakci #UsPy0T4zK
 conjunction: both or neither (iff)
+
+ruracıu ± `en` @salarua #mZmuHUraz
+▯ belches/burps.
+
+ruranoı ± `en` @salarua #GE0x20CxD
+▯ feels stomach pain.
 
 rurao ± `en` @Laqme #3ZgMMfXRZ
 conjunction: ‘and at the same time’, ‘and simultaneously’
@@ -66907,6 +66937,9 @@ sheamoı ± `en` @Laqme #GqkylvB4O
 sheamuoq ± `en` @uakci #bgNup01z3
 ▯ is ether; ▯ is the supposed element that constitutes the emptiness of outer space.
 
+sheano +2 `en` @Laqme #JEkJZUYFN
+▯ is implicit/implied/tacit.
+
 sheanua +1 `en` @jiqci #DASH0OnUQ
 ▯ empties ▯.
 
@@ -70195,11 +70228,11 @@ luı gujeo sa ráı dóshı dógu da
 te ± `ja` @uakci #SmChYzTbb
 ▯は二項関係▯が遣られたことがある
 
-⚠ te -1 `en` @oldofficial #RWqVJt8Oik
-predicate: ‘-ed’; ▯ has been ▯-ed (property).
-
 te -1 `pl` @jiqci #W9eEp8hhrz
 ▯ został ▯-ęty/ony; z ▯ została spełniona relacja ▯.
+
+⚠ te -2 `en` @oldofficial #RWqVJt8Oik
+predicate: ‘-ed’; ▯ has been ▯-ed (property).
 
 té +1 `en` @TheAndSys #0t757H76m
 pronoun: the fronted quote
@@ -70659,6 +70692,15 @@ prefix: turns a predicate expressing quantity/numerosity X into a determiner exp
 
 tém ± `en` @uakci #5awwc05rT
 pre-nounform particle: for each single thing among X
+
+teme +1 `en` @lassc #PQ33IgIv5
+▯ is an interview/questionnaire/poll/quiz/test/evaluation/set of exercises/homework.
+
+temene ± `en` @lassc #oou56nEkI
+▯ is a test/quiz/examination/evaluation.
+
+temıe +1 `en` @lassc #gfqQ6Zgb6
+▯ tests/quizzes/polls/conducts an interview with ▯.
 
 temoaq ± `en` @uakci #WWrKpbCVk
 ▯ passively recalls ▯.
