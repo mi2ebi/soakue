@@ -244,6 +244,9 @@ interjection: ‘ouch’; pain; ouch
 ahı ± `lou` @eednb #EwIZnlx1T
 intèjèksyon: ‘ayeyay’; doulœr; ayeyay
 
+ahı ± `jbo` @Laqme #O-0SGX6vV
+.oiro'o
+
 ⚠ ahı -1 `en` @oldofficial #zOdVUeVafT
 interjection: ‘ouch’; pain
 
@@ -1759,6 +1762,9 @@ gumawa ang ▯ ng ▯.
 
 baı ± `zh` @mimiaoganhaqpy #pKXSXz2qL
 謂詞：「製作」；▯ 做／製作／建設／蓋 ▯。
+
+baı ± `jbo` @Laqme #ZURGWPCRH
+▯ zbasu ▯
 
 baıbaı +2 `en` @Laqme #-GGQxMM5m
 interjection: ‘bye-bye!’
@@ -4655,6 +4661,9 @@ bua ± `ru` @SuperSpaceNiM #PTLW9CrHK
 bua ± `es` @TheAndSys #q8dKqZApD
 ▯ habita/vive en ▯
 
+bua ± `jbo` @Laqme #7ex6kHuIN
+▯ xabju ▯
+
 buabeo ± `en` @Ilmen #bQMullluZ
 ▯ moves house, relocates to ▯ from ▯.
 
@@ -5248,6 +5257,9 @@ buısetıeq ± `en` @uakci #cCy8cEhzN
 
 buısha ± `en` @Ilmen #vve33dipR
 ▯ gets out of ▯.
+
+buıshıeı ± `en` @Laqme #lPv6uF_Ef
+▯ is a tariff.
 
 buıshua ± `en` @jiqci #JhTw7JdG_
 ▯ falls out of ▯.
@@ -5885,7 +5897,7 @@ predicate: ‘enough.to’; ▯ is sufficiently the case for ▯ to be the case;
 cabo ± `en` @uakci #Yvighn4m6
 Event ▯ has ▯ as initiating force.
 
-caca +1 `en` @Ilmen #Y2gNfJoeU
+caca +2 `en` @Ilmen #Y2gNfJoeU
 ▯ indirectly causes ▯.
 
 cacıa ± `en` @robintown #dU0yoGUrT
@@ -10352,6 +10364,9 @@ cho ± `tr` @kazoo #LXTtsRTA-
 cho ± `es` @TheAndSys #ITnmlx00z
 a ▯ le gusta ▯
 
+cho ± `jbo` @Laqme #wqVCgwnMn
+▯ nelci ▯
+
 choa ± `en` @official #g4Klr-U2WY
 predicate: ‘utter’; ▯ utters ▯.
 
@@ -10943,6 +10958,9 @@ choq ± `ru` @SuperSpaceNiM #NPEpMsPDN
 choq ± `tr` @kazoo #ZNm7evgAl
 ▯, ▯'i ▯ için kullanır.
 
+choq ± `jbo` @Laqme #m2RK9P3GH
+▯ pilno ▯
+
 choq -1 `tok` @el #a76LXkIea
 ▯ li kepeken e ▯
 
@@ -11146,6 +11164,9 @@ chua ± `pl` @jiqci #UDWZrUk3pA
 
 chua ± `tr` @kazoo #EF0J6jVSa
 ▯, ▯'in ismidir.
+
+chua ± `jbo` @Laqme #eeULly2-C
+▯ cmene ▯
 
 chuabeo ± `en` @seaqtaq #FypD_nW5V
 ▯ changes their name to be ▯
@@ -11783,6 +11804,9 @@ chuo ± `tok` @nano #gpSzDlrcz
 chuo ± `en` @Laqme #DMpkdtsGi
 ▯ is a tool.
 
+chuo ± `jbo` @Laqme #3VmWN4-R-
+▯ tutci ja cabra
+
 chuocha ± `en` @Ilmen #h_XiIsd_w
 ▯ is done using ▯.
 
@@ -11954,6 +11978,9 @@ chuq ± `ru` @SuperSpaceNiM #QftzMzMiX
 chuq ± `es` @TheAndSys #H6bvZ93xC
 ▯ se come a ▯
 
+chuq ± `jbo` @Laqme #Vo1-SOLu3
+▯ citka ▯
+
 chuqbeaq +1 `en` @Laqme #ZpIcHFODY
 ▯ are chopsticks.
 
@@ -12044,6 +12071,9 @@ chuqkuaı ± `tok` @el #rrv6XezTo
 chuqkuaı ± `pl` @jiqci #sz0f3Iy_Sc
 ▯ jest głodny.
 
+chuqkuaı ± `jbo` @Laqme #rM_qZ4U5L
+▯ xagji lo cidja
+
 chuqkuaısuoı ± `en` @seaqtaq #lyzxJtjbS
 ▯ is feeling ravenous/voracious/rapacious
 
@@ -12073,6 +12103,9 @@ chuqsao +1 `en` @Ilmen #t2xfpU2OQ
 
 chuqsheq ± `en` @uakci #lraSp6b0K
 ▯ is a table knife.
+
+chuqshua ± `en` @TheAndSys #XNy_XKts9
+There is hunger.
 
 chuqtıao +1 `en` @official #5QEADjbjRS
 predicate: ‘edible’; ▯ is edible.
@@ -13082,6 +13115,9 @@ de ± `ru` @SuperSpaceNiM #nlw0zJpQh
 de ± `es` @TheAndSys #3te5N_r1F
 ▯ es hermoso
 
+de ± `jbo` @Laqme #jDtZYGlK2
+▯ melbi
+
 dea ± `en` @official #peyouO8gu2
 predicate: ‘hit’; ▯ hits/punches/kicks ▯.
 
@@ -13360,6 +13396,9 @@ deo ± `pl` @jiqci #pUYxeaIC1P
 
 deo ± `tr` @kazoo #DVVixb-ij
 ▯ çocuktur.
+
+deo ± `jbo` @Laqme #Ujs1BfaRp
+▯ verba
 
 deo'aı ± `en` @jiqci #SuylNABVS
 ▯ is childish.
@@ -16534,6 +16573,9 @@ fa ± `pl` @jiqci #7tk8wDC1a8
 fa ± `tr` @kazoo #NkRkr4Joo
 ▯, ▯'e gider.
 
+fa ± `jbo` @Laqme #M_wV6eABD
+▯ klama ▯
+
 fa -1 `jbo` @uakci #eFuXD6e-j
 ▯ klama ▯ ▯
 
@@ -17820,6 +17862,9 @@ jıoq ja ja cà to ra jîq ja to tˆe shuaq ja
 
 fıeq ± `pl` @jiqci #gHm7HqO27H
 ▯ tworzy/wymyśla ▯.
+
+fıeq ± `jbo` @Laqme #MzvKz8pCk
+▯ finti ▯
 
 fıeqdıu ± `en` @Laqme #gwDf1cRqO
 ▯ is engineering.
@@ -19351,6 +19396,9 @@ gaq ± `tok` @el #onUWireSd
 gaq ± `pl` @jiqci #O9Dyw_dqLT
 ▯ towarzyszy ▯ w spełnianu własności ▯.
 
+gaq ± `jbo` @Laqme #bs2TVGCqG
+▯ kansa ▯
+
 gaqba ± `en` @Laqme #Sw6gdAxY8
 interjection: 'cheers!'
 
@@ -20077,6 +20125,9 @@ geq ± `pl` @jiqci #PFhgF1s0wn
 geq ± `es` @TheAndSys #_qE7KgTRT
 ▯ se encuentra con ▯
 
+geq ± `jbo` @Laqme #ZWLIzII-D
+▯ penmi ▯
+
 geqcho ± `en` @uakci #O7wyyUGu4
 ▯ likes ▯; ▯ enjoys the social presence of ▯; ▯ enjoys being around ▯.
 
@@ -20196,6 +20247,9 @@ gı ± `ru` @SuperSpaceNiM #zk_4ANJlG
 
 gı ± `tr` @kazoo #ommGA4r86
 ▯ iyidir.
+
+gı ± `jbo` @Laqme #QfBUR1xKS
+▯ xamgu ja zabna
 
 gı'ao ± `en` @uakci #Lp3qFZ_xS
 It would be good if ▯.
@@ -20364,6 +20418,9 @@ gıaq ± `tok` @el #9qWVj3nsU
 
 gıaq ± `pl` @jiqci #zZuJ6CwC1Y
 ▯ to muzyka.
+
+gıaq ± `jbo` @Laqme #_LmCRYnW5
+▯ zgike
 
 gıaq'echı ± `en` @jiqci #oCUFka_gt
 ▯ is a clef.
@@ -21849,6 +21906,9 @@ gom ± `en` @robintown #r8dB5R3ZG
 
 gom ± `es` @TheAndSys #c0a0wqNc0
 ▯ se equivoca/comete un error
+
+gom ± `jbo` @Laqme #IfnddvLh5
+▯ srera
 
 gomaq ± `toa` @Ilmen #_2uXgQ0gz
 gujeo ▯ máq ▯.
@@ -25186,6 +25246,9 @@ hıaı ± `pl` @jiqci #dT193Qu4JW
 hıaı ± `ru` @SuperSpaceNiM #VN0PZ7xmw
 предикат: ‘смех’; ▯ смеётся.
 
+hıaı ± `jbo` @Laqme #GN46Mnhk-
+▯ cmila
+
 hıaıge ± `en` @jiqci #l3XQd52EL
 ▯ is hilarious / laughter-inducing.
 
@@ -25764,6 +25827,9 @@ hıo ± `pl` @jiqci #bHQKseCHuH
 
 hıo ± `bg` @kazoo #SbvSkpsd0
 ▯ поздравява ▯.
+
+hıo ± `jbo` @Laqme #XleYoGc82
+▯ rinsa ▯
 
 hıodıeq +1 `en` @Laqme #JBvNELVXe
 ▯ sends greetings / regards from ▯ (person) to ▯.
@@ -28039,6 +28105,9 @@ interjection: ‘roger’; received and understood
 ína ± `en` @Laqme #kvJ-oQEUX
 interjection: okay? got it?
 
+ína ± `jbo` @Laqme #icjrzdRhN
+je'epei
+
 ïna ± `en` @kazoo #lwtiM6fNq
 interjection: saying "understood" but unsure about what the other speaker quite meant
 
@@ -28077,6 +28146,12 @@ vi'o
 
 ínha ± `en` @Laqme #lv0ZCRr0m
 interjection: okay? will you?
+
+ínha ± `jbo` @Laqme #D0gE69gen
+vi'opei
+
+ınhace ± `en` @TheAndSys #S5OdO4U78
+▯ is the emotion of wishing to have done something different from something one did, believing it could have had a better outcome
 
 ınhaka ± `en` @lassc #tveVlO-zO
 interjection: "yeah, yeah"; expression of sarcastic/hyperbolic exasperation towards previous statement
@@ -28855,6 +28930,9 @@ jaı ± `pl` @jiqci #pJfho1QQ1Y
 
 jaı ± `es` @TheAndSys #CUtoXvV7O
 ▯ está feliz
+
+jaı ± `jbo` @Laqme #fYD040Mvj
+▯ gleki
 
 jaıbıa ± `en` @uakci #bvdUlxOlm
 ▯ is manic; ▯ has manic episodes.
@@ -30872,6 +30950,9 @@ Po jí ▯.
 
 jıbo ± `tok` @el #x1B32gjvJ
 ▯ li ijo mi
+
+jıbo ± `jbo` @Laqme #dNgpUQkHS
+▯ me mi moi
 
 jıchaq ± `en` @seaqtaq #TfDOzyuOO
 ▯ is the latest period in which the speaker is awake; ▯ is "today"
@@ -35549,6 +35630,9 @@ keoı ± `tok` @nano #zlLqevS8x
 keoı ± `es` @TheAndSys #Huw0EAWPf
 ▯ habla con ▯
 
+keoı ± `jbo` @Laqme #TtW--svTD
+▯ tavla ▯
+
 keoıceme ± `en` @uakci #q6LvU8pNo
 ▯ is a social graph; ▯ is a totality of friends and friendships/interactions between them.
 
@@ -36050,6 +36134,9 @@ kıashoqku ± `en` @jiqci #2KGdMJOct
 kıatıeq ± `en` @Laqme #agYF0eZGh
 ▯ is a major scale.
 
+kıba +1 `en` @lassc #6ryQ4ZBAg
+▯ is the case because of ▯ playing a part in/contributing to/being a factor in it.
+
 kıbı ± `en` @uakci #mEYw-7Frm
 ▯ is a kiwi fruit.
 
@@ -36484,6 +36571,9 @@ kao dóshı sa lú me hóa sa fuaq ceı dǔ duo hóa da
 
 kıq ± `en` @Laqme #jDjWhAyT0
 ▯ is a movie/film/video.
+
+kıq ± `jbo` @Laqme #O6eLxy_xY
+▯ skina
 
 ⚠ kıq -1 `en` @oldofficial #SXRNZu_zWv
 predicate: ‘movie’; ▯ is a movie/film.
@@ -37195,6 +37285,9 @@ koı ± `ja` @Laqme #BC8_2AuE2
 
 koı ± `pl` @jiqci #YRm3qxVR6k
 ▯ idzie/chodzi/biegnie (przemieszcza się na nogach).
+
+koı ± `jbo` @Laqme #38f3LBRyd
+▯ cadzu
 
 koıbeaq +1 `en` @Ilmen #xEVhaSLiZ
 ▯ is a walking stick.
@@ -37961,6 +38054,9 @@ kue ± `ru` @SuperSpaceNiM #weRV0dBmb
 kue ± `tr` @kazoo #fYNVFLzYa
 ▯ kitaptır.
 
+kue ± `jbo` @Laqme #9QH__dZOY
+▯ cukta
+
 kueboe ± `en` @Ilmen #v8oCKnVtM
 ▯ is a book page.
 
@@ -38362,6 +38458,9 @@ predicate: ‘sentence’; ▯ is a sentence.
 
 kuna ± `ru` @SuperSpaceNiM #-VzzgPOI4
 ▯ — предложение (фраза)
+
+kuna ± `jbo` @Laqme #ghR-BZ6zf
+▯ jufra
 
 kunagoeq ± `en` @Laqme #jAoXM0I4q
 ▯ is a sentence fence.
@@ -40896,6 +40995,9 @@ the property ▯ is in relation ▯ with property ▯ for acting towards relatio
 lım +1 `en` @Laqme #0BMdwgLCX
 ▯ understands ▯.
 
+lım ± `jbo` @Laqme #BUaX6N-yF
+▯ jimpe fi ▯
+
 lıma ± `en` @uakci #wk4WX4PjF
 ▯ is a girl/gal/chick.
 
@@ -41051,6 +41153,9 @@ lıq ± `tr` @kazoo #iHBMEQudw
 
 lıq ± `es` @TheAndSys #mHDscEZYo
 ▯ es femenino/es mujer
+
+lıq ± `jbo` @Laqme #viLb27rFa
+▯ ninmu ja fetsi
 
 lıq'a ± `en` @Machy #Gg5allST7
 ▯ is a lass.
@@ -42177,6 +42282,9 @@ predicate: ‘story’; ▯ is a story.
 lua ± `pl` @jiqci #xnO6p3MOd
 ▯ to opowieść/historia.
 
+lua ± `jbo` @Laqme #GZo4mQ5B4
+▯ lisri
+
 lúa ± `en` @examples #NOBxvi7vVhS
 the story
 
@@ -43299,6 +43407,9 @@ maı ± `fr` @zearen #JuCvqqfQ0
 maı ± `es` @TheAndSys #rnDTqx_7B
 ▯ ama a ▯
 
+maı ± `jbo` @Laqme #1j4i0Hguo
+▯ prami ▯
+
 maı -1 `toa` @uakci #Zq6KDwt9s
 = #jaq #cho
 
@@ -43856,6 +43967,9 @@ predicate: ‘dance’; ▯ dances.
 
 marao ± `pl` @jiqci #VnHKPaDIfP
 ▯ tańczy.
+
+marao ± `jbo` @Laqme #6EUqu0bOF
+▯ dansu
 
 maraotoaı ± `en` @Laqme #XPBb9TN4g
 ▯ is a dance move.
@@ -45867,7 +45981,7 @@ mıum ± `en` @evie #Q9mjdRM8e
 interjection: <3
 
 mıum ± `jbo` @evie #cvjnf92yT
-smudu'i zo «.iu»
+.iu
 
 mıumıa ± `en` @seaqtaq #eMvMmOVGT
 ▯ is widely believed
@@ -48965,6 +49079,9 @@ naq ± `ru` @SuperSpaceNiM #ikYxcBTOm
 naq ± `es` @TheAndSys #HoiomyiNZ
 ▯ es masculino/es hombre
 
+naq ± `jbo` @Laqme #DPE9MIuJ8
+▯ nanmu ja nakni
+
 naq'aı ± `en` @seaqtaq #cocsGNVB3
 ▯ is masculine
 
@@ -49876,6 +49993,9 @@ bo'a danlu
 
 nıaı ± `pl` @jiqci #eRs-S77xy1
 ▯ to zwierzę/stworzenie.
+
+nıaı ± `jbo` @Laqme #d825k7ROg
+▯ danlu
 
 nıaı'aı ± `en` @uakci #ROl6V1X_F
 ▯ is feral/animal-like.
@@ -52697,6 +52817,9 @@ nuo ± `pl` @jiqci #fvRfriHo0X
 nuo ± `ru` @SuperSpaceNiM #5GjwWC1zE
 предикат: ‘спать’; ▯ спит.
 
+nuo ± `jbo` @Laqme #QPJNUNs-F
+▯ sipna
+
 nuobaı +1 `en` @uakci #bhFUcPGpi
 ▯ is a dreamweaver/oneironaut.
 
@@ -53790,7 +53913,7 @@ obe ± `tok` @el #aeE0VXUzj
 nimi mu: "wa!"
 
 obe ± `jbo` @evie #q4nE0x-8v
-smudu'i zo «.ue»
+.ue
 
 ⚠ obe -1 `en` @oldofficial #KKPB5wYcFPm
 interjection: ‘oh’; surprise
@@ -54293,6 +54416,9 @@ paı ± `pl` @jiqci #YHnbUK-RdN
 paı ± `ru` @SuperSpaceNiM #qPK6WV--k
 предикат: ‘друг’; ▯ — друг; ▯ — друг (дружит с) ▯.
 
+paı ± `jbo` @Laqme #X82yF3-Uo
+▯ pendo ▯
+
 paıcuao ± `en` @uakci #9dFWsnSzS
 ▯ and ▯ are at odds with each other.
 
@@ -54538,6 +54664,9 @@ pao ± `tok` @el #kUVM34Z9w
 
 pao ± `pl` @jiqci #qV8Tq79b7M
 ▯ to rodzic/pełni rolę rodzica wobec ▯; ▯ wychowuje ▯.
+
+pao ± `jbo` @Laqme #_VD1cnulJ
+▯ rirni ▯
 
 paochaq ± `en` @jiqci #IiKQkC-Or
 ▯ is sick with a pox / varicella.
@@ -55415,6 +55544,9 @@ predicate: ‘sibling’; ▯ is a sibling of ▯.
 pıa ± `pl` @jiqci #L9HyMrX5Co
 ▯ to rodzeństwo ▯.
 
+pıa ± `jbo` @Laqme #2JWsHKK6F
+▯ tunba ▯
+
 pıa'uq ± `en` @jiqci #h1ZDtn5b-
 ▯ is millet.
 
@@ -55513,6 +55645,9 @@ pıca ± `tok` @el #ypWL7c-rQ
 
 pıca ± `ru` @SuperSpaceNiM #RViqMi5zP
 ▯ — пицца.
+
+pıca ± `jbo` @Laqme #47X0V7z5n
+▯ .iptsa
 
 pıcaloqhıao ± `en` @fagri #fI7TO_r-k
 ▯ pizza-burns ▯
@@ -56607,6 +56742,9 @@ poq ± `tr` @kazoo #xDEDGud2p
 ▯ kişidir.
 
 poq ± `jbo` @zearen #yxEmDlD5w
+▯ prenu
+
+poq ± `jbo` @Laqme #dz6UMIm74
 ▯ prenu
 
 poqbo ± `en` @Machy #4Xo9xMlsA
@@ -59154,6 +59292,9 @@ req ± `en` @jiqci #DT_WcfST2
 req ± `jbo` @zearen #9DlfBGpS9
 ▯ remna
 
+req ± `jbo` @Laqme #5naEjNcEf
+▯ remna
+
 req'ocha ± `en` @jiqci #ItwMEEqtB
 ▯ is a human from species Homo sapiens.
 
@@ -59468,6 +59609,9 @@ rıaq ± `pl` @jiqci #QnNCpADuoF
 
 rıaq ± `en` @Laqme #nMwbHJm-7
 ▯ is a place.
+
+rıaq ± `jbo` @Laqme #rBKTJAn_t
+▯ stuzi
 
 rıaqcıa ± `en` @uakci #fto4YJSHP
 ▯ is deserted/unoccupied/abandoned; Nothing (of interest) is to be found at/in/on ▯.
@@ -60461,6 +60605,9 @@ predicate: ‘program’; ▯ is a computer program
 
 rom ± `zh` @zephr #8IJIhTpRI
 谓语: ‘程序’; ▯是一个电脑程序
+
+rom ± `jbo` @Laqme #jd1ax1Rse
+▯ .apli
 
 rom'aı ± `en` @Laqme #9msH3x4D8
 ▯ is algorithmic / methodical / program-like.
@@ -62593,6 +62740,9 @@ tao foaq ja mıe pùoq shâı kuaı shaı taomıa ra guaı ra fa míe
 sea ± `pl` @jiqci #BCMBVuw3qF
 ▯ odpoczywa.
 
+sea ± `jbo` @Laqme #f2K8ZNwB6
+▯ surla
+
 seaba ± `en` @uakci #9vI3uPDHd
 ▯ is Shabbat (a “day of the week” which lasts from Friday evening to Saturday evening).
 
@@ -62661,6 +62811,9 @@ predicate: ‘exhausted’; ▯ is exhausted.
 
 seakuaı ± `pl` @jiqci #bYh0NHtUeF
 ▯ jest zmęczony.
+
+seakuaı ± `jbo` @Laqme #ER6oGwcrB
+▯ tatpi
 
 seamoe ± `en` @Machy #4A9YLRge1
 ▯ feels relaxed/restful.
@@ -63328,6 +63481,9 @@ bıaq raqmoı dóshı dógu da
 sı ± `pl` @jiqci #FQ3nOJYkJh
 ▯ jest uważny/skupia się na ▯.
 
+sı ± `jbo` @Laqme #Llh6uPRbQ
+▯ jundi ▯
+
 sıa- ± `en` @official #bhdQuPuSl5
 determiner prefix form: ‘of:no’; fills object of verb with sía (zero quantifier)
 
@@ -63985,6 +64141,9 @@ sıgı ± `pl` @jiqci #t43BGc1CzC
 sıgı ± `ru` @SuperSpaceNiM #Sqq2ETyRS
 ▯ интересный (для ▯)
 
+sıgı ± `jbo` @Laqme #F-t5HNWlQ
+▯ cinri
+
 sıgımıq ± `en` @robintown #V0eEDRcSL
 ▯ is enthralling/captivating/fascinating.
 
@@ -64138,6 +64297,9 @@ sıo ± `tok` @el #Hh3gywShi
 sıo ± `pl` @jiqci #nECnO3yq4n
 ▯ to myśl/idea.
 
+sıo ± `jbo` @Laqme #keSF9kjF7
+▯ sidbo
+
 sıode ± `en` @Laqme #U8A2XpIZF
 ▯ is clever/brilliant/insightful.
 
@@ -64167,6 +64329,9 @@ sıom ± `en` @Laqme #FkVO9EsmO
 
 sıom ± `es` @TheAndSys #YkqGj7Fsa
 ▯ estudia ▯
+
+sıom ± `jbo` @Laqme #0h8-3XD31
+▯ tadni ▯
 
 sıomche ± `en` @Laqme #bSvx2MQrB
 ▯ is a student.
@@ -65568,6 +65733,9 @@ suaq ± `ja` @Laqme #V1rNALWXL
 suaq ± `pl` @jiqci #xL50CI64D
 ▯ śpiewa.
 
+suaq ± `jbo` @Laqme #-viocU-Yl
+▯ sanga
+
 suaqche +1 `en` @robintown #C9UuKwoeT
 ▯ is a singer.
 
@@ -66025,9 +66193,6 @@ predicate: ‘our’; ▯ is yours (2nd + 3rd person).
 suoga +1 `en` @salarua #LxsVwu989
 ▯ is a heaven.
 
-suoı ± `en` @official #SRciuI2k_
-predicate: ‘great’; ▯ is greatly/awesomely/impressively ▯.
-
 suoı +1 `en` @Laqme #AsaLYSg80
 ▯ is great/awesome/impressive.
 
@@ -66036,6 +66201,9 @@ suoı ± `en` @Machy #J3ru5EDKD
 
 suoı ± `tok` @el #GDrsFEEoA
 ▯ li epiku ▯ / ▯ li ▯ mute a
+
+suoı -1 `en` @official #SRciuI2k_
+predicate: ‘great’; ▯ is greatly/awesomely/impressively ▯.
 
 suoı ± `pl` @jiqci #S2lSn3VDF
 ▯ wielce/wspaniale/niesamowicie spełnia własność ▯.
@@ -71116,6 +71284,9 @@ tı ± `jbo` @zearen #DHi0jPQXL
 tı ± `es` @TheAndSys #Sh0VIFk1a
 ▯ está en ▯
 
+tı ± `jbo` @Laqme #TddgMOu4d
+▯ zvati ▯
+
 tıa ± `en` @official #k5hAvb9ciQ
 predicate: ‘behind’; ▯ is behind ▯.
 
@@ -71704,6 +71875,9 @@ tıjuı ± `pl` @jiqci #_hYedCm_yZ
 tıjuı ± `es` @TheAndSys #wzbcSMQL6
 ▯ está cerca de ▯
 
+tıjuı ± `jbo` @Laqme #g42Q7pzRL
+▯ zvajbi ▯
+
 tıjuq ± `en` @uakci #wRtaHL29Z
 ▯ (non-agentively) inserts/slots itself into ▯.
 
@@ -72094,6 +72268,9 @@ tıteı +1 `en` @Laqme #lU1u0wdwF
 tıteıbo ± `en` @seaqtaq #oozr6WZpi
 ▯ has layout/formation ▯.
 
+tıtı ± `en` @lassc #aWUjNmszr
+interjection: "present!", "here!"
+
 tıtıao ± `en` @uakci #4uOdW_Iye
 ▯ belongs in/on/at ▯.
 
@@ -72225,6 +72402,9 @@ toa ± `ru` @SuperSpaceNiM #oLir22B1H
 
 toa ± `tr` @kazoo #Qi5h7PJl_
 ▯ kelime/sözcüktür.
+
+toa ± `jbo` @Laqme #NX8orF7AC
+▯ valsi
 
 toabaı -1 `en` @jiqci #WlBhZ2h7w
 ▯ coins a compound/derived word ▯.
@@ -75624,6 +75804,9 @@ zao ± `tr` @kazoo #WGNmONV0A
 zao ± `es` @TheAndSys #hyhkl1hi6
 ▯ conoce a ▯
 
+zao ± `jbo` @Laqme #fjldF0fkS
+▯ se slabu ▯
+
 zaobu ± `en` @fagri #97KloOan3
 ▯ is a stranger to ▯
 
@@ -76523,6 +76706,9 @@ zu ± `tr` @kazoo #3sYFkWLQ6
 
 zu ± `es` @TheAndSys #xtjp1_jHx
 ▯ es un lenguaje
+
+zu ± `jbo` @Laqme #JzSmD3bYe
+▯ bangu
 
 zua +2 `en` @uakci #LK0wzVYXq
 ▯ makes ▯ not be the case.
