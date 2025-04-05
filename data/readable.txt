@@ -6623,6 +6623,21 @@ cealaısaı ± `en` @Laqme #KR6t1DTOj
 cealıao ± `en` @jiqci #-QggSrEWr
 ▯ is a sac fungus / acsomycete (phylum Ascomycota).
 
+ceam ± `en` @Laqme #vtfEzPE2p
+▯ is perpendicular/orthogonal to ▯.
+
+ceamdaru ± `en` @Laqme #1uzALTwYJ
+▯ is a plumb bob.
+
+ceamjıeq ± `en` @Laqme #GUQ73I302
+▯ is a right-angle tip or point.
+
+ceamreaq ± `en` @Laqme #UN_zV-sk4
+▯ lies perfectly horizonal / is level.
+
+ceamsheaq ± `en` @Laqme #ZECRIXxfq
+▯ stands perfectly upright / is plumb.
+
 ceanıaı ± `en` @Ilmen #jnYwfnWn6
 ▯ is a marsupial.
 
@@ -7933,6 +7948,9 @@ cuaodıu ± `en` @seaqtaq #bGmfHK7xt
 
 cuaofa ± `en` @TheAndSys #OkngfifEd
 ▯ moves beyond ▯ in their path
+
+Cuaofaraqsezu ± `en` @jiqci #dLO6O9aZ8
+▯ is ULTRAFRENCH.
 
 cuaogaı ± `en` @Laqme #TGswq4LdV
 ▯ senses ▯ using extrasensory perception / ESP / a "sixth sense" / telepathically.
@@ -9547,6 +9565,9 @@ chıamoe ± `en` @seaqtaq #hOycY9xp9
 
 chıampoq +1 `en` @robintown #M9mncgnnu
 ▯ is a sorcerer/wizard/witch.
+
+chıamra ± `en` @Laqme #jvC_4e4lS
+▯ works their magic / achieves something brilliant and impressive / "cooks".
 
 chıana ± `en` @uakci #w5kZealBF
 interjection: ‘and I really need to say this (for my own sake)’
@@ -13067,10 +13088,10 @@ daragoq ± `pl` @jiqci #WS7qsyVgc8
 darao ± `en` @TheAndSys #UkwmcwfPl
 ▯ is a thing that exists as a result of event ▯
 
-daru ± `en` @jiqci #YLY3oa83N
+daru +1 `en` @jiqci #YLY3oa83N
 ▯ is the metal lead.
 
-daruma ± `en` @uakci #I05XbexkC
+daruma -1 `en` @uakci #I05XbexkC
 ▯ is a snowman.
 
 dashı +2 `en` @Ilmen #nZRp4TZmG
@@ -15591,6 +15612,12 @@ focus marker: for every singular constant among X, unboxed out of its aggregate�
 
 dujıq ± `en` @lassc #u3laj3-_5
 ▯ is virtual; ▯ is a simulation of ▯.
+
+dujıq ± `en` @TheAndSys #IezYoyVZJ
+▯ is virtual/a simulation
+
+dujıqche ± `en` @Laqme #wCmmqIvXU
+▯ is a VTuber.
 
 dujıqchea ± `en` @Laqme #jP9Ffk1If
 ▯ is a virtual reality / VR headset.
@@ -18366,6 +18393,9 @@ foto ± `pl` @jiqci #yY1OeQenwD
 
 fotoche +1 `en` @lassc #T9nCbijMt
 ▯ is a photographer.
+
+fotokea ± `en` @Laqme #3OQd7je3B
+▯ is a photo camera.
 
 fotola ± `en` @Laqme #MNPTBnt4N
 ▯ photographs / takes a picture of ▯.
@@ -29703,6 +29733,9 @@ jehana +1 `en` @uakci #XDX9rMJgs
 jeharuaq ± `en` @seaqtaq #uYcMdQSFU
 ▯ affirms/swears that ▯ is the case
 
+jehaꝡa ± `en` @TheAndSys #9vf6EtJkE
+▯ is an affirmative/confirmation of a fact
+
 jehoq -1 `en` @Ilmen #JxSOwr8sr
 ▯ is the proposition expressed by the previous sentence.
 
@@ -30453,7 +30486,7 @@ jı ± `tok` @el #LDBfK5Oro
 jı -1 `toa` @Ilmen #0BjJekI6-
 [X ⚙] Laı shú jı lú kuq hóa kúqse pǎq hóı toa hóa da.
 
-jí ± `en` @official #6RQMPOetHv
+jí +1 `en` @official #6RQMPOetHv
 pronoun: ‘1S’; 1st person personal pronoun; I/me
 
 jí ± `ja` @Laqme #jEuQqvs2u
@@ -36614,11 +36647,14 @@ kıqjıpuo ± `en` @Laqme #UgI7i4vFx
 kıqkao ± `en` @nano #6puvL4_DE
 ▯ is a vlog.
 
-kıqkea +1 `en` @Ilmen #ijDz18r_a
+⚠ kıqkea ± `en` @oldofficial #nD_JO6SqJi
+predicate: ‘camera’; ▯ is a film camera.
+
+kıqkea ± `en` @Ilmen #ijDz18r_a
 ▯ is a video screen.
 
-⚠ kıqkea -1 `en` @oldofficial #nD_JO6SqJi
-predicate: ‘camera’; ▯ is a film camera.
+kıqkea ± `en` @Laqme #UcyszbCiv
+▯ is a film camera.
 
 kıqluaq ± `en` @Ilmen #Oco1BBqUA
 ▯ plays videogame ▯.
@@ -37582,6 +37618,9 @@ koqtofuaq +1 `en` @fagri #QLzykLzUu
 
 koraqle ± `en` @Laqme #HJJzQpLnA
 ▯ is an English horn / cor anglais.
+
+kore ± `en` @seaqtaq #H4q2q1cAb
+▯ suddenly feels that what they've been perceiving as reality is merely a thin veil over some deeper, more fundamental cosmic structure, which they now have a glimpse of
 
 Korea ± `en` @Laqme #E50iUJ7z_
 ▯ is Korean.
@@ -46817,6 +46856,9 @@ mojeo +1 `en` @fagri #qgnu2cg8U
 mojeo ± `en` @seaqtaq #IPOHTNpfb
 ▯ is supposedly true, in scare quotes; ▯ is "true"
 
+mojeq ± `en` @Laqme #lFnLiaZiW
+Modulo ▯, the number ▯ is equal to ▯.
+
 mojıe ± `en` @mimiaoganhaqpy #5ailSaMPA
 ▯ is the star sign Capricorn.
 
@@ -47530,6 +47572,9 @@ muıfaı ± `en` @uakci #3xA6pnp3s
 
 muıfaq ± `en` @Ilmen #bJmhuRGuf
 ▯ is a signal indicating that ▯ is the case.
+
+muıfaq ± `en` @TheAndSys #Ir0D6i7-5
+▯ is a signal.
 
 muıfuaq +1 `en` @uakci #BOJAkUz2a
 graph, diagram
@@ -62098,6 +62143,12 @@ Property ▯ is also satisfied by something.
 samara ± `en` @Machy #iRWcDG_JL
 ▯ is a samara(maple fruit/seed/helicopter).
 
+Sambasa ± `en` @Laqme #ECAZ9RvLP
+▯ pertains to Sambahsa language or culture.
+
+Sambasazu ± `en` @Laqme #tR4ZO4QUY
+▯ is the Sambahsa language.
+
 same ± `en` @Ilmen #4zjJABrpr
 ▯ is an aggregate of things having property ▯.
 
@@ -70207,6 +70258,9 @@ taqdıe ± `en` @uakci #pwRUGmlCY
 taqdoe ± `en` @Laqme #a5SX-xoS2
 ▯ functions/performs property ▯ automatically/with no input or prompting necessary.
 
+taqfo ± `en` @Laqme #xd2pR57Ds
+▯ is a selfie.
+
 taqfoa ± `en` @Laqme #V9GVU29GI
 ▯ feels as if they satisfy ▯.
 
@@ -74418,6 +74472,9 @@ tuoqlıa ± `en` @uakci #Xilg_h1oK
 tuoqloha ± `en` @Laqme #-46ctukEb
 ▯ is lead (plumbum).
 
+tuoqma ± `en` @Laqme #hxkpBG-lK
+▯ is a weight.
+
 tuoqne ± `en` @Ilmen #BD_XBxklx
 ▯ is the weight of ▯.
 
@@ -75525,6 +75582,9 @@ illocution: question/exclamation of disbelief
 ꝡerakuoq -1 `en` @juao #ySPotca95
 ▯ breaks their bone that belongs to organ ▯
 
+ꝡetuba ± `en` @robintown #nmWe0hqGe
+▯ is a ꝠTuber.
+
 ꝡeꝡa ± `en` @official #YXmVcKvjdYi
 predicate: ‘Ꝡ’; ▯ is the letter Ꝡ.
 
@@ -76191,6 +76251,18 @@ zeqma ± `en` @seaqtaq #8428itbKA
 zeraqseraq ± `en` @Ilmen #OMeibNey0
 ▯ carries Zerg rush on ▯.
 
+zerı ± `en` @seaqtaq #DsPBtSris
+▯ is recontextualized by state of affairs ▯; One is prone to retroactively consider the behavior or nature of ▯ upon coming to realize that ▯ is the case
+
+zerıbetu ± `en` @seaqtaq #Nza-oFRtJ
+▯ (agent) recontextualizes ▯ by modifying, altering, or updating some element of its behavior or nature
+
+zerıja ± `en` @seaqtaq #2nncc0_7S
+▯ (agent) recontextualizes ▯ by revealing some previously unknown fact relating to it thst may further elucidate upon its nature or behavior
+
+zerımoı ± `en` @seaqtaq #gcjPsA6k9
+▯ considers ▯ in a new light, or retroactively changes their opinion on different facets of its nature and behavior; ▯ recontexualizes ▯
+
 zero ± `en` @Laqme #dybcLL95O
 ▯ is the number 0.
 
@@ -76253,6 +76325,9 @@ zıabıdeo ± `en` @TheAndSys #9dTIFQ_TL
 
 zıace +1 `en` @Laqme #XIV0zR0iX
 ▯ is a (radio/television) channel.
+
+zıache ± `en` @Laqme #VEBU4IeAp
+▯ is a live streamer.
 
 zıachom ± `en` @robintown #P38TD6-DX
 ▯ is a firefly / lightning bug.
