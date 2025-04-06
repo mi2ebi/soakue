@@ -2909,6 +2909,9 @@ beqjeaq ± `en` @seaqtaq #4IjhDEMyZ
 beqjeoq ± `en` @uakci #C4ohEVVNx
 ▯ is bumpy.
 
+beqjıo ± `en` @seaqtaq #pnzPBd0Hn
+▯ is a tent / hut / small domicile which superficially resembles a protrusion from the earth
+
 beqkao ± `en` @Laqme #f9g3YL9Ba
 ▯ is a statistical outlier.
 
@@ -6413,6 +6416,9 @@ caqkaq ± `en` @jiqci #nLZRtrZXr
 caqkaqlıao ± `en` @Snow #7nBWdUcNE
 ▯ is a chanterelle. ▯ is a fungus of genus Cantharellus.
 
+caqkua ± `en` @seaqtaq #Bio_jxrmG
+▯ is a cockpit / flight deck / control room
+
 caqluaq ± `en` @seaqtaq #RG2y_GA9E
 ▯ doms ▯
 
@@ -8726,6 +8732,9 @@ chaoche ± `en` @seaqtaq #qc7IMlIvu
 chaochoaq ± `en` @Laqme #7vVJ828jS
 ▯ is a passenger; ▯ is a passenger aboard ▯.
 
+chaochuao ± `en` @seaqtaq #VvX3Yhzyt
+▯ is a porthole
+
 chaoduna ± `en` @lassc #wtCJnApwV
 ▯ is traffic.
 
@@ -8738,17 +8747,29 @@ chaofase ± `en` @Laqme #WMdEtOT09
 chaohıu ± `en` @robintown #wF5EJ88db
 ▯ is a highway/motorway/freeway.
 
+chaolıo ± `en` @seaqtaq #sbg7W8YnC
+▯ is the port(side) of a vehicle
+
 chaoloaı ± `en` @Laqme #FOsJFjUUu
 ▯ is some traffic (a flow of vehicles).
 
 chaonıe ± `en` @Machy #sfIi9BxJg
 ▯ is aboard ▯.
 
+chaosıaq ± `en` @seaqtaq #-A8na6tKh
+▯ is the starboard of a vehicle
+
+chaoshaq ± `en` @seaqtaq #iq5g8NOc-
+▯ is the bow of a vehicle
+
 chaoshıqdao ± `en` @seaqtaq #_0OelhPVT
 ▯ is car-smell; ▯ is the smell of a car/truck
 
 chaoshuo ± `en` @uakci #avoYl28nk
 ▯ is a parking lot.
+
+chaotıa ± `en` @seaqtaq #e7Jyf81GG
+▯ is the stern of a vehicle
 
 chaotıeq +1 `en` @official #9eoFqJy6-X
 predicate: ‘road’; ▯ is a road/street.
@@ -16902,6 +16923,9 @@ fana ± `tok` @el #sYQYgcg_p
 
 fana ± `pl` @jiqci #uN2uNCPPZK
 Zdarzenie/ruch ▯ jest skierowany do/ku ▯.
+
+fanahıe ± `en` @seaqtaq #czMsvQ2mB
+▯ (conduit) is afferent
 
 fanaq +1 `en` @Laqme #PfH5mKF6X
 ▯ goes to ▯.
@@ -28301,6 +28325,9 @@ predicate: ‘I’; ▯ is the letter I.
 ıqchıeqdo ± `en` @seaqtaq #bRunATI0a
 ▯ (plural) exchange property ▯ amongst themselves.
 
+ıqcho ± `en` @Ilmen #K15e3FPkD
+▯ likes to, enjoys to, has a taste for having property ▯.
+
 ıqchoq ± `en` @uakci #IMymyY_FC
 ▯ satisfies property ▯ as a way of satisfying property ▯; ▯ does ▯, thereby accomplishing ▯.
 
@@ -28579,6 +28606,9 @@ Inshallah / God willing / if God wills it / (hopefully), ▯ shall be the case.
 
 ıqtoa ± `en` @Laqme #LGlO_S4Xv
 ▯ is an intransitive verb.
+
+ıqtu ± `en` @seaqtaq #nLwNGJB5u
+Everything has property ▯.
 
 ıqzeu ± `en` @evie #MSb_pEUDY
 ▯'s intonation suggests they satisfy property ▯ (emotion etc)
@@ -47873,6 +47903,9 @@ muoıfoq ± `en` @Laqme #il9t1vFun
 muoıfuıchuo ± `en` @jiqci #Cf1mJqiP8
 ▯ is a (mechanical) bearing.
 
+muoıfurı ± `en` @seaqtaq #5omOVKvuL
+▯ undergoes precessive rotation
+
 muoıhaq ± `en` @kazoo #n1mbuMLZ2
 ▯ is rotisserie/"spitroasted"; ▯ is cooked on a long, solid stick/rod while it is being cooked over a fire in a fireplace or over a campfire
 
@@ -59142,6 +59175,9 @@ remshoa ± `en` @seaqtaq #fSInqLBaW
 remtı ± `en` @uakci #WhttscYSS
 ▯ is at/on the surface of ▯.
 
+remtımıa ± `en` @seaqtaq #qr6JeYU6J
+▯'s surface is riddled/stippled/dotted/lined with ▯
+
 remꝡera ± `en` @seaqtaq #CKs1GdNqs
 ▯ is raw/tender/chafed
 
@@ -64317,6 +64353,9 @@ predicate: ‘away.from’; ▯ is a motion event away from ▯
 
 sına ± `tok` @el #BAM8lLNLc
 ▯ li tan ▯
+
+sınahıe ± `en` @seaqtaq #sCDF-Gl38
+▯ (conduit) is efferent
 
 sınaloma ± `en` @seaqtaq #XDHyNdk_C
 ▯ erupts from ▯
