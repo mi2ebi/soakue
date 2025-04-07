@@ -3407,6 +3407,9 @@ nangyari ang ▯ pagkatapos ng ▯.
 bıecoetoa ± `en` @el #TgaF9f7v2
 ▯ is a suffix
 
+bıedaq ± `en` @Laqme #aIfoBOP0r
+▯ is a future.
+
 bıehaq ± `en` @Laqme #0fdrD4dlV
 ▯ is dessert.
 
@@ -6488,6 +6491,9 @@ Weapon ▯ shoots/fires/launches ▯.
 carahaq ± `en` @jiqci #7CXwY4ft_
 ▯ is ammunition; ▯ is a bullet, arrow, paintball, artillery round.
 
+carajara ± `en` @Laqme #thgxGHjYf
+▯ bolts (away) / sprints / runs like hell.
+
 carajeoq ± `en` @jiqci #mSZIO3v7n
 ▯ is a rocket/missile silo
 
@@ -9055,6 +9061,9 @@ cheaqkugo +1 `en` @robintown #wZFMxufr5
 
 cheaqlu ± `en` @Ilmen #n7Y8XxdpJ
 ▯ has been asserted by a trustworthy source.
+
+cheaqmaı ± `en` @Laqme #OpblP77P6
+▯ is lovingly devoted to ▯.
 
 cheaqsue +1 `en` @xorxes #nsOGAtZ0I
 ▯ entrusts ▯ to satisfy property ▯.
@@ -17347,6 +17356,9 @@ feao ± `en` @robintown #txxFsklS9
 feaocua ± `en` @uakci #EbYIl3J0V
 ▯ is triggered by property ▯.
 
+feaoche ± `en` @Laqme #9t1aTh89L
+▯ is a worrywart.
+
 feaochedu ± `en` @jiqci #ixIhnks52
 ▯ is trolling / ragebaiting.
 
@@ -23154,6 +23166,9 @@ guofıa +1 `en` @Ilmen #U7IfVVNXS
 
 guoguo ± `en` @uakci #zdLG_GOSx
 ▯ is yet another time ▯ happens.
+
+guohı ± `en` @robintown #NCOjY4wC_
+adverb of quantification: in which cases?
 
 guojeaq ± `en` @uakci #BI9_xnnAd
 ▯ happens more; ▯ happens further; ▯ repeats.
@@ -54575,6 +54590,9 @@ paıme +1 `en` @Laqme #3xmADPafW
 paınıaı +1 `en` @fagri #XMkBjZbve
 ▯ is a pet
 
+paıpaı ± `en` @Laqme #OZmsqg1hO
+▯ is a friend of a friend of ▯.
+
 paıream ± `en` @seaqtaq #6am6LH7nz
 ▯ is an adversary/frenemy of ▯; ▯ is an opponent of ▯, where at least the former respects the latter
 
@@ -63163,6 +63181,9 @@ Mu muı [ja] [ja].
 semıo ± `en` @mimiaoganhaqpy #Qxa1e50P_
 ▯ means ▯.
 
+semshe ± `en` @Laqme #UISXXJgq0
+modality: as-is, if nothing changes, X is the case if nothing is done to change the fact that...
+
 Senegala ± `en` @countries #GNX_iMoVHbH
 ▯ pertains to the culture of Senegal – Republic of Senegal.
 
@@ -68470,6 +68491,9 @@ shıucha ± `en` @uakci #QBwd6GEFC
 shıuchı ± `en` @seaqtaq #aJbFPJlJn
 ▯ forms preconceived belief ▯
 
+shıudaq ± `en` @Laqme #mWtRJwdV9
+▯ is a past.
+
 shıudua ± `en` @uakci #WA0pig9nK
 ▯ predicts that ▯ will happen.
 
@@ -68601,6 +68625,9 @@ shıuruaq ± `en` @seaqtaq #EW7UaGdbR
 
 shıuruaqse ± `en` @Laqme #eFZSaPI9i
 ▯ is a prophecy.
+
+shıuse ± `en` @Laqme #aBsnHQx3b
+▯ is a relic.
 
 shıusoq ± `en` @Laqme #Rc_qIeEZn
 ▯ satisfies property ▯ the most it ever has.
