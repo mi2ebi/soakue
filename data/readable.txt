@@ -3752,6 +3752,9 @@ bıso +1 `en` @Ilmen #9hz89tYJW
 bıshe ± `en` @el #YVRdWTqKC
 ▯ is true, given that ▯ (presupposed; possibly an indirect question)
 
+bıte ± `en` @lassc #kfLm-8aa8
+▯ is understanding/welcoming/approachable.
+
 bıtı ± `en` @Ilmen #QbKlLqzxj
 ▯ is a grapevine.
 
@@ -6491,7 +6494,7 @@ Weapon ▯ shoots/fires/launches ▯.
 carahaq ± `en` @jiqci #7CXwY4ft_
 ▯ is ammunition; ▯ is a bullet, arrow, paintball, artillery round.
 
-carajara ± `en` @Laqme #thgxGHjYf
+carajara +1 `en` @Laqme #thgxGHjYf
 ▯ bolts (away) / sprints / runs like hell.
 
 carajeoq ± `en` @jiqci #mSZIO3v7n
@@ -9382,6 +9385,9 @@ cheqcho ± `en` @uakci #plOLl_BBR
 
 cheqjeo ± `en` @uakci #U4ICedBy9
 ▯ satisfies the predicate that defines **cheq**.
+
+cheqnha +1 `en` @Laqme #IY6ivUVkz
+interjection: see you, until next time
 
 cherem +1 `en` @Laqme #82Hj-YLRC
 interjection: "fuck off! go to hell! scram!"
@@ -17758,7 +17764,7 @@ feqdu ± `en` @Laqme #eaVPIF0JH
 feqdua ± `en` @Laqme #Y-zmNP6hG
 ▯ intuitively knows ▯ to be true.
 
-feqgaı +2 `en` @Ilmen #lL_UuAph5
+feqgaı +3 `en` @Ilmen #lL_UuAph5
 ▯ intuits that ▯ is the case.
 
 feqhua ± `en` @Laqme #1YhdSNt1b
@@ -19530,6 +19536,12 @@ gaqhaq ± `en` @Laqme #ucox1QJD8
 
 gaqja ± `en` @Laqme #cdu14C91j
 ▯ involves / invites / brings along / gets ▯ to satisfy ▯ together with them.
+
+gaqjeqfeu ± `en` @seaqtaq #PVsDkXhe8
+▯ rejects solidarity with ▯ despite having been "accepted into the fold"; ▯ vehemently refuses to associate with ▯ —even though they have the opportunity to do so—due to a strong inner sense that they do not in fact belong to said group/collective/culture
+
+gaqjeqmoe ± `en` @seaqtaq #EVDjXOaAR
+▯ feels solidarity/camaraderie with ▯
 
 gaqjuı ± `en` @uakci #Ea1PxhB5S
 ▯ accompanies ▯; ▯ stays with ▯.
@@ -34368,6 +34380,9 @@ kalaqnıu ± `en` @Laqme #epfc6kswG
 kalasha ± `en` @jiqci #Og3MLFPNZ
 ▯ is a Kalashnikov / AK-47 assault rifle.
 
+kalı ± `en` @lassc #k-nLtS0Oe
+▯ is lively/convivial/cordial.
+
 kalımba ± `en` @evie #oTi7oI4I-
 ▯ is a kalimba
 
@@ -44715,6 +44730,9 @@ meloq -1 `en` @Ilmen #_nnHzwcLi
 mem +1 `en` @uakci #VFBgY4zY0
 object incorporating verb: ‘among’; turns following phrase X into verb: ▯ is among the things forming mass/aggregate X.
 
+memaı ± `en` @lassc #jFZHuECEN
+▯ is well-liked/beloved/widely cherished.
+
 meme +1 `en` @uakci #rwACRo8V1
 ▯ is a meme.
 
@@ -52672,6 +52690,9 @@ nuım +1 `en` @Laqme #1-Eok4MoH
 
 nuım ± `ru` @SuperSpaceNiM #UWmqPHzfZ
 ▯ — звезда.
+
+nuımbo +2 `en` @lassc #hRGOGXH2j
+▯ is something which has escaped one's agency/control.
 
 nuımchaı ± `en` @robintown #KO-YT7Xni
 ▯ is a potion.
@@ -68576,7 +68597,7 @@ shıuleo ± `en` @uakci #zImxoK2Wp
 ▯ intends to do ▯ before ▯ occurs.
 
 shıulıam ± `en` @seaqtaq #iG0gVIgKA
-▯ is a harbinger/herald/forerunner
+▯ is a harbinger/herald/omen/foretoken
 
 shıume ± `en` @official #gMo3M9ipfq
 predicate: ‘past’; ▯ is a/the past.
