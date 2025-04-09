@@ -15088,9 +15088,6 @@ duafuı +1 `en` @fagri #lJStqyOEx
 duafuı +1 `en` @Laqme #OmODjdhKN
 ▯ is obvious.
 
-duafuı -1 `en` @official #pQj1jGJY2S
-predicate: ‘obvious’; ▯ is obvious; ▯ is obvious to ▯.
-
 duafuı ± `toa` @uakci #Q8N7egSPg
 = #fuı #dua
 
@@ -15102,6 +15099,9 @@ duafuı ± `tok` @nano #MC2yF3t7W
 
 duafuı ± `pl` @jiqci #-6mBdMpenK
 ▯ jest oczywisty (dla ▯).
+
+duafuı -2 `en` @official #pQj1jGJY2S
+predicate: ‘obvious’; ▯ is obvious; ▯ is obvious to ▯.
 
 duafuımıu ± `en` @jiqci #VIdKhg7ST
 ▯ finds ▯ obvious, not realising that it may not be the case for others.
@@ -16255,6 +16255,9 @@ eloa +2 `en` @Laqme #buaYc7-HZ
 eloabaıche ± `en` @jiqci #Pi_8KuK5A
 ▯ is a goldsmith.
 
+eloadaqme ± `en` @Ilmen #fu3YPeBRl
+▯ is a golden age.
+
 eloam ± `en` @seaqtaq #rnW6VQJY5
 ▯ feels a deep sense of joy, pride, wonder, and optimism in witnessing and/or having had the opportunity to take part in the long term collective progression towards some goal or state
 
@@ -16434,6 +16437,9 @@ eqsa ± `en` @Laqme #o7FBjpI_B
 
 eqsahu ± `en` @seaqtaq #FIhzVhRRU
 ▯ is fake/ingenuine/illegitimate/not the real thing
+
+eqsahulıaq ± `en` @seaqtaq #msweONThy
+▯, despite strongly seeming to share some salient property, do not in fact share that property
 
 eqsıa ± `en` @seaqtaq #OAMTQ9mBU
 ▯ is extinct; ▯ (type of entity) no longer exists.
@@ -16947,6 +16953,9 @@ fanaq +1 `en` @Laqme #PfH5mKF6X
 
 fanılapaq ± `en` @fagri #UP4kH4k2L
 ▯ is vanilla extract
+
+fao- +1 `en` @Laqme #_VuD5zWsi
+prefix: turns a verb into a discursive announcing/tagging the end of a (verb)
 
 fao ± `en` @official #M6BCdPTw_M
 predicate: ‘end’; ▯ is an end/ending; ▯ is an end/ending of ▯.
@@ -27191,7 +27200,7 @@ hubaq ± `toa` @uakci #n0c2MMTWO
 bu huaq
 
 huche ± `en` @seaqtaq #uFCpXtFMq
-▯, after great anticipation of ▯ happening, which seemed to be just on the verge of happening, is sharply let down as it comes to happen that that event won't be realized happening
+▯, after great anticipation of ▯, which seemed to be just on the verge of happening, is sharply let down as it comes to happen that that event won't be happening
 
 hue- ± `en` @seaqtaq #DOhg1HCmK
 prefix: incorporate hú object
@@ -27940,16 +27949,16 @@ Pertaining to cyberspace
 ı'ı ± `en` @uakci #AnOKkPVHK
 ▯ is an unpleasant (e.g., nails-on-chalk) scratching or fumbling noise that makes one shiver.
 
-ıa ± `toa` @el #9_ZcwhXHj
+ıa -1 `toa` @el #9_ZcwhXHj
 [Ja raı] bı ıq hâo ráı cy [ja shıja]
 
-ıa ± `en` @el #gdBG3hDWe
+ıa -1 `en` @el #gdBG3hDWe
 Some t5-clause involving ▯, satisfies ▯/1
 
-ıa ± `jbo` @el #4BqIGiL1r
+ıa -1 `jbo` @el #4BqIGiL1r
 bo'a jai ckaji bo'e
 
-ía +3 `en` @robintown #6WrSpWq97
+ía +4 `en` @robintown #6WrSpWq97
 pronoun: null, observative; 'it's X-ing', 'there is X-ing'
 
 ıaha ± `en` @jiqci #DDKhBTVzp
@@ -48428,6 +48437,9 @@ prefix: turns transitive verbs into conjunctions
 na +2 `en` @uakci #0wy_z0D6r
 interjection: ‘well’
 
+na ± `en` @TheAndSys #V_QgzSsqh
+clause closer
+
 ⚠ na -1 `en` @oldofficial #50oo_eVPvR
 terminator: ‘[end]’; end statement
 
@@ -54065,7 +54077,7 @@ ocha +3 `en` @Laqme #Q_Rqv4kfm
 ocha +1 `en` @official #KLv0d16sjeh
 predicate: ‘human’; ▯ is a human.
 
-ocha +1 `en` @uakci #c3c3pCCum
+ocha +2 `en` @uakci #c3c3pCCum
 ▯ is a sentient being.
 
 ocha ± `ja` @Laqme #02Kwpeo7m
@@ -58632,7 +58644,7 @@ raotu ± `en` @Ilmen #3gGuH-Cul
 raotuq +1 `en` @fagri #qDYbRU3Dg
 ▯ happens whenever ▯ happens
 
-raq- ± `en` @uakci #Z2jSzRPaT
+raq- +1 `en` @uakci #Z2jSzRPaT
 prefix: lift this verb's direct object place so it describes the topic/pertinence of the thing rather than the thing itself
 
 raq ± `en` @official #XkhP-MAGp1
@@ -63805,6 +63817,9 @@ interjection: “it's nothing”, “never mind”, “forget about it”, “do
 sıanhe ± `en` @Laqme #2uCDExvz0
 ▯ is not the case at all.
 
+sıao- +1 `en` @Laqme #Xchh2ldPz
+prefix: turns a verb into a discursive announcing/tagging the start of a (verb)
+
 sıao ± `en` @official #93NhRaC20u
 predicate: ‘beginning’; ▯ is a beginning/start; ▯ is a beginning/start of ▯.
 
@@ -64299,6 +64314,12 @@ sıja +1 `en` @uakci #jS-zDywvJ
 
 sıjıa +1 `en` @uakci #x05j6IthW
 ▯, upon viewing ▯, develops attitude ▯ (relation) towards it.
+
+sıjo ± `en` @lassc #FtHsx5-on
+▯ is a plan/proposal/scheme.
+
+sıjotao ± `en` @lassc #dlGtvmJAQ
+▯ is a mission/operation/objective/assignment.
 
 ⚠ sıjou ± `en` @uakci #dSsoqtmfM
 ▯ focuses on ▯; ▯ maintains one’s attention towards ▯.
