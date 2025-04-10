@@ -18097,6 +18097,9 @@ fıqzachuo ± `en` @jiqci #b-xIhkOd4
 fıqzashuao ± `en` @jiqci #dwbApX7ws
 ▯ is a lancebill (genus Doryfera).
 
+fıra +1 `en` @evie #49QGmrDTk
+▯ is a font
+
 fısa ± `en` @Ilmen #Y-tjCYgLe
 some thing(s) has/have property ▯ among the things having the property ▯.
 
@@ -31689,6 +31692,9 @@ jıqnıo ± `en` @mimiaoganhaqpy #XoesBj2q0
 Jıqnızu ± `en` @eednb #pmQxqwMlc
 ▯ is the Jin Chinese language.
 
+jıqno ± `en` @Laqme #n0KayR0hg
+▯ is "legit" / "for real" / not fake / not a drill.
+
 jıqnua ± `en` @Laqme #yGKAJRh1u
 ▯ erases/deletes/removes ▯ from existence.
 
@@ -32168,6 +32174,12 @@ joeguaı ± `en` @uakci #erLj22Cvt
 
 joeguaıche ± `en` @Laqme #Fr09tBA8j
 ▯ is an intern.
+
+joeı ± `en` @Laqme #cArsX0oTp
+▯ shows / demonstrates / reveals that ▯ is the case.
+
+joeıse ± `en` @Laqme #lTOtsYtfz
+▯ is a demonstration.
 
 joejaq ± `en` @Ilmen #yeulTYra-
 ▯ is expert at satisfying property ▯.
@@ -38758,6 +38770,9 @@ kuomatu ± `en` @jiqci #ar-j4Sr4p
 
 kuomochelıao ± `en` @Snow #9SZGnrjCB
 ▯ is a black morel. ▯ is Morchella conica, M. angusticeps or M. elata.
+
+kuomoı ± `en` @Laqme #napyJYaDN
+▯ ruminates / thinks depressing, negative thoughts.
 
 kuone ± `en` @Ilmen #3Op4jEwBD
 ▯ is a member of the genus Canis (the wolves, coyotes, jackals, dingoes, and dogs).
@@ -48438,7 +48453,7 @@ na +2 `en` @uakci #0wy_z0D6r
 interjection: ‘well’
 
 na ± `en` @TheAndSys #V_QgzSsqh
-clause closer
+clause terminator
 
 ⚠ na -1 `en` @oldofficial #50oo_eVPvR
 terminator: ‘[end]’; end statement
@@ -49462,6 +49477,9 @@ ne ± `pl` @jiqci #QQoJ0XZ0ZP
 
 ne -1 `toa` @Ilmen #_HebvuFj-
 = [N0] Sa dósaq sa dójo bı to ru luca ru mu luca dógu jêo dósaq dójo to jaqlınelı go dójo sa lú sa hoa dóshı dósaq.
+
+në ± `en` @Laqme #GnAIT_UHl
+interjection: "well..." / "I mean..." (adjusting / nuancing a statement)
 
 nea ± `en` @official #15_LcRBC27
 predicate: ‘wide’; ▯ is wide/broad.
@@ -52216,6 +52234,9 @@ nuaıchoq ± `en` @uakci #dtd4x8-_p
 
 nuaıchuaq ± `en` @salarua #_d645UQFy
 ▯ is capitalism
+
+nuaıdıa ± `en` @Ilmen #pZn6rR0xz
+currency ▯ undergoes inflation, depreciation of value.
 
 nuaıdıe ± `en` @lassc #ALnWoxHP1
 ▯ bribes ▯ into ▯.
@@ -64823,7 +64844,7 @@ sıumuo ± `en` @Ilmen #qikzj02zJ
 sıumuo ± `jbo` @seaqtaq #gLcyPErkQ
 ▯ mlumitu▯
 
-sıuq ± `en` @TheAndSys #qBDLZVZcT
+sıuq +1 `en` @TheAndSys #qBDLZVZcT
 interjection: 'like'; Delayed filler
 
 so +1 `en` @Machy #XMTv7iECL
