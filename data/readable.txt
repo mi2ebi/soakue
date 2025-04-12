@@ -6797,6 +6797,9 @@ cemedıu ± `en` @jiqci #ufLHbbtC0
 cemeq +1 `en` @Ilmen #jwg9I5eZx
 ▯ is cement.
 
+cempe ± `en` @Laqme #DU0ltWC8e
+degree: relatively / more than usual
+
 cemshe ± `en` @Ilmen #f7YxJP6Vi
 ▯ is usually the case if/when ▯ is the case.
 
@@ -45926,6 +45929,9 @@ mıqkaqbıu ± `en` @Laqme #UQPCyK2Ui
 mıqkogoa ± `en` @verte #PR4ei1z6q
 ▯ has Minkowskian geometry; ▯ is a Minkowskian space containing ▯.
 
+mıqkumzıu ± `en` @tonibrown #G7RKrQh9-
+▯ is an infinite/transfinite ordinal.
+
 mıqlaı ± `en` @Laqme #I4UC_f-bL
 ▯ is an infinity symbol. ∞
 
@@ -45943,6 +45949,9 @@ mıqmuao ± `en` @uakci #7UH2VglYg
 
 mıqnao ± `en` @Laqme #NyqAYHfFB
 ▯ is seawater.
+
+mıqnezıu ± `en` @tonibrown #BdHHMZGA8
+▯ is an infinite/transfinite cardinal.
 
 mıqpaı +2 `en` @Laqme #iehTvBQe9
 ▯ is a "BFF" (eternally loyal, "would do anything", ride-or-die, etc. kind of friend) of ▯.
@@ -53036,7 +53045,7 @@ nuochu ± `en` @seaqtaq #jWYyKtKRb
 nuodaq ± `en` @robintown #-kJ2psIK2
 ▯ is a period of sleep / sleeping hours / "quiet hours".
 
-nuodı +1 `en` @uakci #-JxbVtajz
+nuodı +2 `en` @uakci #-JxbVtajz
 interjection: good night; rest well; (used to wish somebody a relaxing time after work or in before sleep)
 
 nuoduna ± `en` @robintown #hA9Z-uPKy
@@ -62004,6 +62013,9 @@ sabuzıa ± `en` @uakci #kf9J9b--p
 sacuaq ± `en` @el #Wd0H-jAOE
 ▯ is a concept of something
 
+sacha +1 `en` @ijonetun #kQ1gDhn5F
+▯ physically passes by/clears ▯
+
 sacheo +1 `en` @Laqme #Yci1resc-
 At least one pair among ▯ satisfies binary relationship ▯.
 
@@ -65895,7 +65907,7 @@ suaogao ± `en` @bwlgar #3YgNzlIaw
 suaojaqchıtaq ± `en` @Ilmen #FuYAeCww_
 ▯ is megalomaniac.
 
-suaojıe -1 `en` @official #OfOWue-jFs
+suaojıe ± `en` @official #OfOWue-jFs
 predicate: ‘care’; ▯ cares about ▯; ▯ considers ▯ important.
 
 suaojıe ± `pl` @jiqci #khTzZRERXe
