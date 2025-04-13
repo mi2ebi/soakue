@@ -3854,7 +3854,7 @@ prefix: passive voice; fill the subject and indirect object arguments with **sá
 bo- ± `tr` @kazoo #vwp6_Xpcg
 ön ek: edilgen fiil
 
-bo +2 `en` @official #5P3S2bnM6T
+bo +3 `en` @official #5P3S2bnM6T
 predicate: ‘have’; ▯ has/possesses ▯.
 
 bo +1 `en` @el #G1e3Gasmk
@@ -4453,6 +4453,9 @@ boqtıe ± `en` @uakci #fuvVNtQ5Y
 
 boqtue ± `en` @Laqme #39U8N7cs5
 ▯ is a problem / issue / hindrance.
+
+boraı ± `en` @Laqme #XMjW-mMCA
+▯ is a possession.
 
 bore ± `en` @official #fThe7Z1hm
 predicate: ‘flat’; ▯ is flat.
@@ -8381,6 +8384,9 @@ cuo ± `jbo` @zearen #Cb4S2x6GS
 cuo ± `pl` @jiqci #9_PINtwT1C
 ▯ przyjmuje/zakłada, że ▯.
 
+cuoha ± `en` @Laqme #X6Bhd_2JK
+Presumably ▯ is the case.
+
 cuoı +2 `en` @el #x3KU_gp9g
 ▯ and ▯ satisfy relation ▯
 
@@ -9014,7 +9020,7 @@ chealaıchea ± `en` @seaqtaq #G-_B-h_50
 chealaıpaq ± `en` @seaqtaq #lvH7RJmVC
 ▯ is a circumflex diacritic
 
-chealıao +2 `en` @official #GKbGj3gRA5
+chealıao +3 `en` @official #GKbGj3gRA5
 predicate: ‘mushroom’; ▯ is a mushroom.
 
 chealıao ± `tok` @el #Afc9xcD0R
@@ -9782,6 +9788,9 @@ chıchıaı ± `en` @Machy #gyDtElVOR
 chıchıaı ± `en` @Ilmen #dT4Tr8ojY
 ▯ mistakenly believes ▯ to be the case.
 
+chıchıaı ± `en` @Laqme #5FglcXaUe
+▯ mistakenly believes ▯ to be the case.
+
 chıchıaıfaı ± `en` @Ilmen #CZn0tAmMC
 ▯ is a common misconception, a myth.
 
@@ -9802,6 +9811,9 @@ chıdıe ± `en` @uakci #SRi0QrGr5
 
 chıdoq +1 `en` @robintown #dvvlv8JXL
 ▯ is sensitive/calibrated/tuned/attuned to ▯.
+
+chıdue ± `en` @seaqtaq #eUS6WbJpN
+▯ correctly believes ▯
 
 chıduı ± `en` @Ilmen #qaShIsk3V
 ▯ is naive.
@@ -11612,6 +11624,9 @@ chuekaıse ± `toa` @fagri #CrXiKq3vY
 chuekıq ± `en` @uakci #T3Zxe-mmp
 ▯ is a movie episode.
 
+chuekoı ± `en` @Ilmen #c6pF0X6Ou
+▯ walk in a file or procession.
+
 chuelua ± `toa` @fagri #8WW-40QAE
 [Ja lua], tushı paq sü hóa lúa bı, fıeq ru tua cueq fíeq páq shìu shô fıeq hó léaqsıe
 
@@ -11656,6 +11671,9 @@ chuetao -1 `en` @robintown #y33c95nRm
 
 chuetıeq ± `en` @Laqme #-OfXuaG-A
 ▯ is a railway / train track.
+
+chuetobı ± `en` @Ilmen #wRiBjLmjJ
+▯ is a processionary caterpillar.
 
 chuezu ± `en` @Laqme #6ymwdgt0h
 ▯ is an agglutinating language.
@@ -14150,7 +14168,7 @@ dıo ± `tok` @nano #i12Bh9D4t
 dıo ± `pl` @jiqci #-OrCSYO1S8
 ▯ to dzień (czas gdy świeci słońce).
 
-dıochu +2 `en` @official #UIZ8ZSApy5
+dıochu +3 `en` @official #UIZ8ZSApy5
 predicate: ‘noon’; ▯ is a noon.
 
 dıochu ± `tok` @nano #pMBPjCx_c
@@ -15459,6 +15477,9 @@ due ± `tr` @kazoo #9cG-SlYvf
 
 duechı ± `en` @Laqme #C9xXVZDct
 ▯ believes ▯ to be the case, which it is.
+
+duechı ± `en` @Laqme #eT0UQ5s_X
+▯ correctly believes ▯.
 
 duedaq ± `en` @lassc #G-gKADi50
 ▯ is punctual; ▯ arrives on time to event ▯.
@@ -18355,6 +18376,9 @@ predicate: ‘F’; ▯ is the letter F.
 fofuaq ± `pl` @jiqci #W-K1WhEDK
 ▯ to litera F.
 
+foheıcı ± `en` @Ilmen #54bCxO9to
+▯ is an F-16 fighter jet.
+
 foı ± `en` @official #9J_UESbJ6s
 predicate: ‘bored’; ▯ is bored.
 
@@ -18438,6 +18462,9 @@ foqtao -1 `en` @seaqtaq #bz-S-0CTo
 
 forıqsaı ± `en` @seaqtaq #VU5pWvy1X
 ▯ is (a quantity of) Fluorine (element 9)
+
+fosaqheıfe ± `en` @Ilmen #2ZXC0fN46
+▯ is an F-35 fighter jet.
 
 foso ± `en` @Machy #GI_tb_FD6
 ▯ is you(formal).
@@ -21240,6 +21267,9 @@ interjection: rawr~ :3
 
 gırı +2 `en` @TheAndSys #dKzYOcv29
 ▯ is lovely, is really pleasing, is really nice
+
+gırıpeq ± `en` @Ilmen #IuR6m8eeX
+▯ is a Gripen fighter jet.
 
 gırıq ± `en` @jiqci #_3qBq_XDT
 ▯ is green/ecological/environmentally friendly.
@@ -25264,14 +25294,14 @@ hezıfebı ± `en` @jiqci #_WtNpYo2V
 hezıkıoq ± `en` @el #XqeBKydT_
 ▯ is a plasma ball
 
-hezo +1 `en` @el #5GI_rDl3a
+hezo +1 `en` @TheAndSys #78dGTpCsf
+▯ is another thing of its same kind
+
+hezo ± `en` @el #5GI_rDl3a
 ▯ is something other than ▯, both of which are ▯/1
 
 hezo ± `toa` @el #WcblfJ6j4
 Suku [ja aqnhy] [ja bunhy], ru bı ıq áqnhy ru búnhy [ja shıja]
-
-hezo ± `en` @TheAndSys #78dGTpCsf
-▯ is another thing of its same kind
 
 hı- ± `en` @evie #iL9Au1Ve6
 prefix: incorporate **hí raı** object
@@ -25780,6 +25810,12 @@ hıeqtaq +1 `en` @fagri #YXS1qJemI
 hıeqza ± `en` @salarua #rsZuK3klP
 predicate: ‘javelin’; ▯ is a javelin
 
+hıereqkıu ± `en` @Ilmen #lHIhzQTjo
+▯ is human-portable.
+
+hıereqkıurıofaleoqkea ± `en` @Ilmen #PZf_69UDj
+▯ is a MANPADS (man-portable air defense system).
+
 hıesıaıbıu ± `en` @uakci #A6Wnl503U
 ▯ is an artery.
 
@@ -25842,6 +25878,9 @@ The answer to ▯ is determined by the answer to ▯ (both indirect questions)
 
 hıle +1 `en` @uakci #Nw5CU09QE
 ▯ is plastic.
+
+hıle'ınaq ± `en` @kazoo #RyI6apbus
+▯ is a plastic chair.
 
 hılı ± `en` @Ilmen #WRxtdR5w5
 ▯ is which of the things satisfying property ▯?
@@ -26061,6 +26100,9 @@ hıraıchua ± `en` @uakci #9oA6I498p
 
 hırao ± `en` @Laqme #Ym9BqWHOx
 When is ▯?
+
+hırıleke ± `en` @Ilmen #oh3vPw5s8
+▯ is a MANPADS (man-portable air defense system).
 
 hıroq ± `en` @robintown #ti8vhzRM3
 ▯ is a hron.
@@ -28228,7 +28270,7 @@ Tense: now (absolute)
 ınam ± `en` @TheAndSys #_ufZx0iFF
 ▯ makes sense.
 
-ınaq +4 `en` @kazoo #YkWY8n8af
+ınaq +5 `en` @kazoo #YkWY8n8af
 ▯ is a chair.
 
 ıne ± `en` @TheAndSys #qmpxG-ilY
@@ -29334,7 +29376,7 @@ jaq'acı ± `en` @Machy #pEpuhRIN3
 jaqbalaja ± `en` @seaqtaq #Pz84FBD4_
 ▯ is jambalaya—a Cajun dish of rice with shrimp, chicken, and vegetables.
 
-jaqbeı +3 `en` @uakci #xQtzw43bd
+jaqbeı +4 `en` @uakci #xQtzw43bd
 ▯ is so much the case; ▯ is so ▯/1. (emphatic; expressive)
 
 jaqbeomoe -1 `en` @salarua #iqzxLcZ7i
@@ -32653,7 +32695,7 @@ jotıq ± `en` @jiqci #D6KX97PXl
 ▯ is a tetromino.
 
 jotoq ± `en` @jiqci #5dpktEPHz
-▯ is a tetrahedron/triangular pyramid
+▯ is a tetrahedron/triangular pyramid.
 
 ⚠ jou ± `en` @uakci #7RazQF88l
 ▯ satisfies property ▯ unchangingly (without an increase or decrease or change in quality); ▯ is even/steady/constant in satisfying property ▯.
@@ -34647,6 +34689,9 @@ kaojuq ± `en` @uakci #m0K9cBZwP
 kaokaıche ± `en` @seaqtaq #m_3QOSKgV
 ▯ is a scribe
 
+kaokı ± `en` @jiqci #KtdH9rbkv
+▯ is calcium.
+
 kaokıpıo ± `en` @jiqci #zhZ7mZYca
 ▯ is limestone.
 
@@ -35265,7 +35310,7 @@ katana ± `en` @Ilmen #GuN1A8nt1
 kataraı ± `en` @TheAndSys #akR807YQd
 ▯ is an Object (technical term for use in card games where the word "kata" is reserved for something more specific)
 
-kato +9 `en` @Ilmen #mih9DrlXs
+kato +10 `en` @Ilmen #mih9DrlXs
 ▯ is a cat.
 
 kato ± `en` @official #8xeYTnotf
@@ -41892,6 +41937,9 @@ loeleq ± `en` @Ilmen #u8TCJOLib
 loeleu ± `en` @robintown #MKq2ed4dx
 ▯ is lava.
 
+loeloeq ± `en` @Ilmen #DBB0thuMA
+▯ is roasted, grilled.
+
 loem ± `en` @Snow #xTE1C6Qvh
 ▯is the character x.
 
@@ -41939,6 +41987,9 @@ loepuaobıu ± `en` @Ilmen #ogi4SZ8mW
 
 loeq ± `en` @uakci #-E6dKlMwd
 ▯ cooks/is cooked.
+
+loeqcıa ± `en` @Ilmen #LRMXKwml0
+▯ is raw, uncooked, fresh food.
 
 loeqfua ± `en` @Laqme #ugRxgYmFL
 ▯ is a kitchen stove / range.
@@ -44162,9 +44213,6 @@ sentence prefix "air?": is ▯ air?
 
 maro +1 `en` @Laqme #bLw-d9toN
 ▯ is marble (crystalline limestone).
-
-maroloha ± `en` @jiqci #vWj_PzI5P
-▯ is calcium
 
 maru ± `en` @fagri #Bbi_cZWfH
 Conjunction: incomplete 'and' group
@@ -46403,7 +46451,7 @@ mochelıao ± `en` @Snow #4esbrcXdk
 mochı ± `en` @robintown #xxSc3BuIT
 ▯ is mochi.
 
-moe +2 `en` @official #PEGOntz5UQX
+moe +3 `en` @official #PEGOntz5UQX
 predicate: ‘feel’; ▯ experiences emotion ▯.
 
 moe ± `tok` @el #pah9eDdbH
@@ -51524,6 +51572,9 @@ nızu ± `en` @jiqci #Hs-kQRZIa
 nk ± `en` @evie #jAbFLWtT9
 textspeak for **nạ́kuı** ('because' as a conjunction)
 
+nmj ± `en` @evie #SY11qvCUO
+textspeak for **nu máo jí** (me too, me neither)
+
 no- ± `en` @uakci #qMYho2EIa
 prefix: [identity prefix]; X
 
@@ -52934,6 +52985,9 @@ nulıhıeq ± `en` @el #QbFiqtkXt
 nulıloeq ± `en` @lassc #8hWSi3Yzo
 ▯ fries ▯.
 
+nulıloeq ± `en` @Ilmen #HwuywBsYm
+▯ is fried.
+
 nulımeaq ± `en` @jiqci #_gmCx0jdr
 ▯ is a tanker ship.
 
@@ -53081,7 +53135,7 @@ predicate: ‘pyjama’; ▯ is a pyjama.
 nuofuq ± `pl` @jiqci #NkxDOvrU1
 ▯ to piżama.
 
-nuogaı +11 `en` @Ilmen #RZJs3Ltv3
+nuogaı +12 `en` @Ilmen #RZJs3Ltv3
 ▯ dreams ▯.
 
 nuogaı ± `en` @official #q6lwc68c_3
@@ -53531,7 +53585,7 @@ nhaotoa ± `en` @el #TJJot4dXI
 nhaq- ± `en` @magnap #Ex3BV2WS8
 experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
 
-nhaq +16 `en` @el #xLyC14SY_
+nhaq +17 `en` @el #xLyC14SY_
 interjection: nyaan
 
 nhaq ± `tok` @el #0q3dpz393
@@ -53935,6 +53989,9 @@ nhue ± `en` @Laqme #gN8roi9_0
 
 nhuga -1 `en` @Ilmen #LfbN5n_5C
 ▯ is the integral of function ▯ (binary predicate) over the interval ranging from ▯ to ▯.
+
+nhukacı ± `en` @seaqtaq #VUlNej8Cz
+▯ derives a peculiar joy from witnessing another make an error or incorrect assumption in confidence
 
 nhukı ± `en` @Machy #HoY8AI7WI
 interjection: "agreement"
@@ -55262,7 +55319,7 @@ pazı ± `en` @fagri #ud9tVUguI
 pe- +2 `en` @uakci #-18qWEl_3
 prefix: combine two verbs into a verb–subject compound where the action denoted by the verb is specialized by the class of subject; as a Y, to do X
 
-pe +2 `en` @official #W5aCOwNad
+pe +3 `en` @official #W5aCOwNad
 predicate: ‘for’; ▯ is the case for/by the standard of ▯.
 
 pe +1 `en` @Ilmen #ITVKO1Ehq
@@ -56066,6 +56123,12 @@ pınagu ± `en` @Ilmen #MW0k4GO7h
 pınagufaılu ± `en` @Ilmen #wivDo5Ggb
 ▯ is a PNG file.
 
+pıno ± `en` @Ilmen #syx3UFYbR
+▯ is a pine tree.
+
+pınotobı ± `en` @Ilmen #dwBgUcO0I
+▯ is a pine processionary moth or caterpillar.
+
 pınu ± `en` @Ilmen #UKHQwYR2S
 ▯ is a pine tree.
 
@@ -56262,7 +56325,7 @@ pırıruaq ± `en` @Ilmen #vz_hd8WVV
 ▯ expresses complaint ▯ to ▯.
 
 pısaı ± `en` @jiqci #x8tZ69_Ew
-▯ is urea
+▯ is urea.
 
 pısı +1 `en` @Ilmen #JCsNN3AJW
 ▯ is a personal computer.
@@ -58340,6 +58403,9 @@ radıum ± `en` @Laqme #dfsI1gWe8
 
 ⚠ rae -1 `en` @el #vDnn3rSoW
 in JE: "and also, ..." / "additionally, ..."
+
+rafala ± `en` @Ilmen #mhgdDMjgW
+▯ is a Rafale fighter jet.
 
 raga ± `en` @Machy #-WerjAhDb
 ▯ feels energetic.
@@ -61506,7 +61572,7 @@ rujı ± `en` @Ilmen #cGJA1Uh3e
 rújuaq ± `en` @Laqme #2YC5vOHOv
 conjunction: "and even"
 
-ruka +3 `en` @Ilmen #NiO4I3qSv
+ruka +4 `en` @Ilmen #NiO4I3qSv
 ▯ is a back (body part).
 
 ruka ± `tok` @el #-8jCTelAl
@@ -62064,6 +62130,9 @@ Some among ▯ are good, whereas others are bad; ▯ are a mix/tossup/hit-or-mis
 sago +1 `en` @Laqme #IEBSbFG66
 ▯ cares to / bothers to / goes (even) slightly out of their way to satisfy property ▯.
 
+sagufue ± `en` @Ilmen #ex0kFgorT
+▯ is an S-200 air defense system.
+
 saheaq ± `en` @Ilmen #Y-iI71Q3L
 ▯ carries with them something satisfying property ▯.
 
@@ -62235,6 +62304,9 @@ sajaq +1 `en` @robintown #T9fB62qyI
 
 sajeq ± `en` @uakci #a1C9TaUlU
 ▯ and ▯ share at least one thing that they satisfy relation ▯ with.
+
+sajofue ± `en` @Ilmen #a_T0O1pQV
+▯ is an S-400 air defense system.
 
 saka +2 `en` @fagri #tsrG_sCWk
 ▯ is a shirt/sweater/hoodie/vest/tank-top/jersey; ▯ is an item of clothing to be worn on one's torso, with three holes on top and one hole on the bottom
@@ -62889,6 +62961,9 @@ nullary predicate: always false
 
 sasalı +1 `en` @Ilmen #eM9VveiCk
 ▯ is a property satisfied by at least one thing among everything imaginable.
+
+sasaqfue ± `en` @Ilmen #KDwv5h9kc
+▯ is an S-300 air defense system.
 
 sạsıepoha ± `en` @Laqme #Uyg518hUj
 ▯ is a cataphora / cataphoric reference.
@@ -63868,7 +63943,7 @@ nothing has property ▯ (among the things having property ▯).
 sıam- +1 `en` @kazoo #-XUvNlEwR
 motion-in-situ, i.e. one does not change location while moving
 
-sıam +3 `en` @kazoo #QSNjymbAO
+sıam +4 `en` @kazoo #QSNjymbAO
 ▯ happens in-place (in-situ)
 
 sıame ± `en` @uakci #X2746yXLb
@@ -64278,6 +64353,9 @@ sıeqdoache ± `en` @Machy #n4K7tgNSk
 
 sıeqge +1 `en` @robintown #Mn94mgGmS
 ▯ is amazing.
+
+sıeqgetaotıqshoaı ± `en` @Ilmen #vTwh3P_S1
+▯ is a Thaumetopoeinae moth or caterpillar.
 
 sıeqgı ± `en` @Ilmen #Ehf9rbpML
 ▯ is great/admirable.
@@ -67294,11 +67372,11 @@ shealaı ± `en` @seaqtaq #YFC6ZoI_I
 shealaıcıoq ± `en` @Laqme #qgu5wMGQt
 ▯ is a space bar / spacebar.
 
+sheam +1 `en` @Laqme #ZWd8Vp6cS
+▯ is outer space.
+
 sheam ± `en` @eednb #5dAgeEked
 ▯ is a shelled egg.
-
-sheam ± `en` @Laqme #ZWd8Vp6cS
-▯ is outer space.
 
 sheamchao ± `en` @jiqci #dPeXQ0DFp
 ▯ is a spaceship.
@@ -67744,7 +67822,7 @@ shetoame ± `en` @evie #LZnSVzF7s
 shetuq ± `en` @uakci #edV2cxiRf
 ▯ iff ▯; ▯ is the case if and only if ▯ is the case.
 
-shéu +6 `en` @kazoo #WJvoMa722
+shéu +7 `en` @kazoo #WJvoMa722
 plural coordinator: range between
 
 sheu'acı ± `en` @jiqci #SWSAn2G0z
@@ -71146,7 +71224,7 @@ interjection: rephrasing and correcting, "you mean ... / I'd phrase it like ..."
 téom ± `en` @Laqme #ZPqIQYr3F
 interjection: "is that what you mean? / did I paraphrase you right?"
 
-teoq +2 `en` @official #xhtHiFxLRJ
+teoq +3 `en` @official #xhtHiFxLRJ
 predicate: ‘question’; ▯ is a question.
 
 teoq ± `toa` @uakci #-UP4l32Rv
@@ -75720,7 +75798,7 @@ complementizer: ‘RST’; opens restrictive relative clause
 ꝡë ± `en` @mimiaoganhaqpy #SEGk7IieI
 complementizer: ‘which’; relative clause
 
-ꝡeam ± `en` @uakci #sk60UNWbr
+ꝡeam +1 `en` @uakci #sk60UNWbr
 number component: myriad, 10,000 (for counting in lots of 4 digits)
 
 ꝡeaq ± `en` @Ilmen #y-nzmBnWh
@@ -75968,6 +76046,9 @@ zaıdoa ± `en` @uakci #xiXWlrRBA
 
 zaıge ± `en` @Laqme #GA49hFibV
 ▯ inspires hope.
+
+zaıha ± `en` @Laqme #7BguwPSH4
+Hopefully ▯ is the case.
 
 zaıjı ± `en` @uakci #5V_NIu5bK
 ▯ is what I declare I hope is the case; I hereby express that I hope that ▯ is the case.
@@ -85590,6 +85671,9 @@ I’m Gào Híu.
 mí Gaosuroq ± `en` @jiqci #dyRmrv0wC
 noun: Lake Superior
 
+mí Gınıqdao ± `en` @zearen #GnrnKE4lZ
+▯ is the Gospel
+
 mí Guagaqfuaı ± `en` @Laqme #ji-XqeIkA
 the United Nations
 
@@ -92019,17 +92103,17 @@ Satisfying property ▯ does not prevent on from satisfying property ▯
 loaırıo(saı) ± `en` @seaqtaq #N5p9iI0nQ
 ▯ is (a quantity of) Fluorine (element 9)
 
-⚠ loeloy ± `en` @el #TMp6xTK3e
+⚠ loeloy -1 `en` @el #TMp6xTK3e
 ▯ is roasted/grilled
 
 loq(nemıeq)chuo -1 `en` @seaqtaq #yVSCN9IdI
 ▯ is a thermometer
 
-⚠ loycıa ± `en` @uakci #zYPELeuZ7
-▯ is raw/uncooked/unprepared/fresh.
-
 ⚠ loynueq ± `en` @uakci #QkvBikHfM
 ▯ is prepared meat.
+
+⚠ loycıa -1 `en` @uakci #zYPELeuZ7
+▯ is raw/uncooked/unprepared/fresh.
 
 ⚠ loyq -2 `en` @akesi #0htjLRYMt
 ▯ is an unused Toaq syllable ending.
@@ -92802,11 +92886,11 @@ in state of affairs ▯, the semantic role of AGENT is assumed by ▯
 ⚠ toqloy ± `en` @el #zlxyBTVHh
 ▯ is pan-fried / cooked on flat-top / etc
 
-⚠ toqloymy ± `en` @el #t9Fsnnjaq
-▯ is a pan
-
 ⚠ toqloyfua ± `en` @el #wMbZriF5D
 ▯ is a griddle / flat-top stove
+
+⚠ toqloymy -1 `en` @el #t9Fsnnjaq
+▯ is a pan
 
 ⚠ toyq ± `en` @Ilmen #5OpQXWA8n
 separator: medial conjunction in polyadic forethought conjunction constructions: to RU … toyq … (toyq … (toyq … (…))).

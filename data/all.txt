@@ -1483,6 +1483,7 @@ boqte
 boqtı
 boqtıe
 boqtue
+boraı
 bore
 bore
 bore
@@ -2792,6 +2793,7 @@ cuo
 cuo
 cuo
 cuo
+cuoha
 cuoı
 cuoı
 cuoı
@@ -3259,6 +3261,7 @@ chıchedu
 chıchı
 chıchıaı
 chıchıaı
+chıchıaı
 chıchıaıfaı
 chıchıe
 chıchoa
@@ -3266,6 +3269,7 @@ chıchuaq
 chıchuaq
 chıdıe
 chıdoq
+chıdue
 chıduı
 chıe
 chıe
@@ -3869,6 +3873,7 @@ chuefa
 chuefuaq
 chuekaıse
 chuekıq
+chuekoı
 chuelua
 chuelua
 chueme
@@ -3884,6 +3889,7 @@ chuesı
 chuetao
 chuetao
 chuetıeq
+chuetobı
 chuezu
 chufana
 chuge
@@ -5151,6 +5157,7 @@ due
 due
 due
 duechı
+duechı
 duedaq
 duede
 duehea
@@ -6116,6 +6123,7 @@ foazameme
 foazao
 fofuaq
 fofuaq
+foheıcı
 foı
 foı
 foı
@@ -6144,6 +6152,7 @@ foqrom
 foqsue
 foqtao
 forıqsaı
+fosaqheıfe
 foso
 fosofora
 fosoforo
@@ -7078,6 +7087,7 @@ Gıqzaıkabu
 gıqzıu
 gırao
 gırı
+gırıpeq
 gırıq
 gırıqdutao
 gırıu
@@ -8591,6 +8601,8 @@ hıeqpoaqkea
 hıeqse
 hıeqtaq
 hıeqza
+hıereqkıu
+hıereqkıurıofaleoqkea
 hıesıaıbıu
 hıetıaı
 hıetısha
@@ -8612,6 +8624,7 @@ hıkorı
 hıkuı
 hıkuı
 hıle
+hıle'ınaq
 hılı
 hılı
 hılo
@@ -8685,6 +8698,7 @@ hıra
 hıraı
 hıraıchua
 hırao
+hırıleke
 hıroq
 hıroqpıa
 hıru
@@ -11546,6 +11560,7 @@ kaojeaqkaı
 kaojuq
 kaojuq
 kaokaıche
+kaokı
 kaokıpıo
 kaokıum
 kaola
@@ -13960,6 +13975,7 @@ loekıoq
 loela
 loeleq
 loeleu
+loeloeq
 loem
 loemajı
 loemeaı
@@ -13976,6 +13992,7 @@ loepoaı
 loepuao
 loepuaobıu
 loeq
+loeqcıa
 loeqfua
 loeqja
 loeqjueq
@@ -14717,7 +14734,6 @@ marıkıbeaq
 marıkırua
 marıo
 maro
-maroloha
 maru
 marua
 maruıq
@@ -17170,6 +17186,7 @@ nıutıaı
 nıuze
 nızu
 nk
+nmj
 no-
 no
 no
@@ -17640,6 +17657,7 @@ nulıcukı
 nulıdoa
 nulıhıeq
 nulıloeq
+nulıloeq
 nulımeaq
 nulımuoq
 nulıpıo
@@ -17974,6 +17992,7 @@ nhubı
 nhubıkıu
 nhue
 nhuga
+nhukacı
 nhukı
 nhum-
 nhúm
@@ -18684,6 +18703,8 @@ pımıeqta
 pımna
 pınagu
 pınagufaılu
+pıno
+pınotobı
 pınu
 pınu
 pınugaqlıao
@@ -19442,6 +19463,7 @@ radıozıa
 radıozıakea
 radıum
 rae
+rafala
 raga
 raga'aobı
 ragacıa
@@ -20683,6 +20705,7 @@ sagaq
 sagı
 sagısahuı
 sago
+sagufue
 saheaq
 saheq
 saheqbeaq
@@ -20740,6 +20763,7 @@ saja
 sajabu
 sajaq
 sajeq
+sajofue
 saka
 Sakaq
 Sakaq
@@ -20958,6 +20982,7 @@ saro
 sasa
 sasahu
 sasalı
+sasaqfue
 sạsıepoha
 sashe
 sashe
@@ -21421,6 +21446,7 @@ sıeqde
 sıeqdoa
 sıeqdoache
 sıeqge
+sıeqgetaotıqshoaı
 sıeqgı
 sıeqjıe
 sıeqnhe
@@ -25316,6 +25342,7 @@ zaıcıasea
 Zaıche
 zaıdoa
 zaıge
+zaıha
 zaıjı
 zaınu
 zaıpoq
@@ -28523,6 +28550,7 @@ mı Gaı
 Mı Gaohıu jí da.
 Mı Gào Híu jí da.
 mí Gaosuroq
+mí Gınıqdao
 mí Guagaqfuaı
 mı Guaqguaı
 Mı Gu jí da.
@@ -30668,8 +30696,8 @@ lıy
 loaırıo(saı)
 loeloy
 loq(nemıeq)chuo
-loycıa
 loynueq
+loycıa
 loyq
 luaqkıqmy
 luaqmy
@@ -30926,8 +30954,8 @@ toemy
 toıkyı
 tomaty
 toqloy
-toqloymy
 toqloyfua
+toqloymy
 toyq
 toy
 toyjeı
