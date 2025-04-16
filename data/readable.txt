@@ -7214,6 +7214,9 @@ cıasho ± `en` @Hoemai #EtqYQTddi
 cıatoaq ± `en` @akesi #OBq_KoIak
 ▯ is Toaq but without marking tone 1 or 4.
 
+cıbu ± `en` @lassc #x_te2Jzdf
+▯ is scattered/dispersed/spread/around/about/throughout.
+
 cıcı'a ± `en` @fagri #tbTI3KszO
 ▯ cringes
 
@@ -42717,7 +42720,7 @@ luaqduo +2 `en` @akesi #FmRWBnseD
 luaqduogıaqme ± `en` @uakci #Bi2YXh025
 ▯ is a suite.
 
-luaqfıeq ± `en` @Laqme #urRcVY0ml
+luaqfıeq +1 `en` @Laqme #urRcVY0ml
 ▯ tinkers / "hacks on" / plays with inventing ▯.
 
 luaqgaq ± `en` @fagri #7S9JkFUVC
@@ -62113,7 +62116,7 @@ sacuaq ± `en` @el #Wd0H-jAOE
 ▯ is a concept of something
 
 sacha +1 `en` @ijonetun #kQ1gDhn5F
-▯ physically passes by/clears ▯
+▯ passes by/clears ▯
 
 sacheo +1 `en` @Laqme #Yci1resc-
 At least one pair among ▯ satisfies binary relationship ▯.
@@ -75699,6 +75702,9 @@ interjection: ‘hi everyone, hey y'all’
 ꝡáhoq ± `en` @Ilmen #jpy5eFXlH
 pronoun: the proposition expressed by the previous sentence.
 
+ꝡahu +1 `en` @lassc #DAMoJfMx-
+▯ searches online for ▯.
+
 ꝡáı ± `en` @uakci #xvC8-FhEy
 vague definite determiner; ‘the’
 
@@ -76403,6 +76409,9 @@ focus particle: 'for one'
 
 zejeo -1 `en` @uakci #WEg0X-83V
 ▯ satisfies the predicate that defines **ze**.
+
+zejı ± `en` @lassc #pT-komPas
+▯ is chaotic/disorganized/disorderly/messy.
 
 zejuq ± `en` @uakci #NSHdUYQsh
 ▯ imbibes ▯.
@@ -78260,6 +78269,9 @@ They’re not the only one who’s singing this.
 
 bu sula bu ± `en` @uakci #ln49rzhga
 modal verb: never wasn’t, isn’t, or won’t; have always X’d/been X-ing, X-es/is X-ing, and will forever X/be X-ing
+
+Bu shao jí sá raı. ± `en` @kazoo #DfFykyJSD
+I don't want anything.
 
 Bu shao jí tó hóq da. ± `en` @examples #NYkN89rPHG8
 That’s the only thing I don’t want.
@@ -87699,6 +87711,9 @@ nullary predicate: Something is a thing.
 ⚠ Ráı lä chôu hóa bı muaqtua súq jí bı, zao jí ráı da. -1 `en` @oldexamples #vqX8-_pw0B9
 The thing you used to kill me – I recognize it.
 
+Raı sía bọshao jıbo. ± `en` @kazoo #xX3JmNrET
+I don't want anything.
+
 Ráı ꝡë chôq hóa nä muaqtua súq jí nä, zao jí ráı da. ± `en` @examples #2eKBb1TveiM
 The thing you used to kill me – I recognize it.
 
@@ -88388,6 +88403,9 @@ I want seven things.
 
 ⚠ Shao jí sa dıaı da. -1 `en` @oldexamples #YnHP5pVzIve
 I want seven things.
+
+Shao jí sía raı. ± `en` @kazoo #_dO1_Uuxa
+I don't want anything.
 
 ⚠ Shao jí shô de jí da. -1 `en` @oldexamples #185GywqZ7V4Q
 I want to become beautiful.
