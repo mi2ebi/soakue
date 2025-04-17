@@ -2100,7 +2100,7 @@ baqdakı +1 `en` @Hoemai #Ssk5UlCZB
 ▯ is a member of the species Solanum melongena (eggplant/aubergine).
 
 baqdehosu ± `en` @seaqtaq #cPxINkyRg
-▯ is a puzzle/problem causing a lot of thought
+▯ is a puzzle/problem causing a lot of thought; ▯ is a conundrum/quandary/brain-teaser
 
 baqjeo ± `en` @seaqtaq #tGpdpydrV
 ▯ is a property that typical things which satisfy property ▯satisfy; ▯ is a ▯-er-y thing to do/be.
@@ -22480,6 +22480,9 @@ guao ± `pl` @jiqci #wBHA1LgSOm
 guaochao ± `en` @jiqci #RklFzsJlV
 ▯ is a forklift.
 
+guaochım ± `en` @seaqtaq #BO2gqnJ2_
+▯ is faced with dilemma ▯
+
 guaoko -1 `en` @Ilmen #vbAvaRhKq
 ▯ is a member of the Glaucus family (blue dragon sea slugs).
 
@@ -22494,6 +22497,9 @@ guaoneo ± `en` @Ilmen #-5tYcGnxY
 
 guaosıao ± `en` @seaqtaq #fqOcuK8SU
 ▯ is the root node of a tree
+
+guaotue ± `en` @seaqtaq #9uRtKDSfd
+▯ is a dilemma
 
 guapaı ± `en` @salarua #YUiIeNZXK
 predicate: ‘diplomatic’; ▯ relates to diplomacy
@@ -35693,6 +35699,9 @@ kehomeaı ± `en` @seaqtaq #5Oopt9gsL
 kehoruaımeaı ± `en` @mimiaoganhaqpy #uHRN0dN1M
 predicate: ‘Pluto’; ▯ is the planet Pluto.
 
+kehosıo ± `en` @seaqtaq #XhjUbm-ds
+▯ is infernalism / the belief that Hell exists
+
 keı- ± `en` @Laqme #TuLHnUF8m
 prefix: fill direct object with **kéı raı**
 
@@ -41236,7 +41245,7 @@ lımgaı ± `en` @Laqme #v5rV48Wmv
 ▯ makes out / discerns / understands that ▯ is the case.
 
 lımı ± `en` @Ilmen #wJj2xRI4g
-▯ is the mathematical limit of the function ▯ as its input approaches the number ▯.
+▯ is the mathematical limit on approaching the number ▯ for the function relation ▯ (relating the output to the input).
 
 lımısona ± `en` @jiqci #5uNplqacV
 ▯ is a horocycle (in hyperbolic geometry).
@@ -56384,6 +56393,9 @@ predicate: ‘Pite.Sami.language’; ▯ is the Pite Sami language
 pıtoguı ± `en` @jiqci #ZLni2CiG8
 ▯ is a python.
 
+pıu- +1 `en` @Laqme #hj1LfAcx8
+prefix: 'X-pilled'
+
 pıu ± `en` @official #-NCJaPrrpA
 predicate: ‘skin’; ▯ is skin/peel/crust/hide/rind/outer cover.
 
@@ -59982,6 +59994,9 @@ rıegue ± `en` @jiqci #JyViHthih
 rıeguegoa ± `en` @verte #OTWodtYHg
 ▯ has hyperbolic geometry; ▯ is a hyperbolic space containing ▯.
 
+rıehıaq ± `en` @seaqtaq #e9HaP8rvA
+▯ have few ▯ amongst them
+
 rıeı ± `en` @evie #lYwq9FHc7
 ▯ (whether due to its actions or otherwise) risks satisfying property ▯
 
@@ -60011,6 +60026,9 @@ rıeme ± `en` @Hydro #C7GZSkKXL
 
 rıemhıao ± `en` @Laqme #PktXylCmt
 ▯ is brutally honest with ▯, hurting their feelings.
+
+rıemıa ± `en` @seaqtaq #10oJllDeK
+▯ have many ▯ amongst them; ▯ have ▯ littered throughout them
 
 rıemkuq ± `en` @Laqme #P2EDIwrBp
 ▯ speaks their mind, saying ▯.
