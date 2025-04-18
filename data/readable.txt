@@ -17495,7 +17495,7 @@ fegıu ± `en` @jiqci #Zzl-4HNqO
 ▯ is a staff/stave.
 
 fegoı ± `en` @seaqtaq #gT9opOAwd
-▯ is simplistic/unsophisticated/crude/brutish
+▯ is simplistic/unsophisticated/crude/brutish/base
 
 fegoıchoa ± `en` @seaqtaq #gIDYcH0i4
 ▯ grunts/makes some inarticulate, hardly audible sound
@@ -23914,6 +23914,9 @@ haıdataq ± `en` @seaqtaq #-a4uS4y4a
 haıgıq ± `en` @Ilmen #XV_2FXe1E
 ▯ is the case only then (later than expected).
 
+haıhaı ± `en` @kazoo #yeCceQLns
+interjection: will do!; said as a response to a command from a higher-ranked authority, enthusiastically
+
 haıku +1 `en` @Machy #1J8mKFm9-
 ▯ is a haiku.
 
@@ -28185,6 +28188,9 @@ Tense: future (absolute)
 
 ıka +1 `en` @lassc #bRx6ARHKz
 interjection: "oh?"; curiosity, enthusiasm, interest
+
+ıke ± `en` @kazoo #E3iDaNaj-
+interjection: a slangy way of reacting when something bad happens. "bad!"
 
 ıkea ± `en` @jiqci #cA96ygqQg
 ▯ requires assembly prior to usage, ▯ is produced/transported/sold/dealt with in parts and only put together at the destination.
@@ -35108,6 +35114,9 @@ kaqnoaq ± `en` @uakci #_Bs2WEYS0
 
 kaqnu +1 `en` @Laqme #oXUp3tOfg
 ▯ looks as such / like that.
+
+kaqnuam ± `en` @robintown #U082c6iKH
+▯ is an eyebrow.
 
 kaqnuao ± `en` @Ilmen #X5E7-7vC7
 ▯ is a brow.
@@ -54032,7 +54041,10 @@ nhubıkıu ± `en` @jiqci #xICrNTii0
 nhue ± `en` @Laqme #gN8roi9_0
 ▯ lacks / is missing property ▯.
 
-nhuga -1 `en` @Ilmen #LfbN5n_5C
+nhuga ± `en` @kazoo #JTylEUTT_
+▯ is the integral of function ▯ with respect to variable ▯.
+
+nhuga -2 `en` @Ilmen #LfbN5n_5C
 ▯ is the integral of function ▯ (binary predicate) over the interval ranging from ▯ to ▯.
 
 nhukacı ± `en` @seaqtaq #VUlNej8Cz
@@ -55883,6 +55895,9 @@ pıaocıoq ± `en` @seaqtaq #lLaHBBR4k
 pıaode ± `en` @Laqme #WZvrOuifh
 ▯ is intricate / elaborate.
 
+pıaofıe ± `en` @Laqme #YBhIatScY
+▯ is complicated / baroque / messy / kludgy.
+
 pıaogı ± `en` @uakci #eQgGqfMyy
 ▯ is fascinatingly/appropriately convoluted.
 
@@ -56393,7 +56408,7 @@ predicate: ‘Pite.Sami.language’; ▯ is the Pite Sami language
 pıtoguı ± `en` @jiqci #ZLni2CiG8
 ▯ is a python.
 
-pıu- +1 `en` @Laqme #hj1LfAcx8
+pıu- +2 `en` @Laqme #hj1LfAcx8
 prefix: 'X-pilled'
 
 pıu ± `en` @official #-NCJaPrrpA
@@ -65021,6 +65036,9 @@ something like ▯ is the case.
 sıujeo -1 `en` @Ilmen #oUtC1thmF
 something like ▯ is the case; ▯ has a property that is similar to ▯.
 
+sıujuna ± `en` @Ilmen #qau5uVL5u
+something similar, comparable, analogical to proposition ▯ is the case, that proposition being a metaphorical description for it.
+
 sıume ± `en` @Ilmen #97W8cLV8s
 ▯ has a homogenous composition.
 
@@ -67877,7 +67895,7 @@ shetuq ± `en` @uakci #edV2cxiRf
 ▯ iff ▯; ▯ is the case if and only if ▯ is the case.
 
 shéu +7 `en` @kazoo #WJvoMa722
-plural coordinator: range between
+plural coordinator: range between (open interval)
 
 sheu'acı ± `en` @jiqci #SWSAn2G0z
 ▯ is nitric acid HNO3.
@@ -67890,6 +67908,9 @@ sheuduaonulı ± `en` @jiqci #38mk2cUc7
 
 sheupıo ± `en` @jiqci #jSfdtpJ-A
 ▯ is saltpeter (saltpetre) / niter.
+
+shéꝡeu ± `en` @kazoo #w0KKoEpVk
+plural coordinator: range between (left is open interval, right is closed)
 
 shı- ± `en` @Laqme #Wepvv32nb
 determiner prefix form: fills object of verb with **nhọ́shı (raı)**
@@ -75909,8 +75930,14 @@ illocution: question/exclamation of disbelief
 ꝡerakuoq -1 `en` @juao #ySPotca95
 ▯ breaks their bone that belongs to organ ▯
 
+ꝡésheu ± `en` @kazoo #O5RkG6QRZ
+plural coordinator: range between (left is closed interval, right is open)
+
 ꝡetuba ± `en` @robintown #nmWe0hqGe
 ▯ is a ꝠTuber.
+
+ꝡéu +1 `en` @kazoo #4T7g10wlE
+plural coordinator: range between (closed interval)
 
 ꝡeꝡa ± `en` @official #YXmVcKvjdYi
 predicate: ‘Ꝡ’; ▯ is the letter Ꝡ.
@@ -92679,7 +92706,7 @@ onomatopoeia for beckoning animals
 ⚠ q̄ ± `en` @uakci #_y8bnCqVm
 hesitation
 
-⚠ q̄ ± `en` @akesi #I-kODjn4u
+⚠ q̄ -1 `en` @akesi #I-kODjn4u
 filler interjection; similar to "like" or "ummm" or "err"
 
 pỷıca, q̄, ché chỉetūa, q̄, jí da, q̄, je, q̄, jảjā lỏı jí q̄, hó da.
