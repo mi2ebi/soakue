@@ -5033,6 +5033,9 @@ buecıa ± `en` @Laqme #d0B4XpK7c
 buechoaq ± `en` @uakci #6KcR0auMo
 ▯ is a guest/visitor of where ▯ lives; ▯ is at ▯’s place.
 
+buechoaq ± `en` @Laqme #qoPmCBhXB
+▯ is a visitor.
+
 buedoaq ± `en` @robintown #wJ8rex-hG
 ▯ is ▯'s hometown.
 
@@ -9086,6 +9089,9 @@ cheaqlu ± `en` @Ilmen #n7Y8XxdpJ
 cheaqmaı ± `en` @Laqme #OpblP77P6
 ▯ is lovingly devoted to ▯.
 
+cheaqpaı ± `en` @Laqme #vulJA2s9q
+▯ is a close/trusted friend of ▯.
+
 cheaqsue +1 `en` @xorxes #nsOGAtZ0I
 ▯ entrusts ▯ to satisfy property ▯.
 
@@ -10660,6 +10666,9 @@ choaq ± `pl` @jiqci #g5cfGzbhBK
 
 choaq ± `ru` @SuperSpaceNiM #D_JwGjJM4
 ▯ — гость; (▯ гостит у ▯)
+
+choaq ± `en` @Laqme #Wv0BW73xA
+▯ is a guest.
 
 choaqchao ± `en` @uakci #El68pQKTF
 ▯ is a taxi/cab.
@@ -16837,6 +16846,9 @@ faıgusholıao ± `en` @jiqci #EN2seeMhS
 faıhuaq ± `en` @uakci #u3AsJmojv
 ▯ satisfies property ▯ to an above-average extent.
 
+faıhuaq ± `en` @seaqtaq #lNGqCZrAi
+▯ happens more often than ▯
+
 faıjı ± `en` @uakci #f-ZFpEywM
 ▯ is the earliest element of ▯ that satisfies the property ▯.
 
@@ -16848,6 +16860,9 @@ faıkua -1 `en` @fagri #ywYL7cHvn
 
 faıkuoı ± `en` @uakci #LI03ol7YA
 ▯ satisfies property ▯ to a below-average extent.
+
+faıkuoı ± `en` @seaqtaq #CP57-mOuZ
+▯ happens less often than ▯
 
 faıla ± `en` @Ilmen #PV9Unhnyj
 having property ▯ is frequent, common among what has property ▯.
@@ -17158,6 +17173,9 @@ faqjuım ± `en` @seaqtaq #IoESBL7vh
 faqjuq +1 `en` @robintown #Ih7_Li1CX
 ▯ undergoes ▯; ▯ has ▯ happen to it.
 
+faqkeı ± `en` @seaqtaq #Jws-iY0bp
+▯ happens a few times; ▯ is relatively infrequent
+
 faqkıubu ± `en` @Laqme #yYxdAhdZA
 ▯ is impossible / can't happen.
 
@@ -17181,6 +17199,9 @@ faqrıoı ± `en` @seaqtaq #98INR8O34
 
 faqrurı +1 `en` @uakci #GA2DjVWuS
 ▯ is the case instead of ▯ being the case.
+
+faqsım ± `en` @seaqtaq #cXEWKBNug
+▯ rarely/seldom/hardly every occurs
 
 faqsuım ± `en` @Laqme #aJ0PHUDFD
 ▯ organizes / plans event ▯.
@@ -17634,6 +17655,9 @@ complementizer: non-polar interrogative + property
 
 femıtom ± `en` @Snow #K5gEoV7sI
 ▯is a fermion.
+
+femnı ± `en` @robintown #zoRBcK3lO
+unit: fepni (Lojbanic currency; 1/100th of a rupnu)
 
 femto ± `en` @jiqci #d0EaIcm5j
 number: one quadrillionth (10^-15), femto-
@@ -19825,6 +19849,9 @@ geaı ± `en` @evie #Chr5oPnN3
 geaıdıu ± `en` @Laqme #cR0oHBBm6
 ▯ is microbiology.
 
+geaja ± `en` @Laqme #n5Td74GNs
+▯ lifts up ▯.
+
 geajeaq ± `en` @Neaqbua #EHUg7x9Kw
 ▯ rises.
 
@@ -21472,7 +21499,7 @@ retroactive cleft: ‘RETROCLE’; lift top-level clause, binding hóa in the fo
 gö +1 `en` @Laqme #XXS8Vt-RQ
 retroactive CP cleft: wraps the preceding sentence in the following CP
 
-gö +1 `en` @robintown #l02wTUAmv
+gö ± `en` @robintown #l02wTUAmv
 cleft verb: opens incidental clause commenting on the complement of the speech act
 
 gô ± `en` @uakci #pE8VKyJ0s
@@ -24394,6 +24421,9 @@ haqlaı ± `en` @uakci #nYrNz9VS0
 haqlıu ± `en` @fagri #_PjQ7OFne
 ▯ is "light" in the sense that it sits lightly in one's stomach
 
+haqlueq ± `en` @Laqme #vwgmXndFF
+▯ waits on / serves ▯.
+
 haqlueqche +1 `en` @fagri #xkeiKjAht
 ▯ is a waitron
 
@@ -26806,6 +26836,9 @@ hokuzu ± `en` @jiqci #H-XL4Jx4b
 holı ± `en` @salarua #6f-7dn9pn
 ▯ is Holi/the Festival of Colors
 
+holıme ± `en` @seaqtaq #h74_RXvIL
+▯ feels a mix of indignance and shame after realizing that not only have they done with innocent intention and out of ignorance something which is typically quite the opposite of an innocent, non-offensive, or well-intentioned gesture, but they were also shockingly not corrected or otherwise hinted at or told that
+
 hom +2 `en` @uakci #LCZU7ibf_
 illocution: hortative; “let’s …!”, “shall we …?”
 
@@ -27999,6 +28032,9 @@ huqkıa ± `en` @Ilmen #1XXkP7Orf
 
 huqmı ± `en` @uakci #svVX0Xbo8
 ▯ is a specific entity the listener has in mind whose identity is not known to the speaker.
+
+huqre ± `en` @robintown #1oaVASOdx
+▯ is xunre (a Lojbanic shade of red).
 
 hurahe +1 `en` @seaqtaq #BuVXrFODW
 ▯ is a witch
@@ -29633,6 +29669,9 @@ predicate: ‘buy’; ▯ buys/purchases, from ▯, possession of ▯.
 
 jeachoaq ± `en` @uakci #IJYMsrTpL
 ▯ is a customer of ▯ (person/business/place).
+
+jeachoaq ± `en` @Laqme #TjL5wULKk
+▯ is a customer.
 
 jeadıe ± `en` @jiqci #AT2-H0Jii
 ▯ advertises product/service ▯.
@@ -61692,6 +61731,9 @@ conjunction: 'and also'
 rumetoa ± `en` @jiqci #olnIt0aQW
 ▯ is an appositional compound,
 
+rumnu ± `en` @robintown #ef5LY0BJ9
+unit: rupnu (Lojbanic currency)
+
 rumu ± `en` @Ilmen #if9irI1jm
 ▯ is, with ▯, in relation ▯, and vice-versa (reciprocity of the two first arguments).
 
@@ -63114,6 +63156,9 @@ seachaq ± `en` @seaqtaq #7wCJBKgp0
 
 seachaqchue ± `en` @uakci #G9-702Yqq
 ▯ is holidays/vacation.
+
+seachoaq ± `en` @Laqme #nC72qXf-N
+▯ is a tourist.
 
 seafa ± `en` @Laqme #ddhOgIFqr
 ▯ goes on holiday to / travels to ▯ as a tourist.
