@@ -3419,6 +3419,9 @@ bıecoetoa ± `en` @el #TgaF9f7v2
 bıedaq ± `en` @Laqme #aIfoBOP0r
 ▯ is a future.
 
+bıefuaq ± `en` @fagri #wetCu_8-u
+▯ is an "after picture" (a picture taken after an event, to be compared to a "before picture" taken before)
+
 bıehaq ± `en` @Laqme #0fdrD4dlV
 ▯ is dessert.
 
@@ -46409,9 +46412,6 @@ moalaıpue ± `en` @mimiaoganhaqpy #rzQxZw8gd
 moaleaq ± `en` @fagri #oQM-5dZXt
 ▯ (region of a metric space) is adjacent to ▯ (region of the same metric space)
 
-móam ± `en` @evie #lcn6mJZAx
-anaphoric pronoun for text (mó/shú...)
-
 moanuoı ± `en` @seaqtaq #_G71bJT1q
 ▯ bites ▯
 
@@ -46711,6 +46711,9 @@ moeq ± `en` @jiqci #fL1bLKodd
 
 moeqja ± `en` @seaqtaq #s77-lT3kc
 ▯ melts ▯
+
+moeqpıo ± `en` @Iako #YfuRmJuSW
+▯is lava / molten rock
 
 moeqsoı -1 `en` @nabbbyspi #2saueIJhi
 ▯ is defiant/rebellious
@@ -56954,7 +56957,7 @@ pohoa ± `toa` @Ilmen #HkPc-aek3
 poı- ± `en` @uakci #vELM1ZXAm
 adjectival phrase head (like **kị-**): subject-sharing adjective
 
-poı -1 `en` @fagri #2487EMdnD
+poı -2 `en` @fagri #2487EMdnD
 ▯ is a true proposition whose x1 participant, in participating in the proposition, also does ▯
 
 poıba +2 `en` @Ilmen #X8TR9YaJb
@@ -67735,6 +67738,9 @@ shedunusaı ± `en` @jiqci #Kt0EKHxra
 shefaofaq ± `en` @seaqtaq #C4Pl2G3cx
 ▯ takes place until/follows through to its logical conclusion
 
+shegı ± `en` @lassc #4faM_XqN1
+▯ is satisfied/content/pleased/placated/appeased.
+
 shehe ± `en` @uakci #j875YIHGH
 ▯ holds in general under all conditions.
 
@@ -68844,6 +68850,9 @@ shıuduq ± `en` @fagri #z0b0edJWT
 
 shıufa ± `en` @uakci #4tc_rGNy9
 ▯ goes to ▯ in order to ▯.
+
+shıufuaq ± `en` @fagri #nb63D21ei
+▯ is a "before picture" (a picture taken before an event, to be compared to an "after picture" taken after)
 
 shıuheo ± `en` @salarua #o4eLZ2_PE
 ▯ is different from before.
@@ -74580,14 +74589,14 @@ tue +1 `en` @uakci #WfLO9gvmX
 tue ± `en` @official #BaP-9We4Fg
 predicate: ‘state’; ▯ is a state / state of affairs / situation; ▯ is a state of affairs of property ▯.
 
-tue ± `toa` @uakci #nLFyEw98Z
-#lufe ru #meajeq
-
 tue ± `ja` @uakci #viGhdDLvf
 ▯は、性質▯に関する様子・状態
 
 tue ± `pl` @jiqci #unneau6csG
 ▯ to sytuacja/stan rzeczy (własności ▯).
+
+tue -1 `toa` @uakci #nLFyEw98Z
+#lufe ru #meajeq
 
 tuecaq ± `en` @seaqtaq #lFmbup6hy
 ▯ is responsible for/in charge of/oversees ▯ being the case
