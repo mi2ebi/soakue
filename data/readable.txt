@@ -3905,6 +3905,9 @@ boaıja ± `en` @uakci #Rxc9IXhPS
 boaıkuaı ± `en` @seaqtaq #FV8DQCdbi
 ▯ is compliant/submissive
 
+boaısoao ± `en` @seaqtaq #U3uaL8UwQ
+▯ acts towards ▯ in a way that acknowledges their authority; ▯ shows respect/deference to ▯
+
 boaıtao ± `en` @uakci #lULwTnHGG
 ▯ defaults to doing ▯.
 
@@ -6487,6 +6490,9 @@ caqtoa ± `en` @uakci #1wEjqFB9x
 
 caqtoaı ± `en` @Laqme #w-H5r4okY
 ▯ is an instruction / step (as in a recipe) / command (as to a computer).
+
+caqtoı ± `en` @seaqtaq #ZC_P_IZlZ
+▯ coerces / dominates / pulls their weight on ▯
 
 caqtuq ± `en` @seaqtaq #J0zCtuD4a
 ▯ is a Leviathan; ▯ is a centralized government or embodiment of the state deemed necessary to possess absolute control over its citizens, lest they "naturally" devolve into chaotic, animalistic behavior
@@ -13277,6 +13283,9 @@ deaıjuq ± `en` @robintown #fxjkmkY3N
 deaıne ± `en` @Machy #d11F0WySb
 ▯ is the status of ▯.
 
+deaısoao +1 `en` @seaqtaq #6f69KYVA1
+▯ treats ▯ with dignity/respect; ▯ acts towards ▯ in a way that acknowledges their dignity; ▯ shows respect to ▯
+
 deaıshea ± `en` @seaqtaq #mf05cyB4s
 ▯ is void of value/potential; ▯ is non- binding
 
@@ -17059,7 +17068,7 @@ faokuaı ± `en` @uakci #7L6_P5UCM
 faolaı ± `en` @uakci #2S-6ZDh9g
 full stop, period (.)
 
-faolaıme -1 `en` @seaqtaq #pifwTswbn
+faolaıme ± `en` @seaqtaq #pifwTswbn
 ▯ is an ending
 
 faolao ± `en` @seaqtaq #cUInvySj_
@@ -29135,6 +29144,9 @@ jadı ± `tr` @kazoo #jdixnaoIG
 jadı ± `bg` @kazoo #0mluHubfZ
 междуметие: здрасти, здравей!
 
+jâdı ± `en` @kazoo #e2c7W_bSx
+response to jadı
+
 jadıgıq +1 `en` @Laqme #0IXtCluey
 interjection: 'unhello' (goodbye)
 
@@ -39572,6 +39584,9 @@ laılo ± `en` @uakci #aNIhc-O3R
 laılua ± `en` @uakci #ADPYp1xBK
 ▯ is a symbolic story / parable / fable.
 
+laıme ± `en` @Iako #KJbH13ffr
+▯ is an alphabet; a set of letters.
+
 laımı ± `en` @Laqme #1tZZrI_1K
 name verb for spelled names
 
@@ -46713,7 +46728,7 @@ moeqja ± `en` @seaqtaq #s77-lT3kc
 ▯ melts ▯
 
 moeqpıo ± `en` @Iako #YfuRmJuSW
-▯is lava / molten rock
+▯ is lava; molten rock.
 
 moeqsoı -1 `en` @nabbbyspi #2saueIJhi
 ▯ is defiant/rebellious
@@ -50270,11 +50285,11 @@ bo'a .afta gi'e ckaji bo'e
 nı ± `en` @uakci #3zDGo1C5x
 determiner: this X
 
+ní +1 `en` @official #MFwS4qaPYHT
+determiner: ‘this’; demonstrative; this/that X
+
 ní +2 `en` @robintown #bgHwgXNcb
 determiner: ‘this’; proximal demonstrative
-
-ní ± `en` @official #MFwS4qaPYHT
-determiner: ‘this’; demonstrative; this/that X
 
 ní ± `en` @el #86JqJqjfX
 determiner, but binds bóu: this thing which satisfies X
@@ -51573,7 +51588,7 @@ nıudıuche ± `en` @Ilmen #qS1lEIWiu
 ▯ is a botanist.
 
 nıugaqlıao ± `en` @jiqci #HlYz98w_F
-▯ is a bolete/porcini (mushroom of the Boletus species).
+▯ is a bolete/porcini (mushroom of the Boletus genus).
 
 nıugoırıaq ± `en` @TheAndSys #eQrvOo--N
 ▯ is an apothecary
@@ -64798,6 +64813,9 @@ sıomrıaq ± `en` @Laqme #LWQzOqz9A
 sıoneo ± `en` @Laqme #6jZzvB9JB
 ▯ (abstract) is based on / grounded in / builds off ▯ (abstract).
 
+sıopoa ± `en` @jiqci #lNLVRTRff
+▯ is close-minded / unreceptive to new ideas.
+
 sıoq ± `en` @official #OVgPUUihpl
 predicate: ‘wheel’; ▯ is a wheel.
 
@@ -64854,6 +64872,9 @@ sıoqzıu +1 `en` @Ilmen #uHF7HYQd1
 
 sıoreaı ± `en` @seaqtaq #1VPQQ8qoM
 State of affairs ▯ ideologically opposes ▯
+
+sıorıa ± `en` @jiqci #Jwvm2aOqG
+▯ is open-minded / willing to consider new ideas.
 
 sıotuoı ± `en` @uakci #thbESMpTX
 ▯ is a complication/deficiency/drawback of idea ▯; ▯ is what one’s reservations about ▯ might be.
@@ -65225,7 +65246,7 @@ soakuaı ± `en` @uakci #W32sxmG_F
 soamuoq ± `en` @uakci #PI5SrDy5W
 ▯ is an enzyme or catalyst for reaction ▯.
 
-soao +4 `en` @robintown #Du4iDd-SU
+soao +5 `en` @robintown #Du4iDd-SU
 ▯ interacts socially / socializes with ▯.
 
 soaobı +1 `en` @jiqci #_R1XtQooH
@@ -67969,6 +67990,9 @@ shetuq ± `en` @uakci #edV2cxiRf
 shéu +7 `en` @kazoo #WJvoMa722
 plural coordinator: range between (open interval)
 
+shëu +1 `en` @evie #lXoKDIw3D
+coordinates determiners; **sáq shëu jó hora** "three to four hours"
+
 sheu'acı ± `en` @jiqci #SWSAn2G0z
 ▯ is nitric acid HNO3.
 
@@ -67981,7 +68005,7 @@ sheuduaonulı ± `en` @jiqci #38mk2cUc7
 sheupıo ± `en` @jiqci #jSfdtpJ-A
 ▯ is saltpeter (saltpetre) / niter.
 
-shéꝡeu ± `en` @kazoo #w0KKoEpVk
+shéꝡeu +1 `en` @kazoo #w0KKoEpVk
 plural coordinator: range between (left is open interval, right is closed)
 
 shı- ± `en` @Laqme #Wepvv32nb
@@ -73693,6 +73717,9 @@ toıbaqdıu ± `en` @Laqme #zxMwpbGPX
 toıbo ± `en` @uakci #W3Ia5aJ6R
 In event ▯, ▯ assumes the role of AGENT.
 
+toıboaı ± `en` @seaqtaq #EHbivAi03
+▯ submits to ▯
+
 toıcha ± `en` @Ilmen #olg1BhCpu
 in event ▯, ▯ is an agent.
 
@@ -76005,13 +76032,13 @@ illocution: question/exclamation of disbelief
 ꝡerakuoq -1 `en` @juao #ySPotca95
 ▯ breaks their bone that belongs to organ ▯
 
-ꝡésheu ± `en` @kazoo #O5RkG6QRZ
+ꝡésheu +1 `en` @kazoo #O5RkG6QRZ
 plural coordinator: range between (left is closed interval, right is open)
 
 ꝡetuba ± `en` @robintown #nmWe0hqGe
 ▯ is a ꝠTuber.
 
-ꝡéu +1 `en` @kazoo #4T7g10wlE
+ꝡéu +2 `en` @kazoo #4T7g10wlE
 plural coordinator: range between (closed interval)
 
 ꝡeꝡa ± `en` @official #YXmVcKvjdYi
