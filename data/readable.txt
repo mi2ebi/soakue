@@ -23308,6 +23308,9 @@ guoguo ± `en` @uakci #zdLG_GOSx
 guohı ± `en` @robintown #NCOjY4wC_
 adverb of quantification: in which cases?
 
+guohıba ± `en` @robintown #iyzlqrwbo
+adverb of quantification: in which cases … did you say?
+
 guojeaq ± `en` @uakci #BI9_xnnAd
 ▯ happens more; ▯ happens further; ▯ repeats.
 
@@ -25441,6 +25444,9 @@ hıa ± `en` @uakci #D4NgXFm9t
 hıaba +1 `en` @Laqme #TmY7QK-l1
 echo question version of **hıa**: "▯ is what now?"
 
+hıaba ± `en` @robintown #-XiyMnkXR
+You said that … ▯ is what?
+
 hıafaq +1 `en` @mimiaoganhaqpy #Ayo1fOdl2
 What the fuck is ▯?; What the fuck is ▯ doing?
 
@@ -25737,6 +25743,9 @@ Interjection: "please repeat", "come again?", "sorry?"
 
 híba ± `en` @Laqme #FFVx0b-Vo
 interjection: "pardon?" / "come again?"
+
+híba ± `en` @Laqme #ehbrQTPqc
+determiner: "which ... (did you say)?"
 
 hıbotom ± `en` @Snow #wg1sZJWi5
 ▯is a Higgs boson.
@@ -38366,6 +38375,9 @@ kueche ± `en` @robintown #22D0-m1k0
 kuedıem ± `en` @Laqme #tdjGZadbr
 ▯ is a bookstore / bookshop.
 
+kuedıu ± `en` @jiqci #JpyDgff3J
+▯ is bibliology.
+
 kuefua +1 `en` @Ilmen #IjfE5EFJV
 ▯ is a bookcase.
 
@@ -43577,6 +43589,9 @@ ma'ı -1 `en` @Machy #cd-k4p1yk
 
 ma'ıpaı ± `en` @Machy #cnGck-QNv
 ▯ and ▯ have a romance.
+
+maba ± `en` @robintown #HCaP8OI7w
+polarity: did you say … (yes/no)?
 
 mabala ± `en` @robintown #Ju1-MySBR
 ▯ is horrible/terrible/awful/wretched.
@@ -59871,7 +59886,7 @@ rezuaq ± `en` @salarua #iTDj7w5nA
 rhr ± `en` @evie #WyGdcosbS
 textspeak for **râo hí raı** ("when?")
 
-rı +1 `en` @fagri #-hejOtukH
+rı ± `en` @fagri #-hejOtukH
 Conjunction: which?
 
 rı ± `toa` @Ilmen #uiT0IXZmT
@@ -60047,6 +60062,9 @@ rıatua ± `en` @Laqme #c-tg3pHhg
 
 rıba ± `en` @Hoemai #igU5Qy8jy
 ▯ is a member of genus Ribes (including the blackcurrant, redcurrant, white currant, the gooseberry and other plants).
+
+ríba ± `en` @robintown #GToQbyt0n
+conjunction: did you say … or …?
 
 ríbaq ± `en` @uakci #K_BDFCoYj
 determiner: [adjective or relative clause] type of [complement]
@@ -66486,7 +66504,7 @@ suıgoe ± `en` @uakci #1D1YxEOwv
 suıha ± `en` @Snow #btcbdAVaX
 at least ▯ is the case; ▯ is the case, if nothing else
 
-suıhuaq ± `en` @uakci #B07Nv3AeD
+suıhuaq -1 `en` @uakci #B07Nv3AeD
 ▯ satisfies with ▯ relation ▯ or with some other that’s bigger or more intense than the latter (given an interpretation of “bigger” suitable for the relation supplied).
 
 suıjeo ± `en` @seaqtaq #a_jELYGpv
@@ -67095,6 +67113,9 @@ shaıduo ± `en` @Laqme #SpN3v7jeC
 
 shaıhıo ± `en` @Ilmen #8Km5hhCUK
 ▯ greets ▯ on parting; ▯ says goodbye to ▯.
+
+shaıkea ± `en` @Laqme #o6zaNtHlw
+▯ is a brake / are brakes.
 
 shaıkıao ± `en` @uakci #tS8ZjPHNm
 ▯ is an exit.
@@ -72496,6 +72517,9 @@ complementizer: ‘how.much’; quantitative interrogative
 tïo ± `en` @official #pcU992Jed1S
 complementizer: ‘how.much’; opens degree question subordinate clause
 
+tıoba ± `en` @robintown #b8lBJFcJ2
+degree: how much … did you say?
+
 tıocheo ± `en` @seaqtaq #FUIbtSN1_
 ▯ vary in how much they satisfy property ▯
 
@@ -72516,6 +72540,9 @@ Ile jest ▯?
 
 tíopuı ± `en` @robintown #hpx11Qoqo
 pseudo natural number: how many?
+
+tíopuıba ± `en` @robintown #ESQhikl-C
+number: how many … did you say?
 
 tıopuıchıo ± `en` @robintown #_YAdDkxp4
 adverb of quantification: how many times?
@@ -81749,6 +81776,12 @@ What’s the most important thing?
 
 Hıa ké, ꝡë kaqgaı súq hóa móq? ± `en` @examples #lrxELh5xZ4En
 What is it you are looking at?
+
+Hıa níchaq? ± `en` @robintown #nQMshTjxW
+What day is it? What's the date?
+
+Hıa nídaq? ± `en` @robintown #r_OvCNKoz
+What time is it?
 
 Hıa ní móq? ± `en` @examples #iV3DcjNTv-Hp
 What is this?
