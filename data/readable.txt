@@ -1,6 +1,9 @@
 a- +1 `en` @uakci #Qn06JTEEu
 prefix: interjectionalizer
 
+a- ± `en` @Ilmen #_TlMNAEw-
+Interjectionizer: converts a predicate into an interjection meaning “I now am/do [predicate]”.
+
 a ± `en` @official #P1c97MI9T-
 interjection: ‘ah’; discovery; ah
 
@@ -5063,7 +5066,7 @@ bueguaq ± `en` @Ilmen #oCFcgshV_
 bueguaq ± `en` @robintown #0bS5MaXk9
 ▯ is ▯'s homeland.
 
-bueı ± `en` @lassc #gb_lCnkwj
+bueı +1 `en` @lassc #gb_lCnkwj
 ▯ is in favor of/prefers/supports satisfying property ▯.
 
 buejaı ± `en` @Ilmen #47rZ3oong
@@ -6866,7 +6869,7 @@ ceokıao ± `en` @uakci #bU7uSLdek
 ceoluı ± `en` @uakci #xMAmKz0Pr
 ▯ has begun to be the case and still is the case; ▯ has been and is the case. [JEO]
 
-ceomana +2 `en` @el #lKCPg80vm
+ceomana +3 `en` @el #lKCPg80vm
 ▯ is executive function "juice" for starting ▯; ▯ is the energy/state of feeling up to beginning task ▯
 
 ceopea ± `en` @Laqme #JzehLtu5Q
@@ -8929,6 +8932,9 @@ chaqreoq ± `en` @Ilmen #nhCl76LAA
 
 chaqsıao ± `en` @seaqtaq #nBhSxLlwZ
 ▯ are the wee/small hours of the day
+
+chaqtı ± `en` @Laqme #Cipdyjdz8
+Where ▯ is, the date is ▯.
 
 chaqtıa ± `en` @fagri #IUOhHdK8t
 ▯ is an afternoon
@@ -13154,6 +13160,9 @@ daqtaı ± `en` @Laqme #BQIsw8bC0
 daqteı ± `en` @Laqme #TbpvwL-ao
 ▯ is an aspect (linguistics sense).
 
+daqtı ± `en` @Laqme #qSZAfqFPH
+Where ▯ is, the date-and-time is ▯.
+
 daqtıao ± `en` @Ilmen #q3m0LdUXH
 that ▯ be the case would be suitable/appropriate to time ▯.
 
@@ -15136,6 +15145,9 @@ duachıo +1 `en` @akesi #XmVivAMig
 duadıu ± `en` @Laqme #KFPmcrc0J
 ▯ is epistemology.
 
+duado ± `en` @Laqme #OlDzPcC8v
+▯ adds ▯ to Toadua.
+
 duafa ± `en` @Ilmen #YBQ_LTGBa
 ▯ explores ▯.
 
@@ -16111,11 +16123,17 @@ eventive retroactive cleft: ‘EV.RETROCLE’; lift the event of the top-level c
 ehe +2 `en` @robintown #f-pQHgAe1
 interjection: nervous laughter
 
+eheı ± `en` @lassc #ZwVFM8yF3
+onomatopoeia: "stretch", "reach", "extend"
+
 eheꝡa ± `en` @TheAndSys #OPdhRm6Hy
 ▯ is nervousness
 
 ehı ± `en` @el #XPB9JaIVa
 Determiner: same as **hı**, but bubbles up to right under the illocution to avoid indirect questions
+
+eı- ± `en` @lassc #0-Xz1nUmA
+prefix: verb from onomatopoeia; "▯ Xes"
 
 eı +2 `en` @seaqtaq #bl2I2xuiI
 ▯ plays role ▯ (formally assigned functional niche/societal status)
@@ -18059,7 +18077,7 @@ fıeqno +1 `en` @seaqtaq #BoqEK2xiL
 ▯ is a canvas; ▯ is a medium through which one conveys/displays their invention('s)
 
 fıeqse ± `en` @seaqtaq #Ha-MYQlmB
-▯ is a creation
+▯ is a creation / work / invention / brain-child
 
 fıeqtoa ± `en` @Machy #-4pTT5qAz
 ▯ ıs a word consciously invented by ▯.
@@ -28192,6 +28210,9 @@ Ibozu ± `en` @eednb #jg7cYrJGC
 ïe +2 `en` @Laqme #-ubuUiPzI
 start editorial parenthetical (closed by **kı**)
 
+ıe'a ± `en` @lassc #xiav5BkeU
+onomatopoeia: "shrink", "retract", "deflate"
+
 ıeq +2 `en` @Laqme #b0jZ1RdbD
 sentence connector: "I mean..." "or rather..." (aborting and correcting the previous sentence)
 
@@ -29303,6 +29324,12 @@ Jamaıkagua ± `en` @countries #4csGJjJrVFO
 
 ⚠ Jamaıkagua -1 `en` @oldcountries #Q7GJe8ZzR1
 ▯ is the country Jamaica.
+
+jamchıu ± `en` @Laqme #4VtYWmFKG
+▯ is the time-of-day of ▯.
+
+jamtı ± `en` @Laqme #5E0H6HKeO
+Where ▯ is, the time is ▯.
 
 jana ± `en` @uakci #7g6-bfsDK
 ‘hold up’; ‘one sec’; ‘be there in a second’
@@ -37901,6 +37928,9 @@ korıo ± `en` @Hoemai #BwFySa11G
 korıokası ± `en` @jiqci #72D06fdC3
 ▯ is a hazelnut.
 
+koro ± `en` @lassc #PieaVlRED
+onomatopoeia: "crack", "snap", "break", "shatter"
+
 koroqbıa ± `en` @Ilmen #M5orprMt5
 ▯ suffers from Crohn's disease.
 
@@ -40233,7 +40263,7 @@ laruqbeq ± `en` @Ilmen #jHg_LpBV_pE
 laruqboqlaq ± `en` @jiqci #bYmEzmLRk
 ▯ is a glottal stop.
 
-lasa +1 `en` @uakci #Wl4L768zH
+lasa +2 `en` @uakci #Wl4L768zH
 ▯ curls up/twists/crumples up.
 
 lasakueqbeqpuao ± `en` @salarua #pUUuhzqTT
@@ -48773,14 +48803,14 @@ nahonam ± `ru` @SuperSpaceNiM #GXSPcdY08
 náhu ± `en` @Laqme #YBnmvzy2O
 determiner: ‘that’; distal endophoric; the non-recently aforementioned X
 
-naı +1 `toa` @Ilmen #2jRS01HE4
-= rao ▯ nídaq.
-
 naı ± `en` @official #BGFCTCaseC
 tense: ‘PRS’; present
 
 naı ± `toa` @uakci #HoRU3HlN7
 rao dóshı kûq jí ní da
+
+naı ± `toa` @Ilmen #2jRS01HE4
+= rao ▯ nídaq.
 
 naı ± `ja` @Laqme #DDZMyjtR6
 ▯は今起こる／そうである
@@ -57362,6 +57392,9 @@ Property ▯ is the only property associated with the satisfying of property ▯
 ⚠ pou ± `en` @el #nTCJBE_Lo
 ▯ owns/possesses ▯
 
+poꝡa ± `en` @kazoo #czZG4OJJi
+▯ is a post office.
+
 poꝡe ± `en` @evie #IR4XTDTRr
 ▯ is a lie
 
@@ -57924,7 +57957,7 @@ puı ± `tr` @kazoo #B3hkpBSx_
 ▯ sayıca çoktur.
 
 púı +1 `en` @robintown #KDYEEDMwK
-pseudo natural number: many
+number: many
 
 puıchao ± `en` @fagri #UUNtC6Pwz
 ▯ is a bus
@@ -60659,6 +60692,9 @@ rıutue ± `en` @seaqtaq #UbHqsxIBR
 
 rıꝡeq +1 `en` @uakci #EXB23QKLR
 ▯ is a ▯ of type ▯; ▯ is an instance of kind ▯, specifically the ▯ subkind of it.
+
+rızı ± `en` @lassc #KgcxcPHVO
+onomatopoeia: "glisten", "gleam", "glow", "shine", "sparkle"
 
 ⚠ rln. ± `en` @Laqme #XxaEzsUn2
 abbreviation for **rú lího nu**, "and so on", "etc."
@@ -65453,7 +65489,7 @@ soelı +2 `en` @jiqci #eHBQUdIUs
 soeluesaı ± `en` @jiqci #VKlIGkKSy
 ▯ is tartrazine (E102).
 
-soem ± `en` @lassc #9XQFPSDic
+soem +1 `en` @lassc #9XQFPSDic
 ▯ is against/objects to/opposes satisfying property ▯.
 
 soemo ± `en` @jiqci #_id2NDu3L
@@ -68032,6 +68068,9 @@ sheupıo ± `en` @jiqci #jSfdtpJ-A
 shéꝡeu +1 `en` @kazoo #w0KKoEpVk
 plural coordinator: range between (left is open interval, right is closed)
 
+sheze ± `en` @lassc #luKlWPy2V
+onomatopoeia: "scheming", "plotting", "planning", "opportunism", "idea (usually self-serving)"
+
 shı- ± `en` @Laqme #Wepvv32nb
 determiner prefix form: fills object of verb with **nhọ́shı (raı)**
 
@@ -70495,7 +70534,7 @@ taokuaı ± `en` @Ilmen #oVLNAsH9g
 taole ± `en` @Ilmen #X2q8UsW7x
 ▯ tends to or is prone to do ▯.
 
-taomana +4 `en` @fagri #_-WGiUx2P
+taomana +5 `en` @fagri #_-WGiUx2P
 ▯ is "energy"; ▯ is the mental/emotional/psychological state of feeling up to doing tasks, chores, work, etc; ▯ is spoons
 
 taomana ± `en` @el #-eNOBc6YC
@@ -71821,7 +71860,7 @@ tıaboaq ± `en` @jiqci #GBw4fK_Ed
 tıacea ± `en` @robintown #kWGHH8kQI
 ▯ is a backpack.
 
-tıaduashochuaqtombosoqbunueqponueqkıoqroaıpaqtao ± `en` @zumruduanka #EKP7kPVch
+tıaduashochuaqtombosoqbunueqponueqkıoqroaıpaqtao -1 `en` @zumruduanka #EKP7kPVch
 interjection: the speaker realizes they have the flu after eating traditional meatless meatballish food among other things with eight people.
 
 tıafana ± `en` @seaqtaq #ElmqKa976
@@ -72539,7 +72578,7 @@ tıopuı ± `pl` @jiqci #UmnIJ49CDc
 Ile jest ▯?
 
 tíopuı ± `en` @robintown #hpx11Qoqo
-pseudo natural number: how many?
+number: how many?
 
 tíopuıba ± `en` @robintown #ESQhikl-C
 number: how many … did you say?
@@ -75311,6 +75350,9 @@ Interjection: expression of happiness or delight in reaction to something deemed
 
 û ± `en` @uakci #5uk6eIUg_
 particle: ‘…-ed by …’; object incorporation head that passivizes the verb
+
+u'u ± `en` @lassc #4DqrPJd9y
+onomatopoeia: "cry", "sob", "weep", "wail"
 
 u'u -1 `en` @mimiaoganhaqpy #sYjCbhQ6i
 interjection: UwU
