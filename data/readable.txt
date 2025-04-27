@@ -7139,13 +7139,16 @@ cı ± `pl` @jiqci #c_EH9hX44K
 cı ± `tr` @kazoo #qR1hMzPjp
 ▯ sayıca altıdır.
 
-cıa- +2 `en` @Laqme #XaOxTwOhH
+cıa- +3 `en` @Laqme #XaOxTwOhH
 prefix: X-less, without X
 
-cıa- ± `en` @uakci #JnaQCd_DM
+cıa- -1 `en` @uakci #JnaQCd_DM
 prefix: indicates that a property is false with the tagged word present, but remains true when the word is left out
 
-cıa ± `en` @official #YY4kKytR-G
+cıa +1 `en` @Laqme #BaEtxfuM7
+▯ is without property ▯.
+
+cıa -1 `en` @official #YY4kKytR-G
 predicate: ‘lack’; ▯ lacks property ▯.
 
 cıa ± `toa` @uakci #BxWExfz9K
@@ -7156,9 +7159,6 @@ cıa ± `tok` @nano #4UP7ZF5ge
 
 cıa ± `pl` @jiqci #fiw34u6T-l
 ▯ brakuje/ma brak własności ▯.
-
-cıa ± `en` @Laqme #BaEtxfuM7
-▯ is without property ▯.
 
 cıa -1 `tok` @el #qOfu7f37H
 ▯ li ▯ ala
@@ -8707,6 +8707,9 @@ chakao ± `en` @Laqme #zol18Z-Bs
 
 chalaqteı ± `en` @salarua #AXJ5r-rmR
 predicate: ‘hiatus.tone’; ▯ is the hiatus tone
+
+chalazeo ± `en` @kazoo #tFq_S_j9o
+▯ is unripe, green almonds.
 
 chalıam ± `en` @Laqme #bpebx9jJy
 ▯ symbolically represents ▯.
@@ -11332,6 +11335,9 @@ chuaı ± `pl` @jiqci #u7l5SHOvS
 
 chuaı -1 `tok` @el #DG0bjjNAY
 ▯ li lete kiwen
+
+chuaıboe ± `en` @kazoo #zhAhl8ZDW
+▯ is frost. (the thin layer of ice that forms overnight on cold nights)
 
 chuaıboqsaı ± `en` @seaqtaq #Wz-QXAdY-
 ▯ is antifreeze
@@ -26329,6 +26335,9 @@ hıureareaq -1 `en` @Ilmen #xz315kPZa
 hıꝡa ± `en` @jiqci #DD2521uSZ
 ▯ is a siskin (genus Spinus).
 
+ho- ± `en` @Laqme #UMJeBxPFI
+prefix: incorporate **hó** object
+
 ho ± `jbo` @Laqme #2lD8QSJB5
 .i sumka'i lo pu se skicu poi danlu ja jmive ja prenu
 
@@ -26917,6 +26926,9 @@ honı ± `en` @Ilmen #ST3mfUNM_
 hopa ± `en` @Laqme #CpfLIsrhn
 ▯ is satisfied by him/her/them.
 
+hoq- ± `en` @Laqme #P-r8qZd1H
+prefix: incorporate **hóq** object
+
 hoq ± `jbo` @Laqme #ccCRbOkw9
 .i sumka'i lo pu se skicu poi mucti
 
@@ -27087,6 +27099,9 @@ prefix: ‘PREV’; derives anaphoric pronouns referring to phrases headed by th
 
 hu- ± `en` @Laqme #bmvqmPoJ1
 prefix: "attaches to an arbitrary head and creates an anaphoric pronoun referring to the most recent accessible phrase headed by that head"
+
+hu- ± `en` @robintown #1P1C_vUkS
+prefix: incorporate **hú** object
 
 hu ± `ja` @Laqme #xOhoJ0zmS
 呼びかけ助詞：「〜よ」、次の名詞句を聴き手として特定しながら呼びかける
@@ -27379,7 +27394,7 @@ bu huaq
 huche ± `en` @seaqtaq #uFCpXtFMq
 ▯, after great anticipation of ▯, which seemed to be just on the verge of happening, is sharply let down as it comes to happen that that event won't be happening
 
-hue- ± `en` @seaqtaq #DOhg1HCmK
+hue- -1 `en` @seaqtaq #DOhg1HCmK
 prefix: incorporate hú object
 
 hue ± `en` @official #wI3y534Tq
@@ -28203,6 +28218,9 @@ Ibozu ± `en` @eednb #jg7cYrJGC
 
 ıdeı ± `en` @fagri #SnkzokHOe
 ▯ panics (emotion)
+
+ıdezeo ± `en` @kazoo #5TCmkpf6N
+▯ is oleaster/Russian olive/silverberry.
 
 ıdojeq ± `en` @uakci #UgbQ7DjBn
 ▯ is hydrogen.
@@ -29387,6 +29405,9 @@ jaoduma ± `en` @jiqci #5t41jWc_8
 
 jaofa +1 `en` @Ilmen #IXwjCCEXv
 ▯ goes away from ▯.
+
+jaofoaq +2 `en` @lassc #q61-J2iEf
+▯ feels unable to act in a specific way around those they are close to, but feels capable of doing so around others; ▯ feels "stranger-comfort".
 
 jaogaıkea ± `en` @jiqci #fMMXCEPql
 ▯ is a radar.
@@ -43545,6 +43566,9 @@ luqmoe ± `pl` @jiqci #NWityqOVpZ
 luqnao +1 `en` @Machy #uMenkM_V6
 ▯ is a pond.
 
+luqnua ± `en` @robintown #p06dfTIea
+▯ disturbs/bothers/irritates ▯.
+
 luqse ± `en` @Laqme #_-7b7GP5p
 ▯ is some peace/quiet/calm.
 
@@ -44477,6 +44501,9 @@ predicate: ‘aggregate’; ▯ is an aggregate of ▯.
 
 me +1 `en` @Laqme #JXyL4i43t
 ▯ is an aggregate of members satisfying property ▯.
+
+me +1 `en` @robintown #efnUBIYhC
+predicatizer: ‘together’; turns following plurality X into verb: ▯ is X taken together; ▯ is an aggregate of X.
 
 me ± `toa` @uakci #VkBDgNLnN
 tu lú mea hóa dógu pa paq dóshı, na ru shı dóshı, na ru daı râo sa héo bû shı lú tuq paq hóa dóshı da
@@ -54158,7 +54185,7 @@ nhubı ± `en` @Ilmen #zKsxMJa2I
 nhubıkıu ± `en` @jiqci #xICrNTii0
 ▯ is differentiable.
 
-nhue ± `en` @Laqme #gN8roi9_0
+nhue +1 `en` @Laqme #gN8roi9_0
 ▯ lacks / is missing property ▯.
 
 nhuga ± `en` @kazoo #JTylEUTT_
@@ -64792,6 +64819,9 @@ sınu ± `en` @Ilmen #_TOPY6epJ
 sınu ± `en` @Ilmen #7wfG53TgW
 ▯ = sin(▯).
 
+sınua ± `en` @robintown #rEFuujZcR
+▯ distracts/interrupts/bothers ▯.
+
 sınuq ± `en` @kazoo #arqjMJzZ0
 ▯ happens with the intensity/amount increasing and decreasing describable by a sinus wave
 
@@ -70066,6 +70096,9 @@ shuzaı ± `en` @seaqtaq #1nah0zx_B
 ta- +1 `en` @uakci #Zz0S8bSiW
 prefix: expand a unary, unergative verb into a binary verb with causative semantics by attaching an agent place to the front
 
+ta- ± `en` @Laqme #KwD8Ywxyz
+prefix: incorporate **tá** object
+
 tá ± `en` @official #QeMzzzVtIkG
 pronoun: ‘it.IV’; anaphoric pronoun for adjective DPs (class IV)
 
@@ -74868,7 +74901,7 @@ Tunesıagua ± `en` @countries #Al8tGmYtd2s
 ⚠ Tunesıagua -1 `en` @oldcountries #VoxXXtnd6O
 ▯ is the country Tunisia – Tunisian Republic.
 
-túnı +1 `en` @uakci #HHpXKkUOF
+túnı ± `en` @uakci #HHpXKkUOF
 pronoun: all of us/you (found in a specific context, e.g., “all of us gathered here in this room” or “all of us Toaqists” or “all of you in this chatroom”)
 
 tunıa ± `en` @uakci #uSa1bStZH
@@ -75131,6 +75164,9 @@ tuqmudoa ± `en` @Machy #9CpWHGLeK
 
 tuqna ± `en` @Laqme #hQTw570Na
 discursive: in the first place / to begin with / anyway
+
+túqnanı ± `en` @Laqme #7ADUcNTqP
+determiner: all those Xs
 
 tuqne ± `en` @seaqtaq #yI23bvmxy
 ▯ is the net amount of ▯
@@ -76740,6 +76776,9 @@ zeonaraq ± `en` @uakci #hssW2hYa8
 zeonoq ± `en` @robintown #2WAWDmAxi
 ▯ is fruity in taste.
 
+zeopıo ± `en` @jiqci #ABzojpY4M
+▯ is zeolite.
+
 zeorıaq ± `en` @Machy #SWukNevmU
 ▯ is an orchard.
 
@@ -77346,7 +77385,7 @@ zuaı ± `en` @jiqci #FMYMBTSMd
 zuaıcıa ± `pl` @jiqci #vL67qxW7IT
 ▯ jest pewien, że ▯.
 
-zûam ± `en` @Hoemai #qLM_HkYz8
+zûam +1 `en` @Hoemai #qLM_HkYz8
 adjunct head: forms subject-sharing adverbials expressing "(in order) to"
 
 zuaq ± `en` @Machy #YWrK4m14U
@@ -89097,7 +89136,7 @@ I’m thinking about how well the boy is.
 ⚠ Sı jí tîo roe náqdeo da. -1 `en` @oldexamples #EW_mNdOkuVE4
 I’m thinking about how well the boy is.
 
-sîna sá nao luq +1 `en` @salarua #lMLj80kWI
+sîna sá nao luq +2 `en` @salarua #lMLj80kWI
 idiom: ‘from still waters’, used to express the unexpectedness of an event
 
 ⚠ Sı ní req tîo noılıe bóu da. -1 `en` @oldexamples #huuNyItXmgW
