@@ -11636,6 +11636,9 @@ There is a path from ▯ to ▯ via relation ▯.
 chuechao +2 `en` @fagri #19h1ed5mG
 ▯ is a train (vehicle)
 
+chuecheo ± `en` @Ilmen #KRXWogGlu
+▯ are in relation ▯ with each other chainwise: one is in the relation with another one, which is also in that relation with yet another one and so on, forming a finite chain.
+
 chuechıo ± `en` @uakci #EZOwB09Kv
 ▯ alternates between properties ▯.
 
@@ -12459,7 +12462,7 @@ dakı ± `en` @Ilmen #lJ33fg1XP
 ▯ is a forehead.
 
 dakuq ± `en` @Ilmen #sZiFYoc8W
-▯ asserts utterance ▯ to audience ▯.
+▯ asserts to audience ▯ utterance ▯.
 
 Dakuqtoaı ± `en` @Amo #u5F8mUR3a
 predicate: ‘assertive sentence’; ▯ is an assertive sentence; ▯ is a sentence with assertive illocution.
@@ -17812,6 +17815,9 @@ feoqbıu ± `en` @jiqci #onbIdHxWA
 feoqcake ± `en` @lassc #4LTYZ4S8A
 ▯ is a cookie.
 
+feoqcheo ± `en` @Ilmen #zZ_5jXaIU
+▯ are in relation ▯ with each other ringwise: each one is in the relation with another one, which is also in that relation with yet another one and so on, forming a loop.
+
 feoqmukam ± `en` @Ilmen #UQSECmRsB
 ▯ is a gyroscope.
 
@@ -20959,6 +20965,9 @@ gıga ± `pl` @jiqci #0oM6Jn2YSU
 gıga ± `tr` @kazoo #HXwU-Cbj6
 ▯ sayıca 10⁹'dur  (1.000.000.000); ▯ sayıca bir milyardır.
 
+gıgılı ± `en` @Iako #SF_7LQWdZ
+▯ has the feeling of wanting to pinch or squeeze something that's extremely cute.
+
 gıgıodoa ± `en` @Ilmen #dxiXltkxf
 ▯ is krill of the Euphausia taxonomic genus.
 
@@ -22885,6 +22894,9 @@ gucha ± `en` @Hoemai #SMQ1AHxje
 gucheımuq ± `en` @salarua #eq5g3_qOO
 ▯ shows the V sign to ▯
 
+gucheo ± `en` @Ilmen #BAz0jjTo1
+▯ are in relation ▯ with each other pairwise; each of the former is in that relation with another one of that former.
+
 guchıe ± `pl` @jiqci #LIZzMX4kCh
 ▯ zdarza się dwukrotnie/dwa razy.
 
@@ -23220,6 +23232,9 @@ predicate: ‘pair’; ▯ is a pair/couple.
 
 gulıaq ± `pl` @jiqci #U4Bnb1mPe2
 ▯ to para/dwójka.
+
+gulıaqcheo ± `en` @Ilmen #HNQc_3TG-
+▯ are in relation ▯ with each other pairwise; each of the former is in that relation with another one of that former.
 
 Gulıaqdam ± `en` @jiqci #lDbaaLwiP
 ▯ is the star sign Gemini.
@@ -36572,6 +36587,9 @@ kıeıchaı ± `en` @Snow #8O-q3MzTl
 kıeıgam ± `en` @Laqme #zLSW02okc
 ▯ is an ice cube.
 
+kıeıhıu ± `en` @Ilmen #0rkdsWO24
+▯ is a glacier.
+
 kıeıkoı ± `en` @Laqme #v6kbHo7Sw
 ▯ ice-skates.
 
@@ -37252,6 +37270,9 @@ koaıboe ± `en` @noziem #VM8ztSJOQ
 
 koaıbuaılıao ± `en` @Snow #5bYR0MiBl
 ▯ is a basket stinkhorn / bamboo mushroom. ▯ is Phallus indusiatus.
+
+koaıcheo ± `en` @Ilmen #Iy0ZfAJ4Z
+▯ are in relation ▯ with each other in a melee way: all are either in the relation with another one, or another one is in that relation with them.
 
 koaıfachuo ± `en` @Ilmen #0z9weprYs
 ▯ is a web browser.
@@ -40425,6 +40446,9 @@ leaqbueme ± `en` @Ilmen #VRczmAkDz
 leaqcheo +1 `en` @uakci #hxqLJRkFc
 Each two consecutive things among ▯ satisfy relation ▯.
 
+leaqcheo ± `en` @Ilmen #RIkpZKgK3
+▯ are in relation ▯ with each other neighborwise: the relation holds only between the adjacent ones.
+
 leaqfıa ± `en` @official #eI0jjeDOQw
 predicate: ‘precede’; ▯ immediately precedes ▯ in sequence ▯.
 
@@ -41268,7 +41292,7 @@ lıempıo ± `en` @salarua #erLFFdPCx
 lıemtıaı ± `en` @Laqme #NRQEk6T8u
 ▯ is a treasure chest.
 
-lıemu +1 `en` @Laqme #yS0NPIVe9
+lıemu ± `en` @Laqme #yS0NPIVe9
 Satisfying property ▯ is experienced by / happens to ▯.
 
 lıeq ± `en` @official #7NfQVToG5W
@@ -44499,9 +44523,6 @@ mazıu +1 `en` @Laqme #Ag3FL4eLx
 me ± `en` @official #iQcN_msUxG
 predicate: ‘aggregate’; ▯ is an aggregate of ▯.
 
-me +1 `en` @Laqme #JXyL4i43t
-▯ is an aggregate of members satisfying property ▯.
-
 me +1 `en` @robintown #efnUBIYhC
 predicatizer: ‘together’; turns following plurality X into verb: ▯ is X taken together; ▯ is an aggregate of X.
 
@@ -44516,6 +44537,9 @@ me ± `tok` @el #hG2tbhWEa
 
 me ± `pl` @jiqci #WaCknRVZZX
 ▯ to zbiór/zestawienie ▯.
+
+me ± `en` @Laqme #JXyL4i43t
+▯ is an aggregate of members satisfying property ▯.
 
 me'e ± `en` @lassc #q5n7PwIwk
 onomatopoeia: baa [sheep, goat, etc]
@@ -47157,7 +47181,7 @@ moırom ± `en` @jiqci #Fu5xws_mi
 ▯ is an AI / artificial intelligence.
 
 moıruaq ± `en` @Ilmen #HGYEaIOrr
-▯ asserts telephatically ▯ to ▯.
+▯ asserts telephatically to ▯ utterance ▯.
 
 moırue ± `en` @fagri #ZG-YOh5Xp
 ▯ is not sure of themself / feels uncertain
@@ -47358,7 +47382,7 @@ moqkuaq ± `en` @Ilmen #F7E_aG3sm
 ▯ asks ▯ what satisfies the predicate ▯.
 
 moqkuq ± `en` @Ilmen #i7zkJve8q
-predicate: ‘ask’; ▯ asks question ▯ to ▯.
+▯ asks to ▯ question ▯.
 
 Moqkuqtoaı ± `en` @Amo #AeLVkXc6Z
 predicate: ‘interrogative sentence’; ▯ is an interrogative sentence; ▯ is a sentence with interrogative illocution.
@@ -51268,6 +51292,9 @@ nıoqchuo ± `en` @fagri #EGGZXGOUn
 
 nıoqdıu ± `en` @seaqtaq #0gDc5cfAT
 ▯is dentistry
+
+nıoqgıa ± `en` @Iako #avPRuKNrD
+▯ are braces.
 
 nıoqgoaı ± `en` @uakci #Xxb6kOXGL
 ▯ brushes their teeth.
@@ -62614,10 +62641,10 @@ Sambasa ± `en` @Laqme #ECAZ9RvLP
 Sambasazu ± `en` @Laqme #tR4ZO4QUY
 ▯ is the Sambahsa language.
 
-same ± `en` @Ilmen #4zjJABrpr
+same +1 `en` @Ilmen #4zjJABrpr
 ▯ is an aggregate of things having property ▯.
 
-same ± `en` @uakci #BYSU-Hpjr
+same -1 `en` @uakci #BYSU-Hpjr
 ▯ is a mass/group/aggregate of ▯ governed by the following law: it satisfies any property P just in case some one of its members satisfies P.
 
 samhao ± `en` @uakci #bAEVZxizi
@@ -74699,6 +74726,9 @@ predicate: ‘bus.stop’; ▯ is a bus stop.
 
 tuchaoce ± `pl` @jiqci #eYiMwzRAjY
 ▯ to przystanek autobusowy.
+
+tucheo ± `en` @Ilmen #yfJ9wRhN8
+▯ are exhaustively in relation ▯ with each other; for all pairs from the former, the relation holds.
 
 tudaq ± `en` @fagri #3D7XxZIDi
 ▯ (proposition) is always true
