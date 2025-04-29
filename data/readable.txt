@@ -5498,6 +5498,9 @@ buoq ± `pl` @jiqci #GQ996Bg7--
 buoq ± `tl` @Hoekeiboi #9uZ0HlNsq
 di-seryoso ang ▯.
 
+buoqbıa ± `en` @robintown #QfXB646_S
+▯ is delirious with laughter / slaphappy.
+
 buoqcha ± `en` @uakci #xkUegKEFf
 ▯ does ▯ non-seriously.
 
@@ -17260,6 +17263,12 @@ faqshao +1 `en` @uakci #3KxMpG60a
 faqtea ± `en` @Laqme #surU_O_fF
 ▯ is afraid of ▯ happening.
 
+faqtena ± `en` @seaqtaq #cPNnznYMi
+▯ happens for the last time
+
+faqtena ± `en` @seaqtaq #6DnY5HtKqV
+▯ happens for the last time
+
 faqtoa +1 `en` @Laqme #PNCItYvZG
 ▯ is a verb.
 
@@ -20772,6 +20781,9 @@ gıaqteı ± `en` @uakci #_D_i3UQur
 
 gıaqteı ± `en` @Laqme #wNxFDg7wn
 ▯ is a song structure.
+
+gıaqtıaı ± `en` @Iako #KGbMCrwSc
+▯ is a music box.
 
 gıaqtıao ± `en` @uakci #eIx0GgT_W
 ▯ is in sync with music ▯ (the beat/rhythm) in doing ▯ (dancing, tapping, singing…).
@@ -36023,6 +36035,9 @@ keoıtoaı ± `en` @uakci #5QECh9vha
 keoıtue ± `en` @mimiaoganhaqpy #ru9bFpQSb
 predicate: ‘conversation’; ▯ is a conversation between ▯.
 
+keoızu +1 `en` @Laqme #9ygT43d_N
+▯ is a conversation language.
+
 keoko ± `en` @Hoemai #Bzc4Sz6Qv
 ▯ is a member of genus Cygnus (the swans).
 
@@ -36283,6 +36298,9 @@ kıaıbo ± `en` @robintown #MHCDaijkf
 
 kıaıche ± `en` @seaqtaq #xlLeHrxvs
 ▯ is an attendant
+
+kıaıgıla ± `en` @Ilmen #9eFpNrTNe
+▯ is responsible for the well-being of, is a caretaker of ▯.
 
 kıaıhe ± `en` @Laqme #5jBc6_pah
 ▯ is a carer/caregiver to ▯.
@@ -37690,6 +37708,9 @@ koıfa ± `en` @Laqme #-sLQMaO_L
 
 koıfuq ± `en` @jiqci #RyXg0OcZ8
 ▯ is a shoe.
+
+koıfurı ± `en` @seaqtaq #l5rfW1pVe
+▯ performs an awkward little side to side shimmy as they and another who is walking in their direction both try to figure out who should move to the side of the walkway that the other may pass
 
 koıgıa ± `en` @jiqci #X2lGY7u5b
 ▯ is a treadmill.
@@ -45300,7 +45321,7 @@ mezao ± `en` @lassc #KqSmLB_2t
 mezuoı ± `en` @seaqtaq #msbfdES7z
 ▯ swarm; ▯ collectively move around
 
-mı- +1 `en` @uakci #NAS9wtQdz
+mı- +2 `en` @uakci #NAS9wtQdz
 prefix: turns the following verb X into a name marker that expects a word «Y» and turns it into the verb: ▯ is an X named «Y».
 
 mı ± `en` @official #Dgwmfsoacq
@@ -45326,9 +45347,6 @@ name verb: ‘called’; turns following phrase X into verb: ▯ is called X.
 
 mí +3 `en` @Isi #IfvZShzCx
 name pronoun: ‘NAME’; turns following word X into pronoun: the thing called X.
-
-mí +1 `en` @Laqme #d687KPzDG
-determiner: proper noun
 
 mı'aq ± `en` @uakci #Co8xgBT6z
 name verb: dear/valued X
@@ -45417,7 +45435,7 @@ mıala +2 `en` @Laqme #zCTRGnD-L
 mıalaıbıa ± `en` @Hydro #ocHNZpxAn
 ▯ suffers from a syndrome.
 
-mıam +1 `en` @uakci #fEB6VzURM
+mıam ± `en` @uakci #fEB6VzURM
 onomatopoeia: miaow
 
 ⚠ Mıama ± `en` @oldcountries #UEQbD5sN8
@@ -53858,8 +53876,14 @@ nhaqpoq +1 `en` @uakci #VW9sojaSy
 nhara ± `en` @TheAndSys #Oyboe-aQw
 ▯ is free from satisfying property ▯
 
+nhạ́roı ± `en` @Ilmen #USGtnNdSR
+anaphoric pronoun: refers back to the last róı-phrase's referents.
+
 nharu +1 `en` @robintown #B5Tm-3IHV
 ▯ is a violent storm.
+
+nhạ́ru ± `en` @Ilmen #RFzkjbQ1H
+pronoun: the connectand at the left-hand side of the current logical connection.
 
 nharuaq ± `en` @robintown #fT5EvdBMk
 ▯ promises/threatens that ▯ is the case.
@@ -71254,6 +71278,9 @@ tehujıo +1 `en` @jiqci #m8H_pZ1ru
 tehula +1 `en` @jiqci #_DOHTO5Qm
 ▯ buries ▯.
 
+tehupam ± `en` @seaqtaq #tdxvrg7u_
+▯ is an epitaph
+
 tehupıo ± `en` @jiqci #Nl8By6-Gk
 ▯ is a tombstone.
 
@@ -71493,6 +71520,9 @@ temoaq ± `en` @uakci #WWrKpbCVk
 
 temoq ± `en` @Laqme #M2eLdHFo4
 ▯ is a question.
+
+tena ± `en` @seaqtaq #5qgzOUHRf
+▯ is ultimate / final / the last
 
 tenısı ± `en` @Hoemai #ivMPC6P8t
 ▯ is tennis (game).
@@ -73801,7 +73831,7 @@ Tohaqzu ± `en` @jiqci #FhTxkUmrf
 tohe ± `en` @uakci #kEfjg-yqm
 sentence connector: “in other words…”, “to recap…”
 
-tohoı +1 `en` @Ilmen #BtfyhqM3e
+tohoı ± `en` @Ilmen #BtfyhqM3e
 ▯ is the connectand at the left-hand side of the current logical connection.
 
 tohoq ± `en` @Ilmen #DHLWZVZfn
