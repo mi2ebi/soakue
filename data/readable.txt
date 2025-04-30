@@ -9815,6 +9815,12 @@ chıchao ± `pl` @jiqci #gnlI5euYs
 chıchedu ± `en` @lassc #g2bzTfNoD
 ▯ fools/manipulates/gaslights ▯ into thinking ▯.
 
+chıcheu ± `en` @kazoo #s6ymdSVeM
+▯ believes in lie ▯.
+
+chıcheudua ± `en` @kazoo #Pi_8Hv6wM
+▯ believes in obvious lie ▯.
+
 chıchı +1 `en` @uakci #rWH4YgVRe
 ▯ is a chirp-chirp bird.
 
@@ -12283,6 +12289,9 @@ chutoa ± `en` @uakci #FcAgNgiQa
 
 chutoaı ± `en` @seaqtaq #2KDNnW1ZD
 ▯ is a meson
+
+chuze ± `en` @TheAndSys #v6b7jdemi
+▯ is inappropriate
 
 chuzu ± `en` @uakci #r-8GWzuZ-
 ▯ is a Chinese language.
@@ -20578,8 +20587,17 @@ gıaleoq ± `en` @uakci #cqPghrKE7
 gıam +1 `en` @robintown #oK5WPh9oU
 ▯ moves around / is in motion.
 
+gıamfuaq ± `en` @Laqme #tCy-gLfB8
+▯ is an animation.
+
+gıamfuaqche ± `en` @Laqme #utyi4KG3N
+▯ is an animator.
+
 gıamhua ± `en` @Laqme #CVdM1q0Xx
 ▯ is a muscle.
+
+gıamkaı ± `en` @Laqme #gLM0FxCn4
+▯ animates / makes animation ▯.
 
 gıanoke ± `en` @TheAndSys #_qPEXfQUN
 ▯ is a flashbang (a hand grenade that produces a very bright flash in order to disorient its target)
@@ -21105,6 +21123,9 @@ predicate: ‘promise’; ▯ promises to ▯ to satisfy property ▯, which is 
 
 gınue ± `pl` @jiqci #K62dYoApJ
 ▯ obiecuje ▯, że spełni własność ▯, z korzyścią dla tego drugiego.
+
+gınherı ± `en` @seaqtaq #H6RQ67Qcl
+▯ experiences something akin (but not necessarily identical to) joy or relief at feeling a flash of emotion which interrupts the current, somewhat intense emotional state they are experiencing, in which they happened to be fairly engrossed
 
 gıo- ± `en` @evie #suhWX3csW
 turns a time unit X into 'the distance light travels in one X'
@@ -27696,6 +27717,9 @@ huınue ± `pl` @jiqci #X7zU_Uj5S
 
 huınuq'o ± `en` @robintown #Nnyfr8ImI
 ▯ takes revenge on ▯.
+
+huınherı ± `en` @seaqtaq #Ut4Gx5JhA
+▯ experiences something akin (but not necessarily identical to) annoyance or impatience at feeling a flash of emotion which interrupts the current, somewhat intense emotional state they are experiencing, in which they happened to be fairly engrossed
 
 huıpaq ± `en` @lassc #6aj4ra8TB
 ▯ is a discontent/undesirable property of ▯.
@@ -46613,6 +46637,9 @@ moaqja ± `en` @Laqme #ca-URhPNV
 moaqjı ± `en` @Ilmen #nXZlp0ncK
 I remember here and now that ▯ is the case.
 
+moaqjuo ± `en` @Laqme #uWDxhMrQd
+▯ is a note / memo / (written) reminder.
+
 moaqjuqzueq ± `en` @Ilmen #ptiw2aSZQ
 ▯ is out of available memory space.
 
@@ -53990,6 +54017,9 @@ prefix: turns verb X into verb meaning ▯ is X to degree/amount ▯
 nheq ± `en` @lassc #bEq6RsvQH
 interjection: "bleh", "hehe [hands placed to head]", expression of bashfulness/whimsy
 
+nherı ± `en` @seaqtaq #xdfHHV20T
+▯ experiences a flash of emotion which interrupts the current somewhat intense emotional state they are experiencing, in which they happened to be fairly engrossed
+
 nheu ± `en` @Ilmen #tKeNyu2Cy
 tone-inflecting particle: sequence initiator.
 
@@ -55111,6 +55141,9 @@ pambo ± `en` @Laqme #II1ydMeJP
 
 pamdamkao ± `en` @jiqci #ha91chrsQ
 ▯ is a screenshot.
+
+pamgıam ± `en` @Laqme #_Uwy3wUna
+▯ (a picture) animates.
 
 pamkea ± `en` @salarua #LIq-MALry
 predicate: ‘projector’; ▯ is a projector
@@ -91539,7 +91572,7 @@ boe(sıu)guaq ± `en` @seaqtaq #i9v-Ha7kG
 ⚠ buby ± `en` @uakci #JJylsag43
 ▯ feels good / has a good feel/vibe/air to it.
 
-⚠ buchıcheykuq ± `en` @uakci #3dXXHTVRL
+⚠ buchıcheykuq -1 `en` @uakci #3dXXHTVRL
 ▯ says ▯ to ▯ with the intention that they believe it, knowing that it is false; ▯ lies by saying ▯ to ▯.
 
 ⚠ bulututy ± `en` @salarua #ohr4G9I0X
@@ -91674,43 +91707,43 @@ cheaq(gı)chı ± `en` @seaqtaq #AbE9sNwKy
 ⚠ checy -1 `en` @el #ucdaKLBXh
 ▯ is unstably/precariously true; ▯ unstably/precariously satisfies ▯ (JEO frame)
 
-⚠ chey ± `en` @uakci #n_gLDx0ap
+⚠ chey -1 `en` @uakci #n_gLDx0ap
 ▯ tricks ▯ into satisfying property ▯.
 
-⚠ cheychuo ± `en` @uakci #VrqPQ_6da
+⚠ cheychuo -1 `en` @uakci #VrqPQ_6da
 ▯ is a trap.
 
-⚠ cheycıa ± `en` @uakci #7wa47sQnC
+⚠ cheycıa -1 `en` @uakci #7wa47sQnC
 ▯ does ▯ without malicious intent / honestly (in one sense).
 
-⚠ cheytao ± `en` @Laqme #UyZNe3wJG
+⚠ cheytao -1 `en` @Laqme #UyZNe3wJG
 ▯ performs trickery/deception ▯.
 
-⚠ cheyteoq ± `toa` @fagri #vxR6MyV7i
+⚠ cheyteoq -1 `toa` @fagri #vxR6MyV7i
 Chuo chey ja teoq; Ja teoq bı, chıaı ke dü duafuı due hóa téoq
 
-⚠ cheyteoq ± `en` @uakci #JMi06dUsP
+⚠ cheyteoq -1 `en` @uakci #JMi06dUsP
 ▯ is a trick question.
 
-⚠ cheytaı ± `en` @uakci #KTcUFYTZI
+⚠ cheytaı -1 `en` @uakci #KTcUFYTZI
 ▯ socially engineers ▯ into satisfying property ▯.
 
-⚠ cheykuq ± `en` @uakci #L1t-ZtqeQ
+⚠ cheykuq -1 `en` @uakci #L1t-ZtqeQ
 ▯ communicates in such a way as to invoke from ▯ response ▯; ▯ speaks slyly to ▯ to trick them into satisfying property ▯.
 
-⚠ chey ± `toa` @uakci #gFUrdqSv0
+⚠ chey -1 `toa` @uakci #gFUrdqSv0
 ja toı ja mu ja cuaq bı toı tóı mú pùoq tâo mú cúaq cy, ru la bu aoshao mú róu
 
-⚠ cheynhoy ± `en` @Laqme #Z14tjxT3_
+⚠ cheynhoy -1 `en` @Laqme #Z14tjxT3_
 ▯ is a hoax.
 
-⚠ cheycua -1 `en` @uakci #bKPKza_gh
+⚠ cheycua -2 `en` @uakci #bKPKza_gh
 ▯ falls for trick / takes the bait of satisfying property ▯, thereby getting tricked into property ▯.
 
-⚠ chıchey ± `en` @uakci #EboXXQGM4
+⚠ chıchey -1 `en` @uakci #EboXXQGM4
 ▯ fools/manipulates/gaslights ▯ into thinking ▯.
 
-⚠ chıcheykuq ± `en` @uakci #bf6omb9RB
+⚠ chıcheykuq -1 `en` @uakci #bf6omb9RB
 ▯ lies in saying ▯ to ▯; ▯ says ▯ to ▯, something that is known untrue to the former.
 
 ⚠ chıekoy ± `en` @Machy #zzP7sYtCj
@@ -91773,7 +91806,7 @@ as seldom occurs
 ⚠ dã -2 `en` @Machy #cbpyueBko
 Head-initial assertive illocution
 
-⚠ dechey +1 `en` @Laqme #7ztqPXJed
+⚠ dechey ± `en` @Laqme #7ztqPXJed
 ▯ charms/seduces ▯ into satisfying property ▯.
 
 ⚠ Dehaq/Guqkorea ± `en` @countries #F6hSaWuUfSz
@@ -92418,7 +92451,7 @@ kuaıruo(he) ± `en` @seaqtaq #Oced9WUUN
 ⚠ kuhachıkyq ± `en` @Machy #WzGf6v8C8
 ▯ is a nacho.
 
-⚠ kuqchey ± `en` @Laqme #dsbniYHzK
+⚠ kuqchey -1 `en` @Laqme #dsbniYHzK
 ▯ tells lie ▯ (quote).
 
 ⚠ kushumy ± `en` @robintown #nyRKmrlDa
@@ -92586,7 +92619,7 @@ name verb: ▯ is called X (referred to diminutively).
 ⚠ mısotuzy ± `en` @Hoemai #8AcEXKT4m
 ▯ is miso soup.
 
-⚠ mıuchey ± `en` @uakci #4DkGNIuFm
+⚠ mıuchey -1 `en` @uakci #4DkGNIuFm
 ▯ engineers in ▯ conviction ▯; ▯ “recruits” ▯ into belief ▯.
 
 ⚠ mıybo -1 `en` @oldofficial #dCpiUPGM3Fg
@@ -92775,7 +92808,7 @@ pejorative demonstrative (points out / singles out a referent in a decrying/demo
 ⚠ noy +1 `en` @akesi #HNfwskBLG
 ▯ is liquid
 
-⚠ nuaıchey ± `en` @uakci #ktyzdDCCo
+⚠ nuaıchey -1 `en` @uakci #ktyzdDCCo
 ▯ pulls a financial scam/scheme on ▯.
 
 ⚠ nuaoduy ± `en` @uakci #5rW_A9arQ
@@ -93177,7 +93210,7 @@ terminator: terminate statement
 ⚠ shabu'oty -1 `en` @salarua #krYduF2Ce
 ▯ is Shavuot/the Feast of Weeks
 
-⚠ shaıchey ± `en` @uakci #dUujJHbtY
+⚠ shaıchey -1 `en` @uakci #dUujJHbtY
 ▯ scams ▯ out of property ▯.
 
 ⚠ sheqly ± `en` @Laqme #61o_tRvw6
@@ -93237,7 +93270,7 @@ in state of affairs ▯, the semantic roles of both AGENT and PATIENT are assume
 ⚠ tekyı -1 `en` @seaqtaq #LcgXdD729
 in state of affairs ▯, the semantic role of PATIENT is assumed by ▯
 
-⚠ teqchey ± `en` @uakci #8LcBW2PwY
+⚠ teqchey -1 `en` @uakci #8LcBW2PwY
 ▯ sets ▯ up for the purchase of ▯; ▯ lures ▯ into buying ▯ (e.g., with sensory marketing, subliminal cues…).
 
 ⚠ teshy ± `en` @Machy #2aVIYPqY2
@@ -93598,7 +93631,7 @@ Let us eat.
 ⚠ Cua chũı líqdeo -1 `en` @examples #HwvO1m-N0a
 (B0030) The girls answered quickly
 
-⚠ chey tao ± `en` @uakci #KcvsuY0cI
+⚠ chey tao -1 `en` @uakci #KcvsuY0cI
 ▯ tricks ▯ into doing property ▯, supposedly of their own will.
 
 ⚠ Deq kuq bébe shú ‹mama› rú shú ‹papa› da. ± `en` @examples #ZrZJ_OlFyFdp
