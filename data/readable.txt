@@ -4700,6 +4700,9 @@ buabeo ± `en` @Ilmen #bQMullluZ
 buabeo ± `en` @seaqtaq #KYAuIe_5r
 ▯ migrates to region/location ▯
 
+buabı ± `en` @salarua #NQ28NV41G
+number: 1.844674407×10¹⁹
+
 buachao ± `en` @Ilmen #DO5UQsoCO
 ▯ is a van / mobile home / motor home.
 
@@ -7307,6 +7310,9 @@ cıepoq ± `en` @fagri #JXKXGXELI
 cıeq ± `en` @Machy #hknR62apH
 scientific notation incorporating verb: turns following numbers X and Y into verb: ▯ is X * 10^Y.
 
+cıeqchuom ± `en` @salarua #urEEHT_bu
+number: 3.402823669×10³⁸
+
 cıeqde ± `en` @jiqci #4LmsIL8AJ
 ▯ is fine / exquisite / elaborate.
 
@@ -7478,6 +7484,9 @@ cırıtoekea ± `en` @jiqci #0-LWsx4qy
 cıseı ± `en` @Machy #ta3jzhjwK
 ▯ shills ▯.
 
+cısu ± `en` @evie #mlJtydSGc
+▯ is a morpheme
+
 cıshaq ± `en` @jiqci #wxtON0zwm
 ▯ is a yew tree (genus Taxus).
 
@@ -7648,6 +7657,9 @@ coeboe ± `en` @fagri #3r2SLT86g
 
 coebuı ± `en` @uakci #ZU0J8AOML
 ▯ is offline from ▯.
+
+coecısu ± `en` @evie #Vv7Ab4ivT
+▯ is a bound morpheme
 
 coecuq ± `en` @Laqme #BQJbVX5qM
 ▯ disconnects from ▯.
@@ -7850,7 +7862,7 @@ Particle: "directed at". A poi-like that adds the phrase "... intending that [..
 cu- ± `en` @salarua #NXy24X4Ha
 prefix: pejorative
 
-cu ± `en` @Laqme #NSPwLIb2q
+cu +1 `en` @Laqme #NSPwLIb2q
 ▯ happens with recipient ▯.
 
 cua ± `en` @official #Cxk9NJMY9
@@ -13139,6 +13151,9 @@ predicate: ‘following’; ▯ is following to ▯ in time.
 daqsıe ± `pl` @jiqci #h_GkDr0tEl
 ▯ czasowo następuje po ▯.
 
+daqso ± `en` @kazoo #_Z1lxDXeY
+▯ is the musical note C sharp/D flat.
+
 daqsono ± `en` @jiqci #nfmaXRiNN
 ▯ occurs for a while / for some time.
 
@@ -14596,6 +14611,9 @@ doatao ± `en` @xorxes #9ORhDFLZs
 doba +1 `en` @uakci #Vdfbp7-lr
 interjection: “hand this over to me”
 
+dobı ± `en` @salarua #d0mn1aMWm
+number: 65536
+
 docua ± `en` @jiqci #tjyXnkCQw
 ▯ is a cardinal (genus Cardinalis).
 
@@ -15075,6 +15093,9 @@ dosıkaokı ± `en` @jiqci #DB7vvTqLC
 
 dosısodı ± `en` @jiqci #jMBdegz0S
 ▯ is sodium hydroxide / NaOH / caustic soda.
+
+doso ± `en` @kazoo #REOaOW7hY
+▯ is the musical note C.
 
 dosoa ± `en` @lassc #vwRK-3jFN
 ▯ donates ▯.
@@ -17260,6 +17281,9 @@ faqrurı +1 `en` @uakci #GA2DjVWuS
 faqsım ± `en` @seaqtaq #cXEWKBNug
 ▯ rarely/seldom/hardly every occurs
 
+faqso ± `en` @kazoo #2-WHLsiz-
+▯ is the musical note F sharp/G flat.
+
 faqsuım ± `en` @Laqme #aJ0PHUDFD
 ▯ organizes / plans event ▯.
 
@@ -17361,6 +17385,9 @@ fasına ± `en` @jiqci #tuME8EFKF
 
 fasıu ± `en` @fagri #h0vEjqSaW
 ▯ follows ▯
+
+faso ± `en` @kazoo #eyZJNltqU
+▯ is the musical note F.
 
 fashaı +1 `en` @uakci #RSo3pV0uZ
 ▯ stops/halts.
@@ -24994,6 +25021,9 @@ interjection: wait, what?
 hem- +1 `en` @uakci #pSgaA44Lz
 prefix: derives a verb describing an innate/essential/(personality) characteristic: ▯ is the kind of person/(thing) who X’s.
 
+hem ± `en` @salarua #NYmQQJ5m1
+number: 16
+
 hema ± `en` @seaqtaq #_yM-umJG4
 ▯ screws up to their own detriment by revealing information or taking some action that betrays what ▯ has said/done in support of them
 
@@ -28288,6 +28318,9 @@ start editorial parenthetical (closed by **kı**)
 ıe'a ± `en` @lassc #xiav5BkeU
 onomatopoeia: "shrink", "retract", "deflate"
 
+ıeı ± `en` @robintown #RbTVX0qIA
+interjection: ‘eek’; fear, screaming; aah!
+
 ıeq +2 `en` @Laqme #b0jZ1RdbD
 sentence connector: "I mean..." "or rather..." (aborting and correcting the previous sentence)
 
@@ -29134,6 +29167,9 @@ prefix: properly, actually, in the literal/strict sense
 
 ıu +3 `en` @uakci #mm9Rlfo1v
 ▯ is the case in the real world rather than hypothetically.
+
+ıubı ± `en` @salarua #M9GpX27ma
+number: 4,294,967,296
 
 ıuha +1 `en` @Laqme #Asbt1YcOP
 ▯ satisfies property ▯ more than it really does.
@@ -32012,6 +32048,9 @@ jıqtua ± `en` @TheAndSys #4JJMXOHtZ
 
 jıqtue ± `en` @Laqme #b5_3DbqaE
 ▯ is a fact.
+
+jıqtue ± `en` @evie #XFMK3aa6z
+▯ is ▯'s existence
 
 jıqtuq ± `en` @uakci #VU5OvFC9y
 ▯ is the universe.
@@ -37478,6 +37517,9 @@ Koasatızu ± `en` @funbreaker #U7NDF6UDm
 koasıaı ± `en` @TheAndSys #rCxqQ-KqG
 ▯ is cold-blooded
 
+koasoıcheq ± `en` @jiqci #OUUWdxebS
+▯ is a cold war.
+
 koasoq ± `en` @seaqtaq #XVa2l2D7i
 ▯ has a temperature of absolute zero
 
@@ -39113,6 +39155,9 @@ kuoq'akaı ± `en` @seaqtaq #aczk5T3z7
 kuoq'akaılıe ± `en` @seaqtaq #YyYOQtI1g
 ▯ feels bone-soreness/bone-ache; ▯experiences the sensation of soreness or ache that feels so deep as to be emanating from one's bones
 
+kuoq'eso ± `en` @jiqci #zWYzfLGWe
+▯ is a gar (family Lepisosteidae).
+
 kuoqbeanoso ± `en` @Hydro #ahs49bUJW
 ▯ suffers from osteoarthritis (OA).
 
@@ -40290,6 +40335,9 @@ laqruoq ± `en` @robintown #7wMGjTJiX
 laqsaq ± `en` @Laqme #bG6iCpJgb
 ▯ is a triad (chord).
 
+laqso ± `en` @kazoo #YzJag3RG2
+▯ is the musical note A sharp/B flat.
+
 laqsom +1 `en` @Laqme #LiBnT2zWx
 ▯ tunes musical instrument ▯.
 
@@ -40367,6 +40415,9 @@ predicate: ‘cirrostratus.cloud’; ▯ is a cirrostratus cloud
 
 lasapuao ± `en` @salarua #x7RmkCLEE
 predicate: ‘cirrus.cloud’; ▯ is a cirrus cloud
+
+laso ± `en` @kazoo #IdFLQkgby
+▯ is the musical note A.
 
 lasoaı ± `en` @jiqci #XPPqCeLOD
 ▯ is a laser ray.
@@ -41030,6 +41081,9 @@ lıaı +1 `en` @robintown #cvE4beEb8
 
 lıaı ± `pl` @jiqci #xD8UARKksC
 ▯ pływa/unosi się.
+
+lıaıcısu ± `en` @evie #GDbAXRr--
+▯ is a free morpheme
 
 lıaıfuq ± `en` @Laqme #RkXL9zlAp
 ▯ is an article of swimwear.
@@ -46325,6 +46379,9 @@ Name verb: sarcastic honorific
 ⚠ Mısaragua -1 `en` @oldcountries #nnxawHX5M3
 ▯ is the country Egypt – Arab Republic of Egypt.
 
+mıso ± `en` @kazoo #tWBkOnYTu
+▯ is the musical note E.
+
 mıshı ± `en` @uakci #XFDpLiYRt
 name verb: St., Saint
 
@@ -47465,6 +47522,9 @@ moraı ± `en` @Machy #CuReFMZOk
 Morana +1 `en` @jiqci #ujN6MWay8
 ▯ is the Grim Reaper / personified Death.
 
+mọreqsajeshorıraqshıq ± `en` @kazoo #pmoNHZm3X
+▯ is the Eiffel Tower.
+
 morı +1 `en` @Ilmen #lS8Uco2pA
 ▯ is an ant.
 
@@ -47489,6 +47549,9 @@ morurı ± `en` @uakci #BR-x4g-55
 mose ± `en` @uakci #9QGc0rkCg
 ▯ is a quote/quotation.
 
+mọseq ± `en` @kazoo #h2cOR_NvH
+▯ is an area stretching from Occitan to  Georgia - Russia, from middle of Saudi Arabia to half of Algeria.
+
 mosıe ± `en` @seaqtaq #E9dVi0w-W
 [MO] ▯ then says [text]
 
@@ -47497,6 +47560,9 @@ mosıu ± `en` @seaqtaq #NeBt3YWhj
 
 mosıu ± `en` @el #W9cYfhQo6
 in MO; begin full-text quote terminated by **teo**, produces predicate "▯ is some text along the lines of / with the same pragmatic function / meaning as [text]"
+
+mọsosorofofetaq ± `en` @kazoo #UgtPyfFBm
+▯ is the White House.
 
 mote +1 `en` @Lori #EiPjK-b62
 ▯ is the 'motte' part of a motte-and-bailey fallacy; ▯ is an uncontroversial opinion, used to misrepresent a more controversial opinion. See 'beılı'.
@@ -50318,6 +50384,18 @@ neqtuelıe ± `en` @seaqtaq #fGbUx2387
 neqzıu ± `en` @TheAndSys #3ayJ6PEsf
 ▯ is the chance of ▯ taking place
 
+nereu ± `en` @jiqci #s4Hu0Hv4l
+predicatizer: turns a number n into a verb saying: ▯ is the case n times more than ▯ is.
+
+nereugo ± `en` @jiqci #WSeWySziY
+predicatizer: turns a number n into a verb saying: ▯ is the case n times less than ▯ is.
+
+nereuhuaq ± `en` @seaqtaq #P6gCSBhxK
+▯ is x times more the case than ▯
+
+nereukuoı ± `en` @seaqtaq #PzQaF20d-
+▯ is x times less the case than ▯
+
 nerıe ± `en` @Ilmen #kVnoNocrd
 number ▯ is in the range [▯, ▯].
 
@@ -51058,6 +51136,9 @@ nıetuaıfuom ± `en` @seaqtaq #tQwuoAcdZ
 
 nıezobo ± `en` @Laqme #xusvhLUgc
 ▯ are underpants.
+
+nıfa ± `en` @jiqci #kO2xY4sva
+▯ is a fin (body part).
 
 nıfı ± `en` @salarua #6w5WdfGZK
 number component: nif
@@ -55688,9 +55769,6 @@ peha ± `en` @el #kRcC2OMGS
 peı- ± `en` @seaqtaq #WqdlJZD8-
 prefix: 'antimiddle voice': promotes subject in saliency, disallows referencing the object through even oblique semantic role marking
 
-peı +1 `en` @Laqme #qGdH_DOUc
-determiner: “the number X”
-
 peı ± `en` @Ilmen #ij6o9snNb
 ▯ is the cardinality of anything satisfying property ▯.
 
@@ -55702,6 +55780,9 @@ peı ± `toa` @Ilmen #dNnhvCsQk
 
 peı ± `toa` @Ilmen #AyP0h-T7b
 = tulı pûıne ▯ ja na ▯.
+
+peı ± `en` @Laqme #qGdH_DOUc
+determiner: “the number X”
 
 peı ± `jbo` @el #MAOyteX3A
 ca'e ku'antora valsi gi'e smudu'i zo {li}
@@ -59250,6 +59331,9 @@ raqse ± `en` @uakci #FxfDLLq_z
 raqsıaruaq ± `en` @seaqtaq #81wCqkVPN
 ▯ renounces ▯, declaring that the former is no longer in relation ▯ with the latter
 
+raqso ± `en` @kazoo #RZc1VaY2s
+▯ is the musical note D sharp/E flat.
+
 raqsoı ± `en` @Laqme #S59985zCy
 ▯ challenges/debates ▯ on matter ▯.
 
@@ -59954,6 +60038,9 @@ rerıduache ± `en` @Snow #UyFHfaMYi
 
 rerısaı ± `en` @uakci #31-lNd7Dg
 ▯ is hallucinogenic/psychedelic.
+
+reso ± `en` @kazoo #M41say_xD
+▯ is the musical note D.
 
 retete ± `en` @seaqtaq #v73j3gIcc
 ▯ sputters
@@ -63214,6 +63301,9 @@ predicate: ‘tricycle’; ▯ is a tricycle.
 saqsıoq ± `pl` @jiqci #CGD6kXIwiD
 ▯ to trycykl/trójkołowiec.
 
+saqso ± `en` @kazoo #blVv_7boW
+▯ is the musical note G sharp/A flat.
+
 saqsofoq ± `en` @Laqme #5TKmqyJbM
 ▯ is a saxophone.
 
@@ -65236,6 +65326,9 @@ sısıarıo ± `en` @jiqci #z9t7byqlj
 sısıaseao ± `en` @Laqme #xDClmFJm6
 ▯ is a general anaesthetic.
 
+sıso ± `en` @kazoo #MKfwZQuhG
+▯ is the musical note B.
+
 sısue ± `en` @Ilmen #nWSbeAFER
 ▯ calls/requests attention from ▯.
 
@@ -65314,6 +65407,9 @@ sıumuo ± `jbo` @seaqtaq #gLcyPErkQ
 
 sıuq +1 `en` @TheAndSys #qBDLZVZcT
 interjection: 'like'; Delayed filler
+
+so- ± `en` @kazoo #GqUpLXLcn
+prefix: chord notation
 
 so +1 `en` @Machy #XMTv7iECL
 Complementizer: non-polar question
@@ -66059,6 +66155,9 @@ predicate: ‘sewing.needle’; ▯ is a sewing needle
 
 soropoꝡafeu ± `en` @jiqci #_ehpJBfB_
 ▯ is a stroopwafel.
+
+soso ± `en` @kazoo #4ewVVvCul
+▯ is the musical note G.
 
 sosonohakoceaq ± `en` @jiqci #Em6PFctcW
 ▯ is Sosnowsky's hogweed (Heracleum sosnowskyi)
@@ -71516,9 +71615,6 @@ teıtıao ± `en` @Laqme #YXnc1SsUr
 ▯ and ▯'s shapes fit together.
 
 teıtoaı ± `en` @seaqtaq #gXLxrgLZe
-▯ is a morpheme
-
-teıtoaı ± `en` @seaqtaq #-oaHu5e44
 ▯ is a morpheme
 
 teıtoq ± `en` @jiqci #wWiGw9pBj
@@ -78153,6 +78249,9 @@ She has long legs.
 Bua jí Éoropa da. ± `en` @examples #I5eyQdAB5lne
 I live in Europe.
 
+Buajıo bạBao ± `en` @jiqci #PA-ar1zGN
+▯ is the White House.
+
 Buajıo máq da. ± `en` @examples #TsO6rZUZq14
 It's a house.
 
@@ -81464,6 +81563,9 @@ You come with me to the home.
 
 Gaq súq jí, lä fa já poq búe da. ± `en` @examples #j4U1vxqigKaf
 You come with me to the home.
+
+Gearı pomı Aıfele ± `en` @jiqci #fq9Bb9Zjr
+▯ is the Eiffel Tower.
 
 ⚠ Geı jíbo lıqfu sa cuı da. -1 `en` @oldexamples #MdcgrkIJhy3
 My daughter is wearing something magenta.
@@ -92622,7 +92724,7 @@ name verb: ▯ is called X (referred to diminutively).
 ⚠ mıqly ± `en` @Laqme #_8fAl7H34
 ▯ is a pearl.
 
-⚠ mısotuzy ± `en` @Hoemai #8AcEXKT4m
+⚠ mısotuzy -1 `en` @Hoemai #8AcEXKT4m
 ▯ is miso soup.
 
 ⚠ mıuchey -1 `en` @uakci #4DkGNIuFm
