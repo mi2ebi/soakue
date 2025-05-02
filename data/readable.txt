@@ -2354,14 +2354,14 @@ be'ıtı ± `en` @Ilmen #s5Bhp2inw
 bea ± `en` @official #iMkC0s-ipR
 predicate: ‘hinge.joint’; ▯ is a knee/elbow/knuckle.
 
+bea +1 `en` @jiqci #ib-K1D2nJ
+▯ is a hinge.
+
 bea ± `ja` @Laqme #fe5Qodw7f
 ▯は節／関節／膝（ひざ）／肘（ひじ）
 
 bea ± `tok` @nano #Mj9j-IcbE
 ▯ li ijo sijelo ni: ona li ken e tawa sijelo sama lupa.
-
-bea ± `en` @jiqci #ib-K1D2nJ
-▯ is a hinge.
 
 bea ± `pl` @jiqci #mNc6td4WWh
 ▯ to zawias/staw zawiasowy.
@@ -2375,7 +2375,7 @@ beabuı ± `en` @jiqci #J8IlszjSk
 beacıq ± `en` @seaqtaq #E4mLlwskk
 ▯ pops their knuckle/joint
 
-beagoa ± `en` @Ilmen #aoe23sciy
+beagoa +1 `en` @Ilmen #aoe23sciy
 ▯ is a corner.
 
 beaı +2 `en` @Laqme #OgWeas8c4
@@ -2408,7 +2408,7 @@ beajıoqkea +1 `en` @Ilmen #f2KUNXbzc
 beakuoq +1 `en` @jiqci #I3m4jI6YG
 ▯ is a patella/kneecap.
 
-beamuao ± `en` @robintown #ZwUGgRg9J
+beamuao +1 `en` @robintown #ZwUGgRg9J
 ▯ is a cypress tree (the kind with knees).
 
 beanoso ± `en` @Hydro #Q9hwguaFq
@@ -2465,7 +2465,7 @@ beaqme ± `en` @uakci #eM7uczqU7
 beaqnıu +1 `en` @akesi #HxHaaQAm4
 ▯ is bamboo (subfamily Bambusoideae)
 
-beaqnhuo ± `en` @uakci #K1XdeGq7O
+beaqnhuo +1 `en` @uakci #K1XdeGq7O
 ▯ is a ladder.
 
 beaqsıu -1 `en` @seaqtaq #XQzMKduHe
@@ -4376,6 +4376,9 @@ To, że ▯ zachodzi, zapobiega/uniemożliwia zajście ▯.
 boq ± `en` @Isi #oPKFOa9-4
 predicate: ‘prevent’; ▯ prevents ▯ from happening.
 
+boqbeaq ± `en` @Laqme #XrhAhgu8m
+▯ is a backslash.
+
 boqboq +1 `en` @jiqci #LmBzX5HHi
 ▯ knocks on door ▯.
 
@@ -4501,6 +4504,9 @@ bọreo ± `en` @Laqme #D2tOPUQ_k
 
 borepue ± `en` @jiqci #RBvTTPPZG
 ▯ has flatfoot.
+
+boretı ± `en` @kazoo #E_zfxa3df
+▯ is etliekmek (traditional Turkish food; long, flat bread topped with a thin layer of seasoned ground meat, onions, and spices, then baked until crisp)
 
 boroıka ± `en` @Ilmen #HU4MOG9MM
 The members of ordered pair ▯ exchange possession of the members of ordered pair ▯, ordered according to whom in the first pair initially possessed which in the second pair.
@@ -7265,7 +7271,7 @@ cıe ± `ru` @SuperSpaceNiM #XWqvsZLfw
 cıe ± `tr` @kazoo #Vc4gaXpov
 ▯ balıktır.
 
-cıebeaq ± `en` @robintown #fiQgoR7GY
+cıebeaq +1 `en` @robintown #fiQgoR7GY
 ▯ is a fishing rod.
 
 cıebıu ± `en` @uakci #qH-qUgLJQ
@@ -7310,7 +7316,10 @@ cıepoq ± `en` @fagri #JXKXGXELI
 cıeq ± `en` @Machy #hknR62apH
 scientific notation incorporating verb: turns following numbers X and Y into verb: ▯ is X * 10^Y.
 
-cıeqchuom ± `en` @salarua #urEEHT_bu
+cıeqchuom ± `en` @tonibrown #yNkTRDqLb
+number: 1.157920892373162×10⁷⁷
+
+cıeqchuom -1 `en` @salarua #urEEHT_bu
 number: 3.402823669×10³⁸
 
 cıeqde ± `en` @jiqci #4LmsIL8AJ
@@ -12554,7 +12563,7 @@ daobaq ± `en` @uakci #Z7etyosQI
 daobaqheq ± `en` @zearen #gBj2B_msS
 ▯ is a file system
 
-daobeaq ± `en` @jiqci #pjeSdpxXm
+daobeaq +1 `en` @jiqci #pjeSdpxXm
 ▯ is a USB stick / pen/thumb drive / memory stick.
 
 daobo ± `en` @Laqme #lXhYhmCuY
@@ -12591,7 +12600,7 @@ daodıeq ± `en` @Ilmen #nV4s7EJ8T
 ▯ transmits to ▯ data ▯.
 
 daodo ± `en` @robintown #D2dSoobCn
-▯ informs ▯ that ▯ is the case.
+▯ informs/indicates/"says" that ▯ is the case.
 
 daodoa ± `en` @el #tQqYdjyrN
 ▯ submits the data ▯ to ▯
@@ -14565,6 +14574,9 @@ doaqcıao ± `en` @seaqtaq #ADO5Rb263
 
 doaqcokı ± `en` @Machy #3yHhiqnO3
 ▯ is the city government of ▯.
+
+doaqgım ± `en` @Laqme #XEJB9bnzd
+▯ is a carillon.
 
 doaqgoeq ± `en` @Laqme #2iVAv6gxz
 ▯ is a fortification / city wall.
@@ -17069,7 +17081,7 @@ fana +1 `en` @official #sMg3P2dsJ7J
 predicate: ‘towards’; ▯ is a motion event towards ▯.
 
 fana ± `en` @Laqme #kv5InzN4p
-▯ is a motion event towards ▯.
+▯ is/leads towards ▯.
 
 fana ± `tok` @el #sYQYgcg_p
 ▯ li tawa ▯
@@ -21276,6 +21288,9 @@ gıonhoq ± `en` @jiqci #QUM_dm9jM
 
 gıonhoqkaqgaızıadoroq ± `en` @Ilmen #OPCzF9Igq
 ▯ is an optical fiber first-person view (FPV) drone (with a fiber cable spool).
+
+gıopıso ± `en` @robintown #ZKoA7KY7H
+▯ is a light bulb.
 
 gıopoa ± `en` @Ilmen #rmB3pWen4
 ▯ is opaque.
@@ -25648,7 +25663,7 @@ ca lıe juq cá líe to ra nôı ja to dîa foaq ja to shâı ıjı ra roe ja
 hıao ± `pl` @jiqci #qZb5QcbNe
 ▯ szkodzi/rani ▯.
 
-hıaobeaq ± `en` @uakci #st9QrapDd
+hıaobeaq -1 `en` @uakci #st9QrapDd
 ▯ is a sword, spear, or other wielded weapon.
 
 hıaoboq ± `en` @Ilmen #cpNLFB7E8
@@ -26469,6 +26484,9 @@ hoaıgıaq ± `en` @jiqci #pF_HDdwpn
 
 hoaıhaq ± `en` @fagri #4GLsAQ0Yj
 ▯ is leftover food
+
+hoaıjeaq ± `en` @Laqme #vt7Xf6N-s
+▯ becomes even more ▯.
 
 hoaılıe ± `en` @uakci #TrrxPr2hm
 ▯ experiences jamais vu satisfying property ▯.
@@ -30195,6 +30213,9 @@ jeıkuq ± `en` @Ilmen #tD9uaqTfz
 jeılaı ± `en` @Hoemai #lth7j4z11
 ▯ is a logo.
 
+jeılım ± `en` @Laqme #1yZ_ftvCh
+▯ recognizes individual ▯.
+
 jeıneaı ± `en` @uakci #Sg8yp9UPI
 ▯ proves their identity as ▯.
 
@@ -31124,6 +31145,9 @@ jıamtaq ± `en` @jiqci #_ygFkmJB5
 
 jıamte ± `en` @Laqme #MZNGH_pYr
 ▯ has been killed/murdered.
+
+jıamzuom ± `en` @jiqci #BCMjVr7sM
+▯ is a massacre.
 
 jıana ± `en` @Ilmen #wGZ9vq-qO
 ▯ will be the case in the future, after the focused time interval.
@@ -33096,6 +33120,9 @@ juamnulı ± `en` @robintown #-g2uQxlLK
 juamoekaze ± `en` @lassc #vPHmMSDoA
 ▯'s heart skips a beat; ▯ is surprised by a sudden feeling of anxiety/excitement.
 
+juamrıaq ± `nl` @robintown #TA_TEUQO0
+▯ is een frituur.
+
 juamtoq ± `en` @Laqme #TI9n9Grvm
 ▯ is a frying pan.
 
@@ -33368,6 +33395,12 @@ interjection: “hold this for me”
 
 jubeı ± `en` @fagri #iLK7XAc48
 Actually, ▯ is true
+
+jubo ± `en` @lassc #_4Rm6sfTW
+▯ owns/has the rights to/for ▯.
+
+jubose ± `en` @lassc #JDVSRHN4t
+▯ is something legally owned (i.e. property, assets, estates, etc).
 
 jucı +1 `en` @uakci #D8Lix5BA_
 ▯ commits crime ▯.
@@ -33791,6 +33824,9 @@ juo ± `ja` @Laqme #sozu6kw7Z
 
 juo ± `pl` @jiqci #E8YqDlT8aa
 ▯ to list.
+
+juobo ± `en` @lassc #XXAp0_50O
+▯ is a deed, a document used to prove legal ownership.
 
 juoboq +1 `en` @Laqme #EZ-jCEM9L
 ▯ "blocks" / prevents them receiving any further written messages from ▯.
@@ -39662,6 +39698,9 @@ laıbaı ± `en` @uakci #ZQUkd8w9D
 laıbala ± `en` @desca #sKxRoXh5q
 predicate: 'garbled text'; ▯ is garbled, or otherwise rendered incorrectly or unreadable in some way.
 
+laıbı ± `en` @tonibrown #MWCxWOzs0
+number: 3.402823669×10³⁸
+
 laıbo ± `en` @fagri #zJcVQUDIH
 ▯ has symbol or text ▯ written/inscribed on it
 
@@ -40154,6 +40193,9 @@ laqgeabıa ± `en` @el #D0ktLIAnF
 
 laqgeacuao ± `en` @jiqci #ES4rIrLft
 ▯ is an ultrasound.
+
+laqgearı ± `en` @Laqme #QQLRB6Csc
+▯ is a bell tower / belfry.
 
 laqgeateı +1 `en` @Ilmen #vhr7joiy7
 ▯ is a pitch-contour, tune or melody.
@@ -42174,11 +42216,11 @@ loe ± `pl` @jiqci #qLmQpWgKHz
 loe ± `tr` @kazoo #_XssyUrMT
 ▯ alev/ateştir.
 
+loebeaq +1 `en` @salarua #l-Co3I2Gj
+predicate: ‘match’; ▯ is a match (type of firestarter)
+
 loebeaq ± `en` @fagri #Y1Iob262K
 ▯ is a candle or torch
-
-loebeaq ± `en` @salarua #l-Co3I2Gj
-predicate: ‘match’; ▯ is a match (type of firestarter)
 
 loebıu ± `en` @robintown #OyQa7Dpt5
 ▯ is a chimney.
@@ -43779,7 +43821,7 @@ polarity: did you say … (yes/no)?
 mabala ± `en` @robintown #Ju1-MySBR
 ▯ is horrible/terrible/awful/wretched.
 
-mabea ± `en` @Machy #zGmm7QIcb
+mabea -1 `en` @Machy #zGmm7QIcb
 ▯ is a magic wand.
 
 mabo ± `en` @seaqtaq #xxdKTLilh
@@ -48620,10 +48662,10 @@ muqbaı ± `en` @Laqme #NwfZZij1B
 muqbaıse ± `en` @Laqme #j4AK7G0WW
 ▯ is handmade.
 
-muqbea ± `en` @Ilmen #kAbkaZoeT
+muqbea +1 `en` @Ilmen #kAbkaZoeT
 ▯ is a wrist.
 
-muqbeagıa ± `en` @el #osJ_g9LOA
+muqbeagıa +1 `en` @el #osJ_g9LOA
 ▯ is a wristband
 
 muqbo ± `en` @seaqtaq #YxUdnffZL
@@ -49142,7 +49184,7 @@ nambaıpuo ± `en` @Laqme #lcgAJOmND
 nambaıse ± `en` @Laqme #nU8pKNJlu
 ▯ is a baked good.
 
-nambeaq ± `en` @robintown #a_Af0thO2
+nambeaq +1 `en` @robintown #a_Af0thO2
 ▯ is a breadstick.
 
 nambıu ± `en` @seaqtaq #hT1KZJM_C
@@ -51155,7 +51197,7 @@ nıgoa ± `toa` @Ilmen #T7HG3DfSZ
 nıgoa ± `en` @Ilmen #PtZIUQYYh
 ▯ is here, this place.
 
-nıgu ± `en` @Ilmen #zwo6wEFZ4
+nıgu +1 `en` @Ilmen #zwo6wEFZ4
 ▯ knits ▯.
 
 nıguchea ± `en` @Laqme #Kb5CHo3CF
@@ -52787,7 +52829,7 @@ nuao ± `pl` @jiqci #iJ72VflLQF
 ⚠ nuao -1 `en` @oldofficial #n4SBNVjOGd
 predicate: ‘arch’; ▯ is an arch; ▯ arches.
 
-nuaobeaq ± `en` @uakci #EksLQzZXs
+nuaobeaq -1 `en` @uakci #EksLQzZXs
 ▯ is a spring, coil.
 
 nuaobıo ± `en` @Ilmen #cT1Qxa0U8
@@ -58223,6 +58265,12 @@ puımıeqtaı ± `en` @Ilmen #imbotnqEv
 puımıq ± `en` @Ilmen #6V6-l7857
 ▯ are infinitely many in number.
 
+puımjeoq ± `en` @Laqme #wzoZoe4Vb
+▯ is an ink trap.
+
+puımjıeq ± `en` @robintown #imjqI8Ojk
+▯ is a serif.
+
 puımkuo ± `en` @Laqme #jmy859V6d
 ▯ is pitch black / inky black.
 
@@ -60656,6 +60704,9 @@ rıoqjeqchuq ± `en` @Ilmen #G2ogHZLVR
 
 rıoqjuoı ± `en` @uakci #6nHNQDh65
 ▯ narrows down / specifies ▯ as having property ▯.
+
+rıoqlım ± `en` @Laqme #wEKUFOAX1
+▯ can tell ▯ (kind) apart.
 
 rıoqmea ± `en` @Ilmen #MD6A1MZ2H
 ▯ belongs to type/kind ▯.
@@ -63844,7 +63895,7 @@ seoqceoq ± `en` @robintown #kBfm9OoEs
 seoqceoq'acı ± `en` @jiqci #xDQFHCmoJ
 ▯ is fulminic acid.
 
-seoqceoqbeaq ± `en` @robintown #xu9u2LiRD
+seoqceoqbeaq +1 `en` @robintown #xu9u2LiRD
 ▯ is a lightning rod.
 
 seoqceoqpıo ± `en` @jiqci #eE45fLCIF
@@ -63904,7 +63955,7 @@ It isn't cloudy / the sky is clear.
 seoqlaq ± `en` @seaqtaq #E2g8drrzv
 ▯ is thunder
 
-seoqlaqbeaq ± `en` @Ilmen #stH52OSr7
+seoqlaqbeaq -1 `en` @Ilmen #stH52OSr7
 ▯ is a gun/rifle.
 
 seoqlaqbıu ± `en` @Ilmen #6HRkRNrIW
@@ -65537,6 +65588,9 @@ soaochıe ± `en` @robintown #VY8D17K1S
 soaochu ± `en` @Laqme #zfDXtTnQI
 ▯ is a/one's personality.
 
+soaochuaq ± `en` @Laqme #tNtN3Bee0
+▯ is socialism.
+
 soaodıu ± `en` @jiqci #Vq6v-GfZ3
 ▯ is sociology.
 
@@ -65675,8 +65729,50 @@ sobıetı ± `en` @Laqme #0jDtdrUrV
 Sobıetımegua ± `en` @Laqme #0y4q-54gZ
 ▯ is the USSR / Soviet Union.
 
+sọdaqfe ± `en` @kazoo #xYiaRR_xIT
+▯ is a D♭5 or C#5 chord.
+
+sọdaqgu ± `en` @kazoo #6-36_05gyf
+▯ is a D♭sus2 or C#sus2 chord.
+
+sọdaqjo ± `en` @kazoo #gZrtcfkts
+▯ is a D♭sus4 or C#sus4 chord.
+
+sọdaqke ± `en` @kazoo #QoUOOfqnCW
+▯ is a D♭dim or C#dim chord.
+
+sọdaqnu ± `en` @kazoo #Vhv98SSN9
+▯ is a D♭min or C#min chord.
+
+sọdaqpı ± `en` @kazoo #4UjPMgLBth
+▯ is a D♭aug or C#aug chord.
+
+sọdaqsa ± `en` @kazoo #lsZlxb-rW
+▯ is a D♭maj or C#maj chord.
+
 sodıum +1 `en` @uakci #olUXIlLw9
 ▯ is sodium.
+
+sọdofe ± `en` @kazoo #-Iq_MM1TNh
+▯ is a C5 chord.
+
+sọdogu ± `en` @kazoo #Pin5rN5ZK
+▯ is a Csus2 chord.
+
+sọdojo ± `en` @kazoo #cocrqvdwoC
+▯ is a Csus4 chord.
+
+sọdoke ± `en` @kazoo #b7Rod8qzn
+▯ is a Cdim chord.
+
+sọdonu ± `en` @kazoo #mAVWq0NVq
+▯ is a C minor chord.
+
+sọdopı ± `en` @kazoo #aAWJhaMlRB
+▯ is a Caug chord.
+
+sọdosa ± `en` @kazoo #mZ6NV7_HC
+▯ is a C major chord.
 
 soe ± `en` @official #WgVRxB9CZT
 predicate: ‘sour’; ▯ is sour.
@@ -65732,8 +65828,50 @@ predicate: ‘lemonade’; ▯ is lemonade
 sofa ± `en` @Hoemai #GpRdS0iLD
 ▯ is a sofa.
 
+sọfafe ± `en` @kazoo #8Kgr7kUhqS
+▯ is a F5 chord.
+
+sọfagu ± `en` @kazoo #OFsZnIyIx
+▯ is a Fsus2 chord.
+
+sọfajo ± `en` @kazoo #wcYaaIYEOg
+▯ is a Fsus4 chord.
+
+sọfake ± `en` @kazoo #4IA1k80zQ
+▯ is a Fdim chord.
+
 sofala +1 `en` @Laqme #zWI0fy6fm
 ▯ spends idle time reclining (on a sofa).
+
+sọfanu ± `en` @kazoo #ktsj7YRkp
+▯ is an F minor chord.
+
+sọfapı ± `en` @kazoo #5LIN60ZO46
+▯ is a Faug chord.
+
+sọfaqfe ± `en` @kazoo #ZyMHQsrXM2
+▯ is a G♭5 or F#5 chord.
+
+sọfaqgu ± `en` @kazoo #lXCzvjg3X9
+▯ is a G♭sus2 or F#sus2 chord.
+
+sọfaqjo ± `en` @kazoo #KjkSmADBD
+▯ is a G♭sus4 or F#sus4 chord.
+
+sọfaqke ± `en` @kazoo #EY7i2fxZsy
+▯ is a G♭dim or F#dim chord.
+
+sọfaqnu ± `en` @kazoo #Z5Uzvygrmc
+▯ is a G♭min or F#min chord.
+
+sọfaqpı ± `en` @kazoo #zhAguWl4Xk
+▯ is a G♭aug or F#aug chord.
+
+sọfaqsa ± `en` @kazoo #PIGTOX5Pt
+▯ is a G♭maj or F#maj chord.
+
+sọfasa ± `en` @kazoo #6jPtpkTqF
+▯ is an F major chord.
 
 sogao +1 `en` @robintown #nDQJ4pyJ9
 ▯ is an ordeal/inconvenience/trouble/pain to go through.
@@ -65903,6 +66041,48 @@ sokuao ± `en` @jiqci #cwJUxbOPC
 sokum +2 `en` @fagri #EubnPCo1j
 ▯ is a spoon
 
+sọlafe ± `en` @kazoo #XQOt88Je_U
+▯ is a A5 chord.
+
+sọlagu ± `en` @kazoo #_sKl904pFB
+▯ is a Asus2 chord.
+
+sọlajo ± `en` @kazoo #2xycwTALWU
+▯ is a Asus4 chord.
+
+sọlake ± `en` @kazoo #ZL1TJfhA_G
+▯ is a Adim chord.
+
+sọlanu ± `en` @kazoo #BHWAEFrCQ
+▯ is an A minor chord.
+
+sọlapı ± `en` @kazoo #lV9Q-U2oQ
+▯ is a Aaug chord.
+
+sọlaqfe ± `en` @kazoo #zARJzmtslK
+▯ is a B♭5 or A#5 chord.
+
+sọlaqgu ± `en` @kazoo #i_aCJpQXld
+▯ is a B♭sus2 or A#sus2 chord.
+
+sọlaqjo ± `en` @kazoo #ZJEE11f51
+▯ is a B♭sus4 or A#sus4 chord.
+
+sọlaqke ± `en` @kazoo #nEeO9gHXi1
+▯ is a B♭dim or A#dim chord.
+
+sọlaqnu ± `en` @kazoo #nm0SdYvd-8
+▯ is a B♭min or A#min chord.
+
+sọlaqpı ± `en` @kazoo #kq91-6g7Q1
+▯ is a B♭aug or A#aug chord.
+
+sọlaqsa ± `en` @kazoo #XTGqWgQ9e
+▯ is a B♭maj or A#maj chord.
+
+sọlasa ± `en` @kazoo #MMsANn5nc
+▯ is an A major chord.
+
 som +2 `en` @robintown #OnHW_0zPJ
 ▯ repairs/mends/fixes ▯.
 
@@ -65923,6 +66103,27 @@ somche ± `en` @Laqme #Ad3c9eieS
 
 someone ± `en` @Machy #e3kkc4C_7
 ▯ is one who should do ▯ (impersonal generic).
+
+sọmıfe ± `en` @kazoo #N7ghGIkMfd
+▯ is a E5 chord.
+
+sọmıgu ± `en` @kazoo #rFoNCE6Sax
+▯ is a Esus2 chord.
+
+sọmıjo ± `en` @kazoo #euob22sgg
+▯ is a Esus4 chord.
+
+sọmıke ± `en` @kazoo #oLD-wFXWev
+▯ is a Edim chord.
+
+sọmınu ± `en` @kazoo #HMKddfzL4
+▯ is an E minor chord.
+
+sọmıpı ± `en` @kazoo #tfRiBguqmo
+▯ is a Eaug chord.
+
+sọmısa ± `en` @kazoo #KbxkwpnWF
+▯ is an E major chord.
 
 somjıaq ± `en` @Laqme #G_CQa4U1r
 ▯ is purgatory.
@@ -66129,11 +66330,53 @@ soqtoı ± `en` @uakci #iK2zRtqE-
 ⚠ soqtou -1 `en` @uakci #3TEabjFOh
 focus marker: X and no more than this; X but nothing (contextually) more applicable or impactful than X
 
+sọraqfe ± `en` @kazoo #4lL2f3ysp3
+▯ is a E♭5 or D#5 chord.
+
+sọraqgu ± `en` @kazoo #agfsTb5TSS
+▯ is a E♭sus2 or D#sus2 chord.
+
+sọraqjo ± `en` @kazoo #MGav8S4qn
+▯ is a E♭sus4 or D#sus4 chord.
+
+sọraqke ± `en` @kazoo #n63zlL96Fl
+▯ is a E♭dim or D#dim chord.
+
+sọraqnu ± `en` @kazoo #3mlJBRWmk9
+▯ is a E♭min or D#min chord.
+
+sọraqpı ± `en` @kazoo #l-qecW4pSM
+▯ is a E♭aug or D#aug chord.
+
+sọraqsa ± `en` @kazoo #awL5GWQu4
+▯ is a E♭maj or D#maj chord.
+
 soratuda +1 `en` @jiqci #KRi631YvV
 ▯ is GOAT / goated / Greatest Of All Time.
 
 sore ± `en` @Ilmen #CMg3zOeBW
 ▯ is a red-toothed shrew (Sorex genus).
+
+sọrefe ± `en` @kazoo #TqH9Nw84S
+▯ is a D5 chord.
+
+sọregu ± `en` @kazoo #r-_X9awhwA
+▯ is a Dsus2 chord.
+
+sọrejo ± `en` @kazoo #ES05uldx-T
+▯ is a Dsus4 chord.
+
+sọreke ± `en` @kazoo #LHU9UyA5-
+▯ is a Ddim chord.
+
+sọrenu ± `en` @kazoo #TtmXABGIH
+▯ is a D minor chord.
+
+sọrepı ± `en` @kazoo #8ZPUG53DBX
+▯ is a Daug chord.
+
+sọresa ± `en` @kazoo #jAxGQANSR
+▯ is a D major chord.
 
 soresıu ± `en` @Ilmen #rsmYUeILX
 ▯ is a shrew.
@@ -66156,11 +66399,74 @@ predicate: ‘sewing.needle’; ▯ is a sewing needle
 soropoꝡafeu ± `en` @jiqci #_ehpJBfB_
 ▯ is a stroopwafel.
 
+sọsaqfe ± `en` @kazoo #WtJoUD_1Bj
+▯ is a A♭5 or G#5 chord.
+
+sọsaqgu ± `en` @kazoo #RakuCkIjxE
+▯ is a A♭sus2 or G#sus2 chord.
+
+sọsaqjo ± `en` @kazoo #hQTGXRFkW
+▯ is a A♭sus4 or G#sus4 chord.
+
+sọsaqke ± `en` @kazoo #W_MeYzP9AK
+▯ is a A♭dim or G#dim chord.
+
+sọsaqnu ± `en` @kazoo #UfJilxsEA0
+▯ is a A♭min or G#min chord.
+
+sọsaqpı ± `en` @kazoo #DeNn2i23PS
+▯ is a A♭aug or G#aug chord.
+
+sọsaqsa ± `en` @kazoo #LeESuIVj5
+▯ is a A♭maj or G#maj chord.
+
+sọsıfe ± `en` @kazoo #llfkdWl0dR
+▯ is a B5 chord.
+
+sọsıgu ± `en` @kazoo #gIOjBwGBa
+▯ is a Bsus2 chord.
+
+sọsıjo ± `en` @kazoo #UTRgZUzRp2
+▯ is a Bsus4 chord.
+
+sọsıke ± `en` @kazoo #NKlrqHiHb
+▯ is a Bdim chord.
+
+sọsınu ± `en` @kazoo #l9kOCs_aA
+▯ is a B minor chord.
+
+sọsıpı ± `en` @kazoo #wqHLrrIvvH
+▯ is a Baug chord.
+
+sọsısa ± `en` @kazoo #Ym-pHPBV6
+▯ is a B major chord.
+
 soso ± `en` @kazoo #4ewVVvCul
 ▯ is the musical note G.
 
+sọsofe ± `en` @kazoo #yY-Xt32aN7
+▯ is a G5 chord.
+
+sọsogu ± `en` @kazoo #WLLGrF_TJ
+▯ is a Gsus2 chord.
+
+sọsojo ± `en` @kazoo #WRRZg6zGIw
+▯ is a Gsus4 chord.
+
+sọsoke ± `en` @kazoo #fADZHT2Da
+▯ is a Gdim chord.
+
 sosonohakoceaq ± `en` @jiqci #Em6PFctcW
 ▯ is Sosnowsky's hogweed (Heracleum sosnowskyi)
+
+sọsonu ± `en` @kazoo #r4bKI_lOS
+▯ is a G minor chord.
+
+sọsopı ± `en` @kazoo #6R7rKjjb6
+▯ is a Gaug chord.
+
+sọsosa ± `en` @kazoo #qXNxlW8Ew
+▯ is a G major chord.
 
 sosuogoıche ± `en` @salarua #10CmoRnEO
 ▯ is an EMT
@@ -70504,6 +70810,9 @@ interjection: awe/disbelief in retrospect: "And to think..."/"I almost can't bel
 tama ± `pl` @jiqci #aQgs35T_lt
 ▯ to pomidor.
 
+tamagochı ± `en` @robintown #eZYRyPrC8
+▯ is a Tamagochi.
+
 tamaohaq ± `en` @el #nZnsf1niC
 ▯ is a tamale (steamed cornmeal dough filled with various ingredients)
 
@@ -73810,7 +74119,7 @@ toe ± `tok` @el #3btntCjAC
 toe ± `pl` @jiqci #gu0I6REeQj
 ▯ tnie ▯.
 
-toebeaq ± `en` @robintown #jnp3payKa
+toebeaq -1 `en` @robintown #jnp3payKa
 ▯ is a sword.
 
 toecırıkea ± `en` @Ilmen #Ssoj1OsQ7
@@ -91641,7 +91950,7 @@ zue jearıaq ± `en` @robintown #RZ5_jZ8Nk
 ⚠ batıny ± `en` @salarua #QrcTu8_Bi
 ▯ is Beltane/May Day
 
-⚠ beaqnaby ± `en` @Machy #uetxDNdAr
+⚠ beaqnaby -1 `en` @Machy #uetxDNdAr
 ▯ is a breadstick.
 
 ⚠ beojey -1 `en` @uakci #u3ePpkj06
