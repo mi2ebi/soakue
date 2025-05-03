@@ -755,6 +755,9 @@ interjection: 'just kidding!'
 Anaosamızu ± `en` @salarua #zVX3tzfRI
 predicate: ‘Inari.Sami.language’; ▯ is the Inari Sami language
 
+Anatorıaq ± `en` @kazoo #aiUuApOQl
+▯ is Anatolia.
+
 anemone ± `en` @Laqme #wRbogIafn
 ▯ is a sea anemone.
 
@@ -2957,6 +2960,9 @@ beqzeq ± `en` @jiqci #iSUzKK2IP
 Berabaqzu ± `en` @mimiaoganhaqpy #hKUMWJuXq
 ▯ is Eberban (a logical language).
 
+Bereoropa ± `en` @kazoo #7FTPpOPZf
+▯ is Northern Europe.
+
 bereq +1 `en` @robintown #UYU_Hu3fB
 ▯ makes a stop.
 
@@ -3715,6 +3721,12 @@ bırım ± `en` @jiqci #VoLhx8jE1
 
 bırıqjı ± `en` @Hoemai #3JEtFXmqo
 ▯ is a member of genus Oryza (rice).
+
+Bırıtaq ± `en` @robintown #WNEss_VTa
+▯ is British.
+
+Bırıtaqgua ± `en` @robintown #NTxjLQK0z
+▯ is Great Britain.
 
 bıro +2 `en` @jiqci #3dFhdAfPQ
 ▯ is a ballpoint pen.
@@ -6460,6 +6472,9 @@ caqkaqlıao ± `en` @Snow #7nBWdUcNE
 
 caqkua ± `en` @seaqtaq #Bio_jxrmG
 ▯ is a cockpit / flight deck / control room
+
+caqlıuqme ± `en` @Laqme #xqsCaYVAz
+▯ is a hierarchy.
 
 caqluaq ± `en` @seaqtaq #RG2y_GA9E
 ▯ doms ▯
@@ -12599,7 +12614,7 @@ daochue ± `en` @uakci #iJOv5RBEv
 daodıeq ± `en` @Ilmen #nV4s7EJ8T
 ▯ transmits to ▯ data ▯.
 
-daodo ± `en` @robintown #D2dSoobCn
+daodo +1 `en` @robintown #D2dSoobCn
 ▯ informs/indicates/"says" that ▯ is the case.
 
 daodoa ± `en` @el #tQqYdjyrN
@@ -16165,6 +16180,9 @@ efuela ± `en` @Laqme #-BBqoeLqt
 ege ± `en` @uakci #1htKeYsm9
 ▯ feels an unfamiliar or unsettling sensation.
 
+Egeanaomı ± `en` @kazoo #m8JcPooFy
+▯ is the Aegean sea.
+
 egebu ± `en` @evie #qN-_XjxkZ
 ▯ is maroon
 
@@ -16732,7 +16750,7 @@ eu -1 `en` @Ilmen #tsAUe2c5I
 éum ± `en` @evie #GyRnk1yr0
 anaphoric pronoun for EvAPs
 
-Eume +1 `en` @jiqci #6o9A77B4N
+Eume +2 `en` @jiqci #6o9A77B4N
 ▯ is the European Union (EU).
 
 éumo +1 `en` @evie #iv-RaCAFz
@@ -17049,6 +17067,9 @@ fakeru ± `en` @seaqtaq #lFwfl2AP4
 
 fakıq ± `en` @seaqtaq #Crsppf4oo
 ▯ is a visiplate
+
+fakıq ± `en` @Laqme #PnCEZDJK0
+▯ fucking satisfies property ▯.
 
 fakıu +1 `en` @uakci #G71Jt1aHL
 ▯ is reachable from ▯.
@@ -19426,6 +19447,9 @@ gaja +2 `en` @seaqtaq #R2exVNBOR
 gajachuaq ± `en` @salarua #edqJyMYiW
 ▯ is environmentalism/green politics
 
+Gajachuguaq ± `en` @kazoo #p1uCtf1Jn
+▯ is Mediterranea.
+
 gajakıoq ± `en` @salarua #QPpMeykSt
 ▯ is a globe
 
@@ -19675,6 +19699,9 @@ gaq ± `jbo` @Laqme #bs2TVGCqG
 gaqba ± `en` @Laqme #Sw6gdAxY8
 interjection: 'cheers!'
 
+gáqba ± `en` @Laqme #hT076ZoWI
+interjection: "shall we eat/drink?"
+
 gaqbıa ± `en` @fagri #JvHU5T1gW
 ▯ feels lonely
 
@@ -19701,6 +19728,9 @@ predicate: ‘sulfur’; ▯ is sulfur
 
 gaqdakacı ± `en` @jiqci #msX_i5vxS
 ▯ is sulfuric acid (H2SO4).
+
+gaqdaq ± `en` @Laqme #pMEAxIR13
+▯ is quality time / "time spent together".
 
 gaqdoa ± `en` @uakci #KJldb3rPl
 ▯ shares with ▯ property ▯.
@@ -26650,6 +26680,9 @@ predicate: ‘its’; ▯ is hó's (the referent of the recent animate DP's).
 hochata +1 `en` @salarua #OIXJmYuv5
 predicate: ‘horchata’; ▯ is horchata
 
+Hochoropa ± `en` @kazoo #khjUY40ss
+▯ is Eastern Europe.
+
 hochu +6 `en` @Laqme #KCX4MXm7S
 ▯ is east of ▯.
 
@@ -27135,6 +27168,9 @@ hore +6 `en` @Laqme #QFrNJmZVY
 
 horefana ± `en` @robintown #5pKxS6Qvw
 ▯ is westbound.
+
+Horeoropa ± `en` @kazoo #yM5-iGxRo
+▯ is Western Europe.
 
 horepaq ± `en` @robintown #bVInpwRV3
 ▯ is the western part of ▯.
@@ -34842,6 +34878,12 @@ kampıqrıaq ± `en` @robintown #J_W7KTuEG
 kampıqtuım ± `en` @robintown #A-k9nKDau
 ▯ is a camping chair.
 
+Kamrı ± `en` @robintown #ysQ6uJkor
+▯ is Welsh.
+
+Kamrıgua ± `en` @robintown #ZQoeas4tw
+▯ is Wales.
+
 Kanada ± `en` @sheireq #6gRfVhxmS
 predicate: 'Canadian'; ▯ is Canadian/pertains to Canada.
 
@@ -36904,6 +36946,18 @@ kımsope ± `en` @Laqme #QLF_zcWu1
 
 kımu ± `en` @jiqci #gQ5xJU7BV
 ▯ is a fist.
+
+kına +1 `en` @seaqtaq #oBIzXVGoC
+▯ is in danger; ▯ is threatened
+
+kınaja ± `en` @seaqtaq #5-c0sW7jQ
+▯ puts ▯ in danger; ▯ threatens ▯
+
+kınamıq ± `en` @seaqtaq #sKffaolLU
+▯ is damned (theological); ▯ is condemned to an eternal fate of torment
+
+kınamıqtoı ± `en` @seaqtaq #sEzzgcj09
+▯ damns ▯ (theological); ▯ condemns ▯ to an eternal fate of torment
 
 kınamom ± `en` @salarua #YJKa-mg4G
 predicate: ‘cinnamon.tree’; ▯ is a member of genus Cinnamomum (the cinnamon trees)
@@ -39166,6 +39220,9 @@ kuomochelıao ± `en` @Snow #9SZGnrjCB
 
 kuomoı ± `en` @Laqme #napyJYaDN
 ▯ ruminates / thinks depressing, negative thoughts.
+
+Kuonaomı ± `en` @kazoo #6zaDkCf8g
+▯ is the Black Sea.
 
 kuone ± `en` @Ilmen #3Op4jEwBD
 ▯ is a member of the genus Canis (the wolves, coyotes, jackals, dingoes, and dogs).
@@ -42594,8 +42651,17 @@ lomlıem ± `en` @Laqme #rhFLBHC5f
 lomluq ± `en` @Laqme #TLOxSTwHF
 ▯ is peaceful / safe (of an environment).
 
+lommıq ± `en` @seaqtaq #G0OFAK2CN
+▯ is in a state of salvation; ▯ has been saved on some deep emotional or spiritual level
+
+lommıqtoı ± `en` @seaqtaq #TO-STXlrG
+▯ is ▯'s salvation (theological); ▯ saves ▯ on some deep emotional or spiritual level
+
 lommoe ± `en` @Laqme #cB7TV39C0
 ▯ feels safe.
+
+lomna +1 `en` @seaqtaq #q8rIkopWD
+interjection: "in the clear!" / "we're safe/free!"
 
 lomsem ± `en` @seaqtaq #z1NzEeq1J
 ▯ spares ▯; ▯ lets ▯ go on, refraining from hurting them
@@ -49202,6 +49268,9 @@ namdashı ± `en` @robintown #AwYxMYoYq
 namdıem ± `en` @Laqme #FFJfg2b8N
 ▯ is a bakery.
 
+Nameoropa ± `en` @kazoo #N2GupQBsh
+▯ is Southern Europe.
+
 namı +6 `en` @Laqme #3g1LriEpC
 ▯ is south of ▯.
 
@@ -50386,6 +50455,9 @@ neqkuq ± `en` @lassc #P4Hu_H-yR
 
 neqkuq ± `en` @jiqci #mkxza_vgQ
 ▯ rambles / drivels.
+
+neqla ± `en` @seaqtaq #7kkXJzZpL
+▯ is destined/fated to satisfy property ▯; ▯ is ▯-bound
 
 neqle ± `en` @uakci #hidcV7c7B
 ▯ has a high probability of occuring.
@@ -54812,6 +54884,9 @@ omorı +2 `en` @jiqci #mUnEqFYvF
 one +3 `en` @Laqme #OF5oAGJ8a
 interjection: "babe", "honey", "dear"
 
+óne +1 `en` @Laqme #KmhHS5Llq
+interjection: "babe?", "honey?"
+
 onem ± `en` @evie #dZTgf9k9u
 ▯ is a partner of ▯
 
@@ -56915,7 +56990,7 @@ reflexive possessive reference predicate 'mine/yours/theirs': refers to somethin
 po'aqhuıtuaruaq ± `en` @Ilmen #qXFCwd1M_
 ▯ blames, accuses ▯ for ▯ being the case, which is actually the responsability of the former (the blamer/accusator).
 
-Po'ı ± `en` @uakci #eHOu-Zh-v
+Po'ı +1 `en` @uakci #eHOu-Zh-v
 ▯ is Tibetan.
 
 po'ıq ± `en` @uakci #YZB90MThV
@@ -64462,6 +64537,9 @@ in state of affairs ▯, the semantic role of SOURCE is assumed by ▯
 sıaochu ± `en` @uakci #jcbnMpCSj
 ▯ is ▯’s essence/inherent identity.
 
+sıaodıu ± `en` @seaqtaq #okdFgiewg
+▯ is protology; ▯ is the study of origins / genesis
+
 sıaodo ± `en` @seaqtaq #QepDEzmdz
 ▯ appends to the beginning of ▯, ▯
 
@@ -70811,7 +70889,7 @@ tama ± `pl` @jiqci #aQgs35T_lt
 ▯ to pomidor.
 
 tamagochı ± `en` @robintown #eZYRyPrC8
-▯ is a Tamagochi.
+▯ is a Tamagotchi.
 
 tamaohaq ± `en` @el #nZnsf1niC
 ▯ is a tamale (steamed cornmeal dough filled with various ingredients)
@@ -75747,11 +75825,17 @@ Everything satisfies property ▯; ∀x.▯‘x 
 turakı ± `en` @jiqci #xykIh-OVM
 ▯ is a jackdaw (genus Coloeus).
 
+Turakıaq ± `en` @kazoo #U2YcRlTkk
+▯ is Thracia.
+
 turue ± `en` @seaqtaq #l7NqFYDtz
 ▯ is physically weak
 
 turufe ± `en` @jiqci #kkY2TxaD4
 ▯ is a truffle (genus Tuber).
+
+Turukakıaq ± `en` @kazoo #PbMHHzNVf
+▯ is Eastern Thracia (Turkish Thracia)
 
 Turuke +1 `en` @countries #fPuGcIdcUAl
 ▯ pertains to the culture of Turkey – Republic of Turkey.
@@ -76187,6 +76271,9 @@ predicate: ‘our’; ▯ is ours (1st + 2nd person).
 
 umobo ± `toa` @robintown #y9nIDhV_h
 Po úmo ▯.
+
+umodaq ± `en` @Laqme #uu-Lf4TN5
+▯ is "us time" (time reserved for, or enjoyed by, the speaker and the listener).
 
 umpoaq ± `en` @robintown #hzK38RV4u
 ▯ runs out of memory / exhausts all available memory.
@@ -76736,6 +76823,9 @@ faux relative clause marker piecing a noun form and a subject-truncated clause t
 
 Ꝡomıq ± `en` @uakci #Bq8NbPpIf
 ▯ pertains to the US state of Wyoming.
+
+ꝡona +1 `en` @seaqtaq #PmIAQKUZp
+interjection: "watch out!" / "trouble!"
 
 ꝡoq +1 `en` @TheAndSys #GijqhFd78
 ▯ is a guy, a dude, a gal (overly casual version of poq)
