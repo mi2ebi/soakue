@@ -5360,7 +5360,7 @@ buja ± `pl` @jiqci #aiqIwru9jl
 bujaloa ± `en` @Laqme #b_61a3ArL
 ▯ is a hickey.
 
-bujanıu ± `en` @Laqme #B6smrvwJ8
+bujanıu +1 `en` @Laqme #B6smrvwJ8
 ▯ is mistletoe.
 
 bujao ± `en` @fagri #NFThhJK0o
@@ -8192,7 +8192,7 @@ cuaqshuekueqse ± `en` @uakci #LJ-vz49Qn
 cuaqtaı ± `en` @uakci #LFmnx-bnR
 ▯ reaches goal/accomplishment/hallmark/milestone ▯.
 
-cuaqtao +3 `en` @uakci #F8lzYek8e
+cuaqtao +2 `en` @uakci #F8lzYek8e
 ▯ celebrates ▯.
 
 cuaqtue ± `en` @uakci #6rwlPT9Mo
@@ -9313,6 +9313,9 @@ cheıtoq ± `en` @seaqtaq #19QHEKax8
 
 cheızeo ± `en` @jiqci #XjKN5D0bV
 ▯ is a date fruit.
+
+cheja +1 `en` @Laqme #52tKC2VuH
+▯ is a jaw.
 
 chekaq ± `en` @jiqci #C1zNcYpyD
 ▯ is a pickaxe / ice axe.
@@ -12482,6 +12485,9 @@ daıpeopaq -2 `en` @Xylochoron #99G3vs9o2
 daırabu ± `en` @jiqci #M8z_qHlxv
 ▯ may or may not be the case, may or may not have property ▯.
 
+daısı ± `en` @Laqme #uQG1mPO-Q
+▯ bewares / keeps an eye on ▯.
+
 daısıa ± `en` @seaqtaq #D65FP29-J
 ▯ is not and perhaps can not be the case
 
@@ -12856,6 +12862,9 @@ daqbıa +1 `en` @Laqme #gqMNDXrPv
 
 daqbıo ± `en` @Laqme #QUInWWAen
 ▯ is an hourglass.
+
+daqbo ± `en` @Ilmen #jzseIKiWf
+▯ is a temporal entity, an entity enduring time and possibly changes.
 
 daqboe ± `en` @uakci #ELUIKAQ63
 ▯ is a wall clock.
@@ -23803,11 +23812,11 @@ guqsıaqtıa ± `en` @Ilmen #raLLIzV7b
 guqshaq ± `en` @Ilmen #5uxj9qzIa
 ▯ is halfway between below and ahead of ▯.
 
-guqsheaq ± `en` @seaqtaq #MDPjHuy0J
-▯ understands ▯
-
 guqsheaq ± `en` @TheAndSys #kvXxnjoqJ
 ▯ crouches
+
+guqsheaq -1 `en` @seaqtaq #MDPjHuy0J
+▯ understands ▯
 
 guqtam ± `en` @robintown #NpN0XV--w
 ▯ is a cave/cavern.
@@ -34536,6 +34545,9 @@ kaı -1 `en` @robintown #bINVjpKE0
 kaı -2 `en` @Laqme #0ij4DD4AZ
 ▯ records/writes/captures/stores ▯ on ▯.
 
+kaıbeaq ± `en` @Ilmen #RyHEVmCpO
+▯ is a pen or pencil.
+
 kaıce ± `en` @uakci #Z0yYJXxgK
 ▯ is an article/(web)page.
 
@@ -36797,6 +36809,9 @@ kıeıla ± `en` @Laqme #ck658nyVK
 kıeıleq +1 `en` @jiqci #lFNpdNrOR
 ▯ is a glacier.
 
+kıeımeı ± `en` @jiqci #uidUpRagy
+▯ is an iceberg.
+
 kıeıruq ± `en` @lassc #xcHN_AwzZ
 ▯ is hail.
 
@@ -36887,7 +36902,7 @@ interjección: ‘gracias’; gracias
 kıjı ± `ru` @SuperSpaceNiM #_VeHcJT44
 междометие: ‘спасибо’; спасибо
 
-kıjıkı ± `en` @uakci #9kVYU1kS1
+kıjıkı -1 `en` @uakci #9kVYU1kS1
 interjection: thanks for saying you’re welcome
 
 kıkem ± `en` @salarua #yJkZ5IJ8A
@@ -44325,6 +44340,9 @@ tense: ‘EXS.PST’; existential past
 malahı +1 `en` @xorxes #GPBqIP9ZX
 ▯ is an angel.
 
+malajao ± `en` @Laqme #0iWiMocUK
+tense: remote existential past
+
 malam ± `en` @evie #jZsTsSIXA
 tense: has always (universal past)
 
@@ -48938,6 +48956,9 @@ muraq ± `en` @Machy #K4Ppf76-H
 mụrıem ± `en` @Laqme #cmy90fDJv
 ▯ is dishonest/insincere/disingenuous.
 
+mụroa ± `en` @robintown #jG_etr9O0
+▯ is artificial.
+
 murum +1 `en` @jiqci #BelQ7MtBf
 ▯ murmurs/mutters.
 
@@ -53513,6 +53534,9 @@ nulıloeq ± `en` @Ilmen #HwuywBsYm
 nulımeaq ± `en` @jiqci #_gmCx0jdr
 ▯ is a tanker ship.
 
+nulımeı ± `en` @jiqci #pnS2vZM7e
+▯ is a fatberg.
+
 nulımuoq ± `en` @uakci #zPUz92F-d
 ▯ is dairy.
 
@@ -54053,7 +54077,7 @@ nhamka ± `en` @seaqtaq #vg5mgw7XK
 nhamla +3 `en` @Laqme #HmFR1T-jZ
 ▯ caresses / cuddles / snuggles ▯.
 
-nhamnhaq ± `en` @robintown #Ajy7fM_LL
+nhamnhaq +1 `en` @robintown #Ajy7fM_LL
 ▯ is a precious little kitty.
 
 nhamo ± `en` @uakci #LbwVwTQbU
@@ -61140,9 +61164,6 @@ roafao ± `en` @seaqtaq #cw7JWAq30
 roagaı ± `en` @robintown #TQutDG4pY
 ▯ intuits/senses/"just knows" that ▯ is the case.
 
-roagıq ± `en` @robintown #Pt4w9r_WN
-▯ is artificial.
-
 roaı ± `en` @official #Wc2vutz8UL
 predicate: ‘eight’; ▯ are eight in number.
 
@@ -62115,7 +62136,7 @@ ruıkaıkea ± `en` @Machy #O11v5D_kW
 ruıkuq +1 `en` @uakci #kbDuFvwHS
 ▯ says ▯ in a evasive/underhanded/weaselly way.
 
-rúım ± `en` @uakci #nOUpw3e5R
+rúım +1 `en` @uakci #nOUpw3e5R
 focus prefix: X instead (of some other option)
 
 Ruınete +1 `en` @jiqci #zSzpCuHWT
