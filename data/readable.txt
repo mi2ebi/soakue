@@ -1,7 +1,7 @@
 a- +1 `en` @uakci #Qn06JTEEu
 prefix: interjectionalizer
 
-a- ± `en` @Ilmen #_TlMNAEw-
+a- -1 `en` @Ilmen #_TlMNAEw-
 Interjectionizer: converts a predicate into an interjection meaning “I now am/do [predicate]”.
 
 a ± `en` @official #P1c97MI9T-
@@ -2612,10 +2612,13 @@ beılı +1 `en` @Lori #0ug0BqXkH
 beımeılaı ± `en` @el #syEbwwd-V
 ▯ is the letter W
 
-beınoq +1 `en` @Ilmen #iuRPE4pmq
+beınom ± `en` @Ilmen #nFvnOidhu
 ▯ is wine (an alcoholic beverage made by fermenting the juice of grapes).
 
-beınoqlıao ± `en` @Snow #Q_EG74UM0
+beınomlıao ± `en` @Ilmen #Gxfthtmyh
+▯ is a wine cap stropharia, a burgundy mushroom (Stropharia rugosoannulata).
+
+beınoqlıao -1 `en` @Snow #Q_EG74UM0
 ▯ is a wine cap stropharia/burgundy mushroom. ▯ is Stropharia rugosoannulata.
 
 beıra ± `en` @Laqme #zJD5yjoXy
@@ -3053,8 +3056,11 @@ Berotoaqgua ± `en` @shuaida #WOZloB_Fh
 beshı ± `en` @seaqtaq #f3oLNkclT
 ▯ is a joint
 
-beta -1 `en` @Ilmen #aNuyR-Qdj
+beta -2 `en` @Ilmen #aNuyR-Qdj
 ▯ is a plant belonging to the Beta genus.
+
+betalaı ± `en` @kazoo #25beVf35p
+▯ is the Greek letter beta (β).
 
 betaruaıcheabıso ± `en` @Ilmen #lkGFQ1bvJ
 ▯ is a betacoronavirus.
@@ -9317,6 +9323,9 @@ cheızeo ± `en` @jiqci #XjKN5D0bV
 cheja +1 `en` @Laqme #52tKC2VuH
 ▯ is a jaw.
 
+chejakuoq ± `en` @jiqci #Gywh6hXhD
+▯ is a jawbone / mandible.
+
 chekaq ± `en` @jiqci #C1zNcYpyD
 ▯ is a pickaxe / ice axe.
 
@@ -12581,6 +12590,9 @@ dana ± `pl` @jiqci #wF5eXtTNk
 danadote ± `en` @mimiaoganhaqpy #VNXVBs2PS
 predicate: ‘prize’; ▯ is a prize from satisfying property ▯.
 
+danajuı ± `en` @seaqtaq #ISsmY4eXv
+▯ is on game point / match point against ▯; ▯ has just one more point / round to win in order to beat ▯
+
 dao ± `en` @official #6gtsHfnfu1
 predicate: ‘information’; ▯ is information/data.
 
@@ -14713,6 +14725,9 @@ doecaq ± `en` @uakci #gi3rRGEDp
 doecaqche ± `en` @uakci #uR-OLXQlp
 administrator, maintainer, technician, supporter
 
+doecaqche ± `en` @evie #9ZpLisfgD
+▯ is an administrator etc
+
 doecıa ± `en` @Laqme #HOfe8qUCM
 ▯ is useless ("without function").
 
@@ -16567,6 +16582,9 @@ interjection: ‘hooray’; excitement
 epımoe ± `en` @Ilmen #VusbTwCRE
 ▯ is excited.
 
+epısılaı ± `en` @kazoo #zBd_hzI09
+▯ is the Greek letter epsilon (ε).
+
 epısho ± `en` @jiqci #6xTpBn-z5
 ▯ is a bishop (church official).
 
@@ -16764,6 +16782,9 @@ predicate: ▯ xekce's ▯; ▯ acts Toaqically (Lojbanically) cruel/pedantic to
 
 eshu ± `en` @Laqme #eg6-rjU4N
 word quote: ▯ has as textual content the word X.
+
+etalaı ± `en` @kazoo #P6o0hYt3g
+▯ is the Greek letter eta (η).
 
 eteu ± `en` @uakci #-0JQqTeBc
 ▯ is e raised to the power ▯; ▯ is the value of the exponential function at ▯; ▯ = e^▯; ▯ = exp(▯).
@@ -19528,6 +19549,9 @@ gam +2 `en` @Laqme #GPlc2iVKh
 gama ± `en` @Isi #_vtdwaeX4
 predicate: ‘camel’; ▯ is a camel.
 
+gamalaı ± `en` @kazoo #FT-1icw88
+▯ is the Greek letter gamma (γ).
+
 gamashuao ± `en` @Ilmen #mtYPrFYQo
 ▯ is an ostrich.
 
@@ -19929,6 +19953,9 @@ garam ± `tr` @kazoo #0e_SiwmU6
 
 garamaı ± `en` @Ilmen #Klr36dmAz
 ▯ is a botfly of the Gasterophilus genus.
+
+garammasala ± `en` @robintown #euWuobUM0
+▯ is garam masala.
 
 garanoa ± `en` @jiqci #I6il8PfVi
 ▯ is stodgy / heavy on the stomach.
@@ -23856,6 +23883,9 @@ guraı ± `en` @uakci #sHGHTVc6k
 
 gure ± `en` @uakci #XihzAOBpS
 ▯ is both or none of ▯ and ▯.
+
+gureobo ± `en` @seaqtaq #KsC1iy8Ou
+▯ has two colors; ▯ is bichromatic
 
 gureq ± `en` @official #Gjf_IHr5ZQH
 predicate: ‘kidney’; ▯ is a kidney.
@@ -33015,6 +33045,9 @@ joqtoaıhuı ± `en` @seaqtaq #Ka3-I7fsZ
 joqzıq ± `en` @jiqci #O2Qy1ia9b
 ▯ is a CPU.
 
+joreobo ± `en` @seaqtaq #feLh2tOV8
+▯ has four colors; ▯ is tetrachromatic
+
 joro +1 `en` @uakci #wGWVlW8XZ
 ▯ is a sin.
 
@@ -36740,6 +36773,9 @@ kıceheq ± `en` @jiqci #exhIm_78L
 kıcıe +1 `en` @uakci #1MeMCfeE5
 ▯ is a jellyfish.
 
+kıcım ± `en` @Laqme #NvQy7KuWB
+▯ is slithy.
+
 kıcıo ± `en` @robintown #XNSBMVYv_
 ▯ is slime/goo.
 
@@ -40055,6 +40091,9 @@ Also, interjection: lmao
 
 lamda ± `en` @jiqci #pW6wmyKnb
 ▯ is a lambda function (anonymous function; abstraction with open places like **já**).
+
+lamdalaı ± `en` @kazoo #IPjdppRGm
+▯ is the Greek letter lambda/lamda (λ)
 
 lame ± `en` @uakci #r9qx5yFME
 ▯ is meta-comment (a comment which refers to the utterance and not its meaning) / author's/editor's note.
@@ -44346,6 +44385,9 @@ tense: remote existential past
 malam ± `en` @evie #jZsTsSIXA
 tense: has always (universal past)
 
+malaqdı ± `en` @TheAndSys #Ck5pDsgSt
+▯ is a flirt
+
 malasha ± `en` @seaqtaq #YRZpi-59k
 ▯ happens for the first time ever
 
@@ -48439,6 +48481,9 @@ mukamkea ± `en` @Ilmen #FEbIzfngQ
 
 mụkueq ± `en` @seaqtaq #KjgkcTBuH
 ▯ disband/break up
+
+mulaı ± `en` @kazoo #Bv2oJzdTu
+▯ is the Greek letter mu (μ).
 
 mụlom ± `en` @Laqme #d6dEyiWiS
 ▯ is in danger.
@@ -55034,6 +55079,12 @@ oreq ± `en` @el #xB3jfY07r
 Orıazu ± `en` @eednb #H7wgubbTJ
 ▯ is the Odia language.
 
+orıgano ± `en` @robintown #QzNkKokA3
+▯ is a oregano plant.
+
+orıganom ± `en` @robintown #jRoWgKMNd
+▯ is oregano herbs.
+
 orıoqkea ± `en` @jiqci #MW25Np_wf
 ▯ is a nuclear pulse engine.
 
@@ -57386,11 +57437,11 @@ poga ± `en` @Ilmen #x93jZL3Zx
 poha +1 `en` @el #NE_lc6BLq
 ▯ refers to / indicates ▯
 
-poha ± `en` @Ilmen #ic9ATvkQ1
-▯ is one's/yours/theirs (the one(s) of the referent(s) of the generic impersonal pronoun).
-
 poha ± `toa` @Ilmen #oVL2vNRwv
 = po há ga ▯.
+
+poha -1 `en` @Ilmen #ic9ATvkQ1
+▯ is one's/yours/theirs (the one(s) of the referent(s) of the generic impersonal pronoun).
 
 pohasıq ± `en` @Laqme #0pW9pPsxz
 ▯ is referentially transparent.
@@ -63484,6 +63535,9 @@ saqpaq ± `en` @Laqme #hzuxai7N8
 saqpeoq ± `en` @Machy #zyOajOdwT
 ▯ is lithium.
 
+saqreobo ± `en` @seaqtaq #mFkRblNnV
+▯ has three colors; ▯ is trichromatic
+
 saqseoq ± `en` @official #_Y6CZs_ujDk
 predicate: ‘S’; ▯ is the letter S.
 
@@ -63826,11 +63880,11 @@ seaqrıoq ± `en` @uakci #l-hj-b_c1
 seaqseje ± `en` @seaqtaq #kVojle5Ig
 ▯ manifests sexuality ▯ (property)
 
+seaqtaq ± `en` @seaqtaq #UmS_aWG66
+▯masturbates
+
 seaqtaq ± `en` @uakci #brlX3TY5D
 ▯ masturbates.
-
-seaqtaq -1 `en` @seaqtaq #UmS_aWG66
-▯masturbates
 
 seaqtaqkaı -1 `en` @seaqtaq #RqQHYBVEG
 ▯ makes a spelling errors/typos ▯, where the intended word is ▯
@@ -65903,7 +65957,7 @@ sọdaqsa +1 `en` @kazoo #lsZlxb-rW
 sodıum +1 `en` @uakci #olUXIlLw9
 ▯ is sodium.
 
-sọdofe +1 `en` @kazoo #-Iq_MM1TNh
+sọdofe ± `en` @kazoo #-Iq_MM1TNh
 ▯ is a C5 chord.
 
 sọdogu +1 `en` @kazoo #Pin5rN5ZK
@@ -65915,7 +65969,7 @@ sọdojo +1 `en` @kazoo #cocrqvdwoC
 sọdoke +1 `en` @kazoo #b7Rod8qzn
 ▯ is a Cdim chord.
 
-sọdonu +1 `en` @kazoo #mAVWq0NVq
+sọdonu ± `en` @kazoo #mAVWq0NVq
 ▯ is a C minor chord.
 
 sọdopı ± `en` @kazoo #aAWJhaMlRB
@@ -65993,7 +66047,7 @@ sọfake +1 `en` @kazoo #4IA1k80zQ
 sofala +1 `en` @Laqme #zWI0fy6fm
 ▯ spends idle time reclining (on a sofa).
 
-sọfanu +1 `en` @kazoo #ktsj7YRkp
+sọfanu ± `en` @kazoo #ktsj7YRkp
 ▯ is an F minor chord.
 
 sọfapı +1 `en` @kazoo #5LIN60ZO46
@@ -66020,7 +66074,7 @@ sọfaqpı +1 `en` @kazoo #zhAguWl4Xk
 sọfaqsa +1 `en` @kazoo #PIGTOX5Pt
 ▯ is a G♭maj or F#maj chord.
 
-sọfasa +1 `en` @kazoo #6jPtpkTqF
+sọfasa ± `en` @kazoo #6jPtpkTqF
 ▯ is an F major chord.
 
 sogao +1 `en` @robintown #nDQJ4pyJ9
@@ -66203,7 +66257,7 @@ sọlajo +1 `en` @kazoo #2xycwTALWU
 sọlake +1 `en` @kazoo #ZL1TJfhA_G
 ▯ is a Adim chord.
 
-sọlanu +1 `en` @kazoo #BHWAEFrCQ
+sọlanu ± `en` @kazoo #BHWAEFrCQ
 ▯ is an A minor chord.
 
 sọlapı +1 `en` @kazoo #lV9Q-U2oQ
@@ -66230,7 +66284,7 @@ sọlaqpı +1 `en` @kazoo #kq91-6g7Q1
 sọlaqsa +1 `en` @kazoo #XTGqWgQ9e
 ▯ is a B♭maj or A#maj chord.
 
-sọlasa +1 `en` @kazoo #MMsANn5nc
+sọlasa ± `en` @kazoo #MMsANn5nc
 ▯ is an A major chord.
 
 som +2 `en` @robintown #OnHW_0zPJ
@@ -66254,7 +66308,7 @@ somche ± `en` @Laqme #Ad3c9eieS
 someone ± `en` @Machy #e3kkc4C_7
 ▯ is one who should do ▯ (impersonal generic).
 
-sọmıfe +1 `en` @kazoo #N7ghGIkMfd
+sọmıfe ± `en` @kazoo #N7ghGIkMfd
 ▯ is a E5 chord.
 
 sọmıgu +1 `en` @kazoo #rFoNCE6Sax
@@ -66266,13 +66320,13 @@ sọmıjo +1 `en` @kazoo #euob22sgg
 sọmıke +1 `en` @kazoo #oLD-wFXWev
 ▯ is a Edim chord.
 
-sọmınu +1 `en` @kazoo #HMKddfzL4
+sọmınu ± `en` @kazoo #HMKddfzL4
 ▯ is an E minor chord.
 
 sọmıpı +1 `en` @kazoo #tfRiBguqmo
 ▯ is a Eaug chord.
 
-sọmısa +1 `en` @kazoo #KbxkwpnWF
+sọmısa ± `en` @kazoo #KbxkwpnWF
 ▯ is an E major chord.
 
 somjıaq ± `en` @Laqme #G_CQa4U1r
@@ -66507,25 +66561,25 @@ soratuda +1 `en` @jiqci #KRi631YvV
 sore ± `en` @Ilmen #CMg3zOeBW
 ▯ is a red-toothed shrew (Sorex genus).
 
-sọrefe +1 `en` @kazoo #TqH9Nw84S
+sọrefe ± `en` @kazoo #TqH9Nw84S
 ▯ is a D5 chord.
 
-sọregu +1 `en` @kazoo #r-_X9awhwA
+sọregu ± `en` @kazoo #r-_X9awhwA
 ▯ is a Dsus2 chord.
 
 sọrejo +1 `en` @kazoo #ES05uldx-T
 ▯ is a Dsus4 chord.
 
-sọreke +1 `en` @kazoo #LHU9UyA5-
+sọreke ± `en` @kazoo #LHU9UyA5-
 ▯ is a Ddim chord.
 
-sọrenu +1 `en` @kazoo #TtmXABGIH
+sọrenu ± `en` @kazoo #TtmXABGIH
 ▯ is a D minor chord.
 
-sọrepı +1 `en` @kazoo #8ZPUG53DBX
+sọrepı ± `en` @kazoo #8ZPUG53DBX
 ▯ is a Daug chord.
 
-sọresa +1 `en` @kazoo #jAxGQANSR
+sọresa ± `en` @kazoo #jAxGQANSR
 ▯ is a D major chord.
 
 soresıu ± `en` @Ilmen #rsmYUeILX
@@ -66588,7 +66642,7 @@ sọsınu +1 `en` @kazoo #l9kOCs_aA
 sọsıpı +1 `en` @kazoo #wqHLrrIvvH
 ▯ is a Baug chord.
 
-sọsısa +1 `en` @kazoo #Ym-pHPBV6
+sọsısa ± `en` @kazoo #Ym-pHPBV6
 ▯ is a B major chord.
 
 soso ± `en` @kazoo #4ewVVvCul
@@ -66609,7 +66663,7 @@ sọsoke +1 `en` @kazoo #fADZHT2Da
 sosonohakoceaq ± `en` @jiqci #Em6PFctcW
 ▯ is Sosnowsky's hogweed (Heracleum sosnowskyi)
 
-sọsonu +1 `en` @kazoo #r4bKI_lOS
+sọsonu ± `en` @kazoo #r4bKI_lOS
 ▯ is a G minor chord.
 
 sọsopı +1 `en` @kazoo #6R7rKjjb6
@@ -69510,6 +69564,9 @@ shıraq ± `en` @Laqme #qFcQJUtr7
 
 shıreı ± `en` @robintown #6L_65d6HO
 ▯ is a cryptid.
+
+shıreobo ± `en` @seaqtaq #PI-IsjdC7
+▯ has one color; ▯ is monochromatic
 
 shısaonelaı ± `en` @fagri #ADlwJPvUN
 ▯ is a unicameral letter (it doesn't distinguish between upper and lower case)
@@ -72414,6 +72471,9 @@ tetabo +1 `en` @Ilmen #arTLoN_p8
 
 tetabokuoq ± `en` @robintown #0s4aal81O
 ▯ is a turtle shell.
+
+tetalaı ± `en` @kazoo #LrFApY0sQ
+▯ is the Greek letter theta (θ).
 
 tetao +1 `en` @TheAndSys #NL2XZ1Zuo
 ▯ is a sport
@@ -76113,6 +76173,9 @@ ubulalaq ± `en` @Ilmen #J7BMkozysgJ
 ubulatı ± `en` @seaqtaq #6zJ6DtlMF
 ▯ is uvular/articulated at/using the uvula (phonetics)
 
+ucheq ± `en` @evie #0mjnIV-WI
+▯ is a misnomer
+
 uchı -2 `en` @Ilmen #BecmYQ8Kr
 ▯ has sex phenotype ▯ (property).
 
@@ -76911,6 +76974,9 @@ nullary predicate: always true, tautology, ⊤
 ꝡoro +1 `en` @uakci #3SCtq-Mfi
 ▯ are a myriad / multitude / countless; ▯ are an exorbitant / unimaginably high number; ▯ are  “all the things in the world”; ▯ are a zillion in number.
 
+ꝡorogoı ± `en` @Laqme #-2WpFe-fy
+▯ is a borogove.
+
 ꝡorojıaqsha ± `en` @seaqtaq #1lCbeyrsm
 ▯ massacres/mass murders ▯
 
@@ -77003,6 +77069,9 @@ zaıcıasea +2 `en` @fagri #wid9rDWNj
 
 Zaıche ± `en` @uakci #8nUWKFbiv
 ▯ is an Esperantist.
+
+zaıchı ± `en` @Laqme #nxyDT2FVp
+▯ believes that ▯ is the case because they would like it to be.
 
 zaıdoa ± `en` @uakci #xiXWlrRBA
 ▯ expresses their wishes that property ▯ may come to ▯; ▯ wishes property ▯ upon ▯ (and thereby transfers the positive sentiment to them).
@@ -77315,6 +77384,9 @@ zeafa ± `en` @Laqme #-7k1DxCdi
 
 zeanua ± `en` @Laqme #l226MmiHX
 ▯ steals ▯.
+
+zeaq ± `en` @kazoo #HU4fK8eKo
+▯ originates from ▯.
 
 zearaı ± `en` @Laqme #uOc6LjKOK
 ▯ are illegal wares / is anything that it's illegal to possess.
@@ -77990,6 +78062,9 @@ zombı ± `en` @robintown #vK-ldiz2M
 
 zonaozo ± `en` @fagri #7xI69l_md
 ▯ condescends
+
+zopeaı ± `en` @Laqme #hYhBauWj1
+▯ is vorpal.
 
 zoq ± `en` @Machy #5Ebdwpmq0
 Mark following word as ad-hoc coinage.
@@ -88683,7 +88758,7 @@ I'm going to Africa tomorrow.
 ⚠ Rào níchaq bı deq jí tu da. -1 `en` @oldexamples #fziBtR78GZu
 Today, I can do anything.
 
-⚠ rào nínıaqme ± `en` @Ilmen #lRxQacsE7
+râo nínıaqme ± `en` @Ilmen #ZcTsDSLEX
 nowadays
 
 ⚠ Rào nínuaq bı jaq de núaqgıo da. -1 `en` @oldexamples #pvodRuaGxra
