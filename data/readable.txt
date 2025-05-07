@@ -638,6 +638,12 @@ interjection: 🪑
 alaq +1 `en` @jiqci #0v_A_u_wg
 ▯ is a beam / girder.
 
+alefelaı ± `en` @seaqtaq #jDILk1fP9
+▯ is the hebrew letter aleph
+
+alefem ± `en` @seaqtaq #8pICxH72_
+▯ is some extremely/arbitrarily large value
+
 alıu +1 `en` @el #-RR0evUWw
 ▯ is an allium (garlic, onion, etc)
 
@@ -6865,6 +6871,9 @@ cemecaq ± `en` @jiqci #Y0_bNDR20
 
 cemedıu ± `en` @jiqci #ufLHbbtC0
 ▯ is graph theory.
+
+cemem ± `en` @seaqtaq #9zEIp8DW9
+▯ is graphite
 
 cemeq +1 `en` @Ilmen #jwg9I5eZx
 ▯ is cement.
@@ -13524,10 +13533,10 @@ deıgım ± `en` @jiqci #w4jFxZ8Vj
 ▯ is an instrument from the violin family.
 
 dekaı ± `en` @seaqtaq #iQv9iy0Mf
-▯ calligraphs ▯ onto ▯
+▯ writes ▯ via calligraphy
 
-dekaıdıu ± `en` @seaqtaq #ujN708dN_
-▯is calligraphy
+dekaılea ± `en` @seaqtaq #bdJcXzMTK
+▯ is calligraphy
 
 Dekaqzu ± `en` @eednb #t_FBvg0WN
 ▯ is the Deccani language.
@@ -14793,6 +14802,12 @@ doekaı ± `en` @uakci #QI7nHFCpg
 
 doekaıche ± `en` @uakci #D2LR4E_oD
 ▯ is a programmer.
+
+doekaıguaı ± `en` @TheAndSys #OG0JvXNE8
+▯ is programming (the act of writing a program)
+
+doekaılea ± `en` @seaqtaq #MbUVBjIy9
+▯ is programming (the act of writing a program)
 
 doekaızu ± `en` @uakci #ts_hDQpge
 ▯ is a programming language.
@@ -16585,6 +16600,9 @@ epımoe ± `en` @Ilmen #VusbTwCRE
 epısılaı ± `en` @kazoo #zBd_hzI09
 ▯ is the Greek letter epsilon (ε).
 
+epısım ± `en` @seaqtaq #wGIr0-mT5
+▯ is some extremely/arbitrarily small value
+
 epısho ± `en` @jiqci #6xTpBn-z5
 ▯ is a bishop (church official).
 
@@ -17179,7 +17197,7 @@ fanılapaq ± `en` @fagri #UP4kH4k2L
 fao- +1 `en` @Laqme #_VuD5zWsi
 prefix: turns a verb into a discursive announcing/tagging the end of a (verb)
 
-fao ± `en` @official #M6BCdPTw_M
+fao +1 `en` @official #M6BCdPTw_M
 predicate: ‘end’; ▯ is an end/ending; ▯ is an end/ending of ▯.
 
 fao ± `pl` @jiqci #1t2WDiwdmw
@@ -18162,6 +18180,12 @@ predicate: ‘ugly’; ▯ is ugly.
 
 fıe ± `pl` @jiqci #yex8rLcOGA
 ▯ jest brzydki.
+
+fıekaı ± `en` @seaqtaq #0JgeV7nJ2
+▯ writes ▯ via cacography
+
+fıekaılea ± `en` @seaqtaq #nC84vErvi
+▯ is cacography
 
 fıekuq ± `en` @Laqme #XZfyXyQ5l
 ▯ swears / curses / cusses / says profanity ▯.
@@ -28787,6 +28811,9 @@ predicate: ‘I’; ▯ is the letter I.
 ıqdere ± `en` @TheAndSys #REF10w29m
 ▯ is obssessed with satisfying property ▯
 
+ıqdıu ± `en` @seaqtaq #Zl1yGTIGy
+▯ is the science of satisfying property ▯; ▯ is the field of science concerned with satisfying property ▯
+
 ıqdo +1 `en` @official #PMSTC6aaCci
 predicate: ‘give.property’; ▯ gives ▯ property ▯.
 
@@ -28930,6 +28957,9 @@ Iqlaqsuedobıa ± `en` @Ilmen #XeYIFVSbO
 
 Iqlaqtoaq ± `en` @Ilmen #t15pd_aLQ
 ▯ is the English language.
+
+ıqlea ± `en` @seaqtaq #cwgpZEcHc
+▯ is the art of satisfying property ▯; ▯ is the act of satisfying property ▯ considered as an art form
 
 ıqleı ± `en` @Laqme #5hX7fqDbp
 ▯ seldom/infrequently satisfies property ▯.
@@ -34605,8 +34635,14 @@ predicate: ‘writing.implement’; ▯ is a writing implement.
 kaıchuo ± `pl` @jiqci #NqY3_JT7IW
 ▯ to narzędzie pisarskie.
 
+kaıdıu ± `en` @seaqtaq #D3KY_m_m6
+▯ is graphology (the study of written and printed symbols)
+
 kaıdo +2 `en` @Laqme #3mlwJ0aIg
 ▯ posts, to channel/group/board ▯, message ▯.
+
+kaıdoem ± `en` @seaqtaq #zi7xf8Tbn
+▯ is a writing system
 
 kaıdose ± `en` @mimiaoganhaqpy #iirsDyOfZ
 ▯ is a post.
@@ -34682,6 +34718,9 @@ kaıkuq ± `en` @Machy #fhD_HrR5f
 
 kaıkuq ± `en` @Laqme #v5cMmAlCh
 ▯ writes (says in writing) ▯.
+
+kaılea ± `en` @seaqtaq #36JzRsvHA
+▯ is the art of writing; ▯ is the act of writing as an art form
 
 kaımıeq ± `en` @seaqtaq #PpC4vGSke
 ▯ spells out ▯ on ▯
@@ -35397,6 +35436,9 @@ kaqhuı ± `en` @Ilmen #Dci1eVwfK
 kaqjeo ± `en` @fagri #ylRRH91wB
 ▯ satisfies property ▯, which describes something about how it/they look
 
+kaqjeoq ± `en` @Iako #Kb2ulgmgW
+▯ is a pupil (of the eye).
+
 kaqjeq ± `en` @Laqme #5SGSgTBAf
 ▯ and ▯ look exactly the same.
 
@@ -35798,6 +35840,9 @@ kaꝡaboe ± `en` @jiqci #gXOJ1dOyD
 
 kaꝡaboenoso ± `en` @jiqci #vSp_6eY4s
 ▯ has conjunctivitis.
+
+kaꝡajeoq ± `en` @Iako #1SMyDgULw
+▯ is a pupil (of the eye).
 
 kaꝡasoeı ± `en` @Laqme #dw7OFxe0N
 ▯ has poor eyesight / needs glasses.
@@ -46940,6 +46985,9 @@ moaqshaı ± `pl` @jiqci #keXvhaUVUE
 moaqshaıtıoqbue ± `en` @Ilmen #WhdytG4VC
 ▯ is an oubliette.
 
+moaqshomkuaq ± `en` @seaqtaq #3UPiuUupJ
+▯ makes a face that suggests they are remembering something significant
+
 moaqshuetao ± `en` @Hoemai #hCrxUg1S4
 ▯ memorizes ▯.
 
@@ -47435,6 +47483,9 @@ moılao ± `en` @lassc #sE-D074xh
 moılao ± `pl` @jiqci #0UlQ1zLF29
 ▯ wacha się/jest niezdecydowany.
 
+moılea ± `en` @seaqtaq #j2E4fBcaK
+▯ is the art of thinking; ▯ is the act engaging oneself in thought considered as an art form
+
 moıleı +1 `en` @seaqtaq #KvogiKquF
 ▯ is neurodivergent
 
@@ -47533,6 +47584,9 @@ moıshıluq ± `en` @Machy #ypFEOMsFX
 
 moıshoem ± `en` @seaqtaq #LcuV1XHu5
 ▯ is lost in thought; ▯'s head is in the clouds
+
+moıshomkuaq ± `en` @seaqtaq #ap9AKrmoI
+▯ makes a face that suggests they are deep in thought
 
 moıtao ± `en` @seaqtaq #4RBITHYEV
 ▯ cogitates about ▯
@@ -48920,6 +48974,9 @@ muqjuı ± `en` @Laqme #giE1GzlVn
 muqkaı +2 `en` @Ilmen #sxmO8t1gV
 ▯ handwrites ▯.
 
+muqkaıdıu ± `en` @seaqtaq #GNMKHe9Wu
+▯ is graphology (the study of handwriting)
+
 muqkaıse +1 `en` @lassc #I3xO51Y4l
 ▯ is handwriting.
 
@@ -48967,6 +49024,12 @@ muqse ± `en` @seaqtaq #pV33dJbld
 
 muqseaq ± `en` @seaqtaq #o66z8jzQL
 ▯ fists ▯
+
+muqsıao ± `en` @jiqci #T3HkiblQt
+▯ is a carpus.
+
+muqsıaochuao ± `en` @jiqci #WHsn-p1dS
+▯ is a carpal tunnel.
 
 muqsoı ± `en` @Laqme #q_8v8sYCU
 ▯ fights ▯ with their bare hands.
@@ -50161,6 +50224,12 @@ neaıse +2 `en` @Laqme #8g4eDqGyZ
 
 neajoaı ± `en` @evie #yl8uLQiQZ
 ▯ searches for/through ▯ using breadth-first search
+
+neakaı ± `en` @seaqtaq #DP4ZImqz3
+▯ writes ▯ via longhand
+
+neakaılea ± `en` @seaqtaq #vaTQDR_ng
+▯ is longhand; ▯ is the art/act of writing in longhand
 
 neam ± `en` @jiqci #krGSHVZa6
 ▯ is noble/aristocratic.
@@ -58235,11 +58304,17 @@ puebea +1 `en` @akesi #0NMOlSHV3
 puebea -1 `en` @official #_xqeLxuGzH
 predicate: ‘knee’; ▯ is a knee.
 
+puebeakuoq ± `en` @jiqci #sj1o5bBOi
+▯ is a talus / anklebone.
+
 puebeq ± `en` @Ilmen #p65rf-qVL
 ▯ is a foot heel.
 
 puebeqgea ± `en` @uakci #kDLQWryr4
 ▯ are high heels (a kind of shoe).
+
+puebeqkuoq ± `en` @jiqci #_6x3mWvtF
+▯ is a calcaneus / heel bone.
 
 puebıo ± `en` @Hoemai #4d8uyooPA
 ▯ is a goblet/chalice.
@@ -58348,6 +58423,9 @@ pueruedea ± `en` @fagri #Dmw-h-pFp
 
 puese ± `en` @seaqtaq #fQ_fT4fgl
 ▯ is a footprint
+
+puesıao ± `en` @jiqci #D8KpJcD44
+▯ is a tarsus.
 
 pueshıaqgao ± `en` @Laqme #efeOYrtrZ
 ▯ are tights.
@@ -59763,6 +59841,9 @@ reajeaq ± `en` @seaqtaq #8p13de2e1
 reajuı ± `en` @seaqtaq #toW6QnY2o
 ▯ is a distal part of ▯
 
+reakaq ± `en` @evie #7fMxWPXby
+▯ is/relates to peripheral vision
+
 realıeı ± `en` @seaqtaq #cIwgYLimd
 ▯ runs along (the length of) ▯
 
@@ -59891,6 +59972,12 @@ reıjıaq ± `en` @Ilmen #fbtVIV0oA
 
 reıjıoqchuo ± `en` @uakci #kkH_-ZxLp
 ▯ is an abacus.
+
+reıkı ± `en` @jiqci #BPo7rVB17
+▯ is a heath / heather.
+
+reıkıguaq ± `en` @jiqci #O54aVvC-G
+▯ is a moor / heathland.
 
 reıkueq ± `en` @Laqme #_UMqsEOFe
 ▯ gather around ▯.
@@ -61565,6 +61652,15 @@ romjomboq ± `en` @jiqci #EaBT9HEpj
 
 romkaı ± `en` @Laqme #zWpVHbf5m
 ▯ programs / writes code ▯.
+
+romkaıche ± `en` @TheAndSys #6wpPePINx
+▯ is a programmer
+
+romkaıguaı ± `en` @TheAndSys #htJjTeC9W
+▯ is programming (the act of writing a program)
+
+romkaılea ± `en` @seaqtaq #LcG-hAgxv
+▯ is programming (the act of writing a program)
 
 romkea +2 `en` @Laqme #MXHakGAC9
 ▯ is a computer.
@@ -66800,9 +66896,6 @@ suaıjoe ± `en` @uakci #u2Z6Olp-m
 
 suaıkaı ± `en` @salarua #a0BXO7sQX
 predicate: ‘shorthand’; ▯ writes ▯ using shorthand
-
-suaıkaıdıu ± `en` @seaqtaq #cz7874o8s
-▯is stenography
 
 suaıkoıha ± `en` @Snow #C92hYfsWR
 ▯ is galloping; ▯ is using the gallop gait.
@@ -77385,7 +77478,7 @@ zeafa ± `en` @Laqme #-7k1DxCdi
 zeanua ± `en` @Laqme #l226MmiHX
 ▯ steals ▯.
 
-zeaq ± `en` @kazoo #HU4fK8eKo
+zeaq +1 `en` @kazoo #HU4fK8eKo
 ▯ originates from ▯.
 
 zearaı ± `en` @Laqme #uOc6LjKOK
@@ -78327,8 +78420,14 @@ zuıguaq ± `en` @jiqci #596ylU_L7
 zuıkaı ± `en` @Laqme #W0SQJd--d
 ▯ writes ▯ in shorthand / stenography.
 
+zuıkaı ± `en` @seaqtaq #R7slCXTap
+▯ writes ▯ via stenography
+
 zuıkaıkea ± `en` @Laqme #c8gsr0MYl
 ▯ is a stenotype machine / stenography keyboard.
+
+zuıkaılea ± `en` @seaqtaq #qrVIhUc7_
+▯ is stenography
 
 zuınao ± `en` @jiqci #YPc3LHlgd
 ▯ is a strait/channel/sound.
