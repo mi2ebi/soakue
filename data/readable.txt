@@ -1811,6 +1811,12 @@ baıchoq ± `en` @uakci #EyBgqPusH
 baıchuo -1 `en` @Machy #CPn0cjhEK
 ▯ is a physical tool for purpose ▯.
 
+baıdıu ± `en` @Ilmen #b5F7zZg7L
+▯ is technology.
+
+baıdıu ± `en` @Ilmen #7igQPJNxf6
+▯ is technology.
+
 baıdo ± `en` @TheAndSys #PdWjlrFs3
 ▯ publishes/posts/releases ▯, putting it out there for others to view it
 
@@ -11380,6 +11386,9 @@ chuachoq ± `en` @Ilmen #2kLdnKbu_
 
 chuachoqhe ± `en` @Ilmen #njQcbLwRN
 ▯ always uses name ▯ for referring to ▯.
+
+chuadıu ± `en` @Ilmen #uihvhHy7m
+▯ is onomastics, onomatology (study of names).
 
 chuado ± `en` @official #w2kCFSRYX
 predicate: ‘name’; ▯ names/calls ▯ name ▯.
@@ -27631,11 +27640,17 @@ predicate: ‘feather’; ▯ is a feather.
 hue ± `pl` @jiqci #wod3FIiRoc
 ▯ to pióro.
 
+húe ± `en` @Laqme #1yia6Lnkb
+pronoun: refers to last **ë** phrase (equivalent to **hụ́'e**)
+
 hue'o ± `en` @Ilmen #jOhTRwsoa
 ▯ is velvet.
 
 huecea +1 `en` @Laqme #pr3L8Nx3t
 ▯ is a pillow / cushion.
+
+hueı ± `en` @Laqme #ngSP2pxrg
+▯ is a feather.
 
 huekambe ± `en` @Snow #rc4LakoEM
 ▯ is brassica oleracea acephala.
@@ -33594,6 +33609,9 @@ juedıaq ± `pl` @jiqci #RzIyjklgo
 juegu ± `en` @Laqme #tBcBj1Yon
 ▯ is a two-month period.
 
+juela ± `en` @seaqtaq #1UYADTPMu
+▯ menstruates / is menstruating / on their period
+
 juem- ± `en` @magnap #qiHc5ELcX
 experimental: applies inquisitive semantics *!* to the result of ("outside") this quantifier or predicate
 
@@ -33885,8 +33903,11 @@ conjunction: X, which incidentally is the same as Y
 jumam ± `en` @seaqtaq #5hE5QVkin
 ▯ is the case then/at that time that/given that ▯ is the case
 
-jume ± `en` @Laqme #oBt2zMc2S
+jume +1 `en` @Laqme #oBt2zMc2S
 ▯ is an ovum / egg cell.
+
+jumecıu ± `en` @seaqtaq #kkcpLRH9i
+▯ ovulates / is ovulating
 
 jumoe ± `en` @TheAndSys #qJJmDEZHm
 ▯ is close to ▯ (emotionally, interpersonally)
@@ -35907,6 +35928,9 @@ keacaqrom ± `en` @jiqci #zP-i3_-zI
 keachuo ± `en` @jiqci #5tnVQWw94
 ▯ is a power tool.
 
+keadıu ± `en` @Ilmen #FSY8W3vcR
+▯ is mechanics, technology, the science of design and construction of machines.
+
 keafuaq ± `en` @seaqtaq #_4TEyOsYw
 ▯ is a screenshot
 
@@ -36698,7 +36722,7 @@ kıaq'ıata ± `en` @jiqci #VSEYpRWBF
 kıaqbuaı ± `en` @Laqme #JXR5cYfVn
 ▯ has long hair.
 
-kıaqcıa +1 `en` @Ilmen #up6If_OSU
+kıaqcıa +2 `en` @Ilmen #up6If_OSU
 ▯ is hairless/bald.
 
 kıaqcoe ± `en` @Laqme #NdfyMAQoJ
@@ -36734,6 +36758,9 @@ kıaqketea ± `en` @Hoemai #2WGiJvEwA
 kıaqme ± `en` @Ilmen #O2hz7k3I9
 ▯ is a patch of hairs; ▯ is fur (not necessarily of a dead animal).
 
+kıaqmıa ± `en` @robintown #D5zBD9_UN
+▯ is hairy.
+
 kıaqnıoq ± `en` @jiqci #NPeTYixEP
 ▯ is a baleen/whalebone.
 
@@ -36763,6 +36790,12 @@ kıarıba ± `en` @Hoemai #ooe4qlP-W
 
 kıarıqreo ± `en` @Ilmen #R2INvuqq3
 ▯ is the reddish green color (an "impossible color").
+
+kıasamkero ± `en` @Laqme #YqE_MGj2S
+▯ is a grapefruit tree.
+
+kıasamo ± `en` @Laqme #Wh7TuSsii
+▯ is a grapefruit.
 
 kıasaq ± `en` @Laqme #Hrsfkqbka
 ▯ is a major chord.
@@ -39842,6 +39875,9 @@ The proposition ▯ entails the proposition ▯.
 laheq ± `en` @Ilmen #Xz-5CkCD4
 proposition ▯ semantically entails proposition ▯; ▯ has semantic consequence ▯.
 
+laheqdıu ± `en` @Laqme #y-dW9R7xu
+▯ is logic.
+
 lahı ± `en` @el #62bFfmHDP
 ▯ is an indirect question
 
@@ -40170,7 +40206,7 @@ laobu ± `en` @uakci #K_Z248xdv
 laobuaq ± `en` @uakci #8aL0DOqgo
 ▯ has been waiting for ▯, but it doesn’t happen; Despite ▯ waiting for ▯, it does not come to pass.
 
-laocaı ± `en` @Ilmen #xog5R88B8
+laocaı -1 `en` @Ilmen #xog5R88B8
 ▯ is patient.
 
 laocaıcıa ± `en` @fagri #SHEdcmXh8
@@ -42129,9 +42165,6 @@ lo -1 `en` @fagri #ykZS9ALeG
 ló ± `en` @official #8Ht8xXwfp
 determiner: ‘the’; allomorph of the endophoric definite determiner (◌́) used for object incorporation
 
-⚠ ló -1 `en` @oldofficial #nQytEpQC6OP
-determiner: ‘the’; allomorph of the endophoric definite determiner (▯́) used for object incorporation
-
 ⚠ ló -1 `en` @oldofficial #ytOzh3UNf
 determiner: ‘the’; allomorph of the endophoric definite determiner (▯́) used for object incorporation
 
@@ -42157,6 +42190,9 @@ determiner: ‘the’; allomorph of the endophoric definite determiner (▯́) u
 determiner: ‘the’; allomorph of the endophoric definite determiner (▯́) used for object incorporation
 
 ⚠ ló -1 `en` @oldofficial #q65_dqRzt
+determiner: ‘the’; allomorph of the endophoric definite determiner (▯́) used for object incorporation
+
+⚠ ló -2 `en` @oldofficial #nQytEpQC6OP
 determiner: ‘the’; allomorph of the endophoric definite determiner (▯́) used for object incorporation
 
 loa ± `en` @official #9RO4xEmX92
@@ -42440,6 +42476,9 @@ loechuo ± `en` @robintown #vpp-fhYKx
 
 loefa +1 `en` @uakci #0CBWrjSNt
 ▯ is a moth.
+
+loefeı ± `en` @Laqme #5PQ6ewQBS
+▯ is furious / seethes with anger.
 
 loefua ± `en` @Ilmen #amgiPeBya
 ▯ is a wood-burner / wood stove.
@@ -51602,7 +51641,7 @@ nıme ± `en` @Laqme #OklMgK8QV
 nımgea ± `en` @Laqme #GDqEWSTyK
 ▯ is privileged / upper-class / highly ranked.
 
-nımı +3 `en` @Machy #OOTuT5lqf
+nımı +4 `en` @Machy #OOTuT5lqf
 interjection: 'pleading'
 
 nımıao +2 `en` @Ilmen #k7pZvCijN
@@ -54356,7 +54395,7 @@ nheheo ± `en` @el #M7VZiCaLm
 nheheo ± `toa` @el #VTNJijDrm
 Heo [ja] [ja] [ja shıja] by lâ nhè hı bı ıq ja shíja
 
-nheı ± `en` @uakci #YXLIdobVl
+nheı -1 `en` @uakci #YXLIdobVl
 particle heading a floating relative clause relating a nearby preceding **co**
 
 nhejaı ± `en` @uakci #pKebEJdQ6
@@ -55633,6 +55672,9 @@ paparua ± `en` @el #si9zpytny
 
 papıka ± `en` @ArcyFox #U-kjBP6I7
 predicate: ‘paprike’; ▯ is paprika.
+
+papo ± `en` @Laqme #Ce2wUnEdl
+▯ is a pope.
 
 papuanıugını +1 `en` @Avaxar #p8CKSxLvW
 ▯ pertains to the culture of Papua New Guinea.
@@ -57644,8 +57686,17 @@ pona ± `en` @Laqme #Mvg-mnTzf
 ponachuaq ± `en` @nano #fTEewgT9d
 ▯ is a philosophy/ideology related to Toki Pona.
 
+ponade ± `en` @ijonetun #xn9x7H0wy
+▯ has toki-ponic charm/beauty
+
+ponagı ± `en` @Laqme #d0Jr1YKo8
+▯ is pona (good in a Toki Pona way).
+
 Ponagua +1 `en` @jiqci #97LS_r0ll
 ▯ is ma pona.
+
+ponahuı ± `en` @Laqme #HGMZ2shay
+▯ is an undesirable/inappropriate Toki-Pona-ism.
 
 ponapoq +1 `en` @Avaxar #QbPcatIff
 ▯ is a Tokiponist.
@@ -63157,6 +63208,12 @@ predicate: ‘Sapmi’; ▯ is Sapmi
 Samızu ± `en` @salarua #_KcBNYuHk
 predicate: ‘Sami.language’; ▯ is a Sami language
 
+samkero ± `en` @Laqme #wg9GzmAq5
+▯ is a pomelo tree.
+
+samo ± `en` @Laqme #vmMX5fYqH
+▯ is a pomelo.
+
 Samoa ± `en` @countries #MhNqpgVBJR
 ▯ pertains to the culture of Samoa – Independent State of Samoa.
 
@@ -67483,6 +67540,9 @@ tense: ‘EXS’; unrestricted existential
 sulam ± `en` @evie #IO5aIl4OU
 tense: always
 
+sulamguıq ± `en` @evie #v-HuZ0HRT
+▯ is deterministic
+
 sûm +1 `en` @seaqtaq #__AXyTo6l
 subject-sharing adverbial head: as if [subject] does/is...
 
@@ -69754,6 +69814,9 @@ shıuchı ± `en` @seaqtaq #aJbFPJlJn
 shıudaq ± `en` @Laqme #mWtRJwdV9
 ▯ is a past.
 
+shıudıu ± `en` @Laqme #0BpSjDtgO
+▯ is history.
+
 shıudua ± `en` @uakci #WA0pig9nK
 ▯ predicts that ▯ will happen.
 
@@ -69864,6 +69927,9 @@ shıumıu ± `en` @seaqtaq #PVIgR3RJp
 
 shıumıu ± `en` @seaqtaq #31nn5SVrX
 ▯ forms preconceived opinion ▯
+
+shıumoe ± `en` @Laqme #9FgMXAKDT
+▯ feels nostalgic / experiences nostalgia.
 
 shıumoı ± `en` @Laqme #FCdLwMkWZ
 ▯ plans/thinks ahead, thinking thought ▯.
@@ -72934,7 +73000,7 @@ tıbıao ± `en` @Machy #JytJjuH_b
 tıbıkıqme ± `en` @mimiaoganhaqpy #2XM8TaLmV
 ▯ is a television show.
 
-tıbo ± `en` @Laqme #FaX9KHKVd
+tıbo +1 `en` @Laqme #FaX9KHKVd
 ▯ has ▯ at it.
 
 tıbu ± `en` @Laqme #EHJzK-OF8
@@ -74302,7 +74368,7 @@ toaqsıechıaı -1 `en` @seaqtaq #VwWRSzJhU
 toaqsıedue -1 `en` @seaqtaq #TylsTn8zu
 ▯ is syntactically correct
 
-toaqsoaq +1 `en` @Laqme #40Nnx7_vv
+toaqsoaq +2 `en` @Laqme #40Nnx7_vv
 ▯ is a park where Toaqists have met.
 
 toaqtao ± `en` @Laqme #v9bIv11q3
@@ -74890,7 +74956,7 @@ toqpeqtıaı ± `en` @Laqme #0vKvkG3fP
 toqpuo ± `en` @uakci #f9Kdy27-O
 ▯ is dust (the kind you vacuum up).
 
-toqsa ± `en` @Hoemai #juvybs9XA
+toqsa +1 `en` @Hoemai #juvybs9XA
 ▯ is being patient.
 
 toqsaora ± `en` @jiqci #wwafaTuPg
