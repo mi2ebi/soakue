@@ -7778,6 +7778,9 @@ coemıto ± `en` @seaqtaq #zU6Wi7BiF
 coemuo ± `en` @Machy #uaUy6TaIR
 ▯ is connected / of one piece.
 
+coenea ± `en` @evie #lctuS0XiM
+▯ has low precedence / high scope
+
 coepeq ± `en` @fagri #k8HlRjDzY
 ▯ is a sticky note
 
@@ -7849,6 +7852,9 @@ predicate: ‘pin’; ▯ is a pin
 
 coezu ± `en` @Laqme #dJn9FiQOS
 ▯ is a synthetic language.
+
+coezuı ± `en` @evie #cMmRSdyFr
+▯ has high precedence / low scope
 
 coı- ± `en` @uakci #6KbbKwR0Q
 prefix: X understood objectively / as judged by some universal or agreed-upon standard
@@ -13469,6 +13475,9 @@ deaqme ± `en` @uakci #n9L4ZJVhM
 deaqnhuo ± `en` @uakci #oR_XrL3_w
 ▯ are stairs.
 
+deaqsoı ± `en` @Saqani #K7VkVZqjf
+▯ is ground fighting, ▯ is submission grappling
+
 deaqsha ± `en` @mimiaoganhaqpy #lwc2_8kUJ
 ▯ lands / descends onto ▯.
 
@@ -13540,6 +13549,9 @@ onomatopoeia: 'baa'
 
 deıgım ± `en` @jiqci #w4jFxZ8Vj
 ▯ is an instrument from the violin family.
+
+deımoq ± `en` @TheAndSys #IC0tknIIu
+▯ is a daemon
 
 dekaı ± `en` @seaqtaq #iQv9iy0Mf
 ▯ writes ▯ via calligraphy
@@ -16210,7 +16222,7 @@ Aspect node: ▯ happens eventively.
 ebuq +1 `en` @robintown #wvTy6Lvoq
 ▯ is dew.
 
-ecı +2 `en` @TheAndSys #BAnixjIfk
+ecı +3 `en` @TheAndSys #BAnixjIfk
 predicate: 'made.happen': ▯ is caused/made happen by ▯ (identical to bo-tua)
 
 ecıa ± `en` @uakci #gbnCEEZ8G
@@ -20303,7 +20315,7 @@ geısho ± `en` @Laqme #XjfC1Danf
 ▯ puts on (starts wearing) ▯.
 
 geıtıeq +1 `en` @ijonetun #2NTeb83EM
-▯ is a runway; a walkway where people show off an outfit, usually for an audience
+▯ is a runway/catwalk; a platform on which an outfit is shown off to an audience
 
 gejıcha ± `en` @seaqtaq #F608IFgIi
 abstraction of **kajıcha** with respect to every possible sensory input processing mechanism (e.g. olfactory, gustatory, proprioceptive, tactile, etc.)
@@ -49400,6 +49412,9 @@ conjunction: "that is", "or equivalently", "i.e."
 nạ́joı ± `en` @Laqme #LzsagDxwT
 conjunction: and (happening together)
 
+najucı ± `en` @evie #5lSfWEeFY
+▯ is overhead / required preparation for satisfying property ▯
+
 nako ± `en` @TheAndSys #jFrXcagpo
 ▯ is spare, is extra, is a leftover from process ▯
 
@@ -62334,6 +62349,9 @@ ruıkaıkea ± `en` @Machy #O11v5D_kW
 ruıkuq +1 `en` @uakci #kbDuFvwHS
 ▯ says ▯ in a evasive/underhanded/weaselly way.
 
+ruıluko ± `en` @Ilmen #jMgl8g71A
+▯ is a grey wolf.
+
 rúım +1 `en` @uakci #nOUpw3e5R
 focus prefix: X instead (of some other option)
 
@@ -68128,7 +68146,7 @@ shanapıu ± `en` @uakci #ttT1jattp
 shanashaı ± `en` @salarua #OxeWwoETF
 ▯ undergoes menopause
 
-shao +4 `en` @uakci #FcGl3tIP1
+shao +5 `en` @uakci #FcGl3tIP1
 ▯ wants to satisfy property ▯.
 
 shao ± `en` @official #z_8bYr9LF7
