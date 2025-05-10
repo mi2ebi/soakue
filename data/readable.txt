@@ -701,7 +701,7 @@ Amarazu ± `en` @eednb #jXsnQvc1x
 amba ± `en` @lassc #kvpVNPn9i
 interjection: "stay strong!", "keep going!", "hold on!"
 
-ame ± `en` @lassc #j6guO__qF
+ame +1 `en` @lassc #j6guO__qF
 interjection: early termination of sentence
 
 Amenıa ± `en` @countries #8LPYpnwNbJs
@@ -1106,6 +1106,9 @@ interjection: "of course not!", "that'd be crazy!", "perish the thought!"
 aopaıkoı ± `en` @fagri #AmxmQImvn
 ▯ ıs an ascender (a letter wıth a part that goes above the normal lıne)
 
+aora ± `en` @Laqme #J0JZaMX3v
+▯ is an aura / vibe.
+
 aoro +1 `en` @robintown #Hhhd_4vC6
 ▯ is a bamboo plant.
 
@@ -1324,6 +1327,9 @@ aqmana ± `en` @uakci #f_tvG0eAV
 
 aqmı ± `en` @Laqme #Uadf-s1l5
 ▯ is a noun form.
+
+aqmınhue +1 `en` @evie #aXCJg26T_
+▯ is underfilled
 
 aqmırao ± `en` @evie #IDtMCKnds
 ▯ is an admiral
@@ -6614,10 +6620,10 @@ casaı ± `en` @uakci #BldsxZCks
 casaı'aı ± `en` @uakci #exfofXwdQ
 ▯ is nutritious/stuffy/hearty.
 
-case +1 `en` @Laqme #jBh6nAzAm
+case +2 `en` @Laqme #jBh6nAzAm
 ▯ is an effect / result.
 
-case ± `en` @Machy #9nFygiMYP
+case -1 `en` @Machy #9nFygiMYP
 ▯ is a process.
 
 cası ± `en` @Machy #kYvFmd02P
@@ -7175,7 +7181,7 @@ Chuamerıka ± `en` @robintown #yCiiiKfaG
 ⚠ Chuq. -1 `en` @oldofficial #4JNGztZ_rW
 Eating is going on.
 
-cı- +2 `en` @uakci #0h9-8kiFw
+cı- +1 `en` @uakci #0h9-8kiFw
 gloss over the initial part of a compound which ends with the following material
 
 cı ± `en` @official #cjVX8sq7Pc
@@ -14282,6 +14288,9 @@ dıetaq ± `pl` @jiqci #vftK8s6mr
 dıetaqkue ± `en` @takoda #Sbu888hvF
 ▯ is a wiki / publicly collaborative document
 
+dıgıq +1 `en` @evie #MCOK_bLzm
+▯ is prohibited from satisfying property ▯
+
 dıgıq ± `en` @Ilmen #Ef3ySqc3Y
 ▯ is disallowed.
 
@@ -18157,6 +18166,9 @@ fıakaıse ± `en` @Laqme #HqpV-IYqF
 fıako ± `en` @Ilmen #aId4EFtY1
 ▯, in the sequence ▯, is at position ▯, counting from the end/right direction, the last slot having 1 as its index.
 
+fıam- ± `en` @evie #PxUtkUQ3W
+prefix (number→number): the first n
+
 fıamaq ± `en` @Ilmen #Qw1_oepxC
 ▯ is it (obviative); ▯ is the second-to-lastly mentioned inanimate referent.
 
@@ -18366,6 +18378,12 @@ fımaq ± `toa` @Ilmen #VNVFzY_rs
 
 fıme ± `en` @Laqme #CS1OJuIHu
 ▯ is a grammatical subject.
+
+fımelam ± `en` @Laqme #Kc5ZF9kk9
+▯ (verb)'s subject can't be an event; ▯ produces subject-sharing adverbials.
+
+fımeroao ± `en` @Laqme #y5o79eiRW
+▯ is subject-sharing / is an adverbial phrase that "decorates" the subject.
 
 fımeteı ± `en` @Laqme #NRsX7WfO8
 ▯ is the nominative case.
@@ -22363,6 +22381,9 @@ gomchoq ± `en` @salarua #n5q3i44Fq
 gome ± `en` @Laqme #X7dnqPsyT
 ▯ is a grammatical direct object.
 
+gomeheq +1 `en` @Laqme #eNjxyiqx_
+▯ (VP) incorporates object ▯.
+
 gometeı ± `en` @Laqme #R2f1SK8WV
 ▯ is the accusative case.
 
@@ -23590,6 +23611,9 @@ guoko ± `en` @Ilmen #umXqNrwMy
 guola +2 `en` @Ilmen #a4S35H8bs
 ▯ is a wolverine.
 
+guolam ± `en` @Laqme #H3oydblhz
+▯ (verb)'s subject can be an event; ▯ produces eventive adverbials.
+
 guoleaqbıe ± `en` @Ilmen #rPP4iMY2C
 ▯ is the next one after ▯ to take place in the temporal sequence of occurrences of ▯.
 
@@ -23631,6 +23655,9 @@ guoraq ± `en` @uakci #EQGMeWXU7
 
 guorı +1 `en` @robintown #C0pBoF0kY
 ▯ is a treat / an indulgent snack.
+
+guoroao ± `en` @Laqme #MiPa9cHdp
+▯ is eventive / is an adverbial phrase that "decorates" the event.
 
 guosa +1 `en` @official #vgMRB_vCMc
 predicate: ‘sometimes’; ▯ happens sometimes.
@@ -24156,6 +24183,9 @@ habı ± `en` @Ilmen #9P0vdO2c6
 
 habo ± `en` @official #jN3bCW9YdnT
 predicate: ‘one's’; ▯ is one's (the generic/impersonal person's).
+
+habuı ± `en` @evie #hIdOAq5kl
+▯ is a consensus, community decision, etc
 
 hacoı ± `en` @uakci #hqxUZ32Eg
 ▯ has property ▯ like any other person does; ▯ is universally human in satisfying property ▯.
@@ -32112,6 +32142,9 @@ jıqcızu ± `en` @seaqtaq #fviGXRb7t
 jıqcuao ± `en` @uakci #2JtRgQ1xq
 ▯ is transcendent.
 
+jıqchı +1 `en` @Laqme #kIN989H1f
+▯ "believes in" / lends credence to ▯ being the case.
+
 jıqchoq ± `en` @uakci #uanTXHPTO
 ▯ uses ▯ in practice for ▯.
 
@@ -38414,9 +38447,6 @@ State of affairs ▯ is soothed/ailed/assuaged.
 koꝡeja ± `en` @jiqci #mcUTNFzYN
 ▯ calms down / de-escalates state of affairs ▯.
 
-kps ± `en` @evie #XWRikLgmY
-textspeak for **ké po sá**
-
 ⚠ ksk ± `toa` @el #DoB85MEVR
 = kuaq sheo ka
 
@@ -43164,6 +43194,12 @@ luakuı ± `en` @fagri #knn9P_8gx
 luakuı ± `en` @salarua #pftuEjyNC
 ▯ has moral ▯
 
+luakuq ± `en` @Laqme #j7tr4-Mm8
+▯ narrates / tells story ▯.
+
+luakuqche ± `en` @Laqme #Asu7Qnp7r
+▯ is a narrator.
+
 lualıem ± `en` @Laqme #8lESgMejN
 ▯ is a MacGuffin.
 
@@ -44910,7 +44946,7 @@ mazıcheı +1 `en` @uakci #Xx9oOsK0S
 mazıkochom ± `en` @jiqci #6npxImLW4
 ▯ is a Colorado potato beetle (Leptinotarsa decemlineata).
 
-mazıme ± `en` @uakci #cMNYfJaER
+mazıme +1 `en` @uakci #cMNYfJaER
 ▯ does ▯, refuses to elaborate, then leaves.
 
 mazıme ± `toa` @mimiaoganhaqpy #3EuPNLcF9
@@ -47411,6 +47447,9 @@ moıdeqma ± `en` @seaqtaq #TwesS_bze
 moıduotua -1 `en` @uakci #WLF_Jn435
 ▯ practises telekinesis; ▯ moves ▯ with the power of their mind.
 
+moıfacaq ± `en` @TheAndSys #kEnq7gmf6
+▯ leads ▯ to conclude/think/believe ▯
+
 moıfaı ± `en` @Laqme #ulopXoSPH
 ▯ is neurotypical.
 
@@ -47917,6 +47956,9 @@ mu -2 `toa` @uakci #S2H1quHQ2
 
 mu -2 `toa` @Ilmen #2LMKd1fY4
 = gujeo go ▯ sa ▯; gujeo go ▯ ▯ ▯.
+
+mu'uı ± `en` @evie #2cIQ5BIa1
+▯ is the intended meaning of ▯
 
 mu'uq +1 `en` @Ilmen #C3UZt2u83
 ▯ says something roughly equivalent to ▯ (possibly in another language).
@@ -49295,7 +49337,7 @@ nahonam ± `en` @evie #97nKR3uMv
 nahonam ± `ru` @SuperSpaceNiM #GXSPcdY08
 ▯ — чесночный хлеб!!
 
-náhu ± `en` @Laqme #YBnmvzy2O
+náhu +1 `en` @Laqme #YBnmvzy2O
 determiner: ‘that’; distal endophoric; the non-recently aforementioned X
 
 naı ± `en` @official #BGFCTCaseC
@@ -50192,6 +50234,9 @@ nasoparuqnoso ± `en` @Hydro #lRU7FTZGk
 nạ́shıu ± `en` @Laqme #vxF5KljcK
 conjunction: before
 
+nate ± `en` @evie #mK9NlFU21
+▯ has been fronted/cleft
+
 natı +1 `en` @Laqme #g5wvMzKO2
 ▯ is over there.
 
@@ -50633,7 +50678,13 @@ neqcıtoq +1 `en` @Ilmen #gEtKC4c3r
 neqcha ± `en` @uakci #czEsgu-oQ
 ▯ happens in a luck-determined way.
 
-neqdoa ± `en` @uakci #djQK6B0hf
+neqdo +1 `en` @Ilmen #MOTje39L4
+▯ wishes to person ▯ that ▯ happens.
+
+neqdo ± `en` @Ilmen #Cd_MOdU6O
+▯ wishes to person ▯ to have property ▯.
+
+neqdoa -1 `en` @uakci #djQK6B0hf
 ▯ wishes (to person) ▯ that ▯ happens.
 
 neqdotue ± `en` @mimiaoganhaqpy #rARgpWhTf
@@ -51361,6 +51412,9 @@ nıegaıkea ± `en` @Ilmen #8EtDmbJ9p
 
 nıegoa ± `en` @fagri #Q-Xx4WUTf
 ▯ is the space inside of ▯; ▯ is the inside of ▯
+
+nıegome +1 `en` @Laqme #QcF3K5bt3
+▯ is an incorporated object.
 
 nıehua ± `en` @Laqme #Ytmv5Sp6n
 ▯ are guts/viscera.
@@ -55325,7 +55379,7 @@ predicate: ‘it’; relative pronoun whose antecedent is the head of the contai
 pa -1 `en` @el #6GYakxr1u
 argument fronter: takes a single argument (not an adverbial) to its left, and the verbal complex to its right; inserts the left argument between the verb and the first argument on the right
 
-pá +3 `en` @Laqme #f_T-L2FKt
+pá +2 `en` @Laqme #f_T-L2FKt
 illocution marker: imperative with elided súq subject
 
 paba ± `en` @seaqtaq #aWTdPBkb_
@@ -59136,7 +59190,7 @@ rabu ± `en` @uakci #6XCgW6fue
 rabuaq ± `en` @seaqtaq #ztJwhWVCh
 ▯ fails at not satisfying property ▯ after repeatedly or intensely telling or reminding themselves to not satisfy said property; ▯ ends up satisfying property ▯ after trying to ensure that they do not
 
-radao ± `en` @Laqme #rJqksxRjJ
+radao +1 `en` @Laqme #rJqksxRjJ
 ▯ does ▯ without much specific intent / idly / nonchalantly / exploratorily / "just doing whatever".
 
 radıaq +1 `en` @Laqme #kENwA-m3u
@@ -64882,7 +64936,7 @@ sıaosuao ± `en` @uakci #ZRTUksmZv
 sıaote ± `en` @Laqme #fVgBhkrKD
 ▯ has started / is in progress.
 
-sıaotoa ± `en` @uakci #gKfgJHvHT
+sıaotoa -1 `en` @uakci #gKfgJHvHT
 ▯ is the incipit/leading words/line of verse of ▯.
 
 sıaotu ± `en` @seaqtaq #V_3PQ5uel
@@ -65062,7 +65116,7 @@ sıe +1 `en` @Laqme #-cBjMWU2A
 sıe ± `pl` @jiqci #AuBl7BQ8u
 ▯ następuje po ▯ w kolejności ▯.
 
-sıebaq +3 `en` @uakci #Ub-RUlhlA
+sıebaq +2 `en` @uakci #Ub-RUlhlA
 ▯ is a list; ▯ is a sequential collection of things that satisfy the property ▯.
 
 sıeceo ± `en` @Ilmen #KtSx4-iqA
@@ -70300,7 +70354,7 @@ word-quote: ‘the.word’; turn next word into quote predicate
 shú +1 `en` @Laqme #eLZk8RIN8
 word-quoting determiner: the word…
 
-shu'aı ± `en` @Machy #axWLzIFVo
+shu'aı -1 `en` @Machy #axWLzIFVo
 word-quote: turn next word, *not* including tone, into quote predicate.
 
 shu'u ± `en` @robintown #-iS6S8cHI
@@ -70405,7 +70459,7 @@ shuaıteı ± `en` @uakci #hmSyKvCeB
 shuaıtoa ± `en` @uakci #rDivLTXxU
 ▯ is a simple (monosyllabic) root.
 
-shuaıtue ± `en` @uakci #5pp1llnpj
+shuaıtue -1 `en` @uakci #5pp1llnpj
 ▯ is the form of proposition ▯ where serial predicates, **mu**, surplus **jeo** are recursively expanded, yielding the most bare representation.
 
 shuaıtuım ± `en` @Laqme #-hdTvS8Fk
@@ -70834,6 +70888,9 @@ shulıpeq ± `en` @jiqci #2yt-Qm3ZU
 shum ± `en` @jiqci #8-9Zqpt6X
 ▯ is short (not tall).
 
+shume ± `en` @evie #UueWFL3FD
+predicatizer: ▯ are the words ... teo (not necessarily ordered)
+
 shumfu ± `en` @jiqci #NmzyDgOIl
 ▯ is a smurf.
 
@@ -70969,7 +71026,7 @@ shushu ± `en` @uakci #3BsxHYhhO
 shushude +1 `en` @Neaqbua #EkppU5mQP
 ▯ is huggable/snuggly (cute in a way that invites physical affection)
 
-shuteı ± `en` @uakci #As-02dvQw
+shuteı -1 `en` @uakci #As-02dvQw
 word-quote: turn next word, *not* including tone, into predicate "▯ is the word [word]"
 
 shuzaı ± `en` @seaqtaq #1nah0zx_B
@@ -72276,6 +72333,9 @@ teıseom ± `en` @Laqme #WoMVxLGYP
 
 teısıao ± `en` @seaqtaq #mDKiT7c_M
 ▯ (property) is the default/out of the box state of ▯
+
+teısıao ± `en` @evie #gp6s5ZaX6
+▯ satisfy property ▯ by default
 
 teısıoq ± `en` @uakci #G3BHcYl-p
 ▯ is circle/ring/hoop-shaped.
@@ -77301,7 +77361,7 @@ zakıq ± `en` @jiqci #rTb5h2P0X
 zalaı ± `en` @uakci #gLDUUCDiX
 ▯ is an omen, prophetic sign, ominous occurrence, premonition/foreboding observation, “writing on the wall” (whether positive or negative).
 
-zam +1 `en` @el #dOOZsMa4s
+zam +2 `en` @el #dOOZsMa4s
 ▯ is unlikely / improbable
 
 zambonı ± `en` @jiqci #vGBIP4kMT
@@ -77313,7 +77373,7 @@ zamı ± `en` @seaqtaq #XMNk-4DQp
 zamıe ± `en` @jiqci #S-dTO-DfD
 ▯ is a parasite.
 
-zamna +1 `en` @robintown #kqBjdy6mv
+zamna +2 `en` @robintown #kqBjdy6mv
 ▯ is great/cool/fantastic.
 
 zamuo ± `en` @uakci #g-pjR56XJ
