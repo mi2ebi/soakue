@@ -1919,6 +1919,9 @@ bakanueq ± `en` @seaqtaq #CsWsu9S7E
 bake ± `en` @Machy #PQHG0ATmE
 Alternative form: 'bâ; imperative illocution'
 
+bakero ± `en` @Iako #Xpy92gey8
+▯ is a cowboy.
+
 Bakuqtoaı ± `en` @Amo #Yg-7WjZLO
 predicate: ‘imperative sentence’; ▯ is an imperative sentence; ▯ is a sentence with imperative illocution.
 
@@ -2638,6 +2641,9 @@ beınomlıao ± `en` @Ilmen #Gxfthtmyh
 
 beınoqlıao -1 `en` @Snow #Q_EG74UM0
 ▯ is a wine cap stropharia/burgundy mushroom. ▯ is Stropharia rugosoannulata.
+
+beıpo ± `en` @Iako #tiBu9srhY
+▯ is a vape / electronic cigarette.
 
 beıra ± `en` @Laqme #zJD5yjoXy
 ▯ is a hill.
@@ -4126,6 +4132,9 @@ boepata ± `en` @seaqtaq #YBXRLhfyQ
 
 boeqdıaıjodıaı ± `en` @Ilmen #h_UTqykO6
 ▯ is a Boeing 747.
+
+boesıga ± `en` @Iako #-KTlejoOC
+▯ is a cigar.
 
 boeteımuhuaqtuamu ± `en` @uakci #C-HnHuaMx
 ▯ is flattered.
@@ -9545,6 +9554,9 @@ chetue ± `en` @Laqme #_BwNcBCQ1
 cheu ± `en` @Ilmen #xqEAmdmgC
 ▯ deceitfully/dishonestly satisfies property ▯.
 
+cheubuq +1 `en` @Laqme #axEVeOxEi
+▯ is a liar.
+
 cheuchea ± `en` @jiqci #42mLc0h5t
 ▯ is a death cap (Amanita phalloides).
 
@@ -9559,9 +9571,6 @@ cheukuq +1 `en` @Laqme #CAPykhiMN
 
 cheukuqse ± `en` @evie #wsNOYNjTd
 ▯ is a lie
-
-cheumuq +1 `en` @Laqme #GIPOR0i6t
-▯ is a liar.
 
 cheupı ± `en` @Snow #3OOSWT8_t
 ▯ is a forgery of ▯.
@@ -38072,6 +38081,9 @@ koıcha +1 `en` @Machy #x5D5-O_KH
 koıcha ± `en` @Snow #PUxjwkusc
 ▯ is a gait.
 
+koıche ± `en` @Iako #xMQzilE1s
+▯ is a pedestrian.
+
 koıfa ± `en` @Laqme #-sLQMaO_L
 ▯ goes to ▯ from ▯ on foot.
 
@@ -40410,6 +40422,9 @@ caı dóshı laq da
 laqcaı ± `pl` @jiqci #c8pje01M5D
 ▯ jest głośny.
 
+laqcaıne ± `en` @Iako #RnxfpsQSa
+▯ is the volume of a sound.
+
 laqcıa +1 `en` @robintown #aSLa-Htrx
 ▯ is silent/soundless.
 
@@ -40463,6 +40478,9 @@ laqgeabıa ± `en` @el #D0ktLIAnF
 
 laqgeacuao ± `en` @jiqci #ES4rIrLft
 ▯ is an ultrasound.
+
+laqgeane ± `en` @Iako #EuYzcqOos
+▯ is the pitch of a sound.
 
 laqgearı ± `en` @Laqme #QQLRB6Csc
 ▯ is a bell tower / belfry.
@@ -53798,6 +53816,9 @@ nulızeq ± `en` @jiqci #DVXEMw06_
 nuloq ± `en` @TheAndSys #6uoce8bMM
 It is hot. (Nullary)
 
+num +2 `en` @Laqme #JMGiPbFSd
+▯ involves ▯.
+
 numero ± `en` @xorxes #I3Lozgsc_
 ▯is/are a number of thing(s) satisfying property▯.
 
@@ -56803,6 +56824,9 @@ polarity: both true and false
 
 pıenao ± `en` @Laqme #IB35kSSjj
 ▯ is potable water.
+
+pıeq ± `en` @Iako #If6A0JOlQ
+▯ slaps ▯.
 
 pıeraı ± `en` @robintown #Nst9m2zrz
 ▯ is a beverage.
@@ -65332,6 +65356,9 @@ predicate: ‘cigarette’; ▯ is a cigarette.
 sıga ± `pl` @jiqci #ft6OyjwWsO
 ▯ to papieros.
 
+sıgaro ± `en` @Iako #ZJzFYwxbc
+▯ is a cigar.
+
 sıgı +6 `en` @Laqme #_ko4X6EVL
 predicate: ‘interesting’; ▯ is interesting.
 
@@ -67428,6 +67455,9 @@ suetao ± `en` @uakci #36oCV5aHv
 suezıam ± `en` @Laqme #-VPqqYZAY
 ▯ disobeys ▯.
 
+sufuq ± `en` @Laqme #PQMyy9UDS
+▯ is a suit (as in the Western business-wear set of clothes).
+
 sụgı +1 `en` @examples #2qXOJaQUT6F
 best
 
@@ -68976,6 +69006,9 @@ sheqgaosaı ± `en` @jiqci #xZxQyhtbH
 
 sheqloha ± `en` @Laqme #CU7y4l3WH
 ▯ is steel.
+
+sheqma ± `en` @Laqme #fwstOny4u
+▯ is a razor.
 
 sheqmuıq ± `en` @Laqme #pfTS7HiCN
 ▯ is a bladed weapon.
@@ -92463,9 +92496,6 @@ zue jearıaq ± `en` @robintown #RZ5_jZ8Nk
 ⚠ bakoy ± `en` @Machy #jP1FQ_-wc
 ▯ makes requests of ▯.
 
-⚠ baqpıry +1 `en` @Laqme #uIdTzYalK
-▯ is a vampire.
-
 ⚠ batıny ± `en` @salarua #QrcTu8_Bi
 ▯ is Beltane/May Day
 
@@ -92901,9 +92931,6 @@ interjection: 'interest'
 ⚠ fuyjeo ± `en` @uakci #wBY0vV2JD
 ▯ satisfies the predicate that defines **fuy**.
 
-⚠ fúy ± `ja` @Laqme #jx6UNGbmR
-代名詞：「それ」；有生性クラス VIII（人称代名詞）の限定詞句を参照する束縛代名詞
-
 ⚠ fúy -1 `en` @oldofficial #gRNkzV9EM7L
 pronoun: ‘it.VIII’; anaphoric pronoun for personal pronouns (class VIII)
 
@@ -92924,9 +92951,6 @@ interjection: “oh no”; “no, no, no”; “this isn’t right”; “I’m 
 
 ⚠ gekyı ± `en` @seaqtaq #DsF8Kg13b
 in state of affairs ▯, the semantic role of STIMULUS is assumed by ▯
-
-⚠ geqkoyrıaq ± `en` @Laqme #mVzOEODFX
-▯ is a forum.
 
 ⚠ gıkoy ± `en` @uakci #dHq3BhimB
 ▯ praises/commends ▯.
@@ -92982,14 +93006,8 @@ conjunction in RU: Y (which is somehow related to X)
 ⚠ haky -1 `en` @Ilmen #2anj-NF7c
 ▯ is a wing.
 
-⚠ haokyı ± `en` @Laqme #aROf3ovS0
-in ▯, some (salient, elliptic) semantic role is played by ▯; ▯ involves ▯.
-
 ⚠ haomy -1 `en` @el #IOFFwNdmv
 ▯ is a doodad (a specific tool/implement/etc for accomplishing a task / doing a verb, when the speaker doesn't really know how to describe the action or tool, or it would be too unwieldy to do so)
-
-⚠ haqbygy +1 `en` @Laqme #w6j9XdVKY
-▯ is a hamburger.
 
 ⚠ haqheqmy ± `en` @salarua #OX1nMfmB4
 ▯ is a takeout box
@@ -93068,9 +93086,6 @@ The sun sets; Sun ▯ sets.
 
 ⚠ huaılyreaq ± `toa` @robintown #1Hf1SbNNs
 Huaılyjıaı ▯ rúeceq.
-
-⚠ huaımyne +1 `en` @Laqme #VT7zJN7CF
-▯ is a spoonful.
 
 huelaleq(fuo) +1 `en` @Hoemai #L4GwdJ5U0
 ▯ performs cunnilingus on ▯.
@@ -93285,9 +93300,6 @@ begin incidental clause commenting on enclosing sentence; binds **hóa** to refe
 ⚠ kafykyhese ± `en` @Machy #JfA16hxD9
 ▯ is Kafkaesque.
 
-⚠ kafyka'aı ± `en` @Laqme #-Yk5o3HYV
-▯ is Kafkaesque.
-
 ⚠ kaıchoımy ± `en` @Laqme #RuPmznF9j
 ▯ is a pencil sharpener.
 
@@ -93342,9 +93354,6 @@ personal pronoun: obviative 3rd person pronoun.
 ⚠ konıly ± `en` @uakci #m2bwTIEl0
 ▯ is bnuuy.
 
-⚠ koycheo ± `en` @Laqme #vkW7Hl1EY
-▯ talk among each other.
-
 ⚠ koyrıoq ± `en` @uakci #injIKAShl
 ▯ is a social identity; ▯ describes who one wishes to socialize with.
 
@@ -93398,9 +93407,6 @@ kuaıruo(he) ± `en` @seaqtaq #Oced9WUUN
 
 ⚠ kuytao ± `en` @uakci #pjAwbuZ9s
 ▯ pleads/whimpers.
-
-⚠ kúy ± `ja` @Laqme #5LBLF768f
-代名詞：「それ」；有生性クラス VI（LU節）の限定詞句を参照する束縛代名詞
 
 ⚠ kúy -1 `en` @oldofficial #-oMpZmBhdaP
 pronoun: ‘it.VI’; anaphoric pronoun for LU phrases (class VI)
@@ -93870,9 +93876,6 @@ Semantic role: event ▯ has ▯ take place as part of the event.
 ⚠ paqkyı ± `en` @Machy #Y2tTclrKj
 Semantic role: event ▯ has event ▯ take place as part of the former happening.
 
-⚠ Pasyka ± `en` @Laqme #8c5QISPWY
-▯ is Easter / Passover / Pesach.
-
 ⚠ pasyka ± `en` @salarua #VU_8Qa1wq
 ▯ is Easter
 
@@ -94134,9 +94137,6 @@ suaı(mıeq)chuo ± `en` @seaqtaq #4AVNQ9bEL
 supaqkaı(doa) ± `ja` @guoqchoa #iO2fevk9y
 ⬚はスパムメッセージ⬚を⬚(ﾁｬｯﾄ/掲示板/ｸﾞﾙｰﾌﾟ/ﾁｬﾝﾈﾙ)に送る
 
-⚠ suty -1 `en` @Laqme #cCI4CisIw
-▯ is a suit (as in the Western business-wear set of clothes).
-
 ⚠ syq -1 `en` @fagri #W-SvuUr06
 quantifier: same as "sa", but only quantifies over individuals
 
@@ -94148,9 +94148,6 @@ terminator: terminate statement
 
 ⚠ shaıchey -1 `en` @uakci #dUujJHbtY
 ▯ scams ▯ out of property ▯.
-
-⚠ sheqly ± `en` @Laqme #61o_tRvw6
-▯ is a razor.
 
 ⚠ shımy -1 `en` @uakci #gd8C8yymE
 ▯ is x₁.
@@ -94259,9 +94256,6 @@ predicatizer: ‘distributive identity’; turns following phrase X into predica
 
 ⚠ tuakyı ± `en` @seaqtaq #OAvqCm1Bf
 in state of affairs ▯, the semantic role of AGENT or ENABLER is assumed by ▯
-
-⚠ tuımyme ± `en` @Laqme #ASuefyzqs
-▯ is a row/array of seats.
 
 ⚠ tuımy -1 `en` @oldofficial #63O9p0VMq-4
 predicate: ‘seat’; ▯ is a seat/chair/stool/bench.
