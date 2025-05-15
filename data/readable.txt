@@ -644,6 +644,9 @@ alefelaı ± `en` @seaqtaq #jDILk1fP9
 alefem ± `en` @seaqtaq #8pICxH72_
 ▯ is some extremely/arbitrarily large value
 
+alısı ± `en` @Laqme #G0ZC-0kXn
+▯ is Alice-in-Wonderland-like.
+
 alıu +1 `en` @el #-RR0evUWw
 ▯ is an allium (garlic, onion, etc)
 
@@ -7832,6 +7835,9 @@ Coeruaıgua ± `en` @jiqci #0bAc_4Mmw
 coerueq ± `en` @seaqtaq #qO_BW5GbD
 ▯ is tightly bonded with ▯
 
+coeruka ± `en` @jiqci #TuzV-6PTy
+▯ is a spine (of a book).
+
 coesaı ± `en` @Ilmen #31E2mxbEM
 ▯ is glue.
 
@@ -9386,7 +9392,7 @@ predicato: ‘comunidad’; ▯ es una comunidad de ▯-dores
 chemegeqjıo ± `en` @robintown #7XRL15V7R
 ▯ is a community center / guild hall.
 
-cheneq ± `en` @Laqme #CKmnR4MVB
+cheneq +1 `en` @Laqme #CKmnR4MVB
 ▯ is in heat / estrus.
 
 cheo- +1 `en` @uakci #PFeqCYw1z
@@ -10981,6 +10987,9 @@ choıceaqjo ± `en` @Machy #vbfMSolDe
 
 choıcıa ± `en` @seaqtaq #TKltvZswI
 (fork of #bkT5bqnBQ) ▯ is dull
+
+choıco ± `en` @jiqci #7u0IjcVrZ
+▯ is a cockroach.
 
 choıcoe ± `en` @Ilmen #VRoawP5b3
 ▯ is pinned to support ▯.
@@ -24703,11 +24712,11 @@ haqdıu ± `en` @robintown #ZVIO3oya7
 haqdo ± `en` @official #Q6GbXmLRQCA
 predicate: ‘feed’; ▯ feeds ▯ food ▯.
 
+haqdo +1 `en` @Laqme #Qwb8mbv4x
+▯ feeds / gives food to ▯.
+
 haqdo ± `pl` @jiqci #O_GsqshIeN
 ▯ karmi ▯ jedzeniem ▯.
-
-haqdo ± `en` @Laqme #Qwb8mbv4x
-▯ feeds / gives food to ▯.
 
 haqfa ± `en` @uakci #24WTqGnZ8
 ▯ is out for food.
@@ -38573,6 +38582,9 @@ kuaıboaı +2 `en` @Ilmen #6a__QgceQ
 kuaıboaıle +1 `en` @Ilmen #IXJJejPHR
 ▯ is impulsive.
 
+kuaıbuo ± `en` @uakci #tKxSZXcTr
+▯ is excited/worked up/(in some sense) aroused by the idea of satisfying property ▯.
+
 kuaıbutao ± `en` @uakci #bYaFj7C1L
 ▯ does ▯ against their will.
 
@@ -38998,6 +39010,9 @@ kueqrıaq ± `en` @Snow #19X3UfVeS
 
 kueqse ± `en` @fagri #1teQ3jjxc
 ▯ are a crowd; ▯ form a crowd
+
+kueqtao ± `en` @Laqme #EtQiGPgBM
+▯ organize/perform collective action ▯.
 
 kueqtua ± `en` @official #p93_OwHGtI
 predicate: ‘collect’; ▯ collects/gathers ▯ (plural) at locus ▯.
@@ -46793,7 +46808,7 @@ name verb: ▯ is a street/road/avenue named (after) X.
 Mıtılazu ± `en` @eednb #kkITixRRJ
 ▯ is the Maithili language.
 
-mıtıq ± `en` @Laqme #lj6JrHgC5
+mıtıq +1 `en` @Laqme #lj6JrHgC5
 ▯ is a (business, work) meeting.
 
 mıto ± `en` @seaqtaq #TtzZOwxgy
@@ -53516,7 +53531,7 @@ nuetaq ± `en` @uakci #0rQNQTjdh
 nuetaq ± `en` @Laqme #tgTgwLNLv
 ▯ resolves to do ▯.
 
-nuhao ± `en` @Laqme #y3ws07bZ0
+nuhao +1 `en` @Laqme #y3ws07bZ0
 predicate: nullary **hao**
 
 nuhı ± `en` @Laqme #yZE5BH34_
@@ -62552,6 +62567,9 @@ rukahıe ± `en` @Ilmen #_VQa3qag8
 
 rukajeoq ± `en` @salarua #lZLXvkBWH
 ▯ is a spinal cavity.
+
+rukakecı ± `en` @jiqci #FSMmWFpAK
+▯ is spine poetry.
 
 rukalıaı ± `en` @fagri #SQtJt7m9T
 ▯ swims backstroke
@@ -78030,7 +78048,7 @@ zıamtaq ± `en` @Laqme #XoLkQPIW5
 zıase ± `en` @Laqme #Uh4jVhFI0
 ▯ is radiation.
 
-zıatı ± `en` @Laqme #TuNbCfWvP
+zıatı +1 `en` @Laqme #TuNbCfWvP
 ▯ is radioactive.
 
 zıatuoqlopıo ± `en` @Snow #OKpF9aBhX
