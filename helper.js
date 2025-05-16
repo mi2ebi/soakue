@@ -56,7 +56,7 @@ function replaceLinks(str) {
     // ugh why isn't /u a default regex flag
     let parts = str
         .replace(/\*\*/g, "📦")
-        .replace(/https?:\/\/([a-z0-9./#%?=&_:'-]+)/giu, "🌐$1🌐")
+        .replace(/(https?:\/\/[a-z0-9./#%?=&_:'-]+)/giu, "🌐$1🌐")
         .replace(/(?<!🌐[^ ]*)(#[a-z0-9_-]{9,})(?=[^a-z0-9_-]|$)/giu, "🆔$1🆔")
         .replace(/<((?![/ ])[^>]+(?<! ))>(?!.+<\/\1>)/giu, "📎$1📎")
         .match(/([📦🆔🌐📎])[^📦🆔🌐📎]*?\1|[^📦🆔🌐📎]+/ug);
@@ -65,7 +65,7 @@ function replaceLinks(str) {
         let head = part[0], body = part.slice(1, -1).join("")
         if (!"📦🆔🌐📎".includes(head)) return part.join("")
         if (head === "🌐") {
-            return mkel("a", { href: body }, [body]);
+            return mkel("a", { href: body }, [body.replace(/^https?:\/\//, "")]);
         }
         let search = head === '📦' ? '=' + body.replace(/ /g, '|') : body;
         return makeLink(search, body);
