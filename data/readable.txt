@@ -7328,6 +7328,9 @@ cıcı'a ± `en` @fagri #tbTI3KszO
 cıduao ± `en` @jiqci #aCMzz3lyG
 ▯ is a hexose (6-carbon saccharide).
 
+cıe- ± `en` @Laqme #TSba-qHzQ
+prefix: "carelessly/sloppily/messily/clumsily" form of a verb
+
 cıe ± `en` @official #NdZT-QpyIV
 predicate: ‘fish’; ▯ is a fish.
 
@@ -22396,6 +22399,9 @@ golofe ± `en` @Hoemai #VAgTuFCoQ
 gom- ± `en` @salarua #IEeWYYK4q
 prefix: mis-X; indicates that X is erroneous or is being done erroneously
 
+gom- ± `tlh` @evie #w3jYeZiQB
+-Ha' («Dop» ghaSbe')
+
 gom +1 `en` @Laqme #VEPq5pCfj
 ▯ makes the error/mistake of satisfying property ▯.
 
@@ -27718,7 +27724,7 @@ predicate: ‘feather’; ▯ is a feather.
 hue ± `pl` @jiqci #wod3FIiRoc
 ▯ to pióro.
 
-húe ± `en` @Laqme #1yia6Lnkb
+húe +1 `en` @Laqme #1yia6Lnkb
 pronoun: refers to last **ë** phrase (equivalent to **hụ́'e**)
 
 hue'o ± `en` @Ilmen #jOhTRwsoa
@@ -27727,7 +27733,7 @@ hue'o ± `en` @Ilmen #jOhTRwsoa
 huecea +1 `en` @Laqme #pr3L8Nx3t
 ▯ is a pillow / cushion.
 
-hueı ± `en` @Laqme #ngSP2pxrg
+hueı +1 `en` @Laqme #ngSP2pxrg
 ▯ is a feather.
 
 huekambe ± `en` @Snow #rc4LakoEM
@@ -36944,7 +36950,7 @@ kıcecheı ± `en` @TheAndSys #1OSU6TFs2
 kıceheq ± `en` @jiqci #exhIm_78L
 ▯ is an index (alphabetical listing of entries).
 
-kıcıe +1 `en` @uakci #1MeMCfeE5
+kıcıe +2 `en` @uakci #1MeMCfeE5
 ▯ is a jellyfish.
 
 kıcım ± `en` @Laqme #NvQy7KuWB
@@ -43479,7 +43485,7 @@ luaqmoe ± `en` @fagri #8CAJcvmI4
 luaqmoı ± `en` @TheAndSys #N7sndc0Pp
 ▯ is a puzzle
 
-luaqmu ± `en` @fagri #UmpnMxP-J
+luaqmu -1 `en` @fagri #UmpnMxP-J
 ▯ is a game (e.g. Chess)
 
 luaqmuaqtua ± `en` @uakci #z4BG0CQTH
@@ -43899,14 +43905,14 @@ predicate: ‘lux’; ▯ is a lux
 Lulesamızu ± `en` @salarua #Bi-vG-2uV
 predicate: ‘Lule.Sami.language’; ▯ is the Lule Sami language
 
-lulu +1 `en` @seaqtaq #km4S242OnT
-▯ french-kisses ▯
-
-lulu ± `en` @seaqtaq #pNg1QyKzF
-▯ french-kisses ▯
-
-lulu ± `en` @uakci #2Gw3jPbQn
+lulu +1 `en` @uakci #2Gw3jPbQn
 ▯ is a toy/plaything / something played with or used to play a game.
+
+lulu ± `en` @seaqtaq #km4S242OnT
+▯ french-kisses ▯
+
+lulu -1 `en` @seaqtaq #pNg1QyKzF
+▯ french-kisses ▯
 
 lum- ± `en` @seaqtaq #GoRnDMKhJ
 prefix: incorporate **lúm** object
@@ -54488,6 +54494,9 @@ nhaqnhaq +1 `en` @robintown #IIV7Tglth
 nhaqpoq +1 `en` @uakci #VW9sojaSy
 ▯ is a catboy/catgirl/catperson.
 
+nhaqrıaq ± `en` @Laqme #1AJekU2yE
+▯ is a cat café.
+
 nhara ± `en` @TheAndSys #Oyboe-aQw
 ▯ is free from satisfying property ▯
 
@@ -60675,6 +60684,9 @@ reutoaı ± `en` @Laqme #uNMPAnFXt
 reꝡa +1 `en` @Ilmen #s9SeJ1WOr
 ▯ is a color.
 
+reꝡatoq ± `en` @kazoo #WlMGXrFa6
+▯ is a Rubik's cube.
+
 rezuaq ± `en` @salarua #iTDj7w5nA
 ▯ is the Festival of Riḍván.
 
@@ -64318,7 +64330,7 @@ sekuqdıaqne ± `en` @uakci #PelYryMJM
 sekutoa ± `en` @Laqme #T_0CAbqmw
 ▯ is an individual-level predicate word.
 
-selaq +1 `en` @Laqme #SdN03icSl
+selaq +2 `en` @Laqme #SdN03icSl
 ▯ is a shark.
 
 selaq ± `en` @Hoemai #zbbpEhsbS
@@ -79821,7 +79833,7 @@ It made me happy and him sad.
 Ca hóq, ꝡä jaı jí rú ꝡä meo nháo da. ± `en` @examples #i4TTwJVGTIU
 It made me happy and him sad.
 
-Caımoı súq rubıe bı tua súq ba -1 `en` @examples #uzrP2qrfhh
+Caımoı súq rubıe bı tua súq ba -2 `en` @examples #uzrP2qrfhh
 (B0613) Think first and then act
 
 ca kịnuı ± `en` @examples #7OfS80ul4R
@@ -86298,7 +86310,7 @@ We love you, Hoemai!
 Maı jí káto jıbo, jü kuo hó. ± `en` @examples #fsy4EuDcUj3
 I love my cat, which is black.
 
-Maı jí ké cıe da. ± `en` @examples #5e4wGntqCJR
+Maı jí ké cıe da. +1 `en` @examples #5e4wGntqCJR
 I love the fish.
 
 ⚠ Maı jí ke cıe da. -1 `en` @oldexamples #tBY_nwvt6TQ
