@@ -3155,11 +3155,11 @@ bı'aq ± `en` @seaqtaq #cd0wyD4I9
 bı'atacha ± `en` @Hoemai #waJJiVWtE
 ▯ is a member of the family Blattaria (cockroaches).
 
+bıa +2 `en` @lassc #xZv2z4q4s
+▯ is afflicted with ▯.
+
 bıa ± `en` @official #fOFG0r1r5m
 predicate: ‘sick’; ▯ is sick/ill; ▯ is sick/ill with ▯.
-
-bıa +1 `en` @lassc #xZv2z4q4s
-▯ is afflicted with ▯.
 
 bıa ± `tok` @el #oIlYhABjX
 sijelo pi ▯ li jaki
@@ -5527,6 +5527,9 @@ Bumagua ± `en` @countries #6u5gYO_eLqs
 
 ⚠ Bumagua -1 `en` @oldcountries #xCxq9mdMnO
 ▯ is the country Burma → Myanmar.
+
+bumarıq ± `en` @Ilmen #3Y3do7PUG
+▯ is a boomerang.
 
 bumeraq ± `en` @official #ChFHS9GpzA
 predicate: ‘boomerang’; ▯ is a boomerang.
@@ -9565,6 +9568,9 @@ predicate: ‘each.other's’; ▯ is each other's.
 
 cheqcho ± `en` @uakci #plOLl_BBR
 ▯ and ▯ like each other.
+
+cheqchuaq ± `en` @lassc #9maqKVYcA
+▯ is socialism.
 
 cheqjeo ± `en` @uakci #U4ICedBy9
 ▯ satisfies the predicate that defines **cheq**.
@@ -14707,7 +14713,7 @@ doakıu ± `en` @uakci #30kZQx3vm
 doam ± `en` @TheAndSys #pB9-rMu7B
 ▯ is a quantity of ▯
 
-doanua ± `en` @uakci #joJ2NFXcO
+doanua -2 `en` @uakci #joJ2NFXcO
 ▯ (plural) exchange property ▯ with ▯; In amongst ▯, some lose property ▯ and gain property ▯, while the rest gains the former property and loses the latter.
 
 doao ± `en` @Laqme #4zTGgaT3e
@@ -22972,7 +22978,7 @@ guaqfuaqche ± `en` @robintown #8NEfvxGor
 guaqfuaqche ± `en` @robintown #lyqdUrxzm
 ▯ is a cartographer.
 
-guaqfurı +1 `en` @Laqme #etnrq5GO5
+guaqfurı +2 `en` @Laqme #etnrq5GO5
 The earth shakes/quakes; there is an earthquake.
 
 guaqfurı ± `en` @seaqtaq #tyKEPABXF
@@ -26193,6 +26199,9 @@ hıemzam ± `en` @seaqtaq #4H52BKZ3z
 
 hıena ± `en` @Hoemai #j4Q2HZFX1
 ▯ is a hyena.
+
+hıeq- ± `en` @kazoo #D8TBPo5ya
+prefix: victim of X
 
 hıeq ± `en` @Ilmen #atrsEilOF
 ▯ throws ▯.
@@ -29940,7 +29949,7 @@ jaqbunaq ± `en` @salarua #Fdtr67BND
 jaqcıa ± `en` @Machy #yAV-s1NOa
 ▯ is abject (extremely lacking) in how much it satisfies ▯.
 
-jaqchoaımute ± `en` @Machy #O446V8OXm
+jaqchoaımute -1 `en` @Machy #O446V8OXm
 ▯ is an apple product.
 
 jaqchu ± `en` @Ilmen #QsFDpXiSV
@@ -31124,6 +31133,9 @@ jeqtıaı ± `en` @uakci #tO1C40TT9
 
 jeqtıem ± `en` @Laqme #O2HwiOVBa
 ▯ is a bijection/correspondence.
+
+jeqtıeq ± `en` @kazoo #LO9WtK4nQ
+▯ is a comrade/fellow of ▯; ▯ is a close companion of ▯ in shared goals (or hardship)
 
 jeqtoe ± `en` @Laqme #VHznBXiyi
 ▯ cuts ▯ into equal parts ▯.
@@ -38171,6 +38183,9 @@ koıcha ± `en` @Snow #PUxjwkusc
 koıche ± `en` @Iako #xMQzilE1s
 ▯ is a pedestrian.
 
+koıchuo ± `en` @lassc #6Ysb9G16w
+▯ is a mobility aid (i.e. a cane, walker, wheelchair).
+
 koıfa ± `en` @Laqme #-sLQMaO_L
 ▯ goes to ▯ from ▯ on foot.
 
@@ -41304,7 +41319,7 @@ leoqrıaq +1 `en` @Ilmen #x4k4Br63V
 leoqrıo ± `en` @jiqci #rW_npAG9M
 ▯ is ozone.
 
-leoqrıoboe ± `en` @jiqci #SalHJEhbu
+leoqrıozuao +1 `en` @jiqci #SDUYOPQdA
 ▯ is the ozone layer / ozonoshpere.
 
 leoqtao ± `en` @Ilmen #LjM3SvIjv
@@ -44261,6 +44276,9 @@ macha ± `en` @salarua #oXbos_IfZ
 
 machachaı ± `en` @salarua #hX3D_EQlF
 ▯ is matcha tea
+
+machı ± `en` @lassc #Ev7sdj4wf
+▯ is chaos magic.
 
 mada +1 `en` @TheAndSys #Qddg4hzKN
 Interjection: Y'know, introducing a topic out of the blue, unprompted, even if related to the conversation
@@ -48331,6 +48349,9 @@ muaqmeopoqnuasoı ± `en` @Ilmen #E5rV-g5hF
 
 muaqpıo ± `en` @Laqme #2T55WBHZL
 ▯ is a tombstone.
+
+muaqpıu ± `en` @Ilmen #1haje9ZDf
+▯ is an animal pelt.
 
 muaqrıo ± `en` @uakci #CpXFoH819
 ▯ is carbon monoxide.
@@ -60801,6 +60822,9 @@ rıaıceaq ± `en` @Ilmen #iCro4vKHh
 rıaıchaı ± `en` @Laqme #y9FELAo5B
 ▯ is a protein shake/beverage.
 
+rıaıchuo ± `en` @lassc #l3KiyxQbZ
+▯ is a cane/staff/walking stick.
+
 rıaıhua ± `en` @uakci #LcHmKr96Q
 ▯ is a neck.
 
@@ -60873,7 +60897,7 @@ rıaoshıe ± `en` @robintown #UHg8DI3Br
 rıapuq +4 `en` @jiqci #NSVRQ450I
 ▯ is clueless; has no idea about the purpose of ▯ and what to do with it.
 
-rıaq ± `en` @official #fvZTTb7ojB
+rıaq -1 `en` @official #fvZTTb7ojB
 predicate: ‘place’; ▯ is a place/site; ▯ is the place/site of ▯.
 
 rıaq ± `toa` @uakci #zqkwmshNR
@@ -66386,6 +66410,9 @@ soe ± `pl` @jiqci #DFZ0e9I4SJ
 soeı +1 `en` @Laqme #OA4GOrslA
 ▯ is disabled / impaired / has the disability/impairment of not being able to satisfy property ▯ well or at all.
 
+soeıchuo ± `en` @lassc #5Zw3CF1AN
+▯ is an aid or treatment for an impairment or disability (i.e. a mobility aid, glasses, medications, etc).
+
 soeıgı ± `en` @uakci #tnR420g9q
 ▯ is accessible.
 
@@ -67708,6 +67735,9 @@ suımde ± `en` @Laqme #5YwgQ-iHL
 suımea ± `en` @jiqci #STHYsO1bH
 ▯ is among those satisfying property ▯ the least.
 
+suımgea ± `en` @kazoo #2n3CJQ607
+▯ is OLL (orientation of the last layer).
+
 suımgeaq ± `en` @Laqme #4k1csH5vd
 ▯ is messy / disorderly / cluttered / untidy.
 
@@ -67719,6 +67749,9 @@ suımma ± `en` @seaqtaq #ista65j6R
 
 suımmuo ± `en` @Laqme #qbomKg8Cn
 ▯ (binary relation) is a total order.
+
+suımsaq ± `en` @kazoo #PjmiN1Gek
+▯ is PLL (permutation of the last layer).
 
 suımse +1 `en` @Laqme #_FKK0m_m9
 ▯ is order.
@@ -72045,6 +72078,9 @@ tarı ± `en` @Ilmen #zo7S5TCWZ
 
 tarıka ± `en` @jiqci #ehwUxUOgU
 ▯ vetoes / exercises their veto power on ▯.
+
+taro ± `en` @lassc #igN_FnHLA
+▯ is cartomancy.
 
 tarom ± `en` @robintown #9ASDBt1hL
 ▯ is a true indigo (indigofera tinctoria).
@@ -78564,8 +78600,14 @@ zuaıcıa ± `pl` @jiqci #vL67qxW7IT
 zûam +1 `en` @Hoemai #qLM_HkYz8
 adjunct head: forms subject-sharing adverbials expressing "(in order) to"
 
-zuao +1 `en` @kazoo #wuqJaU7gn
+zuao +3 `en` @kazoo #wuqJaU7gn
 ▯ is a layer of ▯.
+
+zuaosaq ± `en` @kazoo #UEJbBgS4-
+▯ is the third layer in a Rubik's cube.
+
+zuaoshıgu ± `en` @kazoo #-COQ-0PmZ
+▯ is the first 2 layers in a Rubik's cube (F2L).
 
 zuaq ± `en` @Machy #YWrK4m14U
 ▯ is the property ▯.
@@ -94338,7 +94380,7 @@ perfective aspect
 ⚠ taqkyı ± `en` @seaqtaq #tQwIiHuep
 in state of affairs ▯, the semantic roles of both AGENT and PATIENT are assumed by ▯
 
-⚠ tekyı -1 `en` @seaqtaq #LcgXdD729
+⚠ tekyı -2 `en` @seaqtaq #LcgXdD729
 in state of affairs ▯, the semantic role of PATIENT is assumed by ▯
 
 ⚠ teqchey -1 `en` @uakci #8LcBW2PwY
