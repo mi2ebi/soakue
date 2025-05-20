@@ -8681,6 +8681,9 @@ cutaq ± `toa` @Ilmen #5Xdm5oXPL
 cutua ± `en` @uakci #TIkJ4UVz2
 ▯ satisfies with ▯ the inner relation induced by ternary predicate ▯.
 
+cuzuao ± `en` @jiqci #7xs_5qkGF
+▯ is a level (segment of a game).
+
 ⚠ ch +1 `en` @Laqme #khZARYmvk
 interjection: 'tsk', 'tut', 'psh'
 
@@ -10927,6 +10930,9 @@ choazaosu ± `en` @seaqtaq #Ajd6nbEfS
 
 choazu ± `en` @Machy #pwU-qk43m
 ▯ is spoken language; ▯ is a spoken language of ▯.
+
+chobonoa ± `en` @Ilmen #Np2cmj0eQ
+▯ is exigeant, demanding, difficult to please.
 
 chocheo ± `en` @uakci #QeeweX3OQ
 ▯ (plural) like each other.
@@ -18850,6 +18856,9 @@ fotolea ± `en` @lassc #iGgzXyRhw
 fotom ± `en` @Snow #YhyHDrUd-
 ▯is a photon.
 
+fototao ± `en` @Laqme #aLbG0RH8c
+▯ photographs ▯.
+
 ⚠ fou -1 `en` @fagri #cYDKS3fNp
 Sentence prefix: “by the way” (go on tangent)
 
@@ -19245,6 +19254,9 @@ fuome ± `en` @Ilmen #7FHxstT2z
 
 fuoq ± `en` @TheAndSys #1ZrCZQ9UP
 ▯ touches ▯ (somatic, agentive)
+
+fuora +1 `en` @Laqme #VwoXhO-Uw
+▯ intimately touches / makes out with ▯.
 
 fuorue +1 `en` @uakci #Yt2FTPAy-
 ▯ is soft to the touch.
@@ -28591,6 +28603,9 @@ Ibozu ± `en` @eednb #jg7cYrJGC
 ıdezeo ± `en` @kazoo #5TCmkpf6N
 ▯ is oleaster/Russian olive/silverberry.
 
+Idıshızu ± `en` @jiqci #AOL9kvvtV
+▯ is the Yiddish language.
+
 ıdojeq ± `en` @uakci #UgbQ7DjBn
 ▯ is hydrogen.
 
@@ -33194,6 +33209,9 @@ joqrom +1 `en` @jiqci #dFtLw_bNf
 
 joqsoı ± `en` @seaqtaq #iZD8jF2aGya
 ▯ is at war with ▯
+
+joqsuꝡe ± `en` @jiqci #jrO2u3W3m
+▯ shakes their head.
 
 joqshaq ± `en` @official #AJt1PhiLDQ
 predicate: ‘face’; ▯ is a face.
@@ -44460,6 +44478,9 @@ maıkuaı +2 `en` @Laqme #Bjj9iRa8n
 maıkuaq ± `en` @Laqme #G3Kr9XqDH
 ▯ confesses their love to ▯.
 
+maıkueq ± `en` @Laqme #LuYI7yI1l
+▯ (plural) make love.
+
 maılaı ± `en` @Laqme #N8PbkX-Pz
 ▯ is a heart (symbol).
 
@@ -49068,7 +49089,7 @@ muosoı ± `en` @seaqtaq #QbqxBLX01yQ
 ▯ is at war with ▯
 
 muoshaı ± `en` @Ilmen #9ABCnQwNj
-▯ reaches completion and therefore ceases to be the case.
+▯ completes, reaches completion and therefore ceases to be the case; ▯ is a process whose inherent final stage, endpoint or telos happens.
 
 muotaı ± `en` @uakci #43F5ktSsA
 ▯ manages to impart onto the whole/full ▯ relation ▯; ▯ finishes ▯ (probably an exhaustable resource, such as food) in performing relation ▯ at it.
@@ -50410,6 +50431,9 @@ conjunction: "in the sense that"
 
 naze +2 `en` @lassc #dE7mJcWxG
 interjection: bad underlying assumption
+
+nazo ± `en` @tonibrown #iUre-PI94
+▯ is a puzzle where instructions are not given explicitly and have to be inferred by the solver.
 
 ne- ± `en` @robintown #T--1gcG6w
 turns a natural number N into the verb "▯ are N in number."
@@ -55865,7 +55889,7 @@ Panamagua ± `en` @countries #eLoa9Bo3eWw
 ⚠ Panamagua -1 `en` @oldcountries #aCuJRsxHH1
 ▯ is the country Panama – Republic of Panama.
 
-paneku ± `en` @seaqtaq #OHASQsl5_
+paneku -1 `en` @seaqtaq #OHASQsl5_
 ▯ is cute
 
 pao ± `en` @official #bq5RuBewN
@@ -57329,7 +57353,7 @@ pıtoguı ± `en` @jiqci #ZLni2CiG8
 pıu- +2 `en` @Laqme #hj1LfAcx8
 prefix: 'X-pilled'
 
-pıu ± `en` @official #-NCJaPrrpA
+pıu +1 `en` @official #-NCJaPrrpA
 predicate: ‘skin’; ▯ is skin/peel/crust/hide/rind/outer cover.
 
 pıu ± `tok` @el #Xr6INw0t3
@@ -66586,6 +66610,9 @@ soıjam ± `en` @Laqme #0paqpD6-7
 
 soıjeoqtıeq ± `en` @Ilmen #hDQ2cJVTi
 ▯ is a war trench.
+
+soıkueq ± `en` @Laqme #JgCVzqY1K
+▯ (plural) fight / quarrel / have a row / have an altercation.
 
 soıkulo ± `en` @Ilmen #GgWXipGwD
 ▯ is a combat mosquito (mosquito used as a weapon).
