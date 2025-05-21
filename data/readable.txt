@@ -1241,7 +1241,7 @@ aq'aq ± `pl` @jiqci #_6QsmUaj9m
 aq'aqshe ± `en` @el #5PMi9D3yq
 ▯ is the letter Aq
 
-aqbı ± `en` @seaqtaq #_LvsQ87q1
+aqbı -1 `en` @seaqtaq #_LvsQ87q1
 meta-predicate: ▯ is that which obviously fits into the surrounding description; jẻı ▯´ lú [containing sentence with haqbī replaced with hoa].
 
 aqbo ± `en` @official #QX3RQ48YX3
@@ -1465,6 +1465,9 @@ predicate: 'love'; ▯ loves ▯
 
 aruꝡezım ± `en` @kazoo #BUgV_jATl
 ▯ is Aruz verse
+
+asabuoı +1 `en` @kazoo #vsx4yow67
+▯ is extremely sleepy to the point that they almost can't open their eyelids, but can't fall asleep at all.
 
 asaı +1 `en` @Machy #-bvqHnEeC
 ▯ is dirt/soil.
@@ -4886,7 +4889,7 @@ buaınıoq ± `en` @Ilmen #V_fbhAFNE
 buaınhe ± `en` @jiqci #VK8ic9yr3
 ▯ has / measures ▯ in length.
 
-buaıpuefuq ± `en` @Ilmen #lBYc4zpM6
+buaıpuefuq -1 `en` @Ilmen #lBYc4zpM6
 ▯ is a boot.
 
 buaırueq ± `en` @Laqme #UjfvV3H5U
@@ -5057,7 +5060,7 @@ bucaqhınoke ± `en` @Ilmen #VHfiDnA3i
 bucem ± `en` @Ilmen #Z1mtWjCOK
 ▯ is unusual, special.
 
-buchu ± `en` @Laqme #hAUm9juS2
+buchu +1 `en` @Laqme #hAUm9juS2
 ▯ is a boot.
 
 buda +1 `en` @Ilmen #F_UIrGkHk
@@ -6893,10 +6896,13 @@ cekekoaı ± `en` @robintown #qCrMlcxI-
 cekesıoq ± `en` @seaqtaq #d9eMevDfK
 ▯ is a Ferrous wheel
 
+cekoaı ± `en` @robintown #aHf_xNYqV
+▯ is a graph/network.
+
 celadoa ± `en` @uakci #phZ-7jR6G
 ▯ is a cellar door.
 
-cem +1 `en` @Laqme #xLt_v13bW
+cem +2 `en` @Laqme #xLt_v13bW
 ▯ is normal / usual / typical / expected.
 
 cembalo ± `en` @Laqme #gVS1lanEv
@@ -8216,6 +8222,9 @@ cuaqfıeq ± `en` @uakci #9-zUr4nIo
 cuaqke ± `en` @uakci #e443Y_2st
 ▯ is a specific/contextual instantiation/reification of concept ▯.
 
+cụaqkeaı ± `en` @seaqtaq #FHCAMnF4c
+▯ is (one's) rights; ▯ is the ethereal mass / "amount" of one's rights
+
 cuaqko ± `en` @uakci #DnNMGb7Xs
 ▯ fills in the ▯-th argument in proposition ▯.
 
@@ -8266,6 +8275,9 @@ cuaqshuekueq ± `en` @uakci #WgGaz6VTI
 
 cuaqshuekueqse ± `en` @uakci #LJ-vz49Qn
 ▯ is a compositional derivation (such as a serial predicate).
+
+cụaqshuıkeaı +1 `en` @seaqtaq #NKWuxkyPB
+▯ is (one's) privacy
 
 cuaqtaı ± `en` @uakci #LFmnx-bnR
 ▯ reaches goal/accomplishment/hallmark/milestone ▯.
@@ -9422,7 +9434,7 @@ predicato: ‘comunidad’; ▯ es una comunidad de ▯-dores
 chemegeqjıo ± `en` @robintown #7XRL15V7R
 ▯ is a community center / guild hall.
 
-cheneq +1 `en` @Laqme #CKmnR4MVB
+cheneq +2 `en` @Laqme #CKmnR4MVB
 ▯ is in heat / estrus.
 
 cheo- +1 `en` @uakci #PFeqCYw1z
@@ -9526,6 +9538,9 @@ cheoqbe ± `en` @akesi #-9h7dQpXA
 
 cheoqla ± `en` @Laqme #qjRIwTPqf
 ▯ bottles (fills a bottle with) ▯.
+
+cheoqlam ± `en` @Laqme #MpWu1-L4i
+▯ is an alcoholic / tippler / sot / drinker / drunkard.
 
 cheoqleje ± `en` @Laqme #jTLLamXgM
 ▯ is a wine (or other bottle) cork.
@@ -13391,7 +13406,7 @@ daru +1 `en` @jiqci #YLY3oa83N
 daruma -1 `en` @uakci #I05XbexkC
 ▯ is a snowman.
 
-dashı +2 `en` @Ilmen #nZRp4TZmG
+dashı +1 `en` @Ilmen #nZRp4TZmG
 ▯ is a rheological paste.
 
 dashı ± `tok` @jiqci #glOQmgdob
@@ -14836,11 +14851,11 @@ doecakea ± `en` @jiqci #VOQ59S2sk
 doecaq ± `en` @uakci #gi3rRGEDp
 ▯ is an administers, maintains, supports ▯.
 
-doecaqche ± `en` @uakci #uR-OLXQlp
-administrator, maintainer, technician, supporter
-
 doecaqche ± `en` @evie #9ZpLisfgD
 ▯ is an administrator etc
+
+doecaqche -1 `en` @uakci #uR-OLXQlp
+administrator, maintainer, technician, supporter
 
 doecıa ± `en` @Laqme #HOfe8qUCM
 ▯ is useless ("without function").
@@ -19255,7 +19270,7 @@ fuome ± `en` @Ilmen #7FHxstT2z
 fuoq ± `en` @TheAndSys #1ZrCZQ9UP
 ▯ touches ▯ (somatic, agentive)
 
-fuora +1 `en` @Laqme #VwoXhO-Uw
+fuora +2 `en` @Laqme #VwoXhO-Uw
 ▯ intimately touches / makes out with ▯.
 
 fuorue +1 `en` @uakci #Yt2FTPAy-
@@ -19764,6 +19779,9 @@ gaobıoı ± `en` @Laqme #7YpBUjWYP
 
 gaocoa ± `en` @robintown #VrkSYoFew
 ▯ is a staircase/stairway/ladder.
+
+gaochıaı ± `en` @Laqme #dM1SJLEFh
+▯ is upside-down.
 
 gaodeaq +1 `en` @Laqme #wGUBjkTP0
 ▯ is a ceiling.
@@ -20389,7 +20407,7 @@ geıkıaq ± `en` @Laqme #vUCkgNDDI
 geımıq +2 `en` @robintown #hPevvJNPG
 ▯ games / plays video games.
 
-geımıqche ± `en` @robintown #Uj4rIFkM8
+geımıqche +1 `en` @robintown #Uj4rIFkM8
 ▯ is a gamer.
 
 geınua ± `en` @uakci #UEFn8zC_r
@@ -20908,6 +20926,9 @@ gıaocao +1 `en` @jiqci #Ov4D0a7LE
 gıaoguaq ± `en` @Machy #mcJZuwWSm
 ▯ is a desert.
 
+gıaokea ± `en` @evie #vhBYGwsIH
+▯ is a dryer
+
 gıaome ± `en` @jiqci #gJIaXNlnU
 ▯ is buckwheat.
 
@@ -21240,6 +21261,9 @@ gıeqge +2 `en` @Laqme #0iKMDTYf9
 
 gıeqlıe ± `en` @Machy #1sbVdsl0s
 ▯ experiences acerbic qualia ▯. (sharp, bitter, sour)
+
+gıeqshoem ± `en` @Laqme #WM-uPTFH8
+▯ is flabbergasted / dumbfounded / stunned speechless.
 
 gıeshıo ± `en` @official #jrToBPB7JZ
 predicate: ‘shoulder’; ▯ is a shoulder.
@@ -21598,7 +21622,7 @@ The opposite/inverse of ▯ is the case; ▯ is true to a negative extent; ▯ s
 gıq ± `pl` @jiqci #bHQ-4q0Ofa
 ▯ spełnia przeciwieństwo własności ▯.
 
-gıqbı -1 `en` @Machy #3OnRD6pNE
+gıqbı -2 `en` @Machy #3OnRD6pNE
 particle: reverse **bı**
 
 gıqbuoq ± `en` @Laqme #--oi_qfC6
@@ -27538,7 +27562,7 @@ huaıchuo +1 `en` @robintown #FJ0Mqcim5
 huaıchuofuaq ± `en` @uakci #-VHzYTQwx
 ▯ is a picture of a spoon.
 
-huaıfaı -1 `en` @uakci #vRqOQQ3f3
+huaıfaı -2 `en` @uakci #vRqOQQ3f3
 Wi-Fi
 
 huaıgeo ± `en` @jiqci #hgOIZLyYW
@@ -29507,7 +29531,7 @@ number: 4,294,967,296
 ıutea ± `en` @Laqme #SZRCx9v05
 ▯ is frightened by ▯ being the case.
 
-ıꝡe ± `en` @uakci #2rdNjMFSU
+ıꝡe +1 `en` @uakci #2rdNjMFSU
 ▯ is high-pitched/high-frequency; ▯ happens at a high frequency / with rapid oscillation.
 
 ızı ± `en` @uakci #wVix5QWWI
@@ -30987,7 +31011,7 @@ jeqchoqshejuao ± `en` @uakci #GZySIgyMW
 jeqchuaq ± `en` @fagri #I2zIZtpjv
 ▯ is egalitarianism
 
-jeqda +2 `en` @Hoemai #T-L6ekDhT
+jeqda +3 `en` @Hoemai #T-L6ekDhT
 ▯ is a gender (social/cultural sense).
 
 jeqda'ıaq ± `en` @uakci #dEmxyX2hL
@@ -31734,7 +31758,7 @@ jıe ± `zh` @mimiaoganhaqpy #LHpz6vscW
 jıe ± `pl` @jiqci #ChDKuqKZtg
 ▯ jest według/jak uważa/sądzi ▯.
 
-jıeba +1 `en` @Laqme #1T19T4GiC
+jıeba +2 `en` @Laqme #1T19T4GiC
 interjection: "dude!", "holy shit!"
 
 jıedoe ± `en` @jiqci #luyRH3sQo
@@ -32874,7 +32898,7 @@ joepoı ± `en` @uakci #1mTu8ayWs
 joepoq ± `en` @Laqme #s91j43lJB
 (Toaq Discord jargon:) ▯ has the "Joe" role.
 
-joeq ± `en` @mimiaoganhaqpy #GkeVLurFR
+joeq -1 `en` @mimiaoganhaqpy #GkeVLurFR
 ▯ is a gender; ▯ is a/the gender role achieved by performing roles ▯.
 
 joeroa ± `en` @Ilmen #95nvyR5c7
@@ -33210,7 +33234,7 @@ joqrom +1 `en` @jiqci #dFtLw_bNf
 joqsoı ± `en` @seaqtaq #iZD8jF2aGya
 ▯ is at war with ▯
 
-joqsuꝡe ± `en` @jiqci #jrO2u3W3m
+joqsuꝡe +1 `en` @jiqci #jrO2u3W3m
 ▯ shakes their head.
 
 joqshaq ± `en` @official #AJt1PhiLDQ
@@ -34923,7 +34947,7 @@ kaımuoq ± `en` @uakci #TvEQ17amp
 kaına ± `en` @fagri #zkoz0eaEK
 ▯ disharmonizes / doesn't align with ▯
 
-kaınao -1 `en` @Laqme #YPiVG8pqJ
+kaınao -2 `en` @Laqme #YPiVG8pqJ
 ▯ is ink.
 
 kaıno ± `en` @lassc #9nBk_ZVGd
@@ -35925,6 +35949,9 @@ kasıaq ± `en` @evie #rnxx-xtb2
 kasıchuo ± `en` @jiqci #SY46Ikmkf
 ▯ is a nutcracker.
 
+kasıno ± `en` @robintown #1Cr8RsaLT
+▯ is a casino.
+
 kasuarı ± `en` @Ilmen #73n63Ycqf
 ▯ is a cassowary.
 
@@ -36329,7 +36356,7 @@ predicate: ‘Pluto’; ▯ is the planet Pluto.
 kehosıo ± `en` @seaqtaq #XhjUbm-ds
 ▯ is infernalism / the belief that Hell exists
 
-keı- ± `en` @Laqme #TuLHnUF8m
+keı- +1 `en` @Laqme #TuLHnUF8m
 prefix: fill direct object with **kéı raı**
 
 keı -2 `en` @Machy #ZafseQfJ9
@@ -40875,7 +40902,7 @@ predicate: ‘cirrus.cloud’; ▯ is a cirrus cloud
 laso ± `en` @kazoo #IdFLQkgby
 ▯ is the musical note A.
 
-lasoaı ± `en` @jiqci #XPPqCeLOD
+lasoaı +1 `en` @jiqci #XPPqCeLOD
 ▯ is a laser ray.
 
 lasoq ± `en` @jiqci #in7h_wubz
@@ -41051,6 +41078,9 @@ leaqshıu +1 `toa` @Ilmen #9tDJB8TqZ
 
 leaqshıu ± `toa` @Ilmen #OcqNFO9gY
 = ja shıko ja guko bı shıu shíko gúko na ru sıa saqko bı shıu sáqko gúko na ru bıe sáqko shíko.
+
+leaseom ± `en` @Laqme #9r10eJand
+▯ does artistic gymnastics.
 
 leası ± `en` @uakci #L4VmT6E4c
 ▯ focuses on ▯ artfully; ▯ observes ▯ with aesthetic eyes; ▯ watches ▯ as if it is (was) art.
@@ -43218,6 +43248,9 @@ predicate: ‘cartouche’; ▯ is the Derani cartouche
 lorem +1 `en` @salarua #FFN6iWvUW
 predicate: ‘placeholder’; ▯ is placeholder content
 
+lorem'ımsum ± `en` @robintown #BC4wDKC95
+▯ is placeholder text.
+
 lorı ± `en` @salarua #1c8aayWLK
 ▯ is Lohri
 
@@ -44382,7 +44415,7 @@ mahoganı ± `en` @Laqme #iZ8A9cMFj
 maı- ± `en` @seaqtaq #RSsBaKj3Q
 prefix: existential past (prefix form of mala)
 
-maı +1 `en` @official #uNcmya3Vkf
+maı +2 `en` @official #uNcmya3Vkf
 predicate: ‘love’; ▯ loves ▯.
 
 maı ± `ja` @Laqme #lt6JLI_b7
@@ -45618,6 +45651,9 @@ mekao ± `en` @Laqme #0Yeahs0Kx
 mekaola ± `en` @Laqme #kK_qNnrlO
 ▯ makes a list of / itemizes / enumerates ▯.
 
+mekeazu ± `en` @evie #Jdfo3Qj-P
+▯ is an array language (like APL, Uiua, etc)
+
 mekorua ± `en` @uakci #rU8sy_rbW
 ▯ is a poppy (member of genus Papaver).
 
@@ -46317,6 +46353,9 @@ to lose heart
 mıeı ± `en` @uakci #uh1Tn7mAD
 ▯ has/bears a role/title of satisfying property ▯.
 
+mıeıkuo ± `en` @Laqme #b2xvEu5bL
+▯ is notorious / infamous / ill-famed.
+
 mıekaze ± `en` @lassc #5MHauIhoA
 ▯ is the heartbeat of ▯.
 
@@ -46882,6 +46921,12 @@ Name verb: sarcastic honorific
 
 mıso ± `en` @kazoo #tWBkOnYTu
 ▯ is the musical note E.
+
+mısosham ± `en` @robintown #RX70YIFWJ
+▯ is miso.
+
+mısotuze ± `en` @robintown #_tteWGunO
+▯ is miso soup.
 
 mıshı ± `en` @uakci #XFDpLiYRt
 name verb: St., Saint
@@ -48215,13 +48260,19 @@ muaohoaqpıo ± `en` @robintown #q11uVj8pN
 muaojıo ± `en` @nano #HerfQQMTm
 ▯ is a treehouse.
 
+muaokoaı ± `en` @robintown #mh8ydDqwn
+▯ is a tree (graph theory).
+
+muaokoaıme ± `en` @robintown #C_HqrhkVo
+▯ is a forest (graph theory).
+
 muaolaı ± `en` @uakci #SDy7LaDc7
 ▯ are markings carved in wood; ▯ is scrimshaw.
 
 muaoluo ± `en` @Machy #3Rnls24YW
 ▯ is a grove of trees.
 
-muaome ± `en` @official #rHkQKWC60y
+muaome +1 `en` @official #rHkQKWC60y
 predicate: ‘forest’; ▯ is a forest.
 
 muaome ± `pl` @jiqci #u9848Mvd5T
@@ -49700,9 +49751,6 @@ namco ± `en` @Laqme #s1ADRIyEe
 namche ± `en` @Laqme #EmJHSoVV4
 ▯ is a baker.
 
-namdashı ± `en` @robintown #AwYxMYoYq
-▯ is dough.
-
 namdıem ± `en` @Laqme #FFJfg2b8N
 ▯ is a bakery.
 
@@ -49802,7 +49850,7 @@ namru ± `en` @uakci #F8aBJxJh3
 namrukuha ± `en` @robintown #V_bwyoNqv
 ▯ is a grilled cheese / cheese toastie.
 
-namsham ± `en` @Laqme #ERmOCQU5U
+namsham +1 `en` @Laqme #ERmOCQU5U
 ▯ is dough.
 
 namtoq ± `en` @seaqtaq #NKNqWuasW
@@ -50762,10 +50810,10 @@ neohaq ± `en` @lassc #NtAPM2eta
 neokıu -1 `en` @fagri #aAVLBqWme
 ▯ is a horizontal surface
 
-neom ± `en` @salarua #hd233DAgM
+neom +1 `en` @salarua #hd233DAgM
 predicate: ‘standard’; ▯ is standard/canonical
 
-neome ± `en` @jiqci #FtHJ-GAAO
+neome +1 `en` @jiqci #FtHJ-GAAO
 ▯ is a stack/pile/sandwich/layered structure of ▯.
 
 neomzujuaokao ± `en` @salarua #UeRgDzAva
@@ -50840,14 +50888,14 @@ prefix: "-soever", attaches to determiners to mean the domain is to be conceived
 neq +1 `en` @official #-FtqASV3d
 predicate: ‘luck’; ▯ is determined by the luck/fortune of ▯.
 
+neq +1 `en` @Laqme #iBXW_8Dka
+▯ is random / determined by luck or fortune.
+
 neq ± `toa` @uakci #1iosCIlXB
 kuı dóshı sa lú to ru raq hóa dógu to bu daı dûa sa ráı sa ráı lı sa dó bı jeı jêone dó hóa na ja ráı da
 
 neq ± `pl` @jiqci #DBq3Va11cp
 ▯ zależy od szczęścia/farta/trafu ▯.
-
-neq ± `en` @Laqme #iBXW_8Dka
-▯ is random / determined by luck or fortune.
 
 neqcıtoq +1 `en` @Ilmen #gEtKC4c3r
 ▯ is a die/dice.
@@ -50887,6 +50935,9 @@ neqgıq ± `en` @xorxes #4yYbAE0q-
 
 neqgochıq ± `en` @Laqme #EZXC-S0XE
 ▯ is a maneki-neko / lucky cat.
+
+neqgue ± `en` @robintown #Xdua8c5uS
+▯ exhibits bias toward particular outcomes; (pejoratively) ▯ is rigged.
 
 neqjoı ± `en` @seaqtaq #_QgHae1pf
 ▯ is coincidental to ▯
@@ -50930,6 +50981,9 @@ neqluaq ± `en` @Laqme #wZgXelFdz
 neqlucu ± `en` @Laqme #_HPDX4adq
 ▯ is a gambling game.
 
+neqnaoro ± `en` @robintown #AIvSP-GhF
+▯ has a gambling addiction.
+
 neqnıeq ± `en` @uakci #nD8dOyKaV
 ▯ is bad at ▯, which is fatal for them; ▯ has tragic weak spot (Achilles hill) ▯.
 
@@ -50939,8 +50993,11 @@ neqpeq ± `en` @Laqme #A0sf7qQ16
 neqraı ± `en` @Laqme #UUfK33RDa
 ▯ is a lucky charm / amulet / talisman.
 
-neqrıaq ± `en` @Laqme #1zQesxRnR
+neqrıaq +1 `en` @Laqme #1zQesxRnR
 ▯ is a casino.
+
+neqruoq ± `en` @robintown #ykQLOzkcy
+▯ is fair, not exhibiting undue bias toward any possible outcomes.
 
 neqse ± `en` @uakci #imr-zK15Q
 ▯ is a random outcome of event ▯.
@@ -53186,7 +53243,7 @@ Determiner: same as "sa", but burrows as deeply as possible into the scope of th
 noꝡe ± `en` @evie #CwEIWLyVc
 ▯ fertilizes ▯
 
-nozu ± `en` @seaqtaq #WTumxgW3g
+nozu +1 `en` @seaqtaq #WTumxgW3g
 ▯ solves / finds a solution to problem ▯
 
 nu- ± `en` @uakci #KUJvdoPQQ
@@ -53506,6 +53563,9 @@ nuebuaq ± `en` @uakci #BwDBIg7n_
 
 nuechıaı ± `en` @TheAndSys #LSrOYYJrq
 ▯ breaks promise ▯
+
+nuegue ± `en` @robintown #Qu_iS2Jnf
+▯ makes promises that they can't or don't intend to keep.
 
 nuejuq ± `en` @uakci #IscOdz6hY
 ▯ accepts that they should satisfy property ▯ by promising to fulfil it.
@@ -54980,7 +55040,7 @@ possessive pronoun predicate: ▯ is nhúm's
 nhunı -2 `en` @Machy #H9zdGRMoO
 interjection: "uwu"
 
-nhuo +1 `en` @uakci #Y1uiN_ZV4
+nhuo +2 `en` @uakci #Y1uiN_ZV4
 ▯ is an array, battery of ▯ (series of objects in a specific spatial arrangement).
 
 nhuobı ± `en` @evie #bPM3S4CWz
@@ -55048,6 +55108,9 @@ nhuotı ± `en` @uakci #rKn7cYLP1
 
 nhuotuoı ± `en` @jiqci #JJrUkxtQO
 ▯ is a defect/imperfection in an otherwise orderly arrangement ▯.
+
+nhuozıa ± `en` @Laqme #vITSQTK5I
+▯ broadcasts ▯.
 
 nhuq ± `en` @official #kT_a9h3nFS-
 predicate: ‘benefit’; ▯ benefits ▯.
@@ -57278,10 +57341,10 @@ pıqceolea ± `en` @jiqci #qGk2DP5B0
 pıqda +1 `en` @Laqme #avbivMYsj
 ▯ is a peanut.
 
-pıqdadashı +1 `en` @Laqme #yjxB1SOIn
+pıqdadashı ± `en` @Laqme #yjxB1SOIn
 ▯ is peanut butter.
 
-pıqdasham ± `en` @jiqci #iSP06vymp
+pıqdasham +1 `en` @jiqci #iSP06vymp
 ▯ is peanut butter.
 
 pıqhıo ± `en` @robintown #fwhAi5DeQ
@@ -57376,6 +57439,9 @@ pıucıu +1 `en` @Ilmen #cUv8XYovv
 
 pıuchealıao ± `en` @Snow #-XQ4p1cH-
 ▯ is a fungus of genus Cortinarius.
+
+pıuchıaı ± `en` @Laqme #g6lf5Iq5Q
+▯ is inside-out.
 
 pıuchoaq ± `en` @uakci #yZEEDX8BL
 ▯ is a bloody blister, puncture, wound, (internal bleeding) going through the skin or skin-like protective surface of ▯.
@@ -58835,7 +58901,7 @@ puıjoe ± `en` @Ilmen #VTIArFA5o
 puıko ± `en` @Laqme #CHCRFhPVJ
 ▯ is yet another / many-th among ▯.
 
-puım ± `en` @Laqme #2fyC2iC3h
+puım +1 `en` @Laqme #2fyC2iC3h
 ▯ is ink.
 
 puımceao ± `en` @robintown #dZ67vfUR-
@@ -60117,6 +60183,9 @@ rea -1 `toa` @Ilmen #xC5tdc4Ce
 rea'ıq ± `en` @Laqme #QJr5lPMJD
 ▯ is an edge case of property ▯.
 
+reace ± `en` @robintown #8nE5Ji-Zr
+▯ is a leaf / terminus / terminal node / endpoint.
+
 reacıa ± `en` @jiqci #f-VQqgfmq
 ▯ is an open set (topological sense).
 
@@ -61109,9 +61178,6 @@ rıje ± `en` @seaqtaq #u1fqJjGYA
 
 rıjuru ± `en` @el #iThHjLzRr
 ▯ is a marmot (member of genus Marmota)
-
-rıjuruchaqduna ± `en` @jiqci #HAI7W7OIu
-▯ is stuck in a Groundhog Day-style time loop.
 
 rıkatao ± `en` @jiqci #bOo93QsZi
 ▯ rickrolls ▯.
@@ -62889,6 +62955,9 @@ ruoqtıem ± `en` @Laqme #KhKYZQyCP
 ruorueq +1 `en` @Laqme #bdqmbMdLU
 ▯ (person) acts uptight / tense / serious / formal / fussy ("tight" behavior).
 
+ruoruoq ± `en` @robintown #M0ck6OY6o
+▯ is well-behaved.
+
 ruosıu ± `en` @seaqtaq #Uz29r4oC5
 ▯ mimics/immitates/emulates/acts like ▯
 
@@ -64528,6 +64597,9 @@ seoq ± `ja` @Laqme #8wz5e-3_g
 seoq ± `pl` @jiqci #DUBlj9T8RF
 ▯ to niebo.
 
+seoqbıoı ± `en` @ijonetun #iAtx34FfB
+nullary predicate: it rains lightly; it drizzles
+
 seoqceoq ± `en` @robintown #kBfm9OoEs
 ▯ is a lightning bolt.
 
@@ -64936,7 +65008,7 @@ sıaı ± `ja` @Laqme #IB1Yhhthj
 sıaı ± `pl` @jiqci #wqQgW959y5
 ▯ to krew.
 
-sıaıbıu +2 `en` @Ilmen #tnLwgNvEd
+sıaıbıu +3 `en` @Ilmen #tnLwgNvEd
 ▯ is a blood vessel.
 
 sıaıbıume ± `en` @akesi #U2HoY9DVe
@@ -65523,6 +65595,9 @@ sıetueme ± `en` @seaqtaq #Z4oPjVPcG
 
 sıezı +2 `en` @Laqme #xY9UFVLVQ
 Sequences a ≔ ▯ and b ≔ ▯ are of equal length, and (a[i] ▯ b[i]) for each index i.
+
+sıfırıq ± `en` @jiqci #ScgqZHPPn
+▯ is stuck in a time loop.
 
 sıga ± `en` @official #mI48JzrGI0
 predicate: ‘cigarette’; ▯ is a cigarette.
@@ -66161,7 +66236,7 @@ soagıq +1 `en` @Ilmen #N_xdcIIlt
 soahıao ± `en` @uakci #YVQLdaaSP
 ▯ hurts ▯ to help ▯.
 
-soaı ± `en` @official #oQOF0_x77o
+soaı +1 `en` @official #oQOF0_x77o
 predicate: ‘beam’; ▯ is a beam/ray/line extending outwards from a point.
 
 soaı ± `pl` @jiqci #YMzor1qHuK
@@ -66306,7 +66381,7 @@ soaotea +1 `en` @Laqme #U0WCVulE4
 ▯ experiences shyness.
 
 soaotue +1 `en` @robintown #UBnzUwvym
-▯ is a relationship.
+▯ is a relationship or social dynamic.
 
 soaq ± `en` @official #1FgtM1NasE
 predicate: ‘garden’; ▯ is a garden.
@@ -67524,7 +67599,7 @@ suecaı ± `en` @Ilmen #sZJQzEHyg
 suecaq +3 `en` @Ilmen #uwbF6Eey4
 ▯ commands ▯ to do ▯; ▯ issues to ▯ the order ▯.
 
-suecua +2 `en` @Ilmen #Bo8BjFODH
+suecua +1 `en` @Ilmen #Bo8BjFODH
 ▯ obeys ▯'s request or command of having property ▯.
 
 suecuahe ± `en` @Ilmen #te52ANmUK
@@ -68377,7 +68452,7 @@ shalı ± `en` @Ilmen #IE-2Wmws9
 shalo ± `en` @eednb #YjJBm864a
 ▯ takes a long time to satisfy property ▯.
 
-sham ± `en` @Laqme #vIS9oyqtK
+sham +1 `en` @Laqme #vIS9oyqtK
 ▯ is paste.
 
 shamaq ± `en` @Ilmen #zBSRwjlrD
@@ -68607,6 +68682,9 @@ shaqboaq ± `en` @seaqtaq #-C4Mv3Ukb
 
 shaqchea ± `en` @Laqme #MUwnqYlGg
 ▯ is a cap.
+
+shaqchıaı ± `en` @Laqme #VjmRVaDVb
+▯ is backwards (facing the wrong way).
 
 shaqduo -1 `en` @xorxes #9GFHqKnuZ
 ▯ advances/moves forward.
@@ -68914,7 +68992,7 @@ sheaqruoq ± `en` @robintown #F8LUZmNaP
 sheaqsao +3 `en` @Ilmen #aDskZStyj
 ▯ is tall.
 
-sheaqsaopuefuq ± `en` @Ilmen #vhKE57gaI
+sheaqsaopuefuq -1 `en` @Ilmen #vhKE57gaI
 ▯ is a boot.
 
 sheaqsıubuaqmeo +1 `en` @fagri #zWQN3Dfqx
@@ -70120,6 +70198,9 @@ shıucha ± `en` @uakci #QBwd6GEFC
 shıuchı ± `en` @seaqtaq #aJbFPJlJn
 ▯ forms preconceived belief ▯
 
+shıuchıaı ± `en` @Laqme #tysrRJxeI
+▯ is backwards (temporally).
+
 shıudaq ± `en` @Laqme #mWtRJwdV9
 ▯ is a past.
 
@@ -71029,6 +71110,9 @@ shuıjuq ± `en` @uakci #Fxp1BgVD6
 shuıkaq ± `en` @Laqme #IxcNRY764
 ▯ peeks at / glances at / spies on ▯.
 
+shuıkeaı +1 `en` @seaqtaq #d2-3xUVQx
+▯ has the right to privacy / be a private entity
+
 shuıkeoı ± `en` @Laqme #ArV0hprXO
 ▯ and ▯ talk privately / one-on-one.
 
@@ -71048,9 +71132,6 @@ shuıpeo ± `en` @mimiaoganhaqpy #KsJhC7eDF
 predicate: ▯ infiltrates / sneaks into ▯.
 
 shuıreaı ± `en` @seaqtaq #XhVnfpAPy
-▯ violates ▯'s privacy
-
-shuıreaı ± `en` @seaqtaq #8cIkOJvPO
 ▯ violates ▯'s privacy
 
 shuıruo ± `en` @robintown #rYMWftve_
@@ -72202,7 +72283,7 @@ tea'aobı ± `en` @salarua #oaWKQdJnb
 tea'eka ± `en` @jiqci #F8g63mKz4
 ▯ is a jumpscare; ▯ jumpscares ▯.
 
-teabıa ± `en` @Laqme #mJRtJgXaj
+teabıa +1 `en` @Laqme #mJRtJgXaj
 ▯ has a phobia of ▯.
 
 teaca ± `en` @Machy #pL5Fs7bDm
@@ -73510,7 +73591,7 @@ tıeq ± `pl` @jiqci #xXMKf3O7y
 tıeqbea ± `en` @Laqme #3gw-eIcHy
 ▯ is a turn/kink in a path/road.
 
-tıeqbıao +2 `en` @Laqme #2TD_kKGBj
+tıeqbıao +3 `en` @Laqme #2TD_kKGBj
 ▯ is lost (unable or struggling to find one's way).
 
 tıeqchao +1 `en` @uakci #vSEjxWOrQ
@@ -77169,7 +77250,7 @@ pronoun: the proposition expressed by the previous sentence.
 ꝡáı ± `en` @uakci #xvC8-FhEy
 vague definite determiner; ‘the’
 
-ꝡaıfaı ± `en` @robintown #rS6fThDRM
+ꝡaıfaı +1 `en` @robintown #rS6fThDRM
 ▯ is a Wi-Fi network.
 
 ꝡaıfaıdeq ± `en` @robintown #VD2WA7ZkA
@@ -77255,6 +77336,9 @@ onomatopoeia: ‘woof’; ‘bark’; ‘yip’ (esp. with /j/)
 
 ꝡaraı ± `en` @Ilmen #b95_nmgtb
 ▯ is a proposition.
+
+ꝡarı ± `en` @salarua #7vd0ieAJw
+▯ defiles/desecrates/profanes/violates ▯
 
 ꝡasabıu ± `en` @kazoo #cLRCILt2x
 interjection: used when the speaker is about to lose their temper or has already lost it and is wishing for patience to return
@@ -77871,7 +77955,7 @@ zeafa ± `en` @Laqme #-7k1DxCdi
 zeanua ± `en` @Laqme #l226MmiHX
 ▯ steals ▯.
 
-zeaq +1 `en` @kazoo #HU4fK8eKo
+zeaq +2 `en` @kazoo #HU4fK8eKo
 ▯ originates from ▯.
 
 zearaı ± `en` @Laqme #uOc6LjKOK
@@ -78552,7 +78636,7 @@ zoku +1 `en` @Laqme #exjKx_vPg
 zokuoq ± `en` @jiqci #Y9mH9yoGP
 ▯ is rebar (steel structural component of reinforced concrete).
 
-zombı ± `en` @robintown #vK-ldiz2M
+zombı +1 `en` @robintown #vK-ldiz2M
 ▯ is a zombie.
 
 zonaozo ± `en` @fagri #7xI69l_md
@@ -92358,6 +92442,9 @@ It’s possible she came here from the US.
 Ꝡa guobe ní da. ± `en` @examples #ETGLZ3SN53p
 [I assert] that this is a cow.
 
+Ꝡáıfaı bï shuıtoa kú shú «madurudura». ± `en` @robintown #aZ7PSc-0u
+The Wi-Fi password is 'madurudura'.
+
 Ꝡä jaı nháo bï, jaıca hụ́ꝡa jí da. ± `en` @examples #C9RUqAvXn0r
 Them being happy makes me happy.
 
@@ -93084,7 +93171,7 @@ Member of PO: creates a predicate meaning "▯ is the answer to [complement]"
 ⚠ ey -2 `en` @Machy #cYiK8xBq1
 interjection: 'interest'
 
-⚠ faıgydejoq ± `en` @Ilmen #ap7LKx4Lu
+⚠ faıgydejoq -1 `en` @Ilmen #ap7LKx4Lu
 ▯ is barley (Hordeum vulgare).
 
 ⚠ faıteıhey ± `en` @uakci #GtwkJ0VA7
@@ -93390,9 +93477,6 @@ jaonoı(lıe) ± `en` @Hoemai #WVKqhQ9e2
 ⚠ jeymaıcıa +1 `en` @uakci #Odd9zGHFW
 ▯ is asexual/aromantic
 
-⚠ jeykuaı +1 `en` @uakci #zraLyeYYB
-▯ craves gender property ▯.
-
 ⚠ jey ± `en` @uakci #b94MgI4Nj
 ▯ is a gender; ▯ is a/the gender role achieved by performing roles ▯.
 
@@ -93440,6 +93524,9 @@ jaonoı(lıe) ± `en` @Hoemai #WVKqhQ9e2
 
 ⚠ jeysıeq ± `en` @uakci #NyAM2VR_V
 ▯ feels gender euphoria.
+
+⚠ jeykuaı ± `en` @uakci #zraLyeYYB
+▯ craves gender property ▯.
 
 ⚠ jeyhuaqloı ± `en` @uakci #-_zJYu_vn
 ▯ gender-envies ▯ for gender trait ▯.
@@ -93855,9 +93942,6 @@ suffix: "a generic noun-ifier, to form things that are primarily associated with
 ⚠ myfy -2 `en` @uakci #sn9QMzave
 interjection: ‘finally!’; ‘at last!’; ‘there we are!’
 
-⚠ nabydashı +2 `en` @Ilmen #5zRkuXzP6
-▯ is dough.
-
 ⚠ naby ± `en` @Hoemai #22prRrOc2
 ▯ is bread.
 
@@ -93866,6 +93950,9 @@ interjection: ‘finally!’; ‘at last!’; ‘there we are!’
 
 ⚠ nabypoachuo ± `en` @fagri #Nip_YW6Hh
 ▯ is a bread clip
+
+⚠ nabydashı ± `en` @Ilmen #5zRkuXzP6
+▯ is dough.
 
 ⚠ nabycake ± `en` @lassc #7tTx3tUr4
 ▯ is a pastry (dish).
@@ -94233,7 +94320,7 @@ connective: ‘or equivalently’
 ⚠ rıy -1 `en` @akesi #iL4TIHl4H
 ▯ is a gas
 
-roaıfeode(poq) ± `en` @uakci #ojqAPJGYj
+roaıfeode(poq) +1 `en` @uakci #ojqAPJGYj
 ▯ is a 八方美人 [hap·pō·bi·jin]; ▯ is a «person beautiful in eight directions» – somebody who tries to appeal to and be a friend of everybody.
 
 ⚠ roa(fao)kyı ± `en` @seaqtaq #ufZgP4T7A
