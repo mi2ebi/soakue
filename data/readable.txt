@@ -15319,6 +15319,9 @@ doteaı ± `en` @seaqtaq #70dvLaHjZ
 doteaı ± `en` @seaqtaq #xkW1ncdF5
 ▯ is (being) stingy; ▯ is reluctant to give to ▯, ▯
 
+dotene ± `en` @lassc #P0aGJhUP8
+▯ is a bonus/extra/additional/subsidized/complementary quantity of ▯.
+
 dotoeq ± `en` @uakci #p7JfXJyo5
 ▯ passes down, to ▯, ▯.
 
@@ -77337,7 +77340,7 @@ onomatopoeia: ‘woof’; ‘bark’; ‘yip’ (esp. with /j/)
 ꝡaraı ± `en` @Ilmen #b95_nmgtb
 ▯ is a proposition.
 
-ꝡarı ± `en` @salarua #7vd0ieAJw
+ꝡarı +4 `en` @salarua #7vd0ieAJw
 ▯ defiles/desecrates/profanes/violates ▯
 
 ꝡasabıu ± `en` @kazoo #cLRCILt2x
@@ -77430,7 +77433,7 @@ illocution: question/exclamation of disbelief
 ꝡeo ± `en` @Ilmen #hlIq56mfO
 ▯ is you-know-which ones with property ▯.
 
-ꝡera ± `en` @Ilmen #i69YYtj1g
+ꝡera +1 `en` @Ilmen #i69YYtj1g
 ▯ is damaged, wounded, hurt.
 
 ꝡeraja ± `en` @evie #Tq0W-ZK38
@@ -92901,11 +92904,11 @@ in state of affairs▯, the semantic role of FORCE is assumed by ▯
 ⚠ Chosoq/gaokoreagua ± `en` @countries #YwfgjY3X-pb
 ▯ is the country North Korea → Korea, North.
 
-⚠ Chosoq/gaokorea -1 `en` @oldcountries #JBTWIIOxtf
-▯ pertains to the culture of North Korea → Korea, North.
-
 ⚠ Chosoq/gaokoreagua -1 `en` @oldcountries #ixqSrUISRB
 ▯ is the country North Korea → Korea, North.
+
+⚠ Chosoq/gaokorea -2 `en` @oldcountries #JBTWIIOxtf
+▯ pertains to the culture of North Korea → Korea, North.
 
 ⚠ cıakoy ± `en` @Machy #eOCPmTCKI
 ▯ and ▯ make small talk.
