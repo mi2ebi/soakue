@@ -3353,11 +3353,11 @@ bıapuı ± `en` @Ilmen #7cy7apGmH
 bıapuıtue ± `en` @Ilmen #fDdAEOaMA
 ▯ is an epidemic of disease ▯.
 
-bıaq +3 `en` @fagri #iiuwaW7Vc
-▯ is true enough that ▯ happens
-
-bıaq +1 `en` @official #OmubwuaVxD
+bıaq +2 `en` @official #OmubwuaVxD
 predicate: ‘enough’; ▯ is enough; ▯ sufficiently satisfies property ▯.
+
+bıaq +2 `en` @fagri #iiuwaW7Vc
+▯ is true enough that ▯ happens
 
 bıaq ± `en` @uakci #7U2raYU2D
 ▯ is enough the case for ▯ to be the case; ▯ satisfies property ▯ to enough an extent to satisfy property ▯.
@@ -3370,6 +3370,9 @@ bıaq ± `pl` @jiqci #-kkRNppuvx
 
 bıaq ± `tl` @Hoekeiboi #bmiIji4V0
 sapat ang ▯; sapat ang ▯ na matamasang ▯.
+
+bıaq ± `tr` @kazoo #mR4R1OaSX
+▯ yeter; ▯ yeterince ▯ niteliğini tamamlar.
 
 bıaqbıaq ± `en` @uakci #HFq2YTavI
 ▯ is well more than enough the case; ▯ is the case to an even more than satisfiable extent.
@@ -17314,8 +17317,11 @@ fanılapaq ± `en` @fagri #UP4kH4k2L
 fao- +1 `en` @Laqme #_VuD5zWsi
 prefix: turns a verb into a discursive announcing/tagging the end of a (verb)
 
-fao +1 `en` @official #M6BCdPTw_M
+fao ± `en` @official #M6BCdPTw_M
 predicate: ‘end’; ▯ is an end/ending; ▯ is an end/ending of ▯.
+
+fao +1 `en` @kazoo #qadIt3PVw
+predicate: ‘end’; ▯ is an end/ending of ▯.
 
 fao ± `pl` @jiqci #1t2WDiwdmw
 ▯ to koniec/zakończenie, ▯ zakańcza ▯.
@@ -17328,6 +17334,9 @@ faoce ± `en` @seaqtaq #ZTFMzja_L
 
 faocıa ± `en` @seaqtaq #gvx4LcA0n
 predicate: ‘eternal’; ▯ is eternal/forever.
+
+faochaq ± `en` @kazoo #CjE5AErPd
+▯ is the day that ▯ ends.
 
 faodo ± `en` @seaqtaq #dS1b7F0lp
 ▯ appends to ▯, ▯
@@ -49415,7 +49424,7 @@ musemusela ± `en` @Ilmen #KhZl4NHUP
 musenuı ± `en` @Ilmen #16b0D27ET
 ▯ is a house mouse.
 
-musılım +1 `en` @salarua #ActiBtK06
+musılım +2 `en` @salarua #ActiBtK06
 ▯ is Muslim (relating to Islam); synonym of **po Ísılam**
 
 muso +2 `en` @Neaqbua #SkgC6iVQO
@@ -55169,6 +55178,9 @@ o'eaꝡa ± `en` @evie #lF0NJ1Wns
 o'o -1 `en` @mimiaoganhaqpy #XpQQFVZ3e
 interjection: OwO
 
+oa ± `en` @kazoo #b7DGhStcS
+meta-particle: next word is as if it carries the hiatus tone.
+
 oaı ± `en` @official #dlQnAulIsw1
 interjection: ‘uh-oh’; concern or realization of a problem; uh-oh, oh no
 
@@ -56918,7 +56930,7 @@ pıaotua ± `en` @uakci #4tGsIwdv3
 pıaozıu ± `en` @verte #uIU6Lx0oX
 ▯ is a complex number; ▯ is a complex number with real component ▯ and imaginary component ▯.
 
-pıaq +3 `en` @Laqme #hV4LohUQ4
+pıaq +4 `en` @Laqme #hV4LohUQ4
 ▯ is surprised by ▯ being the case.
 
 pıaq ± `en` @fagri #klX6ukMH7
@@ -66513,7 +66525,7 @@ soe ± `pl` @jiqci #DFZ0e9I4SJ
 ▯ jest kwaśny.
 
 soeı +1 `en` @Laqme #OA4GOrslA
-▯ is disabled / impaired / has the disability/impairment of not being able to satisfy property ▯ well or at all.
+▯ is disabled / has a disability.
 
 soeıchuo ± `en` @lassc #5Zw3CF1AN
 ▯ is an aid or treatment for an impairment or disability (i.e. a mobility aid, glasses, medications, etc).
