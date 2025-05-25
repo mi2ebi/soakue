@@ -5063,6 +5063,9 @@ bucaqhınoke ± `en` @Ilmen #VHfiDnA3i
 bucem ± `en` @Ilmen #Z1mtWjCOK
 ▯ is unusual, special.
 
+bụceoq ± `en` @Laqme #lUZqEd3Q3
+▯ is acoustic / non-electric.
+
 buchu +1 `en` @Laqme #hAUm9juS2
 ▯ is a boot.
 
@@ -5977,6 +5980,9 @@ interjection: ‘dunno’; expressing a lack of knowledge
 
 buza ± `tr` @kazoo #R26-zKNwf
 ünlem: 'bilmem'; bilginin eksikliğini belirtir.
+
+bụzıq ± `en` @Laqme #Pyh5xte0P
+▯ is analog / non-digital.
 
 buzoaı +1 `en` @Laqme #ZuMTzBphP
 ▯ suspects that ▯ is the case.
@@ -7024,6 +7030,9 @@ ceoqdubaq ± `en` @Snow #7CDE87SsK
 
 ceoqgearı ± `en` @jiqci #DfVr446uWJ
 ▯ is a utility pole/pylon/transmission tower
+
+ceoqgıta ± `en` @Laqme #jakTpDHd6
+▯ is an electric guitar.
 
 ceoqgıu ± `en` @uakci #tCdNoMRjC
 ▯ is wire.
@@ -8192,7 +8201,7 @@ cuaq ± `tok` @nano #ZA0ZFWhHX
 cuaq ± `pl` @jiqci #-nRY-hURgZ
 ▯ to pojęcie spełniania własności ▯.
 
-cúaq +1 `en` @Laqme #9NfM8JXeD
+cúaq +2 `en` @Laqme #9NfM8JXeD
 determiner: “the concept/idea of satisfying X”
 
 cuaqbaq ± `en` @Ilmen #42bsnK6Pt
@@ -19836,6 +19845,9 @@ gaojıaı ± `en` @seaqtaq #WKWegkV8O
 
 gaojıqzıu ± `en` @verte #cB8VXgtaD
 ▯ is a surreal number; ▯ is a surreal number with left set ▯ and right set ▯.
+
+gaokaı ± `en` @kazoo #Zx6W9bHDG
+▯ is overstruck with ▯.
 
 gaokoı ± `en` @official #4ljrO72wN
 predicate: ‘climb’; ▯ climbs.
@@ -40019,9 +40031,6 @@ textspeak for **kûı ꝡä** (because)
 la- ± `en` @uakci #bhkaW7xdL
 prefix: turns verb into a pronoun referring to the relation underpinning that verb
 
-⚠ la -2 `en` @oldofficial #dEm5widdTSY
-complementizer: ‘that’; declarative or non-polar interrogative
-
 lá ± `en` @uakci #e5yuRAgtN
 unary property complementizer with subject implicitly filled with **já**
 
@@ -44913,7 +44922,7 @@ maojıe ± `en` @seaqtaq #O0YK-oyFN
 maomao +2 `en` @uakci #A3d4BYRqh
 ▯ is a meow-meow cat.
 
-maomao ± `en` @saqraku #5VDYTBWj2
+maomao +1 `en` @saqraku #5VDYTBWj2
 onomatopoeia: ▯ is a meow/purr; ▯ is a cat sound.
 
 maomao ± `en` @uakci #fF9f3yy9i
@@ -67538,6 +67547,9 @@ suaqgıaq ± `en` @uakci #NbxBvPjVR
 
 suaqgıaq ± `en` @Ilmen #PHZzaoR_r
 ▯ is music-accompanied song.
+
+suaqgıta ± `en` @Laqme #_bHWgylm_
+▯ is an acoustic guitar.
 
 suaqkuq +1 `en` @Laqme #EQ9nG9HYx
 ▯ says ▯ in a lilting / singsong voice.
@@ -92799,7 +92811,7 @@ zue jearıaq ± `en` @robintown #RZ5_jZ8Nk
 ⚠ alycaımabıa ± `en` @Hydro #hcSab0DjX
 ▯ suffers from Alzheimer's disease.
 
-⚠ anınyaq -1 `en` @Hoemai #nDNNxdhJ-
+⚠ anınyaq -2 `en` @Hoemai #nDNNxdhJ-
 ▯ is a beach.
 
 ⚠ aqhy ± `en` @uakci #z4Lj0Wacg
@@ -94086,11 +94098,11 @@ pejorative demonstrative (points out / singles out a referent in a decrying/demo
 ⚠ nuy -1 `en` @Laqme #AzSH8Fz2S
 ▯ "does back" to ▯ the relation ▯ (which the latter had previously done to the former).
 
-⚠ nyaq -1 `en` @Hoemai #d3hPBmI6y
-▯ is a coast/shore/bank.
-
 ⚠ nymea -1 `en` @uakci #_q_z8djKL
 focus marker: re-quantify the marked noun phrase, asserting that rather than for its entirety, the surrounding clause is satisfied for some pairwise disjoint groups which all together form the referents of the original noun phrase
+
+⚠ nyaq -2 `en` @Hoemai #d3hPBmI6y
+▯ is a coast/shore/bank.
 
 ⚠ nhaqnhaqly -1 `en` @mimiaoganhaqpy #MulCA5iln
 ▯ is a kitty cat.
