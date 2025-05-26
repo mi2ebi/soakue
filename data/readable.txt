@@ -4649,7 +4649,7 @@ Bosuanagua ± `en` @countries #tAMSFZefs1b
 bosue ± `en` @seaqtaq #J9l9_W0Ld
 ▯ requests from ▯ (to have) ▯; ▯ asks ▯ for ▯
 
-boshaı ± `en` @uakci #YWATPOR38
+boshaı +1 `en` @uakci #YWATPOR38
 (fork of official) predicate: ‘lose’; ▯ loses ▯.
 
 boshaınue ± `en` @Machy #V3qnLMoGv
@@ -5063,7 +5063,7 @@ bucaqhınoke ± `en` @Ilmen #VHfiDnA3i
 bucem ± `en` @Ilmen #Z1mtWjCOK
 ▯ is unusual, special.
 
-bụceoq ± `en` @Laqme #lUZqEd3Q3
+bụceoq +1 `en` @Laqme #lUZqEd3Q3
 ▯ is acoustic / non-electric.
 
 buchu +1 `en` @Laqme #hAUm9juS2
@@ -5981,7 +5981,7 @@ interjection: ‘dunno’; expressing a lack of knowledge
 buza ± `tr` @kazoo #R26-zKNwf
 ünlem: 'bilmem'; bilginin eksikliğini belirtir.
 
-bụzıq ± `en` @Laqme #Pyh5xte0P
+bụzıq +1 `en` @Laqme #Pyh5xte0P
 ▯ is analog / non-digital.
 
 buzoaı +1 `en` @Laqme #ZuMTzBphP
@@ -7367,7 +7367,7 @@ cıcı'a ± `en` @fagri #tbTI3KszO
 cıduao ± `en` @jiqci #aCMzz3lyG
 ▯ is a hexose (6-carbon saccharide).
 
-cıe- +1 `en` @Laqme #TSba-qHzQ
+cıe- +2 `en` @Laqme #TSba-qHzQ
 prefix: "carelessly/sloppily/messily/clumsily" form of a verb
 
 cıe ± `en` @official #NdZT-QpyIV
@@ -14567,6 +14567,9 @@ dıoshıe ± `en` @robintown #SXKADiuUz
 dıozıq ± `en` @jiqci #vKibbXH9H
 ▯ is a diode.
 
+dıq- ± `en` @kazoo #PRZzox_7_
+prefix: turns "▯ has a property ▯" into "▯ is the abstract property itself".
+
 dıq ± `en` @uakci #j7NDj_cms
 ▯ is a corner.
 
@@ -15733,10 +15736,10 @@ duashoche ± `en` @Laqme #U7m2pKAdu
 duashuo ± `en` @seaqtaq #nd6Dqs3vU
 ▯ is ▯'s knowledge/wisdom; ▯ is ▯'s wealth of knowledge that they have accumulated
 
-duatua -1 `en` @fagri #LVM6PdFEq
+duatua -2 `en` @fagri #LVM6PdFEq
 Tủa dủa ▯, ▯, ▯.
 
-duatuataq ± `en` @uakci #71AUimiK0
+duatuataq -1 `en` @uakci #71AUimiK0
 ▯ tells ▯ that the former blablalba ▯.
 
 duatuatoeq ± `en` @uakci #BmnVfsRzW
@@ -16467,6 +16470,9 @@ interjection: ‘let's see…’ (searching, remembering, calculating, deciding)
 
 eju ± `en` @official #-Ir7k6A---B
 interjection: ‘let's.see’; searching, remembering, calculating, deciding; let's see...
+
+eka +1 `en` @Laqme #O7bpCR1Ik
+▯ is abrupt / sudden.
 
 eka ± `en` @Laqme #E0iYTsy82
 ▯ takes place abruptly (suddenly, startlingly); ▯ abruptly satisfies ▯.
@@ -19735,7 +19741,7 @@ gamashuao ± `en` @Ilmen #mtYPrFYQo
 Gamatoaq ± `en` @robintown #-iuAyjJCv
 ▯ pertains to Toaq Gamma.
 
-gambıq +2 `en` @Laqme #IhsJyYcJb
+gambıq +3 `en` @Laqme #IhsJyYcJb
 ▯ is a goat.
 
 gameı ± `en` @Laqme #Vw_tYL9c3
@@ -19798,7 +19804,7 @@ gaobıoı ± `en` @Laqme #7YpBUjWYP
 gaocoa ± `en` @robintown #VrkSYoFew
 ▯ is a staircase/stairway/ladder.
 
-gaochıaı ± `en` @Laqme #dM1SJLEFh
+gaochıaı +1 `en` @Laqme #dM1SJLEFh
 ▯ is upside-down.
 
 gaodeaq +1 `en` @Laqme #wGUBjkTP0
@@ -21283,7 +21289,7 @@ gıeqge +2 `en` @Laqme #0iKMDTYf9
 gıeqlıe ± `en` @Machy #1sbVdsl0s
 ▯ experiences acerbic qualia ▯. (sharp, bitter, sour)
 
-gıeqshoem ± `en` @Laqme #WM-uPTFH8
+gıeqshoem +1 `en` @Laqme #WM-uPTFH8
 ▯ is flabbergasted / dumbfounded / stunned speechless.
 
 gıeshıo ± `en` @official #jrToBPB7JZ
@@ -25579,6 +25585,9 @@ heoshaq ± `en` @Machy #skRXIhOeD
 heotı ± `en` @uakci #hUVAzK_gr
 ▯ is off / out / away / elsewhere.
 
+heotıo ± `en` @kazoo #DEg8ShNYB
+▯ is true by difference ▯.
+
 heotoı ± `en` @seaqtaq #44RyJoT_w
 ▯ treats ▯ in different ways
 
@@ -26247,6 +26256,9 @@ hıekunoso ± `en` @Hydro #UbH5Ave7B
 
 hıekutıaqbıa ± `en` @Hydro #lkqtWCGLo
 ▯ suffers from cirrhosis.
+
+hıem +1 `en` @Laqme #wtiO0O9yz
+▯ acts impulsively / spontaneously / on the spur of the moment.
 
 hıemeaq ± `en` @Laqme #RTQiB5en5
 ▯ is a cargo ship.
@@ -28937,11 +28949,11 @@ Tense: paste (absolute)
 ıq- +1 `en` @Laqme #xR7mJHGy0
 prefix: turn a "that"-verb into a "to"-verb
 
+ıq +2 `en` @Hoemai #dpxvN3Rhr
+▯ satisfies property ▯.
+
 ıq +1 `en` @official #ZqCpUYELh
 predicate: ‘satisfy.property’; ▯ satisfy property ▯.
-
-ıq +1 `en` @Hoemai #dpxvN3Rhr
-▯ satisfies property ▯.
 
 ıq ± `en` @fagri #4CZPRFhSR
 Particle: accepts a predicate in the fourth tone and produces a high adverb that takes one argument as a complement
@@ -29763,7 +29775,7 @@ jake ± `pl` @jiqci #j9D-VXWBD
 jala ± `en` @uakci #XcTehFC2V
 ▯ gets ▯ to take place.
 
-jalam +1 `en` @Laqme #2kPtQrsLv
+jalam +2 `en` @Laqme #2kPtQrsLv
 ▯ is a horse.
 
 jam- -1 `en` @robintown #6Pu9h5COY
@@ -36332,6 +36344,12 @@ kebo ± `pl` @jiqci #GT_Qcb94Xn
 kebo'aqshe ± `en` @robintown #Maye1_okm
 ▯ is a hinny.
 
+kebochuım ± `en` @kazoo #7CcW4oYlE
+▯ is a currycomb.
+
+kebojıo ± `en` @kazoo #ul_ReHtc1
+▯ is a horse barn.
+
 kebu ± `en` @Ilmen #asKmKUr4B
 ▯ doesn't satisfy the property that satisfies the property ▯.
 
@@ -36752,7 +36770,7 @@ end parenthetical: ‘)’; end parenthetical
 kı ± `toa` @Ilmen #TxaqPEriG
 ⚙ [KI] Tu toame tüqfıa shú kıo hóa na ru tuqsıe shú kı hóa bı heq bíhoı sa kuqtoaı na ru tu kuqtoaı bı bu shuaq pâqdoa ra paqnua há tóame kúqtoaı na sa hëo jeone hóa kúqtoaı da.
 
-⚠ kı -1 `en` @oldofficial #DaDQyl1Lhd_
+⚠ kı -2 `en` @oldofficial #DaDQyl1Lhd_
 terminator: ‘)’; end parenthetical
 
 kı'ao ± `en` @seaqtaq #hGKLgfKuS
@@ -44532,7 +44550,7 @@ maıkuaı +2 `en` @Laqme #Bjj9iRa8n
 maıkuaq ± `en` @Laqme #G3Kr9XqDH
 ▯ confesses their love to ▯.
 
-maıkueq ± `en` @Laqme #LuYI7yI1l
+maıkueq +1 `en` @Laqme #LuYI7yI1l
 ▯ (plural) make love.
 
 maılaı ± `en` @Laqme #N8PbkX-Pz
@@ -45672,9 +45690,6 @@ mekao ± `en` @Laqme #0Yeahs0Kx
 mekaola ± `en` @Laqme #kK_qNnrlO
 ▯ makes a list of / itemizes / enumerates ▯.
 
-mekeazu ± `en` @evie #Jdfo3Qj-P
-▯ is an array language (like APL, Uiua, etc)
-
 mekorua ± `en` @uakci #rU8sy_rbW
 ▯ is a poppy (member of genus Papaver).
 
@@ -46071,7 +46086,7 @@ mıajoaı ± `en` @jiqci #weiw0SSYs
 mıakuaı ± `en` @uakci #oRBhFIMUs
 ▯ wants to engage in ▯; ▯ wants to be places.
 
-mıala +2 `en` @Laqme #zCTRGnD-L
+mıala +3 `en` @Laqme #zCTRGnD-L
 ▯ is silver.
 
 mıalaıbıa ± `en` @Hydro #ocHNZpxAn
@@ -46128,7 +46143,7 @@ mıaodoaı ± `en` @Hydro #BbDUbIdbA
 mıaogıo ± `en` @fagri #MqC4-v7v7
 ▯ is moonlight
 
-mıaoloha +4 `en` @Ilmen #udkrtbuKB
+mıaoloha +3 `en` @Ilmen #udkrtbuKB
 ▯ is silver.
 
 mıaoluko ± `en` @robintown #LJKG1hN98
@@ -54662,7 +54677,7 @@ nhaqnhaq +1 `en` @robintown #IIV7Tglth
 nhaqpoq +1 `en` @uakci #VW9sojaSy
 ▯ is a catboy/catgirl/catperson.
 
-nhaqrıaq ± `en` @Laqme #1AJekU2yE
+nhaqrıaq +1 `en` @Laqme #1AJekU2yE
 ▯ is a cat café.
 
 nhara ± `en` @TheAndSys #Oyboe-aQw
@@ -54709,6 +54724,9 @@ nhe ± `pl` @jiqci #IF3e0TQRuU
 
 nhea +2 `en` @Laqme #89lh8AAct
 ▯ takes place gently (gradually, softly, mildly, carefully); ▯ gently satisfies ▯.
+
+nhea +1 `en` @Laqme #IbtO8svJn
+▯ is gradual / gentle.
 
 nheahoaq ± `en` @seaqtaq #-kiSHwefr
 ▯ smolders
@@ -55130,8 +55148,11 @@ nhuotı ± `en` @uakci #rKn7cYLP1
 nhuotuoı ± `en` @jiqci #JJrUkxtQO
 ▯ is a defect/imperfection in an otherwise orderly arrangement ▯.
 
-nhuozıa ± `en` @Laqme #vITSQTK5I
+nhuozıa +1 `en` @Laqme #vITSQTK5I
 ▯ broadcasts ▯.
+
+nhuozu ± `en` @evie #3c1vjCgLQ
+▯ is an array language (like APL, Uiua, J)
 
 nhuq ± `en` @official #kT_a9h3nFS-
 predicate: ‘benefit’; ▯ benefits ▯.
@@ -57464,7 +57485,7 @@ pıucıu +1 `en` @Ilmen #cUv8XYovv
 pıuchealıao ± `en` @Snow #-XQ4p1cH-
 ▯ is a fungus of genus Cortinarius.
 
-pıuchıaı ± `en` @Laqme #g6lf5Iq5Q
+pıuchıaı +1 `en` @Laqme #g6lf5Iq5Q
 ▯ is inside-out.
 
 pıuchoaq ± `en` @uakci #yZEEDX8BL
@@ -60548,6 +60569,9 @@ reochaq ± `en` @robintown #4VVNogfbJ
 
 reochuo ± `en` @salarua #FaYXVbhiM
 predicate: ‘paintbrush’; ▯ is a paintbrush
+
+reodıu ± `en` @jiqci #t0FNn2h4Y
+▯ is color theory.
 
 reodo ± `en` @uakci #3cSmaagAl
 ▯ colors/dyes/paints/tints, with color ▯, ▯; ▯ applies color/(dye/paint/pigment) ▯ to ▯.
@@ -68713,7 +68737,7 @@ shaqboaq ± `en` @seaqtaq #-C4Mv3Ukb
 shaqchea ± `en` @Laqme #MUwnqYlGg
 ▯ is a cap.
 
-shaqchıaı ± `en` @Laqme #VjmRVaDVb
+shaqchıaı +1 `en` @Laqme #VjmRVaDVb
 ▯ is backwards (facing the wrong way).
 
 shaqduo -1 `en` @xorxes #9GFHqKnuZ
@@ -68880,6 +68904,9 @@ sheahaq ± `en` @robintown #wg_iRT6XV
 
 sheaja ± `en` @seaqtaq #yKP-RTnfy
 ▯ clears/empties out ▯
+
+sheajaı ± `en` @seaqtaq #0JynslcE6
+▯ feels content in their apathy; ▯ feels utterly neutral about and somewhat distanced from their own state of being, and this brings them contentment
 
 sheakoı ± `en` @Machy #4ZB0QwUSX
 ▯ wanders.
@@ -70228,7 +70255,7 @@ shıucha ± `en` @uakci #QBwd6GEFC
 shıuchı ± `en` @seaqtaq #aJbFPJlJn
 ▯ forms preconceived belief ▯
 
-shıuchıaı ± `en` @Laqme #tysrRJxeI
+shıuchıaı +1 `en` @Laqme #tysrRJxeI
 ▯ is backwards (temporally).
 
 shıudaq ± `en` @Laqme #mWtRJwdV9
@@ -70470,6 +70497,9 @@ shoaıpıano ± `en` @jiqci #6q0T3I6Eh
 
 shoaısaora ± `en` @jiqci #uYr-JniLJ
 ▯ is a pterosaur.
+
+shoajaı ± `en` @seaqtaq #vWnKR72uQ
+▯ is content / satisfied / fulfilled
 
 shoajeoq ± `en` @seaqtaq #gy0cO95We
 ▯ is a pit/gulf/basin/chasm/abyss
@@ -71559,6 +71589,9 @@ takao ± `en` @jiqci #wF4SIS7Lc
 
 takaogegu ± `en` @jiqci #Y5VDJVOIh
 ▯ is a trochlea (a cartilage that works as a pulley for one of the eye muscles).
+
+takataq ± `en` @kazoo #uf3nuA2bB
+onomatopoeia: some type of repeated clicking/knocking
 
 takı +1 `en` @cass #CDHZEAcTm
 ▯ is Takis (a spicy tortilla chips snack food)
@@ -84741,7 +84774,7 @@ I see five puppers.
 Kaqgaı jí sá deo, ꝡë tua kúne sao, ꝡä tea déo. ± `en` @examples #bVbvP3vCikZ
 I saw a child that the large dog caused to be scared
 
-⚠ Kaqgaı jí sa fe baobao da. -1 `en` @oldexamples #jKX839H152y
+⚠ Kaqgaı jí sa fe baobao da. -2 `en` @oldexamples #jKX839H152y
 I see five puppers.
 
 ⚠ Kaqgaı jí sa heı shuao da. -1 `en` @oldexamples #vEY5jhT3n-I
@@ -92892,14 +92925,14 @@ boe(sıu)guaq ± `en` @seaqtaq #i9v-Ha7kG
 ⚠ byleqguele -1 `en` @Hydro #7hC8-EXPQ
 ▯ is a pituitary gland.
 
-⚠ by -1 `en` @el #DPkTyOt8D
-(fork of #0H5q45GzJ) conjunction: given X / as for X / as far as X goes, Y
-
 ⚠ Bygarıa -1 `en` @oldcountries #T0WPx1zY95z
 ▯ pertains to the culture of Bulgaria – Republic of Bulgaria.
 
 ⚠ Bygarıagua -1 `en` @oldcountries #ekiBrPs8CwM
 ▯ is the country Bulgaria – Republic of Bulgaria.
+
+⚠ by -2 `en` @el #DPkTyOt8D
+(fork of #0H5q45GzJ) conjunction: given X / as for X / as far as X goes, Y
 
 ⚠ caıfuoduy ± `en` @uakci #Uywh6Loe8
 ▯ gores/prods/stabs ▯.
@@ -92913,7 +92946,7 @@ boe(sıu)guaq ± `en` @seaqtaq #i9v-Ha7kG
 ⚠ cakyı ± `en` @seaqtaq #nlQkHle5X
 in state of affairs▯, the semantic role of FORCE is assumed by ▯
 
-⚠ canhy ± `en` @Laqme #kaqS_SZjN
+⚠ canhy -1 `en` @Laqme #kaqS_SZjN
 ▯ is a chestnut (edible fruit of Castanea tree).
 
 ⚠ ceocıy -1 `en` @uakci #QE96T5VXP
@@ -93663,7 +93696,7 @@ Head-initial performative illocution
 ⚠ Kısymasy -2 `en` @Laqme #G1goVbhn1
 ▯ is Christmas.
 
-⚠ kıy +2 `en` @Machy #zwE8wA6Bp
+⚠ kıy +1 `en` @Machy #zwE8wA6Bp
 personal pronoun: obviative 3rd person pronoun.
 
 ⚠ koaloy ± `en` @uakci #cxW60NrKV
@@ -94386,7 +94419,7 @@ attributive conjunction: X-y Y; a Y that is X enough for a Y
 ⚠ sakyso ± `en` @Hydro #wGQ-LyOBA
 ▯ is a saxophone.
 
-⚠ salıcy ± `en` @el #qwFVLlPmD
+⚠ salıcy -1 `en` @el #qwFVLlPmD
 ▯ is a willow (tree/plant/shrub, genus Salix)
 
 ⚠ say -1 `en` @akesi #xbf_mckeI
@@ -94536,7 +94569,7 @@ in state of affairs ▯, the semantic role of PATIENT is assumed by ▯
 ⚠ tetoıkyı -1 `en` @seaqtaq #A9RIoL_SP
 in state of affairs ▯, the semantic roles of both AGENT and PATIENT are assumed by ▯
 
-⚠ tımoy ± `en` @Machy #FpZ52Q-BK
+⚠ tımoy -1 `en` @Machy #FpZ52Q-BK
 ▯ is lost/misplaced.
 
 ⚠ toany ± `en` @Laqme #UkAolt8k0
