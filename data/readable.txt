@@ -2462,6 +2462,9 @@ beajıoqkea +1 `en` @Ilmen #f2KUNXbzc
 beakuoq +1 `en` @jiqci #I3m4jI6YG
 ▯ is a patella/kneecap.
 
+beam +1 `en` @Laqme #VwlkHtjNz
+degree: at its limit / as much as it can / saturated
+
 beamuao +1 `en` @robintown #ZwUGgRg9J
 ▯ is a cypress tree (the kind with knees).
 
@@ -6670,6 +6673,12 @@ case +2 `en` @Laqme #jBh6nAzAm
 
 case -1 `en` @Machy #9nFygiMYP
 ▯ is a process.
+
+casese ± `en` @seaqtaq #HNRYvdtkm
+▯ is an epiphenomenon
+
+casesedıu ± `en` @seaqtaq #TArPgQ2FB
+▯ is epiphenomenonalism
 
 cası ± `en` @Machy #kYvFmd02P
 ▯ is almost the case.
@@ -19729,7 +19738,7 @@ galıum ± `en` @uakci #vhmSR61E5
 gam +2 `en` @Laqme #GPlc2iVKh
 ▯ is a cuboid.
 
-gama ± `en` @Isi #_vtdwaeX4
+gama +1 `en` @Isi #_vtdwaeX4
 predicate: ‘camel’; ▯ is a camel.
 
 gamalaı ± `en` @kazoo #FT-1icw88
@@ -20373,6 +20382,9 @@ gẹduı ± `en` @Laqme #nAe5IKMHF
 
 gefeao ± `en` @robintown #tv3xQYOcF
 ▯ is overstimulated.
+
+gefuı +1 `en` @Laqme #aMJK6Gyt4
+▯ is mild/gentle/inoffensive.
 
 gegaı +1 `en` @Ilmen #ODWN3MqQe
 ▯ has perception of ▯ (stimulus).
@@ -25614,6 +25626,9 @@ heq ± `tok` @el #TpTVEQuy4
 
 heq ± `pl` @jiqci #jNm0dl1mB
 ▯ zawiera ▯.
+
+heqbeam ± `en` @Laqme #KyBUuUbuG
+▯ is chock full / filled to the brim.
 
 heqbeq ± `en` @uakci #RNgH2VIpO
 ▯ looks stuffy/packed/bulgy/inflated.
@@ -36731,6 +36746,9 @@ ketojuku ± `en` @jiqci #9jYTiJk2y
 ketoselaq ± `en` @jiqci #By1Bo4ISZ
 ▯ is a whale shark (Rhincodon typus).
 
+keu ± `en` @evie #8fmTOiLVC
+degree: as little as possible / bare minimum
+
 keza ± `en` @seaqtaq #6uTfdmQA2
 ▯ shrivels/contracts/withers
 
@@ -40971,6 +40989,9 @@ lazanha ± `en` @fagri #Muqv-vkb3
 lazaqnha +1 `en` @uakci #68lwnBQBM
 ▯ is lasagna.
 
+lazeo ± `en` @robintown #bknK3_Hy1
+▯ goes on and on; ▯ is seemingly/perceptually endless.
+
 lazulıpıo ± `en` @robintown #FahJno0v_
 ▯ is lapis lazuli.
 
@@ -41853,11 +41874,17 @@ lıeıdao ± `en` @uakci #dY8ayer4J
 lıeıma ± `en` @seaqtaq #OjeX9Bppg
 ▯ is a model/guide/(abstract) template; ▯ is something that another obeys/follows/is in agreement with
 
+lıeınoraı ± `en` @seaqtaq #M3tUGI8G9
+▯ is a faithful adaptation of some media
+
 lıeınuq'o ± `en` @uakci #TvYFBkzv_
 ▯ satisfies request/command ▯ by acting in response / giving answer ▯.
 
 lıeıruo ± `en` @seaqtaq #9jtthYLkE
 ▯ conforms in behavior to rule/standard/law ▯
+
+lıeısıu ± `en` @seaqtaq #vKuLjVjch
+▯ is in the spirit of ▯; ▯ has the same vibe as ▯
 
 lıeıtao ± `en` @uakci #1t8N6A2wx
 ▯ obeys/is in accordance with ▯ by doing property ▯.
@@ -44357,6 +44384,9 @@ mabuluaı +1 `en` @seaqtaq #JXjhLEiKV
 
 mabuq +1 `en` @robintown #wNtg1oRqC
 ▯ is drunk.
+
+mabusuoı ± `en` @seaqtaq #psF5Kutxa
+▯ is magnificently wretched / awful; ▯ is perfectly / impressively terrible; ▯ is so bad or unpleasant that it is shocking or perhaps even surreal
 
 mace ± `en` @Machy #4msiLz8ZC
 ▯ mates with ▯.
@@ -47477,7 +47507,7 @@ moelaı +2 `en` @fagri #hG8saRWD6
 moeleı ± `en` @Laqme #49tUUulov
 ▯ is unemotional / rarely emotional / stoic.
 
-moem ± `en` @Laqme #UvOsb42Q7
+moem +1 `en` @Laqme #UvOsb42Q7
 ▯ is rounded / round / blunt / dull / "bouba".
 
 moemıa ± `en` @fagri #xt_vVP0Ul
@@ -49897,6 +49927,9 @@ predicate: ‘N’; ▯ is the letter N.
 
 nanaq ± `pl` @jiqci #75g_-kqwB0
 ▯ to litera N.
+
+nanaqkıaq ± `en` @Laqme #Rrch6CNlT
+▯ is a cowlick / ahoge.
 
 nanasa ± `en` @Hoemai #H4HcsvzpR
 ▯ is a member of genus Ananas (the pineapple and similar plants).
@@ -52895,6 +52928,9 @@ noga ± `jbo` @el #QlYJ97yYj
 Nogaızu ± `en` @SuperSpaceNiM #yCpK7BqTA
 ▯ is the Nogai language.
 
+nogama +1 `en` @Laqme #jJnqpg9lc
+interjection: (internet slang) "W take", "real", **bụqnoga**
+
 noge -1 `en` @Ilmen #vtAg11UeW
 ▯ is a nail, claw or hoof.
 
@@ -54944,6 +54980,9 @@ nhomgoaı ± `en` @Ilmen #YLLj1823o
 nhomtoı ± `en` @Ilmen #tMFmzsxCR
 ▯ is affectionate to ▯.
 
+nhonho +1 `en` @Laqme #FzXVLMe2K
+interjection: 'yup!', 'you betcha!'
+
 nhoq +2 `en` @robintown #_7jSiWg4o
 ▯ is a cord/rope/thread/string.
 
@@ -54988,6 +55027,9 @@ nhoqsaheq ± `en` @jiqci #v78Lm2-Qj
 
 nhoqtıoq +1 `en` @Laqme #_yceKejSA
 ▯ is a zipper.
+
+nhora +1 `en` @Laqme #Xlbvju0Jb
+interjection: 'yeah, kinda'
 
 nhorızı ± `en` @uakci #JaA_zs14h
 Is it or is it not the case that ▯? [compels hearer to answer with yes or no exclusively]
@@ -68932,6 +68974,9 @@ sheame +1 `en` @jiqci #gSl7uVhE1
 sheameame ± `en` @Ilmen #xrq_3akeu
 ▯ is the empty set.
 
+sheameo ± `en` @seaqtaq #Sy-e1xyVq
+▯ feels ennui / sadness, dissatisfaction, and/or lamentation at the emptiness in their life
+
 sheamı ± `en` @robintown #_Xbn80UjW
 ▯ is outer space.
 
@@ -76155,6 +76200,9 @@ tuımara +1 `en` @akesi #KYBFRcUaY
 tuımna +1 `en` @evie #PAhcBoG_k
 interjection: 🪑
 
+tuımnhaq ± `en` @kazoo #WEvvspYj_
+interjection: a more cutesy way of saying **tuımna**(🪑)
+
 tuınıu ± `en` @fagri #CyvLV6PRN
 ▯ is a bush
 
@@ -78249,6 +78297,9 @@ zeumla ± `en` @jiqci #k-0eHkPDB
 zeune ± `en` @jiqci #UJG9uWHKw
 ▯ is the height / tallness of ▯.
 
+zı- ± `en` @evie #sqrZTfcdc
+attaches to something with a quantifier like tú/sía/sulam, and turns it into "not *literally* that, but the exceptions are irrelevant/negligible/etc"
+
 zı ± `en` @official #6Ohhh4oY0X2
 interjection: ‘no’; no
 
@@ -78311,6 +78362,9 @@ zıamıa +1 `en` @Laqme #fuf5h1rg4
 
 zıammuo ± `en` @seaqtaq #fg3tXcv3d
 ▯ is the antithesis of ▯
+
+zıamnoraı ± `en` @seaqtaq #ewqPjkkwU
+▯ is an unfaithful adaptation of some media
 
 zıamsıo ± `en` @Laqme #irouqZvqj
 ▯ is a heresy.
@@ -78524,6 +78578,9 @@ zıqzea ± `en` @Laqme #54WL-1bGa
 
 zıqzeache ± `en` @Laqme #rwFKLQhDu
 ▯ is a cyber-criminal / ("black-hat") hacker.
+
+zıra +1 `en` @Laqme #qwdKh4dxH
+interjection: 'not quite', 'not really'
 
 zırıkonıum ± `en` @Laqme #p5VJgxFXl
 ▯ is zirconium.
@@ -93023,9 +93080,6 @@ terminator: ‘[end]’; end complementizer phrase
 
 ⚠ chaıheqmy ± `en` @uakci #BKXqEHWqx
 ▯ is a teapot (vessel for brewing tea)
-
-cheaq(gı)chı ± `en` @seaqtaq #AbE9sNwKy
-▯ believes ▯to be trustworthy; ▯ trusts▯
 
 ⚠ checy -1 `en` @el #ucdaKLBXh
 ▯ is unstably/precariously true; ▯ unstably/precariously satisfies ▯ (JEO frame)
