@@ -162,7 +162,7 @@ const normalize = memoize((w, lowercase = true) =>
     (lowercase ? w.toLowerCase() : w)
         .normalize("NFD")
         .replace(/i/g, "ı")
-        .replace(/[vw]/g, "ꝡ")
+        .replace(/[vwy]/g, "ꝡ")
         .replace(/[x‘’]/g, "'")
         .replace(/\u0323([\u0301\u0308\u0302])/, "$1\u0323"))
 // queries also have underdot and number replacements, which can be dealt with separately (and are somewhat expensive)
