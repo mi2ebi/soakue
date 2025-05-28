@@ -36431,6 +36431,12 @@ keıcıu ± `pl` @jiqci #oOTzOBX-xV
 keıke +1 `en` @robintown #BUG2m-cMT
 ▯ is cake. 🎂🍰🧁
 
+keıso ± `en` @jiqci #cKynEkY6O
+▯ is cowbane / water hemlock / poison parsnip (genus Cicuta).
+
+keısosaı ± `en` @Ilmen #wwAMAMJwo
+▯ is coniine, i.e. (2S)-2-propylpiperidine.
+
 kejeo ± `en` @Ilmen #5jda4-R-4
 ▯ satisfies the property that satisfies the property ▯.
 
@@ -62994,6 +63000,9 @@ ruojuao ± `en` @Ilmen #YSz3Xx-K0
 ruojuq ± `en` @uakci #whg8LXMF7
 ▯ assumes role ▯.
 
+ruolea ± `en` @seaqtaq #BwxEPT-94
+▯ is (an) etiquette
+
 ruolıeı ± `en` @seaqtaq #eM5qfggZs
 ▯ conforms in behavior to rule/standard/law ▯
 
@@ -63065,6 +63074,12 @@ ruosuacıa ± `en` @uakci #9p8jXaeTm
 
 ruosuım ± `en` @seaqtaq #v5U_9sgwX
 ▯ disciplines ▯; ▯ corrects ▯'s behavior; ▯ puts ▯ in their place
+
+ruoteı ± `en` @seaqtaq #EFElVtN_K
+▯ is a behavior / set of behaviors
+
+ruoteıjuao ± `en` @seaqtaq #wYLZixPt9
+▯ is (an) etiquette
 
 ruotıao ± `en` @uakci #Pbc4PxePi
 ▯ acts according to ▯’s preferences by satisfying relation ▯.
@@ -64435,7 +64450,7 @@ seaqjaı ± `en` @uakci #P9yrkjsgZ
 seaqkea +1 `en` @seaqtaq #ldkV9MEjj
 ▯ is a sex toy 
 
-seaqkıoq ± `en` @ArcyFox #B4xJ7iKid
+seaqkıoq -1 `en` @ArcyFox #B4xJ7iKid
 ▯ is a testicle; ▯ are testis
 
 seaqkıq ± `en` @uakci #01wqT3neq
@@ -66778,6 +66793,12 @@ soıjam ± `en` @Laqme #0paqpD6-7
 
 soıjeoqtıeq ± `en` @Ilmen #hDQ2cJVTi
 ▯ is a war trench.
+
+soıkeoılea ± `en` @seaqtaq #iC9FkUKwQ
+▯ is Polemics
+
+soıkeoıse ± `en` @seaqtaq #aygMH8qfa
+▯ is a polemic
 
 soıkueq ± `en` @Laqme #JgCVzqY1K
 ▯ (plural) fight / quarrel / have a row / have an altercation.
@@ -78360,6 +78381,9 @@ zıameıpıo ± `en` @Snow #LX953gj2s
 zıamıa +1 `en` @Laqme #fuf5h1rg4
 ▯ is radiant / lustrous.
 
+zıammıa ± `en` @seaqtaq #T6yZtLQY7
+▯ is controversial
+
 zıammuo ± `en` @seaqtaq #fg3tXcv3d
 ▯ is the antithesis of ▯
 
@@ -78749,6 +78773,9 @@ zoge ± `en` @jiqci #AqnH6PvER
 
 zoı- ± `en` @seaqtaq #Bopd4YcnA
 prefix: 'antipassive': demotes greatly the saliency of an object as well as removes it from the structure of a verb. The former object may only be referenced through oblique semantic role marking
+
+zóı +1 `en` @kazoo #_TwL4U2AB
+determiner: a/some instances of X that once existed, or will exist.
 
 zoku +1 `en` @Laqme #exjKx_vPg
 ▯ is steel.
