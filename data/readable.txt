@@ -52241,9 +52241,6 @@ prefix: ‘re-’
 nıq +3 `en` @robintown #r9UnapQch
 ▯ is new.
 
-nıq -1 `en` @official #euJ49s4UaK
-predicate: ‘new’; ▯ is new; ▯ is new to ▯.
-
 nıq ± `toa` @uakci #9y0L8a2mH
 bu haı dua jí púıbıaq lú raq hóa dóshı, na ru naı lú ko shı cu lî chuı na hóa gǔo hóa gâı jí dóshı da
 
@@ -52255,6 +52252,9 @@ nıq ± `tok` @el #BiiRktyQ1
 
 nıq ± `pl` @jiqci #EK1Y3uIYC2
 ▯ jest nowy; jest nowy w ▯.
+
+nıq -2 `en` @official #euJ49s4UaK
+predicate: ‘new’; ▯ is new; ▯ is new to ▯.
 
 nıq'e ± `en` @salarua #tANPoHTak
 predicate: ‘again’; ▯ happens again
@@ -78794,9 +78794,6 @@ zoge ± `en` @jiqci #AqnH6PvER
 
 zoı- ± `en` @seaqtaq #Bopd4YcnA
 prefix: 'antipassive': demotes greatly the saliency of an object as well as removes it from the structure of a verb. The former object may only be referenced through oblique semantic role marking
-
-zóı +1 `en` @kazoo #_TwL4U2AB
-determiner: a/some instances of X that once existed, or will exist.
 
 zoku +1 `en` @Laqme #exjKx_vPg
 ▯ is steel.
