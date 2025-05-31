@@ -19741,6 +19741,9 @@ galekeoı ± `en` @Laqme #sY71pVQoF
 galese ± `en` @uakci #mbQcWlSAg
 ▯ is a school/university course/term centered around ▯.
 
+galesoache ± `en` @evie #qf1hGWBay
+▯ is a teaching assistant
+
 galıum ± `en` @uakci #vhmSR61E5
 ▯ is gallium.
 
@@ -43368,10 +43371,10 @@ Event ▯ satisfies relation ▯ with its agent
 lozeq ± `en` @jiqci #yL1NkgiMZ
 ▯ is a rhombus / lozenge.
 
-lú ± `en` @evie #hVf51YI_E
+lú -1 `en` @evie #hVf51YI_E
 anaphoric pronoun for property clauses
 
-lû ± `en` @robintown #_odzwFLN5
+lû +1 `en` @robintown #_odzwFLN5
 adjunct head: forms eventive adverbials (allomorph ◌̂)
 
 lua ± `en` @official #Fx5t4pada
