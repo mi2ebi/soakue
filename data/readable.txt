@@ -8537,7 +8537,7 @@ cuıq +2 `en` @uakci #KQSX5RGy-
 cuja ± `en` @uakci #PJgq6AFn2
 ▯ abruptly cuts off / trails off / is cut short / preempted.
 
-cukapoaq -1 `en` @Ilmen #vz1WwosQw
+cukapoaq -2 `en` @Ilmen #vz1WwosQw
 ▯ explodes.
 
 cukı +1 `en` @fagri #cgIFr2g5d
@@ -8666,7 +8666,7 @@ cupı ± `en` @Ilmen #WsOKfp1Dw
 cupısaı ± `en` @jiqci #cd-qW5Pd_
 ▯ is mucus.
 
-cuq +2 `en` @uakci #5XwM9StZs
+cuq +3 `en` @uakci #5XwM9StZs
 ▯ leaves/departs from satisfying property ▯.
 
 cuqdere +1 `en` @robintown #vDMXqTSY2
@@ -16717,7 +16717,7 @@ interjection: "As you can see" "as you might have guessed"
 eo ± `en` @el #XtMczCAN4
 ▯ (ignoring ▯) satisfies property ▯
 
-éoı ± `en` @Laqme #Bt-Phu4xs
+éoı +1 `en` @Laqme #Bt-Phu4xs
 determiner: the color(s) ...
 
 éomı ± `toa` @el #St8AzyV_N
@@ -18310,6 +18310,9 @@ fıamaq ± `en` @Ilmen #IOnJoEJwz
 fíanuaq ± `en` @robintown #6mMjWDSih
 pronoun: last night
 
+fıaona ± `en` @jiqci #8vXCwe0d7
+▯ is an alder tree (genus Alnus).
+
 fıapoha ± `en` @Laqme #naNVRzQhe
 ▯ refers anaphorically to ▯.
 
@@ -18411,6 +18414,9 @@ fıeqnıeq ± `en` @robintown #uczHsS2NX
 
 fıeqno +1 `en` @seaqtaq #BoqEK2xiL
 ▯ is a canvas; ▯ is a medium through which one conveys/displays their invention('s)
+
+fıeqrıaq ± `en` @Saqani #vXaINunJ_
+▯ is a workshop/hackspace/makerspace
 
 fıeqse ± `en` @seaqtaq #Ha-MYQlmB
 ▯ is a creation / work / invention / brain-child
@@ -21757,7 +21763,7 @@ gıqzıu ± `en` @Ilmen #y8QM0AFsH
 gırao ± `en` @evie #aLjvapTui
 interjection: rawr~ :3
 
-gırı +2 `en` @TheAndSys #dKzYOcv29
+gırı +3 `en` @TheAndSys #dKzYOcv29
 ▯ is lovely, is really pleasing, is really nice
 
 gırıpeq ± `en` @Ilmen #IuR6m8eeX
@@ -26362,7 +26368,7 @@ hıeqnuaobeaq ± `en` @Ilmen #4tHeTLk_K
 hıeqnuaohaq -1 `en` @Ilmen #RwMkzViTe
 ▯ is an arrow (pointed missile).
 
-hıeqpoaq ± `en` @Ilmen #sudd0hTIZ
+hıeqpoaq -1 `en` @Ilmen #sudd0hTIZ
 ▯ explodes.
 
 hıeqpoaqkea ± `en` @Ilmen #tRoznV8Nj
@@ -34443,7 +34449,7 @@ jupu ± `en` @seaqtaq #Z64ITdHPN
 juq +1 `en` @official #Wszh0nJ8qV
 predicate: ‘acquire’; ▯ gets/acquires property ▯.
 
-juq +1 `en` @Laqme #VnwEkm5wt
+juq +2 `en` @Laqme #VnwEkm5wt
 ▯ receives/gets/acquires ▯.
 
 juq ± `pl` @jiqci #CIdt7GLlgV
@@ -37102,6 +37108,12 @@ kıba +1 `en` @lassc #6ryQ4ZBAg
 
 kıbı ± `en` @uakci #mEYw-7Frm
 ▯ is a kiwi fruit.
+
+kıbım ± `en` @evie #EHnq3_AJs
+number: 1024, 2^10, kibi-
+
+kıbımılaı ± `en` @evie #EeypwpTBy
+▯ is a kibibyte (1024 bytes)
 
 kıboeq ± `en` @TheAndSys #SlnmOW4O5
 ▯ is a keyboard
@@ -50366,7 +50378,7 @@ naqcıo ± `en` @Laqme #BpZcHZqyQ
 naqde +2 `en` @uakci #2NSHqWMUT
 ▯ has masculine beauty; ▯’s aesthetic comes off as having a male(-aligned) undertone.
 
-naqdelıq +4 `en` @TheAndSys #ehdtbnnyV
+naqdelıq +5 `en` @TheAndSys #ehdtbnnyV
 ▯ is a tomboy
 
 naqdelıq ± `es` @TheAndSys #x8PGDl2_Q
@@ -53309,7 +53321,7 @@ notua +1 `en` @Laqme #mosz2U3_0
 notuase ± `en` @Laqme #dDBbsVWEe
 ▯ is a translation/adaptation.
 
-notuq +1 `en` @seaqtaq #pHqR95xI1
+notuq +2 `en` @seaqtaq #pHqR95xI1
 ▯ explodes
 
 notuqcıegıuqmuao ± `en` @Ilmen #4ft0M_6oQ
@@ -53767,6 +53779,9 @@ nueqze ± `en` @Laqme #5_OO0Bzin
 
 nuese ± `en` @Laqme #4gnD7X3Jz
 ▯ is a promise.
+
+nuese ± `en` @evie #uN9Hy8Vqu
+▯ is a promise/threat
 
 nueshaı ± `en` @uakci #q430su27V
 ▯ flakes on / goes back on / reneges on their promise towards ▯ to ▯; ▯ betrays ▯ (one sense).
@@ -57779,7 +57794,7 @@ poaq ± `ru` @SuperSpaceNiM #oo4VkDExX
 poaqbo ± `en` @seaqtaq #bPnhVvCkQ
 ▯ is cracked/fissured/fractured/splintered
 
-poaqcuka -1 `en` @Ilmen #5zVzBTBxc
+poaqcuka -2 `en` @Ilmen #5zVzBTBxc
 ▯ explodes.
 
 poaqchuq ± `en` @Ilmen #wgLJrpn7p
@@ -73540,6 +73555,9 @@ tıarom ± `en` @Laqme #IPkldVvHL
 tıasoq ± `en` @Laqme #URVNQwX_q
 ▯ is all the way at the end/back among ▯.
 
+tıashaq ± `en` @kazoo #xNgx4pMkg
+▯ plays coin flipping/heads or tails.
+
 tıazıu ± `en` @Laqme #4G7pGkhgI
 ▯ is a negative number.
 
@@ -73588,7 +73606,7 @@ tıcuao ± `en` @Ilmen #LIImgp8Tp
 tıcucheı ± `en` @jiqci #BVeCBb75O
 ▯ is an (opposable) thumb.
 
-tıcuq +1 `en` @mimiaoganhaqpy #fghM-CCe8
+tıcuq +3 `en` @mimiaoganhaqpy #fghM-CCe8
 predicate: ‘depart’; ▯ leaves / departs from place/position ▯.
 
 tıcha ± `en` @seaqtaq #E_tAvbcVC
@@ -74248,7 +74266,7 @@ tısha ± `tok` @el #qVj2JZgI4
 tısha ± `pl` @jiqci #EbXqu0_4Qz
 ▯ przychodzi/przyjeżdża do ▯.
 
-tıshagıq +1 `en` @Laqme #yT4DjReam
+tıshagıq +2 `en` @Laqme #yT4DjReam
 ▯ leaves place/position ▯.
 
 tıshagıq ± `en` @Machy #_zdlfjwsv
@@ -77559,7 +77577,7 @@ determiner: ‘a certain…’.
 ꝡefajom ± `en` @jiqci #4PvLfHdhw
 ▯ is an imp.
 
-ꝡeı +4 `en` @Laqme #fnDUBIWMl
+ꝡeı +5 `en` @Laqme #fnDUBIWMl
 illocution / speech act particle: "what a ...!" / "how ...!"
 
 ꝡéı ± `en` @Laqme #6FjrzeCEL
