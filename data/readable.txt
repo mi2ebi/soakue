@@ -2018,11 +2018,11 @@ bao ± `pl` @jiqci #DDt8tmI2Mt
 bao ± `ru` @SuperSpaceNiM #pfLzh5gre
 предикат: ‘белый’; ▯ белого цвета.
 
+baobao +1 `en` @Laqme #ktkhzXuYr
+interjection: bark, woof
+
 baobao ± `en` @saqraku #OswjqKSY8
 onomatopoeia: ▯ is woof; ▯ is a dog's bark.
-
-baobao ± `en` @Laqme #ktkhzXuYr
-interjection: bark, woof
 
 baobego ± `en` @jiqci #-ak-N0PBz
 ▯ is a hornbeam tree (genus Carpinus).
@@ -24236,7 +24236,7 @@ gusuı -1 `en` @seaqtaq #vmyRsaY6P
 ▯ is least related to ▯ among ▯ by binary property ▯.
 
 gushaobutao ± `en` @jiqci #GFg7MOL4y
-▯ and ▯ are facing mamihlapinatapai / volunteer's dilemma.
+▯ (plural) are facing mamihlapinatapai / volunteer's dilemma.
 
 gushe ± `en` @uakci #oUeGJttVm
 ▯ allows ▯ to happen given ▯; ▯ is what is needed to infer ▯ from ▯.
@@ -65320,6 +65320,9 @@ in state of affairs ▯, the semantic role of SOURCE is assumed by ▯
 sıaochu ± `en` @uakci #jcbnMpCSj
 ▯ is ▯’s essence/inherent identity.
 
+sıaodaq ± `en` @kazoo #8X37A6pHX
+▯ is the beginning point of time itself; ▯ is when time started.
+
 sıaodıu ± `en` @seaqtaq #okdFgiewg
 ▯ is protology; ▯ is the study of origins / genesis
 
@@ -79136,6 +79139,12 @@ zujuaokao ± `en` @uakci #TNByQc9yI
 
 zujuaome ± `en` @Laqme #n_7NQYwL1
 ▯ is a grammar.
+
+zujuoıse ± `en` @evie #DWuS6MR0x
+▯ is the case descriptively
+
+zujuoqse ± `en` @evie #5d7XAHvpD
+▯ is the case prescriptively
 
 zukını ± `en` @robintown #Y6rhFZCPo
 ▯ is a zucchini.
