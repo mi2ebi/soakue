@@ -8945,6 +8945,9 @@ chaocaq +1 `en` @Laqme #tsTcK1FYL
 chaocaqche ± `en` @jiqci #weQPu8Kmu
 ▯ is a driver / pilot (as an occupation).
 
+chaocoa ± `en` @Laqme #aQOEvUvpX
+▯ is a jet bridge.
+
 chaoche ± `en` @seaqtaq #qc7IMlIvu
 ▯ chauffeurs ▯
 
@@ -18415,7 +18418,7 @@ fıeqnıeq ± `en` @robintown #uczHsS2NX
 fıeqno +1 `en` @seaqtaq #BoqEK2xiL
 ▯ is a canvas; ▯ is a medium through which one conveys/displays their invention('s)
 
-fıeqrıaq ± `en` @Saqani #vXaINunJ_
+fıeqrıaq +1 `en` @Saqani #vXaINunJ_
 ▯ is a workshop/hackspace/makerspace
 
 fıeqse ± `en` @seaqtaq #Ha-MYQlmB
@@ -28882,9 +28885,6 @@ interjection: okay? got it?
 ína ± `jbo` @Laqme #icjrzdRhN
 je'epei
 
-ïna ± `en` @kazoo #lwtiM6fNq
-interjection: saying "understood" but unsure about what the other speaker quite meant
-
 îna ± `en` @kazoo #WWoYjS7Mo
 interjection: acknowledging that the other side has understood what i said
 
@@ -31689,6 +31689,9 @@ jıaqjıe ± `en` @uakci #bPFaK-jy2
 jıaqjıe ± `en` @Ilmen #sGkE6Bl9J
 ▯ occurs in world ▯.
 
+jıaqjıese +1 `en` @seaqtaq #kwg-fjVfC
+▯ is a worldview
+
 jıaqjıq ± `en` @Ilmen #Qj1MEZXwj
 ▯ exists in world ▯.
 
@@ -31931,6 +31934,12 @@ jıeqtom ± `en` @jiqci #o1kO2Ky9C
 
 jıera ± `en` @uakci #HNkMfyV2y
 modality: now that X is known/established, … can be said; given X [having been learned], … [merits stating]
+
+jıese ± `en` @seaqtaq #AThoaAy7b
+▯ is an interpretation
+
+jıese ± `en` @Laqme #73W30GWEv
+▯ is a view / take / perspective.
 
 jıesuq ± `en` @Ilmen #s85_8EYwF
 ▯ is the case according to you; ▯ has property ▯ according to you.
@@ -36036,6 +36045,9 @@ kasha ± `en` @jiqci #t52jVVmlF
 kata ± `en` @Ilmen #YqZfmuBBp
 ▯ is a card.
 
+kata ± `votgil` @kazoo #VbYGHK1kN
+▯VizSumVötLörRek.
+
 katala ± `en` @salarua #AQ6tdZsoU
 predicate: ‘katal’; ▯ is a katal
 
@@ -36872,6 +36884,9 @@ predicate: ‘look.after’; ▯ looks after ▯; ▯ takes care of ▯.
 kıaı ± `pl` @jiqci #juuz0BTfd6
 ▯ opiekuje się/dba o ▯.
 
+kıaı ± `tlh` @evie #3YYZ49HWD
+▯₂ Qorgh ▯₁
+
 kıaıbo ± `en` @robintown #MHCDaijkf
 ▯ has ▯ in their care.
 
@@ -36979,6 +36994,9 @@ kıaoleoq ± `en` @seaqtaq #oqSfPCjuv
 
 kıaolıeq ± `en` @jiqci #IVmwROMKy
 ▯ is a doorstop (not necessarily a wedge).
+
+kıaorıaq ± `en` @Laqme #-pxQzVWy5
+▯ is a gate (at an airport).
 
 kıaosıu ± `en` @Hydro #AK2M3x3Vo
 ▯ is a thyroid gland.
@@ -45729,7 +45747,7 @@ meısao ± `en` @uakci #tNV55MwiN
 meızuom ± `en` @Laqme #lqlTOn_m7
 ▯ is a landslide/rockslide.
 
-meje ± `en` @uakci #uoKIt49kQ
+meje -1 `en` @uakci #uoKIt49kQ
 Each one of ▯ satisfies with some different one of ▯ relation ▯; and each one among ▯ has some distinct one among ▯ satisfy relation ▯ with it; ▯ is in a one-to-one relation with ▯, where the relation is ▯; Each ▯ has some (different) ▯ which it ▯-s.
 
 mejeo ± `en` @Ilmen #1I0cRBaCB
@@ -48596,8 +48614,8 @@ muaqzashe ± `en` @Ilmen #3luasv9Yt
 muaraq ± `en` @uakci #2erdWmwOG
 ▯ is specific; ▯ pertains to specific/concrete instances of ▯.
 
-muasoq ± `en` @seaqtaq #UKq-L5nHC
-▯ is the quintessential satisfier of property ▯
+muasoq +1 `en` @seaqtaq #UKq-L5nHC
+▯ is quintessential/paradigmatic/archetypal/standard
 
 mubaq ± `en` @Ilmen #td4xdNiCa
 binary quantifier: reversed generic; «hảo₁ mubaq hảo₂» = «hảo₂ baq hảo₁».
@@ -49765,6 +49783,9 @@ naısha +1 `en` @Laqme #D5cE97GrG
 
 naıshı ± `en` @lassc #rgUI8P7Jc
 ▯ is a widow(er) of ▯.
+
+naıshıoq +1 `en` @seaqtaq #14ad78zpv
+▯ is a zeitgeist
 
 naısho ± `en` @Laqme #Ls0oTdlPt
 ▯ (future/awaited time) comes (becomes the present).
@@ -52579,6 +52600,9 @@ nıuhaq ± `en` @jiqci #U5SPVGviN
 
 nıuheaq ± `en` @Laqme #UQ8nS_8DW
 ▯ is a seed of plant ▯.
+
+nıuhueq ± `en` @Laqme #Z1n3brD0P
+▯ is the "illustration" face of coin ▯.
 
 nıujeoq ± `en` @robintown #kXtOdg9Zx
 ▯ is a planter / flower pot.
@@ -58216,6 +58240,9 @@ poq ± `jbo` @zearen #yxEmDlD5w
 
 poq ± `jbo` @Laqme #dz6UMIm74
 ▯ prenu
+
+poq ± `votgil` @kazoo #Rd9UsV_6V
+▯VizSumPrs.
 
 poqbo ± `en` @Machy #4Xo9xMlsA
 ▯ is master to ▯.
@@ -65041,9 +65068,6 @@ seumrıao ± `en` @Laqme #4AvG9fwR0
 seuq ± `en` @jiqci #UQLfCYtBn
 ▯ conveys / is an expression of property ▯.
 
-seutoaq -1 `en` @seaqtaq #090EfL9zh
-▯ is mathematics
-
 seza ± `en` @Laqme #Mf0KD_lbZ
 ▯ becomes such that they satisfy bad/undesirable property ▯.
 
@@ -65320,7 +65344,7 @@ in state of affairs ▯, the semantic role of SOURCE is assumed by ▯
 sıaochu ± `en` @uakci #jcbnMpCSj
 ▯ is ▯’s essence/inherent identity.
 
-sıaodaq ± `en` @kazoo #8X37A6pHX
+sıaodaq +1 `en` @kazoo #8X37A6pHX
 ▯ is the beginning point of time itself; ▯ is when time started.
 
 sıaodıu ± `en` @seaqtaq #okdFgiewg
@@ -68859,6 +68883,9 @@ shaqgeq ± `en` @Laqme #3K6l1mclV
 
 shaqhua ± `en` @fagri #AlMu0qQbq
 ▯ ıs a face
+
+shaqhueq ± `en` @Laqme #kPAjgmR5I
+▯ is a front face / obverse of ▯.
 
 shaqjeoq ± `en` @salarua #p0IcrZyh2
 ▯ is a ventral cavity.
@@ -73347,6 +73374,9 @@ interjection: the speaker realizes they have the flu after eating traditional me
 
 tıafana ± `en` @seaqtaq #ElmqKa976
 ▯ is a motion event backward
+
+tıahueq ± `en` @Laqme #oazPEC_yL
+▯ is a back face / reverse of ▯.
 
 tıaı ± `en` @official #VxIpkAbPKH
 predicate: ‘box’; ▯ is a box.
@@ -78704,6 +78734,9 @@ zıuhuaq ± `en` @Ilmen #LH66DHGL7
 
 zıuhuaqjeq ± `en` @Ilmen #VgB_77ivy
 ▯ ≥ ▯.
+
+zıuhueq ± `en` @Laqme #SZTvVJq9I
+▯ is the "amount" face of coin ▯.
 
 zıukuoı ± `en` @Ilmen #0kg8IyGeR
 ▯ is a number lesser than ▯.
@@ -95008,7 +95041,7 @@ I moan because there’s pain in my arm.
 ⚠ Choa nháo kùı nôı baq noı pó fúy ga gıe da. -1 `en` @oldexamples #-NyIs8WqBHq
 They moan because there’s pain in their arm.
 
-⚠ Choa sóq koaq deo põı hıaodaısı ± `en` @examples #wYgU5rH5kG
+⚠ Choa sóq koaq deo põı hıaodaısı -1 `en` @examples #wYgU5rH5kG
 (B0031) The oldest boy spoke carefully
 
 ⚠ Choa súq kùı nôı baq noı pó fúy ga gıe go. -1 `en` @oldexamples #1f2Fx64nsc0
@@ -95602,7 +95635,7 @@ Unfortunately for me, they don’t love me.
 ⚠ Luı jaq pua choaqjuq míy súq ± `en` @examples #SbWrwOxw_G
 (B0325) We have enjoyed your visit very much
 
-⚠ Luı muoı sĩy pó bé ga kıoq ± `en` @examples #OKsMtHb7Xv
+⚠ Luı muoı sĩy pó bé ga kıoq -1 `en` @examples #OKsMtHb7Xv
 (B0045) The baby's ball has rolled away
 
 ⚠ Luı tıbufa ke pıa sü hó mí Jeıny ± `en` @examples #eO2CPaa5v_
@@ -96196,7 +96229,7 @@ There are many books that aren’t about anything.
 ⚠ Ruao jí súq bũ. -1 `en` @oldofficial #_DAqIT7bIDM
 I don't forgive you.
 
-⚠ Sa duı puı toame bı choa há tushı mea tá põı bu hıaodaısı ± `en` @examples #ax7UOH9pf
+⚠ Sa duı puı toame bı choa há tushı mea tá põı bu hıaodaısı -1 `en` @examples #ax7UOH9pf
 (B0192) Too many unkind words are spoken thoughtlessly
 
 ⚠ saq jÅ«e -1 `en` @Laqme #RAVNxus3O
