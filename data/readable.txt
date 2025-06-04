@@ -8678,6 +8678,9 @@ cuqdo ± `en` @seaqtaq #8VERILKha
 cuqga ± `en` @uakci #NisARYtwy
 ▯ responds with answer ▯.
 
+cuqkaı ± `en` @Laqme #n5cex-JCw
+▯ checks out.
+
 cuse ± `en` @uakci #7M5NOwW8_
 ▯ is spit/sputum/saliva.
 
@@ -8952,7 +8955,7 @@ chaoche ± `en` @seaqtaq #qc7IMlIvu
 ▯ chauffeurs ▯
 
 chaochoaq ± `en` @Laqme #7vVJ828jS
-▯ is a passenger; ▯ is a passenger aboard ▯.
+▯ is a passenger.
 
 chaochuao ± `en` @seaqtaq #VvX3Yhzyt
 ▯ is a porthole
@@ -14530,6 +14533,9 @@ dıoqbıe ± `en` @Laqme #lZ_GFUKia
 
 dıoqca ± `en` @Laqme #36zRRka0w
 ▯ directly causes ▯.
+
+dıoqchao ± `en` @Laqme #Z3Rrhhf3V
+▯ is a shuttle.
 
 dıoqchue ± `en` @Laqme #pDNsuMwSf
 ▯ is an express train.
@@ -38774,6 +38780,9 @@ kuabuejıo ± `en` @Ilmen #lfXkHTtY9
 kuachoa ± `en` @jiqci #YX6gXXfPW
 ▯ quacks.
 
+kuadıem ± `en` @Laqme #j3HD0Ip5O
+▯ is a minibar (in a hotel room).
+
 kuaı ± `en` @official #fRkc8kdUx
 predicate: ‘urge.for’; ▯ hungers/urges/longs to satisfy property ▯.
 
@@ -45482,6 +45491,9 @@ predicate: ‘harbour’; ▯ is a harbour/haven.
 
 meaqce ± `pl` @jiqci #VRMAE9Vjue
 ▯ to port/nabrzeże.
+
+meaqchoaq ± `en` @Laqme #cKOOW92zq
+▯ is a passenger (of a ship/plane).
 
 meaqdeaq ± `en` @jiqci #6GlcqJyDv
 ▯ is a deck (of a ship).
@@ -68512,6 +68524,15 @@ Interjection: "I see", "I get it now"
 shagıq +1 `en` @Laqme #ocn5mOiJG
 ▯ leaves/departs from satisfying property ▯.
 
+shaguıq ± `en` @Laqme #2xtRl3PZw
+▯ checks in / processes arrival of (person) ▯.
+
+shaguıqche ± `en` @Laqme #u6zgpb41a
+▯ is a receptionist.
+
+shaguıqrıaq ± `en` @Laqme #RO0LOBv77
+▯ is a reception desk.
+
 shaha ± `en` @official #JS02CDhOdpq
 predicate: ‘chess’; ▯ is chess.
 
@@ -68626,8 +68647,14 @@ shajuı ± `en` @seaqtaq #BG6ptb2Q7
 shaka ± `en` @fagri #Pzc87hMCn
 Chess piece ▯ captures chess piece ▯
 
+shakaı ± `en` @Laqme #W829YvJh-
+▯ checks in.
+
 shakala +1 `en` @jiqci #URBpWO6ra
 ▯ is a jackal.
+
+shakua ± `en` @Laqme #tDClNGmIQ
+▯ is a lobby.
 
 shalı ± `en` @Ilmen #IE-2Wmws9
 ▯ has a low mass.
@@ -71266,7 +71293,7 @@ shuıfa ± `en` @Laqme #kDMRvhZQF
 shuıfaı ± `en` @uakci #-y_Eawgy2
 ▯ is cagey/furtive/inaccessible / emotionally walled-off.
 
-shuıgıqkuq ± `en` @uakci #sDheiwA_p
+shuıgıqkuq -1 `en` @uakci #sDheiwA_p
 ▯ admits/avows/betrays/broadcasts/concedes/confesses/declares/decrees/exposes/leaks/notifies/proclaims/reveals that ▯ to ▯.
 
 shuıha +1 `en` @TheAndSys #GgtXPVHOU
@@ -93774,7 +93801,7 @@ jaonoı(lıe) ± `en` @Hoemai #WVKqhQ9e2
 ⚠ jıqzy -2 `en` @Laqme #8Nrxk2Xvk
 ▯ are jeans.
 
-⚠ jĩjıe ± `en` @uakci #oCYBmqAUy
+⚠ jĩjıe -1 `en` @uakci #oCYBmqAUy
 ‘in my opinion’
 
 ⚠ jıy -1 `en` @oldofficial #C1B_Nmn-zs
