@@ -3095,6 +3095,9 @@ berosoq ± `en` @robintown #rx1LdAwWW
 berosoqgıo ± `en` @Laqme #Cd9Zjj1NN
 ▯ is aurora borealis / are northern lights.
 
+berotı ± `en` @robintown #_NR9CkkG5
+▯ is in the north.
+
 Berotoaq ± `en` @shuaida #LAmLxpQma
 ▯ is Northern Toaqic
 
@@ -3199,6 +3202,9 @@ bıacua +1 `en` @uakci #GuW7tUOn5
 
 bıacuaq ± `en` @Laqme #snPDWaSXT
 ▯ is an illness/disease.
+
+bıache ± `en` @Laqme #Jg_EA9EYR
+▯ is a patient.
 
 bıachı ± `en` @uakci #nqldfkeRJ
 ▯ diagnoses ▯ with illness property ▯.
@@ -4198,6 +4204,9 @@ bogı ± `en` @salarua #Nmc57sayq
 
 bogo ± `en` @Machy #47QzStFX7
 ▯ rejects that ▯ is the case.
+
+bọgoı ± `en` @robintown #DjqiE2l78
+▯ is a patient.
 
 boguo ± `en` @TheAndSys #EuF8xGJMM
 ▯ is a county
@@ -19960,6 +19969,9 @@ gaoshaq ± `en` @Ilmen #B-s1GduTh
 gaoshıaq ± `en` @uakci #5AiP8gSrQ
 ▯ is the upper leg; ▯ are thighs.
 
+gaotı ± `en` @robintown #RrEazfX-Y
+▯ is above / on top.
+
 gaotıa ± `en` @Ilmen #3YfYlt02P
 ▯ is halfway between above and behind ▯.
 
@@ -22381,11 +22393,11 @@ gohu ± `en` @fagri #iEfjX2xfV
 goı ± `en` @official #cE_79Fgrt
 predicate: ‘treat’; ▯ treats/doctors ▯.
 
-goı +1 `en` @Laqme #zU0-Pi3AI
-▯ treats/doctors ▯ against condition ▯.
-
 goı ± `toa` @uakci #pohIz9G80
 ja goı ja poq bı choq póq góı shô roe ja mù tua góı ra lũ sóa góı póq hóa
+
+goı ± `en` @Laqme #zU0-Pi3AI
+▯ treats/doctors ▯ against condition ▯.
 
 goı ± `tok` @el #p2grshGq0
 ▯ li pona e sijelo ▯
@@ -22435,7 +22447,7 @@ goıdıu +3 `en` @Ilmen #M_5Gg_9XB
 goıjıo +1 `en` @Laqme #9Aaay6ta6
 ▯ is a clinic.
 
-goıjuq ± `en` @seaqtaq #HhlQSgsvK
+goıjuq +1 `en` @seaqtaq #HhlQSgsvK
 ▯is a patient
 
 goıjuq ± `en` @uakci #a7wj6nNUi
@@ -24105,6 +24117,9 @@ guqtam ± `en` @robintown #NpN0XV--w
 
 guqtaq ± `en` @uakci #TYbyfE6i2
 ▯ is vertical; ▯ is up (stood up, propped up).
+
+guqtı ± `en` @robintown #tjaX_OKnR
+▯ is below / on the bottom.
 
 guqtıa ± `en` @Ilmen #FP0YZO9Mh
 ▯ is halfway between below and behind ▯.
@@ -27034,6 +27049,9 @@ hochupoq ± `en` @robintown #7M6HZBTr1
 Hochusamızu ± `en` @salarua #Bpr_fPMVs
 predicate: ‘Eastern.Sami.language’; ▯ is the Eastern Sami language
 
+hochutı ± `en` @robintown #Qg1nM1fwK
+▯ is in the east.
+
 hoe ± `en` @official #9UjnuXH5Kn
 predicate: ‘sun’; ▯ is a sun.
 
@@ -27513,6 +27531,9 @@ horepaq ± `en` @robintown #bVInpwRV3
 
 horepoq ± `en` @robintown #qXN4-qWNJ
 ▯ is a westerner / from the west.
+
+horetı ± `en` @robintown #KQe1Z_Aqo
+▯ is in the west.
 
 horolo ± `en` @Ilmen #8fe-dO2SN
 ▯ is Xorlo.
@@ -42255,6 +42276,9 @@ lıosı ± `en` @seaqtaq #S3VJd1HNn
 lıoshaq ± `en` @Ilmen #yAb-wujjm
 ▯ is halfway between the front and the left direction of ▯.
 
+lıotı ± `en` @robintown #W54Y_xwq4
+▯ is on the left.
+
 lıotıa ± `en` @Ilmen #Ge2wHl351
 ▯ is halfway between the back and the left direction of ▯.
 
@@ -49976,6 +50000,9 @@ namısoq ± `en` @robintown #IbgTgNjfP
 namısoqgıo ± `en` @Laqme #DATT34Ied
 ▯ is aurora australis / are southern lights.
 
+namıtı ± `en` @robintown #DMZv9uhbG
+▯ is in the south.
+
 Namıtoaq ± `en` @shuaida #Vkl2TM8Lv
 ▯ is Southern Toaqic, or "ꝡoaqic".
 
@@ -50104,6 +50131,9 @@ naochoa ± `en` @kazoo #FW-ANgloM
 
 naodo ± `en` @TheAndSys #dCT__-fzK
 ▯ gives ▯ something to drink (not necessarily water)
+
+naofurı ± `en` @evie #NIGmsI-_c
+▯ is a tide
 
 naogere ± `en` @seaqtaq #l1IjHOV9N
 ▯ is a member of class Echinoidea; ▯ is a sea urchin/hedgehog
@@ -65515,6 +65545,9 @@ sıaqta ± `en` @jiqci #a-5SRxWe1
 sıaqtakıaqlıao ± `en` @Snow #hucsAxdje
 ▯ is a bear's head fungus. ▯ is Hericium abietis.
 
+sıaqtı ± `en` @robintown #_a3CNHF50
+▯ is on the right.
+
 sıaqtıa ± `en` @Ilmen #XzZvFxkVy
 ▯ is halfway between the back and the right direction of ▯.
 
@@ -68989,6 +69022,9 @@ shaqsheaq ± `en` @seaqtaq #hhylRBLaW
 shaqshıaq ± `en` @jiqci #ulGWr_b0v
 ▯ is a shin.
 
+shaqtı ± `en` @robintown #pjjxXM_93
+▯ is in front.
+
 shaqtıa ± `en` @uakci #wNxV-OJ3B
 ▯ is inside-out.
 
@@ -69507,6 +69543,9 @@ sheq +3 `en` @Laqme #WAyNkBoq4
 
 sheqcıe ± `en` @jiqci #60lTu0A-y
 ▯ is a swordfish (Xiphias gladius).
+
+sheqche ± `en` @Laqme #hy3av2wmm
+▯ is a swordsperson / user of bladed weapons.
 
 sheqfuq ± `en` @jiqci #9zO8pYYp4
 ▯ is a sheath.
@@ -73647,6 +73686,9 @@ tıasoq ± `en` @Laqme #URVNQwX_q
 
 tıashaq ± `en` @kazoo #xNgx4pMkg
 ▯ plays coin flipping/heads or tails.
+
+tıatı ± `en` @robintown #MpAL7XsNQ
+▯ is behind / in the back.
 
 tıazıu ± `en` @Laqme #4G7pGkhgI
 ▯ is a negative number.
@@ -94934,9 +94976,6 @@ Ina
 
 ⚠ @toacıa ± `en` @Ilmen #wldHnoEcD
 ▯ is an ethny.
-
-⚠ @toacıa ± `en` @Ilmen #xs5Bkr0sq
-▯ is tide.
 
 ⚠ ychoa ± `en` @uakci #JkCNSriCq
 ▯ utters an ‘uh’ sound.
