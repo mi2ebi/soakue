@@ -12521,8 +12521,11 @@ chuzu ± `en` @uakci #r-8GWzuZ-
 da- +1 `en` @evie #t3o1F0Q5e
 attaches to a DP and turns it into a nullary proximal copula
 
-da +1 `en` @official #Sn2FzHXTW2
+da +2 `en` @official #Sn2FzHXTW2
 illocution: ‘[assertive]’; assertive
+
+da +1 `tok` @el #fdWgdkmD0
+nimi "da" li nimi pini li sama "mi toki e ni: ..."
 
 da ± `toa` @Ilmen #EwGq2M09r
 ⚙ [DA] Dakuq kúq kúqtoaı da.
@@ -12535,9 +12538,6 @@ da ± `ja` @Laqme #GV23qz9gn
 
 da ± `zh` @mimiaoganhaqpy #PctKFsX_x
 言謂：斷言的言謂
-
-da ± `tok` @el #fdWgdkmD0
-nimi "da" li nimi pini li sama "mi toki e ni: ..."
 
 ⚠ da ± `en` @oldofficial #o15STnK0NB
 illocution: ‘[assertive]’; assertive illocution
@@ -19887,6 +19887,9 @@ gaofuo ± `en` @Machy #xA1G6ZypS
 
 gaofuq ± `en` @seaqtaq #nMSa48mvh
 ▯ is upper body clothing
+
+gaogıe ± `en` @tonibrown #YSdZFJJSi
+▯ is an upper arm.
 
 gaogureq ± `en` @Hydro #d06DLR03N
 ▯ is an adrenal gland.
@@ -33957,6 +33960,9 @@ jueqheq ± `en` @Laqme #6HvZGkOxG
 jueqjeı ± `en` @uakci #XW7n9U_eD
 ▯ is in some parts ▯ in identity; ▯ is half-▯, half-that.
 
+jueqjeq ± `en` @Laqme #uY1DsqW8r
+▯ is a permutation of ▯.
+
 jueqjoaı ± `en` @seaqtaq #vTY745pvJ
 ▯ rummages/ruffles through ▯ for ▯
 
@@ -36095,6 +36101,9 @@ katana ± `en` @Ilmen #GuN1A8nt1
 
 kataraı ± `en` @TheAndSys #akR807YQd
 ▯ is an Object (technical term for use in card games where the word "kata" is reserved for something more specific)
+
+katıa ± `en` @salarua #P0Pqf252d
+▯ is a soul
 
 kato +10 `en` @Ilmen #mih9DrlXs
 ▯ is a cat.
@@ -40357,6 +40366,9 @@ laıjeq ± `en` @seaqtaq #r1coLx2rE
 
 laıjeq ± `en` @uakci #YXwkX8U_H
 ▯ points to the same thing as ▯; ▯ signs the same sign as ▯.
+
+laıjueqjeq ± `en` @Laqme #ZJC4SZtSI
+▯ is an anagram of ▯.
 
 laıjuı ± `en` @Laqme #aMVjWPVXr
 ▯ and ▯ have similar spellings.
@@ -57572,6 +57584,9 @@ pıqhıo ± `en` @robintown #fwhAi5DeQ
 pıqpoq ± `en` @Snow #X7UCx_UQ7
 ▯ is ping pong/table tennis
 
+pıqpoqkıoq ± `en` @Laqme #5Gzb-mbNz
+▯ is a ping-pong ball.
+
 pıqso ± `en` @zearen #WN7vZWzex
 ▯is a fine paint brush or makeup brush.
 
@@ -65578,7 +65593,7 @@ sıasho +1 `en` @Laqme #6PXpIGm-F
 sıazıu ± `en` @Ilmen #sjNHCXuia
 ▯ is the number zero.
 
-sıba +1 `en` @uakci #-wa2ymUSt
+sıba ± `en` @uakci #-wa2ymUSt
 ▯ calls ▯’s attention.
 
 sıba ± `en` @Laqme #cKE_unV-w
