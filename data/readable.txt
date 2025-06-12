@@ -35493,6 +35493,9 @@ kaolıq ± `en` @robintown #NTJM23mpR
 kaomıeq ± `en` @Laqme #R5lGvRumF
 ▯ looks up what satisfies property ▯.
 
+kaomojı ± `en` @evie #ZcDs2mS4P
+▯ is a kaomoji
+
 kaomuao ± `en` @uakci #RAueC-73r
 ▯ is a tree (data structure).
 
@@ -42393,10 +42396,10 @@ lıqgoso ± `en` @Hoemai #sXJ3Z8-N4
 lıqguoso ± `en` @akesi #px-8VZKm-
 ▯ is a cow (female)
 
-lıqhupı ± `en` @ramasu #8fWLVA1Vh
+lıqhupı +1 `en` @ramasu #8fWLVA1Vh
 ▯ is a vixen / female fox.
 
-lıqhupıseo ± `en` @ramasu #3nRb2icXh
+lıqhupıseo +1 `en` @ramasu #3nRb2icXh
 ▯ is a fox wife of ▯.
 
 lıqjıao ± `en` @Laqme #ssoy6Za5b
@@ -54827,7 +54830,7 @@ nhaotoa ± `en` @el #TJJot4dXI
 nhaq- ± `en` @magnap #Ex3BV2WS8
 experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
 
-nhaq +18 `en` @el #xLyC14SY_
+nhaq +19 `en` @el #xLyC14SY_
 interjection: nyaan
 
 nhaq ± `tok` @el #0q3dpz393
@@ -78983,6 +78986,9 @@ zoge ± `en` @jiqci #AqnH6PvER
 
 zoı- ± `en` @seaqtaq #Bopd4YcnA
 prefix: 'antipassive': demotes greatly the saliency of an object as well as removes it from the structure of a verb. The former object may only be referenced through oblique semantic role marking
+
+zöı ± `en` @evie #VFfv7xJ2Y
+complementizer: indirect question
 
 zoku +1 `en` @Laqme #exjKx_vPg
 ▯ is steel.
