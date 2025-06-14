@@ -45711,6 +45711,9 @@ Mehıkogua ± `en` @countries #HcZPE8Y0wf3
 mehıkonuaı ± `en` @Ilmen #V2MTolO5Q
 ▯ is a Mexican peso.
 
+meı- +1 `en` @salarua #olXPUA0pq
+prefix: polite/respectful honorific
+
 meı ± `en` @official #O7-7Zk8UpO
 predicate: ‘mountain’; ▯ is a mountain/hill.
 
@@ -62433,7 +62436,7 @@ pronoun: ‘it.V’; anaphoric pronoun for fifth-tone clauses (class V)
 ⚠ roujeo ± `en` @uakci #9LJFETSSc
 ▯ satisfies the predicate that defines **rou**.
 
-ru- +1 `en` @Laqme #22d1OScLP
+ru- +2 `en` @Laqme #22d1OScLP
 prefix: honorific, shows respect / humility toward tagged word
 
 ru ± `toa` @Ilmen #p4xrnmn9M
@@ -77174,6 +77177,9 @@ uhuı ± `en` @Laqme #QjCeOwWJa
 
 uhuıjıaq ± `en` @eednb #TIS3Zrp-O
 ▯ is a hell/underworld (negative connotation)
+
+uı- +1 `en` @salarua #WkDvS34mP
+prefix: honorific of endearment
 
 úı +1 `en` @uakci #dAn6DZLIk
 pronoun: colloquial variant of **úmı** ‘us (you and I; 1st + 2nd person)’
