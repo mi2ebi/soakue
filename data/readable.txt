@@ -2210,6 +2210,9 @@ baqraı ± `en` @Ilmen #Nx6cT-ULI
 baqraq ± `en` @Laqme #O4EcX8lQd
 ▯ is general; ▯ pertains to kind ▯ in the abstract, not to specific instances or cases.
 
+baqreqdıu ± `en` @kazoo #2plpqiKtX
+▯ is a humanities' science, like history, philosophy, theology, political geography
+
 baqse ± `en` @Ilmen #YcnPF_N05
 ▯ is a typical result/product of ▯ (generic).
 
@@ -2224,6 +2227,9 @@ baqteı ± `en` @Ilmen #SVqNOdHoM
 
 baqtu ± `en` @uakci #97nRVq6Li
 quantifier: most X; typical X; Xs as they tend to be
+
+baqzudıu ± `en` @kazoo #8rErk5VqL
+▯ is a verbal science, like linguistics, or literature
 
 barabara ± `en` @Ilmen #ApMPagCy1
 ▯ is barbarous.
@@ -14747,6 +14753,9 @@ dıusıse ± `en` @Laqme #K_MgOIAyF
 dıutao ± `en` @uakci #o4sErIFNR
 ▯ researches topic or question ▯.
 
+dıuzıu ± `en` @kazoo #9YJ7UMftm
+▯ is a numeric/technical science, like mathematics, physics, chemistry, astronomy, biology
+
 do ± `en` @official #rTwsUt8lkS
 predicate: ‘give’; ▯ gives ▯ possession of ▯.
 
@@ -18048,9 +18057,6 @@ unit: fepni (Lojbanic currency; 1/100th of a rupnu)
 
 femto ± `en` @jiqci #d0EaIcm5j
 number: one quadrillionth (10^-15), femto-
-
-fene ± `en` @kazoo #4cVI9iz9P
-▯ is a "technic" science, e.g. math, physics, engineering, biology, chemistry, astronomy
 
 fenoqpuo ± `en` @robintown #xAbbqHuOe
 ▯ is five-spice powder.
@@ -61949,6 +61955,9 @@ roadeaq -1 `en` @Ilmen #OIlg0Qfq2
 
 roadeq ± `en` @Ilmen #A5hrHTgLI
 ▯ innately satisfies property ▯.
+
+roadıu ± `en` @kazoo #knTPN48pl
+▯ is a natural science, like geology, astronomy, physics, biology, chemistry, topography
 
 roadoe ± `en` @seaqtaq #KYp84Eb2_
 ▯ performs its usual/expected function ▯
