@@ -6983,6 +6983,9 @@ degree: relatively / more than usual
 cemshe ± `en` @Ilmen #f7YxJP6Vi
 ▯ is usually the case if/when ▯ is the case.
 
+cemzıamla ± `en` @seaqtaq #awZqjXB8t
+▯ commits action ▯, which every or nearly every other case in which they have been in a similar context have not have done, and normally would not do
+
 ceo ± `en` @official #m9eKde7x56
 predicate: ‘begin’; ▯ begins/starts to occur.
 
@@ -26506,6 +26509,9 @@ hıle +1 `en` @uakci #Nw5CU09QE
 hıle'ınaq ± `en` @kazoo #RyI6apbus
 ▯ is a plastic chair.
 
+hıleo ± `en` @kazoo #aBZUUexLp
+▯ is a balloon.
+
 hılı ± `en` @Ilmen #WRxtdR5w5
 ▯ is which of the things satisfying property ▯?
 
@@ -27762,6 +27768,9 @@ huaotea ± `en` @lassc #hj7YW7Tgg
 
 huaotı ± `en` @Snow #2CvaP2cy_
 ▯ is amaranth; ▯ is any plant of genus amaranthus
+
+huaotoıme ± `en` @jiqci #bmat-Gjc-
+▯ is a groupoid.
 
 huapaq ± `en` @fagri #QzSHsOeA6
 ▯ is a body part of ▯
@@ -56693,6 +56702,12 @@ determiner: "many single Xs"
 peasuı ± `en` @uakci #z7f9K7yMZ
 ▯ is the most recent occurrence of ▯.
 
+pecatura ± `en` @seaqtaq #65FP6QrP5
+▯ is (some) sprezzatura (metaphorical mass noun)
+
+pecatureum ± `en` @seaqtaq #wHhk7dPxT
+▯ demonstrates sprezzatura in doing ▯
+
 pecem ± `en` @seaqtaq #zpBcrG_7W
 ▯ is standard/canonical
 
@@ -64807,6 +64822,12 @@ selıno ± `en` @Snow #D151InyHO
 selıq +1 `en` @robintown #mYokZHKfT
 ▯ is pottery/earthenware/ceramic.
 
+selıqche ± `en` @jiqci #N8oGl-rp4
+▯ is a potter / ceramicist.
+
+selıqsıoq ± `en` @jiqci #j9n8NH9JZ
+▯ is a pottery wheel.
+
 seluoı ± `en` @uakci #xgJ4ai1sU
 Input ▯ maps to output ▯; ▯ ↦ ▯.
 
@@ -71934,6 +71955,12 @@ tamara +1 `en` @TheAndSys #Mte7kCN8u
 
 tambu ± `en` @Ilmen #rwvj6MZ1s
 ▯ is taboo.
+
+tambuı ± `en` @seaqtaq #2nPvKnaP3
+▯ is true or rational but mentioning it would arouse suspicion or discomfort in others due to it being something one would not normally mention without having ulterior motives or having committed some taboo in order to know it or have the will to mention it casually
+
+tambula ± `en` @seaqtaq #GDqgsrPn3
+▯ commits taboo ▯ (property)
 
 tamdıu ± `en` @robintown #mw7SONAtf
 ▯ is speleology.
