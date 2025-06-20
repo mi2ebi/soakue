@@ -2441,6 +2441,9 @@ beabuı ± `en` @jiqci #J8IlszjSk
 beacıq ± `en` @seaqtaq #E4mLlwskk
 ▯ pops their knuckle/joint
 
+beafıla ± `en` @seaqtaq #CaOiLQIdM
+▯ experiences the sensation that occurs when one is on the verge of popping a knuckle
+
 beagoa +1 `en` @Ilmen #aoe23sciy
 ▯ is a corner.
 
@@ -2545,9 +2548,6 @@ beaqtıaı ± `en` @fagri #IJJjmb5d8
 
 beatıaı ± `en` @Ilmen #VkwxirUDp
 ▯ is a box with a hinged lid.
-
-beazakaı ± `en` @seaqtaq #yWSfaYDM0
-▯ experiences the sensation that occurs when one is on the verge of popping a knuckle
 
 bebaq ± `en` @robintown #rNYS-iVzS
 ▯ stops/hinders/interrupts/checks ▯, which is in the middle of some action.
@@ -3881,7 +3881,7 @@ bıtı ± `en` @Ilmen #QbKlLqzxj
 bıtıgıao ± `en` @jiqci #7BqawjjEo
 ▯ is a raisin.
 
-bıtım ± `en` @Laqme #wEWREyshF
+bıtım +1 `en` @Laqme #wEWREyshF
 ▯ is a grape.
 
 bıtızeo ± `en` @uakci #Vd1g9wLuS
@@ -6484,9 +6484,6 @@ caqche ± `ru` @SuperSpaceNiM #IE-3tx0KR
 
 caqcheshaı ± `en` @Machy #cVoKvuboz
 ▯ abdicates from satisfying property ▯.
-
-caqchıaqzakaı ± `en` @seaqtaq #KEoLNJH2Q
-▯ feels a sense of awkwardness and/or unease due to being reminded that one is in the presence of an authority figure and not a true peer
 
 caqchuo ± `en` @official #KbIlNA8r_
 predicate: ‘controller’; ▯ is a controller (instrument for controlling) for ▯.
@@ -17413,6 +17410,9 @@ faochaq ± `en` @kazoo #CjE5AErPd
 faodo ± `en` @seaqtaq #dS1b7F0lp
 ▯ appends to ▯, ▯
 
+faofepı ± `en` @seaqtaq #e-AuvHJYO
+▯ experiences a strong urge to look ahead to the bottom or lower part of a page while reading a thrilling or (especially) final scene in a book to know what happens next
+
 faogoe ± `en` @Laqme #1PSBrSP12
 ▯ ends ▯ (duration) from now.
 
@@ -20418,6 +20418,9 @@ Geba'egua ± `en` @jiqci #_MpUOl3la
 
 Geba'ezu ± `en` @jiqci #IDoX1seO5
 ▯ is the PIE / Proto-Indo-European language.
+
+gebıtım ± `en` @kazoo #tLBlTN_NP
+▯ is a mulberry fruit.
 
 gebo +1 `en` @uakci #xRH-13PlH
 ▯ (event) has some perceptible signs to account for it / as proof for it happening; ▯ is visible/apparent/noticeable/(somehow) external(ized).
@@ -39573,7 +39576,7 @@ kumo ± `en` @seaqtaq #uVZ6JhLVy
 ▯ asserts something vastly ignorant and/or lacking in perspective on several levels, which would take  significant time and effort spent educating oneself to learn why this statement is so, yet given the utterly uncritical and lacking in caution manner of their saying it, this will happen no time soon
 
 kumocua ± `en` @seaqtaq #CJWP74yf5
-▯ is so astounded that, as they deem it unworthy of their time, they refuse to respond to a ridiculous assertion of something vastly ignorant and/or lacking in perspective on several levels, which, it would take significant time and effort spent educating oneself to learn why this statement is so, yet given the utterly uncritical and lacking in caution manner of the way it was said it, this will happen no time soon
+▯ is so astounded that, as they deem it unworthy of their time, they refuse to respond to a ridiculous assertion of something vastly ignorant and/or lacking in perspective on several levels, which, it would take significant time and effort spent educating oneself to learn why this statement is so, yet given the utterly uncritical and cautionless manner of the way it was stated, this will happen no time soon
 
 kumzıu ± `en` @jiqci #0hIhNQ98y
 ▯ is a set-theoretic ordinal.
