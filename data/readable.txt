@@ -43533,6 +43533,9 @@ nullary predicate: The end.
 luafaq ± `en` @fagri #DxuLj6HAC
 ▯ is the plot of story ▯
 
+luafuom ± `en` @seaqtaq #Iq6rOnJBz
+▯ is the plot of a story or narrative
+
 luaı ± `en` @official #7SMHgfBMZu
 predicate: ‘funny’; ▯ is funny/comical.
 
@@ -43608,8 +43611,17 @@ luakuq ± `en` @Laqme #j7tr4-Mm8
 luakuqche ± `en` @Laqme #Asu7Qnp7r
 ▯ is a narrator.
 
+lualeoqhıe ± `en` @seaqtaq #PQImNG4wh
+▯ has plot armor
+
 lualıem ± `en` @Laqme #8lESgMejN
 ▯ is a MacGuffin.
+
+lualom ± `en` @seaqtaq #YKVe5QoY2
+▯ has plot armor
+
+lualomsıo ± `en` @seaqtaq #q91SrQXAp
+▯ is the idea or concept of plot armor
 
 luama ± `en` @Neaqbua #VRgfM9u3j
 ▯ plays
@@ -43619,6 +43631,9 @@ luamıa ± `en` @Laqme #E629OYC52
 
 luanıe ± `en` @uakci #4yA7C3-d4
 ▯ is the case in-character/in-universe.
+
+luanıeq ± `en` @seaqtaq #uQLR6ks1U
+▯ demonstrates plot-induced stupidity
 
 luao ± `en` @official #BskzuZO89V
 predicate: ‘lip’; ▯ is a lip (general sense).
@@ -43925,6 +43940,9 @@ luaruochuo ± `en` @jiqci #td0XR4lyP
 
 luası +1 `en` @uakci #z69AfTQ1N
 ▯ listens to / watches / enjoys / reads story ▯.
+
+luashıoq ± `en` @seaqtaq #GnqQ4IRxG
+▯ is "plot" considered in a quasi-mystical sense; ▯ is the driving force which demands that a narrative continue
 
 luatoaı ± `en` @Laqme #MXR1gJ8Py
 ▯ is a plot point / story beat.
@@ -58768,6 +58786,9 @@ The sky is clear. (nullary predicate)
 
 puaocuao +1 `en` @uakci #v_K2paLxP
 ▯ is a skyscraper.
+
+puaochaı ± `en` @Laqme #XqAWUY3H_
+▯ is pu'er tea.
 
 puaofuq +1 `en` @akesi #BB1SUQppn
 ▯ is a sweater/jumper.
@@ -78608,6 +78629,9 @@ zeumkuoq ± `en` @jiqci #PtkD7cF2H
 
 zeumla ± `en` @jiqci #k-0eHkPDB
 ▯ pierces / penetrates ▯.
+
+zeumnoı ± `en` @jiqci #ZTr5vUjV7
+▯ has a stitch.
 
 zeune ± `en` @jiqci #UJG9uWHKw
 ▯ is the height / tallness of ▯.
