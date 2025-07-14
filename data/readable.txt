@@ -12869,6 +12869,9 @@ daofuı ± `en` @uakci #ze4NNSw5g
 daogaı ± `en` @Ilmen #NXtEArVVv
 ▯ has perception ▯ (raw perception, neither the stimuli/cause thereof nor any proposition induced from it).
 
+daogoqra ± `en` @Laqme #SOKVKoAXZ
+▯ doxxes ▯.
+
 daohıu ± `en` @jiqci #WQzC5QrE8
 ▯ is a feed / stream of data.
 
@@ -19054,6 +19057,9 @@ fuaımea ± `en` @Laqme #BLpiKLYSx
 fuaımuı ± `en` @uakci #TBrFx0y6g
 ▯ is an assigned meaning of ▯ (e.g., as defined in a legal document, as found in a dictionary, as agreed upon verbally by a community).
 
+fuakea ± `en` @Laqme #ED-PUCTam
+▯ are "white goods" / is a non-portable domestic appliance.
+
 fuaq ± `en` @official #YQPy-D-_F-
 predicate: ‘picture’; ▯ is an image / a picture.
 
@@ -20125,7 +20131,7 @@ gaqhaq ± `en` @Laqme #ucox1QJD8
 gaqja ± `en` @Laqme #cdu14C91j
 ▯ involves / invites / brings along / gets ▯ to satisfy ▯ together with them.
 
-gaqjeqfeu ± `en` @seaqtaq #PVsDkXhe8
+gaqjeqfeu +1 `en` @seaqtaq #PVsDkXhe8
 ▯ rejects solidarity with ▯ despite having been "accepted into the fold"; ▯ vehemently refuses to associate with ▯ —even though they have the opportunity to do so—due to a strong inner sense that they do not in fact belong to said group/collective/culture
 
 gaqjeqmoe ± `en` @seaqtaq #EVDjXOaAR
@@ -21487,6 +21493,9 @@ gıla +3 `en` @Ilmen #ic08SMGGm
 gıle +1 `en` @uakci #Cczdkj3vL
 (fork of #1bop7NTap) There’s an opportunity for ▯ to happen; ▯ has the opportunity to do ▯ [JEO].
 
+gılıaq ± `en` @Laqme #5E8r8w0T3
+▯ is a meld.
+
 gılıe ± `en` @Machy #0m-DBtjRN
 ▯ has positive/beneficial experience of satisfying property ▯.
 
@@ -22710,6 +22719,9 @@ Goqnozu ± `en` @eednb #YxwqbwDFx
 
 goqpuao ± `en` @jiqci #Cn3I8oeqA
 ▯ is smog.
+
+goqra ± `en` @Laqme #9rKjmSWMj
+▯ screws over / fucks over / deceives / cons / treats unfairly / puts ▯ in a shitty position.
 
 goqtıaı ± `en` @robintown #CihpVNDFl
 ▯ is a smoker.
@@ -30006,7 +30018,7 @@ jaoduma ± `en` @jiqci #5t41jWc_8
 jaofa +1 `en` @Ilmen #IXwjCCEXv
 ▯ goes away from ▯.
 
-jaofoaq +2 `en` @lassc #q61-J2iEf
+jaofoaq +3 `en` @lassc #q61-J2iEf
 ▯ feels unable to act in a specific way around those they are close to, but feels capable of doing so around others; ▯ feels "stranger-comfort".
 
 jaogaıkea ± `en` @jiqci #fMMXCEPql
@@ -46155,6 +46167,9 @@ merıeqda ± `en` @seaqtaq #-h3KNqJ6s
 mero ± `en` @fagri #Ps17HZXgp
 Conjunction: creates a **me** construct (aggregate) whose constituent parts are the connectands
 
+mesekao ± `en` @Laqme #YyUmIXhU1
+▯ is mezcal / mescal.
+
 mesıq ± `en` @Laqme #9YcMibav9
 ▯ is brass.
 
@@ -58355,6 +58370,9 @@ Polaqgua ± `ru` @SuperSpaceNiM #7ZBjc_5ii
 ⚠ Polaqgua -1 `en` @oldcountries #JSd71Q1Re
 ▯ is the country Poland – Republic of Poland.
 
+poloboroq ± `en` @jiqci #N4bYL8gN3
+▯ is a polvorón.
+
 pom ± `en` @uakci #bLaA_7qIg
 ▯ is an egg.
 
@@ -69628,6 +69646,9 @@ shejuoı ± `en` @uakci #rJirbVE1u
 shekeo ± `en` @jiqci #1f_fUlete
 ▯ is an Israeli shekel.
 
+shekute ± `en` @evie #LNl3MynA4
+▯ fears that, even if they tried to apologize for ▯, no one would accept it or wish to continue interacting with them
+
 shele ± `en` @uakci #0-gbHmw-i
 ▯ is likely to happen if ▯.
 
@@ -71587,6 +71608,9 @@ shuıla ± `en` @Laqme #KLT5dm-VJ
 shuıleı ± `en` @uakci #RNTJyi6AG
 ▯ is open/upfront/forward-going/honest / “has no filter”.
 
+shuılıam ± `en` @Laqme #5fjEdxNM7
+▯ is a cryptic hint/clue indicating ▯.
+
 shuıluakuq ± `en` @TheAndSys #6od-oNejv
 ▯ spoils ▯ (piece of media)
 
@@ -73189,6 +73213,9 @@ teka ± `en` @seaqtaq #MhaXHb_WG
 teketeke ± `en` @Laqme #RteMW7-Li
 onomatopoeia: typing
 
+tekıla ± `en` @Laqme #KKjYLFCvN
+▯ is tequila.
+
 teluo ± `en` @jiqci #Ba35maBGP
 ▯ is a mafia/mob/yakuza/organized crime syndicate.
 
@@ -73773,6 +73800,9 @@ tıaokuq ± `en` @uakci #sWYWliDoX
 
 tıaokuqse ± `en` @uakci #HzwU1GIey
 ▯ is the mot juste (‘exactly the right words in the right time and situation’).
+
+tıaolaq ± `en` @Laqme #bwD3bYiOg
+▯ is consonant / harmonious / a consonance.
 
 tıaoluoq ± `en` @seaqtaq #MDZYfqsqU
 ▯ is in harmony with ▯; ▯, with ▯ forms a coherent whole
@@ -78177,7 +78207,7 @@ focus marker: for some (at least one) singular constant among X, unboxed out of 
 zajıe ± `en` @seaqtaq #IyGCH0YGg
 ▯ reckons that ▯ will come to pass; ▯ deems ▯ as something that will likely happen
 
-zakaı ± `en` @seaqtaq #28D7aXOEC
+zakaı +1 `en` @seaqtaq #28D7aXOEC
 ▯ experiences an incredibly specific situation/sensation which it would normally be quite difficult if not impossible to explain with any degree of concision in the toaq language
 
 zakaıcua ± `en` @seaqtaq #7t6qvBng6
@@ -78749,6 +78779,9 @@ zıameıpıo ± `en` @Snow #LX953gj2s
 
 zıamıa +1 `en` @Laqme #fuf5h1rg4
 ▯ is radiant / lustrous.
+
+zıamlaq ± `en` @Laqme #ysuTnrKn6
+▯ is dissonant / a dissonance.
 
 zıammıa +1 `en` @seaqtaq #T6yZtLQY7
 ▯ is controversial
