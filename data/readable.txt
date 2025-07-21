@@ -1655,7 +1655,7 @@ Aꝡereshozu ± `en` @jiqci #w-h37IoTn
 ⚠ aꝡu ± `en` @nano #vXIxfJEKo
 onomatopoeia: 'awoo'
 
-aza ± `en` @jiqci #PjRrRJDrm
+aza +1 `en` @jiqci #PjRrRJDrm
 ▯ is crunchy/crispy.
 
 azazazazo -1 `en` @desca #haxok_XBk
@@ -34296,7 +34296,7 @@ predicate: ‘joule’; ▯ is a joule
 julutoame ± `en` @el #TfmNSuPu6
 ▯ is a non-restrictive relative clause
 
-júm ± `en` @el #giv1Zz9yK
+júm +1 `en` @el #giv1Zz9yK
 conjunction: X, which incidentally is the same as Y
 
 jumam ± `en` @seaqtaq #5hE5QVkin
@@ -63105,7 +63105,7 @@ ruıqche ± `en` @Laqme #HSsaXr5eH
 ruıqdeaı ± `en` @Laqme #QCJqDnnym
 ▯ is a good question.
 
-ruıqdıu ± `en` @Laqme #5O6NGQosL
+ruıqdıu +1 `en` @Laqme #5O6NGQosL
 ▯ is philosophy.
 
 ruıqfeao ± `en` @Laqme #LCt6VhCtf
