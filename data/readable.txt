@@ -929,6 +929,9 @@ anhoanho ± `en` @lassc #KE7I6Mer8
 anhotı ± `en` @lassc #KcMryLUAT
 ▯ bumps/knocks ▯ off of ▯.
 
+ao- ± `en` @seaqtaq #NF3N6QME5
+prefix: turns a verb X into a verb meaning "▯ X-s because some salient hypothetical event would have happened had they not"
+
 ao ± `en` @official #7F1lhUZEpx
 modality: ‘NEC.SUBJ’; subjunctive, necessary; X would happen if ...
 
@@ -12620,6 +12623,9 @@ dago ± `en` @jiqci #8EjnHj4Bt
 daha +1 `en` @Ilmen #JYpK8cMJq
 illocution: humorous, jokeful, non-serious assertion.
 
+daı- ± `en` @seaqtaq #-4Cmth9iI
+prefix: turns a verb X into a verb meaning "▯ X-s because some salient event may happen"
+
 daı ± `en` @official #hZMIQ9lycp
 modality: ‘POSB.IND’; indicative, possible; X can happen if ...
 
@@ -16336,6 +16342,9 @@ event event accessor verb: transforms a full clause into a verb meaning: ▯ is 
 e'eq +1 `en` @jiqci #g6HtyEFhA
 iterjection/onomatopoeaixia: *clears throat*
 
+ea- ± `en` @seaqtaq #WY6wRb4Ym
+prefix: turns a verb X into a verb meaning "▯ X-s because some salient hypothetical event may have happened had they not"
+
 ea ± `en` @official #8PqqW-hIVJ3
 modality: ‘POSB.SUBJ’; subjunctive, possible; X could happen if ...
 
@@ -16377,6 +16386,9 @@ ealua ± `en` @Ilmen #IdmsHvXJ_
 
 eam ± `en` @Laqme #hJq9T5DiU
 modal aspect: definitional (expresses a tense-less abstract or logical truth, independent of the world variable)
+
+eameo ± `en` @seaqtaq #a_g4BXv9l
+▯ feels grief/sadness on what could have been had something in their life gone differently
 
 eamoı ± `en` @Ilmen #oMEyVytr_
 ▯ imagines ▯.
@@ -55370,6 +55382,12 @@ nhubıkıu ± `en` @jiqci #xICrNTii0
 nhue +1 `en` @Laqme #gN8roi9_0
 ▯ lacks / is missing property ▯.
 
+nhuemeo ± `en` @seaqtaq #GVNYvt0Ur
+▯ grieves for ▯; ▯ feels grief over the new lack of ▯ in their life
+
+nhuemeobıa ± `en` @seaqtaq #F_pmevchZ
+▯ has mourning sickness
+
 nhuga ± `en` @kazoo #JTylEUTT_
 ▯ is the integral of function ▯ with respect to variable ▯.
 
@@ -69264,6 +69282,9 @@ predicate: ‘shirt’; ▯ is a shirt.
 
 shatı ± `pl` @jiqci #2s2d79_wT
 ▯ to koszulka.
+
+she- ± `en` @seaqtaq #ChRUMmCz9
+prefix: turns a verb X into a verb meaning "▯ X-s because some salient event happened"
 
 she ± `en` @official #NudMyE1yAae
 modality: ‘NEC.IND’; indicative, necessary; X happens if ...
