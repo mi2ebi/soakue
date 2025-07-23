@@ -7277,6 +7277,12 @@ Chılegua ± `en` @countries #k12wlymO4_
 ⚠ Chılegua -1 `en` @oldcountries #qKnCGZTQRl
 ▯ is the country Chile – Republic of Chile.
 
+Chıq ± `en` @jiqci #78wVOsugY
+▯ is Chinese / is of China, its languages or people.
+
+Chıqgua ± `en` @jiqci #BqWN096Tm
+▯ is the country of China.
+
 Choadeq ± `en` @brunofrancosalamin #Cv0I8W1nM
 (fork of #bCR9LN-E5) utterable, ▯ is able to utter ▯
 
@@ -15969,6 +15975,9 @@ duge ± `en` @uakci #JuOc6Qp69
 
 dugı +1 `en` @jiqci #QDRQIoXsB
 ▯ is a tick.
+
+dugıkeranoso ± `en` @jiqci #CKIzbZXy9
+▯ has / suffers from tick-borne encephalitis (TBE).
 
 dugu ± `en` @Ilmen #pqWruCLmi
 ▯ is a member of the class Chondrichthyes (the cartilaginous fishes).
@@ -41351,6 +41360,9 @@ leaqshıu +1 `toa` @Ilmen #9tDJB8TqZ
 
 leaqshıu ± `toa` @Ilmen #OcqNFO9gY
 = ja shıko ja guko bı shıu shíko gúko na ru sıa saqko bı shıu sáqko gúko na ru bıe sáqko shíko.
+
+lease ± `en` @seaqtaq #bWbf7si5i
+▯ is a work of art
 
 leaseom ± `en` @Laqme #9r10eJand
 ▯ does artistic gymnastics.
@@ -74949,6 +74961,9 @@ Step by step, ▯ increasingly becomes the case
 
 toaıjeq ± `en` @uakci #XSPBocY07
 ▯ is the average value of ▯ in ▯; ▯ is ▯ per capita; ▯ is the approximately how much ▯ (property) there is for each of ▯ (proprietors).
+
+toaıjeqdıa ± `en` @seaqtaq #Xavx6sqIh
+▯ is such that its smallest components are (nigh-)indistinguishable from one another, and yet progressively different along some gradient resulting in a beautiful object which has minimal local variation, but significant total variation within itself
 
 toaıjuq ± `en` @uakci #-rENIjAae
 ▯ helps themselves with helping ▯.
