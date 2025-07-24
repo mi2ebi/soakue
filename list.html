@@ -1,28 +1,31 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>mí soakue</title>
-        <link href="fonts/NotoSans-Regular.ttf" rel="preload" as="font" crossorigin />
-        <link href="fonts.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" />
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
-    </head>
-    <body>
-        <h1>soakue • all words</h1>
-        <p><a href="https://github.com/mi2ebi/soakue">github</a></p>
-        <p id="loading">loading...</p>
-        <div id="res"></div>
-        <script src="data/toakue.js"></script>
-        <script src="helper.js"></script>
-        <script>
-            let URLfromQuery = q => window.location.href.split("?")[0].replace("list", "index") + (q ? "?q=" + encodeURIComponent(q) : '');
-            for (const entry of dict)
-                $`res`.append(htmlify(entry));
-            for (a of document.querySelectorAll("a"))
-                a.onclick = null;
-            $`loading`.innerHTML = "";
-        </script>
-    </body>
+
+<head>
+  <title>mí soakue</title>
+  <link href="fonts/NotoSans-Regular.ttf" rel="preload" as="font" crossorigin />
+  <link href="fonts.css" rel="stylesheet" />
+  <link href="style.css" rel="stylesheet" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
+</head>
+
+<body>
+  <h1>soakue • all words</h1>
+  <p><a href="https://github.com/mi2ebi/soakue">github</a></p>
+  <p id="loading">loading...</p>
+  <div id="res"></div>
+  <script src="data/toakue.js"></script>
+  <script src="helper.js"></script>
+  <script>
+    let URLfromQuery = q => window.location.href.split("?")[0].replace("list", "index") + (q ? "?q=" + encodeURIComponent(q) : '');
+    for (const entry of dict)
+      $`res`.append(htmlify(entry));
+    for (a of document.querySelectorAll("a"))
+      a.onclick = null;
+    $`loading`.innerHTML = "";
+  </script>
+</body>
+
 </html>

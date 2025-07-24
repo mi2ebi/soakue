@@ -1,86 +1,93 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>mí soakue</title>
-        <link href="fonts.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" />
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
-    </head>
-    <body>
-        <h1>mí soakue / 󱛘󱚰󱛊󱚹󱛛󱛓󱚺󱛃󱛍󱚺󱛄󱚲󱛍󱚴󱛓󱛙</h1>
-        <p><a href="https://github.com/mi2ebi/soakue">github</a></p>
-        <input
-            type="text" id="search" name="search"
-            autocomplete="off" spellcheck="false" size="1"
-            placeholder="chum lao jí pó tóakue" disabled
-        />
-        <span id="btns">
-            <button type="reset" id="clear">sıajòaı</button>
-            <button type="button" id="english">toìqlızuno</button>
-        </span>
-        <span id="len"></span>
-        <div id="res"></div>
-        <div id="bottom"></div>
-        <details id="howto">
-            <summary>help</summary>
-            <h2>about</h2>
-            <p>this updates every day. it used to update every 6 hours, but github actions scheduling is not very precise.</p>
-            <p>kuaq kıe jí mí Sofıa lä soa muoja já ka :3</p>
-            <h2>operators</h2>
-            <p><code>= head</code> searches just the words themselves. there are a couple fancy things you can do with this:</p>
-            <div class="indent"><p>
-                <code>*</code> matches anything (or nothing, i.e. it's <code>/.*/</code>)<br />
-                <code>?</code> matches any single letter, <code>/[aeıoumpbfntdczsrljꝡqkg'h]|[ncs]h/i</code><br />
-                <code>CVFQ</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note
-                that <code>VV</code>&nbsp;⊋&nbsp;<code>F</code>)<br />
-                <code>R</code> matches a raku</code><br />
-                <code>_</code> matches a space<br />
-                <code>()[]|</code> work like in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern">regex</a>
-            </p></div>
-            <div class="indent"><p>
-                <code>i</code> → <code>ı</code>, <code>vw</code> → <code>ꝡ</code>, <code>x</code> → <code>'</code><br />
-                <code>.</code> → <code>◌̣</code><br />
-                <code>1234</code> → <code>◌̀◌́◌̈◌̂</code>
-            </p></div>
-            <p><code>~</code> is similar but will also match word-internally: <code>~◌</code> = <code>=*◌*</code></p>
-            <p><code>@ user</code> searches word authors</p>
-            <p><code># id</code> finds the word with id <i>x</i></p>
-            <p><code>/ arity</code> finds definitions with <i>x</i> slots</p>
-            <p><code>$ scope</code> shows words defined under a particular language code</p>
-            <p><code>! - not</code> negate a query, e.g. <code>-@official</code></p>
-            <p><code>^ score</code> finds definitions with at least +<i>x</i> votes. you can do <code>!^</code> for less than <i>x</i>, and <code>^=</code> for exactly <i>x</i>.</p>
-            <h2>things you can't do here</h2>
-            <p>anything that requires logging in</p>
-        </details>
-        <script src="data/toakue.js"></script>
-        <script src="helper.js"></script>
-        <script src="events.js"></script>
-        <script>
-            $`search`.removeAttribute("disabled");
-            $`search`.setAttribute("placeholder", "joaıteoq");
-            worker = new Worker("worker.js");
-            worker.addEventListener("message", function (e) {
-                res = e.data;
-                if (res.err) {
-                    $`res`.innerHTML = res.err;
-                    $`bottom`.innerHTML = "";
-                    return;
-                }
-                $`res`.innerHTML = "";
-                $`len`.innerHTML = "joaıse\u{00a0}<b>" + res.length + "</b>\u{00a0}raı";
-                page = 0;
-                load(res, page);
-                checkLength();
-            });
-            function updateFromQuery() {
-                var par = new URLSearchParams(window.location.search);
-                navigate(par.get("q") ?? "", false);
-                $`search`.focus();
-            }
-            window.addEventListener("DOMContentLoaded", updateFromQuery);
-            window.addEventListener("popstate", updateFromQuery);
-        </script>
-    </body>
+
+<head>
+  <title>mí soakue</title>
+  <link href="fonts.css" rel="stylesheet" />
+  <link href="style.css" rel="stylesheet" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
+</head>
+
+<body>
+  <h1>sóakue / 󱛘󱛓󱚺󱛊󱛃󱛍󱚺󱛄󱚲󱛍󱚴󱛓󱛙</h1>
+  <p><a href="https://github.com/mi2ebi/soakue">github</a></p>
+  <input type="text" id="search" name="search" autocomplete="off" spellcheck="false" size="1"
+    placeholder="chum lao jí pó tóakue" disabled />
+  <span id="btns">
+    <button type="reset" id="clear">sı̣ajoaı</button>
+    <button type="button" id="english">tọ’ıqlızuno</button>
+  </span>
+  <span id="len"></span>
+  <div id="res"></div>
+  <div id="bottom"></div>
+  <details id="howto">
+    <summary>help</summary>
+    <h2>about</h2>
+    <p>this updates every day. it used to update every 6 hours, but github actions scheduling is not very precise.</p>
+    <p>kuaq kıe jí Sófıa lá soa muoja já ka :3</p>
+    <h2>operators</h2>
+    <p><code>= head</code> searches just the words themselves. there are a couple fancy things you can do with this:</p>
+    <div class="indent">
+      <p>
+        <code>*</code> matches anything (or nothing, i.e. it's <code>/.*/</code>)<br />
+        <code>?</code> matches any single letter, <code>/[aeıoumpbfntdczsrljꝡqkg'h]|[ncs]h/i</code><br />
+        <code>CVFQ</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note
+        that <code>VV</code>&nbsp;⊋&nbsp;<code>F</code>)<br />
+        <code>R</code> matches a raku<br />
+        <code>_</code> matches a space<br />
+        <code>()[]|</code> work like in <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern">regex</a>
+      </p>
+    </div>
+    <div class="indent">
+      <p>
+        <code>i</code> → <code>ı</code>, <code>vw</code> → <code>ꝡ</code>, <code>x</code> → <code>'</code><br />
+        <code>.</code> → <code>◌̣</code><br />
+        <code>1234</code> → <code>◌̀◌́◌̈◌̂</code>
+      </p>
+    </div>
+    <p><code>~</code> is similar but will also match word-internally: <code>~◌</code> = <code>=*◌*</code></p>
+    <p><code>@ user</code> searches word authors</p>
+    <p><code># id</code> finds the word with id <i>x</i></p>
+    <p><code>/ arity</code> finds definitions with <i>x</i> slots</p>
+    <p><code>$ scope</code> shows words defined under a particular language code</p>
+    <p><code>! - not</code> negate a query, e.g. <code>-@official</code></p>
+    <p><code>^ score</code> finds definitions with at least +<i>x</i> votes. you can do <code>!^</code> for less than
+      <i>x</i>, and <code>^=</code> for exactly <i>x</i>.
+    </p>
+    <h2>things you can't do here</h2>
+    <p>anything that requires logging in</p>
+  </details>
+  <script src="data/toakue.js"></script>
+  <script src="helper.js"></script>
+  <script src="events.js"></script>
+  <script>
+    $`search`.removeAttribute("disabled");
+    $`search`.setAttribute("placeholder", "joaıteoq");
+    worker = new Worker("worker.js");
+    worker.addEventListener("message", function (e) {
+      res = e.data;
+      if (res.err) {
+        $`res`.innerHTML = res.err;
+        $`bottom`.innerHTML = "";
+        return;
+      }
+      $`res`.innerHTML = "";
+      $`len`.innerHTML = "joaıse\u{00a0}<b>" + res.length + "</b>\u{00a0}raı";
+      page = 0;
+      load(res, page);
+      checkLength();
+    });
+    function updateFromQuery() {
+      var par = new URLSearchParams(window.location.search);
+      navigate(par.get("q") ?? "", false);
+      $`search`.focus();
+    }
+    window.addEventListener("DOMContentLoaded", updateFromQuery);
+    window.addEventListener("popstate", updateFromQuery);
+  </script>
+</body>
+
 </html>
