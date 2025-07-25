@@ -1970,6 +1970,9 @@ interjection: blah (saying or imitating nonsense/babble)
 balaq ± `en` @uakci #tFOleNiWD
 ▯ is an alarm/notification/reminder (sound).
 
+balı ± `en` @Avaxar #oCSYxSKru
+▯ pertains to Balinese culture, language, etc.
+
 bam'a +3 `en` @eednb #NX3vQbJjo
 interjection: "fuck it we ball"
 
@@ -2353,6 +2356,12 @@ bashoq ± `en` @Laqme #3M2rZJ7Rp
 
 bata ± `en` @salarua #Tb3WGQNlB
 predicate: ‘watt’; ▯ is a watt
+
+batafı ± `en` @Avaxar #pZvrUgiM0
+▯ pertains to Betawi/Batavian culture, language, etc.
+
+bataka ± `en` @Avaxar #S_BLxijOb
+▯ pertains to Batak culture, language, etc.
 
 batata ± `en` @official #YhxfO8Xosn
 predicate: ‘potato’; ▯ is a potato.
@@ -5272,6 +5281,9 @@ Bugarıazu ± `en` @Laqme #kH9plACxf
 
 bugıbugı ± `en` @Neaqbua #2l1v3NbTT
 ▯ is naughty / mildly misbehaved
+
+bugısı ± `en` @Avaxar #Y29NDw9Ce
+▯ pertains to Bugis/Buginese culture, language, etc.
 
 buhuı ± `en` @Machy #uH0CqCuFr
 ▯ is nice.
@@ -30351,6 +30363,9 @@ jạteq ± `en` @Laqme #M0birOn8t
 ⚠ jauı -1 `en` @TheAndSys #uR04y8SBY
 interjection: ‘hewwo’; hewwo
 
+jaꝡa ± `en` @Avaxar #0Hf8ELxIy
+▯ pertains to Javanese culture, language, etc.
+
 Jaꝡazu ± `en` @eednb #jPpWLQ4rt
 ▯ is the Javanese language.
 
@@ -39980,6 +39995,9 @@ kuoshuao ± `en` @fagri #U8V747_1V
 kuotıaı ± `en` @jiqci #bgnLw5Qyf
 ▯ is a black box; ▯ is a device/system satisfying property ▯, whose internals and method of operation are secret/unknown.
 
+kupefo ± `en` @evie #PIQGpbvD9
+▯ is a member of order Clupeiformes (herring, anchovy, sardine)
+
 kupı ± `en` @Hoemai #YBk-POsp3
 ▯ is a carp.
 
@@ -46526,6 +46544,9 @@ mıasıu ± `en` @Laqme #26QzslQ2R
 
 ⚠ mıat -1 `en` @akesi #bBw4KlWb9
 ▯ is a moneran (a single-celled prokaryotic organism)
+
+mıbato ± `en` @evie #nSqejKa80
+▯ is a stingray (member of suborder Myliobatoidei)
 
 mıbo ± `en` @Ilmen #cn3l-rWAy
 object incorporating+name verb: ‘of that called’; turns following phrase X into verb: ▯ is of that which is called X.
@@ -68653,6 +68674,9 @@ suqchosoq ± `en` @Laqme #8zrj3N9ja
 suqchuq ± `en` @jiqci #Q2Kd5KJEv
 ▯ is a spider.
 
+Suqda ± `en` @evie #NAH-pQ8fK
+▯ pertains to Sunda culture, language, etc
+
 suqdaq ± `en` @Ilmen #XKc9PvETzhY
 ▯ is your now; ▯ is the time at which you receive this message.
 
@@ -73911,6 +73935,9 @@ tıaq ± `pl` @jiqci #qYCH9nsgZW
 
 tıaqge ± `en` @salarua #DmxPoQTU0
 ▯ is a street market
+
+tıaqhako ± `en` @jiqci #Xrv5OU7GV
+▯ is a brown bear (Ursus arctos).
 
 tıaqkeıke ± `en` @jiqci #KqeMGURBi
 ▯ is a brownie.
