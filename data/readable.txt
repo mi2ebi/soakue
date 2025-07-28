@@ -23959,6 +23959,9 @@ predicate: ‘anus’; ▯ is an anus.
 guoq ± `pl` @jiqci #QTUMQOQcKC
 ▯ to odbyt.
 
+guoqdugo ± `en` @jiqci #9xLRydZmi
+▯ is a buttplug.
+
 guoqla ± `en` @jiqci #f02Bb-_6r
 ▯ pegs ▯ (agentively).
 
@@ -25020,6 +25023,9 @@ Food ▯ is old (rotten, stale).
 
 haqgu ± `en` @Hoemai #O9Ajjx6v8
 ▯ is an eel.
+
+haqgueq ± `en` @Laqme #5H2obP2_4
+▯ is a napkin.
 
 haqgulaı ± `en` @uakci #VLRBOfyWs
 ▯ is Hangul/Hangeul.
@@ -26410,6 +26416,9 @@ hıe ± `pl` @jiqci #EIjXFGf6uB
 hıe'eku ± `en` @Ilmen #1s6uiqQfotT
 ▯ is a hippopotamus.
 
+hıece ± `en` @Laqme #S-KcnKgGM
+▯ is a dock/wharf/quay.
+
 hıechao ± `en` @fagri #hN_PSchLC
 ▯ is a wagon
 
@@ -26503,7 +26512,7 @@ hıeqgıqfuo ± `en` @uakci #unaHiH0iS
 hıeqgue ± `en` @jiqci #Xltsc8Q6e
 ▯ is a parabola.
 
-hıeqjuq ± `en` @seaqtaq #At8kb6l8k
+hıeqjuq -1 `en` @seaqtaq #At8kb6l8k
 ▯ catches ▯ from ▯ ; ▯ intercepts object ▯ which was caused to be in motion by entity ▯
 
 hıeqkoıha ± `en` @Snow #hAlBy0Ew4
@@ -45708,6 +45717,9 @@ predicate: ‘harbour’; ▯ is a harbour/haven.
 meaqce ± `pl` @jiqci #VRMAE9Vjue
 ▯ to port/nabrzeże.
 
+meaqcoa ± `en` @Laqme #pHwB6urVl
+▯ is a pier/jetty.
+
 meaqchoaq ± `en` @Laqme #cKOOW92zq
 ▯ is a passenger (of a ship/plane).
 
@@ -45731,6 +45743,9 @@ meaqrıaq +1 `en` @jiqci #caX9PQvWr
 
 meaqshıaq ± `en` @jiqci #juTCaVzpg
 ▯ is an oar/paddle.
+
+meaqtıaı ± `en` @Laqme #YpcRubg4s
+▯ is a shipping container.
 
 meaqtıeq ± `en` @Laqme #OYAU1nO5Y
 ▯ is a canal ("ship road").
@@ -62388,6 +62403,12 @@ predicate: ‘partial’; ▯ is partial/incomplete in aspect ▯.
 roemoı ± `en` @fagri #ytdlWizpQ
 ▯ exercises their mind
 
+roesıq ± `en` @Laqme #Qa-835cX5
+▯ is hygienic.
+
+roesıqboe ± `en` @Laqme #GPfzEL2Sb
+▯ is a sanitary towel / menstrual pad.
+
 roesho ± `en` @official #kXEC60c3bh
 predicate: ‘recover’; ▯ recovers; ▯ becomes healthy.
 
@@ -75918,6 +75939,9 @@ toqgam ± `en` @Laqme #uqcCyBijB
 
 toqgoeq ± `en` @jiqci #gKFBhtDOX
 ▯ is drywall.
+
+toqgueq ± `en` @Laqme #SSLKyZeqj
+▯ is a tablecloth.
 
 toqhua ± `en` @Ilmen #FPmBM10qQ
 ▯ is a forehead.
