@@ -37145,6 +37145,9 @@ kıaloa ± `en` @uakci #s96UAtobm
 kıaloha +2 `en` @Ilmen #Nj-UtultK
 ▯ is copper.
 
+kıaluko ± `en` @jiqci #7uo0CzVaI
+▯ is a red wolf (Canis rufus).
+
 kıaluqke ± `en` @jiqci #B2wMfm1Fq
 ▯ is a bobcat / red lynx (Lynx rufus).
 
@@ -49492,6 +49495,9 @@ predicate: ‘dense’; ▯ is dense.
 
 muoqcaıne ± `en` @jiqci #pREbAagYq
 ▯ is the density/dord of ▯.
+
+muoqchu ± `en` @jiqci #_XIcm6Vcq
+▯ is the centroid / barycenter / center of mass of ▯.
 
 muoqfıu ± `en` @uakci #iad_WkPlK
 ▯ is sparse.
@@ -63186,7 +63192,7 @@ ruıkaıkea ± `en` @Machy #O11v5D_kW
 ruıkuq +1 `en` @uakci #kbDuFvwHS
 ▯ says ▯ in a evasive/underhanded/weaselly way.
 
-ruıluko ± `en` @Ilmen #jMgl8g71A
+ruıluko +1 `en` @Ilmen #jMgl8g71A
 ▯ is a grey wolf.
 
 rúım +1 `en` @uakci #nOUpw3e5R
