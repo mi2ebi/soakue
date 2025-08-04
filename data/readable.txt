@@ -7190,7 +7190,7 @@ ceoqtoaı ± `en` @seaqtaq #aiChzgdLq
 ceosha ± `en` @robintown #cuEN0QIga
 Event/time ▯ comes/arrives.
 
-ceoshaı ± `en` @uakci #Mp8nYIdSL
+ceoshaı +1 `en` @uakci #Mp8nYIdSL
 telic/perfective aspect: ▯ comes and goes; ▯ is the case “in full”.
 
 ceotaq ± `en` @seaqtaq #i9gyO1kzk
@@ -9254,7 +9254,7 @@ chatoa +1 `en` @Laqme #vxG_yq0ha
 chatoame +1 `en` @Laqme #yXKwIHnsQ
 ▯ is an adverbial phrase.
 
-chatua ± `en` @Machy #M1gUCqqzk
+chatua -1 `en` @Machy #M1gUCqqzk
 ▯ is a word that, while not actually a grammar word, has the function of helping other words rather than providing content of its own.
 
 che ± `en` @official #vSHdlZZ_g
@@ -60378,6 +60378,12 @@ raosa ± `en` @Ilmen #IU3FceePH
 raoshe ± `en` @Ilmen #JcE0d0mHC
 ▯ is the case whenever ▯ is the case.
 
+raoshı ± `en` @Laqme #NwgHGLC_7
+▯ are simultaneous / (all) at once / (all) at the same time.
+
+raoshıdaq ± `en` @Laqme #0VDZZ2r_Q
+▯ are simultaneous / (all) at once / (all) at the same time.
+
 raotı ± `en` @Ilmen #HFHokASFL
 ▯ spatiotemporally overlaps with ▯.
 
@@ -69024,6 +69030,9 @@ shaımoe ± `en` @lassc #oeySK1XUJ
 
 shaısıa ± `en` @fagri #vK-paa2Oq
 ▯ is true always
+
+shaısha ± `en` @robintown #hh9hv_apk
+▯ comes to an end / finishes.
 
 shaısho ± `en` @fagri #PI_Nj8IY7
 ▯ stops satisfying property ▯ and starts satisfying property ▯
@@ -79590,7 +79599,7 @@ zuerıaq ± `en` @Laqme #PbiEZ745J
 zuese ± `en` @uakci #PyIiqIrb-
 ▯ is a (permanent or at least long-lasting) outcome of temporary/sudden event ▯.
 
-zueshaı ± `en` @Laqme #IbPC8ybnp
+zueshaı +1 `en` @Laqme #IbPC8ybnp
 ▯ temporarily ceases to be the case.
 
 zueshue ± `en` @seaqtaq #UIljhxUjr
@@ -79619,6 +79628,9 @@ zufıeqche ± `en` @Laqme #Wo6k2IFIH
 
 zufıeqche ± `tok` @ijonetun #_bUVP45_t
 pali pi ▯ li toki pali.
+
+zufuom +1 `en` @seaqtaq #n2PVhqQ1i
+▯ is a grammar; ▯ is a set of rules outlining how a particular language is spoken
 
 zugaı ± `en` @Ilmen #CGevWBFrh
 ▯ perceives language, coherent syntactic structures in stream of sounds/symbols ▯.
