@@ -55658,6 +55658,9 @@ interjection: "uh-oh, looks like you're in trouble"
 oaımoe ± `en` @Ilmen #vtrwbkKir
 ▯ feels concern or realization of ▯ being the case.
 
+oaıtue +1 `en` @Laqme #HwWCsb1X5
+▯ is a predicament / a pickle / some trouble.
+
 oao +1 `en` @Laqme #FxC_aMOCR
 onomatopoeia: yawn
 
@@ -58322,11 +58325,17 @@ poekıubu ± `en` @seaqtaq #jhZxsClDK
 poelaı ± `en` @salarua #sFnZkfVnd
 ▯ is a print/block-letter hand.
 
+poem ± `en` @Laqme #0HvE_ZBaq
+▯ is grass.
+
 poemoaq +1 `en` @uakci #Dj0oxZ01s
 ▯ has a vague memory of something ▯, but that thing doesn’t ever seem to come into focus, choosing to instead loiter “on the tip of the (mental) tongue”.
 
 poemoe ± `en` @robintown #6escFkt_m
 ▯ feels outcast/excluded from group ▯.
+
+poemsheq ± `en` @Laqme #2rMI44_BP
+▯ is a scythe / sickle.
 
 poenoa ± `en` @uakci #VVkzkR1AM
 ▯ is unclear/blends in / is indistinguishable/undiscernible.
@@ -65014,6 +65023,9 @@ in PO; ▯ is the result of X (probably an event)
 seı ± `toa` @el #Bj2ZTKN-7
 = peuq mu se
 
+seıre ± `en` @Laqme #s15bNo2ve
+▯ is a guardian angel / tutelary spirit.
+
 seısho +1 `en` @robintown #S_q0txDGq
 ▯ is legend/folklore.
 
@@ -68469,6 +68481,9 @@ interjection: same to you; back at you; likewise; you too
 
 sujı -1 `en` @Ilmen #jUNw3GV5g
 illocution: requestive illocution.
+
+sujo ± `en` @Laqme #2vRqIEPV5
+▯ is a bundle / sheaf / pack / bale.
 
 ⚠ sujou ± `en` @fagri #e7qbQDXy9
 ▯ is a bundle of strings, ropes, wires, etc that are all running parallel to each other
@@ -74299,6 +74314,9 @@ tıeqfa -1 `en` @Machy #_2xu8ZwkK
 tıeqfuom ± `en` @lassc #LGn6mPLNn
 ▯ is a specification of a plan.
 
+tıeqgıa ± `en` @Laqme #okrd0h_g8
+▯ is a lane (of a road).
+
 tıeqguao ± `en` @Laqme #Qr78Y6bAX
 ▯ is a fork in the road.
 
@@ -78648,6 +78666,9 @@ zé ± `ja` @Laqme #sBhCbxEFF
 zea ± `en` @Laqme #6UYOExAxc
 ▯ is illegal / criminal / a violation / a foul / against the rules.
 
+zea ± `jbo` @zearen #K-Kq_CZLY
+▯ zekri
+
 zeache ± `en` @Laqme #Vs7f0_AUp
 ▯ is a criminal / outlaw.
 
@@ -78657,11 +78678,20 @@ zeafa ± `en` @Laqme #-7k1DxCdi
 zeanua ± `en` @Laqme #l226MmiHX
 ▯ steals ▯.
 
+zeapoq ± `en` @zearen #oV6OLdf4x
+▯ is a criminal
+
+zeapoq ± `jbo` @zearen #3WB1J7nrU
+▯ zeipre
+
 zeaq +2 `en` @kazoo #HU4fK8eKo
 ▯ originates from ▯.
 
 zearaı ± `en` @Laqme #uOc6LjKOK
 ▯ are illegal wares / is anything that it's illegal to possess.
+
+zeareq ± `en` @zearen #j0Y2jxtkp
+▯ is criminally human
 
 zeatao ± `en` @Laqme #AjOmeEc5Z
 ▯ commits crime / violation ▯.
