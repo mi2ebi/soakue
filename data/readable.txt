@@ -6119,7 +6119,7 @@ Faq ru lu ca sıa raı hóa ky ▯.
 cacha ± `en` @seaqtaq #sRJiCehQ6
 In proposition ▯, ▯ assumes the semantic role FORCE
 
-cachu +1 `en` @jiqci #KLeScEpGK
+cachu +2 `en` @jiqci #KLeScEpGK
 ▯ is a gun.
 
 cachuche ± `en` @lassc #DwiTj9qtC
@@ -9031,6 +9031,12 @@ chaocoa ± `en` @Laqme #aQOEvUvpX
 
 chaoche ± `en` @seaqtaq #qc7IMlIvu
 ▯ chauffeurs ▯
+
+chaochıu ± `en` @Laqme #FA61MXRqt
+▯ is the license plate number of vehicle ▯.
+
+chaochıutoq ± `en` @Laqme #1ijuB9Vf_
+▯ is a license plate.
 
 chaochoaq ± `en` @Laqme #7vVJ828jS
 ▯ is a passenger.
@@ -15145,6 +15151,9 @@ doetao +1 `en` @uakci #i7d8HF6N1
 doetaq ± `en` @seaqtaq #Za-fIPtfS
 ▯ functions/performs property ▯ automatically/with no input or prompting necessary
 
+doetıaı ± `en` @Laqme #9CN3nNTl0
+▯ is the hood (of a car) / engine box or compartment.
+
 doetıao ± `en` @Ilmen #pHo91anFz
 ▯ is suitable for satisfying property ▯.
 
@@ -15438,6 +15447,9 @@ doroqleoqkoaıchaotıeq ± `en` @Ilmen #sCcB_FUxl
 
 doroqmeaq ± `en` @Ilmen #m58hXr4wB
 ▯ is a naval drone, an unmanned sea vehicle (USV).
+
+doroqteabıa ± `en` @Ilmen #mXLFtKGJy
+▯ suffers from droneophobia.
 
 dosı ± `en` @jiqci #s6WgnCXaU
 ▯ is a hydroxyl group/hydroxide ion.
@@ -16240,7 +16252,7 @@ duoıshe ± `en` @uakci #msiqAtqMu
 duokea ± `en` @Ilmen #k6bXXrW3_
 ▯ is a robot (broad sense, including robot arms and such).
 
-duokea ± `en` @Ilmen #wDlRIwsS_
+duokea -1 `en` @Ilmen #wDlRIwsS_
 ▯ is a motor.
 
 duokuaı ± `en` @uakci #TrKqmdOJW
@@ -17514,6 +17526,9 @@ faofıshoem ± `en` @seaqtaq #IxWIqzSM5
 
 faogoe ± `en` @Laqme #1PSBrSP12
 ▯ ends ▯ (duration) from now.
+
+faoguao ± `en` @Laqme #bKnuSWGRA
+▯ is an exit (on a highway).
 
 faohe ± `en` @seaqtaq #DHdsfZigP
 modality: towards the end, when...
@@ -22696,7 +22711,7 @@ golaq ± `en` @Machy #F2rKk8BEw
 golofe ± `en` @Hoemai #VAgTuFCoQ
 ▯ is golf (game).
 
-gom- ± `en` @salarua #IEeWYYK4q
+gom- +1 `en` @salarua #IEeWYYK4q
 prefix: mis-X; indicates that X is erroneous or is being done erroneously
 
 gom- ± `tlh` @evie #w3jYeZiQB
@@ -30021,7 +30036,7 @@ jala ± `en` @uakci #XcTehFC2V
 jalam +2 `en` @Laqme #2kPtQrsLv
 ▯ is a horse.
 
-jam- -1 `en` @robintown #6Pu9h5COY
+jam- ± `en` @robintown #6Pu9h5COY
 marks the following number as a clock time (HHcoMMcoSS)
 
 jam ± `en` @robintown #YMBxFpWju
@@ -36486,6 +36501,9 @@ keaıleı ± `en` @uakci #7n8DJmZ12
 keaıpeq ± `en` @Laqme #1Ee-AH_kv
 ▯ is a ticket/pass.
 
+keaıshıu ± `en` @Laqme #R88Sk4EuA
+▯ has right of way over ▯.
+
 keajuao ± `en` @seaqtaq #sJIjtk_NX
 (fork of #AMo6X-SN1) ▯ are the settings concerning ▯
 
@@ -42012,6 +42030,9 @@ lıamloe ± `en` @seaqtaq #7k28smnGD
 lıamshe ± `en` @seaqtaq #kr44s05rO
 Modality: X happens immediately upon/right when...; X happens on sight/on cue
 
+lıamuoı ± `en` @Laqme #_dpiudGxq
+▯ turns sideways / turns 90°.
+
 lıaneo ± `en` @sheireq #Xs8EuDlln
 ▯ is on the side of ▯
 
@@ -47245,6 +47266,9 @@ mıqjao ± `en` @el #7TFidzX6C
 
 mıqkaqbıu ± `en` @Laqme #UQPCyK2Ui
 ▯ is a kaleidoscope.
+
+mıqkoam ± `en` @tonibrown #YGnSUBQuo
+▯ is indeterminate; ▯ is an indeterminate form
 
 mıqkogoa ± `en` @verte #PR4ei1z6q
 ▯ has Minkowskian geometry; ▯ is a Minkowskian space containing ▯.
@@ -61920,6 +61944,12 @@ predicate `functor`;▯ is a mathematical functor from category▯ to category�
 rıoqge ± `en` @uakci #H1zNfQpCY
 ▯ is sensorily striking/stimulating due to its property/ies ▯.
 
+rıoqgom ± `en` @seaqtaq #LiQ_EXgjm
+▯ makes a type error
+
+rıoqgomse ± `en` @seaqtaq #vm-hjAHE6
+▯ is a type error
+
 rıoqheo ± `en` @seaqtaq #JNPoFOsCC
 ▯ pa: hẻo ▯ rîoq ja dó
 
@@ -67430,6 +67460,9 @@ somche ± `en` @Laqme #Ad3c9eieS
 someone ± `en` @Machy #e3kkc4C_7
 ▯ is one who should do ▯ (impersonal generic).
 
+somgom +1 `en` @seaqtaq #qqIPM_fk2
+▯, in trying to fix or repair ▯, ends up only making it worse
+
 sọmıfe ± `en` @kazoo #N7ghGIkMfd
 ▯ is a E5 chord.
 
@@ -67890,6 +67923,9 @@ suaıca +1 `en` @akesi #sgPcrEhfl
 suaıdaıne ± `en` @uakci #su_mceOrg
 ▯ is the top speed / limiting speed of ▯.
 
+suaıdekı ± `en` @Laqme #wSFfWg4Ti
+▯ is a speedometer.
+
 suaıfafa ± `en` @Machy #Fw5lzuQWZ
 ▯ pursues ▯.
 
@@ -67913,6 +67949,9 @@ suaıhaqrıaq ± `en` @fagri #snvczx3Oe
 
 suaıja ± `en` @seaqtaq #GkHq7JO6K
 ▯ expedites/speeds up process ▯
+
+suaıjam ± `en` @Laqme #9D1Z8kzSZ
+▯ is a speedometer.
 
 suaıjıaq ± `en` @seaqtaq #Tb8aQ80Zx
 ▯ is a "dimension" used to facilitate extremely quick (often faster than light) travel; ▯ is hyperspace/the warp/subspace/slipspace
@@ -69330,6 +69369,9 @@ shaqfana ± `en` @seaqtaq #HsjQ_JIDy
 
 shaqgeq ± `en` @Laqme #3K6l1mclV
 ▯ meets face-to-face with ▯.
+
+shaqgıo ± `en` @Laqme #F8aJC7D9x
+▯ is a headlight / are headlights.
 
 shaqhua ± `en` @fagri #AlMu0qQbq
 ▯ ıs a face
@@ -70915,6 +70957,9 @@ shıujuı ± `en` @Ilmen #6fnPowdMP
 shıujuı ± `toa` @Ilmen #MkfwLopW0
 = shıu ru daqjuı ▯ ▯.
 
+shıukeaı ± `en` @Laqme #FERETw_m7
+▯ has right of way.
+
 shıukıe ± `en` @seaqtaq #bGYl7G2Id
 ▯ thanks ▯ in advance for satisfying property ▯ 
 
@@ -71979,6 +72024,9 @@ There is a little (amount of)▯
 
 shuoshea ± `en` @Laqme #iMcCtJpbU
 ▯ (kind) have run out; there are no more left/available.
+
+shuosheaq ± `en` @Laqme #BIuQUlIYG
+▯ is parked.
 
 shuotao ± `en` @uakci #dFgYG21FO
 ▯ saves ▯ onto store/storage ▯; ▯ commits ▯ in(to) ▯.
@@ -73906,6 +73954,12 @@ tıaleoqche ± `en` @seaqtaq #bKbllnKpU
 tıam ± `en` @uakci #MQbuUVD9d
 modality: X is apt to do / makes sense to do if …
 
+tıamuoı ± `en` @Laqme #nAgQmsvQw
+▯ turns around / turns 180°.
+
+tıanuoqchuo ± `en` @Laqme #eA0ZB48Fx
+▯ is a rear-view mirror.
+
 tıao ± `en` @official #iY73igQKmZ
 predicate: ‘match’; ▯ matches/fits/suits ▯ in relation ▯.
 
@@ -74085,6 +74139,9 @@ tıashaq ± `en` @kazoo #xNgx4pMkg
 
 tıatı ± `en` @robintown #MpAL7XsNQ
 ▯ is behind / in the back.
+
+tıatıaı ± `en` @Laqme #mYFR9Njch
+▯ is a trunk/boot (of a car).
 
 tıazıu ± `en` @Laqme #4G7pGkhgI
 ▯ is a negative number.
@@ -74352,6 +74409,9 @@ tıeqshaı ± `en` @jiqci #oZhBCSaOb
 
 tıeqshıe ± `en` @mimiaoganhaqpy #1oAesjUh5
 ▯ is the star sign Scorpio.
+
+tıeqshıeı ± `en` @Laqme #57y5Z5n9p
+▯ is a toll.
 
 tıeqtı ± `en` @uakci #pKC_Laj9e
 ▯ is the commercial at sign (@).
@@ -78890,6 +78950,9 @@ zerımoı ± `en` @seaqtaq #gcjPsA6k9
 
 zero ± `en` @Laqme #dybcLL95O
 ▯ is the number 0.
+
+zeruodıu ± `en` @jiqci #sPK6k9Y3L
+▯ is fluid mechanics.
 
 zetoa ± `en` @uakci #U5y2fAarV
 ▯ is an object-incorporating verb (PO-class in Toaq grammar).
