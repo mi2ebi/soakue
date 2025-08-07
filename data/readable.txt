@@ -5531,6 +5531,9 @@ bukeo -2 `en` @uakci #UQ-qweRh5
 búkeo +1 `en` @Laqme #8Jc1NeziZ
 conjunction: 'not X, but Y'
 
+bukero ± `en` @kazoo #RxoEc5iLJ
+▯ has scurvy.
+
 Bukınafaso ± `en` @countries #bQVD8RRKF
 ▯ pertains to the culture of Burkina Faso.
 
@@ -24556,6 +24559,9 @@ predicate: ‘one's’; ▯ is one's (the generic/impersonal person's).
 habuı ± `en` @evie #hIdOAq5kl
 ▯ is a consensus, community decision, etc
 
+hacebe ± `en` @jiqci #CmMEJaniY
+▯ is sick with measles.
+
 hacoı ± `en` @uakci #hqxUZ32Eg
 ▯ has property ▯ like any other person does; ▯ is universally human in satisfying property ▯.
 
@@ -42660,6 +42666,9 @@ lıqruo ± `en` @seaqtaq #azOAguZzv
 lıqsaı ± `en` @robintown #0Tu65WQle
 ▯ is an estrogen or progestogen.
 
+lıqsaq ± `en` @jiqci #lJaQCWojW
+▯ is an (Asiatic) linsang (genus Prionodon).
+
 lıqseo ± `en` @official #wiOM0TaS08
 predicate: ‘wife’; ▯ is a wife of ▯.
 
@@ -46958,9 +46967,6 @@ mıerıoqjeqchuq ± `en` @Ilmen #nP8OAGUQZ
 
 mıeru ± `en` @uakci #_NEZ7ebkY
 ▯ is a walking, breathing satisfier of property ▯.
-
-mıesaı ± `en` @jiqci #lxOvoKU_P
-▯ is a vitamin.
 
 mıesaı ± `en` @seaqtaq #l8Hh9CV_S
 ▯ is organic matter / biomass.
@@ -55682,7 +55688,7 @@ interjection: "uh-oh, looks like you're in trouble"
 oaımoe ± `en` @Ilmen #vtrwbkKir
 ▯ feels concern or realization of ▯ being the case.
 
-oaıtue +1 `en` @Laqme #HwWCsb1X5
+oaıtue +2 `en` @Laqme #HwWCsb1X5
 ▯ is a predicament / a pickle / some trouble.
 
 oao +1 `en` @Laqme #FxC_aMOCR
@@ -58445,11 +58451,11 @@ adjectival phrase head (like **kị-**): subject-sharing adjective
 poı -2 `en` @fagri #2487EMdnD
 ▯ is a true proposition whose x1 participant, in participating in the proposition, also does ▯
 
+poıba +2 `en` @official #H0_bJXXO5sc
+predicate: ‘grass’; ▯ is grass.
+
 poıba +2 `en` @Ilmen #X8TR9YaJb
 ▯ is grass.
-
-poıba +1 `en` @official #H0_bJXXO5sc
-predicate: ‘grass’; ▯ is grass.
 
 poıba ± `pl` @jiqci #e5pzYplqo_
 ▯ to trawa.
