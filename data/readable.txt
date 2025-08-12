@@ -21451,6 +21451,9 @@ gıeı ± `en` @jiqci #FVJCWBS05
 gıeıchom ± `en` @jiqci #NT-xiDBvd
 ▯ is a stick insect (order Phasmida).
 
+gıeıla ± `en` @Laqme #NdJLTbRsV
+▯ picks lock ▯.
+
 gıeımara ± `en` @jiqci #greDNL9Vd
 ▯ is a catkin / ament.
 
@@ -35040,6 +35043,9 @@ kafefaseo ± `en` @Laqme #Et3aM1G0n
 kafehıaq ± `en` @Laqme #ieWGjLyKe
 ▯ "hasn't had their coffee" / isn't caffeinated enough to function.
 
+kafekea ± `en` @Laqme #qbOrlsL18
+▯ is a coffee maker.
+
 kafepeq ± `en` @Laqme #nooSTtezN
 ▯ is a paper coffee filter.
 
@@ -36396,6 +36402,9 @@ kaꝡajeoq ± `en` @Iako #1SMyDgULw
 kaꝡasoeı ± `en` @Laqme #dw7OFxe0N
 ▯ has poor eyesight / needs glasses.
 
+kaꝡatıe ± `en` @jiqci #dWiezALFp
+▯ is an eyelid.
+
 kaze ± `en` @lassc #Bls-rMJsd
 ▯ is the beat/pulse of ▯.
 
@@ -36554,7 +36563,10 @@ or contextual significance or connotation of a phrase
 keameaı ± `en` @jiqci #i6WjB_Kn0
 ▯ is an artificial satellite.
 
-keao- ± `en` @kazoo #LADhl7SoU
+keao- ± `en` @evie #vKdi-rQAm
+prefix version of **kéao** 'exactly'
+
+keao- -1 `en` @kazoo #LADhl7SoU
 prefix: describes a pair of entities where one is X and one is un-X
 
 kéao +1 `en` @robintown #IeyfTtF1A
@@ -49409,6 +49421,9 @@ muoıbomna ± `en` @jiqci #D9pp2gR0_
 muoıcıoq ± `en` @fagri #aHhdntZ26
 ▯ is a crank/dial
 
+muoıchu ± `en` @Laqme #UMH_YC0O9
+▯ is a cylinder (of a lock).
+
 muoıfıem ± `en` @jiqci #RwEApWffG
 ▯ is an axis / epistropheus (the second vertebra).
 
@@ -52508,9 +52523,6 @@ predicate: ‘tooth’; ▯ is a tooth.
 nıoq ± `pl` @jiqci #2y0lcF9B1m
 ▯ to ząb.
 
-nıoqbeaq ± `en` @jiqci #tg8rsymm0
-▯ is a toothpick.
-
 nıoqche ± `en` @seaqtaq #0lA8kAurN
 ▯is a dentist
 
@@ -52528,6 +52540,9 @@ nıoqdıu ± `en` @seaqtaq #0gDc5cfAT
 
 nıoqgıa ± `en` @Iako #avPRuKNrD
 ▯ are braces.
+
+nıoqgıeı ± `en` @jiqci #c9nz-akNH
+▯ is a toothpick.
 
 nıoqgoaı ± `en` @uakci #Xxb6kOXGL
 ▯ brushes their teeth.
@@ -55262,10 +55277,10 @@ tone-inflecting particle: sequence initiator.
 ⚠ nhıꝡıꝡu -1 `en` @Laqme #oOQzYqNoc
 ▯ violates Toaq phonotactics.
 
-nho- ± `en` @robintown #paLtydbz4
+nho- +1 `en` @robintown #paLtydbz4
 turns a natural number N into the determiner "N" / "exactly N"
 
-nho- ± `en` @Ilmen #u5A4KEtml
+nho- -1 `en` @Ilmen #u5A4KEtml
 prefix: presupposition marker.
 
 nho ± `en` @official #Q8eGJyXTp7
@@ -74680,6 +74695,9 @@ tıoqchue ± `en` @Laqme #D-yWKPJb9
 tıoqchuetoaı ± `en` @Laqme #SsCf9plyP
 ▯ is a link in a chain.
 
+tıoqgıeı ± `en` @Laqme #qdm2pY6JW
+▯ is a lockpick.
+
 tıoqheq ± `en` @seaqtaq #QN2kSXg72
 ▯ is a vault/safe containing ▯
 
@@ -74700,6 +74718,9 @@ tıoqpoa ± `pl` @jiqci #R_pt_GZgDM
 
 tıoqrıa ± `en` @Laqme #czovUHHCf
 ▯ is unlocked.
+
+tıoqsheq ± `en` @Laqme #1abedOnnP
+▯ is a lockpick.
 
 tıoqtı +1 `en` @salarua #JLbqDlCo2
 ▯ is locked up/under lock and key.
@@ -78994,7 +79015,7 @@ zeune ± `en` @jiqci #UJG9uWHKw
 ▯ is the height / tallness of ▯.
 
 zı- ± `en` @evie #sqrZTfcdc
-attaches to something with a quantifier like tú/sía/sulam, and turns it into "not *literally* that, but the exceptions are irrelevant/negligible/etc"
+number prefix: almost, approximately
 
 zı ± `en` @official #6Ohhh4oY0X2
 interjection: ‘no’; no
