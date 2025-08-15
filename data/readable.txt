@@ -5561,6 +5561,9 @@ bula +2 `en` @Ilmen #ETirC9C-_
 bula'alaı ± `en` @jiqci #t13_0okLl
 ▯ is a bubble alga / sea grape / sailor's eyeball (Ventricaria/Valonia ventricosa).
 
+bulaboe ± `en` @jiqci #1Jm3GgYQo
+▯ is bubble wrap.
+
 bulacesa ± `en` @jiqci #6mJluiYUy
 ▯ is fizzy / bubbly / effervescent.
 
@@ -5588,7 +5591,7 @@ buleqguele ± `en` @Ilmen #c8kTB1cPx
 bulıaq ± `en` @uakci #fyXyrNtmB
 ▯ pertains to Boolean logic.
 
-bulotı +1 `en` @Avaxar #fWlhpLeUR
+bulotı ± `en` @Avaxar #fWlhpLeUR
 ▯ is a Lojbanic ship derogatively referred for illegally fishing within Toaqguan maritime borders.
 
 bulua ± `en` @Ilmen #k0odhOgMM
@@ -21448,13 +21451,13 @@ gıegu ± `en` @Laqme #G3wpaE-MQ
 gıehıe ± `en` @Ilmen #5IFLTShny
 ▯ carries ▯ with their arms (possibly only one arm, but not using only the hands).
 
-gıeı ± `en` @jiqci #FVJCWBS05
+gıeı +1 `en` @jiqci #FVJCWBS05
 ▯ is a branch / twig / stick.
 
 gıeıchom ± `en` @jiqci #NT-xiDBvd
 ▯ is a stick insect (order Phasmida).
 
-gıeıla ± `en` @Laqme #NdJLTbRsV
+gıeıla +1 `en` @Laqme #NdJLTbRsV
 ▯ picks lock ▯.
 
 gıeımara ± `en` @jiqci #greDNL9Vd
@@ -64225,7 +64228,7 @@ sạnıepoha ± `en` @Laqme #lMXwm2A4M
 sanhe +1 `en` @uakci #kjkgy25gr
 ▯ is true to *some* extent; ▯ is the case, however little; ▯ is true by the skin of one’s teeth.
 
-sao ± `en` @official #zBtQqo1Aww
+sao +1 `en` @official #zBtQqo1Aww
 predicate: ‘big’; ▯ is big/large.
 
 sao ± `toa` @Ilmen #j_MAn5b6I
@@ -66312,6 +66315,9 @@ sıjucokı ± `en` @Machy #XEkrQK38d
 
 sıjuche +1 `en` @Machy #07wMpkyVw
 ▯ is a police officer.
+
+sıjuka ± `en` @lassc #8l8D7lmAP
+▯ occurs sporadically/"on and off".
 
 sıka ± `en` @salarua #UnX6vFqmA
 ▯ is Sikh (being a Sikh, or relating to Sikhs or Sikhism)
@@ -69706,7 +69712,7 @@ sheaqpıano ± `en` @jiqci #7ZsYTcQv-
 sheaqruoq ± `en` @robintown #F8LUZmNaP
 ▯ is vertical.
 
-sheaqsao +3 `en` @Ilmen #aDskZStyj
+sheaqsao +4 `en` @Ilmen #aDskZStyj
 ▯ is tall.
 
 sheaqsaopuefuq -1 `en` @Ilmen #vhKE57gaI
@@ -74701,7 +74707,7 @@ tıoqchue ± `en` @Laqme #D-yWKPJb9
 tıoqchuetoaı ± `en` @Laqme #SsCf9plyP
 ▯ is a link in a chain.
 
-tıoqgıeı ± `en` @Laqme #qdm2pY6JW
+tıoqgıeı +1 `en` @Laqme #qdm2pY6JW
 ▯ is a lockpick.
 
 tıoqheq ± `en` @seaqtaq #QN2kSXg72
