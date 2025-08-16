@@ -15106,11 +15106,8 @@ doelım ± `en` @Laqme #DqcaBruIT
 doeluı ± `en` @seaqtaq #2SH6XVCmN
 ▯ is defunct
 
-doem +1 `en` @seaqtaq #xq7FmLpD9
+doem +2 `en` @seaqtaq #xq7FmLpD9
 ▯ is a system
-
-doem -1 `en` @jiqci #Z5erb5fP1
-▯ is a system performing property ▯.
 
 doeme +1 `en` @Ilmen #7CfYTaDXF
 ▯ is a system.
@@ -49571,6 +49568,9 @@ muoqcaıne ± `en` @jiqci #pREbAagYq
 muoqchu ± `en` @jiqci #_XIcm6Vcq
 ▯ is the centroid / barycenter / center of mass of ▯.
 
+muoqdıu ± `en` @jiqci #vDhFlVHEH
+▯ is materials science.
+
 muoqfıu ± `en` @uakci #iad_WkPlK
 ▯ is sparse.
 
@@ -49597,6 +49597,9 @@ muoqrıoq ± `en` @uakci #GeJjRGKsy
 
 muoqrue ± `en` @jiqci #FCsdFWjZE
 ▯ has low density.
+
+muoqsaı ± `en` @jiqci #5OjrfOAyu
+▯ is a material.
 
 muoqshı ± `en` @uakci #0PzRgU9cf
 ▯ is homogenous.
@@ -60346,7 +60349,7 @@ raneu ± `en` @Laqme #Lx_jMUFSJ
 ▯ is boolean / bitwise OR of ▯ (**róı** of booleans / numbers).
 
 ranı +1 `en` @jiqci #JcdK0C677
-▯ is a writing system encoding ▯.
+▯ is a writing system.
 
 ranha ± `en` @Laqme #bhU0bPqub
 ▯ is sorta/kinda the case.
@@ -76311,6 +76314,9 @@ determiner: the only plural constant that satisfies [complement]
 
 tóꝡaı ± `en` @uakci #SaSWb3ZIb
 determiner: ‘the unique X(-es)’; ‘the one and only X’
+
+tozıkeshe ± `en` @zepeliq #OtQNZgflZ
+▯is a person who sacrifices themselves to prevent a catastrophe, despite pleas not to.
 
 ⚠ tramchao +2 `en` @Laqme #OJAc9BHyO
 ▯ is a tram car.
