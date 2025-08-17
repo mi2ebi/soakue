@@ -13031,7 +13031,7 @@ daosıao ± `en` @uakci #gReddy0iv
 daosıca ± `en` @uakci #H8mjfwGPO
 ▯ interests ▯; ▯ is interesting to ▯.
 
-daosuaq +1 `en` @fagri #uexCPPW0Z
+daosuaq +2 `en` @fagri #uexCPPW0Z
 ▯ infodumps
 
 daosue ± `en` @Ilmen #90GVNK5id
@@ -78102,10 +78102,10 @@ predicate: ‘subordination.mark’; ▯ is the Derani subordination mark
 ꝡalaqteı ± `en` @salarua #bGME7Kx-I
 predicate: ‘glottal.tone’; ▯ is the glottal tone
 
-ꝡam -1 `en` @uakci #r4td67pCC
+ꝡam +1 `en` @uakci #r4td67pCC
 illocution: [I] act this out [on you] in a roleplay/ERP fashion
 
-ꝡám +1 `en` @uakci #tc8Wlw_fQ
+ꝡám -1 `en` @uakci #tc8Wlw_fQ
 focus prefix: *this* much / to *this* extent
 
 ꝡamluaq ± `en` @uakci #-teyeqQ3s
