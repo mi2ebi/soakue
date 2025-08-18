@@ -28,12 +28,6 @@ interjection: realization, "aha!"
 a'ala +1 `en` @Laqme #VrsW70rCc
 ▯ gargles.
 
-a'am +1 `en` @evie #IAooAip1a
-interjection: go away
-
-a'aq ± `en` @evie #FTSu67gfw
-interjection: dismissal
-
 aba +2 `en` @Hoemai #sjRs1AtuX
 ▯ is a father/dad/daddy/papa.
 
@@ -554,9 +548,6 @@ akaılıe ± `en` @seaqtaq #TEXSjzdPo
 akaısıao +1 `en` @seaqtaq #mQTWu2JID
 ▯ is where ▯ is sore/feels soreness
 
-akam ± `en` @evie #7vW_LxvFi
-▯ is brainrot
-
 akanose +1 `en` @fagri #DwMgaZplS
 ▯ is AMAB (assigned male at birth); ▯ has the XY-chromosome body type
 
@@ -682,6 +673,9 @@ prefix: turn indicative modal into counterfactual modal
 
 am +4 `en` @uakci #bvXLeO4p7
 onomatopoeia: ‘nom’, ‘chomp’; biting into food
+
+äm ± `en` @evie #-r4qMEgOr
+interjection: go away
 
 áma ± `en` @official #JrGLGt5Q2D
 pronoun: ‘1+2+3’; 1st + 2nd + 3rd person personal pronoun; we/us (me + you + them)
@@ -43197,7 +43191,7 @@ loepuao ± `en` @Ilmen #N_GOLHQ2A
 loepuaobıu ± `en` @Ilmen #ogi4SZ8mW
 ▯ is a chimney.
 
-loeq ± `en` @uakci #-E6dKlMwd
+loeq +1 `en` @uakci #-E6dKlMwd
 ▯ cooks/is cooked.
 
 loeqcıa ± `en` @Ilmen #LRMXKwml0
@@ -50134,9 +50128,6 @@ naıpu -1 `en` @fagri #NUnMVxJol
 
 naırao +1 `en` @Laqme #bYif6cyuI
 ▯ is current / is happening now.
-
-naısu +1 `en` @evie #KDFlcsL1a
-interjection: 'nice!'
 
 naısha +1 `en` @Laqme #D5cE97GrG
 ▯ (future/awaited time) comes (becomes the present).
@@ -79778,6 +79769,9 @@ zugoeq ± `en` @Laqme #foO3u7c2y
 
 zugoeqpoe ± `en` @Laqme #LF0ohEUra
 ▯ and ▯ are separated by a language barrier (i.e. don't share a language).
+
+zuheno ± `en` @evie #9YovqWEfK
+▯ is a translation of ▯
 
 zuhenofıeq +1 `en` @uakci #dqA_E3zdp
 ▯ translates ▯ to language ▯.
