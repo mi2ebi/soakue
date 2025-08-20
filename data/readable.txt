@@ -3815,6 +3815,9 @@ bıqdo ± `en` @robintown #p0DHUOLe1
 bıqdonıe ± `en` @Laqme #0W9rFCk5O
 ▯ is windowed (not fullscreen).
 
+bıqkı ± `en` @cateyes #XWDyA2ct-
+▯ binkies
+
 bıqpue ± `en` @Laqme #6-IWpe4L1
 ▯ is a millipede.
 
@@ -22795,11 +22798,26 @@ goqbıu +1 `en` @jiqci #MssvPtu6Y
 goqfe ± `en` @Hoemai #gKapal_Hr
 ▯ is golf (game).
 
+goqfe'ujoq ± `en` @jiqci #0PjXyqvdn
+▯ is a golf club.
+
+goqfebeaq ± `en` @jiqci #Th0P-O46N
+▯ is a golf club.
+
 goqfechao ± `en` @Ilmen #4s3t4xp05
 ▯ is a golf cart.
 
 goqfechaohuaıtıeqsedaq ± `en` @Ilmen #imz2hmen_
 ▯ uses golf carts ▯ to storm trench positions ▯.
+
+goqfedueq ± `en` @jiqci #5xHmM1gXz
+▯ is a golf course.
+
+goqfekıoq ± `en` @jiqci #uwo8FOEIm
+▯ is a golf ball.
+
+goqfeshıaq ± `en` @zepeliq #q5xeBYDqI
+▯is a golf tee.
 
 goqgıeı ± `en` @Laqme #O_aKDx1bw
 ▯ is an incense stick.
@@ -30051,6 +30069,9 @@ jam ± `en` @robintown #YMBxFpWju
 jama +1 `en` @uakci #9k3FFE4wF
 ▯ influences ▯; The answer to indirect question ▯ has influence on the answer to indirect question ▯.
 
+jamadıu ± `en` @jiqci #udclALb_E
+▯ is the theory of relativity.
+
 Jamaıka ± `en` @countries #P1KYUiNZ5Au
 ▯ pertains to the culture of Jamaica.
 
@@ -30062,6 +30083,9 @@ Jamaıkagua ± `en` @countries #4csGJjJrVFO
 
 ⚠ Jamaıkagua -1 `en` @oldcountries #Q7GJe8ZzR1
 ▯ is the country Jamaica.
+
+jamasuaı ± `en` @jiqci #G5tU2b2vZ
+▯ moves at a relativistic speed.
 
 jamchıu ± `en` @Laqme #4VtYWmFKG
 ▯ is the time-of-day of ▯.
@@ -51038,6 +51062,9 @@ neaırom ± `en` @Laqme #HF8KYMjV4
 neaıse +2 `en` @Laqme #8g4eDqGyZ
 ▯ is (a) proof.
 
+neajamadıu ± `en` @jiqci #6-Bvshtx6
+▯ is general relativity.
+
 neajoaı ± `en` @evie #yl8uLQiQZ
 ▯ searches for/through ▯ using breadth-first search
 
@@ -69724,7 +69751,7 @@ sheaqsao +4 `en` @Ilmen #aDskZStyj
 sheaqsaopuefuq -1 `en` @Ilmen #vhKE57gaI
 ▯ is a boot.
 
-sheaqsıubuaqmeo +1 `en` @fagri #zWQN3Dfqx
+sheaqsıubuaqmeo +2 `en` @fagri #zWQN3Dfqx
 ▯ feels the sort of frustration that comes from repeatedly trying to stand something up or balance something on its end, and repeatedly failing
 
 sheaqsuım ± `en` @Laqme #KYSayJphT
@@ -75283,6 +75310,9 @@ toakıu ± `en` @uakci #oRuZR2E5x
 toakomu ± `en` @seaqtaq #A5uSlQMid
 ▯ is "word-poor"; ▯ is fairly bland in vocabulary
 
+toaku ± `en` @zepeliq #2MRVegpqH
+▯pronounces "toaq" as "toak" because they have no idea that q does not make a k sound.
+
 toakuaı +3 `en` @Laqme #mhXfXL6dl
 ▯ longs for a word that satisfies property ▯.
 
@@ -75327,6 +75357,9 @@ toaluoqrıoq ± `en` @uakci #nHXzo8HF5
 
 Toam ± `en` @nano #_TnrpoKMr
 ▯ is superficially "Toaqic"; ▯ is of or related to Toaq, but not really.
+
+toam ± `en` @zepeliq #DLl4XQhAR
+▯pronounces "toaq" incorrectly because the q phoneme does not exist in their native language.
 
 toame ± `en` @uakci #98apQqGdT
 ▯ is a phrase / sentence / fragment / utterance.
@@ -77426,6 +77459,9 @@ determiner: ‘each’; singular universal quantifier
 
 tushılı ± `en` @Ilmen #7I0Qpa2a1
 every one thing has property ▯ among what has property ▯, if any.
+
+tuta ± `en` @cateyes #BoDc4NZYI
+▯ are dungarees
 
 tutı ± `en` @uakci #ZyhytJyoI
 ▯ is omnipresent; ▯ is present everywhere.
@@ -79793,6 +79829,9 @@ zuı +2 `en` @jiqci #cDXzruhhU
 
 zuıguaq ± `en` @jiqci #596ylU_L7
 ▯ is an isthmus.
+
+zuıjamadıu ± `en` @jiqci #sgVYRZPSf
+▯ is special relativity.
 
 zuıkaı ± `en` @Laqme #W0SQJd--d
 ▯ writes ▯ in shorthand / stenography.
