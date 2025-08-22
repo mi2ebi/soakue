@@ -599,6 +599,9 @@ interjection: 'sympathy'
 akoka +1 `en` @lassc #YfxRQ94wQ
 ▯ is a crab.
 
+akokuoq ± `en` @jiqci #m4zmZ3izb
+▯ is a parietal bone.
+
 akolıeq ± `en` @jiqci #CN5Xo_b8r
 ▯ is a keystone.
 
@@ -1342,6 +1345,9 @@ aqmınhue +1 `en` @evie #aXCJg26T_
 
 aqmırao ± `en` @evie #IDtMCKnds
 ▯ is an admiral
+
+áqna +1 `en` @robintown #cY-zD26_p
+pronoun: ‘REFL.ND’; non-distributive reflexive pronoun
 
 aqno ± `en` @uakci #-qOtmdxKD
 ▯ is direct rather than represented/embedded in an intermediate medium.
@@ -9485,6 +9491,9 @@ cheıcuorıaq ± `en` @TheAndSys #AYeQAoHzC
 cheıjıeq ± `en` @Laqme #JCQyQbM9C
 ▯ is a fingertip / tip of one's toe.
 
+cheıkuoq ± `en` @jiqci #1DhOfLp2j
+▯ is a phalanx (bone).
+
 cheıla ± `en` @Laqme #SpRXfTP1H
 ▯ pokes / prods / presses ▯ with a finger.
 
@@ -12793,6 +12802,9 @@ dakacarachuo ± `en` @jiqci #irgulUdzf
 
 dakı ± `en` @Ilmen #lJ33fg1XP
 ▯ is a forehead.
+
+dakıkuoq ± `en` @jiqci #DIQpq_1V4
+▯ is a frontal bone.
 
 dakuq ± `en` @Ilmen #sZiFYoc8W
 ▯ asserts to audience ▯ utterance ▯.
@@ -20029,6 +20041,9 @@ gaofuq ± `en` @seaqtaq #nMSa48mvh
 gaogıe ± `en` @tonibrown #YSdZFJJSi
 ▯ is an upper arm.
 
+gaogıekuoq ± `en` @jiqci #6aoocsLE9
+▯ is a humerus.
+
 gaogureq ± `en` @Hydro #d06DLR03N
 ▯ is an adrenal gland.
 
@@ -20449,7 +20464,7 @@ predicate: ‘lift’; ▯ is a lift.
 geajeaqkea ± `pl` @jiqci #nRFotvh7U
 ▯ to winda.
 
-geajıo ± `en` @Ilmen #GbSiq-MjP
+geajıo +1 `en` @Ilmen #GbSiq-MjP
 ▯ is a tower or skyscraper.
 
 geajıo ± `en` @Ilmen #XBPyquUEg
@@ -20509,7 +20524,7 @@ geaqsaınao ± `en` @fagri #0OXbUCWl8
 geaqzeo ± `en` @Machy #tiAAJ3qJ0
 ▯ is a vegetable.
 
-gearı ± `en` @robintown #ADrW5yzLY
+gearı +2 `en` @robintown #ADrW5yzLY
 ▯ is a tower.
 
 gearıjam ± `en` @robintown #gJKCXSOHm
@@ -27616,6 +27631,9 @@ homje ± `en` @evie #S2g8ka-j7
 homo ± `en` @seaqtaq #Sfz2hZaTO
 predicate: ‘human’; ▯ is a human.
 
+homro ± `en` @jiqci #UvweKgnIZ
+▯ is a humerus.
+
 honı ± `en` @Ilmen #ST3mfUNM_
 ▯ is this/that animate thing satisfying property ▯.
 
@@ -30014,7 +30032,7 @@ jaıjıam ± `en` @Laqme #rUiAB2O9f
 jaıkaqhua +1 `en` @fagri #FT_Fa_lDX
 ▯ squeezes their eyes in an expression of positive emotion
 
-jaılao ± `en` @Laqme #rNI717BN5
+jaılao +1 `en` @Laqme #rNI717BN5
 ▯ looks forward to / eagerly awaits ▯ being the case.
 
 jaıluq ± `en` @fagri #M3wepzGsp
@@ -30047,6 +30065,12 @@ jajeo ± `en` @uakci #yG5PE8VKn
 
 jajıq ± `en` @kazoo #QxEWlYfDV
 ▯ is cacık.
+
+jakaı ± `en` @seaqtaq #LiILEaElu
+▯ speaks / communicates aggressively or with great passion; ▯ rants / blusters / pleads
+
+jakaısem ± `en` @seaqtaq #vnLcC5sge
+▯ doesn't step in on ▯'s argument or rant despite knowing full well that the latter is operating on an incorrect premise, thereby making a fool of themselves
 
 jake ± `en` @official #GhlgFvYQfP
 predicate: ‘jacket’; ▯ is a jacket.
@@ -30951,10 +30975,10 @@ jempeq ± `en` @jiqci #dZMAjrwJ0
 jemsaı +1 `en` @jiqci #7PH2W8o9R
 ▯ is glue/putty/grout.
 
-Jemu +2 `en` @official #dt3m7jmPpWA
+Jemu +3 `en` @official #dt3m7jmPpWA
 predicate: ‘Jemu’; ▯ is Jemu (a legendary whale–moth creature in Toaq mythology).
 
-Jemu ± `pl` @jiqci #4hKvshpnT
+Jemu +1 `pl` @jiqci #4hKvshpnT
 ▯ to Jemu (legendarny ćmo-wieloryb z toańskiej mitologii).
 
 Jemufa ± `en` @TheAndSys #x6pdKYbWj
@@ -33603,8 +33627,14 @@ joqshaqtıe ± `en` @Ilmen #e3GCl2_i6
 joqteı ± `en` @uakci #UByS8Ou3e
 ▯ is canonical.
 
+joqtıa ± `en` @jiqci #GUIvD14Uv
+▯ is a nape (back of a neck).
+
 joqtıaı ± `en` @kazoo #kMejNR6NI
 ▯ is a center piece in a Rubik's cube.
+
+joqtıakuoq ± `en` @jiqci #DqRxf6og6
+▯ is an occipital bone.
 
 joqtıe ± `en` @TheAndSys #h7mYob4Du
 ▯ is a mask
@@ -35525,6 +35555,9 @@ kamı ± `en` @el #jifNykA8E
 
 kamıaq ± `en` @Machy #zA0HHCnMF
 ▯ performatively appreciates/recognizes/celebrates ▯ for satisfying property ▯.
+
+kamkuoq ± `en` @jiqci #bE77Wrb4S
+▯ is a radius (bone).
 
 kamne ± `en` @jiqci #yrUdAY-qz
 ▯ is a radius of ▯.
@@ -41976,6 +42009,9 @@ lıahua ± `en` @fagri #GduxkWCu9
 lıahueq ± `en` @jiqci #r4igpe0hG
 ▯ is a temple (part of head between forehead and ear).
 
+lıahueqkuoq ± `en` @jiqci #EyLj5rmEI
+▯ is a temporal bone.
+
 lıaı ± `en` @official #e7dXOa5ihD
 predicate: ‘swim’; ▯ swims.
 
@@ -45375,7 +45411,7 @@ onomatopoeia: ▯ is a meow/purr; ▯ is a cat sound.
 maomao ± `en` @uakci #fF9f3yy9i
 ▯ meows.
 
-maomu ± `en` @uakci #wSO4fH5jO
+maomu -1 `en` @uakci #wSO4fH5jO
 focus prefix: amongst others; not just
 
 maona +1 `en` @uakci #-EnWSePW7
@@ -48463,6 +48499,9 @@ moma ± `en` @Laqme #rCUMOkOBB
 
 momalıem +1 `en` @Laqme #b6m_tQlyM
 ▯ is an earring.
+
+momapaku ± `en` @jiqci #EOtauR9a9
+▯ is cerumen/earwax.
 
 momo +1 `en` @el #vXC-O6MW1
 open-quote used for when unmatched **mo** or **teo** are in the quoted text
@@ -54740,9 +54779,6 @@ nuoıhuabeq ± `en` @Ilmen #Kup4Xst1t
 nuoıhuakıaq ± `en` @Ilmen #ns0M3911i
 ▯ is a beard.
 
-nuoıkuoq ± `en` @jiqci #zeLdOrd05
-▯ is a mandible / lower jaw.
-
 nuoıma +1 `en` @salarua #btyGFsMLO
 ▯ is chewing gum.
 
@@ -56438,6 +56474,9 @@ pala ± `en` @seaqtaq #93kE1MsKIvG
 pala ± `en` @Ilmen #mSIfxe-4K4j
 ▯ is the (hard) palate.
 
+palakuoq ± `en` @jiqci #elSHCFLen
+▯ is a palatine bone.
+
 palalaq ± `en` @Ilmen #1kip4yeyYKx
 ▯ is a palatal consonant.
 
@@ -57524,6 +57563,9 @@ pıaqsuaı ± `en` @uakci #SEks0JPuW
 pıaqshıe ± `en` @lassc #cJk_JMvee
 ▯, intending to sleep longer, suddenly wakes up earlier than expected.
 
+pıbıu ± `en` @jiqci #_oJAMRASq
+▯ is a urethra.
+
 pıca ± `en` @Ilmen #g7yGre_EK
 ▯ is a pizza.
 
@@ -57862,6 +57904,9 @@ pıopıu ± `en` @seaqtaq #VdippfqFx
 
 pıopıuchoaq ± `en` @jiqci #xKKzB4OJn
 ▯ is a hermit crab.
+
+pıorı ± `en` @robintown #-QOStZa3V
+▯ is a cairn (man-made pile of stones).
 
 pıosaı ± `en` @jiqci #-xvkixL_4
 ▯ is a mineral.
@@ -62778,6 +62823,9 @@ roqkuaı ± `en` @el #qegZdG1oG
 roqkuaıge ± `en` @uakci #1ZcCHZ0IS
 ▯ is a tearjerker.
 
+roqkuoq ± `en` @jiqci #hqRuaMzlP
+▯ is a lacrimal bone.
+
 roqla ± `en` @Laqme #bWl4nD95X
 ▯ tears up.
 
@@ -64308,6 +64356,9 @@ saochıeche ± `en` @Laqme #ZxrnBa_9E
 
 saochıjoaq ± `en` @Laqme #yRd2n8KdZ
 ▯ is a high priest.
+
+saochuao ± `en` @jiqci #bbCDKCc7U
+▯ is a foramen magnum.
 
 saodaokoaı ± `en` @robintown #uMOXksuJY
 ▯ is a wide area network.
@@ -69412,6 +69463,9 @@ shaq'ao ± `en` @kazoo #mLCaIkCuk
 shaqbeq +1 `en` @uakci #4MijX7pL9
 ▯ is a cheek.
 
+shaqbeqguhu ± `en` @jiqci #4mxj8WdaQ
+▯ is a buccinator muscle.
+
 shaqbeqkuoq ± `en` @jiqci #Jho4SjaFX
 ▯ is a zygomatic / cheekbone.
 
@@ -70576,6 +70630,9 @@ shıma +1 `en` @Laqme #hNcPixGf6
 shımagoeq ± `en` @jiqci #K3FEKQIuf
 ▯ is a nasal septum.
 
+shımakuoq ± `en` @jiqci #WqlR9OTg1
+▯ is a nasal bone.
+
 shımeo ± `en` @Laqme #1HRqCkl9P
 ▯ feels lonely.
 
@@ -71073,6 +71130,9 @@ shıumejıo ± `pl` @jiqci #E1oUVMhy0
 
 shıumeo ± `en` @seaqtaq #LVwQO26Ij
 ▯ dreads ▯
+
+shıumıca ± `en` @jiqci #ACbAN8aPw
+▯ is Cowper's fluid / pre-ejaculate / pre-cum.
 
 shıumıu +1 `en` @Laqme #RNw6rWYMx
 ▯ holds the prejudice/bias of thinking that ▯ is the case.
@@ -78843,7 +78903,7 @@ focus prefix in KU, opposite of **tou**; marks that this *isn't* the only case w
 zeı ± `toa` @el #Yzi0uwORZ
 = kueu deı lâ ja raı ja shıja bı mua ráı baq jëo hóa shíja ga ga
 
-zéı +2 `en` @Laqme #_G220-Xoz
+zéı +3 `en` @Laqme #_G220-Xoz
 focus particle: 'for one'
 
 zejeo -1 `en` @uakci #WEg0X-83V
