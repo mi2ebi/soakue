@@ -37145,6 +37145,9 @@ terminator: ‘)’; end parenthetical
 kı'ao ± `en` @seaqtaq #hGKLgfKuS
 ▯ is a valve
 
+kı'ıq ± `en` @seaqtaq #rsGNZM3Rv
+▯ is vulnerable/susceptible to experiencing property ▯
+
 kıa +1 `en` @official #SDXJvXU7-0
 predicate: ‘red’; ▯ is red.
 
@@ -46149,7 +46152,7 @@ mejeo ± `en` @Ilmen #1I0cRBaCB
 mejeo ± `toa` @Ilmen #gX8axdCN2
 = ja jane ja sıeme bı to ru shè mêpuıne péı sıaseu síeme bı deı jáne to to ru shè mêpuıne péı shı síeme bı deı jáne lú sıeko shı hóa síeme to to ru shè mêpuıne péı gu síeme bı deı jáne lú sıeko shı hóa síeme na lú sıeko gu hóa síeme to to ru shè mêpuıne péı saq síeme bı deı jáne lú sıeko shı hóa síeme na lú sıeko gu hóa síeme na lú sıeko saq hóa síeme to to ru shè mêpuıne péı jo síeme bı deı jáne lú sıeko shı hóa síeme na lú sıeko gu hóa síeme na lú sıeko saq hóa síeme na lú sıeko jo hóa síeme to shè mêpuıne sa seuhuaq peı jo síeme bı bu raı.
 
-mejı ± `en` @uakci #0NpHrNz_F
+mejı +1 `en` @uakci #0NpHrNz_F
 ▯ is us (used in a plural/DID/OSDD/etc context to indicate the full system and not the current speaker/fronter)
 
 mejıe ± `en` @lassc #ztbDRm_rw
@@ -48322,6 +48325,9 @@ moıluaq ± `en` @Laqme #PR1M8wela
 
 moıluaqmu ± `en` @Laqme #jISozsMwJ
 ▯ is a puzzle game.
+
+moılucu ± `en` @evie #PXS42yxhT
+▯ is a puzzle
 
 moıluq ± `en` @Ilmen #JIzViNbKM
 ▯ is thoughtful/meditative.
