@@ -6074,7 +6074,7 @@ bzcj ± `toa` @el #_XOLgLsQM
 ⚠ c +1 `en` @Laqme #231PC7qYx
 interjection: exhaling some air through your teeth in appreciation of a joke
 
-ca- ± `en` @Ilmen #bqy4wQsM-
+ca- +1 `en` @Ilmen #bqy4wQsM-
 inflectional prefix: initiates an Echo-Resumptive construction, where the prefixed stem is a repetition of the main verb of the clause returned to, typically after exiting a  center-embedded subordinate clause.
 
 ca ± `en` @official #kqYuHV9Fyw
@@ -9209,7 +9209,7 @@ chaqsıao ± `en` @seaqtaq #nBhSxLlwZ
 chaqtı +1 `en` @Laqme #Cipdyjdz8
 Where ▯ is, the date is ▯.
 
-chaqtıa ± `en` @fagri #IUOhHdK8t
+chaqtıa +1 `en` @fagri #IUOhHdK8t
 ▯ is an afternoon
 
 chaqtu ± `en` @official #-PUDUd6U6V
@@ -20815,7 +20815,7 @@ geobıa ± `en` @Ilmen #cryhUeTzD
 geochua ± `en` @salarua #V6pDn6l34
 ▯ is a deadname of ▯
 
-geodıo +2 `en` @Machy #GPal0EF3O
+geodıo +3 `en` @Machy #GPal0EF3O
 ▯ is an afternoon.
 
 geodıu ± `en` @Ilmen #oHkdHUjQP
@@ -42831,6 +42831,9 @@ lıuqhuaq ± `en` @seaqtaq #S71z4ZxkE
 lıuqjeaq ± `en` @uakci #O2YAWshcJ
 ▯ goes up a notch (in extent/intensity).
 
+lıuqjeaqzuo ± `en` @seaqtaq #k80k9YryM
+▯ (of pedagogical material) is graded; Regimen / course / program ▯ is intended to induce progressively better skills in whatever subject pertains by gradually increasing the difficulty of the content
+
 lıuqjeq ± `en` @seaqtaq #ipI5n0yBe
 ▯ is on the same tier as ▯ on some scale; ▯ ranks the same as ▯; ▯ is a peer to ▯
 
@@ -53413,6 +53416,9 @@ adjective phrase head: despite the fact that (it is) X
 
 noeq +3 `en` @uakci #pMWjWikWJ
  contrastive modality; X happens despite ...
+
+noeqcua ± `en` @seaqtaq #ldDVzchiI
+▯ copes with / deals with / grapples with state of affairs ▯
 
 noeqshe +1 `en` @robintown #7TZl9vTWY
 modal: no matter / regardless of
@@ -75701,7 +75707,7 @@ toaqꝡeloq ± `en` @eednb #uEdjBHRva
 ▯ is Toaqic verlan (an argot for Toaq, described in comments)
 
 toaqzana ± `en` @seaqtaq #V44ojY714
-▯ is toaqically rich/flavorful/stimulating; ▯ is a toaqic feature which may be easily appreciated for its uniqueness  cuteness, or for some etheral quality that that sets this language apart from other languages
+▯ is toaqically rich/flavorful/stimulating; ▯ is a toaqic feature which may be easily appreciated for its uniqueness, cuteness, or for some etheral quality that that sets this language apart from other languages
 
 toaqzıam ± `en` @Laqme #BVPILNxiB
 ▯ is un-Toaqic / goes against Toaq's principles.
@@ -80200,7 +80206,7 @@ zutoshaone ± `en` @jiqci #TJiwJu71x
 ▯ is the electronegativity of ▯.
 
 zuzana ± `en` @seaqtaq #QkHAzchsl
-▯ is linguistically rich/flavorful/stimulating; ▯ is a feature of a language which may be easily appreciated for its uniqueness  cuteness, or for some etheral quality that that sets this language apart from other languages
+▯ is linguistically rich/flavorful/stimulating; ▯ is a feature of a language which may be easily appreciated for its uniqueness,  cuteness, or for some etheral quality that that sets this language apart from other languages
 
 zuzao ± `en` @seaqtaq #FSwCYMNA2
 ▯ knows language ▯
@@ -86543,6 +86549,9 @@ The book is on the floor underneath the table.
 
 Kúe bï loı jí máq. ± `en` @examples #EiIDpRfx8F7
 As for the book, I hated it.
+
+kue gạlıuqjeaqzuo ± `en` @seaqtaq #qriz07DzO
+▯ is a graded reader
 
 kue jaq gı ± `en` @examples #LwF3YQMt73
 very good book
