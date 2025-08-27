@@ -4400,6 +4400,9 @@ bolıkıoq ± `en` @Laqme #XT_J7O4LX
 bolıq'aqdu ± `en` @salarua #Q1zNeEMl8
 ▯ plays bowling.
 
+bolıqkıoq ± `en` @jiqci #hocbhBOLZ
+▯ is a bowling ball.
+
 bolıqpıq ± `en` @NashedPotatoes #-hduQLm6M
 ▯ is a bowling pin.
 
@@ -15354,6 +15357,12 @@ dolomrueqguhu ± `en` @jiqci #BFV0bWLzh
 
 dom +1 `en` @fagri #KNxFHz4X_
 ▯ is inactive/asleep/off/disengaged
+
+dom'atı ± `en` @Laqme #2aAmaFL8h
+▯ reboots / restarts.
+
+dom'atıja ± `en` @Laqme #nke6allim
+▯ reboots / restarts ▯.
 
 domcıoq ± `en` @seaqtaq #YusaHZ1Azh
 ▯ is an off-switch/kill-switch
@@ -69520,6 +69529,9 @@ shaqfa ± `en` @Laqme #H1KRRgZTA
 shaqfana ± `en` @seaqtaq #HsjQ_JIDy
 ▯ is a motion event forward
 
+shaqfuaq ± `en` @Laqme #FTjdIrDB9
+▯ is a (visual) foreground.
+
 shaqgeq ± `en` @Laqme #3K6l1mclV
 ▯ meets face-to-face with ▯.
 
@@ -74068,6 +74080,9 @@ interjection: the speaker realizes they have the flu after eating traditional me
 tıafana ± `en` @seaqtaq #ElmqKa976
 ▯ is a motion event backward
 
+tıafuaq ± `en` @Laqme #BwxZnc2dM
+▯ is a (visual) background.
+
 tıahueq ± `en` @Laqme #oazPEC_yL
 ▯ is a back face / reverse of ▯.
 
@@ -75978,6 +75993,9 @@ Togogua ± `en` @countries #xjmjR9Fh38d
 
 ⚠ Togogua -1 `en` @oldcountries #ZZdbzT5xsq
 ▯ is the country Togo – Togolese Republic.
+
+tohao ± `en` @kazoo #f1HcR8rXy
+start of Toaq text, switching from (generally) Lojban.
 
 Tohaqzu ± `en` @jiqci #FhTxkUmrf
 ▯ is Toohaq.
