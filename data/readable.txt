@@ -5825,6 +5825,9 @@ buqkuoq ± `en` @Ilmen #TWeCyw12x
 buqkuoq ± `en` @jiqci #H_PuCyv4h
 ▯ is a maxilla / upper jaw.
 
+buqkuoqfeqnhoq ± `en` @jiqci #XMWyTtZXa
+▯ is a maxillary nerve (CN V2).
+
 buqlıa ± `en` @uakci #q48olgukU
 ▯ is a cheek.
 
@@ -9544,6 +9547,9 @@ cheızeo ± `en` @jiqci #XjKN5D0bV
 
 cheja +2 `en` @Laqme #52tKC2VuH
 ▯ is a jaw.
+
+chejafeqnhoq ± `en` @jiqci #RfrTUBgY1
+▯ is a mandibular nerve (CN V3).
 
 chejakuoq ± `en` @jiqci #Gywh6hXhD
 ▯ is a jawbone / mandible.
@@ -17550,6 +17556,9 @@ faodo ± `en` @seaqtaq #dS1b7F0lp
 
 faofepı ± `en` @seaqtaq #e-AuvHJYO
 ▯ experiences a strong urge to look ahead to the bottom or lower part of a page while reading a thrilling or (especially) final scene in a book to know what happens next
+
+faofeqnhoq ± `en` @jiqci #AfrcZ9qJu
+▯ is a terminal nerve (CN 0).
 
 faofıshoem ± `en` @seaqtaq #IxWIqzSM5
 ▯ is in extreme anticipation of the end of ▯, which is on the cusp of happening; ▯ can hardly wait any longer for ▯ to be over, which it very soon should be
@@ -35568,6 +35577,9 @@ Kameruqgua ± `en` @countries #l5kabbWTs2S
 ⚠ Kameruqgua -1 `en` @oldcountries #Oct43MU4b7
 ▯ is the country Cameroon – Republic of Cameroon.
 
+⚠ Kamfaraglızu ± `en` @jiqci #Y4h7AWaH4
+▯ is Camfranglais.
+
 kamhe ± `en` @uakci #7KQBxw7T1
 aspect: by definition/definitionally; by nature/design
 
@@ -35939,6 +35951,9 @@ kaqdu ± `en` @Laqme #6qOjArq0Z
 
 kaqduı ± `en` @Laqme #CtBrzzc5a
 ▯ is showy/flashy/gaudy.
+
+kaqfeqnhoq ± `en` @jiqci #9jDwjKlxM
+▯ is an optic nerve (CN II).
 
 kaqfıe ± `en` @Ilmen #aS_QhqAo8
 ▯ is visually ugly.
@@ -36471,6 +36486,9 @@ kaꝡaboe ± `en` @jiqci #gXOJ1dOyD
 kaꝡaboenoso ± `en` @jiqci #vSp_6eY4s
 ▯ has conjunctivitis.
 
+kaꝡafeqnhoq ± `en` @jiqci #be-0tnCiJ
+▯ is an ophthalmic nerve (CN V1).
+
 kaꝡajeoq ± `en` @Iako #1SMyDgULw
 ▯ is a pupil (of the eye).
 
@@ -36479,6 +36497,9 @@ kaꝡasoeı ± `en` @Laqme #dw7OFxe0N
 
 kaꝡatıe ± `en` @jiqci #dWiezALFp
 ▯ is an eyelid.
+
+kaꝡazuoıfeqnhoq ± `en` @jiqci #rlcgDBZLO
+▯ is an oculomotor nerve (CN III).
 
 kaze ± `en` @lassc #Bls-rMJsd
 ▯ is the beat/pulse of ▯.
@@ -37066,6 +37087,9 @@ keqseao ± `en` @Laqme #hzBrGX6n1
 
 kera +2 `en` @Hoemai #R9LcsT6WX
 ▯ is a brain.
+
+kerafeqnhoq ± `en` @jiqci #T04FMX_xn
+▯ is a cranial nerve.
 
 keramoham ± `en` @jiqci #auUVQU-T9
 ▯ is a lobe of a brain.
@@ -41916,6 +41940,9 @@ leqfuoduao ± `en` @jiqci #kUEBUyxoh
 leqfurılaq ± `en` @seaqtaq #Mpsr9rD980j
 ▯ is a trill
 
+leqguqfeqnhoq ± `en` @jiqci #m5M5N9ZEZ
+▯ is an hypoglossal nerve (CN XII).
+
 leqgushoaı ± `en` @Ilmen #SK_KnL6-e
 ▯ is a tsetse fly (Glossina genus).
 
@@ -41933,6 +41960,9 @@ leqkuoq ± `en` @jiqci #kEB223O0S
 
 leqlıacha ± `en` @seaqtaq #HodV76f8k4m
 ▯ is lateral/articulated using both sides of the tongue (phonetics)
+
+leqparuqfeqnhoq ± `en` @jiqci #qi6t0aJdJ
+▯ is a glossopharyngeal nerve (CN IX).
 
 leqroıluao ± `en` @seaqtaq #wXz-SSl8X
 ▯ is articulated linguolabially/with the tongue touching the upper lip (phonetics)
@@ -42020,6 +42050,9 @@ lıa ± `tok` @el #quZTPyNf5
 
 lıa ± `pl` @jiqci #r6UreAngrG
 ▯ jest obok ▯.
+
+lıabagafeqnhoq ± `en` @jiqci #wi9Ca8T_5
+▯ is an abducens nerve (CN VI).
 
 lıacu ± `en` @jiqci #1gk7OKzMw
 ▯ strafes / sidesteps / moves sideways.
@@ -44639,6 +44672,9 @@ luoqhu ± `en` @seaqtaq #Ig_fpDcEP
 
 luoqhua +1 `en` @jiqci #oEyNCOv8g
 ▯ is the vestibular system (aka the organ of balance).
+
+luoqhuofeqnhoq ± `en` @jiqci #u678EqZ7_
+▯ is a vestibulocochlear nerve (CN VIII).
 
 luoqkea ± `en` @seaqtaq #AGQFpKZbb
 ▯ is a balance scale
@@ -50300,6 +50336,9 @@ namako ± `tok` @el #4CWg-7VPn
 namakocıa +1 `en` @fagri #flQGgyuoI
 ▯ is simple/raw/pure/direct; ▯ has no unneeded bells or whistles
 
+namakofeqnhoq ± `en` @jiqci #lLwQ1agwd
+▯ is an accessory nerve (CN XI).
+
 namakoguaı ± `en` @uakci #FrcFjRsEj
 ▯ has part-time / side / shift job ▯.
 
@@ -51544,6 +51583,9 @@ neqkoese +1 `en` @Laqme #cTOForOyI
 
 neqkoı +2 `en` @Laqme #IyHKBcYR9
 ▯ wanders / roams.
+
+neqkoıfeqnhoq ± `en` @jiqci #lMsmAHdQx
+▯ is a vagus nerve (CN X).
 
 neqkuı ± `en` @uakci #fyBdG4_ST
 ▯ is random; ▯ depends on random event ▯; ▯ is a stochastic process of stochastic variable(s) ▯.
@@ -64732,6 +64774,9 @@ saqgochıq ± `en` @Laqme #QG6np0fdU
 saqguao ± `en` @robintown #bNJDPNGQS
 ▯ is a trident.
 
+saqguaofeqnhoq ± `en` @jiqci #NSROSloWQ
+▯ is a trigeminal nerve (CN V).
+
 saqja ± `en` @Ilmen #aEK6ol4_d
 ▯ is a ternary relation/predicate.
 
@@ -70834,6 +70879,9 @@ shıqdenao ± `en` @uakci #Dz9fsZ6-D
 shıqduao ± `en` @Neaqbua #eCOF7TODT
 ▯ is sweet-smelling; ▯ has a sweet fragrance.
 
+shıqfeqnhoq ± `en` @jiqci #MDW2lTs3R
+▯ is an olfactory nerve (CN I).
+
 shıqgaı -1 `en` @official #Dk6HVmzjmyL
 predicate: ‘smell’; ▯ smells state of affairs ▯.
 
@@ -71487,6 +71535,9 @@ shomdea ± `en` @Laqme #OaZ9sqA1Z
 
 shomdu ± `en` @Laqme #zVVwj0blM
 ▯ seems to satisfy property ▯ judging by the look on their face.
+
+shomfeqnhoq ± `en` @jiqci #ipbF5sOGi
+▯ is a facial nerve (CN VII).
 
 shomfuq +1 `en` @Laqme #tLdk7ukKL
 ▯ is a mask.
@@ -72420,6 +72471,9 @@ taka +1 `en` @Machy #XiIIPfA7u
 
 takao ± `en` @jiqci #wF4SIS7Lc
 ▯ is a pulley.
+
+takaofeqnhoq ± `en` @jiqci #fcwzcNY-e
+▯ is a trochlear nerve (CN IV).
 
 takaogegu ± `en` @jiqci #Y5VDJVOIh
 ▯ is a trochlea (a cartilage that works as a pulley for one of the eye muscles).
@@ -75472,10 +75526,10 @@ toaluaqse +2 `en` @Hoemai #8aoI7T-mq
 toaluoqrıoq ± `en` @uakci #nHXzo8HF5
 ▯ is a word of grammatical gender/word class ▯;
 
-Toam ± `en` @nano #_TnrpoKMr
+Toam -1 `en` @nano #_TnrpoKMr
 ▯ is superficially "Toaqic"; ▯ is of or related to Toaq, but not really.
 
-toam ± `en` @zepeliq #DLl4XQhAR
+toam -2 `en` @zepeliq #DLl4XQhAR
 ▯pronounces "toaq" incorrectly because the q phoneme does not exist in their native language.
 
 toame ± `en` @uakci #98apQqGdT
@@ -76003,7 +76057,7 @@ Togogua ± `en` @countries #xjmjR9Fh38d
 ⚠ Togogua -1 `en` @oldcountries #ZZdbzT5xsq
 ▯ is the country Togo – Togolese Republic.
 
-tohao ± `en` @kazoo #f1HcR8rXy
+tohao -1 `en` @kazoo #f1HcR8rXy
 start of Toaq text, switching from (generally) Lojban.
 
 Tohaqzu ± `en` @jiqci #FhTxkUmrf
@@ -79430,6 +79484,9 @@ zıqnuaı ± `en` @uakci #33NRlk-o1
 
 zıqnhuo ± `en` @uakci #fOZqvsG44
 ▯ is an array/table (data type) of ▯.
+
+zıqpaqkı ± `en` @jiqci #qYEf5vtmG
+▯ is cyberpunk.
 
 zıqpeq ± `en` @Laqme #c6UbFgHHU
 ▯ is a web page.
