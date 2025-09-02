@@ -758,9 +758,6 @@ amla +3 `en` @Laqme #o4x5E-U_i
 amlaı ± `en` @uakci #hQ7voTYMB
 ▯ is the derani glyph for codal M.
 
-⚠ amor -2 `es` @zerot #htHCTOKPj
-Sentimiento de vivo afecto e inclinación hacia una persona o cosa a la que se le desea todo lo bueno
-
 ampea ± `en` @salarua #4o9TqJQRC
 predicate: ‘ampere’; ▯ is an ampere
 
@@ -3161,9 +3158,6 @@ Berotoaqgua ± `en` @shuaida #WOZloB_Fh
 beshı ± `en` @seaqtaq #f3oLNkclT
 ▯ is a joint
 
-beta -2 `en` @Ilmen #aNuyR-Qdj
-▯ is a plant belonging to the Beta genus.
-
 betalaı ± `en` @kazoo #25beVf35p
 ▯ is the Greek letter beta (β).
 
@@ -5536,9 +5530,6 @@ bukaja ± `en` @seaqtaq #Q986-aH00
 
 bụkaqsoeı ± `en` @robintown #Qk4anX_C6
 ▯ is sighted.
-
-bukeo -2 `en` @uakci #UQ-qweRh5
-▯ does not satisfy property ▯, but others do; Unlike others, ▯ does not satisfy property ▯.
 
 búkeo +1 `en` @Laqme #8Jc1NeziZ
 conjunction: 'not X, but Y'
@@ -13100,7 +13091,7 @@ daotoaı ± `en` @uakci #EQ-vaqo4U
 daotoq ± `en` @robintown #PDFlasWjf
 ▯ is an informational sign.
 
-daotoq -1 `en` @Laqme #FwDCF7sik
+daotoq -2 `en` @Laqme #FwDCF7sik
 ▯ is a table (of data, typically organized in rows and columns).
 
 daozepa ± `en` @jiqci #k5J6PdZ5u
@@ -14920,9 +14911,6 @@ doakıu ± `en` @uakci #30kZQx3vm
 doam ± `en` @TheAndSys #pB9-rMu7B
 ▯ is a quantity of ▯
 
-doanua -2 `en` @uakci #joJ2NFXcO
-▯ (plural) exchange property ▯ with ▯; In amongst ▯, some lose property ▯ and gain property ▯, while the rest gains the former property and loses the latter.
-
 doao ± `en` @Laqme #4zTGgaT3e
 ▯ is a bowl.
 
@@ -15625,9 +15613,6 @@ duafuı ± `tok` @nano #MC2yF3t7W
 duafuı ± `pl` @jiqci #-6mBdMpenK
 ▯ jest oczywisty (dla ▯).
 
-duafuı -2 `en` @official #pQj1jGJY2S
-predicate: ‘obvious’; ▯ is obvious; ▯ is obvious to ▯.
-
 duafuımıu ± `en` @jiqci #VIdKhg7ST
 ▯ finds ▯ obvious, not realising that it may not be the case for others.
 
@@ -15924,9 +15909,6 @@ duashoche ± `en` @Laqme #U7m2pKAdu
 
 duashuo ± `en` @seaqtaq #nd6Dqs3vU
 ▯ is ▯'s knowledge/wisdom; ▯ is ▯'s wealth of knowledge that they have accumulated
-
-duatua -2 `en` @fagri #LVM6PdFEq
-Tủa dủa ▯, ▯, ▯.
 
 duatuataq -1 `en` @uakci #71AUimiK0
 ▯ tells ▯ that the former blablalba ▯.
@@ -21889,11 +21871,11 @@ gıotom ± `en` @jiqci #XFS6z3obN
 gıozıa +1 `en` @salarua #OKREAEvhw
 ▯ emits light; ▯ shines
 
-gıozıa -1 `en` @Laqme #HyLaBix1G
-▯ emits/shines light ▯.
-
 gıozıa -1 `en` @Ilmen #PHzM0OoCg
 ▯ emits light ▯.
+
+gıozıa -2 `en` @Laqme #HyLaBix1G
+▯ emits/shines light ▯.
 
 gıpa ± `en` @uakci #5-RsJweui
 ▯ is made to satisfy property ▯, which is good for them; ▯ satisfies property ▯, which is done by somebody for them.
@@ -25000,9 +24982,6 @@ hapı +3 `en` @Ilmen #E8V-Kqn8Y
 hapıa ± `en` @robintown #yf7B8lN6H
 ▯ is a harpy (mythological creature).
 
-hapısaı -2 `en` @Laqme #Y2CaLYUen
-▯ is beeswax.
-
 haq- +1 `en` @evie #sxXu98E67
 prefix: incorporate **há** object
 
@@ -26332,7 +26311,7 @@ hıaodaımoe ± `en` @Ilmen #4qkATKwZI
 hıaodaıruaq -1 `en` @Ilmen #OokPfIUnk
 ▯ warns that danger ▯ is the case to audience ▯.
 
-hıaodaıruaqse -1 `en` @Laqme #CcK5p6G_g
+hıaodaıruaqse -2 `en` @Laqme #CcK5p6G_g
 ▯ is a warning.
 
 hıaodaısıamoe ± `en` @Ilmen #OK-A_I6XJ
@@ -27747,9 +27726,6 @@ hoqsıu ± `en` @fagri #E8cwp40rj
 
 hoqshıu ± `en` @Laqme #mGjxdPLtn
 ▯ takes place beforehand.
-
-hoqtekı -2 `en` @seaqtaq #GJNHbeyeU
-▯ is a computer
 
 hoqtua +1 `en` @Avaxar #sj6CFbT9_
 ▯ causes ▯ to be a resultant action satisfying the predicate that defines **hóq**; predicate **hóq** is brought upon by ▯ from initial abstract object ▯.
@@ -36525,9 +36501,6 @@ determiner prefix form: ‘of:EXO’; fills object of verb with ké (exophoric; 
 ke +1 `en` @Machy #W3hn-dAbK
 quantifier: ‘the/these’; quantifier: ke X refers to specific thing(s) that are X, among all X that are in the UoD.
 
-⚠ ke -2 `en` @oldofficial #ihs2JwjqgDW
-determiner: ‘the’; definite quantifier
-
 ké +1 `en` @official #2EG1It1W3Jf
 determiner: ‘EXO’; exophoric; this X (not previously mentioned)
 
@@ -37189,9 +37162,6 @@ end parenthetical: ‘)’; end parenthetical
 
 kı ± `toa` @Ilmen #TxaqPEriG
 ⚙ [KI] Tu toame tüqfıa shú kıo hóa na ru tuqsıe shú kı hóa bı heq bíhoı sa kuqtoaı na ru tu kuqtoaı bı bu shuaq pâqdoa ra paqnua há tóame kúqtoaı na sa hëo jeone hóa kúqtoaı da.
-
-⚠ kı -2 `en` @oldofficial #DaDQyl1Lhd_
-terminator: ‘)’; end parenthetical
 
 kı'ao ± `en` @seaqtaq #hGKLgfKuS
 ▯ is a valve
@@ -50141,7 +50111,7 @@ nabıshuıche ± `en` @akesi #pEkiNnVMa
 nạ́boq ± `en` @Laqme #YLjcW7k6w
 conjunction: 'preventing'
 
-nábụshe ± `en` @salarua #OeYfHu3wk
+nábụshe +1 `en` @salarua #OeYfHu3wk
 conjunction: except
 
 nạ́ca ± `en` @Laqme #xfSnM4A9G
@@ -51454,9 +51424,6 @@ predicate: ‘reference.grammar’; ▯ is a reference grammar
 
 neonua ± `en` @jiqci #wwFqtOC-u
 ▯, from ▯, removes / takes off ▯.
-
-neopaq -2 `en` @robintown #kx8f6wtRd
-▯ is a layer of ▯.
 
 neopaqkueqbeqpuao ± `en` @salarua #I91vLgTJE
 predicate: ‘stratocumulus.cloud’; ▯ is a stratocumulus cloud
@@ -52798,9 +52765,6 @@ nıq ± `tok` @el #BiiRktyQ1
 
 nıq ± `pl` @jiqci #EK1Y3uIYC2
 ▯ jest nowy; jest nowy w ▯.
-
-nıq -2 `en` @official #euJ49s4UaK
-predicate: ‘new’; ▯ is new; ▯ is new to ▯.
 
 nıq'e ± `en` @salarua #tANPoHTak
 predicate: ‘again’; ▯ happens again
@@ -55265,7 +55229,7 @@ nhaotoa ± `en` @el #TJJot4dXI
 nhaq- ± `en` @magnap #Ex3BV2WS8
 experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
 
-nhaq +20 `en` @el #xLyC14SY_
+nhaq +21 `en` @el #xLyC14SY_
 interjection: nyaan
 
 nhaq ± `tok` @el #0q3dpz393
@@ -61061,9 +61025,6 @@ regochıu ± `en` @Ilmen #M1gq9bENr
 
 regodao ± `en` @Ilmen #CW0eO3GoF
 ▯ is the Gregorian date composed of the Gregorian year number, month number and day number appearing in this order in the sequence ▯.
-
-regoheu -2 `en` @seaqtaq #M7E3qGKwQ
-▯ is a strawberry
 
 regonıaq ± `en` @Ilmen #EpkEJgszj
 ▯ is a Gregorian year.
@@ -72736,7 +72697,7 @@ taogıq +2 `en` @Ilmen #oYd969ikJ
 taogıq -1 `en` @fagri #pbwemuAmr
 ▯ is an accident; ▯ does ▯ by accident
 
-taogıq -1 `en` @Laqme #axIZY-PsQ
+taogıq -2 `en` @Laqme #axIZY-PsQ
 ▯ satisfies property ▯ automatically / as a reflex / without wanting or trying to / “affectively” (Ithkuil sense).
 
 taoguo ± `en` @uakci #5-jhduQ4Y
@@ -81732,7 +81693,7 @@ I like them and their friends.
 Cho jí, ꝡä guaı jí râo báq nuaq da. ± `en` @examples #9v2OO-ICmf
 I like working at night.
 
-Cho jí, ꝡä he cıa geı jí shê, ꝡä nuo jí da. ± `en` @examples #1fv2pHcn3Tc7
+Cho jí, ꝡä he cıa geı jí shê, ꝡä nuo jí da. -1 `en` @examples #1fv2pHcn3Tc7
 I like the fact that when I sleep, I wear nothing.
 
 Cho máma áq. ± `en` @examples #eRwxirRId5G
@@ -82044,10 +82005,10 @@ What is the name of this?
 Chua hí raı súq móq? ± `en` @examples #PhnizVX7wM
 What is your name?
 
-Chufaq cheo gaq guaı gú deo -1 `en` @examples #FY-jW0F65C
+Chufaq cheo gaq guaı gú deo -2 `en` @examples #FY-jW0F65C
 (B0046) The two boys are working together
 
-Chufaq laocaı jí -1 `en` @examples #i3zZQMn3qC
+Chufaq laocaı jí -2 `en` @examples #i3zZQMn3qC
 (B0043) I am patiently waiting
 
 Chum bua nháo sá bıajıo da. ± `en` @examples #3fo728MAxh
@@ -84432,9 +84393,6 @@ I greet the people.
 Hıo jí réq róı ké päı hó da. -1 `en` @examples #ZA55UfFHaU3
 I greed the person and their friend.
 
-⚠ Hıo jí réq roı ke päı hó da. -2 `en` @oldexamples #bQpjaR1nAIH
-I greed the person and their friend.
-
 Hıo jí súna ka. ± `en` @examples #Ig5eWe3re
 Hello to you all.
 
@@ -85835,9 +85793,6 @@ I see five puppers.
 
 Kaqgaı jí sá deo, ꝡë tua kúne sao, ꝡä tea déo. ± `en` @examples #bVbvP3vCikZ
 I saw a child that the large dog caused to be scared
-
-⚠ Kaqgaı jí sa fe baobao da. -2 `en` @oldexamples #jKX839H152y
-I see five puppers.
 
 ⚠ Kaqgaı jí sa heı shuao da. -1 `en` @oldexamples #vEY5jhT3n-I
 I see ten birds.
@@ -87243,7 +87198,7 @@ I promise I’ll play with them.
 ⚠ Luaqgaq jí púqho nha. -1 `en` @oldexamples #aT83uG9Wgtno
 I promise I’ll play with them.
 
-Luaq ru suaq tu deo ± `en` @examples #EIfjEXBvE-
+Luaq ru suaq tu deo -1 `en` @examples #EIfjEXBvE-
 (B0368) All the children played and sang
 
 ⚠ Luaq sá deo. -1 `en` @oldexamples #m3nDD7rHP
@@ -87957,7 +87912,7 @@ Does this look good to you?
 Ma kıachaq níchaq moq ± `en` @examples #QnkEaIdKhD
 (B0327) Is today Monday?
 
-Ma ko shı chaq po baq jöa baq kıachaq moq ± `en` @examples #ggXaOKbq5j
+Ma ko shı chaq po baq jöa baq kıachaq moq -1 `en` @examples #ggXaOKbq5j
 (B0333) Is Sunday the first day of theweek?
 
 Ma kú ní teaqrıaı nä naı tıjoaı súq hóa móq? ± `en` @examples #oTN6oZVKZ_r
@@ -88782,11 +88737,11 @@ The man killed nine enemy soldiers.
 Muaqtua náq sá soıche neı ꝡë paıgıq hóa da. ± `en` @examples #eMLo8rb3SHw
 The man killed nine enemy soldiers.
 
-mu boqbu -1 `en` @Laqme #7d4Lavvf-
-▯ isn't prevented by ▯. (= ▯ happens despite ▯.)
-
 mu boqbu -1 `en` @Ilmen #z34-iesIc
 ▯ is the case despite / in spite of ▯ being the case.
+
+mu boqbu -2 `en` @Laqme #7d4Lavvf-
+▯ isn't prevented by ▯. (= ▯ happens despite ▯.)
 
 Mụcho jí zạ́faq. ± `en` @examples #bxisprLxmJj
 I dislike the thing that's going to happen.
@@ -89025,7 +88980,7 @@ mu tıcuao ± `en` @Ilmen #q0CnYitrM
 ⚠ Naıboı duaıtao tı jí súq baq huıtaojıo nha. -1 `en` @oldexamples #C7669GxIgie
 I am taking you to jail.
 
-Naı chufaq ceo ríao -1 `en` @examples #oYr3gRtd-U
+Naı chufaq ceo ríao -2 `en` @examples #oYr3gRtd-U
 (B0044) Now the day is dawning
 
 Naıchụmjara nháo fâ náomı. ± `en` @examples #a2WdbELDIEb
@@ -90087,10 +90042,10 @@ Your used your eyes.
 ⚠ Pu choq súq ku pó súq ga kaqhua da. -1 `en` @oldexamples #4wp2G39Hxos
 Your used your eyes.
 
-Pu chufaq meoqkoı sa dıaı nuı pıa tëı baq chue hó -1 `en` @examples #vY1rGcv_h
+Pu chufaq meoqkoı sa dıaı nuı pıa tëı baq chue hó -2 `en` @examples #vY1rGcv_h
 (B0097) Seven little sisters were walking in a row
 
-Pu chufaq taomıa guaı tushı tı -1 `en` @examples #nZsWl3Cx-q
+Pu chufaq taomıa guaı tushı tı -2 `en` @examples #nZsWl3Cx-q
 (B0053) Everybody was busily working
 
 Pụchum jara nháo. ± `en` @examples #zC28KdsxWWW
@@ -90138,7 +90093,7 @@ What happened?
 ⚠ Pu gaı níaı tî jí da. -1 `en` @oldexamples #oo8xkxeP7dz
 The animal perceived my presence.
 
-Pu gaı níaı, ꝡä tı jí da. ± `en` @examples #NdAjyKE9y7K
+Pu gaı níaı, ꝡä tı jí da. -1 `en` @examples #NdAjyKE9y7K
 The animal perceived my presence.
 
 ⚠ Pu hıaı bém. -1 `en` @oldexamples #ymahrXwyn
@@ -90369,13 +90324,13 @@ I was sad, and I cried.
 Pu meo jí, rú pu roq jí da. ± `en` @examples #Po-yUUXRvUQ
 I was sad, and I cried.
 
-Pu meoq chufaq jeaq doq bóaq pö baq muao -1 `en` @examples #cd-wCI5C1_
+Pu meoq chufaq jeaq doq bóaq pö baq muao -2 `en` @examples #cd-wCI5C1_
 (B0390) The shadows of the trees were gradually growing shorter
 
-Pu meoq chufaq sha tı sa juıme bao nıapuao -1 `en` @examples #ykusmCY1g
+Pu meoq chufaq sha tı sa juıme bao nıapuao -2 `en` @examples #ykusmCY1g
 (B0179) Slowly a thick white mist was arising
 
-⚠ Pu muo jou jaıbuq nháo -1 `en` @examples #2R1FBPp_Yv
+⚠ Pu muo jou jaıbuq nháo -2 `en` @examples #2R1FBPp_Yv
 (B0042) She was always smiling
 
 ⚠ Pú nuo bı, naı guaı hó da. -1 `en` @oldexamples #sot4mb74O4A
@@ -91206,7 +91161,7 @@ I want you to be happy, and I want to be happy.
 Shao jí, ꝡä joe suaq jí da. ± `en` @examples #5LidxV_MWft
 I want to be good at singing.
 
-Shao jí, ꝡä kaqgaı sía raı jí. ± `en` @examples #eRaNB3uz5Qh
+Shao jí, ꝡä kaqgaı sía raı jí. -1 `en` @examples #eRaNB3uz5Qh
 I want nothing to see me.
 
 Shao jí, ꝡä sho de jí da. ± `en` @examples #IvVnhd8NPSc
@@ -92346,7 +92301,7 @@ I am employed in caring for the old.
 Teqguaı jí, lä kıaı já báq ocha geo da. ± `en` @examples #hidWX2KoJsK
 I am employed in caring for the old.
 
-Te tıduashaı kúne pö mí Heqrı -1 `en` @examples #6lyCHR4Cs
+Te tıduashaı kúne pö mí Heqrı -2 `en` @examples #6lyCHR4Cs
 (B0076) Henry's dog is lost
 
 teu cu ± `en` @Ilmen #ZjdqsgOVh
@@ -92523,7 +92478,7 @@ How much did the women believe what you told them?
 Tıo chı líq, ꝡé ruaq tú shı hóa côm hó móq? ± `en` @examples #AXJO9894DV9m
 How much did the women believe what everyone told them?
 
-Tıo cho súq lúa pö jí moq, hu máma ± `en` @examples #AOqNx0nKB
+Tıo cho súq lúa pö jí moq, hu máma -1 `en` @examples #AOqNx0nKB
 (B0603) How do you like my story, mother?
 
 Tıo daı dua nháo hóq móq? ± `en` @examples #eUGv004doqJy
@@ -93450,7 +93405,7 @@ I think they came from the town.
 Ꝡä fa nháo cu dóaq bï, daı hụ́ꝡa da. ± `en` @examples #N6zq_JJUnbeK
 It’s possible they came from the town.
 
-Ꝡä fa nháo cu dóaq bï, dua jí hụ́ꝡa da. ± `en` @examples #dabygz4rKqKv
+Ꝡä fa nháo cu dóaq bï, dua jí hụ́ꝡa da. -1 `en` @examples #dabygz4rKqKv
 I know they came from the town.
 
 Ꝡä fa nháo cu dóaq bï, le hụ́ꝡa da. ± `en` @examples #rLNqfnhtrMIw
@@ -93537,7 +93492,7 @@ It’s possible she came here from Honduras.
 Ꝡä fa nháo ní Kánadagua bï, daı hụ́ꝡa da. ± `en` @examples #Yl33MfyRDVIi
 It’s possible she came here from Canada.
 
-Ꝡä fa nháo ní Lágerıa bï, daı hụ́ꝡa da. ± `en` @examples #j0WUG1KFkShB
+Ꝡä fa nháo ní Lágerıa bï, daı hụ́ꝡa da. -1 `en` @examples #j0WUG1KFkShB
 It’s possible she came here from Algeria.
 
 Ꝡä fa nháo ní sîna Báreınıgua bï, le hụ́ꝡa da. ± `en` @examples #Rqv_ryUA8VD3
@@ -93699,7 +93654,7 @@ As for the idea that you came up with, it was wrong.
 Ꝡé sıo hóa rú fıeq súq hóa nä, due hóa da. ± `en` @examples #ynXJbXH1TuY
 As for the idea that you came up with, it was right.
 
-Ꝡé tao nháo hóa nä, shao bu jí, ꝡä tao súq hóa da. ± `en` @examples #MPLp6jQ1Xp2
+Ꝡé tao nháo hóa nä, shao bu jí, ꝡä tao súq hóa da. -1 `en` @examples #MPLp6jQ1Xp2
 As for what they did, I hope you don’t do it.
 
 Ꝡé tao nháo hóa nä, shao jí, ꝡä tao súq hóa da. ± `en` @examples #0240s6yIOd-
@@ -93912,9 +93867,6 @@ zue jearıaq ± `en` @robintown #RZ5_jZ8Nk
 ⚠ alycaımabıa ± `en` @Hydro #hcSab0DjX
 ▯ suffers from Alzheimer's disease.
 
-⚠ anınyaq -2 `en` @Hoemai #nDNNxdhJ-
-▯ is a beach.
-
 ⚠ aqhy ± `en` @uakci #z4Lj0Wacg
 ▯ sniffs/snorts.
 
@@ -93999,9 +93951,6 @@ boe(sıu)guaq ± `en` @seaqtaq #i9v-Ha7kG
 ⚠ Bygarıagua -1 `en` @oldcountries #ekiBrPs8CwM
 ▯ is the country Bulgaria – Republic of Bulgaria.
 
-⚠ by -2 `en` @el #DPkTyOt8D
-(fork of #0H5q45GzJ) conjunction: given X / as for X / as far as X goes, Y
-
 ⚠ caıfuoduy ± `en` @uakci #Uywh6Loe8
 ▯ gores/prods/stabs ▯.
 
@@ -94014,7 +93963,7 @@ boe(sıu)guaq ± `en` @seaqtaq #i9v-Ha7kG
 ⚠ cakyı ± `en` @seaqtaq #nlQkHle5X
 in state of affairs▯, the semantic role of FORCE is assumed by ▯
 
-⚠ canhy -1 `en` @Laqme #kaqS_SZjN
+⚠ canhy -2 `en` @Laqme #kaqS_SZjN
 ▯ is a chestnut (edible fruit of Castanea tree).
 
 ⚠ ceocıy -1 `en` @uakci #QE96T5VXP
@@ -94034,9 +93983,6 @@ in state of affairs▯, the semantic role of FORCE is assumed by ▯
 
 ⚠ Chosoq/gaokoreagua -1 `en` @oldcountries #ixqSrUISRB
 ▯ is the country North Korea → Korea, North.
-
-⚠ Chosoq/gaokorea -2 `en` @oldcountries #JBTWIIOxtf
-▯ pertains to the culture of North Korea → Korea, North.
 
 ⚠ cıakoy ± `en` @Machy #eOCPmTCKI
 ▯ and ▯ make small talk.
@@ -94058,9 +94004,6 @@ in state of affairs▯, the semantic role of FORCE is assumed by ▯
 
 ⚠ cuhybıa +2 `en` @uakci #f4SmsiWGI
 ▯ has asthma / is an asthmatic.
-
-⚠ cuhyshaı -2 `en` @salarua #RCUaC03dI
-▯ suffocates/asphyxiates/drowns/cannot breathe
 
 ⚠ cuoımy ± `en` @Ilmen #J_lVQ8kuL
 ▯ is a binary relation/predicate.
@@ -94104,9 +94047,6 @@ terminator: ‘[end]’; end complementizer phrase
 ⚠ cheycıa -1 `en` @uakci #7wa47sQnC
 ▯ does ▯ without malicious intent / honestly (in one sense).
 
-⚠ cheytao -1 `en` @Laqme #UyZNe3wJG
-▯ performs trickery/deception ▯.
-
 ⚠ cheyteoq -1 `toa` @fagri #vxR6MyV7i
 Chuo chey ja teoq; Ja teoq bı, chıaı ke dü duafuı due hóa téoq
 
@@ -94122,11 +94062,11 @@ Chuo chey ja teoq; Ja teoq bı, chıaı ke dü duafuı due hóa téoq
 ⚠ chey -1 `toa` @uakci #gFUrdqSv0
 ja toı ja mu ja cuaq bı toı tóı mú pùoq tâo mú cúaq cy, ru la bu aoshao mú róu
 
-⚠ cheynhoy -1 `en` @Laqme #Z14tjxT3_
-▯ is a hoax.
+⚠ cheytao -2 `en` @Laqme #UyZNe3wJG
+▯ performs trickery/deception ▯.
 
-⚠ cheycua -2 `en` @uakci #bKPKza_gh
-▯ falls for trick / takes the bait of satisfying property ▯, thereby getting tricked into property ▯.
+⚠ cheynhoy -2 `en` @Laqme #Z14tjxT3_
+▯ is a hoax.
 
 ⚠ chıchey -1 `en` @uakci #EboXXQGM4
 ▯ fools/manipulates/gaslights ▯ into thinking ▯.
@@ -94368,9 +94308,6 @@ interjection: “oh no”; “no, no, no”; “this isn’t right”; “I’m 
 ⚠ gapygıba ± `en` @uakci #cWYfpoi0t
 ▯ appears out-of-place / feels awkward / doesn’t seem like it belongs / is off-beat/an odd-one-out among ▯.
 
-⚠ gaqsy -2 `en` @Hoemai #LgkRoz0IT
-▯ is a goose.
-
 ⚠ gekyı ± `en` @seaqtaq #DsF8Kg13b
 in state of affairs ▯, the semantic role of STIMULUS is assumed by ▯
 
@@ -94587,9 +94524,6 @@ jaonoı(lıe) ± `en` @Hoemai #WVKqhQ9e2
 ⚠ jeaqloy ± `en` @uakci #I525aiVtV
 ▯ (such as dough) rises (due to yeast and heat).
 
-⚠ jeaqnaby -2 `en` @Machy #3pkvqciaW
-▯ is a sandwich.
-
 ⚠ jeojy ± `en` @uakci #K1cliwY-l
 ▯ is a proposition whose first slot's referents and the property arising from removing the first slot are in relation ▯.
 
@@ -94755,9 +94689,6 @@ Head-initial performative illocution
 ⚠ kırısytochuaqkue ± `en` @Ilmen #N_xez8FMX
 ▯ is a bible.
 
-⚠ kırısytochuaq -2 `en` @Ilmen #gWkMZfl7x
-▯ is Christianity.
-
 ⚠ Kısymasy -2 `en` @Laqme #G1goVbhn1
 ▯ is Christmas.
 
@@ -94818,7 +94749,7 @@ kuaıruo(he) ± `en` @seaqtaq #Oced9WUUN
 ⚠ kuhachıkyq ± `en` @Machy #WzGf6v8C8
 ▯ is a nacho.
 
-⚠ kuqchey -1 `en` @Laqme #dsbniYHzK
+⚠ kuqchey -2 `en` @Laqme #dsbniYHzK
 ▯ tells lie ▯ (quote).
 
 ⚠ kuyjeo ± `en` @uakci #31yyi4A4Z
@@ -94841,9 +94772,6 @@ in state of affairs ▯, ▯ plays semantic role described by property ▯
 
 ⚠ ky -1 `en` @oldofficial #H5qFuH3dP_
 terminator: ‘[end]’; end free relative
-
-⚠ kyraısytychuaq -2 `en` @fagri #Uns4xbjzj
-▯ is Christianity
 
 ⚠ lagyba'ome ± `en` @salarua #vWxGAQ_uo
 ▯ is Lag BaOmer
@@ -94895,9 +94823,6 @@ loq(nemıeq)chuo -1 `en` @seaqtaq #yVSCN9IdI
 
 ⚠ loycıa -1 `en` @uakci #zYPELeuZ7
 ▯ is raw/uncooked/unprepared/fresh.
-
-⚠ loyq -2 `en` @akesi #0htjLRYMt
-▯ is an unused Toaq syllable ending.
 
 ⚠ luaqkıqmy ± `en` @Machy #S3trmc0sR
 ▯ is a video game cartridge or other physical instantiation of a video game.
@@ -95061,9 +94986,6 @@ hesitation
 ⚠ Myleısıygua -1 `en` @oldcountries #jxq-howPQUi
 ▯ is the country Malaysia.
 
-⚠ my -2 `en` @Laqme #H5SC9mrjz
-suffix: "a generic noun-ifier, to form things that are primarily associated with a certain verb". For example, **toemy** "knife", **tuımy** "seat", **nuoqmy** "mirror".
-
 ⚠ myfy -2 `en` @uakci #sn9QMzave
 interjection: ‘finally!’; ‘at last!’; ‘there we are!’
 
@@ -95087,9 +95009,6 @@ predicate: ‘bread’; ▯ is bread.
 
 ⚠ nabybeaq -1 `en` @Machy #zpcFnAVgU
 ▯ is a breadstick.
-
-⚠ nabyru -2 `en` @Machy #z2tSoL5i4
-▯ is a sandwich.
 
 naobuaq(moe) ± `en` @seaqtaq #lFd3zTbEE
 (fork of #zh_7vMEmt) ▯ feels as if they are repeatedly taking water in their hands, only to watch it consistently fall out (a specific type of frustration) 
@@ -95190,14 +95109,11 @@ pejorative demonstrative (points out / singles out a referent in a decrying/demo
 ⚠ nuty +1 `en` @el #tEIMSJm7Q
 ▯ is dregs/debris/remains
 
-⚠ nuy -1 `en` @Laqme #AzSH8Fz2S
+⚠ nuy -2 `en` @Laqme #AzSH8Fz2S
 ▯ "does back" to ▯ the relation ▯ (which the latter had previously done to the former).
 
 ⚠ nymea -1 `en` @uakci #_q_z8djKL
 focus marker: re-quantify the marked noun phrase, asserting that rather than for its entirety, the surrounding clause is satisfied for some pairwise disjoint groups which all together form the referents of the original noun phrase
-
-⚠ nyaq -2 `en` @Hoemai #d3hPBmI6y
-▯ is a coast/shore/bank.
 
 ⚠ nhaqnhaqly -1 `en` @mimiaoganhaqpy #MulCA5iln
 ▯ is a kitty cat.
@@ -95234,18 +95150,6 @@ focus marker: re-quantify the marked noun phrase, asserting that rather than for
 
 ⚠ olıqpıky ± `en` @Hydro #lkvsxPLAa
 ○ is Olympic
-
-⚠ Osyreılıa -2 `en` @oldcountries #OsXxEtx_8
-▯ pertains to the culture of Australia – Commonwealth of Australia.
-
-⚠ Osyreılıagua -2 `en` @oldcountries #WXNFVGFIbp
-▯ is the country Australia – Commonwealth of Australia.
-
-⚠ Osȳreılıa -2 `en` @oldcountries #oF2TtWJNc
-▯ pertains to the culture of Australia – Commonwealth of Australia.
-
-⚠ Osȳreılıagua -2 `en` @oldcountries #72Sw7tR5H9
-▯ is the country Australia – Commonwealth of Australia.
 
 ⚠ otakocy ± `en` @Machy #KyfRqZkHq
 ▯ is oatmeal.
@@ -95379,9 +95283,6 @@ pu(me)che -1 `en` @seaqtaq #GF7rf4cz-
 ⚠ pysy -1 `en` @uakci #ctXVBlOLY
 onomatopoeia for beckoning animals
 
-⚠ pyıkuaı -2 `en` @seaqtaq #jRi4UgxCN
-▯ is irritable
-
 ⚠ q̄ ± `en` @uakci #_y8bnCqVm
 hesitation
 
@@ -95391,7 +95292,7 @@ filler interjection; similar to "like" or "ummm" or "err"
 pỷıca, q̄, ché chỉetūa, q̄, jí da, q̄, je, q̄, jảjā lỏı jí q̄, hó da.
 A teacher, like, annoyed, like, me, and, like, I, like, totally hate him.
 
-⚠ radıosuy -1 `en` @Laqme #vwZSXb3dA
+⚠ radıosuy -2 `en` @Laqme #vwZSXb3dA
 ▯ is a radio wave.
 
 ⚠ rakygıaq ± `en` @robintown #Vd0PEM0gA
@@ -95622,9 +95523,6 @@ perfective aspect
 ⚠ taqkyı ± `en` @seaqtaq #tQwIiHuep
 in state of affairs ▯, the semantic roles of both AGENT and PATIENT are assumed by ▯
 
-⚠ tekyı -2 `en` @seaqtaq #LcgXdD729
-in state of affairs ▯, the semantic role of PATIENT is assumed by ▯
-
 ⚠ teqchey -1 `en` @uakci #8LcBW2PwY
 ▯ sets ▯ up for the purchase of ▯; ▯ lures ▯ into buying ▯ (e.g., with sensory marketing, subliminal cues…).
 
@@ -95733,9 +95631,6 @@ interjection: ‘uwu’
 ⚠ zaratushytyrachı -1 `en` @Ilmen #2eZ0mU3Cu
 ▯ is a Zoroastrian.
 
-⚠ zay -2 `en` @oldofficial #MTjlhBVsYf
-illocution: ‘[warning]’; warning illocution
-
 ⚠ zeoduaozy -2 `en` @Laqme #skYniC7Ae
 ▯ is fructose.
 
@@ -95754,11 +95649,11 @@ interjection: "no, I won't do as you say"
 ⚠ zuydea ± `en` @Laqme #W2JUayImA
 ▯ beats up / beats the hell out of ▯ (rendering the latter broken or badly hurt/damaged).
 
-⚠ zuy -1 `ja` @Laqme #7ShU1RZ10
-▯は壊れている／故障している
-
 ⚠ zuychoq -1 `en` @uakci #2kCPpfg_Z
 ▯ wears out ▯ to satisfy property ▯.
+
+⚠ zuy -2 `ja` @Laqme #7ShU1RZ10
+▯は壊れている／故障している
 
 ⚠ zy -1 `toa` @fagri #mPv94NRnR
 Sa raı bı, me go ▯ méa ▯ ga tïaojeo hóa ráı ▯ da
@@ -95941,7 +95836,7 @@ I moan because there’s pain in my arm.
 ⚠ Choa nháo kùı nôı baq noı pó fúy ga gıe da. -1 `en` @oldexamples #-NyIs8WqBHq
 They moan because there’s pain in their arm.
 
-⚠ Choa sóq koaq deo põı hıaodaısı -1 `en` @examples #wYgU5rH5kG
+⚠ Choa sóq koaq deo põı hıaodaısı -2 `en` @examples #wYgU5rH5kG
 (B0031) The oldest boy spoke carefully
 
 ⚠ Choa súq kùı nôı baq noı pó fúy ga gıe go. -1 `en` @oldexamples #1f2Fx64nsc0
@@ -95971,7 +95866,7 @@ My name is "Hana".
 ⚠ Chua shú ‹ Hana › jí da. -1 `en` @oldexamples #ajVFh-yL0EEK
 My name is "Hana".
 
-⚠ Chufaq kaı lú chıetua hóa míy -1 `en` @examples #Ag-bsRMU5O
+⚠ Chufaq kaı lú chıetua hóa míy -2 `en` @examples #Ag-bsRMU5O
 (B0035) Our teacher is writing
 
 ⚠ Chuq múy ba. -1 `en` @oldexamples #ICRKCPFiwZk
@@ -96130,7 +96025,7 @@ I promise I’ll join you today.
 ⚠ Gaq koıfa míy súq chíejıo nha ± `en` @examples #dP3syrLqA
 (B0199) We will walk to school with you
 
-⚠ Gaq súq míy ba ± `en` @examples #eaC-LTnYf
+⚠ Gaq súq míy ba -1 `en` @examples #eaC-LTnYf
 (B0343) Come with us
 
 ⚠ Geajeaq sóq doq deo põı hıeqtaq ± `en` @examples #S2qaADaZDg
@@ -96169,7 +96064,7 @@ By the time X happens, Y has already happened
 ⚠ hey no -1 `en` @Machy #Bm-KkYYvj
 ▯ is an adaptation/translation of ▯ into medium/format/genre/language ▯.
 
-⚠ Hıaı géo naq rüogı cy pũage -1 `en` @examples #KUQ2Q7i9h
+⚠ Hıaı géo naq rüogı cy pũage -2 `en` @examples #KUQ2Q7i9h
 (B0018) The kind old man laughed pleasantly
 
 ⚠ Hıo jí líq jĩa da. -1 `en` @oldexamples #Qfje3GLMLzU
@@ -96535,7 +96430,7 @@ Unfortunately for me, they don’t love me.
 ⚠ Luı jaq pua choaqjuq míy súq ± `en` @examples #SbWrwOxw_G
 (B0325) We have enjoyed your visit very much
 
-⚠ Luı muoı sĩy pó bé ga kıoq -1 `en` @examples #OKsMtHb7Xv
+⚠ Luı muoı sĩy pó bé ga kıoq -2 `en` @examples #OKsMtHb7Xv
 (B0045) The baby's ball has rolled away
 
 ⚠ Luı tıbufa ke pıa sü hó mí Jeıny ± `en` @examples #eO2CPaa5v_
@@ -96685,9 +96580,6 @@ Does Ciqshy think that it is good?
 ⚠ Ma muıdua súq shú ‹ tua › móq? ± `en` @examples #ge98F9KPrh-h
 Do you understand the word "tua"?
 
-⚠ Ma muıdua súq shú ‹ tua › moq. -2 `en` @oldexamples #vXxGOa5ZbK0I
-Do you understand the word "tua"?
-
 ⚠ Ma paı nháo mí Lıy moq. -1 `en` @oldexamples #QF8B0bC6sVUY
 Is he friends with Lee?
 
@@ -96748,7 +96640,7 @@ I'm feeling a lot of emotions right now.
 mı Maqtomuoı(tıaı) ± `en` @nozz #Nl8j1pVlE
 ‘mastermorphix’; ▯ is a mastermorphix twisty puzzle.
 
-⚠ Mıu cheaq paı múy nháo áq ± `en` @examples #StQW-cVMbc
+⚠ Mıu cheaq paı múy nháo áq -1 `en` @examples #StQW-cVMbc
 (B0655) We consider them our faithful friends
 
 ⚠ mı ▯ jí da. ± `tok` @mimiaoganhaqpy #r5IvZXwW1
@@ -97129,7 +97021,7 @@ There are many books that aren’t about anything.
 ⚠ Ruao jí súq bũ. -1 `en` @oldofficial #_DAqIT7bIDM
 I don't forgive you.
 
-⚠ Sa duı puı toame bı choa há tushı mea tá põı bu hıaodaısı -1 `en` @examples #ax7UOH9pf
+⚠ Sa duı puı toame bı choa há tushı mea tá põı bu hıaodaısı -2 `en` @examples #ax7UOH9pf
 (B0192) Too many unkind words are spoken thoughtlessly
 
 ⚠ saq jÅ«e -1 `en` @Laqme #RAVNxus3O
@@ -97219,11 +97111,8 @@ How many people sang beautifully?
 ⚠ Suoı rıaq tì ke hëy cuao hóa ní ± `en` @examples #qTsld1MDU1
 (B0074) Directly opposite stands a wonderful palace
 
-⚠ Suyduy cáıreo nıuboe põı nıaduy -1 `en` @examples #i6adsfaFF2
+⚠ Suyduy cáıreo nıuboe põı nıaduy -2 `en` @examples #i6adsfaFF2
 (B0033) Down fluttered the bright leaves
-
-⚠ Suyduy jãıge láıboe -2 `en` @examples #spkM9WBMhg
-(B0052) The flags are gaily fluttering
 
 ⚠ shuaınu jẽo +1 `en` @seaqtaq #NjxAqyGuM
 It really do be like that 
@@ -97357,7 +97246,7 @@ All those who watched the aforementioned movie liked it.
 ⚠ zâ X nä Y ± `en` @seaqtaq #ONVo7EfhX
 At the time of X happening, Y is about to happen
 
-⚠ Zuy réqmy pö núı deo -1 `en` @examples #t86-cKPm8k
+⚠ Zuy réqmy pö núı deo -2 `en` @examples #t86-cKPm8k
 (B0077) The little girl's doll is broken
 
 ⚠ X ru Y ru lıho -1 `en` @panWaja #fAV5rcNkN
