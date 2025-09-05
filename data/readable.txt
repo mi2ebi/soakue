@@ -917,6 +917,9 @@ anhaı +1 `en` @jiqci #utcASz2lf
 anhao ± `en` @uakci #jnmZ0b8ot
 interjection: awa
 
+anhaq ± `en` @cateyes #T9F9BJsYh
+▯ is an appendix/addendum
+
 anho +3 `en` @lassc #1r77LrqM3
 ▯ bumps/stumbles into ▯.
 
@@ -1450,6 +1453,9 @@ arane ± `ru` @SuperSpaceNiM #ucrpFgTGN
 
 aranekoaı ± `en` @Ilmen #5RIGDuOH2
 ▯ is a spiderweb.
+
+aranekoaıfuq ± `en` @jiqci #vBXPdGeIl
+▯ is an arachnoid mater.
 
 aranesuhu ± `en` @Ilmen #Hs0qJlR_O
 ▯ does whatever a spider pig does.
@@ -4196,6 +4202,9 @@ boefuq ± `en` @fagri #5qJ2eaFr-
 boehaq ± `en` @seaqtaq #aBABHGSiF
 ▯ is a pancake
 
+boehua ± `en` @jiqci #VHGy1WKp9
+▯ is a membrane.
+
 boejıo ± `en` @fagri #54NxJWLKU
 ▯ is a tent
 
@@ -6301,6 +6310,9 @@ caıjıo ± `en` @Laqme #CCsBLnMaj
 
 caıkaq ± `en` @Laqme #qqfZNyTYD
 ▯ stares at ▯.
+
+caıkerafuq ± `en` @jiqci #M8BkQhlYf
+▯ is a dura mater.
 
 caıkıa ± `en` @Laqme #52ClfFk2b
 ▯ is scarlet.
@@ -8941,6 +8953,9 @@ chaıtıq ± `en` @seaqtaq #Jv5NyX7Np
 
 chaıtıqceaı ± `en` @seaqtaq #I_XE-Hbe6
 ▯ suffers from a heart condition
+
+chaıtıqseraq ± `en` @jiqci #FzP4hBR9Q
+▯ suffers a heart attack.
 
 chaıtupa +1 `en` @Laqme #oObqHJ4uZ
 ▯ is a teapot.
@@ -19957,7 +19972,7 @@ Gamatoaq ± `en` @robintown #-iuAyjJCv
 gambıq +3 `en` @Laqme #IhsJyYcJb
 ▯ is a goat.
 
-gameı ± `en` @Laqme #Vw_tYL9c3
+gameı +1 `en` @Laqme #Vw_tYL9c3
 ▯ is teal / dark turquoise.
 
 gamhueq ± `en` @Laqme #xUQHkaP4c
@@ -22485,9 +22500,6 @@ goeqche ± `en` @Laqme #Or35GErx_
 
 goeqdıu ± `en` @Laqme #gCJ_fEa4L
 ▯ is masonry.
-
-goeqhua +1 `en` @jiqci #VoX1POKjv
-▯ is a membrane.
 
 goeqjam ± `en` @robintown #jBdMdWLvA
 ▯ is a wall clock.
@@ -28533,6 +28545,9 @@ huna ± `en` @Ilmen #sxlWtFxuh
 
 hunagıe ± `en` @Ilmen #imAFqIcDy
 ▯ is a tentacle.
+
+hunakerafuq ± `en` @jiqci #JMeegzySw
+▯ is a pia mater.
 
 hunı ± `en` @Machy #iI_knXtd_
 ▯ is disapproved of by the speaker.
@@ -37073,6 +37088,9 @@ kera +2 `en` @Hoemai #R9LcsT6WX
 kerafeqnhoq ± `en` @jiqci #T04FMX_xn
 ▯ is a cranial nerve.
 
+kerafuq ± `en` @jiqci #peLAsRVFA
+▯ is a meninx.
+
 keramoham ± `en` @jiqci #auUVQU-T9
 ▯ is a lobe of a brain.
 
@@ -37081,6 +37099,9 @@ kerapıu ± `en` @jiqci #48T7Aa7CS
 
 kerapıusaı ± `en` @jiqci #hguAuhl1A
 ▯ is cortisol.
+
+keraseraq ± `en` @jiqci #9SPJZKKui
+▯ suffers a stroke.
 
 keratanı ± `en` @jiqci #Y9QOQAsAK
 ▯ is a brain stem.
@@ -47800,6 +47821,9 @@ moaqde +1 `en` @Laqme #C4vraq47r
 
 moaqdeq ± `en` @Ilmen #KJLEckk5p
 ▯ is able to retrieve memory ▯.
+
+moaqfea ± `en` @evie #8OUpJ_7P3
+▯ experiences property ▯ and consequently is mentally affected by it for a long time
 
 moaqge ± `en` @uakci #svUgpjsXS
 ▯ is a reminder/trigger of memory ▯.
@@ -68317,7 +68341,7 @@ suaopaı +2 `en` @uakci #7txErX122
 suaose ± `en` @uakci #7rQY42Iah
 ▯ is a celebration / feast / ceremony / rite.
 
-suaosı ± `en` @Laqme #epolMN_yP
+suaosı +1 `en` @Laqme #epolMN_yP
 ▯ accounts for / considers / keeps in mind ▯.
 
 suaosoq ± `en` @seaqtaq #y6eGQrGIx
@@ -69017,6 +69041,12 @@ suqchosoq ± `en` @Laqme #8zrj3N9ja
 suqchuq ± `en` @jiqci #Q2Kd5KJEv
 ▯ is a spider.
 
+suqchuqkoaı ± `en` @jiqci #Ev0VB484r
+▯ is a spiderweb / cobweb.
+
+suqchuqkoaıfuq ± `en` @jiqci #oumoeIL6R
+▯ is an arachnoid mater.
+
 Suqda ± `en` @evie #NAH-pQ8fK
 ▯ pertains to Sunda culture, language, etc
 
@@ -69086,7 +69116,7 @@ suqsu +1 `en` @Machy #0Q2GjOnzO
 suqtuq ± `en` @uakci #8qSYssZ_T
 ▯ is y’all; ▯ is everybody; ▯ is any person who might be reading this.
 
-sura ± `en` @robintown #Y8NKdPy_o
+sura +1 `en` @robintown #Y8NKdPy_o
 ▯ includes / encompasses / extends over ▯.
 
 surıq ± `en` @Ilmen #faE--M-79xd
