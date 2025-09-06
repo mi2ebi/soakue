@@ -5222,7 +5222,7 @@ buebofuaı ± `en` @jiqci #Jdzu1UX6_
 buecıa ± `en` @Laqme #d0B4XpK7c
 ▯ is homeless / houseless / unhoused.
 
-buechoaq ± `en` @uakci #6KcR0auMo
+buechoaq +1 `en` @uakci #6KcR0auMo
 ▯ is a guest/visitor of where ▯ lives; ▯ is at ▯’s place.
 
 buechoaq ± `en` @Laqme #qoPmCBhXB
@@ -5285,8 +5285,11 @@ bueshıqdao ± `en` @seaqtaq #eCNPK04yC
 buetam ± `en` @robintown #fIKeArAFF
 ▯ is a den.
 
-buetı ± `en` @uakci #mf8OTPOeK
+buetı +1 `en` @uakci #mf8OTPOeK
 ▯ is at home; ▯ is where they live; ▯ is in their own house.
+
+buetı ± `en` @official #LjgTr2Xaq
+predicate: ‘at.home’; ▯ is at their home.
 
 buetı ± `en` @jiqci #NH0-Z2lHh
 ▯ is at ▯'s house/office/place; ▯ is chez ▯.
@@ -45852,11 +45855,14 @@ meakuaı ± `en` @uakci #xzIHPtGV4
 meakuq +3 `en` @Laqme #gt_dwViqx
 ▯ mentions ▯.
 
-meakuq -1 `en` @official #IA30cCM2tC
-predicate: ‘mention’; ▯ mentions ▯ to ▯.
+meakuq ± `en` @official #UGBNCXP0y
+predicate: ‘mention’; ▯ mentions ▯.
 
 meakuq ± `pl` @jiqci #SSyg2MCFu
 ▯ wspomina o ▯.
+
+⚠ meakuq -2 `en` @oldofficial #IA30cCM2tC
+predicate: ‘mention’; ▯ mentions ▯ to ▯.
 
 meakuqgı ± `en` @seaqtaq #8IXZnpzdk
 ▯ (text) is quotable
@@ -79027,6 +79033,9 @@ zearaı ± `en` @Laqme #uOc6LjKOK
 zeareq ± `en` @zearen #j0Y2jxtkp
 ▯ is criminally human
 
+zeasea +1 `en` @Laqme #ejon58Xpa
+▯ skips school / plays truant / blows off work.
+
 zeatao ± `en` @Laqme #AjOmeEc5Z
 ▯ commits crime / violation ▯.
 
@@ -79903,7 +79912,7 @@ zuedo ± `en` @nano #LMilaYVFW
 zuefıeq ± `en` @Laqme #u1nfoSfKy
 ▯ improvises / makes up ▯ on the spot.
 
-zuegıq +1 `en` @Laqme #pgLzMn2oZ
+zuegıq ± `en` @Laqme #pgLzMn2oZ
 ▯ permanently satisfies ▯.
 
 zuegoı ± `en` @uakci #3FCAvyIXZ
@@ -80005,7 +80014,7 @@ zufuom +1 `en` @seaqtaq #n2PVhqQ1i
 zugaı ± `en` @Ilmen #CGevWBFrh
 ▯ perceives language, coherent syntactic structures in stream of sounds/symbols ▯.
 
-zugoeq ± `en` @Laqme #foO3u7c2y
+zugoeq +1 `en` @Laqme #foO3u7c2y
 ▯ is a language barrier.
 
 zugoeqpoe ± `en` @Laqme #LF0ohEUra
@@ -80158,7 +80167,7 @@ zuocha -1 `en` @uakci #PU37dcnRl
 zuohı ± `en` @jiqci #F79pdxMah
 Why / for what purpose is ▯ the case?
 
-zuoı +2 `en` @Laqme #-N-kuynBL
+zuoı +1 `en` @Laqme #-N-kuynBL
 ▯ moves around / is in motion.
 
 zuoıcaq ± `en` @seaqtaq #zeO6aTj1w
