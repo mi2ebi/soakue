@@ -28,6 +28,9 @@ interjection: realization, "aha!"
 a'ala +1 `en` @Laqme #VrsW70rCc
 ▯ gargles.
 
+a'aloeze ± `en` @jiqci #b6G94194Q
+▯ is ‘a‘ā / aa lava.
+
 aba +2 `en` @Hoemai #sjRs1AtuX
 ▯ is a father/dad/daddy/papa.
 
@@ -16393,6 +16396,12 @@ duqtuao ± `en` @Laqme #r7qCH-36S
 dureum ± `en` @Laqme #XC4r-dGMn
 ▯ outwardly pretends / plays / puts on the "look" of satisfying property ▯.
 
+durıo ± `en` @Laqme #SNurx5eAQ
+▯ is a durian tree.
+
+durıom ± `en` @Laqme #nna5ltdRe
+▯ is a durian fruit.
+
 duru +2 `en` @Laqme #VLLStgOFF
 ▯ is a larva (distinct juvenile form undergone before metamorphosis into adult form).
 
@@ -19981,6 +19990,9 @@ gameı +1 `en` @Laqme #Vw_tYL9c3
 gamhueq ± `en` @Laqme #xUQHkaP4c
 ▯ is a rectangle.
 
+gamloeze ± `en` @jiqci #8e_0KwzYM
+▯ is block lava.
+
 gamroaıtoq ± `en` @jiqci #hLx9W8IH3
 ▯ is a cuboctahedron.
 
@@ -20604,6 +20616,9 @@ geceaı +1 `en` @seaqtaq #PHgQgUzUx
 
 gecıkı ± `en` @seaqtaq #mxc29y3t8
 ▯ is a sharp/distinct and intense stimulus
+
+gecuqhaı ± `en` @seaqtaq #UCZs9fngw
+▯ has already departed from ▯ due to some disturbing stimulus
 
 gecha ± `en` @Ilmen #xVvKX0dlK
 in proposition ▯, ▯ is a stimulus.
@@ -28161,6 +28176,9 @@ hue'o ± `en` @Ilmen #jOhTRwsoa
 
 huecea +1 `en` @Laqme #pr3L8Nx3t
 ▯ is a pillow / cushion.
+
+huecealoeze ± `en` @jiqci #koovAkSKo
+▯ is pillow lava.
 
 hueı +1 `en` @Laqme #ngSP2pxrg
 ▯ is a feather.
@@ -54344,7 +54362,7 @@ nuetaq ± `en` @uakci #0rQNQTjdh
 nuetaq ± `en` @Laqme #tgTgwLNLv
 ▯ resolves to do ▯.
 
-nuhao +1 `en` @Laqme #y3ws07bZ0
+nuhao +2 `en` @Laqme #y3ws07bZ0
 predicate: nullary **hao**
 
 nuhı ± `en` @Laqme #yZE5BH34_
@@ -56393,6 +56411,9 @@ paha +1 `en` @robintown #m3yh0Kj8w
 
 pahakuoq ± `en` @jiqci #Ea_WGPkGD
 ▯ is a femur.
+
+pahoehoe ± `en` @jiqci #UAh6wM8Xo
+▯ is pahoehoe lava.
 
 pahukorı ± `en` @Ilmen #G1cuHGyEd
 ▯ is a true bug of the Pyrrhocoris genus.
@@ -70258,9 +70279,6 @@ shetuq ± `en` @uakci #edV2cxiRf
 
 shéu +7 `en` @kazoo #WJvoMa722
 plural coordinator: range between (open interval)
-
-shëu +1 `en` @evie #lXoKDIw3D
-coordinates determiners; **sáq shëu jó hora** "three to four hours"
 
 sheu'acı ± `en` @jiqci #SWSAn2G0z
 ▯ is nitric acid HNO3.
