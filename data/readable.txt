@@ -10673,6 +10673,9 @@ chıqchuq ± `en` @Ilmen #LkfmjL6KV
 chıqdıu ± `en` @seaqtaq #YvaNBrJ3o
 ▯is entomology
 
+chıqhaosu ± `en` @cateyes #Hh00o3Jei
+▯ is artemisinin, a common drug for treating malaria
+
 chıqteı ± `en` @jiqci #js4HQhdp6
 ▯ is a cross (shape).
 
@@ -21061,6 +21064,9 @@ geu -1 `en` @uakci #tmQU2ucqM
 geuq- +1 `en` @Laqme #Vv5usI4AJ
 turn a number N into pseudo-number "less than or equal to N"
 
+gezuqhaı ± `en` @Lisaki #dEK1g-Tp9
+interjection: "bless you!", polite/well-meaning response to someone sneezing or coughing
+
 gı +1 `en` @official #PrzJDbBeD8
 predicate: ‘good’; ▯ is good.
 
@@ -23734,6 +23740,9 @@ guheıpoq ± `en` @Laqme #ujXgtVW5l
 guheıtoq ± `en` @jiqci #vCaSiK2vI
 ▯ is an icosahedron.
 
+guhıdochıqhaosu ± `en` @cateyes #Vz477XnZx
+▯ is dihydroartemisinin
+
 guhıdoshı'osı ± `en` @jiqci #Innf4s0BK
 ▯ is dihydrogen monoxide (an incredibly dangerous substance).
 
@@ -24502,7 +24511,7 @@ gusıoqcaısho ± `en` @Machy #dXkFVo5T-
 gusıoqfa ± `en` @Ilmen #Orf50dNCG
 ▯ bikes; ▯ bikes to ▯.
 
-gusıoqfa ± `en` @uakci #9DIjyECRk
+gusıoqfa -1 `en` @uakci #9DIjyECRk
 ▯ goes [FA] by bike.
 
 gusofa ± `en` @Ilmen #9ah7oaQZy
@@ -24960,6 +24969,9 @@ haoha ± `en` @fagri #DshLlNdd3
 
 haohao +1 `en` @Ilmen #VO90I1d_-
 ▯ is a thingamajig (a thing which the speaker doesn't know how to name or describe).
+
+haohaohao ± `en` @Laqme #dr025LjmY
+▯ does something-something / blah-blah-blah / so-and-so.
 
 haohuı ± `en` @uakci #IPoIKIC--
 ▯ is unwelcome/unsolicited/unappreciated/unwanted.
@@ -26259,6 +26271,9 @@ predicate: ‘die.from.laughter’; ▯ dies from laughter
 
 hıaına ± `en` @Ilmen #mKaKkEZsW
 ▯ is a hyena.
+
+hıaıpoaq ± `en` @Laqme #LhivcN4dQ
+▯ breaks into laughter / fails to contain their laughter.
 
 hıaıreum ± `en` @Laqme #WYaQ_XCRH
 ▯ performs stand-up comedy.
@@ -35598,7 +35613,7 @@ Kameruqgua ± `en` @countries #l5kabbWTs2S
 ⚠ Kameruqgua -1 `en` @oldcountries #Oct43MU4b7
 ▯ is the country Cameroon – Republic of Cameroon.
 
-⚠ Kamfaraglızu ± `en` @jiqci #Y4h7AWaH4
+Kamfaraqlızu ± `en` @jiqci #YTJVZqWe8
 ▯ is Camfranglais.
 
 kamhe ± `en` @uakci #7KQBxw7T1
@@ -43503,7 +43518,7 @@ loı ± `pl` @jiqci #7mPmlWuNAv
 loı ± `ru` @Amo #ss1ZKkyk4
 предикат: ‘ненавидеть’; ▯ ненавидит ▯.
 
-loıbaq +4 `en` @Ilmen #ICFYzHJ-Q
+loıbaq +3 `en` @Ilmen #ICFYzHJ-Q
 ▯ is the Lojban language.
 
 loıbaq ± `tok` @ijonetun #Sit3fA6Yw
@@ -52862,6 +52877,9 @@ nıqdao ± `pl` @jiqci #JU_et7dzeG
 ⚠ nıqdao -1 `en` @oldofficial #lKw2Oo0Yi
 predicate: ‘news’; ▯ are news.
 
+nıqdaoche ± `en` @Laqme #tJXNqIxBf
+▯ is a journalist.
+
 nıqdaoruaqche ± `en` @mimiaoganhaqpy #YWFD3joXC
 ▯ is a reporter.
 
@@ -54722,6 +54740,9 @@ nunu +3 `en` @uakci #LQUKwCmXb
 nunu -1 `en` @fagri #T1b7H-qGC
 ▯ expresses sympathy for ▯ ; ▯ uunmo ▯ (lojban)
 
+nununu ± `en` @Laqme #ZyIrJIxp0
+nullary verb: "blah blah blah"
+
 nunuq +1 `en` @Ilmen #mwWWSSwIN
 ▯ is a worm.
 
@@ -55316,6 +55337,9 @@ nhaqdeo ± `en` @seaqtaq #lYGXnH2a_
 
 nhaqdı +2 `en` @nano #PsCUGzRCI
 interjection: "hai", "hewwo"; (cutesy hi/hello)
+
+nhaqdu ± `en` @cateyes #3u53NLXfn
+▯ is a rhea/South American ostrich
 
 nhaqla ± `en` @mimiaoganhaqpy #rx0v8j2YK
 ▯ is a kitty-cat.
@@ -58112,6 +58136,9 @@ pıqso ± `fr` @zearen #xkwFqP6MP
 
 pıqtao ± `en` @uakci #eu6OJ8D0p
 ▯ pings ▯.
+
+pıranha ± `en` @cateyes #_eCSe6cKr
+▯ is a piranha
 
 pırı +1 `en` @Ilmen #kdNFJIxe_
 ▯ is annoyed, irritated by ▯.
@@ -66875,6 +66902,9 @@ sıqkeasheıtuasoıche +1 `en` @Ilmen #lZAyKATIX
 sıqla ± `en` @Laqme #fXXE0ac_D
 ▯ washes ▯.
 
+sıqlachoha ± `en` @jiqci #7V5fFTfB2
+▯ is lye.
+
 sıqmıq ± `en` @nozz #C5f7T0PTI
 predicate: ‘clean’; ▯ is clean/impeccable/spotless and has no impurities at all.
 
@@ -69145,6 +69175,9 @@ suqtuq ± `en` @uakci #8qSYssZ_T
 
 sura +1 `en` @robintown #Y8NKdPy_o
 ▯ includes / encompasses / extends over ▯.
+
+surao ± `en` @Laqme #Du1O0r20z
+▯ takes places alternatingly / taking turns with ▯ taking place.
 
 surıq ± `en` @Ilmen #faE--M-79xd
 ▯ is a syrinx.
@@ -73796,6 +73829,9 @@ teoq'aobı ± `en` @salarua #cAsFyMkgU
 teoqcua ± `en` @fagri #DIBxOjnR5
 ▯ answers question ▯ with answer ▯
 
+teoqche ± `en` @Laqme #QQv983KlL
+▯ is an interviewer.
+
 teoqdua ± `en` @uakci #lTkN4kqlH
 ▯ knows the answer to question ▯.
 
@@ -77187,6 +77223,9 @@ Property ▯ is almost universal among what has property ▯.
 
 tujuı ± `en` @el #vQ9RNcI1r
 determiner: 'almost all'
+
+tújuı ± `en` @Laqme #AoJR_KeTI
+determiner: "almost all"
 
 tujuıme ± `en` @uakci #4inv6Irai
 ▯ is a mass/group/aggregate of ▯ governed by the following law: it satisfies any property P just in case almost all of its members satisfy P.
