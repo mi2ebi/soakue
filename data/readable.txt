@@ -22918,6 +22918,9 @@ gosa ± `en` @Ilmen #bgLEIcvCL
 goso +1 `en` @Hoemai #Ahd6Z4UcZ
 ▯ is a member of genus Gallus (the junglefowls and the chicken).
 
+goso ± `en` @official #E-ES6GvtC
+predicate: ‘chicken’; ▯ is a chicken; ▯ is a member of genus Gallus.
+
 goso ± `en` @Laqme #8XI0JlhRk
 ▯ is a chicken.
 
@@ -27594,6 +27597,9 @@ hoha ± `en` @robintown #pavr16BPp
 
 hohao ± `en` @Ilmen #YRrsBubBz
 ▯ is he/she/them and the others.
+
+hoheo ± `en` @seaqtaq #1hKpajVt1
+determiner: "different" (plural quantifier)
 
 hoı- ± `en` @uakci #zUpk3aQ-r
 prefix: ‘PREV’; derives anaphoric pronouns referring to phrases headed by the specified stem
@@ -33461,6 +33467,9 @@ joja ± `en` @Ilmen #4NboY7W5M
 
 joja ± `toa` @Ilmen #l6wFC1ezY
 = jane ▯ péı jo.
+
+jójeq ± `en` @seaqtaq #E8Auzy4Zp
+determiner: "the same" (plural quantifier)
 
 jojıeq +1 `en` @Ilmen #VR480O1NV
 ▯ is a square.
@@ -43367,6 +43376,9 @@ loepuaobıu ± `en` @Ilmen #ogi4SZ8mW
 
 loeq +1 `en` @uakci #-E6dKlMwd
 ▯ cooks/is cooked.
+
+loeqbıo ± `en` @TheAndSys #A7xyFLZyk
+▯ is a cauldron
 
 loeqcıa ± `en` @Ilmen #LRMXKwml0
 ▯ is raw, uncooked, fresh food.
