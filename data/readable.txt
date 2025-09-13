@@ -1865,7 +1865,7 @@ baıche ± `en` @jiqci #Uahe_rJSV
 baıchoq ± `en` @uakci #EyBgqPusH
 ▯ uses ▯ as an ingredient.
 
-baıchuo -1 `en` @Machy #CPn0cjhEK
+baıchuo -2 `en` @Machy #CPn0cjhEK
 ▯ is a physical tool for purpose ▯.
 
 baıdıu +1 `en` @Ilmen #b5F7zZg7L
@@ -2012,7 +2012,7 @@ banadıum ± `en` @uakci #ngPX5GQAN
 banaku ± `en` @Hoemai #fmNhaA6By
 ▯ is a guanaco (Lama guanicoe).
 
-banana -1 `en` @Machy #bjdJTFzh8
+banana -2 `en` @Machy #bjdJTFzh8
 ▯ is a banana.
 
 banım +1 `en` @uakci #evzqqsiv2
@@ -4373,6 +4373,9 @@ bojuq ± `en` @Laqme #kosIocIVP
 boko +2 `en` @Laqme #AYiaqa8qg
 ▯ shoves / thrusts / slams / dunks / pushes / pulls / jams / hurls / slides ▯, making it satisfy ▯.
 
+bokoloaı ± `en` @jiqci #zuFlt4y0Y
+▯ is a rip current / riptide.
+
 bokotaq ± `en` @uakci #vhhCZa0Dk
 ▯ satisfies property ▯ in an energetic thrust/lurch.
 
@@ -6380,7 +6383,7 @@ caısua ± `en` @uakci #zb4KDy2Ec
 caısue ± `en` @Laqme #Pq7g43jmB
 ▯ begs/implores/urges ▯ to satisfy property ▯.
 
-caısho -1 `en` @Machy #RCfcJev1f
+caısho -2 `en` @Machy #RCfcJev1f
 ▯ does physical exercise.
 
 caıtaı ± `en` @jiqci #WrEY1DA6E
@@ -8327,7 +8330,7 @@ cuaq ± `tok` @nano #ZA0ZFWhHX
 cuaq ± `pl` @jiqci #-nRY-hURgZ
 ▯ to pojęcie spełniania własności ▯.
 
-cúaq +2 `en` @Laqme #9NfM8JXeD
+cúaq +3 `en` @Laqme #9NfM8JXeD
 determiner: “the concept/idea of satisfying X”
 
 cuaqbaq ± `en` @Ilmen #42bsnK6Pt
@@ -9371,7 +9374,7 @@ cheaq ± `tok` @nano #Qj70zkVen
 cheaq ± `pl` @jiqci #q5ecsyf7ra
 ▯ jest zaufany, ufa mu ▯.
 
-cheaq -1 `en` @Machy #WnzXdJID9
+cheaq -2 `en` @Machy #WnzXdJID9
 predicate: ‘trusty’; ▯ trusts ▯ to fulfill ▯.
 
 cheaqchı ± `en` @uakci #N7dUOE4oU
@@ -10577,6 +10580,9 @@ prefix: turns number N into a verb meaning ▯ happens N times
 chıo ± `en` @official #W6UgZ0gMaE
 predicate: ‘repeat’; ▯ repeats ▯ times.
 
+chıo +1 `en` @Laqme #dkdCxD6R2
+▯ (number) repetitions of ▯ happen in a row.
+
 chıo ± `toa` @uakci #sz-hyD0sa
 puıjeq dógu sa túq lu guo hóa dóshı ceı da
 
@@ -10591,9 +10597,6 @@ chıo ± `tok` @nano #pv-ADW0Wv
 
 chıo ± `pl` @jiqci #ipgO9LeUTe
 ▯ powtarza się ▯ razy.
-
-chıo ± `en` @Laqme #dkdCxD6R2
-▯ (number) repetitions of ▯ happen in a row.
 
 chıo -1 `toa` @Ilmen #ICjJlHAEq
 tuq guo go dóshı sa lú puıne dógu hóa
@@ -12698,7 +12701,7 @@ illocution: "isn't it?"
 dä +2 `en` @jiqci #KFx27mEl5
 illocution: corrective
 
-dä -1 `en` @Machy #P-3X2vVZG
+dä -2 `en` @Machy #P-3X2vVZG
 head-initial explanatory illocution
 
 dâ +1 `en` @official #WpPi0401LV
@@ -23851,11 +23854,11 @@ guja ± `en` @Ilmen #RZiOIs98C
 guja ± `toa` @Ilmen #S2iSclo03
 = jane ▯ péı gu. = gujeo ra gubu sa sa ▯.
 
-guja ± `en` @Machy #ztweaO7Gf
-▯ is the relation ▯.
-
 guja ± `ithkuil-iv` @uakci #wMCBPpa1o
 oţpıksıullêı tha
+
+guja -1 `en` @Machy #ztweaO7Gf
+▯ is the relation ▯.
 
 gujachue ± `en` @Ilmen #bUrn7fhPZ
 the relation ▯ is the composition of relation ▯ with relation ▯.
@@ -26098,13 +26101,13 @@ heroe ± `en` @robintown #lOWIbr65W
 heroe'aı ± `en` @robintown #AjQfV1ZE1
 ▯ is heroic.
 
-⚠ heroujıeq -1 `en` @Machy #IDzUFB73q
+⚠ heroujıeq -2 `en` @Machy #IDzUFB73q
 ▯ is an arrowhead.
 
 heru ± `toa` @uakci #VMbWNYgEz
 = **runaı**
 
-heruo -1 `en` @Machy #eg-irDjuR
+heruo -2 `en` @Machy #eg-irDjuR
 ▯ is an arrow.
 
 hesa ± `en` @Ilmen #SwynnpYMM
@@ -30414,7 +30417,7 @@ jaqbunaq ± `en` @salarua #Fdtr67BND
 jaqcıa ± `en` @Machy #yAV-s1NOa
 ▯ is abject (extremely lacking) in how much it satisfies ▯.
 
-jaqchoaımute -1 `en` @Machy #O446V8OXm
+jaqchoaımute -2 `en` @Machy #O446V8OXm
 ▯ is an apple product.
 
 jaqchu ± `en` @Ilmen #QsFDpXiSV
@@ -30441,10 +30444,10 @@ predicate: ‘to.different.degree’; ▯ is not the same amount as ▯ in prope
 jaqheo ± `pl` @jiqci #w9FmvfwdRt
 ▯ w innym stopniu niż ▯ spełnia własność ▯.
 
-jaqhıao -1 `en` @Machy #U-DPnj_dL
+jaqhıao -2 `en` @Machy #U-DPnj_dL
 ▯ is injured.
 
-jaqhıaote -1 `en` @Machy #bUVEsr2HW
+jaqhıaote -2 `en` @Machy #bUVEsr2HW
 ▯ is injured.
 
 jaqjaokaqhao ± `en` @jiqci #R3eCinZuk
@@ -41358,7 +41361,7 @@ laqrue ± `pl` @jiqci #UuqoTBYiTZ
 laqruoı ± `en` @seaqtaq #ccdNk8EKu
 ▯ is a high-pitched sound.
 
-laqruoı -1 `en` @Machy #0f17QVIjZ
+laqruoı -2 `en` @Machy #0f17QVIjZ
 ▯ is a low-pitched sound.
 
 laqruoq ± `en` @robintown #7wMGjTJiX
@@ -44916,7 +44919,7 @@ complementizer: ‘whether’; opens polar question subordinate clause
 ma'epıqꝡarı ± `en` @Ilmen #m9Sk-MkTR
 ▯ is a mapinguari.
 
-ma'ı -1 `en` @Machy #cd-k4p1yk
+ma'ı -2 `en` @Machy #cd-k4p1yk
 ▯ is romantic.
 
 ma'ıpaı ± `en` @Machy #cnGck-QNv
@@ -44928,7 +44931,7 @@ polarity: did you say … (yes/no)?
 mabala ± `en` @robintown #Ju1-MySBR
 ▯ is horrible/terrible/awful/wretched.
 
-mabea -1 `en` @Machy #zGmm7QIcb
+mabea -2 `en` @Machy #zGmm7QIcb
 ▯ is a magic wand.
 
 mabo ± `en` @seaqtaq #xxdKTLilh
@@ -46611,11 +46614,11 @@ mı ± `ja` @Laqme #nMP5O2OhY
 mı ± `tok` @el #5hMhdhuQH
 nimi nimi: kon sona pi "mı X" li ni: nimi ▯ li X
 
-mı -1 `en` @Machy #URH_Mj72Q
-predicatizer: ‘that/those.named’; turns following phrase X into predicate: ▯ is/are called X.
-
 ⚠ mı -1 `en` @oldofficial #38LclOsTA3R
 name verb: ‘called’; turns following phrase X into verb: ▯ is called X.
+
+mı -2 `en` @Machy #URH_Mj72Q
+predicatizer: ‘that/those.named’; turns following phrase X into predicate: ▯ is/are called X.
 
 mí +3 `en` @Isi #IfvZShzCx
 name pronoun: ‘NAME’; turns following word X into pronoun: the thing called X.
@@ -50567,7 +50570,7 @@ conjunction: "as much as"
 nanı +1 `en` @Hoemai #WQDyI_Lzt
 determiner: ‘that’; demonstrative; that X
 
-nanı -1 `en` @Machy #go7E6WbVg
+nanı -2 `en` @Machy #go7E6WbVg
 ▯ is something weebs say.
 
 nánı +2 `en` @robintown #9WxZGE8ys
@@ -51283,9 +51286,6 @@ neaochıaqca ± `en` @mimiaoganhaqpy #-Zd66GwlU
 
 neaoge ± `en` @Laqme #XQ0ROIS3Z
 ▯ is shameful / inspires shame.
-
-neaogıaı -1 `en` @jiqci #Ozu4ebSMP
-▯ rapes ▯.
 
 neaq +1 `en` @jiqci #tieHWr0xJ
 ▯ is a coast/shore/bank.
@@ -54701,7 +54701,7 @@ nulı +3 `en` @Ilmen #cHmMlbtNv
 nulı'uraq ± `en` @jiqci #cDh0Rc7Ls
 ▯ is pitchblende/uraninite.
 
-nulıbaı -1 `en` @Machy #bjnshH1DB
+nulıbaı -2 `en` @Machy #bjnshH1DB
 ▯ fries ▯.
 
 nulıcukı ± `en` @jiqci #xPGP4tq4Q
@@ -55752,7 +55752,7 @@ nhuaılıe ± `en` @Ilmen #t9ifhvWYx
 nhuaısı ± `en` @seaqtaq #x1Ibsd0ZP
 ▯ focuses on sensory stimulus ▯ (quale, raw sensory experience, neither the stimuli/cause thereof nor any proposition induced from it).
 
-nhuao -1 `en` @Machy #hkto5J1ju
+nhuao -2 `en` @Machy #hkto5J1ju
 personal pronoun: ‘they all’; 3rd person plural
 
 nhubı ± `en` @Ilmen #zKsxMJa2I
@@ -56403,11 +56403,11 @@ Ozı ± `en` @jiqci #e3eYaXmvR
 pa- ± `en` @uakci #RunxMd75v
 prefix: pre-fill the subject of the marked matrix clause verb with **súq** and require **ba** illocution (which may then be omitted, as ∅)
 
-pa -1 `en` @Machy #NWnIa5Z7w
-predicate: ‘it’; relative pronoun whose antecedent is the head of the containing relative clause.
-
 pa -1 `en` @el #6GYakxr1u
 argument fronter: takes a single argument (not an adverbial) to its left, and the verbal complex to its right; inserts the left argument between the verb and the first argument on the right
+
+pa -2 `en` @Machy #NWnIa5Z7w
+predicate: ‘it’; relative pronoun whose antecedent is the head of the containing relative clause.
 
 pá +2 `en` @Laqme #f_T-L2FKt
 illocution marker: imperative with elided súq subject
@@ -59004,6 +59004,9 @@ poqmea ± `en` @uakci #DCKQzpOyh
 poqmecuetaq ± `en` @Ilmen #oMZ6XAWJD
 ▯ is a democracy.
 
+poqna ± `en` @Laqme #kjab5Jn8Z
+▯ are people / folks / "guys".
+
 poqnıeq +4 `en` @Laqme #VvWC4m3OS
 ▯ is socially awkward / “bad with people”.
 
@@ -60123,7 +60126,7 @@ puqja ± `en` @Ilmen #8Np7woHUg
 puqjı ± `en` @Ilmen #Jv84bMLck
 ▯ is us, the ones that collectively made this speech.
 
-puqjı -1 `en` @Machy #WmShzpMPd
+puqjı -2 `en` @Machy #WmShzpMPd
 ▯ is we/us(exclusive).
 
 puqjıeq ± `en` @jiqci #BhlbYw9hr
@@ -61990,7 +61993,7 @@ rıeqgıq ± `en` @Laqme #3TrnlCjvX
 rıeqjara +1 `en` @Machy #WGCDrVQ6Q
 ▯ flees.
 
-rıeqjara -1 `en` @Machy #_JA3EkK7a
+rıeqjara -2 `en` @Machy #_JA3EkK7a
 ▯ flees from ▯.
 
 rıeqkueq ± `en` @uakci #UCnSWPDfQ
@@ -62587,7 +62590,7 @@ roaıkoroq -1 `en` @TheAndSys #AxXG4SGLD
 roaıpaqgıaqlaı ± `en` @jiqci #TAqoCkWlR
 ▯ is an eighth note / quaver.
 
-roaıpeoq -1 `en` @Machy #6v82puvPw
+roaıpeoq -2 `en` @Machy #6v82puvPw
 ▯ is oxygen.
 
 roaıpue ± `en` @Ilmen #4xPbPSfPH
@@ -64409,7 +64412,7 @@ sam ± `tlh` @evie #vpETxLSxr
 sama ± `en` @Ilmen #ebDbdvmVT
 ▯ is a social member of organization ▯ (state, association, club…).
 
-sama -1 `en` @Machy #t04MYvxvd
+sama -2 `en` @Machy #t04MYvxvd
 extremely formal name verb: turns following phrase X into verb: the esteemed ▯ is called X.
 
 samao ± `en` @uakci #C1IyJV2JF
@@ -65993,7 +65996,7 @@ sıaja +1 `en` @Ilmen #K8hPBXVOu
 sıaja ± `toa` @Ilmen #10-lgMGmk
 = jane ▯ síaseu. = jeo ra bu ▯.
 
-sıaja ± `en` @Machy #abqDJfEZg
+sıaja -1 `en` @Machy #abqDJfEZg
 ▯ is the proposition ▯.
 
 sıakeo ± `en` @uakci #1k4KoMG0r
@@ -68909,11 +68912,11 @@ determiner: ‘that’; second person / medial demonstrative
 suo- ± `en` @TheAndSys #vclzktXT8
 prefix: Similar to / in a similar manner as
 
-suo +1 `en` @Hoemai #Dla06PG0n
-▯ are you (you & some third party).
-
-suo -1 `en` @TheAndSys #G8DA3Z4Et
+suo ± `en` @TheAndSys #G8DA3Z4Et
 ▯ is idle, is doing nothing,
+
+suo -1 `en` @Hoemai #Dla06PG0n
+▯ are you (you & some third party).
 
 ⚠ súo -1 `en` @oldofficial #In5_tQfZOiG
 pronoun: ‘you.all’; 2nd + 3rd person personal pronoun
@@ -70721,14 +70724,14 @@ shıja ± `en` @Ilmen #Zue6bq30M
 shıja ± `toa` @Ilmen #5Z0qMyPBf
 = jane ▯ péı shı. = salı ra sıalı ▯. = jeo ra bu sa ▯.
 
-shıja ± `en` @Machy #qGtBOLEi-
-▯ is the property ▯.
-
 shıja ± `ithkuil-iv` @uakci #Mpu0VoG3z
 oţpızcıullêı tha
 
 shıja ± `tok` @el #yeFERahXk
 ▯ li toki pi lupa wan
+
+shıja -1 `en` @Machy #qGtBOLEi-
+▯ is the property ▯.
 
 shıjeo ± `en` @uakci #OGrIaN4sJ
 ▯ satisfy property ▯ distributively.
@@ -75617,7 +75620,7 @@ toalaqteı ± `en` @uakci #35Dv-Ds6R
 toalea ± `en` @el #BmqN8EXkV
 ▯ is a poem; ▯ is poetry
 
-toalea -1 `en` @Machy #CT53PDVvP
+toalea -2 `en` @Machy #CT53PDVvP
 ▯ is rhetoric.
 
 toaleaq ± `en` @Laqme #S6SD3XznL
@@ -79747,11 +79750,11 @@ polarity: neither true nor false
 zo -1 `en` @Machy #O_FIXvvne
 desirable wordform ▯ has inappropriate meaning ▯.
 
-zoa ± `en` @Snow #QI9MZVD9v
-▯ is edible part of plant ▯ (usually the main part eaten for nutritional value).
-
-zoa -1 `en` @Machy #cOMs0G2D9
+zoa ± `en` @Machy #cOMs0G2D9
 ▯ is a vegetable.
+
+zoa -1 `en` @Snow #QI9MZVD9v
+▯ is edible part of plant ▯ (usually the main part eaten for nutritional value).
 
 zoaı ± `en` @official #nGS5Ck9Bdp3
 predicate: ‘doubt’; ▯ doubts that ▯ is the case.
@@ -79918,7 +79921,7 @@ zuaosaq ± `en` @kazoo #UEJbBgS4-
 zuaoshıgu ± `en` @kazoo #-COQ-0PmZ
 ▯ is the first 2 layers in a Rubik's cube (F2L).
 
-zuaq ± `en` @Machy #YWrK4m14U
+zuaq -1 `en` @Machy #YWrK4m14U
 ▯ is the property ▯.
 
 zuataq ± `en` @seaqtaq #AgTyimjq6
@@ -90508,7 +90511,7 @@ Their kid drank beer on Monday.
 Pu pua pıe jí cháı da. ± `en` @examples #xZx9eTeoeG_
 I enjoyed drinking the tea.
 
-puq nhao -1 `en` @Machy #7ghy4mBnF
+puq nhao -2 `en` @Machy #7ghy4mBnF
 ‘they all’; 3rd person plural
 
 ⚠ Pú sea bı, naı guaı hó da. -1 `en` @oldexamples #n3xJwVTQnJZ
@@ -94030,7 +94033,7 @@ zue jearıaq ± `en` @robintown #RZ5_jZ8Nk
 ⚠ batıny ± `en` @salarua #QrcTu8_Bi
 ▯ is Beltane/May Day
 
-⚠ beaqnaby -1 `en` @Machy #uetxDNdAr
+⚠ beaqnaby -2 `en` @Machy #uetxDNdAr
 ▯ is a breadstick.
 
 ⚠ beojey -1 `en` @uakci #u3ePpkj06
@@ -94168,12 +94171,6 @@ in state of affairs▯, the semantic role of FORCE is assumed by ▯
 ⚠ cyhyduohua -1 `en` @akesi #yST4Gbx1F
 ▯ is a diaphragm.
 
-⚠ cyhyrıo -1 `en` @Machy #H5aoig3yo
-▯ is oxygen.
-
-⚠ cyrıpeoq -1 `en` @Machy #US8UUFp6b
-▯ is carbon.
-
 ⚠ cytao -1 `en` @uakci #SLYDsL7Di
 ▯ spits.
 
@@ -94182,6 +94179,12 @@ in state of affairs▯, the semantic role of FORCE is assumed by ▯
 
 ⚠ cy -1 `en` @oldofficial #_ngJPsOE7C
 terminator: ‘[end]’; end complementizer phrase
+
+⚠ cyhyrıo -2 `en` @Machy #H5aoig3yo
+▯ is oxygen.
+
+⚠ cyrıpeoq -2 `en` @Machy #US8UUFp6b
+▯ is carbon.
 
 ⚠ chaıheqmy ± `en` @uakci #BKXqEHWqx
 ▯ is a teapot (vessel for brewing tea)
@@ -94570,7 +94573,7 @@ jeq ja hey ja mu hey sa raq, keo huaq héy mú ja cuaq
 ⚠ heytuqfuaq ± `en` @uakci #kBl3GjfOr
 ▯ is an NFT (non-fungible token).
 
-⚠ hey -1 `en` @Machy #vv7hobms_
+⚠ hey -2 `en` @Machy #vv7hobms_
 ▯ is an instance/copy/version/translation of ▯ satisfying (unlike the latter) property ▯.
 
 ⚠ hısh(ı) -1 `en` @mimiaoganhaqpy #xGIQaNAnj
@@ -94819,10 +94822,10 @@ begin incidental clause commenting on enclosing sentence; binds **hóa** to refe
 ⚠ kary -1 `en` @uakci #rMQDtIj94
 I define
 
-⚠ kã -1 `en` @Machy #TdTD9W8WC
+⚠ kã -2 `en` @Machy #TdTD9W8WC
 Head-initial performative illocution
 
-⚠ keajoezyq -1 `en` @Machy #whorBPhhF
+⚠ keajoezyq -2 `en` @Machy #whorBPhhF
 ▯ is a task well-suited to machines, a mechanical task such as weaving or adding numbers, done by agent ▯.
 
 ⚠ kıboy ± `en` @el #9TIno0JFQ
@@ -94957,7 +94960,7 @@ Satisfying property ▯ does not prevent on from satisfying property ▯
 ⚠ lıuney ± `en` @Machy #80AR1puWV
 ▯ is abashed.
 
-⚠ lıy -1 `en` @Machy #HBGdb1XEb
+⚠ lıy -2 `en` @Machy #HBGdb1XEb
 ▯ finishes. (tenseless perfective aspect)
 
 loaırıo(saı) ± `en` @seaqtaq #N5p9iI0nQ
@@ -95032,7 +95035,7 @@ predicate: ‘meter’; ▯ is a meter.
 ⚠ meyq ± `en` @Ilmen #Rsz-9ts0x
 quantifierizer: convert a binary predicate relating two properties into a quantifier (with the ability to bind a variable).
 
-⚠ mıdısyko -1 `en` @Machy #PXMXtA1L_
+⚠ mıdısyko -2 `en` @Machy #PXMXtA1L_
 ▯ is Discord | Your Place to Talk and Hang Out.
 
 ⚠ mıetoaıloy ± `en` @uakci #fpUAsoU5-
@@ -95041,7 +95044,7 @@ quantifierizer: convert a binary predicate relating two properties into a quanti
 ⚠ mıezuy ± `en` @Machy #_daQ2R2yH
 ▯ is injured.
 
-⚠ mıjy -1 `en` @Machy #2LlH0BiKp
+⚠ mıjy -2 `en` @Machy #2LlH0BiKp
 predicatizer: 'those god(s) named'. Shows respect and reverence.
 
 ⚠ mıly ± `en` @Laqme #5Ra2PMjSu
@@ -95158,7 +95161,7 @@ interjection: ‘finally!’; ‘at last!’; ‘there we are!’
 ⚠ naby -1 `en` @oldofficial #NX9xRnhu_d
 predicate: ‘bread’; ▯ is bread.
 
-⚠ nabybeaq -1 `en` @Machy #zpcFnAVgU
+⚠ nabybeaq -2 `en` @Machy #zpcFnAVgU
 ▯ is a breadstick.
 
 naobuaq(moe) ± `en` @seaqtaq #lFd3zTbEE
@@ -95551,7 +95554,7 @@ quantifier: some X, if any
 ⚠ sekuqdıaqmety -1 `en` @uakci #kl1J6VgaA
 ▯ is 1 m/s.
 
-⚠ selydoy -1 `en` @Machy #UPU7iPNHi
+⚠ selydoy -2 `en` @Machy #UPU7iPNHi
 ▯ has beautiful phonotactics.
 
 seoq(gaı)chuo ± `en` @seaqtaq #otSQkpzXt
@@ -95614,7 +95617,7 @@ supaqkaı(doa) ± `ja` @guoqchoa #iO2fevk9y
 ⚠ syq -1 `en` @fagri #W-SvuUr06
 quantifier: same as "sa", but only quantifies over individuals
 
-⚠ sy -1 `en` @Machy #-8y9DLXwA
+⚠ sy -2 `en` @Machy #-8y9DLXwA
 terminator: terminate statement
 
 ⚠ shabu'oty -1 `en` @salarua #krYduF2Ce
@@ -95683,7 +95686,7 @@ in state of affairs ▯, the semantic roles of both AGENT and PATIENT are assume
 ⚠ tetoıkyı -1 `en` @seaqtaq #A9RIoL_SP
 in state of affairs ▯, the semantic roles of both AGENT and PATIENT are assumed by ▯
 
-⚠ tımoy -1 `en` @Machy #FpZ52Q-BK
+⚠ tımoy -2 `en` @Machy #FpZ52Q-BK
 ▯ is lost/misplaced.
 
 ⚠ toany ± `en` @Laqme #UkAolt8k0
@@ -95722,7 +95725,7 @@ separator: medial conjunction in polyadic forethought conjunction constructions:
 ⚠ toy ± `en` @fagri #eZDQhDYP8
 quantifier: same as "tu", but only quantifies over individuals
 
-⚠ toyjeı -1 `en` @Machy #3kQ5gZc-L
+⚠ toyjeı -2 `en` @Machy #3kQ5gZc-L
 predicatizer: ‘distributive identity’; turns following phrase X into predicate: ▯(individually) are X(individually).
 
 ⚠ tuakyı ± `en` @seaqtaq #OAvqCm1Bf
@@ -95809,7 +95812,7 @@ interjection: "no, I won't do as you say"
 ⚠ zy -1 `toa` @fagri #mPv94NRnR
 Sa raı bı, me go ▯ méa ▯ ga tïaojeo hóa ráı ▯ da
 
-⚠ zyqdaq -1 `en` @Machy #XpqZWvAOo
+⚠ zyqdaq -2 `en` @Machy #XpqZWvAOo
 ▯ is at the time it satisfies property ▯.
 
 ⚠ zyzy -2 `en` @Machy #FE3i35KQk
@@ -96212,7 +96215,7 @@ By the time X happens, Y has already happened
 ⚠ hey toaq -1 `en` @uakci #ZiUenUjyO
 ▯ is a Toaqification of ▯; ▯ is a Toaq translation/transliteration/transcription of ▯; ▯ is Toaqified.
 
-⚠ hey no -1 `en` @Machy #Bm-KkYYvj
+⚠ hey no -2 `en` @Machy #Bm-KkYYvj
 ▯ is an adaptation/translation of ▯ into medium/format/genre/language ▯.
 
 ⚠ Hıaı géo naq rüogı cy pũage -2 `en` @examples #KUQ2Q7i9h
