@@ -40592,7 +40592,7 @@ lacıq ± `en` @TheAndSys #dphztBky0
 ladoq ± `en` @Machy #0mNX8x_Ta
 ▯ is a lad.
 
-lagaı ± `en` @Laqme #A6U7yr9QM
+lagaı +1 `en` @Laqme #A6U7yr9QM
 ▯ perceives that ▯ is the case.
 
 lagaraqmoa ± `en` @jiqci #sSi2URg3A
@@ -58191,6 +58191,9 @@ pırıle ± `en` @Ilmen #Za11BgRXE
 pırıruaq ± `en` @Ilmen #vz_hd8WVV
 ▯ expresses complaint ▯ to ▯.
 
+pısachıo ± `en` @Laqme #CDjvzHT-2
+▯ is a pistachio nut.
+
 pısaı ± `en` @jiqci #x8tZ69_Ew
 ▯ is urea.
 
@@ -67368,7 +67371,7 @@ soashea ± `en` @lotofago #-uNzOOX-y
 soatoa ± `en` @Laqme #xaonq6M_A
 ▯ is a particle (word).
 
-soatoarıoq ± `en` @Laqme #goIPwng7S
+soatoarıoq -1 `en` @Laqme #goIPwng7S
 ▯ is a particle / function word class (e.g. Toaq's KU, the class containing ku, beı, tou…)
 
 soba ± `en` @Machy #gZFGhm9Vp
@@ -79926,6 +79929,9 @@ zuaq -1 `en` @Machy #YWrK4m14U
 
 zuataq ± `en` @seaqtaq #AgTyimjq6
 ▯ restrains/refrains/stifles oneself from satisfying property ▯
+
+zuatua ± `en` @seaqtaq #WDxIxr1y6
+▯, in trying to prevent ▯ from being the case, in fact brings about said state of affairs
 
 zuche ± `en` @uakci #DYNEdoXt2
 ▯ is a linguist/researcher of language(s).
