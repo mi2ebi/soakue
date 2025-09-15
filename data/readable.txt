@@ -10598,6 +10598,9 @@ chıo ± `tok` @nano #pv-ADW0Wv
 chıo ± `pl` @jiqci #ipgO9LeUTe
 ▯ powtarza się ▯ razy.
 
+chıo ± `en` @uakci #2Jb_OzFqf
+▯ repeats, happens in a row, is part of consecutive series of events ▯.
+
 chıo -1 `toa` @Ilmen #ICjJlHAEq
 tuq guo go dóshı sa lú puıne dógu hóa
 
@@ -14839,6 +14842,9 @@ dıu ± `pl` @jiqci #DKBW4pLsS
 
 dıu ± `ru` @SuperSpaceNiM #jguAYSfRc
 предикат: ‘наука’; ▯— область знаний, изучающая ▯; ▯ — наука.
+
+dıu ± `en` @Laqme #4QTfUHF-X
+▯ is science.
 
 dıu'aobı ± `en` @salarua #j5l9rrSwi
 ▯ is of the science fiction genre
@@ -30282,6 +30288,9 @@ jaokaıse ± `en` @Ilmen #gqhEutM-_
 jaokaqbıu ± `en` @Laqme #v2ib7O3Dl
 ▯ is a telescope.
 
+jaokeoı ± `en` @Laqme #7qygYVa_H
+▯ calls / has a call with ▯.
+
 jaokıao ± `en` @jiqci #d5qBS3b8E
 ▯ is a portal (i.e. a door/hole-like teleporter).
 
@@ -30314,6 +30323,9 @@ jaolaqchıu ± `en` @Laqme #HVEjW6Frr
 
 jaolaqchıu ± `en` @robintown #-UldjbR3k
 ▯ is a telephone number of ▯.
+
+jaolaqkeoı ± `en` @Laqme #sEtwq_QmN
+▯ talks on the phone with / calls ▯.
 
 jaolaqlaq ± `en` @uakci #q_bIwikqG
 ▯ is a ringtone.
@@ -39896,7 +39908,7 @@ kuku ± `en` @Ilmen #q1kCcALD5
 kukujam ± `en` @jiqci #wkAnT8Twb
 ▯ is a cuckoo clock.
 
-kulo +2 `en` @Ilmen #mXXJ3NuzM
+kulo +1 `en` @Ilmen #mXXJ3NuzM
 ▯ is a mosquito.
 
 kulobıa ± `en` @jiqci #frWebkRw8
@@ -44852,6 +44864,9 @@ luqnua +1 `en` @robintown #p06dfTIea
 
 luqse ± `en` @Laqme #_-7b7GP5p
 ▯ is some peace/quiet/calm.
+
+luqsıbı ± `en` @jiqci #HHffJryNW
+▯ is a vein.
 
 luqteı ± `en` @fagri #Fjx_eKRg7
 ▯ stands still / sits still / lies still / is still
@@ -55445,6 +55460,9 @@ nhebıju ± `en` @Laqme #Ey3bUod-L
 
 nhebıutıaı ± `en` @jiqci #iEat7x5fg
 ▯ is a barrel (unit of volume, equal to 42 US gallons or ~159 liters, symbol bbl, used to measure petroleum).
+
+nhebu +1 `en` @Laqme #uQGOz3mFS
+▯ is a mosquito.
 
 nhefaı ± `en` @uakci #640WmIcK7
 ▯ happens to a normal/average extent.
@@ -66263,6 +66281,9 @@ predicate: ‘sievert’; ▯ is a sievert
 sıbı ± `en` @jiqci #dujjjJ9kp
 ▯ is a blood vessel.
 
+sıbıbeq ± `en` @jiqci #_6u8MWhda
+▯ is an aneurysm.
+
 sıbımıa ± `en` @seaqtaq #AFeL6GoAJ
 ▯ is vascularized
 
@@ -67437,7 +67458,7 @@ soe ± `ja` @Laqme #em30WCQSw
 soe ± `pl` @jiqci #DFZ0e9I4SJ
 ▯ jest kwaśny.
 
-soeı +1 `en` @Laqme #OA4GOrslA
+soeı +2 `en` @Laqme #OA4GOrslA
 ▯ is disabled / has a disability.
 
 soeıchuo +1 `en` @lassc #5Zw3CF1AN
@@ -76355,7 +76376,7 @@ toıtu ± `en` @Laqme #LIixHZNDe
 toıtuq ± `en` @uakci #tRp3yhlB8
 ▯ are the things that each are with some of ▯ in relation ▯; ▯ is the co-image of ▯ under relation ▯.
 
-toje ± `en` @uakci #jDoi940a8
+toje -1 `en` @uakci #jDoi940a8
 ▯ is an arcane grammatical feature.
 
 tokeo ± `en` @Ilmen #8bowYiaLW
