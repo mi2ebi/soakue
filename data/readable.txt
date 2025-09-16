@@ -1547,6 +1547,9 @@ asu ± `ru` @SuperSpaceNiM #s6qKJHsXF
 asu ± `es` @TheAndSys #Vs9o0yZgp
 ▯ es un perro
 
+asu ± `pt` @mati #1Dr2Bl79O
+▯ é um cachorro.
+
 Asua ± `en` @funbreaker #rk_-AREFL
 ▯ pertains to Abkhaz culture.
 
@@ -2065,6 +2068,9 @@ baobego ± `en` @jiqci #-ak-N0PBz
 
 baobeq ± `en` @seaqtaq #iaIMxAF37
 ▯ is a white hole
+
+baobubua ± `en` @Lisaki #zr2KWW1Ic
+▯is rice porridge; occasionally refers to other light-coloured types of porridge
 
 baoca ± `en` @Laqme #C5Cy_37st
 ▯ dances a waltz.
@@ -5122,6 +5128,9 @@ bubeı ± `en` @uakci #owPf1SbLj
 
 bubu ± `en` @uakci #MnuNDywDB
 ▯ is not not the case; It's not the case that ▯ isn't the case; ▯ indeed is the case.
+
+bubua ± `en` @Lisaki #PqVa5Ufb_
+▯is a thick stew or soup; savoury or sweet, typically made from grains
 
 bubue ± `en` @official #1blPYXPIc39
 predicate: ‘B’; ▯ is the letter B.
@@ -10822,6 +10831,12 @@ a ▯ le gusta ▯
 
 cho ± `jbo` @Laqme #wqVCgwnMn
 ▯ nelci ▯
+
+cho ± `pt` @mati #PsGEHRqiu
+predicado: 'gostar'; ▯ gosta de ▯.
+
+cho'oq ± `en` @Lisaki #3nW_txH4X
+▯is rice porridge
 
 choa ± `en` @official #g4Klr-U2WY
 predicate: ‘utter’; ▯ utters ▯.
@@ -20191,6 +20206,9 @@ gaotı ± `en` @robintown #RrEazfX-Y
 gaotıa ± `en` @Ilmen #3YfYlt02P
 ▯ is halfway between above and behind ▯.
 
+gaoꝡoq ± `en` @jiqci #IM2pAvHnc
+▯ is a North Korean won.
+
 gaozıu ± `en` @el #e_bhuD8Or
 ▯ is a positive number
 
@@ -20460,6 +20478,9 @@ prefix: ‘DIM’; diminutive
 
 ge- ± `tr` @kazoo #F_pD0OL_g
 ön ek: küçültme eki, -cık/-cik/-cuk/-cük
+
+ge- ± `pt` @evie #Yb7bqIAdz
+sufixo diminutivo; -inho, -inha, -zinho, -zinha
 
 ge +1 `en` @official #32sCwXmSM
 predicate: ‘stimulus’; ▯ is a stimulus.
@@ -24424,6 +24445,9 @@ guqtoq ± `en` @Laqme #6PJx6v3CR
 guqtorea ± `en` @jiqci #9nUAhPphR
 ▯ is a plowshare/ploughshare.
 
+guqꝡoq ± `en` @jiqci #eXZCULPbn
+▯ is a South Korean won.
+
 guraı ± `en` @uakci #sHGHTVc6k
 ▯ are a couple (two to five) in number.
 
@@ -27384,6 +27408,9 @@ hoebeaq ± `en` @TheAndSys #TKjIOupbq
 
 hoebebejıo +1 `en` @Machy #VlQrPtHkA
 ▯ is an orphanage for raising Toaq monolinguals, as a psychological experiment.
+
+hoebo ± `en` @jiqci #U78w0IWmK
+▯ is a Toaqguan hoebo (unit of currency).
 
 hoeboe ± `en` @uakci #Spt91ys9K
 ▯ are sun disks / sun tokens / sun bills; ▯ is Toaqic currency.
@@ -31562,6 +31589,9 @@ jeqmaı ± `en` @seaqtaq #XGKvy7Y3Z
 
 jeqme ± `en` @Ilmen #dKKlxTvmg
 ▯ is uniform/homogenous.
+
+jeqmıqbı ± `en` @jiqci #t6-xPewr6
+▯ is a renminbi / Chinese yuan.
 
 jeqmoe ± `en` @Ilmen #eG64a2Rx_
 ▯ is zen.
@@ -36506,6 +36536,9 @@ kato ± `fr` @zearen #nC44Cx8Yq
 
 kato ± `es` @TheAndSys #902tIIAKm
 ▯ es un gato
+
+kato ± `pt` @mati #qCO_Bk3cz
+▯ é um gato.
 
 katoa +1 `en` @Laqme #ZR5YNSZXO
 ▯ is an illocution-marking particle (like **ka**, **da**, **moq**, etc).
@@ -46763,6 +46796,9 @@ mıaobıa ± `en` @el #NLTrjWStT
 
 mıaoboe ± `en` @uakci #CLBCQ9OlI
 ▯ is mooncake (flat round dough pastry filled with bean paste traditionally eaten during the Chinese autumn (festival)).
+
+mıaobubua ± `en` @Lisaki #VE8BKDbRZ
+▯is rice porridge; used in religious/spiritual context, referring to the ungarnished rice pudding meant to resemble the full moon served during religious rites
 
 mıaochoa ± `en` @uakci #2XxrrPOOD
 ▯ meows / miaows; ▯ makes a meowing sound.
@@ -64144,7 +64180,7 @@ sabuzıa ± `en` @uakci #kf9J9b--p
 sacuaq ± `en` @el #Wd0H-jAOE
 ▯ is a concept of something
 
-sacha +1 `en` @ijonetun #kQ1gDhn5F
+sacha +2 `en` @ijonetun #kQ1gDhn5F
 ▯ passes by/clears ▯
 
 sacheo +1 `en` @Laqme #Yci1resc-
@@ -70423,6 +70459,9 @@ shı ± `pl` @jiqci #PD97hMnaxD
 
 shı ± `tr` @kazoo #ggb9nCJGn
 ▯ sayıca birdir.
+
+shı ± `pt` @mati #hQeulKs_y
+predicado: 'um, uma'; ▯ é um (uma coisa, etc.) em número; tem um de ▯.
 
 shı'aı ± `en` @uakci #ryf_bgPPF
 ▯ are united/concordant/synergetic.
@@ -78603,6 +78642,9 @@ illocution: question/exclamation of disbelief
 
 ꝡeo ± `en` @Ilmen #hlIq56mfO
 ▯ is you-know-which ones with property ▯.
+
+ꝡeq ± `en` @jiqci #3ViornFDL
+▯ is a Japanese yen.
 
 ꝡera +1 `en` @Ilmen #i69YYtj1g
 ▯ is damaged, wounded, hurt.
