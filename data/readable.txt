@@ -32502,6 +32502,12 @@ jımduo ± `en` @robintown #SKFw304bc
 jıme ± `en` @el #uIxbHHZPa
 ▯ is us (used in a plural/DID/OSDD/etc context to indicate the full system and not the current speaker/fronter)
 
+jíme ± `en` @evie #hR_dmd9uG
+pronoun: we&, us&; all the members of a plural system
+
+jımebo ± `en` @evie #x19eXmadF
+▯ is ours&
+
 jímı ± `en` @jiqci #GSx5XF9Ge
 symbolic name pronoun: turns a whitespace-delimited string of symbols X into a pronoun: the thing with a code/designation/serial number X.
 
@@ -67614,6 +67620,9 @@ sogao +1 `en` @robintown #nDQJ4pyJ9
 sogaq ± `en` @uakci #MhNNhdslo
 ▯ is a delightful occurrence; ▯ is great news.
 
+soho ± `en` @evie #A6dtylIjG
+▯ is a sushi burrito
+
 soı ± `en` @official #_N4etWXDrI
 predicate: ‘fight’; ▯ fights with ▯; ▯ fights against ▯.
 
@@ -77652,6 +77661,9 @@ tuqko ± `en` @fagri #UQOJmtWJU
 
 tuqloı ± `en` @Machy #Zg-6H6qn7
 ▯ is abominable.
+
+Tuqlojıgua ± `en` @zearen #wX5hMpvNd
+▯ is Roljbogu'e
 
 tuqmaı ± `en` @fagri #y4FwYI_lf
 ▯ is pansexual (attracted to people of any gender)
