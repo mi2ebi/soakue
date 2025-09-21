@@ -23587,6 +23587,9 @@ Guatemalagua ± `en` @countries #mpe6dlOGGuK
 ⚠ Guatemalagua -1 `en` @oldcountries #3RTwGOvS1x
 ▯ is the country Guatemala – Republic of Guatemala.
 
+gubeboe ± `en` @jiqci #YpEB5nu3N
+▯ is a dicot.
+
 gubetoaı ± `en` @salarua #RFu6LSdRG
 ▯ is a member of species Agaricus bisporus (portobello mushroom)
 
@@ -32496,6 +32499,9 @@ jım +2 `en` @Laqme #8blsKPrFw
 jımboq ± `en` @kazoo #bR3X5LGzQ
 ▯ (legally) detains person ▯.
 
+jımchom ± `en` @jiqci #CvDobrGBl
+▯ is a mayfly (order Ephemeroptera).
+
 jımduo ± `en` @robintown #SKFw304bc
 ▯ lasts for a short amount of time / is brief.
 
@@ -32825,6 +32831,9 @@ jıqdua ± `tok` @el #mkGFjVzVf
 
 jıqdua ± `pl` @jiqci #rttdwWlURv
 ▯ wie, że ▯ istnieje.
+
+jıqgubeboe ± `en` @jiqci #iTne2_8aH
+▯ is a eudicot.
 
 jıqhaı ± `en` @Laqme #nlpdDVUhv
 ▯ already exists / is pre-existing.
@@ -38603,7 +38612,7 @@ kocuaq ± `en` @uakci #wjdHuOOrt
 koche ± `en` @Machy #SAPPbBDmg
 ▯ is an automobile/car.
 
-kochom ± `en` @jiqci #6tB4zXjH_
+kochu ± `en` @jiqci #Z8uh5cXKn
 ▯ is a beetle (order Coleoptera).
 
 kodo +1 `en` @robintown #q6RWLncIr
@@ -53213,6 +53222,9 @@ nıu ± `pl` @jiqci #SoR8zcHr6i
 nıube ± `en` @Laqme #XIRN7FgFw
 ▯ is a seedling.
 
+nıubeboe ± `en` @jiqci #qzKtDlshh
+▯ is a cotyledon.
+
 nıubepoaı ± `en` @Ilmen #Aq1nRG7Wo
 ▯ is a seed.
 
@@ -58484,6 +58496,9 @@ poaı ± `pl` @jiqci #VEM4Z1JBtj
 
 poaı'adı ± `en` @jiqci #G3fBCyx5q
 ▯ is lecithin.
+
+poaıjıu ± `en` @jiqci #G5-eXeSty
+▯ sprouts / germinates.
 
 poaıkıoq ± `en` @seaqtaq #OMMsCJ32t
 ▯ is an egg
@@ -66149,6 +66164,9 @@ sıao'ıq ± `en` @uakci #mA9a8FM3v
 sıaobo ± `en` @seaqtaq #JisDEyaro
 ▯ has beginning ▯
 
+Síaobom ± `en` @Laqme #3JSWnEAAP
+the Big Bang
+
 sıaoce ± `en` @seaqtaq #dGdcwPv2F
 ▯ is a head node/root; ▯ is the node at the beginning of a data structure
 
@@ -70591,6 +70609,9 @@ predicate: ‘leg.cramp’; ▯ is a sudden leg cramp/charley horse
 
 shıaqtıe ± `en` @robintown #YBhemfdGr
 ▯ is a legging/stocking.
+
+shıbeboe ± `en` @jiqci #IPIPp7miB
+▯ is a monocot.
 
 shıbo ± `en` @Laqme #-YED36uZN
 ▯ is privatized / privately owned.
