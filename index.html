@@ -31,19 +31,19 @@
     <p><code>= head</code> searches just the words themselves. there are a couple fancy things you can do with this:</p>
     <div class="indent">
       <p>
-        <code>*</code> matches anything (or nothing, i.e. it's <code>/.*/</code>)<br />
-        <code>?</code> matches any single letter, <code>/[aeıoumpbfntdczsrljꝡqkg'h]|[ncs]h/i</code><br />
         <code>CVFQ</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note
         that <code>VV</code>&nbsp;⊋&nbsp;<code>F</code>)<br />
         <code>R</code> matches a raku<br />
         <code>_</code> matches a space<br />
-        <code>()[]|</code> work like in <a
+        everything else works like in <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern">regex</a>
       </p>
     </div>
     <div class="indent">
       <p>
-        <code>i</code> → <code>ı</code>, <code>vw</code> → <code>ꝡ</code>, <code>x</code> → <code>'</code><br />
+        <code>i</code> → <code>ı</code><br />
+        <code>vw</code> → <code>ꝡ</code><br />
+        <code>x</code> → <code>'</code><br />
         <code>.</code> → <code>◌̣</code><br />
         <code>1234</code> → <code>◌̀◌́◌̈◌̂</code>
       </p>
@@ -57,6 +57,7 @@
     <p><code>^ score</code> finds definitions with at least +<i>x</i> votes. you can do <code>!^</code> for less than
       <i>x</i>, and <code>^=</code> for exactly <i>x</i>.
     </p>
+    <p><code>w</code> finds words that are Bad (from older versions of toaq etc)</p>
     <h2>things you can't do here</h2>
     <p>anything that requires logging in</p>
   </details>
