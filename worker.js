@@ -6,7 +6,9 @@ const orders = {
   random: true,
   alpha: (a, b) => dict.indexOf(a[0]) - dict.indexOf(b[0]),
   newest: (a, b) => new Date(b[0].date) - new Date(a[0].date),
-  score: (a, b) => b[0].score - a[0].score
+  oldest: (a, b) => new Date(a[0].date) - new Date(b[0].data),
+  highest: (a, b) => b[0].score - a[0].score,
+  lowest: (a, b) => a[0].score - b[0].score
 }
 function shuffle(a) {
   for (let i = a.length - 1; i > 0; i--) {
@@ -18,26 +20,33 @@ function shuffle(a) {
 function search(q) {
   let terms = q.split(" ");
   terms = terms.map(term => {
-    let [_, operator, query] = term.match(/^(==|[=~@#/$!^-]|[a-z]*:)(.*)/) ?? [];
+    let [_, operator, query] = term.match(/^([=~@#/$!^-]|[a-z]*:)(.*)/) ?? [];
     if (!operator) return { op: "", orig: term, value: term.toLowerCase() };
     let colon = operator.endsWith(":");
     operator = operator.replace(/:$/, "");
-    const operators = ["head", "body", "user", "score", "id", "scope", "arity", "not", "order"];
+    const operators = ["head", "body", "user", "score", "id", "scope", "arity", "not", "order", "ord", "warn", "w"];
     if (colon && !operators.includes(operator))
-      return error`bu jıq mıjóaıchase ${operator}`;
+      return error`${operator} is not an operator`;
     if (["/", "arity"].includes(operator) && !/^[0-9]?$/.test(query))
-      return error`bu tıozıu mí ${query} (kïo tıao máo kóam kı)`;
+      return error`${query} ∉ ℕ₀`;
     if (["^", "score"].includes(operator) && isNaN(query.replace(/^=/, "")))
-      return error`bu zıu mí ${query.replace(/^=/, "")}`;
+      return error`${query.replace(/^=/, "")} is not a number`;
     if (["head", "=", "~"].includes(operator)) {
       let regex = queryToRegex(query);
       if (regex.err) return regex;
     }
+    if (operator == "w")
+      operator = "warn";
+    if (operator == "warn" && query) {
+      return error`${"warn"} does not accept arguments, it's a flag`;
+    }
+    if (operator == "ord")
+      operator = "order";
     if (operator == "order") {
       if (terms.length == 1)
-        return error`nhoa né nî joaıteoq da. dıese, muana, mí ${"~"}`;
+        terms.push({ op: "~", orig: "", value: "" });
       if (!orders[query])
-        return error`bu chase suım mí ${query}`;
+        return error`${query} is not an ordering`;
     }
     return {
       op: operator,
@@ -46,7 +55,7 @@ function search(q) {
     };
   });
   if (terms.filter(t => t.op == "order").length > 1)
-    return error`bu daı gạoshı pó mí ${"order"}`;
+    return error`it is not possible to have multiple ${"order"}s`;
   let err = terms.find(t => t.err);
   if (err) return err;
   let excluded = terms
@@ -93,6 +102,7 @@ function search(q) {
         || ["$", "scope"].includes(op) && entry.scope.toLowerCase() == value.toLowerCase()
         || ["/", "arity"].includes(op) && arities.includes(+value)
         || ["^", "score"].includes(op) && (entry.score >= value || entry.score == value.replace(/^=/, ""))
+        || op == "warn" && entry.warn
         || ["!", "-", "not"].includes(op)
       ) return 0.1;
     })
@@ -114,11 +124,10 @@ const vowel_match = `(?:[${vowels}][${tones}]?${underdot}?)`;
 const init_consonants = `(?:[mpbfntdczsrljꝡkg'h]|[ncs]h)`;
 const letter = `(?:${vowel_match}|${init_consonants}|q)`;
 const finals = `[mq]`;
-const diphthongs = `([aeo]ı|ao)`;
-const raku = `((?<= |^)|${init_consonants})${vowel_match}?(${diphthongs}|${vowel_match}${finals}?)`;
+const diphthongs = `(?:[aeo]ı|ao)`;
+const raku = `(?:(?<= |^)|${init_consonants})${vowel_match}?(?:${diphthongs}|${vowel_match}${finals}?)`;
 let substitutions = {
-  '*': '.*',
-  '?': letter,
+  'X': letter,
   'C': init_consonants,
   'V': vowel_match,
   'F': diphthongs,
@@ -176,17 +185,18 @@ const normalize_query = memoize((w, lowercase = true) =>
 // handle prefix hyphens
 const compareish = (query, word) => query == word || query == word.replace(/-$/, "");
 const char_regex = new RegExp(`${char_match}`, "iug");
-const char_brackets_regex = new RegExp(`\\[${char_match}*?\\]`, "iug");
+const char_brackets_regex = new RegExp(`\\[(?!^)${char_match}*?\\]`, "iug");
 const queryToRegex = memoize((query, anchored = true) => {
   // due to [...] not being true character classes, we can't directly substitute them
   // and instead have to turn [abc] into (a|b|c)
   let compiled = query
-    .replace(char_brackets_regex, c => `(${c.slice(1, -1).match(char_regex)?.join("|") ?? ''})`)
-    .replace(char_regex, c => substitutions[c] ?? c)
+    .replace(char_brackets_regex, c => `(?:${c.slice(1, -1).match(char_regex)?.join("|") ?? ''})`)
+    .replace(char_regex, c => substitutions[c] ?? c);
+  console.log(compiled)
   // Rather than attempting to deal with invalid regexes manually, just let javascript barf if something goes wrong
   // -? is added to the end to allow for prefix hyphens
   try {
-    let regex = new RegExp(anchored ? `^(${compiled})-?$` : `(${compiled})-?`, "ui");
+    let regex = new RegExp(anchored ? `^(?:${compiled})-?$` : `(?:${compiled})-?`, "ui");
     return regex;
   } catch (e) {
     return error`bu sekogeq mí ${query}`;

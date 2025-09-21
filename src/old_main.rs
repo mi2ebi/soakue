@@ -1,35 +1,24 @@
 #![allow(dead_code)]
 
+use std::{fs, sync::LazyLock, time::Duration};
+
 use itertools::Itertools as _;
 use regex::bytes::Regex;
 use reqwest::blocking::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
-use std::{fs, sync::LazyLock, time::Duration};
 use unicode_normalization::UnicodeNormalization as _;
 
 pub fn main() {
-    let client = Client::builder()
-        .timeout(Duration::from_secs(60))
-        .build()
-        .unwrap();
+    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
-    let res = client
-        .post("https://toadua.uakci.space/api")
-        .body(query)
-        .send();
+    let res = client.post("https://toadua.uakci.space/api").body(query).send();
     let text = res.unwrap().text().unwrap();
     let dict = dictify(&text);
     let dict_str = to_string(&dict).unwrap();
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
-    fs::write(
-        "data/all.txt",
-        dict.iter()
-            .map(|toa| toa.head.clone())
-            .collect_vec()
-            .join("\r\n"),
-    )
-    .unwrap();
+    fs::write("data/all.txt", dict.iter().map(|toa| toa.head.clone()).collect_vec().join("\r\n"))
+        .unwrap();
     fs::write(
         "data/readable.txt",
         dict.iter()
@@ -60,13 +49,11 @@ static PALATAL: LazyLock<Regex> = LazyLock::new(|| Regex::new("([ncsNCS])[hH]").
 const TONES: &str = "\u{0300}\u{0301}\u{0308}\u{0302}";
 const CONSONANTS_STR: &str = "[bcdfghjklmnpqrstvz'ʰBCDFGHJKLMNPQRSTVZ]";
 const VOWELS_STR: &str = "[aeiouAEIOU]";
-// static CONSONANTS: LazyLock<Regex> = LazyLock::new(|| Regex::new(CONSONANTS_STR).unwrap());
+// static CONSONANTS: LazyLock<Regex> = LazyLock::new(||
+// Regex::new(CONSONANTS_STR).unwrap());
 static VOWELS: LazyLock<Regex> = LazyLock::new(|| Regex::new(VOWELS_STR).unwrap());
 static FIND_STEM: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        "[{TONES}]?\u{0323}({VOWELS_STR}*{CONSONANTS_STR}*{VOWELS_STR})"
-    ))
-    .unwrap()
+    Regex::new(&format!("[{TONES}]?\u{0323}({VOWELS_STR}*{CONSONANTS_STR}*{VOWELS_STR})")).unwrap()
 });
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
@@ -96,27 +83,22 @@ fn dictify(the: &str) -> Vec<Toa> {
             )
         })
         .map(|(info, toa)| {
-            (
-                info.clone(),
-                Toa {
-                    warn: ([
-                        "ae", "au", "ou", "nʰi", "vi", "vu", "aiq", "aoq", "eiq", "oiq",
-                    ]
+            (info.clone(), Toa {
+                warn: (["ae", "au", "ou", "nʰi", "vi", "vu", "aiq", "aoq", "eiq", "oiq"]
                     .iter()
                     .any(|v| info.0.contains(v))
-                        || !MADE_OF_RAKU.is_match(info.0.as_bytes())
-                        || toa.head.chars().any(|c| {
-                            !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
-                              AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
-                              .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
-                                .contains(c)
-                        })
-                        || toa.user.starts_with("old"))
-                        && !toa.body.contains("textspeak")
-                        && !toa.notes.iter().any(|n| n.content.contains("textspeak")),
-                    ..toa
-                },
-            )
+                    || !MADE_OF_RAKU.is_match(info.0.as_bytes())
+                    || toa.head.chars().any(|c| {
+                        !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
+                          AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
+                          .,?!-\u{0323}()«»‹›\u{0301}\u{0308}\u{0302}"
+                            .contains(c)
+                    })
+                    || toa.user.starts_with("old"))
+                    && !toa.body.contains("textspeak")
+                    && !toa.notes.iter().any(|n| n.content.contains("textspeak")),
+                ..toa
+            })
         })
         .sorted_by_key(|(info, _)| info.clone())
         .map(|(_, toa)| toa)
@@ -157,9 +139,7 @@ pub fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {
         if !word.contains(|c| format!("\u{0323}{TONES}").contains(c)) {
             moved.push(
                 String::from_utf8(
-                    VOWELS
-                        .replace(word.as_bytes(), "$0\u{0300}".as_bytes())
-                        .to_vec(),
+                    VOWELS.replace(word.as_bytes(), "$0\u{0300}".as_bytes()).to_vec(),
                 )
                 .unwrap(),
             );
@@ -192,19 +172,12 @@ pub fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {
     if moved.ends_with('-') {
         *tones.iter_mut().last().unwrap() = 9;
     }
-    let head = moved
-        .replace(|c| TONES.contains(c), "")
-        .trim_end_matches('-')
-        .to_string();
+    let head = moved.replace(|c| TONES.contains(c), "").trim_end_matches('-').to_string();
     (head, tones, nat_indices)
 }
 
-fn t2n(c: char) -> usize {
-    TONES.chars().position(|t| t == c).unwrap() + 1
-}
-fn n2t(n: usize) -> char {
-    TONES.chars().nth(n - 1).unwrap()
-}
+fn t2n(c: char) -> usize { TONES.chars().position(|t| t == c).unwrap() + 1 }
+fn n2t(n: usize) -> char { TONES.chars().nth(n - 1).unwrap() }
 
 #[derive(Deserialize, Serialize)]
 struct Toadua {

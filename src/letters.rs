@@ -1,6 +1,8 @@
-use crate::UNDERDOT;
 use std::{iter::Peekable, str::Chars};
+
 use unicode_normalization::{Decompositions, UnicodeNormalization as _};
+
+use crate::UNDERDOT;
 
 #[derive(Debug, PartialEq, Eq)]
 pub enum Error {
@@ -54,11 +56,7 @@ impl TryFrom<char> for Letter {
     type Error = Error;
 
     fn try_from(value: char) -> Result<Self, Self::Error> {
-        match value
-            .to_lowercase()
-            .next()
-            .expect("Lowercase should be single character")
-        {
+        match value.to_lowercase().next().expect("Lowercase should be single character") {
             '\'' => Ok(Self::Aomoi),
             'a' => Ok(Self::A),
             'b' => Ok(Self::B),
@@ -117,8 +115,8 @@ pub fn filter(x: char) -> bool {
     !x.is_whitespace() && !['*', '-', '.', ',', '!', '?', '«', '»', '"'].contains(&x)
 }
 
-/// An "iterator" over a string's `Graph`emes. Returns `MaybeGraph` to encode the possibility of
-/// finishing with failure instead of succesful iteration.
+/// An "iterator" over a string's `Graph`emes. Returns `MaybeGraph` to encode
+/// the possibility of finishing with failure instead of succesful iteration.
 pub struct GraphsIter<'a> {
     base: Peekable<Decompositions<Chars<'a>>>,
     lowest_tone: Tone,
@@ -126,16 +124,9 @@ pub struct GraphsIter<'a> {
 
 impl<'a> GraphsIter<'a> {
     pub fn new(string: &'a str) -> Self {
-        let lowest_tone = if string.contains('\u{0300}') {
-            Tone::None
-        } else {
-            Tone::Verb
-        };
+        let lowest_tone = if string.contains('\u{0300}') { Tone::None } else { Tone::Verb };
 
-        Self {
-            base: string.nfd().peekable(),
-            lowest_tone,
-        }
+        Self { base: string.nfd().peekable(), lowest_tone }
     }
 
     pub fn next(&mut self) -> GraphResult {
@@ -173,16 +164,10 @@ impl<'a> GraphsIter<'a> {
         let mut underdot = false;
 
         // Tone and underdot characters are always after the letter.
-        self.base
-            .next_if(|next| tone_or_underdot(*next, &mut tone, &mut underdot));
-        self.base
-            .next_if(|next| tone_or_underdot(*next, &mut tone, &mut underdot));
+        self.base.next_if(|next| tone_or_underdot(*next, &mut tone, &mut underdot));
+        self.base.next_if(|next| tone_or_underdot(*next, &mut tone, &mut underdot));
 
-        GraphResult::Ok(Grapheme {
-            tone,
-            letter,
-            underdot,
-        })
+        GraphResult::Ok(Grapheme { tone, letter, underdot })
     }
 
     pub fn will_fail(&mut self) -> bool {
@@ -198,8 +183,8 @@ impl<'a> GraphsIter<'a> {
     }
 }
 
-/// Modifies `tone` and `underdot` if `chr` is either an underdot character or a tone character.
-/// Returns true only if this happens.
+/// Modifies `tone` and `underdot` if `chr` is either an underdot character or a
+/// tone character. Returns true only if this happens.
 const fn tone_or_underdot(chr: char, tone: &mut Tone, underdot: &mut bool) -> bool {
     match chr {
         '\u{0300}' => {

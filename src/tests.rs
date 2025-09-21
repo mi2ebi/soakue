@@ -1,9 +1,12 @@
-use crate::toadua::Toa;
-use itertools::Itertools as _;
 use std::collections::{hash_map::Entry, HashMap};
 
-/// Used to test all possible orders of a slice. This is important because we are performing sorting
-/// tests, and we want to ensure that the orders picked for testing are not biased for success
+use itertools::Itertools as _;
+
+use crate::toadua::Toa;
+
+/// Used to test all possible orders of a slice. This is important because we
+/// are performing sorting tests, and we want to ensure that the orders picked
+/// for testing are not biased for success
 fn permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &[T], fun: F) {
     let mut current_perm = slice.to_vec();
 
@@ -11,8 +14,8 @@ fn permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &[T], fun: F) {
     heap_permute(&mut current_perm, len, fun);
 }
 
-/// This does the actual permuation. I just didn't want to be using a function with a parameter that
-/// will always be `something.len()`.
+/// This does the actual permuation. I just didn't want to be using a function
+/// with a parameter that will always be `something.len()`.
 fn heap_permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &mut Vec<T>, n: usize, fun: F) {
     if n == 1 {
         fun(slice.clone());
@@ -60,11 +63,7 @@ fn tone_ordering() {
     let words = toa!["é", "e", "ê", "ë", "è", "e-", "a"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
         assert_eq!(&["a", "e-", "e", "è", "é", "ë", "ê"], words.as_slice());
     });
@@ -75,11 +74,7 @@ fn word_ordering() {
     let words = toa!["é", "éshea", "e", "eshea", "naq", "nä"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
         assert_eq!(&["e", "é", "eshea", "éshea", "nä", "naq"], words.as_slice());
     });
@@ -90,16 +85,9 @@ fn error_ordering() {
     let words = toa!["Usona mí Lısa da.", "uatı / uakı / (uakytı?)", "x"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
-        assert_eq!(
-            &["Usona mí Lısa da.", "x", "uatı / uakı / (uakytı?)"],
-            words.as_slice()
-        );
+        assert_eq!(&["Usona mí Lısa da.", "x", "uatı / uakı / (uakytı?)"], words.as_slice());
     });
 }
 
@@ -108,29 +96,23 @@ fn sentence_ordering() {
     let words = toa!["ana", "ina", "ana da", "ina da", "x", "x x"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
-        assert_eq!(
-            &["ana", "ina", "ana da", "ina da", "x", "x x"],
-            words.as_slice()
-        );
+        assert_eq!(&["ana", "ina", "ana da", "ina da", "x", "x x"], words.as_slice());
     });
 }
 
 #[test]
 fn strict_ordering() {
-    // A bunch of tests designed for every possible situation that the sort might find
+    // A bunch of tests designed for every possible situation that the sort might
+    // find
     // - Both words finish at the same time, and one is a prefix
     // - Both words finish at the same time, no prefixes
     // - Both words fail at the same time
-    // - Neither word finishes, but that is enough for a success. One word would eventually fail if
-    //   its parsing continued.
-    // - Neither word finishes, but that is enough for a success. No word fails and the success is
-    //   left in the hands of the tone.
+    // - Neither word finishes, but that is enough for a success. One word would
+    //   eventually fail if its parsing continued.
+    // - Neither word finishes, but that is enough for a success. No word fails and
+    //   the success is left in the hands of the tone.
     // - One word ends, the other one fails at the same time
     // - One word ends, the other one does not, but *will* eventually fail
     let mut words =

@@ -1,8 +1,10 @@
-use crate::letters::{filter, GraphResult, GraphsIter, Tone};
+use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
+
 use regex::bytes::{Regex, RegexBuilder};
 use serde::{Deserialize, Serialize};
-use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
 use unicode_normalization::UnicodeNormalization as _;
+
+use crate::letters::{filter, GraphResult, GraphsIter, Tone};
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     RegexBuilder::new(
@@ -37,11 +39,9 @@ pub struct Toa {
 
 impl Toa {
     pub fn set_warning(&mut self) {
-        self.warn = ([
-            "ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq",
-        ]
-        .iter()
-        .any(|v| self.head.contains(v))
+        self.warn = (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
+            .iter()
+            .any(|v| self.head.contains(v))
             || {
                 !MADE_OF_RAKU.is_match(
                     self.head
@@ -94,9 +94,7 @@ impl Display for Toa {
 }
 
 impl PartialOrd for Toa {
-    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
-        Some(self.cmp(other))
-    }
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> { Some(self.cmp(other)) }
 }
 
 impl Ord for Toa {
