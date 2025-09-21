@@ -12,7 +12,7 @@ pub enum Error {
 // The characters we want to sort
 #[derive(Debug, Clone, Copy, PartialEq, Eq, PartialOrd, Ord)]
 pub enum Letter {
-    Aomoi,
+    Oaomo,
     A,
     B,
     C,
@@ -57,7 +57,7 @@ impl TryFrom<char> for Letter {
 
     fn try_from(value: char) -> Result<Self, Self::Error> {
         match value.to_lowercase().next().expect("Lowercase should be single character") {
-            '\'' => Ok(Self::Aomoi),
+            '\'' => Ok(Self::Oaomo),
             'a' => Ok(Self::A),
             'b' => Ok(Self::B),
             'c' => Ok(Self::C),
