@@ -78,7 +78,7 @@ impl Display for Toa {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         write!(
             f,
-            "{}{} {} `{}` @{} #{}\n{}",
+            "{}{} {} `{}` @{} #{} {}\n{}{}",
             if self.warn { "⚠ " } else { "" },
             self.head,
             match self.score {
@@ -89,7 +89,18 @@ impl Display for Toa {
             self.scope,
             self.user,
             self.id,
+            self.date,
             self.body,
+            if self.notes.is_empty() {
+                String::new()
+            } else {
+                "\n".to_string()
+                    + &self
+                        .notes
+                        .iter()
+                        .map(|n| format!("{} ({}): {}", n.user, n.date, n.content))
+                        .join("\n")
+            }
         )
     }
 }
