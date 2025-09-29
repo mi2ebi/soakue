@@ -47,19 +47,6 @@ fn dictify(the: &str) -> Vec<Toa> {
         .filter(|toa| toa.score > -2 && !toa.date.starts_with("2025-09-21T1"))
         .update(Toa::set_warning)
         .sorted_by(Toa::cmp)
-        .dedup_by(|a, b| {
-            let same =
-                a.head == b.head && a.body == b.body && a.user == b.user && a.scope == b.scope;
-            if same && a.notes.len() != b.notes.len() {
-                println!("{a}\n\n{b}\n\n---\n");
-            }
-            // TODO
-            // 1. remove whichever has a note saying it's a duplicate of the other one, if
-            //    there is one
-            // 2. if both notes are empty, but one has a lower score, remove it
-            // 3. if both notes are empty, remove the older one
-            same
-        })
         .collect_vec();
     let mut result = vec![];
     let mut used = vec![false; entries.len()];
@@ -86,9 +73,6 @@ fn dictify(the: &str) -> Vec<Toa> {
         if duplicates.len() == 1 {
             result.push(entries[i].clone());
         } else {
-            if current.notes.len() != entries[duplicates[1]].notes.len() {
-                println!("{current}\n\n{}\n\n---\n", entries[duplicates[1]]);
-            }
             let keeper = choose_keeper(&entries, &duplicates);
             result.push(entries[keeper].clone());
         }
