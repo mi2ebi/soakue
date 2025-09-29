@@ -17,7 +17,7 @@ pub fn main() {
     let dict = dictify(&text);
     let dict_str = to_string(&dict).unwrap();
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
-    fs::write("data/all.txt", dict.iter().map(|toa| toa.head.clone()).collect_vec().join("\r\n"))
+    fs::write("data/all.txt", dict.iter().map(|toa| toa.head.clone()).collect_vec().join("\n"))
         .unwrap();
     fs::write(
         "data/readable.txt",
@@ -38,7 +38,7 @@ pub fn main() {
                     toa.body,
                 )
             })
-            .join("\r\n\r\n"),
+            .join("\n\n"),
     )
     .unwrap();
 }

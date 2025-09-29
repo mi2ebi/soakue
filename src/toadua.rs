@@ -1,5 +1,6 @@
 use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
 
+use itertools::Itertools as _;
 use regex::bytes::{Regex, RegexBuilder};
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization as _;
