@@ -1278,12 +1278,15 @@ shao ja ja ao ào áo
 aoshecuaq ± `en` @seaqtaq #TI3XHf4J- 2024-12-01T13:49:28.082Z
 ▯ is necessity (modal logic)
 
+aota ± `en` @jiqci #n3YHYV5tQ 2025-10-01T20:30:34.995Z
+▯ is an aorta.
+
+aotanuam ± `en` @jiqci #JX72nUoVI 2025-10-01T20:30:51.486Z
+▯ is an aortic arch.
+
 aotaq ± `en` @jiqci #4ebBAk5o9 2024-07-10T12:36:33.082Z
 If ▯ existed / were the case, it would satisfy property ▯.
 jiqci (2024-07-10T12:37:03.437Z): lexicalised from constructions like **taq ao gı**
-
-aote ± `en` @jiqci #kKOI93E-B 2023-03-12T20:22:54.132Z
-▯ is the aorta.
 
 aotea ± `en` @Laqme #MdMotzzdH 2024-10-07T18:34:00.585Z
 ▯ fears that ▯ would be the case.
@@ -1915,6 +1918,9 @@ el (2022-07-10T03:08:22.985Z): olin kasi li toki e ni
 
 ⚠ ba ± `en` @oldofficial #iYL-Gs2uw 2022-08-01T23:55:24.167Z
 illocution: ‘[optative]’; optative illocution
+
+ba ± `tr` @kazoo #SLyFPgqBb 2025-10-01T20:02:02.369Z
+edimsöz: istek.
 
 ba -1 `toa` @Ilmen #o0UYe7p4Z 2020-01-24T21:21:53.316Z
 ⚙ [DA] Bakuq kúq kúqtoaı da.
@@ -2792,6 +2798,9 @@ degree: at its limit / as much as it can / saturated
 
 beamuao +1 `en` @robintown #ZwUGgRg9J 2022-06-05T21:02:08.212Z
 ▯ is a cypress tree (the kind with knees).
+
+beamuq ± `en` @kazoo #FBsY2D_0U 2025-10-01T20:11:08.338Z
+▯ is a cubit.
 
 beanoso ± `en` @Hydro #Q9hwguaFq 2021-09-05T09:05:31.275Z
 ▯ suffers from arthritis.
@@ -11096,7 +11105,7 @@ chıcheu ± `en` @kazoo #s6ymdSVeM 2025-04-29T14:35:23.169Z
 chıcheudua ± `en` @kazoo #Pi_8Hv6wM 2025-04-29T14:36:49.371Z
 ▯ believes in obvious lie ▯.
 
-chıchı +1 `en` @uakci #rWH4YgVRe 2020-03-02T22:47:01.588Z
+chıchı +2 `en` @uakci #rWH4YgVRe 2020-03-02T22:47:01.588Z
 ▯ is a chirp-chirp bird.
 uakci (2020-03-02T22:47:03.984Z): Infantile term.
 
@@ -12121,7 +12130,7 @@ choase ± `en` @Laqme #uLbkmwZFR 2022-08-04T13:57:23.717Z
 choasıa ± `en` @Ilmen #j6eUVsiNo 2018-09-18T20:41:00.000Z
 ▯ says nothing / is silent.
 
-choasıa ± `en` @Ilmen #wIKV8mL8w 2019-06-20T15:16:51.098Z
+choasıa -1 `en` @Ilmen #wIKV8mL8w 2019-06-20T15:16:51.098Z
 predicate: ‘say.nothing.’; ▯ says nothing / is silent.
 
 choashuo ± `en` @seaqtaq #rZKANG0VN 2019-04-10T20:41:32.000Z
@@ -20478,9 +20487,6 @@ fıuta ± `en` @salarua #ccRDIGotV 2024-09-20T08:36:50.235Z
 ▯ is a filter (an effect applied programmatically to a piece of media, e.g. a sepia filter for photos, an echo filter for audio)
 salarua (2024-09-20T08:38:02.734Z): etymology: English "filter" (in the Instagram sense); the meaning is generalized to all types of audiovisual media, not just photos
 
-fıutoe ± `en` @Ilmen #148kWbIKY 2019-06-15T09:38:59.965Z
-▯ notches/cuts ▯ (incomplet cut, not resulting in a complete separation).
-
 fıutoe ± `en` @Ilmen #9o8Lh79f9 2019-06-15T09:51:34.479Z
 ▯ notches/cuts ▯ (incomplete cut, not resulting in a complete separation).
 
@@ -25775,6 +25781,9 @@ Laqme (2018-12-09T23:14:50.000Z): guhūaq(a, b, c, P) ↔ huaq(b, c, λu.P(a, u)
 
 guhumıa ± `en` @jiqci #ifnMr3xUv 2023-09-13T12:50:11.425Z
 ▯ is muscular.
+
+guhunıe ± `en` @salarua #SiOWE8Qfr 2025-10-01T18:34:26.181Z
+▯ is intramuscular
 
 guhutıe ± `en` @salarua #Cyxi12ZfS 2023-12-18T00:26:30.192Z
 ▯ is a fascia.
@@ -35059,6 +35068,9 @@ jïem ± `en` @evie #PHHsxGBgM 2024-11-22T05:10:23.339Z
 cleft thingy: 'according to x'
 evie (2024-11-22T05:20:24.823Z): « ní lıq jïem kırı súq » ≈ "that girl thinks you're cute"
 
+jıeme ± `en` @Laqme #XSzezOLjp 2025-10-01T12:13:53.318Z
+▯ is a jury.
+
 jıemıa ± `en` @uakci #ZqiwEeWvj 2020-03-07T20:39:12.420Z
 ▯ is a common opinion / world view.
 
@@ -35157,6 +35169,9 @@ jıeshao ± `en` @Machy #GB2vvVY_H 2021-10-09T17:45:31.476Z
 jıeshaotao ± `en` @Machy #OfgVcVQrU 2021-10-09T17:49:36.621Z
 ▯ willingly and consciously does ▯.
 Machy (2021-10-09T17:50:12.572Z): will, conscious, agent, agentive
+
+jıetue ± `en` @Laqme #RpujsUntO 2025-10-01T12:12:24.585Z
+▯ is a trial (as in a court of law).
 
 jıfuaq ± `en` @panWaja #vsEurBL5Q 2023-01-06T00:12:20.225Z
 ▯ is a solo selfie.
@@ -38128,6 +38143,10 @@ illocution: ‘hereby’; performative
 
 ⚠ ka ± `en` @oldofficial #n5acFunnKO 2019-05-05T22:26:10.235Z
 illocution: ‘hereby’; performative illocution
+
+ka ± `tr` @kazoo #K54TpU3uD 2025-10-01T20:04:49.977Z
+edimsöz: edimsel.
+kazoo (2025-10-01T20:06:54.200Z): Bu cümleyi söylemenin o eylemi yerine getirdiği edimsöz. Örneğin "Sana selamlar olsun!" demenin kendisi bir selam olduğu için edimsel cümleye girer.
 
 ka -1 `toa` @Ilmen #ovTSu-5CW 2020-01-24T21:22:39.555Z
 ⚙ [DA] Kakuq kúq kúqtoaı da.
@@ -43543,6 +43562,9 @@ kuo ± `pl` @jiqci #Qn8F9FKb_A 2023-07-31T08:20:59.928Z
 kuo ± `ru` @SuperSpaceNiM #BKFk45xLk 2024-08-11T22:56:54.076Z
 предикат: ‘чёрный’; ▯ чёрного цвета.
 
+kuo ± `tr` @kazoo #btkv1etoL 2025-10-01T20:07:38.888Z
+▯'in rengi siyahtır.
+
 kuo -1 `toa` @uakci #sdrJjM79c 2019-04-14T22:10:20.000Z
 reo sa cía lu heq hóa sa gío bıaq puı na dóshı da
 
@@ -48219,6 +48241,9 @@ lue ± `pl` @jiqci #LUB-AC-8qu 2023-07-31T08:21:09.407Z
 lue ± `ru` @SuperSpaceNiM #iMu-S2UDl 2024-08-11T22:54:23.399Z
 предикат: ‘жёлтый’; ▯ жёлтого цвета.
 
+lue ± `tr` @kazoo #fZayVMeoF 2025-10-01T20:08:01.989Z
+▯'in rengi sarıdır.
+
 lue'okuq ± `en` @jiqci #5P00Z_2I0 2024-01-03T07:47:16.904Z
 ▯ is a yellow perch (Perca flavescens).
 
@@ -48749,6 +48774,9 @@ luqse ± `en` @Laqme #_-7b7GP5p 2024-06-10T16:34:36.232Z
 luqsıbı ± `en` @jiqci #HHffJryNW 2025-09-14T13:58:12.575Z
 ▯ is a vein.
 
+luqsıbınıe ± `en` @salarua #wvy_LphDv 2025-10-01T18:34:05.328Z
+▯ is intravenous
+
 luqteı ± `en` @fagri #Fjx_eKRg7 2023-10-30T19:25:42.745Z
 ▯ stands still / sits still / lies still / is still
 
@@ -49041,6 +49069,9 @@ robintown (2023-11-25T18:27:28.488Z): This makes a good translation for "to fall
 
 maıja ± `toa` @robintown #AdLV5VNgC 2023-11-25T18:28:01.218Z
 Aıja maı ▯ ▯ áq.
+
+maıjı +1 `en` @Laqme #7oREKUS7n 2025-10-01T15:55:34.651Z
+interjection: 'love you', '<3'
 
 maıjıaı +4 `en` @uakci #Vet4O5M2_ 2020-02-25T18:51:19.535Z
 ▯ hugs ▯.
@@ -51415,7 +51446,7 @@ mınu ± `pl` @jiqci #HR8Jh6-8PE 2023-07-31T08:21:21.837Z
 ▯ to minuta.
 
 mınu ± `tr` @kazoo #wlBR_-p3b 2024-11-24T18:33:19.838Z
-▯ dakikadır.
+▯, bir dakikadır.
 
 mınune +1 `en` @fagri #KoyrGplsY 2019-06-22T18:01:37.497Z
 ▯ is the duration of a minute multiplied by number ▯
@@ -63236,6 +63267,9 @@ pıunao +1 `en` @Laqme #b8vJ6YFg4 2019-02-03T02:26:27.000Z
 ▯ is sweat.
 seaqtaq (2019-02-03T02:36:52.000Z): +1
 
+pıunıe ± `en` @salarua #M9drfWvNa 2025-10-01T18:34:52.627Z
+▯ is intradermal
+
 pıunoaı ± `en` @Laqme #9-L_ZF7hm 2024-04-30T13:23:03.810Z
 ▯ is lotion/moisturizer.
 
@@ -63247,6 +63281,9 @@ pıunuım +2 `en` @Laqme #IatirkFF9 2023-08-22T12:11:07.374Z
 
 pıunuımteı ± `en` @robintown #ElEK18xcI 2023-08-23T16:54:07.119Z
 ▯ is a patch/arrangement of freckles.
+
+pıupeo ± `en` @salarua #Or3ONqIDa 2025-10-01T18:35:08.383Z
+▯ is transdermal
 
 pıupuım ± `en` @Laqme #ipO4YspVh 2023-09-03T17:50:37.863Z
 ▯ is a tattoo.
@@ -65078,6 +65115,10 @@ puoceu ± `en` @jiqci #gJdSD3nXH 2023-07-31T12:14:05.139Z
 
 puochıq ± `en` @seaqtaq #q2skqMfHiJj 2019-09-17T19:19:51.137Z
 ▯ is a dust mite
+
+puojeaqno ± `en` @cateyes #Fmoak1VSx 2025-10-01T12:44:32.070Z
+▯ is a soredium
+cateyes (2025-10-01T12:46:37.148Z): calque of Mandarin 粉芽 (fěnyá​​)
 
 puokaqbıa ± `en` @el #G9-nI-1zM 2022-09-22T14:02:58.088Z
 ▯ has visual snow
@@ -67273,6 +67314,9 @@ rıeshuo ± `en` @jiqci #cM9J8MkGo 2023-06-16T20:22:25.049Z
 ▯ is a buffer, intermediate storage of ▯ for easing the irregularities in incoming or outgoing delivery.
 jiqci (2023-06-16T20:23:57.426Z): Examples: a loading/unloading area in ports, a UPS (uninterruptible power supply), an I/O character buffer
 
+rıheq ± `en` @cateyes #uFWDVDnRY 2025-10-01T13:04:50.489Z
+▯ is an yrneh (unit of reciprocal inductance)
+
 rıhı ± `en` @uakci #d53bCvQOt 2022-01-08T12:06:47.525Z
 ▯ is rice (member of the Oryzeae tribe, thus including all varieties of rice worldwide, as well as wild rice).
 uakci (2022-01-08T12:11:45.525Z): from Sanskrit व्रीहि (vrīhí), allegedly cognate with all the various Indo-European reflexes
@@ -68646,6 +68690,9 @@ ruaqjeq ± `en` @uakci #xQwacWCkx 2022-08-06T10:22:24.988Z
 ruaqjı +1 `en` @seaqtaq #TZ2goVMMq 2019-09-15T23:41:27.588Z
 I assert that ▯ is the case
 seaqtaq (2019-09-15T23:41:41.677Z): see *dalu*
+
+ruaqluoı ± `en` @Laqme #ameDuVf9w 2025-10-01T12:16:13.382Z
+▯ is a defendant.
 
 ruaqmea ± `en` @uakci #OEYSbhdWS 2022-07-15T19:26:07.117Z
 ▯ is presupposed/implied/presumed by ▯
@@ -76912,6 +76959,9 @@ shıo ± `pl` @jiqci #I2XPqoLdC_ 2023-07-31T08:22:13.367Z
 shıo'ako ± `en` @jiqci #lupk-dtvK 2024-01-29T15:01:15.757Z
 ▯ is an acromion (part of a shoulder blade).
 
+shıocheı ± `tr` @kazoo #62capcCni 2025-10-01T20:14:39.867Z
+▯ bir arşındır.
+
 shıodıa +1 `en` @jiqci #BOT02r2ZW 2024-01-24T12:08:20.827Z
 ▯ shrugs.
 
@@ -81056,7 +81106,7 @@ tıehua ± `en` @Ilmen #mq-x-qoad 2020-02-05T12:50:39.227Z
 tıehuashoaı ± `en` @Ilmen #Wom76RoGx 2018-10-20T20:00:38.000Z
 ▯ is a colugo (Dermoptera taxonomic order).
 
-tıem +1 `en` @Laqme #XE23KG_18 2024-11-02T12:25:27.508Z
+tıem +2 `en` @Laqme #XE23KG_18 2024-11-02T12:25:27.508Z
 ▯ is a function / mapping / map.
 Laqme (2024-11-02T12:28:28.077Z): Broadly, something like the answer to "who brings what to the potluck?" is a **tıem**, but so is the cosine function, or a "dictionary" data structure. Anything that says how to associate one output with each input is a **tıem**.
 Laqme (2024-11-02T12:30:11.348Z): in everyday contexts: allocation, assignment, arrangement (e.g. a seating arrangement for a wedding)
@@ -85324,6 +85374,9 @@ prefix: reduce verb valency to nullary (forming what’s often called an “obse
 illocution: ‘ADM’; admonitive
 mimiaoganhaqpy (2023-01-14T00:26:08.176Z): warning illocution
 robintown (2024-09-01T14:24:14.552Z): keywords: be advised that
+
+ꝡo ± `tr` @kazoo #TuL2Dkpxh 2025-10-01T20:02:49.798Z
+edimsöz: uyarı.
 
 ꝡó ± `en` @uakci #XTqinLYf0 2023-03-22T08:49:19.124Z
 illocution: “should I be worried that …?”
