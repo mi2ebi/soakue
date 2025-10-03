@@ -6489,7 +6489,11 @@ buroguaı ± `en` @jiqci #js2T0MRNU 2023-09-14T12:08:03.892Z
 burojıo ± `en` @jiqci #tHe2Yf8zg 2023-09-14T12:00:48.997Z
 ▯ is an office building.
 
-buru +1 `en` @fagri #FEXIuoijz 2021-10-01T17:41:32.065Z
+buru ± `en` @fagri #FEXIuoijz 2021-10-01T17:41:32.065Z
+conjunction: 'not.and' (second connectand but not first)
+Ilmen (2025-10-02T15:20:49.691Z): The lemma form for this word should be ⟪búru⟫.
+
+búru ± `en` @Ilmen #bgzuSafOo 2025-10-02T15:21:08.618Z
 conjunction: 'not.and' (second connectand but not first)
 
 buruaq +2 `en` @Ilmen #ypIf3LarK 2018-09-26T12:26:28.000Z
@@ -6511,9 +6515,12 @@ buruaq ± `pl` @jiqci #o9rI3Ost0J 2023-07-31T08:19:48.273Z
 buruaq ± `tr` @kazoo #Y2nsjui_- 2024-11-24T09:09:59.411Z
 ▯ kişisi, ▯ durumunun olduğunu inkar eder.
 
-burubu ± `en` @uakci #C1Puyny1x 2022-03-28T22:43:42.725Z
+burubu -1 `en` @uakci #C1Puyny1x 2022-03-28T22:43:42.725Z
 conjunction: neither X nor Y
 uakci (2022-03-28T22:44:07.491Z): this one is primarily meant to screw with toaq’s conjunctin system, but chances are it has some legitimate use
+
+búrubu ± `en` @Ilmen #A6okUeRp_ 2025-10-02T15:29:19.886Z
+conjunction: neither X nor Y
 
 burujeo ± `toa` @fagri #_lOa1u6tS 2022-06-23T03:28:16.026Z
 Jeo lú naıjuı ruaq jí hóa ky buru ▯
@@ -16833,6 +16840,7 @@ doqjoq ± `en` @robintown #jkClDLpCt 2022-01-26T22:33:51.952Z
 
 doqjoqcaqche ± `en` @robintown #FYUmIHPnh 2023-11-18T21:02:10.713Z
 ▯ is a dungeon master.
+robintown (2025-10-02T18:29:37.418Z): As in roleplaying games
 
 doqkıoq ± `en` @jiqci #755ewHUzT 2024-11-27T19:53:09.916Z
 ▯ is an oblate spheroid.
@@ -18541,7 +18549,11 @@ eraı +1 `en` @uakci #kK-CmtdLF 2024-03-07T19:59:56.466Z
 ▯ is a situation/incident of some importance.
 uakci (2024-03-07T20:00:31.361Z): **ë** + **raı**, influenced by english ‘awry’. extensionally similar to **tue**. see **saꝡaq**
 
-erı ± `en` @uakci #2GC5BHGei 2022-08-29T11:11:13.806Z
+erı -1 `en` @uakci #2GC5BHGei 2022-08-29T11:11:13.806Z
+connective: ‘X or Y?’, but bubbles up to illocution-phrase level; ‘which one of these do you want me to say, X or Y?’
+Ilmen (2025-10-02T15:19:28.124Z): The lemma form for this word should be ⟪érı⟫.
+
+érı ± `en` @Ilmen #4SK7EudZN 2025-10-02T15:19:00.125Z
 connective: ‘X or Y?’, but bubbles up to illocution-phrase level; ‘which one of these do you want me to say, X or Y?’
 
 Erıe ± `en` @countries #zDZTH3uN9C 2024-12-27T16:46:25.502Z
@@ -18562,6 +18574,11 @@ erıq -1 `en` @fagri #eI05ob6BW 2021-09-28T05:54:57.242Z
 eru +1 `en` @Laqme #5eqLuEh2b 2022-07-08T09:46:31.197Z
 connective: 'X and Y' but bubbles up to illocution-phrase level rather than clause scope
 Laqme (2022-07-08T10:31:02.788Z): https://toaq.me/User:Lynn/eru
+
+éru ± `en` @Laqme #ZUXipNlw9 2025-10-02T16:14:40.504Z
+connective: 'X and Y', making two speech acts
+Laqme (2025-10-02T16:18:13.592Z): For example, **Cho súq rú hó hí lua?** = "Which stories do both you and she like?" but **Cho súq éru hó hí lua?** = "Which stories do you like? and, which stories does she like?"
+Ilmen (2025-10-02T17:36:14.342Z): Hmm a downside with this is that you can't directly say ⟪which stories do your fiends individually like?⟫ 🤔
 
 esa ± `en` @official #7osHv3FW8K 2020-01-28T22:52:13.687Z
 predicate: ‘exa’; ▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.
@@ -23537,6 +23554,9 @@ Ilmen (2019-01-15T16:47:38.000Z): Form the Ithkuil suffix -ıëřl.
 Laqme (2019-01-15T17:17:17.000Z): +1
 Ilmen (2019-02-01T21:09:04.000Z): + "responsible"
 
+gılafuq ± `en` @Ilmen #kYJIUsfFl 2025-10-02T12:49:08.488Z
+▯ is a ghillie suit.
+
 gıle +1 `en` @uakci #Cczdkj3vL 2018-10-29T15:13:02.000Z
 (fork of #1bop7NTap) There’s an opportunity for ▯ to happen; ▯ has the opportunity to do ▯ [JEO].
 Ilmen (2018-10-29T21:35:10.000Z): +1
@@ -26250,6 +26270,9 @@ gupaqguaı ± `en` @uakci #9NcEiUKZX 2023-08-29T10:59:07.868Z
 
 gupeaı ± `en` @Laqme #rkERkUqA8 2023-11-08T19:48:44.930Z
 ▯ tears / rips ▯ into two pieces.
+
+gupeıchua ± `en` @jiqci #YkUsmdb8e 2025-10-02T14:42:41.250Z
+▯ is a binomial.
 
 gupeoq ± `en` @Machy #ozEwAZ6H5 2021-10-25T21:34:45.422Z
 ▯ is helium.
@@ -31045,10 +31068,14 @@ huıtue ± `en` @uakci #tq4NN5f6m 2021-10-28T16:29:21.543Z
 hujaq -1 `toa` @uakci #_LIz125ym 2022-10-11T08:44:51.814Z
 huaq ra jeq
 
-hujı +1 `en` @fagri #7yUNIZMfW 2021-10-05T04:07:02.499Z
+hujı ± `en` @fagri #7yUNIZMfW 2021-10-05T04:07:02.499Z
 Conjunction: X more than Y
 fagri (2021-10-05T04:07:19.608Z): etymology: huaq + nonce syllable
 fagri (2021-10-05T04:08:00.062Z): When conjunctions are interpreted as N-ary operations, a chain of huji's should produce a list that satisfy the property less and less as the list goes on
+Ilmen (2025-10-02T15:22:08.890Z): The lemma form for this word should be ⟪hújı⟫.
+
+hújı ± `en` @Ilmen #oRhQbl2UC 2025-10-02T15:22:26.642Z
+Conjunction: X more than Y
 
 hukı +1 `en` @salarua #n_eO7hs6n 2022-12-11T10:08:37.562Z
 ▯ punishes ▯ by making them satisfy property ▯
@@ -31418,7 +31445,7 @@ evie (2024-06-18T23:13:47.354Z): i guess for delta this should be húq...?
 huq -1 `toa` @Ilmen #ThQHiHeOQ 2020-01-31T20:14:35.004Z
 = jıoı tohuq ga.
 
-húq +1 `en` @Ilmen #NqnmjbqT3 2025-05-03T21:04:51.743Z
+húq +2 `en` @Ilmen #NqnmjbqT3 2025-05-03T21:04:51.743Z
 Connective: "or rather", erases the left-hand side connectand and replaces it with the right-hand side one.
 
 huqgıq ± `en` @uakci #_enP1lxEZ 2022-06-07T18:12:00.757Z
@@ -33088,6 +33115,10 @@ jaq ± `pl` @jiqci #vzscDEPB4N 2023-07-31T08:20:43.548Z
 jaq ± `ru` @SuperSpaceNiM #gOyUx1ylW 2024-08-15T18:10:09.694Z
 предикат: ‘очень’; ▯ очень, в значительной степени соответствует действительности.
 
+jaq ± `jbo` @zearen #vszUTJtLo 2025-10-02T18:52:37.422Z
+▯ mutce zo'e
+zearen (2025-10-02T18:53:32.172Z):  simlu zo mutce .iboku'i le pamoi sumti cu cmima le bridi klesi (to ra'a zo «du'u» toi)
+
 ⚠ jaq -1 `en` @oldofficial #8lq5YdvCn3 2019-05-05T22:25:58.139Z
 predicate: ‘very’; ▯ is very much the case; ▯ is very/extremely ▯.
 
@@ -33757,6 +33788,10 @@ Machy (2022-04-15T06:27:38.561Z): credit to uakci
 
 jejı ± `en` @uakci #OS6muj-CC 2022-04-15T06:25:42.910Z
 interjection: used as a starter to bring attention to the speaker (and their selfish request maybe) without necessarily invoking a vocative or greeting; say, …; pray tell, …; now excuse me, but …
+
+jéjı +1 `en` @Ilmen #FJfb4dJwV 2025-10-02T15:26:20.984Z
+conjunction: ‘xnor/iff’; either both or neither (same truth values)
+Ilmen (2025-10-02T15:26:51.315Z): Etymology: Based on ⟪jeq⟫ and the same suffix as in ⟪hújı⟫.
 
 jejuha ± `en` @jiqci #DRCKs6g5Y 2024-03-18T20:39:14.525Z
 ▯ is a peppercress / pepperweed / pepperwort (genus Lepidium).
@@ -34987,7 +35022,7 @@ jıbo ± `tok` @el #x1B32gjvJ 2022-07-10T03:09:22.551Z
 jıbo ± `jbo` @Laqme #dNgpUQkHS 2025-04-03T21:39:46.734Z
 ▯ me mi moi
 
-Jıbozu ± `en` @salarua #ElDnuVV8_ 2025-09-10T17:04:36.626Z
+Jıbozu +1 `en` @salarua #ElDnuVV8_ 2025-09-10T17:04:36.626Z
 ▯ is Lojban
 salarua (2025-09-10T17:04:47.608Z): from Lojban "jbobau"
 
@@ -43407,10 +43442,14 @@ seaqtaq (2025-04-01T05:04:01.568Z): Kw: zakaı. Example: "cúaq kujao leuq" == "
 kujeo ± `en` @Laqme #scGP-znRO 2022-06-24T21:23:32.543Z
 ▯ is what satisfies ▯.
 
-kujı +1 `en` @fagri #30LTcQRLD 2021-10-05T04:09:39.005Z
+kujı ± `en` @fagri #30LTcQRLD 2021-10-05T04:09:39.005Z
 Conjunction: X less than Y
 fagri (2021-10-05T04:09:47.109Z): etymology: kuoi + nonce syllable
 fagri (2021-10-05T04:10:00.197Z): When conjunctions are interpreted as N-ary operations, a chain of kuji's should produce a list that satisfy the property more and more as the list goes on
+Ilmen (2025-10-02T15:23:43.419Z): The lemma form for this word should be ⟪kújı⟫.
+
+kújı ± `en` @Ilmen #5RI_EmMJq 2025-10-02T15:23:58.844Z
+Conjunction: X less than Y
 
 kujını ± `en` @TheAndSys #2RsSfCUyX 2025-03-26T04:35:50.443Z
 ▯ is the case, just in case ▯ is the case
@@ -44224,6 +44263,10 @@ Laqme (2025-05-07T11:07:00.052Z): Lately I've been thinking compounds using func
 
 lahı ± `en` @el #62bFfmHDP 2022-06-28T17:13:17.623Z
 ▯ is an indirect question
+
+lahıa ± `en` @kazoo #nNO8xhyLI 2025-10-02T14:22:01.413Z
+▯ is the identity of person/thing ▯.
+Ilmen (2025-10-02T14:36:23.820Z): ⟪▯ is the property of being ▯⟫.
 
 lahıja ± `en` @el #v7vI3qXEt 2022-12-03T14:11:25.270Z
 ▯ is a property and indirect question; ▯ is a clause containing both **ja**s and question words
@@ -48225,6 +48268,10 @@ lucu +2 `en` @TheAndSys #YNZpqQD84 2024-02-12T15:25:25.106Z
 ▯ is a game
 TheAndSys (2024-02-12T15:26:00.500Z): Orıgınal definition seemed needlessly strict for me and if we went down that way we'd end up with seven million hundred words for "game" (we are already pretty much there)
 
+lucucaqche ± `en` @zearen #IQfcpO0I5 2025-10-02T18:02:28.006Z
+▯ is a game master or "GM".
+zearen (2025-10-02T18:32:12.509Z): See also **doqjoqcaqche**, but some roleplaying systems prefer this terminology.
+
 Ludachuaq ± `en` @salarua #xGjkGIgqK 2023-12-30T19:36:01.557Z
 ▯ is Luddism.
 salarua (2023-12-30T19:36:18.538Z): keywords: Luddite, technoskeptic
@@ -49879,6 +49926,9 @@ meaheo ± `pl` @jiqci #eSdHhPxOVV 2023-07-31T08:21:27.805Z
 meaheo -1 `toa` @Ilmen #C_OvmFaJ5 2020-01-30T12:57:49.555Z
 = bu meajeq ▯ ▯.
 
+meaheqcuaq ± `en` @Ilmen #qkU6ANHUB 2025-10-02T20:14:00.056Z
+▯ is a mathematical set.
+
 meaı +1 `en` @uakci #k1Yp8CAPc 2023-01-19T00:31:40.340Z
 ▯ is a celestial object (star, planet, satellite, comet, etc.).
 
@@ -49948,7 +49998,7 @@ mëam ± `en` @uakci #BrO-D6lH2 2023-11-03T18:20:42.110Z
 topic particle (with **bï** grammar): restrict the universe of discourse to the referents of the provided definite reference
 
 meame ± `en` @Ilmen #IWaslJV2- 2019-01-24T10:35:19.000Z
-▯ is a set; ▯ is the set with members ▯.
+▯ is the set with members ▯.
 
 meame ± `en` @uakci #OFn4UjhrE 2021-10-26T11:18:09.884Z
 ▯ is a non-empty set, isomorphic to plural constant ▯.
@@ -60040,7 +60090,7 @@ nhaotoa ± `en` @el #TJJot4dXI 2022-11-27T00:28:16.262Z
 nhaq- -1 `en` @magnap #Ex3BV2WS8 2024-10-06T16:43:30.526Z
 experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
 
-nhaq +21 `en` @el #xLyC14SY_ 2021-12-19T04:05:49.425Z
+nhaq +22 `en` @el #xLyC14SY_ 2021-12-19T04:05:49.425Z
 interjection: nyaan
 el (2021-12-19T04:06:00.265Z): enough compounds with nhaq it may as well have its own definition
 Machy (2022-04-15T06:00:35.700Z): +1. If only I could +1000.
@@ -65966,7 +66016,7 @@ raqdıoq ± `en` @Laqme #jXusp5wv0 2023-09-15T18:29:19.907Z
 ▯ is straight to the point.
 
 raqdua +3 `en` @Ilmen #-U6DVYfQw 2018-10-20T21:36:33.000Z
-▯ is familiar/acquainted with ▯.
+▯ is familiar, acquainted with ▯.
 Laqme (2019-02-21T14:49:38.000Z): +1
 fagri (2019-02-21T14:51:54.000Z): +1
 
@@ -68089,6 +68139,10 @@ robu +3 `en` @Laqme #fVc0HBs0E 2022-03-18T02:27:17.639Z
 conjunction: ‘xnor/iff’; either both or neither
 Laqme (2022-03-18T02:28:27.961Z): I think this uncommon conjunction doesn't deserve **re**.
 uakci (2022-07-13T17:41:14.190Z): material iff
+Ilmen (2025-10-02T15:24:19.813Z): The lemma form for this word should be ⟪róbu⟫.
+
+róbu ± `en` @Ilmen #no-OY62rR 2025-10-02T15:26:13.531Z
+conjunction: ‘xnor/iff’; either both or neither (same truth values)
 
 rochoa ± `en` @Machy #yVih1LWex 2022-03-24T01:26:25.471Z
 ▯ is a raven.
@@ -68742,12 +68796,19 @@ connective: ‘and then’
 rúbıe ± `en` @Laqme #cql1Bd8WO 2024-01-06T01:09:33.114Z
 connective: ‘and then’
 
+rúbıe ± `en` @Ilmen #zgoD9PGUQ 2025-10-02T15:29:09.079Z
+connective: ‘and then’
+
 ruboq ± `en` @uakci #VzuC3NiG- 2019-03-15T22:39:07.000Z
 ▯ omits doing ▯; ▯ could’ve done/been ▯ while doing/being ▯, but they chose to avoid the former and did/were just the latter.
 
 rubu +3 `en` @Laqme #oRdJnWe3W 2021-10-01T17:40:25.333Z
 conjunction: ‘and.not’; and not
 Machy (2021-10-10T03:13:35.292Z): +1
+Ilmen (2025-10-02T15:28:46.939Z): The lemma form for this word should be ⟪rúbu⟫.
+
+rúbu ± `en` @Ilmen #Vb4JdcLsz 2025-10-02T15:28:52.902Z
+conjunction: ‘and.not’; and not
 
 rubuıq ± `en` @uakci #t9Dk5AWnT 2024-05-02T06:28:08.214Z
 ▯ does, and ▯ does not, satisfy property ▯.
@@ -69902,6 +69963,7 @@ salı -1 `toa` @Ilmen #8xWoDuWgj 2020-01-26T21:31:46.862Z
 sam +3 `en` @evie #1krb-QETx 2025-03-16T23:12:06.522Z
 ▯ locates/finds ▯
 evie (2025-03-16T23:12:20.223Z): from klingon «Sam»
+evie (2025-10-02T18:45:07.789Z): **îaı tı** to specify where
 
 sam ± `tlh` @evie #vpETxLSxr 2025-03-16T23:36:06.300Z
 ▯₂ Sam ▯₁
@@ -82897,7 +82959,7 @@ tolı ± `en` @Ilmen #QOqg64vqi 2018-12-27T12:35:25.000Z
 toluze ± `en` @jiqci #MRdoCbt42 2023-06-05T20:08:53.870Z
 ▯ is toluene / methylbenzene.
 
-tom ± `en` @abcdeusername #J6xqr6Bwt 2023-05-22T21:08:55.508Z
+tom -1 `en` @abcdeusername #J6xqr6Bwt 2023-05-22T21:08:55.508Z
 ▯ is a particle
 
 tóm ± `en` @uakci #XoiehjDBG 2022-12-08T09:57:28.765Z
@@ -84191,16 +84253,16 @@ tuqjıaqnaraq ± `en` @TheAndSys #-xodljXUr 2024-10-30T21:08:26.378Z
 ▯ is an orange cosmos
 TheAndSys (2024-10-30T21:08:34.740Z): (this is a flower)
 
+Tuqjıbogua ± `jbo` @zearen #_5zPPxnyc 2025-10-02T21:36:45.530Z
+▯ is Roljbogu'e
+zearen (2025-10-02T21:36:51.406Z): This is a name, so in some styles may properly be preceded with mi. This can be either the popular Lojbanic discord server, or the fictional associated country.
+
 tuqko ± `en` @fagri #UQOJmtWJU 2020-06-20T07:56:18.629Z
 ▯ is last among ▯ sorted by property ▯
 
 tuqloı ± `en` @Machy #Zg-6H6qn7 2022-05-14T16:20:24.518Z
 ▯ is abominable.
 Machy (2022-05-14T16:20:43.761Z): In the sense of being universally detestable or loathsome.
-
-Tuqlojıgua ± `en` @zearen #wX5hMpvNd 2025-09-19T19:02:19.161Z
-▯ is Roljbogu'e
-zearen (2025-09-19T19:03:50.079Z): This is a name, so in some styles may properly be preceded with mi.  This can be either the popular Lojbanic discord server, or the fictional associated country.
 
 tuqmaı ± `en` @fagri #y4FwYI_lf 2019-12-16T07:45:39.631Z
 ▯ is pansexual (attracted to people of any gender)
