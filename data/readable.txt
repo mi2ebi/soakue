@@ -5135,6 +5135,9 @@ borepue ± `en` @jiqci #RBvTTPPZG 2023-06-24T15:30:20.369Z
 boretı ± `en` @kazoo #E_zfxa3df 2025-05-01T12:04:01.164Z
 ▯ is etliekmek (traditional Turkish food; long, flat bread topped with a thin layer of seasoned ground meat, onions, and spices, then baked until crisp)
 
+boretuachao ± `en` @jiqci #djWtQGGCE 2025-10-03T15:02:56.992Z
+▯ is a bulldozer.
+
 boroıka ± `en` @Ilmen #HU4MOG9MM 2022-11-26T20:47:26.089Z
 The members of ordered pair ▯ exchange possession of the members of ordered pair ▯, ordered according to whom in the first pair initially possessed which in the second pair.
 
@@ -15402,7 +15405,7 @@ predicate: ‘decibel’; ▯ is a decibel
 desom ± `en` @Laqme #DKFnYTixo 2024-12-24T14:00:22.645Z
 ▯ prettifies / applies cosmetic fixes to ▯.
 
-desu ± `en` @uakci #TW8nYbf6E 2022-06-02T20:39:50.261Z
+desu -1 `en` @uakci #TW8nYbf6E 2022-06-02T20:39:50.261Z
 = **daha**
 
 deshue ± `en` @lassc #DhgArzSxK 2025-03-25T22:17:09.246Z
@@ -21073,7 +21076,7 @@ fueqcaı ± `en` @Laqme #4beoMHxaf 2024-09-11T20:37:38.642Z
 fueqcıa ± `en` @Laqme #QkkonJF_P 2024-08-19T08:02:54.430Z
 ▯ is unskewed / straight / horizontal-or-vertical / orthogonal.
 
-fueqdekı ± `en` @Laqme #ZMOumNMvY 2024-10-03T12:46:18.861Z
+fueqdekı +1 `en` @Laqme #ZMOumNMvY 2024-10-03T12:46:18.861Z
 ▯ is a spirit level.
 
 fueqfueq ± `en` @Laqme #N5wlVY-Fv 2024-08-19T07:57:29.696Z
@@ -25435,6 +25438,9 @@ guaqloe ± `en` @Ilmen #8YyNCmyZH 2020-02-11T18:25:32.340Z
 
 guaqloe ± `fr` @Ilmen #8nRsedOUw 2020-02-11T18:27:36.507Z
 ▯ est un incendie.
+
+guaqmı +1 `en` @jiqci #RrBqFKwrz 2025-10-03T12:50:27.698Z
+▯ is a continent.
 
 guaqmıq +1 `en` @Ilmen #93VTORWW3 2019-04-08T18:53:36.000Z
 ▯ is a continent.
@@ -35234,12 +35240,13 @@ jıjeo ± `en` @uakci #MQZIYzMy1 2022-07-04T17:50:58.841Z
 jıjeo -1 `toa` @uakci #r_HatNQds 2022-07-04T17:53:43.589Z
 sa lo shú jí èa sâ kuq jí zé bı muı ▯ zé
 
-jıjı ± `en` @evie #uUGxZJNd_ 2024-05-06T21:20:11.572Z
-response to / acknowledgment of **kıkı** (cf **kıjı**→**jıkı**)
-
-jıjı -1 `en` @Machy #D4w76Tj0X 2022-02-01T05:28:55.468Z
+jıjı ± `en` @Machy #D4w76Tj0X 2022-02-01T05:28:55.468Z
 ▯ is the two of us; ▯ is we two.
 Machy (2022-02-01T05:29:01.018Z): 1st person dual
+evie (2025-10-03T02:35:29.509Z): (-1 "us" could mean many different things)
+
+jıjı ± `en` @evie #uUGxZJNd_ 2024-05-06T21:20:11.572Z
+response to / acknowledgment of **kıkı** (cf **kıjı**→**jıkı**)
 
 jıjıe ± `en` @Laqme #o14fTIn40 2019-02-20T21:59:27.000Z
 ▯ is how I deem/judge things to be / is my opinion.
@@ -48267,6 +48274,7 @@ Lucebuegua ± `en` @robintown #ebLdLr_Yx 2025-07-28T08:48:53.559Z
 lucu +2 `en` @TheAndSys #YNZpqQD84 2024-02-12T15:25:25.106Z
 ▯ is a game
 TheAndSys (2024-02-12T15:26:00.500Z): Orıgınal definition seemed needlessly strict for me and if we went down that way we'd end up with seven million hundred words for "game" (we are already pretty much there)
+jiqci (2025-10-03T15:34:51.701Z): etym: shortened from **luaq** + **cuaq**
 
 lucucaqche ± `en` @zearen #IQfcpO0I5 2025-10-02T18:02:28.006Z
 ▯ is a game master or "GM".
