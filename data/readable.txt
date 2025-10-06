@@ -20994,8 +20994,9 @@ fuaqlaı ± `en` @seaqtaq #vksJrvbB8 2024-11-05T11:23:59.133Z
 fuaqme ± `en` @lassc #3jiRUAbuu 2023-11-17T22:10:04.457Z
 ▯ is a scrapbook/collage.
 
-fuaqmu ± `en` @fagri #9vKq-vn_Z 2021-08-02T21:55:01.568Z
+fuaqmu +1 `en` @fagri #9vKq-vn_Z 2021-08-02T21:55:01.568Z
 ▯ is a world/scene/thing depicted in a picture
+TheAndSys (2025-10-06T00:54:41.397Z): Scenery
 
 fuaqmuoq ± `en` @uakci #iKnuvEr6N 2019-04-09T09:24:27.000Z
 ▯ is paint (a dye specifically for painting).
@@ -33177,6 +33178,9 @@ jaqdaq ± `en` @TheAndSys #MvgIK_7tQ 2024-05-08T18:11:35.903Z
 
 jaqduı +2 `en` @Laqme #n-zGJGQAw 2025-03-14T17:32:14.632Z
 degree: "far too much"
+
+jaqfaı ± `en` @TheAndSys #3uokNyWA3 2025-10-06T01:25:30.811Z
+▯ is the case as much as ▯ is the case
 
 jaqgala ± `en` @official #_45tj5CMR 2019-05-05T22:25:58.577Z
 predicate: ‘jungle’; ▯ is a jungle.
@@ -73765,6 +73769,11 @@ soq ± `pl` @jiqci #vs4J_lx0Nf 2023-07-31T08:22:18.796Z
 soq ± `ru` @SuperSpaceNiM #pE6xgHmaI 2024-08-16T10:21:12.019Z
 ▯ среди ▯ является самым ▯
 SuperSpaceNiM (2024-08-16T10:21:43.700Z): X-ейший, самый X-ый
+
+soq ± `en` @TheAndSys #XSeHcc5lt 2025-10-06T00:59:08.518Z
+predicatizer: turns property into "the thing that satisfies [property] the most"
+TheAndSys (2025-10-06T01:01:34.181Z): "ma zao súq sóq he juoq sı súq já?" -> "do you know what you should pay the most attention to?"
+TheAndSys (2025-10-06T01:02:41.781Z): Can be achieved with typical soq + object incorporation but that whole thing is kind of lengthy and a bit of a mess since koitieq seems fine with underfilling even in sentences
 
 soq -1 `toa` @uakci #COL_pWVBK 2019-01-27T20:34:37.000Z
 sıa dó měa hóa dósaq pa, huaq dóshı dógu da
