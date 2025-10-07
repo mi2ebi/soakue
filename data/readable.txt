@@ -3015,6 +3015,9 @@ beınoqlıao -1 `en` @Snow #Q_EG74UM0 2024-10-06T07:53:56.426Z
 beıpo ± `en` @Iako #tiBu9srhY 2025-05-11T22:24:12.062Z
 ▯ is a vape / electronic cigarette.
 
+beıpopıe ± `en` @TheAndSys #Dmi0Yk2VI 2025-10-06T03:13:15.989Z
+▯ vapes
+
 beıra ± `en` @Laqme #zJD5yjoXy 2025-03-25T11:29:28.806Z
 ▯ is a hill.
 
@@ -35872,6 +35875,9 @@ uakci (2022-09-27T11:10:21.372Z): (0 0). unary def could look sth like: ▯ is v
 jırıjı +1 `en` @TheAndSys #mD8V8as9n 2025-09-16T05:31:27.118Z
 ▯ wiggles, shakes around
 
+jıro ± `en` @TheAndSys #wnMqQcbax 2025-10-06T03:19:41.524Z
+▯ is mean/rude
+
 jıroı ± `toa` @uakci #fry8JjVcR 2022-02-15T23:27:38.586Z
 gaq ▯ jí ▯
 
@@ -38122,6 +38128,9 @@ juqnuaı ± `en` @Laqme #t8Un2TfMd 2023-07-18T12:06:24.400Z
 
 juqrurı ± `en` @seaqtaq #R7uMvX_CP 2024-10-22T09:28:48.681Z
 ▯ intercepts ▯ in satisfying property ▯; ▯, before ▯ is able to or decides to, satisfies property ▯ which the latter was meant to do originally
+
+juqshıeı ± `en` @jiqci #KRM5LYW3a 2025-10-06T22:10:48.052Z
+▯ is an income tax.
 
 juqshoe ± `en` @uakci #zvuVkzOQi 2022-02-09T09:20:03.452Z
 ▯ allows property ▯ to be given to them.
@@ -40505,6 +40514,9 @@ keratıaı ± `en` @jiqci #8cGhMuN5H 2025-01-13T10:37:48.983Z
 
 kere ± `en` @seaqtaq #pww3ap6Vb 2019-06-20T03:22:53.556Z
 ▯ is a scrotum/ballsack
+
+kereleoq ± `en` @jiqci #4mYvA_-lm 2025-10-06T22:37:50.665Z
+▯ is a jockstrap.
 
 kerıoq ± `en` @seaqtaq #vcSwBjWJs 2019-06-20T02:08:44.256Z
 ▯ is a type of/kind of things that satisfy property ▯
@@ -73760,6 +73772,11 @@ Laqme (2019-02-12T19:34:48.000Z): +1 ♥
 soq ± `en` @official #l9_PLTIBK 2022-07-19T18:30:54.087Z
 predicate: ‘most’; ▯, among ▯, satisfies property ▯ the most.
 
+soq +1 `en` @TheAndSys #XSeHcc5lt 2025-10-06T00:59:08.518Z
+predicatizer: turns property into "the thing that satisfies [property] the most"
+TheAndSys (2025-10-06T01:01:34.181Z): "ma zao súq sóq he juoq sı súq já?" -> "do you know what you should pay the most attention to?"
+TheAndSys (2025-10-06T01:02:41.781Z): Can be achieved with typical soq + object incorporation but that whole thing is kind of lengthy and a bit of a mess since koitieq seems fine with underfilling even in sentences
+
 soq ± `toa` @Ilmen #JP651xyO5 2020-01-30T15:03:34.089Z
 = huaq ▯ tu bü mea go hoı hóa na ru mea hóa ▯ na ▯.
 
@@ -73769,11 +73786,6 @@ soq ± `pl` @jiqci #vs4J_lx0Nf 2023-07-31T08:22:18.796Z
 soq ± `ru` @SuperSpaceNiM #pE6xgHmaI 2024-08-16T10:21:12.019Z
 ▯ среди ▯ является самым ▯
 SuperSpaceNiM (2024-08-16T10:21:43.700Z): X-ейший, самый X-ый
-
-soq ± `en` @TheAndSys #XSeHcc5lt 2025-10-06T00:59:08.518Z
-predicatizer: turns property into "the thing that satisfies [property] the most"
-TheAndSys (2025-10-06T01:01:34.181Z): "ma zao súq sóq he juoq sı súq já?" -> "do you know what you should pay the most attention to?"
-TheAndSys (2025-10-06T01:02:41.781Z): Can be achieved with typical soq + object incorporation but that whole thing is kind of lengthy and a bit of a mess since koitieq seems fine with underfilling even in sentences
 
 soq -1 `toa` @uakci #COL_pWVBK 2019-01-27T20:34:37.000Z
 sıa dó měa hóa dósaq pa, huaq dóshı dógu da
