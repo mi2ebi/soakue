@@ -3433,6 +3433,10 @@ bereqtı ± `en` @robintown #jb_EBNGCq 2023-09-22T14:18:29.742Z
 berılıum ± `en` @uakci #9-CvNX-i- 2022-12-31T13:54:30.145Z
 ▯ is beryllium.
 
+berıq ± `en` @jiqci #ZhXzCkuWb 2025-10-09T08:23:20.072Z
+▯ is beryl (the mineral).
+jiqci (2025-10-09T08:24:26.325Z): etym: Thai เบริล beerin (from English), also **rıq**
+
 bero +6 `en` @Laqme #W6E8QtUmW 2021-09-25T20:06:39.590Z
 ▯ is north of ▯.
 
@@ -13937,6 +13941,9 @@ daıjeo ± `en` @fagri #rd_YqRoKK 2020-05-30T10:41:42.368Z
 
 daıjuna ± `en` @seaqtaq #c3Vv190Z6 2024-12-01T13:54:02.171Z
 ▯ is a possible, factual conditional (modal logic)
+
+daılaı ± `en` @jiqci #Sa8cZvJUx 2025-10-09T09:01:30.126Z
+▯ is the Neıranı glyph for D/Aı.
 
 daıleoq ± `en` @Laqme #PfSC8Zkut 2023-07-18T12:24:19.948Z
 ▯ insures ▯ against possible event ▯.
@@ -25268,6 +25275,9 @@ guaochao ± `en` @jiqci #RklFzsJlV 2024-01-17T17:01:07.142Z
 
 guaochım ± `en` @seaqtaq #BO2gqnJ2_ 2025-04-17T00:19:21.973Z
 ▯ is faced with dilemma ▯
+
+guaoguaq ± `en` @robintown #6TIppsXD9 2025-10-09T19:05:22.729Z
+▯ is a delta (landform).
 
 guaoko -1 `en` @Ilmen #vbAvaRhKq 2020-01-31T11:28:54.193Z
 ▯ is a member of the Glaucus family (blue dragon sea slugs).
@@ -39488,6 +39498,9 @@ kaqnuao ± `en` @Ilmen #X5E7-7vC7 2018-10-09T21:24:17.000Z
 kaqnuaokıaq ± `en` @Ilmen #TBADMGKT8 2018-10-09T21:24:36.000Z
 ▯ is an eyebrow.
 
+kaqnuı ± `en` @Laqme #6JHndCJOo 2025-10-09T08:34:51.758Z
+▯ appears small (because it's far away / zoomed out).
+
 kaqnhuaı ± `en` @Ilmen #nyMv9vFEM 2022-11-10T14:16:54.472Z
 ▯ is a view, a visual quale.
 
@@ -39547,6 +39560,9 @@ kaqruoı ± `en` @Laqme #066LNoba9 2023-02-20T18:51:49.111Z
 
 kaqruoısı ± `en` @Laqme #K-oYhceoD 2023-02-20T18:52:20.299Z
 ▯ squints to look at ▯.
+
+kaqsao ± `en` @Laqme #YYqp4-CKz 2025-10-09T08:35:13.028Z
+▯ appears big (because it's up close / magnified).
 
 kaqse ± `en` @uakci #iIBrAHyE0 2022-05-26T23:18:52.099Z
 ▯ is a look/glimpse/view / a/the appearance/countenance / (actual/permanent or momentary/gleaned/subjective)'visual profile of ▯.
@@ -45884,6 +45900,10 @@ uakci (2023-12-02T12:23:14.838Z): **he** often goes with **há**, so understand 
 uakci (2023-12-02T12:28:02.375Z): syntactic aside: since **lı** has a built-in **ha** Asp node, i’d like to treat **lı** as the masked spelled-out form of an Asp node above and a V node below, namely **he** and **ıqha**
 uakci (2023-12-02T12:29:10.491Z): (in other words, some ✨automagical syntactic process✨ turns the continuous sequence **he ıqha** into **lı**, perhaps during Spell-Out, the syntactic phase infamous for having all kinds of magic shoved into it
 
+lị́a- ± `en` @uakci #c8TRWI2vX 2025-10-07T09:04:33.037Z
+prefix: turn conjunction X into a pronoun denoting ‘the former X the latter’ (in some contextually appropriate sense)
+uakci (2025-10-07T09:05:16.499Z): **lị́aru** ‘both this and that’; **lị́arubu** ‘the former but not the latter’
+
 lıa ± `en` @official #gqGXyGRVeu 2019-05-05T22:26:27.871Z
 predicate: ‘beside’; ▯ is beside ▯; ▯ is to the side of ▯; ▯ is next to ▯.
 
@@ -45928,6 +45948,9 @@ lıaı ± `pl` @jiqci #xD8UARKksC 2023-07-31T08:21:11.986Z
 
 lıaıcısu ± `en` @evie #GDbAXRr-- 2025-04-30T20:15:35.777Z
 ▯ is a free morpheme
+
+lıaıco ± `en` @jiqci #lG521-OhC 2025-10-09T08:52:05.215Z
+▯ is a floating-point number.
 
 lıaıfuq ± `en` @Laqme #RkXL9zlAp 2022-03-14T23:05:32.511Z
 ▯ is an article of swimwear.
@@ -49639,7 +49662,7 @@ pronombre: ‘it.II‘; pronombre anafórico para DPs inanimadas (clase II)
 maqbo ± `en` @official #7n-EE40MS_3 2023-01-13T19:24:52.055Z
 predicate: ‘its’; ▯ is máq's (the referent of the recent inanimate DP's).
 
-maqga ± `en` @uakci #9i8SChNv5 2020-02-06T19:58:55.119Z
+maqga +1 `en` @uakci #9i8SChNv5 2020-02-06T19:58:55.119Z
 ▯ is a manga (Japanese-style comic book).
 
 maqgane ± `en` @uakci #SDuBgmSCD 2022-12-31T14:13:33.918Z
@@ -52917,6 +52940,9 @@ momalıem +1 `en` @Laqme #b6m_tQlyM 2023-09-03T17:49:06.006Z
 
 momapaku ± `en` @jiqci #EOtauR9a9 2025-08-21T21:56:54.704Z
 ▯ is cerumen/earwax.
+
+momasham ± `en` @Laqme #V78pn77gl 2025-10-09T08:30:45.585Z
+▯ is earwax.
 
 momo +1 `en` @el #vXC-O6MW1 2022-06-27T15:47:33.504Z
 open-quote used for when unmatched **mo** or **teo** are in the quoted text
@@ -60476,6 +60502,9 @@ evie (2024-06-03T18:55:09.543Z): beautiful
 nhóı ± `en` @lassc #pVwlKqBSf 2025-03-20T12:21:34.577Z
 pronoun: cute/endearing 2nd person pronoun
 
+nhoılaı ± `en` @jiqci #MQu_FFfIH 2025-10-09T09:01:54.097Z
+▯ is the Neıranı glyph for Nh/Oı.
+
 nhoka +4 `en` @Laqme #qyuS82cIz 2022-07-10T03:27:42.817Z
 ▯ is a cute lil paw / foot / hand.
 Laqme (2022-07-10T03:28:43.876Z): cutesy corruption of **nıoka**, think "pawbs" or "footsies"
@@ -62783,6 +62812,7 @@ fagri (2021-08-10T01:22:53.557Z): i.e. it burns the top of their mouth. doesn't 
 pıcarıaq +1 `en` @jiqci #0l7jJ0zHx 2023-05-21T16:04:09.569Z
 ▯ is a pizzeria.
 Laqme (2024-07-11T12:21:51.778Z): PSM (phono-semantic matching) of "pizzeria" with **pıca** + **rıaq**
+jiqci (2025-10-07T06:07:22.172Z): (only retroactively, initially I was going **pıca** + **haqrıaq**)
 
 pıcıu ± `en` @official #mjY0ufr6L6 2019-05-05T22:27:04.405Z
 predicate: ‘urinate’; ▯ urinates/pees/pisses.
@@ -65887,6 +65917,10 @@ bu shıu ra bıe dóshı dógu da
 
 rao -1 `toa` @Ilmen #iJLnHMvJj 2019-01-30T10:32:42.000Z
 = [XX] Paq sa dáqmoa dóshı ru dógu.
+
+raofaza ± `en` @cateyes #4Jkp9rP5w 2025-10-09T10:15:15.330Z
+▯ is ingrain wallpaper
+cateyes (2025-10-09T10:17:37.913Z): loaned from German Raufaser(tapete)
 
 raogı ± `en` @Ilmen #YGBRgyBJW 2019-01-20T13:34:27.000Z
 ▯ is timely.
@@ -79262,6 +79296,9 @@ taokuaı ± `en` @Ilmen #oVLNAsH9g 2018-10-08T20:35:33.000Z
 ▯ feels driven to or feel a need to do ▯.
 Ilmen (2018-10-08T20:35:46.000Z): Ithkuil's Compulsive Modality.
 
+taolaı ± `en` @jiqci #XNRZzoaiQ 2025-10-09T09:02:15.515Z
+▯ is the Neıranı glyph for T/Ao.
+
 taole ± `en` @Ilmen #X2q8UsW7x 2018-10-08T20:34:39.000Z
 ▯ tends to or is prone to do ▯.
 
@@ -81669,6 +81706,9 @@ tıqboe ± `en` @Laqme #5iM0C_i75 2024-05-09T10:29:24.052Z
 tıqjıoq +1 `en` @Laqme #09AJkSMK2 2022-11-13T22:59:29.078Z
 ▯ is a cellular automaton.
 
+tıqlea ± `en` @Laqme #rkoQm_WiV 2025-10-09T08:40:30.093Z
+▯ is a mosaic.
+
 tıqloha ± `en` @Laqme #KsMUEbHZy 2022-05-10T11:11:08.959Z
 ▯ is tin.
 
@@ -81711,6 +81751,9 @@ predicate: ‘butterfly’; ▯ is a butterfly/moth.
 
 tıqshoaı ± `pl` @jiqci #gpVNaC1Dy 2023-07-31T08:22:28.085Z
 ▯ to motyl/ćma (rząd Lepidoptera - łuskoskrzydłe).
+
+tıqshuı ± `en` @Laqme #tV-xlOzU2 2025-10-09T08:38:32.631Z
+▯ is pixelated / obscured by a mosaic blur.
 
 tıqtı +1 `en` @fagri #svqpjTfQA 2018-10-03T23:05:27.000Z
 ▯ stings/pokes ▯
@@ -85969,7 +86012,7 @@ zaratuchoachuaq +1 `en` @salarua #yhdTtUsbi 2025-03-26T23:30:25.705Z
 ▯ is Zoroastrianism.
 
 zaru +3 `en` @Laqme #_PfrnLMCM 2022-10-09T21:13:03.697Z
-▯ warns ▯ that ▯ is the case.
+▯ warns that ▯ is the case.
 
 zarulaı +1 `en` @Laqme #XpDl1Z5Ra 2022-10-09T21:21:56.184Z
 ▯ is a warning glyph (like ⚠️).
@@ -86064,6 +86107,9 @@ focus particle: 'for one'
 Laqme (2024-08-20T13:31:06.997Z): zéı X = "X and stuff", "X to name just one thing", "X for example", "X (but not only X)"
 Laqme (2024-08-20T13:31:21.902Z): inexhaustiveness marker
 Laqme (2024-08-20T13:31:39.625Z): see also **muana**
+
+zeılaı ± `en` @jiqci #Ga8K1yC0X 2025-10-09T09:02:32.649Z
+▯ is the Neıranı glyph for Z/Eı.
 
 zejeo -1 `en` @uakci #WEg0X-83V 2022-02-04T23:43:58.785Z
 ▯ satisfies the predicate that defines **ze**.
@@ -86590,6 +86636,9 @@ zıqtıdıbu ± `en` @uakci #pQ-0M9STA 2022-06-24T12:18:24.474Z
 zıqtıq ± `en` @jiqci #hQ8_BI637 2023-06-03T11:29:18.772Z
 ▯ is an electronic chip / integrated circuit.
 jiqci (2023-06-03T11:31:00.104Z): as integrated circuits are produced in wafers
+
+zıqtıq ± `en` @Laqme #3oCY8bh4l 2025-10-09T08:38:37.090Z
+▯ is a pixel.
 
 zıqtoa ± `en` @uakci #ERxs8OVc7 2021-11-07T03:54:44.037Z
 ▯ is a computer word (usually 2, 4, 8 bytes).
