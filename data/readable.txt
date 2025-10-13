@@ -17105,8 +17105,11 @@ robintown (2021-08-01T05:45:11.103Z): This is the more regular form for modals.
 Laqme (2021-10-23T16:46:03.660Z): this expresses an obligation
 Laqme (2021-12-02T22:30:01.876Z): “deontic obligation”
 Laqme (2023-07-18T13:06:11.490Z): required
+Ilmen (2025-10-12T19:52:04.339Z): Why not a different word than the official ⟪duaı⟫? I interpret the original as having a focus on the person who is *reponsible* for the duty/obligation, and this new meaning doesn't allow expressing responsability.
+Ilmen (2025-10-12T19:54:08.395Z): Admittedly, the wording of the original definition is ambiguous and can also be interpreted as allowing ⟪the door ⟦duaı⟧/must be opened⟫ which is not about responsability. But I suspect this isn't what the original meaning is about, at least if we take into account the verb's frame.
+Ilmen (2025-10-12T19:55:40.572Z): I guess if this new definition were to be adopted, ⟪duaıgıla⟫ could work as a replacement for the previous meaning, but it's a bit longish…
 
-duaı -1 `en` @official #PAC4WWU4zf 2019-05-05T22:25:23.417Z
+duaı ± `en` @official #PAC4WWU4zf 2019-05-05T22:25:23.417Z
 predicate: ‘must’; ▯ must satisfy property ▯.
 
 duaı ± `tok` @nano #YgT090Ue7 2023-05-24T05:23:16.013Z
@@ -19949,6 +19952,9 @@ feogı ± `en` @uakci #RvrkWRzwa 2021-08-15T12:55:54.648Z
 feoja ± `en` @seaqtaq #WP0QvTtUC 2024-07-09T00:33:22.990Z
 ▯ adjusts/aims/tilts ▯ to point in direction ▯
 seaqtaq (2024-07-09T01:10:21.102Z): Keywords: adjust, tilt, point
+
+feojam ± `en` @Laqme #ip_FP3vte 2025-10-12T11:05:56.324Z
+▯ is a compass (the tool for finding your way).
 
 feojeq ± `en` @fagri #Puiat4L8F 2020-06-14T15:58:46.770Z
 ▯ is parallel to ▯
@@ -24828,6 +24834,9 @@ gomnıaq ± `en` @Laqme #GP6xH6K6G 2023-09-22T13:14:19.710Z
 gomo ± `en` @Machy #4pI6V_qFc 2022-04-20T18:30:57.558Z
 ▯ is a government.
 Machy (2022-04-20T18:31:08.223Z): Has the potential to be a very productive suffix.
+
+gompıq ± `en` @Laqme #aoabb3mKJ 2025-10-12T11:38:03.412Z
+▯ butt-dials / pocket-dials / accidentally pings ▯.
 
 gomse ± `en` @Laqme #E_yMsZUo3 2024-07-13T06:34:20.021Z
 ▯ is a mistake / error.
@@ -33078,6 +33087,9 @@ jaolaqkeoı ± `en` @Laqme #sEtwq_QmN 2025-09-14T11:41:04.826Z
 
 jaolaqlaq ± `en` @uakci #q_bIwikqG 2022-09-13T11:12:06.624Z
 ▯ is a ringtone.
+
+jaolaqpıq ± `en` @Laqme #gP4lvpHxY 2025-10-12T11:31:49.086Z
+▯ rings ▯'s phone.
 
 jaolaqsue ± `en` @Laqme #XTeWxNvic 2021-10-17T10:49:34.792Z
 ▯ phones ▯; ▯ calls ▯ by phone.
@@ -59552,7 +59564,7 @@ nunu -1 `en` @fagri #T1b7H-qGC 2019-01-01T21:18:08.000Z
 ▯ expresses sympathy for ▯ ; ▯ uunmo ▯ (lojban)
 fagri (2019-12-08T06:10:26.090Z): tags: "uh oh", "oh no", "yikes"... (when used with ka)
 
-nununu ± `en` @Laqme #ZyIrJIxp0 2025-09-07T10:56:31.414Z
+nununu +1 `en` @Laqme #ZyIrJIxp0 2025-09-07T10:56:31.414Z
 nullary verb: "blah blah blah"
 Laqme (2025-09-07T10:57:09.701Z): Useful for demonstrating sentence structures: **Chı jí, ꝡá nununu** = I believe that blah-blah-blah.
 Laqme (2025-09-07T10:57:35.987Z): "something-something", "so-and-so", "yada yada"
@@ -60282,6 +60294,9 @@ mute ▯₂ la ▯₁ li lon
 nhe ± `pl` @jiqci #IF3e0TQRuU 2023-07-31T08:21:35.904Z
 ▯ zachodzi w stopniu ▯.
 
+nhe'e ± `en` @TheAndSys #VAhfr5PLJ 2025-10-12T21:04:27.885Z
+▯ is meant for ▯
+
 nhea +2 `en` @Laqme #89lh8AAct 2022-05-07T17:43:09.097Z
 ▯ takes place gently (gradually, softly, mildly, carefully); ▯ gently satisfies ▯.
 Laqme (2022-05-07T17:46:03.440Z): antonym of **eka**
@@ -60351,11 +60366,12 @@ nhenhe +1 `en` @el #UJoSc2dPD 2022-10-20T01:29:03.477Z
 in DA; yeah yeah you get the idea
 el (2022-10-20T01:29:43.415Z): when you get halfway through the sentence and you realize you don't need to finish it for the other person to get the point you're trying to say; also if you're just reiterating something you know they already know
 
-nheo +3 `en` @el #Dwdy3OZGm 2022-03-17T16:54:08.037Z
+nheo +4 `en` @el #Dwdy3OZGm 2022-03-17T16:54:08.037Z
 in DA; utterance not meant to assert the claim itself, but that the claim is already known/believed/conjectured/etc to be true, and that the speaker agrees that that's the case
 el (2022-03-17T16:54:35.032Z): imaginary etymology: nho + jeo
 el (2022-03-17T17:03:14.566Z): votes battle with #4HtcKO5vc
 el (2022-07-05T17:36:02.211Z): this one's won out
+ijonetun (2025-10-12T18:12:04.527Z): girl, we been nheo (nheo ≈ knew)
 
 nhêo +1 `en` @uakci #d1z7Bky6h 2022-07-30T12:46:53.380Z
 presuppositional explanatory illocution; akin to “after all, as we know, …”
@@ -60400,6 +60416,10 @@ evie (2025-02-27T07:03:11.181Z): wha
 
 ⚠ nhıa -1 `en` @TheAndSys #yq3Bmalyj 2023-09-26T20:53:46.015Z
 ▯ is an object
+
+⚠ nhıe -1 `en` @TheAndSys #kFNbAHKxP 2025-10-12T20:11:34.180Z
+▯ is meant for ▯
+TheAndSys (2025-10-12T20:13:58.678Z): Another word similar to liei or tiao, with the implication that the subject was "picked" or is special in some way because of how it matches the object
 
 ⚠ nhıꝡıꝡu -1 `en` @Laqme #oOQzYqNoc 2023-08-13T19:43:18.126Z
 ▯ violates Toaq phonotactics.
@@ -63242,6 +63262,9 @@ pıpoq ± `pl` @jiqci #GoYCPL_q1a 2023-07-31T08:21:48.954Z
 
 pıq ± `en` @robintown #x-FfncG7q 2022-07-01T03:11:06.916Z
 ▯ pings ▯.
+
+pıq ± `en` @Laqme #sn8_anJsX 2025-10-12T11:33:40.685Z
+▯ acts to get ▯'s attention.
 
 pıqceo ± `en` @el #-Y1QOr7xH 2022-07-31T21:29:53.555Z
 ▯ is a pixel
@@ -73018,7 +73041,7 @@ so- +1 `en` @kazoo #GqUpLXLcn 2025-04-30T20:31:18.704Z
 prefix: chord notation
 kazoo (2025-05-01T07:45:06.966Z): check out https://toaq.me/User:Neuekatze/Chords for the notation itself
 
-so +1 `en` @Machy #XMTv7iECL 2022-02-07T21:15:52.781Z
+so ± `en` @Machy #XMTv7iECL 2022-02-07T21:15:52.781Z
 Complementizer: non-polar question
 
 soa ± `en` @official #zjd9lzVG4- 2019-05-05T22:27:29.843Z
@@ -81288,6 +81311,9 @@ seaqtaq (2024-11-20T23:12:11.492Z): Frame c c c
 tıemkao ± `en` @Laqme #9FjlInnzu 2024-11-04T12:18:18.125Z
 ▯ is a mapping / dictionary / associative array.
 
+tıemkoam ± `en` @kazoo #DHv5aM0R_ 2025-10-12T15:12:18.110Z
+▯ is a root of function ▯.
+
 tıemu ± `en` @uakci #pS4Mimw31 2022-03-29T09:12:42.711Z
 ▯ is covered/protected/lidded.
 
@@ -86639,6 +86665,9 @@ zıqpaqkı ± `en` @jiqci #qYEf5vtmG 2025-08-29T19:06:23.056Z
 
 zıqpeq ± `en` @Laqme #c6UbFgHHU 2022-09-21T20:40:38.684Z
 ▯ is a web page.
+
+zıqpıq ± `en` @Laqme #0PtJULPmX 2025-10-12T11:34:42.285Z
+▯ pings ▯.
 
 zıqreum ± `en` @Laqme #zdnFHt22n 2023-07-20T00:29:24.877Z
 ▯ livestreams themselves satisfying property ▯.
