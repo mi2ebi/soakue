@@ -2305,6 +2305,7 @@ seaqtaq (2024-07-27T08:32:10.171Z): Morpheme-by-morpheme opposite of kuojeoq
 
 baobubua ± `en` @Lisaki #zr2KWW1Ic 2025-09-15T18:41:22.904Z
 ▯is rice porridge; occasionally refers to other light-coloured types of porridge
+Lisaki (2025-10-13T06:43:59.733Z): **bao** + **bubua**
 
 baoca ± `en` @Laqme #C5Cy_37st 2025-01-01T15:28:27.656Z
 ▯ dances a waltz.
@@ -13208,6 +13209,9 @@ chuge ± `en` @uakci #_k0fRZw1X 2021-11-06T20:31:43.515Z
 ▯ is sexual; ▯ (stimulus) turns ▯ on.
 uakci (2021-11-06T20:32:37.278Z): **chunı** + **ge**
 
+chugıu ± `en` @TheAndSys #ON5It5yKI 2025-10-13T02:58:40.996Z
+▯ splits/bisects/is the line separating ▯
+
 chugua ± `en` @uakci #K1W8BYvdo 2021-09-12T18:48:37.524Z
 ▯ is China.
 
@@ -18949,7 +18953,7 @@ faıdu ± `en` @uakci #FHGSL8xTk 2019-01-16T22:47:58.000Z
 faıfaı ± `en` @robintown #Xh89005Jk 2023-11-02T14:28:54.971Z
 ▯ satsifies property ▯ all the time.
 
-faıgedejoq ± `en` @Ilmen #6fuwgIDXL 2023-01-14T20:40:27.950Z
+faıgedejoq -1 `en` @Ilmen #6fuwgIDXL 2023-01-14T20:40:27.950Z
 ▯ is barley (Hordeum vulgare).
 Ilmen (2023-01-14T20:41:00.596Z): Etymology: ⟪faı⟫ + ⟪gedejoq⟫.
 
@@ -22502,7 +22506,7 @@ in proposition ▯, ▯ is a stimulus.
 gẹdea ± `en` @seaqtaq #Ht1viuzEL 2024-11-21T20:46:19.484Z
 ▯ taps/flicks ▯
 
-gedejoq ± `en` @Ilmen #q_rRKNZEG 2023-01-13T18:36:49.039Z
+gedejoq -1 `en` @Ilmen #q_rRKNZEG 2023-01-13T18:36:49.039Z
 ▯ is a grass of the Hordeum genus.
 Ilmen (2023-01-13T18:37:41.404Z): Etymology: Proto-Indo-European ⟪*ǵʰr̥sdeyom⟫ (“bristly”), whence the Latin ⟪hordeum⟫.
 
@@ -24835,7 +24839,7 @@ gomo ± `en` @Machy #4pI6V_qFc 2022-04-20T18:30:57.558Z
 ▯ is a government.
 Machy (2022-04-20T18:31:08.223Z): Has the potential to be a very productive suffix.
 
-gompıq ± `en` @Laqme #aoabb3mKJ 2025-10-12T11:38:03.412Z
+gompıq +1 `en` @Laqme #aoabb3mKJ 2025-10-12T11:38:03.412Z
 ▯ butt-dials / pocket-dials / accidentally pings ▯.
 
 gomse ± `en` @Laqme #E_yMsZUo3 2024-07-13T06:34:20.021Z
@@ -29991,6 +29995,7 @@ hoeraq ± `en` @Machy #tLM1NiJMH 2020-07-03T02:28:14.051Z
 
 hoereo ± `en` @Lisaki #-KBmKWsNq 2025-09-18T13:37:49.667Z
 ▯ is golden/gold-coloured
+Lisaki (2025-10-13T06:44:28.111Z): **hoe** + **reo**
 
 hoerıqpıo ± `en` @Laqme #8IXqagrVd 2022-05-10T10:19:25.190Z
 ▯ is chrysoberyl.
@@ -34767,7 +34772,7 @@ jıame ± `en` @jiqci #tvf4uUkI0 2023-09-13T19:05:28.537Z
 jıamfeı ± `en` @Laqme #Xm94ZwZhH 2025-01-22T10:24:35.963Z
 ▯ is berserk / in a violent rage.
 
-jıamfeıge ± `en` @robintown #dGPz0uBH3 2025-10-04T04:39:10.965Z
+jıamfeıge +1 `en` @robintown #dGPz0uBH3 2025-10-04T04:39:10.965Z
 ▯ is enraging / violently infuriating.
 
 jıamgıq ± `en` @jiqci #D57W8SqgR 2025-04-10T16:39:53.153Z
@@ -45977,7 +45982,7 @@ lıaı ± `pl` @jiqci #xD8UARKksC 2023-07-31T08:21:11.986Z
 lıaıcısu ± `en` @evie #GDbAXRr-- 2025-04-30T20:15:35.777Z
 ▯ is a free morpheme
 
-lıaıco ± `en` @jiqci #lG521-OhC 2025-10-09T08:52:05.215Z
+lıaıco +1 `en` @jiqci #lG521-OhC 2025-10-09T08:52:05.215Z
 ▯ is a floating-point number.
 
 lıaıfuq ± `en` @Laqme #RkXL9zlAp 2022-03-14T23:05:32.511Z
@@ -47662,6 +47667,10 @@ loqduı ± `en` @Machy #pf_OvQFtN 2021-10-10T07:05:07.646Z
 Machy (2021-10-10T07:05:32.340Z): It isn't necessarily on fire or charred.
 Machy (2021-10-26T01:53:40.920Z): burn, burnt
 Machy (2021-10-26T01:53:59.615Z): overdone
+
+loqfeaq ± `en` @Lisaki #STwF-8w9M 2025-10-13T06:11:46.165Z
+▯ is prepared (cooked/fried/...) rice.
+Lisaki (2025-10-13T06:44:44.742Z): **loq** + **feaq**
 
 loqge ± `en` @Laqme #P_0xtW5VS 2025-01-27T13:25:29.462Z
 ▯ offers warmth / heats you up / keeps you warm.
@@ -50956,6 +50965,7 @@ mıaoboe ± `en` @uakci #CLBCQ9OlI 2021-10-22T11:36:16.339Z
 
 mıaobubua ± `en` @Lisaki #VE8BKDbRZ 2025-09-15T18:40:42.359Z
 ▯is rice porridge; used in religious/spiritual context, referring to the ungarnished rice pudding meant to resemble the full moon served during religious rites
+Lisaki (2025-10-13T06:43:48.612Z): **mıao** + **bubua**
 
 mıaochoa ± `en` @uakci #2XxrrPOOD 2020-03-01T19:13:21.710Z
 ▯ meows / miaows; ▯ makes a meowing sound.
@@ -59922,6 +59932,7 @@ nuorıaı ± `en` @Ilmen #wH2uha8ox 2020-03-03T11:32:10.255Z
 
 nuosı ± `en` @Lisaki #KstLbZh32 2025-09-03T13:29:38.380Z
 ▯ lucid-dreams ▯.
+Lisaki (2025-10-13T06:46:53.151Z): **nuo** + **sı**; counterpart to **nuogaı** in analogy to **kaqgaı**/**kaqsı**
 
 nuosofa ± `en` @Ilmen #CQcYpZUDl 2020-02-29T23:01:22.712Z
 ▯ is a pullout couch.
@@ -60202,6 +60213,7 @@ nhaq ± `jbo` @el #3zgWWAeHD 2022-09-05T05:30:15.826Z
 nhäq ± `en` @Lisaki #xjOl8IU3S 2025-09-03T13:36:09.698Z
 interjection: dismissal
 mostly synonymous with ä, but has a feline illocution
+Lisaki (2025-10-13T06:43:27.577Z): portmanteau of nhaq + ä
 
 nhaqbeı ± `en` @Laqme #Ay2RjuzS8 2025-01-01T15:53:54.585Z
 ▯ is soooo much the case, meow. 🐱
@@ -61360,6 +61372,11 @@ Osoreılıagua ± `en` @countries #VWMFxLcT64s 2023-10-02T12:22:03.741Z
 
 Osumaqgua ± `en` @kazoo #kOME2Qjxb 2024-12-07T19:14:41.221Z
 ▯ is the Ottoman Empire
+
+oshe ± `en` @Lisaki #T3wAkTLQe 2025-10-13T09:56:33.193Z
+▯ is barley.
+Lisaki (2025-10-13T09:57:20.824Z): coined by Sonja, who asked me to add it, since she wasn't able to sign up
+Lisaki (2025-10-13T09:57:26.573Z): from French "orge"
 
 osherem ± `en` @kazoo #-Z9AQ93nK 2025-03-22T15:51:42.596Z
 ▯ is Ottoman sherbet.
@@ -63260,11 +63277,11 @@ TheAndSys (2023-04-07T19:00:08.179Z): pissperson (please dont change this word)
 pıpoq ± `pl` @jiqci #GoYCPL_q1a 2023-07-31T08:21:48.954Z
 ▯ to litera P.
 
+pıq +1 `en` @Laqme #sn8_anJsX 2025-10-12T11:33:40.685Z
+▯ acts to get ▯'s attention.
+
 pıq ± `en` @robintown #x-FfncG7q 2022-07-01T03:11:06.916Z
 ▯ pings ▯.
-
-pıq ± `en` @Laqme #sn8_anJsX 2025-10-12T11:33:40.685Z
-▯ acts to get ▯'s attention.
 
 pıqceo ± `en` @el #-Y1QOr7xH 2022-07-31T21:29:53.555Z
 ▯ is a pixel
@@ -85871,6 +85888,7 @@ seaqtaq (2024-11-22T03:59:26.444Z): This is not exclusively religious and explic
 
 zanasaoza ± `en` @Lisaki #3ZPkAhzN_ 2025-09-17T16:46:57.286Z
 ▯ is zanasaoza, a thick sauce popular in Toaqgua, made from fish/soy sauce, lime juice, starch, and various other ingredients
+Lisaki (2025-10-13T06:44:14.605Z): **zana** + **saoza**
 
 zanua ± `en` @Laqme #21IwbsrtX 2023-12-24T13:50:51.894Z
 ▯ steals, from ▯, ▯.
@@ -86666,7 +86684,7 @@ zıqpaqkı ± `en` @jiqci #qYEf5vtmG 2025-08-29T19:06:23.056Z
 zıqpeq ± `en` @Laqme #c6UbFgHHU 2022-09-21T20:40:38.684Z
 ▯ is a web page.
 
-zıqpıq ± `en` @Laqme #0PtJULPmX 2025-10-12T11:34:42.285Z
+zıqpıq +1 `en` @Laqme #0PtJULPmX 2025-10-12T11:34:42.285Z
 ▯ pings ▯.
 
 zıqreum ± `en` @Laqme #zdnFHt22n 2023-07-20T00:29:24.877Z
@@ -101564,9 +101582,6 @@ Machy (2022-04-20T02:45:16.472Z): Shaohui jí jĩe dâ
 
 ⚠ Esyperaqtogua ± `en` @mimiaoganhaqpy #Z2JCv-GeS 2022-07-10T01:40:05.166Z
 ▯ is "Esperantujo".
-
-⚠ faıgydejoq -1 `en` @Ilmen #ap7LKx4Lu 2020-02-18T11:09:25.624Z
-▯ is barley (Hordeum vulgare).
 
 ⚠ faıteıhey ± `en` @uakci #GtwkJ0VA7 2022-07-17T10:02:44.896Z
 ▯ is the canonical form of ▯.
