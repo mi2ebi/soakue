@@ -41,7 +41,7 @@ pub fn main() {
 
 fn dictify(the: &str) -> Vec<Toa> {
     let entries = from_str::<Toadua>(the)
-        .unwrap()
+        .unwrap_or_else(|_| panic!("toadua should be json, but its actual content is:\n{the}"))
         .results
         .into_iter()
         .filter(|toa| toa.score > -2 && !toa.date.starts_with("2025-09-21T1"))
