@@ -18761,6 +18761,9 @@ Eume +2 `en` @jiqci #6o9A77B4N 2024-12-26T16:34:22.303Z
 pronoun: each of us (me+you)
 evie (2024-08-10T00:52:18.720Z): cf **ésuna**
 
+euro ± `en` @jiqci #uK68h6vkV 2025-10-20T09:01:39.267Z
+unit: euro (currency)
+
 Eusaka ± `en` @jiqci #3n-vH0R1n 2023-02-03T16:54:58.371Z
 ▯ is Basque, partaining to Basque people or language.
 
@@ -22376,6 +22379,7 @@ geahoefeo ± `en` @xorxes #dTFrJkhbu 2021-09-18T18:50:17.837Z
 
 geaı ± `en` @evie #Chr5oPnN3 2024-11-24T21:28:54.987Z
 ▯ is a microbe
+jiqci (2025-10-20T08:02:53.628Z): microorganism
 
 geaıdıu ± `en` @Laqme #cR0oHBBm6 2023-10-16T14:30:55.711Z
 ▯ is microbiology.
@@ -25297,6 +25301,10 @@ TheAndSys (2024-10-15T04:05:50.681Z): Calque from french "mal du pays"
 
 guamaı +1 `en` @Avaxar #Wsbw4jsQ2 2024-05-12T15:15:24.224Z
 ▯ is patriotic/a patriot to nation ▯.
+
+guana ± `en` @Laqme #nlFnRu3xQ 2025-10-20T08:17:22.960Z
+▯ is a rope.
+Laqme (2025-10-20T08:17:36.643Z): nuotoa
 
 guanuekao ± `en` @jiqci #Qk7Bc-8wb 2023-07-13T20:35:42.368Z
 ▯ is a treaty/international agreement between ▯ obligating them to satisfy property ▯.
@@ -38897,6 +38905,13 @@ kambe ± `en` @Snow #xL0YyB3Il 2023-06-02T03:33:23.512Z
 ▯ is brassica oleracea.
 Snow (2023-06-02T03:38:51.890Z): From ancient greek κράμβη.
 
+kamchı ± `en` @jiqci #YNUoPaQwp 2025-10-20T08:27:00.638Z
+▯ is a whip/lash/scourge.
+jiqci (2025-10-20T08:27:28.821Z): etym: Turkic borrowing, compare Turkish kamçı
+
+kamchıhuoı ± `en` @jiqci #8gOh1SsUO 2025-10-20T10:06:37.272Z
+▯ is a flagellum.
+
 kamchu ± `en` @jiqci #5IaK6sp0R 2023-09-07T09:13:31.644Z
 ▯ is a hub/nave of a wheel.
 
@@ -40625,6 +40640,9 @@ Ilmen (2018-10-09T14:14:35.000Z): Ancient Greek κῆτος/kêtos.
 
 ketojuku ± `en` @jiqci #9jYTiJk2y 2023-07-19T21:06:06.700Z
 ▯ is an orca / killer whale.
+
+ketopaku ± `en` @jiqci #aKGXJhJ4r 2025-10-20T08:18:25.300Z
+▯ is spermaceti.
 
 ketoselaq ± `en` @jiqci #By1Bo4ISZ 2023-08-23T11:58:25.456Z
 ▯ is a whale shark (Rhincodon typus).
@@ -55147,6 +55165,9 @@ nao ± `tr` @kazoo #ViRfrr-Cd 2024-11-24T09:08:23.117Z
 nao'aı ± `en` @Ilmen #_GBR7VC3a 2025-03-29T23:09:45.800Z
 ▯ is liquid.
 
+nao'ıq ± `en` @kazoo #2MWv7RcBi 2025-10-20T15:18:57.613Z
+▯ is hydrated.
+
 naobeq ± `en` @Ilmen #P82x2doCt 2018-10-07T12:59:04.000Z
 ▯ is a wave (at the surface of a liquid).
 
@@ -57319,7 +57340,7 @@ Nıkaraguagua ± `en` @countries #XqSh_53K_iz 2023-10-02T12:22:04.891Z
 nıkela ± `en` @uakci #t5z0A-sxD 2022-12-31T14:14:24.690Z
 ▯ is nickel.
 
-nılı ± `en` @Ilmen #SrdB-0nqy 2020-01-23T21:38:32.871Z
+nılı -1 `en` @Ilmen #SrdB-0nqy 2020-01-23T21:38:32.871Z
 ▯ is the innermost lambda clause in which this word appears.
 
 nílı ± `en` @Ilmen #7LD9oSyBd 2024-08-21T20:19:32.465Z
@@ -58734,6 +58755,9 @@ notuqjeoq ± `en` @Ilmen #1lYsluD8T 2022-08-13T08:02:07.339Z
 notuqkea +1 `en` @robintown #dI8UXcFCO 2021-10-23T16:39:14.119Z
 ▯ is a bomb.
 
+notuqmıe ± `en` @kazoo #qPiTNjBEz 2025-10-20T18:55:58.241Z
+▯ is a creeper. (Minecraft)
+
 notuqpuo ± `en` @robintown #EEaSm0hn2 2021-10-23T16:37:19.068Z
 ▯ is gunpowder.
 
@@ -59263,6 +59287,9 @@ predicate: ‘pony’; ▯ is a pony; ▯ is a small horse (member of species Eq
 
 nuıbeaq ± `en` @Machy #5tESJ6nxt 2022-04-16T21:19:08.648Z
 ▯ is a wand.
+
+nuıbeaqnam ± `en` @kazoo #zTGzjBzSs 2025-10-20T16:16:07.182Z
+▯ is crackers/salt sticks.
 
 nuıcaq ± `en` @seaqtaq #t_QyTmRSx 2024-10-31T01:46:30.822Z
 ▯ micromanages ▯
@@ -69243,6 +69270,9 @@ ruıshe ± `en` @robintown #JOlc4o84J 2021-08-01T05:33:44.789Z
 robintown (2022-07-13T17:26:17.458Z): Etymology: just **ruı** + **she**, with the former being a metaphor for vagueness
 robintown (2022-07-13T17:26:32.265Z): dual **ruıdaı**
 
+ruızaqpaı ± `en` @jiqci #45Rp2gQkp 2025-10-20T08:19:41.636Z
+▯ is ambergris.
+
 rujı ± `en` @Ilmen #cGJA1Uh3e 2018-10-06T10:36:10.000Z
 ▯ is cream.
 
@@ -72972,6 +73002,9 @@ sırınuq ± `en` @jiqci #9-3pgcsvl 2024-05-02T13:55:23.547Z
 
 sırısasa ± `en` @Laqme #vZdQPI4K0 2024-08-30T20:38:25.348Z
 ▯ is a silk moth.
+
+Sírıtıeq ± `en` @jiqci #nNOZZOWXk 2025-10-20T15:55:29.136Z
+proper noun: the Silk Road
 
 sısa +1 `en` @uakci #3PkDwzQPl 2018-10-07T15:50:10.000Z
 ▯ is conscious.
@@ -84951,9 +84984,6 @@ robintown (2023-04-05T02:36:59.423Z): **ujoq** + **joq** from **joqhua**
 
 ujoqkuoq ± `en` @jiqci #BRRiFLWGm 2023-08-20T16:16:34.858Z
 ▯ is a malleus (one of three ear ossicles).
-
-ujoqnhoq ± `en` @jiqci #UJUgxss8H 2023-08-20T16:27:35.678Z
-▯ is a whip.
 
 ujoqshuo +1 `en` @jiqci #KCFtXJ6_q 2023-03-28T07:48:10.996Z
 ▯ is hammerspace.
