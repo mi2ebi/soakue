@@ -884,11 +884,11 @@ Anatorıaq ± `en` @kazoo #aiUuApOQl 2025-05-02T18:14:44.943Z
 anemone ± `en` @Laqme #wRbogIafn 2025-02-08T17:34:26.934Z
 ▯ is a sea anemone.
 
-anı +1 `en` @Hoemai #LOTyDA7if 2019-12-16T21:22:15.495Z
-▯ is sand.
-
 anı ± `en` @official #kZ1kq8XQZJ 2021-09-29T13:08:54.302Z
 predicate: ‘sand’; ▯ is sand.
+
+anı ± `en` @Hoemai #LOTyDA7if 2019-12-16T21:22:15.495Z
+▯ is sand.
 
 anı ± `pl` @jiqci #taQf5kA62p 2023-07-31T08:19:42.532Z
 ▯ to piasek.
@@ -1329,7 +1329,7 @@ apı +3 `en` @Ilmen #cyHlevFkFAe 2019-09-17T19:19:51.083Z
 apıbue +1 `en` @robintown #qslWasYg1 2021-10-12T16:27:54.498Z
 ▯ is a beehive.
 
-apıbue ± `en` @Ilmen #DCSxJB0If1a 2019-09-17T19:19:51.084Z
+apıbue -1 `en` @Ilmen #DCSxJB0If1a 2019-09-17T19:19:51.084Z
 ▯ is a hive.
 
 apıduao ± `en` @Ilmen #hwzAHQ5Br7t 2019-09-17T19:19:51.084Z
@@ -1610,7 +1610,7 @@ fagri (2021-09-25T07:03:27.575Z): Etymology: a priori, based on a suggestion by 
 arane ± `en` @official #f1iKDYoZr 2022-02-06T18:15:05.582Z
 predicate: ‘spider’; ▯ is a spider.
 
-arane ± `en` @Ilmen #sgI0dOqid 2019-12-13T21:09:07.731Z
+arane ± `en-arch` @Ilmen #sgI0dOqid 2019-12-13T21:09:07.731Z
 predicate: ‘spider’; ▯ is a spider.
 
 arane ± `tok` @el #AhL2MCYmG 2022-10-26T18:00:15.301Z
@@ -4443,15 +4443,15 @@ bo ± `ja` @Laqme #LYRMaL_yJ 2021-10-29T14:02:18.829Z
 bo ± `tok` @el #OE2wP3CGN 2022-07-10T01:03:10.119Z
 ▯ li jo e ▯
 
-bo ± `en` @el #G1e3Gasmk 2022-11-18T19:06:49.739Z
-For ▯, ▯ is a relevant thing that satisfies ▯
-
 bo ± `pl` @jiqci #h_HVmerc2f 2023-07-31T08:19:52.031Z
 ▯ ma/posiada ▯.
 
 bo ± `tl` @Hoekeiboi #diHbJAT-k 2023-07-31T13:13:20.198Z
 mayroon ang ▯ ng ▯.
 Hoekeiboi (2023-07-31T13:15:56.407Z): hindi quantifier ang salitang bo. predicate siya.
+
+bo -1 `en` @el #G1e3Gasmk 2022-11-18T19:06:49.739Z
+For ▯, ▯ is a relevant thing that satisfies ▯
 
 boa ± `en` @Ilmen #ZG2N8eMMO 2019-04-16T22:12:17.000Z
 ▯ is a neck.
@@ -5429,9 +5429,6 @@ buaı ± `pl` @jiqci #DNaIIVgFS 2023-07-31T08:19:49.122Z
 buaı ± `tl` @Hoekeiboi #l01bkG68n 2023-07-31T10:02:14.115Z
 mahaba ang ▯ (sa laki).
 
-buaı -1 `toa` @uakci #XbBAvUuAp 2019-04-14T20:56:26.000Z
-sao lú soq hóa cu sa túq gıu nǐe hóa dóshı na lî sao ja dó da
-
 buaıdekı ± `en` @fagri #xhOEAREcl 2021-08-13T05:13:56.732Z
 ▯ is a ruler (any device used to measure lengths)
 jiqci (2023-10-07T10:02:29.762Z): yardstick
@@ -5836,11 +5833,11 @@ bueshıqdao ± `en` @seaqtaq #eCNPK04yC 2024-10-28T21:00:22.829Z
 buetam ± `en` @robintown #fIKeArAFF 2023-02-06T18:44:46.050Z
 ▯ is a den.
 
-buetı +1 `en` @uakci #mf8OTPOeK 2020-04-05T16:19:59.710Z
-▯ is at home; ▯ is where they live; ▯ is in their own house.
-
 buetı ± `en` @official #LjgTr2Xaq 2025-09-05T19:59:12.221Z
 predicate: ‘at.home’; ▯ is at their home.
+
+buetı ± `en` @uakci #mf8OTPOeK 2020-04-05T16:19:59.710Z
+▯ is at home; ▯ is where they live; ▯ is in their own house.
 
 buetı ± `en` @jiqci #NH0-Z2lHh 2023-11-01T22:57:46.292Z
 ▯ is at ▯'s house/office/place; ▯ is chez ▯.
@@ -6518,7 +6515,7 @@ Ilmen (2025-10-02T15:20:49.691Z): The lemma form for this word should be ⟪búr
 búru ± `en` @Ilmen #bgzuSafOo 2025-10-02T15:21:08.618Z
 conjunction: 'not.and' (second connectand but not first)
 
-buruaq +2 `en` @Ilmen #ypIf3LarK 2018-09-26T12:26:28.000Z
+buruaq +2 `en-arch` @Ilmen #ypIf3LarK 2018-09-26T12:26:28.000Z
 ▯ denies ▯.
 uakci (2019-06-20T12:44:59.571Z): +1
 saqraku (2022-11-16T14:59:37.746Z): cf #J_d1sEhkyf ?
@@ -7444,13 +7441,13 @@ cashe ± `en` @Ilmen #VHDdGdMC5 2020-03-07T23:00:02.161Z
 cashue ± `en` @TheAndSys #IyUkcjZvQ 2023-11-01T05:08:58.574Z
 ▯ is trapped (not necessarily inside of another place, unlike with poanie)
 
-cataq +1 `en` @seaqtaq #IbS_0OOU5 2018-12-24T18:18:43.000Z
-▯ happens automatically
-seaqtaq (2019-12-27T16:38:18.713Z): the previous note gives a nonsensical definition, see **doe**
-
 cataq +1 `en` @Ilmen #jz4O0We-u 2020-02-27T16:48:21.039Z
 ▯ happens automatically; ▯ is spontaneous.
 jiqci (2023-05-23T11:05:11.346Z): ▯ does ▯ spontaneously
+
+cataq -1 `en` @seaqtaq #IbS_0OOU5 2018-12-24T18:18:43.000Z
+▯ happens automatically
+seaqtaq (2019-12-27T16:38:18.713Z): the previous note gives a nonsensical definition, see **doe**
 
 cateleq ± `en` @Machy #OTwqDTCxM 2022-04-15T17:25:43.550Z
 ▯ is Scottish.
@@ -7504,7 +7501,7 @@ ceachu ± `en` @jiqci #pUEz5bw4x 2024-01-03T11:05:11.938Z
 ceagıaqbıu ± `en` @jiqci #kIIXYgKH3 2023-08-20T17:16:52.002Z
 ▯ are bagpipes.
 
-ceahako ± `en` @Ilmen #xMTZo5ovD 2018-10-07T18:23:39.000Z
+ceahako ± `en-arch` @Ilmen #xMTZo5ovD 2018-10-07T18:23:39.000Z
 ▯ is a koala.
 
 ceahako ± `en` @Hoemai #PebR9Wdyj 2019-04-03T20:13:10.000Z
@@ -10058,10 +10055,6 @@ chaqchıu +1 `en` @Laqme #eIeLJUdlA 2024-01-10T23:46:39.994Z
 chaqchuı ± `en` @Ilmen #rr61xz88v 2019-04-21T08:48:58.000Z
 ▯ takes place early in the day.
 
-chaqdaq -1 `en` @seaqtaq #yYlWiuCsm 2018-12-29T17:59:52.000Z
-▯ is a date
-seaqtaq (2018-12-29T20:23:44.000Z): -1 see daqchiu
-
 chaqdıaq +3 `en` @Laqme #6us7v51VY 2018-12-14T03:12:08.000Z
 ▯ occurs daily / every day.
 Laqme (2018-12-14T03:13:11.000Z): #chaqtū (official) seems to break the #niaqdīaq, #joadīaq, etc. pattern.
@@ -10306,7 +10299,7 @@ cheaqkugo +1 `en` @robintown #wZFMxufr5 2023-05-20T05:34:31.696Z
 ▯ is reliable/dependable/trustworthy.
 robintown (2023-05-20T05:34:41.253Z): **cheaq** + **kugo**
 
-cheaqlu ± `en` @Ilmen #n7Y8XxdpJ 2019-01-23T16:47:36.000Z
+cheaqlu -1 `en` @Ilmen #n7Y8XxdpJ 2019-01-23T16:47:36.000Z
 ▯ has been asserted by a trustworthy source.
 
 cheaqmaı ± `en` @Laqme #OpblP77P6 2025-04-06T14:21:28.316Z
@@ -11775,11 +11768,11 @@ chıtoı ± `en` @uakci #aQ5KEUb9X 2021-09-03T19:51:49.851Z
 chıtu ± `en` @Ilmen #7t7imPO5V 2018-09-26T11:27:38.000Z
 ▯ is naive.
 
-chıtuafuı ± `en` @Ilmen #d5jkbbySz 2018-09-26T11:23:41.000Z
-▯ is naive.
-
 chıtuafuı ± `en` @Ilmen #TZ7zXC_jU 2019-11-05T19:53:53.557Z
 ▯ is gullible/credulous/naive.
+
+chıtuafuı -1 `en` @Ilmen #d5jkbbySz 2018-09-26T11:23:41.000Z
+▯ is naive.
 
 chıu ± `en` @official #5Wi1s9b_nB 2019-05-05T22:25:12.731Z
 predicate: ‘address’; ▯ is the address/coordinates of ▯.
@@ -12591,11 +12584,11 @@ choqjoe ± `en` @Laqme #Il5B8iqk3 2025-02-19T16:50:16.221Z
 choqjuaokao ± `en` @Ilmen #56Rgt-eBl 2022-11-04T22:49:07.462Z
 ▯ is a copyright license file.
 
-choqkıu +1 `en` @Ilmen #wq4YEDkWA 2018-10-08T20:40:11.000Z
-▯ is available; ▯ is available for being or doing ▯.
-
 choqkıu ± `en` @official #2BBZZC5fJs 2019-08-22T20:30:00.483Z
 predicate: ‘usable’; ▯ is usable (possible to use).
+
+choqkıu ± `en-arch` @Ilmen #wq4YEDkWA 2018-10-08T20:40:11.000Z
+▯ is available; ▯ is available for being or doing ▯.
 
 choqkıu ± `tok` @el #xEfs9VguV 2022-10-26T18:38:22.797Z
 ijo li ken kepeken ▯
@@ -14443,12 +14436,12 @@ daqchıa ± `en` @uakci #gHkBhFHQj 2024-05-16T13:54:56.520Z
 daqchıo ± `en` @lassc #Nl3SuVRcI 2022-11-28T21:54:33.929Z
 ▯ happened before and will happen again.
 
-daqchıu +5 `en` @Ilmen #3Lvo3JKsq 2018-09-20T13:57:21.000Z
+daqchıu +3 `en-arch` @Ilmen #3Lvo3JKsq 2018-09-20T13:57:21.000Z
 ▯ is the time address of ▯.
 Laqme (2019-01-11T02:05:57.000Z): +1 (≈ ⬚ is the date on which ⬚).
 uakci (2020-01-20T22:23:32.267Z): ▯ is the *date and time* on which ▯.
 
-daqchıu ± `en` @official #nuai7aXg62 2022-07-19T18:30:50.942Z
+daqchıu +1 `en` @official #nuai7aXg62 2022-07-19T18:30:50.942Z
 predicate: ‘time.address’; ▯ is the time address of ▯.
 
 daqchıu ± `pl` @jiqci #ya1iO15RUM 2023-07-31T08:20:08.566Z
@@ -14616,7 +14609,7 @@ daqko +1 `en` @fagri #hpnOBbz5D 2018-11-21T21:16:15.000Z
 ▯, among those satisfying property ▯, is the ▯th
 fagri (2018-11-21T21:16:30.000Z): +1 for conforming to abstraction-ordering simplification
 
-daqko +1 `en` @Ilmen #Yd2OxZ51E 2021-10-04T22:03:26.507Z
+daqko -1 `en` @Ilmen #Yd2OxZ51E 2021-10-04T22:03:26.507Z
 ▯, among ▯, is the ▯th.
 
 daqleaq ± `en` @uakci #Iq5Dfx29L 2020-05-19T22:59:17.158Z
@@ -15887,12 +15880,12 @@ dıetaı +4 `en` @uakci #SgO1pcQ06 2021-11-07T03:30:28.599Z
 ▯ convinces ▯ that ▯ should be the case.
 lassc (2022-12-05T20:44:28.048Z): persuade
 
-dıetaq +4 `en` @Ilmen #JdN-Xvr24 2018-10-08T20:49:04.000Z
+dıetaq +3 `en-arch` @Ilmen #JdN-Xvr24 2018-10-08T20:49:04.000Z
 ▯ volunteers for doing ▯.
 seaqtaq (2018-12-29T22:27:33.000Z): +1
 uakci (2018-12-29T22:32:14.000Z): +1
 
-dıetaq ± `en` @official #YWeB4Zx6N 2022-07-19T18:30:51.106Z
+dıetaq +1 `en` @official #YWeB4Zx6N 2022-07-19T18:30:51.106Z
 predicate: ‘volunteer’; ▯ volunteers for doing ▯.
 
 dıetaq ± `pl` @jiqci #vftK8s6mr 2023-07-31T08:20:15.152Z
@@ -17199,7 +17192,7 @@ duamaıpıo ± `en` @Machy #JRAVdVAWy 2022-04-12T00:34:53.707Z
 duamıa ± `en` @Ilmen #Yzv8kA5Mz 2019-11-05T19:40:51.319Z
 ▯ is educated, learned, erudite, savant or knowledgable about ▯.
 
-duamıa ± `en` @Ilmen #x51lWtzOI 2019-11-05T19:44:11.638Z
+duamıa -1 `en` @Ilmen #x51lWtzOI 2019-11-05T19:44:11.638Z
 ▯ is educated, learned, erudite, savant; ▯ is knowledgable about ▯.
 
 duamıq ± `en` @jiqci #e41OOa5XA 2024-07-01T13:54:06.376Z
@@ -17957,7 +17950,7 @@ prefix: turns a verb X into a verb meaning "▯ X-s because some salient hypothe
 ea ± `en` @official #8PqqW-hIVJ3 2023-01-13T19:24:49.727Z
 modality: ‘POSB.SUBJ’; subjunctive, possible; X could happen if ...
 
-ea ± `en` @Ilmen #IDEVRvPH6 2019-07-21T14:31:21.848Z
+ea ± `en-arch` @Ilmen #IDEVRvPH6 2019-07-21T14:31:21.848Z
 ▯ could be the case if ▯ were the case.
 
 ea ± `tok` @el #1J5J4nbP0 2022-07-10T07:18:51.859Z
@@ -18270,7 +18263,7 @@ seaqtaq (2019-11-15T01:01:02.673Z): From ancient greek echinos+derma "hedgehog s
 eku ± `en` @official #bpyoj7K1W 2020-01-28T22:52:13.682Z
 predicate: ‘equine’; ▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).
 
-eku ± `en` @Ilmen #7NpMI7b7V 2019-12-02T12:01:22.035Z
+eku ± `en-arch` @Ilmen #7NpMI7b7V 2019-12-02T12:01:22.035Z
 predicate: ‘equine’; ▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).
 
 eku ± `pl` @jiqci #NLQo2oCP2P 2023-07-31T08:19:46.485Z
@@ -18377,7 +18370,7 @@ eloarua ± `en` @jiqci #ckUATqMsX 2023-08-12T18:03:13.996Z
 elu ± `en` @official #glIpFP7eL3 2020-01-28T22:52:13.685Z
 predicate: ‘elephant’; ▯ is an elephant.
 
-elu ± `en` @Ilmen #XUGV-IR3K 2019-08-23T21:43:06.076Z
+elu ± `en-arch` @Ilmen #XUGV-IR3K 2019-08-23T21:43:06.076Z
 predicate: ‘elephant’; ▯ is an elephant.
 Ilmen (2019-08-23T21:43:16.717Z): From Proto-Berber *eḷu (“elephant”).
 
@@ -21272,9 +21265,6 @@ predicate: ‘touch’; ▯ touches ▯ (non-somatic); ▯ is in contact with �
 fuo ± `pl` @jiqci #LS1dMqhHQd 2023-07-31T08:20:20.239Z
 ▯ dotyka/styka się z ▯.
 
-fuo -1 `toa` @uakci #HcPm9l3E4 2019-01-27T20:32:37.000Z
-= #soq #juı
-
 fuocaı +1 `en` @uakci #Z1FC1-V2z 2020-03-01T18:42:45.128Z
 ▯ is hard / rough at the surface.
 
@@ -22151,7 +22141,7 @@ gaqkoe -1 `en` @seaqtaq #PREdE_Hqs 2018-12-28T19:15:16.000Z
 Gaqmatoaq ± `en` @uakci #gargUTmrT 2022-12-07T18:21:41.017Z
 ▯ pertains to Toaq Gamma.
 
-gaqme +1 `en` @Ilmen #ZE5V5iKLo 2020-03-07T17:02:13.116Z
+gaqme +1 `en-arch` @Ilmen #ZE5V5iKLo 2020-03-07T17:02:13.116Z
 ▯ is a group/band/gang/pack/herd/swarm/flock of the animals/people satisfying property ▯.
 
 gaqme ± `en` @official #IRT35tGCaKH 2021-09-29T13:08:54.619Z
@@ -22396,11 +22386,11 @@ predicate: ‘lift’; ▯ is a lift.
 geajeaqkea ± `pl` @jiqci #nRFotvh7U 2023-07-31T08:20:34.140Z
 ▯ to winda.
 
-geajıo +1 `en` @Ilmen #GbSiq-MjP 2019-12-07T17:12:21.977Z
-▯ is a tower or skyscraper.
-
-geajıo ± `en` @Ilmen #XBPyquUEg 2019-12-08T13:02:09.543Z
+geajıo +1 `en` @Ilmen #XBPyquUEg 2019-12-08T13:02:09.543Z
 ▯ is a tower, skyscraper or other tall building.
+
+geajıo ± `en` @Ilmen #GbSiq-MjP 2019-12-07T17:12:21.977Z
+▯ is a tower or skyscraper.
 
 geakua ± `en` @Laqme #sgNGq2jbK 2024-05-15T15:11:49.400Z
 ▯ is an attic.
@@ -24734,11 +24724,11 @@ goınuo ± `en` @uakci #SthAsdmO9 2019-05-01T15:55:40.000Z
 goıpoaı ± `en` @uakci #YBWPTIJ-I 2022-07-12T13:09:48.279Z
 ▯ is a medicine pill/tablet.
 
-goısaı +1 `en` @Laqme #jVe6ciy6m 2019-02-08T16:46:46.000Z
-▯ is a medicine.
-
-goısaı +1 `en` @Ilmen #aXvtnMJL1 2020-03-03T11:33:52.496Z
+goısaı +2 `en` @Ilmen #aXvtnMJL1 2020-03-03T11:33:52.496Z
 ▯ is a medicine (substance).
+
+goısaı ± `en` @Laqme #jVe6ciy6m 2019-02-08T16:46:46.000Z
+▯ is a medicine.
 
 goısaı ± `tok` @el #3ay1dabNZ 2022-07-10T01:18:05.202Z
 ▯ li misikeke
@@ -24950,7 +24940,7 @@ goqtıaı ± `en` @robintown #CihpVNDFl 2023-02-06T22:48:38.597Z
 goqzıa ± `en` @seaqtaq #mWFvRaOfj 2024-11-13T17:12:21.223Z
 ▯ smokes/gives off smoke
 
-gorılaı ± `en` @Ilmen #G2QJApZtr 2020-02-05T12:16:55.789Z
+gorılaı ± `en` @Ilmen #nneDth8bv 2018-10-20T17:25:04.000Z
 ▯ is a gorilla.
 
 gosa ± `en` @Ilmen #bgLEIcvCL 2020-02-17T21:20:36.768Z
@@ -26129,7 +26119,7 @@ uakci (Sun, 14 Apr 2019 22:29:48 GMT): piao
 Guobasa ± `en` @Gratuitous #s0I-3JqPZ 2020-01-30T12:12:37.999Z
 ▯ is the Globasa language.
 
-guobe +1 `en` @Ilmen #FFPQJ3LUC 2019-12-07T13:52:05.366Z
+guobe +1 `en-arch` @Ilmen #FFPQJ3LUC 2019-12-07T13:52:05.366Z
 ▯ is cattle/cow/bull/ox (Bos taxonomic genus).
 Ilmen (2019-12-07T13:53:00.128Z): From PIE "gʷṓws", plural "gʷówes".
 Ilmen (2020-03-07T18:11:29.637Z): Etymology: Proto-Indo-European *gʷṓws, PL *gʷówes, "cattle", whence the Latin "bōs" and the Ancient Greek " βοῦς".
@@ -27275,7 +27265,7 @@ One/you/they (generic impersonal pronoun) satisfies property ▯.
 hapaka ± `en` @Hoemai #MNZdyf9YL 2019-04-01T15:31:40.000Z
 ▯ is an alpaca (Vicugna pacos).
 
-hapı +3 `en` @Ilmen #E8V-Kqn8Y 2019-02-18T10:06:15.000Z
+hapı +3 `en-arch` @Ilmen #E8V-Kqn8Y 2019-02-18T10:06:15.000Z
 ▯ is a bee.
 Ilmen (2019-02-18T10:06:26.000Z): +1
 uakci (2019-02-18T11:13:33.000Z): +1 – is a very optimistic word
@@ -28196,11 +28186,11 @@ heomaı -1 `en` @seaqtaq #ecPlVNd1_ 2021-08-02T06:17:30.424Z
  ▯ is heteromantic/attracted only to those identifying/presenting differently gender-wise
 maigoi (2024-09-17T10:22:53.224Z): it does not explicit 'gender' nor 'only'
 
-heome ± `en` @Ilmen #VTaIwhWSg 2019-04-07T12:08:31.000Z
-▯ has a heterogenous composition.
-
 heome ± `en` @Ilmen #jWLwt98zy 2019-09-08T15:08:47.495Z
 ▯ is heterogenous.
+
+heome -1 `en` @Ilmen #VTaIwhWSg 2019-04-07T12:08:31.000Z
+▯ has a heterogenous composition.
 
 heomıa +2 `en` @Ilmen #IiS9VR-QP 2020-03-11T14:18:41.340Z
 ▯ are varied.
@@ -28337,14 +28327,14 @@ heqcheose ± `en` @Laqme #Br0GEVkso 2021-11-01T02:42:22.976Z
 heqchuo ± `en` @official #pRTdftSrb_ 2019-05-05T22:25:56.033Z
 predicate: ‘container’; ▯ is a container.
 
-heqchuo ± `en` @Ilmen #DPgZQFgYc 2019-02-21T10:44:52.000Z
-(fork of official) predicate: ‘container’; ▯ is a container; ▯ is a contained designed to contain anything satisfying property ▯.
-
 heqchuo ± `tok` @ijonetun #fgY71tAwc 2023-01-06T01:39:37.196Z
 ▯ li poki
 
 heqchuo ± `pl` @jiqci #_ByNzNN1ml 2023-07-31T08:20:41.299Z
 ▯ to pojemnik.
+
+heqchuo -1 `en` @Ilmen #DPgZQFgYc 2019-02-21T10:44:52.000Z
+(fork of official) predicate: ‘container’; ▯ is a container; ▯ is a contained designed to contain anything satisfying property ▯.
 
 heqfa +1 `en` @fagri #aWp_fO07M 2018-10-14T05:23:02.000Z
 ▯ is an elf.
@@ -28954,7 +28944,7 @@ hıchu ± `en` @uakci #4W1btE2r7 2022-07-09T12:03:38.462Z
 interjection: soliciting a response
 uakci (2022-07-09T12:04:34.247Z): “hey!”; “oi!”; also “what’s up” in all its possible senses
 
-hıderudo ± `en` @Ilmen #oPr-jjkdJ 2018-10-09T09:34:43.000Z
+hıderudo ± `en-arch` @Ilmen #oPr-jjkdJ 2018-10-09T09:34:43.000Z
 ▯ is a raspberry plant.
 Ilmen (2018-10-09T09:37:38.000Z): Rubus idaeus; it was associated with Mount Ida (ἴ̄δη in Ancient Greek), near Troy, in the North East of Turkey, which was apparently particularly rich in them.
 
@@ -29658,9 +29648,6 @@ The antecedent(s) of the relative clause satisfies property ▯.
 hoaq ± `en` @official #2t9uHyJH2 2019-05-05T22:25:54.555Z
 predicate: ‘burn’; ▯ burns.
 
-hoaq ± `en` @Ilmen #9aOiXsszL 2019-03-27T19:56:58.000Z
-▯ burns in oxidizer ▯.
-
 hoaq ± `ja` @Laqme #rkkfZVeAX 2021-10-05T15:04:47.477Z
 ▯が燃える
 
@@ -29672,6 +29659,9 @@ hoaq ± `tr` @kazoo #rRhhbFNJq 2024-11-24T19:06:54.928Z
 
 hoaq ± `bg` @kazoo #sGNT_Fe3h 2025-01-06T17:52:05.540Z
 ▯ гори.
+
+hoaq -1 `en` @Ilmen #9aOiXsszL 2019-03-27T19:56:58.000Z
+▯ burns in oxidizer ▯.
 
 hoaqfuı ± `en` @Ilmen #yaVNTAgUM 2019-04-24T09:04:45.000Z
 ▯ is flammable/inflammable; ▯ is easily set on fire.
@@ -31499,7 +31489,7 @@ hupataı ± `en` @Ilmen #9GVIKQ8Ce 2020-03-07T11:03:34.318Z
 hupı +1 `en` @official #qzIL4DO_Dc 2022-07-19T18:30:51.595Z
 predicate: ‘fox’; ▯ is a fox.
 
-hupı ± `en` @Ilmen #9HWmIZI4Z 2020-02-05T12:12:12.791Z
+hupı ± `en-arch` @Ilmen #9HWmIZI4Z 2020-02-05T12:12:12.791Z
 ▯ is a fox (Vulpes genus).
 fagri (2021-08-19T05:28:52.316Z): Note: members of the Vulpes genus are more properly known as "true foxes", while the word "fox" can also refer to some species not in the genus, such as Cerdocyon thuos, the crab-eating fox
 
@@ -36502,7 +36492,7 @@ jogoashaha ± `en` @robintown #SMsr5cDUu 2022-01-02T14:51:49.158Z
 jogu +1 `en` @uakci #ERXNmXSKS 2023-03-05T09:12:13.372Z
 ▯ voraciously, destructively, violently consumes ▯; ▯ devours / guzzles / wolfs / stuffs themselves with / gobbles down / pigs out / gluts oneself on ▯.
 
-jogu ± `en` @Ilmen #_HIWGv4Us 2020-02-16T21:55:56.920Z
+jogu -1 `en` @Ilmen #_HIWGv4Us 2020-02-16T21:55:56.920Z
 ▯ is yogurt.
 
 joguchuaı ± `en` @salarua #R3bOy52jq 2021-10-08T17:03:56.285Z
@@ -36680,9 +36670,6 @@ joq ± `tok` @el #qmwv6kq8L 2022-07-10T06:21:19.639Z
 
 joq ± `pl` @jiqci #1YavzVguat 2023-07-31T08:20:50.671Z
 ▯ jest główny/czołowy wśród ▯.
-
-joq -1 `toa` @uakci #TocxEPIMl 2019-04-14T20:45:40.000Z
-= #soq #suao
 
 joq'ıq ± `en` @uakci #v1NNVvkZB 2022-10-31T16:46:07.115Z
 ▯ is the primary one (are the primary ones) to satisfy property ▯ (so any other things that also satisfy it are irrelevant).
@@ -38501,7 +38488,7 @@ uakci (2023-11-01T20:44:50.546Z): same root as **kafe** (Arabic) if you squint
 kahucıa ± `en` @Ilmen #bickjqvmg 2020-02-05T11:04:21.721Z
 ▯ is a member of the order Anura (the frogs and toads).
 
-kaı +4 `en` @evie #DlN3gDVNv 2024-06-13T03:57:30.895Z
+kaı +3 `en` @evie #DlN3gDVNv 2024-06-13T03:57:30.895Z
 ▯ writes ▯
 Laqme (2024-09-19T12:15:25.284Z): This is about the physical act of writing. If you mean "writing a story" as in authoring/inventing it, you might want **fıeq** or **kaıfıeq**.
 
@@ -39505,7 +39492,7 @@ predicate: ‘visible’; ▯ is visible.
 kaqkıu ± `pl` @jiqci #fS3bTDkW_B 2023-07-31T08:20:56.311Z
 ▯ jest widzialny.
 
-kaqkıubu +1 `en` @Ilmen #J8Swer88j 2020-01-28T20:25:08.696Z
+kaqkıubu +1 `en-arch` @Ilmen #J8Swer88j 2020-01-28T20:25:08.696Z
 predicate: ‘invisible’; ▯ is invisible.
 
 kaqkıubu ± `en` @official #2NXXzrMbeR 2020-03-02T20:57:26.125Z
@@ -39831,7 +39818,7 @@ katıa ± `en` @salarua #P0Pqf252d 2025-06-07T07:57:31.573Z
 ▯ is a soul
 salarua (2025-06-07T07:57:57.508Z): Etymology: contraction of **kaqhuatıa** "behind the eyes"
 
-kato +10 `en` @Ilmen #mih9DrlXs 2018-09-24T22:04:45.000Z
+kato +10 `en-arch` @Ilmen #mih9DrlXs 2018-09-24T22:04:45.000Z
 ▯ is a cat.
 uakci (2018-09-24T22:07:35.000Z): +1!
 Ilmen (2018-10-30T09:07:22.000Z): +1
@@ -41272,14 +41259,14 @@ kılepıo ± `en` @Snow #sPetJzgxh 2024-03-21T14:24:43.176Z
 ▯ is mica.
 Snow (2024-03-21T14:25:01.278Z): Morrowed from finnish kiille.
 
-kılo +1 `en` @Hoemai #2cuSz2CrV 2019-03-28T16:39:46.000Z
-▯ is a kilogram; ▯ is ▯ (number of property) kilograms.
-
 kılo ± `en` @fagri #B7_nfX35S 2018-12-30T23:24:31.000Z
 ▯ masses exactly ▯ kilograms
 
 kılo ± `en` @Ilmen #PD77nJYj6 2018-12-31T08:48:11.000Z
 ▯ is a kilogram.
+
+kılo ± `en` @Hoemai #2cuSz2CrV 2019-03-28T16:39:46.000Z
+▯ is a kilogram; ▯ is ▯ (number of property) kilograms.
 
 kılo ± `en` @xorxes #i4wGU2AZ- 2021-08-27T16:59:52.540Z
 ▯ is/are (a) kilogram(s); ▯ is/are kilograms of things satisfying property ▯.
@@ -41795,11 +41782,6 @@ bu huaq puı dósaq dógu, na ru jèojeq shî dósaq pa, soq dóshı dójo dógu
 uakci (Sun, 27 Jan 2019 21:15:52 GMT): +1
 uakci (Sun, 27 Jan 2019 21:17:08 GMT): soq(S, x2, x4); if(shi(x3)) x1 = S; else ko(x1, x2 \ S, x3 - 1, x4)
 
-ko ± `toa` @uakci #BeyEIOQea 2019-01-30T20:59:23.000Z
-sa dó pǔıjeq hóa dósaq ru měa hóa dógu bı, soq gıq dóshı dójo dó, na ru huaq tu lú mea hóa shı dó ceı dójo tu lú mea hóa shı to ru dó bũ to dógu jẽo da
-uakci (Wed, 30 Jan 2019 21:00:11 GMT): ko(x1, x2, x3, x4) <=> x1 is the least x4 in a subset of x3 best x4-ers in set x2
-uakci (Wed, 30 Jan 2019 21:00:23 GMT): +1
-
 ko ± `en` @xorxes #_s7CDnVtp 2021-09-05T17:55:38.439Z
 predicate: ‘nth’; ▯ is the last of those satisfying number property ▯, who are the first to do so.
 xorxes (2021-09-05T17:57:21.148Z): **ko cı sha tı nı jí da** 'I am the sixth to arrive here.'
@@ -41825,8 +41807,10 @@ ko -1 `toa` @Ilmen #14uIYEUYz 2019-01-30T20:40:06.000Z
 ko -1 `toa` @Ilmen #lLQzIRqCg 2019-01-30T20:40:21.000Z
 = [XXN2] Mea dóshı dógu na ru puıne dósaq dógu sa dǒjo hóa dóshı.
 
-ko -1 `toa` @uakci #IyQhftRFK 2021-09-05T18:09:03.817Z
-suı ja shı ja zỷq sa lu soq hóa zýq
+ko -1 `toa` @uakci #BeyEIOQea 2019-01-30T20:59:23.000Z
+sa dó pǔıjeq hóa dósaq ru měa hóa dógu bı, soq gıq dóshı dójo dó, na ru huaq tu lú mea hóa shı dó ceı dójo tu lú mea hóa shı to ru dó bũ to dógu jẽo da
+uakci (Wed, 30 Jan 2019 21:00:11 GMT): ko(x1, x2, x3, x4) <=> x1 is the least x4 in a subset of x3 best x4-ers in set x2
+uakci (Wed, 30 Jan 2019 21:00:23 GMT): +1
 
 kö +1 `en` @TheAndSys #--BhGZdbn 2024-10-30T04:03:16.007Z
 Starts "inner clause" allowing you to fill nouns' slots
@@ -42199,7 +42183,7 @@ Laqme (2023-12-28T18:59:41.038Z): ▯ wastes time failing to decide an answer to
 koelao ± `en` @fagri #XuQUl2kwL 2019-01-09T02:14:11.000Z
 ▯ waits their turn to do ▯
 
-koelao ± `en` @Ilmen #XZ2LOjTbF 2019-02-07T18:28:22.000Z
+koelao -1 `en` @Ilmen #XZ2LOjTbF 2019-02-07T18:28:22.000Z
  ▯ hesitates between ▯ for satisfying property ▯.
 Ilmen (2019-02-07T18:28:36.000Z): ≈ moılāo.
 Ilmen (2019-02-07T21:55:55.000Z): = koemōı.
@@ -43210,7 +43194,7 @@ kuejıo ± `en` @official #CR9e--wRYW 2019-05-05T22:26:15.719Z
 predicate: ‘library’; ▯ is a library.
 robintown (2022-05-07T17:45:27.707Z): 'library building', as opposed to kủeshuo
 
-kuejıo ± `en` @Ilmen #Kx3NloCEa 2019-12-21T17:21:38.171Z
+kuejıo ± `en-arch` @Ilmen #Kx3NloCEa 2019-12-21T17:21:38.171Z
 ▯ is a library.
 
 kuejıo ± `pl` @jiqci #T1jPjEYl7S 2023-07-31T08:21:00.512Z
@@ -44015,11 +43999,11 @@ kuq ± `es` @TheAndSys #P95MQgLRp 2025-03-26T05:32:40.637Z
 kuq -1 `toa` @Ilmen #Fq6PTZJu0 2020-01-25T11:09:54.799Z
 ≈ kadeoq ▯ tu müı hóa sa kuqtoaı päq hóa ▯ na na ▯
 
-kuqbuaq +1 `en` @Ilmen #rKEXK3czx 2020-02-10T18:05:29.485Z
-▯ means to say ▯ but mistakenly says ▯ instead.
-
 kuqbuaq ± `en` @Ilmen #ngKjgedJK 2020-02-10T18:01:48.132Z
 ▯ means to say ▯ but mistakenly says something erroneous instead.
+
+kuqbuaq -1 `en` @Ilmen #rKEXK3czx 2020-02-10T18:05:29.485Z
+▯ means to say ▯ but mistakenly says ▯ instead.
 
 kuqca ± `en` @Machy #-d9onOPrN 2022-02-14T21:38:51.158Z
 ▯ is remarkable to ▯.
@@ -45415,7 +45399,7 @@ leaqbıe -1 `toa` @Ilmen #jK0KkhEHm 2020-01-25T22:51:45.418Z
 leaqbua ± `en` @official #2uKMsIvR6k 2019-05-05T22:26:31.711Z
 predicate: ‘neighbour’; ▯ is a neighbour of ▯.
 
-leaqbua ± `en` @Ilmen #x4kY2y8N3 2019-01-11T14:58:27.000Z
+leaqbua ± `en-arch` @Ilmen #x4kY2y8N3 2019-01-11T14:58:27.000Z
 ▯ is a neighbor of ▯.
 
 leaqbua ± `pl` @jiqci #i0EfPKl9Mx 2023-07-31T08:21:15.987Z
@@ -48681,11 +48665,11 @@ luısuı ± `en` @seaqtaq #sN18wkku1 2024-10-14T08:48:16.557Z
 luısheo ± `en` @TheAndSys #Kuo7ewT4a 2023-03-16T14:53:36.935Z
 ▯ misses a time when ▯ was the case
 
-luısho ± `en` @Ilmen #H82JW5foK 2019-04-22T20:42:26.000Z
-▯ reaches/enters a state of having satisfied property ▯.
-
 luısho ± `en` @Ilmen #92tHUtFzo 2019-04-22T21:36:54.000Z
 ▯ passes / goes by (timewise).
+
+luısho -1 `en` @Ilmen #H82JW5foK 2019-04-22T20:42:26.000Z
+▯ reaches/enters a state of having satisfied property ▯.
 
 lujeq -1 `en` @Ilmen #Ufi4fjzeE 2019-12-31T22:37:45.005Z
 ▯ being the case is the same thing as ▯ being the case; ▯ and ▯ logically entail each other.
@@ -48997,11 +48981,8 @@ lassc (2025-03-19T16:10:34.454Z): kw: slick
 lushaleu +1 `en` @Laqme #k4ZqhkJQU 2024-09-20T16:17:30.692Z
 ▯ is lubricant.
 
-lutea +1 `en` @seaqtaq #x0sjPgoux 2020-02-07T21:37:19.610Z
+lutea ± `en` @seaqtaq #x0sjPgoux 2020-02-07T21:37:19.610Z
 ▯ is afraid that ▯ might be the case.
-
-lutea ± `en` @Ilmen #YL-Grq7Hf 2019-04-13T20:44:47.000Z
-▯ is afraid of ▯ being the case.
 
 lutoame +1 `en` @el #j0R5rhCm8 2022-06-30T17:11:23.252Z
 ▯ is a relative clause
@@ -50462,14 +50443,14 @@ meılu ± `en` @fagri #N7ubdO5o5 2019-01-22T02:00:09.000Z
 meıme ± `en` @official #kbDJBcqqT3 2023-01-13T19:24:52.305Z
 predicate: ‘mountain.range’; ▯ is a mountain range.
 
-meıme ± `en` @Ilmen #D-fi_93-5 2020-02-08T10:01:59.233Z
+meıme ± `en-arch` @Ilmen #D-fi_93-5 2020-02-08T10:01:59.233Z
 ▯ is a mountain range.
-
-meıme ± `en` @uakci #28RfLqy9W 2021-11-07T11:51:34.385Z
-▯ is a heap/pile of ▯.
 
 meıme ± `pl` @jiqci #wtXsX8Pr1J 2023-07-31T08:21:28.725Z
 ▯ to łańcuch górski.
+
+meıme -1 `en` @uakci #28RfLqy9W 2021-11-07T11:51:34.385Z
+▯ is a heap/pile of ▯.
 
 meımeı +1 `en` @uakci #_SiJs_QhZ 2021-11-07T11:50:42.338Z
 ▯ is a mountain range.
@@ -50486,7 +50467,7 @@ meıne ± `en` @robintown #ZjUqWWcpJ 2023-10-17T15:47:16.563Z
 meırıe ± `en` @official #HQZ7Hxiunf 2019-05-05T22:26:43.983Z
 predicate: ‘valley’; ▯ is a valley.
 
-meırıe ± `en` @Ilmen #kLQcXnoCK 2018-09-18T20:36:46.000Z
+meırıe ± `en-arch` @Ilmen #kLQcXnoCK 2018-09-18T20:36:46.000Z
 ▯ is a valley
 
 meırıe ± `pl` @jiqci #0nPnnlMmvf 2023-07-31T08:21:28.853Z
@@ -50594,7 +50575,7 @@ meneu ± `en` @Ilmen #qc7eWS2KH 2019-01-23T21:10:56.000Z
 meneuchu ± `en` @Ilmen #yu0pY8Ufm 2019-01-23T21:17:22.000Z
 ▯ is the arithmetic mean of ▯ (sequence/multiset of numbers).
 
-menı ± `en` @Ilmen #78MLsDsI5 2018-10-20T20:30:48.000Z
+menı ± `en` @Ilmen #SfKHAU6uW 2018-10-20T20:30:42.000Z
 ▯ is a pangolin of the Manis genus.
 
 menısıu ± `en` @Ilmen #2kHQFtdfq 2018-10-20T20:31:05.000Z
@@ -52388,7 +52369,7 @@ moefuı ± `en` @seaqtaq #MRfq-BKK- 2024-08-09T20:21:54.127Z
 moegaq +3 `en` @Laqme #_iG7z_KU- 2019-02-02T22:38:37.000Z
 ▯ empathizes with ▯.
 
-moegaq ± `en` @seaqtaq #iz3oTZC9S 2020-02-22T06:49:17.241Z
+moegaq -1 `en` @seaqtaq #iz3oTZC9S 2020-02-22T06:49:17.241Z
 ▯ sympathizes with ▯in feeling ▯
 
 moege ± `en` @Laqme #muf0hR4HB 2019-02-08T12:47:28.000Z
@@ -52693,7 +52674,7 @@ moıfega ± `en` @seaqtaq #_UjyrE5U_y 2025-03-21T02:10:07.038Z
 moıge +3 `en` @Laqme #d3W96P-Gc 2019-02-08T12:48:23.000Z
 ▯ is an intellectual stimulus / really makes you think / is food for thought.
 
-moıge ± `en` @Ilmen #Kn7wsk0cl 2020-02-17T12:30:49.588Z
+moıge -1 `en` @Ilmen #Kn7wsk0cl 2020-02-17T12:30:49.588Z
 ▯ evokes, in the mind of ▯, thought or mental manifestation ▯.
 
 moıgı ± `en` @Laqme #1oDktxBA3 2024-05-04T14:56:05.535Z
@@ -52792,15 +52773,16 @@ moıkomu ± `en` @seaqtaq #dww5RfR5v 2024-11-14T23:41:19.730Z
 moıkuoı ± `en` @lassc #CEK8-40OS 2022-12-05T16:11:15.922Z
 ▯ realizes that ▯ is the case more than they initially thought; ▯ underestimates the amount ▯ is the case.
 
-moıkuq +2 `en` @uakci #3Rf3vcMF4 2018-11-17T14:54:46.000Z
+moıkuq +1 `en` @uakci #3Rf3vcMF4 2018-11-17T14:54:46.000Z
 ▯ thinks of saying ▯; ▯ says ▯ in their mind.
 uakci (2018-11-17T14:57:02.000Z): +1
 
 moıkuq ± `en` @Ilmen #ToQ8csAnR 2018-11-17T14:21:48.000Z
-▯ says telephatically text ▯ to ▯.
+▯ says telepathically ▯ (direct quote).
 Ilmen (2018-11-20T11:30:11.000Z): +1
 fagri (2019-01-24T21:46:25.000Z): +1
 akesi (2020-04-27T02:12:17.204Z): Not entirely sure, but i think this is supposed to be "telepathically".
+Ilmen (2025-10-21T21:02:56.988Z): Fixed.
 
 moıkuq ± `tok` @el #gaW4nP9Jn 2022-07-10T02:06:15.888Z
 ▯ li toki e ▯ tawa ▯ kepeken uta ala
@@ -53958,11 +53940,11 @@ muıshı ± `en` @uakci #Wm6qMAWTS 2021-09-18T12:55:26.936Z
 muıtıao ± `en` @seaqtaq #aoBKvsZxo 2020-01-10T22:18:52.396Z
 ▯ (idea, plan, utterance) is coherent/sensible
 
-muıtoa +1 `en` @fagri #3pQCmfFzN 2019-12-04T10:15:32.311Z
-▯ is a predicate word
-
 muıtoa +1 `en` @Ilmen #qeD0D0ucB 2020-01-29T21:47:38.062Z
 ▯ is a content word.
+
+muıtoa ± `en` @fagri #3pQCmfFzN 2019-12-04T10:15:32.311Z
+▯ is a predicate word
 
 muıtoaı +1 `en` @seaqtaq #8K7G5-SwT 2018-12-10T20:48:56.000Z
 ▯ is a sememe
@@ -54408,7 +54390,7 @@ predicate: ‘finger’; ▯ is a finger.
 muqcheı ± `pl` @jiqci #lm22f6oHp0 2023-07-31T08:21:18.789Z
 ▯ to palec u dłoni.
 
-muqcheıbea +1 `en` @Ilmen #xlnxswy7l 2019-02-04T17:11:28.000Z
+muqcheıbea +1 `en-arch` @Ilmen #xlnxswy7l 2019-02-04T17:11:28.000Z
 ▯ is a knuckle (finger joint).
 
 muqcheıbea ± `en` @official #B2NxoVXum 2022-03-03T18:17:40.934Z
@@ -54538,7 +54520,7 @@ muqsıaochuao ± `en` @jiqci #WHsn-p1dS 2025-05-06T10:51:09.823Z
 muqsoı ± `en` @Laqme #q_8v8sYCU 2023-08-11T08:18:27.377Z
 ▯ fights ▯ with their bare hands.
 
-muqshoaı ± `en` @Ilmen #AabZVM-zl 2018-10-08T15:15:20.000Z
+muqshoaı ± `en-arch` @Ilmen #AabZVM-zl 2018-10-08T15:15:20.000Z
 ▯ is a bat.
 
 muqshoaı ± `en` @Hoemai #GWGzwDdN- 2019-04-01T22:34:52.000Z
@@ -58061,7 +58043,7 @@ predicate: ‘difficult’; ▯ is difficult to be in relation ▯ with.
 Laqme (2024-10-24T22:27:36.482Z): i.e. "▯ is difficult to ▯"  (difficult to reach, difficult to understand, ...)
 Laqme (2024-10-24T22:28:53.842Z): Works well with serial verbs: **noa fataı**, **noa lım**...
 
-noa +2 `en` @nano #gg_m3Z3mJ 2024-10-24T21:55:01.113Z
+noa +1 `en` @nano #gg_m3Z3mJ 2024-10-24T21:55:01.113Z
 ▯ is difficult.
 
 noa ± `en` @fagri #SCjRO3MiA 2021-08-09T02:35:49.490Z
@@ -59355,11 +59337,11 @@ nuıhuı ± `en` @seaqtaq #VIFNTpujJ 2020-03-01T01:24:20.426Z
 nuıja ± `en` @Laqme #_uCewUP9h 2024-08-29T01:16:36.817Z
 ▯ compresses / squeezes / shrinks / folds up ▯.
 
-nuıjaq ± `en` @Ilmen #km1p-UJyp 2018-09-18T20:42:44.000Z
-▯ is tiny.
-
 nuıjaq ± `en` @Ilmen #HpS6mM_Cb 2019-06-20T15:19:41.260Z
 predicate: ‘tiny’; ▯ is tiny.
+
+nuıjaq -1 `en` @Ilmen #km1p-UJyp 2018-09-18T20:42:44.000Z
+▯ is tiny.
 
 nuıjıo ± `en` @seaqtaq #eRE5nY7XR 2024-10-01T07:04:17.543Z
 ▯ is a shed
@@ -59753,7 +59735,7 @@ lassc (2025-03-20T09:25:27.452Z): cf. **pıjama**
 nuofuq ± `pl` @jiqci #NkxDOvrU1 2023-07-31T08:21:34.064Z
 ▯ to piżama.
 
-nuogaı +12 `en` @Ilmen #RZJs3Ltv3 2018-09-18T20:51:01.000Z
+nuogaı +12 `en-arch` @Ilmen #RZJs3Ltv3 2018-09-18T20:51:01.000Z
 ▯ dreams ▯.
 fagri (2018-11-19T20:49:08.000Z): +1, I prefer this over the official
 seaqtaq (2019-01-21T23:50:19.000Z): -1 I don't
@@ -60082,7 +60064,7 @@ nuqchuao ± `en` @jiqci #fnou6OK9A 2023-09-24T06:44:32.994Z
 nuqkoı ± `en` @jiqci #WCVo7xOBk 2023-08-02T06:37:09.305Z
 ▯ does the worm.
 
-nuqleq ± `en` @Ilmen #sMJFC2EHJ 2018-10-21T13:24:19.000Z
+nuqleq ± `en-arch` @Ilmen #sMJFC2EHJ 2018-10-21T13:24:19.000Z
 ▯ is an anteater.
 
 nuqleq ± `en` @Hoemai #TCaJGTFRL 2019-04-04T20:45:24.000Z
@@ -61747,11 +61729,11 @@ pakutıe ± `en` @robintown #t0flSaYix 2022-02-19T00:32:40.390Z
 pakutıqshoaı ± `en` @Ilmen #xb8xBucPy 2024-05-10T13:32:38.733Z
 ▯ is a honeycomb moth, a greater wax moth (Galleria mellonella).
 
-pala ± `en` @seaqtaq #93kE1MsKIvG 2019-09-17T19:19:51.040Z
-▯ is the (hard) palate
-
 pala ± `en` @Ilmen #mSIfxe-4K4j 2019-09-17T19:19:51.117Z
 ▯ is the (hard) palate.
+
+pala -1 `en` @seaqtaq #93kE1MsKIvG 2019-09-17T19:19:51.040Z
+▯ is the (hard) palate
 
 palakuoq ± `en` @jiqci #elSHCFLen 2025-08-21T21:15:38.599Z
 ▯ is a palatine bone.
@@ -63222,11 +63204,11 @@ pıobeq ± `en` @seaqtaq #FAVEEwm8I 2024-10-03T19:12:05.632Z
 pıocoesaı ± `en` @Ilmen #oVVbCgl2z 2019-04-12T09:47:36.000Z
 ▯ is cement.
 
-pıodıu ± `en` @Laqme #tmwy5b3MM 2018-10-03T14:08:26.000Z
-▯ is geology.
-
 pıodıu ± `en` @Ilmen #FKAv4sk4u 2019-04-11T17:23:44.000Z
 ▯ is petrology.
+
+pıodıu -1 `en` @Laqme #tmwy5b3MM 2018-10-03T14:08:26.000Z
+▯ is geology.
 
 pıodıu -1 `en` @Ilmen #VjUxWZwFc 2018-10-03T14:27:06.000Z
 ▯ is mineralogy.
@@ -64001,7 +63983,7 @@ uakci (2023-04-17T09:51:15.932Z): **ꝡé hạonoaq hóa rụ̂ıgaq báq paı**
 poıba +2 `en` @official #H0_bJXXO5sc 2021-09-29T13:08:55.221Z
 predicate: ‘grass’; ▯ is grass.
 
-poıba +2 `en` @Ilmen #X8TR9YaJb 2020-02-06T14:43:33.532Z
+poıba +2 `en-arch` @Ilmen #X8TR9YaJb 2020-02-06T14:43:33.532Z
 ▯ is grass.
 Ilmen (2020-02-06T14:43:42.775Z): From Proto-Hellenic *póiwā, from Proto-Indo-European *póyH-weh₂.
 
@@ -64884,7 +64866,7 @@ puecıoq ± `en` @jastis #PkSfVCdX2 2021-10-19T11:17:55.042Z
 puecıoq ± `tok` @el #GMZxpKMze 2022-07-10T03:54:06.298Z
 ▯ li nena ilo noka
 
-puecheı +2 `en` @Ilmen #6ZqPhwD0z 2019-02-04T17:12:52.000Z
+puecheı +2 `en-arch` @Ilmen #6ZqPhwD0z 2019-02-04T17:12:52.000Z
 ▯ is a toe.
 
 puecheı ± `en` @official #5_yXh0j2U 2022-03-03T18:17:41.372Z
@@ -65931,13 +65913,13 @@ prefix: frequentative form of verb
 Laqme (2023-11-22T22:31:54.877Z): "ram-X" is like a spatiotemporal burst of small X-ings viewed as a single event: "X repeatedly" or "X around" or "X here and there".
 Laqme (2023-11-22T22:42:09.702Z): This is something like "crack → crackle" and "spark → sparkle" in English, or "-ella" in Finnish
 
-ram +1 `en` @fagri #kS_-h1XzK 2023-01-22T01:57:36.998Z
-▯ is RAM (random-access memory)
-
 ram +1 `en` @Ilmen #zeEjNbOqJ 2025-09-22T10:19:48.272Z
 ▯ is repetitively the case.
 
-ram ± `en` @seaqtaq #UAreJMib_ 2023-02-05T03:13:19.663Z
+ram ± `en` @fagri #kS_-h1XzK 2023-01-22T01:57:36.998Z
+▯ is RAM (random-access memory)
+
+ram -1 `en` @seaqtaq #UAreJMib_ 2023-02-05T03:13:19.663Z
 ▯ is random-access memory
 
 rama ± `en` @Machy #DLTFBfzSS 2022-05-19T17:49:20.204Z
@@ -69026,7 +69008,7 @@ Machy (2021-10-10T06:59:45.075Z): shortening of **ruaq... còu...**
 ruchıa ± `en` @salarua #i3AUOnfFa 2022-10-27T22:07:52.782Z
 ▯ is Confucian (being a Confucianist, or relating to Confucianists or Confucianism)
 
-rudo ± `en` @Ilmen #mNIBa7BKQ 2018-10-08T21:58:14.000Z
+rudo ± `en-arch` @Ilmen #mNIBa7BKQ 2018-10-08T21:58:14.000Z
 ▯ is a bramble.
 Ilmen (2018-10-08T21:58:54.000Z): PIE "wr̥dʰo-" → Rubus.
 
@@ -71458,11 +71440,11 @@ seoqmıo +1 `en` @Laqme #jwh64C4sP 2021-09-29T18:39:11.112Z
 seoqmıorua ± `en` @robintown #KlZpvDJU_ 2022-01-28T22:12:52.338Z
 ▯ is an azure bluet.
 
-seoqpıo ± `en` @Ilmen #oFGEd2JtV 2019-04-11T16:54:33.000Z
-▯ is an asteroid.
-
 seoqpıo ± `en` @Ilmen #fzRf_uPPo 2019-04-11T16:54:47.000Z
 ▯ is a meteorite.
+
+seoqpıo -1 `en` @Ilmen #oFGEd2JtV 2019-04-11T16:54:33.000Z
+▯ is an asteroid.
 
 seoqpıoruagıa ± `en` @cateyes #2EH70vOIp 2025-09-30T23:24:49.298Z
 ▯ is a Widmanstätten pattern
@@ -72332,11 +72314,6 @@ fagri (2019-01-23T22:38:03.000Z): (This is not meant to create an explicit seque
 fagri (2019-01-23T22:38:07.000Z): )
 fagri (2019-01-23T22:42:09.000Z): *second slot
 
-sıeme ± `en` @Ilmen #fdI6xT0Bt 2019-01-23T21:08:33.000Z
-▯ is a sequence; ▯ is the sequence ⟨▯, ▯ (, ▯ (, ▯ (…)))⟩.
-Ilmen (2019-01-23T21:14:01.000Z): +1
-robintown (2022-12-04T02:47:10.954Z): Related: **chue**
-
 sıeme -1 `en` @fagri #p9UV0mikT 2019-01-04T21:18:40.000Z
 ▯ is a sequence of the things in ▯ (roi)
 fagri (2019-01-04T21:18:47.000Z): Proposed by solpahi
@@ -72436,9 +72413,6 @@ sıeroı -1 `en` @Ilmen #7yHK1Uuaj 2019-01-07T22:08:21.000Z
 sıerurıtoa ± `en` @Laqme #OJ84ZbPqf 2023-08-02T12:56:49.645Z
 ▯ is a cataphoric pronoun.
 
-sıesıa ± `en` @Ilmen #kDLLzK6EK 2018-10-05T21:08:57.000Z
-▯ is previous in sequence ▯.
-
 sıesıa ± `en` @Ilmen #NNYcE7MwH 2019-01-07T22:32:46.000Z
 ▯ is the first element in the sequence ▯.
 Ilmen (2019-01-07T22:33:10.000Z): "follows-nothing" (= nothing comes before it)
@@ -72487,7 +72461,7 @@ sıgaro ± `en` @Iako #ZJzFYwxbc 2025-05-11T22:12:52.360Z
 sıgı +6 `en` @Laqme #_ko4X6EVL 2023-03-28T18:31:54.986Z
 predicate: ‘interesting’; ▯ is interesting.
 
-sıgı ± `en` @Ilmen #b_MDV1fxY 2019-12-29T10:28:24.512Z
+sıgı ± `en-arch` @Ilmen #b_MDV1fxY 2019-12-29T10:28:24.512Z
 ▯ is interesting; ▯ is interesting to ▯.
 uakci (2023-03-28T18:47:11.234Z): −1: i've never seen anybody use that second place. i prefer a unary definition: #_ko4X6EVL. for specifying the interest-haver, you can use **jîe** or **bộgaı** (i think) or **daosı**, which this word is ultimately derived from
 
@@ -73970,12 +73944,6 @@ soq ± `ru` @SuperSpaceNiM #pE6xgHmaI 2024-08-16T10:21:12.019Z
 ▯ среди ▯ является самым ▯
 SuperSpaceNiM (2024-08-16T10:21:43.700Z): X-ейший, самый X-ый
 
-soq -1 `toa` @uakci #COL_pWVBK 2019-01-27T20:34:37.000Z
-sıa dó měa hóa dósaq pa, huaq dóshı dógu da
-
-soq -1 `toa` @Ilmen #lbLVEnXCz 2020-01-30T14:58:15.946Z
-= huaqjeq ▯ tu mea jeı ▯ ▯.
-
 sóq +1 `en` @uakci #1cKmcwq_t 2023-01-21T00:12:27.089Z
 focus particle: the most
 uakci (2023-01-21T00:15:48.288Z): extending hoemaı's analysis of english focus adverbs such as 'only' and 'even', which actually pair with sentence-level stress-based focus, we can see that 'the most' works similarly: '*I* like apples the most' (more than other people) vs. 'I like *apples* the most' (more than I do other fruit/food). **soq** used to be really inconvenient in convoluted situations and usually required a confusing **lu** clause to work at all, whereas this approach should feel much more natural
@@ -74315,12 +74283,6 @@ su- ± `tr` @kazoo #2iNO2vy8T 2024-11-24T11:51:10.362Z
 
 su ± `toa` @Ilmen #u6ojvLIg8 2020-01-31T17:35:39.439Z
 ⚙ Hoıtoa shú su da. Tu toame tu seu sïeko shú su tóame péıbo hoa bı muıjeq lú sıeko hóa tóame péıbo seu na dóemıatoa lü sa heo sëukuoı hóa séu bı sıeko sa doemıatoa tóame péıbo hoa na ru sıa saqko sëuhuaq to ru hóa héo to séu hóa bı sıeko sa doemıatoa tóame péıbo jeı sáqko da.
-
-⚠ su -1 `en` @oldofficial #DEtSS_WMTZ 2019-05-05T22:27:23.174Z
-predicate: ‘previous.predicate’; ▯ are [previous predicate].
-
-su -1 `pl` @jiqci #1gZhkpPX_z 2023-07-31T08:22:05.362Z
-▯ to [poprzedni predykat].
 
 sua- ± `en` @seaqtaq #arr3kH8M4 2024-07-27T19:30:18.931Z
 prefix: unrestricted existential (prefix form of sula)
@@ -74682,12 +74644,12 @@ evie (2024-11-23T22:55:31.625Z): reduced from **suecaq**
 sudachızeo ± `en` @el #RisT9wUDI 2022-06-14T20:34:02.278Z
 ▯ is a sudachi (Citrus sudachi), a kind of Japanese citrus
 
-sudo +1 `en` @Ilmen #1lWhikWDB 2018-09-30T21:40:49.000Z
+sudo ± `en-arch` @Ilmen #1lWhikWDB 2018-09-30T21:40:49.000Z
 ▯ takes place with the security privileges of the superuser; superuser does ▯.
 uakci (2018-09-30T21:41:42.000Z): +1, u’i
 fagri (2018-09-30T21:45:03.000Z): Should be in the JEO frame, I think
 
-sudo +1 `en` @uakci #q3AyrEOAi 2018-09-30T22:02:15.000Z
+sudo ± `en` @uakci #q3AyrEOAi 2018-09-30T22:02:15.000Z
 (fork of #1lWhikWDB) ▯ takes place with superuser privileges; ▯ does ▯ as superuser.
 uakci (2018-09-30T22:02:35.000Z): JEO version (suggested by @fagri)
 
@@ -77416,17 +77378,14 @@ shıqhuahuaı +1 `en` @Ilmen #L0qSuboj4 2019-01-07T22:48:29.000Z
 ▯ picks their nose.
 Ilmen (2019-01-07T22:48:40.000Z): +1
 
-shıqhuahuaı ± `en` @Ilmen #g2u36x2SN 2019-01-07T22:09:12.000Z
-▯ picks their nose; ▯ picks ▯'s nose.
-
 shıqhualapısıu ± `en` @Ilmen #AnYnq--f- 2018-10-13T18:04:59.000Z
 ▯ is a rhinoceros.
 
-shıqhualaq ± `en` @seaqtaq #G9bHJM3DS66 2019-09-17T19:19:51.059Z
-▯ is a sound produced that involves the nose
-
 shıqhualaq ± `en` @Ilmen #6bup5rVeEx1 2019-09-17T19:19:51.123Z
 ▯ is a sound produced at least partly with the nose.
+
+shıqhualaq -1 `en` @seaqtaq #G9bHJM3DS66 2019-09-17T19:19:51.059Z
+▯ is a sound produced that involves the nose
 
 shıqhuatuaqsıu +1 `en` @Ilmen #XBS6AKcRU 2018-10-14T11:21:22.000Z
 ▯ is a rhinoceros (Rhinocerotidae).
@@ -77701,7 +77660,7 @@ seaqtaq (2019-02-17T20:54:32.000Z): +1 yeet
 shıukune ± `en` @official #ZX_RkDYSB 2019-05-05T22:27:37.553Z
 predicate: ‘raccoon’; ▯ is a racoon; ▯ is a member of genus Procyon.
 
-shıukune ± `en` @Ilmen #lbGOzrJ7o 2018-10-02T21:54:11.000Z
+shıukune ± `en-arch` @Ilmen #lbGOzrJ7o 2018-10-02T21:54:11.000Z
 ▯ is a raccoon.
 
 shıukune ± `tok` @el #vMaWXzNsH 2022-07-10T01:09:06.440Z
@@ -79432,7 +79391,7 @@ taokoe +1 `en` @official #1XIVIZBp6X 2019-05-05T22:27:41.131Z
 predicate: ‘choose.to’; ▯ chooses to do ▯.
 lassc (2025-03-20T09:31:11.041Z): voluntarily, voluntary, willingly
 
-taokoe +1 `en` @Ilmen #8btOkjufL 2020-02-27T16:56:37.918Z
+taokoe +1 `en-arch` @Ilmen #8btOkjufL 2020-02-27T16:56:37.918Z
 ▯ chooses/decides to satisfy property ▯ out of properties ▯.
 
 taokoe ± `pl` @jiqci #jQpI5dVam7 2023-07-31T08:22:22.638Z
@@ -79625,7 +79584,7 @@ tapıoka ± `en` @salarua #l13RgrgvY 2021-12-14T20:24:39.050Z
 tapıokakıoq ± `en` @salarua #CUDYENVmy 2021-12-14T20:25:00.807Z
 ▯ is a tapioca pearl
 
-tapıra ± `en` @Ilmen #uDtuRa3Iv 2018-10-20T07:43:32.000Z
+tapıra ± `en-arch` @Ilmen #uDtuRa3Iv 2018-10-20T07:43:32.000Z
 ▯ is a tapir.
 
 tapıra ± `en` @Hoemai #nIqaIyJrz 2019-02-26T20:26:43.000Z
@@ -81235,7 +81194,7 @@ Laqme (2025-03-23T23:55:05.927Z): ▯ is where ▯ is.
 tıbu ± `en` @Laqme #EHJzK-OF8 2023-12-17T07:18:52.447Z
 ▯ is gone / missing / absent from ▯.
 
-tıbumeo +1 `en` @Ilmen #FN3iVcScG 2018-09-18T20:45:21.000Z
+tıbumeo +1 `en-arch` @Ilmen #FN3iVcScG 2018-09-18T20:45:21.000Z
 ▯ misses ▯; ▯ is sad that ▯ is not there.
 uakci (2019-06-20T15:07:35.767Z): +1
 
@@ -81640,7 +81599,7 @@ tılapıa ± `en` @robintown #BA8nxqHtn 2023-11-22T02:40:20.867Z
 tıleaq +1 `en` @Laqme #uGXYRV54K 2024-04-26T11:26:41.907Z
 ▯ is spatially adjacent to / neighbors / abuts ▯.
 
-tılıa ± `en` @Ilmen #T-tNh_Jk7 2018-10-20T17:32:53.000Z
+tılıa ± `en-arch` @Ilmen #T-tNh_Jk7 2018-10-20T17:32:53.000Z
 ▯ is a linden/lime tree.
 
 tılıa ± `en` @Hoemai #xGRUG7Moq 2019-03-28T21:32:02.000Z
@@ -83066,7 +83025,7 @@ toıchıaıkıeq ± `en` @Machy #h8CqUBFXF 2022-05-13T19:09:17.893Z
 toıdıu ± `en` @seaqtaq #mINEoa5C6 2024-10-24T19:11:21.433Z
 ▯ is ethics (field of study)
 
-toıdue +4 `en` @Ilmen #HZNRF-V6F 2020-03-07T08:27:21.724Z
+toıdue +4 `en-arch` @Ilmen #HZNRF-V6F 2020-03-07T08:27:21.724Z
 ▯ is morally/ethically right/correct.
 
 toıdue ± `en` @official #DDXvtP7mRq 2022-07-19T18:30:54.457Z
@@ -83803,12 +83762,6 @@ Hoemai (2022-08-04T11:02:27.617Z): a priori
 tuaja ± `pl` @jiqci #N0CFrPnwgL 2023-07-31T08:22:23.917Z
 ▯ jest odważny/pewny siebie.
 
-tuakoe +1 `en` @Ilmen #qfwCm8FoT 2019-12-26T21:17:40.520Z
-▯ chooses proposition ▯ out of propositions ▯ for making it be the case.
-
-tuakoe +1 `en` @Ilmen #E2UduMk8S 2020-02-27T16:58:12.361Z
-▯ chooses/decides to make ▯ be the case, out of propositions ▯.
-
 tuakuı ± `en` @uakci #qTQodMadC 2021-09-23T14:22:20.723Z
 ▯ is brought about due to reason/motive/incentive ▯.
 
@@ -84014,16 +83967,16 @@ Laqme (2024-05-23T16:29:29.665Z): "could name every answer"
 tue +2 `en` @robintown #aEzQMpSi_ 2023-11-08T12:25:05.900Z
 ▯ is a matter / situation / event / state of affairs.
 
-tue +1 `en` @uakci #WfLO9gvmX 2019-01-26T00:04:18.000Z
+tue ± `en` @official #BaP-9We4Fg 2019-05-05T22:27:46.417Z
+predicate: ‘state’; ▯ is a state / state of affairs / situation; ▯ is a state of affairs of property ▯.
+
+tue ± `en` @uakci #WfLO9gvmX 2019-01-26T00:04:18.000Z
 ▯ is the event ▯/0.
 fagri (2019-02-17T18:53:56.000Z): +1; the official definition for this word is inexplicable
 uakci (2019-02-17T19:02:22.000Z): +1 – I agree
 seaqtaq (2019-02-17T19:03:18.000Z): +0, nuetrality on hedai's part-he agrees
 fagri (2019-02-17T19:09:46.000Z): Oh also -1, since this makes the word equivalent to guo
 maigoi (2024-09-08T23:14:20.842Z): I don't feel instances as a repetition and states of affairs are neither the same nor difficult to absorb
-
-tue ± `en` @official #BaP-9We4Fg 2019-05-05T22:27:46.417Z
-predicate: ‘state’; ▯ is a state / state of affairs / situation; ▯ is a state of affairs of property ▯.
 
 tue ± `ja` @uakci #viGhdDLvf 2021-10-29T14:59:41.165Z
 ▯は、性質▯に関する様子・状態
@@ -84832,11 +84785,11 @@ ubu ± `en` @uakci #lq5x4tCkV 2022-07-25T18:30:10.317Z
 interjection: uwu
 uakci (2022-07-25T18:30:44.127Z): it's essential that there be at least four ways of imperfectly loaning this crucial piece of vocab into our glorious language /hj
 
-ubula ± `en` @seaqtaq #mZvewcgDfOO 2019-09-17T19:19:51.044Z
-▯ is a human uvula
-
 ubula ± `en` @Ilmen #-KFHJIH-5Xu 2019-09-17T19:19:51.118Z
 ▯ is an uvula.
+
+ubula -1 `en` @seaqtaq #mZvewcgDfOO 2019-09-17T19:19:51.044Z
+▯ is a human uvula
 
 ubulalaq ± `en` @Ilmen #J7BMkozysgJ 2019-09-17T19:19:51.119Z
 ▯ is an uvular consonant.
@@ -85184,7 +85137,7 @@ upıdatı ± `en` @Maigoi #zSP792Asd 2024-10-17T00:55:28.480Z
 uq ± `en` @official #QWSUrUVjYsq 2023-01-13T19:24:49.581Z
 interjection: ‘mhm’; backchanneling, signifying that you're still following along; mhm
 
-uq ± `en` @Ilmen #_K1k7gzrz 2019-07-21T15:33:01.385Z
+uq -1 `en-arch` @Ilmen #_K1k7gzrz 2019-07-21T15:33:01.385Z
 Connective: "or rather", erases the left-hand side connectand and replaces it with the right-hand side one.
 Ilmen (2019-07-21T15:33:29.835Z): = #sah9GOqFR
 
@@ -86102,7 +86055,7 @@ zaotuq -1 `en` @uakci #N9FmmkoFn 2022-08-11T20:52:13.782Z
 zaq +1 `en` @official #MEROc5DhnB5 2021-09-29T13:08:55.496Z
 predicate: ‘appear’; ▯ appears / enters perception.
 
-zaq +1 `en` @Hoemai #9gYdnX-7V 2019-12-16T21:22:38.461Z
+zaq ± `en` @Hoemai #9gYdnX-7V 2019-12-16T21:22:38.461Z
 ▯ appears.
 Hoemai (2019-12-16T21:22:40.808Z): Note: "enters perception", not limited to visual.
 saqraku (2023-12-17T19:58:47.133Z): see https://toadua.uakci.pl/##MEROc5DhnB5
@@ -87824,6 +87777,9 @@ As for pigs, they are widespread and they were in my garden yesterday.
 
 be huoıcıa ± `en` @robintown #TtQuZ7vDk 2022-06-28T03:25:35.572Z
 ▯ is a tadpole.
+
+beoqjuao bạmearaq ± `en` @jiqci #E7LDvNCs0 2025-10-21T06:38:30.097Z
+▯ is the axiom of extensionality.
 
 beo zuchoq ± `en` @uakci #I8VUqRUG7 2022-07-31T19:44:52.896Z
 ▯ code-switches.
@@ -91497,7 +91453,7 @@ Even *I* can do that.
 He duı suaı noaq súq ± `en` @examples #6bfNYZwm6m 2022-05-28T15:39:32.358Z
 (B0190) You read too fast
 
-He hoaq gúeq kuo shê, ꝡä hoaq gúeq bao da. +1 `en` @kazoo #mKpDE17Tm 2025-01-07T15:26:49.521Z
+He hoaq gúeq kuo shê, ꝡä hoaq gúeq bao da. ± `en` @kazoo #mKpDE17Tm 2025-01-07T15:26:49.521Z
 "When the black cloth burns, the white cloth burns [with it]" --- The consequences of those around you will affect you too, independent on how innocent you are.
 kazoo (2025-01-07T15:26:58.043Z): toaqic proverb
 
@@ -103169,12 +103125,6 @@ tonibrown (2025-03-26T18:17:49.387Z): see also: #YkWY8n8af
 ⚠ @toacıa ± `en` @Ilmen #hpisR-GbA 2018-10-27T21:36:16.000Z
 ▯ is flaccid.
 uakci (2020-01-10T21:11:02.121Z): bump
-
-⚠ @toacıa ± `en` @Ilmen #_Ro6QZVXW 2019-01-05T16:38:03.000Z
-▯ disturbs ▯.
-
-⚠ @toacıa ± `en` @Ilmen #wldHnoEcD 2019-01-05T16:40:38.000Z
-▯ is an ethny.
 
 ⚠ ychoa ± `en` @uakci #JkCNSriCq 2020-03-02T06:56:01.031Z
 ▯ utters an ‘uh’ sound.
