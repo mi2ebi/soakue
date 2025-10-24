@@ -8841,6 +8841,10 @@ comoq ± `en` @uakci #mRaw24dx0 2018-11-20T13:48:52.000Z
 comruaq ± `en` @Ilmen #ZqxcD_j5V 2024-10-07T18:57:13.015Z
 ▯ tells ▯ that ▯ is the case.
 
+comtua ± `en` @zearen #HkOb6R8vV 2025-10-23T22:30:34.264Z
+▯ directs at ▯ some event ▯.
+zearen (2025-10-23T22:35:33.079Z): I.e., x makes y experience z.  For example, "comtua noa ché gale jí" is roughly, "The teacher made things hard for me."
+
 coq +3 `en` @Machy #BYobcANlA 2022-02-05T20:07:00.265Z
 ▯ is a representation of ▯.
 mimiaoganhaqpy (2023-05-13T14:18:27.392Z): “depicts”
@@ -14374,6 +14378,9 @@ dapa ± `en` @Ilmen #dOUGe3LBN 2019-04-19T08:37:57.000Z
 ▯ is a hand palm / foot sole.
 Ilmen (2019-04-19T08:38:11.000Z): From Proto-Austronesian.
 
+dapadea ± `en` @Ilmen #JbHcBuarA 2025-10-23T10:43:06.166Z
+▯ slaps ▯ with a hand palm.
+
 dapapueq ± `en` @Ilmen #uprBBG5PI 2019-04-19T08:43:00.000Z
 ▯ walks plantigradally / on the sole of his/her/its feet.
 
@@ -18722,7 +18729,7 @@ pronoun: each of you (making a fresh speech act for each addressee)
 el (2022-07-27T21:37:53.053Z): kuq jí mó« etushı mea súq »teo bìaq fîeq fúy ní toa da
 el (2022-07-27T21:39:05.695Z): ıeq, fıeq beı mí Baq bóu da, toujeo daodoa jí da
 
-esheke ± `en` @mimiaoganhaqpy #-mGHQXX_l 2022-08-05T21:11:09.305Z
+esheke -1 `en` @mimiaoganhaqpy #-mGHQXX_l 2022-08-05T21:11:09.305Z
 predicate: ▯ xekce's ▯; ▯ acts Toaqically (Lojbanically) cruel/pedantic towards ▯ regarding ▯.
 mimiaoganhaqpy (2024-05-10T14:21:50.446Z): Third slot could be Lojban, for example, but it could also be any subject where there is a lot of elitism.
 mimiaoganhaqpy (2024-05-10T14:22:29.260Z): Etymology: Lojban “xekce”
@@ -27955,6 +27962,11 @@ hekero ± `en` @Ilmen #q6Pbm7FKM 2018-10-20T08:46:38.000Z
 hekeroleu ± `en` @Laqme #h2zzOJwAd 2024-04-29T20:55:45.158Z
 ▯ is maple syrup.
 
+hekeshe ± `en` @zearen #-lpVLBDNu 2025-10-23T22:23:51.068Z
+Event ▯ is xekce.
+zearen (2025-10-23T22:25:34.482Z): "xekce" is a Lojbanic borrowing meaning to be pedantically cruel to someone, often beginners.  E.g., using ones knowledge of Toaq to belittle a Chie.
+zearen (2025-10-23T22:40:12.419Z): To "xekce" someone, i.e. more similar to the Lojban definition, it's "comtua hekeshe".  See also **esheke**
+
 heketare ± `en` @salarua #x8JysgpF8 2022-12-13T00:29:41.797Z
 predicate: ’hectare’; ▯ is a hectare
 
@@ -31715,11 +31727,12 @@ Idıshızu ± `en` @jiqci #AOL9kvvtV 2025-05-19T11:56:20.818Z
 ▯ is hydrogen.
 uakci (2022-12-31T13:52:00.415Z): = **naojıu**
 
-ïe +2 `en` @Laqme #-ubuUiPzI 2025-01-02T15:07:49.408Z
+ïe +3 `en` @Laqme #-ubuUiPzI 2025-01-02T15:07:49.408Z
 start editorial parenthetical (closed by **kı**)
 Laqme (2025-01-02T15:11:03.887Z): Used inside **mó** … **teo**. This indicates a parenthetical that was not in the actual quote. Inside the parenthetical, **hóa** refers to the quoted text.
 Laqme (2025-01-02T15:14:44.081Z): **Kuq nháo mó «Naına Tóeqzu (ïe nu hóa kı) ꝡeı» teo.**  They said, “Toeq [sic] is so cool.”
 Laqme (2025-01-02T15:17:28.471Z): And maybe if you use it outside of mó-teo, it lifts the sentence to a quote? **«Jaq jua,» ïe kuq mí Alısı hóa kı, «ní sıo da.»** "This idea," said Alice, "is quite strange."
+Ilmen (2025-10-23T11:01:40.921Z): This can presumably also be used for rendering switch to meta descriptions as seen from a third party, as in ⟪They still fail to understand. *facepalm*⟫.
 
 ıe'a +1 `en` @lassc #xiav5BkeU 2025-04-25T20:27:25.510Z
 onomatopoeia: "shrink", "retract", "deflate"
@@ -35903,9 +35916,11 @@ increasingly many ones among ▯ exist (in the current time frame).
 
 jıqsha ± `en` @Laqme #Iz4iMAGhr 2024-04-29T10:29:31.918Z
 ▯ comes into existence.
+jiqci (2025-10-23T09:10:43.059Z): spawns
 
 jıqshaı ± `en` @Laqme #7et7udHkM 2023-02-11T16:46:43.381Z
 ▯ ceases to exist.
+jiqci (2025-10-23T09:10:47.159Z): despawns
 
 jıqshe ± `en` @Ilmen #uCWEHJ5Lo 2021-11-03T23:34:45.947Z
 ▯ has property ▯ during its whole existence.
@@ -40937,6 +40952,12 @@ kıaqgoaı ± `en` @seaqtaq #_dd1JqFUm 2024-09-21T18:55:48.727Z
 kıaqhue ± `en` @Ilmen #u-MpZ4_X3 2024-07-28T14:26:00.853Z
 ▯ is a down feather.
 
+kıaqke ± `en` @jiqci #3P0FiM0_L 2025-10-23T20:24:11.300Z
+▯ is a cilium.
+
+kıaqkegeaı ± `en` @jiqci #G9OPnidjr 2025-10-23T20:24:29.673Z
+▯ is a ciliate.
+
 kıaqketea ± `en` @Hoemai #2WGiJvEwA 2019-04-01T22:30:20.000Z
 ▯ is a baleen whale.
 
@@ -41412,7 +41433,7 @@ start-parenthetical: ‘(’; start parenthetical
 kıo -1 `toa` @Ilmen #e_IffkwjC 2020-01-29T21:16:38.580Z
 ⚙ [KIO] Tu toame tüqfıa shú kıo hóa na ru tuqsıe shú kı hóa bı heq bíhoı sa kuqtoaı na ru tu kuqtoaı bı bu shuaq pâqdoa ra paqnua há tóame kúqtoaı na sa hëo jeone hóa kúqtoaı da.
 
-kïo ± `en` @official #gs6gFcKfLNC 2023-01-13T19:24:51.717Z
+kïo +1 `en` @official #gs6gFcKfLNC 2023-01-13T19:24:51.717Z
 start parenthetical: ‘(’; start parenthetical
 
 kıokı ± `en` @robintown #vP8hsT92e 2024-09-02T14:41:14.666Z
@@ -43649,6 +43670,9 @@ Laqme (2024-08-16T12:05:33.159Z): Toaq jargon for words like **ꝡa** or **da** 
 kunajuna +1 `en` @Laqme #GKtMjuzpn 2024-04-29T10:04:11.896Z
 ▯ is literally the case.
 Laqme (2024-04-29T10:05:44.499Z): i.e. "▯ is the case and I'm not exaggerating or being metaphorical"
+
+kunakue ± `en` @kazoo #qnyMxBNBJ 2025-10-23T18:01:53.223Z
+▯ is a phrasebook.
 
 kuname ± `en` @Laqme #o7ULQkpfL 2024-06-27T16:00:43.430Z
 ▯ is a paragraph.
@@ -65948,7 +65972,7 @@ Laqme (2023-11-22T22:42:09.702Z): This is something like "crack → crackle" and
 ram +2 `en` @Ilmen #zeEjNbOqJ 2025-09-22T10:19:48.272Z
 ▯ is repetitively the case.
 
-ram ± `en` @fagri #kS_-h1XzK 2023-01-22T01:57:36.998Z
+ram -1 `en` @fagri #kS_-h1XzK 2023-01-22T01:57:36.998Z
 ▯ is RAM (random-access memory)
 
 ram -1 `en` @seaqtaq #UAreJMib_ 2023-02-05T03:13:19.663Z
@@ -78068,6 +78092,9 @@ shojunao ± `en` @uakci #BE4wsjQfo 2022-05-23T10:20:38.773Z
 
 shom +1 `en` @Laqme #pjCiKA-J7 2022-12-13T19:35:35.062Z
 predicate: ‘face’; ▯ is a face.
+
+shomdapa ± `en` @Ilmen #32FpsH8eo 2025-10-23T10:41:33.497Z
+▯ facepalms.
 
 shomde ± `en` @Laqme #erlp60Zzj 2024-08-10T09:59:45.874Z
 ▯ has a beautiful face.
@@ -102168,10 +102195,11 @@ Ilmen (2021-10-13T16:50:06.528Z): Etymology: From the Ancient Greek "χρῑστ
 ⚠ kırısytochuaqkue ± `en` @Ilmen #N_xez8FMX 2021-10-13T16:52:30.096Z
 ▯ is a bible.
 
-⚠ kıy +1 `en` @Machy #zwE8wA6Bp 2021-09-08T18:58:22.181Z
+⚠ kıy ± `en` @Machy #zwE8wA6Bp 2021-09-08T18:58:22.181Z
 personal pronoun: obviative 3rd person pronoun.
 Machy (2021-09-08T18:59:13.902Z): Refers to the less important person in a scene. Use nhao first, then use kıy for the other one.
 Machy (2021-09-08T18:59:36.670Z): +1 bc I love obviative pronouns.
+Ilmen (2025-10-23T10:44:56.347Z): The vowel ⟦y⟧ is no longer part of Toaq.
 
 ⚠ koaloy ± `en` @uakci #cxW60NrKV 2021-10-25T22:32:33.939Z
 ▯ is “raw”; ▯ is cooked in a way that doesn’t involve heating it up.
