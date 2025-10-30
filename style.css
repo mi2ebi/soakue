@@ -2,27 +2,18 @@
   box-sizing: border-box;
   transition: background-color 0.2s;
 }
-
 :root {
   --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile";
-  --bg: #ededfc;
-  /* 95 0.02 288 */
-  --fg: #000;
-  --input: #fff;
-  --gray: #636363;
-  /* 50 0 0 */
-  --focus: #8b504d;
-  /* 50 .08 24 */
-  --orange: #7f5b2b;
-  /* 50 .08 72 */
-  --blue: #1c6e80;
-  /* 50 .08 216 */
-  --purple: #615c8e;
-  /* 50 .08 288 */
-  --pink: #805175;
-  /* 50 .08 336 */
+  --bg:     #ededfc; /* 95 0.02 288 */
+  --fg:     #000;
+  --input:  #fff;
+  --gray:   #636363; /* 50 0      0 */
+  --focus:  #8b504d; /* 50 0.08  24 */
+  --orange: #7f5b2b; /* 50 0.08  72 */
+  --blue:   #1c6e80; /* 50 0.08 216 */
+  --purple: #615c8e; /* 50 0.08 288 */
+  --pink:   #805175; /* 50 0.08 336 */
 }
-
 body {
   font-family: var(--font);
   max-width: 600px;
@@ -32,12 +23,9 @@ body {
   color: var(--fg);
   word-break: break-word;
 }
-
-#btns,
-#len {
+#btns, #len {
   white-space: nowrap;
 }
-
 input[type=text] {
   padding: 4px;
   width: 300px;
@@ -48,78 +36,59 @@ input[type=text] {
   margin-bottom: 4px;
   font-size: inherit;
 }
-
 #search {
   font-size: 20px;
 }
-
-::placeholder,
-.scope {
+::placeholder, .scope {
   opacity: 1;
   color: var(--gray);
 }
-
 .scope {
   display: inline-block;
 }
-
 a {
   color: var(--blue);
   text-decoration: none;
   text-decoration-color: var(--blue) !important;
   cursor: pointer;
 }
-
 a:hover {
   text-decoration: solid underline;
 }
-
 code {
   color: var(--orange);
   font-family: "Iosevka Toaq", var(--font);
 }
-
-:is(#bottom, #res, #len):not(:empty)~#howto {
+:is(#bottom, #res, #len):not(:empty) ~ #howto {
   display: none;
 }
-
-#bottom,
-#res {
+#bottom, #res {
   margin-top: 12px;
 }
-
 .indent {
   text-indent: 20px hanging each-line;
 }
-
 dt {
   margin-top: 1em;
   margin-bottom: 0.2em;
 }
-
 dt a:not([class], [href*=toadua\.uakci\.space]) {
   color: inherit;
 }
-
 dd {
   margin-left: 20px;
 }
-
 .toa {
   color: var(--pink);
   font-weight: 700;
 }
-
-.score,
-.score a {
+.score, .score a {
   color: var(--purple);
 }
-
 .notes {
   font-size: small;
   margin-top: 0.2em;
 }
-
 button {
   font-size: 16px;
   font-family: inherit;
@@ -129,36 +98,24 @@ button {
   background-color: var(--blue);
   color: var(--input);
 }
-
 button:hover {
   cursor: pointer;
 }
-
 :focus {
   outline: 1px solid var(--focus);
 }
-
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0f0c20;
-    /* 17 .04 288 */
-    --input: #222;
-    /* 25 0 0 */
-    --fg: #fff;
-    --gray: #aeaeae;
-    /* 75 0 0 */
-    --blue: #37c0de;
-    /* 75 .12 216 */
-    --orange: #dda151;
-    /* 75 .12 72 */
-    --purple: #aaa1f6;
-    /* 75 .12 288 */
-    --pink: #de90cb;
-    /* 75 .12 336 */
-    --focus: #f08e89;
-    /* 75 .12 24 */
+    --bg:     #0f0c20; /* 17 0.04 288 */
+    --input:  #222;    /* 25 0      0 */
+    --fg:     #fff;
+    --gray:   #aeaeae; /* 75 0      0 */
+    --blue:   #37c0de; /* 75 0.12 216 */
+    --orange: #dda151; /* 75 0.12  72 */
+    --purple: #aaa1f6; /* 75 0.12 288 */
+    --pink:   #de90cb; /* 75 0.12 336 */
+    --focus:  #f08e89; /* 75 0.12  24 */
   }
-
   button {
     border: 1px currentColor solid;
     color: var(--blue);
