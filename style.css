@@ -106,13 +106,13 @@ dd {
 }
 
 .toa {
-  color: var(--purple);
+  color: var(--pink);
   font-weight: 700;
 }
 
 .score,
 .score a {
-  color: var(--pink);
+  color: var(--purple);
 }
 
 .notes {
