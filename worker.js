@@ -37,9 +37,8 @@ function search(q) {
     }
     if (operator == "w")
       operator = "warn";
-    if (operator == "warn" && query) {
+    if (operator == "warn" && query)
       return error`${"warn"} does not accept arguments, it's a flag`;
-    }
     if (operator == "ord")
       operator = "order";
     if (operator == "order") {
@@ -55,7 +54,7 @@ function search(q) {
     };
   });
   if (terms.filter(t => t.op == "order").length > 1)
-    return error`it is not possible to have multiple ${"order"}s`;
+    return error`it is not possible to have multiple orders`;
   let err = terms.find(t => t.err);
   if (err) return err;
   let excluded = terms
@@ -75,7 +74,7 @@ function search(q) {
       // 6: id
       if (["#", "id"].includes(op) && entry.id == orig) return 6;
       // 5: head
-      if (["=", "head", "~", ""].includes(op) && compareish(normalize_query(value), normalize(entry.head))) return 5.2;
+      if (["=", "head", "~", ""].includes(op) && (value == entry.head || compareish(normalize_query(value), normalize(entry.head)))) return 5.2;
       if (!op && compareish(normalizeToneless(value), normalizeToneless(entry.head))) return 5.1;
       // and regex matching
       if (["=", "head", "~"].includes(op)) {
@@ -88,7 +87,10 @@ function search(q) {
         const body = normalize(entry.body);
         if (RegExp(`▯ ?(is|are)?( an?)? ([^ /▯]+/)*${v}`, "iu").test(body)) return 3.2
         if (RegExp(`([^'’]\\b|(?!['’])\\W|^)${v}`, "iu").test(body)) return 3.1
-        if (body.includes(normalize_query(value))) return 3;
+        if (body.includes(normalize_query(value))) {
+          if (RegExp(`^[^▯:]*${v}[^▯]*:`, "iu").test(body)) return 2.5;
+          return 3;
+        }
       }
       // 1-2: no op
       if (!op) {
@@ -139,9 +141,10 @@ let substitutions = {
 // Underdots are dealt with separately, so query nạbie matches word nạ́bıe
 for (let vowel of vowels) {
   substitutions[vowel] = `${vowel}[${tones}]?${underdot}?`
-  substitutions[vowel + underdot] = `${vowel}[${tones}]?${underdot}`
+  substitutions[vowel + underdot] = `${vowel}[${tones}]?${underdot}'?`
   for (let tone of tones) {
     substitutions[vowel + tone] = `${vowel}${tone}${underdot}?`
+    substitutions[vowel + tone + underdot] = `${vowel}${tone}${underdot}'?`
   }
 }
 const word_diacritic_regex = new RegExp(`(${letter}+)([1234])`, "iug");
@@ -152,7 +155,7 @@ const diacritic_tones = {
   '4': '\u0302',
 }
 const vowel_regex = new RegExp(`${vowel_match}`, "iu");
-const underdot_regex = new RegExp(`(${raku})([\.])`, "iug");
+const underdot_regex = new RegExp(`(${raku})([:-])`, "iug");
 const isTone = c => /^[\u0300\u0301\u0308\u0302\u0323]$/.test(c);
 // attach a cache to a function, so that it doesn't recalculate the same values
 const memoize = fn => {

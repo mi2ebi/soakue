@@ -45,20 +45,20 @@
     <div class="indent">
       <p>
         <code>i</code> → <code>ı</code><br />
-        <code>vw</code> → <code>ꝡ</code><br />
+        <code>v</code> or <code>w</code> or <code>y</code> → <code>ꝡ</code><br />
         <code>x</code> → <code>'</code><br />
-        <code>.</code> → <code>◌̣</code> (prefix underdot)<br />
+        <code>:</code> or <code>-</code> → <code>◌̣</code> (prefix underdot)<br />
         <code>1234</code> → <code>◌̀◌́◌̈◌̂</code> (tones)
       </p>
     </div>
     <p><code>~</code> is similar but will also match word-internally: <code>~toa</code> behaves the same as <code>=*toa*</code></p>
     <p><code>@author</code> searches for words defined by <i>author</i></p>
     <p><code>#QixhMGJ8MQ</code> finds the word with that exact ID</p>
-    <p><code>/x</code> finds definitions with <i>x</i> slots</p>
+    <p><code>/n</code> finds definitions with <i>n</i> slots</p>
     <p><code>$scope</code> shows words defined under a particular language code. for example <code>$en</code> for English, <code>$toa</code> for Toaq</p>
-    <p><code>!</code> and <code>-</code> negate a query, e.g. <code>-@official</code></p>
-    <p><code>^x</code> finds definitions with at least +<i>x</i> votes. you can do <code>!^x</code> for less than
-      <i>x</i>, and <code>^=x</code> for exactly <i>x</i>.
+    <p><code>!</code> negates a query, e.g. <code>!@official</code></p>
+    <p><code>^n</code> finds definitions with at least +<i>n</i> votes. you can do <code>!^n</code> for less than
+      <i>n</i>, and <code>^=n</code> for exactly <i>n</i>.
     </p>
     <p><code>w:</code> finds words that are Bad (from older versions of toaq etc)</p>
   </details>
