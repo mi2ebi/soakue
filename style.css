@@ -23,7 +23,7 @@ body {
   color: var(--fg);
   word-break: break-word;
 }
-#btns, #len {
+#btns, #len, .nobr {
   white-space: nowrap;
 }
 input[type=text] {

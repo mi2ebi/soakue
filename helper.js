@@ -24,18 +24,20 @@ function htmlify(json) {
     mkel("dt", {}, [
       json.warn ? mkel("span", {}, "⚠\ufe0f ") : null,
       makeLink(json.head, json.head, { className: "toa" }),
-      " • ",
-      makeLink("scope:" + json.scope, json.scope, { className: "scope" }),
       " ",
-      makeLink("@" + json.user, json.user),
-      " ",
-      mkel("span", { "className": "score" }, [
-        ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1")
-      ]),
-      " • ",
-      makeLink("#" + json.id, json.date.slice(0, 10)),
-      " ",
-      mkel("a", { "href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id) }, ["↗"]),
+      mkel("span", { "className": "nobr" }, [
+        makeLink("scope:" + json.scope, json.scope, { className: "scope" }),
+        " ",
+        makeLink("@" + json.user, json.user),
+        " ",
+        makeLink("#" + json.id, json.date.slice(0, 10)),
+        " ",
+        mkel("span", { "className": "score" }, [
+          ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1")
+        ]),
+        "  ",
+        mkel("a", { "href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id) }, ["↗"])
+      ])
     ]),
     mkel("dd", {}, replaceLinks(json.body)),
     mkel("div", { "className": "notes indent" }, json.notes.flatMap(note => [
