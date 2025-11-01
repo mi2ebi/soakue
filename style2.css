@@ -88,9 +88,10 @@ button:hover {
   color: var(--gray);
 }
 .scope {
-  display: inline-block;
   color: var(--gray);
-  opacity: 0.85;
+}
+.scope:hover {
+  color: var(--purple);
 }
 a {
   color: var(--blue);
@@ -98,7 +99,7 @@ a {
   transition: color 0.15s;
 }
 a:hover {
-  color: var(--purple) !important;
+  color: var(--purple);
   text-decoration: underline;
 }
 code {
@@ -139,6 +140,9 @@ dt {
   margin-top: 1em;
   margin-bottom: 0.2em;
   font-weight: 500;
+}
+dt .nobr :hover {
+  color: var(--purple);
 }
 dt a:not([class], [href*=toadua\.uakci\.space]) {
   color: inherit;
