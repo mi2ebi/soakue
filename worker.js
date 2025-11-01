@@ -1,6 +1,5 @@
 importScripts("data/toakue.js");
 let escapeHTML = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-let error = (words, err) => ({ err: words.join(`« <code>${escapeHTML(err)}</code> »`) });
 const orders = {
   default: (a, b) => b[1] - a[1],
   random: true,
@@ -26,11 +25,11 @@ function search(q) {
     operator = operator.replace(/:$/, "");
     const operators = ["head", "body", "user", "score", "id", "scope", "arity", "not", "order", "ord", "warn", "w"];
     if (colon && !operators.includes(operator))
-      return error`${operator} is not an operator`;
+      return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
     if (["/", "arity"].includes(operator) && !/^[0-9]?$/.test(query))
-      return error`${query} ∉ ℕ₀`;
+      return { err: `<code>${escapeHTML(query)}</code> is not an unsigned integer` };
     if (["^", "score"].includes(operator) && isNaN(query.replace(/^=/, "")))
-      return error`${query.replace(/^=/, "")} is not a number`;
+      return { err: `<code>${escapeHTML(query.replace(/^=/, ""))}</code> is not a number` };
     if (["head", "=", "~"].includes(operator)) {
       let regex = queryToRegex(query);
       if (regex.err) return regex;
@@ -38,14 +37,14 @@ function search(q) {
     if (operator == "w")
       operator = "warn";
     if (operator == "warn" && query)
-      return error`${"warn"} does not accept arguments, it's a flag`;
+      return { err: `<code>w</code> does not accept arguments, it's a flag` };
     if (operator == "ord")
       operator = "order";
     if (operator == "order") {
       if (terms.length == 1)
         terms.push({ op: "~", orig: "", value: "" });
       if (!orders[query])
-        return error`${query} is not an ordering`;
+        return { err: `<code>${escapeHTML(query)}</code> is not an ordering. available orderings: <code>default random alpha highest lowest newest oldest</code>}` };
     }
     return {
       op: operator,
@@ -54,7 +53,7 @@ function search(q) {
     };
   });
   if (terms.filter(t => t.op == "order").length > 1)
-    return error`it is not possible to have multiple orders`;
+    return { err: `it is not possible to have multiple orders` };
   let err = terms.find(t => t.err);
   if (err) return err;
   let excluded = terms
