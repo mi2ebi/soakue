@@ -1,41 +1,50 @@
 @font-face {
   font-family: "Noto Sans";
   src: url("https://raw.githubusercontent.com/notofonts/notofonts.github.io/refs/heads/main/fonts/NotoSans/hinted/ttf/NotoSans-Regular.ttf");
+  font-display: swap;
 }
 @font-face {
   font-family: "Noto Sans";
   src: url("https://raw.githubusercontent.com/notofonts/notofonts.github.io/refs/heads/main/fonts/NotoSans/hinted/ttf/NotoSans-Medium.ttf");
   font-weight: 500;
+  font-display: swap;
 }
 @font-face {
   font-family: "Noto Sans";
   src: url("https://raw.githubusercontent.com/notofonts/notofonts.github.io/refs/heads/main/fonts/NotoSans/hinted/ttf/NotoSans-SemiBold.ttf");
   font-weight: 600;
+  font-display: swap;
 }
 @font-face {
   font-family: "Noto Sans";
   src: url("https://raw.githubusercontent.com/notofonts/notofonts.github.io/refs/heads/main/fonts/NotoSans/hinted/ttf/NotoSans-Bold.ttf");
   font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Noto Sans CJK JP";
   src: url("https://raw.githubusercontent.com/notofonts/noto-cjk/refs/heads/main/Sans/OTF/Japanese/NotoSansCJKjp-Regular.otf");
+  font-display: swap;
 }
 @font-face {
   font-family: "Iosevka Toaq Aile";
   src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaqAile-Regular.woff2") format(woff2);
+  font-display: swap;
 }
 @font-face {
   font-family: "Iosevka Toaq Aile";
   src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaqAile-Bold.woff2") format(woff2);
   font-weight: 700;
+  font-display: swap;
 }
 @font-face {
   font-family: "Iosevka Toaq";
   src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaq-Regular.woff2") format(woff2);
+  font-display: swap;
 }
 @font-face {
   font-family: "Iosevka Toaq";
   src: url("https://raw.githubusercontent.com/toaq/fonts/refs/heads/main/woff2/IosevkaToaq-Bold.woff2") format(woff2);
   font-weight: 700;
+  font-display: swap;
 }
