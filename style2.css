@@ -1,0 +1,247 @@
+#setcss {
+  opacity: 0;
+  padding: 0 !important;
+}
+* {
+  box-sizing: border-box;
+  transition: background-color 0.2s, border-color 0.2s;
+}
+:root {
+  --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile", system-ui, -apple-system;
+  --bg:     #f5f3ff;
+  --fg:     #1a1a1a;
+  --input:  #ffffff;
+  --gray:   #6b7280;
+  --focus:  #c77873;
+  --orange: #d97706;
+  --blue:   #2563eb;
+  --purple: #7c3aed;
+  --pink:   #db2777;
+}
+body {
+  font-family: var(--font);
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 24px 16px;
+  background-color: var(--bg);
+  color: var(--fg);
+  word-break: break-word;
+  line-height: 1.6;
+}
+h1 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  letter-spacing: -0.025em;
+}
+h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1.5em 0 0.5em 0;
+}
+#btns, #len, .nobr {
+  white-space: nowrap;
+}
+#btns {
+  margin-right: 10px;
+}
+#search {
+  padding: 12px 16px;
+  width: 100%;
+  max-width: 340px;
+  font-family: var(--font);
+  background-color: var(--input);
+  color: var(--fg);
+  border: 2px solid transparent;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  font-size: 20px;
+}
+#search:hover {
+  border-color: var(--purple);
+}
+button {
+  font-size: 16px;
+  font-family: inherit;
+  border: 2px solid var(--blue);
+  border-radius: 8px;
+  padding: 8px 12px;
+  background-color: var(--blue);
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.15s;
+}
+button:hover {
+  background-color: var(--purple);
+  border-color: var(--purple);
+}
+:focus-visible {
+  outline: 2px solid var(--focus);
+}
+:is(#search, button):focus-visible {
+  outline: none;
+  border-color: var(--focus);
+}
+::placeholder {
+  opacity: 1;
+  color: var(--gray);
+}
+.scope {
+  display: inline-block;
+  color: var(--gray);
+  opacity: 0.85;
+}
+a {
+  color: var(--blue);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+a:hover {
+  color: var(--purple) !important;
+  text-decoration: underline;
+}
+code {
+  color: var(--orange);
+  font-family: "Iosevka Toaq", var(--font);
+  background: rgba(217, 119, 6, 0.08);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+:is(#bottom, #res, #len):not(:empty) ~ #howto {
+  display: none;
+}
+#bottom, #res {
+  margin-top: 24px;
+}
+#howto {
+  background: var(--input);
+  padding: 16px;
+  border-radius: 12px;
+  margin-top: 24px;
+}
+#howto summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 4px 0;
+  user-select: none;
+  transition: color 0.15s;
+}
+#howto summary:hover {
+  color: var(--purple);
+}
+.indent {
+  text-indent: 20px hanging each-line;
+}
+dt {
+  margin-top: 1em;
+  margin-bottom: 0.2em;
+  font-weight: 500;
+}
+dt a:not([class], [href*=toadua\.uakci\.space]) {
+  color: inherit;
+}
+dd {
+  margin-left: 20px;
+}
+.toa {
+  color: var(--pink);
+  font-weight: 700;
+}
+.score, .score a {
+  color: var(--purple);
+}
+.notes {
+  font-size: 0.9rem;
+  margin-top: 0.2em;
+  color: var(--gray);
+}
+#len {
+  display: inline-block;
+  color: var(--gray);
+  font-size: 0.95rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:     #0f0e1a;
+    --fg:     #e5e7eb;
+    --input:  #1a1a2e;
+    --gray:   #9ca3af;
+    --focus:  #fb7185;
+    --orange: #fbbf24;
+    --blue:   #60a5fa;
+    --purple: #a78bfa;
+    --pink:   #f472b6;
+  }
+  button {
+    background-color: transparent !important;
+    color: var(--blue);
+  }
+  button:hover {
+    border-color: var(--purple);
+    color: var(--purple);
+  }
+}
+@media (prefers-contrast: more) {
+  :root {
+    --bg:     #ffffff;
+    --fg:     #000000;
+    --input:  #ffffff;
+    --gray:   #4a4a4a;
+    --focus:  #b91c1c;
+    --orange: #b45309;
+    --blue:   #1e40af;
+    --purple: #6b21a8;
+    --pink:   #be185d;
+  }
+  #search, #howto {
+    border: 2px solid var(--fg);
+  }
+  code {
+    background: #fef3c7;
+    border: 1px solid var(--orange);
+  }
+  a {
+    text-decoration: underline;
+    font-weight: 500;
+  }
+  button {
+    font-weight: 600;
+  }
+}
+@media (prefers-color-scheme: dark) and (prefers-contrast: more) {
+  :root {
+    --bg:     #000000;
+    --fg:     #ffffff;
+    --input:  #1a1a1a;
+    --gray:   #cccccc;
+    --focus:  #fca5a5;
+    --orange: #fcd34d;
+    --blue:   #93c5fd;
+    --purple: #d8b4fe;
+    --pink:   #fbcfe8;
+  }
+  #search, #howto {
+    border: 2px solid var(--fg);
+  }
+  code {
+    background: #451a03;
+    border: 1px solid var(--orange);
+  }
+  button {
+    font-weight: 600;
+  }
+  button:hover {
+    background-color: var(--purple);
+  }
+}
+@media (max-width: 480px) {
+  body {
+    padding: 16px 12px;
+  }
+  #search {
+    max-width: 100%;
+  }
+}

@@ -4,8 +4,18 @@
 }
 @font-face {
   font-family: "Noto Sans";
+  src: url("https://raw.githubusercontent.com/notofonts/notofonts.github.io/refs/heads/main/fonts/NotoSans/hinted/ttf/NotoSans-Medium.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Noto Sans";
   src: url("https://raw.githubusercontent.com/notofonts/notofonts.github.io/refs/heads/main/fonts/NotoSans/hinted/ttf/NotoSans-SemiBold.ttf");
   font-weight: 600;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("https://raw.githubusercontent.com/notofonts/notofonts.github.io/refs/heads/main/fonts/NotoSans/hinted/ttf/NotoSans-Bold.ttf");
+  font-weight: 700;
 }
 @font-face {
   font-family: "Noto Sans CJK JP";

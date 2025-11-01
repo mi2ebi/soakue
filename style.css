@@ -78,9 +78,12 @@ dt a:not([class], [href*=toadua\.uakci\.space]) {
 dd {
   margin-left: 20px;
 }
+h1, h2 {
+  font-weight: 600;
+}
 .toa {
   color: var(--pink);
-  font-weight: 700;
+  font-weight: 600;
 }
 .score, .score a {
   color: var(--purple);

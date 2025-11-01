@@ -4,15 +4,24 @@
 <head>
   <title>mí soakue</title>
   <link href="fonts.css" rel="stylesheet" />
-  <link href="style.css" rel="stylesheet" />
+  <link id="css" href="style.css" rel="stylesheet" />
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
+  <script>
+    function setcss() {
+      document.getElementById("css").href = "style2.css";
+      document.getElementById("setcss").remove();
+    };
+  </script>
 </head>
 
 <body>
-  <h1>sóakue / 󱛘󱛓󱚺󱛊󱛃󱛍󱚺󱛄󱚲󱛍󱚴󱛓󱛙</h1>
-  <p><a href="https://github.com/mi2ebi/soakue">github</a></p>
+  <h1>sóakue</h1>
+  <p>
+    <a href="https://github.com/mi2ebi/soakue">github</a>
+    <button type="button" id="setcss" onclick="setcss()">hıa jí?</button>
+  </p>
   <input type="text" id="search" name="search" autocomplete="off" spellcheck="false" size="1"
     placeholder="chum lao jí pó tóakue" disabled />
   <span id="btns">
@@ -25,23 +34,26 @@
   <details id="howto">
     <summary>help</summary>
     <h2>about</h2>
-    <p>soakue is a dictionary for <a href="https://toaq.net">Toaq</a> that uses data from <a href="https://toadua.uakci.space/">Toadua</a> (updated daily).
+    <p>soakue is a dictionary for <a href="https://toaq.net">Toaq</a> that uses data from <a
+        href="https://toadua.uakci.space/">Toadua</a> (updated daily).
       you can download it to use it offline, and it works even when Toadua is down.
       on the other hand, you can't use soakue to define new words or vote on existing words.</p>
-    <p>kuaq kıe jí Sófıa lá soa muoja já ka :3</p>
+    <p>thanks to emnresu, &, and Lynn for contributing!</p>
     <h2>syntax</h2>
-    <p><code>=toa</code> searches for exactly the word <i>toa</i>. there are a couple fancy things you can do with this:</p>
+    <p><code>=toa</code> searches for exactly the word <code>toa</code>. there are a couple fancy things you can do with
+      this:
+    </p>
     <div class="indent">
       <p>
         <code>CVFQ</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note
-        that <code>VV</code>&nbsp;⊋&nbsp;<code>F</code>)<br />
+        that <code>VV</code> includes <code>F</code>)<br />
         <code>R</code> matches a raku<br />
         <code>_</code> matches a space<br />
         everything else works like in <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern">regex</a>
       </p>
     </div>
-    <p>soakue automatically converts some glyphs to their Toaq equivalents:</p>
+    <p>soakue automatically converts some characters to their Toaq equivalents:</p>
     <div class="indent">
       <p>
         <code>i</code> → <code>ı</code><br />
@@ -51,16 +63,19 @@
         <code>1234</code> → <code>◌̀◌́◌̈◌̂</code> (tones)
       </p>
     </div>
-    <p><code>~</code> is similar but will also match word-internally: <code>~toa</code> behaves the same as <code>=*toa*</code> and <code>=toa</code> behaves the same as <code>~^(?:toa)$</code></p>
-    <p><code>@author</code> searches for words defined by <i>author</i></p>
-    <p><code>#QixhMGJ8MQ</code> finds the word with that exact ID</p>
-    <p><code>/n</code> finds definitions with <i>n</i> slots</p>
-    <p><code>$scope</code> shows words defined under a particular language code. for example <code>$en</code> for English, <code>$toa</code> for Toaq</p>
-    <p><code>!</code> negates a query, e.g. <code>!@official</code></p>
-    <p><code>^n</code> finds definitions with at least +<i>n</i> votes. you can do <code>!^n</code> for less than
-      <i>n</i>, and <code>^=n</code> for exactly <i>n</i>.
+    <p><code>~</code> is similar but will also match word-internally: <code>~toa</code> behaves the same as
+      <code>=.*toa.*</code> and <code>=toa</code> behaves the same as <code>~^(?:toa)$</code>
     </p>
-    <p><code>w:</code> finds words that are Bad (from older versions of toaq etc)</p>
+    <p><code>@author</code> searches for words defined by <code>author</code></p>
+    <p><code>#QixhMGJ8MQ</code> finds the word with that exact ID</p>
+    <p><code>/n</code> finds definitions with <code>n</code> slots</p>
+    <p><code>$scope</code> shows words defined under a particular language code. for example <code>$en</code> for
+      English, <code>$toa</code> for Toaq</p>
+    <p><code>!</code> negates a query, e.g. <code>!@official</code></p>
+    <p><code>^n</code> finds definitions with at least +<code>n</code> votes. you can do <code>!^n</code> for less than
+      <code>n</code>, and <code>^=n</code> for exactly <code>n</code>.
+    </p>
+    <p><code>w:</code> finds words that are Bad (from older versions of Toaq etc)</p>
   </details>
   <script src="data/toakue.js"></script>
   <script src="helper.js"></script>
