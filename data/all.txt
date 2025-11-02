@@ -655,6 +655,7 @@ bakamoqda
 bakanueq
 bake
 bakero
+bakuqtoaı
 Bakuqtoaı
 bala
 bala
@@ -1211,7 +1212,6 @@ bıemıe
 Bıenamzu
 Bıenaq
 Bıenaq
-Bıenaqgua
 Bıenaqgua
 bıene
 bıene
@@ -4275,6 +4275,7 @@ dakacarachuo
 dakı
 dakıkuoq
 dakuq
+dakuqtoaı
 Dakuqtoaı
 dalaı
 dalao
@@ -4754,7 +4755,6 @@ dıam
 dıamraı
 dıamtao
 dıanuam
-dıao
 dıao
 dıao
 dıao
@@ -5763,7 +5763,6 @@ faı
 faı
 faı
 faı
-faı
 faı'ıq
 faıbeta
 faıbıa
@@ -5949,7 +5948,6 @@ fateı
 fatıaı
 Fatıkano
 Fatıkano
-Fatıkanogua
 Fatıkanogua
 fatoı
 fatuı
@@ -8888,6 +8886,7 @@ Hıjasazu
 hıjeo
 hıkea
 hıko
+hıko
 hıkorı
 hıkuı
 hıkuı
@@ -11821,6 +11820,7 @@ kakoto
 kakotosıu
 kakuaq
 kakuq
+kakuqtoaı
 Kakuqtoaı
 kala
 kalaı
@@ -12767,6 +12767,7 @@ koakuakea
 koalıe
 koaloa
 koam
+koam
 Koam'aomo
 koamajı
 koambaga
@@ -13443,6 +13444,7 @@ kuqsoı
 kuqshoı
 kuqtoaı
 kuqtoaıteı
+kuqturu
 kuqzoeq
 kuraı
 Kuraq
@@ -16185,6 +16187,7 @@ Moqgalazu
 moqha
 moqkuaq
 moqkuq
+moqkuqtoaı
 Moqkuqtoaı
 moqla
 moqlaı
@@ -17115,6 +17118,7 @@ neodımmueı
 neohaq
 neokıu
 neom
+Neom'arabızu
 neome
 neomzujuaokao
 neonua
@@ -19156,6 +19160,7 @@ pıa'uq
 pıafu
 pıahu
 pıanete
+pıano
 pıano
 pıano
 pıano
@@ -22781,6 +22786,7 @@ suejaq
 suejeo
 suejeo
 suejı
+suekuqtoaı
 suelıeı
 suena
 sueq
@@ -26917,7 +26923,6 @@ Bu zao jí póq ꝡë kaqsı jí hóa da.
 Bu zao jí póq ꝡë kaqsı súq hóa da.
 Bu zueqja gẹ́dıao pío da, zueqja sá dıao faı pío
 Ca cuaı pó sá dıao puı chúao da.
-Ca cuaı pó sa puı dıao chúao da.
 Ca hí raı, ꝡä poaq shía móq?
 Ca hóq jâı jí na ro meo nháo da.
 Ca hóq jâı jí na ru meo nháo da.
@@ -26970,7 +26975,6 @@ Cheo luı ruao gú da.
 Cheo maı gú kune.
 Cheo seo súq ka.
 Che súq hí raı móq?
-Che súq hı raı moq.
 Chıaısı súq ba
 Chıa jí, lä soa sá já da.
 Chıa jí, lä soa súq já da.
@@ -26994,7 +26998,6 @@ Chı jí sıa päq hóa hóq da.
 Chı jí sía paq hôq da.
 Chı jí sî nháo jíbo kaqhua da.
 Chı jí sî nháo jíbo muq da.
-Chı jí sî nháo jíbo tuaı da.
 Chı jí, ꝡä ano nháo jí da.
 Chı jí, ꝡä bu ano nháo jí da.
 Chı jí, ꝡä bu luı huogaı nháo, ꝡä kuq súq sá da.
@@ -27376,7 +27379,6 @@ Dua jí lâ níchaq bı ruqshua.
 Dua jí, mä bıa déo da.
 Dua jí mâ bıa déo da.
 Dua jí, mä bıa líqdeo da.
-Dua jí mâ bıa líqdeo da.
 Dua jí, mä bıa náqdeo da.
 Dua jí, mä chı nháo hóq da.
 Dua jí mâ chı nháo hóq da.
@@ -27487,7 +27489,6 @@ Duashao jí tîo bıa déo da.
 Duashao jí, tïo bıa líqdeo da.
 Duashao jí tîo bıa líqdeo da.
 Duashao jí, tïo bıa náqdeo da.
-Duashao jí tîo bıa náqdeo da.
 Duashao jí tïo gı fáfuaq.
 Duashao jí, tïo roe déo da.
 Duashao jí tîo roe déo da.
@@ -27608,7 +27609,6 @@ Fıeq súq hípuı lea móq?
 Fıeq súq kú ní da.
 Fıeq súq ku ní da.
 Fıeq súq kú níjao da.
-Fıeq súq ku níjao da.
 Fı ruqshua.
 Fı tua tı jí súq báq tıoqbue nha.
 Foa séoq hı moq?
@@ -28004,7 +28004,6 @@ Je, bu shao tou nháo hóq da.
 Je, bu shâo tou nháo hóq da.
 Je, cho sá bu puı jí da.
 Je, cho sá puı jí da.
-Je, cho sa puı jí da.
 Je, cho tó sá bu puı jí da.
 Je, cho tou sa bu puı jí da.
 Je, dua jí ku jîa hı da.
@@ -28014,7 +28013,6 @@ Je, dua jí kú, ꝡä jıa faq hí da.
 Je, dua jí kú, ꝡä kuı hí da.
 Je, dua jí kú, ꝡä pu faq hí da.
 Je, dua ku jí jîa hı da.
-Je, dua ku jí pû hı da.
 Je, dua kú jí, ꝡä jıa faq hí da.
 Je, dua kú jí, ꝡä kuı hí da.
 Je, dua kú jí, ꝡä pu faq hí da.
@@ -28303,7 +28301,6 @@ Keo bu kuq súq ke küq jí hóa ba.
 Kéo bu kuq súq ké, ꝡë kuq jí hóa ba.
 Kéo bu leache jí da.
 Keo bu leache jí da.
-Keo bu lıe jí jôe suaq ja da.
 Kéo bu lıe jí, lä joe suaq já da.
 Kéo bu pumeche jí da.
 Kéo bu suaqche jí da.
@@ -28521,7 +28518,6 @@ Kuq jí mó «Kuaq ka.» teo shè hóq da.
 Kuq jí mó «Kuaq ka.» teo shê hóq da.
 Kuq ní poq sá câ, ꝡä huogaı jí póq da.
 Kuq nháo, câ péaq raı da.
-Kûq nháo máq bı, chı jí róu da.
 Kûq nháo máq bı, dua jí róu da.
 Kûq nháo máq bı, le róu da.
 Kuq nháo sa áq da.
@@ -28951,7 +28947,6 @@ Meo súq kûı hí móq?
 Mıa buo nháo da.
 Mıa dua nháo da.
 Mıaqmıq ru daqdeaı tú ocha da.
-Mıaqmıq ru daqdeaı tushı ocha da.
 mí Bıoıcıa
 Mí Bu
 mí Deotakue
@@ -29091,7 +29086,6 @@ Muı hí mó «Bu dua jí ní da.» teo móq?
 Muı hí mó «Fı sıshaı jí da.» teo da.
 Muı hí mó «Hello» teo móq?
 Muı hí mó «Hıo ka» teo móq?
-Muı hı mó «Hıo ka» teo moq.
 Muı hí mó «I loꝡe ꝡou» teo móq?
 Muı hı mó «I loꝡe ꝡou» teo moq.
 Muı hí mó «I should sleep» teo móq?
@@ -29437,7 +29431,6 @@ puaı jıucoaq
 Puaqjeo loq lóe
 Pu bojea jí sá puıduı da.
 Pu boq chuq nháo áq dùo sa dıaı chaq däqsao
-Pu ceo doe táqchao
 Pu ceo doe táqchao.
 Pu choq jí kú káqhua po jí da.
 Pu choq jí kú ké kaqhua po jí da.
@@ -29929,7 +29922,6 @@ Soa íme chéq.
 Soa jí súq râo jíachaq nha.
 Soe ru shueq ní zeo kûı, ꝡä bu koaq máq da.
 Soq caı hıaı sóq reoq hıaı
-Soqcho jí mío baq reocuaq da.
 Soqcho jí mío báq reoge da.
 Soqcho súq hí raı báq reoge móq?
 Soqcho súq hí raı báq shamu róı báq pıso móq?
@@ -30587,10 +30579,8 @@ bonuamy
 buby
 buchıcheykuq
 bulututy
-buzy
 buy
 byleq
-byfy
 Bygarıa
 Bygarıagua
 byleqguele
@@ -30714,7 +30704,6 @@ guy
 guyboe
 gy
 hagy
-haky
 haomy
 haqheqmy
 haqly
@@ -30782,15 +30771,15 @@ jeyjeo
 jeytoaı
 jeyleı
 jeyfaı
-jeymaı
 jeyde
 jeykıeq
 jeysıeq
 jeykuaı
 jeyhuaqloı
-jeygoısaı
 jey'ıjı
 jey'unou
+jeymaı
+jeygoısaı
 jıaıkoımy
 jıqshıy
 jĩjıe
@@ -30811,7 +30800,6 @@ kafykyhese
 kaıchoımy
 kaqbuby
 kaqnuty
-kary
 kıboy
 kıky
 kıoty
@@ -30825,11 +30813,11 @@ konıly
 koyrıoq
 koyche
 koytı
-koyrıaq
 koyhao
 koy
 koytea
 koychue
+koyrıaq
 koynıeq
 koy
 kuaıruo(he)
@@ -30867,7 +30855,6 @@ Masary
 Masarygua
 may
 maybo
-máy
 meahey
 meıly
 mety
@@ -30931,7 +30918,6 @@ noheyfıeq
 nomy
 noruzy
 noy
-nuaıchey
 nuaoduy
 nulıloy
 nulınuty
@@ -30967,8 +30953,6 @@ paqkyı
 pasyka
 pesahy
 pıunuamy
-pızybu
-pızycıa
 pıydıe
 pıygaq
 pody
@@ -30990,7 +30974,6 @@ pu(me)che
 pyıkuq
 pyı
 pyıle
-pysy
 q̄
 q̄
 rakygıaq
@@ -31002,7 +30985,6 @@ Rasıygua
 ra(sıu)choatoaı
 reıduy
 reqpapybeqsebıso
-rey
 rıaımypuefuq
 rıoduy
 rıomy
@@ -31040,9 +31022,9 @@ sıyky
 sıy
 soy
 soy
-soypaq
 soyrea
 so‌̉‌ıcı‌̄‌e
+soypaq
 suaıcyhy
 suaı(mıeq)chuo
 supaqkaı(doa)
@@ -31061,7 +31043,6 @@ shuokyı
 shykuaq
 tamy
 taomıy
-taomy
 taoshıy
 tapy
 taqkyı
@@ -31075,8 +31056,8 @@ toecyrıkea
 toıkyı
 tomaty
 toqloy
-toqloyfua
 toqloymy
+toqloyfua
 toyq
 toy
 tuakyı
@@ -31087,7 +31068,6 @@ tuqcy
 turyqko
 tuzy
 tuzy
-tuyq
 uchy
 ukyraına
 ukyraınagua
@@ -31102,7 +31082,6 @@ zınhy
 zıqmy
 zuoty
 zuydea
-zuychoq
 🪑
 @toacıa
 ychoa
@@ -31159,7 +31138,6 @@ Dua mao mí Ashy hóq da.
 Dua mí Cıqshy mao hóq da.
 Dua míy pâı súq co raı da.
 Dua míy fîeq súq co kue da.
-Dua míy pâı súq co päı jí da.
 Dua míy sûaq co raı dẽ da.
 Dua míy sûaq co dẽ da.
 Dua míy sûaq co raı bũ de da.
@@ -31183,13 +31161,12 @@ Gaq jí súq nãı rào níchaq nha.
 Gaq koıfa míy súq chíejıo nha
 Gaq súq míy ba
 Geajeaq sóq doq deo põı hıeqtaq
-Gı poq máy da.
 Gı poq míy da.
 gú tuq …
 hâı X nä Y
 He laqrue môaqchoa jíbo katoly
-hey no
 hey toaq
+hey no
 Hıo jí líq rào tîsha fúy da.
 Hıo jí mí Huaq roı mí Cıqshy da.
 Hıo jí náq pũ da.
@@ -31202,11 +31179,9 @@ Hıo pũ jí líq da.
 Hıo pũ jí réq da.
 hîq X nä Y
 hôaı X nä Y
-Jaı nháo hè gûaı fúy da.
 Jaolaqtao jí súq jĩa nha.
 Jaq suaı faq ní chaq lũı
 Jara sĩy tushı mea náqdeo
-Jeı lú anou jí hóa ky súq da.
 Jeı lú deq anou jí hóa ky súq da.
 Jeı lú kuaı chuq jí hóa ky ní da.
 Jeı lú pu duashao jí mâ faq hóa ky ní da.
@@ -31293,7 +31268,6 @@ Ma chua shu ‹ Lı › súq móq?
 Ma chua shú ‹ Lıy › súq moq.
 Ma deq hao súq (kïo lä lıaı já kı) móq?
 Ma guo koysoı pó lâqcaı súq roı súqbo pıa moq.
-Maı súq mí Huaq rı mí Cıqshy moq.
 Ma jeı súq mí Lıy moq.
 Ma maı nháo mí Huaq ra mí Cıqshy moq.
 Ma maı súq mí Huaq ra mí Cıqshy moq.
@@ -31362,8 +31336,8 @@ Noılıe nháo hè kôı fúy da.
 Noqrue baq kuochaı pö ní haqrıaq cy jìe jí da.
 Nuaoduy sa afodeo dùca jâı máq
 Nuo jõucaı ché saofa sëakuaı hó
-nuy dea
 nuy teq
+nuy dea
 Paı jí nháo, cà jâı fúy da.
 Paı mao mí Ashy nháo da.
 Paı mao mí Cıqshy nháo da.
@@ -31406,10 +31380,7 @@ Rao gûaı líq cy, nûo jí da.
 Rao gûaı líq cy, nûo múy da.
 Rao gûaı líq cy, nûo míy da.
 Rao gûaı náq cy, nûo jí da.
-Rao gûaı náq cy, nûo míy da.
 Rao gûaı réq cy, nûo múy da.
-Rao gûaı réq cy, nûo míy da.
-Rao gûaı súq cy, nûo jí da.
 Râo kóacao (kïo cho jí báq koacao kı) nä baı jí báq nıaopoq.
 Rao nûo jí cy, gûaı réq da.
 Rao nûo jí cy, gûaı súo da.
@@ -31449,7 +31420,6 @@ Tao sa shı mea máy hóq ba.
 Te dıeq ní heqtıaı chaı sìy Níhoqgua
 Tıo raq lú kuq góıche hóa ky jí moq.
 Tıo raq lú kuq góıche hóa ky Tóaqzu moq.
-Tıo raq lú kuq góıche hóa ky ke fü jí moq.
 Tısue súq déo ba, hu mí Ruty
 Tóakue suqbo bï naı choq nháo máq (kïo bu dua jí, ꝡä naı tı nháo hí raı kı).
 Tua dua jí súq sôq doq lu faytıeq hóa dóaq ky hı shôu
