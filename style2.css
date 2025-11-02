@@ -167,7 +167,6 @@ dd {
 .notes {
   font-size: 0.9rem;
   margin-top: 0.2em;
-  color: var(--gray);
 }
 #len {
   display: inline-block;
