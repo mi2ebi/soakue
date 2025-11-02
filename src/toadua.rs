@@ -5,7 +5,7 @@ use regex::bytes::{Regex, RegexBuilder};
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization as _;
 
-use crate::letters::{filter, GraphResult, GraphsIter, Tone};
+use crate::letters::{GraphResult, GraphsIter, Tone, filter};
 
 static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     RegexBuilder::new(
@@ -120,7 +120,8 @@ impl Ord for Toa {
                 return Ordering::Less;
             }
             return Ordering::Greater;
-        } else if other.head.contains(' ') && !self.head.contains(' ') {
+        }
+        if other.head.contains(' ') && !self.head.contains(' ') {
             if self_iter.will_fail() && !other_iter.will_fail() {
                 return Ordering::Greater;
             }
@@ -141,13 +142,14 @@ impl Ord for Toa {
                     // prefix.
                     if self.head.ends_with('-') && !other.head.ends_with('-') {
                         return Ordering::Less;
-                    } else if other.head.ends_with('-') && !self.head.ends_with('-') {
+                    }
+                    if other.head.ends_with('-') && !self.head.ends_with('-') {
                         return Ordering::Greater;
                     }
                     return self_highest_tone.cmp(&other_highest_tone);
                 }
                 (GraphResult::Err(_), GraphResult::Err(_)) => {
-                    return self_highest_tone.cmp(&other_highest_tone)
+                    return self_highest_tone.cmp(&other_highest_tone);
                 }
                 (GraphResult::Ok(self_graph), GraphResult::Ok(other_graph)) => {
                     match self_graph.letter.cmp(&other_graph.letter) {
@@ -163,9 +165,11 @@ impl Ord for Toa {
 
                             if self_fails && other_fails {
                                 return ordering;
-                            } else if self_fails {
+                            }
+                            if self_fails {
                                 return Ordering::Greater;
-                            } else if other_fails {
+                            }
+                            if other_fails {
                                 return Ordering::Less;
                             }
                             return ordering;
@@ -175,10 +179,10 @@ impl Ord for Toa {
 
                 // Move failures to the end of the list
                 (GraphResult::Err(_), _) | (GraphResult::Ok(_), GraphResult::Finished) => {
-                    return Ordering::Greater
+                    return Ordering::Greater;
                 }
                 (_, GraphResult::Err(_)) | (GraphResult::Finished, GraphResult::Ok(_)) => {
-                    return Ordering::Less
+                    return Ordering::Less;
                 }
             }
         }

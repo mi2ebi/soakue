@@ -45,6 +45,10 @@ fn dictify(the: &str) -> Vec<Toa> {
         .results
         .into_iter()
         .filter(|toa| toa.score > -2 && !toa.date.starts_with("2025-09-21T1"))
+        .map(|mut toa| {
+            toa.scope = toa.scope.strip_suffix("-arch").unwrap_or(&toa.scope).to_string();
+            toa
+        })
         .update(Toa::set_warning)
         .sorted_by(Toa::cmp)
         .collect_vec();
