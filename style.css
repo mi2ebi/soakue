@@ -13,6 +13,9 @@
   --blue:   #1c6e80; /* 50 0.08 216 */
   --purple: #615c8e; /* 50 0.08 288 */
   --pink:   #805175; /* 50 0.08 336 */
+  text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 body {
   font-family: var(--font);
