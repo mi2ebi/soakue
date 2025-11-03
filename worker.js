@@ -194,14 +194,13 @@ const queryToRegex = memoize((query, anchored = true) => {
   let compiled = query
     .replace(char_brackets_regex, c => `(?:${c.slice(1, -1).match(char_regex)?.join("|") ?? ''})`)
     .replace(char_regex, c => substitutions[c] ?? c);
-  console.log(compiled)
   // Rather than attempting to deal with invalid regexes manually, just let javascript barf if something goes wrong
   // -? is added to the end to allow for prefix hyphens
   try {
     let regex = new RegExp(anchored ? `^(?:${compiled})-?$` : `(?:${compiled})-?`, "ui");
     return regex;
   } catch (e) {
-    return error`bu sekogeq mí ${query}`;
+    return { err: `<code>${escapeHTML(query)}</code> is not a regex` };
   }
 })
 onmessage = e => {
