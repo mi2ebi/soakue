@@ -5,7 +5,7 @@ const orders = {
   random: true,
   alpha: (a, b) => dict.indexOf(a[0]) - dict.indexOf(b[0]),
   newest: (a, b) => new Date(b[0].date) - new Date(a[0].date),
-  oldest: (a, b) => new Date(a[0].date) - new Date(b[0].data),
+  oldest: (a, b) => new Date(a[0].date) - new Date(b[0].date),
   highest: (a, b) => b[0].score - a[0].score,
   lowest: (a, b) => a[0].score - b[0].score
 }
