@@ -1338,6 +1338,7 @@ bmj
 bo-
 bo-
 bo-
+bo-
 bo
 bo
 bo
@@ -8302,6 +8303,7 @@ haogı
 haoha
 haohao
 haohaohao
+haoheo
 haohuı
 haoı
 haoı
@@ -9736,6 +9738,7 @@ Ilakıshızu
 ío
 ıoba
 ıodıq
+ıoı
 ıome
 ıoq
 ıoqhashoa
@@ -9781,11 +9784,13 @@ Iqdonesıazu
 ıqdua
 ıqfaı
 ıqfeu
+ıqfoaq
 ıqfoı
 ıqfuaq
 ıqgı
 ıqgı
 ıqgıdo
+ıqheo
 ıqhı
 ıqhıa
 ıqhoa
@@ -9986,6 +9991,7 @@ jadına
 jaga
 jaga
 jaga
+jagala
 jagu
 jaı
 jaı
@@ -12273,6 +12279,7 @@ kelamnao
 kelapa
 kelebıq
 keleo
+keleocıoq
 kelı
 kem-
 kemea
@@ -16182,7 +16189,6 @@ moq
 moq
 moq
 moq
-moq
 móq
 môq
 môq
@@ -19969,7 +19975,6 @@ puosupukea
 puosho
 puoshuao
 puotoaı
-puotoaı
 puotua
 pupu
 pupuchaq
@@ -19981,7 +19986,6 @@ puq
 puqbeodaıbeotoaıdıu
 puqbıq
 puqcoe
-puqchıo
 puqchıo
 puqdeu
 puqdı
@@ -20100,7 +20104,6 @@ raılaı
 raılaqteı
 raıluo
 raıme
-raıme
 raımı
 raıraı
 raırıoq
@@ -20131,7 +20134,6 @@ rame
 ramejıe
 ramekao
 rameneaı
-rameq
 rameq
 rameruaq
 rameruaqche
@@ -20837,11 +20839,8 @@ roaqpıa
 roaqpıafu
 roaqroaq
 roaqroaq
-roaqroaq
-roaqroaq
 roaqseo
 roaqseofu
-roaqsu
 roaqsu
 roarıaq
 roaruo
@@ -21698,7 +21697,6 @@ seaqrıeq
 seaqrıoq
 seaqseje
 seaqtaq
-seaqtaq
 seaqtaqkaı
 seaqtuaı
 seaqzana
@@ -21709,7 +21707,6 @@ seatabu
 seatao
 seatı
 seberaq
-sebo
 sebo
 secaq
 secaqtao
@@ -22657,7 +22654,6 @@ sraı
 stenokaı
 su-
 su-
-su
 sua-
 sua
 sua
@@ -23663,7 +23659,6 @@ shıu
 shıu
 shıu
 shıubuaq
-shıubuaq
 shıucoetoa
 shıucuo
 shıucuose
@@ -24651,6 +24646,7 @@ teꝡa
 tezeq
 tezeqguaq
 tı-
+tı-
 tı
 tı
 tı
@@ -24688,6 +24684,7 @@ tıaleoqche
 tıam
 tıamuoı
 tıanuoqchuo
+tıao
 tıao
 tıao
 tıao
@@ -25206,7 +25203,6 @@ toaqpaqdue
 toaqpıo
 toaqpoq
 toaqpoq
-toaqpoq
 toaqreo
 toaqrıoqmu
 toaqse
@@ -25428,7 +25424,6 @@ torea
 toreala
 toregu
 toreqjuq
-toreqjuq
 toreqzıa
 torı
 torodo
@@ -25456,9 +25451,6 @@ tóꝡaı
 tozıkeshe
 tramchao
 tu-
-tu
-tu
-tu
 tu
 tu
 tú
@@ -25652,9 +25644,6 @@ tuıtea
 tuıtoq
 tuıtoq
 tujıam
-tujuı
-tujuı
-tujuı
 tújuı
 tujuıme
 tukıu
@@ -25854,6 +25843,7 @@ ualaq
 uam
 uane
 uao
+üaq
 ubaı
 ubaımoe
 ubakı
@@ -26154,12 +26144,10 @@ zabıekafe
 zacueq
 zafe
 zafeao
-zafeao
 zagaı
 zagı
 zagıq
 zaı-
-zaı
 zaı
 zaı
 zaı
@@ -30821,13 +30809,13 @@ konıly
 koyrıoq
 koyche
 koytı
-koyhao
 koy
 koytea
 koychue
 koyrıaq
 koynıeq
 koy
+koyhao
 kuaıruo(he)
 kuhachıkyq
 kuyjeo
