@@ -6810,6 +6810,7 @@ cahıaq ± `en` @Laqme #b0UG6rC1u 2020-03-12T14:56:19.687Z
 
 cahuı ± `en` @Laqme #jNp_KHrJk 2024-04-26T21:00:03.542Z
 ▯ is to blame / at fault for ▯ being the case.
+Ilmen (2025-11-04T08:27:53.289Z): keyword: responsible
 
 caı- ± `en` @seaqtaq #R_7IxK7po 2024-11-12T19:53:12.364Z
 prefix: intense in aspect X
@@ -11113,6 +11114,9 @@ chıbutao ± `en` @uakci #aIAPCyJb- 2021-09-05T16:04:07.413Z
 
 chıcaı ± `en` @seaqtaq #k5jpSb5g2 2019-06-16T02:33:43.055Z
 ▯ is confident that ▯ is the case
+
+chıcaqnheoıma ± `en` @kazoo #zDgXgmjXH 2025-11-04T18:02:51.309Z
+▯ are the Middle Ages.
 
 chıcefa ± `en` @Laqme #I-WZ_KX-a 2024-10-25T16:21:27.172Z
 ▯ is a recorder (musical instrument).
@@ -16238,7 +16242,7 @@ dıutao ± `en` @uakci #o4sErIFNR 2021-09-26T20:11:12.541Z
 dıuzıu ± `en` @kazoo #9YJ7UMftm 2025-06-16T13:29:18.922Z
 ▯ is a numeric/technical science, like mathematics, physics, chemistry, astronomy, biology
 
-do +2 `en` @Isi #AG609HVgx 2024-09-11T19:50:45.520Z
+do +3 `en` @Isi #AG609HVgx 2024-09-11T19:50:45.520Z
 predicate: ‘give’; ▯ gives ▯ (to someone/something).
 
 do ± `en` @official #rTwsUt8lkS 2023-01-13T19:24:50.566Z
@@ -17630,6 +17634,17 @@ duınuo ± `en` @Laqme #_ExGfZTnH 2023-12-02T16:26:47.635Z
 
 duıpaq ± `en` @uakci #Buz5OOIP1 2022-08-23T09:14:19.849Z
 ▯ is an excessive part of ▯.
+
+duıq ± `en` @Laqme #5nPC2mcVr 2025-11-04T09:26:45.762Z
+unit: "mile" / duiq (traditional Toaq unit of measure).
+Laqme (2025-11-04T09:30:48.102Z): About half an English mile, or 800m. Now mainly used proverbially or to describe the length of a voyage; normally kilometers are used.
+
+duıqjao ± `en` @Laqme #967YZhLpM 2025-11-04T09:32:10.626Z
+▯ is many miles away from ▯.
+
+duıqsao ± `en` @Laqme #U8KKQHMdk 2025-11-04T09:34:16.876Z
+▯ is colossal / gigantic.
+Laqme (2025-11-04T09:35:53.830Z): As in "a mile across" or "a mile tall"; often used to describe mythical entities.
 
 duıreum ± `en` @jiqci #5AqZ1LXsP 2024-05-11T20:10:22.432Z
 ▯ satisfies property ▯ in an overly dramatic / exaggerated / histrionic way.
@@ -19437,7 +19452,7 @@ farıu ± `en` @Laqme #d7S3JPJ9i 2022-10-02T21:31:46.483Z
 farıufa ± `en` @seaqtaq #qzcTZUegY 2024-07-09T23:30:03.496Z
 ▯ goes to ▯ and back; ▯ makes a round trip to ▯
 
-fase ± `en` @Laqme #mU954f0-4 2021-10-09T12:39:55.720Z
+fase +1 `en` @Laqme #mU954f0-4 2021-10-09T12:39:55.720Z
 ▯ is a trip / voyage / journey.
 
 faseo +1 `en` @Hoemai #jGbktEVdi 2019-07-17T23:01:00.825Z
@@ -23561,10 +23576,13 @@ gıla +3 `en` @Ilmen #ic08SMGGm 2019-01-15T16:46:56.000Z
 ▯ is in charge of satisfying the property ▯.
 Ilmen (2019-01-15T16:47:38.000Z): Form the Ithkuil suffix -ıëřl.
 Laqme (2019-01-15T17:17:17.000Z): +1
-Ilmen (2019-02-01T21:09:04.000Z): + "responsible"
+Ilmen (2025-11-04T08:26:23.601Z): keywords: responsible, duty
 
 gılafuq ± `en` @Ilmen #kYJIUsfFl 2025-10-02T12:49:08.488Z
 ▯ is a ghillie suit.
+
+gılatao ± `en` @Ilmen #9O2EBq8At 2025-11-04T08:29:06.519Z
+▯ does their duty of having property ▯.
 
 gıle +1 `en` @uakci #Cczdkj3vL 2018-10-29T15:13:02.000Z
 (fork of #1bop7NTap) There’s an opportunity for ▯ to happen; ▯ has the opportunity to do ▯ [JEO].
@@ -30945,7 +30963,7 @@ huılıetua ± `en` @fagri #yNtjshe0V 2019-12-28T04:27:33.780Z
 huıloela ± `en` @jiqci #Zq1R8l0Aa 2023-08-31T12:15:45.579Z
 ▯ commits arson, setting ▯ on fire.
 
-huıloeq ± `en` @uakci #0NpE1NG93 2022-12-02T17:27:16.723Z
+huıloeq -1 `en` @uakci #0NpE1NG93 2022-12-02T17:27:16.723Z
 ▯ rots/spoils / goes stale/moldy.
 uakci (2022-12-02T17:27:34.047Z): change of state seen as undesirable or resulting in an inedible good
 uakci (2022-12-02T17:30:59.775Z): also: burns, chars, goes stiff, goes spongy, etc.
@@ -47309,6 +47327,9 @@ loeqjueq ± `en` @Laqme #vwcxClbQA 2024-09-19T19:31:54.792Z
 loeqkua +1 `en` @seaqtaq #0CyCFXQkJ 2024-11-13T17:11:11.386Z
 ▯ is a kitchen
 
+loeqla ± `en` @Dembim #rWrGjAfxX 2025-11-05T01:59:22.529Z
+▯ (agent) cooks ▯
+
 loeqtoq ± `en` @Laqme #zFC-qiIWx 2024-06-10T18:58:14.005Z
 ▯ is a cooktop.
 
@@ -47832,7 +47853,7 @@ anaphoric pronoun for property clauses
 evie (2024-10-21T06:04:35.625Z): cf  **rúm**
 evie (2024-11-09T04:57:04.604Z): replaces **hụ́la**
 
-lû +1 `en` @robintown #_odzwFLN5 2024-11-19T04:36:53.702Z
+lû +2 `en` @robintown #_odzwFLN5 2024-11-19T04:36:53.702Z
 adjunct head: forms eventive adverbials (allomorph ◌̂)
 robintown (2024-11-19T04:46:29.282Z): In official Toaq you will only ever see this word as its tonal allomorph ◌̂. However, a non-tonal representation is useful as it gives us a nicer 'identifier' for the morpheme and opens up the possibility of it existing marginally similar to **ló**.
 
@@ -61239,7 +61260,7 @@ Ilmen (2024-03-19T21:18:00.882Z): Etymology: Proto-Turkic ⟪ōpur⟫.
 oq ± `en` @fagri #u8vcOf5Ul 2021-07-28T03:47:24.745Z
 Particle: accepts a predicate in the fourth tone and produces a high adverb that takes no complement
 
-ôq +2 `en` @Laqme #70rCWf6zQ 2023-02-18T00:50:22.160Z
+ôq +3 `en` @Laqme #70rCWf6zQ 2023-02-18T00:50:22.160Z
 Adjunct head for direct-object-sharing adverbials
 Laqme (2023-02-18T00:51:56.694Z): **Hıeq jí kíoq ôq nıe tíaı** "I throw the ball into the box"
 fagri (2023-05-26T05:56:57.302Z): Should the adverbial have «sho» added for «ôq sho nıe»?
@@ -62149,9 +62170,6 @@ parısaı ± `en` @zearen #ocR_oxB1z 2025-03-24T23:53:56.301Z
 ▯ is a Pharisee
 zearen (2025-03-24T23:55:13.679Z): This is seems universally borrowed from Greek.  «p» instead of «f» since that's what it was in the Aramaic believed to be the origin of the term.
 zearen (2025-03-24T23:55:50.301Z): Note, this may also be plural: ▯ are Pharisees.
-
-paro -1 `en` @wefs #nIbLqu-0I 2022-12-29T14:25:32.002Z
-▯ goes to a secured area and manages to convince the security forces in the area that said ▯ (subject) is allowed to be in said area but has someone else sabotage and foil their plans
 
 paruha +2 `en` @Ilmen #4VFzfw9DS 2023-01-13T23:22:57.837Z
 ▯ is a pharaoh.
@@ -67094,6 +67112,12 @@ reumse +1 `en` @Laqme #uPmAL8jQB 2023-07-20T00:14:27.685Z
 reumshuaqjıaq ± `en` @jiqci #N__sr2inm 2024-06-02T19:51:39.382Z
 ▯ is show business / the entertainment industry.
 
+reune ± `en` @uakci #ac_TtYzHq 2025-11-04T19:33:39.660Z
+▯ is the factor by which ▯ is the case.
+
+reunhe ± `en` @uakci #HODGYiA9W 2025-11-04T19:33:27.458Z
+▯ is the case by a factor of ▯.
+
 reunhuo ± `en` @Laqme #uNrbAN-5Q 2025-01-02T17:54:17.608Z
 ▯ is a times table / multiplication table.
 
@@ -67423,6 +67447,13 @@ interjection: 'to be honest'
 
 rıemruaq ± `en` @Laqme #Yd7bu5mR6 2023-12-11T22:17:04.869Z
 ▯ admits/discloses/reveals/confesses that ▯ is the case.
+
+rıenheoı ± `en` @jiqci #YFv57Imrj 2025-11-04T18:00:39.144Z
+▯ is medieval / related to the Middle Ages.
+jiqci (2025-11-04T18:01:03.698Z): back-formed from **rıenheoıma**
+
+Rıenheoıma ± `en` @jiqci #3nguNVNG6 2025-11-04T17:59:40.293Z
+▯ are the Middle Ages.
 
 rıeq ± `en` @official #jPkDToRUpT 2019-05-05T22:27:17.010Z
 predicate: ‘avoid’; ▯ avoids/evades satisfying property ▯.
@@ -70041,7 +70072,7 @@ sakura ± `en` @Amo #Z8KVkOcod 2021-09-12T18:56:50.228Z
 sakurazeo ± `en` @Amo #b8b6eNSQ6 2021-09-12T19:11:25.918Z
 ▯ is a cherry (berry of a cherry tree).
 
-sala +2 `en` @uakci #JAQha5oZf 2021-11-07T02:14:37.501Z
+sala +3 `en` @uakci #JAQha5oZf 2021-11-07T02:14:37.501Z
 ▯ expands/unwinds.
 uakci (2021-11-07T02:15:43.493Z): as a flower bud, a button-up shirt, a handheld fan
 Laqme (2023-10-25T09:12:23.707Z): unfolds, blooms
@@ -70052,7 +70083,7 @@ salaı ± `en` @uakci #QhDMslJBJ 2022-12-30T16:31:41.008Z
 salaja ± `en` @Laqme #wlh2BbKLH 2024-05-06T13:34:23.124Z
 ▯ expands / unfolds / unwinds ▯.
 
-salamı ± `en` @brunofrancosalamin #jhgYcp6la 2019-03-16T16:08:16.000Z
+salamı +1 `en` @brunofrancosalamin #jhgYcp6la 2019-03-16T16:08:16.000Z
 (fork of #qMpgdfm1l) ▯ is a salami
 
 salata ± `en` @robintown #tGk_haxDJ 2022-12-13T19:48:11.415Z
@@ -81149,7 +81180,7 @@ tıdıbu -1 `en` @uakci #ZEDiJ4JbA 2022-06-24T12:18:36.963Z
 tıdo ± `en` @uakci #8OaOMHHgU 2023-12-03T14:22:11.640Z
 ▯ puts/inserts ▯ at/in(to) location ▯.
 
-tıdu +2 `en` @jiqci #QJs5-dBB3 2023-10-25T06:25:36.326Z
+tıdu +3 `en` @jiqci #QJs5-dBB3 2023-10-25T06:25:36.326Z
 ▯ folds / rolls up / crumples (opposite of **sala**).
 Laqme (2024-05-06T13:27:01.872Z): collapses
 
