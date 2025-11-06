@@ -12497,6 +12497,9 @@ robintown (2021-09-18T21:30:52.098Z): A simplified version of chỏq that uses p
 Machy (2021-10-05T19:29:48.669Z): +1
 lassc (2025-03-20T00:34:37.185Z): by means of, via
 
+choq +1 `jbo` @Laqme #m2RK9P3GH 2025-04-03T21:41:11.946Z
+▯ pilno ▯
+
 choq ± `ja` @Laqme #agKenf1lz 2021-10-05T08:37:28.404Z
 ▯は▯を▯に使う
 uakci (2021-10-05T09:39:09.401Z): 【見出し語】つかう、利用（りよう）、使用（しよう）、用いる（もちいる）
@@ -12512,9 +12515,6 @@ choq ± `ru` @SuperSpaceNiM #NPEpMsPDN 2024-08-15T18:44:16.716Z
 
 choq ± `tr` @kazoo #ZNm7evgAl 2024-11-24T10:57:22.229Z
 ▯, ▯'i ▯ için kullanır.
-
-choq ± `jbo` @Laqme #m2RK9P3GH 2025-04-03T21:41:11.946Z
-▯ pilno ▯
 
 choq -1 `toa` @uakci #Kkq4o2eAv 2019-04-14T20:41:24.000Z
 ca tâo dóshı sa lú raq hóa dógu na na jêaq fuı dósaq dóshı da
@@ -13320,6 +13320,9 @@ chuırıao ± `tr` @kazoo #R4nPJf2k5 2024-11-24T09:24:04.226Z
 
 chuısoq ± `en` @Laqme #DuN_p1WZT 2023-12-03T10:27:24.846Z
 ▯ is chronologically the first to ever satisfy property ▯.
+
+chuıshaı ± `en` @Laqme #Ynw99HtO1 2025-11-05T16:19:27.959Z
+▯ ends prematurely / is cut short / is nipped in the bud.
 
 chuıtaı ± `en` @uakci #WJu3PClex 2023-11-04T20:29:22.716Z
 ▯ is made to happen early enough that ▯ can be made to happen; ▯ is made to happen in time for making ▯ happen.
@@ -15459,7 +15462,7 @@ detuasaı ± `en` @Laqme #1pe_c4YhP 2021-10-18T12:18:35.535Z
 deu ± `en` @Laqme #UN-5lxJ0u 2023-03-16T17:04:30.165Z
 ▯ is allowed to be ▯-ed.
 
-déum +2 `en` @Laqme #b2lYb2glb 2024-04-24T21:38:27.366Z
+déum +3 `en` @Laqme #b2lYb2glb 2024-04-24T21:38:27.366Z
 focus particle: a whole… / as many as… / go as far as to…
 Laqme (2024-04-24T21:39:51.151Z): A kind of "dual" to **shúq**, i.e. roughly "bu shúq bu X". Also one sense of "even", I think
 Laqme (2024-11-21T07:52:39.296Z): "no less than...", if shúq is "nothing more than..."
@@ -24872,7 +24875,7 @@ Hoemai (2023-04-06T17:10:25.574Z): PIE *ǵónu
 gonula +2 `en` @Laqme #GUiqUTj_g 2023-08-31T12:06:27.146Z
 ▯ kneels.
 
-goq +1 `en` @robintown #i3ZEEH70J 2023-02-06T22:48:31.636Z
+goq +2 `en` @robintown #i3ZEEH70J 2023-02-06T22:48:31.636Z
 ▯ is smoke.
 robintown (2023-02-06T22:49:17.931Z): From Proto-Tai *ɣwanᴬ
 
@@ -24912,7 +24915,7 @@ goqfeshıaq -1 `en` @zepeliq #q5xeBYDqI 2025-08-19T10:31:32.923Z
 goqgıeı ± `en` @Laqme #O_aKDx1bw 2025-01-01T12:34:37.225Z
 ▯ is an incense stick.
 
-goqloeq ± `en` @funbreaker #GyZp9qC7h 2024-09-30T17:35:41.247Z
+goqloeq +1 `en` @funbreaker #GyZp9qC7h 2024-09-30T17:35:41.247Z
 ▯ is cooked by exposing to smoke
 
 Goqnozu ± `en` @eednb #YxwqbwDFx 2024-01-01T01:23:06.873Z
@@ -28556,7 +28559,7 @@ determiner: ‘which’; which X? / what X?
 hí ± `es` @TheAndSys #B7r3xSGFi 2025-03-26T05:08:25.946Z
 determinante: ‘cuál‘; cuál X? / qué X?
 
-hıa +2 `en` @Ilmen #_5chCCpS- 2020-01-03T22:25:03.854Z
+hıa +3 `en` @Ilmen #_5chCCpS- 2020-01-03T22:25:03.854Z
 ▯ is/does what?
 
 hıa ± `toa` @uakci #yUtLd_S8w 2022-07-08T16:34:22.047Z
@@ -28580,7 +28583,7 @@ hıa -1 `toa` @Ilmen #4UC8aEen2 2020-01-29T22:47:19.458Z
 hıa -1 `toa` @uakci #gn-__7FlR 2022-07-08T16:40:42.071Z
 jeotoa shú hıa, da ru he chuo hóq dûasue ja baq jêo baq jashı baq lo hı jeotoame
 
-hıaba +1 `en` @Laqme #TmY7QK-l1 2025-02-09T00:05:14.907Z
+hıaba +2 `en` @Laqme #TmY7QK-l1 2025-02-09T00:05:14.907Z
 echo question version of **hıa**: "▯ is what now?"
 Laqme (2025-02-09T00:08:41.047Z): A cross between **híba** and **hıa**, used in an echo question to replace a verb you didn't quite make out.
 
@@ -31488,7 +31491,7 @@ hupı ± `ru` @SuperSpaceNiM #n_iwok8CT 2024-08-11T23:28:15.663Z
 hupıchu ± `en` @TheAndSys #5zCG024lt 2024-08-19T05:55:45.400Z
 ▯ is a foxperson/foxgirl/foxboy
 
-huq +6 `en` @Ilmen #sah9GOqFR 2018-10-08T16:50:10.000Z
+huq +7 `en` @Ilmen #sah9GOqFR 2018-10-08T16:50:10.000Z
 Connective: "or rather", erases the left-hand side connectand and replaces it with the right-hand side one.
 uakci (2018-11-17T11:34:18.000Z): +1!
 fagri (2018-11-17T17:18:32.000Z): +1
@@ -44640,6 +44643,9 @@ laızıu ± `en` @el #kZDz5Jcg3 2022-06-20T22:33:38.630Z
 laızızeo ± `en` @Ilmen #8qW2_JzRt 2025-03-14T20:13:57.577Z
 ▯ is a lychee fruit.
 
+laja ± `en` @kazoo #nXHU3Rh6h 2025-11-05T16:51:32.110Z
+▯ has no use/function; ▯ is useless.
+
 lajao ± `en` @Laqme #Fh2Ux0ple 2025-03-26T00:10:09.592Z
 Just because ▯ is the case, doesn't mean that ▯ is the case.
 Laqme (2025-03-26T00:11:19.925Z): **nạ́lajao** "but that doesn't necessarily mean..."
@@ -45100,7 +45106,7 @@ laqmoaı ± `en` @Machy #9XfJ6Wo1L 2022-05-16T00:19:28.591Z
 laqmoaq ± `en` @seaqtaq #a61xyGX2V 2022-08-18T17:33:50.096Z
 ▯ is reminded of something personally significant due to a particular sound ▯ associated with the memory
 
-laqnam +1 `en` @evie #r5X5R1t1J 2024-10-30T03:51:36.309Z
+laqnam ± `en` @evie #r5X5R1t1J 2024-10-30T03:51:36.309Z
 ▯ is FOSS (free open-source software)
 evie (2024-10-30T03:52:09.616Z): from burmese လင်းနပ်စ် «lang:napc» "linux"
 
@@ -47300,7 +47306,7 @@ loepuao ± `en` @Ilmen #N_GOLHQ2A 2020-02-24T12:04:39.186Z
 loepuaobıu ± `en` @Ilmen #ogi4SZ8mW 2022-02-16T21:07:09.026Z
 ▯ is a chimney.
 
-loeq +1 `en` @uakci #-E6dKlMwd 2022-12-02T17:17:16.155Z
+loeq +2 `en` @uakci #-E6dKlMwd 2022-12-02T17:17:16.155Z
 ▯ cooks/is cooked.
 uakci (2022-12-02T17:17:28.338Z): replaces **loy**, **lony**
 uakci (2022-12-02T17:18:45.854Z): boils, boiled; cooks, cooked; fries, fried; steams, steamed; treats, treated; pickles, pickled; ferments, fermented; ages, aged; smokes, smoked; kneads, kneaded
@@ -47326,9 +47332,6 @@ loeqjueq ± `en` @Laqme #vwcxClbQA 2024-09-19T19:31:54.792Z
 
 loeqkua +1 `en` @seaqtaq #0CyCFXQkJ 2024-11-13T17:11:11.386Z
 ▯ is a kitchen
-
-loeqla ± `en` @Dembim #rWrGjAfxX 2025-11-05T01:59:22.529Z
-▯ (agent) cooks ▯
 
 loeqtoq ± `en` @Laqme #zFC-qiIWx 2024-06-10T18:58:14.005Z
 ▯ is a cooktop.
@@ -50262,6 +50265,9 @@ seaqtaq (2024-10-02T23:41:24.363Z): This seems to be somewhat backward for no di
 mebochao ± `en` @fagri #RhQYZS-RZ 2021-10-04T01:01:54.555Z
 ▯ is a public transport vehicle (like a bus or subway train)
 
+meboraı ± `en` @Laqme #WzypAXfSh 2025-11-05T16:17:48.191Z
+▯ is collectively owned / shared / public.
+
 mebu ± `en` @Ilmen #BZQSaIkIa 2020-01-27T16:58:00.615Z
 ▯ (predicate) is false of the argument structure ▯ (sequence of arguments).
 
@@ -50803,7 +50809,7 @@ mezao ± `en` @lassc #KqSmLB_2t 2025-03-31T21:01:06.597Z
 mezuoı ± `en` @seaqtaq #msbfdES7z 2024-11-18T12:21:59.504Z
 ▯ swarm; ▯ collectively move around
 
-mı- +2 `en` @uakci #NAS9wtQdz 2023-06-03T11:54:46.879Z
+mı- +3 `en` @uakci #NAS9wtQdz 2023-06-03T11:54:46.879Z
 prefix: turns the following verb X into a name marker that expects a word «Y» and turns it into the verb: ▯ is an X named «Y».
 uakci (2023-06-03T11:55:32.184Z): example: **mịhıu Lue** ‘the river Yellow’
 uakci (2023-06-03T11:57:24.191Z): the definition is a little silly and hard to follow so think of the word this way: it takes a verb and produces a specialized **mı**. so **mịhıu Lue** ‘to be a river named Yellow’ is a specialization of **mı Lue** ‘to be [something] named Yellow’
@@ -57321,6 +57327,7 @@ nıme ± `en` @Laqme #OklMgK8QV 2025-03-11T11:00:22.105Z
 ▯ is an event whose PATIENT comes from / stops belonging to ▯.
 Laqme (2025-03-11T11:03:15.882Z): **nîme** "(taking) from" is the opposite of **cû** "(giving) to".
 Laqme (2025-03-11T11:05:41.439Z): **Jea jí ní gıta nîme sá jịpaı.** I bought this guitar *off* a friend.
+Laqme (2025-11-05T14:31:34.442Z): kw: with donor, with source, sourced from
 
 nımgea ± `en` @Laqme #GDqEWSTyK 2023-12-09T14:05:38.632Z
 ▯ is privileged / upper-class / highly ranked.
@@ -58759,11 +58766,11 @@ nu'aı ± `en` @uakci #Kc8WUoC1t 2021-11-07T03:59:51.178Z
 nua ± `en` @official #CNZngOwZrrQ 2023-01-13T19:24:52.402Z
 predicate: ‘take’; ▯ takes away from ▯ possession of ▯.
 
+nua +1 `en` @Laqme #iffLZkXWj 2025-03-02T16:28:41.544Z
+▯ takes ▯.
+
 nua ± `pl` @jiqci #Bf2-R__6q 2023-07-31T08:21:32.150Z
 ▯ zabiera ▯ obiekt ▯.
-
-nua ± `en` @Laqme #iffLZkXWj 2025-03-02T16:28:41.544Z
-▯ takes ▯.
 
 nua -1 `toa` @uakci #M8qKkNQr5 2019-04-14T21:06:03.000Z
 = #doa #bu
@@ -64583,6 +64590,10 @@ puaokıoq ± `en` @uakci #vJ84w5lKE 2022-07-12T13:12:00.132Z
 puaola ± `en` @Laqme #_ObnChHBo 2023-08-31T12:25:36.769Z
 It's cloudy / overcast.
 
+puaoloeq ± `en` @Dembim #WoWXiVfJI 2025-11-05T04:35:09.775Z
+▯ cooks/ is cooked through contact with steam
+Dembim (2025-11-05T04:35:20.924Z): steams/steamed
+
 puaomeaı ± `en` @jiqci #DGkggfM6t 2023-09-08T19:05:55.044Z
 ▯ is a nebula.
 
@@ -65863,7 +65874,7 @@ raku +2 `en` @Hoemai #xmgB2ZTZH 2022-11-10T14:32:24.864Z
 Hoemai (2022-11-10T14:32:31.379Z): Refers to a syllable-like chunk specific to Toaq which contains at most one initial: CV, CF, CVV, CVF, CVVQ
 Hoemai (2022-11-10T14:32:45.584Z): suggested by Lına
 
-ram- +1 `en` @Laqme #CNk5sopzb 2022-12-22T20:51:07.499Z
+ram- +2 `en` @Laqme #CNk5sopzb 2022-12-22T20:51:07.499Z
 prefix: frequentative form of verb
 Laqme (2023-11-22T22:31:54.877Z): "ram-X" is like a spatiotemporal burst of small X-ings viewed as a single event: "X repeatedly" or "X around" or "X here and there".
 Laqme (2023-11-22T22:42:09.702Z): This is something like "crack → crackle" and "spark → sparkle" in English, or "-ella" in Finnish
@@ -65915,7 +65926,7 @@ ramekao ± `en` @seaqtaq #lGHZHVBqD 2024-11-06T06:21:30.314Z
 rameneaı ± `en` @seaqtaq #VgeHvE-HL 2024-11-06T06:22:47.095Z
 ▯ proves ▯ to be guilty of satisfying property▯
 
-rameq +1 `en` @uakci #Pv2_AIJwn 2020-02-22T12:41:56.322Z
+rameq +2 `en` @uakci #Pv2_AIJwn 2020-02-22T12:41:56.322Z
 ▯ is ramen (a Japanese noodle soup dish).
 
 rameruaq ± `en` @seaqtaq #xqEst4DqG 2024-11-06T05:50:46.020Z
@@ -68440,7 +68451,7 @@ rokodelo +1 `en` @Ilmen #NyHNVaJU1 2018-10-11T22:02:51.000Z
 rokodeno ± `tok` @evie #-j6zKpCKK 2025-02-12T06:25:35.515Z
 ▯ li kepeken toki kokosila
 
-rom +4 `en` @salarua #UTROaZMeN 2023-02-05T02:05:13.954Z
+rom +5 `en` @salarua #UTROaZMeN 2023-02-05T02:05:13.954Z
 predicate: ‘program’; ▯ is a computer program
 robintown (2023-07-11T15:27:05.736Z): app
 robintown (2023-07-11T15:27:19.831Z): application
@@ -71848,7 +71859,7 @@ The amount of ▯ being the case is null or imperceptibly low.
 sıaneu ± `en` @Ilmen #EIzESi-c7yx 2019-09-17T19:19:51.089Z
 ▯ is the additive inverse (opposed number, with opposite sign) of the number ▯; ▯ + ▯ = 0.
 
-sıanha +3 `en` @uakci #EJA2-I3u7 2022-02-28T00:57:16.199Z
+sıanha +4 `en` @uakci #EJA2-I3u7 2022-02-28T00:57:16.199Z
 interjection: “it's nothing”, “never mind”, “forget about it”, “don't think about it”
 uakci (2022-02-28T01:01:02.943Z): discourages interlocutor about inquiring about something, be it a topic that one brought up themselves, or for example a worry that one doesn't want the other to get distracted by
 uakci (2022-07-30T13:05:52.376Z): nevermind
@@ -73390,6 +73401,10 @@ soeıtıao ± `en` @uakci #u01GH9d4v 2024-02-03T08:35:05.170Z
 soelı +2 `en` @jiqci #eHBQUdIUs 2024-06-25T19:39:16.583Z
 ▯ is a creature / critter.
 jiqci (2024-06-25T19:39:50.490Z): etymology: toki pona soweli
+
+soeloeq ± `en` @Dembim #N9f3JQbkj 2025-11-05T02:32:52.941Z
+▯ cooks/ is cooked through exposure to acid
+Dembim (2025-11-05T02:36:16.428Z): ceviche
 
 soeluesaı ± `en` @jiqci #VKlIGkKSy 2024-01-07T18:56:45.570Z
 ▯ is tartrazine (E102).
@@ -78780,7 +78795,7 @@ shuzaı ± `en` @seaqtaq #1nah0zx_B 2024-05-21T03:51:25.502Z
 ▯ reveals a disproportionally private and/or embarrasing detail about ▯ in response to the latter doing something to the former that is relatively insignificant in comparison revealing said detail
 seaqtaq (2024-05-21T03:52:23.154Z): Truncated from shuiziamcuazakai
 
-ta- +1 `en` @uakci #Zz0S8bSiW 2023-01-15T20:15:00.388Z
+ta- +2 `en` @uakci #Zz0S8bSiW 2023-01-15T20:15:00.388Z
 prefix: expand a unary, unergative verb into a binary verb with causative semantics by attaching an agent place to the front
 uakci (2023-01-15T20:15:07.221Z): = **tua**
 
@@ -79033,7 +79048,7 @@ tama ± `pl` @jiqci #aQgs35T_lt 2023-07-31T08:22:21.465Z
 tamagochı ± `en` @robintown #eZYRyPrC8 2025-05-01T22:27:03.426Z
 ▯ is a Tamagotchi.
 
-tamaohaq ± `en` @el #nZnsf1niC 2022-06-23T22:37:12.545Z
+tamaohaq +1 `en` @el #nZnsf1niC 2022-06-23T22:37:12.545Z
 ▯ is a tamale (steamed cornmeal dough filled with various ingredients)
 el (2022-06-23T22:49:51.735Z): < spanish "tamal" + l-coloring
 
@@ -79507,9 +79522,6 @@ taq ± `toa` @Ilmen #TT9afrRs7 2020-01-25T21:55:37.489Z
 taq ± `ja` @uakci #qysHzOSMz 2021-10-18T16:29:17.460Z
 ▯は自分自身と②に当てはまる
 
-taq ± `toa` @uakci #hWrOnyGXj 2022-02-11T19:59:56.433Z
-gujeo ja áq ja
-
 taq ± `tok` @el #xC204asHO 2022-07-10T06:55:47.100Z
 ▯ li ▯ e ona sama
 
@@ -79524,6 +79536,9 @@ gujeo dóshı dóshı dógu da
 
 taq -1 `toa` @uakci #OKvi_sTJJ 2022-02-11T19:59:43.811Z
 gujeo ja raı ráı ja
+
+taq -1 `toa` @uakci #hWrOnyGXj 2022-02-11T19:59:56.433Z
+gujeo ja áq ja
 
 taqcecuao ± `en` @uakci #tPPLwP3Yf 2023-05-21T17:15:49.933Z
 ▯ is an automorphism.
@@ -79687,6 +79702,10 @@ robintown (2023-02-06T16:53:22.909Z): From Middle Chinese '炭'
 taqshao ± `en` @uakci #hTvLMiKo1 2022-07-06T20:45:54.558Z
 ▯ wants to satisfy property ▯.
 uakci (2022-07-06T20:46:00.068Z): = **shaotaq**
+
+taqshıa ± `en` @evie #WiC2Y1CG6 2025-11-05T03:10:24.834Z
+▯ introspects for proof of ▯
+evie (2025-11-05T03:11:42.397Z): calque of Romulan «zhal makh» "self glass", a method of meditation(?). from Star Trek: Picard 1x06 "The Impossible Box"
 
 taqshısho +1 `en` @Laqme #o8PNSEveJ 2024-07-14T16:26:26.276Z
 ▯ transitions into satisfying property ▯.
@@ -82911,7 +82930,7 @@ toıboaı ± `en` @seaqtaq #EHbivAi03 2025-04-22T22:58:39.412Z
 ▯ submits to ▯
 seaqtaq (2025-04-22T22:59:10.526Z): Direct antonym of **caqtoı**
 
-toıcha ± `en` @Ilmen #olg1BhCpu 2020-02-11T15:28:38.758Z
+toıcha +1 `en` @Ilmen #olg1BhCpu 2020-02-11T15:28:38.758Z
 in event ▯, ▯ is an agent.
 
 toıcheo ± `en` @Ilmen #wmDfv5o_t 2020-03-07T12:29:25.074Z
