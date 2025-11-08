@@ -44,7 +44,7 @@ function search(q) {
       if (terms.length == 1)
         terms.push({ op: "~", orig: "", value: "" });
       if (!orders[query])
-        return { err: `<code>${escapeHTML(query)}</code> is not an ordering. available orderings: <code>default random alpha highest lowest newest oldest</code>}` };
+        return { err: `<code>${escapeHTML(query)}</code> is not an ordering. available orderings: <code>default</code> <code>random</code> <code>alpha</code> <code>highest</code> <code>lowest</code> <code>newest</code> <code>oldest</code>` };
     }
     return {
       op: operator,

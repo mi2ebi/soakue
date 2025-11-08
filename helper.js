@@ -35,8 +35,8 @@ function htmlify(json) {
         mkel("span", { "className": "score" }, [
           ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1")
         ]),
-        "  ",
-        mkel("a", { "href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id) }, ["↗"])
+        " ",
+        mkel("a", { "href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id), "target": "_blank" }, ["↗"])
       ])
     ]),
     mkel("dd", {}, replaceLinks(json.body)),
