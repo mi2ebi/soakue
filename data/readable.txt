@@ -23099,7 +23099,7 @@ gıalaıme ± `en` @Laqme #DSG4AQseG 2023-09-13T18:44:34.344Z
 gıaleoq ± `en` @uakci #cqPghrKE7 2020-03-04T10:05:15.373Z
 ▯ is a fence.
 
-gıam +1 `en` @robintown #oK5WPh9oU 2023-10-30T19:05:34.880Z
+gıam +2 `en` @robintown #oK5WPh9oU 2023-10-30T19:05:34.880Z
 ▯ moves around / is in motion.
 robintown (2023-10-30T19:07:25.091Z): maybe related to Thai 'เคลื่อน'? who knows…
 
@@ -24164,7 +24164,7 @@ gjjh +1 `en` @jiqci #UhlEWT1nh 2024-03-16T17:55:17.735Z
 abbreviation of **gö** **jıjıe**/**jeokuq** **jí** **hóa** "in my (honest) opinion / IMO / IMHO"
 evie (2024-11-14T04:14:03.896Z): kw: textspeak
 
-go- +2 `en` @uakci #8N9cUaefr 2023-08-12T15:35:54.990Z
+go- +3 `en` @uakci #8N9cUaefr 2023-08-12T15:35:54.990Z
 prefix: combine two verbs into a verb–object compound where the action denoted by the verb is specialized by the class of object
 uakci (2023-08-12T15:38:58.769Z): in other words, **A gọ-B** is a kind of **A** specific to **B**-s. for example, if A = ‘to sit sb’ and B = ‘baby’, then A **gọ-**B would mean babysitting, or the kind of sitting that’s specific to babies
 uakci (2023-08-12T15:39:15.998Z): note: the verb retains its original valency
@@ -33700,7 +33700,7 @@ jeatıaı ± `en` @lassc #iPR-rvgii 2022-12-02T14:02:35.474Z
 jeatıeq ± `en` @Laqme #v4eu8ge1M 2024-07-06T02:09:42.932Z
 ▯ is a trade route.
 
-jeba ± `en` @Laqme #wmn8uItEC 2024-07-14T11:21:16.957Z
+jeba +1 `en` @Laqme #wmn8uItEC 2024-07-14T11:21:16.957Z
 interjection: dude, bro, bruh, yo
 Laqme (2024-07-14T11:23:58.627Z): Covers a wide range of emotions (disbelief, excitement, exasperation), and is explicitly "tough" or masculine.
 
@@ -39406,6 +39406,9 @@ kaqgı ± `tok` @el #UPylspBXt 2022-07-10T05:14:50.757Z
 kaqgı ± `pl` @jiqci #mEGyFroYNQ 2023-07-31T08:20:55.793Z
 ▯ wygląda dobrze (dla ▯).
 
+kaqgıo ± `en` @Ilmen #M_VZqQeWd 2025-11-07T09:06:37.352Z
+▯ is visible light.
+
 kaqhıa +1 `en` @robintown #s7dQCm6MD 2024-12-24T04:18:18.078Z
 What does ▯ look like? How does ▯ look?
 
@@ -44652,7 +44655,7 @@ laızıu ± `en` @el #kZDz5Jcg3 2022-06-20T22:33:38.630Z
 laızızeo ± `en` @Ilmen #8qW2_JzRt 2025-03-14T20:13:57.577Z
 ▯ is a lychee fruit.
 
-laja ± `en` @kazoo #nXHU3Rh6h 2025-11-05T16:51:32.110Z
+laja -1 `en` @kazoo #nXHU3Rh6h 2025-11-05T16:51:32.110Z
 ▯ has no use/function; ▯ is useless.
 
 lajao ± `en` @Laqme #Fh2Ux0ple 2025-03-26T00:10:09.592Z
@@ -53579,7 +53582,7 @@ muaraq ± `en` @uakci #2erdWmwOG 2022-07-21T13:42:23.344Z
 ▯ is specific; ▯ pertains to specific/concrete instances of ▯.
 uakci (2022-07-21T13:42:34.262Z): like **shıraq** but **shı**-less
 
-muasoq +1 `en` @seaqtaq #UKq-L5nHC 2021-08-10T08:27:36.932Z
+muasoq +2 `en` @seaqtaq #UKq-L5nHC 2021-08-10T08:27:36.932Z
 ▯ is quintessential/paradigmatic/archetypal/standard
 
 mubaq ± `en` @Ilmen #td4xdNiCa 2022-10-31T20:33:58.593Z
@@ -61463,7 +61466,7 @@ el (2022-10-20T06:01:17.186Z): **jí pa fả jéarıaq**: [SAP [CP [C Ø] [FP Ø
 el (2022-10-20T06:01:48.076Z): with the DP marked <1> moving up to the node marked _1
 Hoemai (2022-10-20T10:35:13.304Z): Looks like this (slightly adjusted): https://dprebyl.github.io/syntree/#%5BSAP%20%5BCP%20%5BC%20%C3%98%5D%20%5BFP%20%5BDP_1%20j%C3%AD%5D%20%5BF'%20%5BF%20pa%5D%20%5BVP%20%5BDP%20t%3C1%3E%5D%20%5BV'%20%5BV%20fa%5D%20%5BDP%20%5BD%20t2%5D%20%5BV%20jeariaq%5D%5D%5D%5D%5D%5D%5D%20%5BSA%20%C3%98%5D%5D
 
-pá +2 `en` @Laqme #f_T-L2FKt 2022-08-17T06:13:42.365Z
+pá +3 `en` @Laqme #f_T-L2FKt 2022-08-17T06:13:42.365Z
 illocution marker: imperative with elided súq subject
 Laqme (2022-08-17T06:16:22.085Z): for example **Kaqsı jí pá!** = "look at me!". the subject DP had moved into SA, leaving a trace that makes the sentence "VO"
 Laqme (2022-08-17T06:16:43.845Z): I just think súq...bâ imperatives aren't very snappy
@@ -63215,7 +63218,7 @@ fagri (2020-02-13T06:49:45.705Z): (Specifically a stone statue, so more specific
 pıogaqlıao ± `en` @Snow #qE1Uy5MJP 2024-10-06T08:52:20.463Z
 ▯ is a gray bolete. ▯ is Retiboletus griseus.
 
-pıohoe ± `en` @seaqtaq #mPjAod_bN 2019-06-09T17:26:30.181Z
+pıohoe +1 `en` @seaqtaq #mPjAod_bN 2019-06-09T17:26:30.181Z
 ▯ is a planet
 seaqtaq (2019-06-09T17:27:58.493Z): I find this etymology very pleasing even though I would prefer a root. Since **hoe** is the only root for celestial bodies I can think of at the moment, I am going to treat it as a general celestial body suffix in compounds
 
@@ -63417,7 +63420,7 @@ predicate: ‘Pite.Sami.language’; ▯ is the Pite Sami language
 pıtoguı ± `en` @jiqci #ZLni2CiG8 2023-03-07T08:52:31.805Z
 ▯ is a python.
 
-pıu- +3 `en` @Laqme #hj1LfAcx8 2025-04-16T19:01:59.442Z
+pıu- +4 `en` @Laqme #hj1LfAcx8 2025-04-16T19:01:59.442Z
 prefix: 'X-pilled'
 
 pıu +1 `en` @official #-NCJaPrrpA 2019-05-05T22:27:05.151Z
@@ -87351,7 +87354,7 @@ zuohı ± `en` @jiqci #F79pdxMah 2024-06-13T15:40:42.040Z
 Why / for what purpose is ▯ the case?
 jiqci (2024-06-13T15:41:13.988Z): what for
 
-zuoı +1 `en` @Laqme #-N-kuynBL 2023-02-17T17:45:06.469Z
+zuoı ± `en` @Laqme #-N-kuynBL 2023-02-17T17:45:06.469Z
 ▯ moves around / is in motion.
 fagri (2023-10-30T18:50:13.343Z): +1
 
