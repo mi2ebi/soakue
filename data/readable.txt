@@ -1427,7 +1427,7 @@ Aqdoragua ± `en` @countries #3nrzGuPxSP 2023-10-02T12:22:03.624Z
 aqdoromedahoesıoq ± `en` @Ilmen #BCFJ26j0c 2025-11-06T14:42:55.366Z
 ▯ is the Andromeda galaxy.
 
-aqdu +1 `en` @fagri #meAi7mjgT 2023-11-23T17:52:09.336Z
+aqdu +2 `en` @fagri #meAi7mjgT 2023-11-23T17:52:09.336Z
 ▯ plays physical sport ▯
 fagri (2023-11-23T17:52:54.745Z): Etymology: shortening of "luaqduo", an entry by akesi.
 fagri (2023-11-23T17:53:19.938Z): I'm not sure if there should be a slot for the sport, I think maybe it should just be "▯ is playing a sport / is 'sporting'"
@@ -6495,6 +6495,9 @@ burıaqkero ± `en` @salarua #yKil7fjgR 2022-09-13T01:31:06.050Z
 
 burıaqzeo ± `en` @salarua #dwUj6uE9y 2022-09-13T01:37:15.554Z
 ▯ is the fruit of a grapefruit tree (Citrus paradisi)
+
+burıto ± `en` @evie #MYn5Liwuk 2025-11-09T01:26:39.005Z
+▯ is a burrito
 
 burıu ± `en` @uakci #EOC_-cIUU 2023-01-17T01:07:08.917Z
 ▯ returns/recovers from satisfying property ▯.
@@ -14047,9 +14050,10 @@ uakci (2021-08-10T13:48:40.148Z): the property is not satisfied by the individua
 daıtea +1 `en` @seaqtaq #udf4HLZp9 2024-08-04T20:37:56.766Z
 ▯ is apprehensive about state of affairs ▯;  ▯ fears that ▯ may happen
 
-daka ± `en` @jiqci #0VBv_kaN5 2023-06-06T14:24:37.192Z
+daka +1 `en` @jiqci #0VBv_kaN5 2023-06-06T14:24:37.192Z
 ▯ happens multiple times in quick succession; ▯ "spams" / satisfies property ▯ multiple times in quick succession.
 jiqci (2023-06-06T14:27:41.946Z): Ithkuil's Iterative Phase
+evie (2025-11-08T06:22:04.207Z): maybe this could be strictly (c 1) now that we have #zeEjNbOqJ for the (0) version
 
 dakacarachuo ± `en` @jiqci #irgulUdzf 2023-06-06T14:25:01.668Z
 ▯ is a machine gun.
@@ -22420,6 +22424,10 @@ Laqme (2024-07-01T01:35:40.519Z): at least N, ≥N
 geapuefuq ± `en` @Ilmen #GpoytN7JJ 2023-05-16T21:56:39.911Z
 ▯ is a boot.
 
+geapuefuq ± `en` @mimiaoganhaqpy #apRmaT7xS 2025-11-08T06:06:59.071Z
+▯ are platform boots / shoes.
+Ilmen (2025-11-08T09:48:58.670Z): discriminator: 2
+
 geaq ± `en` @official #yTtXtzYBBm 2019-05-05T22:25:44.831Z
 predicate: ‘dirty’; ▯ is dirty/unclean/contaminated.
 
@@ -27536,7 +27544,7 @@ haqsıa ± `en` @uakci #xzBbuh6Xl 2022-06-18T14:53:36.584Z
 ▯ is a vampire.
 uakci (2022-06-18T14:53:45.521Z): like a ghost **haqtu** but hungry
 
-haqsue ± `en` @seaqtaq #tHXa4ZKcA 2019-12-27T16:28:10.793Z
+haqsue +1 `en` @seaqtaq #tHXa4ZKcA 2019-12-27T16:28:10.793Z
 ▯ orders/requests dish ▯ 
 
 haqshuaq ± `en` @Machy #qT6_iMjDe 2021-10-25T23:05:47.553Z
@@ -28593,16 +28601,18 @@ Laqme (2025-02-09T00:08:41.047Z): A cross between **híba** and **hıa**, used i
 hıaba ± `en` @robintown #-XiyMnkXR 2025-04-24T22:01:52.268Z
 You said that … ▯ is what?
 
-hıafaq +1 `en` @mimiaoganhaqpy #Ayo1fOdl2 2022-11-25T06:46:12.198Z
-What the fuck is ▯?; What the fuck is ▯ doing?
-mimiaoganhaqpy (2022-11-25T06:46:22.606Z): created by analogy from #aXDIZTrvv and #_5chCCpS-
-
 hıafaq ± `zh` @mimiaoganhaqpy #exG_dCQq7 2022-11-25T06:50:09.741Z
 ▯ 是什麼鬼？；▯ 做什麼鬼？
 mimiaoganhaqpy (2022-11-25T06:58:54.577Z): ▯ 是什么鬼？ ；▯ 做什么鬼？
 
 hıafaq ± `es` @TheAndSys #_yXwubveD 2025-03-26T05:36:35.289Z
 qué mierda es ▯?; qué mierda está haciendo ▯?
+
+hıafaq ± `en` @mimiaoganhaqpy #nSHuiHwm_ 2025-11-08T06:10:52.072Z
+What the fuck is ▯?; What the fuck is ▯ doing?
+mimiaoganhaqpy (2025-11-08T06:19:33.221Z): Etymology: by analogy from #oLje2jfzp and #_5chCCpS-
+Ilmen (2025-11-08T09:50:02.971Z): discriminator: 1
+Ilmen (2025-11-08T09:50:25.539Z): I assume this is the same meaning as Laqme's definition, but with a different wording?
 
 hıahıa ± `en` @uakci #W4GbM50kH 2022-08-24T09:43:48.083Z
 ▯ is/does what to/with/in relation with ▯?;  What is ▯ with regards to ▯?; ▯ satisfies what relation with ▯?
@@ -39068,6 +39078,11 @@ kaodıeq +1 `en` @mimiaoganhaqpy #miqt81FQU 2023-03-18T03:10:17.867Z
 ▯ uploads / sends, to ▯, file ▯.
 mimiaoganhaqpy (2023-11-05T18:02:21.640Z): Delta place order.
 
+kaodıeq ± `en` @evie #vsnSsinMO 2025-11-08T06:13:49.863Z
+▯ uploads file ▯
+evie (2025-11-08T06:13:57.615Z): one sense of "submits"
+Ilmen (2025-11-08T09:50:57.127Z): discriminator: 2
+
 kaodıeq -1 `en` @Ilmen #N-ut21QFH 2019-04-17T19:48:48.000Z
 ▯ uploads / sends file ▯ to ▯.
 uakci (2019-04-17T19:49:30.000Z): +1, une wòrde gôude
@@ -39116,7 +39131,7 @@ uakci (2019-04-17T19:51:15.000Z): +1, anothère wòrdé gôudé
 seaqtaq (2019-04-17T20:04:24.000Z): +1, so long have I needed these two
 salarua (2023-06-06T22:42:42.639Z): -1, argument order
 
-kaojuq ± `en` @uakci #m0K9cBZwP 2023-06-07T06:05:36.480Z
+kaojuq +1 `en` @uakci #m0K9cBZwP 2023-06-07T06:05:36.480Z
 ▯ downloads / receives file ▯.
 
 kaokaıche ± `en` @seaqtaq #m_3QOSKgV 2019-11-26T12:43:26.536Z
@@ -39714,6 +39729,7 @@ karama ± `en` @Ilmen #spxkVHBha 2019-03-24T22:43:33.000Z
 
 karaq ± `en` @mimiaoganhaqpy #5f0KCiR5l 2023-04-24T14:15:57.905Z
 number component: 10^16 (10,000,000,000,000,000)
+mimiaoganhaqpy (2025-11-08T05:54:56.557Z): Keyword: ten quadrillion
 
 karasere ± `en` @Ilmen #J5z8Bbpbw 2023-01-14T20:30:24.394Z
 ▯ is a European hornet (Vespa crabro).
@@ -53084,7 +53100,7 @@ Moqgalagua ± `en` @mimiaoganhaqpy #mKogmRjL0 2023-06-26T21:31:46.776Z
 ▯ is the country Mongolia.
 
 Moqgalazu ± `en` @mimiaoganhaqpy #NlILL31yO 2023-06-26T21:32:03.537Z
-▯ is Mongolian language.
+▯ is the Mongolian language.
 
 moqha ± `en` @uakci #A5GyhxRt4 2022-08-18T18:47:04.675Z
 illocution: humorous, non-serious question.
@@ -55120,6 +55136,9 @@ nanopaı +1 `en` @Laqme #GuD9kWiow 2024-08-19T21:37:33.501Z
 
 nanu ± `en` @Laqme #diQQdLTUh 2024-08-30T08:30:08.152Z
 ▯ is such / like that.
+
+nạ́nhuq'ao ± `en` @evie #XYUG322wV 2025-11-08T06:18:17.386Z
+conjunction: on behalf of, representing
 
 nao +1 `en` @official #9yTSu7lFjM 2019-05-05T22:26:46.472Z
 predicate: ‘water’; ▯ is water.
@@ -61179,8 +61198,9 @@ okeı ± `tok` @el #qNbaAwMNj 2022-07-10T06:23:00.203Z
 okeıjıe ± `en` @Machy #2JS02djT0 2021-10-10T03:42:14.723Z
 ▯ accepts ▯.
 
-oku ± `en` @mimiaoganhaqpy #7Zv9FJ_O9 2023-04-24T14:07:13.868Z
+oku ± `en` @mimiaoganhaqpy #e0p1fHF9k 2025-11-08T07:16:08.094Z
 number component: 10^8 (100,000,000)
+mimiaoganhaqpy (2025-11-08T07:16:18.400Z): Keyword: one hundred million
 
 okuq ± `en` @jiqci #Q22-amyNV 2024-01-03T07:43:47.233Z
 ▯ is a perch (genus Perca).
@@ -65894,7 +65914,7 @@ prefix: frequentative form of verb
 Laqme (2023-11-22T22:31:54.877Z): "ram-X" is like a spatiotemporal burst of small X-ings viewed as a single event: "X repeatedly" or "X around" or "X here and there".
 Laqme (2023-11-22T22:42:09.702Z): This is something like "crack → crackle" and "spark → sparkle" in English, or "-ella" in Finnish
 
-ram +2 `en` @Ilmen #zeEjNbOqJ 2025-09-22T10:19:48.272Z
+ram +3 `en` @Ilmen #zeEjNbOqJ 2025-09-22T10:19:48.272Z
 ▯ is repetitively the case.
 
 ram -1 `en` @fagri #kS_-h1XzK 2023-01-22T01:57:36.998Z
@@ -69924,9 +69944,6 @@ predicate: ‘matter’; ▯ is matter/material/substance.
 
 saı ± `pl` @jiqci #ItGHg9J1km 2023-07-31T08:22:04.580Z
 ▯ to materia/substancja/materiał.
-
-saı'eqhuıchuaq ± `en` @mimiaoganhaqpy #tm9fXj9JS 2022-10-28T03:10:49.390Z
-▯ is the cult of Scientology.
 
 saıbeo ± `en` @uakci #-dOEqBgMt 2023-04-17T10:23:58.246Z
 ▯ transfigurates/transmutates (in an alchemistic/esoteric sense).
@@ -74455,7 +74472,7 @@ suaogao ± `en` @bwlgar #3YgNzlIaw 2024-12-13T23:10:02.663Z
 suaojaqchıtaq ± `en` @Ilmen #FuYAeCww_ 2018-09-21T21:29:59.000Z
 ▯ is megalomaniac.
 
-suaojıe ± `en` @official #OfOWue-jFs 2019-05-05T22:27:25.431Z
+suaojıe -1 `en` @official #OfOWue-jFs 2019-05-05T22:27:25.431Z
 predicate: ‘care’; ▯ cares about ▯; ▯ considers ▯ important.
 robintown (2021-12-29T23:51:16.641Z): -1, jỉe feels backwards, and a serial with mỉu works just as well
 
@@ -78860,12 +78877,13 @@ tage ± `en` @Ilmen #u6Ab2f0WV 2019-01-16T18:14:17.000Z
 ▯ = tan(▯).
 jiqci (2023-12-31T14:14:56.693Z): tangent
 
-tagı +1 `en` @mimiaoganhaqpy #gz3A2wqn2 2022-12-03T03:21:54.839Z
-▯ accidentally/unintentionally satisfies property ▯.
-
 tagı ± `en` @el #heB1mHxRV 2022-10-15T23:26:07.076Z
 ▯ does ▯ by accident/unintentionally
 el (2022-10-15T23:26:18.475Z): clipping of **taogıq**
+
+tagı ± `en` @mimiaoganhaqpy #cDCI6VFT5 2025-11-08T06:10:37.808Z
+▯ accidentally/unintentionally satisfies property ▯.
+Ilmen (2025-11-08T09:51:37.884Z): discriminator: 1
 
 tagımoaq ± `en` @el #ZMz4kBg4t 2022-11-30T22:02:04.899Z
 ▯ has a flashback ▯
@@ -84859,6 +84877,10 @@ Ukaınagua ± `en` @mimiaoganhaqpy #7E_oW2-9u 2022-09-22T04:27:48.235Z
 Ukaınazu ± `en` @Laqme #R81FR0k3h 2023-12-17T15:36:40.571Z
 ▯ is the Ukrainian language.
 
+Ukaınazu -1 `en` @mimiaoganhaqpy #-wYBPiQl3 2025-11-08T06:07:54.838Z
+▯ is the Ukrainian language.
+Ilmen (2025-11-08T09:46:30.154Z): Duplicate.
+
 ukıu +2 `en` @salarua #xPaW20tHu 2022-12-27T21:45:59.747Z
 predicate: ‘adorable’; ▯ is adorable
 salarua (2022-12-27T21:46:47.375Z): etymology: **û** + kıu
@@ -85408,6 +85430,7 @@ interjection: cuter **ꝡadı**
 
 ꝡe ± `en` @mimiaoganhaqpy #2vo_GPGUu 2025-02-11T17:59:19.636Z
 free relative: ‘that.which’; turn clause into predicate
+mimiaoganhaqpy (2025-11-08T06:05:42.231Z): Example: Ꝡe maı hóa hóe, jí da. = "I am one who loves the sun."
 
 ꝡé +2 `toa` @mimiaoganhaqpy #pC-pFAWo3 2022-12-18T04:38:44.633Z
 = ló ꝡë
@@ -85423,6 +85446,7 @@ Ilmen (2025-10-31T10:05:50.977Z): officialized: yes
 number component: myriad, 10,000 (for counting in lots of 4 digits)
 uakci (2023-04-24T08:46:16.802Z): for further powers of 10⁴, reduplicate the first phonological syllable: **ꝡeꝡeam**, **ꝡeꝡeꝡeam** for 10⁸, 10¹² respectively
 mimiaoganhaqpy (2025-02-22T08:34:57.419Z): keyword: ten thousand
+mimiaoganhaqpy (2025-11-08T07:17:19.322Z): Alternative to repeating the first syllable, **ꝡeam** (10^4), **oku** (10^8), **tera** (10^12), **karaq** (10^16)
 
 ꝡeaq ± `en` @Ilmen #y-nzmBnWh 2024-10-14T20:26:17.652Z
 ▯ is a certain one (known to the speaker) with property ▯.
@@ -99662,20 +99686,20 @@ predicate: ‘subway’; ▯ is a metro; ▯ is a subway (underground rail trans
 ⚠ guqgıepıy +1 `en` @el #2-JID9Gvn 2022-07-10T16:14:03.821Z
 ▯ is annoyed because they don't know where to put their lower arm while cuddling
 
-⚠ gusy ± `en` @Laqme #25fbVPs3D 2022-05-14T21:58:18.467Z
-quantifier: exactly two
-Laqme (2022-05-14T21:59:42.546Z): "Also **shısy**, **saqsy**, **josy**...” / “For example, **Reıduo roaısy pıohoe hóe da** (eight planets orbit the sun)”
-uakci (2022-05-14T22:10:50.052Z): two and no more
-uakci (2022-11-30T20:47:07.865Z): note: the way this word was originally defined in the original toaq, it instead meant “exactly two plural constants”. this definition fails spectacularly for distributive predicates
-uakci (2022-11-30T20:47:49.111Z): i would suggest saying something like **sa gu hao ru sıa saq** instead, for example
-uakci (2022-11-30T20:49:04.085Z): (by "this definition" above i mean the original definition. the definition in this entry is fine)
-
 ⚠ gusy -1 `toa` @fagri #pwu6xvaOo 2022-02-25T18:23:27.949Z
 Cotoa: Muıjeq mó «gusy hao» teo, mó «sa shımy häo ru sa gumy häo ru sıa hao süku hóa shímy ru gúmy» teo da
 fagri (2022-02-25T18:23:32.903Z): Jıq mao shú shısy, ru shú saqsy, ru shú josy, ...
 fagri (2022-02-25T18:23:41.712Z): Mua mó, «Reıduo roaısy pıohoe hóe da» teo da
 robintown (2022-02-26T23:34:44.115Z): Hỉa shú gủmy moq?
 fagri (2022-02-26T23:46:20.838Z): Mu jeq sykeo shú raı, shú shımy ru shú gumy ru tushı sıu da
+
+⚠ gusy -1 `en` @Laqme #25fbVPs3D 2022-05-14T21:58:18.467Z
+quantifier: exactly two
+Laqme (2022-05-14T21:59:42.546Z): "Also **shısy**, **saqsy**, **josy**...” / “For example, **Reıduo roaısy pıohoe hóe da** (eight planets orbit the sun)”
+uakci (2022-05-14T22:10:50.052Z): two and no more
+uakci (2022-11-30T20:47:07.865Z): note: the way this word was originally defined in the original toaq, it instead meant “exactly two plural constants”. this definition fails spectacularly for distributive predicates
+uakci (2022-11-30T20:47:49.111Z): i would suggest saying something like **sa gu hao ru sıa saq** instead, for example
+uakci (2022-11-30T20:49:04.085Z): (by "this definition" above i mean the original definition. the definition in this entry is fine)
 
 ⚠ gutoemy ± `en` @robintown #rqP7Qj4-x 2021-10-22T16:02:16.737Z
 ▯ is a pair of scissors.
@@ -100628,9 +100652,6 @@ ra(sıu)choatoaı ± `en` @seaqtaq #g7jzCtsCW 2019-01-28T01:30:59.000Z
 ⚠ reqpapybeqsebıso ± `en` @Hydro #ZdSFXwg9T 2021-09-06T02:36:59.949Z
 ▯ is a HPV (human papillomavirus).
 
-⚠ rıaımypuefuq -1 `en` @mimiaoganhaqpy #rbdSqotba 2022-08-21T06:11:54.408Z
-▯ are platform boots / shoes.
-
 ⚠ rıoduy ± `en` @Laqme #9VHpTaVAQ 2022-05-11T17:07:18.246Z
 ▯ flies through the air.
 
@@ -100919,10 +100940,10 @@ Hoemai (2020-02-22T16:12:08.725Z): a priori
 ⚠ uchy ± `en` @uakci #4dU5NDvVw 2020-04-15T22:20:26.160Z
 ▯, in Universal Coordinated Time (UTC), is at time ▯.
 
-⚠ ukyraına ± `en` @Ilmen #CzQ1Fk-zW 2022-06-27T21:02:19.877Z
+⚠ ukyraına -1 `en` @Ilmen #CzQ1Fk-zW 2022-06-27T21:02:19.877Z
 ▯ pertains to the culture of Ukraine.
 
-⚠ ukyraınagua ± `en` @Ilmen #OjUNVTKGz 2022-06-27T21:02:41.874Z
+⚠ ukyraınagua -1 `en` @Ilmen #OjUNVTKGz 2022-06-27T21:02:41.874Z
 ▯ is Ukraine.
 
 ⚠ uy'u -1 `en` @uakci #gjIEsrG2x 2021-09-04T16:25:42.631Z
