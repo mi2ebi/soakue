@@ -1,8 +1,8 @@
-use std::collections::{hash_map::Entry, HashMap};
+use std::collections::{HashMap, hash_map::Entry};
 
 use itertools::Itertools as _;
 
-use crate::toadua::Toa;
+use crate::toadua::{Toa, split_into_raku};
 
 /// Used to test all possible orders of a slice. This is important because we
 /// are performing sorting tests, and we want to ensure that the orders picked
@@ -167,4 +167,21 @@ fn strict_ordering() {
 
         // It is possible
     });
+}
+
+#[test]
+fn rakune() {
+    let cases =
+        [("raku", Some(2)), ("flksdjflks", None), ("ëıgo", Some(2)), ("jorakutoa", Some(4))];
+    for (head, expected) in cases {
+        assert_eq!(expected, split_into_raku(head).map(|r| r.len()));
+    }
+}
+#[test]
+fn warn() {
+    let cases = [(toa!("y"), true), (toa!("eıgo"), false), (toa!("ëıgo"), true)];
+    for (mut head, expected) in cases {
+        head.set_warning();
+        assert_eq!(head.warn, expected);
+    }
 }

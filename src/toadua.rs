@@ -7,7 +7,10 @@ use unicode_normalization::UnicodeNormalization as _;
 
 use crate::letters::{GraphResult, GraphsIter, Tone, filter};
 
-static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
+static ONE_RAKU: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(^|[\ mpbfntdczꝡsrljkg'h]|[ncs]h)([aeiıou])?([aeo][iı]|ao|[aeiıou][qm]?)").unwrap()
+});
+static MANY_RAKU: LazyLock<Regex> = LazyLock::new(|| {
     RegexBuilder::new(
         r"^((
             (^|[\ mpbfntdczꝡsrljkg'h]|[ncs]h)
@@ -38,37 +41,47 @@ pub struct Toa {
     pub warn: bool,
 }
 
+fn normalize_for_validation(text: &str) -> String {
+    text.nfd()
+        .to_string()
+        .to_lowercase()
+        .replace(" a", "'a")
+        .replace(" e", "'e")
+        .replace(" i", "'i")
+        .replace(" ı", "'i")
+        .replace(" o", "'o")
+        .replace(" u", "'u")
+        .replace(|x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x), "")
+}
+pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
+    let normalized = normalize_for_validation(word);
+    if !MANY_RAKU.is_match(normalized.as_bytes()) {
+        return None;
+    }
+    let rakus: Vec<String> = ONE_RAKU
+        .find_iter(normalized.as_bytes())
+        .map(|m| String::from_utf8_lossy(m.as_bytes()).into_owned())
+        .collect();
+    if rakus.is_empty() { None } else { Some(rakus) }
+}
+
 impl Toa {
     pub fn set_warning(&mut self) {
         self.warn = (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
             .iter()
             .any(|v| self.head.contains(v))
-            || {
-                !MADE_OF_RAKU.is_match(
-                    self.head
-                        .nfd()
-                        .to_string()
-                        .to_lowercase()
-                        .replace(" a", "'a")
-                        .replace(" e", "'e")
-                        .replace(" i", "'i")
-                        .replace(" ı", "'i")
-                        .replace(" o", "'o")
-                        .replace(" u", "'u")
-                        .replace(
-                            |x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x),
-                            "",
-                        )
-                        .as_bytes(),
-                )
-            }
+            || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
             || self.head.nfc().any(|c| {
                 !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
                   AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
                   .,?!-\u{0301}\u{0302}\u{0308}\u{0323}()«»‹›"
                     .contains(c)
             })
-            || self.user.starts_with("old"))
+            || self.user.starts_with("old")
+            || self.head.split_whitespace().any(|word| {
+                word.nfd().contains(&'\u{0308}')
+                    && split_into_raku(word).is_some_and(|rakus| rakus.len() > 1)
+            }))
             && !self.body.contains("textspeak")
             && !self.notes.iter().any(|n| n.content.contains("textspeak"));
     }
