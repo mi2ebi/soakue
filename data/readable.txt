@@ -432,6 +432,7 @@ polarity: ‘NEG.CONTR’; contrastive negation: not in fact (contradicting a sa
 Ilmen (2025-10-31T09:45:18.969Z): This predicate expresses that its argument is false and that this disagrees with a proposition from the immediately preceding discourse (there should be one most salient proposition). Like the opposite of German "doch" and French "si", but as a verb. If no argument is provided, it defaults to the negation of the most salient proposition.
 Ilmen (2025-10-31T09:46:00.556Z): A: Jaq cho hó jí B: Aımu, ꝡä cho hó súq. A: "He really likes me!" B: "No, he doesn't."
 Ilmen (2025-10-31T09:46:38.934Z): A: Gı hú fafuaq B: Aımu. A: "That movie is good." B: "No, (it isn't)."
+evie (2025-11-09T18:21:21.038Z): not actually a predicate
 
 aımu +2 `en` @Hoemai #zJJysQXen 2022-08-06T19:57:04.300Z
 ▯ is not* the case.
@@ -13847,7 +13848,7 @@ uakci (2021-11-06T20:32:23.519Z): = **te chủge**
 chutı ± `en` @Ilmen #gvq2QkV98 2025-10-30T22:11:31.991Z
 ▯ is at the middle of ▯.
 
-chutıaı ± `en` @kazoo #b8uKTvI2Y 2025-05-17T18:03:35.411Z
+chutıaı -1 `en` @kazoo #b8uKTvI2Y 2025-05-17T18:03:35.411Z
 ▯ is an edge piece in a Rubik's cube.
 
 chutoa ± `en` @uakci #FcAgNgiQa 2023-12-04T20:14:00.960Z
@@ -18119,7 +18120,7 @@ evie (2024-10-29T20:34:18.720Z): from 'eggbug' (rip cohost)
 ego ± `en` @Machy #-i7NaUpLz 2022-01-05T06:29:21.487Z
 ▯ is the self-image of ▯.
 
-ëgo +2 `en` @Ilmen #Hf7peXd8h 2023-12-12T18:43:25.211Z
+ëgo +1 `en` @Ilmen #Hf7peXd8h 2023-12-12T18:43:25.211Z
 eventive retroactive cleft: ‘EV.RETROCLE’; lift the event of the top-level clause, binding hóa to it in the following matrix clause.
 
 ehe +2 `en` @robintown #f-pQHgAe1 2022-02-05T21:33:00.383Z
@@ -18161,10 +18162,12 @@ eıchı ± `en` @robintown #T8qj2uYLR 2022-08-01T22:16:07.463Z
 eıdoe ± `en` @seaqtaq #Vkr0mVfoG 2024-11-09T04:55:13.647Z
 ▯ functions as a ▯; ▯ circumstantially satisfies some salient property or properties the way ▯ would
 
-ëıgo +1 `en` @seaqtaq #wK2fjXFdM 2024-07-16T08:57:26.977Z
+ëıgo ± `en` @seaqtaq #wK2fjXFdM 2024-07-16T08:57:26.977Z
 eventive relative retroactive cleft: ‘EV.REL.RETROCLE’; lift the event of the superordinate clause, binding hóa in the following clause on the same level as said superordinate clause
 seaqtaq (2024-07-16T08:57:35.593Z): cf ïgo
 seaqtaq (2024-07-16T08:58:13.344Z): gö:ëgo::ïgo:ëıgo
+evie (2025-11-09T22:19:25.945Z): words with :d3: should be 1 raku; maybe these could be göe göı göeı
+seaqtaq (2025-11-09T23:55:50.090Z): DEPRECIATED - INVALID WORD SHAPE. See **cạ-** for a word with a similar function
 
 eıjoı ± `en` @uakci #YmNg_p3GO 2023-05-22T07:54:53.696Z
 ▯ is socially expected to cooccur with ▯; ▯ and ▯ are deemed as events that go together [in a **joı**] sense by the social convention.
@@ -20887,7 +20890,7 @@ sentence connector: ‘by.the.way’; go on tangent
 fsh ± `en` @evie #B_dyLSWn- 2024-11-11T01:54:12.516Z
 textspeak for **foa súq hí?** (how are you?)
 
-fu +4 `en` @Laqme #Pam8cBXNm 2022-03-03T01:49:30.257Z
+fu +5 `en` @Laqme #Pam8cBXNm 2022-03-03T01:49:30.257Z
 ▯ is a child of ▯.
 lassc (2025-03-25T16:29:12.569Z): +1, i think it is important to make the biological forms of these words the marked forms as opposed to vice versa
 ijonetun (2025-03-25T16:32:04.754Z): +1 ^
@@ -23649,6 +23652,9 @@ Machy (2020-07-04T21:26:57.394Z): should these be reversed?
 
 gıne ± `en` @lassc #JszdwE6Dn 2025-03-20T16:01:33.281Z
 ▯ is a rating/grade/score.
+
+gınejeaqleofaqne ± `en` @evie #dI7lvgRma 2025-11-09T03:47:50.946Z
+(in a game) ▯ is a shot on goal
 
 gıneq ± `en` @official #xUG7d6sCkC 2019-05-05T22:25:38.503Z
 predicate: ‘fortunate’; ▯ is fortunate for ▯.
@@ -30453,7 +30459,7 @@ hu'aqtaı ± `en` @uakci #lkluvpNAe 2023-10-17T19:51:49.212Z
 ▯ excels themselves in property ▯; ▯ breaks new ground in how much they ▯.
 uakci (2023-10-17T19:52:04.209Z): < **huaqtaı** + **aq**; = **taq huaqtaı**
 
-hua +2 `en` @uakci #yZumUBMb0 2022-05-15T14:34:02.404Z
+hua +3 `en` @uakci #yZumUBMb0 2022-05-15T14:34:02.404Z
 predicate: ‘body.part’; ▯ is a body part of ▯.
 uakci (2022-05-15T14:34:09.885Z): **paq** frame
 uakci (2022-05-15T14:45:40.302Z): justification: the *inalienable* ‘owner’ of a body part is pretty essential to the idea of bodyparthood (and the idea of being part of a bigger organism). also this makes for nice genitival serials like **moıhua jỉ** ‘my brain’
@@ -31726,11 +31732,12 @@ jiqci (2024-07-04T13:58:28.681Z): yuck
 ıga +2 `en` @seaqtaq #PiiTt-Zk- 2024-07-10T21:34:43.987Z
 interjection: "Of course..."/"...After all"
 
-ïgo +1 `en` @seaqtaq #wxeB-9cn1 2024-07-16T08:50:18.604Z
+ïgo ± `en` @seaqtaq #wxeB-9cn1 2024-07-16T08:50:18.604Z
 relative retroactive cleft: ‘RELRETROCLE’; lift superordinate clause, binding hóa in the following clause on the same level as said superordinate clause
 seaqtaq (2024-07-16T08:51:42.801Z): Intended to cover for a (perceived) weakness of gö—namely that it can only be used to add extra details to the main proposition, and not propositions represented in arbitrarily nested subordinate claues
 seaqtaq (2024-07-16T08:53:19.017Z): "Bu chı jí, ꝡá noaq nháo sá, ꝡä fa déo jéarıaq zûo pó báq noaı, ïgo bu le hóa"=I don't believe he's slowly [afterthought cleft] reading something about a boy going to the story
 seaqtaq (2024-07-16T08:55:32.067Z): Similarly, in "Bu chı jí, ꝡá noaq nháo sá, ꝡä fa déo jéarıaq zûo pó báq noaı, ïgo bu le hóa, ïgo kuı hôa sá bụtuao", the second ïgo esssentially functions as gö in this case since there are only three neating levels
+seaqtaq (2025-11-09T23:55:35.356Z): DEPRECIATED - INVALID WORD SHAPE. See **cạ-** for a word with a similar function
 
 ıgoluaq ± `en` @Laqme #VADPZ5aib 2022-05-14T22:13:57.382Z
 ▯ play Go together.
@@ -37798,7 +37805,7 @@ It turns out / comes to a point where ▯; Things develop/culminate/approach a r
 junatıe ± `en` @seaqtaq #_wvTbHzcG 2024-10-03T00:59:25.281Z
 That ▯ is the case obscures/covers the fact that ▯ is the case
 
-junı +3 `en` @lassc #pQoMSOvG- 2022-12-02T13:22:45.901Z
+junı +4 `en` @lassc #pQoMSOvG- 2022-12-02T13:22:45.901Z
 interjection: "see you later"; acknowledgement of departure with expectation of return
 lassc (2022-12-02T13:24:22.649Z): **oka** for indication, **koıka**/**reına** for situations in which you do not expect return
 robintown (2023-10-17T16:09:23.847Z): goodbye
@@ -41946,10 +41953,6 @@ koaloa +1 `en` @robintown #APVddH2W4 2021-11-15T20:34:52.690Z
 koam ± `en` @robintown #5PsvFlpYc 2022-12-23T02:51:24.372Z
 number component: zero
 
-koam ± `en` @kazoo #56ZaQUriW 2025-11-01T13:49:51.477Z
-▯ is zero in number.
-Ilmen (2025-11-01T18:57:13.724Z): discriminator: 2
-
 Koam'aomo ± `en` @jiqci #nVygAkOkB 2023-07-05T20:29:18.671Z
 ▯ is the Null Island.
 
@@ -42369,7 +42372,7 @@ Ilmen (2019-02-04T17:40:20.000Z): This might actually be a little more generic t
 koıjuı ± `en` @Laqme #20UP5ESE0 2024-07-03T10:40:56.796Z
 ▯ is within walking distance of ▯.
 
-koıka +3 `en` @lassc #vVM0H8pgJ 2022-12-02T13:22:35.843Z
+koıka +4 `en` @lassc #vVM0H8pgJ 2022-12-02T13:22:35.843Z
 interjection: "farewell"; indication of departure without expectation of return
 lassc (2022-12-02T13:24:11.313Z): **reına** for acknowledgement, **oka**/**junı** for situations in which you expect return
 robintown (2023-10-17T16:09:17.768Z): goodbye
@@ -55772,7 +55775,7 @@ Natosuroq ± `en` @jiqci #HRzl7gzWd 2024-03-10T09:52:01.469Z
 natutıum ± `en` @Snow #oBHGWjZrE 2023-06-02T04:59:45.220Z
 ▯ is any plant of genus nasturtium; ▯ is watercress/yellowcress.
 
-näꝡa ± `en` @Ilmen #Exo8377ZD 2024-02-22T20:16:59.388Z
+näꝡa -1 `en` @Ilmen #Exo8377ZD 2024-02-22T20:16:59.388Z
 particle: discourse-level frame-setting cleft — placed after a tense or modal expression, setting it as the domain in which the following sentences are evaluated as true, until the next occurrence of ⟪näꝡa⟫. May be used for introducing storytelling, in which case the following sentences are set to describe a context unrelated to the “here and now” of the speaker and addressees, describing instead events set in the past or in an imaginary universe.
 
 nạ́ꝡoshı +1 `en` @Laqme #3zS_1OHb7 2024-10-24T17:27:19.594Z
@@ -55813,7 +55816,7 @@ teoqtıao dóshı tıo jâq dógu lî jeo ja dó da
 ne -1 `toa` @Ilmen #Ua9pxjCRH 2020-01-23T22:51:48.397Z
 = [X0] ja seu ja luraı bı sa raı sa shıja bı to ru lujeq lúraı jêo ráı shíja to jaqlınelı go shíja sa lú deı hóa séu ráı.
 
-në +1 `en` @Laqme #GnAIT_UHl 2025-04-09T11:36:26.682Z
+në +2 `en` @Laqme #GnAIT_UHl 2025-04-09T11:36:26.682Z
 interjection: "well..." / "I mean..." (adjusting / nuancing a statement)
 Laqme (2025-04-09T11:37:38.593Z): I support **na** being a terminator so I moved the interjection meaning here.
 Laqme (2025-04-09T11:39:07.671Z): I'd say this is a very vague or general or light interjection, halfway to being a filler word, hence the very short form
@@ -61176,7 +61179,7 @@ ojarua ± `en` @lassc #Kjjt4AN5c 2025-03-12T17:11:41.057Z
 ▯ is a member of the genus Datura (commonly referred to as "thornapples" and "jimsonweeds").
 lassc (2025-03-12T17:12:35.426Z): calque from Spanish toloache ← Classical Nahuatl toloatzin (toloa "bow one's head" + -tzin (honorific/diminutive))
 
-oka +3 `en` @lassc #BqntvW_Vp 2022-12-02T13:22:26.731Z
+oka +4 `en` @lassc #BqntvW_Vp 2022-12-02T13:22:26.731Z
 interjection: "goodbye"; indication of departure with expectation of return
 lassc (2022-12-02T13:24:00.327Z): **junı** for acknowledgement, **koıka**/**reına** for situations in which you do not expect return
 
@@ -62285,23 +62288,23 @@ pe +3 `en` @official #W5aCOwNad 2020-03-02T23:03:26.700Z
 predicate: ‘for’; ▯ is the case for/by the standard of ▯.
 Isi (2024-08-30T08:11:45.825Z): "compared to"
 
-pe +1 `en` @Ilmen #ITVKO1Ehq 2019-12-07T17:29:50.214Z
+pe ± `en` @Ilmen #ITVKO1Ehq 2019-12-07T17:29:50.214Z
 ▯ is much the case relatively to how much it is the case for ▯; ▯ has property ▯ to a great extent relatively to how much ▯ have that property.
 
 pe ± `toa` @Ilmen #5As5H-o6Y 2020-01-29T13:55:37.089Z
 = tuaobupe ▯ ▯; tuaobupe ▯ ▯ ▯.
-
-pe ± `tok` @el #UX8mm2lAY 2022-07-10T07:23:03.623Z
-▯₂ la ▯₁ li lon
-
-pe ± `pl` @jiqci #00wWWXxGF2 2023-07-31T08:21:51.783Z
-▯ zachodzi według/w porównaniu ze standardem ▯.
 
 pe ± `en` @Laqme #XiOQEEo3l 2024-09-23T23:23:50.652Z
 ▯ is in comparison to ▯.
 
 pe -1 `toa` @uakci #Vt7IoRgq8 2019-04-14T21:57:02.000Z
 puı sa túq lu huaq hóa dógu lî jeo sa lú mea hóa dógu na sa pó dóshı da
+
+pe -1 `tok` @el #UX8mm2lAY 2022-07-10T07:23:03.623Z
+▯₂ la ▯₁ li lon
+
+pe -1 `pl` @jiqci #00wWWXxGF2 2023-07-31T08:21:51.783Z
+▯ zachodzi według/w porównaniu ze standardem ▯.
 
 pë ± `en` @evie #ja7Xt3sY0 2024-10-28T21:27:01.853Z
 topicalizer: relative to x, ...
@@ -63149,14 +63152,15 @@ Pılıpınagua ± `en` @countries #icAoGM4V39m 2023-10-02T12:22:05.023Z
 Pılıpınozu ± `en` @eednb #xhFtIeil1 2023-12-31T22:28:31.288Z
 ▯ is the standard Filipino language.
 
-pım ± `en` @seaqtaq #sEtFUUovz 2024-10-24T08:17:21.154Z
+pım +1 `en` @seaqtaq #sEtFUUovz 2024-10-24T08:17:21.154Z
 ▯ is secondary/peripheral
 seaqtaq (2024-10-24T08:17:27.233Z): antonym of joq
+Dembim (2025-11-09T02:48:43.638Z): kw: ancillary, auxiliary, marginal, subordinate
 
 pıma ± `en` @Laqme #DBpa2eO4I 2022-05-23T09:53:03.972Z
 ▯ is a pepper (Capsicum fruit 🫑🌶️).
 
-pımasaı ± `en` @Laqme #uKZ9p6tqa 2022-05-23T09:56:58.729Z
+pımasaı +1 `en` @Laqme #uKZ9p6tqa 2022-05-23T09:56:58.729Z
 ▯ is capsaicin.
 
 pımfeqchuoıme ± `en` @seaqtaq #xQWtSqKIB 2024-10-24T08:19:33.803Z
@@ -66677,7 +66681,7 @@ reımuoı ± `en` @robintown #PbC7Aw4mR 2023-01-13T18:11:37.275Z
 ▯ revolves/orbits around ▯.
 robintown (2023-01-13T18:14:26.075Z): this has more of a connotation of regular/repeated motion than **fareı**
 
-reına +3 `en` @lassc #8Cqe4OchL 2022-12-02T13:22:56.432Z
+reına +4 `en` @lassc #8Cqe4OchL 2022-12-02T13:22:56.432Z
 interjection: "until we meet again"; acknowledgement of departure without expectation of return
 lassc (2022-12-02T13:24:43.764Z): **koıka** for indication, **oka**/**junı** for situations in which you expect return
 robintown (2023-10-17T16:09:31.386Z): goodbye
@@ -73477,8 +73481,9 @@ sọfafe +1 `en` @kazoo #8Kgr7kUhqS 2025-05-01T08:19:46.356Z
 sọfagu +1 `en` @kazoo #OFsZnIyIx 2025-05-01T08:19:46.089Z
 ▯ is a Fsus2 chord.
 
-sọfajo +1 `en` @kazoo #wcYaaIYEOg 2025-05-01T08:19:45.821Z
+sọfajo +2 `en` @kazoo #wcYaaIYEOg 2025-05-01T08:19:45.821Z
 ▯ is a Fsus4 chord.
+kazoo (2025-11-09T18:32:10.131Z): i dont have access to discord rn but i wanna ask smth rq, Assuming kaı and fa as example predicates, is kaı sá sá fâ sá always equivalent to fa wä kaı sá sá sá
 
 sọfake +1 `en` @kazoo #4IA1k80zQ 2025-05-01T08:19:45.211Z
 ▯ is a Fdim chord.
@@ -79034,7 +79039,7 @@ takaogegu ± `en` @jiqci #Y5VDJVOIh 2023-08-27T20:43:55.004Z
 takataq ± `en` @kazoo #uf3nuA2bB 2025-05-25T16:12:34.307Z
 onomatopoeia: some type of repeated clicking/knocking
 
-takı +1 `en` @cass #CDHZEAcTm 2022-06-21T23:54:26.209Z
+takı ± `en` @cass #CDHZEAcTm 2022-06-21T23:54:26.209Z
 ▯ is Takis (a spicy tortilla chips snack food)
 
 tako ± `en` @Laqme #GaCNSEPWP 2024-08-28T19:21:27.841Z
@@ -84561,14 +84566,8 @@ seaqtaq (2024-11-06T06:13:33.883Z): Lexicalized from tụsheı
 tusheıja ± `en` @seaqtaq #GZRcoQxZi 2024-11-06T06:13:55.215Z
 ▯ liberates/releases ▯
 
-tushı ± `tok` @el #PISPHLr6J 2022-07-10T07:37:22.101Z
+tushı -1 `tok` @el #PISPHLr6J 2022-07-10T07:37:22.101Z
 «tushı X» li sama "wan X ale"
-
-tushı -1 `en` @uakci #4afW9S_DW 2018-09-29T15:42:29.000Z
-▯ is the set of all individuals that satisfy property ▯.
-
-⚠ tushı -1 `en` @oldofficial #DYGRJEhKZgk 2021-09-29T13:08:55.412Z
-determiner: ‘each’; singular universal quantifier
 
 tushılı ± `en` @Ilmen #7I0Qpa2a1 2022-02-18T21:51:19.354Z
 every one thing has property ▯ among what has property ▯, if any.
@@ -84876,10 +84875,6 @@ Ukaınagua ± `en` @mimiaoganhaqpy #7E_oW2-9u 2022-09-22T04:27:48.235Z
 
 Ukaınazu ± `en` @Laqme #R81FR0k3h 2023-12-17T15:36:40.571Z
 ▯ is the Ukrainian language.
-
-Ukaınazu -1 `en` @mimiaoganhaqpy #-wYBPiQl3 2025-11-08T06:07:54.838Z
-▯ is the Ukrainian language.
-Ilmen (2025-11-08T09:46:30.154Z): Duplicate.
 
 ukıu +2 `en` @salarua #xPaW20tHu 2022-12-27T21:45:59.747Z
 predicate: ‘adorable’; ▯ is adorable
@@ -94874,9 +94869,6 @@ muoqmıa chuoısaı ± `en` @uakci #T2-YN84_6 2021-07-28T21:13:26.774Z
 muoqmıa rıaısaı ± `en` @uakci #wnPnxCUxx 2021-07-28T21:13:09.550Z
 ▯ is protein-rich/high-protein.
 
-⚠ Muoq ní baq chuaı noaı roı baq keaq duaoboe da. -1 `en` @oldexamples #D77s-EkOP2s 2023-01-09T21:51:49.151Z
-This is made of frozen milk and salty cookies.
-
 Muoq ní báq noaı chuaı róı báq kukı keaq da. ± `en` @examples #lRr7JSeS-CT 2023-02-11T18:31:27.246Z
 This is made of frozen milk and salty cookies.
 
@@ -100981,6 +100973,101 @@ uakci (2020-02-09T22:50:27.819Z): gloss: PLN
 ⚠ zuydea ± `en` @Laqme #W2JUayImA 2021-08-16T01:57:16.309Z
 ▯ beats up / beats the hell out of ▯ (rendering the latter broken or badly hurt/damaged).
 
+⚠ #general +2 `en` @Ilmen #w5_9xw99u 2025-11-09T18:40:38.767Z
+▯ is a general chat channel hosted in Toadua.
+Ilmen (2025-11-09T18:41:57.108Z): Jadı
+kazoo (2025-11-09T18:43:49.691Z): lol
+kazoo (2025-11-09T18:44:19.840Z): reposting: i dont have access to discord rn but i wanna ask smth rq, Assuming kaı and fa as example predicates, is kaı sá sá fâ sá always equivalent to fa wä kaı sá sá sá
+Ilmen (2025-11-09T18:45:02.217Z): Damned “remove” button
+kazoo (2025-11-09T18:45:07.727Z): why not bridge the matrix server
+Ilmen (2025-11-09T18:45:29.960Z): I think the ^ tone semantics assume ë instead of ꝡä
+Ilmen (2025-11-09T18:45:49.259Z): But I think it's fine to allow for ꝡä
+Ilmen (2025-11-09T18:46:05.012Z): Probably depending on the type of the verb on which ^ is put
+kazoo (2025-11-09T18:46:18.771Z): makes sense
+Ilmen (2025-11-09T18:47:34.930Z): The ꝡä semantics are needed for using stuff like ⟪guo⟫ and ⟪le⟫ as adverbs
+Ilmen (2025-11-09T18:47:51.628Z): And I even suspect this also applies to stuff like ⟪ca⟫ and ⟪rao⟫
+Ilmen (2025-11-09T18:48:40.306Z): Alternatively, it could be that the meaning of “event” is more abstract that what I supposed thus far, in such a way that the ë-ꝡä distinction wouldn't really be meaningful…
+Ilmen (2025-11-09T18:49:42.974Z): Besides Matrix, we could also use GitHub Discussion (i.e. GitHub forums)
+Ilmen (2025-11-09T18:49:59.587Z): Any repository can have a GitHub Discussion attached to it
+Ilmen (2025-11-09T18:50:30.395Z): I don't know whether the GitHub notification bot that relays Issues message would also relay stuff from Discussions
+Ilmen (2025-11-09T18:52:56.526Z): Oh there's also the Conlangs From Space forum
+kazoo (2025-11-09T19:01:22.665Z): iirc wä is a subset of ë where the speaker also claims the event happened. am i recalling correctly?
+evie (2025-11-09T19:01:38.089Z): no
+kazoo (2025-11-09T19:01:58.929Z): also i wonder if shu includes the tone or does it just quote the root
+evie (2025-11-09T19:02:00.015Z): wa is 'the (fact/proposition/statement) that'
+evie (2025-11-09T19:03:01.171Z): shu does not steal tone. shu rao, shu jí, shu wä, shu nîe
+evie (2025-11-09T19:04:36.286Z): shú whatever / ké shu whatever turns it into a noun
+kazoo (2025-11-09T19:05:03.847Z): i know but i mean is shú rao the same as shú ráo
+evie (2025-11-09T19:06:14.689Z): no
+kazoo (2025-11-09T19:07:43.203Z): then what is the fundamental difference between an event of... and a fact of...
+kazoo (2025-11-09T19:08:02.389Z): (unrelated to shu)
+Ilmen (2025-11-09T19:10:44.714Z): A proposition is abstract, it contains only the information that is given in it and nothing more; a proposition can entail any less detailed version of it (“a tall man wears a blue hat” → “a man wears a hat”), and any more detailed proposition similarly entails the first one, forming a hierarchy of level of detailedness / amount of information.
+Ilmen (2025-11-09T19:11:50.156Z): The way I understand events is that they are individual entities, presumably spatiotemporal entities but I think it's possible to extend them to non-spationtempral worlds (so that “an event of 1 = √1” would make sense)
+Ilmen (2025-11-09T19:12:53.635Z): It is possible to conceive individuals and propositions as belonging to a single supertype, in such a way that an individual is an infinitely or maximally detailed proposition, so that, unlike standard proposition, an event cannot entail or be instantiated by a “more detailed event”
+Ilmen (2025-11-09T19:13:15.715Z): So that it would be like a terminal node in the hierarchy of abstractness/detailedness
+kazoo (2025-11-09T19:14:03.369Z): 
+kazoo (2025-11-09T19:14:09.145Z): 
+kazoo (2025-11-09T19:14:21.436Z): i keep hitting the enter button
+Ilmen (2025-11-09T19:14:27.825Z): As a side note, ⟪ꝡä⟫ and ⟪báq ë⟫ could possibly be equivalent in effect
+kazoo (2025-11-09T19:14:50.756Z): :thinking emoji:
+Ilmen (2025-11-09T19:15:16.105Z): But I'm not sure, the semantics of ⟪báq⟫ seem to have changed in Kúna, and I've not yet studied new-báq…
+Ilmen (2025-11-09T19:18:40.933Z): Anyway, people say that tone ^ is associated with events, but this might clash with my theory of “events are indiviuals reifying propositions”
+Ilmen (2025-11-09T19:19:59.740Z): I've started to doubt that verbs like ⟦ca⟧ deal with individual events instead of propositions
+Ilmen (2025-11-09T19:20:50.337Z): When you say ⟪pushing this button causes the door to open⟫, you're not thinking of a specific fully detailed and concrete event of pushing the button
+Ilmen (2025-11-09T19:21:14.029Z): If you did, we wouldn't know whether the real cause would be unspoken details about the event
+Ilmen (2025-11-09T19:21:38.002Z): But with an adverb like ⟪de⟫, you do want to talk about unspoken details
+Ilmen (2025-11-09T19:22:07.846Z): ⟪he danced funnily⟫ means that some unspoken details of a concrete event instantiating ⟪he dances⟫ are funny
+evie (2025-11-09T19:22:09.559Z): yea i think shê works better there. shê wá someone pushes the button nä the door opens
+Ilmen (2025-11-09T19:22:22.378Z): it's not just the abstract idea that he dances that is funny
+Ilmen (2025-11-09T19:22:54.199Z): Maybe we could also say that ⟪dê⟫ is actually not good and that we should use ⟪châ sá de⟫
+Ilmen (2025-11-09T19:23:16.272Z): Or we could say that ⟪de⟫'s type require an individual, concrete reading, unlike e.g. ⟪ca⟫
+Ilmen (2025-11-09T19:23:27.275Z): *requires
+Ilmen (2025-11-09T19:25:31.261Z): It's not just ⟪ca⟫, imagine also ⟪boq⟫
+Ilmen (2025-11-09T19:26:08.388Z): I suspect more predicates that we might expect actually expect abstract, non-concrete events (i.e. propositions)
+kazoo (2025-11-09T19:27:48.890Z): i wonder what the wa - wä pair for ë would even be
+evie (2025-11-09T19:28:13.601Z): e is hardly ever used as the main verb of a sentence
+kazoo (2025-11-09T19:28:20.026Z): or if it would even make sense
+Ilmen (2025-11-09T19:29:54.033Z): Well, speech acts are typically about ꝡä or embedded questions, not about concrete event arguments
+Ilmen (2025-11-09T19:30:58.838Z): Oh I tend to forget ⟪é⟫ isn't a (regular) complementizer like ꝡa
+kazoo (2025-11-09T19:35:06.027Z): unrelatedly, ive been working on a new language whose grammar could be considered improved toaq gamma with a hint of delta proposals
+kazoo (2025-11-09T19:36:07.238Z): a lot of my langs lately have been coincidentally similar to toaq so i've decided to embrace the toaqness now
+kazoo (2025-11-09T19:41:03.826Z): it takes some surface-level inspiration with other sinitic languages with its phonology
+kazoo (2025-11-09T19:46:46.900Z): it only has ë and lä clauses as complementizers and the other clause "type"s are constructed by just attaching it to a noun as a plain ol ~adjective
+kazoo (2025-11-09T19:47:24.361Z): so that it can be more flexible
+kazoo (2025-11-09T19:47:46.642Z): (c.f. 300 different NU particles of lojban)
+kazoo (2025-11-09T19:52:11.795Z): it tries to bring the "everything is a predicate" even further
+kazoo (2025-11-09T19:56:02.556Z): compared to toaq im planning to make it basically like loglan vs lojban except its a coexisting fun alternative rather than an improvement
+kazoo (2025-11-09T20:06:08.217Z): i think toaq as it is is already cool, i just like to make stuff that would keep the level of coolness
+kazoo (2025-11-09T20:09:46.448Z): it also primarily switches to monadic second-(/higher?-)order logic which is expressively the same as plural logic but uses sets which is more intuitive to me
+Ilmen (2025-11-09T20:11:13.766Z): Nothing wrong with making new Toaq-inspired languages :')
+Ilmen (2025-11-09T20:11:43.148Z): You can have modified sets… You probably don't want empty sets in the way, do you?
+Ilmen (2025-11-09T20:12:00.235Z): On the other hand, nested sets may be useful
+Ilmen (2025-11-09T20:15:20.432Z): Some forms of Plural Logic allows for nested plurals, but with important constrants
+Ilmen (2025-11-09T20:15:50.807Z): E.g. you can have the equivalent of {{A, B}, {C, D}}, but not {{A, B}, C, D}
+Ilmen (2025-11-09T20:16:20.034Z): And the former is not of the same type as {A, B}
+Ilmen (2025-11-09T20:16:38.999Z): (first-order plural vs second-order plural, basically)
+kazoo (2025-11-09T20:37:39.174Z): i see
+kazoo (2025-11-09T20:51:31.505Z): i also briefly considered abolishing the universal quantifier by using a special object incorporation construction, basically resulting as "there is a set that has an instance of all humans; which satisfies aliveness"
+kazoo (2025-11-09T20:51:55.917Z): but i do not know if this would work for all instances of universal quantification
+Ilmen (2025-11-09T20:54:29.753Z): With empty sets allowed, and saying that each member of the set individually has the property, then it works for a singular universal quantifier
+Ilmen (2025-11-09T20:55:10.708Z): Eberban doesn't have quantifiers and use predicates instead
+kazoo (2025-11-09T21:06:58.670Z): yeah im just gonna make it sá by default and make the rest with predicates
+kazoo (2025-11-09T21:09:28.818Z): i decided that because i randomly remembered once that the wiki says to append shı to the argument to mimic singularity and i thought "why is this not made for every determiner??"
+Ilmen (2025-11-09T21:21:32.369Z): There used to be ⟪túshı⟫ at one point in the past
+Ilmen (2025-11-09T21:22:16.897Z): But it was decided that it was more frequently used than plural universal, so ⟪túshı⟫'s meaning was transposed over ⟪tú⟫
+kazoo (2025-11-09T21:24:57.688Z): thats a little bit funny lol, the newer concept being swapped with the normal one
+kazoo (2025-11-09T21:26:46.621Z): tho i meant that every determiner should instead be a predicate
+Ilmen (2025-11-09T21:27:51.145Z): Have you looked into my Yaıgawe? All quantifiers are derived from verbs with a “quantifierizer” suffix.
+Ilmen (2025-11-09T21:28:30.436Z): Nahaıwa can do that too, but it has morphological shorthand for some common determiners
+Ilmen (2025-11-09T21:29:44.993Z): As for what is the unmarked default quantifier for them… Originally my idea was that the default would be lowest-scope existential quantification, but now I'm considering the possibility to have the default be a báq-like intension (i.e. not necessarily referring to a concrete individual)
+Ilmen (2025-11-09T21:33:28.092Z): So that ⟪beautiful-V dog-NOM⟫ would mean ⟪dogness is beautiful⟫ rather than ⟪there exist a beautiful dog⟫
+Ilmen (2025-11-09T21:35:08.902Z): Hmm maybe this should depend on modality too
+Ilmen (2025-11-09T21:36:30.904Z): Oh, don't forget the anaphoric determiner, Toaq's raising tone, which can't quite be rendered as a predicate
+kazoo (2025-11-09T21:38:56.371Z): hm, maybe i could handle it by just offering hu/ke options or using back-referring pronouns
+kazoo (2025-11-09T21:40:21.050Z): if i (la'anai) manage to not use up most of the tones i have added to the phonology i could use one for that
+kazoo (2025-11-09T21:42:07.163Z): currently have like 6 or 7 of them
+kazoo (2025-11-09T21:43:25.241Z): i have found use for 5 of them currently
+
 ⚠ 🪑 +1 `toa` @zearen #LXa3s1qTA 2025-03-26T18:16:37.147Z
 Ina
 kazoo (2025-03-26T18:17:25.165Z): +1 🪑
@@ -101285,7 +101372,7 @@ Call you on the phone I will.
 ⚠ Jaq suaı faq ní chaq lũı -1 `en` @examples #0mdthoD4z 2020-06-21T18:09:28.504Z
 (B0060) This day has passed very quickly
 
-⚠ Jara sĩy tushı mea náqdeo ± `en` @examples #pYSnEoUrAr 2022-05-27T20:24:31.257Z
+⚠ Jara sĩy tushı mea náqdeo -1 `en` @examples #pYSnEoUrAr 2022-05-27T20:24:31.257Z
 (B0023) All the boys ran away
 
 ⚠ Jeı lú deq anou jí hóa ky súq da. -1 `en` @oldexamples #vg1-FPrdCQw2 2023-01-09T21:51:51.979Z
@@ -101584,7 +101671,7 @@ Are the clouds going to fall?
 ⚠ Ma shua jĩa séoq moq. -1 `en` @oldexamples #X0SHBAyk9MRz 2023-01-09T21:51:52.624Z
 Is the sky going to fall?
 
-⚠ Ma tushı nıuboe bı luı shua máq sìy múao moq ± `en` @examples #A3fOrqvOXB 2022-05-28T18:06:32.281Z
+⚠ Ma tushı nıuboe bı luı shua máq sìy múao moq -1 `en` @examples #A3fOrqvOXB 2022-05-28T18:06:32.281Z
 (B0328) Have all the leaves fallen from the tree?
 
 ⚠ Ma zao súq shú fỷlyshy moq. -1 `en` @oldexamples #jYkd-KUgs_hn 2023-01-09T21:51:49.895Z
