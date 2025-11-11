@@ -7,7 +7,7 @@
   transition: background-color 0.2s, border-color 0.2s;
 }
 :root {
-  --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile", system-ui, -apple-system;
+  --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile", system-ui, -apple-system, sans-serif;
   --bg:     #f5f3ff;
   --fg:     #1a1a1a;
   --input:  #ffffff;

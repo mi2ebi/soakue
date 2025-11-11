@@ -3,7 +3,7 @@
   transition: background-color 0.2s;
 }
 :root {
-  --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile";
+  --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile", sans-serif;
   --bg:     #ededfc; /* 95 0.02 288 */
   --fg:     #000;
   --input:  #fff;
