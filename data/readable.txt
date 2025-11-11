@@ -151,7 +151,7 @@ achoqsı ± `en` @seaqtaq #mhmAX_3hh 2024-07-28T08:12:25.792Z
 achoqte +1 `en` @Laqme #Cl8eQH4Jm 2022-05-15T12:27:07.355Z
 ▯ has been used up / has run out.
 
-⚠ achou +1 `en` @Laqme #tMJwk-ZMg 2022-05-15T12:25:36.419Z
+⚠ achou ± `en` @Laqme #tMJwk-ZMg 2022-05-15T12:25:36.419Z
 In ▯ (event), ▯ is used up / consumed / depleted.
 uakci (2023-06-07T07:14:07.621Z): → **acho**
 uakci (2023-06-07T07:16:51.609Z): (use **achoq** instead in delta toaq)
@@ -8837,7 +8837,7 @@ com- ± `en` @uakci #3mltOXgXW 2023-01-18T15:56:18.398Z
 prefix: turns verb (of any arity) into binary verb: ▯ does X at/to/towards ▯ (recipient or intended audience).
 uakci (2023-01-18T15:56:24.161Z): see **com**
 
-com +6 `en` @Laqme #_MNzppBpD 2022-12-17T22:23:09.306Z
+com +7 `en` @Laqme #_MNzppBpD 2022-12-17T22:23:09.306Z
 ▯ (some event of expression) is directed at / expressed toward audience ▯.
 
 com ± `tok` @el #YiPaDjebM 2023-01-06T01:24:08.629Z
@@ -8869,7 +8869,7 @@ coqjıe ± `en` @Machy #MCFA8ZzvN 2022-03-28T03:18:18.849Z
 cotoa ± `en` @Ilmen #t4NEV17mD 2019-01-28T17:43:00.000Z
 ▯ is a quantifier.
 
-⚠ cou +1 `en` @Laqme #C89LAbatY 2019-12-09T02:41:53.308Z
+⚠ cou ± `en` @Laqme #C89LAbatY 2019-12-09T02:41:53.308Z
 ▯ (some event of expression) is directed at / expressed toward audience ▯.
 Laqme (2019-12-09T02:48:04.000Z): Expresses “at” as in «kủnēchōa còe jí» “barks at me”, «shỏı còe jí» “yells at me”, «kảqdōq còe jí» “winks at me”.
 Laqme (2019-12-09T02:49:18.714Z): *I mean còu three times. :)
@@ -12694,7 +12694,7 @@ chotaq ± `en` @uakci #5LKxfuF48 2021-08-15T12:29:10.724Z
 ⚠ chou -1 `en` @oldofficial #4eXYG0WxrFa 2021-09-29T13:08:54.497Z
 predicate: ‘using’; ▯ is an event with ▯ as its instrument.
 
-⚠ chouteı +1 `en` @uakci #D_IonzCX_ 2022-02-10T04:24:43.494Z
+⚠ chouteı ± `en` @uakci #D_IonzCX_ 2022-02-10T04:24:43.494Z
 ▯ is a usage of ▯.
 
 chr ± `en` @Laqme #cIVK3CxvQ 2023-11-15T11:29:20.104Z
@@ -18149,7 +18149,7 @@ lassc (2025-04-25T20:44:34.156Z): nuanced. eı:**sheze** is not quite *directly*
 lassc (2025-04-25T20:45:22.768Z): cf. **o-**, my word from a while ago used to form ad-hoc ideophones from verbs
 lassc (2025-04-25T20:49:26.765Z): arguably this definition is pedantically a bit wrong if we treat onomatopoeia as observatives/0-slot verbs like ruqshua buuuuut i think this way of explaining is clearer
 
-eı +2 `en` @seaqtaq #bl2I2xuiI 2021-07-21T07:36:17.708Z
+eı +3 `en` @seaqtaq #bl2I2xuiI 2021-07-21T07:36:17.708Z
 ▯ plays role ▯ (formally assigned functional niche/societal status)
 seaqtaq (2021-07-21T07:37:42.802Z): From ıthkuil v4's "-eı"+' case suffix
 seaqtaq (2021-07-31T18:24:53.873Z): Contains an inherent **he**
@@ -35154,11 +35154,8 @@ jıdao ± `en` @Ilmen #ZRMTVqXSM 2018-10-20T13:43:25.000Z
 jıe- ± `en` @uakci #XBOwn9yvl 2023-10-01T21:54:21.640Z
 prefix: X understood subjectively / as judged by a personal standard / from a personal viewpoint
 
-jıe +3 `en` @robintown #YbopIs6U- 2023-10-27T22:18:45.127Z
+jıe +4 `en` @robintown #YbopIs6U- 2023-10-27T22:18:45.127Z
 ▯ deems/judges/finds ▯ to be the case.
-
-jıe -1 `en` @official #F1GlTqD-eg 2019-05-05T22:26:03.943Z
-predicate: ‘deemed’; ▯ is as ▯ deems/judges/evaluates things to be.
 
 jıe ± `tok` @el #Rk7hTgRVP 2022-07-10T04:48:58.275Z
 ▯ li lon tawa ▯
@@ -41322,7 +41319,7 @@ kım- ± `en` @uakci #2EnYGaoze 2023-03-26T20:04:42.007Z
 prefix form of **kım**
 evie (2025-09-27T02:22:19.208Z): example?
 
-kım +1 `en` @TheAndSys #vvorN1EMn 2023-01-11T07:02:30.231Z
+kım +2 `en` @TheAndSys #vvorN1EMn 2023-01-11T07:02:30.231Z
 ▯ is something that ▯ considers to be themselves
 uakci (2023-01-11T07:04:53.985Z): ▯ is something ▯ identifies with
 uakci (2023-01-11T09:36:22.848Z): identity, persona
@@ -53245,7 +53242,7 @@ motosıoq +1 `en` @Laqme #DMoqwJ_gO 2023-10-26T14:56:37.123Z
 motuaı ± `en` @Ilmen #0V0tyZHPR 2024-10-21T14:49:46.747Z
 ▯ is a physical representation of abstract text ▯ (string of characters).
 
-⚠ mou +1 `en` @el #iqxZQHsn3 2022-01-08T21:17:11.818Z
+⚠ mou ± `en` @el #iqxZQHsn3 2022-01-08T21:17:11.818Z
 in JE; "in other words, ..."
 el (2022-01-08T21:17:44.800Z): probably useful alongside **go**
 
@@ -58062,7 +58059,7 @@ textspeak for **nạ́kuı** ('because' as a conjunction)
 nmj +1 `en` @evie #SY11qvCUO 2025-04-12T18:01:37.584Z
 textspeak for **nu máo jí** (me too, me neither)
 
-no- ± `en` @uakci #qMYho2EIa 2022-12-21T21:15:35.678Z
+no- +1 `en` @uakci #qMYho2EIa 2022-12-21T21:15:35.678Z
 prefix: [identity prefix]; X
 uakci (2022-12-21T21:17:40.838Z): h/t @Laqme. intended to be used in situations where two bindings would otherwise clash – an extra **no-** at the front of one of those bindings distinguishes them nominally. e.g., **he ꝡä maı báq poq báq nọpoq shê ꝡä maı nópoq póq**, 'a person usually loves another person if the other person loves that person'. notice how **no-** translates to '(an)other' in this example
 
@@ -62052,7 +62049,7 @@ paqjuq ± `en` @robintown #0BDDFzLJr 2024-12-28T01:38:19.803Z
 paqkaı ± `en` @seaqtaq #V_8Sxz193 2019-07-04T03:39:02.624Z
 ▯ spells out ▯
 
-paqke +1 `en` @uakci #1hmiVMdGG 2022-02-08T16:16:40.214Z
+paqke +2 `en` @uakci #1hmiVMdGG 2022-02-08T16:16:40.214Z
 ▯ are American-style pancakes (smallish, round, rather thick, not rolled up, usually stacked on top of each other for gluttony’s worth).
 
 paqkenıu ± `en` @Laqme #UthdaNSu- 2025-02-11T10:30:47.379Z
