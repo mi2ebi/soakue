@@ -1947,7 +1947,7 @@ Laqme (2023-12-19T13:21:23.282Z): **Tao áma hí raı bá?** = What shall we do?
 bä +2 `en` @seaqtaq #-pzYxLJo9 2024-10-22T23:35:15.141Z
 hortative/counterfactual optative illocution: "If only..."/"Were that..."
 
-bâ +2 `en` @Laqme #09NgrvVd3 2021-10-11T21:03:28.309Z
+bâ +3 `en` @Laqme #09NgrvVd3 2021-10-11T21:03:28.309Z
 imperative illocution
 
 ⚠ baaaadı ± `en` @evie #LwTY_2_Wq 2024-10-11T07:41:05.879Z
@@ -2800,7 +2800,7 @@ beajıoqkea +1 `en` @Ilmen #f2KUNXbzc 2020-03-06T18:28:26.027Z
 beakuoq +1 `en` @jiqci #I3m4jI6YG 2023-03-13T22:10:17.174Z
 ▯ is a patella/kneecap.
 
-beam +1 `en` @Laqme #VwlkHtjNz 2025-05-26T16:39:29.100Z
+beam +2 `en` @Laqme #VwlkHtjNz 2025-05-26T16:39:29.100Z
 degree: at its limit / as much as it can / saturated
 
 beamuao +1 `en` @robintown #ZwUGgRg9J 2022-06-05T21:02:08.212Z
@@ -2933,7 +2933,7 @@ befese ± `en` @Laqme #CTWGZxpyP 2024-10-06T00:35:56.548Z
 ▯ is a solution.
 Laqme (2024-10-19T22:51:10.376Z): as in, a mixture formed by something dissolving in something
 
-bege ± `en` @official #g-C14aFBzlW 2023-01-13T19:24:49.945Z
+bege +1 `en` @official #g-C14aFBzlW 2023-01-13T19:24:49.945Z
 interjection: ‘meh’; indifference; meh
 
 bege ± `en` @uakci #h1ad__eLH 2022-07-30T11:16:22.284Z
@@ -4264,7 +4264,7 @@ Bırıtaq ± `en` @robintown #WNEss_VTa 2025-05-02T18:04:48.236Z
 Bırıtaqgua ± `en` @robintown #NTxjLQK0z 2025-05-02T18:11:44.012Z
 ▯ is Great Britain.
 
-bıro +2 `en` @jiqci #3dFhdAfPQ 2025-03-05T13:44:38.830Z
+bıro +3 `en` @jiqci #3dFhdAfPQ 2025-03-05T13:44:38.830Z
 ▯ is a ballpoint pen.
 jiqci (2025-03-05T13:44:50.402Z): named after its inventor László Bíró
 
@@ -5726,8 +5726,17 @@ budıe +2 `en` @Ilmen #h_gh6W0km 2018-12-29T22:31:45.000Z
 uakci (2018-12-29T22:32:27.000Z): +1
 seaqtaq (2019-01-21T23:50:31.000Z): +1
 
-budo ± `en` @Machy #Wwoi-jdev 2020-07-01T00:08:45.359Z
+budo +1 `en` @Dembim #Jwk8SrM5f 2025-11-12T16:24:00.580Z
+▯ is noodle/pasta
+Dembim (2025-11-12T16:24:40.838Z): Fork of #Wwoi-jdev without second slot
+
+budo -1 `en` @Machy #Wwoi-jdev 2020-07-01T00:08:45.359Z
 ▯ is a noodle(s) of type ▯.
+Dembim (2025-11-12T16:19:05.973Z): The second slot seems unnecessary; surely adjectives suffice?
+Dembim (2025-11-12T16:30:42.120Z): See #Jwk8SrM5f
+
+budodıuche +1 `en` @evie #owfQtFEz9 2025-11-12T18:06:01.278Z
+▯ is a noodleologist
 
 buduı ± `en` @Ilmen #FaN9sUUKZ 2021-10-06T17:37:17.075Z
 ▯ is not enough; ▯ insufficiently satisfies property ▯.
@@ -6755,7 +6764,7 @@ cacha ± `en` @seaqtaq #sRJiCehQ6 2024-07-28T07:31:46.658Z
 In proposition ▯, ▯ assumes the semantic role FORCE
 seaqtaq (2024-07-28T07:32:05.399Z): Pretty much the inanimate analogue of an agent
 
-cachu +2 `en` @jiqci #KLeScEpGK 2023-07-24T20:00:52.173Z
+cachu +3 `en` @jiqci #KLeScEpGK 2023-07-24T20:00:52.173Z
 ▯ is a gun.
 jiqci (2023-07-24T20:01:48.167Z): < **carachuo** - it's the sorta thing that would naturally develop a short word for itself. Also a tad of onomatopayer
 
@@ -18457,7 +18466,7 @@ emu +2 `en` @uakci #ZAYFrZubd 2023-05-12T13:05:40.917Z
 interjection: ‘well’, ‘after all’, ‘essentially’, ‘what I mean is’; clarifying, specifying, shifting the discourse closer to the wishes of the speaker
 evie (2025-04-30T19:35:41.042Z): i.e.
 
-ena +2 `en` @Laqme #XP2_DL8cN 2025-02-20T13:00:06.305Z
+ena +3 `en` @Laqme #XP2_DL8cN 2025-02-20T13:00:06.305Z
 interjection: "over there!", "look at that!"
 Laqme (2025-02-20T13:00:53.468Z): distal **enı**
 Laqme (2025-02-20T13:02:44.565Z): In French, this is "voilà" and **enı** is "voici"
@@ -21768,7 +21777,7 @@ gale +1 `en` @Machy #X_BglWICR 2021-11-17T23:48:54.838Z
 ▯ teaches ▯ to satisfy property ▯.
 Machy (2021-11-17T23:49:04.427Z): ex forma
 
-galeche +1 `en` @Machy #CX5a-dKSa 2021-11-17T22:19:55.429Z
+galeche +2 `en` @Machy #CX5a-dKSa 2021-11-17T22:19:55.429Z
 ▯ is a teacher of student(s) ▯.
 Machy (2021-11-17T22:20:11.359Z): See also the nicer-sounding **galemy**.
 
@@ -25619,10 +25628,10 @@ guasıao ± `en` @seaqtaq #XMEU8RJv8 2020-06-11T06:04:15.307Z
 ▯ is the origin nation of ▯; ▯ is where ▯ is from
 seaqtaq (2020-06-11T06:04:29.931Z): nation/state/locale/region
 
-guasoı ± `en` @Ilmen #_I3fWk1E4 2020-02-23T23:11:42.760Z
+guasoı +1 `en` @Ilmen #_I3fWk1E4 2020-02-23T23:11:42.760Z
 ▯ is at war with ▯.
 
-guasoırea ± `en` @Ilmen #igcNdjXki 2024-07-15T13:31:33.197Z
+guasoırea +1 `en` @Ilmen #igcNdjXki 2024-07-15T13:31:33.197Z
 ▯ is a war frontline.
 
 guasoıreagıeshıobeaqsoıchedıeq ± `en` @Ilmen #H9oNoN5da 2024-07-15T13:36:47.992Z
@@ -25925,7 +25934,7 @@ guımuoq ± `en` @uakci #8dMm1SRV2 2022-02-10T03:20:03.589Z
 guınıu ± `en` @uakci #8Rm0EBSjf 2022-07-31T18:27:01.315Z
 ▯ is (a kind of) wheat.
 
-guınhoq +1 `en` @uakci #yspSAK2v4 2022-02-14T18:09:28.615Z
+guınhoq +2 `en` @uakci #yspSAK2v4 2022-02-14T18:09:28.615Z
 ▯ is pasta/macaroni/noodles.
 
 guınhoq ± `tok` @el #QDGVKhvJA 2022-07-10T04:06:52.683Z
@@ -28050,7 +28059,7 @@ henıao ± `en` @jiqci #yDHi0A-Wk 2023-01-06T20:56:13.028Z
 henıma ± `en` @seaqtaq #mwXYhM96Y 2024-07-21T09:59:26.038Z
 ▯ is a presentation.
 
-heno +1 `en` @robintown #DU4nykiI3 2023-10-18T14:02:26.427Z
+heno +2 `en` @robintown #DU4nykiI3 2023-10-18T14:02:26.427Z
 ▯ is an version/variant/adaptation of ▯.
 robintown (2023-10-18T14:02:42.139Z): Forned frm **heo** + **no**
 
@@ -28169,7 +28178,7 @@ heokuaı ± `en` @uakci #qIaKPhSSS 2020-04-05T16:27:36.857Z
 ▯ is sick and tired of being ▯; ▯ wants to satisfy any property in place of ▯.
 uakci (2020-04-05T16:30:23.713Z): original poster: @akesi
 
-heomaı ± `en` @fagri #6xy9DLG51 2019-06-30T07:47:59.749Z
+heomaı -1 `en` @fagri #6xy9DLG51 2019-06-30T07:47:59.749Z
 ▯ is straight (attracted to people of the opposite sex)
 fagri (2021-08-02T05:58:58.963Z): (includes bisexual people I think)
 maigoi (2024-09-17T10:15:47.518Z): that tells me 'loves what is different', could as well be a xenophile or someone who likes to explore new, different things than they already know
@@ -30825,7 +30834,7 @@ interjection: 'for one / for another / on the one hand / on the other hand'
 hueqsı ± `en` @uakci #SvJdcU164 2021-11-07T01:38:09.709Z
 ▯ gropes/feels ▯ (to examine its surface).
 
-huhu ± `en` @lassc #AYK-9dzvS 2022-12-07T04:07:52.624Z
+huhu +1 `en` @lassc #AYK-9dzvS 2022-12-07T04:07:52.624Z
 interjection: "sigh", "I give up" (exhaustion, withdrawl, defeat)
 lassc (2022-12-07T04:07:58.241Z): post-delta **hy**
 
@@ -31981,7 +31990,7 @@ lassc (2025-03-16T00:52:59.511Z): **ınha** + **ka**, meant to be a sort of sarc
 ınhame ± `en` @Laqme #_TM09jJ6z 2024-09-01T10:49:46.871Z
 ▯ grins.
 
-ınhaq +1 `en` @mimiaoganhaqpy #nkSIlmq6h 2022-10-01T01:27:17.710Z
+ınhaq ± `en` @mimiaoganhaqpy #nkSIlmq6h 2022-10-01T01:27:17.710Z
 interjection: **ına** or **ınha** for cats
 
 ınhaq ± `ja` @el #Rdj4hl6-v 2022-10-01T01:38:26.628Z
@@ -33033,6 +33042,10 @@ jâna ± `en` @uakci #FqIfLl3rl 2022-03-07T16:36:55.540Z
 jane +1 `en` @Ilmen #SyvvCRFbE 2019-01-28T21:23:20.000Z
 ▯ is an arity of predicate ▯.
 uakci (2019-02-04T22:55:10.000Z): +1
+
+janı +1 `en` @evie #ePwzB32Qb 2025-11-12T02:21:03.777Z
+▯ suspects that ▯ is the case
+evie (2025-11-12T02:21:25.076Z): etymology: hungarian gyanít /ˈɟɒniːt/
 
 jạnua ± `en` @Laqme #-ccmdZVqm 2023-11-27T14:25:33.831Z
 ▯ takes ▯.
@@ -47859,7 +47872,7 @@ loreı +1 `en` @Laqme #gCnO3ikO3 2024-09-04T09:55:34.491Z
 loreılaı ± `en` @salarua #1fZNPSfrE 2022-12-30T17:03:15.250Z
 predicate: ‘cartouche’; ▯ is the Derani cartouche
 
-lorem +1 `en` @salarua #FFN6iWvUW 2023-09-29T02:06:21.157Z
+lorem +2 `en` @salarua #FFN6iWvUW 2023-09-29T02:06:21.157Z
 predicate: ‘placeholder’; ▯ is placeholder content
 salarua (2023-09-29T02:07:04.129Z): etymology: "lorem ipsum", the first two words of a pseudo-Latin filler text of the same name
 
@@ -50588,6 +50601,10 @@ memı ± `en` @uakci #po5KmBzdZ 2020-01-27T11:16:26.239Z
 memu ± `en` @uakci #toNwZmUmM 2022-10-08T17:52:26.514Z
 focus marker: all of X, not just (or not necessarily) some among it. (< **meamuo**)
 
+mene ± `en` @Dembim #ta8ApT7ND 2025-11-12T04:25:38.509Z
+interjection: "embarrassment", as by consciousness of a fault.
+Dembim (2025-11-12T04:25:50.272Z): sheepish
+
 meneu ± `en` @Ilmen #qc7eWS2KH 2019-01-23T21:10:56.000Z
 ▯ is the sum of the number sequence/multiset ▯.
 
@@ -52578,7 +52595,7 @@ robintown (2023-02-07T15:43:34.723Z): From Old Chinese '墨'
 mogucea ± `en` @robintown #z89b-Pngu 2023-02-07T15:43:49.121Z
 ▯ is an ink sac.
 
-moham ± `en` @jiqci #JAh91H5wW 2024-06-25T07:03:10.718Z
+moham +1 `en` @jiqci #JAh91H5wW 2024-06-25T07:03:10.718Z
 ▯ is a flap / dangling/loose piece of some sort.
 
 moham -1 `en` @eednb #8h8pg_xQG 2023-06-26T21:19:35.289Z
@@ -53845,7 +53862,7 @@ muıjeqkuq ± `en` @Laqme #Wu4acHg3K 2019-02-21T11:54:23.000Z
 ▯ says something with the same meaning as ▯ to ▯.
 Laqme (2019-02-21T11:55:21.000Z): Useful for paraphrasing, or when the kuqsē was actually in another language, for example.
 
-muıjeqnam +3 `en` @Laqme #gy_QnDxU2 2025-01-29T11:24:27.165Z
+muıjeqnam +4 `en` @Laqme #gy_QnDxU2 2025-01-29T11:24:27.165Z
 ▯ is a synonym roll.
 lassc (2025-03-16T18:59:10.196Z): really good
 
@@ -54217,9 +54234,6 @@ muoıtoq ± `en` @kazoo #dF1B4EMkF 2025-01-11T12:07:56.843Z
 muoıtua +1 `en` @kazoo #OV7m43uRX 2025-05-17T19:14:48.611Z
 ▯ rotates ▯.
 
-muojaq ± `en` @Laqme #NF1Nn2sap 2023-11-21T21:11:44.035Z
-degree: as much as possible
-
 muojoaı +1 `en` @jiqci #1dzMR4uzr 2023-03-07T08:15:03.377Z
 ▯ systematically/exhaustively looks for ▯, ▯ brute-forces ▯.
 
@@ -54328,8 +54342,9 @@ muorao +1 `en` @Machy #-BU3Wy-rO 2021-10-08T04:02:16.592Z
 muoseu ± `en` @Ilmen #PXV7J7UO1 2019-03-18T17:55:46.000Z
 ▯ is an integer/natural number.
 
-muosoı ± `en` @seaqtaq #QbqxBLX01yQ 2019-09-17T19:19:51.107Z
+muosoı +1 `en` @seaqtaq #QbqxBLX01yQ 2019-09-17T19:19:51.107Z
 ▯ is at war with ▯
+Dembim (2025-11-12T23:32:03.087Z): +1 I especially like this where English speakers would use "war" metaphorically. I prefer guasoı for armed conflict of countries/nations/political groups.
 
 muoshaı ± `en` @Ilmen #9ABCnQwNj 2019-12-31T14:25:36.519Z
 ▯ completes, reaches completion and therefore ceases to be the case; ▯ is a process whose inherent final stage, endpoint or telos happens.
@@ -54686,7 +54701,7 @@ na- ± `en` @Laqme #nrgZkzGae 2022-12-22T17:43:26.542Z
 prefix: turns transitive verbs into conjunctions
 Laqme (2022-12-22T17:44:10.612Z): e.g. **X nạ́rao Y** = X at the same time as Y
 
-na +2 `en` @uakci #0wy_z0D6r 2023-05-12T14:07:25.553Z
+na +1 `en` @uakci #0wy_z0D6r 2023-05-12T14:07:25.553Z
 interjection: ‘well’
 
 na ± `en` @TheAndSys #V_QgzSsqh 2025-04-08T21:03:41.919Z
@@ -54951,6 +54966,7 @@ seaqtaq (2024-07-24T21:20:42.542Z): "Nạ́shıu ꝡa…" ≈ "Nạ́mshıu..."
 
 nam ± `en` @official #P8HGIaLfzm 2023-01-13T19:24:52.327Z
 predicate: ‘bread’; ▯ is bread.
+Dembim (2025-11-12T18:59:21.445Z): not necessarily leavened
 
 nam ± `en` @Laqme #hbPBShjNF 2022-12-06T22:29:02.606Z
 predicate: ‘bread’; ▯ is bread.
@@ -56122,7 +56138,7 @@ prefix: turns verb X into verb meaning ▯ is the degree/amount that ▯ is X
 seaqtaq (2024-11-04T16:32:33.015Z): nẹmsuaı = suaıne, nẹmtuoq = tuoqne. A productive affix seems quite useful given how ubiquitous and useful such -ne compounds are
 seaqtaq (2024-11-04T16:45:23.051Z): Dual of **nheq-**
 
-nem ± `en` @evie #bff-WDykP 2024-10-10T01:20:52.409Z
+nem +1 `en` @evie #bff-WDykP 2024-10-10T01:20:52.409Z
 interjection: sure, that sounds like a good idea
 
 nemesı ± `en` @Machy #tJBWGOfdq 2022-03-24T01:16:38.869Z
@@ -58378,6 +58394,11 @@ nofıeq +2 `en` @uakci #s4bOFtXkM 2022-10-20T10:28:15.052Z
 ▯ adapts/converts/translates ▯ into medium/format/language ▯.
 uakci (2022-10-20T10:28:31.512Z): focus on the creative process
 
+nofıeqche ± `en` @Dembim #SqftOo30p 2025-11-13T00:00:25.217Z
+▯ adapts/converts/translates as an occupation
+Dembim (2025-11-13T00:02:07.117Z): I imagine this is usually interchangeable with zunofieqche, but theoretically it's more inclusive
+Dembim (2025-11-13T00:02:37.706Z): translator, interpreter
+
 noga +1 `en` @Laqme #o3CZQFWcr 2022-06-19T15:41:55.817Z
 interjection: 'so true! / I know what you mean!'
 Laqme (2022-06-19T15:42:12.661Z): "finally someone says it!" "amen!" "big mood!"
@@ -60510,7 +60531,7 @@ seaqtaq (2024-11-04T16:45:39.703Z): Dual of **nem-**
 nheq ± `en` @lassc #bEq6RsvQH 2025-03-22T00:29:02.020Z
 interjection: "bleh", "hehe [hands placed to head]", expression of bashfulness/whimsy
 
-nherı +1 `en` @seaqtaq #xdfHHV20T 2025-04-29T08:32:30.742Z
+nherı +2 `en` @seaqtaq #xdfHHV20T 2025-04-29T08:32:30.742Z
 ▯ experiences a flash of emotion which interrupts the current somewhat intense emotional state they are experiencing, in which they happened to be fairly engrossed
 seaqtaq (2025-04-29T08:36:49.639Z): One might nherı when in despair over the prospective death of their father, mulling over how their life will play out from then onwards, when they are suddenly greeted by a beautiful sunshine which takes them.out of this state. It implies not necessarily a joy of being in a potentially negative emotional state, but a sort of temporary commitment to or investment in it
 seaqtaq (2025-04-29T08:39:10.539Z): kw: zakaı
@@ -62297,6 +62318,7 @@ pashosueq ± `en` @robintown #mFE2H9Grc 2023-11-27T22:01:55.065Z
 
 pata +1 `en` @Ilmen #GLR8IV7ihgE 2019-09-17T19:19:51.129Z
 ▯ is pasta.
+Dembim (2025-11-12T16:22:02.009Z): Is this meant to carry a connotation of European-style noodles?
 
 patı ± `en` @official #kTPEa7GonF 2019-05-05T22:26:58.115Z
 predicate: ‘party’; ▯ is a party (gathering for entertainment, fun and socializing).
@@ -63671,13 +63693,13 @@ lassc (2022-12-05T16:15:14.626Z): very cool word and concept +1
 poafao ± `en` @jiqci #pTWRiHbuP 2025-09-25T10:35:15.789Z
 ▯ is a dead end/cul de sac.
 
+poaı +1 `en` @official #IZQJNW4taD 2019-05-05T22:27:08.051Z
+predicate: ‘seed’; ▯ is a seed/spore/egg/gamete/ovum/sperm/pollen.
+
 poaı +2 `en` @Laqme #oM-2ak9FA 2025-03-28T12:16:48.305Z
 ▯ is a seed.
 
-poaı ± `en` @official #IZQJNW4taD 2019-05-05T22:27:08.051Z
-predicate: ‘seed’; ▯ is a seed/spore/egg/gamete/ovum/sperm/pollen.
-
-poaı +1 `en` @el #AIEC30Byv 2022-02-27T23:14:16.368Z
+poaı ± `en` @el #AIEC30Byv 2022-02-27T23:14:16.368Z
 (fork of official) predicate: ‘seed’; ▯ is a seed/spore/egg/gamete/ovum/sperm/pollen, to grow into ▯
 
 poaı ± `pl` @jiqci #VEM4Z1JBtj 2023-07-31T08:21:51.313Z
@@ -73999,8 +74021,9 @@ seaqtaq (2021-10-23T17:24:08.675Z): No tongue-in-cheekiness here
 soqjapıo ± `en` @robintown #H97-o30tK 2021-10-23T16:24:24.028Z
 ▯ is tuff.
 
-soqjaq +1 `en` @Laqme #ZlqlnAUkv 2023-11-21T21:11:21.329Z
+soqjaq -1 `en` @Laqme #ZlqlnAUkv 2023-11-21T21:11:21.329Z
 degree: as much as possible
+evie (2025-11-12T03:40:25.484Z): → **beam**
 
 soqjeo ± `en` @Ilmen #Fb4vkLBrD 2020-02-26T09:25:54.186Z
 ▯ is the case to the highest extent that allows its having that extent to satisfy property ▯;
@@ -75192,7 +75215,7 @@ Suomıgua ± `en` @countries #hkCGVuSXYWw 2023-10-02T12:22:04.314Z
 suonuo -1 `es` @samael #2cIj0KiqU 2025-09-29T15:04:53.823Z
 ser un viaje astral; experiencia extracorporal
 
-suoq +2 `en` @Machy #GI1xELz5Q 2022-02-07T21:43:12.236Z
+suoq +1 `en` @Machy #GI1xELz5Q 2022-02-07T21:43:12.236Z
 ▯ is a child of ▯. (not necessarily biological)
 evie (2025-04-01T01:42:14.127Z): -1 <@Laqme fu> exists and i kinda want <@robintown suoqja> to be a shiraku
 
@@ -75479,7 +75502,7 @@ shadı ± `ru` @SuperSpaceNiM #C024fpVPB 2024-08-12T10:02:06.086Z
 shado ± `en` @uakci #nH0XHSM1L 2023-02-13T21:01:04.621Z
 ▯ gives ▯ junk ▯; ▯, by giving it away to ▯, disposes of ▯.
 
-shaga ± `en` @fagri #cV1jq4cRH 2023-11-04T19:26:27.220Z
+shaga +1 `en` @fagri #cV1jq4cRH 2023-11-04T19:26:27.220Z
 Interjection: "I see", "I get it now"
 fagri (2023-11-04T19:27:35.777Z): Etymology: Extreme shortening of «Sha gaımuo jı́ nı́/háo/súqbo»
 
@@ -80458,12 +80481,12 @@ uakci (2023-05-22T19:27:07.914Z): in the sense that if **tëo** has **gö** gram
 teolaı ± `en` @el #FqydLmvM- 2022-06-20T22:26:54.545Z
 ▯ is a close-quote (», ”, etc)
 
-teom +1 `en` @Laqme #eoAxw04TA 2023-10-13T06:46:47.369Z
+teom +2 `en` @Laqme #eoAxw04TA 2023-10-13T06:46:47.369Z
 interjection: rephrasing and correcting, "you mean ... / I'd phrase it like ..."
 Laqme (2023-10-13T06:47:45.344Z): jocularly it can act as "more like ... am I right!"
 evie (2025-03-01T04:59:35.021Z): can mean "technically" in some sense
 
-téom ± `en` @Laqme #ZPqIQYr3F 2023-10-13T06:36:32.116Z
+téom +1 `en` @Laqme #ZPqIQYr3F 2023-10-13T06:36:32.116Z
 interjection: "is that what you mean? / did I paraphrase you right?"
 
 teoq +3 `en` @official #xhtHiFxLRJ 2019-05-05T22:27:53.991Z
@@ -84589,7 +84612,7 @@ tusue ± `en` @uakci #WnzrLD1BJ 2022-08-06T15:52:42.534Z
 tusuı ± `en` @uakci #cXyq6aT9x 2022-06-20T10:31:46.038Z
 determiner: every X that satisfies P minimally (i.e., with no X' among X that also satisfies P)
 
-tushe ± `en` @jiqci #vCgPEEzRB 2024-01-17T16:36:29.514Z
+tushe +1 `en` @jiqci #vCgPEEzRB 2024-01-17T16:36:29.514Z
 interjection: touché
 
 tusheı ± `en` @seaqtaq #wa1jhiogx 2024-11-06T06:12:16.271Z
@@ -84742,7 +84765,7 @@ ubaımoe ± `en` @Ilmen #n-ehwa6mm 2022-07-09T11:51:29.147Z
 ubakı ± `vp` @mimiaoganhaqpy #fG7q5NTm1 2022-11-20T21:35:39.474Z
 ▯ suru uwaki
 
-ubu ± `en` @uakci #lq5x4tCkV 2022-07-25T18:30:10.317Z
+ubu +1 `en` @uakci #lq5x4tCkV 2022-07-25T18:30:10.317Z
 interjection: uwu
 uakci (2022-07-25T18:30:44.127Z): it's essential that there be at least four ways of imperfectly loaning this crucial piece of vocab into our glorious language /hj
 
@@ -84790,6 +84813,7 @@ eednb (2023-12-31T22:19:47.330Z): from Cameroonian Pidgin 'Wes Cos' (their name 
 
 ufa ± `en` @TheAndSys #aU9bzt_iI 2024-09-14T08:02:03.624Z
 interjection: oof
+Dembim (2025-11-12T04:30:05.855Z): (negative, often empathetic) expression of dismay, surprise, discomfort
 
 ufu ± `en` @official #_yxl7rnm1d 2023-01-13T19:24:49.548Z
 interjection: ‘phew’; relief; phew
@@ -85377,7 +85401,7 @@ interjection: taunting, teasing; ‘come at me’
 ꝡane ± `en` @Laqme #Z6qRq48vj 2024-10-01T23:14:30.099Z
 complementizer: ‘that’; archaic synonym of **ꝡä**
 
-ꝡao ± `en` @eednb #yfPzZfQVi 2023-01-14T21:32:20.488Z
+ꝡao +1 `en` @eednb #yfPzZfQVi 2023-01-14T21:32:20.488Z
 interjection: "for real/indeed", agreement + emphasis towards previous statement
 
 ꝡaoꝡao ± `en` @uakci #SpxDTe6NL 2023-08-05T12:21:28.627Z
@@ -85588,7 +85612,7 @@ kazoo (2025-01-10T13:38:57.820Z): from turkish "vezin"
 ꝡo- +1 `en` @uakci #r601pVmeT 2022-12-31T19:17:52.978Z
 prefix: reduce verb valency to nullary (forming what’s often called an “observative”)
 
-ꝡo +1 `en` @official #RtV5j6uEfM6 2023-01-13T19:24:49.661Z
+ꝡo +2 `en` @official #RtV5j6uEfM6 2023-01-13T19:24:49.661Z
 illocution: ‘ADM’; admonitive
 mimiaoganhaqpy (2023-01-14T00:26:08.176Z): warning illocution
 robintown (2024-09-01T14:24:14.552Z): keywords: be advised that
@@ -85871,7 +85895,7 @@ zamıe ± `en` @jiqci #S-dTO-DfD 2024-06-23T18:52:15.825Z
 ▯ is a parasite.
 jiqci (2024-06-23T18:52:27.151Z): za is from **zanua**
 
-zamna +2 `en` @robintown #kqBjdy6mv 2024-01-06T17:56:12.488Z
+zamna +3 `en` @robintown #kqBjdy6mv 2024-01-06T17:56:12.488Z
 ▯ is great/cool/fantastic.
 robintown (2024-01-06T17:56:26.312Z): From Lojban 'zabna'
 
@@ -86739,7 +86763,7 @@ zıqzea ± `en` @Laqme #54WL-1bGa 2025-02-02T10:56:46.982Z
 zıqzeache ± `en` @Laqme #rwFKLQhDu 2025-02-02T10:57:31.995Z
 ▯ is a cyber-criminal / ("black-hat") hacker.
 
-zıra +1 `en` @Laqme #qwdKh4dxH 2025-05-26T16:53:40.043Z
+zıra +2 `en` @Laqme #qwdKh4dxH 2025-05-26T16:53:40.043Z
 interjection: 'not quite', 'not really'
 
 zırıkonıum ± `en` @Laqme #p5VJgxFXl 2023-11-04T22:19:03.612Z
@@ -87054,11 +87078,8 @@ zuataq ± `en` @seaqtaq #AgTyimjq6 2024-07-27T08:10:00.649Z
 zuatua ± `en` @seaqtaq #WDxIxr1y6 2025-09-13T03:05:34.216Z
 ▯, in trying to prevent ▯ from being the case, in fact brings about said state of affairs
 
-zuche ± `en` @uakci #DYNEdoXt2 2021-09-10T09:46:10.589Z
+zuche -1 `en` @uakci #DYNEdoXt2 2021-09-10T09:46:10.589Z
 ▯ is a linguist/researcher of language(s).
-
-zuche -1 `en` @Machy #pz1iE6lyq 2021-09-18T04:10:49.625Z
-▯ is a linguist
 
 zuchıaı ± `en` @nano #bk4dsWv-m 2023-03-05T10:17:55.009Z
 ▯ uses language ▯ in an environment where it is not appropriate.
@@ -87099,7 +87120,7 @@ zudeq +2 `en` @fagri #NVWAmF3yo 2021-08-08T09:25:31.180Z
 zudıu ± `en` @uakci #gYHF2LvdQ 2021-09-10T09:46:18.913Z
 ▯ is linguistics.
 
-zudıuche ± `en` @uakci #lSij-NoLr 2021-09-10T09:46:26.242Z
+zudıuche +1 `en` @uakci #lSij-NoLr 2021-09-10T09:46:26.242Z
 ▯ is a linguist.
 
 zue- ± `en` @uakci #BKrSqf-GZ 2024-05-01T10:11:34.323Z
@@ -87248,7 +87269,7 @@ zugoeq +1 `en` @Laqme #foO3u7c2y 2022-06-04T02:12:39.942Z
 zugoeqpoe ± `en` @Laqme #LF0ohEUra 2022-06-04T02:14:01.586Z
 ▯ and ▯ are separated by a language barrier (i.e. don't share a language).
 
-zuheno ± `en` @evie #9YovqWEfK 2025-08-17T20:05:28.273Z
+zuheno +1 `en` @evie #9YovqWEfK 2025-08-17T20:05:28.273Z
 ▯ is a translation of ▯
 evie (2025-08-17T20:06:05.957Z): cf **zuhenofıeq**
 
@@ -87315,6 +87336,11 @@ zujuoıse ± `en` @evie #DWuS6MR0x 2025-06-01T18:57:23.230Z
 zujuoqse ± `en` @evie #5d7XAHvpD 2025-06-01T18:57:34.545Z
 ▯ is the case prescriptively
 
+zukı ± `en` @Dembim #FMqNS1vXZ 2025-11-12T04:20:24.243Z
+interjection: "disagreement"
+Dembim (2025-11-12T04:22:31.788Z): cf. nhuki
+Dembim (2025-11-12T04:40:38.418Z): weaker than « zı », connoting a feeling of disagreement or lack of acceptance
+
 zukını ± `en` @robintown #Y6rhFZCPo 2022-03-03T13:15:29.726Z
 ▯ is a zucchini.
 
@@ -87369,6 +87395,9 @@ zuno ± `en` @uakci #JLR7e0dWT 2021-10-24T02:11:18.801Z
 zunofıeq ± `en` @mimiaoganhaqpy #JogIgsEiy 2024-08-06T21:36:44.243Z
 ▯ translates ▯ into language ▯.
 mimiaoganhaqpy (2024-08-06T21:38:31.832Z): Etymology: From **nofıeq**. Compare **zuhenofıeq**, which is longer.
+
+zunofıeqche ± `en` @Dembim #zk59hkIhw 2025-11-12T23:50:47.605Z
+▯ is a translator/interpreter
 
 zuo- +2 `en` @uakci #X0W5TLL9i 2023-10-23T03:46:22.384Z
 prefix: turn any verb X into: ▯ is intended / initially envisioned to X (whether or not it actually X’s in the end).
