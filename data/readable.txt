@@ -3873,7 +3873,7 @@ bıatuataqtua ± `en` @uakci #HIxS4JiA8 2020-03-26T20:48:30.622Z
 bıdaı -1 `toa` @el #nxz2mRqEl 2022-12-03T13:51:04.248Z
 Daı [ja] bìshe [ja]
 
-bıdeo ± `en` @official #ZtRr6qQf6 2019-05-05T22:24:57.552Z
+bıdeo +1 `en` @official #ZtRr6qQf6 2019-05-05T22:24:57.552Z
 predicate: ‘video’; ▯ is a video.
 
 bıdeo ± `ja` @Laqme #u4sN6IiPJ 2021-10-29T13:54:05.399Z
@@ -3915,7 +3915,7 @@ bıdeolucu ± `en` @robintown #0CwR_nRgu 2023-02-10T18:32:34.588Z
 bıdeozıa ± `en` @eednb #7i5VVw5lX 2023-01-26T23:10:03.893Z
 ▯ streams ▯ live
 
-bıdıesem +1 `en` @Laqme #aMZAY7VwV 2025-05-28T16:44:28.211Z
+bıdıesem +2 `en` @Laqme #aMZAY7VwV 2025-05-28T16:44:28.211Z
 ▯ pertains to BDSM.
 
 bıe +1 `en` @official #jc4Pz8XNd1 2019-05-05T22:24:58.883Z
@@ -5729,11 +5729,6 @@ seaqtaq (2019-01-21T23:50:31.000Z): +1
 budo +1 `en` @Dembim #Jwk8SrM5f 2025-11-12T16:24:00.580Z
 ▯ is noodle/pasta
 Dembim (2025-11-12T16:24:40.838Z): Fork of #Wwoi-jdev without second slot
-
-budo -1 `en` @Machy #Wwoi-jdev 2020-07-01T00:08:45.359Z
-▯ is a noodle(s) of type ▯.
-Dembim (2025-11-12T16:19:05.973Z): The second slot seems unnecessary; surely adjectives suffice?
-Dembim (2025-11-12T16:30:42.120Z): See #Jwk8SrM5f
 
 budodıuche +1 `en` @evie #owfQtFEz9 2025-11-12T18:06:01.278Z
 ▯ is a noodleologist
@@ -9926,14 +9921,14 @@ cham- ± `en` @uakci #avWudCCNm 2023-11-01T17:55:25.949Z
 adjectival phrase head (like **kị-**): considered as a …
 uakci (2023-11-01T17:55:49.485Z): i don't know how this should work exactly but it should (somehow) be able to attach to pronouns just as well as compositional DP-s
 
-châm +1 `en` @uakci #9BEqxAo29 2023-04-05T19:02:05.089Z
+châm +2 `en` @uakci #9BEqxAo29 2023-04-05T19:02:05.089Z
 adverbial head: “by”; subject-sharing, specifies manner/method
 uakci (2023-04-05T19:02:52.134Z): **tua jaı jí nháo châm kuaq hạosheo** “i made them happy by saying i was sorry”
 uakci (2023-04-05T19:04:05.931Z): **poaq tíaı châm duı geo** “the box broke through being too old”
 uakci (2023-04-05T19:05:32.700Z): **tıoqnua súq kómpıuta châm kaı shúıtoa ba** “unlock the computer by entering the password”
 uakci (2023-04-05T19:08:37.872Z): this is like **têıcha** but with subject sharing. i wonder if uncomplemented **châm** could be used in this fashion akin to old **poı**
 
-chamıe ± `en` @TheAndSys #DPgF3XMdx 2023-06-11T06:25:52.103Z
+chamıe +1 `en` @TheAndSys #DPgF3XMdx 2023-06-11T06:25:52.103Z
 ▯ is a way of living
 
 chamrı ± `en` @jiqci #yPtUslZnp 2024-04-13T18:03:39.827Z
@@ -15745,7 +15740,7 @@ seaqtaq (2025-03-25T19:52:39.057Z): Atelic
 dıbakıu ± `en` @seaqtaq #uVeqaeAhq 2024-09-26T01:36:59.713Z
 ▯ is replaceable/expendable
 
-dıbıdı ± `en` @salarua #P-55bizlC 2022-09-15T06:19:14.564Z
+dıbıdı +1 `en` @salarua #P-55bizlC 2022-09-15T06:19:14.564Z
 ▯ is a DVD
 
 dıbu +2 `en` @Ilmen #v2J6Awm3- 2019-04-19T08:15:16.000Z
@@ -22785,7 +22780,7 @@ geochua ± `en` @salarua #V6pDn6l34 2021-08-17T06:56:05.951Z
 ▯ is a deadname of ▯
 salarua (2021-08-17T06:57:15.097Z): this doesn't necessarily mean the birth name of a transgender individual; it can be the former name of anyone who changed their name for any reason
 
-geodıo +3 `en` @Machy #GPal0EF3O 2022-04-15T06:23:19.563Z
+geodıo +4 `en` @Machy #GPal0EF3O 2022-04-15T06:23:19.563Z
 ▯ is an afternoon.
 
 geodıu ± `en` @Ilmen #oHkdHUjQP 2018-11-21T21:05:24.000Z
@@ -29948,7 +29943,7 @@ hoehılo ± `en` @jiqci #yRZ7CvX_L 2023-06-10T16:15:48.683Z
 hoehıu +1 `en` @robintown #f1Oqh7Qvi 2023-11-23T21:25:23.270Z
 ▯ is November.
 
-hoeı ± `en` @Laqme #A88cRlXGD 2022-12-13T19:19:53.211Z
+hoeı +1 `en` @Laqme #A88cRlXGD 2022-12-13T19:19:53.211Z
 predicate: ‘morning’; ▯ is a morning.
 
 hoeıchuq ± `en` @Laqme #fAzXpQdEd 2023-12-04T15:56:39.723Z
@@ -40297,7 +40292,7 @@ predicate: ‘Celsius’; ▯ is a degree Celsius.
 keıcıu ± `pl` @jiqci #oOTzOBX-xV 2023-07-31T08:21:06.386Z
 ▯ to stopień Celsjusza.
 
-keıke +1 `en` @robintown #BUG2m-cMT 2023-02-06T03:32:30.506Z
+keıke +2 `en` @robintown #BUG2m-cMT 2023-02-06T03:32:30.506Z
 ▯ is cake. 🎂🍰🧁
 robintown (2023-02-06T03:32:38.739Z): The kind that might have cream and frosting and decorations and layers. More specific than **duaonam**.
 robintown (2023-02-06T03:32:55.366Z): (copied from lynn's gamma entry)
@@ -57492,6 +57487,10 @@ nıode ± `pl` @jiqci #TiMXCRUnhr 2023-07-31T08:21:38.845Z
 
 nıodecua ± `en` @Ilmen #XVGtPdQZd 2018-10-09T17:14:22.000Z
 ▯ has a “aaaaw” reaction to irresistable cuteness.
+
+nıodıo +1 `en` @Dembim #Z8ZGgMHaK 2025-11-13T12:40:34.563Z
+▯ is a morning
+Dembim (2025-11-13T12:41:10.747Z): Fun to say; pairs with geodıo (old day)
 
 nıoka +1 `en` @ramasu #oKyvTbwTe 2022-07-10T03:13:58.487Z
 ▯ is a mammal’s paw
@@ -83810,6 +83809,8 @@ tuaobeı ± `en` @seaqtaq #AnQ1uwnOq 2024-10-07T20:11:47.350Z
 
 tuaobu +1 `en` @robintown #_eXDLlQ07 2024-10-24T03:38:26.713Z
 degree: quite
+Dembim (2025-11-13T21:06:19.549Z): Is this an intensifier (as in American "quite")?
+robintown (2025-11-13T22:23:29.940Z): As the form suggests, it literally means "not little", but might pragmatically imply "more than moderately" if the speaker uses it as a form of litotes. See also https://toaq.me/A_little.
 
 tuaobu -1 `en` @official #LOMwk66b76 2019-05-05T22:27:47.127Z
 predicate: ‘quite’; ▯ is quite ▯.
@@ -84973,7 +84974,7 @@ Umaqgua ± `en` @countries #ATk-vmP6MiW 2023-10-02T12:22:04.934Z
 ⚠ Umaqgua -1 `en` @oldcountries #spg_7bkuUc 2021-08-21T07:15:21.908Z
 ▯ is the country Oman – Sultanate of Oman.
 
-umarele ± `en` @jiqci #MC8GjoxlB 2024-05-06T20:06:07.098Z
+umarele +1 `en` @jiqci #MC8GjoxlB 2024-05-06T20:06:07.098Z
 ▯ is an umarell.
 jiqci (2024-05-06T20:06:29.536Z): "man of retirement age who spends their time watching construction sites, especially roadworks – stereotypically with hands clasped behind their back and offering unwanted advice to the workers"
 
