@@ -20278,7 +20278,7 @@ fıekaı ± `en` @seaqtaq #0JgeV7nJ2 2025-05-06T09:07:34.393Z
 fıekaılea ± `en` @seaqtaq #nC84vErvi 2025-05-06T09:07:49.947Z
 ▯ is cacography
 
-fıekao ± `en` @Laqme #G80npoYAS 2025-11-14T16:13:46.392Z
+fıekao +1 `en` @Laqme #G80npoYAS 2025-11-14T16:13:46.392Z
 ▯ is kompromat / "dirt" (on someone) / compromising evidence.
 
 fıekuq ± `en` @Laqme #XZfyXyQ5l 2023-12-02T14:37:39.859Z
@@ -30445,13 +30445,13 @@ Laqme (2024-04-27T01:12:34.765Z): Captures a certain kind of relaxed, uncareful 
 hu- ± `en` @official #KKTrjfDnojs 2023-01-13T19:24:50.994Z
 prefix: ‘PREV’; derives anaphoric pronouns referring to phrases headed by the specified stem
 
+hu- +1 `en` @robintown #1P1C_vUkS 2025-04-26T14:24:07.834Z
+prefix: incorporate **hú** object
+robintown (2025-04-26T14:25:28.501Z): This prefix can coexist with the prefix **hụ-** used for head variables since they attach to different parts of speech.
+
 hu- ± `en` @Laqme #bmvqmPoJ1 2022-12-12T13:35:47.755Z
 prefix: "attaches to an arbitrary head and creates an anaphoric pronoun referring to the most recent accessible phrase headed by that head"
 Laqme (2022-12-12T13:37:03.674Z): For example, "hụ́ma" refers to the most recent "mä ..." content clause: **Mä tı ríaq Éoropa bï, bu moaq jí hụ́ma.**
-
-hu- ± `en` @robintown #1P1C_vUkS 2025-04-26T14:24:07.834Z
-prefix: incorporate **hú** object
-robintown (2025-04-26T14:25:28.501Z): This prefix can coexist with the prefix **hụ-** used for head variables since they attach to different parts of speech.
 
 hu ± `ja` @Laqme #xOhoJ0zmS 2021-10-05T14:09:38.723Z
 呼びかけ助詞：「〜よ」、次の名詞句を聴き手として特定しながら呼びかける
@@ -53290,6 +53290,9 @@ uakci (2024-05-14T17:58:37.237Z): < **mo–** (see **moꝡa**) + **zeum**, as th
 mozıu ± `en` @Laqme #SbZjvFrdZ 2022-06-26T10:22:04.355Z
 ▯ is an integer (residue class) modulo ▯.
 
+mshr? ± `en` @evie #HNcIy21Q9 2025-11-16T17:56:07.006Z
+wdyt? (textspeak for **mıu súq hí raı?**)
+
 mu- ± `en` @official #6tl1uHLAOc 2023-01-13T19:24:52.077Z
 prefix: ‘OPP’; un-X; forms antonyms
 Snow (2023-05-22T21:35:29.004Z): keyword: anti-
@@ -75318,6 +75321,9 @@ suqbeı ± `en` @uakci #ah6dW2mZ0 2022-04-15T06:13:58.703Z
 interjection: no u
 uakci (2022-04-15T06:14:14.132Z): ‘and how about you?’, ‘look at you!’, ‘and the same to you’
 
+Súqbıu ± `en` @evie #_k6SU8DcI 2025-11-16T06:44:29.002Z
+YouTube
+
 suqbo ± `en` @official #k6Nlx9pN_Bf 2021-09-29T13:08:55.301Z
 predicate: ‘your’; ▯ is yours.
 
@@ -80606,21 +80612,21 @@ teq +3 `en` @evie #nQNbfe9Ss 2024-10-29T20:09:46.398Z
 evie (2024-10-29T20:12:50.021Z): easy to use as an adverb without having to deal with ditransitives
 evie (2024-10-29T20:21:24.878Z): [kıazıu] jea jí ní kue têq gú dola = teq jí gú dola jêa ní kue = i bought this book for $2
 
-teq +1 `en` @robintown #nVvhxw8gc 2022-02-08T17:35:53.416Z
-▯ pays to ▯ payment ▯.
-
-teq +1 `en` @TheAndSys #eXzMU7-5l 2023-07-08T00:48:34.004Z
-▯ pays for ▯ (service or object)
-TheAndSys (2023-07-08T00:49:11.132Z): There's so many forks of this i decided to just make my own. The payee and what is given to them can be specified with prepositions
-
 teq -1 `en` @official #_OjhZ8xNb 2019-05-05T22:27:52.564Z
 predicate: ‘pay’; ▯ pays ▯ to ▯ for satisfying property ▯.
 
 teq ± `ja` @uakci #LJEJHOu90 2021-10-29T14:40:43.249Z
 ▯は▯に▯を▯［性質］と引き換えに払う；▯は▯を支払って、▯から▯を売る
 
+teq ± `en` @robintown #nVvhxw8gc 2022-02-08T17:35:53.416Z
+▯ pays to ▯ payment ▯.
+
 teq ± `tok` @el #9soc-P2eE 2022-07-10T05:35:10.031Z
 ▯ li pana e mani ▯ tawa ▯
+
+teq ± `en` @TheAndSys #eXzMU7-5l 2023-07-08T00:48:34.004Z
+▯ pays for ▯ (service or object)
+TheAndSys (2023-07-08T00:49:11.132Z): There's so many forks of this i decided to just make my own. The payee and what is given to them can be specified with prepositions
 
 teq ± `pl` @jiqci #IAxAyQX30 2023-07-31T08:22:32.195Z
 ▯ płaci ▯ cenę ▯ za ▯.
