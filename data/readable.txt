@@ -982,6 +982,7 @@ anıtue ± `en` @robintown #AuM5269sk 2023-02-07T23:42:05.168Z
 
 ano +2 `en` @Laqme #ze1sI74PC 2023-01-10T20:42:04.773Z
 ▯ loves ▯ romantically.
+lassc (2025-11-20T21:34:31.332Z): cf. **nhamaı**, **maı** (hypernyms); **anokuaı** (related attraction word)
 
 ano'aobı ± `en` @salarua #D2-alDvV1 2023-01-11T19:29:31.845Z
 predicate: ‘romance.work’; ▯ is of the romance genre
@@ -1013,6 +1014,7 @@ anoketoınuecheo ± `en` @jiqci #4CF0cUHEU 2024-04-08T20:27:14.457Z
 
 anokuaı ± `en` @lassc #_5Ktmt_3k 2025-03-25T22:16:39.124Z
 ▯ romantically crushes on ▯.
+lassc (2025-11-20T21:31:42.568Z): cf. **bamaı**, **maı** (hypernyms)
 
 anopoaq ± `en` @fagri #BOqq5XMO8 2023-01-10T20:51:26.338Z
 ▯ break up (end a romantic relationship)
@@ -2120,6 +2122,10 @@ baıgıq ± `en` @Ilmen #89RqfAzVx 2019-01-07T21:46:16.000Z
 baıhıu ± `en` @Laqme #Ff-rtm-nR 2019-11-01T14:54:29.507Z
 ▯ is a canal ("artificial river").
 
+baıkua ± `en` @Dembim #Sa1CZhdI8 2025-11-20T11:27:21.911Z
+▯is a workroom, a room in which one produces/assembles/makes.
+Dembim (2025-11-20T11:32:10.798Z): I can see this word coming to be used also for what might otherwise be termed a « fieqkua » due to the relative prevalence of the former sort of space.
+
 baılea ± `en` @uakci #ni6Lrfb6K 2023-09-09T17:27:28.942Z
 ▯ is the craft of ▯.
 
@@ -2240,6 +2246,7 @@ lassc (2025-03-31T20:50:21.113Z): borderline **zakaı**, but massively applicabl
 
 bamaı ± `en` @lassc #JYTdo6nN7 2025-03-31T20:37:21.620Z
 ▯ expresses "optative love" (i.e. love via desires/urges/longing) towards ▯.
+lassc (2025-11-20T21:27:11.815Z): cf. **maı**, **kuaı**
 
 Bamanazu ± `en` @eednb #VdxQW9MaH 2023-12-31T21:53:12.897Z
 ▯ is the Bambara (Bamanankan) language.
@@ -14564,6 +14571,9 @@ daqgıa ± `en` @uakci #GqP89Xc6D 2019-02-26T09:45:28.000Z
 ▯ is a time zone; ▯ is a zone where there is the exact same time (▯) everywhere in it.
 uakci (2019-02-26T09:47:10.000Z): The ‘zone’ in ‘time zone’ is cognate to Latin ‘zona,’ which also means ‘belt,’ thus -gīa-. Also, today’s time zones are organised in such a way that the individual areas resemble ribbons in shape.
 
+daqgıapaq ± `en` @Ilmen #WJaa9Jom5 2025-11-20T21:57:50.331Z
+▯ is in timezone ▯.
+
 daqgıfaq ± `en` @uakci #UVU-9QJsM 2020-05-18T17:36:00.166Z
 ▯ happens at the right time.
 
@@ -15465,6 +15475,7 @@ desu -1 `en` @uakci #TW8nYbf6E 2022-06-02T20:39:50.261Z
 
 deshue ± `en` @lassc #DhgArzSxK 2025-03-25T22:17:09.246Z
 ▯ is enamored with the beauty of ▯.
+lassc (2025-11-20T21:31:03.995Z): cf. **kamaı**, **bamaı**, **maı**(hypernyms)
 
 detıao ± `en` @Laqme #oXCB62Wjm 2021-09-21T14:43:22.042Z
 ▯ and ▯ go beautifully together; ▯ nicely suits / fits / looks good on ▯.
@@ -17692,10 +17703,7 @@ dujı ± `en` @uakci #cLo4JaQT5 2022-11-02T19:21:38.363Z
 focus marker: for every singular constant among X, unboxed out of its aggregate…
 uakci (2022-11-02T19:22:12.034Z): replaces **puy** as **dujı sa pủı** (which is more clearer about its higher-order nature). < **tushı** + [+voice] because i'm feeling funky
 
-dujıq ± `en` @lassc #u3laj3-_5 2022-11-27T14:14:13.971Z
-▯ is virtual; ▯ is a simulation of ▯.
-
-dujıq ± `en` @TheAndSys #IezYoyVZJ 2025-04-04T18:38:42.818Z
+dujıq +1 `en` @TheAndSys #IezYoyVZJ 2025-04-04T18:38:42.818Z
 ▯ is virtual/a simulation
 
 dujıqche ± `en` @Laqme #wCmmqIvXU 2025-04-04T15:13:11.593Z
@@ -24135,6 +24143,9 @@ gıuduo -1 `en` @Ilmen #u9_NGy8dP 2020-01-26T21:19:02.352Z
 gıufa ± `en` @seaqtaq #m2WQUhHwL 2019-01-31T03:39:32.000Z
 ▯ goes along path ▯ from ▯
 
+gıume ± `en` @lassc #xrUTAJzeV 2025-11-20T22:18:35.802Z
+▯ is a queue/file/line (first-in/first-out arrangement).
+
 gıumeı ± `en` @Laqme #fNF_V-qpj 2022-08-06T19:25:12.101Z
 ▯ is a ridge.
 
@@ -25127,14 +25138,14 @@ guahezo ± `en` @seaqtaq #pxYqoFm05 2024-08-07T21:36:55.743Z
 guaı ± `en` @official #1C2X8oirKF 2019-05-05T22:25:36.886Z
 predicate: ‘work’; ▯ works in satisfying property ▯.
 
-guaı +1 `en` @Ilmen #Lyb_Ujp34 2020-01-29T20:35:15.190Z
+guaı +1 `en` @Laqme #YkSgZ8DGb 2025-03-12T01:48:21.715Z
+▯ works.
+
+guaı ± `en` @Ilmen #Lyb_Ujp34 2020-01-29T20:35:15.190Z
 predicate: ‘work’; ▯ works in satisfying property ▯; ▯ satisfies property ▯ with effort.
 
 guaı ± `pl` @jiqci #Ug-QgA-hcR 2023-07-31T08:20:27.008Z
 ▯ pracuje spełniając własność ▯.
-
-guaı ± `en` @Laqme #YkSgZ8DGb 2025-03-12T01:48:21.715Z
-▯ works.
 
 guaı -1 `toa` @uakci #ly53AmDd8 2019-04-15T05:45:43.000Z
 tao dóshı dógu, na ru dógu pa lu sa dó báq bı ca tâo dó dógu na kûaı sea dó da
@@ -25940,7 +25951,7 @@ guımuoq ± `en` @uakci #8dMm1SRV2 2022-02-10T03:20:03.589Z
 guınıu ± `en` @uakci #8Rm0EBSjf 2022-07-31T18:27:01.315Z
 ▯ is (a kind of) wheat.
 
-guınhoq +2 `en` @uakci #yspSAK2v4 2022-02-14T18:09:28.615Z
+guınhoq +1 `en` @uakci #yspSAK2v4 2022-02-14T18:09:28.615Z
 ▯ is pasta/macaroni/noodles.
 
 guınhoq ± `tok` @el #QDGVKhvJA 2022-07-10T04:06:52.683Z
@@ -28549,6 +28560,11 @@ heumgeq ± `en` @Laqme #mTVzodeNY 2023-11-30T14:03:53.489Z
 
 heumjıaq ± `en` @Laqme #5A0ldg8Ol 2024-10-11T09:30:55.719Z
 ▯ is an offline/physical/real world / meatspace.
+
+heumlua ± `en` @lassc #BbgfUKwuB 2025-11-20T22:01:59.996Z
+▯ is an alternate-reality game (ARG).
+lassc (2025-11-20T22:02:55.432Z): cf. **jıqlua**, which are non-fiction stories
+lassc (2025-11-20T22:07:42.242Z): oh, this is my 300th word. merry numbers everyone
 
 heunaosaı -1 `en` @RaineTheEnby #fP02k1Lhaiy 2019-09-17T19:19:51.130Z
 predicate: ‚jam‘; ▯ is a jam made from ▯
@@ -33206,9 +33222,10 @@ jaonhe ± `en` @seaqtaq #ZoN18hDHw 2024-07-10T21:14:19.406Z
 predicate: ‘extent’; ▯ is an event with no where near ▯ as its extent.
 
 jaopaq ± `en` @Dembim #jpuw-WZW1 2025-10-31T13:42:33.587Z
-▯ is (a) distal/peripheral/spatially extreme part(s) of ▯
+▯ is (a) distal/peripheral/extreme part(s) of ▯
 Dembim (2025-10-31T13:44:25.042Z): the bits of a thing/event/etc far from its perceived middle
 Dembim (2025-11-01T00:42:14.869Z): periphery, end, edge, fringe, frontier
+Dembim (2025-11-20T22:29:03.476Z): extremity
 
 jaorıeq ± `en` @Machy #S-gi2zKpz 2022-05-15T19:09:48.406Z
 Redundancy synonym: **rıeq**.
@@ -37606,6 +37623,7 @@ Chess piece ▯ captures chess piece ▯ en passant.
 
 juıkuaı ± `en` @lassc #yfmbS1Bmk 2025-03-25T22:17:27.946Z
 ▯ yearns/longs/desire to be physically close to ▯.
+lassc (2025-11-20T21:31:27.374Z): cf. **bamaı**, **maı** (hypernyms)
 
 juıkuaı -1 `en` @uakci #zlCPI8eSh 2021-09-03T19:09:22.302Z
 ▯ wants to assimilate with ▯.
@@ -39196,6 +39214,10 @@ kaolaı ± `en` @seaqtaq #A-igVT7sM 2019-06-24T00:03:05.445Z
 kaolıq ± `en` @robintown #NTJM23mpR 2023-07-02T17:06:58.296Z
 ▯ is a link/hyperlink.
 robintown (2023-07-02T17:07:44.678Z): **kao** as classifier + English 'link'
+
+kaome ± `en` @lassc #fybA2bS4f 2025-11-20T21:50:53.052Z
+▯ is a database.
+lassc (2025-11-20T21:52:06.315Z): cf. **daoshuo** (synonym)
 
 kaomıeq ± `en` @Laqme #R5lGvRumF 2022-03-18T02:46:37.927Z
 ▯ looks up what satisfies property ▯.
@@ -40792,6 +40814,7 @@ kıahupı ± `en` @jiqci #tjt4qmmX- 2025-04-20T20:42:21.081Z
 
 kıaı ± `en` @official #ek3ar8iBeX 2019-05-05T22:26:18.970Z
 predicate: ‘look.after’; ▯ looks after ▯; ▯ takes care of ▯.
+lassc (2025-11-20T21:37:00.439Z): cf. **kamaı**, **maı** (hypernyms)
 
 kıaı ± `pl` @jiqci #juuz0BTfd6 2023-07-31T08:21:01.871Z
 ▯ opiekuje się/dba o ▯.
@@ -46592,6 +46615,7 @@ lımjua ± `en` @Laqme #CdrHgE6Os 2024-10-03T14:59:02.269Z
 lımkuaı ± `en` @lassc #M7y8zJZdq 2025-03-25T22:17:37.090Z
 ▯ yearns to fully understand the ins and outs of ▯.
 lassc (2025-03-25T22:18:12.313Z): a kind of love that *is* applicable to concepts and objects, but just in a very particular context. it's also applicable to people in a very beautiful way i think 🥺
+lassc (2025-11-20T21:35:40.861Z): cf. **bamaı**, **maı** (hypernyms)
 
 lımnoa ± `en` @Laqme #dm0kk7Xar 2025-03-14T17:30:47.572Z
 ▯ is hard to understand / complicated.
@@ -49312,6 +49336,7 @@ maıjuo ± `pl` @jiqci #GXPh89kdB 2023-07-31T08:21:18.110Z
 maıkuaı +2 `en` @Laqme #Bjj9iRa8n 2019-11-12T03:59:35.592Z
 ▯ romantically lusts for / crushes on ▯.
 uakci (2022-06-24T10:17:50.647Z): also: ▯ experiences romantic desire
+Dembim (2025-11-20T19:54:00.789Z): See **bamaı** for a not-per-sẹromantıc hypernym.
 
 maıkuaq ± `en` @Laqme #G3Kr9XqDH 2023-11-24T09:45:13.580Z
 ▯ confesses their love to ▯.
@@ -51323,8 +51348,14 @@ mıehuareı ± `en` @salarua #aov7jp3dj 2023-12-18T00:15:51.033Z
 mıehuashaı -1 `en` @marx #AXDOfqafP 2021-10-17T03:32:08.114Z
 to lose heart
 
-mıeı ± `en` @uakci #uh1Tn7mAD 2022-08-13T09:35:55.474Z
+mıeı +1 `en` @uakci #uh1Tn7mAD 2022-08-13T09:35:55.474Z
 ▯ has/bears a role/title of satisfying property ▯.
+
+mıeıchua ± `en` @robintown #oKaheZDg5 2025-11-20T21:54:11.318Z
+▯ is a title/position of ▯.
+
+mıeıkata ± `en` @robintown #jdBPJNnRu 2025-11-20T21:54:40.046Z
+▯ is a business card.
 
 mıeıkuo ± `en` @Laqme #b2xvEu5bL 2025-05-20T22:22:06.952Z
 ▯ is notorious / infamous / ill-famed.
@@ -60724,8 +60755,9 @@ nhokeo +3 `en` @robintown #AuPiJroaj 2021-09-23T16:40:22.711Z
 nholı ± `en` @uakci #ZzJd9l4xs 2022-04-06T12:09:49.676Z
 ▯ is the range/gamut of the parameter space for property ▯; ▯ is how low or high property(ies) ▯ can go.
 
-nhom ± `en` @Ilmen #NG5tC6PPd 2024-12-28T12:34:36.325Z
+nhom +1 `en` @Ilmen #NG5tC6PPd 2024-12-28T12:34:36.325Z
 ▯ is affectionate to ▯.
+lassc (2025-11-20T21:36:10.841Z): cf. **kamaı**, **maı** (hypernyms)
 
 nhom -1 `en` @uakci #F5CjSLhtL 2022-12-21T01:30:33.007Z
 ▯ is affectionate.
@@ -61723,6 +61755,7 @@ seaqtaq (2024-10-14T15:57:01.049Z): Assumes a relatively stringent definition of
 
 paıkuaı +1 `en` @robintown #dJHBxVKGe 2021-07-26T21:55:30.838Z
 ▯ squishes / has a platonic crush on ▯.
+lassc (2025-11-20T21:28:25.806Z): cf. **bamaı**, **maı** (hypernyms)
 
 paıluo +2 `en` @Laqme #AS1xKLwS8 2022-06-22T01:58:05.376Z
 ▯ is a found family (friends who consider each other family).
@@ -61896,6 +61929,9 @@ pamrea ± `en` @jiqci #MaGZhmQiV 2024-08-04T21:01:12.957Z
 
 pamu ± `en` @uakci #XbnSflO6g 2022-10-08T17:51:30.802Z
 focus marker: all of X, not just (or not necessarily) some of its parts; the whole of X rather than some part of it. (< **paqmuo**)
+
+pamze ± `en` @robintown #YWhxjALDH 2025-11-20T21:42:51.836Z
+▯ is an ointment/balm/salve.
 
 pana ± `en` @Machy #jLVtXTOaj 2020-04-28T01:49:05.730Z
 ▯ is the god Pan.
@@ -62347,7 +62383,7 @@ pashose ± `en` @Laqme #OoZXgdHtN 2025-01-29T17:43:01.132Z
 pashosueq ± `en` @robintown #mFE2H9Grc 2023-11-27T22:01:55.065Z
 ▯ is a splash.
 
-pata +1 `en` @Ilmen #GLR8IV7ihgE 2019-09-17T19:19:51.129Z
+pata ± `en` @Ilmen #GLR8IV7ihgE 2019-09-17T19:19:51.129Z
 ▯ is pasta.
 Dembim (2025-11-12T16:22:02.009Z): Is this meant to carry a connotation of European-style noodles?
 
@@ -64883,6 +64919,8 @@ uakci (2023-12-02T08:34:11.974Z): nowadays technically redundant to coeventive a
 
 puasoao ± `en` @Laqme #mkhjdirUO 2023-12-08T16:13:20.164Z
 ▯ hangs out with / spends quality time with ▯.
+lassc (2025-11-20T21:41:35.398Z): cf. **kamaı**, **maı** (hypernyms)
+lassc (2025-11-20T21:42:57.281Z): in my head, more intimate than **haogaq** but roughly synonymous
 
 puateı ± `en` @Laqme #wcRkxwKSN 2025-02-20T12:55:23.368Z
 ▯ is a hobby.
@@ -66525,6 +66563,7 @@ el (2022-11-07T17:06:57.042Z): idea by lynn
 
 rea ± `en` @official #8QJgYpQYL 2019-05-05T22:27:19.599Z
 predicate: ‘border’; ▯ is a border/edge of ▯.
+lassc (2025-11-20T22:22:23.129Z): kw: margins, fringes, threshold, boundary, boundaries, bounds, confines, perimeters
 
 rea ± `ja` @Laqme #kvJKe9jnR 2021-10-05T15:08:13.006Z
 ▯は▯の境界／端／さかい
@@ -66686,7 +66725,7 @@ regodao ± `en` @Ilmen #CW0eO3GoF 2023-01-13T23:05:37.158Z
 regonıaq ± `en` @Ilmen #EpkEJgszj 2020-02-16T10:45:15.678Z
 ▯ is a Gregorian year.
 
-regu ± `en` @jiqci #PGNICYbza 2023-08-04T20:58:08.236Z
+regu +1 `en` @jiqci #PGNICYbza 2023-08-04T20:58:08.236Z
 ▯ is a region/area/zone.
 jiqci (2023-08-04T20:59:05.016Z): from **rem**, **guaq** and similarity to English **regıon**
 jiqci (2023-08-04T21:00:26.426Z): not limited to land surface
@@ -70206,6 +70245,7 @@ sala +3 `en` @uakci #JAQha5oZf 2021-11-07T02:14:37.501Z
 ▯ expands/unwinds.
 uakci (2021-11-07T02:15:43.493Z): as a flower bud, a button-up shirt, a handheld fan
 Laqme (2023-10-25T09:12:23.707Z): unfolds, blooms
+lassc (2025-11-20T19:23:05.392Z): cf. **tıdu**
 
 salaı ± `en` @uakci #QhDMslJBJ 2022-12-30T16:31:41.008Z
 ▯ is the Deranı glyph for S/A.
@@ -70305,6 +70345,7 @@ samuraı ± `en` @Ilmen #yYIRHomux 2019-03-27T19:37:56.000Z
 
 sana ± `en` @lassc #c0aT1D9JW 2025-03-25T22:25:42.388Z
 ▯ wishes to be sexually intimate with ▯.
+lassc (2025-11-20T21:28:41.987Z): cf. **bamaı**, **maı** (hypernyms)
 
 sạnıepoha ± `en` @Laqme #lMXwm2A4M 2025-02-14T16:54:17.300Z
 ▯ is an endophora / endophoric reference.
@@ -71032,6 +71073,9 @@ sheireq (2019-03-22T18:01:39.000Z): +1
 seakoı ± `en` @uakci #t0JTWjR-j 2021-09-05T15:11:39.624Z
 ▯ goes on a walk/stroll/constitutional.
 
+seakua +1 `en` @seaqtaq #Tnx2gzuQg 2025-11-20T19:55:59.102Z
+▯ is a break room / lounge
+
 seakuaı +1 `en` @official #eaHr8K2qik 2019-05-05T22:27:31.222Z
 predicate: ‘exhausted’; ▯ is exhausted.
 
@@ -71056,7 +71100,7 @@ seaodıu ± `en` @Laqme #JqW5JX9jS 2024-06-27T16:48:00.257Z
 seapuagı ± `en` @robintown #XQrBE-Tmr 2024-10-04T04:39:28.300Z
 ▯ is relaxing.
 
-seaq +1 `en` @official #KD9rrZ2gIh 2019-05-05T22:27:31.374Z
+seaq +2 `en` @official #KD9rrZ2gIh 2019-05-05T22:27:31.374Z
 predicate: ‘have.sex’; ▯ has sex with ▯; ▯ has sexual intercourse with ▯.
 Machy (2020-07-04T21:49:54.695Z): imo this should refer to consensual human sex only. See also #macē
 
@@ -77257,6 +77301,8 @@ shıodıa +1 `en` @jiqci #BOT02r2ZW 2024-01-24T12:08:20.827Z
 
 shıoı ± `en` @lassc #L1DgOD1aC 2025-03-25T22:19:26.389Z
 ▯ is loyal/devoted/committed to ▯.
+lassc (2025-11-20T21:25:01.056Z): part of the love words elaboration i did at this time, specification of **nhamaı** and by extension **maı**
+Dembim (2025-11-20T21:29:17.905Z): Frame: c c
 
 shıojom ± `en` @jiqci #8zmp_YdS0 2024-12-20T08:12:15.626Z
 ▯ is a shoulder devil (personified temptation).
@@ -86456,7 +86502,7 @@ zetoame ± `en` @uakci #9NDkf0GMi 2022-07-12T17:16:14.724Z
 zeu +1 `en` @TheAndSys #LoC28jfb7 2023-03-17T04:10:32.050Z
 ▯ is tall
 
-zeum +1 `en` @salarua #_LI27gXP0 2023-02-13T21:41:29.406Z
+zeum +2 `en` @salarua #_LI27gXP0 2023-02-13T21:41:29.406Z
 predicate: ‘needle’; ▯ is a needle
 
 zeumde ± `en` @Laqme #a0Gfh86tf 2024-08-26T14:07:56.798Z
