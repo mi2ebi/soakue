@@ -2123,7 +2123,7 @@ baıhıu ± `en` @Laqme #Ff-rtm-nR 2019-11-01T14:54:29.507Z
 ▯ is a canal ("artificial river").
 
 baıkua ± `en` @Dembim #Sa1CZhdI8 2025-11-20T11:27:21.911Z
-▯is a workroom, a room in which one produces/assembles/makes.
+▯ is a workroom, a room in which one produces/assembles/makes.
 Dembim (2025-11-20T11:32:10.798Z): I can see this word coming to be used also for what might otherwise be termed a « fieqkua » due to the relative prevalence of the former sort of space.
 
 baılea ± `en` @uakci #ni6Lrfb6K 2023-09-09T17:27:28.942Z
@@ -8054,7 +8054,7 @@ Chılegua ± `en` @countries #k12wlymO4_ 2023-10-02T12:22:04.102Z
 ⚠ Chılegua -1 `en` @oldcountries #qKnCGZTQRl 2019-05-05T22:33:26.454Z
 ▯ is the country Chile – Republic of Chile.
 
-Chıq ± `en` @jiqci #78wVOsugY 2025-07-22T18:26:22.671Z
+Chıq -1 `en` @jiqci #78wVOsugY 2025-07-22T18:26:22.671Z
 ▯ is Chinese / is of China, its languages or people.
 jiqci (2025-07-22T18:27:38.013Z): cf. Sanskrit चीन cīna, Persian چین čin, Thai จีน jiin
 
@@ -8885,7 +8885,7 @@ coqjıe ± `en` @Machy #MCFA8ZzvN 2022-03-28T03:18:18.849Z
 cotoa ± `en` @Ilmen #t4NEV17mD 2019-01-28T17:43:00.000Z
 ▯ is a quantifier.
 
-⚠ cou ± `en` @Laqme #C89LAbatY 2019-12-09T02:41:53.308Z
+⚠ cou -1 `en` @Laqme #C89LAbatY 2019-12-09T02:41:53.308Z
 ▯ (some event of expression) is directed at / expressed toward audience ▯.
 Laqme (2019-12-09T02:48:04.000Z): Expresses “at” as in «kủnēchōa còe jí» “barks at me”, «shỏı còe jí» “yells at me”, «kảqdōq còe jí» “winks at me”.
 Laqme (2019-12-09T02:49:18.714Z): *I mean còu three times. :)
@@ -15735,8 +15735,14 @@ dıaqnhe ± `en` @uakci #9GK67IAKE 2022-07-21T12:30:55.165Z
 dıasuım ± `en` @jiqci #zvVMd9tGz 2023-07-18T15:30:34.736Z
 ▯ sorts/arranges/orders ▯ from satisfying property ▯ the most to the least.
 
-dıba +2 `en` @Ilmen #hF5Nmfxp8 2019-04-08T17:17:31.000Z
+dıba +1 `en` @Ilmen #hF5Nmfxp8 2019-04-08T17:17:31.000Z
 ▯ replaces, substitutes for ▯ in having property ▯: the former now has the property, while the latter no longer has it (no agentivity implied).
+
+dıba ± `en` @Dembim #KMpZVeE5S 2025-11-24T15:02:56.449Z
+▯ replaces, substitutes for ▯ in satisfying some salient property: the former now satisfies the property, while the latter no longer does (no agentivity implied).
+Dembim (2025-11-24T15:04:36.715Z): Fork of **@Ilmen dıba** without slot three. Recover with « oı ».
+Ilmen (2025-11-24T15:31:01.577Z): discriminator: 2
+Dembim (2025-11-25T00:26:11.376Z): Frame: c c
 
 dıbabuasho ± `en` @seaqtaq #ECPjP_nDm 2025-03-25T20:01:54.103Z
 ▯ colonizes ▯; ▯ invasively populates ▯ while aggressively displacing its native inhabitants
@@ -26325,7 +26331,7 @@ guosıa ± `pl` @jiqci #pdr2rbrWS 2023-07-31T08:20:28.168Z
 guosıa ± `en` @robintown #LtkhnxvjS 2025-03-31T02:38:49.940Z
 adverb of quantification: never
 
-guoso +1 `en` @Ilmen #QFGpi1qQA 2018-10-19T11:40:10.000Z
+guoso +2 `en` @Ilmen #QFGpi1qQA 2018-10-19T11:40:10.000Z
 ▯ is cattle (Bos taxonomic genus).
 Ilmen (2018-10-19T11:52:48.000Z): +1
 Hoemai (2019-04-04T21:45:21.000Z): cow, ox, bull
@@ -28981,7 +28987,7 @@ hıbotom ± `en` @Snow #wg1sZJWi5 2023-05-22T21:45:18.098Z
 hıbu ± `en` @uakci #olBaL1xcc 2019-04-21T12:07:01.000Z
 ▯ is whatever; ▯ is something and I don’t care what it is exactly; ▯ satisfies property ▯, whatever be it in the end.
 
-hıca ± `en` @el #2OMfLKkIn 2022-06-23T19:19:56.367Z
+hıca +1 `en` @el #2OMfLKkIn 2022-06-23T19:19:56.367Z
 The answer to ▯ determines the answer to ▯ (both indirect questions)
 el (2022-06-23T19:19:59.768Z): useful as a preposition
 el (2023-01-02T01:10:54.240Z): see also **jama**
@@ -35611,9 +35617,6 @@ jıonıe ± `en` @robintown #HMzz_yMg- 2021-09-06T16:33:21.424Z
 jıopuefuq ± `en` @Ilmen #vhNRpoK-n 2019-05-16T22:39:49.096Z
 ▯ is a slipper.
 
-jıoq +1 `en` @official #iXy4o68cV 2019-06-26T12:55:48.106Z
-predicate: ‘calculate’; ▯ calculates what satisfies property ▯.
-
 jıoq +2 `en` @uakci #YFQwzEYEH 2021-11-06T21:00:00.390Z
 ▯ calculates ▯ [see notes].
 uakci (2021-11-06T21:00:17.906Z): this is a reformulation of <@official jıoq> that avoids depending on properties as answer-givers. x₂ may be filled with a proposition or an indirect question
@@ -35623,10 +35626,13 @@ uakci (2021-11-06T21:02:27.755Z): this form may be used in a serial (**jıoq peu
 uakci (2021-11-06T21:03:00.201Z): if x₂ is a polar interrogative proposition (one with **ma**), this verb means “to verify if x₂ is the case”. x₂ is not asserted
 uakci (2021-11-06T21:03:34.381Z): if x₂ is an interrogative proposition involving **tıo**, **co**, **hı**, this verb can be translated like the official definition – x₁ calculates what the answer to x₂ is
 
-jıoq +1 `en` @fagri #IQzrU8uBm 2023-06-13T15:49:07.702Z
+jıoq +2 `en` @fagri #IQzrU8uBm 2023-06-13T15:49:07.702Z
 ▯ calculates the answer to question ▯
 fagri (2023-06-13T15:50:06.011Z): «Jıoq séoqtuedıupoq mä ruqshua râo jı́achaq» = "The meteorologists calculated whether it will rain tomorrow"
 fagri (2023-06-13T15:51:29.901Z): «Jıoq nháo wä reu hı́ shı́ko gúko» = "They calculated the product of the first and second number"
+
+jıoq ± `en` @official #iXy4o68cV 2019-06-26T12:55:48.106Z
+predicate: ‘calculate’; ▯ calculates what satisfies property ▯.
 
 jıoq ± `tok` @el #sqaxwrOXS 2022-07-10T07:12:15.160Z
 ▯ li kama sona e ni: seme li ▯
@@ -52956,8 +52962,9 @@ seaqtaq (2024-08-11T21:44:18.179Z): Can mean "dreamily" when used as a subject-s
 moıpuao ± `en` @robintown #t8oy26qvS 2022-05-21T23:52:58.732Z
 ▯ is a thought bubble.
 
-moırıeq +1 `en` @TheAndSys #a3FH2C8hA 2024-09-08T05:08:34.781Z
+moırıeq +2 `en` @TheAndSys #a3FH2C8hA 2024-09-08T05:08:34.781Z
 ▯ escapes from/copes with ▯
+Dembim (2025-11-24T17:15:38.778Z): Frame: c 0
 
 moırıeq ± `en` @lassc #tv69StNV7 2022-12-02T05:13:41.272Z
 ▯ escapes from/copes with ▯ by ▯.
@@ -55824,7 +55831,7 @@ naraqzeo +1 `en` @fagri #h7kaHC5Dn 2021-07-27T16:58:38.831Z
 naraqzeonao ± `en` @fagri #CLjIcZB0X 2021-07-27T16:58:54.047Z
 ▯ is orange juice
 
-narı ± `en` @lassc #A0hGB6gAh 2025-03-20T09:57:54.339Z
+narı +1 `en` @lassc #A0hGB6gAh 2025-03-20T09:57:54.339Z
 ▯ replies to/responds to/retorts at/addresses/answers ▯.
 lassc (2025-03-20T09:59:44.161Z): definitely exists already probably **cua** related but the point is mostly a hyponymous **kuq** for flavor
 
@@ -58105,6 +58112,11 @@ nıuqnıu ± `en` @lassc #JHaxMYony 2025-03-12T17:06:56.683Z
 nıuqsue ± `en` @Laqme #HHoiFaVwE 2024-04-26T11:13:19.237Z
 ▯ begs ▯ to satisfy ▯.
 
+nıuqsue ± `en` @Dembim #isS328k1A 2025-11-25T00:12:39.363Z
+▯ begs that ▯ be the case.
+Dembim (2025-11-25T00:14:43.179Z): Fork of **@Laqme nıuqsue** without second slot. Recover with « côm ».
+Dembim (2025-11-25T00:25:27.162Z): Frame: c 0
+
 nıurıqsaı +1 `en` @Laqme #o86dFPOQ- 2019-02-03T02:43:25.000Z
 ▯ is chlorophyll.
 seaqtaq (2019-02-03T02:54:34.000Z): +1
@@ -58904,6 +58916,7 @@ uakci (2022-12-10T19:41:39.317Z): assumes that every particle class has one sens
 
 nu +1 `en` @official #yRtteV7lrW 2019-05-05T22:26:47.028Z
 predicate: ‘such’; ▯ is such / is like that.
+salarua (2025-11-24T19:11:21.485Z): thus, sense 1
 
 nu ± `pl` @jiqci #nQUchANRct 2023-07-31T08:21:31.805Z
 ▯ taki jest.
@@ -61246,7 +61259,7 @@ Ohomıazu ± `en` @eednb #7bKufF2Zv 2023-12-31T21:52:26.629Z
 oı- ± `en` @TheAndSys #9jWcXd_DQ 2024-05-07T21:52:39.548Z
 Number component: More than
 
-oı +1 `en` @salarua #VGQjJagkP 2025-03-12T18:24:53.433Z
+oı +2 `en` @salarua #VGQjJagkP 2025-03-12T18:24:53.433Z
 ▯ is the case with respect to property ▯.
 salarua (2025-03-12T18:27:55.477Z): Coined specifically to reduce the arity of (c c 1) words to (c c)
 lassc (2025-03-22T12:44:57.566Z): ▯ is the case when it comes to satisfying property ▯
@@ -78120,7 +78133,7 @@ shojufaseo ± `en` @uakci #FRQggf0cV 2020-04-07T15:05:14.966Z
 shojunao ± `en` @uakci #BE4wsjQfo 2022-05-23T10:20:38.773Z
 ▯ is soy sauce.
 
-shom +1 `en` @Laqme #pjCiKA-J7 2022-12-13T19:35:35.062Z
+shom +2 `en` @Laqme #pjCiKA-J7 2022-12-13T19:35:35.062Z
 predicate: ‘face’; ▯ is a face.
 
 shomdapa ± `en` @Ilmen #32FpsH8eo 2025-10-23T10:41:33.497Z
@@ -81453,7 +81466,7 @@ tıehua ± `en` @Ilmen #mq-x-qoad 2020-02-05T12:50:39.227Z
 tıehuashoaı ± `en` @Ilmen #Wom76RoGx 2018-10-20T20:00:38.000Z
 ▯ is a colugo (Dermoptera taxonomic order).
 
-tıem +2 `en` @Laqme #XE23KG_18 2024-11-02T12:25:27.508Z
+tıem +3 `en` @Laqme #XE23KG_18 2024-11-02T12:25:27.508Z
 ▯ is a function / mapping / map.
 Laqme (2024-11-02T12:28:28.077Z): Broadly, something like the answer to "who brings what to the potluck?" is a **tıem**, but so is the cosine function, or a "dictionary" data structure. Anything that says how to associate one output with each input is a **tıem**.
 Laqme (2024-11-02T12:30:11.348Z): in everyday contexts: allocation, assignment, arrangement (e.g. a seating arrangement for a wedding)
@@ -81678,7 +81691,7 @@ tıjuı ± `jbo` @Laqme #g42Q7pzRL 2025-04-03T21:34:32.156Z
 tıjuq ± `en` @uakci #wRtaHL29Z 2023-12-03T14:22:43.380Z
 ▯ (non-agentively) inserts/slots itself into ▯.
 
-tıka +3 `en` @Laqme #zYmiM50NJ 2024-09-18T20:13:57.773Z
+tıka +4 `en` @Laqme #zYmiM50NJ 2024-09-18T20:13:57.773Z
 interjection: "here I am" / "I'm home" / "I'm back"
 
 tıla ± `en` @jiqci #vQnsZeDc_ 2025-01-05T14:43:45.174Z
@@ -85079,7 +85092,7 @@ seaqtaq (2024-07-15T02:22:43.420Z): Intended to be a more carnal/passionate syno
 Umesamızu ± `en` @salarua #U16fFb7Hc 2023-12-06T20:55:17.510Z
 predicate: ‘Ume.Sami.language’; ▯ is the Ume Sami language
 
-umfu ± `en` @evie #2OpXwrBGU 2025-10-22T18:50:23.546Z
+umfı ± `en` @evie #bzs9SUaih 2025-11-24T04:35:48.751Z
 ▯ is an oomf
 
 umı +1 `en` @jiqci #Ue7UEDXbD 2023-11-26T15:53:29.339Z
@@ -86462,7 +86475,7 @@ lassc (2025-03-14T18:04:33.664Z): didn't like the current options for expressing
 zeqbudachuaq ± `en` @uakci #D9g_-rG7T 2022-02-14T16:52:08.649Z
 ▯ is Zen Buddhism
 
-zeqde +2 `en` @Laqme #QM44Q6i_c 2025-03-14T18:14:48.595Z
+zeqde +3 `en` @Laqme #QM44Q6i_c 2025-03-14T18:14:48.595Z
 ▯ exhibits non-binary / third-gender / gender-non-conforming beauty or charm.
 
 zeqdeo +2 `en` @Laqme #qDEvnbx5n 2025-03-14T18:13:36.626Z
