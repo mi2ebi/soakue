@@ -340,7 +340,7 @@ Laqme (2024-07-14T12:08:49.859Z): exaggerated pronunciation of **aıtuq**
 aıcha ± `en` @Machy #gjcWJmNeK 2022-04-19T19:52:48.945Z
 ▯ resembles ▯ in how it satisfies property ▯.
 
-aıchı +2 `en` @Machy #u0qfp0BlO 2022-02-05T21:02:07.990Z
+aıchı +3 `en` @Machy #u0qfp0BlO 2022-02-05T21:02:07.990Z
 ▯ alieves that ▯ is the case.
 Machy (2022-02-05T21:02:27.676Z): an alief is an idea that, while not considered to be true, nonetheless garners a strong emotional reaction. Like jumping at shadows after watching a horror movie: you believe there's nothing to be scared of, but you're scared anyway. The notion that there's a monster in those shadows is an example of an alief.
 Machy (2022-02-05T21:04:00.847Z): Best thing about conlanging is getting to make words for incredibly obscure concepts before filling obvious gaps like "fishing".
@@ -6074,6 +6074,7 @@ buıtoa ± `en` @Laqme #85BzYzLj1 2022-05-19T18:10:09.526Z
 
 buıtua ± `en` @evie #4WZmeasVw 2025-11-18T03:59:36.033Z
 ▯ expels/ejects ▯
+Ilmen (2025-11-25T22:39:22.185Z): discriminator: 2
 
 buıtua -1 `en` @seaqtaq #DUgv0ORmg 2018-12-26T20:16:57.000Z
 ▯ expels ▯ from ▯
@@ -54765,7 +54766,7 @@ Laqme (2022-12-22T17:44:10.612Z): e.g. **X nạ́rao Y** = X at the same time as
 na +1 `en` @uakci #0wy_z0D6r 2023-05-12T14:07:25.553Z
 interjection: ‘well’
 
-na ± `en` @TheAndSys #V_QgzSsqh 2025-04-08T21:03:41.919Z
+na +1 `en` @TheAndSys #V_QgzSsqh 2025-04-08T21:03:41.919Z
 clause terminator
 TheAndSys (2025-04-08T21:04:13.107Z): just to have it on record that this is something people are considering to have again
 
@@ -58113,9 +58114,10 @@ nıuqsue ± `en` @Laqme #HHoiFaVwE 2024-04-26T11:13:19.237Z
 ▯ begs ▯ to satisfy ▯.
 
 nıuqsue ± `en` @Dembim #isS328k1A 2025-11-25T00:12:39.363Z
-▯ begs that ▯ be the case.
+▯ begs for ▯ to be the case.
 Dembim (2025-11-25T00:14:43.179Z): Fork of **@Laqme nıuqsue** without second slot. Recover with « côm ».
 Dembim (2025-11-25T00:25:27.162Z): Frame: c 0
+Ilmen (2025-11-25T22:40:05.047Z): discriminator: 2
 
 nıurıqsaı +1 `en` @Laqme #o86dFPOQ- 2019-02-03T02:43:25.000Z
 ▯ is chlorophyll.
