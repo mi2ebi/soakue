@@ -1399,7 +1399,7 @@ aqbı -1 `en` @seaqtaq #_LvsQ87q1 2021-10-04T17:18:31.920Z
 meta-predicate: ▯ is that which obviously fits into the surrounding description; jẻı ▯´ lú [containing sentence with haqbī replaced with hoa].
 seaqtaq (2021-10-04T17:19:02.530Z): Fork of uakci's haqbi, added when we didn't have glottal initials so that the h- was obligatory
 
-aqbo ± `en` @official #QX3RQ48YX3 2023-01-13T19:24:49.508Z
+aqbo +1 `en` @official #QX3RQ48YX3 2023-01-13T19:24:49.508Z
 predicate: ‘oneself's’; ▯ is oneself's (of the subject of the sentence).
 
 aqbo ± `tok` @el #HXpRXAm4s 2022-07-10T07:07:14.728Z
@@ -3575,6 +3575,7 @@ terminator: ‘:’; end prenex
 bí +1 `en` @uakci #C4zsuG6WT 2023-10-30T20:56:59.242Z
 focus particle: marks the topic
 uakci (2023-10-30T20:57:43.253Z): this is under the proposal that lets you put :d3: on KÚ to get a cleft particle. mind though that **bí** is restricted to definite references
+Dembim (2025-11-26T18:09:35.774Z): link to proposal: https://toaq.me/Focus%E2%80%93cleft_merger
 
 bï ± `en` @official #hTAXm8tqlDM 2023-01-13T19:24:49.841Z
 topic marker: ‘TOP’; marks topic
@@ -15174,6 +15175,12 @@ dekuq ± `en` @uakci #FfblxW-lW 2020-05-19T22:43:00.149Z
 dekuqse ± `en` @Ilmen #EdHHjO7Zu 2020-04-28T17:51:26.294Z
 ▯ is a poem.
 
+dela ± `en` @Dembim #dxYzkrgFq 2025-11-26T12:59:48.140Z
+▯ rises to the occasion/ does themselves credit in taking irreproachable action ▯
+Dembim (2025-11-26T12:59:57.595Z): Frame: c 1i
+Dembim (2025-11-26T13:00:54.209Z): **tao** hyponym
+Dembim (2025-11-26T17:51:47.603Z): to dignify oneself in doing
+
 delaı ± `en` @salarua #SKM1A03tl 2025-03-12T13:15:38.791Z
 ▯ is a calligraphic hand.
 
@@ -15625,7 +15632,7 @@ dıalımı -1 `en` @seaqtaq #iipWNQBkY 2019-09-29T19:53:24.235Z
 ▯ is the one-sided mathematical limit of the function ▯ as its input approaches the number ▯ from above.
 Ilmen (2025-10-31T19:16:30.741Z): Duplicate.
 
-dıam +1 `en` @el #hPHDdXD1C 2023-01-06T02:17:00.065Z
+dıam +2 `en` @el #hPHDdXD1C 2023-01-06T02:17:00.065Z
 ▯ (evt) happening allows ▯ (prop) to be the case
 robintown (2023-01-06T02:17:19.832Z): enables
 
@@ -34861,7 +34868,7 @@ jıaleo ± `en` @uakci #nRKBOZ5Y9 2021-11-07T04:00:28.980Z
 jıaleo ± `en` @uakci #MDe9jYnFw 2021-12-02T11:07:47.665Z
 ▯ intends to do ▯ at some point in the future.
 
-jıam +1 `en` @jiqci #t0W6G5pqt 2025-01-21T19:38:22.448Z
+jıam +2 `en` @jiqci #t0W6G5pqt 2025-01-21T19:38:22.448Z
 ▯ kills ▯.
 
 jıamche ± `en` @Laqme #Ew5cOoWiq 2025-01-22T10:05:19.746Z
@@ -36713,6 +36720,11 @@ jom ± `en` @robintown #L9UH8FJUV 2022-12-13T20:54:31.088Z
 
 jom'aı ± `en` @seaqtaq #9AB6yUb_0 2024-08-21T16:07:24.808Z
 ▯ is monstrous/demonic
+
+jomcaq ± `en` @Dembim #L7UOHSgkt 2025-11-26T12:47:42.044Z
+▯ demonically/monstrously possesses/controls/masters ▯
+Dembim (2025-11-26T12:47:53.247Z): Frame: c c
+Dembim (2025-11-26T12:48:51.883Z): kw: demonic possession
 
 jomgaq ± `en` @Laqme #lJcDCeDdv 2024-05-12T13:27:27.990Z
 ▯ is a warlock (can perform magic through a pact with a magical being).
@@ -45705,7 +45717,7 @@ lem ± `en` @jiqci #qwd3gAzMp 2024-02-15T09:53:34.309Z
 jiqci (2024-02-15T09:53:49.878Z): yet another near-synonym of **cuaq**
 jiqci (2024-02-15T09:56:07.702Z): quality, attribute, hallmark
 
-lembo ± `en` @Laqme #f8hoV7qgD 2025-02-19T11:31:50.409Z
+lembo +1 `en` @Laqme #f8hoV7qgD 2025-02-19T11:31:50.409Z
 ▯ features/demonstrates characteristic/property/trait ▯ (property place).
 Laqme (2025-02-19T11:32:11.201Z): Fancy **ıq**.
 
@@ -53581,7 +53593,7 @@ muaqhaqtu ± `en` @Ilmen #42MgEOh-Q 2018-11-20T14:17:02.000Z
 muaqhoe ± `en` @Ilmen #lH2-gzUzZ 2019-04-11T16:36:50.000Z
 ▯ is a stellar remnant (white dwarf, neutron star, black hole…).
 
-muaqja +1 `en` @robintown #vxzr8Pjky 2023-11-09T20:41:19.688Z
+muaqja ± `en` @robintown #vxzr8Pjky 2023-11-09T20:41:19.688Z
 ▯ kills ▯.
 robintown (2023-11-09T20:41:37.737Z): **muaq** + 'ja' < **aıja**
 
@@ -84595,13 +84607,16 @@ tuqshe ± `en` @Laqme #YQDLy2Ita 2024-10-29T12:24:08.452Z
 ▯ is the case in the first place / to begin with / anyway.
 Laqme (2024-10-29T12:28:05.284Z): (and so some other matter is irrelevant)
 
-tuqshı ± `en` @Ilmen #jfQWsVRtH 2019-04-10T20:53:29.000Z
+tuqshı -1 `en` @Ilmen #jfQWsVRtH 2019-04-10T20:53:29.000Z
 ▯ is the one and only thing satisfying property ▯.
 
-tuqshı ± `en` @uakci #wgFizKwdO 2022-07-20T20:21:36.471Z
+tuqshı -1 `en` @uakci #wgFizKwdO 2022-07-20T20:21:36.471Z
 determiner: the one and only X
 uakci (2022-07-20T20:22:27.867Z): **tuqshı pảqme sü hóq sıa** ‘the [unique] empty set’
 uakci (2022-10-04T22:01:38.985Z): see also **tuqtou** (for selecting the unique plural constant without restricting it to **shı)**
+
+túqshı ± `en` @Ilmen #edoBXWPqV 2025-11-26T11:03:27.918Z
+determiner: the one and only X
 
 tuqtoa +1 `en` @Hoemai #YjQqETw77 2019-04-08T13:52:32.000Z
 ▯ is the lexicon of language ▯. (the entirety of the words of a language)
@@ -100567,7 +100582,7 @@ jiqci (2024-10-01T12:02:20.331Z): > **nıoqchuım**
 ⚠ nıqjey ± `en` @uakci #IhOm2KgXu 2021-11-07T12:19:47.926Z
 ▯ has xenogender/third gender identity ▯.
 
-⚠ nıy ± `en` @akesi #C8hLI-B6J 2020-04-20T06:49:22.437Z
+⚠ nıy -1 `en` @akesi #C8hLI-B6J 2020-04-20T06:49:22.437Z
 ▯ is that over there (3rd person demonstrative)
 
 ⚠ nı̇qpıq -1 `en` @mimiaoganhaqpy #j7ZToqU1Y 2022-10-12T00:27:57.964Z
