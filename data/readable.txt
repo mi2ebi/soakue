@@ -9168,7 +9168,7 @@ cuaq -1 `en` @Machy #_cLn1bxnS 2021-09-29T04:24:16.955Z
 Machy (2022-02-15T01:52:28.393Z): See also: **sıaja**
 Ilmen (2025-10-30T22:17:45.985Z): Good idea, but I think the word already means that. I've clarified the official definition accordingly.
 
-cúaq +3 `en` @Laqme #9NfM8JXeD 2023-10-15T13:22:57.582Z
+cúaq +4 `en` @Laqme #9NfM8JXeD 2023-10-15T13:22:57.582Z
 determiner: “the concept/idea of satisfying X”
 
 cuaqbaq ± `en` @Ilmen #42bsnK6Pt 2021-11-03T22:25:13.295Z
@@ -30020,7 +30020,7 @@ hoekaqshıa ± `en` @Laqme #AbIKYLEF1 2021-10-18T01:31:57.810Z
 hoekıaq ± `en` @abcdeusername #7kOIk9DuK 2024-01-14T21:50:01.489Z
 ▯ is the solar corona.
 
-hoela +2 `en` @TheAndSys #ktJybt0FK 2023-05-08T17:30:21.208Z
+hoela +3 `en` @TheAndSys #ktJybt0FK 2023-05-08T17:30:21.208Z
 ▯ makes itself visible, is self-imposing, metaphorically shines
 TheAndSys (2023-05-08T17:32:56.588Z): It has a generally positive connotation. For example, if you're in an art gallery and a particular painting calls out to you much more strongly than any other painting you've seen so far, saying that it hoela's is an accurate expression. Another, less good example, is what a teacher would say about a gifted kid.
 
@@ -43150,7 +43150,7 @@ Kubagua ± `en` @countries #FsPc22LtL5D 2023-10-02T12:22:04.207Z
 kubakafe ± `en` @salarua #0zn9j-t26 2022-08-31T15:47:17.364Z
 ▯ is cafe cubano/Cuban espresso
 
-kubo +3 `en` @Laqme #eiBXcEk81R 2021-09-05T06:58:59.964Z
+kubo +4 `en` @Laqme #eiBXcEk81R 2021-09-05T06:58:59.964Z
 ▯ is an egg.
 
 kubobao ± `en` @Laqme #cJz8J9R48 2021-09-05T10:39:07.499Z
@@ -52793,7 +52793,7 @@ moıgaı ± `en` @Dembim #hV582OLUD 2025-11-02T13:01:34.513Z
 Dembim (2025-11-02T13:06:56.894Z): This is meant to cover any sort of apparently sensory experience taking place within the subject's own mind. See daımoı for an equivalent not limited to sensory imaginings.
 Dembim (2025-11-11T18:12:54.512Z): Frame: c 0
 
-moıge +3 `en` @Laqme #d3W96P-Gc 2019-02-08T12:48:23.000Z
+moıge +4 `en` @Laqme #d3W96P-Gc 2019-02-08T12:48:23.000Z
 ▯ is an intellectual stimulus / really makes you think / is food for thought.
 
 moıge -1 `en` @Ilmen #Kn7wsk0cl 2020-02-17T12:30:49.588Z
@@ -66667,7 +66667,7 @@ reakaq ± `en` @evie #7fMxWPXby 2025-05-06T23:54:13.548Z
 realıeı ± `en` @seaqtaq #cIwgYLimd 2024-10-24T18:17:29.609Z
 ▯ runs along (the length of) ▯
 
-ream +1 `en` @jiqci #MMjSA34sg 2024-06-26T19:01:36.758Z
+ream +2 `en` @jiqci #MMjSA34sg 2024-06-26T19:01:36.758Z
 ▯ is a foe / enemy / adversary of ▯.
 
 reame +1 `en` @Ilmen #U4JNnLHim 2018-12-30T09:39:03.000Z
@@ -73041,6 +73041,7 @@ predicate: ‘shower.thought’; ▯ is a shower thought
 
 sıqseaı +1 `en` @Laqme #cyZ7J636f 2023-10-16T23:04:15.303Z
 ▯ is rubbing alcohol / isopropyl alcohol.
+Dembim (2025-11-27T19:32:20.372Z): Any alchohol of the wrong type or too high a proof to serve as drink, particularly that intended for cleaning/disinfectant or industrial use
 
 sıqsheq ± `en` @Laqme #1Gd_9f7WA 2024-04-25T22:59:24.311Z
 ▯ is a squeegee.
@@ -78550,10 +78551,9 @@ shuehaq ± `en` @robintown #Ax536OpZX 2023-11-29T18:58:58.268Z
 shuehuıcea ± `en` @Ilmen #MxfLWQ1KV 2020-02-27T22:05:23.471Z
 ▯ is a garbage bag.
 
-shueı -1 `en` @el #kGK2KJuzy 2022-11-10T03:03:03.202Z
-[MI] Quotes one Toaq phrase, forming a verb: ▯ is [quoted text]
-el (2022-11-10T03:04:28.197Z): ex. **shueı rào níchaq** = **mo rào níchaq teo**
-evie (2025-03-16T23:02:51.699Z): -1 what counts as a toaq phrase
+shueı +1 `en` @Dembim #7lJLLFi3B 2025-11-27T14:27:41.900Z
+▯ becomes such that they no longer satisfy property ▯
+Dembim (2025-11-27T14:31:25.094Z): Frame: c 1i
 
 shuekaze ± `en` @lassc #9gBSRc5Ng 2025-03-18T12:24:02.158Z
 ▯ rhythmically beats/pulses/throbs.
@@ -86303,6 +86303,12 @@ zeasea +1 `en` @Laqme #ejon58Xpa 2025-09-05T21:31:45.086Z
 zeatao ± `en` @Laqme #AjOmeEc5Z 2025-02-02T10:54:58.782Z
 ▯ commits crime / violation ▯.
 
+zeceaı ± `en` @Dembim #DaVQlSzfh 2025-11-27T19:52:08.430Z
+▯ is brandy, distilled wine (of any fruit)
+Dembim (2025-11-27T19:52:42.674Z): I swear it doesn't mean "liquid of suffering"
+Dembim (2025-11-27T19:54:14.059Z): Could also come to be a casual term for any liquor, perhaps due to the above fun coincidence.
+Dembim (2025-11-27T19:55:10.243Z): A shortening of hypothetical **zeocaıseaı**
+
 zeı -1 `en` @el #TRa0dcDj4 2021-09-29T21:14:54.664Z
 focus prefix in KU, opposite of **tou**; marks that this *isn't* the only case where this predicate holds – others work too
 el (2021-09-29T21:15:22.720Z): uses: "X and stuff", "X to name one thing", "X for example"
@@ -86459,6 +86465,7 @@ zeosaı +1 `en` @uakci #CFEv1l-BO 2022-11-26T15:41:12.893Z
 
 zeoseaı +1 `en` @Laqme #uAFUrWE5M 2022-05-18T17:33:09.285Z
 ▯ is cider.
+Dembim (2025-11-27T19:48:54.014Z): Any (undistilled) alchoholic drink made fermented fruit juice— technically "wine"— either carbonated or not.
 
 zeosoaq ± `en` @jiqci #CIbm09Ccd 2024-08-28T18:50:14.150Z
 ▯ is an orchard.
