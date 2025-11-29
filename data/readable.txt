@@ -16347,7 +16347,7 @@ doam ± `en` @TheAndSys #pB9-rMu7B 2024-08-06T17:46:42.815Z
 TheAndSys (2024-08-06T17:47:57.470Z): that second slot should probably be a proprety to get the desired effect
 TheAndSys (2024-08-06T17:49:29.980Z): ugh actually i don't think this word can be used for what i intend. see y'all toashuaq lurkers in #school
 
-doao ± `en` @Laqme #4zTGgaT3e 2023-03-23T22:13:10.311Z
+doao +1 `en` @Laqme #4zTGgaT3e 2023-03-23T22:13:10.311Z
 ▯ is a bowl.
 
 doaofeaq ± `en` @mimiaoganhaqpy #gujljOBll 2023-09-21T02:03:24.692Z
@@ -26658,7 +26658,7 @@ gureqchea ± `en` @jiqci #cObOxvkzl 2023-03-11T19:53:32.018Z
 ▯ is an adrenal gland.
 
 gureqcheasaı ± `en` @jiqci #P3O2l_EtV 2023-07-24T21:47:12.364Z
-▯ is adrenaline.
+▯ is adrenaline / epinephrine.
 
 gureqgoıcua ± `en` @Hydro #GM1L28aru 2021-09-05T06:33:39.835Z
 ▯ suffers from nephritis.
@@ -28415,7 +28415,7 @@ heqhıaq ± `en` @seaqtaq #q6Dh28ze0 2024-08-05T23:27:29.432Z
 heqja ± `en` @seaqtaq #2-B-xY-XZ 2024-10-31T23:28:27.220Z
 ▯ fills up/populates ▯ with ▯
 
-heqjeoq +1 `en` @Ilmen #dbf3qYv8- 2019-04-08T12:58:15.000Z
+heqjeoq ± `en` @Ilmen #dbf3qYv8- 2019-04-08T12:58:15.000Z
 ▯ is a bowl.
 
 heqjıaq ± `en` @Laqme #8fCk0fCkb 2025-08-25T08:21:21.275Z
@@ -31250,7 +31250,7 @@ Interjection: Maybe (answer to yes/no question)
 hum ± `es` @TheAndSys #LUzvZdasW 2025-03-26T05:47:47.297Z
 Interjección: De pronto (respuesta a una pregunta de sí o no)
 
-huna ± `en` @Ilmen #sxlWtFxuh 2019-08-25T16:24:23.552Z
+huna +1 `en` @Ilmen #sxlWtFxuh 2019-08-25T16:24:23.552Z
 ▯ is soft, easily giving way under pressure.
 
 hunagıe ± `en` @Ilmen #imAFqIcDy 2019-04-17T12:26:07.000Z
@@ -31271,7 +31271,7 @@ predicate: ‘auditory’; ▯ is auditory; ▯ pertains to the sense of hearing
 huo ± `pl` @jiqci #WtIHp3wV7R 2023-07-31T08:20:37.458Z
 ▯ jest słuchowy/związany ze zmysłem słuchu.
 
-huo ± `en` @Laqme #5oTMwX9M0 2023-10-22T11:14:51.000Z
+huo -1 `en` @Laqme #5oTMwX9M0 2023-10-22T11:14:51.000Z
 ▯ hears ▯.
 
 huobo ± `en` @seaqtaq #iN95ls21g 2020-02-26T03:38:25.782Z
@@ -33977,7 +33977,7 @@ jela ± `en` @official #l1C5pXzswNn 2023-01-13T19:24:51.476Z
 tense: ‘EXS.FUT’; existential future
 robintown (2024-12-07T16:27:12.657Z): keywords: at some point, some day
 
-jelam ± `en` @evie #mtLw2U1kb 2024-11-26T21:41:06.350Z
+jelam +1 `en` @evie #mtLw2U1kb 2024-11-26T21:41:06.350Z
 tense: will always (universal future)
 
 jelashaı ± `en` @seaqtaq #5K2o6oj86 2024-08-06T01:51:07.551Z
@@ -35025,6 +35025,12 @@ fagri (2019-12-29T03:23:03.217Z): -1, since this doesn't match the place structr
 
 jıaoꝡa +1 `en` @uakci #nXMSjEfA1 2024-04-13T14:55:13.258Z
 expletive: oh god; oh my god
+
+jị̂aq- +1 `en` @uakci #4sopBa3KO 2025-11-28T11:55:00.590Z
+prefix: turn a modality into a complementizer adjoining to a noun phrase to resolve its referents to the possible-worlds predicated by the complementizer clause
+uakci (2025-11-28T11:56:19.195Z): **jí, jị̂aq'ao naq jí** ‘me if I was a man’; ‘me [in worlds in which I’d be a man]’; **zíudıu, jị̂aq'ea jeı péı 4 pízıu** ‘mathematics if pi could be 4’
+uakci (2025-11-28T11:57:19.804Z): (does not have to be used with a counterfactual modality; if not, then the resolved referents are ambiguous as to whether they belong to w0)
+uakci (2025-11-28T12:01:51.903Z): this word could see more colloquial use in the form of, say, **jí, jị̂aqshe shea nuokuaı jí** ≈‘me on days that i’m not tired’ or **jí, jị̂aqshe loe río** ≈‘me on warm days’
 
 jıaq ± `en` @official #e3-Tv51vzM 2019-05-05T22:26:02.975Z
 predicate: ‘world’; ▯ is a world.
@@ -49582,7 +49588,7 @@ malahı +1 `en` @xorxes #GPBqIP9ZX 2020-06-05T01:58:17.187Z
 malajao +1 `en` @Laqme #0iWiMocUK 2025-05-04T16:44:39.001Z
 tense: remote existential past
 
-malam ± `en` @evie #jZsTsSIXA 2024-11-26T21:40:47.695Z
+malam +1 `en` @evie #jZsTsSIXA 2024-11-26T21:40:47.695Z
 tense: has always (universal past)
 
 malaqdı ± `en` @TheAndSys #Ck5pDsgSt 2025-05-05T18:39:19.209Z
@@ -50035,7 +50041,7 @@ matu +1 `en` @Hoemai #4HvYDIF2W 2019-12-11T15:57:04.378Z
 matuseaı +1 `en` @Laqme #krBU0aj8K 2022-05-18T17:35:59.459Z
 ▯ is mead.
 
-mazı +1 `en` @uakci #mHIqThPDc 2022-07-21T14:08:20.046Z
+mazı +2 `en` @uakci #mHIqThPDc 2022-07-21T14:08:20.046Z
 ▯ is a potato.
 uakci (2022-07-21T14:09:32.421Z): »»borrowed«« from Navajo nímasii ‘the spherical thing’, more specifically the root -MÁÁZ ‘roll’
 Laqme (2024-10-21T17:31:19.832Z): I want to note "nímasii" actually does just mean "potato". It just has a spherical etymology :)
@@ -53928,6 +53934,9 @@ muıjeq ± `en` @Laqme #mFIthHHEl 2019-02-21T11:39:37.000Z
 
 muıjeq ± `tok` @el #9fcD3bjRW 2022-07-10T03:31:24.057Z
 kon sona la ▯ en ▯ li sama
+
+muıjeq ± `en` @salarua #xjVD8QWEy 2025-11-29T00:52:39.993Z
+▯ (plural) mean the same thing.
 
 muıjeqkue +1 `en` @Laqme #GrU0YXRVg 2023-08-25T23:18:59.519Z
 ▯ is a thesaurus.
@@ -69411,6 +69420,9 @@ ruızaqpaı ± `en` @jiqci #45Rp2gQkp 2025-10-20T08:19:41.636Z
 rujı ± `en` @Ilmen #cGJA1Uh3e 2018-10-06T10:36:10.000Z
 ▯ is cream.
 
+rujımıa ± `en` @robintown #ucgzfvbxL 2025-11-28T19:26:38.249Z
+▯ is creamy.
+
 rújuaq ± `en` @Laqme #2YC5vOHOv 2024-09-04T10:49:25.981Z
 conjunction: "and even"
 
@@ -71065,7 +71077,7 @@ robintown (2024-08-25T20:17:53.771Z): keyword: alcoholic
 seaı ± `tr` @kazoo #VdLEe8Nmm 2024-11-24T17:36:45.319Z
 ▯ şarap/bira/rakı/içki/alkoldür.
 
-seaıbıao +2 `en` @Laqme #WzhOoljl9 2022-05-20T00:05:34.232Z
+seaıbıao +3 `en` @Laqme #WzhOoljl9 2022-05-20T00:05:34.232Z
 ▯ is drunk on alcohol.
 
 seaıbıao ± `tr` @kazoo #PHeE1aqJH 2024-11-24T17:30:07.029Z
@@ -71246,7 +71258,7 @@ seaqtuaı ± `en` @seaqtaq #xC2t8pkHj 2019-06-18T03:28:20.244Z
 seaqzana ± `en` @seaqtaq #4p14NvRTS 2024-10-29T13:22:32.972Z
 ▯ is titillating
 
-seasea ± `en` @jiqci #F_wBfN-n7 2023-09-16T20:45:00.952Z
+seasea +1 `en` @jiqci #F_wBfN-n7 2023-09-16T20:45:00.952Z
 ▯ is restricted/18+/adult-only.
 jiqci (2023-09-16T20:45:35.071Z): given **seaq**, **seaı** and **seao**
 
@@ -84615,7 +84627,7 @@ determiner: the one and only X
 uakci (2022-07-20T20:22:27.867Z): **tuqshı pảqme sü hóq sıa** ‘the [unique] empty set’
 uakci (2022-10-04T22:01:38.985Z): see also **tuqtou** (for selecting the unique plural constant without restricting it to **shı)**
 
-túqshı ± `en` @Ilmen #edoBXWPqV 2025-11-26T11:03:27.918Z
+túqshı -1 `en` @Ilmen #edoBXWPqV 2025-11-26T11:03:27.918Z
 determiner: the one and only X
 
 tuqtoa +1 `en` @Hoemai #YjQqETw77 2019-04-08T13:52:32.000Z
@@ -101274,9 +101286,6 @@ uakci (2020-01-10T21:11:02.121Z): bump
 ⚠ @toacıa ± `en` @salarua #kvOkqlKF8 2022-10-27T22:00:42.837Z
 ▯ is spiritist (being a spiritist, or relating to spiritists or spiritism)
 
-⚠ @toacıa ± `en` @salarua #cwbK2MykJ 2023-12-18T00:14:14.730Z
-▯ is a pleura.
-
 ⚠ (nuı)pıonuq -1 `en` @seaqtaq #N7umr_iUS 2019-01-14T03:03:58.000Z
 (fork of #xz315kPZa) ▯ is a crocodile.
 
@@ -101301,6 +101310,10 @@ interjection: *clears throat conspicuously*
 
 ⚠ yzy -1 `tok` @el #h-UugskYF 2022-10-26T18:06:58.534Z
 ▯ li sitelen ni: Y
+
+⚠ @toacıa -1 `en` @salarua #cwbK2MykJ 2023-12-18T00:14:14.730Z
+▯ is a pleura.
+evie (2025-11-28T22:01:10.694Z): **pumoqreı**
 
 ⚠ ㄷ -1 `ko` @soyeon #6sHrD28jr 2024-08-25T03:58:12.631Z
 ㄷ
