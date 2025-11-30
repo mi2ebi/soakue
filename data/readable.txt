@@ -15746,11 +15746,11 @@ dıasuım ± `en` @jiqci #zvVMd9tGz 2023-07-18T15:30:34.736Z
 dıba +1 `en` @Ilmen #hF5Nmfxp8 2019-04-08T17:17:31.000Z
 ▯ replaces, substitutes for ▯ in having property ▯: the former now has the property, while the latter no longer has it (no agentivity implied).
 
-dıba ± `en` @Dembim #KMpZVeE5S 2025-11-24T15:02:56.449Z
+dıba +1 `en` @Dembim #KMpZVeE5S 2025-11-24T15:02:56.449Z
 ▯ replaces, substitutes for ▯ in satisfying some salient property: the former now satisfies the property, while the latter no longer does (no agentivity implied).
-Dembim (2025-11-24T15:04:36.715Z): Fork of **@Ilmen dıba** without slot three. Recover with « oı ».
 Ilmen (2025-11-24T15:31:01.577Z): discriminator: 2
 Dembim (2025-11-25T00:26:11.376Z): Frame: c c
+Dembim (2025-11-29T05:24:33.017Z): Fork of <@Ilmen dıba> without slot three. Recover with « oı ».
 
 dıbabuasho ± `en` @seaqtaq #ECPjP_nDm 2025-03-25T20:01:54.103Z
 ▯ colonizes ▯; ▯ invasively populates ▯ while aggressively displacing its native inhabitants
@@ -17352,7 +17352,7 @@ duaoze ± `en` @salarua #6b8c0jD2u 2022-12-12T21:40:28.946Z
 predicate: ‘soft.drink’; ▯ is a soft drink
 salarua (2022-12-12T21:40:42.245Z): keywords: soda, pop, coke, cola
 
-duaq ± `en` @official #IZq99mzfiz 2019-05-05T22:25:22.339Z
+duaq -1 `en` @official #IZq99mzfiz 2019-05-05T22:25:22.339Z
 predicate: ‘larva’; ▯ is a larva (distinct juvenile form undergone before metamorphosis into adult form).
 
 duaq ± `tok` @nano #CNFzR6qfn 2023-05-24T05:19:29.105Z
@@ -20843,6 +20843,11 @@ fomfomkıaqlıao ± `en` @Snow #zIr6k-xtL 2024-10-06T08:09:44.049Z
 
 fomo ± `en` @Machy #sh4cmokAg 2020-07-05T23:06:37.700Z
 ▯ is strict/uptight.
+
+fone ± `en` @Dembim #pl-KNCJA_ 2025-11-29T05:15:05.834Z
+▯ is vapor, some substance heated such that it's entered a distinct higher energy phase
+Dembim (2025-11-29T05:21:18.971Z): Intended as a sort of dual to <@Laqme kıeı>. Like not all solids are kıeı, not all gasses are fone.
+Dembim (2025-11-29T05:21:57.165Z): Realistically, this probably, usually, means "steam".
 
 foq +2 `en` @Machy #tnpxRP3dD 2022-04-15T21:09:12.335Z
 ▯ is a phone(device).
@@ -42126,6 +42131,9 @@ koaqnuase ± `en` @uakci #9JgRtE9bu 2018-12-31T22:45:47.000Z
 koaqnhoa ± `en` @seaqtaq #BO5faX-g5 2024-11-27T08:44:51.465Z
 ▯ is stunted/underdeveloped
 
+koaqpoq ± `en` @ArdentIce #TlUXsJ_Bn 2025-11-29T02:43:19.217Z
+▯is an adult person
+
 koaqto ± `en` @Laqme #a_l9l9Kgo 2023-11-09T14:28:21.250Z
 ▯ is restricted/18+/adult-only.
 
@@ -49330,7 +49338,7 @@ maıgaq ± `pl` @jiqci #Wb3VSmOX95 2023-07-31T08:21:17.969Z
 maıgaqtue ± `en` @robintown #kmJ2XEsDe 2023-06-14T03:50:28.506Z
 ▯ is a relationship of the SO variety.
 
-maıgeq +1 `en` @uakci #OpKg-q6x0 2019-02-21T01:33:50.000Z
+maıgeq +2 `en` @uakci #OpKg-q6x0 2019-02-21T01:33:50.000Z
 ▯ goes out on a date with ▯; ▯ dates ▯; ▯ is on a date with ▯; ▯ and ▯ date.
 
 maıja +1 `en` @robintown #t_-rCPuyT 2023-11-25T18:27:15.547Z
@@ -53937,6 +53945,7 @@ kon sona la ▯ en ▯ li sama
 
 muıjeq ± `en` @salarua #xjVD8QWEy 2025-11-29T00:52:39.993Z
 ▯ (plural) mean the same thing.
+Ilmen (2025-11-29T20:47:37.579Z): discriminator: 2
 
 muıjeqkue +1 `en` @Laqme #GrU0YXRVg 2023-08-25T23:18:59.519Z
 ▯ is a thesaurus.
@@ -56373,7 +56382,7 @@ neq ± `pl` @jiqci #DBq3Va11cp 2023-07-31T08:21:41.931Z
 neq -1 `toa` @uakci #1iosCIlXB 2019-04-15T06:10:08.000Z
 kuı dóshı sa lú to ru raq hóa dógu to bu daı dûa sa ráı sa ráı lı sa dó bı jeı jêone dó hóa na ja ráı da
 
-neqcıtoq +1 `en` @Ilmen #gEtKC4c3r 2019-02-16T17:18:57.000Z
+neqcıtoq +2 `en` @Ilmen #gEtKC4c3r 2019-02-16T17:18:57.000Z
 ▯ is a die/dice.
 fagri (2019-02-16T17:24:16.000Z): +1
 
@@ -58136,9 +58145,9 @@ nıuqsue ± `en` @Laqme #HHoiFaVwE 2024-04-26T11:13:19.237Z
 
 nıuqsue ± `en` @Dembim #isS328k1A 2025-11-25T00:12:39.363Z
 ▯ begs for ▯ to be the case.
-Dembim (2025-11-25T00:14:43.179Z): Fork of **@Laqme nıuqsue** without second slot. Recover with « côm ».
 Dembim (2025-11-25T00:25:27.162Z): Frame: c 0
 Ilmen (2025-11-25T22:40:05.047Z): discriminator: 2
+Dembim (2025-11-29T05:23:53.751Z): Fork of <@Laqme nıuqsue> without second slot. Recover with « côm ».
 
 nıurıqsaı +1 `en` @Laqme #o86dFPOQ- 2019-02-03T02:43:25.000Z
 ▯ is chlorophyll.
@@ -58490,11 +58499,6 @@ uakci (2022-09-22T17:56:31.970Z): (0 0)
 nofıeq +2 `en` @uakci #s4bOFtXkM 2022-10-20T10:28:15.052Z
 ▯ adapts/converts/translates ▯ into medium/format/language ▯.
 uakci (2022-10-20T10:28:31.512Z): focus on the creative process
-
-nofıeqche ± `en` @Dembim #SqftOo30p 2025-11-13T00:00:25.217Z
-▯ adapts/converts/translates as an occupation
-Dembim (2025-11-13T00:02:07.117Z): I imagine this is usually interchangeable with zunofieqche, but theoretically it's more inclusive
-Dembim (2025-11-13T00:02:37.706Z): translator, interpreter
 
 noga +1 `en` @Laqme #o3CZQFWcr 2022-06-19T15:41:55.817Z
 interjection: 'so true! / I know what you mean!'
@@ -61169,17 +61173,17 @@ ocısopocua ± `en` @Ilmen #p51eQg88q 2023-05-04T21:48:53.621Z
 ocısopocuapuo ± `en` @Ilmen #gryNyOYN0 2023-05-04T21:49:24.463Z
 ▯ is thermite.
 
-ocha +3 `en` @Laqme #Q_Rqv4kfm 2021-09-27T09:52:46.809Z
-▯ is a human.
-Ilmen (2025-10-31T19:24:50.138Z): officialized: yes
-
-ocha +1 `en` @official #KLv0d16sjeh 2021-09-29T13:08:54.357Z
-predicate: ‘human’; ▯ is a human.
-
-ocha +2 `en` @uakci #c3c3pCCum 2022-10-02T21:44:48.023Z
+ocha +3 `en` @uakci #c3c3pCCum 2022-10-02T21:44:48.023Z
 ▯ is a sentient being.
 uakci (2022-10-02T21:45:06.664Z): not necessarily human or a person (includes otherkin, etc.). superset of **poq**
 uakci (2022-10-02T21:49:19.190Z): examples of **ocha** that may not be **poq** or **req**: those who don't consider themselves people; those who may be simulated or automated (or feel this way about themselves); fantastical/fictional creatures (demons, pixies, genies, etc.); sentient-seeming mares or delusions
+
+ocha +2 `en` @Laqme #Q_Rqv4kfm 2021-09-27T09:52:46.809Z
+▯ is a human.
+Ilmen (2025-10-31T19:24:50.138Z): officialized: yes
+
+ocha ± `en` @official #KLv0d16sjeh 2021-09-29T13:08:54.357Z
+predicate: ‘human’; ▯ is a human.
 
 ocha ± `ja` @Laqme #02Kwpeo7m 2021-10-04T16:02:59.569Z
 ▯は人間
@@ -70419,7 +70423,7 @@ sao'alaı ± `en` @robintown #sNUi0ZVo4 2021-10-22T18:47:18.861Z
 sao'ujoq ± `en` @jiqci #ue9blX8sn 2024-06-20T11:37:17.146Z
 ▯ is a sledgehammer.
 
-saoba +1 `en` @Laqme #um7gsizyR 2024-09-20T22:39:46.770Z
+saoba +2 `en` @Laqme #um7gsizyR 2024-09-20T22:39:46.770Z
 interjection: "enjoy today's holiday!" (said on the day of festivities itself)
 
 saobeaq ± `en` @Machy #M72_Nr_nF 2022-04-16T21:12:22.962Z
@@ -75160,8 +75164,9 @@ sukuaıse ± `en` @salarua #cLjkMdXQZ 2025-02-02T20:48:15.110Z
 sula ± `en` @official #v-UcJmjVzg 2023-01-13T19:24:53.184Z
 tense: ‘EXS’; unrestricted existential
 
-sulam ± `en` @evie #IO5aIl4OU 2024-11-26T21:41:34.385Z
+sulam +1 `en` @evie #IO5aIl4OU 2024-11-26T21:41:34.385Z
 tense: always
+Dembim (2025-11-29T21:34:24.812Z): unrestricted universal
 
 sulamguıq ± `en` @evie #v-HuZ0HRT 2025-05-07T17:35:46.549Z
 ▯ is deterministic
@@ -78034,6 +78039,7 @@ shocheo ± `en` @TheAndSys #412R2oY7H 2024-05-07T06:05:08.260Z
 
 shoe ± `en` @official #yOI3O8PUm9 2019-05-05T22:27:38.831Z
 predicate: ‘allow’; ▯ lets ▯ happen; ▯ allows ▯ to happen.
+Dembim (2025-11-29T04:29:52.821Z): agent subject
 
 shoe ± `tok` @el #wMJv7f24n 2022-10-26T17:19:33.172Z
 ▯ li pilin e ni: ▯ li ken
@@ -83694,8 +83700,9 @@ tuaıbo ± `pl` @jiqci #wlJPVvRMf 2023-07-31T08:22:24.191Z
 tuaıcaı ± `en` @Laqme #4rE6x1Ic1 2022-05-07T17:21:33.592Z
 ▯ is physically strong.
 
-tuaıcaq ± `en` @el #SHA1jNEmR 2022-02-17T20:12:14.508Z
+tuaıcaq +1 `en` @el #SHA1jNEmR 2022-02-17T20:12:14.508Z
 ▯ is fronting (plural/DID/OSDD/etc term; the current speaker / pilot of the body)
+evie (2025-11-29T07:50:35.865Z): fronts
 
 tuaıcıa ± `en` @official #3Oqh6eu6el 2019-05-05T22:27:46.843Z
 predicate: ‘non-physical’; ▯ is non-physical.
@@ -84627,7 +84634,7 @@ determiner: the one and only X
 uakci (2022-07-20T20:22:27.867Z): **tuqshı pảqme sü hóq sıa** ‘the [unique] empty set’
 uakci (2022-10-04T22:01:38.985Z): see also **tuqtou** (for selecting the unique plural constant without restricting it to **shı)**
 
-túqshı -1 `en` @Ilmen #edoBXWPqV 2025-11-26T11:03:27.918Z
+túqshı ± `en` @Ilmen #edoBXWPqV 2025-11-26T11:03:27.918Z
 determiner: the one and only X
 
 tuqtoa +1 `en` @Hoemai #YjQqETw77 2019-04-08T13:52:32.000Z
@@ -86504,14 +86511,14 @@ zepaguetu ± `en` @jiqci #Qk6iljcZ0 2025-04-20T20:40:33.493Z
 zepahokuzu ± `en` @jiqci #uysG1bHaa 2023-06-12T08:03:31.640Z
 ▯ is a lossy compression format.
 
-zeq +2 `en` @lassc #aQQtGZy4d 2025-03-14T18:03:58.725Z
+zeq +3 `en` @lassc #aQQtGZy4d 2025-03-14T18:03:58.725Z
 ▯ is non-binary / third-gender.
 lassc (2025-03-14T18:04:33.664Z): didn't like the current options for expressing this as they felt othering relative to the words **lıq** and **naq**
 
 zeqbudachuaq ± `en` @uakci #D9g_-rG7T 2022-02-14T16:52:08.649Z
 ▯ is Zen Buddhism
 
-zeqde +3 `en` @Laqme #QM44Q6i_c 2025-03-14T18:14:48.595Z
+zeqde +4 `en` @Laqme #QM44Q6i_c 2025-03-14T18:14:48.595Z
 ▯ exhibits non-binary / third-gender / gender-non-conforming beauty or charm.
 
 zeqdeo +2 `en` @Laqme #qDEvnbx5n 2025-03-14T18:13:36.626Z
