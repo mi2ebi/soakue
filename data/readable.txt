@@ -11006,6 +11006,10 @@ uakci (2019-04-25T16:31:39.000Z): Despite the semblance, this word is not a joke
 chıaq ± `en` @official #ZlnERAn5h 2019-05-05T22:25:12.579Z
 predicate: ‘aware’; ▯ is conscious; ▯ is aware of ▯.
 
+chıaq +1 `en` @Laqme #ZlES9ZBbk 2023-11-05T11:05:40.487Z
+▯ is aware of ▯.
+Laqme (2023-11-05T11:06:39.774Z): I'd like this not to have the intransitive meaning "conscious"
+
 chıaq ± `tok` @el #v4L9LtbuI 2022-07-10T07:20:15.177Z
 ▯ li sona e ni: ▯ li lon
 
@@ -11014,10 +11018,6 @@ chıaq ± `tok` @nano #cMIdKUChD 2023-05-23T05:02:59.373Z
 
 chıaq ± `pl` @jiqci #8EckX7a1Ov 2023-07-31T08:20:00.735Z
 ▯ jest świadomy; ▯ jest świadom tego, że ▯.
-
-chıaq ± `en` @Laqme #ZlES9ZBbk 2023-11-05T11:05:40.487Z
-▯ is aware of ▯.
-Laqme (2023-11-05T11:06:39.774Z): I'd like this not to have the intransitive meaning "conscious"
 
 chıaq -1 `toa` @uakci #GCvWNk2vr 2019-04-15T08:54:02.000Z
 = #dua ru lu bu #sı
@@ -18252,7 +18252,7 @@ eıtua ± `en` @seaqtaq #8FKFsow46 2023-04-02T17:11:54.524Z
 eja ± `en` @uakci #phlGH3hM4 2024-04-24T14:03:30.884Z
 ▯ is an event expressed by an **ë** clause.
 
-ejı ± `en` @TheAndSys #nmnIMvtTu 2023-10-18T18:53:51.974Z
+ejı -1 `en` @TheAndSys #nmnIMvtTu 2023-10-18T18:53:51.974Z
 predicate: ‘deem’; ▯ deems/judges/evaluates ▯ to have property ▯
 TheAndSys (2023-10-18T18:54:02.466Z): might already exist, had no idea how to look it up
 
@@ -25157,9 +25157,6 @@ guahezo ± `en` @seaqtaq #pxYqoFm05 2024-08-07T21:36:55.743Z
 guaı ± `en` @official #1C2X8oirKF 2019-05-05T22:25:36.886Z
 predicate: ‘work’; ▯ works in satisfying property ▯.
 
-guaı +1 `en` @Laqme #YkSgZ8DGb 2025-03-12T01:48:21.715Z
-▯ works.
-
 guaı ± `en` @Ilmen #Lyb_Ujp34 2020-01-29T20:35:15.190Z
 predicate: ‘work’; ▯ works in satisfying property ▯; ▯ satisfies property ▯ with effort.
 
@@ -25168,6 +25165,9 @@ guaı ± `pl` @jiqci #Ug-QgA-hcR 2023-07-31T08:20:27.008Z
 
 guaı -1 `toa` @uakci #ly53AmDd8 2019-04-15T05:45:43.000Z
 tao dóshı dógu, na ru dógu pa lu sa dó báq bı ca tâo dó dógu na kûaı sea dó da
+
+guaı -1 `en` @Laqme #YkSgZ8DGb 2025-03-12T01:48:21.715Z
+▯ works.
 
 guaıcaq ± `en` @uakci #DX4RcxIZR 2022-02-16T11:35:54.193Z
 ▯ is ▯’s manager/employer/ordinator/boss.
@@ -28085,7 +28085,7 @@ hemuo ± `en` @uakci #gAg6c8cT6 2022-05-28T16:17:54.392Z
 ▯ happens not just as a general rule, but consistently every single time, like clockwork.
 uakci (2022-05-28T16:18:14.856Z): probably meaningless without some form of contingency clause
 
-henı ± `en` @seaqtaq #BFDr2uNJ6 2024-07-21T09:56:59.475Z
+henı +1 `en` @seaqtaq #BFDr2uNJ6 2024-07-21T09:56:59.475Z
 ▯ shows/presents ▯
 seaqtaq (2024-07-21T09:58:18.608Z): Inspired by interjection "enı". I did not like the aesthetics of ıjo, and it seems to produce somewhat unpleasant compounds
 
@@ -37900,14 +37900,14 @@ uakci (2023-03-23T08:28:32.046Z): < **juao** **no**. to replace **ju'ao** cuz i'
 junu ± `en` @uakci #JI8wVNFwI 2021-09-09T22:03:30.806Z
 ▯ is the case by the way.
 
+juo +2 `en` @Laqme #gSHsSX4Bp 2024-07-19T12:20:03.391Z
+▯ is a message.
+
 juo ± `en` @official #FQpdsQKWi 2019-05-05T22:26:00.619Z
 predicate: ‘letter’; ▯ is a letter (written message).
 
 juo +1 `en` @Ilmen #VVCyoP3OA 2020-06-06T15:32:29.880Z
 ▯ is a written message.
-
-juo +1 `en` @Laqme #gSHsSX4Bp 2024-07-19T12:20:03.391Z
-▯ is a message.
 
 juo ± `ja` @Laqme #sozu6kw7Z 2021-10-05T14:50:02.634Z
 ▯は手紙／メッセージ
@@ -56560,6 +56560,9 @@ netısha ± `en` @Laqme #Lko1VSk9b 2025-03-16T12:23:02.981Z
 neto ± `en` @jiqci #SzPWjiXhx 2023-06-03T12:43:09.482Z
 ▯ is a unit of measurement for measuring property ▯.
 
+netoa ± `en` @Dembim #ZGBRBP4vk 2025-11-30T17:20:35.263Z
+▯ is a degree word
+
 netoame ± `en` @fagri #MMenEMWit 2019-02-02T19:58:53.000Z
 ▯ is a linguistic system for describing amounts (e.g. weights, lengths, times, etc)
 
@@ -59408,7 +59411,7 @@ nuhıa ± `en` @Laqme #N0G7S7_VS 2025-01-13T12:11:00.654Z
 What's happening? / What is the case?
 Laqme (2025-01-13T12:11:17.359Z): Nullary counterpart to **hıa** and **hıala**.
 
-nuhu ± `en` @jiqci #IxHOlrrDF 2023-06-18T16:35:09.836Z
+nuhu +1 `en` @jiqci #IxHOlrrDF 2023-06-18T16:35:09.836Z
 ▯ is a result of late-stage capitalism; ▯ is bad/of low quality/assholey/malicious/dystopian due to being profit-orianted and done to yield as much money as possible.
 jiqci (2023-06-18T16:35:47.152Z): short for **nuaı**+**huı**
 
@@ -67298,7 +67301,7 @@ Laqme (2024-01-02T22:36:50.317Z): division
 reugofıem ± `en` @jiqci #1Hvi-CnVP 2025-08-02T18:09:07.720Z
 ▯ is a division ring.
 
-reum +1 `en` @Laqme #I9ZHRRyMS 2023-07-20T00:14:13.597Z
+reum +2 `en` @Laqme #I9ZHRRyMS 2023-07-20T00:14:13.597Z
 ▯ performs property ▯ (satisfies it deliberately for an audience).
 
 reumche ± `en` @Laqme #RZ4j86Bqy 2023-07-20T00:40:44.158Z
@@ -71510,7 +71513,7 @@ seoqcuaomıe ± `en` @Ilmen #sGrorSGn7 2022-07-31T14:31:20.386Z
 seoqcuaomıe -1 `en` @Ilmen #UhDs2gNAs 2018-11-22T13:50:33.000Z
 ▯ is an extraterrestrial.
 
-seoqchao ± `en` @Ilmen #1SaGhxvrt 2020-01-18T22:24:11.733Z
+seoqchao +1 `en` @Ilmen #1SaGhxvrt 2020-01-18T22:24:11.733Z
 predicate: ‘aircraft’; ▯ is an aircraft/plane.
 
 seoqchuaı ± `en` @desca #MrpYLtO7x 2022-12-29T14:55:13.424Z
@@ -85185,13 +85188,13 @@ TheAndSys (2024-10-31T18:48:33.589Z): not gonna lie, i expected this one to be f
 unoa ± `en` @seaqtaq #yNTOv4kj1 2025-07-07T01:27:26.740Z
 ▯ (proposition) is difficult to make true
 
-⚠ unou ± `en` @fagri #v5nd8NOZY 2021-09-28T09:07:41.327Z
+⚠ unou ± `tok` @el #3DXkdnoe8 2022-07-10T06:44:22.105Z
+▯ li pilin ike e ▯
+
+⚠ unou -1 `en` @fagri #v5nd8NOZY 2021-09-28T09:07:41.327Z
 ▯ feels negative emotion
 fagri (2021-10-07T07:35:02.536Z): etymology: a priori
 fagri (2021-10-07T07:35:27.260Z): tags: sadness, pain, misery, miserable, anger, angst, anxiety
-
-⚠ unou ± `tok` @el #3DXkdnoe8 2022-07-10T06:44:22.105Z
-▯ li pilin ike e ▯
 
 unu ± `en` @uakci #J-CFwXhdt 2022-09-21T19:38:11.681Z
 ▯ feels negative emotion
@@ -87378,7 +87381,7 @@ zuetue +1 `en` @Laqme #hpG2p39Xe 2022-01-30T14:20:19.502Z
 ▯ is an emergency.
 Laqme (2022-01-30T14:23:14.228Z): as in "temporary situation necessitating **zue** actions", not necessarily urgent or dangerous I suppose
 
-zufaı +1 `en` @uakci #17ilTsi2D 2023-05-18T15:55:19.722Z
+zufaı ± `en` @uakci #17ilTsi2D 2023-05-18T15:55:19.722Z
 ▯ is a language commoner; ▯ is limited by the common (esp. European) features of the language(s) they speak.
 uakci (2023-05-18T15:57:27.435Z): ‘limited’ as in imaginatively (“how *could* adverbs and adjectives possibly be one?”) or in some sense driven away by the exoticity of an exotic language (feature); “the type of person who’d make a boring conlang”
 
@@ -87560,16 +87563,6 @@ zuo ± `pl` @jiqci #upK1XUel1I 2023-07-31T08:22:34.433Z
 
 zuo ± `ru` @SuperSpaceNiM #0lN_kPUO2 2024-08-15T18:47:59.140Z
 предикат: ‘для’; ▯ существует для / для цели / для того, чтобы ▯.
-
-zuo -1 `en` @fagri #WcMdUm5HK 2021-10-06T21:51:58.227Z
-▯ moves (includes changing position and changing pose)
-mimiaoganhaqpy (2023-05-28T19:00:27.529Z): -1, conflicts with official **zuo**
-fagri (2023-05-28T19:01:44.032Z): See #3MO4Li_im (zumo)
-fagri (2023-05-28T19:01:58.573Z): for a replacement
-
-zuo -1 `en` @uakci #zaiwBlref 2021-11-07T04:11:54.119Z
-▯ is in motion; ▯ moves (around).
-mimiaoganhaqpy (2023-05-28T19:00:31.845Z): -1, conflicts with official **zuo**
 
 zuocha -1 `en` @uakci #PU37dcnRl 2021-11-15T20:52:44.722Z
 ▯ happens along path/trajectory ▯.
