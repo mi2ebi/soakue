@@ -6073,13 +6073,13 @@ buıshuaq ± `en` @seaqtaq #3IHQupOnyHX 2019-09-17T19:19:51.112Z
 buıtoa ± `en` @Laqme #85BzYzLj1 2022-05-19T18:10:09.526Z
 ▯ is a loan word.
 
+buıtua ± `en` @seaqtaq #DUgv0ORmg 2018-12-26T20:16:57.000Z
+▯ expels ▯ from ▯
+evie (2025-02-21T20:11:21.704Z): eject
+
 buıtua ± `en` @evie #4WZmeasVw 2025-11-18T03:59:36.033Z
 ▯ expels/ejects ▯
 Ilmen (2025-11-25T22:39:22.185Z): discriminator: 2
-
-buıtua -1 `en` @seaqtaq #DUgv0ORmg 2018-12-26T20:16:57.000Z
-▯ expels ▯ from ▯
-evie (2025-02-21T20:11:21.704Z): eject
 
 buıtuaıfuom ± `en` @seaqtaq #j8vYtYd7W 2024-10-24T18:29:16.220Z
 ▯ is a (corporeal) exoskeleton
@@ -16803,11 +16803,11 @@ dokata ± `en` @seaqtaq #OU8KtnKvw 2024-09-20T14:33:34.205Z
 doko ± `en` @Ilmen #RoYPDkUki 2019-02-10T21:36:50.000Z
 ▯ is the variable labeled with property ▯; the label identifier is treated verbatim like a quote, and not as an abstract property.
 
+dola +1 `en` @Laqme #7jo6eflsm 2024-12-10T15:29:01.320Z
+unit: dollar
+
 dola ± `en` @Ilmen #SJDzjU0sT 2020-03-03T11:40:52.175Z
 ▯ is one dollar; ▯ is one dollar × the cardinality of anything satisfying property ▯.
-
-dola ± `en` @Laqme #7jo6eflsm 2024-12-10T15:29:01.320Z
-unit: dollar
 
 dolam ± `en` @Laqme #VMvgQ0-cQ 2025-10-31T08:05:19.557Z
 ▯ is generous/altruistic (personality trait).
@@ -22836,7 +22836,7 @@ geofuaı ± `en` @jiqci #0q6GcTHOP 2023-11-05T16:36:10.194Z
 geohuaıche ± `en` @TheAndSys #6Bacp98gi 2024-05-05T23:33:51.369Z
 ▯ is an archeologist
 
-geoı +1 `en` @Laqme #BXvfy3Sot 2022-12-26T19:28:14.966Z
+geoı +2 `en` @Laqme #BXvfy3Sot 2022-12-26T19:28:14.966Z
 ▯ rolls.
 robintown (2023-11-16T11:51:15.408Z): Imagined etymology: blend of **gıam** and **muoı**
 
@@ -23165,6 +23165,7 @@ gıaleoq ± `en` @uakci #cqPghrKE7 2020-03-04T10:05:15.373Z
 gıam +2 `en` @robintown #oK5WPh9oU 2023-10-30T19:05:34.880Z
 ▯ moves around / is in motion.
 robintown (2023-10-30T19:07:25.091Z): maybe related to Thai 'เคลื่อน'? who knows…
+Dembim (2025-12-01T03:22:40.945Z): This word covers the part of <zumo> that <jerı> does not. Anything that satisfies the former without satisfying the latter satisfies <gıam>.
 
 gıamfuaq ± `en` @Laqme #tCy-gLfB8 2025-04-29T19:47:50.713Z
 ▯ is an animation.
@@ -28356,7 +28357,7 @@ hepetesıu ± `en` @Ilmen #5fB1I90by 2018-10-20T14:28:05.000Z
 ▯ is a mongoose.
 eednb (2022-10-16T18:37:56.433Z): family Herpestidae
 
-heq ± `en` @official #xs9Yga16d5 2019-05-05T22:25:55.891Z
+heq +1 `en` @official #xs9Yga16d5 2019-05-05T22:25:55.891Z
 predicate: ‘contain’; ▯ contains ▯.
 
 heq ± `ja` @Laqme #pWIkxnbUx 2021-10-05T14:30:18.076Z
@@ -28437,7 +28438,7 @@ heqkachuo +1 `en` @Laqme #NJ9glgrr8 2024-05-01T17:11:47.063Z
 heqkao ± `en` @Ilmen #DvXl7wnQU 2025-03-23T16:49:03.300Z
 file ▯ contains data ▯ (whole content).
 
-heqkulu ± `en` @Laqme #FLkQKRWg- 2023-08-26T12:44:57.684Z
+heqkulu +1 `en` @Laqme #FLkQKRWg- 2023-08-26T12:44:57.684Z
 ▯ pours the contents of ▯.
 
 heqloq ± `en` @uakci #2GuIXc6pN 2021-08-31T23:46:06.416Z
@@ -43672,7 +43673,7 @@ kulobıa ± `en` @jiqci #frWebkRw8 2023-09-27T17:45:44.196Z
 kulom ± `en` @salarua #vXo1tNVG4 2022-12-13T00:03:27.104Z
 predicate: ‘coulomb’; ▯ is a coulomb
 
-kulu +1 `en` @Laqme #Ev0eZA-f8 2023-08-26T12:30:39.795Z
+kulu +2 `en` @Laqme #Ev0eZA-f8 2023-08-26T12:30:39.795Z
 ▯ pours ▯.
 
 kuluceke ± `en` @jiqci #3ApkLOf5v 2023-09-15T19:27:40.844Z
@@ -54768,7 +54769,7 @@ salarua (2021-10-08T17:43:17.296Z): Also with #QaaIiM7Fa
 mutejoaı ± `en` @salarua #fAfjN58tR 2023-02-02T19:00:16.480Z
 predicate: ‘scavenge’; ▯ scavenges for ▯
 
-mutenao ± `en` @jiqci #PUrgjX1Ag 2023-06-10T18:26:05.880Z
+mutenao +1 `en` @jiqci #PUrgjX1Ag 2023-06-10T18:26:05.880Z
 ▯ is sewage/wastewater.
 
 mutepuo ± `en` @Ilmen #U-O7v8idc 2024-11-18T09:55:27.503Z
@@ -57315,7 +57316,7 @@ nıetıno ± `en` @Hydro #4BUbXOZNN 2021-08-30T09:01:25.649Z
 nıetoa ± `en` @uakci #NI0ilecwO 2020-04-07T15:09:02.237Z
 ▯ are the textual contents (lyrics, transcription…) of ▯.
 
-nıetua ± `en` @official #nWhjJUzsS 2019-05-05T22:26:53.549Z
+nıetua +1 `en` @official #nWhjJUzsS 2019-05-05T22:26:53.549Z
 predicate: ‘insert’; ▯ puts ▯ inside ▯.
 
 nıetua ± `pl` @jiqci #fxCn_gvXtT 2023-07-31T08:21:39.784Z
@@ -73178,7 +73179,7 @@ sıtua ± `en` @seaqtaq #f2k2PRdrD 2018-12-26T19:36:08.000Z
 ▯ notifies ▯ about ▯
 seaqtaq (2018-12-26T19:36:48.000Z): situa.3=c or 1, situa.1=c
 
-sıu +2 `en` @official #pIh3TwFDau 2019-05-05T22:27:27.511Z
+sıu +3 `en` @official #pIh3TwFDau 2019-05-05T22:27:27.511Z
 predicate: ‘similar’; ▯ is similar to ▯.
 lassc (2025-03-19T16:57:21.030Z): alike
 
@@ -81003,7 +81004,7 @@ tı- ± `tlh` @evie #E44riyXZ2 2025-11-03T02:47:14.424Z
 qa'chuq SeSor 'ovmay je
 evie (2025-11-03T02:49:40.595Z): chovmatlh vI'agh - tı̣**dua** "▯ 'e' Sov ▯"
 
-tı ± `en` @official #uCTny-W7jX 2019-05-05T22:27:47.285Z
+tı +1 `en` @official #uCTny-W7jX 2019-05-05T22:27:47.285Z
 predicate: ‘at’; ▯ is at ▯.
 
 tı ± `toa` @Ilmen #jEbSDwE1j 2020-01-26T20:51:05.975Z
@@ -87516,8 +87517,9 @@ zuluo ± `en` @jiqci #wgUcmRYPe 2023-11-27T21:41:28.667Z
 zume ± `en` @uakci #ymfHoK0X8 2021-09-08T18:39:55.717Z
 ▯ is the community surrounding language ▯ (esp. a conlang).
 
-zumo ± `en` @fagri #3MO4Li_im 2023-05-27T00:27:51.330Z
+zumo -1 `en` @fagri #3MO4Li_im 2023-05-27T00:27:51.330Z
 ▯ moves
+Dembim (2025-12-01T03:06:47.981Z): subject may or may not change location in doing so
 
 zumoteı ± `en` @jiqci #ALYYTnRqD 2024-01-08T15:28:01.787Z
 ▯ is a choreography (pre-planned sequence of moves).
