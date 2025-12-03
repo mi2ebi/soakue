@@ -6714,7 +6714,7 @@ evie (2024-11-14T04:12:10.123Z): kw: textspeak
 interjection: exhaling some air through your teeth in appreciation of a joke
 Laqme (2024-06-03T19:38:49.746Z): from toki wile "t"
 
-ca- +1 `en` @Ilmen #bqy4wQsM- 2024-09-14T20:53:52.264Z
+ca- +2 `en` @Ilmen #bqy4wQsM- 2024-09-14T20:53:52.264Z
 inflectional prefix: initiates an Echo-Resumptive construction, where the prefixed stem is a repetition of the main verb of the clause returned to, typically after exiting a  center-embedded subordinate clause.
 Ilmen (2024-09-14T20:59:34.028Z): Example: ⟪Cọruaq hó jí, ꝡä bu daqsheı gaq hó íme, cacọruaq râo púchaq da.⟫ ↦ ⟪They told me that they are not free to accompany us, (they) told yesterday.⟫.
 
@@ -11022,7 +11022,7 @@ chıaq ± `pl` @jiqci #8EckX7a1Ov 2023-07-31T08:20:00.735Z
 chıaq -1 `toa` @uakci #GCvWNk2vr 2019-04-15T08:54:02.000Z
 = #dua ru lu bu #sı
 
-chıaqbıa ± `en` @seaqtaq #aEMoaKPIy 2019-04-27T16:39:54.000Z
+chıaqbıa +1 `en` @seaqtaq #aEMoaKPIy 2019-04-27T16:39:54.000Z
 ▯ is sentient
 
 chıaqbogo ± `en` @jiqci #G9AkGh3vO 2025-01-13T10:31:05.018Z
@@ -27145,7 +27145,7 @@ hama ± `en` @el #sl1eLHldD 2022-09-28T17:09:49.896Z
 interjection: same, me too, ditto
 el (2022-09-28T17:09:58.662Z): < HAo MAo jí
 
-hambaga ± `en` @Laqme #DXcyIwnvd 2024-09-09T16:01:07.435Z
+hambaga +1 `en` @Laqme #DXcyIwnvd 2024-09-09T16:01:07.435Z
 ▯ is a hamburger.
 
 hamla +1 `en` @uakci #5r9t7de3r 2024-01-05T19:28:50.981Z
@@ -31679,7 +31679,7 @@ robintown (2024-10-21T22:55:18.105Z): Examples: "Choa ía" "There is speaking", 
 ıaha ± `en` @jiqci #DDKhBTVzp 2024-11-27T11:49:20.424Z
 onomatopoeia: neigh; ▯ neighs.
 
-îaı +1 `en` @evie #ZxxlL0NdG 2025-09-21T01:58:35.055Z
+îaı +2 `en` @evie #ZxxlL0NdG 2025-09-21T01:58:35.055Z
 adjunct head: forms direct-object-sharing adverbials
 evie (2025-09-21T01:59:14.649Z): **ôq** is defined as this but means **îaı sho**
 
@@ -35645,11 +35645,13 @@ uakci (2021-11-06T21:01:45.313Z): ex.: **jıoq jí pêu péı jo péı gu péı 
 uakci (2021-11-06T21:02:27.755Z): this form may be used in a serial (**jıoq peu jí péı jo péı gu péı gu** = the same); moreover, you can say **jıoq peu jí** ‘I add’ (I calculate addition operations)
 uakci (2021-11-06T21:03:00.201Z): if x₂ is a polar interrogative proposition (one with **ma**), this verb means “to verify if x₂ is the case”. x₂ is not asserted
 uakci (2021-11-06T21:03:34.381Z): if x₂ is an interrogative proposition involving **tıo**, **co**, **hı**, this verb can be translated like the official definition – x₁ calculates what the answer to x₂ is
+Ilmen (2025-12-02T17:42:31.487Z): ⟪jıoq⟫ is for when you search for the solution to a question sheerly by mental manipulations of already known data.
 
 jıoq +2 `en` @fagri #IQzrU8uBm 2023-06-13T15:49:07.702Z
 ▯ calculates the answer to question ▯
 fagri (2023-06-13T15:50:06.011Z): «Jıoq séoqtuedıupoq mä ruqshua râo jı́achaq» = "The meteorologists calculated whether it will rain tomorrow"
 fagri (2023-06-13T15:51:29.901Z): «Jıoq nháo wä reu hı́ shı́ko gúko» = "They calculated the product of the first and second number"
+Ilmen (2025-12-02T17:42:12.238Z): ⟪jıoq⟫ is for when you search for the solution to a question sheerly by mental manipulations of already known data.
 
 jıoq ± `en` @official #iXy4o68cV 2019-06-26T12:55:48.106Z
 predicate: ‘calculate’; ▯ calculates what satisfies property ▯.
@@ -35724,11 +35726,6 @@ jıoqkea ± `en` @uakci #cRQueOw-N 2020-01-22T14:08:34.665Z
 ▯ is a computer.
 Ilmen (2025-10-31T19:21:58.201Z): officialized: yes
 
-jıoqkea ± `en` @Machy #ttNDW6wxr 2021-11-18T00:28:00.523Z
-▯ is a calculator.
-Machy (2021-11-18T00:28:35.877Z): vs. #6DUqDN2HVS
-Machy (2021-11-18T00:29:29.578Z): I want **daokea** to mean "computer," so that **jıoqkea** is free for its more intuitive meaning.
-
 jıoqkea ± `tok` @el #K15HSFfay 2022-07-10T03:23:30.484Z
 ▯ li ilo nanpa
 
@@ -35737,6 +35734,12 @@ predicato: ‘computadora’; ▯ es una computadora
 
 jıoqkea ± `pl` @jiqci #RHaL4gSsdH 2023-07-31T08:20:49.715Z
 ▯ to komputer.
+
+jıoqkea -1 `en` @Machy #ttNDW6wxr 2021-11-18T00:28:00.523Z
+▯ is a calculator.
+Machy (2021-11-18T00:28:35.877Z): vs. #6DUqDN2HVS
+Machy (2021-11-18T00:29:29.578Z): I want **daokea** to mean "computer," so that **jıoqkea** is free for its more intuitive meaning.
+Ilmen (2025-12-02T17:40:20.006Z): A calculator is only a subtype of jıoqkea in a sense, as it's only concerned with numeric calculation, while the word ⟪jıoq⟫ is much broader in scope.
 
 jıoqkuna ± `en` @Laqme #EYWCy0Twp 2023-11-08T19:33:03.855Z
 ▯ is a formula.
@@ -61464,7 +61467,7 @@ Ilmen (2024-03-19T21:18:00.882Z): Etymology: Proto-Turkic ⟪ōpur⟫.
 oq ± `en` @fagri #u8vcOf5Ul 2021-07-28T03:47:24.745Z
 Particle: accepts a predicate in the fourth tone and produces a high adverb that takes no complement
 
-ôq +3 `en` @Laqme #70rCWf6zQ 2023-02-18T00:50:22.160Z
+ôq +4 `en` @Laqme #70rCWf6zQ 2023-02-18T00:50:22.160Z
 Adjunct head for direct-object-sharing adverbials
 Laqme (2023-02-18T00:51:56.694Z): **Hıeq jí kíoq ôq nıe tíaı** "I throw the ball into the box"
 fagri (2023-05-26T05:56:57.302Z): Should the adverbial have «sho» added for «ôq sho nıe»?
@@ -61961,7 +61964,7 @@ pammuq ± `en` @jiqci #nUsXR0im6 2023-07-10T21:50:06.972Z
 pamnua ± `en` @Laqme #XztOl1TIB 2024-06-24T20:48:29.149Z
 ▯, off of surface ▯, wipes/scrubs/peels/removes ▯.
 
-pampam +3 `en` @Laqme #BWW7d8o8i 2023-11-01T21:00:46.250Z
+pampam +4 `en` @Laqme #BWW7d8o8i 2023-11-01T21:00:46.250Z
 ▯ pets / pats / strokes ▯.
 Laqme (2023-11-01T21:02:08.527Z): cute word for petting cute animals
 
@@ -86968,6 +86971,9 @@ zıuhuaqjeq ± `en` @Ilmen #VgB_77ivy 2022-07-31T22:01:43.255Z
 zıuhueq ± `en` @Laqme #SZTvVJq9I 2025-06-02T04:41:50.499Z
 ▯ is the "amount" face of coin ▯.
 Laqme (2025-06-02T04:42:14.044Z): reverse, tails
+
+zıujıoqkea ± `en` @Ilmen #V9qaCIf_J 2025-12-02T17:39:28.815Z
+▯ is a calculator.
 
 zıukuoı ± `en` @Ilmen #0kg8IyGeR 2022-07-31T21:57:49.933Z
 ▯ is a number lesser than ▯.
