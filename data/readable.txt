@@ -2310,6 +2310,11 @@ interjection: bark, woof
 baobao ± `en` @saqraku #OswjqKSY8 2020-04-30T02:28:24.378Z
 onomatopoeia: ▯ is woof; ▯ is a dog's bark.
 
+baobaoche ± `en` @Dembim #WzWv1YkQR 2025-12-04T12:52:58.969Z
+▯ is a dog
+Dembim (2025-12-04T12:53:38.440Z): <baobao> + <che>
+Dembim (2025-12-04T12:56:01.499Z): Especially when the subject refuses to stop baobao-ing.
+
 baobego ± `en` @jiqci #-ak-N0PBz 2024-03-12T10:20:07.833Z
 ▯ is a hornbeam tree (genus Carpinus).
 jiqci (2024-03-12T10:20:57.308Z): calquing German Weißbuche and Finnish valkopyökki
@@ -2484,6 +2489,9 @@ Baqladeshı ± `en` @countries #eQUi8heGc6d 2023-10-02T12:22:03.810Z
 
 Baqladeshıgua ± `en` @countries #NBCznshFWKZ 2023-10-02T12:22:03.815Z
 ▯ is the country Bangladesh – People's Republic of Bangladesh.
+
+baqladeshınıoqchuokato ± `en` @Ilmen #MHacjZr9P 2025-12-04T19:40:33.983Z
+▯ is a leopard cat (Prionailurus bengalensis).
 
 Baqlazu ± `en` @eednb #ilwEO7j0v 2023-12-31T22:12:52.386Z
 ▯ is the Bengali language.
@@ -2973,7 +2981,7 @@ focus particle: ‘FOC.CONTR’; contrastive focus
 beı'ıq ± `en` @Ilmen #CV1nOr_JH 2025-03-23T18:19:16.568Z
 contrarily to your expectation, it's ▯ which is what has property ▯; ▯ is the answer to the question of what satisfies property ▯, which I expect is not the answer you expected.
 
-beıgo +1 `en` @Laqme #ix1m9NQiU 2024-10-04T18:22:58.802Z
+beıgo +2 `en` @Laqme #ix1m9NQiU 2024-10-04T18:22:58.802Z
 ▯ is a bagel.
 
 ⚠ beıgou ± `en` @el #F5kQEeqd5 2022-03-18T17:36:39.625Z
@@ -11803,6 +11811,10 @@ chısha ± `en` @seaqtaq #plDAxIfRH 2020-02-29T23:34:35.101Z
 chıshuaı ± `en` @uakci #JrXAy-QOo 2020-01-21T22:14:16.381Z
 ▯ is naive; ▯ is simple.
 
+chıtabırala ± `en` @Ilmen #_5S8npg7x 2025-12-04T19:46:43.941Z
+▯ is a leopard cat (Prionailurus bengalensis).
+Ilmen (2025-12-04T19:47:40.126Z): Loanword from Bengla ⟪চিতা বিড়াল⟫ ⟪cita biral⟫.
+
 chıtao ± `en` @uakci #KSmnCZgu8 2021-09-05T16:03:44.578Z
 ▯ remembers to do ▯; ▯ does ▯ as they have set out to do.
 
@@ -19932,6 +19944,9 @@ Snow (2023-06-02T10:45:45.267Z): From Tamil வெள்ளரி veḷḷari.
 fele ± `en` @Ilmen #56-p8x_vH 2018-10-12T14:53:51.000Z
 ▯ belongs to the Felis taxonomic genus.
 
+felesıu ± `en` @Ilmen #NAvSM5ULw 2025-12-04T20:20:06.656Z
+▯ is a felidae.
+
 feleteı ± `en` @Ilmen #V3xTe_sg6 2018-10-10T16:32:23.000Z
 ▯ belongs to the Feliformia taxonomic suborder.
 
@@ -20537,9 +20552,10 @@ you satisfy property ▯.
 fısuq -1 `toa` @Ilmen #jGimYR1WM 2020-01-30T14:17:58.068Z
 = jeo súq ▯.
 
-fıshoem ± `en` @seaqtaq #6KGbLxQow 2025-06-23T02:51:56.671Z
+fıshoem +1 `en` @seaqtaq #6KGbLxQow 2025-06-23T02:51:56.671Z
 ▯ is in extreme anticipation of ▯, which is on the cusp of happening; ▯ can hardly wait any longer for ▯ to happen, which it very soon should
 seaqtaq (2025-06-23T02:54:20.441Z): from **fı**+**shoem**, ≈ to be submerged in (anticipation for) what's just about to happen
+Dembim (2025-12-04T23:41:08.430Z): well, this is really excellent; alas, I have but one to plus
 
 fıtoa ± `en` @Laqme #DzctPqzg8 2023-09-03T17:58:21.135Z
 ▯ is a light verb (𝑣).
@@ -34162,7 +34178,7 @@ jeofıeq +1 `en` @Machy #fzfiZKcwm 2021-10-07T04:30:41.144Z
 ▯ experiences truth-based inspiration — artistic creation by deducing from prior choices and values.
 Machy (2021-10-07T04:30:53.227Z): Forms a trio with **chalohı** and **jokaqgı**.
 
-jeofuaq ± `en` @Ilmen #aUWCXS0HE 2019-03-02T19:54:14.000Z
+jeofuaq -1 `en` @Ilmen #aUWCXS0HE 2019-03-02T19:54:14.000Z
 ▯ is a picture representing the proposition ▯.
 
 jeogaı ± `en` @uakci #iDj6p29T6 2020-05-16T17:13:41.525Z
@@ -34246,10 +34262,10 @@ jeomıeq ± `en` @Ilmen #r57YluOuc 2022-10-25T16:20:39.849Z
 jeomoe ± `en` @Ilmen #zknLGZcWt 2019-06-09T12:19:20.616Z
 ▯ has an impression/huch that ▯ is the case.
 
-jeomucuaq ± `en` @uakci #4OyEbzTzg 2020-04-07T14:46:30.113Z
+jeomucuaq -1 `en` @uakci #4OyEbzTzg 2020-04-07T14:46:30.113Z
 ▯ is a property.
 
-jeomudaı ± `en` @uakci #ftnEhHkIg 2020-04-07T14:45:06.620Z
+jeomudaı -1 `en` @uakci #ftnEhHkIg 2020-04-07T14:45:06.620Z
 ▯ is a property.
 
 jeomuo +2 `en` @fagri #yJVzpgVLN 2019-01-22T06:36:38.000Z
@@ -37853,6 +37869,10 @@ el (2022-11-21T21:57:35.690Z): or **sa'u**
 juna ± `pl` @jiqci #AR_iPvIGZn 2023-07-31T08:20:45.203Z
 ▯ zachodzi/to prawda.
 
+junafuaq ± `en` @Ilmen #mechNclBq 2025-12-04T19:50:02.853Z
+▯ is a picture representing the proposition ▯.
+Ilmen (2025-12-04T19:50:19.029Z): sememe: tekibo
+
 junaı +1 `en` @uakci #BddieNNa6 2023-05-29T10:07:55.711Z
 ▯ is the case now that/given that ▯ is the case.
 
@@ -37870,6 +37890,10 @@ predicate: ‘almost’; ▯ is almost the case.
 
 junakoe ± `en` @Neaqbua #j1a1Hq0LD 2024-10-04T21:45:51.046Z
 ▯ pretends / makes believe that ▯ is the case
+
+junama ± `en` @Ilmen #86gujhs2- 2025-12-04T17:29:01.182Z
+▯ is a proposition, something that has a truth value.
+Ilmen (2025-12-04T17:45:36.047Z): sememe: lukiwa
 
 junanue ± `en` @Ilmen #lt4SJ2rXM 2024-11-27T20:17:20.795Z
 predicate: ‘promise’; ▯ promises to ▯ that ▯ is the case.
@@ -44467,15 +44491,16 @@ Lagerıazu ± `en` @eednb #3N9zEBcsq 2023-12-31T21:48:04.072Z
 lago ± `en` @fagri #iOu6hGeR2 2021-07-25T20:57:11.182Z
 ▯ is a lagomorph (rabbits, hares, and pikas)
 
-laheq ± `en` @Ilmen #z5q_H_IW3 2022-10-02T21:46:10.369Z
+laheq -1 `en` @Ilmen #z5q_H_IW3 2022-10-02T21:46:10.369Z
 The proposition ▯ entails the proposition ▯.
 
-laheq ± `en` @Ilmen #Xz-5CkCD4 2022-10-18T17:54:22.320Z
+laheq -1 `en` @Ilmen #Xz-5CkCD4 2022-10-18T17:54:22.320Z
 proposition ▯ semantically entails proposition ▯; ▯ has semantic consequence ▯.
 
-laheqdıu +1 `en` @Laqme #y-dW9R7xu 2025-05-07T11:00:28.792Z
+laheqdıu ± `en` @Laqme #y-dW9R7xu 2025-05-07T11:00:28.792Z
 ▯ is logic.
 Laqme (2025-05-07T11:07:00.052Z): Lately I've been thinking compounds using function words like **tıudıu** feel a bit unnatural.
+Ilmen (2025-12-04T17:52:26.554Z): Well it's already a bit the case with ⟪laheq⟫, which I incidentally wish to replace with ⟪tıuheq⟫ or ⟪tıubo⟫. We could always says that ⟪tıu⟫ was originally a verb or something in the past anyway…
 
 lahı ± `en` @el #62bFfmHDP 2022-06-28T17:13:17.623Z
 ▯ is an indirect question
@@ -45389,7 +45414,7 @@ jiqci (2023-07-27T17:09:39.853Z): borrowed from French blason
 lasoqdıu ± `en` @jiqci #XgW8tVkt9 2023-07-27T17:10:32.876Z
 ▯ is heraldry.
 
-lasu ± `en` @Ilmen #YlGGsDJaR 2021-11-03T23:17:55.141Z
+lasu -1 `en` @Ilmen #YlGGsDJaR 2021-11-03T23:17:55.141Z
 predicate anaphora: repeats the last clausal verb.
 
 lateı ± `en` @Laqme #VIuqipxj8 2023-11-24T09:53:48.458Z
@@ -49074,7 +49099,7 @@ lurıaı ± `en` @Ilmen #jv1RJ5UJE 2019-05-13T20:51:37.343Z
 luru ± `en` @Ilmen #zcQ7BqlyV 2020-02-25T10:16:36.478Z
 ▯ is the proposition that ▯ and ▯ are both the case.
 
-lusu ± `en` @Ilmen #a4YfV5Aws 2019-05-22T21:17:11.203Z
+lusu -1 `en` @Ilmen #a4YfV5Aws 2019-05-22T21:17:11.203Z
 predicate anaphora: repeats the last clausal verb.
 
 lusuıq ± `en` @jiqci #74qvWP6WD 2023-11-26T14:55:12.232Z
@@ -57628,6 +57653,9 @@ nıoqchuımla ± `en` @Laqme #tScZhBUor 2024-07-06T12:33:10.956Z
 
 nıoqchuo ± `en` @fagri #EGGZXGOUn 2022-12-29T04:24:57.286Z
 ▯ is a saw.
+
+nıoqchuokato ± `en` @Ilmen #a-qWNfb8w 2025-12-04T19:37:53.909Z
+▯ is a cat of the Prionailurus genus.
 
 nıoqdıu ± `en` @seaqtaq #0gDc5cfAT 2018-10-06T00:05:10.000Z
 ▯is dentistry
@@ -72447,6 +72475,9 @@ sıela ± `en` @seaqtaq #FjzntCFH- 2024-11-06T05:52:24.030Z
 sıelu ± `en` @Ilmen #o4FA2JNEu 2019-05-24T22:03:45.957Z
 ▯ is the following / subsequently mentioned proposition.
 
+síem ± `en` @Ilmen #CEz66Khrj 2025-12-04T18:02:02.069Z
+sequence coordinator: ⟪X síem Y⟫ = the sequence ⟨X, Y⟩.
+
 sıemaq ± `en` @Ilmen #MyyN9bLCk 2020-01-12T21:14:59.160Z
 ▯ is/are the following / subsequently mentioned inanimate thing(s).
 
@@ -82206,6 +82237,10 @@ salarua (2023-03-04T21:56:48.249Z): example: Duo koı jóaq tíu póqme da. "The
 uakci (2023-03-04T21:58:45.907Z): X, and therefore, Y
 salarua (2023-03-04T22:19:23.902Z): additional examples: Bu chıetao jí pó jóemıeq tíu buaq jí da. "I didn't study for the test, so I failed it." Chaq meo jîe Kánadagua tíu jíaq da. "It is a sad day for Canada, and therefore the world."
 
+tıubo ± `en` @Ilmen #fDUCvYd00 2025-12-04T17:49:59.957Z
+The proposition ▯ entails the proposition ▯.
+Ilmen (2025-12-04T17:50:04.642Z): sememe: lusoku
+
 tıudıu ± `en` @Laqme #viBvYiUtu 2020-01-04T01:22:56.140Z
 ▯ is logic.
 
@@ -82221,6 +82256,13 @@ tıudıuzu -1 `en` @mimiaoganhaqpy #dL_cIBOh- 2022-06-26T16:01:25.839Z
 
 tıufuaq +1 `en` @el #7omnSNwUI 2022-01-18T18:18:42.147Z
 ▯ is a flowchart
+
+tıuheq ± `en` @Ilmen #JNXuYKSj1 2025-12-04T17:49:08.810Z
+The proposition ▯ entails the proposition ▯.
+Ilmen (2025-12-04T17:49:53.867Z): sememe: lusoku
+
+tıuheqdıu ± `en` @Ilmen #XKUzVnrKT 2025-12-04T17:50:29.000Z
+▯ is logic.
 
 tıujeo ± `en` @uakci #4Mal-8iUy 2020-05-14T17:03:37.356Z
 ▯ is therefore so.
@@ -86992,6 +87034,9 @@ zıulaıtoaı ± `en` @uakci #-pMinMsn7 2022-07-03T17:34:05.224Z
 
 zıunhuo ± `en` @Laqme #lSD23Jsfk 2023-11-07T20:49:11.340Z
 ▯ is a matrix.
+
+zıurıe ± `en` @Ilmen #6pfojG1bt 2025-12-04T19:15:55.818Z
+Number ▯ is in range ▯ (two different numbers).
 
 zıusoaı ± `en` @Laqme #3S2s_-jvb 2023-11-07T20:46:02.607Z
 ▯ is the (real) number line.
@@ -100546,14 +100591,14 @@ Ilmen (2024-10-22T14:19:46.186Z): Toaq Gamma; ⟪íme⟫ in Toaq Delta.
 fagri (2020-06-20T06:41:18.314Z): https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F511862313898449666%2F&psig=AOvVaw3gHdKtvxYOmJs69FOe2gcK&ust=1592721588039000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDx97Xkj-oCFQAAAAAdAAAAABAE
 akesi (2020-06-20T06:43:00.131Z): keywords: bread tag, occlupanid
 
-⚠ nabydashı ± `en` @Ilmen #5zRkuXzP6 2021-10-04T08:08:22.780Z
-▯ is dough.
-
 ⚠ nabycake ± `en` @lassc #7tTx3tUr4 2022-12-05T14:22:47.448Z
 ▯ is a pastry (dish).
 
 ⚠ naby -1 `en` @oldofficial #NX9xRnhu_d 2021-09-29T13:08:55.074Z
 predicate: ‘bread’; ▯ is bread.
+
+⚠ nabydashı -1 `en` @Ilmen #5zRkuXzP6 2021-10-04T08:08:22.780Z
+▯ is dough.
 
 naobuaq(moe) ± `en` @seaqtaq #lFd3zTbEE 2019-03-20T19:03:54.000Z
 (fork of #zh_7vMEmt) ▯ feels as if they are repeatedly taking water in their hands, only to watch it consistently fall out (a specific type of frustration) 
