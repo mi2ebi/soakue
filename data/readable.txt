@@ -32327,6 +32327,9 @@ robintown (2021-10-24T16:39:06.094Z): From Latin 'incūs'
 ıqkupuao ± `en` @jiqci #k90Cdwsr9 2024-08-07T23:05:42.639Z
 ▯ is a cumulonimbus incus / anvil cloud.
 
+ıqlao ± `en` @Dembim #jEeUfGtlk 2025-12-06T14:50:59.858Z
+▯ waits for satisfying property ▯
+
 Iqlaq +1 `en` @Ilmen #NG52qUyx6 2020-03-19T21:49:25.125Z
 ▯ pertains to the culture of England.
 
@@ -34394,13 +34397,6 @@ jeq ± `tok` @el #CWexL80Ei 2022-07-10T02:52:22.616Z
 
 jeq ± `pl` @jiqci #OZ4ukGG9i_ 2023-07-31T08:20:53.016Z
 ▯ jest taki sam jak ▯ pod względem własności ▯.
-
-jeq ± `en` @takoda #ZxvnEYm-S 2024-10-30T14:36:45.631Z
-▯ and ▯ are one and the same; ▯ refers to the same thing as ▯
-takoda (2024-10-30T14:37:51.000Z): As per the refgram
-
-jeq ± `en` @salarua #ealjrO6mB 2025-03-26T00:12:09.478Z
-▯ (plural) are the same/identical.
 
 jeqbokuaı +1 `en` @fagri #e6i4YGbFn 2019-12-28T04:20:02.766Z
 ▯ envies ▯ (temporary emotion just like jai and meo)
@@ -49238,7 +49234,7 @@ madua ± `en` @Laqme #NqPCS6S5R 2019-12-16T13:54:20.936Z
 maduepojıpıo -1 `en` @uakci #T7mjCXzDB 2020-03-16T22:53:24.923Z
 ▯ is amirite.
 
-madurudura +2 `en` @Hoemai #PpOOYknLk 2019-03-20T19:11:34.000Z
+madurudura +3 `en` @Hoemai #PpOOYknLk 2019-03-20T19:11:34.000Z
 ▯ is a specific kind of bad weather characterized by large dark rain clouds that block out most of the daylight, large, cold rain drops and an overall dark, uncomfortable and unsettling atmosphere, optionally accompanied by icy wind, such that a change in the weather conditions would be a relief to anyone present, both physically and emotionally.
 akesi (2020-05-30T11:26:40.992Z): this is good weather wdym
 
@@ -58010,7 +58006,7 @@ nısıbecıoq ± `en` @jiqci #LUcPuKcea 2023-06-25T14:10:10.584Z
 nısıcıoq ± `en` @Laqme #4AfB9KAnP 2025-01-06T12:18:35.033Z
 ▯ is a gear stick / gearshift.
 
-nísıe +1 `en` @Laqme #fWBlMaSHR 2023-04-23T15:15:51.852Z
+nísıe +2 `en` @Laqme #fWBlMaSHR 2023-04-23T15:15:51.852Z
 determiner: 'the following X'
 Laqme (2023-04-23T15:19:14.989Z): "the X below" (in written text), "the X introduced / presented hereafter"
 
@@ -63367,6 +63363,7 @@ seaqtaq (2019-02-03T01:53:21.000Z): shameless spanish borrowing
 
 pımna +1 `en` @Laqme #lyks0qqFY 2024-10-24T17:58:34.414Z
 interjection: 'secondarily / incidentally / as a side note / PS / by the way…'
+Dembim (2025-12-06T04:22:42.834Z): also "parenthetically"
 
 pınagu ± `en` @Ilmen #MW0k4GO7h 2025-03-23T17:03:10.893Z
 ▯ is data in PNG format.
@@ -75912,6 +75909,11 @@ shao ± `pl` @jiqci #e26-WRkniN 2023-07-31T08:22:08.531Z
 shao ± `jbo` @zearen #moEYVwBkz 2025-12-05T18:44:18.034Z
 ▯ kaidji ▯
 zearen (2025-12-05T18:44:25.376Z): .i mu'a zo'e skuna lu« ▯ djica loka ▯ »li'u ji'a
+Ilmen (2025-12-06T16:17:59.265Z): discriminator: 2
+
+shao ± `jbo` @Ilmen #Qd3FotW0r 2025-12-06T16:18:55.079Z
+▯ djica ▯
+Ilmen (2025-12-06T16:19:04.578Z): discriminator: 1
 
 shao'achoqte ± `en` @uakci #YUJK552qi 2022-11-04T07:39:04.198Z
 ▯ is burnt out on / deadbeat about satisfying property ▯.
@@ -78609,6 +78611,7 @@ shuehuıcea ± `en` @Ilmen #MxfLWQ1KV 2020-02-27T22:05:23.471Z
 shueı +1 `en` @Dembim #7lJLLFi3B 2025-11-27T14:27:41.900Z
 ▯ becomes such that they no longer satisfy property ▯
 Dembim (2025-11-27T14:31:25.094Z): Frame: c 1i
+Dembim (2025-12-06T17:18:50.867Z): stops satisfying property; cf. <sho>
 
 shuekaze ± `en` @lassc #9gBSRc5Ng 2025-03-18T12:24:02.158Z
 ▯ rhythmically beats/pulses/throbs.
