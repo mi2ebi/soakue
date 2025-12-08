@@ -7252,7 +7252,7 @@ caqchuo ± `en` @Laqme #aaXpFj0CK 2025-01-08T21:46:31.520Z
 caqdao ± `en` @Ilmen #AeDwZzBYf 2020-02-22T22:00:51.120Z
 ▯ is a program/algorithm.
 
-caqdı +1 `en` @uakci #X2wfEmauV 2023-06-04T17:21:35.555Z
+caqdı +2 `en` @uakci #X2wfEmauV 2023-06-04T17:21:35.555Z
 ▯ is (sexually/romantically) dominant / a dom/domme.
 
 caqduaı ± `en` @seaqtaq #YXeYOow76 2019-06-15T03:03:43.361Z
@@ -37064,7 +37064,7 @@ ju'ıq -1 `en` @mimiaoganhaqpy #wh7c9N77y 2023-07-05T07:46:40.735Z
 ▯ is irritated by the fact that ▯, which they use, is treated as a second-class citizen.
 mimiaoganhaqpy (2023-07-05T07:46:58.407Z): 注音。
 
-jua ± `en` @official #SOOoG4t5Zs 2019-05-05T22:26:00.179Z
+jua +1 `en` @official #SOOoG4t5Zs 2019-05-05T22:26:00.179Z
 predicate: ‘weird’; ▯ is weird/strange/bizarre.
 
 jua ± `tok` @el #DPMlrhkkC 2022-07-10T06:01:37.751Z
@@ -37930,7 +37930,7 @@ juo +2 `en` @Laqme #gSHsSX4Bp 2024-07-19T12:20:03.391Z
 juo ± `en` @official #FQpdsQKWi 2019-05-05T22:26:00.619Z
 predicate: ‘letter’; ▯ is a letter (written message).
 
-juo +1 `en` @Ilmen #VVCyoP3OA 2020-06-06T15:32:29.880Z
+juo ± `en` @Ilmen #VVCyoP3OA 2020-06-06T15:32:29.880Z
 ▯ is a written message.
 
 juo ± `ja` @Laqme #sozu6kw7Z 2021-10-05T14:50:02.634Z
@@ -38192,7 +38192,7 @@ in proposition ▯, ▯ is an intended recipient.
 juqdeaı ± `en` @Ilmen #HYJftiqhx 2020-03-07T22:39:20.872Z
 ▯ deserves/merits/earns the rewards of satisfying property ▯ for the service of satisfying property ▯.
 
-juqdı +1 `en` @uakci #8WywwliMN 2023-06-04T17:20:56.036Z
+juqdı ± `en` @uakci #8WywwliMN 2023-06-04T17:20:56.036Z
 ▯ is (sexually/romantically) submissive / a sub.
 
 juqdıeq ± `en` @TheAndSys #cV09ACrNd 2023-10-26T07:35:39.906Z
@@ -38376,6 +38376,9 @@ textspeak for **jıaoꝡa** (omg, oh my god)
 
 ⚠ k +2 `en` @Laqme #VtVZRfkoj 2023-11-07T16:23:45.971Z
 interjection: 'gah!', 'ack!', 'ghgh', 'you…!'
+
+ka- ± `en` @Ilmen #Q7srdSp3q 2025-12-07T17:19:38.702Z
+prefix: prefixed to a number root, it turns it into a special word meaning ⟪▯ is identified as the [number]th thing with property ▯ referenced in current C-command syntactic context⟫; its use is to disambiguate variables or clauses which would otherwise bear the same name: ⟪kaqgaı sá kato sá kato⟫ → ⟪kaqgaı sá (kạshı) kato sá kạgu kato⟫ “some cat see a second cat”, allowing referring back to the second cat as ⟪kạ́gu⟫ or ⟪kạ́gu kato⟫ subsequently in the same clause.
 
 ka ± `en` @official #ZsXIJL6urs2 2023-01-13T19:24:51.530Z
 illocution: ‘hereby’; performative
@@ -46429,6 +46432,9 @@ lıeıcua ± `en` @uakci #s2XQcitqI 2025-03-07T20:25:58.413Z
 lıeıdao ± `en` @uakci #dY8ayer4J 2025-03-07T20:28:30.898Z
 ▯ is a (potential) answer/solution to ▯ (question/problem).
 
+lıeıdı +2 `en` @evie #v4YuuvFTC 2025-12-08T00:22:00.687Z
+▯ is (sexually/romantically) submissive / a sub.
+
 lıeıma ± `en` @seaqtaq #OjeX9Bppg 2024-11-21T20:16:11.645Z
 ▯ is a model/guide/(abstract) template; ▯ is something that another obeys/follows/is in agreement with
 
@@ -52998,7 +53004,7 @@ moınıeq ± `pl` @jiqci #Xx6-2J6Bzl 2023-07-31T08:21:26.429Z
 moınoı ± `en` @el #RLeMi1kQB 2022-06-23T18:00:25.136Z
 ▯ feels mental anguish/pain
 
-moıpıaq ± `en` @Machy #kESKk_oI5 2022-05-13T18:41:03.598Z
+moıpıaq -1 `en` @Machy #kESKk_oI5 2022-05-13T18:41:03.598Z
 ▯ is taken aback by ▯ being the case.
 
 moıpoaqse ± `en` @el #k0I7tSXKe 2022-06-23T20:23:17.633Z
@@ -55894,7 +55900,7 @@ lassc (2025-03-20T09:59:44.161Z): definitely exists already probably **cua** rel
 nárıaq ± `en` @seaqtaq #6Tdw_hfis 2024-11-13T02:53:42.395Z
 pronoun: that place over there
 
-nasa +1 `en` @robintown #IIqm6jbIr 2024-01-10T18:36:53.306Z
+nasa +2 `en` @robintown #IIqm6jbIr 2024-01-10T18:36:53.306Z
 ▯ is weird/strange/silly.
 robintown (2024-01-10T18:37:05.576Z): From Toki Pona 'nasa'
 
