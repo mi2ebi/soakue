@@ -15856,7 +15856,7 @@ dıemla ± `en` @jiqci #ymSqlUt42 2025-08-28T19:36:10.472Z
 dıemme ± `en` @Laqme #oeeiW-b15 2024-05-14T00:43:52.849Z
 ▯ is a bazaar / marketplace / shopping center.
 
-dıena ± `en` @uakci #_q_YFCs2e 2023-02-15T23:15:33.732Z
+dıena +1 `en` @uakci #_q_YFCs2e 2023-02-15T23:15:33.732Z
 interjection: here’s an idea; I’ve got an idea; here’s a suggestion; pitching an idea; throwing a concept out there
 uakci (2023-02-15T23:15:53.613Z): here’s a thought
 uakci (2023-02-15T23:54:51.726Z): spitballing
@@ -24141,7 +24141,7 @@ gıtoaı ± `en` @uakci #otS3Slufx 2020-04-08T12:53:51.733Z
 gıtoı ± `en` @seaqtaq #I4VV83adS 2021-07-21T08:01:30.151Z
 ▯ treats ▯ right/well in relation ▯
 
-gıtu +1 `en` @eednb #IvZTkWhL1 2023-10-28T19:45:06.443Z
+gıtu +2 `en` @eednb #IvZTkWhL1 2023-10-28T19:45:06.443Z
 interjection: "all is well"; "you're good" (in response to apology)
 eednb (2023-10-28T19:46:39.266Z): calque-then-univerbation of **gı tú**, from toki pona 'ale li pona'
 
@@ -44362,6 +44362,9 @@ kusugaqtue ± `en` @robintown #0FsOlh7Mp 2023-06-14T03:50:56.118Z
 kusugom ± `en` @robintown #5Mf-LtiAh 2023-02-06T22:51:29.675Z
 ▯ is a jack-o'-lantern.
 
+kusukonı ± `en` @Ilmen #zbJQ4abDt 2025-12-08T21:42:31.458Z
+▯ mistakenly construes the etymology of the Classical Nahuatl word ⟪āyōtōchin⟫ “armadillo” as being “gourd rabbit” instead of the real etymology “tortoise rabbit”.
+
 kusukuaı +1 `en` @robintown #SRWBFGOnz 2022-03-03T13:04:48.733Z
 ▯ squishes / has a queerplatonic crush on ▯.
 
@@ -44837,7 +44840,7 @@ Laqme (2024-06-12T08:16:20.958Z): predisposed, susceptible, quick, liable, incli
 lama ± `en` @Ilmen #tSi5iFWyC 2018-10-01T22:11:49.000Z
 ▯ is a llama.
 
-lamao ± `en` @jiqci #uZt7Ao2HJ 2023-02-14T08:11:03.137Z
+lamao +1 `en` @jiqci #uZt7Ao2HJ 2023-02-14T08:11:03.137Z
 interjection: lmao
 
 lamda ± `en` @jiqci #pW6wmyKnb 2023-01-21T16:36:49.214Z
@@ -55569,7 +55572,7 @@ jiqci (2023-07-05T06:46:30.666Z): from Arabic نورس
 naorere ± `en` @TheAndSys #YSV3o0Ju0 2024-10-31T19:12:31.914Z
 ▯ is a waterlily
 
-naorıo ± `en` @el #GvP5L5X0I 2021-10-25T21:18:56.200Z
+naorıo +1 `en` @el #GvP5L5X0I 2021-10-25T21:18:56.200Z
 ▯ is steam
 
 naorıopaqkı +2 `en` @jiqci #NQ29ewDXl 2023-06-03T14:26:16.659Z
@@ -61320,7 +61323,11 @@ ohı ± `en` @lassc #lZEDhdxaw 2025-04-01T19:08:58.542Z
 Ohomıazu ± `en` @eednb #7bKufF2Zv 2023-12-31T21:52:26.629Z
 ▯ is the Assamese language.
 
-oı- ± `en` @TheAndSys #9jWcXd_DQ 2024-05-07T21:52:39.548Z
+oı- +2 `en` @Dembim #myrCeSfwU 2025-12-09T00:04:53.684Z
+prefix: for a verb of valence N that involves some "salient property", produces a verb of valence N+1 with an additional slot at which the property may be passed explicitly. Prefix form of <oı>.
+Dembim (2025-12-09T00:06:39.801Z): Sometimes one may want the IO serialization behavior of many c c 1 verbs, even if one is generally in favor of the c c ôı 1 pattern.
+
+oı- -1 `en` @TheAndSys #9jWcXd_DQ 2024-05-07T21:52:39.548Z
 Number component: More than
 
 oı +2 `en` @salarua #VGQjJagkP 2025-03-12T18:24:53.433Z
@@ -80956,6 +80963,10 @@ tetabokuoq ± `en` @robintown #0s4aal81O 2022-02-19T01:55:07.727Z
 tetachao ± `en` @jiqci #S5YfvpJRW 2025-07-31T18:15:53.489Z
 ▯ is a tank.
 
+tetakonı ± `en` @Ilmen #vIoy4q3Av 2025-12-08T21:36:13.922Z
+▯ is an armadillo.
+Ilmen (2025-12-08T21:37:40.867Z): Etymology: Calque of Classical Nahuatl ⟪āyōtōchin⟫, “tortoise rabbit”.
+
 tetalaı ± `en` @kazoo #LrFApY0sQ 2025-05-05T16:04:10.144Z
 ▯ is the Greek letter theta (θ).
 
@@ -84799,7 +84810,7 @@ tusue ± `en` @uakci #WnzrLD1BJ 2022-08-06T15:52:42.534Z
 tusuı ± `en` @uakci #cXyq6aT9x 2022-06-20T10:31:46.038Z
 determiner: every X that satisfies P minimally (i.e., with no X' among X that also satisfies P)
 
-tushe +1 `en` @jiqci #vCgPEEzRB 2024-01-17T16:36:29.514Z
+tushe -1 `en` @jiqci #vCgPEEzRB 2024-01-17T16:36:29.514Z
 interjection: touché
 
 tusheı ± `en` @seaqtaq #wa1jhiogx 2024-11-06T06:12:16.271Z
@@ -85955,6 +85966,7 @@ zacueq ± `en` @uakci #gp623MeQG 2024-04-28T15:34:25.548Z
 zafe ± `en` @seaqtaq #VfMnIQRaO 2024-07-23T03:48:42.668Z
 interjection: return to topic; "I digress"/"But back to what I was saying..."
 seaqtaq (2024-07-23T03:48:55.389Z): Opposite of fo
+Dembim (2025-12-08T21:23:22.213Z): This is officially <nhu>.
 
 zafeao ± `en` @Laqme #-G0iW1TFg 2022-09-21T19:53:11.710Z
 ▯ feels nervous / apprehensive.
