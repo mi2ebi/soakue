@@ -10256,6 +10256,7 @@ Machy (2021-10-09T18:48:13.249Z): "empty predicate" - xorxes
 
 che ± `en` @official #vSHdlZZ_g 2019-05-05T22:25:16.656Z
 predicate: ‘-er’; ▯ is someone whose occupation it is to satisfy property ▯.
+Dembim (2025-12-09T12:33:12.281Z): either vocational or avocational
 
 che ± `tok` @nano #zG7LEk_VS 2023-05-23T05:29:50.178Z
 ▯ li pali e ▯.
@@ -10289,6 +10290,7 @@ cheaı +3 `en` @Laqme #NI4r74I3c 2025-03-22T00:06:18.986Z
 Laqme (2025-03-22T00:09:46.862Z): not swimming upstream / non-action / not-trying / "wu wei"
 Laqme (2025-03-22T00:11:56.110Z): This is **tá**-class, it can describe events/facts/behaviors/people (like **Cheaı súq ba** = don't force it, go with the flow).
 lassc (2025-03-22T00:34:17.856Z): very neat parallel to **lıeı** +1
+Dembim (2025-12-09T19:46:24.492Z): Frame: c
 
 chealaı +3 `en` @Machy #-a3BC4c1o 2020-02-02T09:21:00.325Z
 ▯ is a diacritic
@@ -11312,11 +11314,12 @@ uakci (2022-02-02T19:09:10.767Z): where property ▯ is learnt, i suppose
 chıeguo ± `en` @Machy #11iOTfS-q 2022-04-01T00:11:00.007Z
 ▯ is a class for studying ▯.
 
-chıeja +1 `en` @robintown #4jIxOXAM9 2023-11-09T20:20:27.076Z
+chıeja ± `en` @robintown #4jIxOXAM9 2023-11-09T20:20:27.076Z
 ▯ teaches ▯ ▯.
 robintown (2023-11-09T20:28:42.095Z): **chıe** + 'ja' < **aıja**
+Dembim (2025-12-09T11:45:19.368Z): Frame: c c 1j
 
-chıejache ± `en` @robintown #hCr4m-YIZ 2023-11-09T20:22:59.656Z
+chıejache +1 `en` @robintown #hCr4m-YIZ 2023-11-09T20:22:59.656Z
 ▯ is a teacher.
 
 chıejı ± `en` @jiqci #GhlYTOVDb 2023-06-14T10:54:15.514Z
@@ -21826,12 +21829,12 @@ gale +1 `en` @Machy #X_BglWICR 2021-11-17T23:48:54.838Z
 ▯ teaches ▯ to satisfy property ▯.
 Machy (2021-11-17T23:49:04.427Z): ex forma
 
-galeche +2 `en` @Machy #CX5a-dKSa 2021-11-17T22:19:55.429Z
+galeche +1 `en` @Laqme #QkJQIYfmr 2025-03-14T12:21:00.151Z
+▯ is a teacher.
+
+galeche ± `en` @Machy #CX5a-dKSa 2021-11-17T22:19:55.429Z
 ▯ is a teacher of student(s) ▯.
 Machy (2021-11-17T22:20:11.359Z): See also the nicer-sounding **galemy**.
-
-galeche ± `en` @Laqme #QkJQIYfmr 2025-03-14T12:21:00.151Z
-▯ is a teacher.
 
 galeı ± `en` @Ilmen #STvZF7T7C 2018-10-10T18:14:13.000Z
 ▯ is an edible dormouse (Glis glis).
@@ -38377,7 +38380,7 @@ textspeak for **jıaoꝡa** (omg, oh my god)
 ⚠ k +2 `en` @Laqme #VtVZRfkoj 2023-11-07T16:23:45.971Z
 interjection: 'gah!', 'ack!', 'ghgh', 'you…!'
 
-ka- ± `en` @Ilmen #Q7srdSp3q 2025-12-07T17:19:38.702Z
+ka- +1 `en` @Ilmen #Q7srdSp3q 2025-12-07T17:19:38.702Z
 prefix: prefixed to a number root, it turns it into a special word meaning ⟪▯ is identified as the [number]th thing with property ▯ referenced in current C-command syntactic context⟫; its use is to disambiguate variables or clauses which would otherwise bear the same name: ⟪kaqgaı sá kato sá kato⟫ → ⟪kaqgaı sá (kạshı) kato sá kạgu kato⟫ “some cat see a second cat”, allowing referring back to the second cat as ⟪kạ́gu⟫ or ⟪kạ́gu kato⟫ subsequently in the same clause.
 
 ka ± `en` @official #ZsXIJL6urs2 2023-01-13T19:24:51.530Z
@@ -42216,7 +42219,7 @@ kodo +1 `en` @robintown #q6RWLncIr 2023-09-14T11:54:02.533Z
 ▯ is a code.
 robintown (2023-09-14T11:54:36.381Z): This refers to the result of encoding something in a particular system, rather than the system itself
 
-koe +3 `en` @el #K2KJy_vKA 2022-06-23T22:49:26.705Z
+koe +4 `en` @el #K2KJy_vKA 2022-06-23T22:49:26.705Z
 ▯ chooses what the answer to ▯ (indirect question) is
 el (2022-06-24T04:28:48.999Z): you can recover the old "among ..." place by constraining the **hı**-binding
 el (2022-06-24T04:29:34.203Z): ex. «koe jí lâ ... cy kúe da» ⇒ «koe jí lâ hı mea kúe bı ... da»
@@ -61326,9 +61329,6 @@ Ohomıazu ± `en` @eednb #7bKufF2Zv 2023-12-31T21:52:26.629Z
 oı- +2 `en` @Dembim #myrCeSfwU 2025-12-09T00:04:53.684Z
 prefix: for a verb of valence N that involves some "salient property", produces a verb of valence N+1 with an additional slot at which the property may be passed explicitly. Prefix form of <oı>.
 Dembim (2025-12-09T00:06:39.801Z): Sometimes one may want the IO serialization behavior of many c c 1 verbs, even if one is generally in favor of the c c ôı 1 pattern.
-
-oı- -1 `en` @TheAndSys #9jWcXd_DQ 2024-05-07T21:52:39.548Z
-Number component: More than
 
 oı +2 `en` @salarua #VGQjJagkP 2025-03-12T18:24:53.433Z
 ▯ is the case with respect to property ▯.
