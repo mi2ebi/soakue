@@ -2802,7 +2802,7 @@ beaıgulaq ± `en` @jiqci #QGtCS1VAm 2024-05-15T18:24:54.679Z
 beaıpıo ± `en` @Laqme #F3v5l5q3c 2022-03-07T16:06:38.754Z
 ▯ is a pendant.
 
-beaıtıoq ± `en` @jiqci #nU7UOReUj 2024-09-15T18:45:44.253Z
+beaıtıoq +1 `en` @jiqci #nU7UOReUj 2024-09-15T18:45:44.253Z
 ▯ is a padlock.
 
 beaızurunhoq ± `en` @Ilmen #VUiXHySHJ 2024-07-09T10:21:28.617Z
@@ -22425,7 +22425,7 @@ geafa ± `en` @Laqme #rHtt4f-Eo 2022-05-08T07:22:06.250Z
 ▯ ascends to ▯.
 jiqci (2023-07-10T15:51:20.818Z): rises, goes upwards
 
-geafueq ± `en` @Laqme #iASdIxeIC 2024-08-19T07:54:43.943Z
+geafueq +1 `en` @Laqme #iASdIxeIC 2024-08-19T07:54:43.943Z
 ▯ slopes upward.
 
 geagom +1 `en` @robintown #7ZrlS5OU3 2023-11-24T01:09:25.488Z
@@ -22656,6 +22656,9 @@ geıdutao ± `en` @fagri #3_jv3pl39 2021-11-12T04:50:35.827Z
 
 geıfao ± `en` @uakci #Ti3h4nfky 2019-04-12T22:19:02.000Z
 ▯ is outerwear.
+
+geıgıo ± `en` @robintown #8rOKUTnZd 2025-12-10T07:27:11.296Z
+▯ is a headlamp (or other wearable light).
 
 geıkıaq ± `en` @Laqme #vUCkgNDDI 2025-03-10T01:10:42.955Z
 ▯ is a wig / toupée.
@@ -25401,6 +25404,9 @@ guaoguaq ± `en` @robintown #6TIppsXD9 2025-10-09T19:05:22.729Z
 
 guaoko -1 `en` @Ilmen #vbAvaRhKq 2020-01-31T11:28:54.193Z
 ▯ is a member of the Glaucus family (blue dragon sea slugs).
+
+guaokoaı ± `en` @robintown #G8vXsJub1 2025-12-10T06:31:16.804Z
+▯ is a maze.
 
 guaokopı ± `en` @Ilmen #oKD11E1ps 2019-05-18T19:15:05.853Z
 ▯ is a fork (modified copy) of ▯.
@@ -53521,7 +53527,7 @@ muaokoaıme ± `en` @robintown #C_HqrhkVo 2025-05-20T18:49:56.930Z
 muaolaı ± `en` @uakci #SDy7LaDc7 2022-07-21T14:04:28.514Z
 ▯ are markings carved in wood; ▯ is scrimshaw.
 
-muaoluo ± `en` @Machy #3Rnls24YW 2021-09-29T07:09:41.706Z
+muaoluo +1 `en` @Machy #3Rnls24YW 2021-09-29T07:09:41.706Z
 ▯ is a grove of trees.
 
 muaome +1 `en` @official #rHkQKWC60y 2019-05-05T22:26:37.094Z
@@ -53812,12 +53818,18 @@ lassc (2025-03-16T18:56:16.746Z): cf **joetao**, i feel as though this derives m
 mueı +1 `en` @Laqme #6ih4cDvTx 2023-09-14T05:41:31.708Z
 ▯ is magnetic.
 
+mueıberosoq ± `en` @robintown #B2TZ0bNY6 2025-12-10T06:46:52.002Z
+▯ is the magnetic north pole of ▯.
+
 mueıgoa ± `en` @Laqme #pbMFTBari 2023-09-14T05:48:09.017Z
 ▯ is a magnetic field.
 
 mueılıaı ± `en` @Laqme #ympLDNEs_ 2023-09-14T05:47:45.121Z
 ▯ floats using magnetism.
 Laqme (2023-09-14T05:47:51.599Z): "maglev"
+
+mueınamısoq ± `en` @robintown #gcJTk4fpn 2025-12-10T06:47:08.863Z
+▯ is the magnetic south pole of ▯.
 
 mueınuam ± `en` @Laqme #_UNw2SWzC 2023-09-14T05:44:54.312Z
 ▯ is a horseshoe magnet.
@@ -54595,6 +54607,9 @@ predicate: ‘glove’; ▯ is a glove.
 
 muqfuq ± `pl` @jiqci #7fQQmejdgF 2023-07-31T08:21:19.365Z
 ▯ to rękawiczka.
+
+muqgıo ± `en` @robintown #XRuocTkk5 2025-12-10T07:31:07.534Z
+▯ is a flashlight.
 
 muqgıu ± `en` @fagri #blUH8S7Uy 2019-01-24T05:34:25.000Z
 ▯ is a natural line on the skin of a person's hand
@@ -56748,7 +56763,7 @@ TheAndSys (2024-06-29T19:33:46.351Z): Like soeli but less cute
 Nıadoıchezu ± `en` @jiqci #nR7Ki4924 2024-01-06T09:41:36.546Z
 ▯ is the Low German language.
 
-nıafueq ± `en` @Laqme #DDH8quc_- 2024-08-19T07:54:35.786Z
+nıafueq +1 `en` @Laqme #DDH8quc_- 2024-08-19T07:54:35.786Z
 ▯ slopes downward.
 
 nıahe ± `en` @Laqme #vPfJauub5 2024-06-08T19:15:26.998Z
@@ -67468,6 +67483,9 @@ predicate: ‘support’; ▯ supports ▯; ▯ holds up ▯.
 rıaı ± `pl` @jiqci #uMwLDTDgd0 2023-07-31T08:21:57.059Z
 ▯ wspiera/podtrzymuje ▯.
 
+rıaıbeaq ± `en` @robintown #TqFOmF0_- 2025-12-10T05:46:20.551Z
+▯ is a column/pillar.
+
 rıaıbetoq ± `en` @jiqci #7WEXk0TNo 2023-06-30T16:39:50.208Z
 ▯ is reinforced concrete.
 jiqci (2023-06-30T16:41:39.671Z): cf. **zokuoq**
@@ -71561,6 +71579,9 @@ predicate: ‘aircraft’; ▯ is an aircraft/plane.
 seoqchuaı ± `en` @desca #MrpYLtO7x 2022-12-29T14:55:13.424Z
 predicate: 'comet'; ▯ is a comet.
 
+seoqchuao ± `en` @robintown #hw-TYwfsp 2025-12-10T06:35:45.647Z
+▯ is a skylight.
+
 seoqdıu ± `en` @seaqtaq #5eLcO59FJHA 2019-09-17T19:19:51.141Z
 ▯ is astronomy
 
@@ -73085,7 +73106,7 @@ nano (2024-10-05T22:37:48.121Z): purify, purifies, cleans
 sıqlachoha ± `en` @jiqci #7V5fFTfB2 2025-09-07T11:56:47.354Z
 ▯ is lye.
 
-sıqmıq ± `en` @nozz #C5f7T0PTI 2019-12-13T18:37:06.395Z
+sıqmıq +1 `en` @nozz #C5f7T0PTI 2019-12-13T18:37:06.395Z
 predicate: ‘clean’; ▯ is clean/impeccable/spotless and has no impurities at all.
 
 sıqmuo ± `en` @Laqme #cN_b69aTf 2021-10-17T10:43:06.647Z
@@ -78431,6 +78452,9 @@ shuaıtuım ± `en` @Laqme #-hdTvS8Fk 2024-10-16T00:12:44.743Z
 shuajam ± `en` @Laqme #CfCLwkjCv 2024-01-06T17:58:17.304Z
 ▯ is an hourglass.
 
+shuajeoq ± `en` @robintown #yOBdPcqd0 2025-12-10T06:09:55.906Z
+▯ is a sinkhole.
+
 shuanutu ± `en` @jiqci #l9P3xXVh2 2025-10-15T07:15:47.354Z
 ▯ is a sediment / precipitate.
 
@@ -79337,6 +79361,14 @@ seaqtaq (2025-06-18T23:11:02.824Z): kw: zakaı. Inspired by **tambu**
 tambula ± `en` @seaqtaq #GDqgsrPn3 2025-06-18T23:17:27.612Z
 ▯ commits taboo ▯ (property)
 
+tambuq ± `en` @robintown #lyMLQbN0g 2025-12-10T05:37:57.331Z
+▯ is a cave mouth.
+robintown (2025-12-10T05:38:06.590Z): Synonym: **tamchuao**
+
+tamchuao ± `en` @robintown #iTiw7sCAO 2025-12-10T05:36:23.364Z
+▯ is a cave entrance.
+robintown (2025-12-10T05:38:18.184Z): Synonym: **tambuq**
+
 tamdıu ± `en` @robintown #mw7SONAtf 2023-03-27T12:16:28.143Z
 ▯ is speleology.
 
@@ -79346,6 +79378,10 @@ jiqci (2024-11-14T11:10:31.998Z): Etym: borrowed from Korean 담쟁이
 
 tamkoaı ± `en` @robintown #ei8zSmRrk 2023-02-06T18:45:08.532Z
 ▯ is a cave system.
+
+tamkuo ± `en` @robintown #eNqsvdnz0 2025-12-10T07:28:54.130Z
+▯ is pitch black.
+robintown (2025-12-10T07:29:13.423Z): 'tam' < **guqtam**
 
 tamrıoq ± `en` @Laqme #aNKgLpzHk 2023-12-13T13:06:39.316Z
 ▯ is an aspect (linguistics).
@@ -84384,8 +84420,14 @@ tuo ± `pl` @jiqci #QmFYrfOtv 2023-07-31T08:22:25.136Z
 tuobıu ± `en` @jiqci #mWFLeL4hB 2023-07-28T18:55:52.567Z
 ▯ is an esophagus.
 
+tuoce ± `en` @robintown #ab2xBZoDJ 2025-12-10T06:58:50.417Z
+▯ is a drain/sink (of any kind of flowage).
+
 tuochıaı ± `en` @jiqci #NcFHeRIwU 2023-10-18T06:31:29.040Z
 ▯ chokes on ▯.
+
+tuoguaq ± `en` @robintown #kd4Ml81fK 2025-12-10T07:00:22.288Z
+▯ is a sink (geology).
 
 tuoı ± `en` @official #Ylc0x7Ezyc 2019-05-05T22:27:45.975Z
 predicate: ‘flaw’; ▯ is a flaw/fault/defect in ▯.
@@ -87494,7 +87536,7 @@ zuhenofıeq +1 `en` @uakci #dqA_E3zdp 2022-10-20T06:39:52.436Z
 zuhua ± `en` @Laqme #rVggIb47m 2023-12-30T08:49:21.004Z
 ▯ is one's language faculty.
 
-zuı +2 `en` @jiqci #cDXzruhhU 2023-06-10T16:46:13.132Z
+zuı +3 `en` @jiqci #cDXzruhhU 2023-06-10T16:46:13.132Z
 ▯ is narrow.
 
 zuıguaq ± `en` @jiqci #596ylU_L7 2023-12-09T20:17:34.970Z
