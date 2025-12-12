@@ -204,10 +204,6 @@ dd {
   #search, #howto {
     border: 2px solid var(--fg);
   }
-  code {
-    background: #fef3c7;
-    border: 1px solid var(--orange);
-  }
   a {
     text-decoration: underline;
     font-weight: 500;
@@ -230,10 +226,6 @@ dd {
   }
   #search, #howto {
     border: 2px solid var(--fg);
-  }
-  code {
-    background: #451a03;
-    border: 1px solid var(--orange);
   }
   button {
     font-weight: 600;
