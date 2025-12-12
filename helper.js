@@ -39,13 +39,13 @@ function htmlify(json) {
         mkel("a", { "href": "https://toadua.uakci.space/#" + encodeURIComponent("#" + json.id), "target": "_blank" }, ["↗"])
       ])
     ]),
-    mkel("dd", {}, replaceLinks(json.body)),
+    mkel("dd", { dir: "ltr" }, replaceLinks(json.body)),
     mkel("div", { "className": "notes indent" }, json.notes.flatMap(note => [
       mkel("span", { "className": "score" }, [
         makeLink("@" + note.user, note.user),
         ": "
       ]),
-      mkel("span", {}, replaceLinks(note.content)),
+      mkel("span", { dir: "ltr" }, replaceLinks(note.content)),
       " ",
       mkel("span", { "className": "scope" }, [/^\d/.test(note.date)
         ? note.date.slice(0, 10)
