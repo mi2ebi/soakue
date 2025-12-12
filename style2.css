@@ -62,9 +62,9 @@ h2 {
   border-radius: 8px;
   margin-bottom: 12px;
   font-size: 20px;
-}
-#search:hover {
-  border-color: var(--purple);
+  &:hover {
+    border-color: var(--purple);
+  }
 }
 button {
   font-size: 16px;
@@ -78,10 +78,10 @@ button {
   cursor: pointer;
   font-weight: 500;
   transition: all 0.15s;
-}
-button:hover {
-  background-color: var(--purple);
-  border-color: var(--purple);
+  &:hover {
+    background-color: var(--purple);
+    border-color: var(--purple);
+  }
 }
 :focus-visible {
   outline: 2px solid var(--focus);
@@ -96,18 +96,18 @@ button:hover {
 }
 .scope {
   color: var(--gray);
-}
-.scope:hover {
-  color: var(--purple);
+  &:hover {
+    color: var(--purple);
+  }
 }
 a {
   color: var(--blue);
   text-decoration: none;
   transition: color 0.15s;
-}
-a:hover {
-  color: var(--purple);
-  text-decoration: underline;
+  &:hover {
+    color: var(--purple);
+    text-decoration: underline;
+  }
 }
 code {
   color: var(--orange);
@@ -124,17 +124,17 @@ code {
   padding: 16px;
   border-radius: 12px;
   margin-top: 24px;
-}
-#howto summary {
-  cursor: pointer;
-  font-weight: 600;
-  font-size: 1.1rem;
-  padding: 4px 0;
-  user-select: none;
-  transition: color 0.15s;
-}
-#howto summary:hover {
-  color: var(--purple);
+  summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1.1rem;
+    padding: 4px 0;
+    user-select: none;
+    transition: color 0.15s;
+    &:hover {
+      color: var(--purple);
+    }
+  }
 }
 .indent {
   text-indent: 20px hanging each-line;
@@ -143,12 +143,12 @@ dt {
   margin-top: 1em;
   margin-bottom: 0.2em;
   font-weight: 500;
-}
-dt .nobr :hover {
-  color: var(--purple);
-}
-dt a:not([class], [href*=toadua\.uakci\.space]) {
-  color: inherit;
+  .nobr :hover {
+    color: var(--purple);
+  }
+  a:not([class], [href*=toadua\.uakci\.space]) {
+    color: inherit;
+  }
 }
 dd {
   margin-left: 20px;
@@ -163,6 +163,9 @@ dd {
 .notes {
   font-size: 0.9rem;
   margin-top: 0.2em;
+  .scope:hover {
+    color: var(--gray);
+  }
 }
 #len {
   display: inline-block;
@@ -184,10 +187,10 @@ dd {
   button {
     background-color: transparent !important;
     color: var(--blue);
-  }
-  button:hover {
-    border-color: var(--purple);
-    color: var(--purple);
+    &:hover {
+      border-color: var(--purple);
+      color: var(--purple);
+    }
   }
 }
 @media (prefers-contrast: more) {
@@ -238,9 +241,9 @@ dd {
   }
   button {
     font-weight: 600;
-  }
-  button:hover {
-    background-color: var(--purple);
+    &:hover {
+      background-color: var(--purple);
+    }
   }
 }
 @media (max-width: 480px) {
