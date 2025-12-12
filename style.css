@@ -3,7 +3,7 @@
   transition: background-color 0.2s;
 }
 :root {
-  --font: "Noto Sans", "Noto Sans CJK JP", "Iosevka Toaq Aile", sans-serif;
+  --font: "Noto Sans", "Noto Sans CJK JP", "iosevie", sans-serif;
   --bg:     #ededfc; /* 95 0.02 288 */
   --fg:     #000;
   --input:  #fff;
@@ -60,7 +60,7 @@ a:hover {
 }
 code {
   color: var(--orange);
-  font-family: "Iosevka Toaq", var(--font);
+  font-family: "iosevie", var(--font);
 }
 :is(#bottom, #res, #len):not(:empty) ~ #howto {
   display: none;
