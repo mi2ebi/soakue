@@ -14891,6 +14891,13 @@ darao ± `en` @TheAndSys #UkwmcwfPl 2023-05-17T17:45:43.009Z
 ▯ is a thing that exists as a result of event ▯
 TheAndSys (2023-05-17T17:46:07.820Z): I wanted this for that story I'm writing, but I can't recall what the use was.
 
+darem ± `en` @evie #ZqRd8UZG4 2025-12-12T04:43:47.697Z
+▯ arrests ▯
+evie (2025-12-12T04:43:59.363Z): for legal reasons i cannot say the etymology
+evie (2025-12-12T04:44:24.063Z): use ôı or îaı to specify the crime
+evie (2025-12-12T04:49:49.409Z): or charge or whatever
+mati (2025-12-12T15:00:10.971Z): ultimately from French gendarme 'police officer'
+
 daru +1 `en` @jiqci #YLY3oa83N 2023-06-08T09:28:47.771Z
 ▯ is the metal lead.
 
@@ -23728,9 +23735,6 @@ Machy (2020-07-04T21:26:57.394Z): should these be reversed?
 gıne ± `en` @lassc #JszdwE6Dn 2025-03-20T16:01:33.281Z
 ▯ is a rating/grade/score.
 
-gınejeaqleofaqne ± `en` @evie #dI7lvgRma 2025-11-09T03:47:50.946Z
-(in a game) ▯ is a shot on goal
-
 gıneq ± `en` @official #xUG7d6sCkC 2019-05-05T22:25:38.503Z
 predicate: ‘fortunate’; ▯ is fortunate for ▯.
 
@@ -26563,7 +26567,7 @@ guqjom ± `en` @Laqme #j_neSe6c8 2023-12-16T16:33:32.961Z
 guqkaıse ± `en` @Laqme #jI_0r8VPh 2025-01-30T19:04:35.420Z
 ▯ are subtitles.
 
-guqkaq ± `en` @kazoo #24-m0QD2m 2025-02-13T17:03:45.995Z
+guqkaq -1 `en` @kazoo #24-m0QD2m 2025-02-13T17:03:45.995Z
 ▯ arrests ▯.
 
 guqkua ± `en` @jiqci #dQYd_MFr2 2024-11-12T00:16:49.366Z
@@ -31715,6 +31719,7 @@ evie (2025-09-21T01:57:41.516Z): works nicely with focus-cleft merger: **túq h�
 ıao +1 `en` @Dembim #VGu8n56ZU 2025-12-12T00:24:52.412Z
 ▯ is OK, acceptable, alright
 Dembim (2025-12-12T00:25:49.597Z): Fork of <uakci ıao> without slot j; a perfect case for <ôı>
+evie (2025-12-12T07:46:23.286Z): <@uakci =ıao>
 
 ıao ± `en` @uakci #wLv1GaxGZ 2021-11-07T01:32:04.718Z
 ▯ is OK, acceptable, all right for property ▯.
@@ -53426,9 +53431,6 @@ prefix: ‘OPP’; un-X; forms antonyms
 Snow (2023-05-22T21:35:29.004Z): keyword: anti-
 jiqci (2023-05-29T19:25:30.821Z): prefix form of **gıq**
 
-mu -1 `en` @Ilmen #BDcrdhZWs 2021-11-10T11:30:17.954Z
-▯ is/are such that something is in relation ▯ with it/them; ▯ and ▯ are such that the latter is in relation ▯ with the former.
-
 mu'uı ± `en` @evie #2cIQ5BIa1 2025-05-09T19:42:20.367Z
 ▯ is the intended meaning of ▯
 evie (2025-05-09T19:42:47.269Z): {smuni} : **muı** :: {smu'uni} : **mu'uı**
@@ -60276,16 +60278,16 @@ nupınıaı ± `en` @Ilmen #jY4oxhbm4 2022-10-24T19:03:23.419Z
 nupınıaısıu ± `en` @Ilmen #CkWQKxOKF 2022-10-24T19:04:34.822Z
 ▯ is a chalicothere, an animal of the Chalicotheriidae family.
 
+nuq +1 `en` @Laqme #gzW8DvP6_ 2024-07-17T13:46:50.788Z
+▯ "does back" to ▯ the relation ▯.
+Laqme (2024-07-17T13:48:25.894Z): Synonym of **nuq'o**, available if official **nuq** moves to **nuru**.
+
 nuq -1 `en` @official #6F4lyP_cv_ 2019-05-05T22:26:47.326Z
 predicate: ‘worm-like’; ▯ is a worm-like animal (animal with long cylindrical tube-like body and no limbs or with short limbs but crawling) (form classification).
 evie (2025-10-31T05:35:11.704Z): the award for longest @official definition goes to...
 
 nuq ± `pl` @jiqci #6MYRiEQjZ6 2023-07-31T08:21:31.993Z
 ▯ jest obły.
-
-nuq ± `en` @Laqme #gzW8DvP6_ 2024-07-17T13:46:50.788Z
-▯ "does back" to ▯ the relation ▯.
-Laqme (2024-07-17T13:48:25.894Z): Synonym of **nuq'o**, available if official **nuq** moves to **nuru**.
 
 nuq'o ± `en` @uakci #CzR-CVrqm 2022-11-26T22:23:50.389Z
 ▯ "does back" to ▯ the relation ▯ (which the latter had previously done to the former).
@@ -61451,7 +61453,7 @@ olea ± `en` @Laqme #BMtulgE7E 2022-05-10T10:46:48.049Z
 olımpıko ± `en` @shuaida #_Ex5BafG6 2023-10-25T16:40:49.330Z
 ▯ is Olympic, is the Olympics
 
-om ± `en` @salarua #zwXXfV6ae 2022-12-13T00:09:02.396Z
+om -1 `en` @salarua #zwXXfV6ae 2022-12-13T00:09:02.396Z
 predicate: ‘ohm’; ▯ is an ohm
 
 oma ± `en` @Hydro #CpcDvNxgS 2021-09-05T06:59:59.316Z
@@ -61708,7 +61710,7 @@ Laqme (2023-03-16T00:52:13.691Z): aha, eureka
 Ozı ± `en` @jiqci #e3eYaXmvR 2023-11-15T17:14:12.064Z
 ▯ is Aussie / Australian / related to Australia.
 
-pa- +1 `en` @uakci #RunxMd75v 2024-03-07T12:59:16.933Z
+pa- ± `en` @uakci #RunxMd75v 2024-03-07T12:59:16.933Z
 prefix: pre-fill the subject of the marked matrix clause verb with **súq** and require **ba** illocution (which may then be omitted, as ∅)
 
 pa -1 `en` @el #6GYakxr1u 2022-10-20T05:49:04.377Z
@@ -61720,7 +61722,7 @@ el (2022-10-20T06:01:17.186Z): **jí pa fả jéarıaq**: [SAP [CP [C Ø] [FP Ø
 el (2022-10-20T06:01:48.076Z): with the DP marked <1> moving up to the node marked _1
 Hoemai (2022-10-20T10:35:13.304Z): Looks like this (slightly adjusted): https://dprebyl.github.io/syntree/#%5BSAP%20%5BCP%20%5BC%20%C3%98%5D%20%5BFP%20%5BDP_1%20j%C3%AD%5D%20%5BF'%20%5BF%20pa%5D%20%5BVP%20%5BDP%20t%3C1%3E%5D%20%5BV'%20%5BV%20fa%5D%20%5BDP%20%5BD%20t2%5D%20%5BV%20jeariaq%5D%5D%5D%5D%5D%5D%5D%20%5BSA%20%C3%98%5D%5D
 
-pá +3 `en` @Laqme #f_T-L2FKt 2022-08-17T06:13:42.365Z
+pá +2 `en` @Laqme #f_T-L2FKt 2022-08-17T06:13:42.365Z
 illocution marker: imperative with elided súq subject
 Laqme (2022-08-17T06:16:22.085Z): for example **Kaqsı jí pá!** = "look at me!". the subject DP had moved into SA, leaving a trace that makes the sentence "VO"
 Laqme (2022-08-17T06:16:43.845Z): I just think súq...bâ imperatives aren't very snappy
@@ -66665,7 +66667,7 @@ Laqme (2025-04-28T11:03:33.906Z): meow, mrow, cat sound
 re- ± `en` @Ilmen #1MVEIzAES 2025-10-22T18:44:35.147Z
 prefix: incorporate “ré” object
 
-re +2 `en` @uakci #LTgiQ14_9 2018-09-22T21:48:01.000Z
+re +1 `en` @uakci #LTgiQ14_9 2018-09-22T21:48:01.000Z
 conjunction: if and only if (IFF, ⇔)
 fagri (2018-10-28T07:32:01.000Z): +1
 seaqtaq (2018-12-31T01:53:37.000Z): +1
@@ -66674,7 +66676,7 @@ uakci (2022-07-13T17:33:05.834Z): see **robu** (which is probably the better opt
 re -1 `toa` @Ilmen #gT-TkQi2o 2020-01-24T17:20:30.152Z
 = jıoı jeojeq ga.
 
-ré +1 `en` @el #DGuMAHuOS 2022-11-07T17:06:44.867Z
+ré ± `en` @el #DGuMAHuOS 2022-11-07T17:06:44.867Z
 exophoric pronoun: abstract/intangible, 'it'
 el (2022-11-07T17:06:57.042Z): idea by lynn
 
@@ -75784,10 +75786,6 @@ shaı ± `tok` @el #epkKJba65 2022-07-10T01:38:47.548Z
 shaı ± `pl` @jiqci #5PJ1E7Lv6Z 2023-07-31T08:22:08.368Z
 ▯ kończy/przestaje zachodzić.
 
-⚠ shaı -1 `en` @oldofficial #c_C66POYK3 2019-05-05T22:27:32.831Z
-predicate: ‘cease’; ▯ ceases to be the case; ▯ stops satisfying property ▯; ▯ loses property ▯.
-Ilmen (2019-12-31T14:53:11.078Z): This predicate also covers pauses and interruptions.
-
 shaı -1 `toa` @Ilmen #6JpfzeyFg 2020-01-25T22:47:01.270Z
 = [0] ▯ pa lu leaqshıu jêo hóa na bû hóa. = [X1] jêo ▯ ▯ pa lu leaqshıu hóa bû hóa.
 
@@ -75842,7 +75840,7 @@ fagri (2020-06-24T02:07:27.473Z): (found in an example sentence, synonym of *tud
 shaısha ± `en` @robintown #hh9hv_apk 2025-08-03T22:22:12.441Z
 ▯ comes to an end / finishes.
 
-shaısho ± `en` @fagri #PI_Nj8IY7 2019-01-25T18:25:28.000Z
+shaısho -1 `en` @fagri #PI_Nj8IY7 2019-01-25T18:25:28.000Z
 ▯ stops satisfying property ▯ and starts satisfying property ▯
 
 shaıtao ± `en` @jiqci #NpV9WgIua 2025-03-10T09:22:59.535Z
@@ -78663,7 +78661,7 @@ shuehuıcea ± `en` @Ilmen #MxfLWQ1KV 2020-02-27T22:05:23.471Z
 ▯ is a garbage bag.
 
 shueı +1 `en` @Dembim #7lJLLFi3B 2025-11-27T14:27:41.900Z
-▯ becomes such that they no longer satisfy property ▯
+▯ stops satisfying property ▯
 Dembim (2025-11-27T14:31:25.094Z): Frame: c 1i
 Dembim (2025-12-06T17:18:50.867Z): stops satisfying property; cf. <sho>
 
@@ -85214,7 +85212,7 @@ kazoo (2025-03-06T16:01:17.603Z): turkish "uğultu" + toaq "laq"
 um- ± `en` @seaqtaq #HqPufJV_e 2024-11-05T10:15:36.326Z
 prefix: incorporate **úm** object
 
-úm +1 `en` @uakci #of2LwoP18 2023-02-18T16:32:02.221Z
+úm ± `en` @uakci #of2LwoP18 2023-02-18T16:32:02.221Z
 anaphoric pronoun referring back reflexively to the nearest subject to the left
 uakci (2023-02-18T16:32:10.655Z): see notes on **lúm**
 
@@ -85594,7 +85592,7 @@ pronoun: the proposition expressed by the previous sentence.
 lassc (2025-04-15T21:53:45.560Z): (joke word? what do you mean joke word? no, impossible! toaqgua just exists in a universe where yahoo won instead of google. yep! im yahooing it.)
 ijonetun (2025-04-15T21:53:53.915Z): +1 i live
 
-ꝡáı ± `en` @uakci #xvC8-FhEy 2024-01-03T11:30:32.700Z
+ꝡáı -1 `en` @uakci #xvC8-FhEy 2024-01-03T11:30:32.700Z
 vague definite determiner; ‘the’
 uakci (2024-01-03T11:30:47.024Z): like **◌́**/**ló** but binds rather than being bound. almost like “**hú** ∨ **ké**”. you should probably use one of the three if desiring to be more specific
 
@@ -85628,7 +85626,7 @@ predicate: ‘subordination.mark’; ▯ is the Derani subordination mark
 ꝡalaqteı ± `en` @salarua #bGME7Kx-I 2022-12-23T17:49:08.862Z
 predicate: ‘glottal.tone’; ▯ is the glottal tone
 
-ꝡam +1 `en` @uakci #r4td67pCC 2023-11-14T16:01:15.391Z
+ꝡam ± `en` @uakci #r4td67pCC 2023-11-14T16:01:15.391Z
 illocution: [I] act this out [on you] in a roleplay/ERP fashion
 uakci (2023-11-14T16:02:58.833Z): semantically close to **ka**. grammatically spicy: if the main predicate is singly undersaturated then an implicit **jí** is assumed at the front; if doubly unsaturated then **jí súq**
 uakci (2023-11-14T16:06:07.004Z): pretending, playacting
