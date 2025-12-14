@@ -10860,6 +10860,10 @@ chıa ± `pl` @jiqci #pGjNbIPk7- 2023-07-31T08:20:00.586Z
 chıa -1 `toa` @uakci #tw5Xm_FW3 2019-04-14T20:35:58.000Z
 she bû deq dóshı dósaq na bû jeo dóshı dógu da
 
+chıacıa ± `en` @seaqtaq #WhAWWj9W- 2025-12-13T05:24:59.550Z
+▯ is content/in need of nothing/"good"/"fine"
+seaqtaq (2025-12-13T05:26:19.614Z): chıacıa jí should very roughly mean something like foa gı jí. This phrase fits well as conversational filler
+
 chıachoq ± `en` @seaqtaq #ak3icF6V5 2024-08-10T18:43:44.405Z
 ▯ relies/depends upon ▯ (entity)  to (continue to) do ▯
 
@@ -29509,6 +29513,10 @@ determiner: last X; the X just prior
 hıqshıu ± `en` @uakci #STcaTkHK6 2022-07-31T21:01:53.092Z
 ▯ happened immediately/just now (before ▯).
 
+hıqshoem ± `en` @seaqtaq #6tNc9G-Ep 2025-12-13T07:45:37.392Z
+▯ is riding the high from ▯ havibg just taking place; ▯ is thrilled or incredibly relieved now that ▯ has just finished up
+seaqtaq (2025-12-13T07:46:17.659Z): complement to **fıshoem** and intensive of **luıjaı**
+
 hıqshuı ± `en` @uakci #lNOq_E4Pl 2022-06-24T13:01:02.703Z
 ▯ happens right before ▯.
 
@@ -30369,7 +30377,7 @@ Hoqduragua ± `en` @countries #FjroD6p_XEG 2023-10-02T12:22:04.466Z
 hoqjeo ± `en` @uakci #q_1KZdQrG 2022-02-04T23:42:44.080Z
 ▯ satisfies the predicate that defines **hoq**.
 
-hoqka +1 `en` @uakci #p1qTvZ0GJ 2018-12-27T21:08:49.000Z
+hoqka +2 `en` @uakci #p1qTvZ0GJ 2018-12-27T21:08:49.000Z
 ▯ is true by virtue of ▯ ka-saying so.
 Machy (2020-06-30T17:50:55.855Z): pronounce, hereby, adjourn
 TheAndSys (2023-05-16T17:31:18.170Z): honk
@@ -44382,6 +44390,7 @@ kusugom ± `en` @robintown #5Mf-LtiAh 2023-02-06T22:51:29.675Z
 
 kusukonı ± `en` @Ilmen #zbJQ4abDt 2025-12-08T21:42:31.458Z
 ▯ mistakenly construes the etymology of the Classical Nahuatl word ⟪āyōtōchin⟫ “armadillo” as being “gourd rabbit” instead of the real etymology “tortoise rabbit”.
+evie (2025-12-13T05:30:58.504Z): zakai...?
 
 kusukuaı +1 `en` @robintown #SRWBFGOnz 2022-03-03T13:04:48.733Z
 ▯ squishes / has a queerplatonic crush on ▯.
@@ -48776,6 +48785,9 @@ Ilmen (2019-03-06T11:38:30.000Z): +1
 luıgıqjuı ± `en` @Ilmen #ILRPERM3a 2020-01-02T23:19:44.406Z
 ▯ is just about to be the case; ▯ is on the verge of being the case.
 
+luıjaı ± `en` @seaqtaq #kDKieNcb8 2025-12-13T07:41:43.530Z
+▯ is glad that ▯ is over / said and done / fully in the past now
+
 luıjao ± `en` @uakci #-XNtothDZ 2019-03-01T21:44:18.000Z
 It’s (been) a long time since ▯ last happened.
 
@@ -48829,6 +48841,10 @@ luısho ± `en` @Ilmen #92tHUtFzo 2019-04-22T21:36:54.000Z
 
 luısho -1 `en` @Ilmen #H82JW5foK 2019-04-22T20:42:26.000Z
 ▯ reaches/enters a state of having satisfied property ▯.
+
+luıshoem ± `en` @seaqtaq #pc7ZhTdTy 2025-12-13T07:54:44.870Z
+▯ is fully engrossed in past event ▯; ▯ is heavily nostalgic about ▯
+seaqtaq (2025-12-13T07:55:18.609Z): See **hıqshoem** and **luıjaı**
 
 lujeq -1 `en` @Ilmen #Ufi4fjzeE 2019-12-31T22:37:45.005Z
 ▯ being the case is the same thing as ▯ being the case; ▯ and ▯ logically entail each other.
@@ -69589,7 +69605,7 @@ connective: (previously/otherwise) X, and now/here/yet Y
 uakci (2022-11-19T18:51:17.964Z): X names a general/generic/gnomic pattern or something that has occured or been occurring, and Y names the actual state of affairs; **runaı** compares and contrasts them
 uakci (2022-11-19T18:51:54.077Z): **baq nủaı bı mỉa runaı hỉaq jí** 'i used to be rich and now i'm broke'
 
-runao +1 `en` @Laqme #HGdSEc788 2025-01-05T23:29:06.906Z
+runao +2 `en` @Laqme #HGdSEc788 2025-01-05T23:29:06.906Z
 ▯ is so kind as to do ▯; ▯ does the favor/kindness/generosity ▯.
 Laqme (2025-01-05T23:45:33.224Z): You can put this in front of any verb to describe someone else's actions politely: **Runao som nháo ké chao.**
 Laqme (2025-01-05T23:49:51.872Z): Or when making a polite request: **Suena, runao laqrue súq ba.**
@@ -73450,7 +73466,7 @@ soakuaı ± `en` @uakci #W32sxmG_F 2020-04-02T17:04:52.320Z
 soamuoq ± `en` @uakci #PI5SrDy5W 2018-12-29T22:21:24.000Z
 ▯ is an enzyme or catalyst for reaction ▯.
 
-soao +5 `en` @robintown #Du4iDd-SU 2023-12-08T16:07:55.724Z
+soao +6 `en` @robintown #Du4iDd-SU 2023-12-08T16:07:55.724Z
 ▯ interacts socially / socializes with ▯.
 robintown (2023-12-08T16:09:38.877Z): social root with a social etymology: Lynn chose the C, I chose the VF :)
 
@@ -83908,6 +83924,10 @@ seaqtaq (2024-08-20T00:10:39.906Z): See the comments of **tuaıkoa**
 tuaımoaı ± `en` @seaqtaq #FbGtHnzA2 2024-08-06T10:28:37.397Z
 ▯ is thick/chubby/larger
 
+tuaımuo ± `en` @seaqtaq #MvlMyCv0h 2025-12-13T05:31:22.973Z
+▯ is in a blissful state of being characterized by complete physical satisfaction; ▯ is in no need of urination or defecation or itching and feels no thirst or hunger or any other physical urge
+seaqtaq (2025-12-13T05:32:13.715Z): = chıcıa gạtuaı
+
 tuaınıo ± `en` @seaqtaq #jLsTmuSLH 2024-07-21T22:10:44.638Z
 ▯ is biologically young
 
@@ -86103,6 +86123,10 @@ zaıshao ± `en` @uakci #7tnatruZV 2022-05-27T22:13:59.472Z
 zaızu ± `en` @uakci #MOJ_fNZ8C 2021-09-04T15:03:01.037Z
 ▯ is Esperanto.
 
+zajaı ± `en` @seaqtaq #BYPi1kcwl 2025-12-13T07:47:28.693Z
+▯ welcomes the eventual occurrence of ▯; ▯ is enthusiastic that ▯ will happen
+seaqtaq (2025-12-13T07:49:07.564Z): Synonym of **laojaı**, complement to **luıjaı**. See **fıshoem** for a more intense analogue
+
 zajı ± `en` @uakci #qBmcbh0AT 2022-11-02T19:22:28.650Z
 focus marker: for some (at least one) singular constant among X, unboxed out of its aggregate…
 uakci (2022-11-02T19:22:38.526Z): < **sashı** + [+voice]. see **dujı**
@@ -86390,6 +86414,10 @@ zashe +1 `en` @Ilmen #FLhT2-j_k 2023-03-01T12:47:50.869Z
 
 zashe -1 `en` @Ilmen #q_atEoNkx 2023-03-01T12:46:32.104Z
 ▯ is fated to, bound to, will eventually satisfy property ▯.
+
+zashoem ± `en` @seaqtaq #11QBxy8LH 2025-12-13T07:52:43.656Z
+▯ is fully engrossed in the eventual occurence of ▯; ▯ is significantly mentally dedicated to ▯ happening at some point in the future
+seaqtaq (2025-12-13T07:56:09.928Z): See **zajaı** (weaker synonym of zashoem) and **fıshoem**
 
 zaza +1 `en` @eednb #bzj2eXCps 2023-11-24T00:25:54.508Z
 ▯ is weed/pot/zaza/grass/marijuana/cannabis. (colloquial)
