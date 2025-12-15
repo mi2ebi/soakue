@@ -1048,6 +1048,7 @@ berohore
 berokurusadasoı
 beromerıka
 beromoa
+beronamıchıu
 Beronuım
 beropaq
 beropoq
@@ -1068,7 +1069,6 @@ betoqpuo
 betoqtupa
 betu
 beu
-beuq
 bı
 bı
 bı
@@ -3138,6 +3138,7 @@ cheaqgı
 cheaqhuı
 cheaqja
 cheaqjıe
+cheaqjuq
 cheaqkata
 cheaqkugo
 cheaqmaı
@@ -3600,6 +3601,7 @@ chıuguq
 chıukoaı
 chıurao
 chıꝡaꝡa
+chızoaq
 cho
 cho
 cho
@@ -4632,6 +4634,7 @@ dela
 delaı
 delua
 dem
+demcıoq
 demeo
 demeoca
 demo
@@ -9112,6 +9115,7 @@ hochata
 Hochoropa
 hochu
 hochufana
+hochuhorechıu
 hochupaq
 hochupoq
 Hochusamızu
@@ -9641,6 +9645,7 @@ huqje
 huqjeo
 huqkıa
 huqmı
+húqra
 huqre
 hurahe
 hurı
@@ -11082,7 +11087,6 @@ joaıhuaı
 joaıjıoq
 joaıkea
 joaısı
-joaıtaı
 joaıtaı
 joaıtaı
 joaıteoq
@@ -12763,6 +12767,7 @@ Kıurusıgua
 Kıutısamızu
 kıutoa
 kıutoame
+kịuzoaq
 kızı
 kızıa
 kızıa
@@ -13690,6 +13695,7 @@ laofea
 laofeao
 laofuq
 laogaqma
+laogıu
 laogıu
 laoheq
 laojaı
@@ -17379,6 +17385,7 @@ nıaopoq
 nıaoshua
 nıaoshua
 nıaoshua
+nıaoshuakıoq
 nıaotıuq
 nıaotoaı
 nıaotoq
@@ -20566,6 +20573,7 @@ reum
 reumche
 reumdeaq
 reume
+reumjıo
 reumkuq
 reumpaq
 reumse
@@ -20766,6 +20774,7 @@ rıoqge
 rıoqgom
 rıoqgomse
 rıoqheo
+rıoqhıa
 rıoqjeqchuq
 rıoqjuoı
 rıoqlım
@@ -21487,6 +21496,7 @@ salamı
 salata
 salı
 salı
+sam
 sam
 sam
 sama
@@ -22215,6 +22225,7 @@ sıkaı
 Sıkaqdına
 sıkı
 sıkılomasagao
+sıkua
 sıkuaı
 sıla
 sılanuq
@@ -22384,6 +22395,7 @@ sıumuo
 sıuq
 so-
 so
+só
 soa
 soa
 soa
@@ -24222,8 +24234,10 @@ tambu
 tambuı
 tambula
 tambuq
+tamche
 tamchuao
 tamdıu
+tamdıuche
 tamjeq
 tamkoaı
 tamkuo
@@ -26595,6 +26609,12 @@ zoaıge
 zoaıpulua
 zoaıse
 zoaızuo
+zoaq
+zoaqchuaq
+zoaqguaq
+zoaqleu
+zoaqnua
+zoaqze
 zobo
 zoe
 zoeq
@@ -30391,6 +30411,7 @@ tua buo
 tua caıdua
 tua cueq
 Tua chıe súq jí ba.
+tua chızoaq
 tua chuoıcoe
 Tua de jí áq.
 Tua de jí áq.
@@ -31103,7 +31124,6 @@ salıcy
 say
 say
 seaqjeymaı
-seaqmy
 sekuqdıaqmety
 seoq(gaı)chuo
 seo(sho)sue
