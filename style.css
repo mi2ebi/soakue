@@ -4,18 +4,17 @@
 }
 :root {
   --font: "Noto Sans", "Noto Sans CJK JP", "iosevie", system-ui, -apple-system, sans-serif;
-  --bg:     #f5f3ff;
-  --fg:     #1a1a1a;
-  --input:  #ffffff;
-  --gray:   #6b7280;
-  --focus:  #c77873;
-  --orange: #d97706;
-  --blue:   #2563eb;
-  --purple: #7c3aed;
-  --pink:   #db2777;
+  --bg:     light-dark(#f5f3ff, #0f0e1a);
+  --fg:     light-dark(#1a1a1a, #e5e7eb);
+  --input:  light-dark(#ffffff, #1a1a2e);
+  --gray:   light-dark(#6b7280, #9ca3af);
+  --focus:  light-dark(#c77873, #fb7185);
+  --orange: light-dark(#d97706, #fbbf24);
+  --blue:   light-dark(#2563eb, #60a5fa);
+  --purple: light-dark(#7c3aed, #a78bfa);
+  --pink:   light-dark(#db2777, #f472b6);
   text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
+  color-scheme: light dark;
 }
 body {
   font-family: var(--font);
@@ -69,14 +68,15 @@ button {
   border: 2px solid var(--blue);
   border-radius: 8px;
   padding: 8px 12px;
-  background-color: var(--blue);
-  color: white;
+  background-color: light-dark(var(--blue), transparent);
+  color: light-dark(white, var(--blue));
   cursor: pointer;
   font-weight: 500;
   transition: all 0.15s;
   &:hover {
-    background-color: var(--purple);
+    background-color: light-dark(var(--purple), transparent);
     border-color: var(--purple);
+    color: light-dark(white, var(--purple));
   }
 }
 :focus-visible {
@@ -136,8 +136,7 @@ code {
   text-indent: 20px hanging each-line;
 }
 dt {
-  margin-top: 1em;
-  margin-bottom: 0.2em;
+  margin: 1em 0 0.2em;
   font-weight: 500;
   .nobr :hover {
     color: var(--purple);
@@ -168,38 +167,17 @@ dd {
   color: var(--gray);
   font-size: 0.95rem;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg:     #0f0e1a;
-    --fg:     #e5e7eb;
-    --input:  #1a1a2e;
-    --gray:   #9ca3af;
-    --focus:  #fb7185;
-    --orange: #fbbf24;
-    --blue:   #60a5fa;
-    --purple: #a78bfa;
-    --pink:   #f472b6;
-  }
-  button {
-    background-color: transparent !important;
-    color: var(--blue);
-    &:hover {
-      border-color: var(--purple);
-      color: var(--purple);
-    }
-  }
-}
 @media (prefers-contrast: more) {
   :root {
-    --bg:     #ffffff;
-    --fg:     #000000;
-    --input:  #ffffff;
-    --gray:   #4a4a4a;
-    --focus:  #b91c1c;
-    --orange: #b45309;
-    --blue:   #1e40af;
-    --purple: #6b21a8;
-    --pink:   #be185d;
+    --bg:     light-dark(#ffffff, #000000);
+    --fg:     light-dark(#000000, #ffffff);
+    --input:  light-dark(#ffffff, #1a1a1a);
+    --gray:   light-dark(#4a4a4a, #cccccc);
+    --focus:  light-dark(#b91c1c, #fca5a5);
+    --orange: light-dark(#b45309, #fcd34d);
+    --blue:   light-dark(#1e40af, #93c5fd);
+    --purple: light-dark(#6b21a8, #d8b4fe);
+    --pink:   light-dark(#be185d, #fbcfe8);
   }
   #search, #howto {
     border: 2px solid var(--fg);
@@ -210,31 +188,13 @@ dd {
   }
   button {
     font-weight: 600;
-  }
-}
-@media (prefers-color-scheme: dark) and (prefers-contrast: more) {
-  :root {
-    --bg:     #000000;
-    --fg:     #ffffff;
-    --input:  #1a1a1a;
-    --gray:   #cccccc;
-    --focus:  #fca5a5;
-    --orange: #fcd34d;
-    --blue:   #93c5fd;
-    --purple: #d8b4fe;
-    --pink:   #fbcfe8;
-  }
-  #search, #howto {
-    border: 2px solid var(--fg);
-  }
-  button {
-    font-weight: 600;
     &:hover {
       background-color: var(--purple);
+      color: white;
     }
   }
 }
-@media (max-width: 480px) {
+@media (width <= 577px) {
   body {
     padding: 16px 12px;
   }
