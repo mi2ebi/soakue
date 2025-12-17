@@ -15320,7 +15320,7 @@ seaqtaq (2024-08-06T01:37:38.408Z): Ergo "Chuq líq rú déom náq sá zéo" == 
 deopao ± `en` @robintown #F4cfTpoE6 2025-01-10T02:28:21.243Z
 ▯ is a parent.
 
-deoq +3 `en` @robintown #GtJOyIdx8 2023-01-15T04:07:44.108Z
+deoq +2 `en` @robintown #GtJOyIdx8 2023-01-15T04:07:44.108Z
 ▯ tells / communicates to ▯ that ▯ is the case.
 robintown (2023-01-15T04:10:12.256Z): I find the property version of **deoq** difficult to use in practice, and **duatua** to be a misnomer, so I propose this
 Ilmen (2025-10-31T19:11:51.408Z): On the one hand, words like ⟪kuq⟫ nowadays no longer have an addressee slot. But on the other hand, removing it with ⟪deoq⟫ would result in pretty much the same thing as either ⟪kuaq⟫ or ⟪ruaq⟫ I guess, unless we adopt my idea of ⟪▯ performs speech act ▯⟫, which is unspecific with respect to the nature of the speech act…
@@ -15328,7 +15328,7 @@ Ilmen (2025-10-31T19:11:51.408Z): On the one hand, words like ⟪kuq⟫ nowadays
 deoq +2 `en` @Ilmen #eGhA6ZAmu 2024-10-29T09:57:53.828Z
 ▯ performs speech act ▯ (property).
 
-deoq +1 `en` @el #rPtQUeNzN 2022-08-16T05:22:19.348Z
+deoq ± `en` @el #rPtQUeNzN 2022-08-16T05:22:19.348Z
 predicate: ‘communicate’; ▯ communicates to ▯ that they (the former) satisfy property ▯.
 el (2022-08-16T05:22:36.767Z): what if we brought this back now that CVys are discouraged
 mimiaoganhaqpy (2022-11-07T06:45:07.228Z): +1, deoq is just better.
@@ -15342,7 +15342,7 @@ uakci (2023-01-24T14:51:25.875Z): (i meant **cọmkuaq**)
 deoq ± `pl` @jiqci #0pwRYp2jQU 2023-07-31T08:20:17.693Z
 ▯ przekazuje ▯, że (ten pierwszy) spełnia własność ▯.
 
-deoq ± `en` @Ilmen #DTN2wrZzR 2024-10-07T18:54:52.656Z
+deoq -1 `en` @Ilmen #DTN2wrZzR 2024-10-07T18:54:52.656Z
 ▯ performs, to the attention of ▯, speech act ▯ (property).
 
 deoqchuaq ± `en` @uakci #ZWRrPrOBQ 2019-03-30T17:48:55.000Z
@@ -15357,6 +15357,10 @@ deoqduoı -1 `toa` @mimiaoganhaqpy #bnJMpdF9Y 2022-12-17T23:01:45.054Z
 
 deoqgaq ± `en` @uakci #3V7u0zOk8 2019-01-11T20:40:52.000Z
 ▯ keeps ▯ company.
+
+deoqnom +1 `en` @Ilmen #VojA5eSRG 2025-12-16T20:33:49.402Z
+▯ is a medium of communication, medium or record of speech act, carrying, including speech act ▯ (property).
+Ilmen (2025-12-16T20:34:09.700Z): Example: ⟪Ní kue nä deoqnom duetıao, ꝡä mıo báq seoq kûı hí raı da.⟫ ↦ “This book answers the question of why the sky is blue.”
 
 deoqpeq +1 `en` @uakci #lnTy5_CSZ 2019-04-10T17:54:46.000Z
 ▯ is a letter.
@@ -15380,6 +15384,10 @@ deoqtea ± `en` @Ilmen #XbHICo96T 2023-01-14T20:50:59.075Z
 
 deoqtoaı ± `en` @uakci #Q8aUMAxJY 2023-11-11T19:00:57.846Z
 ▯ is a speech act.
+
+deoqtoı +1 `en` @Ilmen #5wBu5Xbka 2025-12-16T13:03:09.167Z
+▯ talks with ▯.
+Ilmen (2025-12-16T13:28:04.482Z): discriminator: 2
 
 deoqtoı ± `en` @uakci #I0fU0djoQ 2023-11-11T18:54:09.408Z
 ▯ communicates to ▯ that the two are in relation ▯.
@@ -31755,6 +31763,7 @@ evie (2025-09-21T01:57:41.516Z): works nicely with focus-cleft merger: **túq h�
 ▯ is OK, acceptable, alright
 Dembim (2025-12-12T00:25:49.597Z): Fork of <uakci ıao> without slot j; a perfect case for <ôı>
 evie (2025-12-12T07:46:23.286Z): <@uakci =ıao>
+Ilmen (2025-12-16T13:31:49.232Z): discriminator: 2
 
 ıao ± `en` @uakci #wLv1GaxGZ 2021-11-07T01:32:04.718Z
 ▯ is OK, acceptable, all right for property ▯.
@@ -44300,6 +44309,9 @@ kuqmuo ± `en` @uakci #b3mbZRQum 2019-06-21T13:54:40.068Z
 ▯ is done talking; ▯ has said everything they had to say so far.
 uakci (2019-06-21T13:55:00.108Z): <Kủaq kủqmūo ka.> = Lojban «mu'o»
 
+kuqnom ± `en` @Ilmen #E4VTKX4Vz 2025-12-16T20:34:24.544Z
+▯ is a medium of communication carrying message ▯ (quote).
+
 kuqnu +1 `en` @official #I5jP6P99Cw2 2023-01-13T19:24:51.616Z
 predicate: ‘alleged’; ▯ is allegedly the case.
 
@@ -44966,6 +44978,9 @@ laocheo +1 `en` @Laqme #x2VwDAZ_D 2022-07-03T00:54:18.565Z
 laochoa ± `en` @uakci #ISEXw4NPg 2018-12-26T23:08:35.000Z
 ▯ stutters/hesitates.
 
+laochue ± `en` @Ilmen #h4t3fHvjf 2025-12-16T13:34:00.531Z
+▯ is a queue, a waiting line.
+
 laofabeta +1 `en` @Laqme #2vQJVlza9 2021-11-01T02:49:55.854Z
 ▯ is an alphabet.
 
@@ -44981,11 +44996,12 @@ laofuq +1 `en` @uakci #RLn6v30Pb 2021-08-22T23:02:03.191Z
 laogaqma ± `en` @Laqme #dVdjMrhYD 2024-09-21T22:16:37.921Z
 ▯ is lao gan ma.
 
-laogıu ± `en` @Hoemai #35rH8PQVp 2019-04-08T14:13:37.000Z
-▯ is a queue/line of persons waiting for ▯ to be the case.
-
 laogıu ± `en` @robintown #BSQPFsH2- 2025-12-14T23:49:18.759Z
 ▯ is a queue / waiting line.
+Ilmen (2025-12-16T13:32:31.519Z): discriminator: 2
+
+laogıu -1 `en` @Hoemai #35rH8PQVp 2019-04-08T14:13:37.000Z
+▯ is a queue/line of persons waiting for ▯ to be the case.
 
 laoheq ± `en` @Laqme #hph5Bt1C5 2024-04-25T22:56:46.756Z
 For the first time in ▯ (duration), it happens that ▯ is the case.
@@ -47581,6 +47597,12 @@ Fireworks are going off and coloring the sky; it is firework-ing.
 loeruase ± `en` @Laqme #vKs_1xAsJ 2024-08-25T20:10:06.698Z
 ▯ is a fireworks explosion.
 Laqme (2024-08-25T20:11:14.475Z): the thing drawn onto the sky by a **loerua**
+
+loesoıchao ± `en` @Laqme #wUY74VRMH 2025-12-16T22:48:55.740Z
+▯ is a fire engine / fire truck.
+
+loesoıche ± `en` @Laqme #z534mPAcQ 2025-12-16T22:48:44.126Z
+▯ is a firefighter.
 
 loeshıa ± `en` @robintown #Iquip2SdF 2021-10-20T18:25:28.819Z
 ▯ is obsidian.
@@ -58761,6 +58783,10 @@ jiqci (2025-01-22T20:39:20.808Z): shortened from **notuqkea**
 nokıu ± `en` @uakci #HrUUVmlSu 2022-09-15T06:29:30.424Z
 ▯ is semantically potent/bearing as a medium/format/carrier; ▯ is a plausible medium.
 
+nom +1 `en` @evie #wKgUM15ym 2025-12-16T20:32:16.837Z
+▯ is a medium/format/etc
+evie (2025-12-16T20:33:18.305Z): = bọ**no**
+
 nono +1 `en` @Laqme #_KfS4iNqM 2023-11-09T14:50:21.428Z
 ▯ sleeps / goes sleepy-time.
 Laqme (2023-11-09T14:51:54.747Z): Childish/cute word for **nuo**. See also: **uo**.
@@ -61419,6 +61445,7 @@ Ohomıazu ± `en` @eednb #7bKufF2Zv 2023-12-31T21:52:26.629Z
 oı- +1 `en` @Dembim #myrCeSfwU 2025-12-09T00:04:53.684Z
 prefix: for a verb of valence N that involves some "salient property", produces a verb of valence N+1 with an additional slot at which the property may be passed explicitly. Prefix form of <oı>.
 Dembim (2025-12-09T00:06:39.801Z): Sometimes one may want the IO serialization behavior of many c c 1 verbs, even if one is generally in favor of the c c ôı 1 pattern.
+Ilmen (2025-12-16T13:30:20.785Z): discriminator: 2
 
 oı +2 `en` @salarua #VGQjJagkP 2025-03-12T18:24:53.433Z
 ▯ is the case with respect to property ▯.
@@ -61492,9 +61519,13 @@ okeı +1 `en` @Dembim #a0gNkyuIa 2025-12-11T23:58:23.103Z
 interjection: "this/that/it is OK (fine, acceptable, alright)"
 Dembim (2025-12-11T23:59:13.798Z): Copied from <@Laqme okeı>: Doesn't cover the “passable, but not especially good” meaning that “OK” sometimes has in English (as in “the party was OK”).
 Dembim (2025-12-14T13:57:45.073Z): see also <@Dembim ıao>
+Ilmen (2025-12-16T13:29:47.798Z): discriminator: 2
 
 okeı ± `tok` @el #qNbaAwMNj 2022-07-10T06:23:00.203Z
 ▯ li pona
+
+okeıcheı ± `en` @Laqme #H50BcLni- 2025-12-16T22:48:14.119Z
+▯ gives a thumbs-up.
 
 okeıjıe ± `en` @Machy #2JS02djT0 2021-10-10T03:42:14.723Z
 ▯ accepts ▯.
@@ -66504,6 +66535,13 @@ seaqtaq (2024-10-31T22:53:39.550Z): Complement to **jueqdao**
 raqdeoq +1 `en` @fagri #_XfQqtN8H 2018-10-26T01:38:18.000Z
 ▯ talks with ▯ about ▯
 
+raqdeoq ± `en` @Dembim #Fk7dx6-FJ 2025-12-16T15:38:15.797Z
+▯ talks about ▯
+Dembim (2025-12-16T15:38:36.336Z): Frame: c c
+Dembim (2025-12-16T15:44:16.363Z): Fork of <@fagri raqdeoq> without addressee slot.
+Dembim (2025-12-16T15:44:54.756Z): Credit: <@Ilmen>
+Ilmen (2025-12-16T15:47:15.593Z): discriminator: 2
+
 raqdıo ± `en` @el #Oi4eJ0oso 2022-12-05T01:51:33.859Z
 ▯ is a wren (family Troglodytidae)
 el (2022-12-05T01:51:39.999Z): < proto-germanic *wrandijô
@@ -70937,6 +70975,9 @@ maigoi (2024-09-20T14:10:40.132Z): from Brazilian 'sanduba', sandwitch
 
 saqdukata ± `en` @salarua #X_sHGo0oO 2022-09-15T06:16:00.018Z
 ▯ is an SD card
+
+saqfaseotuze ± `en` @zearen #wVgfPg_9h 2025-12-16T15:27:45.927Z
+▯ is a vanilla soy latte.
 
 saqgıu ± `en` @desca #cBzrH903m 2022-12-29T15:12:44.208Z
 predicate: "blank, argument"; ▯ is a blank to be filled (e.g. the argument of a predicate)
@@ -75518,6 +75559,7 @@ evie (2025-04-01T01:42:14.127Z): -1 <@Laqme fu> exists and i kinda want <@robint
 suoq +1 `en` @evie #RL9s7Tobg 2025-12-15T05:00:04.422Z
 ▯ entices/attracts/seduces/lures ▯ into satisfying property ▯.
 evie (2025-12-15T05:00:39.463Z): fork of #vPcZDClB9 = <@robintown suoqja>
+Ilmen (2025-12-16T13:31:16.605Z): discriminator: 2
 
 suoqja ± `en` @robintown #vPcZDClB9 2023-11-09T19:31:08.457Z
 ▯ entices/attracts/seduces/lures ▯ into satisfying property ▯.
