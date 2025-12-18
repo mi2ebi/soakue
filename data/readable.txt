@@ -2148,7 +2148,7 @@ uakci (2023-08-30T11:28:08.969Z): < Spanish vainilla
 baınıaleu ± `en` @Laqme #qzPOYB98C 2024-09-18T14:51:16.000Z
 ▯ is vanilla extract.
 
-baıpaq +1 `en` @Machy #n5Msggvcz 2022-04-23T15:22:54.388Z
+baıpaq +2 `en` @Machy #n5Msggvcz 2022-04-23T15:22:54.388Z
 ▯ is a part/ingredient/component needed to make ▯.
 
 baırıaı ± `en` @robintown #ZhOo3pzOB 2022-02-19T03:36:32.778Z
@@ -15388,6 +15388,7 @@ deoqtoaı ± `en` @uakci #Q8aUMAxJY 2023-11-11T19:00:57.846Z
 deoqtoı +1 `en` @Ilmen #5wBu5Xbka 2025-12-16T13:03:09.167Z
 ▯ talks with ▯.
 Ilmen (2025-12-16T13:28:04.482Z): discriminator: 2
+Dembim (2025-12-17T14:00:20.127Z): see also <@Laqme keoı>
 
 deoqtoı ± `en` @uakci #I0fU0djoQ 2023-11-11T18:54:09.408Z
 ▯ communicates to ▯ that the two are in relation ▯.
@@ -17222,6 +17223,7 @@ Laqme (2023-07-18T13:06:11.490Z): required
 Ilmen (2025-10-12T19:52:04.339Z): Why not a different word than the official ⟪duaı⟫? I interpret the original as having a focus on the person who is *reponsible* for the duty/obligation, and this new meaning doesn't allow expressing responsability.
 Ilmen (2025-10-12T19:54:08.395Z): Admittedly, the wording of the original definition is ambiguous and can also be interpreted as allowing ⟪the door ⟦duaı⟧/must be opened⟫ which is not about responsability. But I suspect this isn't what the original meaning is about, at least if we take into account the verb's frame.
 Ilmen (2025-10-12T19:55:40.572Z): I guess if this new definition were to be adopted, ⟪duaıgıla⟫ could work as a replacement for the previous meaning, but it's a bit longish…
+Dembim (2025-12-17T19:06:07.379Z): just fyi "A is obligated to bring about X" and "it is obligatory that A bring about X" are often considered interchangeable, at least in most cases. "Meinong-Chisholm reduction" I recall there being problems involving plural agents, but I'm not that familiar.
 
 duaı ± `en` @official #PAC4WWU4zf 2019-05-05T22:25:23.417Z
 predicate: ‘must’; ▯ must satisfy property ▯.
@@ -18030,12 +18032,12 @@ dute +2 `en` @Hoemai #sj8KFoo18 2023-08-02T13:38:21.090Z
 duzoaıge ± `en` @uakci #UavJhZBUD 2022-07-01T06:45:46.327Z
 ▯ is unconvincing.
 
-e- +1 `en` @fagri #Gy0SAu3s2 2022-12-28T21:35:52.227Z
+e- +1 `en` @kazoo #KoTbzXBio 2025-10-19T16:41:24.056Z
+prefix: forms an ë clause of a verb, filling all of its slots with sá raı
+
+e- ± `en` @fagri #Gy0SAu3s2 2022-12-28T21:35:52.227Z
 Prefix: An event of [verb]
 fagri (2022-12-28T21:39:46.181Z): Example: «Gaı jı́ ẹ́dea» = "I saw the hitting"
-
-e- ± `en` @kazoo #KoTbzXBio 2025-10-19T16:41:24.056Z
-prefix: forms an ë clause of a verb, filling all of its slots with sá raı
 
 ⚠ è -1 `en` @uakci #FHXjoUP-g 2019-03-20T07:31:36.000Z
 colloquial interjection; signifies that the words uttered just right before (exact amount unspecific) were a mistake and are now going to be replaced with what is coming next.
@@ -19245,7 +19247,7 @@ famamaı ± `en` @Machy #Xj5uqyA6a 2022-05-20T15:14:35.663Z
 fammaho +1 `en` @uakci #FeN63yiH1 2023-08-08T16:39:27.725Z
 ▯ is a terminator.
 
-fana +1 `en` @official #sMg3P2dsJ7J 2023-01-13T19:24:50.631Z
+fana +2 `en` @official #sMg3P2dsJ7J 2023-01-13T19:24:50.631Z
 predicate: ‘towards’; ▯ is a motion event towards ▯.
 
 fana ± `tok` @el #sYQYgcg_p 2023-01-06T01:27:10.873Z
@@ -19573,7 +19575,7 @@ fase +1 `en` @Laqme #mU954f0-4 2021-10-09T12:39:55.720Z
 faseo +1 `en` @Hoemai #jGbktEVdi 2019-07-17T23:01:00.825Z
 ▯ is a bean.
 
-faseo ± `en` @Snow #Y8K6xtCTr 2023-06-02T10:49:28.841Z
+faseo -1 `en` @Snow #Y8K6xtCTr 2023-06-02T10:49:28.841Z
 ▯ is a plant in the subfamily Fabodeae.
 
 faseodashı ± `en` @el #gJIcxB6qS 2022-06-04T21:29:58.462Z
@@ -21058,11 +21060,11 @@ fuakea ± `en` @Laqme #ED-PUCTam 2025-07-13T19:27:26.315Z
 ▯ are "white goods" / is a non-portable domestic appliance.
 Laqme (2025-07-13T19:27:49.236Z): washers, dryers, ovens, fridges, etc.
 
-fuaq ± `en` @official #YQPy-D-_F- 2019-05-05T22:25:29.327Z
-predicate: ‘picture’; ▯ is an image / a picture.
-
-fuaq ± `en` @Machy #nAnIZUA0h 2022-02-05T21:31:02.022Z
+fuaq +1 `en` @Machy #nAnIZUA0h 2022-02-05T21:31:02.022Z
 ▯ is an image / a picture of ▯.
+
+fuaq -1 `en` @official #YQPy-D-_F- 2019-05-05T22:25:29.327Z
+predicate: ‘picture’; ▯ is an image / a picture.
 
 fuaq ± `tok` @el #DNlAuOdms 2022-07-10T04:00:21.523Z
 ▯ li sitelen
@@ -40579,6 +40581,7 @@ predicate 'never.mind'; ⌷ is the case but you're okay. it's fine.
 
 keoı +1 `en` @Laqme #3_4pR2Kb4 2022-12-17T22:35:50.944Z
 ▯ talks to ▯.
+Dembim (2025-12-17T14:00:36.640Z): See also <@Ilmen deoqtoı>
 
 keoı ± `tok` @nano #zlLqevS8x 2023-03-06T11:36:07.186Z
 ▯ li toki tawa ▯.
@@ -48098,7 +48101,7 @@ Event ▯ satisfies relation ▯ with its agent
 lozeq ± `en` @jiqci #yL1NkgiMZ 2024-09-10T14:33:38.783Z
 ▯ is a rhombus / lozenge.
 
-lú ± `en` @evie #hVf51YI_E 2024-10-21T06:04:25.132Z
+lú +1 `en` @evie #hVf51YI_E 2024-10-21T06:04:25.132Z
 anaphoric pronoun for property clauses
 evie (2024-10-21T06:04:35.625Z): cf  **rúm**
 evie (2024-11-09T04:57:04.604Z): replaces **hụ́la**
@@ -67846,7 +67849,7 @@ seaqtaq (2025-04-16T04:47:50.287Z): "Rıemıa úmo báq hẹmcheaqzua" == "Our r
 rıemkuq ± `en` @Laqme #P2EDIwrBp 2023-12-11T22:27:34.072Z
 ▯ speaks their mind, saying ▯.
 
-rıemna +1 `en` @Laqme #fFSZJe9mc 2023-12-11T22:17:19.364Z
+rıemna +2 `en` @Laqme #fFSZJe9mc 2023-12-11T22:17:19.364Z
 interjection: 'to be honest'
 
 rıemruaq ± `en` @Laqme #Yd7bu5mR6 2023-12-11T22:17:04.869Z
@@ -72972,7 +72975,7 @@ sımoe ± `en` @Laqme #KlKEM2z4E 2020-01-04T01:11:09.379Z
 sımuo ± `en` @Ilmen #GuyJFG1vj 2019-04-11T19:14:55.000Z
 ▯ meditates (on ▯).
 
-sına ± `en` @salarua #JD5F-a7I8 2022-12-17T23:14:03.464Z
+sına +1 `en` @salarua #JD5F-a7I8 2022-12-17T23:14:03.464Z
 predicate: ‘away.from’; ▯ is a motion event away from ▯
 salarua (2022-12-17T23:14:32.224Z): created by analogy from #kv5InzN4p
 
@@ -80698,6 +80701,7 @@ teınea ± `en` @seaqtaq #1CUrUPuQr 2024-12-16T23:42:31.712Z
 teınoa +1 `en` @uakci #qOhuJyY2C 2018-11-04T00:12:25.000Z
 ▯ is hard; it is hard to change the shape of ▯.
 jiqci (2024-01-11T19:57:21.794Z): rigid, stiff
+Dembim (2025-12-17T12:21:44.276Z): firm, immalleable
 
 teıpaq ± `en` @uakci #kcbOlg8DL 2022-08-06T14:20:43.606Z
 ▯ is a structural subsection of ▯.
@@ -87474,11 +87478,11 @@ zu ± `jbo` @Laqme #JzSmD3bYe 2025-04-03T21:30:12.168Z
 zu -1 `jbo` @el #QkuDZt9Qt 2022-07-15T20:04:00.994Z
 bo'a bangu
 
+zua +4 `en` @robintown #PgzfTcovE 2021-11-06T22:17:21.049Z
+▯ (agent) prevents ▯ from being the case.
+
 zua +3 `en` @uakci #LK0wzVYXq 2021-10-16T14:48:21.068Z
 ▯ makes ▯ not be the case.
-
-zua +3 `en` @robintown #PgzfTcovE 2021-11-06T22:17:21.049Z
-▯ (agent) prevents ▯ from being the case.
 
 zua +1 `toa` @robintown #ClouLGfR6 2022-01-27T17:55:47.820Z
 Tua bu ▯ ▯.
