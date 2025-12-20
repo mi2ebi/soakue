@@ -9899,7 +9899,7 @@ chaıtıqseraq ± `en` @jiqci #FzP4hBR9Q 2025-09-04T18:32:33.162Z
 chaıtupa +1 `en` @Laqme #oObqHJ4uZ 2022-05-29T13:02:28.199Z
 ▯ is a teapot.
 
-chajeq +1 `en` @Ilmen #4EN4GFwFQ 2019-03-18T22:35:13.000Z
+chajeq +2 `en` @Ilmen #4EN4GFwFQ 2019-03-18T22:35:13.000Z
 ▯ takes place in the same way/manner as ▯.
 
 chajıeq ± `en` @Laqme #5OWVu0dYR 2023-11-07T21:19:04.927Z
@@ -20127,6 +20127,9 @@ feoqcheo ± `en` @Ilmen #zZ_5jXaIU 2025-04-27T22:10:52.122Z
 
 feoqmukam ± `en` @Ilmen #UQSECmRsB 2025-01-16T20:08:40.732Z
 ▯ is a gyroscope.
+
+feoqreı ± `en` @evie #opzMMk0VP 2025-12-19T06:15:10.900Z
+▯ is a ring/torus
 
 feoqtıoq ± `en` @Ilmen #atKavM3GL 2024-12-16T13:43:29.130Z
 ▯ is a bolt.
@@ -32553,6 +32556,9 @@ Laqme (2025-03-25T15:23:44.933Z): ≈ "property", but especially viewed as the d
 ▯ is appropriate/fit to satisfy property ▯.
 uakci (2024-05-16T17:19:24.400Z): **ıqtıao sía, lä tao jí hóa nîe ní jıo** ‘i have nothing to do in this house’
 
+ıqtıubo ± `en` @Ilmen #MGCk6Pppe 2025-12-19T12:25:31.182Z
+Having property ▯ semantically entails having property ▯.
+
 ıqtoa ± `en` @Laqme #LGlO_S4Xv 2022-08-14T15:29:09.232Z
 ▯ is an intransitive verb.
 
@@ -43358,6 +43364,9 @@ kueboe ± `en` @Ilmen #v8oCKnVtM 2020-02-26T20:22:48.401Z
 kuecea ± `en` @fagri #uyQg7Vem4 2019-01-15T05:13:44.000Z
 ▯ is a book-bag
 fagri (2019-01-15T05:14:09.000Z): Can be used to describe a backpack
+
+kueco ± `en` @evie #DLUmVoj7d 2025-12-19T07:28:38.429Z
+number component: 10^-30 / nonillionth / quecto-
 
 kueche ± `en` @robintown #22D0-m1k0 2021-10-23T17:38:32.976Z
 ▯ is a librarian.
@@ -56328,7 +56337,7 @@ predicate: ‘ninth’; ▯ is ninth among ▯.
 neıko ± `pl` @jiqci #Orhgdnrxxi 2023-07-31T08:21:42.366Z
 ▯ jest dziewiąty spośród ▯.
 
-nejeq +2 `en` @Ilmen #MtenWNJEi 2019-03-05T18:32:34.000Z
+nejeq +3 `en` @Ilmen #MtenWNJEi 2019-03-05T18:32:34.000Z
 ▯ and ▯ have the property ▯ to the same degree/extent; ▯ and ▯ are equal in their degree in satisfying property ▯.
 Machy (2020-06-12T19:53:20.341Z): "as much as"
 
@@ -56396,7 +56405,7 @@ nenea ± `en` @Laqme #t7TgNHo7U 2020-03-12T15:10:36.661Z
 nénı +2 `en` @robintown #atFHMOnPk 2024-08-21T17:19:50.010Z
 determiner: ‘this/that’; demonstrative, neither proximal nor distal
 
-neo +1 `en` @official #iFjvPAazaz 2019-05-05T22:26:57.516Z
+neo +2 `en` @official #iFjvPAazaz 2019-05-05T22:26:57.516Z
 predicate: ‘on’; ▯ is on ▯.
 uakci (2020-07-05T22:40:33.981Z): lying on top of, atop, recumbent on, spread on, on the surface of, upon, on top of, sitting on, standing on, sit on, stand on, lie on, be situated on, be placed on
 
@@ -67487,7 +67496,7 @@ Laqme (2024-01-02T22:36:50.317Z): division
 reugofıem ± `en` @jiqci #1Hvi-CnVP 2025-08-02T18:09:07.720Z
 ▯ is a division ring.
 
-reum +2 `en` @Laqme #I9ZHRRyMS 2023-07-20T00:14:13.597Z
+reum +3 `en` @Laqme #I9ZHRRyMS 2023-07-20T00:14:13.597Z
 ▯ performs property ▯ (satisfies it deliberately for an audience).
 
 reumche ± `en` @Laqme #RZ4j86Bqy 2023-07-20T00:40:44.158Z
@@ -69022,6 +69031,9 @@ rosınho ± `en` @jiqci #1fZyqouqj 2024-02-20T11:20:52.461Z
 ▯ is a nightingale (genus Luscinia).
 jiqci (2025-07-31T18:56:05.978Z): etym: French rossignol
 
+roto ± `en` @evie #hmZ-eN0lH 2025-12-19T07:30:18.963Z
+number component: 10^-27 / octillionth / ronto-
+
 rotojeq ± `en` @uakci #TCXLJL4Sk 2023-07-11T19:12:23.991Z
 ▯ is a protogen.
 uakci (2023-07-11T19:12:27.124Z): primagen
@@ -70510,6 +70522,15 @@ jiqci (2025-10-14T07:00:11.944Z): ∃x.P(x)
 salı -1 `toa` @Ilmen #8xWoDuWgj 2020-01-26T21:31:46.862Z
 = [1] jeo sa ▯. = [1] bu tulı bu ▯. = [1X] salı lî jeo ja ▯ ru ▯.
 
+sam- ± `en` @uakci #TQKG46zvg 2025-12-19T08:07:48.012Z
+prefix: turns noun phrase denoting some proposition into a noun phrase denoting its negation
+uakci (2025-12-19T08:08:08.086Z):  **sạ́mhao** ≈ **ꝡá sahu háo**
+
+sam- ± `en` @evie #-TlJAvl8- 2025-12-19T08:11:10.393Z
+prefix: negates the (last) proposition argument of a 1-seralizing verb
+evie (2025-12-19T08:11:32.966Z): **sạm'aojaı** ▯ wants ▯ *not* to be the case
+evie (2025-12-19T08:12:26.002Z): distinct from **bụ'aojaı** ▯ *doesn't* want ▯ to be the case
+
 sam +3 `en` @evie #1krb-QETx 2025-03-16T23:12:06.522Z
 ▯ locates/finds ▯
 evie (2025-03-16T23:12:20.223Z): from klingon «Sam»
@@ -71504,6 +71525,9 @@ seceıla ± `en` @fagri #5EHRW9Tou 2021-11-11T08:41:42.950Z
 ▯ is off the ball / losing it / falling apart
 fagri (2021-11-11T08:42:46.683Z): a priori
 
+seco ± `en` @evie #L9myBRMZf 2025-12-19T07:31:09.665Z
+number component: 10^-21 / sextillionth / zepto-
+
 secua ± `en` @uakci #Xv-quUbpB 2022-07-12T16:06:43.562Z
 ▯ takes responsibility for ▯ (property) by satisfying property ▯.
 
@@ -71791,6 +71815,9 @@ seoqpıo ± `en` @Ilmen #fzRf_uPPo 2019-04-11T16:54:47.000Z
 
 seoqpıo -1 `en` @Ilmen #oFGEd2JtV 2019-04-11T16:54:33.000Z
 ▯ is an asteroid.
+
+seoqpıofeoqreı ± `en` @evie #H-TJajsHb 2025-12-19T06:15:30.355Z
+▯ is an asteroid belt
 
 seoqpıoruagıa ± `en` @cateyes #2EH70vOIp 2025-09-30T23:24:49.298Z
 ▯ is a Widmanstätten pattern
@@ -75663,7 +75690,7 @@ suqcho ± `en` @Laqme #pBmSvrixy 2019-02-02T14:44:13.000Z
 suqchosoq ± `en` @Laqme #8zrj3N9ja 2019-02-02T14:38:53.000Z
 ▯ is your favorite among ▯.
 
-suqchuq ± `en` @jiqci #Q2Kd5KJEv 2025-04-01T19:48:22.399Z
+suqchuq +1 `en` @jiqci #Q2Kd5KJEv 2025-04-01T19:48:22.399Z
 ▯ is a spider.
 jiqci (2025-04-01T19:49:10.468Z): Etym: mashed from **sune** + chıq/**chom**
 jiqci (2025-04-01T19:49:22.684Z): (also it eats you)
@@ -86061,6 +86088,9 @@ mimiaoganhaqpy (2023-01-05T00:10:44.543Z): Also used in the South to ridicule th
 ▯ is a Toaq illocution; ▯ is one of <ba>, <ka>, <moq>, <da>, <ꝡo>, <nha>, and <doa>.
 mimiaoganhaqpy (2024-05-10T14:33:56.503Z): Joke word
 
+ꝡoco ± `en` @evie #26C0eV3C4 2025-12-19T07:27:33.709Z
+number component: 10^-24 / septillionth / yocto-
+
 ꝡogo ± `en` @uakci #PgwakVviq 2022-12-29T15:20:29.164Z
 ▯ is a wug.
 
@@ -86129,6 +86159,9 @@ predicate: ‘wasp’; ▯ is a wasp.
 
 ꝡoshı +2 `en` @uakci #gmB9jiWQX 2023-01-09T09:35:19.109Z
 ▯ is true in the sense that ▯ is true; ▯ is the case, by which what is (actually) meant is that ▯ is the case.
+
+ꝡota ± `en` @evie #K5SlsVxrD 2025-12-19T07:27:23.763Z
+number component: 10^24 / septillion / yotta-
 
 ꝡoꝡo ± `en` @uakci #DHfmAPOuG 2022-12-12T23:36:35.979Z
 ▯ is a yo-yo.
