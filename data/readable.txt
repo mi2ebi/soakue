@@ -10694,6 +10694,9 @@ cheoqbe ± `en` @akesi #-9h7dQpXA 2020-01-30T06:28:54.023Z
  ▯ is a milk bottle used to feed babies/infants.
 akesi (2020-04-30T02:24:18.118Z): baby bottle
 
+cheoqdugo ± `en` @jiqci #cdeA0ae11 2025-12-21T14:29:57.827Z
+▯ is a cork / bung.
+
 cheoqla ± `en` @Laqme #qjRIwTPqf 2023-08-31T12:06:50.824Z
 ▯ bottles (fills a bottle with) ▯.
 
@@ -14490,7 +14493,7 @@ mea dóshı ta lú raq hóa sa túq cuaq shıu ra bıe da
 daqbıa +1 `en` @Laqme #gqMNDXrPv 2023-03-06T11:26:37.628Z
 ▯ is jetlagged / has jet lag.
 
-daqbıo ± `en` @Laqme #QUInWWAen 2022-10-23T00:08:50.460Z
+daqbıo -1 `en` @Laqme #QUInWWAen 2022-10-23T00:08:50.460Z
 ▯ is an hourglass.
 
 daqbo ± `en` @Ilmen #jzseIKiWf 2025-05-04T11:43:28.060Z
@@ -14516,6 +14519,9 @@ daqchao ± `en` @jiqci #s4avLlr-_ 2023-02-05T09:28:40.719Z
 
 daqcheı ± `en` @Laqme #K27UP0JAL 2024-10-21T15:35:28.501Z
 ▯ is a hand on a clock.
+
+daqcheoq ± `en` @Dembim #lPQk5zNHz 2025-12-21T20:12:46.212Z
+▯ is an hourglass
 
 daqchıa ± `en` @uakci #gHkBhFHQj 2024-05-16T13:54:56.520Z
 ▯ needs ▯ amount of time to satisfy property ▯.
@@ -35115,7 +35121,7 @@ fagri (2019-12-29T03:23:03.217Z): -1, since this doesn't match the place structr
 jıaoꝡa +1 `en` @uakci #nXMSjEfA1 2024-04-13T14:55:13.258Z
 expletive: oh god; oh my god
 
-jị̂aq- +1 `en` @uakci #4sopBa3KO 2025-11-28T11:55:00.590Z
+jị̂aq- +2 `en` @uakci #4sopBa3KO 2025-11-28T11:55:00.590Z
 prefix: turn a modality into a complementizer adjoining to a noun phrase to resolve its referents to the possible-worlds predicated by the complementizer clause
 uakci (2025-11-28T11:56:19.195Z): **jí, jị̂aq'ao naq jí** ‘me if I was a man’; ‘me [in worlds in which I’d be a man]’; **zíudıu, jị̂aq'ea jeı péı 4 pízıu** ‘mathematics if pi could be 4’
 uakci (2025-11-28T11:57:19.804Z): (does not have to be used with a counterfactual modality; if not, then the resolved referents are ambiguous as to whether they belong to w0)
@@ -43455,6 +43461,9 @@ predicate: ‘gather’; ▯ (plural) gather/collect at locus ▯ (intransitive 
 kueq ± `pl` @jiqci #z8oZIOTgUk 2023-07-31T08:21:00.965Z
 ▯ są zgromadzone w/wokół ▯.
 
+kueqbaı ± `en` @Ilmen #hkXwtWbTj 2025-12-21T22:36:49.551Z
+▯ assembles ▯.
+
 kueqbeq ± `en` @uakci #nUF7ky0oh 2021-11-07T11:51:39.395Z
 ▯ is a heap/pile of ▯.
 
@@ -46687,6 +46696,8 @@ Having property ▯ entails having property ▯.
 lıho +3 `en` @uakci #-AVuVjQfL 2022-03-31T17:43:13.341Z
 determiner: other X’s not worth mentioning
 uakci (2022-03-31T17:43:29.652Z): **X ru Y ru lıho** ‘X, Y, and so on’
+mati (2025-12-21T14:23:13.161Z): ← jbo li'o?
+mati (2025-12-21T14:27:04.027Z): kw: et cetera, and so on
 
 lıhoı ± `en` @Ilmen #5FKKK1JHQ 2019-02-09T20:56:54.000Z
 ▯ is the referent of the most recently mentioned lî-clause.
@@ -62853,7 +62864,7 @@ peodo ± `en` @uakci #Uhn5Xj3J8 2023-09-09T09:17:54.419Z
 peodo ± `en` @Laqme #CyIEfZJHJ 2023-11-15T00:27:09.145Z
 ▯ injects, into ▯, ▯.
 
-peodoazo ± `en` @salarua #Yckm9aKHh 2022-12-12T21:10:47.713Z
+peodoazo -1 `en` @salarua #Yckm9aKHh 2022-12-12T21:10:47.713Z
 predicate: ‘syringe’; ▯ is a syringe
 
 peofuı ± `en` @uakci #RAtxZ6pAL 2023-06-06T08:44:28.525Z
@@ -78629,7 +78640,7 @@ shuaıtue -1 `en` @uakci #5pp1llnpj 2020-02-05T18:16:21.279Z
 shuaıtuım ± `en` @Laqme #-hdTvS8Fk 2024-10-16T00:12:44.743Z
 ▯ is a stool.
 
-shuajam ± `en` @Laqme #CfCLwkjCv 2024-01-06T17:58:17.304Z
+shuajam +1 `en` @Laqme #CfCLwkjCv 2024-01-06T17:58:17.304Z
 ▯ is an hourglass.
 
 shuajeoq ± `en` @robintown #yOBdPcqd0 2025-12-10T06:09:55.906Z
@@ -80384,6 +80395,9 @@ el (2022-08-19T21:06:55.622Z): moq
 
 teaızua ± `en` @seaqtaq #tVQ5CvmHn 2024-10-29T15:40:36.208Z
 ▯ (agent) averts/delays/staves off ▯ happening
+
+teaja ± `en` @jiqci #Bb-nQncSz 2025-12-21T14:26:41.986Z
+▯ scares/frightens ▯.
 
 teajua +2 `en` @Laqme #MA9x8Cn0v 2022-05-07T14:59:59.095Z
 ▯ is creepy/unsettling.
