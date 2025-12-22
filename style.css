@@ -4,6 +4,7 @@
 }
 :root {
   --font: "Noto Sans", "Noto Sans CJK JP", "iosevie", system-ui, -apple-system, sans-serif;
+  --mono: "iosevie", ui-monospace, monospace;
   --bg:     light-dark(#f5f3ff, #0f0e1a);
   --fg:     light-dark(#1a1a1a, #e5e7eb);
   --input:  light-dark(#ffffff, #1a1a2e);
@@ -105,9 +106,30 @@ a {
     text-decoration: underline;
   }
 }
+.date {
+  font-family: var(--mono);
+  display: inline-block;
+  position: relative;
+  &[data-id]::after {
+    content: "#" attr(data-id);
+    position: absolute;
+    left: 50%;
+    top: 0.125rem;
+    width: calc(12ch + 1px);
+    text-align: center;
+    transform: translateX(-50%);
+    font-size: 0.83em;
+    background: var(--bg);
+    color: var(--orange);
+    opacity: 0;
+  }
+  &[data-id]:hover::after {
+    opacity: 1;
+  }
+}
 code {
   color: var(--orange);
-  font-family: "iosevie", var(--font);
+  font-family: var(--mono);
 }
 :is(#bottom, #res, #len):not(:empty) ~ #howto {
   display: none;
@@ -141,7 +163,7 @@ dt {
   .nobr :hover {
     color: var(--purple);
   }
-  a:not([class], [href*=toadua\.uakci\.space]) {
+  a:not([class]:not(.date), [href*=toadua\.uakci\.space]) {
     color: inherit;
   }
 }

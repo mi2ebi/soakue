@@ -1,7 +1,13 @@
 const $ = x => document.getElementById(x);
 function mkel(tag, props, children) {
   const element = document.createElement(tag);
-  Object.assign(element, props);
+  for (const [key, value] of Object.entries(props)) {
+    if (key.startsWith("data-")) {
+      element.setAttribute(key, value);
+    } else {
+      element[key] = value;
+    }
+  }
   for (const child of children) {
     if (child) {
       element.append(child);
@@ -30,7 +36,7 @@ function htmlify(json) {
         " ",
         makeLink("@" + json.user, json.user),
         " ",
-        makeLink("#" + json.id, json.date.slice(0, 10)),
+        makeLink("#" + json.id, json.date.slice(0, 10), { className: "date", "data-id": json.id }),
         " ",
         mkel("span", { "className": "score" }, [
           ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1")
@@ -47,7 +53,7 @@ function htmlify(json) {
       ]),
       mkel("span", { dir: "ltr" }, replaceLinks(note.content)),
       " ",
-      mkel("span", { "className": "scope" }, [/^\d/.test(note.date)
+      mkel("span", { "className": "scope date" }, [/^\d/.test(note.date)
         ? note.date.slice(0, 10)
         : new Date(note.date).toISOString().slice(0, 10)]),
       mkel("br", {}, [])
