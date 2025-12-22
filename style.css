@@ -3,7 +3,7 @@
   transition: background-color 0.2s, border-color 0.2s;
 }
 :root {
-  --font: "Noto Sans", "Noto Sans CJK JP", "iosevie", system-ui, -apple-system, sans-serif;
+  --font: "Noto Sans", "iosevie", "Noto Sans CJK JP", system-ui, -apple-system, sans-serif;
   --mono: "iosevie", ui-monospace, monospace;
   --bg:     light-dark(#f5f3ff, #0f0e1a);
   --fg:     light-dark(#1a1a1a, #e5e7eb);
