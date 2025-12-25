@@ -29099,6 +29099,9 @@ hıderudo ± `en` @Hoemai #IcnnMwkot 2019-03-08T23:19:40.000Z
 hıdo ± `en` @jiqci #AOoPor1fY 2023-05-04T21:18:50.784Z
 ▯ is hydrogen.
 
+hıdokabo ± `en` @evie #QmiagslSu 2025-12-24T05:58:32.290Z
+▯ is a hydrocarbon
+
 hıdua +1 `en` @Laqme #7VJdeEi4E 2019-12-16T13:53:34.116Z
 ▯ knows which thing satisfies ▯.
 
@@ -32029,6 +32032,9 @@ Po íme ▯.
 
 ımfueqza ± `en` @salarua #BgvuTx-ri 2022-12-18T22:31:18.608Z
 predicate: ‘influenza’; ▯ is influenza
+
+ımfueqzabıa ± `en` @Ilmen #vFc5KBTlk 2025-12-24T20:06:39.440Z
+▯ has influenza.
 
 ımlaq +1 `en` @jiqci #0i-HT3-zE 2024-04-17T10:46:16.430Z
 ▯ is a giant.
@@ -45879,7 +45885,7 @@ lemıu +2 `en` @Machy #q_bpy0xQC 2020-06-26T16:29:30.436Z
 ▯ expects ▯ to be the case.
 Ilmen (2025-10-31T19:22:44.510Z): officialized: yes
 
-lemıu ± `en` @official #Xn2vugceZN 2022-07-19T18:30:52.602Z
+lemıu +1 `en` @official #Xn2vugceZN 2022-07-19T18:30:52.602Z
 predicate: ‘expect’; ▯ expects ▯ to be the case.
 
 lemıu ± `tok` @el #tUUd1Dfma 2022-07-10T07:05:47.381Z
@@ -75867,6 +75873,7 @@ suzıkodo ± `en` @robintown #QYlRfUHu6 2023-09-14T11:59:06.227Z
 suzıshoaı ± `en` @seaqtaq #Y85RQt7qE 2024-09-30T22:51:23.198Z
 ▯ is a helicopter
 seaqtaq (2024-09-30T22:52:06.293Z): Calque (heli-copter: spiral-wing). Other compounds seemed quite long
+evie (2025-12-24T05:17:41.085Z): *helico-pter
 
 ⚠ sh +1 `en` @Laqme #R24Tm7UOf 2023-11-07T15:34:09.874Z
 interjection: 'shh', 'shush'
