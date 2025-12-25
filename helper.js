@@ -29,10 +29,10 @@ function htmlify(json) {
   return mkel("div", { "className": "entry" }, [
     mkel("dt", {}, [
       json.warn ? mkel("span", {}, "⚠\ufe0f ") : null,
-      makeLink(json.head, json.head, { className: "toa" }),
+      makeLink(json.head, json.head.replace(/'/g, "’"), { className: "toa" }),
       " ",
       mkel("span", { "className": "nobr" }, [
-        makeLink("scope:" + json.scope, json.scope, { className: "scope" }),
+        makeLink("$" + json.scope, json.scope, { className: "scope" }),
         " ",
         makeLink("@" + json.user, json.user),
         " ",
