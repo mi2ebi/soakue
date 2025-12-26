@@ -1949,7 +1949,7 @@ Laqme (2023-12-19T13:21:23.282Z): **Tao áma hí raı bá?** = What shall we do?
 bä +2 `en` @seaqtaq #-pzYxLJo9 2024-10-22T23:35:15.141Z
 hortative/counterfactual optative illocution: "If only..."/"Were that..."
 
-bâ +3 `en` @Laqme #09NgrvVd3 2021-10-11T21:03:28.309Z
+bâ +4 `en` @Laqme #09NgrvVd3 2021-10-11T21:03:28.309Z
 imperative illocution
 
 ⚠ baaaadı ± `en` @evie #LwTY_2_Wq 2024-10-11T07:41:05.879Z
@@ -3233,6 +3233,9 @@ beoja +1 `en` @robintown #jy20c9pbe 2023-11-09T20:40:18.862Z
 robintown (2023-11-09T20:41:54.333Z): **beo** + 'ja' < **aıja**
 evie (2025-05-09T20:41:39.520Z): edit
 
+beoja ± `en` @Ilmen #lYH6vRrH8 2025-12-25T22:09:28.603Z
+What has the property ▯ changes.
+
 beojeqda ± `en` @salarua #IumsiWd_j 2021-08-17T06:53:48.969Z
 ▯ is genderfluid
 
@@ -3256,7 +3259,7 @@ beolaq ± `en` @Laqme #--K25atrH 2023-10-26T21:49:00.473Z
 Laqme (2023-10-26T21:49:52.850Z): Toadaka came up with this once and I really liked it
 Laqme (2024-07-11T12:21:05.832Z): PSM (phono-semantic matching) of "verlan" with **beo** + **laq**
 
-beolı ± `en` @Ilmen #dceAllT87 2018-09-19T22:32:03.000Z
+beolı -1 `en` @Ilmen #dceAllT87 2018-09-19T22:32:03.000Z
 What has the property ▯ changes.
 
 beom ± `en` @lassc #HmUV137H3 2025-03-20T21:13:41.406Z
@@ -24235,6 +24238,10 @@ gıuduo -1 `en` @Ilmen #u9_NGy8dP 2020-01-26T21:19:02.352Z
 gıufa ± `en` @seaqtaq #m2WQUhHwL 2019-01-31T03:39:32.000Z
 ▯ goes along path ▯ from ▯
 
+gıufa ± `en` @Ilmen #jB5rtlIfj 2025-12-25T22:57:19.278Z
+▯ goes along path ▯.
+Ilmen (2025-12-25T22:57:25.939Z): discriminator: 2
+
 gıume ± `en` @lassc #xrUTAJzeV 2025-11-20T22:18:35.802Z
 ▯ is a queue/file/line (first-in/first-out arrangement).
 
@@ -29102,8 +29109,12 @@ hıdo ± `en` @jiqci #AOoPor1fY 2023-05-04T21:18:50.784Z
 hıdokabo ± `en` @evie #QmiagslSu 2025-12-24T05:58:32.290Z
 ▯ is a hydrocarbon
 
-hıdua +1 `en` @Laqme #7VJdeEi4E 2019-12-16T13:53:34.116Z
+hıdua ± `en` @Laqme #7VJdeEi4E 2019-12-16T13:53:34.116Z
 ▯ knows which thing satisfies ▯.
+
+hıdua ± `en` @Ilmen #zPH6cVNgv 2025-12-25T22:49:29.108Z
+▯ knows what is the answer to question ▯ (embedded interrogative).
+Ilmen (2025-12-25T22:49:49.627Z): discriminator: 2
 
 hıe ± `en` @official #PZ5jW6zzXc 2019-05-05T22:25:52.347Z
 predicate: ‘carry’; ▯ carries/bears/hauls ▯.
@@ -32324,6 +32335,12 @@ predicate: ‘renounce’; ▯ renounces satisfying property ▯
 ıqfuaq ± `en` @Ilmen #3QaV3iBhb 2024-10-23T21:15:30.295Z
 ▯ is an image, a picture depicting something with property ▯.
 
+ıqgaq ± `en` @Ilmen #dddQJ6_Xw 2025-12-25T21:39:28.791Z
+▯ accompanies, is with ▯ in having property ▯.
+
+ıqgaqcıa ± `en` @Ilmen #PudX2wQYz 2025-12-25T21:35:21.908Z
+▯ is alone to have property ▯.
+
 ıqgı ± `en` @Ilmen #mfjC0gQkA 2024-09-25T13:55:19.564Z
 having property ▯ is good/beneficial.
 
@@ -32987,6 +33004,9 @@ jadıla ± `en` @uakci #_AchOkVYa 2024-07-10T10:19:20.151Z
 
 jadına +1 `en` @Laqme #40ISreDX- 2024-07-07T11:33:42.481Z
 interjection: ‘hello everyone’
+
+jadua ± `en` @Ilmen #3YP8C-ztl 2025-12-25T22:48:47.321Z
+▯ knows what has property ▯.
 
 jaga +2 `en` @Laqme #JJQhCscC_ 2022-02-04T13:37:30.737Z
 interjection: ‘congratulations! I'm happy for you!’
