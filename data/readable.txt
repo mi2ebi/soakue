@@ -1408,6 +1408,12 @@ aqbo ± `tok` @el #HXpRXAm4s 2022-07-10T07:07:14.728Z
 aqbohuıtuaruaq ± `en` @Ilmen #uguqqxgy9 2022-04-10T21:17:25.164Z
 ▯ blames, accuses ▯ for ▯ being the case, which is actually the responsability of the former (the blamer/accusator).
 
+aqcha ± `en` @Dembim #9MvQfzSov 2025-12-26T15:00:49.967Z
+▯ happens in the manner and to the degree that it happens
+Dembim (2025-12-26T15:02:42.079Z): state of affairs ▯ is what it is. ▯ is true just as it's true
+Dembim (2025-12-26T15:03:56.810Z): Frame: 0
+Dembim (2025-12-26T15:15:49.327Z): not referring to the real world per se— when it appears in a counterfactual, refers to how the subject takes place in the counterfactual
+
 aqcheoja ± `en` @seaqtaq #KlCnpM9Dz 2024-11-23T00:55:24.494Z
 ▯ makes it so that they and ▯ are in relation ▯ with each other
 seaqtaq (2024-11-23T00:55:49.645Z): cheoja X Y Z == Tua X, ꝡä cheo X róı Y Z
@@ -1570,6 +1576,12 @@ aqshe ± `pl` @jiqci #F-ycxgP5GT 2023-07-31T08:19:43.245Z
 
 aqshekebo ± `en` @robintown #D7rGkgzpg 2021-10-21T03:57:05.542Z
 ▯ is a mule.
+
+aqtaq ± `en` @Dembim #Q3vjD9Suv 2025-12-26T16:00:12.349Z
+▯ satisfies property ▯ in the manner/ to the degree that it does
+Dembim (2025-12-26T16:01:04.219Z): Frame: c 1i
+Dembim (2025-12-26T16:01:28.258Z): See also <@Dembim aqcha>
+Dembim (2025-12-26T16:19:24.842Z): Muana « Kûı, ꝡá aqtaq huı nídu, nä juoq boaı úmo nídu da. » ~ "This situation is so bad that we should give up."
 
 Aqtatıka ± `en` @robintown #QlOsv3Wjx 2022-08-09T11:16:51.556Z
 ▯ is Antarctica.
@@ -3228,13 +3240,15 @@ beodama ± `en` @jiqci #jT0SJaHtK 2024-01-13T17:12:34.507Z
 beodo ± `en` @uakci #17koszY9a 2019-04-09T14:50:30.000Z
 ▯ is a variable; ▯ is a property which at, any given point in context space, is satisfied by exactly one maximal reference.
 
-beoja +1 `en` @robintown #jy20c9pbe 2023-11-09T20:40:18.862Z
+beoja +2 `en` @robintown #jy20c9pbe 2023-11-09T20:40:18.862Z
 ▯ changes/modifies ▯.
 robintown (2023-11-09T20:41:54.333Z): **beo** + 'ja' < **aıja**
 evie (2025-05-09T20:41:39.520Z): edit
+mimiaoganhaqpy (2025-12-26T04:57:53.727Z): discriminator: 1
 
-beoja ± `en` @Ilmen #lYH6vRrH8 2025-12-25T22:09:28.603Z
+beoja -1 `en` @Ilmen #lYH6vRrH8 2025-12-25T22:09:28.603Z
 What has the property ▯ changes.
+mimiaoganhaqpy (2025-12-26T04:57:57.383Z): discriminator: 2
 
 beojeqda ± `en` @salarua #IumsiWd_j 2021-08-17T06:53:48.969Z
 ▯ is genderfluid
@@ -3814,7 +3828,7 @@ bıapuı ± `en` @Ilmen #7cy7apGmH 2020-03-16T22:42:48.463Z
 bıapuıtue ± `en` @Ilmen #fDdAEOaMA 2020-03-16T22:40:55.744Z
 ▯ is an epidemic of disease ▯.
 
-bıaq +2 `en` @official #OmubwuaVxD 2019-05-05T22:24:58.348Z
+bıaq +3 `en` @official #OmubwuaVxD 2019-05-05T22:24:58.348Z
 predicate: ‘enough’; ▯ is enough; ▯ sufficiently satisfies property ▯.
 fagri (2019-06-25T03:56:50.757Z): I'll note that this is not in the JEO frame, unless the 1-ary definition is supposed to be interpreted as "▯ is true enough"
 robintown (2022-01-30T17:25:53.414Z): Use pùoq to express "enough to satisfy property ▯"
@@ -6771,7 +6785,7 @@ caberubıso ± `en` @Ilmen #840C1zkaN 2023-01-14T20:42:16.547Z
 ▯ is a sarbecovirus.
 Ilmen (2023-01-14T20:43:15.874Z): Etymology: ⟪caha⟫ + ⟪beta⟫ + ⟪ruaıchea⟫ + ⟪bıso⟫; approximative calque of ⟪Sarbecovirus⟫, ⟪SARS-beta-corona-virus⟫.
 
-cabıaq ± `en` @Ilmen #TOjGOCJYv 2023-11-04T17:15:34.904Z
+cabıaq +1 `en` @Ilmen #TOjGOCJYv 2023-11-04T17:15:34.904Z
 ▯ is the case to a sufficient amount for ▯ to be the case.
 
 cabıaq -1 `en` @Ilmen #yEvkHzigx 2019-01-30T10:46:41.000Z
@@ -13194,7 +13208,7 @@ There is a path from ▯ to ▯ via relation ▯.
 chuecuoı -1 `toa` @robintown #8f0C5yVK5 2022-08-10T12:20:52.475Z
 Raı sa chueme sïy tá ▯ ru fäy tá ▯ ru lä tushı fıa tushı sıe lëaqfıa fía síe chúeme bı cuoı fía síe ▯.
 
-chuechao +2 `en` @fagri #19h1ed5mG 2021-08-10T05:26:39.293Z
+chuechao +3 `en` @fagri #19h1ed5mG 2021-08-10T05:26:39.293Z
 ▯ is a train (vehicle)
 
 chuecheo ± `en` @Ilmen #KRXWogGlu 2025-04-27T22:09:45.561Z
@@ -17520,7 +17534,7 @@ fagri (2021-10-03T16:35:07.182Z): tag: as though
 duceo ± `en` @seaqtaq #cpkExKnZW 2019-04-02T04:17:18.000Z
 It turns out ▯ is the case
 
-ducha +1 `en` @seaqtaq #F3i82tBmm 2019-07-25T07:13:27.197Z
+ducha +2 `en` @seaqtaq #F3i82tBmm 2019-07-25T07:13:27.197Z
 ▯ takes place in a way that suggests that ▯ is true
 seaqtaq (2019-07-25T07:13:44.416Z): Fork of **chafaq**
 fagri (2021-10-03T16:35:21.683Z): tag: as though
@@ -32480,7 +32494,7 @@ Laqme (2023-01-24T22:54:06.725Z): Known as malgli (**maoguı**) or malglico to L
 ıqlu ± `en` @Ilmen #ZJ4tKdEzr 2022-10-28T15:35:25.123Z
 ▯ is an igloo.
 
-ıqma ± `en` @seaqtaq #T_QSDOf3Y 2024-07-30T21:42:28.731Z
+ıqma +1 `en` @seaqtaq #T_QSDOf3Y 2024-07-30T21:42:28.731Z
 ▯ is a property
 
 ıqme ± `en` @uakci #qeZfm12Cw 2023-03-11T22:39:00.368Z
@@ -35236,6 +35250,10 @@ jıaqnoı ± `en` @seaqtaq #OLVawgGhq 2025-05-12T14:34:34.508Z
 
 jıaqrao ± `en` @Ilmen #Xmatrh6Z3 2022-11-01T20:44:17.244Z
 null tense: ▯ is true without contextual restriction of interval of time (cancelling, substituting to any syntactically imposed tense).
+
+jıaqsahu ± `en` @Dembim #XQ0McSU0W 2025-12-26T14:53:31.198Z
+▯ is false in world ▯
+Dembim (2025-12-26T14:53:58.603Z): Frame: 0 c
 
 jıaqsha ± `en` @TheAndSys #yhVSw26fK 2024-02-16T02:51:18.240Z
 ▯ kills ▯
@@ -38170,7 +38188,7 @@ juopaku ± `en` @jiqci #Ur-EA70O4 2023-10-31T22:38:31.920Z
 juoq +1 `en` @official #gqqOq4Xz7T 2019-05-05T22:26:00.767Z
 predicate: ‘should’; ▯ should satisfy property ▯.
 
-juoq +2 `en` @robintown #W29_1hRvl 2022-01-16T16:22:59.150Z
+juoq +1 `en` @robintown #W29_1hRvl 2022-01-16T16:22:59.150Z
 ▯ should be the case; ▯ had better be the case if ▯ is the case.
 robintown (2022-01-16T16:23:14.731Z): A version of jủoq in the modal class
 
@@ -44556,6 +44574,10 @@ complementizer: ‘λ’; opens property clause
 lä -1 `en` @mimiaoganhaqpy #_y6kVmIa3 2022-12-07T03:14:03.469Z
 complementizer: ‘λ’; lambda clause
 
+labeo ± `en` @jiqci #X3om9EgrY 2025-12-26T12:51:51.497Z
+What has the property ▯ changes.
+jiqci (2025-12-26T12:56:50.385Z): = **beo** **ıqbo** = property ▯ changes in what it is satisfied by
+
 labeqda ± `en` @robintown #EhE9jSdJ8 2023-03-17T22:08:13.501Z
 ▯ is lavender (the plant).
 
@@ -45953,6 +45975,7 @@ lenhe ± `en` @jiqci #TiDOzVJ4j 2024-02-02T08:37:39.675Z
 
 leo ± `en` @official #Ns1FTfhtAQ 2019-05-05T22:26:32.274Z
 predicate: ‘try’; ▯ tries to satisfy property ▯.
+Isi (2025-12-26T23:32:23.387Z): attempt
 
 leo ± `toa` @Ilmen #E3bxrE3Ei 2020-01-25T22:18:12.052Z
 ≈ [X1] ja tao ja shıja bı tao tua táo sa zäı ca táo hóa shô táo shíja.
@@ -48413,7 +48436,7 @@ luaqche +1 `en` @Laqme #eLI6iQC7C 2022-06-24T13:14:25.405Z
 Laqme (2022-06-24T13:14:54.545Z): like a chess grandmaster or e-sports athlete
 Laqme (2022-06-24T13:15:20.596Z): maybe even regular sports athlete
 
-luaqche ± `en` @Laqme #vsN-ElRI- 2019-02-05T11:02:50.000Z
+luaqche -1 `en` @Laqme #vsN-ElRI- 2019-02-05T11:02:50.000Z
 ▯ is a professional player.
 uakci (2020-02-29T13:46:11.314Z): -1. I don’t think **che** implies profession or professionality. -> #-qSRd6w45
 
@@ -50547,7 +50570,7 @@ uakci (2022-07-26T20:14:58.800Z): X, Y -> forall x in X. exists X'. x in X' and 
 meashı -1 `toa` @uakci #4j9NEWg2e 2022-07-26T20:16:18.877Z
 tushı mea [ja raı] bı jeo sa mëa hóa zé cy [ja shıja]
 
-measho ± `en` @jiqci #JLqSNjfpp 2023-11-22T20:37:37.228Z
+measho +1 `en` @jiqci #JLqSNjfpp 2023-11-22T20:37:37.228Z
 ▯ joins / becomes a member of ▯.
 
 meashoe ± `en` @Laqme #MNxqNxUQ7 2022-08-02T13:44:38.417Z
@@ -56567,7 +56590,7 @@ neq- +1 `en` @Laqme #co4irK4YJ 2024-04-25T08:14:53.565Z
 prefix: "-soever", attaches to determiners to mean the domain is to be conceived of broadly
 Laqme (2024-04-25T08:16:03.057Z): **nẹ́qsa zu** "*some* language out there", **nẹ́qtu zu** "any language whatsoever", **nẹ́qsıa zu** "no language at all"
 
-neq +2 `en` @Laqme #iBXW_8Dka 2024-08-22T09:08:08.326Z
+neq +3 `en` @Laqme #iBXW_8Dka 2024-08-22T09:08:08.326Z
 ▯ is random / determined by luck or fortune.
 
 neq ± `en` @official #-FtqASV3d 2020-05-25T16:56:52.143Z
@@ -66766,7 +66789,7 @@ fagri (2019-12-19T03:37:40.628Z): +1
 rara -1 `toa` @uakci #AJZWqsHVh 2019-04-15T06:29:56.000Z
 jeo dóshı sa lú sıu hóa dógu da
 
-rarakuq ± `en` @Machy #S3euH2tQd 2022-02-14T22:18:12.664Z
+rarakuq +1 `en` @Machy #S3euH2tQd 2022-02-14T22:18:12.664Z
 ▯ implies ▯ while not outright stating it; ▯ plays coy.
 
 rarasaı ± `en` @uakci #0MXc3daYJ 2022-07-21T17:46:54.919Z
@@ -67402,11 +67425,11 @@ req ± `pl` @jiqci #TZ_toe2FQ3 2023-07-31T08:22:01.342Z
 req ± `ru` @SuperSpaceNiM #zbZsFVfMW 2024-08-15T18:38:53.398Z
 ▯ — человек, человеческое существо
 
-req ± `en` @jiqci #DT_WcfST2 2025-03-07T09:20:31.481Z
-▯ is a sentient being.
-
 req ± `jbo` @zearen #9DlfBGpS9 2025-03-21T23:15:56.330Z
 ▯ remna
+
+req -1 `en` @jiqci #DT_WcfST2 2025-03-07T09:20:31.481Z
+▯ is a sentient being.
 
 req -1 `jbo` @Laqme #5naEjNcEf 2025-04-03T21:38:29.338Z
 ▯ remna
@@ -87245,7 +87268,7 @@ zıqrıaq ± `en` @uakci #-iAff4WIL 2022-01-02T14:17:34.891Z
 zıqsopekea ± `en` @seaqtaq #DGYw6meZF 2024-07-03T02:32:01.681Z
 ▯ is an electronic relay
 
-zıqsha ± `en` @el #fqyT9muIN 2022-01-05T23:04:39.447Z
+zıqsha +1 `en` @el #fqyT9muIN 2022-01-05T23:04:39.447Z
 ▯ joins online community/locus/chatroom/etc ▯
 
 zıqshuısı ± `en` @lassc #JGPeVekai 2025-03-17T17:30:51.217Z
