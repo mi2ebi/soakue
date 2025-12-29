@@ -221,6 +221,6 @@ dd {
     padding: 16px 12px;
   }
   #search {
-    max-width: 100%;
+    max-width: none;
   }
 }
