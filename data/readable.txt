@@ -1976,6 +1976,10 @@ baba'ıqga ± `en` @Ilmen #uEuvwrHtV 2024-03-20T19:57:04.809Z
 ▯ is a Baba Yaga (a hag from Slavic mythology).
 Ilmen (2024-03-20T19:59:27.374Z): Etymology: Proto-Slavic ⟪bàba ęga⟫, Proto-Balto-Slavic ⟪bā́ˀbāˀ inˀgāˀ⟫.
 
+bababa ± `en` @evie #uX-LPCiK3 2025-12-29T17:25:31.322Z
+▯ is a Predilex sememe ID
+evie (2025-12-29T17:25:37.946Z): sememe: bababa
+
 Babado ± `en` @countries #xB7pSkz-iQd 2023-10-02T12:22:03.825Z
 ▯ pertains to the culture of Barbados.
 
@@ -9234,12 +9238,12 @@ cuaqdıu ± `en` @Ilmen #bMRMmScp9 2023-09-29T08:45:35.230Z
 cuaqdıu -1 `en` @uakci #gFom1KkAi 2020-05-20T17:27:33.321Z
 ▯ is a theory.
 
-cuaqfıeq ± `en` @uakci #9-zUr4nIo 2021-09-04T13:58:11.556Z
-▯ derives compound/serial/complex idea ▯ from components ▯.
-
 cuaqfıeq ± `en` @Ilmen #-JzU7Hfiu 2025-12-28T16:59:17.064Z
 ▯ invents concept ▯.
 Ilmen (2025-12-28T17:00:38.357Z): I think the concept of invention is primarily about concepts, kinds, and not specifically about the physical instantiation of said concepts or kinds.
+
+cuaqfıeq -1 `en` @uakci #9-zUr4nIo 2021-09-04T13:58:11.556Z
+▯ derives compound/serial/complex idea ▯ from components ▯.
 
 cuaqke ± `en` @uakci #e443Y_2st 2021-09-04T14:03:54.974Z
 ▯ is a specific/contextual instantiation/reification of concept ▯.
@@ -14655,6 +14659,10 @@ daqgoa +1 `en` @Ilmen #GmVdzRJqk 2019-01-23T21:21:32.000Z
 daqgoabo ± `en` @Ilmen #xfhE-YsOx 2024-10-07T20:47:11.977Z
 ▯ is a spatiotemporal entity (having a location, a size, a duration…).
 
+daqgoachıu ± `en` @Dembim #ff21WCAq5 2025-12-29T13:44:27.165Z
+▯ is the spatiotemporal address of ▯
+Dembim (2025-12-29T13:44:57.457Z): see <daqchıu>, <chıu>
+
 daqgoajaq ± `en` @Ilmen #0DVzLbeHA 2020-02-25T21:42:10.360Z
 ▯ has great spatiotemporal extent/size/scale.
 
@@ -17376,6 +17384,10 @@ duaochaı +1 `en` @robintown #mlXFFOTJA 2022-06-25T03:30:10.385Z
 ▯ is sweet tea.
 robintown (2022-06-25T03:30:14.822Z): it's NOT just dủao chảı 😤
 
+duaodoao ± `en` @Dembim #ceLW21Jdn 2025-12-29T15:14:17.422Z
+▯ is a dessert pie or tart
+Dembim (2025-12-29T15:19:37.555Z): Usually sweet, but I suppose any pie that easily fills the dessert role would be fine, even if it's not sweet or actually eaten as dessert
+
 duaodu ± `en` @uakci #mirCrnKji 2023-02-25T19:34:59.866Z
 ▯ is an artificial sweetener.
 
@@ -18296,6 +18308,7 @@ eıche ± `en` @Laqme #WJDQZ5GRk 2024-04-26T15:47:00.077Z
 
 eıchı ± `en` @robintown #T8qj2uYLR 2022-08-01T22:16:07.463Z
 ▯ is an ant.
+Ilmen (2025-12-29T17:11:04.823Z): sememe: yawifa
 
 eıdoe ± `en` @seaqtaq #Vkr0mVfoG 2024-11-09T04:55:13.647Z
 ▯ functions as a ▯; ▯ circumstantially satisfies some salient property or properties the way ▯ would
@@ -24033,6 +24046,9 @@ TheAndSys (2024-10-31T17:32:22.726Z): glows
 
 gıozıa -1 `en` @Ilmen #PHzM0OoCg 2023-04-23T18:26:55.353Z
 ▯ emits light ▯.
+
+gıozıachom'aı ± `en` @Ilmen #medA5Ff4e 2025-12-29T18:01:12.085Z
+▯ is a tiger beetle (Cicindelidae family).
 
 gıpa ± `en` @uakci #5-RsJweui 2019-04-23T08:28:37.000Z
 ▯ is made to satisfy property ▯, which is good for them; ▯ satisfies property ▯, which is done by somebody for them.
@@ -34761,7 +34777,7 @@ jeqtı ± `en` @seaqtaq #XfrtqNuqD 2019-01-31T18:13:40.000Z
 jeqtıaı ± `en` @uakci #tO1C40TT9 2021-09-06T18:08:23.873Z
 ▯ is a rectangular cuboid.
 
-jeqtıem ± `en` @Laqme #O2HwiOVBa 2024-11-04T11:58:20.293Z
+jeqtıem +1 `en` @Laqme #O2HwiOVBa 2024-11-04T11:58:20.293Z
 ▯ is a bijection/correspondence.
 jiqci (2025-09-23T18:03:48.792Z): isomorphism
 
@@ -42773,7 +42789,7 @@ group/set  ▯ has ordering x1, x2, x3... where xn is in the group/set.
 komodobarala ± `en` @Hoemai #WNnQ_mwke 2019-04-03T21:47:00.000Z
 ▯ is a Komodo dragon/Komodo monitor (Varanus komodoensis).
 
-komorebı ± `en` @Machy #SSC7sNTbE 2020-06-03T06:30:53.302Z
+komorebı +1 `en` @Machy #SSC7sNTbE 2020-06-03T06:30:53.302Z
 ▯ is komorebi/dappled sunlight as a result of interference with tree(s) ▯.
 Machy (2020-06-03T06:31:00.090Z): japanese loan
 Machy (2020-06-03T06:32:34.534Z): contra #gjIEl1XKB
@@ -46071,6 +46087,10 @@ leoqche ± `en` @robintown #LgXzStLcO 2023-06-06T14:22:58.379Z
 
 leoqchea +2 `en` @Ilmen #g57LBBKD_ 2019-04-23T22:16:08.000Z
 ▯ is a helmet.
+
+leoqchom ± `en` @Ilmen #U5_XnUsTt 2025-12-29T17:09:48.084Z
+▯ is a beetle, an insect of the Coleoptera order.
+Ilmen (2025-12-29T17:09:54.495Z): sememe: kotora
 
 leoqchuo ± `en` @official #KmNILcSGz 2019-05-05T22:26:32.551Z
 predicate: ‘shield’; ▯ is a shield.
@@ -54674,7 +54694,7 @@ muoqtoaı ± `en` @uakci #Wm2jE8UZD 2018-12-30T21:43:30.000Z
 muoqtuao ± `en` @Ilmen #LQ_EtnIeU 2019-01-07T21:21:21.000Z
 ▯ has a small mass.
 
-muorao +1 `en` @Machy #-BU3Wy-rO 2021-10-08T04:02:16.592Z
+muorao +2 `en` @Machy #-BU3Wy-rO 2021-10-08T04:02:16.592Z
 ▯ occurs during the whole duration of ▯
 
 muoseu ± `en` @Ilmen #PXV7J7UO1 2019-03-18T17:55:46.000Z
@@ -58260,6 +58280,10 @@ uakci (2023-05-18T10:57:37.353Z): or **ní rıaq**, etc.
 nıtırao ± `en` @Ilmen #MBYqEZaCM 2022-10-24T12:10:46.287Z
 ▯ is the case here and now.
 
+nıtırıu ± `en` @Dembim #gs2toMNzf 2025-12-29T13:33:53.522Z
+▯ returns to this place/ comes back
+Dembim (2025-12-29T13:34:43.367Z): = <rıu> <nıtı> / <tırıu> <nî>
+
 nıto ± `en` @jiqci #ni4Hlip7e 2023-05-04T21:18:28.722Z
 ▯ is nitrogen.
 
@@ -58952,6 +58976,9 @@ noqdoa ± `en` @uakci #8tiy20tvC 2022-07-02T16:05:31.276Z
 
 noqdoase ± `en` @uakci #l14_VMHqC 2022-07-02T16:06:20.601Z
 ▯ is the flavor/taste “variant” of ▯.
+
+noqdu ± `en` @Dembim #JZ8VfYObe 2025-12-29T14:59:08.573Z
+▯ seems to be the case gustatorily/ judging by taste
 
 noqfuı ± `en` @Laqme #vzzvOu96S 2025-02-19T12:09:46.478Z
 ▯ is mild (not spicy).
@@ -64396,7 +64423,7 @@ evie (2024-08-24T05:38:46.308Z): this one turns à into a + combining `
 poetıe ± `en` @seaqtaq #QXYEjOy4h 2024-10-14T22:38:06.228Z
 ▯ insulates ▯
 
-poetıem ± `en` @Laqme #aRAIGOZpy 2024-11-04T11:59:31.146Z
+poetıem +1 `en` @Laqme #aRAIGOZpy 2024-11-04T11:59:31.146Z
 ▯ is an injection / injective function.
 jiqci (2025-09-23T18:07:32.718Z): monomorphism
 
@@ -65854,6 +65881,9 @@ puoqcıa -1 `en` @uakci #ah45-Ac1e 2022-02-10T21:48:45.481Z
 puoqchoq ± `en` @uakci #VsnBGC-wM 2022-07-29T06:39:38.380Z
 ▯ uses ▯ for its intended purpose.
 
+puoqdu ± `en` @Dembim #ss0AEh309 2025-12-29T15:00:59.871Z
+▯ seems to be the case tactilely/ judging by feel/touch
+
 puoqgı ± `en` @uakci #xpKe-eUcP 2022-05-11T12:48:38.211Z
 ▯ is good/fit for purpose ▯.
 
@@ -66540,7 +66570,7 @@ raomıeq ± `en` @uakci #V29XSwojA 2022-04-27T05:17:34.539Z
 ▯ dates/chronologizes ▯; ▯ measures the date/age of ▯.
 uakci (2022-04-27T05:17:43.098Z): e.g., carbon dating
 
-raomuo ± `en` @fagri #hd5LyJ-UR 2019-12-19T03:20:17.499Z
+raomuo -1 `en` @fagri #hd5LyJ-UR 2019-12-19T03:20:17.499Z
 ▯ occurs during the whole duration of ▯
 robintown (2022-01-02T22:32:43.742Z): keyword: throughout
 
@@ -69566,7 +69596,7 @@ rueı ± `en` @salarua #JotCmsEtn 2023-01-10T18:31:40.014Z
 predicate: ‘miserable’; ▯ is miserable/dejected/melancholy
 salarua (2023-01-10T18:32:11.203Z): synonym of **meo** with more poetic/extreme connotation
 
-rueı ± `en` @jiqci #NEHOXwOe5 2024-08-06T10:41:25.140Z
+rueı -1 `en` @jiqci #NEHOXwOe5 2024-08-06T10:41:25.140Z
 ▯ is a wind.
 jiqci (2024-08-06T10:41:49.768Z): **ırue** could be a more poetic/literary synonym
 Ilmen (2025-10-22T19:02:21.285Z): This sound form was already assigned a meaning by Salarua.
@@ -76997,6 +77027,7 @@ shemoı ± `en` @uakci #cc_cYA3mN 2019-03-30T21:33:25.000Z
 shemuo ± `en` @Laqme #1aW16KeOf 2024-04-27T23:02:26.666Z
 modality: exact necessity, X is necessary if Y and ¬X is necessary if ¬Y
 Laqme (2024-04-27T23:02:43.569Z): "if and only if"
+Dembim (2025-12-29T13:55:01.071Z): "iff"
 
 shenaıgı ± `en` @uakci #ORIz_U9dO 2019-01-20T17:06:59.000Z
 It would be good for ▯ to happen now; It’s about time ▯ happened.
@@ -77829,6 +77860,9 @@ uakci (2022-06-24T12:30:47.779Z): ▯ is fragrant
 shıqdenao ± `en` @uakci #Dz9fsZ6-D 2020-03-02T21:30:16.117Z
 ▯ is perfume.
 
+shıqdu ± `en` @Dembim #gdcaNjXIe 2025-12-29T14:57:38.233Z
+▯ seems to be the case olfactorily/ judging by scent
+
 shıqduao ± `en` @Neaqbua #eCOF7TODT 2024-09-23T23:08:02.281Z
 ▯ is sweet-smelling; ▯ has a sweet fragrance.
 
@@ -78357,6 +78391,10 @@ seaqtaq (2020-06-09T05:19:09.660Z): jokē
 
 shoaıheku +1 `en` @Hoemai #UEIZsEVfn 2019-04-06T18:08:28.000Z
 ▯ is a winged horse; ▯ is a pegasus.
+
+shoaıleoq ± `en` @Ilmen #jJO6JU_cm 2025-12-29T17:08:13.786Z
+▯ is an elytra.
+Ilmen (2025-12-29T17:08:19.323Z): sememe: wosive
 
 shoaıpıano ± `en` @jiqci #6q0T3I6Eh 2023-07-28T11:25:20.029Z
 ▯ is a grand piano.
@@ -82036,7 +82074,7 @@ tıetıaı ± `en` @uakci #eiNidWnE6 2022-02-25T17:48:39.410Z
 tıetıatı ± `en` @seaqtaq #ZYWX2F1nr 2020-06-28T20:23:28.724Z
 ▯ is pre-velar/articulated between the soft palate/velum and the uvula
 
-tıetıem ± `en` @Laqme #XOvJ1zbjc 2024-11-04T11:58:52.994Z
+tıetıem +1 `en` @Laqme #XOvJ1zbjc 2024-11-04T11:58:52.994Z
 ▯ is a surjection / surjective function.
 jiqci (2025-09-23T18:07:42.572Z): epimorphism
 
@@ -84667,6 +84705,9 @@ uakci (2021-10-18T17:34:11.581Z): each member of x₂ is associated with a separ
 
 tukue ± `en` @Laqme #fNaarJtBY 2021-08-05T14:59:32.407Z
 ▯ is an encyclopedia.
+
+tulaıkune +1 `en` @evie #eb7bJHqN9 2025-12-29T03:10:41.693Z
+▯ is a pangram
 
 tulı ± `en` @Ilmen #6bPf10tIS 2024-10-23T20:25:09.967Z
 every one thing has property ▯.
