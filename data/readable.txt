@@ -9537,7 +9537,7 @@ cuı ± `pl` @jiqci #EzdypvxNu7 2023-07-31T08:19:56.434Z
 cuıcuao +2 `en` @robintown #9kyU9tOft 2023-11-28T03:28:47.508Z
 ▯ is ultraviolet.
 
-cuıchaq +2 `en` @seaqtaq #XrIUc-H5X 2024-07-02T01:19:24.717Z
+cuıchaq +3 `en` @seaqtaq #XrIUc-H5X 2024-07-02T01:19:24.717Z
 ▯ is whatever-day
 seaqtaq (2024-07-02T01:20:08.124Z): Semi-joke word. Meant to be used when the speaker doesn't know what exact day some event occured/will occur
 lassc (2025-04-01T11:39:14.829Z): +1 its very fun!
@@ -18962,6 +18962,10 @@ fa ± `jbo` @zearen #cXOHsyJOG 2023-03-07T20:01:46.567Z
 fa ± `pl` @jiqci #7tk8wDC1a8 2023-07-31T08:20:17.974Z
 ▯ idzie do ▯.
 
+fa ± `en` @Isi #hD2ohHx8H 2024-09-11T19:57:34.140Z
+predicate: ‘go’; ▯ goes (somewhere); ▯ moves.
+Isi (2024-09-11T19:58:23.235Z): The second slot can be gotten back using **fana** as a preposition.
+
 fa ± `tr` @kazoo #NkRkr4Joo 2024-11-24T12:11:24.743Z
 ▯, ▯'e gider.
 
@@ -18971,10 +18975,6 @@ zearen (2023-03-07T20:01:26.171Z): tu'a li ni'upa se mukti lenu le se zanru be l
 
 fa -1 `toa` @Ilmen #-Vf2ppBWM 2020-01-24T16:35:04.708Z
 = tao duo ▯ ▯ ▯.
-
-fa -1 `en` @Isi #hD2ohHx8H 2024-09-11T19:57:34.140Z
-predicate: ‘go’; ▯ goes (somewhere); ▯ moves.
-Isi (2024-09-11T19:58:23.235Z): The second slot can be gotten back using **fana** as a preposition.
 
 fa -1 `jbo` @Laqme #M_wV6eABD 2025-04-03T21:35:02.845Z
 ▯ klama ▯
@@ -34706,12 +34706,12 @@ jeqkuna ± `en` @Laqme #0K8e5m1uG 2023-11-08T19:27:24.007Z
 jeqkuoı ± `en` @Ilmen #GWxyXB6ST 2019-12-29T19:13:39.859Z
 ▯ is equally or less the case than ▯; ▯ is equally or less than ▯ in property ▯.
 
-jeqmaı +1 `en` @fagri #feaLJPvcZ 2019-06-30T02:19:55.629Z
-▯ is gay (attracted to people of the same sex)
-fagri (2021-08-02T05:58:45.833Z): (includes bisexual people I think)
-
 jeqmaı +1 `en` @seaqtaq #XGKvy7Y3Z 2021-08-02T06:17:07.443Z
  ▯ is homoromantic/attracted only to those identifying/presenting the same gender-wise
+
+jeqmaı ± `en` @fagri #feaLJPvcZ 2019-06-30T02:19:55.629Z
+▯ is gay (attracted to people of the same sex)
+fagri (2021-08-02T05:58:45.833Z): (includes bisexual people I think)
 
 jeqme ± `en` @Ilmen #dKKlxTvmg 2019-09-08T15:07:55.378Z
 ▯ is uniform/homogenous.
@@ -56644,7 +56644,7 @@ Laqme (2024-04-25T08:16:03.057Z): **nẹ́qsa zu** "*some* language out there", 
 neq +3 `en` @Laqme #iBXW_8Dka 2024-08-22T09:08:08.326Z
 ▯ is random / determined by luck or fortune.
 
-neq ± `en` @official #-FtqASV3d 2020-05-25T16:56:52.143Z
+neq -1 `en` @official #-FtqASV3d 2020-05-25T16:56:52.143Z
 predicate: ‘luck’; ▯ is determined by the luck/fortune of ▯.
 fagri (2021-07-24T03:33:04.737Z): Daily Hoaqgio Thought: This could probably be used to mean "▯ happens, no thanks to ▯"
 
@@ -80554,7 +80554,7 @@ teakıq ± `en` @robintown #hgLjeB5K5 2022-07-31T14:01:46.303Z
 tealao ± `en` @Laqme #WyPIqkQw4 2025-01-01T14:21:18.607Z
 ▯ is apprehensive / dreads ▯ being the case.
 
-team +1 `en` @seaqtaq #z_czYLmIl 2025-05-12T14:58:46.149Z
+team +2 `en` @seaqtaq #z_czYLmIl 2025-05-12T14:58:46.149Z
 ▯ is to ▯'s detriment
 seaqtaq (2025-05-12T14:58:54.558Z): Antonym of **nhuq**
 
