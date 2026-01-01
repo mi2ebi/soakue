@@ -3064,6 +3064,9 @@ Ilmen (2020-03-26T20:38:01.299Z): Etymology: Proto-Indo-European *weys~weysós, 
 beıtua ± `en` @Ilmen #RsTqJeKYg 2018-10-05T20:18:21.000Z
 ▯ emphasizes ▯.
 
+bejemaı ± `en` @evie #btxdMq6Sf 2025-12-31T02:39:30.142Z
+▯ is vegemite
+
 bekerele ± `en` @salarua #OLBvTkSY_ 2022-12-13T00:16:16.493Z
 predicate: ‘becquerel’; ▯ is a becquerel
 
@@ -9711,6 +9714,9 @@ cupısaı ± `en` @jiqci #cd-qW5Pd_ 2023-03-11T22:59:19.584Z
 cuq +3 `en` @uakci #5XwM9StZs 2022-11-28T15:45:56.774Z
 ▯ leaves/departs from satisfying property ▯.
 
+cuqceo ± `en` @Dembim #QICpa_8q1 2025-12-31T20:30:38.834Z
+▯ has its natural start, begins at the time and in the way one would expect
+
 cuqdere +1 `en` @robintown #vDMXqTSY2 2021-08-07T13:49:57.991Z
 ▯ is a tsundere.
 Amo (2021-08-10T11:21:07.265Z): +1
@@ -10760,6 +10766,9 @@ cheotao ± `en` @uakci #ilgkZCxBO 2021-08-15T12:52:23.831Z
 
 cheoteq -1 `en` @uakci #hIhMrSUA6 2019-01-01T20:09:24.000Z
 ▯ barters ▯ with person ▯ for ▯.
+
+cheotıem ± `en` @jiqci #c2lI4mFNU 2025-12-31T16:08:26.066Z
+▯ is a bijection / correspondence.
 
 chepo ± `en` @Machy #fFj57DXxe 2022-09-19T03:43:13.671Z
 ▯ is a square, yard, courtyard, or similar.
@@ -17593,12 +17602,12 @@ duedaq ± `en` @lassc #G-gKADi50 2022-12-02T13:58:49.460Z
 duede ± `en` @TheAndSys #zoRF2x2S9 2023-04-30T01:47:55.257Z
 ▯ is graceful
 
-duehea ± `en` @nozz #PYdWycQIj 2019-12-14T23:24:03.804Z
-predicate 'hint'; ⌷ is a hint about the indirect question ⌷. In other words, ⌷ guides to the correct answer of ⌷.
-nozz (2019-12-14T23:24:43.902Z): I created this because i didn't reallty like "ruedūagī"
-
 duehea ± `en` @robintown #09iR-mNog 2022-01-26T19:11:36.243Z
 ▯ is a hint of ▯ being the case.
+
+duehea ± `en` @Ilmen #l41bJZO3C 2025-12-31T18:17:40.087Z
+predicate 'hint'; ⌷ is a hint about the indirect question ⌷; in other words, ⌷ guides to the correct answer of ⌷.
+Ilmen (2025-12-31T18:17:48.753Z): Word by Nozz.
 
 duekuaq ± `en` @uakci #jXv82BJGK 2019-04-12T07:35:19.000Z
 ▯ hereby corrects their previous utterance to ▯.
@@ -18965,9 +18974,17 @@ fa ± `pl` @jiqci #7tk8wDC1a8 2023-07-31T08:20:17.974Z
 fa ± `en` @Isi #hD2ohHx8H 2024-09-11T19:57:34.140Z
 predicate: ‘go’; ▯ goes (somewhere); ▯ moves.
 Isi (2024-09-11T19:58:23.235Z): The second slot can be gotten back using **fana** as a preposition.
+Dembim (2025-12-31T14:58:58.493Z): See also <gıam>.
+Dembim (2025-12-31T14:59:36.525Z): This definition of "fa" means "comes" just as much as it does "goes".
+Ilmen (2025-12-31T18:50:29.491Z): discriminator: 2
 
 fa ± `tr` @kazoo #NkRkr4Joo 2024-11-24T12:11:24.743Z
 ▯, ▯'e gider.
+
+fa ± `en` @Dembim #JYGUPYMe_ 2025-12-31T20:36:30.186Z
+predicate: ‘go’; ▯ moves/autotranslocates, volitionally, with the purpose of changing their spatial relationship with something particular
+Dembim (2025-12-31T20:38:32.360Z): For example: When one goes "to" somewhere, one moves themselves with the purpose of reducing the distance between themselves and their destination.
+Dembim (2025-12-31T20:49:24.057Z): See <gıam> for a not-per-se volitional or purposeful version
 
 fa -1 `jbo` @uakci #eFuXD6e-j 2020-01-09T18:25:52.026Z
 ▯ klama ▯ ▯
@@ -32369,6 +32386,10 @@ Neaqbua (2024-09-30T00:07:15.159Z): Replacement for the old meaning of **du**
 
 ıqdua ± `en` @Isi #yh1J9OXKB 2023-05-08T03:19:25.171Z
 predicate: ▯ knows how to satisfy property ▯.
+
+ıqfa ± `en` @Dembim #TUZ850eY5 2025-12-31T20:50:19.629Z
+▯ "moves" themselves volitionally with respect to property ▯, intentionally changing their way and/or degree of satisfying that property
+Dembim (2025-12-31T20:53:08.861Z): hyponym of <@official beo>
 
 ıqfaı ± `en` @Laqme #LoeIj3BcD 2024-06-28T00:18:38.068Z
 ▯ frequently/often satisfies property ▯.
@@ -48937,7 +48958,7 @@ luheqdue ± `en` @seaqtaq #hbOw78KHp 2020-05-14T21:51:26.947Z
 seaqtaq (2020-05-14T21:51:32.916Z): in spirit of muidue
 
 luhı ± `en` @Ilmen #9lGi8w5OS 2019-09-05T14:43:23.485Z
-The proposition "what satisfies the property ▯" satisfies the property ▯. In other words: considering the two properties ▯ and ▯, for all X, the proposition that X satisfies the first property is true iff it satisfies the second property, and furthermore, the proposition that X does not satisfy the first property is false iff it doesn't satisfy the second property.
+The proposition "what satisfies the property ▯" satisfies the property ▯; in other words: considering the two properties ▯ and ▯, for all X, the proposition that X satisfies the first property is true iff it satisfies the second property, and furthermore, the proposition that X does not satisfy the first property is false iff it doesn't satisfy the second property.
 
 luhı ± `jbo` @Ilmen #yRBfYTOSC 2019-09-05T14:47:05.425Z
 ▯ .amkau ▯
@@ -56685,7 +56706,7 @@ neqfaq ± `en` @Laqme #A0AO-d1_w 2019-02-09T13:51:32.000Z
 neqgam +2 `en` @Laqme #Zoyvpi6M- 2022-12-26T19:46:42.357Z
 ▯ is a die/dice.
 
-neqgeq +1 `en` @uakci #u-GYVb9bk 2020-03-19T22:49:17.770Z
+neqgeq +2 `en` @uakci #u-GYVb9bk 2020-03-19T22:49:17.770Z
 ▯ comes across / runs into ▯.
 
 neqgı ± `en` @fagri #5xH7YlSPD 2023-12-27T00:33:17.696Z
@@ -64338,6 +64359,11 @@ predicate: ‘apart’; ▯ is apart/separate from ▯ in property ▯.
 poe ± `pl` @jiqci #rT7hG4JFbV 2023-07-31T08:21:51.654Z
 ▯ i ▯ są osobno pod względem własności ▯.
 
+poe ± `en` @Dembim #G0syacanp 2025-12-31T15:39:50.118Z
+predicate: ‘apart’; ▯ is apart/separate from ▯.
+Dembim (2025-12-31T15:40:55.585Z): use «ôı» or an adverbial to recover the official k slot
+Ilmen (2025-12-31T18:51:16.678Z): discriminator: 2
+
 poebıe ± `en` @fagri #7az9v4-F- 2021-08-08T02:01:02.765Z
 ▯ happens after ▯, but not immediately after
 
@@ -66530,6 +66556,9 @@ raofaza ± `en` @cateyes #4Jkp9rP5w 2025-10-09T10:15:15.330Z
 ▯ is ingrain wallpaper
 cateyes (2025-10-09T10:17:37.913Z): loaned from German Raufaser(tapete)
 
+raogaqme ± `en` @Dembim #eaLjN_2wm 2025-12-31T15:45:11.511Z
+▯ is temporally continuous
+
 raogı ± `en` @Ilmen #YGBRgyBJW 2019-01-20T13:34:27.000Z
 ▯ is timely.
 
@@ -66600,6 +66629,9 @@ raoshe ± `en` @Ilmen #JcE0d0mHC 2021-11-03T22:54:21.458Z
 
 raoshı ± `en` @Laqme #NwgHGLC_7 2025-08-03T22:42:39.332Z
 ▯ are simultaneous / (all) at once / (all) at the same time.
+
+raoshıaı ± `en` @jiqci #gah7LHvWB 2025-12-31T15:47:44.907Z
+▯ is temporally continuous/contiguous.
 
 raoshıdaq ± `en` @Laqme #0VDZZ2r_Q 2025-08-03T22:42:08.150Z
 ▯ are simultaneous / (all) at once / (all) at the same time.
@@ -76562,6 +76594,9 @@ sharalaı +1 `en` @jiqci #WOX-ifPPY 2024-11-20T20:53:03.433Z
 shasoa ± `en` @seaqtaq #CuxISMdzY 2024-07-27T07:05:48.508Z
 ▯ advises/guides/leads ▯ to satisfy property ▯.
 
+shashaı ± `en` @Dembim #gEI4qF1Kk 2025-12-31T20:24:34.806Z
+▯ reaches its natural conclusion, ends at the time and in the way one would expect
+
 shata +1 `en` @uakci #xEQoSbSal 2022-05-14T22:13:41.636Z
 ▯ disposes of / discards / bins/removes/throws out ▯.
 Laqme (2024-05-09T13:14:12.341Z): gets rid of, tosses out
@@ -77258,6 +77293,9 @@ shıaboe ± `en` @robintown #f8F_EdJUF 2021-10-20T18:24:43.893Z
 
 shıaı ± `en` @jiqci #CtN0jZWca 2024-10-15T16:06:54.235Z
 ▯ is continuous / contiguous / without breaks.
+
+shıaıtıem ± `en` @jiqci #tgCt98Ucy 2025-12-31T15:48:27.163Z
+▯ is a continuous function.
 
 shıao ± `en` @official #Pgqhoo39xs 2023-08-14T13:01:16.998Z
 predicate: ‘disappear’; ▯ disappears / leaves perception.
@@ -79042,6 +79080,10 @@ seaqtaq (2024-11-04T09:51:42.629Z): Not to be confused with **teıduna**, which 
 
 shuetıem ± `en` @Laqme #qQEdqAEZ2 2024-11-04T12:00:24.176Z
 ▯ is a homomorphism / structure-preserving function.
+
+shuetıem ± `en` @jiqci #ZUTwPCTFG 2025-12-31T16:01:58.317Z
+▯ is an ▯ homomorphism, ▯ is a function preserving structure ▯.
+jiqci (2025-12-31T16:02:55.134Z): e.g. **shuetıem** **soaıgoa** (vector space homomorphism) = **ruoqtıem** (linear map)
 
 shuetua ± `en` @seaqtaq #LIW1-OQxw 2022-12-10T02:20:46.386Z
 ▯ perpetuates states of affairs ▯
@@ -82097,6 +82139,13 @@ tıgaı -1 `toa` @el #0hx7TaSZG 2022-12-03T13:49:25.949Z
 tıgaq ± `en` @uakci #QOqptq9Ui 2019-01-11T12:20:25.000Z
 ▯ stays with ▯ at ▯.
 
+tıgaq ± `en` @Dembim #Hiz1VG1wx 2025-12-31T15:43:06.621Z
+▯ is spatially together with ▯
+Ilmen (2025-12-31T18:51:36.161Z): discriminator: 2
+
+tıgaqme ± `en` @Dembim #LIgu7WiDC 2025-12-31T15:43:53.094Z
+▯ is spatially continuous
+
 tıgıq ± `en` @Laqme #MJ0vEaExz 2023-07-18T12:22:34.194Z
 ▯ is absent from ▯.
 
@@ -82557,6 +82606,9 @@ tıshatı ± `en` @Laqme #IZ13Ud5Ng 2022-03-18T01:56:15.053Z
 
 tıshatua ± `en` @fagri #-Np8t30L_ 2020-02-05T07:21:31.869Z
 ▯ brings ▯ to ▯
+
+tıshıaı ± `en` @jiqci #vL29TjFxd 2025-12-31T15:47:32.013Z
+▯ is spatially continuous/contiguous.
 
 tısho ± `en` @Machy #fSkXQJBDA 2020-05-25T23:17:02.822Z
 ▯ appears at ▯.
@@ -101545,7 +101597,7 @@ perfective aspect
 ⚠ taomıy ± `en` @Machy #IKNi3zIE9 2021-09-08T18:53:57.909Z
 ▯ are a team.
 
-⚠ taoshıy ± `en` @fagri #wCCQIK-Z6 2021-08-06T10:50:47.077Z
+⚠ taoshıy -1 `en` @fagri #wCCQIK-Z6 2021-08-06T10:50:47.077Z
 ▯ goes elsewhere to do ▯
 fagri (2021-08-06T10:51:05.700Z): No connotations of coming back or going particularly far to do the thing
 
@@ -102771,7 +102823,7 @@ How many people sang beautifully?
 ⚠ Suoı rıaq tì ke hëy cuao hóa ní ± `en` @examples #qTsld1MDU1 2022-05-27T20:54:31.187Z
 (B0074) Directly opposite stands a wonderful palace
 
-⚠ shuaınu jẽo +1 `en` @seaqtaq #NjxAqyGuM 2019-01-21T06:12:26.000Z
+⚠ shuaınu jẽo ± `en` @seaqtaq #NjxAqyGuM 2019-01-21T06:12:26.000Z
 It really do be like that 
 
 ⚠ Taocho huosı jí baq gıaq jãq da. -1 `en` @oldexamples #RlY9qhuXw7oz 2023-01-09T21:51:48.718Z
