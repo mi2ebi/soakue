@@ -13292,6 +13292,9 @@ chueqbeaq ± `en` @Laqme #D9YKS_VyT 2023-03-23T22:11:06.446Z
 chueqdoao ± `en` @jiqci #ur7jMPvh- 2025-02-04T12:57:06.791Z
 ▯ is a mortar.
 
+chueqdoaomuıq ± `en` @Ilmen #L3cCkvvsq 2026-01-01T21:51:38.151Z
+▯ is a mortar (weapon).
+
 chueqnıoq ± `en` @Laqme #vBfoz8Ysv 2023-03-23T22:09:05.768Z
 ▯ is a molar (tooth).
 
@@ -32386,10 +32389,6 @@ Neaqbua (2024-09-30T00:07:15.159Z): Replacement for the old meaning of **du**
 
 ıqdua ± `en` @Isi #yh1J9OXKB 2023-05-08T03:19:25.171Z
 predicate: ▯ knows how to satisfy property ▯.
-
-ıqfa ± `en` @Dembim #TUZ850eY5 2025-12-31T20:50:19.629Z
-▯ "moves" themselves volitionally with respect to property ▯, intentionally changing their way and/or degree of satisfying that property
-Dembim (2025-12-31T20:53:08.861Z): hyponym of <@official beo>
 
 ıqfaı ± `en` @Laqme #LoeIj3BcD 2024-06-28T00:18:38.068Z
 ▯ frequently/often satisfies property ▯.
@@ -70699,7 +70698,7 @@ prefix: turns noun phrase denoting some proposition into a noun phrase denoting 
 uakci (2025-12-19T08:08:08.086Z):  **sạ́mhao** ≈ **ꝡá sahu háo**
 
 sam- ± `en` @evie #-TlJAvl8- 2025-12-19T08:11:10.393Z
-prefix: negates the (last) proposition argument of a 1-seralizing verb
+prefix: on verbs whose last slot is a clause, negates it
 evie (2025-12-19T08:11:32.966Z): **sạm'aojaı** ▯ wants ▯ *not* to be the case
 evie (2025-12-19T08:12:26.002Z): distinct from **bụ'aojaı** ▯ *doesn't* want ▯ to be the case
 
