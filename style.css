@@ -14,7 +14,9 @@
   --blue:   light-dark(#2563eb, #60a5fa);
   --purple: light-dark(#7c3aed, #a78bfa);
   --pink:   light-dark(#db2777, #f472b6);
-  text-size-adjust: 100%;
+  text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
   color-scheme: light dark;
 }
 body {
