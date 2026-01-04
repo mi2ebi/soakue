@@ -38,25 +38,41 @@ h2 {
   font-weight: 600;
   margin: 1.5em 0 0.5em 0;
 }
+p:has(#search) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+#post {
+  display: flex /* contents */;
+  /*
+  apparently some browsers (*cough* safari)
+  don't do `display: contents` properly wrt a11y
+  */
+  flex-wrap: nowrap;
+  gap: 8px;
+  align-items: center;
+}
 #btns, #len, .nobr {
   white-space: nowrap;
 }
-#len:empty {
-  display: none;
-}
-#btns {
-  margin-right: 10px;
+#len {
+  display: inline-block;
+  color: var(--gray);
+  font-size: 0.95rem;
+  &:empty {
+    display: none;
+  }
 }
 #search {
   padding: 12px 16px;
-  width: 100%;
-  max-width: 340px;
+  flex: 1 1 auto;
   font-family: var(--font);
   background-color: var(--input);
   color: var(--fg);
   border: 2px solid transparent;
   border-radius: 8px;
-  margin-bottom: 12px;
   font-size: 20px;
   &:hover {
     border-color: var(--purple);
@@ -184,11 +200,6 @@ dd {
     color: var(--gray);
   }
 }
-#len {
-  display: inline-block;
-  color: var(--gray);
-  font-size: 0.95rem;
-}
 @media (prefers-contrast: more) {
   :root {
     --bg:     light-dark(#ffffff, #000000);
@@ -216,11 +227,8 @@ dd {
     }
   }
 }
-@media (width <= 577px) {
-  body {
-    padding: 16px 12px;
-  }
+@media (width < 600px) {
   #search {
-    max-width: none;
+    flex: 1 1 100%;
   }
 }
