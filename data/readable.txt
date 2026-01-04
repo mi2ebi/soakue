@@ -9490,7 +9490,7 @@ cueqzıu ± `en` @Laqme #ACUUiZenf 2025-04-01T17:07:44.047Z
 cueraq +1 `en` @Laqme #EXgd7Dobh 2024-07-06T02:02:08.487Z
 ▯ is official / formal / bureaucratic / administrative.
 
-cuerıaq ± `en` @Laqme #A3HtiYCOD 2021-10-19T23:14:19.532Z
+cuerıaq +1 `en` @Laqme #A3HtiYCOD 2021-10-19T23:14:19.532Z
 ▯ is a domain/realm that ▯ reigns over.
 Laqme (2021-10-19T23:14:38.066Z): All of "cuegua, cueguaq, cuejiaq" were pretty tempting too but maybe this one is most neutral.
 
@@ -11422,7 +11422,7 @@ zearen (2025-03-16T20:11:30.422Z): As a metaphor to **chılueq**, refers to an e
 chıeluı ± `en` @Ilmen #EOnF_OsWc 2020-01-17T13:29:14.911Z
 ▯ has learnt to satisfy property ▯; ▯ satisfies property ▯ as a result of having learnt to be/do so.
 
-chıeme +1 `en` @Laqme #EqPu5P1T9 2019-02-18T14:27:15.000Z
+chıeme +2 `en` @Laqme #EqPu5P1T9 2019-02-18T14:27:15.000Z
 ▯ is a class / a group of students that have lessons together.
 seaqtaq (2019-04-02T23:11:08.000Z): +1
 
@@ -18963,6 +18963,12 @@ fa ± `en` @official #WJQ_oejdL 2021-10-22T10:23:12.178Z
 predicate: ‘go’; ▯ goes to ▯.
 Isi (2024-09-11T19:53:09.692Z): "moves to"
 
+fa +1 `en` @Dembim #JYGUPYMe_ 2025-12-31T20:36:30.186Z
+predicate: ‘go’; ▯ moves/autotranslocates, volitionally, with the purpose of changing their spatial relationship with something particular
+Dembim (2025-12-31T20:38:32.360Z): For example: When one goes "to" somewhere, one moves themselves with the purpose of reducing the distance between themselves and their destination.
+Dembim (2025-12-31T20:49:24.057Z): See <gıam> for a not-per-se volitional or purposeful version
+Ilmen (2026-01-03T22:02:33.641Z): discriminator: 2
+
 fa ± `ja` @Laqme #2ZcWbrUlH 2021-10-04T16:29:14.253Z
 ▯は▯に▯から行く
 
@@ -18984,11 +18990,6 @@ Ilmen (2025-12-31T18:50:29.491Z): discriminator: 2
 
 fa ± `tr` @kazoo #NkRkr4Joo 2024-11-24T12:11:24.743Z
 ▯, ▯'e gider.
-
-fa ± `en` @Dembim #JYGUPYMe_ 2025-12-31T20:36:30.186Z
-predicate: ‘go’; ▯ moves/autotranslocates, volitionally, with the purpose of changing their spatial relationship with something particular
-Dembim (2025-12-31T20:38:32.360Z): For example: When one goes "to" somewhere, one moves themselves with the purpose of reducing the distance between themselves and their destination.
-Dembim (2025-12-31T20:49:24.057Z): See <gıam> for a not-per-se volitional or purposeful version
 
 fa -1 `jbo` @uakci #eFuXD6e-j 2020-01-09T18:25:52.026Z
 ▯ klama ▯ ▯
@@ -23017,6 +23018,11 @@ geone ± `pl` @jiqci #I_gboqXZcQ 2023-07-31T08:20:34.842Z
 
 geone -1 `toa` @Ilmen #Yw4nYYVjZ 2020-01-10T18:17:00.197Z
 = ja ne ja raı sa daqmoa bı faq rào dáqmoa lú bıene né dáqmoa cêo ráı
+
+geonuaq ± `en` @mimiaoganhaqpy #59d51HsJS 2026-01-03T18:35:53.317Z
+▯ is an early morning (between midnight and dawn).
+mimiaoganhaqpy (2026-01-03T18:36:28.220Z): Etymology: Formed by analogy with **geodıo**.
+mimiaoganhaqpy (2026-01-03T18:37:52.890Z): Equivalent to Chinese 凌晨 (língchén)
 
 geonhe ± `en` @uakci #fxv15fik_ 2022-02-16T11:40:39.028Z
 ▯ is ▯ years old.
@@ -29208,6 +29214,12 @@ hıeche ± `en` @salarua #yIIY8pqkG 2024-03-07T04:16:03.555Z
 hıefa +2 `en` @TheAndSys #M3EwDIMCK 2024-05-06T20:04:37.987Z
 ▯, to ▯, brings ▯
 TheAndSys (2024-05-06T20:04:42.722Z): carries/bears/transports/hauls
+
+hıefa ± `en` @mimiaoganhaqpy #HIULgh9dg 2026-01-03T19:04:03.017Z
+▯ brings ▯
+mimiaoganhaqpy (2026-01-03T19:04:07.225Z): carries/bears/transports/hauls
+mimiaoganhaqpy (2026-01-03T19:05:06.110Z): Fork of: <hıefa @TheAndSys> (#M3EwDIMCK)
+Ilmen (2026-01-03T22:03:03.911Z): discriminator: 2
 
 hıegıa ± `en` @jiqci #__SnyXlL0 2023-02-14T08:25:49.715Z
 ▯ is a conveyor belt.
@@ -57893,7 +57905,7 @@ nıodecua ± `en` @Ilmen #XVGtPdQZd 2018-10-09T17:14:22.000Z
 ▯ has a “aaaaw” reaction to irresistable cuteness.
 
 nıodıo +1 `en` @Dembim #Z8ZGgMHaK 2025-11-13T12:40:34.563Z
-▯ is a morning
+▯ is a morning (from dawn 'til noon)
 Dembim (2025-11-13T12:41:10.747Z): Fun to say; pairs with geodıo (old day)
 
 nıoka +1 `en` @ramasu #oKyvTbwTe 2022-07-10T03:13:58.487Z
@@ -79108,6 +79120,7 @@ shuetıem ± `en` @Laqme #qQEdqAEZ2 2024-11-04T12:00:24.176Z
 shuetıem ± `en` @jiqci #ZUTwPCTFG 2025-12-31T16:01:58.317Z
 ▯ is an ▯ homomorphism, ▯ is a function preserving structure ▯.
 jiqci (2025-12-31T16:02:55.134Z): e.g. **shuetıem** **soaıgoa** (vector space homomorphism) = **ruoqtıem** (linear map)
+Ilmen (2026-01-03T22:03:33.368Z): discriminator: 2
 
 shuetua ± `en` @seaqtaq #LIW1-OQxw 2022-12-10T02:20:46.386Z
 ▯ perpetuates states of affairs ▯
@@ -80449,6 +80462,9 @@ taqzoaı ± `en` @jiqci #JJCHsJBBT 2024-10-05T17:53:44.552Z
 
 taqzu +1 `en` @Laqme #tHMqXp51X 2024-05-06T09:41:01.430Z
 ▯ is an idiolect.
+
+taraı ± `en` @Dembim #MYfZNVNoG 2026-01-03T15:39:38.300Z
+▯ is descriptive
 
 tarampagua ± `en` @Ilmen #TunVIknuR 2025-03-01T22:45:59.839Z
 ▯ is Trumpistan.
