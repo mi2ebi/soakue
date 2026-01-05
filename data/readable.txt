@@ -35424,8 +35424,11 @@ jıdao ± `en` @Ilmen #ZRMTVqXSM 2018-10-20T13:43:25.000Z
 jıe- ± `en` @uakci #XBOwn9yvl 2023-10-01T21:54:21.640Z
 prefix: X understood subjectively / as judged by a personal standard / from a personal viewpoint
 
-jıe +4 `en` @robintown #YbopIs6U- 2023-10-27T22:18:45.127Z
+jıe +2 `en` @robintown #YbopIs6U- 2023-10-27T22:18:45.127Z
 ▯ deems/judges/finds ▯ to be the case.
+
+jıe ± `en` @official #F1GlTqD-eg 2019-05-05T22:26:03.943Z
+predicate: ‘deemed’; ▯ is as ▯ deems/judges/evaluates things to be.
 
 jıe ± `tok` @el #Rk7hTgRVP 2022-07-10T04:48:58.275Z
 ▯ li lon tawa ▯
@@ -38258,7 +38261,7 @@ juopaı ± `en` @lassc #ytAu8Qgjy 2025-03-25T17:21:39.819Z
 juopaku ± `en` @jiqci #Ur-EA70O4 2023-10-31T22:38:31.920Z
 ▯ is sealing wax.
 
-juoq +1 `en` @official #gqqOq4Xz7T 2019-05-05T22:26:00.767Z
+juoq +2 `en` @official #gqqOq4Xz7T 2019-05-05T22:26:00.767Z
 predicate: ‘should’; ▯ should satisfy property ▯.
 
 juoq +1 `en` @robintown #W29_1hRvl 2022-01-16T16:22:59.150Z
@@ -46343,7 +46346,7 @@ prefix: "-level"; level/tier/stage/status/rank of X
 lassc (2025-03-22T00:47:21.992Z): trimmed from **lıuq**. an example would be like a rhythm game difficulty of lı̣joe as like "the difficulty level intended for skilled players"
 lassc (2025-03-23T15:48:22.129Z): i generalized this definition to allow uses similar to "-dan" or "duan" in martial arts/rhythm-gaming contexts
 
-lı ± `en` @uakci #phXJYoHPd 2023-12-02T12:21:19.174Z
+lı +1 `en` @uakci #phXJYoHPd 2023-12-02T12:21:19.174Z
 As a general rule, one satisfies, with ▯, relation ▯; [≈ **he** **ıqha**]
 uakci (2023-12-02T12:23:14.838Z): **he** often goes with **há**, so understand **lı** as an abbreviation of this pattern: **he huaqcho há báq kırı** ‘one usually prefers cute things’ = **lı huaqcho báq kırı** ‘cute things are preferred’
 uakci (2023-12-02T12:28:02.375Z): syntactic aside: since **lı** has a built-in **ha** Asp node, i’d like to treat **lı** as the masked spelled-out form of an Asp node above and a V node below, namely **he** and **ıqha**
@@ -66445,7 +66448,7 @@ rajoe ± `en` @seaqtaq #iVY7YHyD2 2025-06-17T18:36:32.264Z
 seaqtaq (2025-06-17T18:37:23.153Z): from **rara** + **joe**
 seaqtaq (2025-06-17T18:40:53.908Z): Kw: zakai ex: One could say this about [insert language here] that they were forced to learn in school, which they often will recognize simple sentences in, and might even still be familiar with some grammatical constructions, but  otherwise is no longer quite familiar with the language
 
-raka ± `en` @Ilmen #flTQcDCsl 2022-03-17T17:21:47.524Z
+raka +1 `en` @Ilmen #flTQcDCsl 2022-03-17T17:21:47.524Z
 ▯ is the case in a non-continuous way, as a bunch of disconnected chunks.
 Laqme (2024-06-25T16:41:48.147Z): bit by bit, stopping and starting, here and there
 
@@ -70726,14 +70729,14 @@ jiqci (2025-10-14T07:00:11.944Z): ∃x.P(x)
 salı -1 `toa` @Ilmen #8xWoDuWgj 2020-01-26T21:31:46.862Z
 = [1] jeo sa ▯. = [1] bu tulı bu ▯. = [1X] salı lî jeo ja ▯ ru ▯.
 
-sam- ± `en` @uakci #TQKG46zvg 2025-12-19T08:07:48.012Z
-prefix: turns noun phrase denoting some proposition into a noun phrase denoting its negation
-uakci (2025-12-19T08:08:08.086Z):  **sạ́mhao** ≈ **ꝡá sahu háo**
-
-sam- ± `en` @evie #-TlJAvl8- 2025-12-19T08:11:10.393Z
+sam- +1 `en` @evie #-TlJAvl8- 2025-12-19T08:11:10.393Z
 prefix: on verbs whose last slot is a clause, negates it
 evie (2025-12-19T08:11:32.966Z): **sạm'aojaı** ▯ wants ▯ *not* to be the case
 evie (2025-12-19T08:12:26.002Z): distinct from **bụ'aojaı** ▯ *doesn't* want ▯ to be the case
+
+sam- ± `en` @uakci #TQKG46zvg 2025-12-19T08:07:48.012Z
+prefix: turns noun phrase denoting some proposition into a noun phrase denoting its negation
+uakci (2025-12-19T08:08:08.086Z):  **sạ́mhao** ≈ **ꝡá sahu háo**
 
 sam +3 `en` @evie #1krb-QETx 2025-03-16T23:12:06.522Z
 ▯ locates/finds ▯
@@ -79114,13 +79117,13 @@ shueteısho ± `en` @seaqtaq #vNDvg7ZS9 2024-11-04T09:50:43.550Z
 ▯ fossilizes; ▯ becomes a fossil/remains
 seaqtaq (2024-11-04T09:51:42.629Z): Not to be confused with **teıduna**, which concerns malleability more strongly
 
-shuetıem ± `en` @Laqme #qQEdqAEZ2 2024-11-04T12:00:24.176Z
-▯ is a homomorphism / structure-preserving function.
-
-shuetıem ± `en` @jiqci #ZUTwPCTFG 2025-12-31T16:01:58.317Z
+shuetıem +1 `en` @jiqci #ZUTwPCTFG 2025-12-31T16:01:58.317Z
 ▯ is an ▯ homomorphism, ▯ is a function preserving structure ▯.
 jiqci (2025-12-31T16:02:55.134Z): e.g. **shuetıem** **soaıgoa** (vector space homomorphism) = **ruoqtıem** (linear map)
 Ilmen (2026-01-03T22:03:33.368Z): discriminator: 2
+
+shuetıem ± `en` @Laqme #qQEdqAEZ2 2024-11-04T12:00:24.176Z
+▯ is a homomorphism / structure-preserving function.
 
 shuetua ± `en` @seaqtaq #LIW1-OQxw 2022-12-10T02:20:46.386Z
 ▯ perpetuates states of affairs ▯
