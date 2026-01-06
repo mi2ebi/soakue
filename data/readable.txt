@@ -224,6 +224,10 @@ Afarı'usona ± `en` @Laqme #AU8lu8b89 2025-02-12T11:27:56.772Z
 Afıkaqzu ± `en` @jiqci #a6cU0AvKk 2023-02-14T10:48:18.435Z
 ▯ is the Afrikaans language.
 
+afuna ± `en` @evie #ps04sqFi6 2026-01-05T04:06:13.866Z
+▯ is a pea
+evie (2026-01-05T04:06:29.670Z): etymology: Hebrew אֲפוּנָה afuná
+
 agehacho ± `en` @TheAndSys #nWqtS4FZG 2023-09-01T00:13:27.482Z
 ▯ is a swallowtail butterfly
 
@@ -19005,9 +19009,14 @@ Ilmen (2025-10-31T19:17:14.391Z): Duplicate.
 fạ'obo ± `en` @robintown #HiO3z5kZb 2023-02-10T05:05:55.934Z
 ▯ dies of starvation/thirst.
 
-faba ± `en` @Laqme #-XUzi02AW 2024-08-20T11:32:24.078Z
+faba +2 `en` @Laqme #-XUzi02AW 2024-08-20T11:32:24.078Z
 ▯ is a nest/eyrie.
 Laqme (2024-08-20T11:34:27.540Z): Etymology: from the hexadecimal codepoint value of 🪺 U+1FABA "NEST WITH EGGS".
+
+fabaı +1 `en` @evie #hK8pyGeEm 2026-01-05T04:01:41.027Z
+▯ is a legume
+evie (2026-01-05T04:02:02.575Z): etymology: Fabaceae; the -ı is to avoid clashing with **faba**
+evie (2026-01-05T04:06:07.763Z): cf **faseo** (bean), **afuna** (pea), **peqdu** (lentil)
 
 faboq +1 `en` @uakci #2wLy3Mpzi 2023-06-16T13:32:38.936Z
 ▯ blocks/barricades/is in the way of ▯; ▯ is an obstacle to ▯(’s movement).
@@ -70733,10 +70742,12 @@ sam- +1 `en` @evie #-TlJAvl8- 2025-12-19T08:11:10.393Z
 prefix: on verbs whose last slot is a clause, negates it
 evie (2025-12-19T08:11:32.966Z): **sạm'aojaı** ▯ wants ▯ *not* to be the case
 evie (2025-12-19T08:12:26.002Z): distinct from **bụ'aojaı** ▯ *doesn't* want ▯ to be the case
+Ilmen (2026-01-05T21:21:44.274Z): discriminator: 2
 
 sam- ± `en` @uakci #TQKG46zvg 2025-12-19T08:07:48.012Z
 prefix: turns noun phrase denoting some proposition into a noun phrase denoting its negation
 uakci (2025-12-19T08:08:08.086Z):  **sạ́mhao** ≈ **ꝡá sahu háo**
+Ilmen (2026-01-05T21:22:17.403Z): discriminator: 1
 
 sam +3 `en` @evie #1krb-QETx 2025-03-16T23:12:06.522Z
 ▯ locates/finds ▯
