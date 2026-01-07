@@ -19818,7 +19818,7 @@ feakıubu ± `en` @jiqci #nrVKVG_Z4 2024-06-17T07:42:32.286Z
 ▯ is unbearable / insufferable.
 
 feam ± `en` @evie #Q64OBKbFB 2024-11-18T07:15:07.924Z
-▯ are the remnants of ▯ satisfying property ▯
+▯ are the remnants of / what's left of ▯
 
 feama ± `en` @seaqtaq #J8ZCQ92Vi 2024-10-15T23:53:55.012Z
 ▯ is a condition/environment/are conditions/circumstances which one bears through
@@ -22387,7 +22387,7 @@ gaqsıahe ± `en` @Ilmen #iXMFvdnHa 2020-01-12T17:57:40.596Z
 ▯ is solitary.
 
 gaqsue ± `en` @evie #dELI1njDR 2024-08-06T05:56:29.482Z
-▯ requests ▯ accompany them in satisfying property ▯
+▯ requests ▯ accompany them
 
 gaqtao ± `en` @uakci #TahW0jqju 2018-09-26T11:33:02.000Z
 ▯ takes part in ▯; ▯ participates in ▯.
@@ -27229,10 +27229,6 @@ hakaraqda ± `en` @TheAndSys #vvtIThwTn 2024-10-30T23:38:10.731Z
 hakashuo ± `en` @uakci #vLSYW8AC1 2020-03-07T12:46:05.609Z
 ▯ is a tuber (potato, beetroot…).
 
-hake ± `en` @evie #TiFaYEWHI 2025-01-09T06:46:49.690Z
-▯ = ▯ ↑ⁿ ▯ with n-2 arrows, with n being either a number suffixed to the end of the word or **kọ**-n
-evie (2025-01-09T06:47:30.688Z): kw: hyperoperation. hakeshı is addition etc
-
 hake -1 `en` @Xylochoron #o_O6s_CA7 2019-02-10T20:39:02.000Z
 (fork of #NS3RX4TZH) ▯ is the result of applying the Ackermann function on arguments (▯, ▯, ▯); ▯ = Ackermann(▯, ▯, ▯).
 Xylochoron (2019-02-10T20:43:07.000Z): I like the idea of hakeshi being addition, hakego being multiplication, hakesaq being powers, hakejo being power towers, etc. hakesia can be incrementing (adding one)
@@ -30470,9 +30466,6 @@ Machy (2021-11-17T23:45:39.902Z): This word has the meaning that conlangers give
 
 homaqrıoq ± `en` @Laqme #XDN68AgE1 2022-03-16T00:05:24.982Z
 ▯ is an animacy class.
-
-homje ± `en` @evie #S2g8ka-j7 2024-07-05T22:04:42.261Z
-« hóı mí Jemu »
 
 homo ± `en` @seaqtaq #Sfz2hZaTO 2019-05-15T18:58:13.474Z
 predicate: ‘human’; ▯ is a human.
@@ -35608,10 +35601,6 @@ jıgı ± `en` @uakci #cs0QuUE9N 2019-04-23T08:27:25.000Z
 
 jıhao ± `en` @Ilmen #bDzpsRN0P 2018-09-30T19:57:45.000Z
 ▯ is us (me and the others).
-
-jıheo -1 `en` @Ilmen #OAtfyNavu 2025-12-28T21:42:46.859Z
-▯ is other than me.
-Dembim (2025-12-28T21:44:57.598Z): see also <seq> jí
 
 jıhu ± `en` @Machy #ilB1df6yt 2022-02-16T01:20:44.709Z
 self-vocative: used to identify or introduce the speaker
@@ -63636,7 +63625,8 @@ pıkafachuo ± `en` @robintown #OoLj-4Dkg 2022-01-26T18:44:39.674Z
 ▯ is a teleporter.
 
 pıkafaja ± `en` @evie #l_OvwdY6a 2024-11-23T23:32:29.585Z
-▯ teleports ▯ to ▯
+▯ teleports ▯
+evie (2026-01-06T05:58:03.264Z): destination can be specified with **ôq tı**
 
 pıkajuoı ± `en` @uakci #QZBfyJIFL 2021-11-07T02:27:11.677Z
 ▯ gives a lightning talk / elevator pitch about ▯.
@@ -75815,9 +75805,10 @@ suoq +1 `en` @Machy #GI1xELz5Q 2022-02-07T21:43:12.236Z
 evie (2025-04-01T01:42:14.127Z): -1 <@Laqme fu> exists and i kinda want <@robintown suoqja> to be a shiraku
 
 suoq +1 `en` @evie #RL9s7Tobg 2025-12-15T05:00:04.422Z
-▯ entices/attracts/seduces/lures ▯ into satisfying property ▯.
+▯ entices/attracts/seduces/lures ▯.
 evie (2025-12-15T05:00:39.463Z): fork of #vPcZDClB9 = <@robintown suoqja>
 Ilmen (2025-12-16T13:31:16.605Z): discriminator: 2
+evie (2026-01-06T05:54:22.734Z): the "into doing what" can be specified with **ôı** or **ôq**
 
 suoqja ± `en` @robintown #vPcZDClB9 2023-11-09T19:31:08.457Z
 ▯ entices/attracts/seduces/lures ▯ into satisfying property ▯.
@@ -79950,6 +79941,12 @@ taodaı +1 `en` @Ilmen #ffGvxF-S2 2019-04-07T12:56:06.000Z
 taodaıgı ± `en` @seaqtaq #LCg28K047 2019-02-03T04:00:15.000Z
 ▯ has an opportunity to do ▯
 
+taodı ± `en` @Dembim #66eRI8CSL 2026-01-06T18:29:45.455Z
+▯ may ▯
+Dembim (2026-01-06T18:29:55.545Z): personal deontic permission
+Dembim (2026-01-06T18:30:04.375Z): Frame: c 1i
+Dembim (2026-01-06T18:30:43.533Z): synonym of <@official dı>
+
 taodıe ± `en` @official #5EtVUnfPgk 2019-05-05T22:27:40.979Z
 predicate: ‘advise’; ▯ advises ▯ to do ▯.
 
@@ -79965,6 +79962,12 @@ lassc (2022-12-05T20:44:42.494Z): also persuade
 
 taodua +1 `en` @Ilmen #_TBZTdyVN 2020-02-05T12:31:03.091Z
 ▯ knows how to satisfy property ▯.
+
+taoduaı ± `en` @Dembim #3xw6zFyKx 2026-01-06T18:27:56.011Z
+▯ ought to ▯
+Dembim (2026-01-06T18:28:17.241Z): personal deontic obligation
+Dembim (2026-01-06T18:28:33.357Z): Frame: c 1i
+Dembim (2026-01-06T18:28:45.508Z): Synonym of <@official duaı>
 
 taodutao ± `en` @uakci #G42uwy4h3 2022-02-20T10:36:56.444Z
 ▯ gives themself the semblance of satisfying property ▯; ▯ fakes property ▯; ▯ goes through the motions of satisfying property ▯.
@@ -81238,7 +81241,7 @@ close-quote to **momo** (used for when unmatched **mo** or **teo** are in the qu
 tẹpoaq ± `en` @examples #b-AAF4n0KVV 2023-01-09T21:51:47.004Z
 broken
 
-teq +3 `en` @evie #nQNbfe9Ss 2024-10-29T20:09:46.398Z
+teq +4 `en` @evie #nQNbfe9Ss 2024-10-29T20:09:46.398Z
 ▯ pays amount ▯
 evie (2024-10-29T20:12:50.021Z): easy to use as an adverb without having to deal with ditransitives
 evie (2024-10-29T20:21:24.878Z): [kıazıu] jea jí ní kue têq gú dola = teq jí gú dola jêa ní kue = i bought this book for $2
@@ -81249,21 +81252,17 @@ predicate: ‘pay’; ▯ pays ▯ to ▯ for satisfying property ▯.
 teq ± `ja` @uakci #LJEJHOu90 2021-10-29T14:40:43.249Z
 ▯は▯に▯を▯［性質］と引き換えに払う；▯は▯を支払って、▯から▯を売る
 
-teq ± `en` @robintown #nVvhxw8gc 2022-02-08T17:35:53.416Z
-▯ pays to ▯ payment ▯.
-
 teq ± `tok` @el #9soc-P2eE 2022-07-10T05:35:10.031Z
 ▯ li pana e mani ▯ tawa ▯
-
-teq ± `en` @TheAndSys #eXzMU7-5l 2023-07-08T00:48:34.004Z
-▯ pays for ▯ (service or object)
-TheAndSys (2023-07-08T00:49:11.132Z): There's so many forks of this i decided to just make my own. The payee and what is given to them can be specified with prepositions
 
 teq ± `pl` @jiqci #IAxAyQX30 2023-07-31T08:22:32.195Z
 ▯ płaci ▯ cenę ▯ za ▯.
 
 teq -1 `toa` @uakci #bJ1Ag-b2V 2019-04-14T21:24:50.000Z
 to roı doa dóshı sa pó dógu nuaı dósaq to jeo dósaq dójo da
+
+teq -1 `en` @robintown #nVvhxw8gc 2022-02-08T17:35:53.416Z
+▯ pays to ▯ payment ▯.
 
 teq -1 `en` @salarua #RfFb3oIrE 2022-08-08T18:19:27.904Z
 predicate: ‘pay’; ▯ pays ▯ for ▯ being the case.
@@ -81274,6 +81273,10 @@ uakci (2022-08-08T18:27:11.324Z): payee can be reconstructed with **còu**
 teq -1 `en` @uakci #Deg1tVpJw 2022-10-25T12:19:00.418Z
 ▯ pays money ▯ for property ▯.
 uakci (2022-10-25T12:19:09.582Z): **còu** to specify the seller
+
+teq -1 `en` @TheAndSys #eXzMU7-5l 2023-07-08T00:48:34.004Z
+▯ pays for ▯ (service or object)
+TheAndSys (2023-07-08T00:49:11.132Z): There's so many forks of this i decided to just make my own. The payee and what is given to them can be specified with prepositions
 
 teqboe ± `en` @uakci #JHfkdetQM 2021-11-07T03:51:32.517Z
 ▯ is a coupon.
@@ -85804,8 +85807,8 @@ upamoe ± `en` @Ilmen #iwzch25K7 2022-07-09T11:53:12.547Z
 upase ± `en` @Laqme #QdqXuf8Lg 2024-07-13T06:33:35.018Z
 ▯ is a minor mistake / slip-up.
 
-upatı ± `en` @evie #vKDglQCeu 2024-12-23T20:56:18.008Z
-▯ leaves (places/etc and does not retrieve) ▯ at ▯
+upatı +1 `en` @evie #vKDglQCeu 2024-12-23T20:56:18.008Z
+▯ unintentionally leaves behind ▯
 
 upatoa +1 `en` @evie #LVG9gP_kA 2024-07-13T03:44:45.723Z
 ▯ is a typo (need not be written) of ▯
