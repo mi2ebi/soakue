@@ -9019,6 +9019,14 @@ seaqtaq (2018-12-27T21:14:29.000Z): In the context of chatrooms
 cuadeoq ± `en` @Laqme #_KT7cUA3F 2024-05-23T11:32:16.240Z
 ▯ answers ▯ that ▯ is the case.
 
+cuadeq +1 `en` @Ilmen #Zd5Agm2Mt 2026-01-08T18:21:36.952Z
+▯ is an interactive, reaction-capable entity (e.g. living beings, advanced robots, artificial intelligences, REPLs…).
+Ilmen (2026-01-08T18:27:22.428Z): frame: c
+Ilmen (2026-01-08T18:28:00.777Z): pronominal_class: ho
+Ilmen (2026-01-08T18:28:29.843Z): ⸨I'm hesitant between ⟪ho⟫ and ⟪maq⟫ for the class.⸩
+Dembim (2026-01-08T18:29:56.789Z): ho seems more natural— I think more people see life where there may be none than inanimacy where there's life
+Ilmen (2026-01-08T18:33:20.115Z): distribution: d
+
 cuage ± `en` @uakci #RMk5BIGqk 2021-09-04T14:13:31.878Z
 ▯ triggers/solicits/invokes in ▯ reflex/response/involuntary reaction ▯.
 
@@ -30539,7 +30547,7 @@ predicate: ‘therefore’; ▯ is therefore the case.
 hoqkuı ± `pl` @jiqci #oGwthrZ-Y9 2023-07-31T08:20:40.414Z
 Toteż/zatem/dlatego ▯ zachodzi.
 
-hoqraı +1 `en` @Ilmen #jf5SNXzrS 2019-04-14T11:46:19.000Z
+hoqraı -1 `en` @Ilmen #jf5SNXzrS 2019-04-14T11:46:19.000Z
 ▯ is abstract.
 
 hoqsa ± `en` @Ilmen #sAYRWAlIZ 2018-10-20T13:08:14.000Z
@@ -30558,6 +30566,9 @@ hoqsıu ± `en` @fagri #E8cwp40rj 2018-11-29T21:24:38.000Z
 
 hoqshıu ± `en` @Laqme #mGjxdPLtn 2019-02-21T14:45:06.000Z
 ▯ takes place beforehand.
+
+hoqtoa ± `en` @Dembim #vqQIGiIG8 2026-01-08T18:39:18.542Z
+▯ belongs to the abstract pronominal class (III)
 
 hoqtua +1 `en` @Avaxar #sj6CFbT9_ 2024-12-25T06:26:06.596Z
 ▯ causes ▯ to be a resultant action satisfying the predicate that defines **hóq**; predicate **hóq** is brought upon by ▯ from initial abstract object ▯.
@@ -30581,7 +30592,7 @@ fagri (2019-02-24T17:55:55.000Z): Oh also, a one- or two-digit argument means th
 horachıu ± `en` @Ilmen #9WJsBkgQb 2020-02-06T21:48:41.765Z
 ▯ is the 24-hour clock time address of ▯.
 
-horaı +1 `en` @Ilmen #d9ZTPGY1b 2019-01-28T14:29:55.000Z
+horaı -1 `en` @Ilmen #d9ZTPGY1b 2019-01-28T14:29:55.000Z
 ▯ is animate.
 
 horane ± `en` @seaqtaq #V4Yvo9Geb 2019-06-24T04:18:10.051Z
@@ -30647,6 +30658,9 @@ hotı ± `en` @uakci #9wkeo_WcN 2020-05-14T17:01:15.811Z
 hoto -1 `en` @Ilmen #mDWlicbkB 2023-01-13T22:56:26.285Z
 ▯ is a bone.
 Ilmen (2023-01-13T22:56:32.284Z): Etymology: Proto-Indo-European ⟪*h₃ésth₁⟫⁓⟪*h₂ósth₁⟫ (“bone”), whence the Latin ⟪os⟫.
+
+hotoa ± `en` @Dembim #DrWLoqX0z 2026-01-08T18:38:22.951Z
+▯ belongs to the animate pronominal class (I)
 
 ⚠ hou ± `en` @fagri #x_OjIEfP6 2021-10-10T07:12:52.434Z
 Illocution: suggestive ("X could happen, maybe", "X is an idea")
@@ -35310,6 +35324,13 @@ jıaqkoaıluaqmu ± `en` @uakci #3BJnezchX 2020-04-11T09:11:46.165Z
 jıaqkoaırıaq ± `en` @Ilmen #ENaRBTgT5 2020-02-07T20:48:28.625Z
 ▯ is a website.
 
+jıaqloq ± `en` @kazoo #BWoT5a2Pm 2026-01-08T11:03:52.163Z
+There is global warming.
+
+jıaqloqroam ± `en` @kazoo #XOLh6-UhC 2026-01-08T10:07:21.647Z
+There is climate change.
+kazoo (2026-01-08T10:07:48.343Z): é jıaqloqroam: climate change (global warming)
+
 jıaqloqtue ± `en` @robintown #8Vz9Iwyer 2022-07-21T20:37:15.324Z
 ▯ is climate change / global warming.
 
@@ -35321,6 +35342,9 @@ jıaqnoı ± `en` @seaqtaq #OLVawgGhq 2025-05-12T14:34:34.508Z
 
 jıaqrao ± `en` @Ilmen #Xmatrh6Z3 2022-11-01T20:44:17.244Z
 null tense: ▯ is true without contextual restriction of interval of time (cancelling, substituting to any syntactically imposed tense).
+
+jıaqroam ± `en` @kazoo #g5SVEtIES 2026-01-08T11:12:12.019Z
+There is global unrest.
 
 jıaqsahu ± `en` @Dembim #XQ0McSU0W 2025-12-26T14:53:31.198Z
 ▯ is false in world ▯
@@ -50185,13 +50209,16 @@ maqnı ± `en` @Ilmen #cuiFsvoKa 2020-03-03T14:23:57.174Z
 maqpa ± `en` @Laqme #k83A22z70 2018-12-08T15:53:03.000Z
 ▯ is satisfied by it.
 
-maqraı +1 `en` @Ilmen #vb_YXd_TK 2019-01-28T14:30:14.000Z
+maqraı -1 `en` @Ilmen #vb_YXd_TK 2019-01-28T14:30:14.000Z
 ▯ is inanimate.
 
 máqsıe ± `en` @seaqtaq #JLbgzA9JU 2024-07-10T17:58:25.602Z
 pronoun: ‘CAT.it.II’; cataphoric pronoun for inanimate DPs (class II)
 
-maqtoa ± `en` @el #wgV2lL-vj 2022-11-27T00:28:08.963Z
+maqtoa ± `en` @Dembim #zfZ0zRg2S 2026-01-08T18:33:24.471Z
+▯ belongs to the inanimate pronominal class (II)
+
+maqtoa -1 `en` @el #wgV2lL-vj 2022-11-27T00:28:08.963Z
 ▯ is an anaphoric pronoun
 
 mara +3 `en` @Ilmen #rX6IzGP4R 2018-10-29T14:57:29.000Z
@@ -68792,6 +68819,9 @@ roakuaı ± `en` @Ilmen #Q4pcE6Rd8 2020-06-01T13:16:12.360Z
 roalueq ± `en` @Laqme #C2R8aBXrV 2024-05-12T13:47:40.605Z
 ▯ is a druid.
 
+roam ± `en` @kazoo #H1-000rpA 2026-01-08T10:06:49.090Z
+▯ is off-balance in property ▯.
+
 roamıaqjıe ± `en` @salarua #1xrrQ2pLV 2022-08-29T05:58:08.518Z
 ▯ feels respect and appreciation for Nature in all its forms
 
@@ -73385,6 +73415,12 @@ sıoqtıeq ± `en` @Laqme #5Bc3g3ts_ 2024-05-06T10:18:42.547Z
 
 sıoqzıu +1 `en` @Ilmen #uHF7HYQd1 2022-07-31T21:59:04.771Z
 ▯ is the τ mathematical constant, the ratio of the radius of a circle to its circumference.
+
+sıoraı ± `en` @Ilmen #k1piVsPOu 2026-01-08T18:17:43.073Z
+▯ is an abstract, conceptual entity (e.g. abstract numbers, mathematical entities, predicates and functions…).
+Ilmen (2026-01-08T18:32:27.251Z): frame: c
+Ilmen (2026-01-08T18:32:38.064Z): pronominal_class: hoq
+Ilmen (2026-01-08T18:33:03.219Z): distribution: d
 
 sıorıa ± `en` @jiqci #Jwvm2aOqG 2025-04-22T20:59:10.715Z
 ▯ is open-minded / willing to consider new ideas.
@@ -80480,7 +80516,7 @@ taqzoaı ± `en` @jiqci #JJCHsJBBT 2024-10-05T17:53:44.552Z
 taqzu +1 `en` @Laqme #tHMqXp51X 2024-05-06T09:41:01.430Z
 ▯ is an idiolect.
 
-taraı ± `en` @Dembim #MYfZNVNoG 2026-01-03T15:39:38.300Z
+taraı -1 `en` @Dembim #MYfZNVNoG 2026-01-03T15:39:38.300Z
 ▯ is descriptive
 
 tarampagua ± `en` @Ilmen #TunVIknuR 2025-03-01T22:45:59.839Z
@@ -80541,6 +80577,7 @@ Tatarazu ± `en` @SuperSpaceNiM #kqE1dOHI4 2024-08-15T16:20:30.960Z
 
 tatoa ± `en` @Laqme #dBG3Z8UfK 2022-03-20T21:26:47.115Z
 ▯ is an adjective.
+Dembim (2026-01-08T18:37:04.643Z): ▯ is of the descriptive pronominal class (IV)
 
 tatu +1 `en` @uakci #ffd2moXrR 2022-07-21T14:04:05.159Z
 ▯ is a tattoo.
