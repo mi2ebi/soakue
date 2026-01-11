@@ -2249,6 +2249,10 @@ balaq ± `en` @uakci #tFOleNiWD 2022-09-13T11:11:10.742Z
 uakci (2022-09-13T11:11:27.309Z): **ba** + **laq** + ‘alarm’
 uakci (2022-09-13T11:11:51.331Z): also appropriate for an incoming call ring etc
 
+bale ± `en` @evie #_cpERuqgS 2026-01-11T01:59:38.769Z
+▯ is a member of genus Psidium (guava etc)
+evie (2026-01-11T02:00:46.770Z): etymology: Mandarin 芭樂 bālè ← Hokkien 菝仔 pa̍t-á
+
 balı ± `en` @Avaxar #oCSYxSKru 2025-07-24T05:36:38.691Z
 ▯ pertains to Balinese culture, language, etc.
 
@@ -39536,6 +39540,8 @@ kaonuakıu ± `en` @uakci #tZ4sYh1fv 2022-09-15T06:35:41.202Z
 kaonuboe ± `en` @zearen #dhC3QXC-N 2024-05-01T19:59:54.076Z
 ▯ is a license to be able to ▯
 zearen (2024-05-01T20:01:40.764Z): E.g. "kaonuboe chaocaq" is a driver's license
+evie (2026-01-10T04:07:41.100Z): ▯ is a "▯ license"
+evie (2026-01-10T04:07:47.551Z): frame: c 1
 
 kaopeq ± `en` @fagri #wcOxK77Yr 2020-01-09T01:43:20.586Z
 ▯ is a paper document
@@ -46632,6 +46638,9 @@ having property ▯ causes having property ▯.
 
 lıcagı ± `en` @Ilmen #vuvTJJgJA 2019-04-07T12:41:18.000Z
 satisfying property ▯ is a way/method for satisfying property ▯.
+
+lıce ± `en` @evie #8gRD_LReg 2026-01-10T03:04:57.602Z
+▯ is a member of genus Ilex (holly, winterberry, yerba, ...)
 
 lıco +1 `en` @Ilmen #Li8cL1V6K 2020-05-23T22:16:49.035Z
 ▯ is the number of things satisfying the property ▯; ▯ is the number of things satisfying property ▯ among what satisfies property ▯.
@@ -87606,6 +87615,9 @@ zıuchune ± `en` @lassc #BsCZK--qq 2025-03-19T15:08:19.557Z
 zıudıu ± `en` @jiqci #M93RFXaio 2024-06-21T20:56:46.855Z
 ▯ is number theory.
 
+zıudoku ± `en` @kazoo #aBMWCW0xU 2026-01-10T09:30:10.463Z
+▯ is sudoku.
+
 zıudueq ± `en` @Laqme #fpbQkhYlG 2022-06-26T10:22:23.116Z
 ▯ is a mathematical field.
 
@@ -101616,15 +101628,9 @@ seoq(gaı)chuo ± `en` @seaqtaq #otSQkpzXt 2019-06-09T19:48:55.229Z
 seo(sho)sue ± `en` @seaqtaq #Ux7NS1lvA 2019-01-29T02:52:37.000Z
 ▯ asks to marry/proposes to ▯
 
-⚠ sey ± `en` @el #wukW-En7c 2022-07-10T01:08:20.892Z
+⚠ sey -1 `en` @el #wukW-En7c 2022-07-10T01:08:20.892Z
 ▯ is an action with result ▯
 el (2022-07-10T01:08:24.776Z): semantic role
-
-⚠ sey -1 `en` @Machy #g4BAo8_nd 2021-09-21T17:37:03.953Z
-▯ is a number.
-
-⚠ sey -1 `toa` @el #YubMfJ5L2 2022-07-10T01:08:36.112Z
-= mu se
 
 ⚠ sıaokyı ± `en` @seaqtaq #qTdqWOV0V 2021-07-24T04:31:33.194Z
 in state of affairs ▯, the semantic role of SOURCE is assumed by ▯
