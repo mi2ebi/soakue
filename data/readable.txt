@@ -73797,14 +73797,14 @@ Dembim (2025-12-14T13:55:22.841Z): see also <@Ilmen ıqmı>
 soa ± `en` @official #zjd9lzVG4- 2019-05-05T22:27:29.843Z
 predicate: ‘help’; ▯ helps ▯ to satisfy property ▯.
 
+soa +1 `en` @Dembim #l_1IwOtPg 2026-01-14T00:13:14.486Z
+predicate: ‘help’; ▯ helps ▯ to satisfy some salient property (<oı>).
+
 soa ± `pl` @jiqci #QEwqr2lDv0 2023-07-31T08:22:18.933Z
 ▯ pomaga ▯ spełnić własność ▯.
 
 soa ± `ru` @SuperSpaceNiM #_8uHuAqEp 2024-08-11T22:25:04.679Z
 предикат: ‘помогать’; ▯ помогает ▯у удовлетворять свойству ▯.
-
-soa ± `en` @Dembim #l_1IwOtPg 2026-01-14T00:13:14.486Z
-predicate: ‘help’; ▯ helps ▯ to satisfy some salient property (<oı>).
 
 soa'asu ± `en` @robintown #Orzo6urKS 2023-05-22T05:16:28.389Z
 ▯ is a service dog.
