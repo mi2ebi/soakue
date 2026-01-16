@@ -1,106 +1,141 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>sóakue</title>
+    <link href="fonts.css" rel="stylesheet" />
+    <link id="css" href="style.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      title="Soakue"
+      href="opensearch.xml"
+    />
+    <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
+  </head>
 
-<head>
-  <title>sóakue</title>
-  <link href="fonts.css" rel="stylesheet" />
-  <link id="css" href="style.css" rel="stylesheet" />
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="search" type="application/opensearchdescription+xml" title="Soakue" href="opensearch.xml" />
-  <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
-</head>
-
-<body>
-  <h1>sóakue</h1>
-  <p>
-    <a href="https://github.com/mi2ebi/soakue">github</a>
-  </p>
-  <p>
-    <input type="text" id="search" name="search" autocomplete="off" spellcheck="false" size="1"
-      placeholder="chum lao jí pó tóakue" disabled />
-    <span id="post">
-      <span id="btns">
-        <button type="reset" id="clear">sheaja</button>
-        <button type="button" id="english">tọ’ıqlızuno</button></span><span id="len"></span>
-    </span>
-  </p>
-  <div id="res"></div>
-  <div id="bottom"></div>
-  <details id="howto">
-    <summary>help</summary>
-    <h2>about</h2>
-    <p>soakue is a dictionary for <a href="https://toaq.net">Toaq</a> that uses data from <a
-        href="https://toadua.uakci.space/">Toadua</a> (updated daily).
-      you can download it to use it offline, and it works even when Toadua is down.
-      on the other hand, you can't use soakue to define new words or vote on existing words.</p>
-    <p>thanks to emnresu, &, and Lynn for contributing!</p>
-    <h2>syntax</h2>
-    <p><code>=toa</code> searches for exactly the word <code>toa</code>. there are a couple fancy things you can do with
-      this:
+  <body>
+    <h1>sóakue</h1>
+    <p>
+      <a href="https://github.com/mi2ebi/soakue">github</a>
     </p>
-    <div class="indent">
+    <p>
+      <input
+        type="text"
+        id="search"
+        name="search"
+        autocomplete="off"
+        spellcheck="false"
+        size="1"
+        placeholder="chum lao jí pó tóakue"
+        disabled
+      />
+      <span id="post">
+        <span id="btns">
+          <button type="reset" id="clear">sheaja</button>
+          <button type="button" id="english">tọ’ıqlızuno</button></span
+        ><span id="len"></span>
+      </span>
+    </p>
+    <div id="res"></div>
+    <div id="bottom"></div>
+    <details id="howto">
+      <summary>help</summary>
+      <h2>about</h2>
       <p>
-        <code>CVFQ</code> match their <a href="https://toaq.net/refgram/phonology">refgram</a> definitions (note
-        that <code>VV</code> includes <code>F</code>)<br />
-        <code>R</code> matches a raku<br />
-        <code>_</code> matches a space<br />
-        everything else works like in <a
-          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern">regex</a>
+        soakue is a dictionary for <a href="https://toaq.net">Toaq</a> that uses
+        data from <a href="https://toadua.uakci.space/">Toadua</a> (updated
+        daily). you can download it to use it offline, and it works even when
+        Toadua is down. on the other hand, you can't use soakue to define new
+        words or vote on existing words.
       </p>
-    </div>
-    <p>soakue automatically converts some characters to their Toaq equivalents:</p>
-    <div class="indent">
+      <p>thanks to emnresu, &, and Lynn for contributing!</p>
+      <h2>syntax</h2>
       <p>
-        <code>i</code> → <code>ı</code><br />
-        <code>v</code> or <code>w</code> or <code>y</code> → <code>ꝡ</code><br />
-        <code>x</code> → <code>'</code><br />
-        <code>:</code> or <code>-</code> → <code>◌̣</code> (prefix underdot)<br />
-        <code>1234</code> → <code>◌̀◌́◌̈◌̂</code> (tones)
+        <code>=toa</code> searches for exactly the word <code>toa</code>. there
+        are a couple fancy things you can do with this:
       </p>
-    </div>
-    <p><code>~</code> is similar but will also match word-internally: <code>~toa</code> behaves the same as
-      <code>=.*toa.*</code> and <code>=toa</code> behaves the same as <code>~^(?:toa)$</code>
-    </p>
-    <p><code>@author</code> searches for words defined by <code>author</code></p>
-    <p><code>#QixhMGJ8MQ</code> finds the word with that exact ID</p>
-    <p><code>/n</code> finds definitions with <code>n</code> slots</p>
-    <p><code>$scope</code> shows words defined under a particular language code. for example <code>$en</code> for
-      English, <code>$toa</code> for Toaq</p>
-    <p><code>!</code> negates a query, e.g. <code>!@official</code></p>
-    <p><code>^n</code> finds definitions with at least +<code>n</code> votes. you can do <code>!^n</code> for less than
-      <code>n</code>, and <code>^=n</code> for exactly <code>n</code>.
-    </p>
-    <p><code>w:</code> finds words that are Bad (from older versions of Toaq, phonotactically invalid, etc)</p>
-  </details>
-  <script src="data/toakue.js"></script>
-  <script src="helper.js"></script>
-  <script src="events.js"></script>
-  <script>
-    $`search`.removeAttribute("disabled");
-    $`search`.setAttribute("placeholder", "joaıteoq");
-    worker = new Worker("worker.js");
-    worker.addEventListener("message", function (e) {
-      res = e.data;
-      if (res.err) {
-        $`res`.innerHTML = res.err;
-        $`bottom`.innerHTML = "";
-        return;
+      <div class="indent">
+        <p>
+          <code>CVFQ</code> match their
+          <a href="https://toaq.net/refgram/phonology">refgram</a> definitions
+          (note that <code>VV</code> includes <code>F</code>)<br />
+          <code>R</code> matches a raku<br />
+          <code>_</code> matches a space<br />
+          everything else works like in
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern"
+            >regex</a
+          >
+        </p>
+      </div>
+      <p>
+        soakue automatically converts some characters to their Toaq equivalents:
+      </p>
+      <div class="indent">
+        <p>
+          <code>i</code> → <code>ı</code><br />
+          <code>v</code> or <code>w</code> or <code>y</code> → <code>ꝡ</code
+          ><br />
+          <code>x</code> → <code>'</code><br />
+          <code>:</code> or <code>-</code> → <code>◌̣</code> (prefix underdot)<br />
+          <code>1234</code> → <code>◌̀◌́◌̈◌̂</code> (tones)
+        </p>
+      </div>
+      <p>
+        <code>~</code> is similar but will also match word-internally:
+        <code>~toa</code> behaves the same as <code>=.*toa.*</code> and
+        <code>=toa</code> behaves the same as <code>~^(?:toa)$</code>
+      </p>
+      <p>
+        <code>@author</code> searches for words defined by <code>author</code>
+      </p>
+      <p><code>#QixhMGJ8MQ</code> finds the word with that exact ID</p>
+      <p><code>/n</code> finds definitions with <code>n</code> slots</p>
+      <p>
+        <code>$scope</code> shows words defined under a particular language
+        code. for example <code>$en</code> for English, <code>$toa</code> for
+        Toaq
+      </p>
+      <p><code>!</code> negates a query, e.g. <code>!@official</code></p>
+      <p>
+        <code>^n</code> finds definitions with at least +<code>n</code> votes.
+        you can do <code>!^n</code> for less than <code>n</code>, and
+        <code>^=n</code> for exactly <code>n</code>.
+      </p>
+      <p>
+        <code>w:</code> finds words that are Bad (from older versions of Toaq,
+        phonotactically invalid, etc)
+      </p>
+    </details>
+    <script src="data/toakue.js"></script>
+    <script src="helper.js"></script>
+    <script src="events.js"></script>
+    <script>
+      $`search`.removeAttribute("disabled");
+      $`search`.setAttribute("placeholder", "joaıteoq");
+      worker = new Worker("worker.js");
+      worker.addEventListener("message", function (e) {
+        res = e.data;
+        if (res.err) {
+          $`res`.innerHTML = res.err;
+          $`bottom`.innerHTML = "";
+          return;
+        }
+        $`res`.innerHTML = "";
+        $`len`.innerHTML = "netı\u{00a0}<b>" + res.length + "</b>\u{00a0}raı";
+        page = 0;
+        load(res, page);
+        checkLength();
+      });
+      function updateFromQuery() {
+        var par = new URLSearchParams(window.location.search);
+        navigate(par.get("q") ?? "", false);
+        $`search`.focus();
       }
-      $`res`.innerHTML = "";
-      $`len`.innerHTML = "netı\u{00a0}<b>" + res.length + "</b>\u{00a0}raı";
-      page = 0;
-      load(res, page);
-      checkLength();
-    });
-    function updateFromQuery() {
-      var par = new URLSearchParams(window.location.search);
-      navigate(par.get("q") ?? "", false);
-      $`search`.focus();
-    }
-    window.addEventListener("DOMContentLoaded", updateFromQuery);
-    window.addEventListener("popstate", updateFromQuery);
-  </script>
-</body>
-
+      window.addEventListener("DOMContentLoaded", updateFromQuery);
+      window.addEventListener("popstate", updateFromQuery);
+    </script>
+  </body>
 </html>

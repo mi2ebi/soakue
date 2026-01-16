@@ -1,19 +1,23 @@
 * {
   box-sizing: border-box;
-  transition: background-color 0.2s, border-color 0.2s;
+  transition:
+    background-color 0.2s,
+    border-color 0.2s;
 }
 :root {
-  --font: "Noto Sans", "iosevie", "Noto Sans CJK JP", system-ui, -apple-system, sans-serif;
+  --font:
+    "Noto Sans", "iosevie", "Noto Sans CJK JP", system-ui, -apple-system,
+    sans-serif;
   --mono: "iosevie", ui-monospace, monospace;
-  --bg:     light-dark(#f5f3ff, #0f0e1a);
-  --fg:     light-dark(#1a1a1a, #e5e7eb);
-  --input:  light-dark(#ffffff, #1a1a2e);
-  --gray:   light-dark(#6b7280, #9ca3af);
-  --focus:  light-dark(#c77873, #fb7185);
+  --bg: light-dark(#f5f3ff, #0f0e1a);
+  --fg: light-dark(#1a1a1a, #e5e7eb);
+  --input: light-dark(#ffffff, #1a1a2e);
+  --gray: light-dark(#6b7280, #9ca3af);
+  --focus: light-dark(#c77873, #fb7185);
   --orange: light-dark(#d97706, #fbbf24);
-  --blue:   light-dark(#2563eb, #60a5fa);
+  --blue: light-dark(#2563eb, #60a5fa);
   --purple: light-dark(#7c3aed, #a78bfa);
-  --pink:   light-dark(#db2777, #f472b6);
+  --pink: light-dark(#db2777, #f472b6);
   text-size-adjust: none;
   -moz-text-size-adjust: none;
   -webkit-text-size-adjust: none;
@@ -56,7 +60,9 @@ p:has(#search) {
   gap: 8px;
   align-items: center;
 }
-#btns, #len, .nobr {
+#btns,
+#len,
+.nobr {
   white-space: nowrap;
 }
 #len {
@@ -152,7 +158,8 @@ code {
 :is(#bottom, #res, #len):not(:empty) ~ #howto {
   display: none;
 }
-#bottom, #res {
+#bottom,
+#res {
   margin-top: 24px;
 }
 #howto {
@@ -181,7 +188,7 @@ dt {
   .nobr :hover {
     color: var(--purple);
   }
-  a:not([class]:not(.date), [href*=toadua\.uakci\.space]) {
+  a:not([class]:not(.date), [href*="toadua\.uakci\.space"]) {
     color: inherit;
   }
 }
@@ -192,7 +199,8 @@ dd {
   color: var(--pink);
   font-weight: 700;
 }
-.score, .score a {
+.score,
+.score a {
   color: var(--purple);
 }
 .notes {
@@ -204,17 +212,18 @@ dd {
 }
 @media (prefers-contrast: more) {
   :root {
-    --bg:     light-dark(#ffffff, #000000);
-    --fg:     light-dark(#000000, #ffffff);
-    --input:  light-dark(#ffffff, #1a1a1a);
-    --gray:   light-dark(#4a4a4a, #cccccc);
-    --focus:  light-dark(#b91c1c, #fca5a5);
+    --bg: light-dark(#ffffff, #000000);
+    --fg: light-dark(#000000, #ffffff);
+    --input: light-dark(#ffffff, #1a1a1a);
+    --gray: light-dark(#4a4a4a, #cccccc);
+    --focus: light-dark(#b91c1c, #fca5a5);
     --orange: light-dark(#b45309, #fcd34d);
-    --blue:   light-dark(#1e40af, #93c5fd);
+    --blue: light-dark(#1e40af, #93c5fd);
     --purple: light-dark(#6b21a8, #d8b4fe);
-    --pink:   light-dark(#be185d, #fbcfe8);
+    --pink: light-dark(#be185d, #fbcfe8);
   }
-  #search, #howto {
+  #search,
+  #howto {
     border: 2px solid var(--fg);
   }
   a {
