@@ -53060,7 +53060,7 @@ Hydro (2021-08-19T20:14:10.596Z): from Japanese "もやもや (moyamoya)", "puff
 moho ± `en` @Ilmen #CMa--GYOH 2022-02-15T22:59:31.215Z
 illocution: humorous, non-serious question.
 
-moı +2 `en` @kazoo #JH8I-TeOn 2025-05-03T11:54:18.000Z
+moı +3 `en` @kazoo #JH8I-TeOn 2025-05-03T11:54:18.000Z
 predicate: ‘think’; ▯ thinks thought ▯.
 kazoo (2025-05-03T11:54:45.385Z): forked from @official, binary only
 
@@ -100208,9 +100208,6 @@ Hoemai (2020-01-13T11:09:53.914Z): Generally expelled by coughing.
 ⚠ byleqguele -1 `en` @Hydro #7hC8-EXPQ 2022-03-29T01:37:57.624Z
 ▯ is a pituitary gland.
 
-⚠ by -1 `toa` @el #3jnUabyuG 2022-09-13T18:51:29.359Z
-= jıoı deı lâ ja bı jeo ja
-
 ⚠ caıfuoduy ± `en` @uakci #Uywh6Loe8 2022-02-15T02:46:15.334Z
 ▯ gores/prods/stabs ▯.
 
@@ -100618,12 +100615,6 @@ Laqme (2023-10-19T13:54:53.187Z): → **gueq**
 ⚠ guyboe ± `en` @Machy #Kb83L0OgE 2021-11-18T00:38:50.255Z
 ▯ is a cloth sheet.
 
-⚠ gy -1 `en` @el #AqrZB1FUW 2022-07-18T06:59:15.456Z
-conjunction in RU: Y (which is somehow related to X)
-el (2022-07-18T06:59:53.908Z): on verbs, something like «po baq X ga Y»; with nouns, something like «Y pö X», etc
-el (2022-07-18T07:00:09.506Z): a somehow X-flavored Y
-Ilmen (2024-10-22T14:30:31.191Z): Unfortunately not a valid form for Toaq Delta.
-
 ⚠ hagy -1 `en` @Ilmen #Nddbgad8t 2020-02-05T12:07:53.313Z
 ▯ is a wing.
 Ilmen (2020-02-05T12:08:00.162Z): PIE *h₂eǵ- (to drive) → *h₂eḱsis (axis/axle) → Latin āla (wing).
@@ -100972,10 +100963,6 @@ Ilmen (2025-10-23T10:44:56.347Z): The vowel ⟦y⟧ is no longer part of Toaq.
 
 ⚠ koaloy ± `en` @uakci #cxW60NrKV 2021-10-25T22:32:33.939Z
 ▯ is “raw”; ▯ is cooked in a way that doesn’t involve heating it up.
-
-⚠ kocy -1 `tok` @el #iSpblRa0h 2022-07-10T02:25:40.625Z
-▯ li ko
-el (2022-07-10T02:26:02.029Z): nimi **kocy** kin li tan toki pona
 
 ⚠ kokykola -1 `en` @fagri #_nKs--TFC 2021-08-18T03:13:54.824Z
 ▯ is Coca-Cola
@@ -101616,10 +101603,6 @@ akesi (2020-06-06T08:59:24.048Z): shortening of Toaq "narāq" because i want a 1
 ⚠ sakyso ± `en` @Hydro #wGQ-LyOBA 2021-09-10T11:34:17.972Z
 ▯ is a saxophone.
 
-⚠ salıcy -1 `en` @el #qwFVLlPmD 2022-07-27T05:55:08.518Z
-▯ is a willow (tree/plant/shrub, genus Salix)
-el (2022-07-27T05:55:14.258Z): < latin salix
-
 ⚠ say -1 `en` @akesi #xbf_mckeI 2020-04-23T02:38:43.947Z
 ▯ is state of matter ▯
 
@@ -101832,9 +101815,6 @@ Ilmen (2022-10-09T20:19:09.029Z): Etymology: PIE ⟪twr̩nḱos⟫, whence the L
 ▯ is soup.
 Hoemai (2020-02-22T16:12:08.725Z): a priori
 
-⚠ tuzy -1 `tok` @el #8CQ6B29U4 2022-07-10T04:06:46.293Z
-▯ li moku telo
-
 ⚠ uchy ± `en` @uakci #4dU5NDvVw 2020-04-15T22:20:26.160Z
 ▯, in Universal Coordinated Time (UTC), is at time ▯.
 
@@ -101864,10 +101844,6 @@ interjection: “hm, yeah, lemme think…” (phatic; asserting one’s turn in 
 
 ⚠ zeozy ± `en` @uakci #7X0of5Z8g 2022-10-05T07:09:47.192Z
 ▯ is juice.
-
-⚠ zınhy -1 `en` @el #OEkUKG6V4 2022-07-02T16:56:37.764Z
-interjection: "no, I won't do as you say"
-el (2022-07-02T16:56:47.761Z): opposite of **ınha**
 
 ⚠ zıqmy ± `en` @uakci #YMflJG07d 2021-11-07T03:55:04.476Z
 ▯ is a byte.
@@ -102010,9 +101986,6 @@ interjection: ‘uh…’ (filler / hesitation noise)
 
 ⚠ yhy -1 `en` @uakci #bny88CMhe 2022-08-07T20:59:27.739Z
 interjection: *clears throat conspicuously*
-
-⚠ yzy -1 `tok` @el #h-UugskYF 2022-10-26T18:06:58.534Z
-▯ li sitelen ni: Y
 
 ⚠ @toacıa -1 `en` @salarua #cwbK2MykJ 2023-12-18T00:14:14.730Z
 ▯ is a pleura.
