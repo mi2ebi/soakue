@@ -1470,7 +1470,7 @@ aqmınhue +1 `en` @evie #aXCJg26T_ 2025-05-09T18:50:30.331Z
 aqmırao ± `en` @evie #IDtMCKnds 2024-06-29T20:43:13.428Z
 ▯ is an admiral
 
-áqna +1 `en` @robintown #cY-zD26_p 2025-08-21T23:15:41.710Z
+áqna +2 `en` @robintown #cY-zD26_p 2025-08-21T23:15:41.710Z
 pronoun: ‘REFL.ND’; non-distributive reflexive pronoun
 robintown (2025-08-21T23:37:21.655Z): Subtly different in meaning to **áq**: "He kıaı hú poq áq" means "Those people (each) care for their own self (singular)", while "He kıaı hú poq áqna" means "Those people (taken as a group) care for themselves (the whole group)".
 robintown (2025-08-21T23:43:15.507Z): This word exists to fill out Kuna's theory of reflexives and subject-sharing, mostly. I don't quite know if this is aligned with how Hoemai imagines **áq** to work.
@@ -23555,6 +23555,9 @@ gımnhoq +1 `en` @Laqme #eiGJzxdR4 2024-12-28T17:56:23.904Z
 gımuo ± `en` @Laqme #Gnn_WMvDf 2022-01-09T13:50:24.986Z
 ▯ is perfect.
 
+gımuobıa +1 `en` @Laqme #-cNnNaztR 2026-01-18T10:55:21.072Z
+▯ is perfectionist.
+
 gına ± `en` @uakci #yew9mV0iY 2022-04-15T05:35:35.766Z
 ▯ is meh, just okay, good-but-unimpressive, mediocre.
 uakci (2022-04-15T05:35:41.938Z): **gı** + **ına**
@@ -37842,10 +37845,10 @@ juopaı ± `en` @lassc #ytAu8Qgjy 2025-03-25T17:21:39.819Z
 juopaku ± `en` @jiqci #Ur-EA70O4 2023-10-31T22:38:31.920Z
 ▯ is sealing wax.
 
-juoq +2 `en` @official #gqqOq4Xz7T 2019-05-05T22:26:00.767Z
+juoq +1 `en` @official #gqqOq4Xz7T 2019-05-05T22:26:00.767Z
 predicate: ‘should’; ▯ should satisfy property ▯.
 
-juoq +1 `en` @robintown #W29_1hRvl 2022-01-16T16:22:59.150Z
+juoq +2 `en` @robintown #W29_1hRvl 2022-01-16T16:22:59.150Z
 ▯ should be the case; ▯ had better be the case if ▯ is the case.
 robintown (2022-01-16T16:23:14.731Z): A version of jủoq in the modal class
 
@@ -43132,6 +43135,9 @@ Cuoı ▯ kúeqceq ▯.
 kueqcoeq -1 `toa` @robintown #E93GjrYt6 2022-08-10T12:24:13.839Z
 Chuecuoı ra mu chuecuoı ▯ chéq ▯.
 
+kueqdute ± `en` @Ilmen #FDRSo6Us9 2026-01-18T10:41:07.535Z
+▯ do a public demonstration or protest gathering or march.
+
 kueqgıq ± `en` @uakci #3-gXC-Qmp 2020-03-01T18:40:51.685Z
 ▯ disperse / distribute (themselves) away from locus ▯.
 
@@ -44551,6 +44557,9 @@ lalea +1 `en` @el #PZAY0b1kp 2022-02-24T05:21:50.206Z
 ▯ is a tulip
 el (2022-02-24T05:21:56.601Z): from romanian "lalea"
 
+laleareremuao ± `en` @Dembim #Pcvn6QklB 2026-01-18T14:57:00.848Z
+▯ is a Liriodendron tulipifera (tulip poplar)
+
 lam +2 `en` @Laqme #z3XbDwKFh 2024-06-12T08:14:23.213Z
 ▯ is prone/apt to satisfy property ▯.
 Laqme (2024-06-12T08:16:20.958Z): predisposed, susceptible, quick, liable, inclined, tend to, have a tendency to. Not agentive.
@@ -45136,6 +45145,7 @@ laso ± `en` @kazoo #IdFLQkgby 2025-04-30T21:46:59.306Z
 lasoaı +1 `en` @jiqci #XPPqCeLOD 2023-02-10T22:05:17.911Z
 ▯ is a laser ray.
 jiqci (2023-02-10T22:05:30.516Z): laser + **soaı**
+Ilmen (2026-01-18T13:32:45.020Z): frame: c
 
 lasoq ± `en` @jiqci #in7h_wubz 2023-07-27T17:09:27.990Z
 ▯ is a coat of arms of ▯.
@@ -49935,8 +49945,13 @@ meaı -1 `en` @fagri #38az5y_VB 2023-01-08T12:29:28.881Z
 ▯ is a star in the night sky (not the sun)
 fagri (2023-01-08T12:29:45.229Z): Candidate meaning for Lina's new name, may depricate this if not chosen
 
-meaıdıu +1 `en` @jiqci #_kB9oiA6J 2024-04-24T17:30:41.246Z
+meaıdıu +2 `en` @jiqci #_kB9oiA6J 2024-04-24T17:30:41.246Z
 ▯ is astronomy.
+
+meaıdıuche ± `en` @Dembim #gZo7g1zVE 2026-01-18T13:21:33.199Z
+▯ is an astronomer
+Dembim (2026-01-18T13:21:40.927Z): Frame: c
+Dembim (2026-01-18T13:21:49.652Z): Pronominal_class: ho
 
 meaıfıem ± `en` @jiqci #dL08cU9TN 2024-10-03T13:17:02.500Z
 ▯ is a planetary ring system.
@@ -49950,7 +49965,7 @@ meaımeaqme ± `en` @evie #sVjKpzwMV 2024-06-29T20:16:52.065Z
 meaımıq ± `en` @Laqme #aJ3RuA3Uc 2024-04-29T10:06:42.121Z
 ▯ is infinite like the galaxy.
 
-meaıpoq ± `en` @robintown #2sYk36CDI 2025-03-22T00:53:35.066Z
+meaıpoq +1 `en` @robintown #2sYk36CDI 2025-03-22T00:53:35.066Z
 ▯ is an alien.
 
 meaıshua ± `en` @robintown #gJ9zFRgR0 2023-12-14T06:49:04.268Z
@@ -55213,6 +55228,11 @@ naomı'arane ± `en` @jiqci #M2aZSjbiR 2024-07-31T16:02:21.640Z
 naomıbose ± `en` @jiqci #4d8eFC3nh 2023-12-24T13:40:51.686Z
 ▯ is an Australlian box jelly / sea wasp (Chironex fleckeri).
 
+naomıche ± `en` @Dembim #wf-EgNQRN 2026-01-18T13:16:16.241Z
+▯ is a sailor
+Dembim (2026-01-18T13:18:40.926Z): Frame: c
+Dembim (2026-01-18T13:19:44.155Z): Pronominal_class: ho
+
 naomınuım ± `en` @Ilmen #xT5K_iGIH 2024-05-24T20:49:31.525Z
 ▯ is light from bioluminescent algae.
 Ilmen (2024-05-25T20:48:08.016Z): Calque from Yahgan language ⟪hikapárnix⟫.
@@ -56554,6 +56574,7 @@ nıaıserıeqchuaq ± `en` @Laqme #rjY6iwIDF 2019-02-03T02:38:46.000Z
 
 nıaısoaq +1 `en` @Hoemai #M7TntAcXL 2019-04-12T14:27:25.000Z
 ▯ is a zoo/zoological garden.
+Ilmen (2026-01-18T13:33:05.614Z): frame: c
 
 nıajeaq ± `en` @Neaqbua #ICU9dYyuA 2024-09-23T23:03:36.848Z
 ▯ lowers; ▯ loses elevation.
@@ -56981,6 +57002,9 @@ nıenua ± `en` @Ilmen #F-mt7xmXd 2019-01-07T21:41:19.000Z
 nıepeo ± `en` @seaqtaq #xGfIQhwQ- 2024-11-20T05:09:56.197Z
 ▯ (non-agent) penetrates object ▯
 
+nıepoa ± `en` @Ilmen #VT1NhxyqG 2026-01-18T16:39:12.814Z
+▯ is an closed container, having an closed opening disallowing access to its interior.
+
 nıepoha ± `en` @Laqme #USaULxjtF 2025-02-14T16:53:17.882Z
 ▯ refers endophorically to ▯.
 
@@ -57018,6 +57042,9 @@ nıeqse ± `en` @uakci #ZhgZTw7Rj 2023-06-03T22:41:46.076Z
 
 nıeqtaı ± `en` @uakci #TSpC_n9ul 2023-01-02T14:02:37.661Z
 ▯ manages to do OK on satisfying property ▯ despite their lack of experience.
+
+nıerıa ± `en` @Ilmen #QWiWmHbus 2026-01-18T16:38:15.040Z
+▯ is an open container, having an open opening allowing access to its interior.
 
 nıerıaq ± `en` @fagri #chIKZ9J4X 2020-07-01T16:49:34.067Z
 ▯ is an entrance
@@ -57326,6 +57353,8 @@ uakci (2019-01-27T21:57:48.000Z): well, #cio exists, but I like my version anywa
 
 nıonuaq ± `en` @Dembim #_zOWf7W2M 2026-01-17T15:20:25.953Z
 ▯ is an evening (from sundown 'til midnight)
+Dembim (2026-01-18T15:20:42.162Z): Frame: c
+Dembim (2026-01-18T15:21:10.739Z): Pronominal_class: hoq
 
 nıoq ± `en` @official #FcGqd77I04 2019-05-05T22:26:52.967Z
 predicate: ‘tooth’; ▯ is a tooth.
@@ -57502,6 +57531,9 @@ nıqdao ± `pl` @jiqci #JU_et7dzeG 2023-07-31T08:21:36.930Z
 
 nıqdaoche ± `en` @Laqme #tJXNqIxBf 2025-09-07T14:03:05.730Z
 ▯ is a journalist.
+
+nıqdaofıuq ± `en` @Ilmen #jMPkPh6DY 2026-01-18T10:32:08.551Z
+▯ is a news agency.
 
 nıqdaoruaqche ± `en` @mimiaoganhaqpy #YWFD3joXC 2023-04-05T02:30:49.752Z
 ▯ is a reporter.
@@ -63507,6 +63539,9 @@ poabuı ± `en` @seaqtaq #aaQKVGCcL 2024-11-22T00:51:35.481Z
 poabuı -1 `en` @robintown #GPI3Fce1v 2022-01-27T03:17:08.763Z
 ▯ is trapped/locked/shut outside of ▯.
 
+poaca ± `en` @Ilmen #vv3sV-rd6 2026-01-18T16:42:47.873Z
+▯ obstructs, closes way ▯ off, disallowing passage.
+
 poachoatoaı +1 `en` @Ilmen #E_golFcB5 2018-10-05T21:38:05.000Z
 ▯ is a consonant.
 
@@ -66962,6 +66997,9 @@ rere +1 `en` @Hoemai #ZQmPnXZtuAv 2019-09-17T19:19:51.090Z
 rerelaı ± `en` @Laqme #9xffF8JJd 2024-12-12T17:02:24.986Z
 ▯ is a fleur-de-lis.
 
+reremuao ± `en` @Dembim #PcYIlFz0n 2026-01-18T14:55:50.898Z
+▯ is a tree of genus Liriodendron (tulip trees)
+
 rerı ± `en` @uakci #PRsLuViOJ 2022-07-21T14:20:44.840Z
 ▯ is at an altered state/level of consciousness; ▯ hallucinates/is “tripping”.
 
@@ -67130,6 +67168,9 @@ rıachoacha ± `en` @seaqtaq #oQm_JL27j 2019-01-28T01:53:08.000Z
 
 rıachoatoaı +1 `en` @Ilmen #vWyRNuyoB 2018-10-05T21:37:48.000Z
 ▯ is a vowel.
+
+rıadıam ± `en` @Ilmen #B1UoZ2Aom 2026-01-18T16:44:31.082Z
+▯ allows passage through ▯ by not obstructing it.
 
 rıagoa ± `en` @Laqme #tMggCGX7G 2024-05-19T01:32:27.415Z
 ▯ is free/open/empty space.
@@ -72954,6 +72995,7 @@ predicate: ‘help’; ▯ helps ▯ to satisfy property ▯.
 
 soa +1 `en` @Dembim #l_1IwOtPg 2026-01-14T00:13:14.486Z
 predicate: ‘help’; ▯ helps ▯ to satisfy some salient property (<oı>).
+Ilmen (2026-01-18T13:29:28.678Z): discriminator: 2
 
 soa ± `pl` @jiqci #QEwqr2lDv0 2023-07-31T08:22:18.933Z
 ▯ pomaga ▯ spełnić własność ▯.
@@ -73138,6 +73180,7 @@ soaolua ± `en` @lassc #TW5OyqLmD 2025-03-20T11:00:12.560Z
 
 soaome +1 `en` @Laqme #BxysN8DVv 2023-12-08T16:10:15.839Z
 ▯ is a community.
+Ilmen (2026-01-18T13:33:14.905Z): Frame: c
 
 soaonıeq ± `en` @Ilmen #eZuPIFIKT 2024-12-27T11:31:26.148Z
 ▯ is socially unskilled.
@@ -75958,6 +76001,11 @@ eednb (2023-06-30T01:25:29.200Z): specifically for reptilian and bird eggs, not 
 
 sheamchao ± `en` @jiqci #dPeXQ0DFp 2025-04-10T06:33:27.894Z
 ▯ is a spaceship.
+
+sheamche ± `en` @Dembim #VoEA7eOCt 2026-01-18T13:20:16.342Z
+▯ is an astronaut/cosmonaut
+Dembim (2026-01-18T13:22:12.186Z): Frame: c
+Dembim (2026-01-18T13:22:19.389Z): Pronominal_class: ho
 
 sheame +1 `en` @jiqci #gSl7uVhE1 2024-02-21T14:48:58.496Z
 ▯ is the empty set.
