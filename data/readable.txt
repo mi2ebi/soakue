@@ -8036,6 +8036,10 @@ cıaolua ± `en` @robintown #lBUakaQyl 2023-11-03T17:11:15.530Z
 cıaoluo ± `en` @robintown #xVufWrTyZ 2023-09-14T14:31:07.198Z
 ▯ is a society/community with a common culture.
 
+cıaona ± `en` @Ilmen #UiDIMgyFg 2026-01-19T21:37:20.631Z
+It is common wisedom that ▯ is the case.
+Dembim (2026-01-20T00:42:28.231Z): evidential
+
 cıaopoq ± `en` @Laqme #izA4F6JyW 2019-11-01T14:33:19.021Z
 ▯ is a person of / are people sharing ▯ culture.
 
@@ -17131,6 +17135,9 @@ duamuo +1 `en` @Ilmen #YsjayXH6U 2019-06-20T15:39:01.018Z
 predicate: ‘certain’; ▯ is certain that ▯ is the case.
 uakci (2019-06-20T15:41:06.029Z): +1
 
+duana ± `en` @Dembim #oCEa8x1rG 2026-01-19T23:36:10.268Z
+interjection: 'for your information'
+
 duanoa +1 `en` @uakci #OhWLeJnC_ 2020-04-02T16:43:28.187Z
 ▯ is mysterious (‘hard to know’) to ▯.
 Machy (2020-04-02T16:44:43.295Z): mystery, +1
@@ -18143,7 +18150,7 @@ eka +1 `en` @Laqme #O7bpCR1Ik 2025-05-25T21:58:35.756Z
 ▯ is abrupt / sudden.
 Laqme (2025-05-25T22:00:40.710Z): Describes an event; you likely want to use it as **êka**, or say things like **Ca sá eka, ꝡá…** . I'm not sure if this is better than (c 1) **eka**.
 
-eka ± `en` @Laqme #E0iYTsy82 2022-05-07T17:45:12.634Z
+eka -1 `en` @Laqme #E0iYTsy82 2022-05-07T17:45:12.634Z
 ▯ takes place abruptly (suddenly, startlingly); ▯ abruptly satisfies ▯.
 Laqme (2022-05-07T17:45:55.907Z): antonym of **nhea**
 Laqme (2022-05-07T17:47:15.892Z): rashly, brusquely, curtly, in a flash…
@@ -19812,6 +19819,10 @@ unit: fepni (Lojbanic currency; 1/100th of a rupnu)
 femto ± `en` @jiqci #d0EaIcm5j 2024-11-05T22:04:40.732Z
 number: one quadrillionth (10^-15), femto-
 
+fena ± `en` @Ilmen #OKIQh0FMW 2026-01-19T21:49:12.250Z
+I intuit that ▯ is the case.
+Dembim (2026-01-20T00:42:56.278Z): evidential
+
 fenoqpuo ± `en` @robintown #xAbbqHuOe 2025-01-03T04:39:57.690Z
 ▯ is five-spice powder.
 
@@ -20025,6 +20036,10 @@ My intuition tells me that ▯ is the case.
 
 feqlam ± `en` @seaqtaq #UZ1b22NgX 2024-11-26T23:36:20.579Z
 ▯ is instinctual; ▯ tends to operate on instinct
+
+feqlım ± `en` @Dembim #RwKtl5Q6B 2026-01-20T00:52:45.132Z
+▯ immediately/intuitively grasps/groks/understands ▯
+Dembim (2026-01-20T00:52:51.682Z): Frame: c c
 
 feqmajı ± `en` @robintown #rtPheFBPW 2023-11-11T14:32:34.475Z
 ▯ is clairvoyance/prescience/telepathy.
@@ -21586,6 +21601,10 @@ gaımuomuo ± `en` @fagri #tecV6Oqcm 2019-01-10T02:22:10.000Z
 gaımuotua -1 `en` @fagri #vRX2ItXVm 2019-02-06T23:47:16.000Z
 Tủa gảımūo ▯ ▯ ▯.
 robintown (2022-08-06T20:11:42.819Z): misscoped
+
+gaına ± `en` @Ilmen #N35J6yZWf 2026-01-19T21:49:40.671Z
+I perceive here and now that ▯ is the case.
+Dembim (2026-01-20T00:43:05.611Z): evidential
 
 gaıno ± `en` @uakci #wHnA6OQmv 2022-07-31T18:32:56.558Z
 ▯ is sensed with sensory modality ▯.
@@ -29796,6 +29815,9 @@ hoedıu ± `en` @seaqtaq #qaiegsYVc 2019-06-10T21:42:56.494Z
 
 hoedue ± `en` @seaqtaq #hsxvFGgni 2019-06-22T22:51:00.755Z
 predicate: ‘legal’; ▯ is legal
+
+hoefeıtue ± `en` @Ilmen #iElUuFJs5 2026-01-19T21:30:24.648Z
+▯ is a solar storm.
 
 hoefu +1 `en` @uakci #IWGt_InvC 2019-05-02T12:26:49.000Z
 ▯ is a Toaqist.
@@ -51318,7 +51340,7 @@ mıerıje ± `en` @seaqtaq #b8cVg69Dh 2024-11-19T09:43:48.327Z
 mıerıo +2 `en` @Ilmen #C4OXAHqCd 2019-04-23T22:24:30.000Z
 ▯ is dioxygen.
 
-mıerıoq ± `en` @mimiaoganhaqpy #bb5hxj-a6 2023-01-11T05:11:54.131Z
+mıerıoq +1 `en` @mimiaoganhaqpy #bb5hxj-a6 2023-01-11T05:11:54.131Z
 ▯ is the species of ▯.
 
 mıerıoqdıu ± `en` @seaqtaq #yP20NFDOu 2019-01-29T02:48:19.000Z
@@ -52038,6 +52060,10 @@ moalaıpue ± `en` @mimiaoganhaqpy #rzQxZw8gd 2023-09-10T22:38:01.509Z
 
 moaleaq ± `en` @fagri #oQM-5dZXt 2019-02-23T22:00:12.000Z
 ▯ (region of a metric space) is adjacent to ▯ (region of the same metric space)
+
+moana ± `en` @Ilmen #c8au9Fl3p 2026-01-19T21:38:29.186Z
+According to my memories, if I recall correctly, ▯ is the case.
+Dembim (2026-01-20T00:42:44.472Z): evidential
 
 moanuoı ± `en` @seaqtaq #_G71bJT1q 2019-01-28T01:34:47.000Z
 ▯ bites ▯
@@ -53633,7 +53659,11 @@ muıdıoq ± `en` @Laqme #_4ZOvl-ow 2023-09-15T18:34:42.556Z
 muıdıu ± `en` @seaqtaq #M8tf0JlZL 2018-12-10T20:47:42.000Z
 ▯ is the field of Semantics
 
-muıdoa ± `en` @uakci #kb4fi_R8t 2021-08-22T23:50:21.185Z
+muıdo ± `en` @Ilmen #43Am-x-79 2026-01-19T21:43:36.517Z
+▯ assigns meaning ▯ to ▯; ▯ interprets as ▯ ▯.
+Ilmen (2026-01-19T21:44:02.206Z): ⸨From <muıdoa>, originally by Uakci.⸩
+
+muıdoa -1 `en` @uakci #kb4fi_R8t 2021-08-22T23:50:21.185Z
 ▯ assigns meaning ▯ to ▯; ▯ interprets as ▯ ▯.
 
 muıdua +2 `en` @official #TLT_e9vk5e 2019-05-05T22:26:35.807Z
@@ -61066,6 +61096,16 @@ oı'oıne +1 `en` @el #hko6Fz7KG 2022-11-08T21:43:24.186Z
 oıja +1 `en` @uakci #OjeyA_9KV 2023-09-09T17:32:19.463Z
 ▯ is a precious little pet/critter.
 uakci (2023-09-09T17:32:27.469Z): < **huoıcıa** or **doıjaq**
+
+oıjo ± `en` @Dembim #D7VyFqIIN 2026-01-20T00:12:05.717Z
+for some property constitutive of ▯'s self-conception, they recognize that ▯ too exhibits that property
+Dembim (2026-01-20T00:18:49.038Z): Frame: c c
+Dembim (2026-01-20T00:21:10.077Z): I had a compound for this, but ultimately picked oıjo because it itself looks like a face.
+
+oıjomoe ± `en` @Dembim #wdoT1PccF 2026-01-20T00:31:19.933Z
+▯ feels a sense of intimacy by shared identity, perceiving something of themself external to themself
+Dembim (2026-01-20T00:31:25.298Z): Frame: c
+Dembim (2026-01-20T00:31:55.537Z): Do also see <@Dembim oıjo>
 
 oılazıu ± `en` @jiqci #7JeMTJ9Rh 2023-01-22T18:58:33.787Z
 ▯ is Euler's number e.
@@ -68757,6 +68797,10 @@ robintown (2021-10-20T18:37:32.637Z): Calque of Mandarin '花岗岩' ('huāgāng
 ruamıa ± `en` @Laqme #ToBoTgddr 2020-01-08T22:14:39.632Z
 ▯ is in bloom (shows visible flowers).
 
+ruana ± `en` @Ilmen #KPkgqwHmn 2026-01-19T21:35:58.273Z
+Reportedly, ▯ is the case; I have heard, it is said that ▯ is the case.
+Dembim (2026-01-20T00:42:14.597Z): evidential
+
 ruanıaı ± `en` @Ilmen #fdr8A7FaT 2018-10-20T07:28:49.000Z
 ▯ is an anthozoan (Anthozoa taxonomic class: corals, sea anemones, gorgonians).
 
@@ -69224,7 +69268,7 @@ rukatoaı ± `en` @jiqci #PNsPBfbxo 2023-09-09T18:16:51.137Z
 rukatoq ± `en` @jiqci #O0yvs2rrT 2023-09-09T18:32:42.421Z
 ▯ is a sacrum bone.
 
-rula +1 `en` @Ilmen #AKBOPmNRD 2022-07-26T14:57:58.748Z
+rula ± `en` @Ilmen #AKBOPmNRD 2022-07-26T14:57:58.748Z
 I've heard that ▯ is the case; I've got second-hand information according to which ▯ is the case.
 
 rulaı +1 `en` @robintown #mov_4LAe2 2022-05-14T23:55:17.196Z
