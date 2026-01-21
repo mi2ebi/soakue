@@ -634,7 +634,7 @@ akıleopuebeqbo ± `en` @Ilmen #poI1jYQRI 2022-03-03T20:35:16.109Z
 akım ± `en` @Snow #a81wpwTn9 2023-05-31T11:48:33.971Z
 ▯ is an alkyne.
 
-akımı +1 `en` @fagri #cU5pe4wIr 2022-12-27T07:55:17.648Z
+akımı +2 `en` @fagri #cU5pe4wIr 2022-12-27T07:55:17.648Z
 ▯ is active/awake/on/engaged
 fagri (2022-12-27T07:55:34.301Z): Of a lock: "closed"/"locked"
 robintown (2023-06-06T03:06:49.677Z): antonym: **dom**
@@ -10711,6 +10711,11 @@ chıa ± `tok` @nano #AhbEFcOJJ 2023-05-23T05:02:13.609Z
 chıa ± `pl` @jiqci #pGjNbIPk7- 2023-07-31T08:20:00.586Z
 ▯ musi/potrzebuje spełnić własność ▯, żeby spełnić własność ▯.
 
+chıa ± `toa` @Dembim #x5fzWhfQd 2026-01-20T19:21:17.195Z
+▯, nä shê, ꝡä bu ıq hóa ▯, nä bu hao hóa
+Dembim (2026-01-20T19:23:58.989Z): Muıjeq shú ọıchıa <@official chıa> da.
+Ilmen (2026-01-20T20:54:19.869Z): discriminator: 2
+
 chıa -1 `toa` @uakci #tw5Xm_FW3 2019-04-14T20:35:58.000Z
 she bû deq dóshı dósaq na bû jeo dóshı dógu da
 
@@ -16717,7 +16722,7 @@ dolomme ± `en` @Laqme #namWCBV5a 2025-03-10T00:38:03.966Z
 dolomrueqguhu ± `en` @jiqci #BFV0bWLzh 2025-01-21T07:58:12.611Z
 ▯ is a tensor tympani muscle.
 
-dom +1 `en` @fagri #KNxFHz4X_ 2022-12-27T07:56:00.848Z
+dom +2 `en` @fagri #KNxFHz4X_ 2022-12-27T07:56:00.848Z
 ▯ is inactive/asleep/off/disengaged
 fagri (2022-12-27T07:56:10.936Z): Of a lock: "open"/"unlocked"
 robintown (2023-06-06T03:06:59.597Z): antonym: **akımı**
@@ -20040,6 +20045,7 @@ feqlam ± `en` @seaqtaq #UZ1b22NgX 2024-11-26T23:36:20.579Z
 feqlım ± `en` @Dembim #RwKtl5Q6B 2026-01-20T00:52:45.132Z
 ▯ immediately/intuitively grasps/groks/understands ▯
 Dembim (2026-01-20T00:52:51.682Z): Frame: c c
+Dembim (2026-01-20T13:10:48.163Z): Pronominal_class: ho
 
 feqmajı ± `en` @robintown #rtPheFBPW 2023-11-11T14:32:34.475Z
 ▯ is clairvoyance/prescience/telepathy.
@@ -26142,7 +26148,7 @@ guoleaqbıe ± `en` @Ilmen #rPP4iMY2C 2019-12-28T23:46:34.676Z
 guoleı ± `en` @Laqme #8Wq-UPXIM 2024-05-04T22:10:48.914Z
 There are few instances of ▯ being the case.
 
-gúom ± `en` @uakci #vkH9iauhO 2024-12-31T19:12:57.671Z
+gúom +1 `en` @uakci #vkH9iauhO 2024-12-31T19:12:57.671Z
 focus particle: more (of) X; X more/further; X again/still; X anew; another X / X yet another time
 uakci (2024-12-31T19:17:15.767Z): **gıshe, ꝡä bạqjoımoı báq cueche gúom báq mıa jıe** ‘politicians should take public opinion into consideration more’ vs. **gıshe, ꝡä bạqjoımoı gúom báq cueche báq mıa jıe**. in both cases, the speaker wishes for the **ꝡä** clause to happen more (further than already), but in the first case they want more/further/new/other public opinion to be considered and in the second case they want a wider range of politicians (so, including more/further/new/different politicians than already do) to consider public opinion
 uakci (2024-12-31T19:17:39.858Z): you can also probably save yourself the nuance and slap **guom** at the start of the clause: **gıshe, ꝡä guom joımoı** etc. etc.
@@ -41026,6 +41032,9 @@ kıeıgam ± `en` @Laqme #zLSW02okc 2022-12-26T19:39:37.191Z
 kıeıhıu ± `en` @Ilmen #0rkdsWO24 2025-04-27T21:05:47.162Z
 ▯ is a glacier.
 
+kıeıkoa ± `en` @Laqme #tm3ricLo7 2026-01-20T20:03:03.520Z
+▯ is ice-cold.
+
 kıeıkoı ± `en` @Laqme #v6kbHo7Sw 2022-12-25T22:06:22.871Z
 ▯ ice-skates.
 
@@ -41214,13 +41223,17 @@ kım +2 `en` @TheAndSys #vvorN1EMn 2023-01-11T07:02:30.231Z
 uakci (2023-01-11T07:04:53.985Z): ▯ is something ▯ identifies with
 uakci (2023-01-11T09:36:22.848Z): identity, persona
 
+kım'ıq ± `en` @uakci #lCAJOrrF3 2026-01-20T21:00:44.442Z
+▯ has identity ▯; ▯’s satisfying property ▯ is part of their self-identity.
+
 kımchı +1 `en` @robintown #i1JFBjwLI 2023-02-14T21:07:34.501Z
 ▯ is kimchi, a type of Korean salted and fermented vegetables.
 
-kıme +1 `en` @Ilmen #98LcZV31J 2019-01-25T17:06:54.000Z
+kıme +2 `en` @Ilmen #98LcZV31J 2019-01-25T17:06:54.000Z
 In the sequence ▯, each nonfinal member is related to the next member by the relation ▯.
 uakci (2019-01-25T17:07:32.000Z): +1, this is what society’s been waiting for 
 uakci (2019-01-25T17:26:22.000Z): note: I made a similar word in Lojban a long time ago, namely {iinsi}.
+Dembim (2026-01-20T19:32:15.633Z): chainwise
 
 kımfeao ± `en` @mimiaoganhaqpy #FSWsangyj 2023-05-13T07:45:13.678Z
 ▯ experiences dysmorphia.
@@ -41241,6 +41254,11 @@ uakci (2021-10-18T11:16:16.952Z): < キモい
 
 kımo ± `tok` @el #qnxU4Y8DO 2022-07-10T03:47:58.391Z
 ▯ li jaki
+
+kımpaq ± `en` @Dembim #dBVX6ttRg 2026-01-20T20:37:47.369Z
+▯ is a property constitutive of ▯'s self-concept
+Dembim (2026-01-20T21:14:48.669Z): Frame: c c
+Dembim (2026-01-20T21:50:26.238Z): see also <@uakci kım'ıq>— synonyms but for slot order
 
 kımsope ± `en` @Laqme #QLF_zcWu1 2024-01-12T09:42:05.196Z
 ▯ swap identities / personas.
@@ -45194,6 +45212,9 @@ latıu ± `en` @el #tmMwkb-6V 2022-10-18T17:51:27.513Z
 proposition ▯ semantically entails proposition ▯; ▯ has semantic consequence ▯.
 el (2022-10-18T17:51:30.423Z): fork of #5SYefIhcK
 
+latoame ± `en` @Dembim #qC67Puyaw 2026-01-20T18:48:52.249Z
+▯ is a property phrase, a complementızer phrase headed by lä
+
 lazanha -1 `en` @fagri #Muqv-vkb3 2021-08-03T18:56:24.928Z
 ▯ is lasagna
 
@@ -47174,6 +47195,9 @@ loeleu ± `en` @robintown #MKq2ed4dx 2023-02-06T16:08:59.394Z
 
 loeloeq ± `en` @Ilmen #DBB0thuMA 2025-04-12T20:20:55.134Z
 ▯ is roasted, grilled.
+
+loeloq ± `en` @Laqme #LvLceUA7P 2026-01-20T20:02:23.583Z
+▯ is scorching/fiery/scalding hot.
 
 loem ± `en` @Snow #xTE1C6Qvh 2023-06-14T12:45:54.039Z
 ▯is the character x.
@@ -49764,11 +49788,12 @@ marıkıbeaq ± `en` @fagri #p4u6MGJhZ 2020-02-11T05:40:13.334Z
 marıkırua +1 `en` @robintown #FOCU5jmV6 2022-01-28T22:30:35.177Z
 ▯ is a cornflower.
 
-marıo ± `en` @seaqtaq #P6Rc6XRbr 2020-01-03T00:05:20.992Z
+marıo +1 `en` @seaqtaq #P6Rc6XRbr 2020-01-03T00:05:20.992Z
 sentence prefix "air?": is ▯ air?
 Machy (2022-05-15T23:38:16.436Z): +10
 robintown (2022-05-16T00:21:05.818Z): ỉca mỉ!
 uakci (2022-05-16T00:22:04.802Z): lẻca go~
+evie (2026-01-20T05:14:56.745Z): one day i am going to find some excuse to use this. nha
 
 maro +1 `en` @Laqme #bLw-d9toN 2020-03-02T21:28:52.489Z
 ▯ is marble (crystalline limestone).
@@ -56076,7 +56101,7 @@ neokıu -1 `en` @fagri #aAVLBqWme 2021-08-02T04:39:42.982Z
 fagri (2021-08-02T04:40:35.522Z): (as the etymology suggests, sufficiently small horizontal surfaces may in context not quality as neokiu because they do not kiu neo)
 fagri (2021-08-02T21:10:57.472Z): not to be confused with seoqrea'ai
 
-neom +1 `en` @salarua #hd233DAgM 2022-12-19T21:16:15.392Z
+neom +2 `en` @salarua #hd233DAgM 2022-12-19T21:16:15.392Z
 predicate: ‘standard’; ▯ is standard/canonical
 
 Neom'arabızu ± `en` @Ilmen #LvbDMOtVF 2025-11-01T10:11:21.308Z
@@ -56451,11 +56476,11 @@ akesi (2020-04-20T06:51:15.443Z): keywords: 1st person demonstrative
 nı -1 `toa` @uakci #pdcq2CLn1 2019-01-25T22:22:29.000Z
 gaıkıu dóshı, na ru lu pujuı ceo raqkuq jí hóa na dóshı da.
 
+ní +3 `en` @robintown #bgHwgXNcb 2024-08-21T17:19:01.229Z
+determiner: ‘this’; proximal demonstrative
+
 ní +1 `en` @official #MFwS4qaPYHT 2023-01-13T19:24:52.527Z
 determiner: ‘this’; demonstrative; this/that X
-
-ní +2 `en` @robintown #bgHwgXNcb 2024-08-21T17:19:01.229Z
-determiner: ‘this’; proximal demonstrative
 
 ní ± `en` @el #86JqJqjfX 2022-11-25T07:18:05.296Z
 determiner, but binds bóu: this thing which satisfies X
@@ -61101,11 +61126,13 @@ oıjo ± `en` @Dembim #D7VyFqIIN 2026-01-20T00:12:05.717Z
 for some property constitutive of ▯'s self-conception, they recognize that ▯ too exhibits that property
 Dembim (2026-01-20T00:18:49.038Z): Frame: c c
 Dembim (2026-01-20T00:21:10.077Z): I had a compound for this, but ultimately picked oıjo because it itself looks like a face.
+Dembim (2026-01-20T13:11:05.030Z): Pronominal_class: ho
 
 oıjomoe ± `en` @Dembim #wdoT1PccF 2026-01-20T00:31:19.933Z
 ▯ feels a sense of intimacy by shared identity, perceiving something of themself external to themself
 Dembim (2026-01-20T00:31:25.298Z): Frame: c
 Dembim (2026-01-20T00:31:55.537Z): Do also see <@Dembim oıjo>
+Dembim (2026-01-20T13:10:57.097Z): Pronominal_class: ho
 
 oılazıu ± `en` @jiqci #7JeMTJ9Rh 2023-01-22T18:58:33.787Z
 ▯ is Euler's number e.
@@ -68800,6 +68827,7 @@ ruamıa ± `en` @Laqme #ToBoTgddr 2020-01-08T22:14:39.632Z
 ruana ± `en` @Ilmen #KPkgqwHmn 2026-01-19T21:35:58.273Z
 Reportedly, ▯ is the case; I have heard, it is said that ▯ is the case.
 Dembim (2026-01-20T00:42:14.597Z): evidential
+Ilmen (2026-01-20T13:30:16.698Z): pronominal_class: hoq
 
 ruanıaı ± `en` @Ilmen #fdr8A7FaT 2018-10-20T07:28:49.000Z
 ▯ is an anthozoan (Anthozoa taxonomic class: corals, sea anemones, gorgonians).
