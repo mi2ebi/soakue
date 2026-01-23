@@ -839,11 +839,11 @@ amlaı ± `en` @uakci #hQ7voTYMB 2023-01-10T21:49:41.714Z
 ampea ± `en` @salarua #4o9TqJQRC 2022-12-12T23:46:48.077Z
 predicate: ‘ampere’; ▯ is an ampere
 
-amra +1 `en` @robintown #LyljqYZCl 2025-02-13T15:49:46.279Z
+amra +2 `en` @robintown #LyljqYZCl 2025-02-13T15:49:46.279Z
 ▯ (action) is devious/mischievous/sly.
 robintown (2025-02-13T15:51:02.905Z): A priori
 
-amralam +1 `en` @robintown #eOI_5M2RU 2025-02-13T15:50:51.188Z
+amralam +2 `en` @robintown #eOI_5M2RU 2025-02-13T15:50:51.188Z
 ▯ (agent) is devious/mischievous/sly in character.
 
 anaı ± `en` @Laqme #pQe5GYNjd 2023-12-05T11:02:51.184Z
@@ -19530,12 +19530,12 @@ fea +3 `en` @Machy #Kg5y2sIhH 2022-04-01T00:06:15.044Z
 ▯ endures satisfying property ▯.
 TheAndSys (2023-11-01T04:44:54.888Z): Withstands, undergoes, holds up agains
 
-fea ± `pl` @jiqci #aP7qppMmX 2023-07-31T08:20:23.074Z
-▯ wytrzymuje spełnianie własności ▯ spełniając własność ▯.
-
-fea ± `en` @robintown #TWsvf5TYp 2024-09-07T17:49:15.253Z
+fea +1 `en` @robintown #TWsvf5TYp 2024-09-07T17:49:15.253Z
 ▯ endures/withstands ▯.
 robintown (2024-09-07T17:49:25.579Z): keywords: weathers, bears
+
+fea ± `pl` @jiqci #aP7qppMmX 2023-07-31T08:20:23.074Z
+▯ wytrzymuje spełnianie własności ▯ spełniając własność ▯.
 
 fea -1 `en` @uakci #bcxDtJTUG 2023-02-21T15:19:18.705Z
 ▯ maintains property ▯.
@@ -36262,7 +36262,7 @@ joamoa ± `en` @uakci #T_LRqCZNI 2021-08-25T13:01:18.393Z
 joanhuo ± `en` @uakci #YrXPgVsuM 2022-10-02T20:45:38.919Z
 ▯ is a weekly timetable.
 
-jóao +2 `en` @robintown #K3Cg7I2yi 2023-10-30T19:21:34.613Z
+jóao +3 `en` @robintown #K3Cg7I2yi 2023-10-30T19:21:34.613Z
 focus particle: mainly, chiefly
 Laqme (2024-09-04T10:07:43.265Z): "especially" (in some sense)
 
@@ -41283,6 +41283,7 @@ kımpaq ± `en` @Dembim #dBVX6ttRg 2026-01-20T20:37:47.369Z
 ▯ is a property constitutive of ▯'s self-concept
 Dembim (2026-01-20T21:14:48.669Z): Frame: c c
 Dembim (2026-01-20T21:50:26.238Z): see also <@uakci kım'ıq>— synonyms but for slot order
+Dembim (2026-01-22T19:20:13.852Z): Pronominal_class: hoq
 
 kımsope ± `en` @Laqme #QLF_zcWu1 2024-01-12T09:42:05.196Z
 ▯ swap identities / personas.
@@ -45242,6 +45243,8 @@ el (2022-10-18T17:51:30.423Z): fork of #5SYefIhcK
 
 latoame ± `en` @Dembim #qC67Puyaw 2026-01-20T18:48:52.249Z
 ▯ is a property phrase, a complementızer phrase headed by lä
+Dembim (2026-01-22T19:21:10.517Z): Frame: c
+Dembim (2026-01-22T19:21:28.553Z): Pronominal_class: maq
 
 lazanha -1 `en` @fagri #Muqv-vkb3 2021-08-03T18:56:24.928Z
 ▯ is lasagna
