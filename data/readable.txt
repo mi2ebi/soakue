@@ -9652,10 +9652,17 @@ chagı ± `en` @Laqme #q8LeGl5Se 2025-01-24T10:25:13.730Z
 chahatapoq ± `en` @Ilmen #-Tae0Ta5D 2023-01-13T23:07:22.524Z
 ▯ is a Choctaw person.
 
-chahı +1 `en` @Machy #ZFZpZFhtC 2022-04-16T22:09:54.690Z
+chahı ± `en` @Machy #ZFZpZFhtC 2022-04-16T22:09:54.690Z
 How would ▯ happen?
 Machy (2022-04-16T22:10:06.126Z): chahı luaq há sháha = "How does one play chess?"
 Machy (2022-04-23T15:19:37.480Z): c.f. **kuıhı**
+
+chahı ± `en` @Dembim #Bh0ybwmiL 2026-01-23T16:07:53.076Z
+In what manner does ▯ happen?
+Dembim (2026-01-23T16:08:04.641Z): Frame: 0
+Dembim (2026-01-23T16:09:49.529Z): I think <@Machy chahı> would then usually just be « ao chahı »
+Dembim (2026-01-23T16:10:52.160Z): Discriminator: 2
+Dembim (2026-01-23T21:34:13.995Z): Pronominal_class: hoq
 
 chahıra +2 `en` @robintown #3fIoJmo_R 2022-07-02T17:42:44.250Z
 Somehow, ▯ happens (I don't know how).
@@ -32905,6 +32912,7 @@ uakci (2023-11-14T07:52:23.789Z): cf. **aıja**. just felt like this word could 
 jalam +2 `en` @Laqme #2kPtQrsLv 2025-05-17T09:22:58.860Z
 ▯ is a horse.
 Laqme (2025-05-17T09:23:08.794Z): a priori
+Ilmen (2026-01-23T21:35:15.466Z): Possibly from ⟪jara⟫ (“to run”) + ⟪ma⟫⁓⟪maraq⟫ (“horse”).
 
 jam- ± `en` @robintown #6Pu9h5COY 2023-05-22T18:52:31.241Z
 marks the following number as a clock time (HHcoMMcoSS)
@@ -46494,6 +46502,11 @@ lımkuaı ± `en` @lassc #M7y8zJZdq 2025-03-25T22:17:37.090Z
 lassc (2025-03-25T22:18:12.313Z): a kind of love that *is* applicable to concepts and objects, but just in a very particular context. it's also applicable to people in a very beautiful way i think 🥺
 lassc (2025-11-20T21:35:40.861Z): cf. **bamaı**, **maı** (hypernyms)
 
+lımla ± `en` @Dembim #-rjnK-i_s 2026-01-23T22:41:37.615Z
+▯ attentively interacts with/ messes with /interrogates/ explores the nature of ▯
+Dembim (2026-01-23T22:41:49.189Z): Frame: c c
+Dembim (2026-01-23T22:42:03.357Z): Pronominal_class: ho
+
 lımnoa ± `en` @Laqme #dm0kk7Xar 2025-03-14T17:30:47.572Z
 ▯ is hard to understand / complicated.
 
@@ -49782,6 +49795,11 @@ maraotoaı ± `en` @Laqme #XPBb9TN4g 2024-09-11T17:16:45.141Z
 
 marapaı +2 `en` @slush #7moX6S30w 2022-02-07T06:01:45.395Z
 ▯is a stuffed toy / plushie / stuffed animal
+
+maraq ± `en` @Ilmen #ujca5r4_B 2026-01-23T21:30:29.986Z
+▯ is a horse ⸨archaic, old-fashioned word⸩.
+Ilmen (2026-01-23T21:30:56.932Z): Etymology: Proto-Tibeto-Burman ⟪m-raŋ⟫.
+Ilmen (2026-01-23T21:33:14.950Z): Mostly replaced in usage by ⟪jalam⟫.
 
 mararujı +1 `en` @jiqci #zorOyeKQC 2023-08-01T07:50:19.387Z
 ▯ is whipped cream.
@@ -61034,17 +61052,17 @@ ocısopocua ± `en` @Ilmen #p51eQg88q 2023-05-04T21:48:53.621Z
 ocısopocuapuo ± `en` @Ilmen #gryNyOYN0 2023-05-04T21:49:24.463Z
 ▯ is thermite.
 
-ocha +3 `en` @uakci #c3c3pCCum 2022-10-02T21:44:48.023Z
-▯ is a sentient being.
-uakci (2022-10-02T21:45:06.664Z): not necessarily human or a person (includes otherkin, etc.). superset of **poq**
-uakci (2022-10-02T21:49:19.190Z): examples of **ocha** that may not be **poq** or **req**: those who don't consider themselves people; those who may be simulated or automated (or feel this way about themselves); fantastical/fictional creatures (demons, pixies, genies, etc.); sentient-seeming mares or delusions
-
 ocha +2 `en` @Laqme #Q_Rqv4kfm 2021-09-27T09:52:46.809Z
 ▯ is a human.
 Ilmen (2025-10-31T19:24:50.138Z): officialized: yes
 
 ocha ± `en` @official #KLv0d16sjeh 2021-09-29T13:08:54.357Z
 predicate: ‘human’; ▯ is a human.
+
+ocha +1 `en` @uakci #c3c3pCCum 2022-10-02T21:44:48.023Z
+▯ is a sentient being.
+uakci (2022-10-02T21:45:06.664Z): not necessarily human or a person (includes otherkin, etc.). superset of **poq**
+uakci (2022-10-02T21:49:19.190Z): examples of **ocha** that may not be **poq** or **req**: those who don't consider themselves people; those who may be simulated or automated (or feel this way about themselves); fantastical/fictional creatures (demons, pixies, genies, etc.); sentient-seeming mares or delusions
 
 ocha ± `ja` @Laqme #02Kwpeo7m 2021-10-04T16:02:59.569Z
 ▯は人間
@@ -61055,6 +61073,10 @@ ocha ± `tok` @el #DSmw70C-3 2022-07-10T07:06:00.591Z
 
 ocha ± `pl` @jiqci #65dwYQGA-Y 2023-07-31T08:19:45.811Z
 ▯ to człowiek.
+
+ocha -1 `en` @kazoo #fp9ZnkFpV 2026-01-23T14:43:08.046Z
+▯ is a member of species Homo sapiens. (modern human)
+Ilmen (2026-01-23T15:02:27.222Z): discriminator: 3
 
 ocha'aı ± `en` @uakci #b4tuU80AS 2022-07-25T18:11:45.949Z
 ▯ is anthro/anthropomorphic/human-like.
@@ -63940,6 +63962,7 @@ poepaq ± `en` @Ilmen #HLcVhO2Og 2020-02-27T21:12:36.222Z
 poeq ± `en` @eednb #0ITpai17o 2023-03-30T19:17:14.920Z
 aspect: fuzzy past imperfective; event time overlaps with reference time with a definite endpoint, but its starting point is irrelevant/vague
 uakci (2023-03-30T19:31:19.084Z): **tam** : **toam** :: **poeq** : **chum**
+Dembim (2026-01-23T22:34:28.686Z): toam is now <@eednb nhoam>
 
 poerıe ± `en` @Laqme #LMJvQjdR7 2025-04-11T00:29:57.670Z
 ▯ separates / stands between / keeps ▯ (plural) apart.
@@ -65330,9 +65353,10 @@ pume +1 `en` @uakci #IwasyS0ML 2024-02-06T17:34:46.707Z
 uakci (2024-02-06T17:35:00.492Z): * does not imply ‘remote’ or some manner of emotional attachment or detachment
 uakci (2024-02-06T17:38:59.182Z): this word is intended to be semantically similar to **me bâq pu**, ‘a bunch of events’. depending on the context, it may refer to the grand total of all that’s ever happen, or perhaps *my*/*your* past, and so on. it can be used in phrases such as ‘this relationship belongs [= **mem**] to the past’
 
-pumeche +2 `en` @fagri #gewXIVc6g 2020-06-09T13:19:58.487Z
+pumeche +3 `en` @fagri #gewXIVc6g 2020-06-09T13:19:58.487Z
 ▯ is a historian
 fagri (2020-06-09T13:20:31.419Z): Votes battle with #R7v5_Z4aC
+Dembim (2026-01-23T21:31:57.630Z): the victor is clear XD
 
 pumıq ± `en` @fagri #34l3p8LDD 2020-06-16T02:13:12.592Z
 ▯ has always been the case
@@ -69316,6 +69340,9 @@ rukachu ± `en` @jiqci #RyoiFDKZb 2023-09-09T18:36:56.565Z
 
 rukafıem ± `en` @jiqci #TyNHh98Lv 2025-03-11T07:37:48.254Z
 ▯ is a vertebra.
+
+rukaheaq ± `en` @Ilmen #RgXjaHcgL 2026-01-23T20:14:33.265Z
+▯ carries, has ▯ on the former's back.
 
 rukahıe ± `en` @Ilmen #_VQa3qag8 2019-05-02T20:26:47.000Z
 ▯ carries ▯ on their back.
@@ -77853,7 +77880,7 @@ shoaıcıarıochao ± `en` @seaqtaq #cOqbB01JN 2020-06-09T05:18:38.284Z
 seaqtaq (2020-06-09T05:19:00.514Z): "airplane without wheels"
 seaqtaq (2020-06-09T05:19:09.660Z): jokē
 
-shoaıheku +1 `en` @Hoemai #UEIZsEVfn 2019-04-06T18:08:28.000Z
+shoaıheku ± `en` @Hoemai #UEIZsEVfn 2019-04-06T18:08:28.000Z
 ▯ is a winged horse; ▯ is a pegasus.
 
 shoaıleoq ± `en` @Ilmen #jJO6JU_cm 2025-12-29T17:08:13.786Z
