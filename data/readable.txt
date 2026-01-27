@@ -7407,7 +7407,7 @@ ceahako ± `en` @Ilmen #xMTZo5ovD 2018-10-07T18:23:39.000Z
 ceahako ± `en` @Hoemai #PebR9Wdyj 2019-04-03T20:13:10.000Z
 ▯ is a member of genus Phascolarctos (the koala and extinct relatives).
 
-ceahaq ± `en` @uakci #A6XlGF5nb 2022-06-17T11:40:21.932Z
+ceahaq +1 `en` @uakci #A6XlGF5nb 2022-06-17T11:40:21.932Z
 ▯ is a dumpling.
 
 ceahua ± `en` @Ilmen #8eepULdON 2019-04-08T17:22:57.000Z
@@ -7528,7 +7528,7 @@ cefa +1 `en` @Laqme #gh8-dthA6 2024-06-22T15:30:54.560Z
 ▯ is a flute.
 Laqme (2024-06-22T15:32:39.203Z): a priori
 
-ceha ± `en` @Laqme #t9CZTDQNx 2025-01-01T12:45:10.901Z
+ceha +1 `en` @Laqme #t9CZTDQNx 2025-01-01T12:45:10.901Z
 ▯ is mist/fog.
 
 cehasa ± `en` @Laqme #8ucBEcGid 2025-01-01T12:47:28.688Z
@@ -9097,7 +9097,7 @@ cuaqmuıbo ± `en` @Ilmen #6x9fFGICF 2020-01-28T12:41:20.398Z
 cuaqmuoq ± `en` @uakci #DeTx-8vZa 2021-09-04T14:03:20.071Z
 ▯ is a compound predicate.
 
-cuaqpıe ± `en` @uakci #fvhXhtQRl 2022-10-20T12:39:30.827Z
+cuaqpıe +1 `en` @uakci #fvhXhtQRl 2022-10-20T12:39:30.827Z
 ▯ raises a toast for ▯.
 uakci (2022-10-20T12:39:37.151Z): < **cuaqtao** + **pıe**
 
@@ -9656,17 +9656,17 @@ chagı ± `en` @Laqme #q8LeGl5Se 2025-01-24T10:25:13.730Z
 chahatapoq ± `en` @Ilmen #-Tae0Ta5D 2023-01-13T23:07:22.524Z
 ▯ is a Choctaw person.
 
-chahı ± `en` @Machy #ZFZpZFhtC 2022-04-16T22:09:54.690Z
-How would ▯ happen?
-Machy (2022-04-16T22:10:06.126Z): chahı luaq há sháha = "How does one play chess?"
-Machy (2022-04-23T15:19:37.480Z): c.f. **kuıhı**
-
-chahı ± `en` @Dembim #Bh0ybwmiL 2026-01-23T16:07:53.076Z
+chahı +1 `en` @Dembim #Bh0ybwmiL 2026-01-23T16:07:53.076Z
 In what manner does ▯ happen?
 Dembim (2026-01-23T16:08:04.641Z): Frame: 0
 Dembim (2026-01-23T16:09:49.529Z): I think <@Machy chahı> would then usually just be « ao chahı »
 Dembim (2026-01-23T16:10:52.160Z): Discriminator: 2
 Dembim (2026-01-23T21:34:13.995Z): Pronominal_class: hoq
+
+chahı ± `en` @Machy #ZFZpZFhtC 2022-04-16T22:09:54.690Z
+How would ▯ happen?
+Machy (2022-04-16T22:10:06.126Z): chahı luaq há sháha = "How does one play chess?"
+Machy (2022-04-23T15:19:37.480Z): c.f. **kuıhı**
 
 chahıra +2 `en` @robintown #3fIoJmo_R 2022-07-02T17:42:44.250Z
 Somehow, ▯ happens (I don't know how).
@@ -12213,6 +12213,12 @@ choıceaq +1 `en` @Ilmen #wuj9yHQ1i 2018-10-27T15:47:49.000Z
 
 choıceaqjo ± `en` @Machy #vbfMSolDe 2021-10-14T00:50:55.671Z
 ▯ is a paw(clawed quadruped foot)
+
+choıceha ± `en` @Dembim #2CdR4XhYK 2026-01-26T22:09:04.444Z
+▯ is "diamond dust"/"ice crystals", a cloud of tiny ice crystals formed at ground level
+Dembim (2026-01-26T22:09:16.499Z): Frame: c
+Dembim (2026-01-26T22:10:03.629Z): Pronominal_class: maq
+Dembim (2026-01-26T22:13:51.646Z): Etymology: <choı> + <ceha>, loosely inspired by Russian "ice needles" (Ледяные иглы)
 
 choıcıa ± `en` @seaqtaq #TKltvZswI 2019-02-01T19:48:48.000Z
 (fork of #bkT5bqnBQ) ▯ is dull
@@ -29606,7 +29612,7 @@ hoaıtuq ± `en` @fagri #VESBY-fbx 2019-12-31T03:26:54.730Z
 fagri (2019-12-31T03:27:13.276Z): **Tuq hỏaı** is insufficient because that doens't imply that anybody else every started doing X
 fagri (2019-12-31T03:27:29.686Z): **Tuq bủ shảı** is also insufficient becuase that doesn't imply that I ever started
 
-hoalo ± `en` @robintown #wVQxBa73_ 2025-04-01T17:32:10.138Z
+hoalo -1 `en` @robintown #wVQxBa73_ 2025-04-01T17:32:10.138Z
 ▯ is a stove/oven/furnace.
 robintown (2025-04-01T17:33:57.269Z): Related to Chinese '爐'
 Ilmen (2025-04-01T18:29:17.888Z): See Mandarin ⟪火爐⟫ “huǒlú”.
@@ -41235,15 +41241,15 @@ kılo +1 `en` @Ilmen #PD77nJYj6 2018-12-31T08:48:11.000Z
 ▯ is a kilogram.
 jiqci (2025-12-22T12:05:03.194Z): common shortening of **kılogaram**
 
-kılo ± `en` @fagri #B7_nfX35S 2018-12-30T23:24:31.000Z
-▯ masses exactly ▯ kilograms
-
 kılo ± `en` @Hoemai #2cuSz2CrV 2019-03-28T16:39:46.000Z
 ▯ is a kilogram; ▯ is ▯ (number of property) kilograms.
 
 kılo ± `en` @xorxes #i4wGU2AZ- 2021-08-27T16:59:52.540Z
 ▯ is/are (a) kilogram(s); ▯ is/are kilograms of things satisfying property ▯.
 xorxes (2021-08-27T17:04:18.408Z): **Hıa numērō kılō shamū ní moq?** 'What number of kilos of apples are these?'
+
+kılo -1 `en` @fagri #B7_nfX35S 2018-12-30T23:24:31.000Z
+▯ masses exactly ▯ kilograms
 
 kılobatahora ± `en` @jiqci #-QPk0r2IG 2024-09-21T14:36:41.560Z
 ▯ is a kilowatt-hour (kWh).
@@ -45208,11 +45214,12 @@ lara +1 `en` @lassc #_XzCkgdEg 2023-10-31T00:17:18.711Z
 ▯ are bay leaves/laurel leaves (herb/spice).
 
 laraı ± `en` @Dembim #iqF_qI6IX 2026-01-21T16:33:56.570Z
-▯ is an abstract object encoding property ▯
+▯ is an abstract object "encoding" property ▯
 Dembim (2026-01-21T16:34:03.559Z): Frame: c 1
 Dembim (2026-01-21T16:34:21.285Z): Pronominal_class: hoq
 Dembim (2026-01-21T16:36:00.985Z): "encoding" in the sense of dual-copula attempts to resolve non-existing objects
 Dembim (2026-01-21T16:37:05.291Z): discriminator: 2
+Dembim (2026-01-26T14:49:34.716Z): This is perhaps a narrower and more explicit/technical <@official cuaq>.
 
 laruq ± `en` @Ilmen #-Bw8bBMAQgI 2019-09-17T19:19:51.058Z
 ▯ is a larynx.
@@ -47778,11 +47785,6 @@ loqnuaze ± `en` @jiqci #v2ADC4tVf 2023-05-06T12:24:35.231Z
 loqpıma ± `en` @Laqme #10iS2YTXL 2022-05-23T09:53:54.639Z
 ▯ is a spicy chilli pepper.
 
-loqpuao ± `en` @Dembim #abGZddZC1 2026-01-25T13:58:35.698Z
-▯ is potentially-visible airborne condensation (or "steam")
-Dembim (2026-01-25T13:58:41.999Z): Frame: c
-Dembim (2026-01-25T13:58:47.635Z): Pronominal_class: maq
-
 loqpuefuq ± `en` @fagri #wbnaRoOK1 2021-08-13T04:48:24.196Z
 ▯ is a slipper
 fagri (2021-08-13T04:48:29.553Z): unsure about this spelling
@@ -50221,6 +50223,9 @@ meaqmına ± `en` @jiqci #T2Q0RnOsK 2024-01-12T21:15:16.339Z
 meaqnam ± `en` @Laqme #0rp8iTLbS 2024-11-02T12:14:08.463Z
 ▯ is hardtack.
 
+meaqneaq +1 `en` @jiqci #9v9YDluR8 2026-01-26T14:14:01.947Z
+▯ is a wharf / quay.
+
 meaqrıaq +1 `en` @jiqci #caX9PQvWr 2023-09-02T16:21:24.811Z
 ▯ is a shipyard.
 
@@ -50356,6 +50361,12 @@ mego +1 `en` @evie #PtexDUH-5 2024-07-24T18:57:31.600Z
 
 megua +1 `en` @Laqme #ef5vj5JbN 2024-06-15T20:02:30.079Z
 ▯ is an empire / federation / federal union.
+
+mehaq ± `en` @Dembim #NqhvGMG-g 2026-01-27T01:30:09.790Z
+▯ is a casserole (baked aggregate food)
+Dembim (2026-01-27T01:30:15.907Z): Lasagna, macaroni and cheese, American goulash, flying Jacob, timballo, shepherd's pie
+Dembim (2026-01-27T01:30:22.451Z): Frame: c
+Dembim (2026-01-27T01:30:33.886Z): Pronominal_class: maq
 
 Mehıko ± `en` @countries #7yKZCZ5Q4n2 2023-10-02T12:22:04.798Z
 ▯ pertains to the culture of Mexico – United Mexican States.
@@ -59673,7 +59684,7 @@ nulısao +1 `en` @Ilmen #LRaT_cdc5 2020-06-05T16:49:02.221Z
 nulıse ± `en` @Machy #T9PDS_AIT 2022-02-23T22:59:07.068Z
 ▯ is fried ▯.
 
-nulıtupa ± `en` @jiqci #JQ8GcijCz 2023-10-16T10:34:19.347Z
+nulıtupa +1 `en` @jiqci #JQ8GcijCz 2023-10-16T10:34:19.347Z
 ▯ is a frying pan.
 
 nulızeq ± `en` @jiqci #DVXEMw06_ 2023-05-01T11:06:58.077Z
@@ -70274,7 +70285,7 @@ Sambasa ± `en` @Laqme #ECAZ9RvLP 2025-04-04T14:42:26.486Z
 Sambasazu ± `en` @Laqme #tR4ZO4QUY 2025-04-04T14:42:12.923Z
 ▯ is the Sambahsa language.
 
-same +1 `en` @Ilmen #4zjJABrpr 2018-09-20T13:29:28.000Z
+same ± `en` @Ilmen #4zjJABrpr 2018-09-20T13:29:28.000Z
 ▯ is an aggregate of things having property ▯.
 uakci (2022-08-05T20:51:02.123Z): -1, redundant to **me** + exhibitor
 
@@ -84457,6 +84468,12 @@ tupadolom ± `en` @jiqci #M8hfGNBL6 2023-08-21T17:49:28.167Z
 
 tupakea ± `en` @jiqci #GTLsmlxgP 2023-07-19T08:52:23.043Z
 ▯ is a kettle/boiler.
+
+tupapuao ± `en` @Dembim #F-vGGEr6P 2026-01-26T22:26:02.548Z
+▯ is visible airborne condensation (or "steam")
+Dembim (2026-01-26T22:26:13.693Z): Frame: c
+Dembim (2026-01-26T22:26:31.378Z): Pronominal_class: maq
+Dembim (2026-01-27T00:22:27.321Z): As in over a boiling pot.
 
 tupaꝡeam ± `en` @uakci #Uy-CmT30B 2023-07-19T08:55:23.255Z
 ▯ is tupperware.
