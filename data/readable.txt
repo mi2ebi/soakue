@@ -6544,7 +6544,10 @@ butıubu ± `en` @uakci #1Si5Gy6j4 2022-10-21T21:21:34.343Z
 But since not, not; But since some (counterfactual) condition is not met, neither is its consequent; Now that this is false, that is clearly false too.
 uakci (2022-10-21T21:21:40.346Z): nullary predicate
 
-⚠ butou ± `en` @Machy #teqnpW-G6 2021-10-06T19:11:07.045Z
+buto ± `en` @Dembim #Ognjl5ABw 2026-01-27T23:34:53.752Z
+focus particle: not only X; X and other stuff too
+
+⚠ butou -1 `en` @Machy #teqnpW-G6 2021-10-06T19:11:07.045Z
 Focus prefix: "not only"
 Machy (2021-10-06T19:11:16.884Z): Credit: Hoaqgıo
 
@@ -9001,7 +9004,7 @@ prefix: concept as metaphorical mass noun
 Laqme (2023-10-15T13:12:16.509Z): **cụaqjaı** is "happiness" as in the imaginary stuff you "have" when you're happy, and you can "give" or "run out of" or "share" etc
 Laqme (2023-10-15T13:20:52.251Z): **sá cụaqmeo** can weigh on you, **báq cụaqsı** is the currency of the "attention economy"
 
-cuaq ± `en` @official #yQ2czSBb8 2025-10-30T21:17:58.422Z
+cuaq +1 `en` @official #yQ2czSBb8 2025-10-30T21:17:58.422Z
 predicate: ‘concept’; ▯ is the concept/idea of satisfying property ▯; ▯ is the property ▯.
 
 cuaq ± `tok` @el #7Dp9dgwo0 2022-07-10T07:03:40.097Z
@@ -9021,7 +9024,7 @@ cuaq -1 `en` @Machy #_cLn1bxnS 2021-09-29T04:24:16.955Z
 Machy (2022-02-15T01:52:28.393Z): See also: **sıaja**
 Ilmen (2025-10-30T22:17:45.985Z): Good idea, but I think the word already means that. I've clarified the official definition accordingly.
 
-cúaq +4 `en` @Laqme #9NfM8JXeD 2023-10-15T13:22:57.582Z
+cúaq +3 `en` @Laqme #9NfM8JXeD 2023-10-15T13:22:57.582Z
 determiner: “the concept/idea of satisfying X”
 
 cuaqbaq ± `en` @Ilmen #42bsnK6Pt 2021-11-03T22:25:13.295Z
@@ -11844,7 +11847,7 @@ choadeoq ± `en` @Ilmen #xyt17DfVE 2023-01-14T20:50:26.394Z
 predicate: ‘talk’; ▯ talks to ▯.
 Ilmen (2025-10-31T19:05:23.945Z): officialized: yes
 
-choadeoq ± `en` @Laqme #6dpmbnxy_ 2023-01-24T14:49:23.802Z
+choadeoq -1 `en` @Laqme #6dpmbnxy_ 2023-01-24T14:49:23.802Z
 ▯ communicates vocally to ▯ that they (the former) satisfy property ▯.
 
 choadeqbu ± `en` @seaqtaq #TT288Tzhp 2024-08-12T07:41:54.669Z
@@ -15204,11 +15207,6 @@ predicate: ‘communicate’; ▯ communicates to ▯ that they (the former) sat
 el (2022-08-16T05:22:36.767Z): what if we brought this back now that CVys are discouraged
 mimiaoganhaqpy (2022-11-07T06:45:07.228Z): +1, deoq is just better.
 Ilmen (2025-10-31T19:09:32.598Z): officialized: yes
-
-deoq -1 `en` @official #IxH-pdxN9l 2023-01-13T19:24:50.622Z
-predicate: ‘communicate’; ▯ communicates to ▯ that they (the former) satisfy property ▯.
-uakci (2023-01-24T14:50:46.867Z): ≈ **com-****kuaq-**
-uakci (2023-01-24T14:51:25.875Z): (i meant **cọmkuaq**)
 
 deoq ± `pl` @jiqci #0pwRYp2jQU 2023-07-31T08:20:17.693Z
 ▯ przekazuje ▯, że (ten pierwszy) spełnia własność ▯.
@@ -20865,7 +20863,7 @@ lassc (2025-03-25T16:29:12.569Z): +1, i think it is important to make the biolog
 ijonetun (2025-03-25T16:32:04.754Z): +1 ^
 evie (2025-03-25T16:39:07.339Z): mıja :3
 
-fu ± `en` @official #30_daspdrp 2019-05-05T22:25:28.859Z
+fu -1 `en` @official #30_daspdrp 2019-05-05T22:25:28.859Z
 predicate: ‘offspring’; ▯ is a biological offspring of ▯.
 
 fu ± `toa` @Ilmen #46_qoLed_ 2020-01-25T21:59:07.010Z
@@ -27019,7 +27017,7 @@ hakolueq ± `en` @funbreaker #C2lPQyN9j 2024-10-15T04:40:48.528Z
 ▯ performs a service in a way that is ultimately detrimental
 funbreaker (2024-10-15T04:51:24.857Z): "bear favor" - from a Russian story about a bear killing a man by attempting to smack a mosquito of of his head.
 
-halao +1 `en` @Laqme #gAMgoyB3F 2025-03-02T16:57:48.767Z
+halao +2 `en` @Laqme #gAMgoyB3F 2025-03-02T16:57:48.767Z
 ▯ dispels / banishes / removes / makes ▯ go away.
 Laqme (2025-03-02T18:09:38.984Z): from Malay "halau"
 Laqme (2025-03-02T18:17:19.749Z): Pretty generic: "to relieve" pain/doubt/sadness, "to solve" a problem, "to exorcise" a spirit, "to shoo off" a person, "to remove" something that's physically in the way
@@ -35741,6 +35739,13 @@ Laqme (2024-05-15T21:47:32.302Z): Etymology: From Lojban "jinzi".
 jiqci (2025-08-05T10:33:09.095Z): hi
 Dembim (2025-11-15T20:30:41.693Z): also "unalienable" (to help out search)
 
+jıqcı ± `en` @Dembim #SrfV4z1D5 2026-01-27T18:47:27.949Z
+to ▯, ▯ (property) is inherent/inalienable
+Dembim (2026-01-27T18:47:42.076Z): Frame: c 1i
+Dembim (2026-01-27T18:48:11.641Z): Pronominal_class: ta
+Dembim (2026-01-27T18:50:38.246Z): Swapped slot order of <@fagri jiqci>
+Dembim (2026-01-27T18:50:56.366Z): kw: unalienable
+
 jıqcıbo ± `en` @jiqci #e3SmIiaUR 2024-06-26T07:55:50.579Z
 ▯ possesses ▯ inalienably.
 
@@ -42944,6 +42949,9 @@ kuaq ± `tok` @el #SayeG6kkK 2022-07-10T02:11:21.759Z
 kuaq ± `pl` @jiqci #SkKjdujFyo 2023-07-31T08:20:58.951Z
 ▯ wyraża własność ▯.
 
+kuaq ± `toa` @Dembim #B5ORw-DIN 2026-01-28T02:11:12.337Z
+nheam ıq ▯ áq ▯
+
 kuaq -1 `toa` @uakci #glEYwCb7- 2019-01-26T11:11:54.000Z
 tua dua chà kûq dóshı sa ráı na dóshı jêo dóshı dógu da
 
@@ -43239,6 +43247,12 @@ kueqdute ± `en` @Ilmen #FDRSo6Us9 2026-01-18T10:41:07.535Z
 
 kueqgıq ± `en` @uakci #3-gXC-Qmp 2020-03-01T18:40:51.685Z
 ▯ disperse / distribute (themselves) away from locus ▯.
+
+kueqgo ± `en` @Dembim #RevSTDlq6 2026-01-27T14:16:26.344Z
+▯ is a collecting/focusing element
+Dembim (2026-01-27T14:18:01.879Z): perhaps a lens or a funnel, something for taking a relatively broad mass and bringing it together
+Dembim (2026-01-27T14:18:16.228Z): Frame: c
+Dembim (2026-01-27T14:18:22.967Z): Pronominal_class: maq
 
 kueqja ± `en` @Laqme #ius84ZSm7 2024-05-20T21:57:34.179Z
 ▯ gathers ▯ at ▯.
@@ -43637,6 +43651,11 @@ Machy (2021-09-02T14:41:52.545Z): Refers to the simple part of love, the part th
 
 kunemuse ± `en` @Ilmen #IzXy55_Er 2019-04-10T18:41:41.000Z
 ▯ is a prairie dog.
+
+kunesıu ± `en` @Dembim #Ul5eJ5zB8 2026-01-27T14:29:06.798Z
+▯ is a Canidae
+Dembim (2026-01-27T14:29:15.429Z): Frame: c
+Dembim (2026-01-27T14:29:25.125Z): Pronominal_class: ho
 
 kuneteı ± `en` @Ilmen #33n4R-90G 2018-10-10T16:32:07.000Z
 ▯ belongs to the Caniformia taxonomic suborder.
@@ -48515,7 +48534,7 @@ lueqmuce ± `en` @robintown #S68-TEY5p 2021-10-18T15:52:37.266Z
 lueqse ± `en` @Laqme #Z9Wv_obI0 2024-04-29T20:53:50.374Z
 ▯ is a service / favor.
 
-lueqsı +1 `en` @Laqme #2GBddGRma 2023-09-04T11:07:34.375Z
+lueqsı +2 `en` @Laqme #2GBddGRma 2023-09-04T11:07:34.375Z
 ▯ is mesmerized / engrossed / transfixed / absorbed / entranced / enthralled / nerd-sniped by ▯.
 
 lueqsıge +1 `en` @Laqme #W6_pnzllz 2023-09-04T11:11:58.863Z
@@ -49272,7 +49291,7 @@ Dembim (2025-11-20T19:54:00.789Z): See **bamaı** for a not-per-sẹromantıc hy
 maıkuaq ± `en` @Laqme #G3Kr9XqDH 2023-11-24T09:45:13.580Z
 ▯ confesses their love to ▯.
 
-maıkueq +1 `en` @Laqme #LuYI7yI1l 2025-05-19T20:05:52.345Z
+maıkueq +2 `en` @Laqme #LuYI7yI1l 2025-05-19T20:05:52.345Z
 ▯ (plural) make love.
 
 maılaı ± `en` @Laqme #N8PbkX-Pz 2023-11-09T03:18:25.048Z
@@ -49402,14 +49421,14 @@ Ilmen (2024-12-16T13:39:56.196Z): This should be ⟪majıfaq⟫.
 majıjıu ± `en` @Laqme #bx_Fb1B8s 2024-05-12T13:44:00.395Z
 ▯ is a sorcerer (can perform magic innately).
 
-majıka ± `en` @Laqme #0KOcHs6yd 2023-11-20T02:39:08.485Z
+majıka +1 `en` @Laqme #0KOcHs6yd 2023-11-20T02:39:08.485Z
 ▯ magically makes ▯ be the case by saying it with **ka** at the end.
 
 majıke -1 `en` @robintown #S-s9RRG_d 2023-02-06T19:01:35.740Z
 ▯ is a magical trinket / charm / talisman / amulet / juju.
 jiqci (2023-12-06T20:00:21.923Z): **majı** + **raıke**
 
-majıkoe ± `en` @uakci #kgigP43pT 2022-08-18T17:52:21.849Z
+majıkoe +1 `en` @uakci #kgigP43pT 2022-08-18T17:52:21.849Z
 ▯ casts/recites/turns their mind’s eye to spell/incantation/magical act ▯.
 
 majılaı -1 `en` @salarua #ew1VCwzFp 2021-10-08T17:10:48.348Z
@@ -49604,6 +49623,12 @@ mamutu ± `en` @Hoemai #EqQj2B9CR 2019-04-03T20:38:05.000Z
 
 mana +2 `en` @robintown #E76cR9DN6 2021-08-01T05:19:07.462Z
 ▯ is mana (magical energy).
+
+manakueqgo ± `en` @Dembim #JTr7GHFRa 2026-01-27T14:23:03.542Z
+▯ is an arcane focus
+Dembim (2026-01-27T14:23:11.196Z): Frame: c
+Dembim (2026-01-27T14:23:18.253Z): Pronominal_class: maq
+Dembim (2026-01-27T14:24:27.526Z): any implement for focusing one's magical power
 
 manaopıo ± `en` @Laqme #F_qVMBUQ9 2022-05-10T10:17:28.895Z
 ▯ is agate.
@@ -60466,8 +60491,10 @@ Laqme (2025-05-25T22:02:09.606Z): Antonym of **eka**. Describes an event as not 
 nheahoaq ± `en` @seaqtaq #-kiSHwefr 2024-11-13T17:22:07.418Z
 ▯ smolders
 
-nheam ± `en` @TheAndSys #1cv3ZMqtL 2023-10-16T09:11:52.552Z
+nheam +1 `en` @TheAndSys #1cv3ZMqtL 2023-10-16T09:11:52.552Z
 ▯ communicates ▯ (even if that isn't what they actually said)
+Dembim (2026-01-28T00:37:53.367Z): Frame: c 0
+Dembim (2026-01-28T00:38:04.342Z): Pronominal_class: ho
 
 nheaze ± `en` @uakci #F5TxJ6AAp 2023-02-20T18:43:06.049Z
 ▯ is a drink with sedative properties (e.g., chamomile tea).
@@ -67602,6 +67629,7 @@ Dembim (2025-12-28T21:39:39.438Z): TBH
 
 rıemruaq ± `en` @Laqme #Yd7bu5mR6 2023-12-11T22:17:04.869Z
 ▯ admits/discloses/reveals/confesses that ▯ is the case.
+Dembim (2026-01-28T00:33:04.115Z): divulges
 
 rıenheoı ± `en` @jiqci #YFv57Imrj 2025-11-04T18:00:39.144Z
 ▯ is medieval / related to the Middle Ages.
@@ -68939,7 +68967,7 @@ robintown (2021-10-20T18:37:32.637Z): Calque of Mandarin '花岗岩' ('huāgāng
 ruamıa ± `en` @Laqme #ToBoTgddr 2020-01-08T22:14:39.632Z
 ▯ is in bloom (shows visible flowers).
 
-ruana ± `en` @Ilmen #KPkgqwHmn 2026-01-19T21:35:58.273Z
+ruana +1 `en` @Ilmen #KPkgqwHmn 2026-01-19T21:35:58.273Z
 Reportedly, ▯ is the case; I have heard, it is said that ▯ is the case.
 Dembim (2026-01-20T00:42:14.597Z): evidential
 Ilmen (2026-01-20T13:30:16.698Z): pronominal_class: hoq
@@ -69436,6 +69464,14 @@ unit: rupnu (Lojbanic currency)
 
 rumu ± `en` @Ilmen #if9irI1jm 2020-05-03T20:17:54.700Z
 ▯ is, with ▯, in relation ▯, and vice-versa (reciprocity of the two first arguments).
+
+rumuq ± `en` @Dembim #mEKw6UUTs 2026-01-27T22:39:54.248Z
+▯ is meteorological precipitation
+Dembim (2026-01-27T22:40:39.748Z): hypernym of <ruq>, <nıao>, <choıceha>
+Dembim (2026-01-27T22:40:46.264Z): Frame: c
+Dembim (2026-01-27T22:41:32.256Z): Pronominal_class: maq
+Dembim (2026-01-27T22:43:14.557Z): Etymology: <@uakci rum> and <ruq>, roughly
+Dembim (2026-01-27T22:47:12.439Z): <sá rumuq> does not necessarily stop being <rumuq> just because it's hit the ground
 
 runa ± `en` @uakci #mzm1vjYqq 2023-06-01T22:53:44.709Z
 ▯ is both [of the two]; ▯ is this and that.
@@ -72659,7 +72695,7 @@ sım- ± `en` @Laqme #WYuqAKQhn 2024-08-20T14:05:07.750Z
 prefix: fill direct object with **sím raı**
 Laqme (2024-08-20T14:06:22.826Z): for example, **sịmbo** = to own few things
 
-sım +1 `en` @Laqme #zxyd85fiK 2022-12-13T18:51:02.141Z
+sım +2 `en` @Laqme #zxyd85fiK 2022-12-13T18:51:02.141Z
 predicate: ‘few’; ▯ are few in number.
 seaqtaq (2024-08-21T16:13:44.512Z): = puıtuao
 
@@ -74848,7 +74884,13 @@ sueqkea ± `en` @uakci #m6oVAnyJ0 2023-10-22T14:27:55.859Z
 sueqloaı ± `en` @seaqtaq #dtXfg1CHc 2024-11-16T09:54:23.580Z
 ▯ ripples/undulates
 
-sueqloq ± `en` @uakci #bqKEf-Srp 2023-10-22T14:26:06.632Z
+sueqloeq ± `en` @Dembim #rIRRt3fJQ 2026-01-28T00:22:33.394Z
+▯ cooks/ is cooked through dielectric heating ("microwaved")
+Dembim (2026-01-28T00:22:42.701Z): Frame: c
+Dembim (2026-01-28T00:22:54.525Z): Pronominal_class: ta
+Dembim (2026-01-28T00:23:54.678Z): See also <@uakci sueqloq> for the "heated but not necessarily actually cooked" meaning
+
+sueqloq +1 `en` @uakci #bqKEf-Srp 2023-10-22T14:26:06.632Z
 ▯ is microwave-warmed.
 
 sueqmoe ± `en` @Ilmen #yU6-bm11f 2024-12-27T11:11:38.454Z
@@ -75268,15 +75310,15 @@ Suomıgua ± `en` @countries #hkCGVuSXYWw 2023-10-02T12:22:04.314Z
 suonuo -1 `es` @samael #2cIj0KiqU 2025-09-29T15:04:53.823Z
 ser un viaje astral; experiencia extracorporal
 
-suoq +1 `en` @Machy #GI1xELz5Q 2022-02-07T21:43:12.236Z
-▯ is a child of ▯. (not necessarily biological)
-evie (2025-04-01T01:42:14.127Z): -1 <@Laqme fu> exists and i kinda want <@robintown suoqja> to be a shiraku
-
 suoq +1 `en` @evie #RL9s7Tobg 2025-12-15T05:00:04.422Z
 ▯ entices/attracts/seduces/lures ▯.
 evie (2025-12-15T05:00:39.463Z): fork of #vPcZDClB9 = <@robintown suoqja>
 Ilmen (2025-12-16T13:31:16.605Z): discriminator: 2
 evie (2026-01-06T05:54:22.734Z): the "into doing what" can be specified with **ôı** or **ôq**
+
+suoq ± `en` @Machy #GI1xELz5Q 2022-02-07T21:43:12.236Z
+▯ is a child of ▯. (not necessarily biological)
+evie (2025-04-01T01:42:14.127Z): -1 <@Laqme fu> exists and i kinda want <@robintown suoqja> to be a shiraku
 
 suoqja ± `en` @robintown #vPcZDClB9 2023-11-09T19:31:08.457Z
 ▯ entices/attracts/seduces/lures ▯ into satisfying property ▯.
@@ -78696,7 +78738,7 @@ shuıhuoı ± `en` @Hoemai #fdlV03COO 2019-04-05T12:13:13.000Z
 ▯ is a member of genus Cryptocercus (the wood roaches or brown-hooded cockroaches).
 Hoemai (2019-04-05T12:13:21.000Z): The extant roaches most closely related to termites, which are now thought to be specialized roaches.
 
-shuıja ± `en` @Laqme #UbFNVNAQn 2023-12-12T02:30:44.404Z
+shuıja +1 `en` @Laqme #UbFNVNAQn 2023-12-12T02:30:44.404Z
 ▯ hides / obscures ▯.
 
 shuıjua ± `en` @seaqtaq #JpWu5E2VA 2024-10-15T21:55:07.667Z
@@ -78720,8 +78762,11 @@ shuıkeaı +2 `en` @seaqtaq #d2-3xUVQx 2025-05-20T23:25:11.890Z
 shuıkeoı ± `en` @Laqme #ArV0hprXO 2024-04-25T07:47:25.904Z
 ▯ and ▯ talk privately / one-on-one.
 
-shuıla ± `en` @Laqme #KLT5dm-VJ 2024-10-15T20:22:16.117Z
+shuıla +1 `en` @Laqme #KLT5dm-VJ 2024-10-15T20:22:16.117Z
 ▯ hides.
+
+shuıla ± `toa` @Dembim #jI6pmo4Jk 2026-01-27T20:19:14.502Z
+tao tıshuı ▯
 
 shuıleı ± `en` @uakci #RNTJyi6AG 2023-10-17T10:22:43.641Z
 ▯ is open/upfront/forward-going/honest / “has no filter”.
@@ -87645,8 +87690,10 @@ zuomuo ± `en` @Laqme #f1xmau5uK 2024-09-18T14:40:55.211Z
 zuonoı ± `en` @TheAndSys #L88z0rFVb 2024-05-05T19:50:25.322Z
 ▯ is a martyr
 
-zuosaı ± `en` @seaqtaq #xW5dWG01R 2024-10-14T22:32:18.960Z
+zuosaı +1 `en` @seaqtaq #xW5dWG01R 2024-10-14T22:32:18.960Z
 ▯ is a substance intended to incur effect ▯.
+Dembim (2026-01-27T17:43:14.083Z): Frame: c 1x
+Dembim (2026-01-27T17:43:25.311Z): Pronominal_class: maq
 
 zuoshe +1 `en` @seaqtaq #nZ1U7LH0- 2024-11-04T23:33:39.023Z
 modal: It would contribute towards X if ...
@@ -89950,6 +89997,11 @@ I didn’t like the story because it was about death.
 
 Gı sá daqmoa da. ± `en` @examples #F9PhiFlIr 2023-02-22T14:04:46.511Z
 There are good moments.
+
+- go ± `en` @Dembim #DNEEchMyk 2026-01-27T14:08:35.324Z
+pseudo-suffix: akin to suffixed «<che>» but for non-agents (tools, elements, components), forming words for objects that have passive purpose/function
+Dembim (2026-01-27T14:08:53.847Z): One should probably prefer «<kea>» for active or system-level (i.e. machine) functions
+Dembim (2026-01-27T14:09:12.981Z): This is ~roughly~ equivalent to «<chuo>» in compounds
 
 Goıche líqpıa jî da. ± `en` @examples #sJGSwJPCaNZ 2023-02-11T18:31:27.176Z
 My sister is a doctor.
@@ -98085,11 +98137,6 @@ At the time of X happening, Y has happened
 
 ⚠ Lú muaqtua chôq hóa súq jí nä, zao jí kúy da. ± `en` @examples #FuVtfZmtVkV 2023-02-11T18:31:30.377Z
 What you killed me with – I recognize it.
-
-⚠ - ly -1 `en` @Laqme #PGXSejuTK 2022-02-08T16:01:44.459Z
-suffix for diminutives (a small/precious/cute version of a noun, or a brief/indulged-in/fun/casual version of a verb)
-uakci (2022-02-08T16:32:32.350Z): this suffix is totally imported from the English ‘ly’, for ‘love you’. 🙃
-Laqme (2025-05-11T17:34:56.619Z): this is in a lot of old words (when y was a vowel); these days there's **gẹ-**
 
 ⚠ Ma chua shu ‹ Lı › súq móq? ± `en` @examples #CNYSCp3ny2ya 2023-02-11T18:31:27.048Z
 Is "Lee" your name?
