@@ -709,6 +709,7 @@ baq
 báq
 báq
 báq
+báq
 baqcu
 baqcho
 baqdakı
@@ -1035,6 +1036,7 @@ bı
 bı
 bí
 bï
+bï
 bî
 bı'aq
 bı'atacha
@@ -1219,6 +1221,7 @@ bıoıchoa
 bıoıchuao
 bıoıdeoq
 bıoıdıao
+bıoıgıo
 bıoıheq
 bıoıpuım
 bıoızueq
@@ -1465,6 +1468,7 @@ bone
 bone
 bonım
 bonua
+bonuate
 bopaq
 bopaqdoem
 bopaqme
@@ -5388,6 +5392,7 @@ duogoı
 duohuame
 duoı
 duoıfaı
+duoıkuaq
 duoıleı
 duoısa
 duoısıa
@@ -6715,6 +6720,7 @@ gaqme
 gaqmea
 gaqmoe
 gaqnua
+gaqnuam
 gaqnuao
 gaqnhue
 gaqpoaq
@@ -7824,6 +7830,7 @@ guedaı
 guedaıbu
 guefa
 guefatoq
+guegıe
 guehua
 guekaı
 guela
@@ -8828,6 +8835,7 @@ hıeqgue
 hıeqjuq
 hıeqkoıha
 hıeqmı
+hıeqnuam
 hıeqnuao
 hıeqnuaobeaq
 hıeqnuaohaq
@@ -9178,6 +9186,7 @@ honı
 hopa
 hoq-
 hoq
+hóq
 hóq
 hóq
 hóq
@@ -10483,6 +10492,7 @@ jí
 jí
 jí
 jí
+jí
 jıa
 jıa
 jıa
@@ -10675,6 +10685,7 @@ jïem
 jıeme
 jıemıa
 jıemıajoe
+jıena
 jıeq-
 jıeq
 jıeq
@@ -10714,6 +10725,7 @@ jıjeo
 jıjı
 jıjı
 jıjıe
+jıjıena
 jıka
 jıkı
 jıkı
@@ -11107,6 +11119,8 @@ joko
 joko
 joko
 jolaqteı
+jole
+jole
 jolıaq
 jolıaq
 jom
@@ -12008,6 +12022,7 @@ kaqnoa
 kaqnoaq
 kaqnu
 kaqnuam
+kaqnuam
 kaqnuao
 kaqnuaokıaq
 kaqnuı
@@ -12255,6 +12270,9 @@ keo
 keo
 keo
 keo
+kéo
+kéo
+kéo
 kéo
 kéo
 kéobu
@@ -15082,7 +15100,7 @@ manı
 manha
 mao-
 mao
-mao
+máo
 máo
 mao'ıq
 mao'ıq
@@ -17977,10 +17995,13 @@ nuakıu
 nuakoe
 nuakoe
 nuam
+nuambıo
+nuamkuoq
 nuammıao
 nuamnam
 nuamseoq
 nuamsuroq
+nuao
 nuao
 nuaobıo
 nuaobo
@@ -18482,6 +18503,7 @@ nhoılaı
 nhoka
 nhokeo
 nholı
+nhom
 nhom
 nhom
 nhomcheq
@@ -19352,6 +19374,7 @@ pıunao
 pıunıe
 pıunoaı
 pıunua
+pıunuachuo
 pıunuım
 pıunuımteı
 pıupeo
@@ -21480,6 +21503,7 @@ saopuefuq
 saorıolaı
 saoro
 saoro
+saoronuam
 saoronuao
 saosa
 saosao
@@ -22635,6 +22659,8 @@ sua
 sua
 sua
 sua
+sua
+sua
 suacıa
 suahuaq
 suahuaq
@@ -22923,6 +22949,7 @@ suq
 suq
 suq
 suq
+súq
 súq
 súq
 súq
@@ -24337,6 +24364,7 @@ tashı
 tatarasaoza
 Tatarazu
 tatoa
+tatoa
 tatu
 te-
 te-
@@ -25207,10 +25235,12 @@ toaqꝡeloq
 toaqzana
 toaqzıam
 Toaqzu
-toaqzu
+Toaqzu
+Toaqzu
+Toaqzu
 Toaqzu
 toaqzu
-Toaqzu
+toaqzu
 Tóaqzu
 toaqzuno
 toaraq
@@ -25708,8 +25738,7 @@ tuq-
 tuq
 tuq
 tuq
-tuq
-tuq
+túq
 túq
 túq
 tuq'aı
@@ -28432,6 +28461,7 @@ Muqdo súq jí lúe ba.
 mu reu
 mu she
 mu tıcuao
+- na
 Naıchụmjara nháo fâ náomı.
 Naı chuq jí da.
 Naı fa jí sa jao
