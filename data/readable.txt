@@ -3987,7 +3987,7 @@ bıfı ± `en` @seaqtaq #8GM7OP1oK 2019-01-01T00:53:46.000Z
 bıhoı ± `en` @Ilmen #pcOkhhFba 2019-01-31T21:46:15.000Z
 Anaphoric pronoun: refers back to the last argument that appeared in a prenex.
 
-bıjeo ± `en` @Ilmen #_Ykgg-JLD 2021-09-02T22:12:26.439Z
+bıjeo -1 `en` @Ilmen #_Ykgg-JLD 2021-09-02T22:12:26.439Z
 ▯ is a proposition that satisfies the property expressed by the most recent prenexed adverb.
 
 bıketı ± `en` @evie #xrXwcBNdO 2024-10-04T03:15:21.600Z
@@ -6572,8 +6572,8 @@ butıubu ± `en` @uakci #1Si5Gy6j4 2022-10-21T21:21:34.343Z
 But since not, not; But since some (counterfactual) condition is not met, neither is its consequent; Now that this is false, that is clearly false too.
 uakci (2022-10-21T21:21:40.346Z): nullary predicate
 
-buto ± `en` @Dembim #Ognjl5ABw 2026-01-27T23:34:53.752Z
-focus particle: not only X; X and other stuff too
+búto ± `en` @Ilmen #iwkUsN3o7 2026-01-29T21:09:24.713Z
+focus particle: not only…; … and other stuff too.
 
 ⚠ butou -1 `en` @Machy #teqnpW-G6 2021-10-06T19:11:07.045Z
 Focus prefix: "not only"
@@ -8595,6 +8595,9 @@ Coeguaqgua ± `en` @countries #eCUIjsaHVdZ 2023-10-02T12:22:05.466Z
 coeguboe ± `en` @uakci #o1kVOh2zG 2022-05-15T14:12:18.637Z
 ▯ is a blister pack.
 
+coehaqsupu ± `en` @Dembim #uFCuMmLtm 2026-01-29T17:10:44.093Z
+volume unit: UK tablespoon (14.2 ml)
+
 coehuao ± `en` @seaqtaq #UMXYziG38 2024-08-10T19:24:53.749Z
 ▯ is loosely bonded with ▯
 
@@ -8684,6 +8687,9 @@ coetano ± `en` @Ilmen #08tKAerRg 2019-01-05T16:25:23.000Z
 
 coetıe ± `en` @uakci #theymCpmR 2022-02-25T17:47:40.184Z
 ▯ seals ▯.
+
+coetısupu ± `en` @Dembim #HTa_Ol_HX 2026-01-29T17:11:21.506Z
+volume unit: UK teaspoon (3.55 ml)
 
 coetoa ± `en` @el #vprqpce1A 2023-01-08T05:47:11.512Z
 ▯ is an affix
@@ -9455,7 +9461,7 @@ bu dua dóshı câ hı ráı dûaı jeo dógu na na, na ru mıu dóshı dógu da
 cuoha ± `en` @Laqme #X6Bhd_2JK 2025-04-12T09:57:13.952Z
 Presumably ▯ is the case.
 
-cuoı +2 `en` @el #x3KU_gp9g 2022-07-10T20:29:08.950Z
+cuoı +3 `en` @el #x3KU_gp9g 2022-07-10T20:29:08.950Z
 ▯ and ▯ satisfy relation ▯
 el (2022-07-10T20:31:15.376Z): = **gujeo**
 
@@ -19701,6 +19707,7 @@ feaotoı ± `en` @robintown #hQi9SRpat 2022-08-09T00:34:21.284Z
 
 feaq +1 `en` @Laqme #1ZzbXe4iy 2022-12-13T19:33:22.028Z
 predicate: ‘rice’; ▯ is rice.
+Dembim (2026-01-30T01:25:56.730Z): I like to imagine that this is a culinary term while <rıhı> is more scientific.
 
 feaqboe ± `en` @robintown #0BRuefFqs 2024-09-20T15:34:06.567Z
 ▯ is rice paper / bánh tráng.
@@ -20060,7 +20067,7 @@ feozıam ± `en` @seaqtaq #xc90WfDs- 2024-10-31T00:44:12.269Z
 feozuı ± `en` @uakci #emjzK5Uwk 2023-10-01T18:06:02.998Z
 ▯ is/covers a narrow angle.
 
-feq +1 `en` @Laqme #l7qQGqzdh 2022-08-06T19:32:08.087Z
+feq +2 `en` @Laqme #l7qQGqzdh 2022-08-06T19:32:08.087Z
 ▯ pertains to intuition / instinct / one's gut feeling.
 Laqme (2022-08-06T19:32:21.830Z): mostly good in compounds like the five senses words
 
@@ -20100,13 +20107,13 @@ feqchuoıme ± `en` @seaqtaq #WEZ99VCzE 2024-10-24T08:12:07.513Z
 feqdoem ± `en` @seaqtaq #aa8WS0PB- 2024-11-27T05:59:14.794Z
 ▯ is a nervous system
 
-feqdu ± `en` @Laqme #eaVPIF0JH 2024-08-21T15:39:17.343Z
+feqdu +1 `en` @Laqme #eaVPIF0JH 2024-08-21T15:39:17.343Z
 ▯ seems to be the case intuitively / feels like it's the case.
 
 feqdua ± `en` @Laqme #Y-zmNP6hG 2022-10-26T23:46:43.470Z
 ▯ intuitively knows ▯ to be true.
 
-feqgaı +3 `en` @Ilmen #lL_UuAph5 2022-07-26T14:32:56.631Z
+feqgaı +4 `en` @Ilmen #lL_UuAph5 2022-07-26T14:32:56.631Z
 ▯ intuits that ▯ is the case.
 
 feqhua ± `en` @Laqme #1YhdSNt1b 2023-11-30T00:51:49.969Z
@@ -20140,10 +20147,10 @@ jiqci (2025-01-03T20:34:52.648Z): neuron
 feqmuıdua +1 `en` @TheAndSys #rHaiR2hmO 2023-08-05T16:29:30.535Z
 ▯ intuitively understands ▯
 
-feqnoaq +1 `en` @uakci #qdYArWl1g 2022-08-30T16:11:59.072Z
+feqnoaq +2 `en` @uakci #qdYArWl1g 2022-08-30T16:11:59.072Z
 ▯ reads the room; ▯ intuits the message conveyed by a situation or person’s attitude ▯.
 
-feqnu ± `en` @Laqme #-LJUzlN4m 2024-08-21T15:41:49.197Z
+feqnu +1 `en` @Laqme #-LJUzlN4m 2024-08-21T15:41:49.197Z
 ▯ feels like that / has that vibe.
 
 feqnhoq ± `en` @jiqci #AiBXn6P2Z 2024-07-09T15:39:07.749Z
@@ -20157,6 +20164,13 @@ feqruo ± `en` @seaqtaq #72ijHpwBq 2024-10-02T06:18:24.183Z
 
 feqsunem ± `en` @jiqci #Y1OIcY3Jg 2025-01-03T20:20:50.553Z
 ▯ is a nerve plexus.
+
+feqtao ± `en` @Dembim #0eDKT4SNr 2026-01-29T02:58:20.654Z
+▯ does ▯ intuitively/ without thought
+Dembim (2026-01-29T03:00:00.895Z): Compared to <feqruo>, focuses more on a particular action done in the moment
+Dembim (2026-01-29T03:00:17.821Z): Frame: c 1i
+Dembim (2026-01-29T03:00:34.461Z): Pronominal_class: ho
+Dembim (2026-01-29T03:11:17.935Z): <tao> hyponym
 
 ferısıoq ± `en` @robintown #5S0q2uW4c 2023-11-04T13:09:50.768Z
 ▯ is a Ferris wheel.
@@ -21235,6 +21249,9 @@ fuıfeama ± `en` @seaqtaq #1qbwyx-0T 2024-10-15T23:56:00.943Z
 fuıgı ± `en` @uakci #z3TRR8Orq 2023-12-08T06:59:00.610Z
 ▯ is nice and simple (to do).
 
+fuıhaqsupu ± `en` @Dembim #KnPm0JPzX 2026-01-29T17:14:06.321Z
+volume unit: international metric tablespoon (15 ml)
+
 fuıhuı ± `en` @uakci #ZMorr-q9F 2023-12-08T06:59:24.472Z
 ▯ is overly simplistic / insultingly easy.
 
@@ -21259,6 +21276,12 @@ fuılıe ± `en` @Ilmen #Ay-OSBr98 2022-07-19T14:41:03.888Z
 
 fúım ± `en` @evie #kIrzaNZZw 2024-11-22T07:30:20.626Z
 focus marker: obviously
+
+fuınhebıo ± `en` @Dembim #xOis5LeVG 2026-01-29T16:31:03.104Z
+volume unit: "metric cup" in widespread international use (250 ml)
+
+fuıtısupu ± `en` @Dembim #RbqZ2vd0w 2026-01-29T16:51:37.244Z
+volume unit: metric teaspoon (5 ml)
 
 fukaqmuq ± `en` @salarua #3_YZAWfaz 2021-08-18T17:55:35.430Z
 ▯ does the Vulcan salute to ▯
@@ -23848,7 +23871,7 @@ gıomıa ± `pl` @jiqci #ddTLv705o 2023-07-31T08:20:31.099Z
 gıonıaq ± `en` @Hoemai #lUJlYxcwV 2019-04-08T14:08:22.000Z
 ▯ is a light year.
 
-gıonuao ± `en` @seaqtaq #YlPRvRb9Q 2020-06-06T21:35:23.883Z
+gıonuao -1 `en` @seaqtaq #YlPRvRb9Q 2020-06-06T21:35:23.883Z
 predicate: ‘rainbow’; ▯ is a rainbow.
 
 gıonuoq ± `en` @Ilmen #njz9qg1XP 2023-04-23T18:27:54.392Z
@@ -24896,6 +24919,9 @@ gomnıaq ± `en` @Laqme #GP6xH6K6G 2023-09-22T13:14:19.710Z
 gomo +1 `en` @Machy #4pI6V_qFc 2022-04-20T18:30:57.558Z
 ▯ is a government.
 Machy (2022-04-20T18:31:08.223Z): Has the potential to be a very productive suffix.
+
+gomonhebıo ± `en` @Dembim #R9DxFJ7Az 2026-01-29T16:25:23.779Z
+volume unit: US legal cup (240 ml)
 
 gompıq +1 `en` @Laqme #aoabb3mKJ 2025-10-12T11:38:03.412Z
 ▯ butt-dials / pocket-dials / accidentally pings ▯.
@@ -27587,6 +27613,10 @@ uakci (2022-06-18T14:53:45.521Z): like a ghost **haqtu** but hungry
 haqsue +1 `en` @seaqtaq #tHXa4ZKcA 2019-12-27T16:28:10.793Z
 ▯ orders/requests dish ▯ 
 
+haqsupu ± `en` @Dembim #-3_TfRe7v 2026-01-29T17:06:47.467Z
+volume unit: tablespoon
+Dembim (2026-01-29T17:07:14.959Z): See note under <nhebıo>
+
 haqshuaq ± `en` @Machy #qT6_iMjDe 2021-10-25T23:05:47.553Z
 ▯ farms ▯.
 
@@ -29138,7 +29168,7 @@ Ilmen (2026-01-28T16:28:32.611Z): distribution: d
 Ilmen (2026-01-28T16:28:36.820Z): frame: c
 Ilmen (2026-01-28T16:28:43.998Z): pronominal_class: maq
 
-hıeqnuao ± `en` @Ilmen #QgU3Uj8HJ 2020-01-22T22:41:50.552Z
+hıeqnuao -1 `en` @Ilmen #QgU3Uj8HJ 2020-01-22T22:41:50.552Z
 ▯ is a bow.
 
 hıeqnuaobeaq ± `en` @Ilmen #4tHeTLk_K 2020-03-01T18:29:46.741Z
@@ -32000,6 +32030,7 @@ Hoemai (2022-08-16T12:16:12.833Z): for use in subordinate clauses when you don't
 
 ınaq +5 `en` @kazoo #YkWY8n8af 2025-01-31T18:34:45.980Z
 ▯ is a chair.
+Dembim (2026-01-29T15:33:38.654Z): I suppose this is strictly a chair and not any other sort of seat?
 
 ıne ± `en` @TheAndSys #qmpxG-ilY 2024-06-30T15:10:08.904Z
 interjection: I see, I understand
@@ -35269,6 +35300,9 @@ jıemıajoe ± `en` @uakci #vZ9M4K-YS 2020-03-07T20:39:49.144Z
 
 jıena ± `en` @Dembim #UCK9yBzpu 2026-01-28T23:34:17.771Z
 according to a credible source, ▯ is the case, but I cannot remember the source
+Dembim (2026-01-29T02:48:01.705Z): Frame: 0
+Dembim (2026-01-29T02:48:21.813Z): Pronominal_class: hoq
+Dembim (2026-01-29T02:49:40.929Z): evidential
 
 jıeq- ± `en` @kazoo #XHCAOPdYy 2025-03-01T17:10:12.729Z
 prefix: makes 2D shape names based on its number of angles, X-gon
@@ -35405,6 +35439,9 @@ jıjıe ± `en` @Laqme #o14fTIn40 2019-02-20T21:59:27.000Z
 
 jıjıena ± `en` @Dembim #x4NWBjWSl 2026-01-28T23:35:40.228Z
 according to my past self, who I consider to be a credible source, ▯ is the case, but I cannot remember the reasoning or evidence by which I originally concluded such
+Dembim (2026-01-29T02:48:36.295Z): Frame: 0
+Dembim (2026-01-29T02:48:54.805Z): Pronominal_class: hoq
+Dembim (2026-01-29T02:49:21.749Z): evidential
 
 jıka ± `en` @ijonetun #5eQ2gmpj7 2025-03-23T20:12:14.480Z
 ▯ is unique / iconic / bold / passionate / fierce.
@@ -39679,7 +39716,7 @@ kaqnuam ± `en` @Ilmen #ZqpMSPdeC 2026-01-28T16:25:37.233Z
 Ilmen (2026-01-28T16:25:40.582Z): sememe: zageye
 Ilmen (2026-01-28T19:55:52.752Z): discriminator: 1
 
-kaqnuao ± `en` @Ilmen #X5E7-7vC7 2018-10-09T21:24:17.000Z
+kaqnuao -1 `en` @Ilmen #X5E7-7vC7 2018-10-09T21:24:17.000Z
 ▯ is a brow.
 
 kaqnuaokıaq ± `en` @Ilmen #TBADMGKT8 2018-10-09T21:24:36.000Z
@@ -47019,7 +47056,7 @@ Ilmen (2019-01-25T18:32:10.000Z): See also #sıujēo.
 lıshu ± `en` @Laqme #0p-YwkyLb 2022-09-28T16:43:21.115Z
 ▯ is a Chinese / Japanese plum tree (Prunus salicina).
 
-lıta ± `en` @robintown #hOYh53oCj 2024-07-02T15:46:22.436Z
+lıta +1 `en` @robintown #hOYh53oCj 2024-07-02T15:46:22.436Z
 unit: liter
 robintown (2024-07-02T15:46:30.956Z): keyword: litre
 
@@ -48182,6 +48219,11 @@ lualom ± `en` @seaqtaq #YKVe5QoY2 2025-06-26T16:18:02.882Z
 lualomsıo ± `en` @seaqtaq #q91SrQXAp 2025-06-26T16:19:26.485Z
 ▯ is the idea or concept of plot armor
 
+luam ± `en` @Dembim #tGzzreZey 2026-01-30T01:16:26.991Z
+degree: middlingly
+Dembim (2026-01-30T01:22:56.063Z): roughly dead between "very much" and "barely at all"
+Dembim (2026-01-30T01:36:36.596Z): kw: medium
+
 luama ± `en` @Neaqbua #VRgfM9u3j 2024-10-04T22:08:50.642Z
 ▯ plays
 Neaqbua (2024-10-04T22:09:33.343Z): **luaq**'s object isn't always relevant
@@ -49331,6 +49373,10 @@ Ilmen (2018-11-17T14:28:30.000Z): −1
 mahı +1 `en` @TheAndSys #aevqfgGSG 2024-10-15T04:05:18.532Z
 ▯ is an affliction (emotional or physical)
 
+mahıe ± `en` @Ilmen #c5f3CfjfE 2026-01-29T17:10:23.561Z
+▯ is an ancient Egyptian cubit (meh) length unit, whose value is about 525 mm.
+Ilmen (2026-01-29T17:11:51.875Z): Etymology: From Amarna Late Egyptian /maħjə/, “cubit”.
+
 mahoganı ± `en` @Laqme #iZ8A9cMFj 2019-04-27T23:10:03.000Z
 ▯ is a mahogany tree (Swietenia).
 Laqme (2019-04-27T23:10:16.000Z): etymo: "From Spanish mahogani, possibly from a Mayan name."
@@ -49614,7 +49660,7 @@ majıtao ± `en` @Machy #bPPYZ8PaT 2021-09-08T18:50:11.953Z
 majıtoa -1 `en` @Laqme #tFnF62AL3 2023-01-06T18:46:34.171Z
 ▯ is a magical word / spell.
 
-majoneze +1 `en` @el #VEXG7wUqO 2022-12-13T20:09:16.292Z
+majoneze ± `en` @el #VEXG7wUqO 2022-12-13T20:09:16.292Z
 ▯ is mayonnaise (condiment)
 
 majoneze ± `ru` @SuperSpaceNiM #QbBy54rf8 2024-08-16T09:52:12.034Z
@@ -49883,7 +49929,7 @@ Isi (2024-08-30T08:01:22.445Z): see also **zéı**
 maona +1 `en` @uakci #-EnWSePW7 2023-11-11T21:23:01.090Z
 interjection: ‘moreover’; ‘in addition’; [in some contexts] ‘let alone’
 
-maoneı +2 `en` @jiqci #IR07tJIq0 2024-10-31T17:54:40.347Z
+maoneı +3 `en` @jiqci #IR07tJIq0 2024-10-31T17:54:40.347Z
 ▯ is mayonnaise.
 
 maoru ± `en` @robintown #I7A3bjPXA 2022-10-16T17:33:49.330Z
@@ -53187,7 +53233,7 @@ mokuq ± `en` @uakci #XpDbyuo7K 2021-07-29T22:03:40.247Z
 mokuzıa ± `en` @jiqci #i82lJ7cmJ 2023-05-28T20:46:23.822Z
 ▯ blinks / flashes.
 
-mola ± `en` @Ilmen #d8BdlQ38k 2022-07-26T14:59:55.555Z
+mola -1 `en` @Ilmen #d8BdlQ38k 2022-07-26T14:59:55.555Z
 I remember the experience of perceiving ▯ being the case.
 el (2022-07-26T15:08:03.167Z): Ntsékees: I'd prefer **mola** not to be about memorized facts, for whıch **rula** or **cıla** would be more suitable.
 Dembim (2026-01-24T14:37:07.974Z): evidential
@@ -54972,14 +55018,14 @@ seaqtaq (2024-11-16T21:09:08.964Z): == hao X tî nánı
 nahı ± `en` @uakci #aSwm5mIc0 2018-10-20T18:28:52.000Z
 ▯ is neither the case nor not the case; ▯ neither satisfies nor not satisfies property ▯.
 
-naho +1 `en` @el #QzW0faM9Y 2022-01-17T01:37:50.286Z
+naho +2 `en` @el #QzW0faM9Y 2022-01-17T01:37:50.286Z
 ▯ is garlic
 el (2022-01-17T01:38:05.857Z): from spanish "ajo" + n so it doesn't turn into **aho**
 
 naho ± `ru` @SuperSpaceNiM #t2YMLXww7 2024-08-11T22:37:01.444Z
 ▯ — чеснок.
 
-nahonam ± `en` @evie #97nKR3uMv 2024-08-11T22:34:54.123Z
+nahonam +1 `en` @evie #97nKR3uMv 2024-08-11T22:34:54.123Z
 ▯ is garlic bread!!
 
 nahonam ± `ru` @SuperSpaceNiM #GXSPcdY08 2024-08-11T22:37:25.856Z
@@ -56276,12 +56322,12 @@ predicate: ‘ninth’; ▯ is ninth among ▯.
 neıko ± `pl` @jiqci #Orhgdnrxxi 2023-07-31T08:21:42.366Z
 ▯ jest dziewiąty spośród ▯.
 
-nejeq +3 `en` @Ilmen #MtenWNJEi 2019-03-05T18:32:34.000Z
+nejeq +2 `en` @Ilmen #MtenWNJEi 2019-03-05T18:32:34.000Z
 ▯ and ▯ have the property ▯ to the same degree/extent; ▯ and ▯ are equal in their degree in satisfying property ▯.
 Machy (2020-06-12T19:53:20.341Z): "as much as"
 
-nejeq ± `en` @Ilmen #539bvbO0Z 2020-01-30T14:57:28.948Z
-▯ and ▯ are the case to the same degree/extent; ▯ and ▯ have the property ▯ to the same degree/extent.
+nejeq +1 `en` @Ilmen #539bvbO0Z 2020-01-30T14:57:28.948Z
+▯ and ▯ are the case to the same degree or extent.
 
 nejoq ± `en` @uakci #cHLR-Zlu6 2022-08-09T20:56:31.886Z
 ▯ is prominent among ▯.
@@ -59244,12 +59290,13 @@ nuamseoq ± `en` @jiqci #WAF1b-ERR 2023-12-31T14:45:26.547Z
 nuamsuroq ± `en` @jiqci #UgIMQWf_p 2023-12-18T20:00:05.343Z
 ▯ is an oxbow lake.
 
-nuao ± `pl` @jiqci #iJ72VflLQF 2023-07-31T08:21:33.056Z
-▯ to łuk; ▯ jest łukowaty.
-
 nuao ± `en` @Dembim #GiohzDj4N 2026-01-28T21:01:59.220Z
 resultative subject-sharing adjunct head
 Dembim (2026-01-28T21:02:26.059Z): This is to <lıalu> as <oq> is to <ıaı>.
+Ilmen (2026-01-29T22:48:49.830Z): discriminator: 2
+
+nuao -1 `pl` @jiqci #iJ72VflLQF 2023-07-31T08:21:33.056Z
+▯ to łuk; ▯ jest łukowaty.
 
 nuaobıo ± `en` @Ilmen #cT1Qxa0U8 2019-12-21T17:19:23.861Z
 ▯ is a cup.
@@ -59270,7 +59317,7 @@ nuaohua -1 `en` @seaqtaq #nwtbWvDC7 2024-07-25T23:30:04.938Z
 ▯ is a tentacle
 Ilmen (2026-01-28T16:21:10.980Z): sememe: regara
 
-nuaokuoq ± `en` @Ilmen #2wYCOBvfZ 2018-10-06T21:04:51.000Z
+nuaokuoq -1 `en` @Ilmen #2wYCOBvfZ 2018-10-06T21:04:51.000Z
 ▯ is a rib (bone).
 Ilmen (2026-01-28T16:22:51.605Z): sememe: newaza
 
@@ -59763,6 +59810,9 @@ nuınuaı ± `en` @robintown #ZZure1m-X 2024-10-26T18:54:26.489Z
 
 nuınuı ± `en` @akesi #HBh0HUseh 2020-02-02T05:28:55.903Z
 colloq. ▯ is tiny, ▯ is minuscule
+
+nuınhebıo ± `en` @Dembim #nLBqHr_fm 2026-01-29T16:29:49.683Z
+volume unit: "small cup" used in (at least) Japan and parts of South America (200 ml)
 
 nuıpaq ± `en` @Ilmen #KeuqB56re 2019-04-09T17:27:05.000Z
 ▯ is a detail.
@@ -60685,6 +60735,12 @@ nheaze ± `en` @uakci #F5TxJ6AAp 2023-02-20T18:43:06.049Z
 nhebıju ± `en` @Laqme #Ey3bUod-L 2023-08-13T19:48:06.711Z
 ▯ is edgy / provocative / comes close to breaking the rules.
 
+nhebıo ± `en` @Dembim #U63mt3AsN 2026-01-29T16:37:19.511Z
+volume unit: cup (see notes)
+Dembim (2026-01-29T16:37:32.175Z): What means "a cup" can be a deeply messy affair. Everyone has their own version of every basic culinary measure. As much as I would like to imagine that Toaqgua is immune to such messiness, as a matter of cold reality, words for real world units are only useful if they accord with the real world. So, this word is for the _contextual_ cup, whatever a cup means to the speaker in the place and time that they speak. One should use the below, more specific words if further precision is required.
+Dembim (2026-01-29T22:37:36.080Z): <usonhebıo>, <gomonhebıo>, <nuınhebıo>, <fuınhebıo>
+Dembim (2026-01-29T22:38:45.938Z): Etymology: lexicalization of <@uakci nhe-> + <@official bıo>
+
 nhebıutıaı ± `en` @jiqci #iEat7x5fg 2023-08-24T10:17:14.668Z
 ▯ is a barrel (unit of volume, equal to 42 US gallons or ~159 liters, symbol bbl, used to measure petroleum).
 jiqci (2023-08-24T10:17:36.260Z): lexicalization of **nhẹ-****bıutıaı**
@@ -61508,14 +61564,14 @@ okeı +1 `en` @Laqme #dH3dUir_c 2019-11-08T01:09:06.769Z
 ▯ is OK (okay, fine, acceptable, all right).
 Laqme (2019-11-08T01:09:51.700Z): Doesn't cover the “passable, but not especially good” meaning that “OK” sometimes has in English (as in “the party was OK”).
 
-okeı +1 `en` @Dembim #a0gNkyuIa 2025-12-11T23:58:23.103Z
+okeı ± `tok` @el #qNbaAwMNj 2022-07-10T06:23:00.203Z
+▯ li pona
+
+okeı ± `en` @Dembim #a0gNkyuIa 2025-12-11T23:58:23.103Z
 interjection: "this/that/it is OK (fine, acceptable, alright)"
 Dembim (2025-12-11T23:59:13.798Z): Copied from <@Laqme okeı>: Doesn't cover the “passable, but not especially good” meaning that “OK” sometimes has in English (as in “the party was OK”).
 Dembim (2025-12-14T13:57:45.073Z): see also <@Dembim ıao>
 Ilmen (2025-12-16T13:29:47.798Z): discriminator: 2
-
-okeı ± `tok` @el #qNbaAwMNj 2022-07-10T06:23:00.203Z
-▯ li pona
 
 okeıcheı ± `en` @Laqme #H50BcLni- 2025-12-16T22:48:14.119Z
 ▯ gives a thumbs-up.
@@ -61802,6 +61858,9 @@ Laqme (2023-03-16T00:52:13.691Z): aha, eureka
 
 Ozı ± `en` @jiqci #e3eYaXmvR 2023-11-15T17:14:12.064Z
 ▯ is Aussie / Australian / related to Australia.
+
+ozıhaqsupu ± `en` @Dembim #wU5grqqyS 2026-01-29T17:16:44.415Z
+volume unit: Australian tablespoon (20 ml)
 
 pa- ± `en` @uakci #RunxMd75v 2024-03-07T12:59:16.933Z
 prefix: pre-fill the subject of the marked matrix clause verb with **súq** and require **ba** illocution (which may then be omitted, as ∅)
@@ -67900,7 +67959,7 @@ jiqci (2023-06-16T20:23:57.426Z): Examples: a loading/unloading area in ports, a
 rıheq ± `en` @cateyes #uFWDVDnRY 2025-10-01T13:04:50.489Z
 ▯ is an yrneh (unit of reciprocal inductance)
 
-rıhı ± `en` @uakci #d53bCvQOt 2022-01-08T12:06:47.525Z
+rıhı +1 `en` @uakci #d53bCvQOt 2022-01-08T12:06:47.525Z
 ▯ is rice (member of the Oryzeae tribe, thus including all varieties of rice worldwide, as well as wild rice).
 uakci (2022-01-08T12:11:45.525Z): from Sanskrit व्रीहि (vrīhí), allegedly cognate with all the various Indo-European reflexes
 
@@ -69128,6 +69187,9 @@ predicate: ‘princess’; ▯ is a princess.
 
 ruaılıqfu ± `pl` @jiqci #elaYBtLjBO 2023-07-31T08:21:54.972Z
 ▯ to księżna/księżniczka.
+
+ruaımahıe ± `en` @Ilmen #hgn43XidN 2026-01-29T17:09:00.928Z
+▯ is an ancient Egyptian royal cubit (meh niswt) length unit, whose value is between 523.5 to 529.2 mm.
 
 ruaınaq -1 `en` @saqraku #cKV882H8W 2023-12-17T21:05:31.889Z
 predicate: ‘king’; ▯ is a king.
@@ -74641,15 +74703,15 @@ sua ± `en` @official #KZCAwC0ee 2019-05-05T22:27:23.595Z
 predicate: ‘necessary’; ▯ is necessary for ▯ to happen.
 uakci (2022-03-09T19:52:24.553Z): also: there's a necessity for ▯ to happen
 
+sua +1 `en` @Dembim #62FkZ73Kh 2026-01-28T03:14:14.343Z
+modality: X is necessary for ... to happen
+Ilmen (2026-01-28T13:00:21.087Z): discriminator: 2
+
 sua ± `tok` @el #sXJMi2oZI 2022-07-10T04:03:38.377Z
 ▯ li lon ala la ▯ li ken ala
 
 sua ± `pl` @jiqci #TWLlW8lotV 2023-07-31T08:22:05.775Z
 ▯ jest potrzebny, żeby ▯ zaszło.
-
-sua ± `en` @Dembim #62FkZ73Kh 2026-01-28T03:14:14.343Z
-modality: X is necessary for ... to happen
-Ilmen (2026-01-28T13:00:21.087Z): discriminator: 2
 
 sua ± `en` @uakci #VMv_aFiuG 2026-01-28T09:46:06.836Z
 modality: X is necessary for …; X must happen so that … can
@@ -82401,7 +82463,12 @@ tısue ± `en` @uakci #sgfF23Tsz 2021-09-18T13:01:21.041Z
 tısuım ± `en` @Laqme #fQwaMXpMr 2024-08-01T19:48:09.815Z
 ▯ puts ▯ where it belongs.
 
-tısupu ± `en` @fagri #0g4qFNgaW 2019-02-09T05:29:30.000Z
+tısupu ± `en` @Dembim #vX0Zr0StH 2026-01-29T16:41:02.758Z
+volume unit: teaspoon
+Dembim (2026-01-29T16:41:33.899Z): see note under <@Dembim nhebıo>
+Ilmen (2026-01-29T22:49:12.782Z): discriminator: 2
+
+tısupu -1 `en` @fagri #0g4qFNgaW 2019-02-09T05:29:30.000Z
 The volume of ▯ measured in teaspoons is ▯
 
 tısha ± `en` @official #TqUaL5THhr 2019-05-05T22:27:48.340Z
@@ -83855,7 +83922,7 @@ nano (2024-09-07T06:15:17.304Z): deprecated form, use tó or to-
 ▯ are the only things that satisfy property ▯.
 uakci (2022-10-31T16:45:15.515Z): fails for **puq** x1 if x2 is distributive
 
-⚠ toubu ± `en` @uakci #q9rLYVGG8 2022-07-12T17:30:16.316Z
+⚠ toubu -1 `en` @uakci #q9rLYVGG8 2022-07-12T17:30:16.316Z
 focus prefix: not only
 
 ⚠ toubuchuq ± `en` @uakci #RxvJRQBzD 2021-10-02T18:57:03.730Z
@@ -83895,7 +83962,7 @@ el (2022-11-06T18:16:53.059Z): < tou + rara
 ▯ satisfies property (that is a distinctive aspect of ▯) ▯.
 lassc (2022-12-02T23:56:24.713Z): [1] satisfies property [3], a distinctive aspect of [2]
 
-⚠ toutou ± `en` @el #Ti-5Qb0jW 2022-10-04T22:09:42.495Z
+⚠ toutou -1 `en` @el #Ti-5Qb0jW 2022-10-04T22:09:42.495Z
 determiner: the only plural constant that satisfies [complement]
 el (2022-10-04T22:09:51.029Z): fork of #xjOPCxh7p
 el (2022-10-04T22:11:08.571Z): toutou P ≔ ∃ xx: P(xx) ∧ (∀ yy: P(yy). xx = yy)
@@ -85352,6 +85419,13 @@ TheAndSys (2023-05-22T14:44:43.704Z): Second slot expects a noun (as opposed to 
 ujıla ± `en` @mimiaoganhaqpy #TWXQrAtNw 2025-02-18T18:20:04.534Z
 predicate: ‘try out’; ▯ tests/assesses/checks/trials/tries out satisfying property ▯.
 
+ujıtao ± `en` @Dembim #Zf12tgDBk 2026-01-30T00:19:29.813Z
+▯ tests/assesses/checks/trials/tries out doing ▯
+Dembim (2026-01-30T00:21:03.135Z): Frame: c 1i
+Dembim (2026-01-30T00:21:10.363Z): Pronominal_class: ho
+Dembim (2026-01-30T00:21:19.022Z): tao hyponym
+Dembim (2026-01-30T00:22:03.463Z): see also <=ujı>
+
 ujoq ± `en` @official #OReOxhkdQ 2022-05-21T12:59:59.995Z
 predicate: ‘mallet’; ▯ is a club/mallet/baton/hammer/pestle.
 
@@ -85611,6 +85685,9 @@ Uruguaıgua ± `en` @countries #2dUmDqrYJtc 2023-10-02T12:22:05.497Z
 usaqpue ± `en` @jiqci #A-hDAe3JD 2024-07-12T20:44:41.385Z
 ▯ is a yard (3 feet, 0.9144 meters).
 
+usohaqsupu ± `en` @Dembim #q9VNacVIr 2026-01-29T17:13:24.081Z
+volume unit: US customary tablespoon (14.8 ml)
+
 Usona ± `en` @official #Ti-5omsSKr 2022-05-11T19:41:29.724Z
 predicate: ‘American’; ▯ is US-American/pertains to the USA.
 
@@ -85647,12 +85724,18 @@ Usonagua ± `ru` @SuperSpaceNiM #MeWtunvJl 2024-08-11T23:05:52.952Z
 usonakafe ± `en` @salarua #0Z39mnH4R 2022-08-31T15:45:30.947Z
 ▯ is caffe americano
 
+usonhebıo ± `en` @Dembim #mPzv4FXg- 2026-01-29T16:24:35.972Z
+volume unit: US customary cup (236.5882365 ml)
+
 usoq ± `en` @Machy #22Q9mNUkU 2022-04-23T15:26:34.561Z
 ▯ is an imperial unit.
 Machy (2022-04-23T15:26:58.293Z): ex. **usoqpue** = imperial foot
 
 usoqpue ± `en` @seaqtaq #Jkb28mRzv 2024-07-23T23:38:43.825Z
 ▯ is a foot (unit of measurement)
+
+usotısupu ± `en` @Dembim #wfFFUfVcf 2026-01-29T16:53:05.569Z
+volume unit: US customary teaspoon (4.92892159375 ml)
 
 usha ± `en` @seaqtaq #4oPFr9wpI 2024-04-27T09:14:18.687Z
 ▯ reasons/concludes that ▯ is the case
@@ -96815,11 +96898,6 @@ determiner: “too many”
 ⚠ dusy ± `en` @Laqme #pfDrjxJwO 2022-06-28T11:46:07.165Z
 ▯ are a dozen (12) in number.
 
-⚠ duy ± `en` @fagri #qpotn_2ke 2021-10-08T06:01:29.739Z
-Particle: begin incidental relative clause (takes only a single statement, not a full sentence)
-uakci (2022-03-03T01:25:37.670Z): note: i’ve at some point used **jü** for this, however much of an abuse of lexical tone this might be. other than that, i don't think this word holds much of an advantage over **ju
-uakci (2022-03-03T01:26:09.373Z): over **ju … (hó / tá / etc.) da**
-
 ⚠ duykuq ± `en` @Laqme #mHrP9cz2C 2022-03-03T01:21:28.204Z
 ▯ signs ▯ to ▯ (as in a sign language).
 
@@ -96859,6 +96937,11 @@ uakci (2022-05-27T20:16:53.567Z): as opposed to **suaı** which seems to imply b
 
 ⚠ duyhua ± `en` @uakci #MNqcqqZiC 2022-10-07T09:51:59.388Z
 ▯ is a muscle.
+
+⚠ duy -1 `en` @fagri #qpotn_2ke 2021-10-08T06:01:29.739Z
+Particle: begin incidental relative clause (takes only a single statement, not a full sentence)
+uakci (2022-03-03T01:25:37.670Z): note: i’ve at some point used **jü** for this, however much of an abuse of lexical tone this might be. other than that, i don't think this word holds much of an advantage over **ju
+uakci (2022-03-03T01:26:09.373Z): over **ju … (hó / tá / etc.) da**
 
 ⚠ duyjıaı -1 `en` @uakci #IOHolA7Qi 2022-07-29T07:34:58.977Z
 ▯ runs their hand over ▯; ▯ pets or strokes ▯.
@@ -97792,12 +97875,12 @@ puıgıqkıaq(nuq) ± `en` @seaqtaq #2fs6ybyf6 2020-02-18T05:06:11.566Z
 ⚠ puy ± `en` @fagri #ksu_DKweA 2021-10-05T05:12:45.459Z
 Quantifier: 'many', many plural values satisfy the surrounding sentence
 
-⚠ puyshı ± `en` @fagri #vo8F2u3Mn 2021-11-11T09:16:07.548Z
-Quantifier: same as puy, but only quantifies over individuals
-
 pu(me)che -1 `en` @seaqtaq #GF7rf4cz- 2019-06-30T16:05:15.856Z
 ▯ is a historian
 fagri (2019-06-30T16:13:26.256Z): -1, since "(" and ")" are not valid Toaq characters
+
+⚠ puyshı -1 `en` @fagri #vo8F2u3Mn 2021-11-11T09:16:07.548Z
+Quantifier: same as puy, but only quantifies over individuals
 
 ⚠ pyıkuq ± `en` @Ilmen #jBfhym_bb 2020-06-06T19:17:58.465Z
 ▯ says complaint ▯ (quote) to ▯.
@@ -98075,7 +98158,7 @@ el (2021-10-25T23:07:33.686Z): those big ones that they have at burger places
 ⚠ toyq ± `en` @Ilmen #5OpQXWA8n 2020-05-31T17:25:29.402Z
 separator: medial conjunction in polyadic forethought conjunction constructions: to RU … toyq … (toyq … (toyq … (…))).
 
-⚠ toy ± `en` @fagri #eZDQhDYP8 2020-06-11T22:05:58.100Z
+⚠ toy -1 `en` @fagri #eZDQhDYP8 2020-06-11T22:05:58.100Z
 quantifier: same as "tu", but only quantifies over individuals
 fagri (2020-06-11T22:06:14.902Z): key word: "each", "every", "single", "singular"
 Laqme (2022-03-25T14:27:07.521Z): now **tushı**

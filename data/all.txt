@@ -1982,7 +1982,7 @@ Butaq
 Butaqgua
 butıbujı
 butıubu
-buto
+búto
 butou
 buture
 buza
@@ -2596,6 +2596,7 @@ coegıu
 Coeguaq
 Coeguaqgua
 coeguboe
+coehaqsupu
 coehuao
 coeke
 coelaı
@@ -2624,6 +2625,7 @@ coese
 coeshıu
 coetano
 coetıe
+coetısupu
 coetoa
 coetua
 coetua
@@ -6104,6 +6106,7 @@ feqnhoq
 feqraı
 feqruo
 feqsunem
+feqtao
 ferısıoq
 feta
 fetıq
@@ -6431,6 +6434,7 @@ fuıdua
 fuıfaı
 fuıfeama
 fuıgı
+fuıhaqsupu
 fuıhuı
 fuıjıe
 fuıjıe
@@ -6439,6 +6443,8 @@ fuıkoıfuq
 fuılı
 fuılıe
 fúım
+fuınhebıo
+fuıtısupu
 fukaqmuq
 fukıoq
 fuluo
@@ -7558,6 +7564,7 @@ gometeı
 gomjom
 gomnıaq
 gomo
+gomonhebıo
 gompıq
 gomse
 gomsı
@@ -8378,6 +8385,7 @@ haqsaı
 haqsaokua
 haqsıa
 haqsue
+haqsupu
 haqshuaq
 haqshuo
 haqte
@@ -14608,6 +14616,7 @@ lualeoqhıe
 lualıem
 lualom
 lualomsıo
+luam
 luama
 luamıa
 luanıe
@@ -14956,6 +14965,7 @@ maheo
 maheo
 maheo
 mahı
+mahıe
 mahoganı
 maı-
 maı
@@ -18165,6 +18175,7 @@ nuınao
 nuıneohaq
 nuınuaı
 nuınuı
+nuınhebıo
 nuıpaq
 nuıpeotıe
 nuıpıanete
@@ -18436,6 +18447,7 @@ nheahoaq
 nheam
 nheaze
 nhebıju
+nhebıo
 nhebıutıaı
 nhebu
 nhefaı
@@ -18755,6 +18767,7 @@ Oteraıgua
 otoaı
 oꝡa
 Ozı
+ozıhaqsupu
 pa-
 pa
 pá
@@ -20992,6 +21005,7 @@ ruaılıem
 ruaılıq
 ruaılıqfu
 ruaılıqfu
+ruaımahıe
 ruaınaq
 ruaınaqfu
 ruaınaqfu
@@ -25001,6 +25015,7 @@ tısope
 tısue
 tısuım
 tısupu
+tısupu
 tısha
 tısha
 tısha
@@ -25902,6 +25917,7 @@ uıbokato
 uıjatoq
 ujı
 ujıla
+ujıtao
 ujoq
 ujoq
 ujoq
@@ -25981,6 +25997,7 @@ uru
 Uruguaı
 Uruguaıgua
 usaqpue
+usohaqsupu
 Usona
 Usona
 Usona
@@ -25993,8 +26010,10 @@ Usonagua
 Usonagua
 Usonagua
 usonakafe
+usonhebıo
 usoq
 usoqpue
+usotısupu
 usha
 ushachıaıkoe
 ushadeq
@@ -29583,7 +29602,6 @@ duaonaby
 duıpuy
 duofey
 dusy
-duy
 duykuq
 duykoy
 duylaı
@@ -29597,6 +29615,7 @@ duysoı
 duy
 duybo
 duyhua
+duy
 duyjıaı
 dy
 dyq
@@ -29870,8 +29889,8 @@ pueguy
 puıgıqkıaq(nuq)
 purımy
 puy
-puyshı
 pu(me)che
+puyshı
 pyıkuq
 pyı
 pyıle
