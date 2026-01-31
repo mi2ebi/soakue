@@ -7656,6 +7656,11 @@ cemzıamla ± `en` @seaqtaq #awZqjXB8t 2025-06-18T23:14:05.747Z
 ▯ commits action ▯, which every or nearly every other case in which they have been in a similar context have not have done, and normally would not do
 seaqtaq (2025-06-18T23:14:41.755Z): kw: zakaı
 
+cenhe ± `en` @Dembim #y5liL0pTg 2026-01-30T15:30:37.021Z
+pseudo unit: portion; expected/appropriate amount
+Dembim (2026-01-30T15:33:50.689Z): In principle, <shí> <cenhe> <nao> just means <shí> <nao>, but places special emphasis on the fact that the unit is to be understood in the present context.
+Dembim (2026-01-30T15:34:45.895Z): "portion" is probably the best gloss
+
 ceo ± `en` @official #m9eKde7x56 2023-01-13T19:24:50.367Z
 predicate: ‘begin’; ▯ begins/starts to occur.
 
@@ -8579,6 +8584,9 @@ coechu ± `en` @uakci #gQBJFDrxg 2019-03-23T23:23:26.000Z
 
 coedo ± `en` @Laqme #xuFtnGEF1 2023-11-15T00:24:12.736Z
 ▯, to ▯, attaches ▯.
+
+coegaloq ± `en` @Dembim #EKP0Sg29q 2026-01-30T19:38:00.148Z
+volume unit: UK/Imperial gallon (4.54609 L)
 
 coegıa ± `en` @Laqme #VgVjgw-Vj 2021-08-05T14:46:03.239Z
 ▯ is adhesive tape / sticky tape / duct tape.
@@ -10136,8 +10144,9 @@ chateıdao ± `en` @Machy #XdtD1MD6t 2022-04-23T03:03:20.813Z
 ▯ are instructions/directions for satisfying property ▯.
 Machy (2022-09-22T15:56:21.848Z): Definition written by @robintown.
 
-chateıkao ± `en` @Machy #oFCWDUEqu 2022-09-22T15:55:51.644Z
+chateıkao +1 `en` @Machy #oFCWDUEqu 2022-09-22T15:55:51.644Z
 ▯ are instructions / a recipe for doing ▯.
+Dembim (2026-01-30T13:53:10.406Z): Frame: c 1x
 
 chatoa +1 `en` @Laqme #vxG_yq0ha 2022-03-09T17:25:20.561Z
 ▯ is an adverb.
@@ -13899,7 +13908,7 @@ ijonetun (2025-03-28T12:21:29.184Z): intention to Use the knowledge, even if tha
 dago ± `en` @jiqci #8EjnHj4Bt 2024-11-20T10:18:42.097Z
 ▯ is a DAG (directed acyclic graph).
 
-daha +1 `en` @Ilmen #JYpK8cMJq 2022-02-15T22:35:53.330Z
+daha +2 `en` @Ilmen #JYpK8cMJq 2022-02-15T22:35:53.330Z
 illocution: humorous, jokeful, non-serious assertion.
 Ilmen (2022-02-15T22:44:26.897Z): Folk etymology: da + haha. True etymology: cognate with Lojban “zo'o”, from Proto-Loglanio-Guaspo-Toaq “ɗóxó”, after /o/ → /a/ vowel shift. Daha.
 
@@ -21831,6 +21840,11 @@ galesoache ± `en` @evie #qf1hGWBay 2025-05-30T22:37:58.326Z
 galıum ± `en` @uakci #vhmSR61E5 2022-12-31T14:15:36.767Z
 ▯ is gallium.
 
+galoq ± `en` @Dembim #Ju-qO8vGq 2026-01-30T19:35:00.545Z
+volume unit: gallon
+Dembim (2026-01-30T19:35:19.929Z): See note under <nhebıo>
+Dembim (2026-01-30T19:41:16.798Z): <coegaloq>, <usogaloq>
+
 gam +2 `en` @Laqme #GPlc2iVKh 2022-12-26T19:37:51.430Z
 ▯ is a cuboid.
 seaqtaq (2024-08-10T19:11:58.086Z): block
@@ -27616,6 +27630,7 @@ haqsue +1 `en` @seaqtaq #tHXa4ZKcA 2019-12-27T16:28:10.793Z
 haqsupu ± `en` @Dembim #-3_TfRe7v 2026-01-29T17:06:47.467Z
 volume unit: tablespoon
 Dembim (2026-01-29T17:07:14.959Z): See note under <nhebıo>
+Dembim (2026-01-30T19:42:11.028Z): <coehaqsupu>, <usohaqsupu>, <fuıhaqsupu>, <ozıhaqsupu>
 
 haqshuaq ± `en` @Machy #qT6_iMjDe 2021-10-25T23:05:47.553Z
 ▯ farms ▯.
@@ -59882,7 +59897,11 @@ nukuq ± `en` @uakci #ogykP13lI 2018-12-29T21:11:50.000Z
 nukuq ± `en` @Machy #FbsjQqzOl 2022-02-14T22:18:03.485Z
 ▯ implies ▯ while not outright stating it; ▯ plays coy.
 
-nula ± `en` @robintown #hRGOICvJx 2025-08-30T08:06:12.877Z
+nula ± `en` @uakci #prawBbpKt 2026-01-30T12:10:11.409Z
+▯ “is such” towards/with respect to ▯; ▯ is like this to ▯; ▯ satisfies such (**nu**) a relation with ▯.
+Dembim (2026-01-30T12:36:58.504Z): Equivalent to <cuoı> <nî>
+
+nula -1 `en` @robintown #hRGOICvJx 2025-08-30T08:06:12.877Z
 ▯ does such / goes like that.
 
 nulaqcaı ± `en` @TheAndSys #WiT55-PWg 2024-07-14T23:42:03.909Z
@@ -60451,6 +60470,12 @@ nuru ± `en` @Laqme #iFLC8wXbT 2022-02-08T15:43:14.699Z
 nusıe ± `en` @seaqtaq #SFPyh1H-J 2024-11-18T10:16:03.644Z
 ▯ is as follows; ▯ is as about to be described
 seaqtaq (2024-11-18T10:16:27.973Z): nísıe:ní::nusıe:nu
+
+nutao ± `en` @uakci #AbiElZTE3 2026-01-30T12:13:06.599Z
+▯ acts like this; ▯ does such a thing.
+
+nutaola ± `en` @uakci #pTS8NFzHZ 2026-01-30T12:13:30.338Z
+▯ acts like this towards ▯; ▯ does such (**nu**) a thing towards ▯.
 
 nutu ± `en` @jiqci #9CIPRq8Zv 2023-07-27T17:47:17.369Z
 ▯ is dregs/debris/remains/gunk/scum.
@@ -80704,7 +80729,7 @@ robintown (2025-01-21T03:57:35.046Z): keywords: shapeless, formless, noncorporea
 teıcoq ± `en` @Laqme #gV0ZckbYn 2024-06-19T21:05:23.849Z
 ▯ is a physical model / scale model of ▯.
 
-teıcha ± `en` @uakci #HotwIfyN8 2021-09-27T15:54:42.646Z
+teıcha +1 `en` @uakci #HotwIfyN8 2021-09-27T15:54:42.646Z
 ▯ happens or is done in/by manner/procedure/scheme/recipe ▯.
 
 teıchıaı ± `en` @seaqtaq #Tzp8k15ng 2024-10-24T18:40:35.726Z
@@ -82309,6 +82334,11 @@ tıoqtua ± `en` @takoda #ma3x71oMM 2024-10-29T23:01:19.794Z
 ▯ locks ▯
 takoda (2024-10-29T23:01:32.664Z): Etymology: **tıoq** + **tua**
 
+tıosao +1 `en` @Dembim #A0K39NK_J 2026-01-30T16:14:27.588Z
+predicate: ‘how.much’; ▯ is how much?
+Dembim (2026-01-30T16:19:26.414Z): This is basically « <sao> <nhê> <hí> », but might be thought to fix up possible disjoint-mass concerns through the ✨magic of lexicalization✨.
+Dembim (2026-01-30T16:23:03.320Z): Etymology: analogy with <@official tıopuı>
+
 tıosuıpuı ± `en` @Laqme #FNKtPY838 2023-01-10T14:48:05.124Z
 ▯ are, at the least, how many? (asks for the lowest possible answer)
 
@@ -82467,6 +82497,7 @@ tısupu ± `en` @Dembim #vX0Zr0StH 2026-01-29T16:41:02.758Z
 volume unit: teaspoon
 Dembim (2026-01-29T16:41:33.899Z): see note under <@Dembim nhebıo>
 Ilmen (2026-01-29T22:49:12.782Z): discriminator: 2
+Dembim (2026-01-30T19:42:57.999Z): <fuıtısupu>, <usotısupu>, <coetısupu>
 
 tısupu -1 `en` @fagri #0g4qFNgaW 2019-02-09T05:29:30.000Z
 The volume of ▯ measured in teaspoons is ▯
@@ -85684,6 +85715,9 @@ Uruguaıgua ± `en` @countries #2dUmDqrYJtc 2023-10-02T12:22:05.497Z
 
 usaqpue ± `en` @jiqci #A-hDAe3JD 2024-07-12T20:44:41.385Z
 ▯ is a yard (3 feet, 0.9144 meters).
+
+usogaloq ± `en` @Dembim #aMoOS5t0D 2026-01-30T19:39:37.727Z
+volume unit: US customary gallon (3.785411784 L)
 
 usohaqsupu ± `en` @Dembim #q9VNacVIr 2026-01-29T17:13:24.081Z
 volume unit: US customary tablespoon (14.8 ml)
