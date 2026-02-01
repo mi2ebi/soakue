@@ -17,7 +17,7 @@ const UNDERDOT: char = '\u{0323}';
 #[allow(clippy::missing_panics_doc)]
 pub fn main() {
     let client =
-        Client::builder().timeout(Duration::from_secs(60)).build().expect("Building client failed");
+        Client::builder().timeout(Duration::from_mins(1)).build().expect("Building client failed");
 
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
 

@@ -95,7 +95,7 @@ pub enum Tone {
     Adjunct,
 }
 
-/// A Toaq Grapheme
+/// A Toaq Grapheme.
 #[derive(Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct Grapheme {
     pub tone: Tone,
@@ -103,7 +103,7 @@ pub struct Grapheme {
     pub underdot: bool,
 }
 
-/// Encodes the possibility of failure or success of a Graphemes Iterator
+/// Encodes the possibility of failure or success of a Graphemes Iterator.
 #[derive(Debug, PartialEq, Eq)]
 pub enum GraphResult {
     Ok(Grapheme),

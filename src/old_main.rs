@@ -10,7 +10,7 @@ use serde_json::{from_str, to_string};
 use unicode_normalization::UnicodeNormalization as _;
 
 pub fn main() {
-    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
+    let client = Client::builder().timeout(Duration::from_mins(1)).build().unwrap();
     let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
     let res = client.post("https://toadua.uakci.space/api").body(query).send();
     let text = res.unwrap().text().unwrap();
