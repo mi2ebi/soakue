@@ -8994,6 +8994,14 @@ cuao ± `tok` @nano #7goDiW5iw 2023-03-07T16:35:52.957Z
 cuao ± `pl` @jiqci #t7pfaSLo41 2023-07-31T08:19:56.289Z
 ▯ jest za/poza ▯ pod względem własności ▯.
 
+cuao ± `en` @Dembim #pDDManh9c 2026-02-02T12:41:05.824Z
+predicate: ‘beyond’; ▯ so far exceeds ▯ as to lie beyond the present boundaries of perception (and/or understanding).
+Dembim (2026-02-02T13:04:46.202Z): Use <ôı> to specify the property in which the subject exceeds.
+Dembim (2026-02-02T13:04:52.734Z): Frame: c c
+Dembim (2026-02-02T13:05:23.014Z): Pronominal_class: ta
+Dembim (2026-02-02T13:12:51.686Z): It should be fine for cuao.j to be a kind, as well.
+Ilmen (2026-02-02T21:47:38.943Z): discriminator: 2
+
 Cuaobero ± `en` @jiqci #P2oq69ulP 2023-07-12T08:45:14.659Z
 ▯ is Hyperborean.
 
@@ -18448,18 +18456,18 @@ elu ± `ru` @SuperSpaceNiM #SxutjhY__ 2024-08-12T13:28:58.717Z
 eluchom ± `en` @jiqci #FpBp9vK9d 2024-12-09T07:51:10.116Z
 ▯ is a weevil (superfamily Curculionoidea).
 
+em- +1 `en` @lassc #j_Hnz9g0W 2025-03-28T16:25:53.343Z
+prefix: attaches implicit question as to the validity of the usage of the phrase within context
+lassc (2025-03-28T16:34:54.523Z): notes: this is kinda confusing to even me at the moment. the idea is that its akin to how people use (?) when writing or will answer questions with a rising intonation on a word that they aren't sure has a better alternative (but like, sometimes both are and are not asking that actual question directly?)
+
 em- ± `en` @uakci #qXXJKOSgD 2023-11-16T18:18:23.031Z
 prefix: hesitation
 uakci (2023-11-16T18:18:59.193Z): immediately deleted from the syntax tree as soon as it’s over, so cannot be used as an equivalent to **cọ-** (which creates fresh variable names). useful when you’ve already uttered a prefix but wish to hold the floor for the stem
 
-em- ± `en` @lassc #j_Hnz9g0W 2025-03-28T16:25:53.343Z
-prefix: attaches implicit question as to the validity of the usage of the phrase within context
-lassc (2025-03-28T16:34:54.523Z): notes: this is kinda confusing to even me at the moment. the idea is that its akin to how people use (?) when writing or will answer questions with a rising intonation on a word that they aren't sure has a better alternative (but like, sometimes both are and are not asking that actual question directly?)
-
-em +2 `en` @Laqme #nSX8fe1z5 2023-03-09T22:29:39.978Z
+em +3 `en` @Laqme #nSX8fe1z5 2023-03-09T22:29:39.978Z
 interjection: "um…"
 
-ém +1 `en` @official #DFhxTbWy2 2023-08-14T13:07:13.521Z
+ém +2 `en` @official #DFhxTbWy2 2023-08-14T13:07:13.521Z
 interjection: ‘huh?’; huh? / what? / come again?
 
 ema ± `en` @TheAndSys #qJPaaqM2b 2024-09-08T08:47:24.785Z
@@ -19851,6 +19859,9 @@ predicate: ‘bully’; ▯ teases/bullies/picks on ▯.
 
 feıluaq ± `pl` @jiqci #p3IAG5malW 2023-07-31T08:20:23.364Z
 ▯ dręczy/znęca się nad ▯.
+
+feıluaq ± `toa` @Dembim #w-4oh4kNi 2026-02-02T19:31:38.014Z
+tua unu ▯ ▯ zûam luaqmoe
 
 feımeo ± `en` @fagri #3cpepoVXn 2021-09-16T06:03:12.729Z
 ▯ sulks
@@ -27203,7 +27214,7 @@ ham +4 `en` @uakci #Hrofmg3ky 2024-01-05T19:28:09.109Z
 ▯ does some unspecified salient action.
 uakci (2024-01-05T19:28:36.355Z): = **heao**. (@Laqme’s note: Like **hao** but unergative (has an agent subject).)
 
-hama ± `en` @el #sl1eLHldD 2022-09-28T17:09:49.896Z
+hama +1 `en` @el #sl1eLHldD 2022-09-28T17:09:49.896Z
 interjection: same, me too, ditto
 el (2022-09-28T17:09:58.662Z): < HAo MAo jí
 
@@ -31937,7 +31948,7 @@ TheAndSys (2025-09-18T17:02:30.990Z): i like to think this as an alternative for
 ıjela ± `en` @Ilmen #Gj9GUrsDL 2023-04-01T19:49:38.274Z
 Tense: absolute existential future.
 
-ıjı ± `en` @fagri #_4jjHE2mm 2021-09-28T09:07:54.022Z
+ıjı +1 `en` @fagri #_4jjHE2mm 2021-09-28T09:07:54.022Z
 ▯ feels positive emotion
 fagri (2021-10-07T07:35:40.962Z): etymology: a priori
 fagri (2021-10-07T07:36:13.176Z): tags: happy, happiness, joy, eudaimonia
@@ -32863,6 +32874,10 @@ robintown (2022-04-25T17:34:13.101Z): non-fiction
 ıupe ± `en` @jiqci #OhsRXbhWV 2025-03-05T20:07:44.430Z
 ▯ (counterfactual) is the case in comparison to how things actually are.
 
+îuq ± `en` @Dembim #iGVz0emo4 2026-02-03T01:29:05.578Z
+subject-sharing adjunct head
+Dembim (2026-02-03T01:29:23.823Z): I know there's @robintown lı̂alu, but I find myself wanting it enough that the length and relative unwieldiness of the word in hiatus tone is a bother to me. So, I propose this replacement
+
 ıurıka ± `en` @Snow #V0L2bw-mE 2023-06-02T10:59:31.302Z
 ▯ is a plant in the subfamily Betoideae.
 
@@ -33614,6 +33629,9 @@ jea ± `pl` @jiqci #z_Qktrfov2 2023-07-31T08:20:53.492Z
 
 jea ± `ru` @SuperSpaceNiM #U5xsIMZ31 2024-08-11T23:18:42.647Z
 предикат: ‘покупать’; ▯ покупает ▯.
+
+jea ± `toa` @Dembim #4ZBBmOBIy 2026-02-02T20:08:36.451Z
+cuoı ▯ ▯, lá, sá, nä do já raı sá cû hóa zûo, ꝡá dıba ráı hóa ôı bo jâ
 
 jea -1 `toa` @uakci #1SZYElKEh 2019-04-15T08:46:20.000Z
 teq dóshı sa ráı dógu dósaq lî doa ja dó dógu dóshı da
@@ -36111,7 +36129,7 @@ jıqtıao ± `en` @uakci #breyFcW-W 2020-04-11T10:40:21.114Z
 ▯ is accurate; ▯ accurately matches ▯.
 uakci (2020-04-11T10:41:01.734Z): x₁ could be a measurement or a property (measured of x₂)
 
-jıqtua ± `en` @TheAndSys #4JJMXOHtZ 2023-04-28T02:20:17.547Z
+jıqtua +1 `en` @TheAndSys #4JJMXOHtZ 2023-04-28T02:20:17.547Z
 ▯ causes ▯ to exist
 
 jıqtue ± `en` @Laqme #b5_3DbqaE 2022-03-25T15:01:40.692Z
@@ -38449,6 +38467,11 @@ uakci (2022-08-15T13:57:06.002Z): hyponym of **ıq**. this word is to be applied
 
 jutaq -1 `toa` @uakci #RSNb4N-V4 2022-08-15T13:55:00.107Z
 ıq [ja raı] [ja cuaq] kùı jûoı ráı áq cúaq
+
+jutoame ± `en` @Dembim #pXDwFp6Gr 2026-02-02T14:04:46.496Z
+▯ is a non-restrictive relative clause phrase
+Dembim (2026-02-02T14:04:52.087Z): Frame: c
+Dembim (2026-02-02T14:05:03.587Z): Pronominal_class: maq
 
 jutoı ± `en` @TheAndSys #zDXSUuHch 2023-07-17T00:07:35.612Z
 ▯ consents to ▯ happening to them
@@ -46367,7 +46390,7 @@ lıaleoq ± `en` @seaqtaq #9om3SV6M0 2024-10-23T22:51:26.945Z
 lıaleoqche ± `en` @seaqtaq #iFLTKwloe 2024-10-23T22:55:17.418Z
 ▯ is a flank guard
 
-lîalu ± `en` @robintown #JTAQ_Zh6N 2024-11-19T04:37:16.792Z
+lîalu -1 `en` @robintown #JTAQ_Zh6N 2024-11-19T04:37:16.792Z
 adjunct head: forms subject-sharing adverbials (allomorph ◌̂)
 robintown (2024-11-19T04:47:24.296Z): In official Toaq you will only ever see this word as its tonal allomorph ◌̂. However, a non-tonal representation is useful as it gives us a nicer 'identifier' for the morpheme and opens up the possibility of it existing marginally similar to **ló**.
 
@@ -47566,6 +47589,9 @@ loeloeq ± `en` @Ilmen #DBB0thuMA 2025-04-12T20:20:55.134Z
 
 loeloq ± `en` @Laqme #LvLceUA7P 2026-01-20T20:02:23.583Z
 ▯ is scorching/fiery/scalding hot.
+
+loeloq ± `toa` @Dembim #LuHSt-RtJ 2026-02-02T19:42:58.529Z
+loq ▯ nêjeq, ꝡá he loq báq loe
 
 loem ± `en` @Snow #xTE1C6Qvh 2023-06-14T12:45:54.039Z
 ▯is the character x.
@@ -56411,12 +56437,12 @@ predicate: ‘ninth’; ▯ is ninth among ▯.
 neıko ± `pl` @jiqci #Orhgdnrxxi 2023-07-31T08:21:42.366Z
 ▯ jest dziewiąty spośród ▯.
 
-nejeq +2 `en` @Ilmen #MtenWNJEi 2019-03-05T18:32:34.000Z
-▯ and ▯ have the property ▯ to the same degree/extent; ▯ and ▯ are equal in their degree in satisfying property ▯.
-Machy (2020-06-12T19:53:20.341Z): "as much as"
-
 nejeq +1 `en` @Ilmen #539bvbO0Z 2020-01-30T14:57:28.948Z
 ▯ and ▯ are the case to the same degree or extent.
+
+nejeq ± `en` @Ilmen #MtenWNJEi 2019-03-05T18:32:34.000Z
+▯ and ▯ have the property ▯ to the same degree/extent; ▯ and ▯ are equal in their degree in satisfying property ▯.
+Machy (2020-06-12T19:53:20.341Z): "as much as"
 
 nejoq ± `en` @uakci #cHLR-Zlu6 2022-08-09T20:56:31.886Z
 ▯ is prominent among ▯.
@@ -56777,11 +56803,6 @@ netısha ± `en` @Laqme #Lko1VSk9b 2025-03-16T12:23:02.981Z
 
 neto ± `en` @jiqci #SzPWjiXhx 2023-06-03T12:43:09.482Z
 ▯ is a unit of measurement for measuring property ▯.
-
-netoa ± `en` @Dembim #ZGBRBP4vk 2025-11-30T17:20:35.263Z
-▯ is a degree word
-Dembim (2026-01-09T16:28:38.057Z): Frame: c
-Dembim (2026-01-28T13:59:39.096Z): Pronominal_class: hoq
 
 netoame ± `en` @fagri #MMenEMWit 2019-02-02T19:58:53.000Z
 ▯ is a linguistic system for describing amounts (e.g. weights, lengths, times, etc)
@@ -59078,13 +59099,14 @@ noqzaosu ± `en` @seaqtaq #L2zfrXBdS 2023-03-08T11:16:37.024Z
 ▯ is one's olfactory "voice"
 seaqtaq (2023-03-08T11:18:37.467Z): seaqtaqUsed to distinguish an exact olfactory pattern unique to an individual when using an olfactory language/communicative system. Potential use cases are distinguishing ants or other perhaps xeno-creatures that use pheromones/olfactory signals to communicate. This is the olfactory analogue to "voice"
 
-noqze ± `en` @Snow #l9HUfM4Y1 2024-10-02T11:03:59.168Z
-▯ is a stock/broth made from ▯.
-
 noqze ± `en` @Dembim #_4h5sc8K6 2026-02-01T00:10:29.701Z
 ▯ is a stock/broth
 Dembim (2026-02-01T00:11:12.886Z): Frame: c
 Dembim (2026-02-01T00:11:23.767Z): Pronominal_class: maq
+Ilmen (2026-02-02T21:51:50.033Z): discriminator: 2
+
+noqze -1 `en` @Snow #l9HUfM4Y1 2024-10-02T11:03:59.168Z
+▯ is a stock/broth made from ▯.
 
 noraı ± `en` @Laqme #wwvUcIQzH 2023-09-03T22:28:16.489Z
 ▯ is some media.
@@ -59397,8 +59419,8 @@ nuamsuroq ± `en` @jiqci #UgIMQWf_p 2023-12-18T20:00:05.343Z
 
 nuao ± `en` @Dembim #GiohzDj4N 2026-01-28T21:01:59.220Z
 resultative subject-sharing adjunct head
-Dembim (2026-01-28T21:02:26.059Z): This is to <lıalu> as <oq> is to <ıaı>.
 Ilmen (2026-01-29T22:48:49.830Z): discriminator: 2
+Dembim (2026-02-03T01:30:11.819Z): This is to <ıuq> as <oq> is to <ıaı>.
 
 nuao -1 `pl` @jiqci #iJ72VflLQF 2023-07-31T08:21:33.056Z
 ▯ to łuk; ▯ jest łukowaty.
@@ -61056,18 +61078,19 @@ nhochoa ± `en` @uakci #9g5yl9E73 2021-11-07T03:16:46.810Z
 nhodao ± `en` @uakci #lRJHcm4z_ 2023-06-03T11:41:04.512Z
 ▯ is a “1”/“on”/“true” bit.
 
-nhoe +2 `en` @seaqtaq #yzZMHEvXY 2021-10-09T05:18:51.123Z
+nhoe +1 `en` @seaqtaq #yzZMHEvXY 2021-10-09T05:18:51.123Z
 ▯ occurs in medium ▯
 seaqtaq (2021-10-09T05:20:26.879Z): Used for "We talked through discord", "We played outside", "Steve tried to swim in lava", "The ants go to war in the forest", etc
 seaqtaq (2021-10-09T05:20:37.359Z): Hypernym of **tı**
 Machy (2021-10-09T05:26:05.655Z): c.f. **koetı**
 
-nhoe ± `en` @Dembim #YHZ0AGc4- 2026-01-31T16:30:57.732Z
+nhoe +1 `en` @Dembim #YHZ0AGc4- 2026-01-31T16:30:57.732Z
 ▯ is in medium ▯
 Dembim (2026-01-31T16:31:08.843Z): Frame: c c
 Dembim (2026-01-31T16:31:17.489Z): Pronominal_class: ta
 Dembim (2026-01-31T16:32:06.452Z): Generalization of <@seaqtaq nhoe>
 Dembim (2026-01-31T16:35:27.595Z): From seaqtaq: Used for "We talked through discord", "We played outside", "Steve tried to swim in lava", "The ants go to war in the forest", etc. Hypernym of <tı>.
+Ilmen (2026-02-02T21:50:50.569Z): discriminator: 1
 
 nhoeboaq ± `en` @seaqtaq #KzqxfyY58 2024-11-27T20:07:30.608Z
 ▯ is a blot/stain/smear/mark
@@ -70618,7 +70641,7 @@ unspecified what happens to original material
 saıtoaı +1 `en` @Ilmen #AT4w4OC7a 2019-02-03T18:19:13.000Z
 ▯ is a molecule.
 
-saja ± `en` @Ilmen #khUPWnq7q 2022-02-18T21:37:48.044Z
+saja +1 `en` @Ilmen #khUPWnq7q 2022-02-18T21:37:48.044Z
 ▯ is a predicate or a proposition.
 fagri (2023-01-11T22:07:01.025Z): Why "predicate or proposition"? Does "proposition" here mean a nullary predicate?
 uakci (2023-01-11T22:07:39.862Z): yes
@@ -81884,7 +81907,7 @@ uakci (2022-03-09T19:38:19.281Z): "tough in presence", i.e., tough (unbreaking),
 tıcoı ± `en` @uakci #f4MoAt1SN 2021-09-29T20:44:02.347Z
 ▯ is spread everywhere around ▯.
 
-tıcuao +1 `en` @Ilmen #xg-k-6QHJ 2019-04-18T09:15:38.000Z
+tıcuao +2 `en` @Ilmen #xg-k-6QHJ 2019-04-18T09:15:38.000Z
 ▯ is across / on the opposite side of ▯.
 
 tıcuao ± `en` @Ilmen #LIImgp8Tp 2020-02-25T19:50:04.619Z
@@ -82479,6 +82502,16 @@ Dembim (2026-01-30T16:23:03.320Z): Etymology: analogy with <@official tıopuı>
 
 tıosuıpuı ± `en` @Laqme #FNKtPY838 2023-01-10T14:48:05.124Z
 ▯ are, at the least, how many? (asks for the lowest possible answer)
+
+tıotoa ± `en` @Dembim #YhRQY2Gt5 2026-02-02T14:15:30.186Z
+▯ is a degree word
+Dembim (2026-02-02T14:15:35.453Z): Frame: c
+Dembim (2026-02-02T14:15:51.470Z): Pronominal_class: hoq
+
+tıotoame ± `en` @Dembim #E89ySqM03 2026-02-02T14:01:56.872Z
+▯ is a degree phrase
+Dembim (2026-02-02T14:02:01.690Z): Frame: c
+Dembim (2026-02-02T14:02:26.677Z): Pronominal_class: maq
 
 tıozıu +1 `en` @Laqme #CRF6XyCtw 2023-12-29T12:29:38.274Z
 ▯ is a positive integer / natural number excluding 0.
@@ -85747,7 +85780,7 @@ unoa ± `en` @seaqtaq #yNTOv4kj1 2025-07-07T01:27:26.740Z
 fagri (2021-10-07T07:35:02.536Z): etymology: a priori
 fagri (2021-10-07T07:35:27.260Z): tags: sadness, pain, misery, miserable, anger, angst, anxiety
 
-unu ± `en` @uakci #J-CFwXhdt 2022-09-21T19:38:11.681Z
+unu +1 `en` @uakci #J-CFwXhdt 2022-09-21T19:38:11.681Z
 ▯ feels negative emotion
 uakci (2022-09-21T19:38:36.560Z): i prefer this word for better (it has the same shape as **ıjı** while being duly distinct from **anou**). see **unou**
 
@@ -86227,6 +86260,11 @@ eednb (2023-07-28T21:44:11.688Z): examples include verlan, pig latin, grypsera, 
 ꝡem ± `en` @uakci #qJgmgtixG 2023-01-10T09:29:53.062Z
 ▯ is intense/excruciating/unbearable.
 
+ꝡéma +1 `en` @Dembim #nzxUH09i3 2026-02-02T15:11:33.559Z
+focus particle: meta dubious/questionable
+Dembim (2026-02-02T15:12:01.584Z): I'm not sure this is actually focus per-se, but the grammar seems right.
+Dembim (2026-02-02T15:17:38.239Z): Non-prefix form of <@lassc em->; marks the attached constituent as dubious or questionable in whether it really means what the speaker intends. "for lack of a better word", in some cases or "(?)" in others. Essentially a parenthetical question or assertion of uncertainty about the current utterance.
+
 ꝡemuoıhajıaıhoa +1 `en` @Ilmen #ABwkghQhE 2022-12-20T20:44:15.926Z
 ▯ is a mobile phone.
 Ilmen (2022-12-20T20:44:57.770Z): Calque of the Navajo "bił níjoobałí", "with it one spins around (trying to find a stronger signal)".
@@ -86253,6 +86291,11 @@ evie (2025-03-25T19:05:29.790Z): with how compounds are usually made this ought 
 plural coordinator: range between (left is closed interval, right is open)
 kazoo (2025-04-17T15:44:33.708Z): "3 ꝡésheu 7" would include 3 but would NOT include 7
 kazoo (2025-04-17T15:44:43.517Z): cool idea by jiqci
+
+ꝡetoame ± `en` @Dembim #3OIIc97JB 2026-02-02T14:06:13.349Z
+▯ is a restrictive relative clause phrase
+Dembim (2026-02-02T14:06:22.730Z): Frame: c
+Dembim (2026-02-02T14:06:30.440Z): Pronominal_class: maq
 
 ꝡetom ± `en` @seaqtaq #5MMeRtfhU 2025-11-10T03:57:45.342Z
 ▯ is a metrical foot
