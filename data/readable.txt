@@ -15576,6 +15576,14 @@ nasin la ▯ li ken ▯.
 dı ± `pl` @jiqci #DJ9OXgg9E 2023-07-31T08:20:13.159Z
 ▯ wolno spełnić własność ▯.
 
+dı ± `en` @Dembim #mFjqXJblN 2026-02-04T19:29:53.767Z
+predicate: ‘may’; ▯ (agent) may satisfy ▯.
+Dembim (2026-02-04T19:30:00.599Z): Pronominal_class: ho
+Dembim (2026-02-04T19:30:06.129Z): Frame: c 1i
+Dembim (2026-02-04T19:32:06.029Z): kw: deontic permission
+Dembim (2026-02-04T19:32:14.881Z): see also <taodı>
+Ilmen (2026-02-04T19:42:52.591Z): discriminator: 1
+
 dı -1 `toa` @uakci #Sy1GPMb4L 2019-04-15T06:38:07.000Z
 shoe sa ráı dóshı dógu da
 
@@ -17183,7 +17191,10 @@ duahuı ± `pl` @jiqci #f4QGWsCOh7 2023-07-31T08:20:11.327Z
 duahuıpoq ± `en` @akesi #nvn2WF7r4 2020-04-02T11:11:27.302Z
 ▯ is a fool/idiot/moron/dummy/nimwit/nitwit/blockhead/bonehead/cretin/ninny/simpleton.
 
-duaı +2 `en` @robintown #BqjCzzUst 2021-08-01T05:41:41.400Z
+duaı ± `en` @official #PAC4WWU4zf 2019-05-05T22:25:23.417Z
+predicate: ‘must’; ▯ must satisfy property ▯.
+
+duaı ± `en` @robintown #BqjCzzUst 2021-08-01T05:41:41.400Z
 ▯ must be the case; ▯ must be the case if ▯ is the case.
 robintown (2021-08-01T05:45:11.103Z): This is the more regular form for modals.
 Laqme (2021-10-23T16:46:03.660Z): this expresses an obligation
@@ -17193,15 +17204,22 @@ Ilmen (2025-10-12T19:52:04.339Z): Why not a different word than the official ⟪
 Ilmen (2025-10-12T19:54:08.395Z): Admittedly, the wording of the original definition is ambiguous and can also be interpreted as allowing ⟪the door ⟦duaı⟧/must be opened⟫ which is not about responsability. But I suspect this isn't what the original meaning is about, at least if we take into account the verb's frame.
 Ilmen (2025-10-12T19:55:40.572Z): I guess if this new definition were to be adopted, ⟪duaıgıla⟫ could work as a replacement for the previous meaning, but it's a bit longish…
 Dembim (2025-12-17T19:06:07.379Z): just fyi "A is obligated to bring about X" and "it is obligatory that A bring about X" are often considered interchangeable, at least in most cases. "Meinong-Chisholm reduction" I recall there being problems involving plural agents, but I'm not that familiar.
-
-duaı ± `en` @official #PAC4WWU4zf 2019-05-05T22:25:23.417Z
-predicate: ‘must’; ▯ must satisfy property ▯.
+Dembim (2026-02-04T19:26:57.112Z): Having looked into it a bit, I think the problems with impersonal obligation are rather serious. On the other hand, paraphrasing impersonal obligation in terms of an agent-indexed obligation operator alongside some gnomic/generic device seems likely (though I want to do more reading). So, I think <@official duaı> is the better definition, at least if we reconsider the class as ho rather than ta.
 
 duaı ± `tok` @nano #YgT090Ue7 2023-05-24T05:23:16.013Z
 ▯ o ▯.
 
 duaı ± `pl` @jiqci #5djXkdtAI 2023-07-31T08:20:12.094Z
 ▯ musi spełnić własność ▯.
+
+duaı ± `en` @Dembim #EZwOO1vub 2026-02-04T19:28:40.971Z
+predicate: ‘must’; ▯ (agent) is obligated to satisfy ▯.
+Dembim (2026-02-04T19:29:01.694Z): Pronominal_class: ho
+Dembim (2026-02-04T19:29:07.804Z): Frame: c 1i
+Dembim (2026-02-04T19:31:18.736Z): kw: deontic obligation
+Dembim (2026-02-04T19:31:53.436Z): see also: <taoduaı>
+Ilmen (2026-02-04T19:41:05.667Z): discriminator: 1
+Dembim (2026-02-04T19:41:57.253Z): Note that this differs from official in its pronominal class.
 
 duaı -1 `tok` @el #13JIE0RPV 2022-07-10T04:04:15.027Z
 ▯₂ la ▯₁ li wile
@@ -18074,6 +18092,9 @@ eahu +1 `en` @seaqtaq #R9Wffsbr- 2024-07-25T08:31:13.084Z
 seaqtaq (2024-07-25T08:32:01.060Z): E.g. Touching someone's hair after they get out of the shower because it looks good, with them whimpering because they've been touch starved for a long amount of time
 seaqtaq (2024-07-25T08:35:32.865Z): Keyword: zakaı
 
+eaı -1 `en` @jiqci #KdlbocnHg 2026-02-04T09:43:37.200Z
+▯ is AI (of the today's sort).
+
 eajıaq ± `en` @Ilmen #buZNwhbqM 2022-11-05T19:49:54.682Z
 ▯ is an imaginary world.
 
@@ -18234,6 +18255,9 @@ eı +3 `en` @seaqtaq #bl2I2xuiI 2021-07-21T07:36:17.708Z
 ▯ plays role ▯ (formally assigned functional niche/societal status)
 seaqtaq (2021-07-21T07:37:42.802Z): From ıthkuil v4's "-eı"+' case suffix
 seaqtaq (2021-07-31T18:24:53.873Z): Contains an inherent **he**
+
+eı'aı ± `en` @Dembim #_P5hVYsVo 2026-02-04T13:21:21.851Z
+▯ is a generative AI/large language model (LLM)/diffusion model
 
 eı'eıchı ± `en` @robintown #_QNAIU1Vy 2022-08-01T22:16:17.704Z
 ▯ is the letter Eı.
@@ -20272,12 +20296,13 @@ feze ± `en` @jiqci #1qMy2rWa9 2024-01-19T22:26:10.475Z
 fı +1 `en` @official #RptTq1bZzeR 2023-01-13T19:24:50.697Z
 aspect: ‘NEAR.PRSP’; near prospective (is about to X)
 
-fıa +2 `en` @Laqme #bOqg73SY7 2023-11-03T16:48:23.173Z
-▯ is sequentially before ▯.
-
-fıa ± `en` @official #f0HQ3xv1Yc 2019-05-05T22:25:30.347Z
+fıa +1 `en` @official #f0HQ3xv1Yc 2019-05-05T22:25:30.347Z
 predicate: ‘previous’; ▯ is previous to ▯ in sequence ▯; ▯ precedes ▯ in sequence ▯.
 uakci (2022-02-08T16:09:06.681Z): come before
+
+fıa +1 `en` @Laqme #bOqg73SY7 2023-11-03T16:48:23.173Z
+▯ is sequentially before ▯.
+Dembim (2026-02-04T14:36:48.409Z): perhaps also "less than" for numbers
 
 fıa ± `pl` @jiqci #9BgXgpa3Ke 2023-07-31T08:20:20.603Z
 ▯ poprzedza ▯ w kolejności ▯.
@@ -25181,7 +25206,7 @@ If the proposition ▯ is the case then ▯ is in relation ▯ with that proposi
 gotıko ± `en` @robintown #6Iqx4NmAA 2023-09-18T03:15:19.398Z
 ▯ is goth (pertaining to the goth subculture).
 
-⚠ gou ± `en` @fagri #OP4Z6a8TR 2021-09-06T23:05:35.371Z
+⚠ gou -1 `en` @fagri #OP4Z6a8TR 2021-09-06T23:05:35.371Z
 ▯ happens in exchange for ▯ happening
 fagri (2021-09-06T23:05:40.630Z): Semantically (0 0), both events must be "agentive" in order for this to make sense
 fagri (2022-12-29T05:29:18.098Z): -1, this vowel combination is forbidden now. See #iEfjX2xfV for a replacement
@@ -30187,6 +30212,8 @@ hoekıaq ± `en` @abcdeusername #7kOIk9DuK 2024-01-14T21:50:01.489Z
 hoela +3 `en` @TheAndSys #ktJybt0FK 2023-05-08T17:30:21.208Z
 ▯ makes itself visible, is self-imposing, metaphorically shines
 TheAndSys (2023-05-08T17:32:56.588Z): It has a generally positive connotation. For example, if you're in an art gallery and a particular painting calls out to you much more strongly than any other painting you've seen so far, saying that it hoela's is an accurate expression. Another, less good example, is what a teacher would say about a gifted kid.
+Dembim (2026-02-04T12:12:05.600Z): Frame: c
+Dembim (2026-02-04T12:12:15.297Z): Pronominal_class: ta
 
 hoeleoq ± `en` @Ilmen #AtbrswzUL 2025-12-28T22:45:41.023Z
 ▯ is a parasol.
@@ -33222,6 +33249,7 @@ jama +2 `en` @uakci #9k3FFE4wF 2023-01-01T23:36:37.756Z
 ▯ influences ▯; The answer to indirect question ▯ has influence on the answer to indirect question ▯.
 uakci (2023-01-01T23:39:02.713Z): → **mu jama** ▯ depends on ▯
 uakci (2023-01-02T00:21:12.507Z): has a bearing on, contributes to; [**mu**:] is a function of
+Dembim (2026-02-04T02:59:05.664Z): kw: significant affects
 
 jamadıu ± `en` @jiqci #udclALb_E 2025-08-19T15:20:26.710Z
 ▯ is the theory of relativity.
@@ -34219,7 +34247,7 @@ jemuochua ± `en` @seaqtaq #A5YyKeV5X 2025-05-12T15:27:23.161Z
 jemureaı ± `en` @seaqtaq #0RuKlI_Su 2025-08-01T04:57:43.325Z
 ▯ commits a sin / spiritually damaging act; ▯"opposes Jemu"
 
-jemusaıram +1 `en` @Avaxar #IJqSahbDa 2024-05-18T07:59:38.551Z
+jemusaıram +2 `en` @Avaxar #IJqSahbDa 2024-05-18T07:59:38.551Z
 ▯ is an amazingly good saıram to the point that it might be a forbidden one.
 
 jemusao ± `en` @Laqme #RDwN8Z3MA 2021-10-18T11:50:23.936Z
@@ -38363,7 +38391,7 @@ Event ▯ has ▯ as benefactor.
 juqbuo ± `en` @uakci #BhW_NVe3c 2022-10-26T15:34:11.614Z
 ▯ is accepting of / willing to receive property ▯.
 
-juqca +2 `en` @uakci #ha6zjkRy_ 2022-07-31T08:55:31.604Z
+juqca +1 `en` @uakci #ha6zjkRy_ 2022-07-31T08:55:31.604Z
 ▯ has an effect on / affects ▯; ▯ causes ▯ to receive property ▯; ▯ has ▯ as an effective target / affected party.
 
 juqcaha ± `en` @Ilmen #mTzxV2t8T 2023-01-13T22:25:52.924Z
@@ -47647,6 +47675,7 @@ loeı +1 `en` @lassc #28Guub71j 2025-03-14T05:49:08.319Z
 lassc (2025-03-14T05:51:11.409Z): least confident i've ever been in a word. cf **juqca** partially but i dont think "target" is the connotation here
 lassc (2025-03-15T00:21:54.460Z): «▯ nä za juq ▯ hóa» or something like that
 Dembim (2025-12-28T15:55:08.442Z): I like this quite a bit. I've found it useful for a sense of "concerns" and for things like: (two people considering how things are with some complex system) "it may be relevant that", « ao loei nî ... »
+Dembim (2026-02-04T02:55:58.482Z): kw: significant influence
 
 loekıa +1 `en` @robintown #5ryfGCIar 2021-10-20T18:10:11.393Z
 ▯ is crimson.
@@ -53136,6 +53165,7 @@ Dembim (2026-01-28T14:19:09.516Z): Pronominal_class: ho
 moıge +4 `en` @Laqme #d3W96P-Gc 2019-02-08T12:48:23.000Z
 ▯ is an intellectual stimulus / really makes you think / is food for thought.
 Dembim (2026-02-04T01:03:44.203Z): Pronominal_class: hoq
+Dembim (2026-02-04T18:30:14.103Z): Frame: c
 
 moıge -1 `en` @Ilmen #Kn7wsk0cl 2020-02-17T12:30:49.588Z
 ▯ evokes, in the mind of ▯, thought or mental manifestation ▯.
@@ -57833,6 +57863,13 @@ nılı -1 `en` @Ilmen #SrdB-0nqy 2020-01-23T21:38:32.871Z
 nílı ± `en` @Ilmen #7LD9oSyBd 2024-08-21T20:19:32.465Z
 determiner: pointing demonstrative; this/that X which I am pointing to or looking at.
 
+nıloeı ± `en` @Dembim #kujMb-Gae 2026-02-04T03:07:28.142Z
+▯ is significant
+Dembim (2026-02-04T03:07:53.612Z): Frame: 0
+Dembim (2026-02-04T03:08:18.858Z): Pronominal_class: ta
+Dembim (2026-02-04T03:10:00.103Z): (0) just for convenience- I imagine this word makes sense with either a content clause or a concrete as its argument
+Dembim (2026-02-04T03:22:40.076Z): see <loeı>
+
 nım +2 `en` @nano #XBtCeZ42J 2023-12-09T13:07:14.061Z
 ▯ is a division in an organized system/construct.
 nano (2023-12-09T13:07:22.991Z): class, stratum, strata
@@ -59636,6 +59673,13 @@ nuaqnaı ± `en` @fagri #bluj49IZB 2019-02-27T00:13:03.000Z
 It's night time.
 fagri (2019-02-27T00:13:09.000Z): (0-ary predicate)
 
+nuaqsaı +1 `en` @Dembim #ISq30dcwB 2026-02-04T13:27:37.910Z
+▯ is contraband/illicit/banned/outlawed
+Dembim (2026-02-04T13:29:08.462Z): Anything possession/creation/transport of which is against the rules, whether they be government imposed or otherwise.
+Dembim (2026-02-04T13:29:15.128Z): Frame: c
+Dembim (2026-02-04T13:30:08.972Z): Pronominal_class: ta
+Dembim (2026-02-04T13:32:54.111Z): kw: smuggle proscribed bootleg unlicensed illegal
+
 nuaqshıe ± `en` @robintown #k0aAk9BhO 2023-10-08T13:03:24.880Z
 ▯ is nocturnal.
 
@@ -61061,6 +61105,7 @@ el (2022-03-17T16:54:35.032Z): imaginary etymology: nho + jeo
 el (2022-03-17T17:03:14.566Z): votes battle with #4HtcKO5vc
 el (2022-07-05T17:36:02.211Z): this one's won out
 ijonetun (2025-10-12T18:12:04.527Z): girl, we been nheo (nheo ≈ knew)
+Dembim (2026-02-04T12:11:19.577Z): kw: illocution
 
 nhêo +1 `en` @uakci #d1z7Bky6h 2022-07-30T12:46:53.380Z
 presuppositional explanatory illocution; akin to “after all, as we know, …”
@@ -66558,6 +66603,10 @@ raku +2 `en` @Hoemai #xmgB2ZTZH 2022-11-10T14:32:24.864Z
 Hoemai (2022-11-10T14:32:31.379Z): Refers to a syllable-like chunk specific to Toaq which contains at most one initial: CV, CF, CVV, CVF, CVVQ
 Hoemai (2022-11-10T14:32:45.584Z): suggested by Lına
 
+rakuzıu ± `en` @Dembim #XHHw15ilt 2026-02-04T13:54:32.611Z
+there are ▯ (number) <raku> in the word/phrase ▯
+Dembim (2026-02-04T14:18:33.422Z): how many
+
 ram- +2 `en` @Laqme #CNk5sopzb 2022-12-22T20:51:07.499Z
 prefix: frequentative form of verb
 Laqme (2023-11-22T22:31:54.877Z): "ram-X" is like a spatiotemporal burst of small X-ings viewed as a single event: "X repeatedly" or "X around" or "X here and there".
@@ -71132,9 +71181,11 @@ saonıq ± `en` @Laqme #V315OaHhd 2024-09-02T01:44:10.871Z
 saonıqguo ± `en` @Laqme #m5F2sfF8R 2021-10-28T01:32:12.899Z
 ▯ happens again for the first time in a long while.
 
-saono ± `en` @uakci #NxqvCWh5O 2023-11-29T21:29:50.877Z
+saono +1 `en` @uakci #NxqvCWh5O 2023-11-29T21:29:50.877Z
 ▯ is in size / at scale ▯.
 uakci (2023-11-29T21:30:16.929Z): ‘at 1:1 scale’, ‘in XL size’
+Dembim (2026-02-04T14:00:34.899Z): Frame: c c
+Dembim (2026-02-04T14:01:29.606Z): Pronominal_class: ta
 
 saonuıkaı ± `en` @seaqtaq #jExpIs4q- 2018-12-31T20:39:09.000Z
 (fork of #O3j3bmAUE) ▯ WriTEs ▯ LIkE tHiS
@@ -72899,11 +72950,12 @@ sıe +1 `en` @official #h-XSa-oCsE 2019-05-05T22:27:27.955Z
 predicate: ‘follow’; ▯ is following to ▯ in sequence ▯.
 uakci (2022-02-08T16:09:14.093Z): come after
 
-sıe +1 `en` @Laqme #-cBjMWU2A 2023-11-03T16:48:34.527Z
-▯ is sequentially after ▯.
-
 sıe ± `pl` @jiqci #AuBl7BQ8u 2023-07-31T08:22:18.088Z
 ▯ następuje po ▯ w kolejności ▯.
+
+sıe ± `en` @Laqme #-cBjMWU2A 2023-11-03T16:48:34.527Z
+▯ is sequentially after ▯.
+Dembim (2026-02-04T14:35:52.709Z): perhaps also "greater than" when talking about numbers?
 
 sıebaq +2 `en` @uakci #Ub-RUlhlA 2018-11-29T20:33:59.000Z
 ▯ is a list; ▯ is a sequential collection of things that satisfy the property ▯.
@@ -78274,7 +78326,7 @@ Machy (2021-09-13T18:01:02.466Z): Do narwhals count?
 shıtuqsıe ± `en` @uakci #QaxnULBHL 2019-02-27T23:02:05.000Z
 ▯ is last-but-one, penultimate, second-to-last element of sequence ▯.
 
-shıu ± `en` @official #MPl4QT_fNx 2019-05-05T22:27:37.248Z
+shıu +1 `en` @official #MPl4QT_fNx 2019-05-05T22:27:37.248Z
 predicate: ‘before’; ▯ is before / in the past of ▯.
 el (2022-06-30T08:05:44.758Z): opposite of **bıe**
 
@@ -80085,7 +80137,6 @@ taodı ± `en` @Dembim #66eRI8CSL 2026-01-06T18:29:45.455Z
 ▯ may ▯
 Dembim (2026-01-06T18:29:55.545Z): personal deontic permission
 Dembim (2026-01-06T18:30:04.375Z): Frame: c 1i
-Dembim (2026-01-06T18:30:43.533Z): synonym of <@official dı>
 Dembim (2026-01-28T14:26:25.242Z): Pronominal_class: ho
 
 taodıe ± `en` @official #5EtVUnfPgk 2019-05-05T22:27:40.979Z
@@ -80108,7 +80159,6 @@ taoduaı ± `en` @Dembim #3xw6zFyKx 2026-01-06T18:27:56.011Z
 ▯ ought to ▯
 Dembim (2026-01-06T18:28:17.241Z): personal deontic obligation
 Dembim (2026-01-06T18:28:33.357Z): Frame: c 1i
-Dembim (2026-01-06T18:28:45.508Z): Synonym of <@official duaı>
 Dembim (2026-01-28T14:26:18.595Z): Pronominal_class: ho
 
 taodutao ± `en` @uakci #G42uwy4h3 2022-02-20T10:36:56.444Z
