@@ -14954,6 +14954,10 @@ de ± `es` @TheAndSys #3te5N_r1F 2025-03-26T05:17:26.651Z
 de ± `jbo` @Laqme #jDtZYGlK2 2025-04-03T21:32:33.828Z
 ▯ melbi
 
+de ± `en` @Ilmen #FsPsaMYWx 2026-02-05T13:34:06.838Z
+predicate: ‘beautiful’; ▯ is beautiful for the contextual evaluator (*jîe*).
+Ilmen (2026-02-05T13:34:15.193Z): discriminator: 1
+
 dea ± `en` @official #peyouO8gu2 2019-05-05T22:25:27.346Z
 predicate: ‘hit’; ▯ hits/punches/kicks ▯.
 
@@ -34613,9 +34617,12 @@ jeqchoqshejuao ± `en` @uakci #GZySIgyMW 2020-03-01T19:08:35.500Z
 jeqchuaq ± `en` @fagri #I2zIZtpjv 2021-07-29T04:06:41.413Z
 ▯ is egalitarianism
 
-jeqda +3 `en` @Hoemai #T-L6ekDhT 2020-02-25T10:43:12.204Z
+jeqda +2 `en` @Hoemai #T-L6ekDhT 2020-02-25T10:43:12.204Z
 ▯ is a gender (social/cultural sense).
 fagri (2020-02-25T10:47:04.492Z): Votes-battle with #jeqdȳ
+
+jeqda'eı ± `en` @Ilmen #1tsjWAndE 2026-02-05T12:18:08.897Z
+▯ has, performs social gender role ▯.
 
 jeqda'ıaq ± `en` @uakci #dEmxyX2hL 2023-04-04T20:21:50.737Z
 ▯ is ungendered.
@@ -35417,6 +35424,7 @@ prefix: X understood subjectively / as judged by a personal standard / from a pe
 
 jıe +2 `en` @robintown #YbopIs6U- 2023-10-27T22:18:45.127Z
 ▯ deems/judges/finds ▯ to be the case.
+Ilmen (2026-02-05T13:45:48.987Z): How does this differs semantically from <mıu>?
 
 jıe ± `en` @official #F1GlTqD-eg 2019-05-05T22:26:03.943Z
 predicate: ‘deemed’; ▯ is as ▯ deems/judges/evaluates things to be.
@@ -39805,6 +39813,18 @@ kaqjeoq ± `en` @Iako #Kb2ulgmgW 2025-05-06T23:52:42.961Z
 kaqjeq ± `en` @Laqme #5SGSgTBAf 2024-12-09T20:59:51.470Z
 ▯ and ▯ look exactly the same.
 
+kaqjeqda'eı ± `en` @Ilmen #NBhwvFkf5 2026-02-05T13:26:40.276Z
+▯ presents as social gender ▯ in the culture of the contextual evaluator (*jîe*).
+
+kaqjeqda'eı ± `en` @Ilmen #7UCPyBvmN 2026-02-05T13:26:51.117Z
+▯ presents as social gender ▯ in culture [ôı].
+
+kaqjeqdapaq ± `en` @Ilmen #Xq8U-3xKD 2026-02-05T13:27:40.124Z
+Property ▯ is part of social gender presentation ▯ in the culture of the contextual evaluator (*jîe*).
+
+kaqjeqdapaq ± `en` @Ilmen #Oq2WgNSGM 2026-02-05T13:27:48.238Z
+Property ▯ is part of social gender presentation ▯ in culture [ôı].
+
 kaqjı +1 `en` @Hoemai #_-5MF3AGF 2020-02-08T17:15:52.500Z
 ▯ is a kanji.
 Hoemai (2020-02-08T17:16:05.395Z): A chinese character as used in the Japanese language.
@@ -40971,6 +40991,7 @@ Ilmen (2019-04-19T17:13:34.000Z): From Ancient Greek κέδρος/kédros.
 
 kerojeqdabo ± `en` @Ilmen #vyCUakfew 2025-02-14T21:03:14.918Z
 ▯ has ‘brain gender’ ▯.
+Ilmen (2026-02-05T13:51:10.053Z): This word is based on the theory of biological brain gender, contrasting with the theory of purely social gender roles. It would manifest physically in the structure of the brain, such as cortical thickness, the size of the INAH-3, and/or the size ratio between the left and right lobes of the brain, among other things.
 
 kerozeo ± `en` @Laqme #3oQ5Cy6L6 2025-02-10T20:08:50.828Z
 ▯ is a citrus fruit.
@@ -44805,7 +44826,7 @@ number: 3.402823669×10³⁸
 laıbo ± `en` @fagri #zJcVQUDIH 2021-07-21T07:08:36.080Z
 ▯ has symbol or text ▯ written/inscribed on it
 
-laıboe +2 `en` @Ilmen #TioK6fQa8 2019-01-11T18:51:13.000Z
+laıboe +3 `en` @Ilmen #TioK6fQa8 2019-01-11T18:51:13.000Z
 ▯ is a flag.
 
 laıboe ± `tr` @kazoo #IiH7BrWR0 2024-11-24T12:08:05.444Z
@@ -74030,6 +74051,12 @@ soaofuı ± `en` @Laqme #azUTRTHE7 2024-06-08T18:47:17.263Z
 soaogoeq +1 `en` @Laqme #VIIOpevSx 2024-04-26T15:46:40.094Z
 ▯ is an interpersonal boundary.
 
+soaojeqda'eı ± `en` @Ilmen #_TdNKTGNO 2026-02-05T12:19:50.091Z
+▯ behaves as, complies to social gender role ▯ in the culture of the contextual evaluator (*jîe*).
+
+soaojeqda'eı ± `en` @Ilmen #XLDkNIdMH 2026-02-05T13:26:17.155Z
+▯ behaves as, complies to social gender role ▯ in culture [ôı].
+
 soaojıaq ± `en` @Laqme #rMAJkpmmP 2023-12-08T16:59:18.955Z
 ▯ is (a) society.
 
@@ -75281,6 +75308,12 @@ suaogao ± `en` @bwlgar #3YgNzlIaw 2024-12-13T23:10:02.663Z
 
 suaojaqchıtaq ± `en` @Ilmen #FuYAeCww_ 2018-09-21T21:29:59.000Z
 ▯ is megalomaniac.
+
+suaojeqdapaq ± `en` @Ilmen #LcIm54xUu 2026-02-05T13:27:14.757Z
+Property ▯ is part of social gender role ▯ in the culture of the contextual evaluator (*jîe*).
+
+suaojeqdapaq ± `en` @Ilmen #q_emzVFOS 2026-02-05T13:27:25.705Z
+Property ▯ is part of social gender role ▯ in culture [ôı].
 
 suaojıe -1 `en` @official #OfOWue-jFs 2019-05-05T22:27:25.431Z
 predicate: ‘care’; ▯ cares about ▯; ▯ considers ▯ important.
