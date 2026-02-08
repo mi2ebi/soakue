@@ -387,6 +387,11 @@ aıka +2 `en` @Laqme #0M_k8mlsG 2022-05-24T01:19:49.072Z
 interjection: ‘well then, / alright, / moving on… / here we go…’
 Laqme (2022-05-24T01:21:15.172Z): Like **aıba** minus **ba** plus **ka**. and also sounds great **ĩmo** :)
 
+áıka ± `en` @Dembim #neTL8iBmi 2026-02-08T01:46:50.260Z
+interjection: ready? shall I move on? time to continue?
+Dembim (2026-02-08T01:49:10.573Z): Moving on and continuing can be saying or doing the next logical thing, taking the next step, etc.
+Dembim (2026-02-08T01:49:45.098Z): The important thing is that it's a transition out of the previous state.
+
 aıko +1 `en` @Hoemai #dmyMFeQON 2023-03-06T12:52:46.897Z
 ▯ is alcohol.
 
@@ -646,7 +651,7 @@ Dembim (2026-02-04T01:58:53.388Z): This and <dom> form my favorite pair of Toaq 
 akımıja ± `en` @seaqtaq #M_keLoGnp 2024-11-18T22:34:07.770Z
 ▯ activates/enables/turns on ▯
 
-akımısho ± `en` @seaqtaq #GtqDo8Wzg 2024-11-18T22:34:31.369Z
+akımısho +1 `en` @seaqtaq #GtqDo8Wzg 2024-11-18T22:34:31.369Z
 ▯ turns on/activates
 
 akırakıa +1 `en` @robintown #cWSWQd-RD 2022-07-02T18:06:27.092Z
@@ -1059,6 +1064,8 @@ aoba ± `en` @Laqme #RJ6I9T6lx 2024-11-10T16:46:32.981Z
 aobı +6 `en` @salarua #5iNMrALKf 2022-10-11T21:05:03.175Z
 ▯ is imaginary/made-up/fictional
 uakci (2022-10-11T21:07:30.957Z): cutest compound i've seen in a while
+Dembim (2026-02-08T01:57:58.877Z): Frame: c
+Dembim (2026-02-08T01:58:05.210Z): Pronominal_class: ta
 
 aobıchu +1 `en` @robintown #zlNyw91mJ 2023-12-04T17:34:26.100Z
 ▯ is one's imagination.
@@ -11657,7 +11664,7 @@ chıokaodoakıusıdı ± `en` @salarua #S9TrmTXR7 2022-09-15T06:38:14.238Z
 chıokopı ± `en` @seaqtaq #CMawYQJ36 2024-07-27T18:49:16.547Z
 ▯ is a version/iteration of entity ▯
 
-chıom ± `en` @salarua #q5e5EM2Vz 2023-11-21T17:39:35.074Z
+chıom +1 `en` @salarua #q5e5EM2Vz 2023-11-21T17:39:35.074Z
 predicate: ‘spicy’; ▯ is spicy
 
 chıomoe ± `en` @el #Iy0XtALlt 2022-11-21T18:56:57.581Z
@@ -16912,7 +16919,7 @@ uakci (2018-10-07T14:11:39.000Z): See #do, #mei.
 domja +1 `en` @jiqci #ZD40dQ_H1 2024-02-06T21:42:04.526Z
 ▯ deactivates / disables / shuts down / turns off ▯.
 
-domsho ± `en` @seaqtaq #nYY1tLwFi 2024-11-18T22:34:16.378Z
+domsho +1 `en` @seaqtaq #nYY1tLwFi 2024-11-18T22:34:16.378Z
 ▯ turns off
 
 domu +1 `en` @Laqme #xjAqr_3nf 2021-10-24T17:28:15.413Z
@@ -18506,7 +18513,7 @@ eloabaıche ± `en` @jiqci #Pi_8KuK5A 2024-07-06T20:43:36.810Z
 eloadaqme ± `en` @Ilmen #fu3YPeBRl 2025-04-08T18:58:08.844Z
 ▯ is a golden age.
 
-eloam ± `en` @seaqtaq #rnW6VQJY5 2025-01-15T20:45:09.131Z
+eloam +1 `en` @seaqtaq #rnW6VQJY5 2025-01-15T20:45:09.131Z
 ▯ feels a deep sense of joy, pride, wonder, and optimism in witnessing and/or having had the opportunity to take part in the long term collective progression towards some goal or state
 seaqtaq (2025-01-15T20:47:49.867Z): Kw: zakaı. Etymology inspired by "eloa"-"gold". This word is a result on my reflecting on the current state of toaq as of 2025 Jan 15 as compared with the state of the language when Toaq Gold was the ultimate goal of the language
 
@@ -21055,6 +21062,8 @@ fu +5 `en` @Laqme #Pam8cBXNm 2022-03-03T01:49:30.257Z
 lassc (2025-03-25T16:29:12.569Z): +1, i think it is important to make the biological forms of these words the marked forms as opposed to vice versa
 ijonetun (2025-03-25T16:32:04.754Z): +1 ^
 evie (2025-03-25T16:39:07.339Z): mıja :3
+Dembim (2026-02-08T01:58:26.455Z): Frame: c c
+Dembim (2026-02-08T01:58:40.323Z): Pronominal_class: ho
 
 fu -1 `en` @official #30_daspdrp 2019-05-05T22:25:28.859Z
 predicate: ‘offspring’; ▯ is a biological offspring of ▯.
@@ -23718,12 +23727,31 @@ gıemshıe ± `en` @Laqme #oXXP6-bpE 2025-02-04T13:07:43.335Z
 
 gıeq ± `en` @official #AGzEjORT_F 2019-05-05T22:25:41.268Z
 predicate: ‘shock’; ▯ shocks ▯.
+Dembim (2026-02-07T21:53:39.782Z): electrically, or just in the general sense of "has a sudden and pronounced effect"?
+Dembim (2026-02-07T21:56:02.504Z): I guess the latter, judging by compounds
+Dembim (2026-02-07T22:11:51.445Z): see <@Dembim gıeq>
 
 gıeq ± `pl` @jiqci #BfBcMd1OFe 2023-07-31T08:20:31.812Z
 ▯ szokuje ▯.
 
+gıeq ± `en` @Dembim #gWi-1tGhH 2026-02-07T22:11:23.504Z
+predicate: ‘shocked’; ▯ is/feels shocked.
+Dembim (2026-02-07T22:12:03.517Z): Pronominal_class: ho
+Dembim (2026-02-07T22:12:07.053Z): Frame: c
+Dembim (2026-02-07T22:38:24.064Z): see also <gıeqshoem>, which is necessarily more intense and/or prolonged
+Ilmen (2026-02-07T22:40:58.103Z): discriminator: 2
+
+gıeqca ± `en` @Ilmen #tor4oNntH 2026-02-07T22:41:31.536Z
+predicate: ‘shock’; ▯ shocks ▯ emotionally.
+
 gıeqge +2 `en` @Laqme #0iKMDTYf9 2023-11-20T02:45:11.813Z
 ▯ is shocking.
+
+gıeqkoa ± `en` @Dembim #dkZ59OnIP 2026-02-07T22:06:52.609Z
+▯ is a draft/ chill/ cold wind/current or frigid region of fluid
+Dembim (2026-02-07T22:20:32.004Z): Frame: c
+Dembim (2026-02-07T22:20:56.575Z): Pronominal_class: maq
+Dembim (2026-02-07T22:21:32.500Z): There's a bit of an experiential focus here. It's not just a cold wind or low-temperature zone— such are potential gıeqkoa, and they might fulfill their potential by tugging that last shiver-forestalling filament of warmth from some poor passer-through.
 
 gıeqlıe ± `en` @Machy #1sbVdsl0s 2020-05-25T21:37:35.295Z
 ▯ experiences acerbic qualia ▯. (sharp, bitter, sour)
@@ -23973,6 +24001,13 @@ predicate: ‘photograph’; ▯ is a photograph.
 gıogeo ± `en` @zeukueqche #8Tc2mjOGN 2020-06-12T19:32:29.440Z
 ▯ is the CMB (cosmic background radiation)
 
+gıogo ± `en` @Dembim #VHaKNiRo1 2026-02-08T00:05:33.773Z
+▯ is a lamp/torch/flashlight/candle/bulb/light making device
+Dembim (2026-02-08T00:07:21.056Z): Frame: c
+Dembim (2026-02-08T00:07:27.451Z): Pronominal_class: maq
+Dembim (2026-02-08T00:08:16.597Z): See also <gıopıso>, as much because it's adorable as because it's related.
+Dembim (2026-02-08T00:11:27.804Z): Etymology: <gıo> + <- go>
+
 gıogoaq ± `en` @Ilmen #5XTgA3Rb2 2019-05-28T08:02:31.878Z
 ▯ is sufficiently smooth as to shine.
 
@@ -23999,6 +24034,7 @@ gıojıo ± `en` @Ilmen #YcFqRGqpb 2019-12-08T13:01:21.921Z
 gıokea ± `en` @official #5CVfqgwGXp 2019-05-05T22:25:40.383Z
 predicate: ‘lamp’; ▯ is a lamp.
 fagri (2021-08-13T05:24:27.839Z): Should this word be expanded to included flashlights and such?
+Dembim (2026-02-08T00:14:57.821Z): I think this word already includes them, as the word "lamp" does.
 
 gıokea ± `pl` @jiqci #7f9FM44_sU 2023-07-31T08:20:30.949Z
 ▯ to lampa.
@@ -24048,7 +24084,7 @@ gıonhoqkaqgaızıadoroq ± `en` @Ilmen #OPCzF9Igq 2025-03-19T20:45:47.023Z
 gıonhoqshuaobue ± `en` @Ilmen #OE6880IkU 2025-06-17T18:45:24.776Z
 ▯ is a bird nest made of fiber optics cable.
 
-gıopıso ± `en` @robintown #ZKoA7KY7H 2025-05-01T22:25:54.326Z
+gıopıso +1 `en` @robintown #ZKoA7KY7H 2025-05-01T22:25:54.326Z
 ▯ is a light bulb.
 
 gıopoa ± `en` @Ilmen #rmB3pWen4 2020-03-10T21:54:08.671Z
@@ -25076,6 +25112,10 @@ gomeheq +1 `en` @Laqme #eNjxyiqx_ 2025-05-09T21:48:15.279Z
 gometeı ± `en` @Laqme #R2f1SK8WV 2022-08-14T15:23:05.606Z
 ▯ is the accusative case.
 
+gomı ± `en` @Dembim #GmH9jtg3P 2026-02-08T01:39:55.497Z
+interjection: lingering; more of this; like <aıka> signals that the speaker is moving on, <gomı> signals that they mean to stay on this point/activity a bit longer
+Dembim (2026-02-08T01:40:42.951Z): Etymology: imagined squishification of <gúom> <ní>
+
 gomjom +2 `en` @Laqme #hZtiLf6sj 2023-12-17T00:48:32.430Z
 ▯ is a gomjom (microscopic spirit that haunts people and makes them clumsy).
 Laqme (2023-12-17T00:50:56.397Z): "faltergeist"
@@ -25105,7 +25145,7 @@ gomtao ± `en` @Ilmen #rl0jhPmec 2025-10-22T18:54:51.780Z
 gomtea +1 `en` @ijonetun #xCY-MZIDq 2025-03-18T13:53:21.515Z
 ▯ is the fear/dislike of making mistakes.
 
-gomtoa ± `en` @lassc #9wIc0kfaA 2025-03-24T18:20:32.955Z
+gomtoa +1 `en` @lassc #9wIc0kfaA 2025-03-24T18:20:32.955Z
 ▯ is a Toaq word originating from a mistake/confusion between two similar roots.
 lassc (2025-03-24T18:23:51.884Z): cf. **nuotoa**,**zakaı**; this deserves a wordform because of how easy this is to do for Toaq in particular relative to other languages when learning vocabulary
 lassc (2025-03-24T18:25:02.357Z): also, this is a great creativity exercise for potential word-coiners: try it out!
@@ -32309,6 +32349,7 @@ illocution: they say that..., it is said that..., common wisdom
 
 ıome +1 `en` @Laqme #xULXCLspu 2023-12-16T13:42:15.849Z
 ▯ is a candle.
+Dembim (2026-02-08T00:00:14.201Z): Can I use this for a hurricane lantern/ any portable/handheld flame?
 
 ıoq ± `en` @Ilmen #YLezgXxHl 2024-10-30T14:02:47.560Z
 number component: infinitely repeating sequence of digits.
@@ -42077,6 +42118,8 @@ kırı +5 `en` @el #9J8mxCclM 2022-07-08T05:37:46.356Z
 el (2022-07-08T05:38:01.279Z): monomorphemic root because i don't feel like the concept decomposes very well
 el (2022-07-08T05:38:09.998Z): came up w this w ramasu
 el (2022-07-08T05:38:24.239Z): * ramasu came up with it mostly
+Dembim (2026-02-08T01:58:50.702Z): Frame: c
+Dembim (2026-02-08T01:58:58.544Z): Pronominal_class: ta
 
 kırı ± `ja` @el #PWnYPb0NU 2022-07-10T21:11:58.728Z
 ▯は可愛い
@@ -42290,6 +42333,9 @@ koacao ± `pl` @jiqci #4Z9d9zm6b1 2023-07-31T08:21:03.827Z
 
 koacuaı ± `en` @Machy #GpYVryX_B 2022-01-30T18:52:28.262Z
 ▯ is dank (cold, wet, and dark).
+
+koadu ± `en` @Ilmen #OVmWRRcYj 2026-02-07T22:43:45.051Z
+▯ has low apparent temperature.
 
 koafurı +1 `en` @robintown #hNXISwXp1 2022-01-02T21:57:10.370Z
 ▯ shivers.
@@ -44269,10 +44315,6 @@ kuomoı ± `en` @Laqme #napyJYaDN 2025-04-09T10:55:07.330Z
 
 Kuonaomı ± `en` @kazoo #6zaDkCf8g 2025-05-02T20:05:28.491Z
 ▯ is the Black Sea.
-
-kuone -1 `en` @Ilmen #3Op4jEwBD 2020-03-07T18:58:00.520Z
-▯ is a member of the genus Canis (the wolves, coyotes, jackals, dingoes, and dogs).
-Ilmen (2020-03-07T19:00:01.846Z): Etymology: Proto-Indo-European *ḱwṓ, PL *ḱwónes, whence the Latin "canis" and the Ancient Greek "κύων" (kýon).
 
 kuopıpa ± `en` @Laqme #icASyF6U_ 2024-09-19T19:23:11.095Z
 ▯ is black pepper.
@@ -46822,8 +46864,14 @@ lıekao ± `en` @robintown #UaJrWlQMA 2022-08-07T17:45:06.222Z
 lıekao ± `es` @salarua #aPSWi8L3f 2022-12-23T19:19:23.459Z
 predicato: ‘diario’; ▯ es un diario
 
+lıekoa ± `en` @Ilmen #y8wlgkRTB 2026-02-07T22:43:30.656Z
+▯ has low apparent temperature.
+
 lıekuaı ± `en` @uakci #qzuclfTfp 2021-09-03T18:56:03.695Z
 ▯ craves adventure.
+
+lıeloq ± `en` @Ilmen #1Y3TB-yR3 2026-02-07T22:44:17.228Z
+▯ has great apparent temperature, appears warm.
 
 lıelua ± `en` @robintown #yTmooDCvi 2023-11-06T03:36:35.582Z
 ▯ is a personal anecdote / story from personal experience.
@@ -48198,6 +48246,9 @@ loqdıu ± `en` @jiqci #J2J4GZ6UC 2023-04-24T09:24:43.436Z
 loqdoka ± `en` @salarua #mn1Oryr7h 2023-08-16T05:07:56.167Z
 predicate: ‘heatstroke’; ▯ suffers heatstroke
 
+loqdu ± `en` @Ilmen #pBLC9XKjO 2026-02-07T22:44:25.716Z
+▯ has great apparent temperature, appears warm.
+
 loqduı ± `en` @Machy #pf_OvQFtN 2021-10-10T07:05:07.646Z
 ▯ burns (is damaged from too much heat).
 Machy (2021-10-10T07:05:32.340Z): It isn't necessarily on fire or charred.
@@ -48247,7 +48298,7 @@ uakci (2022-07-31T20:58:29.861Z): radiator
 loqkea ± `pl` @jiqci #4_TK-6z8DE 2023-07-31T08:21:13.864Z
 ▯ to grzejnik/kaloryfer.
 
-loqkoa +1 `en` @uakci #RCis0eXsr 2022-07-31T19:09:19.560Z
+loqkoa +2 `en` @uakci #RCis0eXsr 2022-07-31T19:09:19.560Z
 ▯ is lukewarm.
 
 loqkune ± `en` @uakci #JvCNADRQM 2023-01-08T23:34:24.059Z
@@ -52020,6 +52071,9 @@ mıesoa ± `en` @Laqme #1JVkhjzZR 2024-04-27T00:51:48.784Z
 mıesoeı ± `en` @jiqci #rVlsl5AO9 2024-02-05T17:24:04.605Z
 ▯ is "living impaired" (aka dead).
 
+mıesoıseao ± `en` @Laqme #2faZQJk20 2026-02-07T09:41:55.002Z
+▯ is an antibiotic (medicine).
+
 mıeshea ± `en` @Ilmen #FOtj83wxH 2023-02-24T20:00:42.174Z
 ▯ is devoid of (traces of) life.
 robintown (2023-02-24T20:00:55.160Z): lifeless
@@ -52354,6 +52408,7 @@ mıqlaı ± `en` @Laqme #I4UC_f-bL 2023-11-07T22:31:06.836Z
 
 mıqlao ± `en` @Laqme #JCp-mVWA3 2022-07-03T00:53:12.514Z
 ▯ waits for ▯ to be the case, which it never will be.
+Dembim (2026-02-07T23:40:33.795Z): kw: forever
 
 mıqlaojıaq ± `en` @jiqci #cN_TGbMir 2024-05-08T21:19:42.635Z
 ▯ is an eternal winter.
@@ -64191,7 +64246,7 @@ pısachıo ± `en` @Laqme #CDjvzHT-2 2025-09-13T18:44:08.135Z
 pısaı ± `en` @jiqci #x8tZ69_Ew 2023-01-05T12:04:18.349Z
 ▯ is urea.
 
-pısı +1 `en` @Ilmen #JCsNN3AJW 2019-11-10T21:32:38.998Z
+pısı +2 `en` @Ilmen #JCsNN3AJW 2019-11-10T21:32:38.998Z
 ▯ is a personal computer.
 
 pıso ± `en` @official #qU77fNVI_7 2019-05-05T22:27:04.698Z
@@ -73928,7 +73983,7 @@ sıumuo ± `jbo` @seaqtaq #gLcyPErkQ 2019-07-15T18:20:18.890Z
 sıuq +1 `en` @TheAndSys #qBDLZVZcT 2023-03-13T05:20:38.746Z
 interjection: 'like'; Delayed filler
 
-so- +2 `en` @kazoo #GqUpLXLcn 2025-04-30T20:31:18.704Z
+so- ± `en` @kazoo #GqUpLXLcn 2025-04-30T20:31:18.704Z
 prefix: chord notation
 kazoo (2025-05-01T07:45:06.966Z): check out https://toaq.me/User:Neuekatze/Chords for the notation itself
 
@@ -76631,7 +76686,7 @@ shaoge ± `en` @uakci #6SCp1y0ra 2021-10-09T17:46:50.583Z
 ▯ is a motivation/incentive for ▯ to make ▯ be the case.
 
 shaoge ± `en` @evie #MZGsL1NEJ 2024-11-11T03:16:56.533Z
-▯ is a motivation/incentive for ▯ to satisfy property ▯
+▯ is a motivation/incentive for ▯ to be the case
 
 shaogı ± `en` @official #fwNNl4uI8d 2019-05-05T22:27:33.115Z
 predicate: ‘good’; ▯ is good/virtuous.
@@ -79528,6 +79583,12 @@ shuıla ± `toa` @Dembim #jI6pmo4Jk 2026-01-27T20:19:14.502Z
 tao tıshuı ▯
 Dembim (2026-01-28T03:01:50.414Z): Frame: c
 Dembim (2026-01-28T03:01:56.184Z): Pronominal_class: ho
+
+shuılao ± `en` @Dembim #pfWtFxnTr 2026-02-07T22:56:51.625Z
+▯ lurks/ lies in wait
+Dembim (2026-02-07T22:57:43.014Z): kw: hides, skulks, sneaks
+Dembim (2026-02-07T22:57:49.176Z): Frame: c
+Dembim (2026-02-07T22:58:00.725Z): Pronominal_class: ho
 
 shuıleı ± `en` @uakci #RNTJyi6AG 2023-10-17T10:22:43.641Z
 ▯ is open/upfront/forward-going/honest / “has no filter”.
@@ -85139,7 +85200,7 @@ uakci (2021-10-18T17:34:11.581Z): each member of x₂ is associated with a separ
 tukue ± `en` @Laqme #fNaarJtBY 2021-08-05T14:59:32.407Z
 ▯ is an encyclopedia.
 
-tulaıkune +1 `en` @evie #eb7bJHqN9 2025-12-29T03:10:41.693Z
+tulaıkuna ± `en` @evie #9B_vqmHB3 2026-02-08T01:02:51.423Z
 ▯ is a pangram
 
 tulı ± `en` @Ilmen #6bPf10tIS 2024-10-23T20:25:09.967Z
@@ -87173,7 +87234,7 @@ turns a positive number N into "negative N"
 ze +3 `en` @uakci #ZIS_sfbDA 2022-12-09T23:47:49.404Z
 ▯ is a liquid; ▯ is liquid.
 
-ze +1 `en` @robintown #tJSiqzAau 2023-11-03T18:18:07.123Z
+ze ± `en` @robintown #tJSiqzAau 2023-11-03T18:18:07.123Z
 interjection: nope
 robintown (2023-11-03T18:18:26.792Z): Casual/informal version of **zi**
 
@@ -87315,9 +87376,6 @@ predicate: ‘fruit’; ▯ is a fruit.
 zeo ± `ja` @uakci #hfZzeDVgq 2021-10-29T14:30:14.560Z
 ▯は果物
 
-zeo ± `en` @Laqme #pE4N-Vu6s 2022-05-18T18:40:17.977Z
-▯ is a fruit of ▯.
-
 zeo ± `tok` @el #y8ZOVcq5c 2022-07-10T01:56:49.248Z
 ▯ li kili
 
@@ -87329,6 +87387,9 @@ zeo ± `ru` @SuperSpaceNiM #0MOFHxAwQ 2024-08-11T22:29:33.245Z
 
 zeo ± `tr` @kazoo #MCkOR45d_ 2024-11-24T09:10:14.447Z
 ▯ meyvedir.
+
+zeo -1 `en` @Laqme #pE4N-Vu6s 2022-05-18T18:40:17.977Z
+▯ is a fruit of ▯.
 
 zeocoeze ± `en` @Laqme #MERxCQDxt 2025-01-26T09:41:33.063Z
 ▯ is pectin.
@@ -87948,8 +88009,21 @@ zoaıcuaq ± `en` @Machy #6enkVyj8x 2021-09-13T06:55:32.770Z
 ▯ is a philosophical razor (like Occam's razor or Hitchen's razor).
 jiqci (2024-01-03T11:14:28.108Z): or Newton's flaming laser sword!
 
+zoaıchı ± `en` @Dembim #6pK5omA-F 2026-02-08T00:23:19.226Z
+▯ has a warped/false sense of reality, is afflicted by deep and pervading uncertainty, doubting their own perception, memory, belief, and/or identity
+Dembim (2026-02-08T00:23:48.754Z): Etymology: backformed from <zoaıchıja>
+Dembim (2026-02-08T00:25:17.261Z): Frame: c
+Dembim (2026-02-08T00:25:26.317Z): Pronominal_class: ho
+
 zoaıchıja ± `en` @jiqci #yRn8qNyFK 2024-08-17T17:14:16.921Z
 ▯ gaslights ▯ into believing that ▯ is the case.
+
+zoaıchıja ± `en` @Dembim #CkpTQ3XJb 2026-02-08T00:24:32.970Z
+▯ gaslights ▯
+Dembim (2026-02-08T00:25:51.336Z): Frame: c c
+Dembim (2026-02-08T00:25:58.647Z): Pronominal_class: ho
+Dembim (2026-02-08T00:27:02.775Z): Upstream: <@jiqci zoaıchıja>
+Dembim (2026-02-08T00:29:14.458Z): Use <ôq> <chı> for "into believing that ..."
 
 zoaıge +2 `en` @uakci #djupzy6Kk 2022-07-01T06:45:27.743Z
 ▯ is suspicious/raises suspicion.
@@ -88120,6 +88194,7 @@ adjunct head: forms subject-sharing adverbials expressing "(in order) to"
 Hoemai (2025-03-21T13:03:51.896Z): V X zûam [hao] Y = V X zûo wä [hao] X Y
 Hoemai (2025-03-21T13:03:58.904Z): Example: **Fa jí díem zûam jea báq chaı.** "I go to the store to buy tea."
 TheAndSys (2025-10-11T02:09:20.424Z): to achieve, in order to
+Dembim (2026-02-07T22:59:54.426Z): intention, intends, purpose, end
 
 zuao +3 `en` @kazoo #wuqJaU7gn 2025-05-17T18:23:50.683Z
 ▯ is a layer of ▯.
@@ -98277,14 +98352,14 @@ mimiaoganhaqpy (2022-09-14T01:58:30.167Z): ▯ 是猫人（猫耳）
 ▯ is imaginary; ▯ is made up; ▯ is non-existent.
 Laqme (2022-10-16T22:56:45.190Z): → **aobı** now that vowel+y is disallowed.
 
-⚠ nhoycıu ± `en` @uakci #ZYLLgo7k5 2022-05-30T13:38:36.958Z
-▯ feels cold sweat running down their back (not actual sweat; usually a sign of fatigue or anxiety).
-
 ⚠ nhoyzıu ± `en` @verte #d-pzoEf-6 2022-06-26T04:16:22.146Z
 ▯ is an imaginary number.
 
 ⚠ nhoy ± `tok` @el #SCjz99zrT 2022-07-10T05:45:42.005Z
 ▯ li lon ala
+
+⚠ nhoycıu -1 `en` @uakci #ZYLLgo7k5 2022-05-30T13:38:36.958Z
+▯ feels cold sweat running down their back (not actual sweat; usually a sign of fatigue or anxiety).
 
 ⚠ nhuoby ± `en` @el #ChDCwDwIB 2022-07-10T15:43:05.496Z
 ▯ is a blankie
