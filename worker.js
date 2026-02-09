@@ -71,7 +71,7 @@ function search(q) {
       }
     if (operator == "anim" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q)$/.test(query.normalize("NFD")))
       return {
-        err: `<code>${escapeHTML(query)}</code> isn't a valid pronimonal class`
+        err: `<code>${escapeHTML(query)}</code> isn't a valid pronominal class`
       }
     return {
       op: operator,
