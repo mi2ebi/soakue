@@ -37,6 +37,8 @@ function search(q) {
       "ord",
       "warn",
       "w",
+      "frame",
+      "anim"
     ];
     if (colon && !operators.includes(operator))
       return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
@@ -63,6 +65,14 @@ function search(q) {
           err: `<code>${escapeHTML(query)}</code> is not an ordering. available orderings: <code>default</code> <code>random</code> <code>alpha</code> <code>highest</code> <code>lowest</code> <code>newest</code> <code>oldest</code>`,
         };
     }
+    if (operator == "frame" && !/^([c012]|c([012]|1i)|cc([012]|1[ij]|2(ij|ji)))$/.test(query))
+      return {
+        err: `<code>${escapeHTML(query)}</code> isn't a valid frame`
+      }
+    if (operator == "anim" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q)$/.test(query.normalize("NFD")))
+      return {
+        err: `<code>${escapeHTML(query)}</code> isn't a valid pronimonal class`
+      }
     return {
       op: operator,
       orig: query,
@@ -149,7 +159,13 @@ function search(q) {
           (["^", "score"].includes(op) &&
             (entry.score >= value || entry.score == value.replace(/^=/, ""))) ||
           (op == "warn" && entry.warn) ||
-          ["!", "-", "not"].includes(op)
+          ["!", "-", "not"].includes(op) ||
+          (op == "frame" && entry.notes.some(n =>
+            /^frame:/i.test(n.content) && frameMatches(value, n.content.slice(6).replace(/ /g, ""))
+          )) ||
+          (op == "anim" && entry.notes.some(n =>
+            /^pronominal_class:/i.test(n.content) && value.normalize("NFD").replace(/\u0301/g, "") == n.content.slice(17).trim()
+          ))
         )
           return 0.1;
       });
@@ -167,6 +183,13 @@ function search(q) {
   let order = terms.find((t) => t.op == "order") || { value: "default" };
   if (order.value == "random") return shuffle(res);
   return res.sort(orders[order.value]);
+}
+function frameMatches(query, frame) {
+  let no_ij = frame.replace(/[ij]+$/, "");
+  return (
+    query == frame
+    || query == no_ij
+  );
 }
 const tones = `\u0300\u0301\u0308\u0302`;
 const underdot = `\u0323`;
