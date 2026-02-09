@@ -388,7 +388,7 @@ interjection: ‘well then, / alright, / moving on… / here we go…’
 Laqme (2022-05-24T01:21:15.172Z): Like **aıba** minus **ba** plus **ka**. and also sounds great **ĩmo** :)
 
 áıka ± `en` @Dembim #neTL8iBmi 2026-02-08T01:46:50.260Z
-interjection: ready? shall I move on? time to continue?
+interjection: ready? shall we move on? time to continue?
 Dembim (2026-02-08T01:49:10.573Z): Moving on and continuing can be saying or doing the next logical thing, taking the next step, etc.
 Dembim (2026-02-08T01:49:45.098Z): The important thing is that it's a transition out of the previous state.
 
@@ -1657,6 +1657,7 @@ mimiaoganhaqpy (2025-05-28T06:21:37.070Z): Lunanote: I get asabuoı when I'm ext
 asaı +2 `en` @Machy #-bvqHnEeC 2022-10-15T08:03:23.277Z
 ▯ is dirt/soil.
 Machy (2022-10-15T08:03:31.186Z): Shortening of **guaqsaı**
+Dembim (2026-02-08T15:06:46.015Z): earth
 
 asaıdashı ± `en` @robintown #p68CRe26j 2022-10-16T02:53:28.569Z
 ▯ is mud.
@@ -7568,7 +7569,7 @@ cecuao ± `en` @uakci #YDbKOK03C 2023-05-21T17:15:39.009Z
 cechue ± `en` @seaqtaq #9vAORpRHb 2024-11-04T12:30:04.388Z
 ▯ is a linked list
 
-cedeaq ± `en` @Laqme #hjxgOuI0o 2025-01-31T22:20:43.871Z
+cedeaq +1 `en` @Laqme #hjxgOuI0o 2025-01-31T22:20:43.871Z
 ▯ is a platform (at a station).
 
 cedıeq ± `en` @Laqme #iVLv3WNNT 2023-11-21T18:20:12.273Z
@@ -14346,6 +14347,12 @@ uakci (2020-02-08T17:08:40.163Z): to be of high entropy
 daonhuo ± `en` @uakci #iXY9DPpnb 2021-11-07T10:58:51.664Z
 ▯ is a spreadsheet of data ▯.
 
+daonhuo ± `en` @Dembim #v-JYVaJN_ 2026-02-08T18:03:48.575Z
+▯ is a data table (or spreadsheet)
+Dembim (2026-02-08T18:04:55.411Z): Frame: c
+Dembim (2026-02-08T18:05:23.506Z): Pronominal_class: hoq
+Dembim (2026-02-08T18:12:38.919Z): Discriminator: 2
+
 daoraq ± `en` @uakci #gK9-vqhak 2018-12-08T14:56:36.000Z
 ▯ links to ▯ by means of ▯; ▯ references/points to ▯ with ▯.
 
@@ -14915,7 +14922,7 @@ darao ± `en` @TheAndSys #UkwmcwfPl 2023-05-17T17:45:43.009Z
 ▯ is a thing that exists as a result of event ▯
 TheAndSys (2023-05-17T17:46:07.820Z): I wanted this for that story I'm writing, but I can't recall what the use was.
 
-darem ± `en` @evie #ZqRd8UZG4 2025-12-12T04:43:47.697Z
+darem +1 `en` @evie #ZqRd8UZG4 2025-12-12T04:43:47.697Z
 ▯ arrests ▯
 evie (2025-12-12T04:43:59.363Z): for legal reasons i cannot say the etymology
 evie (2025-12-12T04:44:24.063Z): use ôı or îaı to specify the crime
@@ -18610,7 +18617,7 @@ eo ± `en` @el #XtMczCAN4 2022-08-20T11:48:36.491Z
 ▯ (ignoring ▯) satisfies property ▯
 el (2022-08-20T11:49:42.472Z): lets one squeeze a property into a 2 slot (ex. **ıqjı eo jı** = **ıq jı jí**)
 
-éoı +1 `en` @Laqme #Bt-Phu4xs 2025-05-28T12:42:22.240Z
+éoı +2 `en` @Laqme #Bt-Phu4xs 2025-05-28T12:42:22.240Z
 determiner: the color(s) ...
 Laqme (2025-05-28T12:46:38.258Z): A plural constant of all colors of things that satisfy the nP. For example **éoı sıaı** means "blood-red" and **éoı rıq** means "green" (all shades of it).
 
@@ -20702,7 +20709,7 @@ fıuqpaq ± `en` @jiqci #eFdn4KzZs 2023-09-19T13:09:38.338Z
 ▯ is a department (of a company, organisation, government etc.) dedicated to satisfying property ▯.
 
 fıurom ± `en` @Laqme #nUSmYSe8D 2024-05-25T15:43:25.384Z
-▯ is a script (kind of program).
+▯ is an interpreted program / "script".
 Laqme (2024-05-25T15:45:52.618Z): The metaphor is that the program is interpreted "high up" by other software, rather than executed "deep down" by the hardware (see **shoarom**).
 
 fıuta ± `en` @salarua #ccRDIGotV 2024-09-20T08:36:50.235Z
@@ -26030,8 +26037,9 @@ guelo ± `en` @Ilmen #mjFSIlgS1 2019-01-02T16:41:24.000Z
 ▯ is a wolverine.
 Ilmen (2019-01-02T16:41:33.000Z): From Proto-Indo-European *gʷel- (“throat”).
 
-guemıa ± `en` @jiqci #jrM1I32yn 2024-05-15T19:58:15.762Z
+guemıa +1 `en` @jiqci #jrM1I32yn 2024-05-15T19:58:15.762Z
 ▯ is winding / meandering.
+Dembim (2026-02-08T13:39:33.308Z): sinuous
 
 guene ± `en` @seaqtaq #07SCKDFLd 2019-02-01T19:47:01.000Z
 (fork of #cP2VNUvV8) ▯ is the curvature of ▯
@@ -28806,7 +28814,7 @@ heunaraq -1 `en` @buhuoiji #JqkUZvqxH 2019-12-20T01:58:40.255Z
 ▯ is the fruit of a Citrus × sinensis tree.
 uakci (2020-03-01T20:16:09.017Z): −1 for old **heu** → #hssW2hYa8
 
-hezı ± `en` @el #8Jn4wsrZM 2022-11-28T20:04:15.057Z
+hezı +1 `en` @el #8Jn4wsrZM 2022-11-28T20:04:15.057Z
 ▯ is plasma (state of matter)
 
 hezıfebı ± `en` @jiqci #_WtNpYo2V 2023-06-09T14:10:44.002Z
@@ -33040,7 +33048,7 @@ robintown (2022-04-25T17:34:13.101Z): non-fiction
 ıupe ± `en` @jiqci #OhsRXbhWV 2025-03-05T20:07:44.430Z
 ▯ (counterfactual) is the case in comparison to how things actually are.
 
-îuq ± `en` @Dembim #iGVz0emo4 2026-02-03T01:29:05.578Z
+îuq +1 `en` @Dembim #iGVz0emo4 2026-02-03T01:29:05.578Z
 subject-sharing adjunct head
 Dembim (2026-02-03T01:29:23.823Z): I know there's @robintown lı̂alu, but I find myself wanting it enough that the length and relative unwieldiness of the word in hiatus tone is a bother to me. So, I propose this replacement
 
@@ -33429,6 +33437,8 @@ lassc (2025-04-26T01:33:21.461Z): kw: **zakaı**
 
 jaofoaq ± `toa` @Dembim #mcDDOQPje 2026-01-31T14:27:50.372Z
 ▯, nä foaq kuaq hóa ké kımpaq âq côm báq poq butı sòaojuı hôa kéobu côm báq tı sòaojuı hôa
+Dembim (2026-02-08T13:10:40.895Z): Frame: c
+Dembim (2026-02-08T13:10:49.270Z): Pronominal_class: ho
 
 jaogaıkea ± `en` @jiqci #fMMXCEPql 2023-02-13T21:57:25.972Z
 ▯ is a radar.
@@ -35974,7 +35984,7 @@ robintown (2024-12-15T16:01:45.097Z): By analogy with **daochıeq**
 jıoqchuao ± `en` @Laqme #tJw1ye-6w 2022-05-10T15:50:46.530Z
 ▯ is a computer terminal.
 
-jıoqdaotoq ± `en` @Laqme #jxieItlMY 2021-08-31T23:10:56.720Z
+jıoqdaotoq -1 `en` @Laqme #jxieItlMY 2021-08-31T23:10:56.720Z
 ▯ is a spreadsheet.
 
 jıoqdıu ± `en` @Laqme #jbPoNTsMZ 2020-01-11T14:56:12.557Z
@@ -37537,7 +37547,7 @@ predicate: ‘illegal’; ▯ is illegal; ▯ breaks rule ▯; ▯ is against la
 juaochıaı ± `pl` @jiqci #lbcxFuk6O 2023-07-31T08:20:46.126Z
 ▯ jest nielegalny; ▯ łamie regułę/prawo ▯.
 
-juaochıaıjıaı ± `en` @uakci #7CW-cz9Cg 2022-07-04T16:24:07.552Z
+juaochıaıjıaı -1 `en` @uakci #7CW-cz9Cg 2022-07-04T16:24:07.552Z
 ▯ arrests ▯ for illegal property ▯.
 
 juaochıaıjoaı ± `en` @uakci #6pGiTI5Xg 2022-07-04T16:23:22.460Z
@@ -37764,7 +37774,7 @@ jucı +1 `en` @uakci #D8Lix5BA_ 2022-07-04T16:27:10.422Z
 ▯ commits crime ▯.
 uakci (2022-07-04T16:27:15.774Z): < **juaochıaı**
 
-jucıjıaı ± `en` @mimiaoganhaqpy #tPwxz1skB 2023-04-05T01:53:41.825Z
+jucıjıaı -1 `en` @mimiaoganhaqpy #tPwxz1skB 2023-04-05T01:53:41.825Z
 ▯ arrests ▯ for illegal property ▯.
 
 jucıjıoq ± `en` @uakci #K1vfcRi33 2023-04-05T01:05:07.706Z
@@ -46609,10 +46619,6 @@ lıaleoq ± `en` @seaqtaq #9om3SV6M0 2024-10-23T22:51:26.945Z
 lıaleoqche ± `en` @seaqtaq #iFLTKwloe 2024-10-23T22:55:17.418Z
 ▯ is a flank guard
 
-lîalu -1 `en` @robintown #JTAQ_Zh6N 2024-11-19T04:37:16.792Z
-adjunct head: forms subject-sharing adverbials (allomorph ◌̂)
-robintown (2024-11-19T04:47:24.296Z): In official Toaq you will only ever see this word as its tonal allomorph ◌̂. However, a non-tonal representation is useful as it gives us a nicer 'identifier' for the morpheme and opens up the possibility of it existing marginally similar to **ló**.
-
 lıam +4 `en` @Laqme #XFTygUdWy 2024-09-29T10:44:15.258Z
 ▯ is a sign/indication of ▯.
 Laqme (2024-09-29T10:46:41.208Z): symptom, evidence
@@ -48568,7 +48574,7 @@ lualom ± `en` @seaqtaq #YKVe5QoY2 2025-06-26T16:18:02.882Z
 lualomsıo ± `en` @seaqtaq #q91SrQXAp 2025-06-26T16:19:26.485Z
 ▯ is the idea or concept of plot armor
 
-luam ± `en` @Dembim #tGzzreZey 2026-01-30T01:16:26.991Z
+luam +1 `en` @Dembim #tGzzreZey 2026-01-30T01:16:26.991Z
 degree: middlingly
 Dembim (2026-01-30T01:22:56.063Z): roughly dead between "very much" and "barely at all"
 Dembim (2026-01-30T01:36:36.596Z): kw: medium
@@ -50546,7 +50552,7 @@ mazıcheı +1 `en` @uakci #Xx9oOsK0S 2022-07-21T14:10:22.021Z
 mazıkochom ± `en` @jiqci #6npxImLW4 2025-01-24T09:43:24.809Z
 ▯ is a Colorado potato beetle (Leptinotarsa decemlineata).
 
-mazıme +1 `en` @uakci #cMNYfJaER 2022-05-18T19:35:51.922Z
+mazıme +2 `en` @uakci #cMNYfJaER 2022-05-18T19:35:51.922Z
 ▯ does ▯, refuses to elaborate, then leaves.
 uakci (2022-05-18T19:36:05.496Z): 真面目 + **zı** because it’s funny that way
 
@@ -56655,7 +56661,7 @@ the amount that ▯ is the case is ▯.
 neheo ± `en` @seaqtaq #5MEYbThNV 2020-01-27T02:09:54.906Z
 ▯ differs from ▯ in the extent to which property ▯is satisfied
 
-nehera ± `en` @Dembim #Eq6tpCb9F 2026-02-01T01:43:09.217Z
+nehera +1 `en` @Dembim #Eq6tpCb9F 2026-02-01T01:43:09.217Z
 conjunction: 'or.actually'; X or Y, unless X is not contextually equivalent to Y, in which case Y
 Dembim (2026-02-01T02:14:22.316Z): Obviously this has the same truth value as Y— it just allows the speaker to introduce the idea that they expect X and Y to be equal.
 
@@ -59692,7 +59698,7 @@ nuamsuroq ± `en` @jiqci #UgIMQWf_p 2023-12-18T20:00:05.343Z
 nuao -1 `pl` @jiqci #iJ72VflLQF 2023-07-31T08:21:33.056Z
 ▯ to łuk; ▯ jest łukowaty.
 
-nûao ± `en` @Dembim #cqtdPusTB 2026-02-03T02:49:13.720Z
+nûao +1 `en` @Dembim #cqtdPusTB 2026-02-03T02:49:13.720Z
 resultative subject-sharing adjunct head
 Dembim (2026-02-03T02:49:45.052Z): This is to <ıuq> as <oq> is to <ıaı>.
 Dembim (2026-02-03T02:49:54.004Z): Discriminator: 2
@@ -60357,6 +60363,12 @@ nulısao +1 `en` @Ilmen #LRaT_cdc5 2020-06-05T16:49:02.221Z
 
 nulıse ± `en` @Machy #T9PDS_AIT 2022-02-23T22:59:07.068Z
 ▯ is fried ▯.
+
+nulısham ± `en` @jiqci #NuEF9WTGz 2026-02-08T15:23:38.290Z
+▯ is margarine.
+Dembim (2026-02-08T15:34:54.365Z): oleo
+Dembim (2026-02-08T15:35:40.965Z): Frame: c
+Dembim (2026-02-08T15:35:48.224Z): Pronominal_class: maq
 
 nulıtupa +1 `en` @jiqci #JQ8GcijCz 2023-10-16T10:34:19.347Z
 ▯ is a frying pan.
@@ -67069,7 +67081,7 @@ raqjao ± `en` @Laqme #zFMt6daUf 2023-11-09T04:20:45.178Z
 raqjoaı ± `en` @Laqme #ZrEkH1qbv 2024-12-28T02:26:16.491Z
 ▯ researches / looks up information about ▯.
 
-raqjoaq ± `en` @Laqme #8ywusI2Lc 2023-07-18T12:10:19.808Z
+raqjoaq +1 `en` @Laqme #8ywusI2Lc 2023-07-18T12:10:19.808Z
 ▯ is a minister (head of a government department).
 
 raqjoe ± `en` @uakci #3SrUU2mLM 2019-03-06T18:30:16.000Z
@@ -67687,6 +67699,12 @@ reodo -1 `en` @uakci #3cSmaagAl 2023-10-17T06:14:45.092Z
 
 reoge ± `en` @Laqme #yKJyhXMcx 2022-03-28T21:21:58.527Z
 ▯ is a color.
+
+reohezı ± `en` @Dembim #g7WwhPQqc 2026-02-08T14:28:43.618Z
+▯ is quark-gluon plasma
+Dembim (2026-02-08T14:29:36.464Z): Etymology: in reference to the screening of color charge
+Dembim (2026-02-08T14:29:41.466Z): Frame: c
+Dembim (2026-02-08T14:30:41.760Z): Pronominal_class: maq
 
 reohıaq ± `en` @robintown #X9GgmxoYe 2023-11-15T15:41:24.311Z
 ▯ is drab / lacking in color.
@@ -69350,6 +69368,8 @@ rom +5 `en` @salarua #UTROaZMeN 2023-02-05T02:05:13.954Z
 predicate: ‘program’; ▯ is a computer program
 robintown (2023-07-11T15:27:05.736Z): app
 robintown (2023-07-11T15:27:19.831Z): application
+Dembim (2026-02-08T15:15:49.843Z): Pronominal_class: hoq
+Dembim (2026-02-08T15:15:54.951Z): Frame: c
 
 rom ± `zh` @zephr #8IJIhTpRI 2024-10-31T19:22:20.740Z
 谓语: ‘程序’; ▯是一个电脑程序
@@ -71407,6 +71427,8 @@ sapa ± `en` @Ilmen #JDFIYVL2Q 2019-04-18T20:18:45.000Z
 ▯ accepts that ▯ be the case.
 Machy (2020-07-04T21:32:38.168Z): accepting a fact, for example
 Machy (2020-07-04T21:33:29.362Z): or something
+Dembim (2026-02-08T17:46:17.347Z): <see also tarı>
+Dembim (2026-02-08T17:48:00.618Z): I think this means not accepting a fact but rather accepting a suggestion or proposition. I would expect the former to be "▯ accepts that ▯ is the case"
 
 sapabuo ± `en` @Ilmen #BcLDs1tpL 2018-10-08T20:33:26.000Z
 ▯ is willing to do ▯.
@@ -73879,7 +73901,7 @@ sıshaı +1 `en` @fagri #wtMdb0PV7 2018-12-03T20:50:58.000Z
 ▯ leaves (in the sense that they stop paying attention to a chat)
 uakci (2018-12-03T20:56:15.000Z): +1; I like it quite a bit.
 
-sıta ± `en` @Dembim #92o61LuWw 2026-02-01T19:03:49.473Z
+sıta +1 `en` @Dembim #92o61LuWw 2026-02-01T19:03:49.473Z
 ▯ is tied/bound/restrained
 Dembim (2026-02-01T19:04:03.767Z): Frame: c
 Dembim (2026-02-01T19:04:31.887Z): Pronominal_class: ta
@@ -75379,6 +75401,12 @@ suaıtom ± `en` @jiqci #iyDI4EbmU 2024-05-16T09:13:49.735Z
 suam +1 `en` @Laqme #ieHvjrODb 2024-08-31T09:34:57.926Z
 ▯ is fake, fictional, mock, emulated.
 TheAndSys (2024-09-22T05:41:33.546Z): sham, scam, lie
+
+suamrom ± `en` @Dembim #XCFEuk_Ko 2026-02-08T15:14:20.548Z
+▯ is an emulator/ virtualization software
+Dembim (2026-02-08T15:14:34.562Z): kw: virtual machine
+Dembim (2026-02-08T15:14:37.411Z): Frame: c
+Dembim (2026-02-08T15:15:59.586Z): Pronominal_class: hoq
 
 suana ± `en` @uakci #lpD5ZgVe8 2024-01-18T10:53:17.167Z
 interjection: ‘and this needs saying’; ‘and we mustn’t forget/leave it unsaid that’
@@ -77980,7 +78008,7 @@ uakci (2022-07-03T07:09:16.912Z): à la **shıcha** but with no note of temporal
 shıjeome ± `en` @xorxes #Xlzwct5Ne 2021-08-01T23:29:41.049Z
 ▯ satisfy property ▯ one at a time.
 
-shıjo +1 `en` @lassc #Vtht4TjKk 2025-03-23T14:05:24.267Z
+shıjo +2 `en` @lassc #Vtht4TjKk 2025-03-23T14:05:24.267Z
 ▯ introduces/establishes/presents ▯ for the first time.
 lassc (2025-03-23T14:05:53.902Z): etymology: **shıko** + **ıjo**
 lassc (2025-03-23T14:06:30.850Z): debut, premiere, introduction, induction, initiation, orientation
@@ -80824,6 +80852,7 @@ tarampagua ± `en` @Ilmen #TunVIknuR 2025-03-01T22:45:59.839Z
 tarı ± `en` @Ilmen #zo7S5TCWZ 2019-04-18T20:19:22.000Z
 ▯ refuses that ▯ be the case.
 Machy (2020-04-28T02:47:10.732Z): rejection?
+Dembim (2026-02-08T17:45:57.531Z): see also <sapa>
 
 tarıka ± `en` @jiqci #ehwUxUOgU 2023-12-20T07:26:34.193Z
 ▯ vetoes / exercises their veto power on ▯.
@@ -86400,7 +86429,7 @@ interjection: ‘hi everyone, hey y'all’
 ꝡáhoq ± `en` @Ilmen #jpy5eFXlH 2023-08-21T19:46:47.919Z
 pronoun: the proposition expressed by the previous sentence.
 
-ꝡahu +1 `en` @lassc #DAMoJfMx- 2025-04-15T21:52:46.207Z
+ꝡahu +2 `en` @lassc #DAMoJfMx- 2025-04-15T21:52:46.207Z
 ▯ searches online for ▯.
 lassc (2025-04-15T21:53:45.560Z): (joke word? what do you mean joke word? no, impossible! toaqgua just exists in a universe where yahoo won instead of google. yep! im yahooing it.)
 ijonetun (2025-04-15T21:53:53.915Z): +1 i live
