@@ -32,6 +32,7 @@ pub fn dictify(the: &str) -> Vec<Toa> {
             toa.scope = toa.scope.strip_suffix("-arch").unwrap_or(&toa.scope).to_string();
             toa
         })
+        .update(Toa::fix_note_dates)
         .update(Toa::set_warning)
         .sorted_by(Toa::cmp)
         .collect();

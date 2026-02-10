@@ -73,11 +73,7 @@ let htmlify = (json) =>
         ]),
         mkel("span", { dir: "ltr" }, replaceLinks(note.content)),
         " ",
-        mkel("span", { className: "scope date" }, [
-          /^\d/.test(note.date)
-            ? note.date.slice(0, 10)
-            : new Date(note.date).toISOString().slice(0, 10),
-        ]),
+        mkel("span", { className: "scope date" }, [note.date.slice(0, 10)]),
         mkel("br", {}, []),
       ]),
     ),

@@ -1,6 +1,7 @@
 use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
 
 use itertools::Itertools as _;
+use jiff::fmt::rfc2822;
 use regex::bytes::{Regex, RegexBuilder};
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization as _;
@@ -84,6 +85,17 @@ impl Toa {
             }))
             && !self.body.contains("textspeak")
             && !self.notes.iter().any(|n| n.content.contains("textspeak"));
+    }
+    pub fn fix_note_dates(&mut self) {
+        self.notes = self
+            .notes
+            .iter()
+            .map(|n| Note {
+                date: rfc2822::parse(&n.date)
+                    .map_or_else(|_| n.date.clone(), |noniso| noniso.timestamp().to_string()),
+                ..n.clone()
+            })
+            .collect_vec();
     }
 }
 
