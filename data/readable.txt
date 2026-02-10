@@ -1306,6 +1306,8 @@ interjection: ‘wilco’, acceptance of request.
 
 apı +4 `en` @Ilmen #cyHlevFkFAe 2019-09-17T19:19:51.083Z
 ▯ is a bee.
+Dembim (2026-02-10T02:52:32.606Z): Pronominal_class: ho
+Dembim (2026-02-10T02:52:36.015Z): Frame: c
 
 apıbue +1 `en` @robintown #qslWasYg1 2021-10-12T16:27:54.498Z
 ▯ is a beehive.
@@ -32277,6 +32279,8 @@ Hoemai (2022-08-16T12:16:12.833Z): for use in subordinate clauses when you don't
 ▯ is a chair.
 Dembim (2026-01-29T15:33:38.654Z): I suppose this is strictly a chair and not any other sort of seat?
 Dembim (2026-02-04T01:02:42.683Z): I've been using it to mean "anything made to be sat upon"
+Dembim (2026-02-10T02:50:21.421Z): Frame: c
+Dembim (2026-02-10T02:50:27.030Z): Pronominal_class: maq
 
 ıne ± `en` @TheAndSys #qmpxG-ilY 2024-06-30T15:10:08.904Z
 interjection: I see, I understand
@@ -46506,6 +46510,9 @@ uakci (2023-12-02T12:23:14.838Z): **he** often goes with **há**, so understand 
 uakci (2023-12-02T12:28:02.375Z): syntactic aside: since **lı** has a built-in **ha** Asp node, i’d like to treat **lı** as the masked spelled-out form of an Asp node above and a V node below, namely **he** and **ıqha**
 uakci (2023-12-02T12:29:10.491Z): (in other words, some ✨automagical syntactic process✨ turns the continuous sequence **he ıqha** into **lı**, perhaps during Spell-Out, the syntactic phase infamous for having all kinds of magic shoved into it
 
+lı ± `toa` @Dembim #X0kTGsk80 2026-02-09T17:19:57.054Z
+he ıq há ▯
+
 lị́a- ± `en` @uakci #c8TRWI2vX 2025-10-07T09:04:33.037Z
 prefix: turn conjunction X into a pronoun denoting ‘the former X the latter’ (in some contextually appropriate sense)
 uakci (2025-10-07T09:05:16.499Z): **lị́aru** ‘both this and that’; **lị́arubu** ‘the former but not the latter’
@@ -46626,9 +46633,9 @@ Laqme (2024-09-29T10:47:38.352Z): I'm splitting an accidental sense of **laı** 
 Laqme (2024-09-29T10:48:33.784Z): This makes for a nice adverb: **lîam, ꝡä ...** = indicating that / showing that ... is the case.
 Laqme (2024-09-29T18:37:03.173Z): **Lıam, é ruı púao, ꝡä fịruqshua** = The clouds being gray is a sign that it's about to rain.
 Laqme (2024-09-29T18:39:48.558Z): **Lıam, é geı jí báq gıaqchea, ꝡä shao sịakeoı jí** = Me wearing headphones is a sign that I want to not talk to anyone.
-Dembim (2026-02-04T01:20:56.300Z): kw: suggests
 Dembim (2026-02-04T01:21:54.828Z): Frame: c 0
 Dembim (2026-02-04T01:22:04.469Z): Pronominal_class: hoq
+Dembim (2026-02-09T20:37:41.295Z): kw: suggests, diagnostic
 
 lıamboı ± `en` @seaqtaq #jC12iiRTl 2024-11-18T10:47:30.893Z
 ▯ happens on cue of ▯ happening; ▯ happens right when/just upon ▯ happening
@@ -50374,6 +50381,8 @@ maqtoa -1 `en` @el #wgV2lL-vj 2022-11-27T00:28:08.963Z
 
 mara +4 `en` @Ilmen #rX6IzGP4R 2018-10-29T14:57:29.000Z
 ▯ is fluffy/airy/soft/fuzzy in texture.
+Dembim (2026-02-10T02:50:51.011Z): Pronominal_class: ta
+Dembim (2026-02-10T02:50:54.997Z): Frame: c
 
 marachea ± `en` @Laqme #rCjbf2yzs 2023-11-12T14:44:45.925Z
 ▯ is a knit cap / beanie / toque.
@@ -58819,6 +58828,8 @@ noaıcıu ± `en` @robintown #gumeUv5nk 2023-10-10T14:46:55.356Z
 noaıchaı +4 `en` @uakci #Eamk7-BrW 2018-11-03T21:38:09.000Z
 ▯ is milk tea!!!
 evie (2024-01-21T15:59:19.099Z): 🥺
+Dembim (2026-02-10T02:51:05.451Z): Pronominal_class: maq
+Dembim (2026-02-10T02:51:10.076Z): Frame: c
 
 noaıchoko ± `en` @Laqme #YNaLh2cyW 2024-12-10T14:44:00.212Z
 ▯ is milk chocolate.
@@ -67203,6 +67214,8 @@ Laqme (2019-01-25T22:46:30.000Z): Some context: I wanted something fun and slang
 uakci (2019-01-25T22:48:03.000Z): +1
 Hoemai (2019-01-30T16:15:00.000Z): +1
 fagri (2019-12-19T03:37:40.628Z): +1
+Dembim (2026-02-10T02:51:20.809Z): Pronominal_class: hoq
+Dembim (2026-02-10T02:51:25.460Z): Frame: 0
 
 rara -1 `toa` @uakci #AJZWqsHVh 2019-04-15T06:29:56.000Z
 jeo dóshı sa lú sıu hóa dógu da
@@ -72781,6 +72794,8 @@ kazoo (2024-12-02T18:27:33.120Z): *jara* to run ->  *sı̣amjara* running in pla
 sıam +5 `en` @kazoo #QSNjymbAO 2024-12-02T18:26:53.351Z
 ▯ happens in-place (in-situ)
 kazoo (2024-12-03T14:41:48.016Z): motion-in-situ
+Dembim (2026-02-10T02:50:04.150Z): Pronominal_class: hoq
+Dembim (2026-02-10T02:50:11.541Z): Frame: 0
 
 sıame ± `en` @uakci #X2746yXLb 2022-03-07T15:54:00.262Z
 ▯ is an empty aggregate.
@@ -74016,6 +74031,7 @@ só +1 `en` @Dembim #B0Yy-q2PJ 2025-12-14T13:52:36.827Z
 determiner: proper noun; for use with Kuna/Eatoaq/Koıtıeq variable-style names; ignores local bindings to facilitate binding to referents in the salient context
 Dembim (2025-12-14T13:54:02.454Z): Whatever ends up happening with mí, this seems like a worthwhile thing to have access to. Perhaps that usefulness will be overcome by future events.
 Dembim (2025-12-14T13:55:22.841Z): see also <@Ilmen ıqmı>
+Dembim (2026-02-09T17:02:29.570Z): Good for complex foreign names e.g. (só mı Alecaqdoro cuoı) as well as complex Toaqic names e.g. (só Gıo Tamara Eka Zaq)
 
 soa ± `en` @official #zjd9lzVG4- 2019-05-05T22:27:29.843Z
 predicate: ‘help’; ▯ helps ▯ to satisfy property ▯.
@@ -77206,6 +77222,8 @@ sheaqruoq ± `en` @robintown #F8LUZmNaP 2022-06-20T16:12:42.936Z
 sheaqsao +4 `en` @Ilmen #aDskZStyj 2018-10-09T21:37:24.000Z
 ▯ is tall.
 fagri (2019-01-09T08:01:01.000Z): +1
+Dembim (2026-02-10T02:50:38.233Z): Pronominal_class: ta
+Dembim (2026-02-10T02:50:42.618Z): Frame: c
 
 sheaqsaopuefuq -1 `en` @Ilmen #vhKE57gaI 2023-05-16T21:56:48.668Z
 ▯ is a boot.
@@ -84143,8 +84161,9 @@ toıchıaıkıeq ± `en` @Machy #h8CqUBFXF 2022-05-13T19:09:17.893Z
 toıdıu ± `en` @seaqtaq #mINEoa5C6 2024-10-24T19:11:21.433Z
 ▯ is ethics (field of study)
 
-toıdue +4 `en` @Ilmen #HZNRF-V6F 2020-03-07T08:27:21.724Z
+toıdue +5 `en` @Ilmen #HZNRF-V6F 2020-03-07T08:27:21.724Z
 ▯ is morally/ethically right/correct.
+Dembim (2026-02-10T02:56:27.346Z): Officialized: yes
 
 toıdue ± `en` @official #DDXvtP7mRq 2022-07-19T18:30:54.457Z
 predicate: ‘morally.correct’; ▯ is morally/ethically right/correct.
