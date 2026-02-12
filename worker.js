@@ -65,11 +65,11 @@ function search(q) {
           err: `<code>${escapeHTML(query)}</code> is not an ordering. available orderings: <code>default</code> <code>random</code> <code>alpha</code> <code>highest</code> <code>lowest</code> <code>newest</code> <code>oldest</code>`,
         };
     }
-    if (operator == "frame" && !/^(0|1x?|2(xx)?|c(0|1[ix]?|2(ix|x[ix])?|c(0|1[ijx]?|2(i[jx]|j[ix]|x[ijx])?|c)?)?)$/.test(query))
+    if (operator == "frame" && !/^(0|1x?|2(xx)?|c(0|1[ix]?|2(ix|x[ix])?|c(0|1[ijx]?|2(i[jx]|j[ix]|x[ijx])?|c)?)?)?$/.test(query))
       return {
-        err: `<code>${escapeHTML(query)}</code> isn't a valid frame`
+        err: `<code>${escapeHTML(query.replace(/(?=[ce\d])/g, " "))}</code> isn't a valid frame`
       }
-    if (operator == "anim" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q)$/.test(query.normalize("NFD")))
+    if (operator == "anim" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q)?$/.test(query.normalize("NFD")))
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid pronominal class`
       }
@@ -161,9 +161,9 @@ function search(q) {
           (op == "warn" && entry.warn) ||
           ["!", "-", "not"].includes(op) ||
           (op == "frame" && entry.frame !== undefined && (
-            value == entry.frame.replace(/ /g, "") || value == entry.frame.replace(/ |[ijx]+$/g, "")
+            value == entry.frame.replace(/ /g, "") || value == entry.frame.replace(/ |[ijx]+$/g, "") || !value && entry.frame
           )) ||
-          (op == "anim" && value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy)
+          (op == "anim" && (value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy || !value && entry.animacy))
         )
           return 0.1;
       });
