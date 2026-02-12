@@ -12344,6 +12344,8 @@ choıceha ± `en` @Dembim #2CdR4XhYK 2026-01-26T22:09:04.444Z
 Dembim (2026-01-26T22:09:16.499Z): Frame: c
 Dembim (2026-01-26T22:10:03.629Z): Pronominal_class: maq
 Dembim (2026-01-26T22:13:51.646Z): Etymology: <choı> + <ceha>, loosely inspired by Russian "ice needles" (Ледяные иглы)
+Dembim (2026-02-12T01:36:42.854Z): Subject: individual
+Dembim (2026-02-12T01:37:07.990Z): Distribution: d
 
 choıcıa ± `en` @seaqtaq #TKltvZswI 2019-02-01T19:48:48.000Z
 (fork of #bkT5bqnBQ) ▯ is dull
@@ -15657,6 +15659,9 @@ Dembim (2026-02-04T19:30:06.129Z): Frame: c 1i
 Dembim (2026-02-04T19:32:06.029Z): kw: deontic permission
 Dembim (2026-02-04T19:32:14.881Z): see also <taodı>
 Ilmen (2026-02-04T19:42:52.591Z): discriminator: 1
+Dembim (2026-02-12T01:25:18.812Z): Note that this differs from official in subject and pronominal class.
+Dembim (2026-02-12T01:25:35.317Z): Distribution: d d
+Dembim (2026-02-12T01:25:47.008Z): Subject: individual
 
 dı -1 `toa` @uakci #Sy1GPMb4L 2019-04-15T06:38:07.000Z
 shoe sa ráı dóshı dógu da
@@ -17297,7 +17302,10 @@ Dembim (2026-02-04T19:29:07.804Z): Frame: c 1i
 Dembim (2026-02-04T19:31:18.736Z): kw: deontic obligation
 Dembim (2026-02-04T19:31:53.436Z): see also: <taoduaı>
 Ilmen (2026-02-04T19:41:05.667Z): discriminator: 1
-Dembim (2026-02-04T19:41:57.253Z): Note that this differs from official in its pronominal class.
+Dembim (2026-02-12T01:17:50.896Z): Subject: individual
+Dembim (2026-02-12T01:21:00.451Z): Despite the appearance of "(agent)" in the definition body, the subject doesn't take the _role_ of agent in _this_ predicate but is rather a "moral agent" in the persistent sense.
+Dembim (2026-02-12T01:24:13.175Z): Distribution: d d
+Dembim (2026-02-12T01:24:49.576Z): Note that this differs from official in subject and pronominal class.
 
 duaı -1 `tok` @el #13JIE0RPV 2022-07-10T04:04:15.027Z
 ▯₂ la ▯₁ li wile
@@ -20322,6 +20330,8 @@ feqlım ± `en` @Dembim #RwKtl5Q6B 2026-01-20T00:52:45.132Z
 ▯ immediately/intuitively grasps/groks/understands ▯
 Dembim (2026-01-20T00:52:51.682Z): Frame: c c
 Dembim (2026-01-20T13:10:48.163Z): Pronominal_class: ho
+Dembim (2026-02-12T01:31:16.419Z): Subject: individual
+Dembim (2026-02-12T01:31:23.664Z): Distribution: d d
 
 feqmajı ± `en` @robintown #rtPheFBPW 2023-11-11T14:32:34.475Z
 ▯ is clairvoyance/prescience/telepathy.
@@ -23035,6 +23045,10 @@ salarua (2021-08-17T06:57:15.097Z): this doesn't necessarily mean the birth name
 
 geodıo +5 `en` @Machy #GPal0EF3O 2022-04-15T06:23:19.563Z
 ▯ is an afternoon.
+Dembim (2026-02-12T01:52:42.086Z): Frame: c
+Dembim (2026-02-12T01:52:50.109Z): Pronominal_class: hoq
+Dembim (2026-02-12T01:52:59.933Z): Subject: individual
+Dembim (2026-02-12T01:53:07.199Z): Distribution: d
 
 geodıu ± `en` @Ilmen #oHkdHUjQP 2018-11-21T21:05:24.000Z
 ▯ is archaeology.
@@ -30711,6 +30725,8 @@ hoqtoa ± `en` @Dembim #vqQIGiIG8 2026-01-08T18:39:18.542Z
 ▯ belongs to the abstract pronominal class (III)
 Dembim (2026-01-09T16:32:07.199Z): Frame: c
 Dembim (2026-01-28T13:55:11.690Z): Pronominal_class: hoq
+Dembim (2026-02-12T01:27:26.259Z): Subject: individual
+Dembim (2026-02-12T01:27:30.577Z): Distribution: d
 
 hoqtua +1 `en` @Avaxar #sj6CFbT9_ 2024-12-25T06:26:06.596Z
 ▯ causes ▯ to be a resultant action satisfying the predicate that defines **hóq**; predicate **hóq** is brought upon by ▯ from initial abstract object ▯.
@@ -30807,6 +30823,8 @@ hotoa ± `en` @Dembim #DrWLoqX0z 2026-01-08T18:38:22.951Z
 ▯ belongs to the animate pronominal class (I)
 Dembim (2026-01-09T16:32:00.869Z): Frame: c
 Dembim (2026-01-28T13:54:57.238Z): Pronominal_class: hoq
+Dembim (2026-02-12T01:27:16.982Z): Subject: individual
+Dembim (2026-02-12T01:27:21.267Z): Distribution: d
 
 ⚠ hou ± `en` @fagri #x_OjIEfP6 2021-10-10T07:12:52.434Z
 Illocution: suggestive ("X could happen, maybe", "X is an idea")
@@ -39048,6 +39066,8 @@ kaıcıe ± `en` @Dembim #pt7w5vBNC 2026-01-25T14:48:43.029Z
 ▯ is a "mackrel", stripy fishes of Scombridae
 Dembim (2026-01-28T14:06:04.467Z): Frame: c
 Dembim (2026-01-28T14:06:11.254Z): Pronominal_class: ho
+Dembim (2026-02-12T01:35:12.781Z): Subject: individual
+Dembim (2026-02-12T01:35:22.465Z): Distribution: d
 
 kaıcıoq +1 `en` @Laqme #fMV2NxjC3 2023-10-27T00:27:36.794Z
 ▯ is a key (on a keyboard).
@@ -43874,6 +43894,8 @@ kueqgo ± `en` @Dembim #RevSTDlq6 2026-01-27T14:16:26.344Z
 Dembim (2026-01-27T14:18:01.879Z): perhaps a lens or a funnel, something for taking a relatively broad mass and bringing it together
 Dembim (2026-01-27T14:18:16.228Z): Frame: c
 Dembim (2026-01-27T14:18:22.967Z): Pronominal_class: maq
+Dembim (2026-02-12T01:37:54.510Z): Subject: individual
+Dembim (2026-02-12T01:38:07.778Z): Distribution: d
 
 kueqja ± `en` @Laqme #ius84ZSm7 2024-05-20T21:57:34.179Z
 ▯ gathers ▯ at ▯.
@@ -44029,6 +44051,7 @@ Ilmen (2020-01-05T17:02:47.568Z): Question predicates? "tıopūı" (#NTs8O3T0Za)
 fagri (2020-01-06T22:53:32.167Z): M, you're right
 Machy (2022-04-23T15:19:26.691Z): c.f. **chahı**
 Dembim (2026-02-10T03:21:42.139Z): Pronominal_class: hoq
+evie (2026-02-12T01:31:39.790Z): frame: 0
 
 kuıhıra +1 `en` @Laqme #Io0rMd-_A 2023-11-06T03:47:56.512Z
 ▯ is the case for some reason (I don't know which).
@@ -45297,6 +45320,8 @@ laleareremuao ± `en` @Dembim #Pcvn6QklB 2026-01-18T14:57:00.848Z
 ▯ is a Liriodendron tulipifera (tulip poplar)
 Dembim (2026-01-28T14:08:47.692Z): Frame: c
 Dembim (2026-01-28T14:08:56.628Z): Pronominal_class: maq
+Dembim (2026-02-12T01:29:24.861Z): Subject: individual
+Dembim (2026-02-12T01:29:29.343Z): Distribution: d
 
 lam +2 `en` @Laqme #z3XbDwKFh 2024-06-12T08:14:23.213Z
 ▯ is prone/apt to satisfy property ▯.
@@ -45925,6 +45950,8 @@ latoame ± `en` @Dembim #qC67Puyaw 2026-01-20T18:48:52.249Z
 ▯ is a property phrase, a complementızer phrase headed by lä
 Dembim (2026-01-22T19:21:10.517Z): Frame: c
 Dembim (2026-01-22T19:21:28.553Z): Pronominal_class: maq
+Dembim (2026-02-12T01:31:33.886Z): Distribution: d
+Dembim (2026-02-12T01:31:39.322Z): Subject: individual
 
 lazanha -1 `en` @fagri #Muqv-vkb3 2021-08-03T18:56:24.928Z
 ▯ is lasagna
@@ -50474,6 +50501,8 @@ maqtoa ± `en` @Dembim #zfZ0zRg2S 2026-01-08T18:33:24.471Z
 ▯ belongs to the inanimate pronominal class (II)
 Dembim (2026-01-09T16:31:53.482Z): Frame: c
 Dembim (2026-01-28T13:54:50.648Z): Pronominal_class: hoq
+Dembim (2026-02-12T01:27:05.192Z): Subject: individual
+Dembim (2026-02-12T01:27:11.709Z): Distribution: d
 
 maqtoa -1 `en` @el #wgV2lL-vj 2022-11-27T00:28:08.963Z
 ▯ is an anaphoric pronoun
@@ -50770,6 +50799,8 @@ meaıdıuche ± `en` @Dembim #gZo7g1zVE 2026-01-18T13:21:33.199Z
 ▯ is an astronomer
 Dembim (2026-01-18T13:21:40.927Z): Frame: c
 Dembim (2026-01-18T13:21:49.652Z): Pronominal_class: ho
+Dembim (2026-02-12T01:28:57.861Z): Subject: individual
+Dembim (2026-02-12T01:29:02.594Z): Distribution: d
 
 meaıfıem ± `en` @jiqci #dL08cU9TN 2024-10-03T13:17:02.500Z
 ▯ is a planetary ring system.
@@ -51062,6 +51093,8 @@ mehaq ± `en` @Dembim #NqhvGMG-g 2026-01-27T01:30:09.790Z
 Dembim (2026-01-27T01:30:15.907Z): Lasagna, macaroni and cheese, American goulash, flying Jacob, timballo, shepherd's pie
 Dembim (2026-01-27T01:30:22.451Z): Frame: c
 Dembim (2026-01-27T01:30:33.886Z): Pronominal_class: maq
+Dembim (2026-02-12T01:37:39.592Z): Subject: individual
+Dembim (2026-02-12T01:37:45.972Z): Distribution: d
 
 Mehıko ± `en` @countries #7yKZCZ5Q4n2 2023-10-02T12:22:04.798Z
 ▯ pertains to the culture of Mexico – United Mexican States.
@@ -56116,6 +56149,8 @@ naomıche ± `en` @Dembim #wf-EgNQRN 2026-01-18T13:16:16.241Z
 ▯ is a sailor
 Dembim (2026-01-18T13:18:40.926Z): Frame: c
 Dembim (2026-01-18T13:19:44.155Z): Pronominal_class: ho
+Dembim (2026-02-12T01:28:32.827Z): Subject: individual
+Dembim (2026-02-12T01:28:38.659Z): Distribution: d
 
 naomınuım ± `en` @Ilmen #xT5K_iGIH 2024-05-24T20:49:31.525Z
 ▯ is light from bioluminescent algae.
@@ -58261,6 +58296,8 @@ nıonuaq ± `en` @Dembim #_zOWf7W2M 2026-01-17T15:20:25.953Z
 ▯ is an evening (from sundown 'til midnight)
 Dembim (2026-01-18T15:20:42.162Z): Frame: c
 Dembim (2026-01-18T15:21:10.739Z): Pronominal_class: hoq
+Dembim (2026-02-12T01:27:56.714Z): Subject: individual
+Dembim (2026-02-12T01:28:02.406Z): Distribution: d
 
 nıoq ± `en` @official #FcGqd77I04 2019-05-05T22:26:52.967Z
 predicate: ‘tooth’; ▯ is a tooth.
@@ -62119,12 +62156,16 @@ for some property constitutive of ▯'s self-conception, they recognize that ▯
 Dembim (2026-01-20T00:18:49.038Z): Frame: c c
 Dembim (2026-01-20T00:21:10.077Z): I had a compound for this, but ultimately picked oıjo because it itself looks like a face.
 Dembim (2026-01-20T13:11:05.030Z): Pronominal_class: ho
+Dembim (2026-02-12T01:29:41.425Z): Subject: agent
+Dembim (2026-02-12T01:30:21.572Z): Distribution: d n
 
 oıjomoe ± `en` @Dembim #wdoT1PccF 2026-01-20T00:31:19.933Z
 ▯ feels a sense of intimacy by shared identity, perceiving something of themself external to themself
 Dembim (2026-01-20T00:31:25.298Z): Frame: c
 Dembim (2026-01-20T00:31:55.537Z): Do also see <@Dembim oıjo>
 Dembim (2026-01-20T13:10:57.097Z): Pronominal_class: ho
+Dembim (2026-02-12T01:30:57.695Z): Subject: individual
+Dembim (2026-02-12T01:31:02.359Z): Distribution: d
 
 oılazıu ± `en` @jiqci #7JeMTJ9Rh 2023-01-22T18:58:33.787Z
 ▯ is Euler's number e.
@@ -68122,6 +68163,8 @@ reremuao ± `en` @Dembim #PcYIlFz0n 2026-01-18T14:55:50.898Z
 ▯ is a tree of genus Liriodendron (tulip trees)
 Dembim (2026-01-28T14:08:34.643Z): Frame: c
 Dembim (2026-01-28T14:08:43.445Z): Pronominal_class: maq
+Dembim (2026-02-12T01:29:12.764Z): Subject: individual
+Dembim (2026-02-12T01:29:18.667Z): Distribution: d
 
 rerı ± `en` @uakci #PRsLuViOJ 2022-07-21T14:20:44.840Z
 ▯ is at an altered state/level of consciousness; ▯ hallucinates/is “tripping”.
@@ -69899,6 +69942,7 @@ ruana +1 `en` @Ilmen #KPkgqwHmn 2026-01-19T21:35:58.273Z
 Reportedly, ▯ is the case; I have heard, it is said that ▯ is the case.
 Dembim (2026-01-20T00:42:14.597Z): evidential
 Ilmen (2026-01-20T13:30:16.698Z): pronominal_class: hoq
+evie (2026-02-12T01:32:09.382Z): frame: 0
 
 ruanıaı ± `en` @Ilmen #fdr8A7FaT 2018-10-20T07:28:49.000Z
 ▯ is an anthozoan (Anthozoa taxonomic class: corals, sea anemones, gorgonians).
@@ -74979,6 +75023,7 @@ sona +3 `en` @el #B-E8rRo9R 2022-08-30T03:35:20.549Z
 ▯ is a circle
 el (2022-08-30T03:35:46.193Z): the shape
 el (2022-08-30T03:35:53.723Z): loosely based on #JFVy6bkDt
+Dembim (2026-02-12T01:38:23.612Z): Frame: c
 
 sona ± `tok` @el #12MYsfF6l 2023-01-06T01:28:10.372Z
 ▯ li sike
@@ -77276,6 +77321,8 @@ sheamche ± `en` @Dembim #VoEA7eOCt 2026-01-18T13:20:16.342Z
 ▯ is an astronaut/cosmonaut
 Dembim (2026-01-18T13:22:12.186Z): Frame: c
 Dembim (2026-01-18T13:22:19.389Z): Pronominal_class: ho
+Dembim (2026-02-12T01:28:46.538Z): Subject: individual
+Dembim (2026-02-12T01:28:51.137Z): Distribution: d
 
 sheame +1 `en` @jiqci #gSl7uVhE1 2024-02-21T14:48:58.496Z
 ▯ is the empty set.
@@ -80527,6 +80574,7 @@ Dembim (2026-01-06T18:29:55.545Z): personal deontic permission
 Dembim (2026-01-06T18:30:04.375Z): Frame: c 1i
 Dembim (2026-01-28T14:26:25.242Z): Pronominal_class: ho
 Dembim (2026-02-12T01:16:16.967Z): Distribution: d d
+Dembim (2026-02-12T01:16:55.426Z): Subject: individual
 
 taodıe ± `en` @official #5EtVUnfPgk 2019-05-05T22:27:40.979Z
 predicate: ‘advise’; ▯ advises ▯ to do ▯.
@@ -80549,6 +80597,8 @@ taoduaı ± `en` @Dembim #3xw6zFyKx 2026-01-06T18:27:56.011Z
 Dembim (2026-01-06T18:28:17.241Z): personal deontic obligation
 Dembim (2026-01-06T18:28:33.357Z): Frame: c 1i
 Dembim (2026-01-28T14:26:18.595Z): Pronominal_class: ho
+Dembim (2026-02-12T01:17:04.024Z): Subject: individual
+Dembim (2026-02-12T01:17:13.467Z): Distribution: d d
 
 taodutao ± `en` @uakci #G42uwy4h3 2022-02-20T10:36:56.444Z
 ▯ gives themself the semblance of satisfying property ▯; ▯ fakes property ▯; ▯ goes through the motions of satisfying property ▯.
@@ -85657,6 +85707,8 @@ tupapuao ± `en` @Dembim #F-vGGEr6P 2026-01-26T22:26:02.548Z
 Dembim (2026-01-26T22:26:13.693Z): Frame: c
 Dembim (2026-01-26T22:26:31.378Z): Pronominal_class: maq
 Dembim (2026-01-27T00:22:27.321Z): As in over a boiling pot.
+Dembim (2026-02-12T01:37:22.939Z): Distribution: d
+Dembim (2026-02-12T01:37:32.333Z): Subject: individual
 
 tupaꝡeam ± `en` @uakci #Uy-CmT30B 2023-07-19T08:55:23.255Z
 ▯ is tupperware.

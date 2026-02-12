@@ -115,9 +115,9 @@ button {
   opacity: 1;
   color: var(--gray);
 }
-.scope {
+.gray {
   color: var(--gray);
-  &:hover {
+  a&:hover {
     color: var(--purple);
   }
 }
@@ -134,12 +134,15 @@ a {
   font-family: var(--mono);
   display: inline-block;
   position: relative;
+  &:hover {
+    text-decoration: none;
+  }
   &[data-id]::after {
     content: "#" attr(data-id);
     position: absolute;
     left: 50%;
     top: 0.125rem;
-    width: calc(12ch + 1px);
+    width: 12ch;
     text-align: center;
     transform: translateX(-50%);
     font-size: 0.83em;
@@ -147,7 +150,7 @@ a {
     color: var(--orange);
     opacity: 0;
   }
-  &[data-id]:hover::after {
+  &[data-id]:is(:hover, :focus)::after {
     opacity: 1;
   }
 }
@@ -188,7 +191,7 @@ dt {
   .nobr :hover {
     color: var(--purple);
   }
-  a:not([class]:not(.date), [href*="toadua\.uakci\.space"]) {
+  a:not(:hover, [class]:not(.date), [href*="toadua\.uakci\.space"]) {
     color: inherit;
   }
 }
@@ -199,6 +202,9 @@ dd {
   color: var(--pink);
   font-weight: 700;
 }
+.adv {
+  color: var(--focus);
+}
 .score,
 .score a {
   color: var(--purple);
@@ -206,9 +212,6 @@ dd {
 .notes {
   font-size: 0.9rem;
   margin-top: 0.2em;
-  .scope:hover {
-    color: var(--gray);
-  }
 }
 @media (prefers-contrast: more) {
   :root {
