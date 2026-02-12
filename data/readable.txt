@@ -8789,6 +8789,8 @@ com +7 `en` @Laqme #_MNzppBpD 2022-12-17T22:23:09.306Z
 ▯ (some event of expression) is directed at / expressed toward audience ▯.
 Dembim (2026-02-04T02:11:42.335Z): Frame: c c
 Dembim (2026-02-04T02:11:48.799Z): Pronominal_class: hoq
+Dembim (2026-02-12T02:07:51.752Z): Subject: event
+Dembim (2026-02-12T02:08:10.172Z): Distribution: d d
 
 com ± `tok` @el #YiPaDjebM 2023-01-06T01:24:08.629Z
 ▯ li tawa ▯
@@ -10260,6 +10262,9 @@ Laqme (2025-03-22T00:09:46.862Z): not swimming upstream / non-action / not-tryin
 Laqme (2025-03-22T00:11:56.110Z): This is **tá**-class, it can describe events/facts/behaviors/people (like **Cheaı súq ba** = don't force it, go with the flow).
 lassc (2025-03-22T00:34:17.856Z): very neat parallel to **lıeı** +1
 Dembim (2025-12-09T19:46:24.492Z): Frame: c
+evie (2026-02-12T02:13:51.055Z): pronominal_class: ta
+Dembim (2026-02-12T02:38:47.074Z): Subject: free
+Dembim (2026-02-12T02:38:56.449Z): Distribution: d
 
 chealaı +3 `en` @Machy #-a3BC4c1o 2020-02-02T09:21:00.325Z
 ▯ is a diacritic
