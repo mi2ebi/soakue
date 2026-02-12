@@ -13,7 +13,8 @@
   --fg: light-dark(#1a1a1a, #e5e7eb);
   --input: light-dark(#ffffff, #1a1a2e);
   --gray: light-dark(#6b7280, #9ca3af);
-  --focus: light-dark(#c77873, #fb7185);
+  --focus: light-dark(#c6777e, #fb7185);
+  --adv: light-dark(#c77873, #fc736e);
   --orange: light-dark(#d97706, #fbbf24);
   --blue: light-dark(#2563eb, #60a5fa);
   --purple: light-dark(#7c3aed, #a78bfa);
@@ -203,7 +204,7 @@ dd {
   font-weight: 700;
 }
 .adv {
-  color: var(--focus);
+  color: var(--adv);
 }
 .score,
 .score a {
