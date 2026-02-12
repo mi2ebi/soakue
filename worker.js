@@ -65,7 +65,7 @@ function search(q) {
           err: `<code>${escapeHTML(query)}</code> is not an ordering. available orderings: <code>default</code> <code>random</code> <code>alpha</code> <code>highest</code> <code>lowest</code> <code>newest</code> <code>oldest</code>`,
         };
     }
-    if (operator == "frame" && !/^([c012]|c([012]|1i)|cc([012]|1[ij]|2(ij|ji)))$/.test(query))
+    if (operator == "frame" && !/^(0|1x?|2(xx)?|c(0|1[ix]?|2(ix|x[ix])?|c(0|1[ijx]?|2(i[jx]|j[ix]|x[ijx])?|c)?)?)$/.test(query))
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid frame`
       }
@@ -160,12 +160,10 @@ function search(q) {
             (entry.score >= value || entry.score == value.replace(/^=/, ""))) ||
           (op == "warn" && entry.warn) ||
           ["!", "-", "not"].includes(op) ||
-          (op == "frame" && entry.notes.some(n =>
-            /^frame:/i.test(n.content) && frameMatches(value, n.content.slice(6).replace(/ /g, ""))
+          (op == "frame" && entry.frame !== undefined && (
+            value == entry.frame.replace(/ /g, "") || value == entry.frame.replace(/ |[ijx]+$/g, "")
           )) ||
-          (op == "anim" && entry.notes.some(n =>
-            /^pronominal_class:/i.test(n.content) && value.normalize("NFD").replace(/\u0301/g, "") == n.content.slice(17).trim()
-          ))
+          (op == "anim" && value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy)
         )
           return 0.1;
       });
@@ -183,13 +181,6 @@ function search(q) {
   let order = terms.find((t) => t.op == "order") || { value: "default" };
   if (order.value == "random") return shuffle(res);
   return res.sort(orders[order.value]);
-}
-function frameMatches(query, frame) {
-  let no_ij = frame.replace(/[ij]+$/, "");
-  return (
-    query == frame
-    || query == no_ij
-  );
 }
 const tones = `\u0300\u0301\u0308\u0302`;
 const underdot = `\u0323`;

@@ -2,17 +2,21 @@ use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
 
 use itertools::Itertools as _;
 use jiff::fmt::rfc2822;
-use regex::bytes::{Regex, RegexBuilder};
+use regex::{
+    Regex,
+    bytes::{Regex as Bregex, RegexBuilder as BregexBuilder},
+};
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization as _;
 
 use crate::letters::{GraphResult, GraphsIter, Tone, filter};
 
-static ONE_RAKU: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(r"(^|[\ mpbfntdczꝡsrljkg'h]|[ncs]h)([aeiıou])?([aeo][iı]|ao|[aeiıou][qm]?)").unwrap()
+static ONE_RAKU: LazyLock<Bregex> = LazyLock::new(|| {
+    Bregex::new(r"(^|[\ mpbfntdczꝡsrljkg'h]|[ncs]h)([aeiıou])?([aeo][iı]|ao|[aeiıou][qm]?)")
+        .unwrap()
 });
-static MANY_RAKU: LazyLock<Regex> = LazyLock::new(|| {
-    RegexBuilder::new(
+static MANY_RAKU: LazyLock<Bregex> = LazyLock::new(|| {
+    BregexBuilder::new(
         r"^((
             (^|[\ mpbfntdczꝡsrljkg'h]|[ncs]h)
             ([aeiıou])? 
@@ -40,6 +44,13 @@ pub struct Toa {
     pub scope: String,
     #[serde(default, skip_serializing_if = "std::ops::Not::not")]
     pub warn: bool,
+    #[serde(skip_deserializing, skip_serializing_if = "Option::is_none")]
+    pub frame: Option<String>,
+    #[serde(
+        rename(deserialize = "pronominal_class", serialize = "animacy"),
+        skip_serializing_if = "Option::is_none"
+    )]
+    pub animacy: Option<String>,
 }
 
 fn normalize_for_validation(text: &str) -> String {
@@ -97,7 +108,28 @@ impl Toa {
             })
             .collect_vec();
     }
+    pub fn get_metadata_from_notes(&mut self) {
+        self.frame = self.notes.iter().sorted_by_key(|n| &n.date).rev().find_map(|n| {
+            FRAME_COMMENT
+                .captures(&n.content)
+                .and_then(|caps| caps.get(1).map(|m| m.as_str().to_string()))
+        });
+        // self.animacy is set by toadua already
+    }
 }
+static FRAME_COMMENT: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"(?ix)^frame\s*:\s*(
+            0 | 1x? | 2(?:xx)? | c\s*(?:
+                0 | 1[ix]? | 2(?:ix|x[ix])? | c\s*(?:
+                    0 | 1[ijx]? | 2(?:i[jx]|j[ix]|x[ijx])? | c
+                )?
+            )?
+        )$
+    ",
+    )
+    .unwrap()
+});
 
 impl Display for Toa {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {

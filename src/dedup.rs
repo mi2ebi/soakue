@@ -34,6 +34,7 @@ pub fn dictify(the: &str) -> Vec<Toa> {
         })
         .update(Toa::fix_note_dates)
         .update(Toa::set_warning)
+        .update(Toa::get_metadata_from_notes)
         .sorted_by(Toa::cmp)
         .collect();
     println!("deduplicating");
