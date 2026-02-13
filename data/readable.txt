@@ -3864,6 +3864,8 @@ Dembim (2026-01-31T16:16:16.670Z): Pronominal_class: maq
 Dembim (2026-01-31T16:17:35.302Z): Broader than "video recording", including e.g. animations, etc
 Dembim (2026-01-31T18:49:14.490Z): -1 use <coq>
 Dembim (2026-02-03T12:09:56.170Z): Discriminator: 2
+Dembim (2026-02-13T02:13:08.102Z): Distribution: d d
+Dembim (2026-02-13T02:13:17.719Z): Subject: individual
 
 bıdeoluaq ± `en` @Laqme #DCFUSBWe9 2022-08-06T20:48:00.764Z
 ▯ plays video game ▯.
@@ -4126,11 +4128,13 @@ bıoıdıao +1 `en` @uakci #gia69vmuN 2024-07-28T11:12:57.988Z
 uakci (2024-07-28T11:14:41.968Z): metaphrase from the polish equivalent of ‘the straw that broke the camel’s back’, i.e., ‘the goblet of bitterness runs over’ (although in the case of the polish idiom, there is no ‘droplet’ to speak of, just the act of ‘spilling over’)
 
 bıoıgıo ± `en` @Dembim #JSoRnlTPS 2026-01-28T02:59:07.458Z
-▯ is the glow that surrounds a brighter source of light as seen through a scattering medium
+▯ is the glow that surrounds a relatively bright source of light as seen through a scattering medium
 Dembim (2026-01-28T03:00:10.034Z): halo, glare, bloom
 Dembim (2026-01-28T03:00:19.154Z): Frame: c
 Dembim (2026-01-28T03:00:43.836Z): Pronominal_class: maq
 Dembim (2026-01-28T03:25:22.890Z): e.g. a whole portion of thinly cloud-covered sky at which one cannot bear to look
+Dembim (2026-02-13T02:02:26.544Z): Subject: individual
+Dembim (2026-02-13T02:02:32.911Z): Distribution: d
 
 bıoıheq ± `en` @Laqme #w4nw_OtMA 2024-07-28T16:51:11.026Z
 ▯ runs over with / overflows with / contains so much ▯ that it spills/leaks out.
@@ -6106,7 +6110,7 @@ Bukınafasogua ± `en` @countries #KAf4vA5fof 2024-12-27T16:46:25.038Z
 bukuıbu ± `en` @Ilmen #PsMJQBfLz 2020-03-03T09:58:07.453Z
 ▯ is the case despite / in spite of ▯ being the case.
 
-bula +2 `en` @Ilmen #ETirC9C-_ 2018-10-13T12:49:40.000Z
+bula +3 `en` @Ilmen #ETirC9C-_ 2018-10-13T12:49:40.000Z
 ▯ is a bubble.
 Ilmen (2018-10-13T12:50:26.000Z): From Tagalog and Cebuano "buláʔ".
 
@@ -6125,11 +6129,18 @@ bulachaı ± `en` @Snow #LhOJnlNN3 2023-05-23T04:22:00.462Z
 bulafeao ± `en` @robintown #4BgPzUijb 2023-12-11T15:56:08.980Z
 ▯ gets butterflies in their stomach.
 
-bulahıu ± `en` @robintown #zwoob68Lf 2022-07-09T02:24:31.386Z
+bulahıu +1 `en` @robintown #zwoob68Lf 2022-07-09T02:24:31.386Z
 ▯ is a stream/creek/brook.
 
 bulaı ± `en` @uakci #10PhV7qID 2022-12-30T16:31:50.381Z
 ▯ is the Deranı glyph for B/U.
+
+bulaloeq ± `en` @Dembim #X7NZ7SEy5 2026-02-12T15:39:17.075Z
+▯ ferments
+Dembim (2026-02-12T15:39:25.470Z): Frame: c
+Dembim (2026-02-12T15:39:36.448Z): Pronominal_class: ta
+Dembim (2026-02-12T15:39:43.227Z): Subject: individual
+Dembim (2026-02-12T15:39:48.358Z): Distribution: d
 
 bulame +1 `en` @Ilmen #Ee2zLr83x 2018-10-13T12:51:02.000Z
 ▯ is foam/froth.
@@ -7467,9 +7478,6 @@ cea ± `pl` @jiqci #xzjMsUON-l 2023-07-31T08:20:07.824Z
 ceabo ± `en` @Ilmen #K11KjRPpc 2018-10-07T18:21:14.000Z
 ▯ is a marsupial.
 
-ceachu ± `en` @jiqci #pUEz5bw4x 2024-01-03T11:05:11.938Z
-▯ is a cell nucleus.
-
 ceagıaqbıu ± `en` @jiqci #kIIXYgKH3 2023-08-20T17:16:52.002Z
 ▯ are bagpipes.
 
@@ -8247,6 +8255,7 @@ cıereıtaq +2 `en` @nano #zNtXNuznz 2023-11-22T02:27:13.335Z
 ▯ is a "fish roll", a traditional Toaq dish of mainly tilapia, cabbage, and carrot wrapped in rice paper, served with a sweet durian-based sauce.
 robintown (2024-09-21T21:35:43.476Z): confirmed, it's good
 evie (2024-11-09T00:20:01.744Z): similar to gỏi cuốn
+nano (2026-02-12T16:16:24.965Z): pronominal_class: maq
 
 cıereq +2 `en` @Laqme #LZmnOKpaP 2019-02-10T16:08:45.000Z
 ▯ is a merfolk / merperson.
@@ -8471,6 +8480,7 @@ cıuq ± `en` @lassc #th34nDMtL 2025-03-19T23:23:57.449Z
 ▯ places/positions ▯.
 lassc (2025-03-19T23:24:53.342Z): this is worth having as a root i think because of its potential with compounds and the like
 lassc (2025-03-19T23:26:37.757Z): (c c) frame
+evie (2026-02-12T16:53:11.568Z): frame: c c
 
 cıurıaq ± `en` @official #4UjXuDhq2g 2019-05-05T22:25:05.788Z
 predicate: ‘toilet’; ▯ is a toilet.
@@ -10847,6 +10857,9 @@ Dembim (2026-01-20T19:23:58.989Z): Muıjeq shú ọıchıa <@official chıa> da.
 Ilmen (2026-01-20T20:54:19.869Z): discriminator: 2
 Dembim (2026-01-28T14:07:45.064Z): Frame: c 1i
 Dembim (2026-01-28T14:08:01.740Z): Pronominal_class: ho
+Dembim (2026-02-13T01:40:59.598Z): Subject: individual
+Dembim (2026-02-13T01:41:12.290Z): Distribution: d d
+Dembim (2026-02-13T01:41:34.960Z): Note that this differs from official in subject and pronominal class.
 
 chıa -1 `toa` @uakci #tw5Xm_FW3 2019-04-14T20:35:58.000Z
 she bû deq dóshı dósaq na bû jeo dóshı dógu da
@@ -15389,9 +15402,14 @@ deoq +2 `en` @robintown #GtJOyIdx8 2023-01-15T04:07:44.108Z
 ▯ tells / communicates to ▯ that ▯ is the case.
 robintown (2023-01-15T04:10:12.256Z): I find the property version of **deoq** difficult to use in practice, and **duatua** to be a misnomer, so I propose this
 Ilmen (2025-10-31T19:11:51.408Z): On the one hand, words like ⟪kuq⟫ nowadays no longer have an addressee slot. But on the other hand, removing it with ⟪deoq⟫ would result in pretty much the same thing as either ⟪kuaq⟫ or ⟪ruaq⟫ I guess, unless we adopt my idea of ⟪▯ performs speech act ▯⟫, which is unspecific with respect to the nature of the speech act…
+Dembim (2026-02-13T01:59:19.123Z): Given <kuaq>/<ruaq>, I find <@Ilmen deoq> the superior definition. There is now also <nheam> for "▯ conveys the information necessary to conclude that ▯".
 
 deoq +2 `en` @Ilmen #eGhA6ZAmu 2024-10-29T09:57:53.828Z
 ▯ performs speech act ▯ (property).
+Dembim (2026-02-13T01:59:58.752Z): Frame: c 1i
+Dembim (2026-02-13T02:00:04.577Z): Pronominal_class: ho
+Dembim (2026-02-13T02:00:09.172Z): Subject: agent
+Dembim (2026-02-13T02:00:14.841Z): Distribution: d d
 
 deoq ± `en` @el #rPtQUeNzN 2022-08-16T05:22:19.348Z
 predicate: ‘communicate’; ▯ communicates to ▯ that they (the former) satisfy property ▯.
@@ -20374,6 +20392,8 @@ Dembim (2026-01-29T03:00:00.895Z): Compared to <feqruo>, focuses more on a parti
 Dembim (2026-01-29T03:00:17.821Z): Frame: c 1i
 Dembim (2026-01-29T03:00:34.461Z): Pronominal_class: ho
 Dembim (2026-01-29T03:11:17.935Z): <tao> hyponym
+Dembim (2026-02-13T02:06:52.479Z): Subject: agent
+Dembim (2026-02-13T02:07:41.629Z): Distribution: d d
 
 ferısıoq ± `en` @robintown #5S0q2uW4c 2023-11-04T13:09:50.768Z
 ▯ is a Ferris wheel.
@@ -21346,6 +21366,8 @@ Dembim (2026-02-01T00:41:07.241Z): sears
 Dembim (2026-02-01T00:42:49.222Z): Usually there will be some intermediate thermal interface involved, such as oil, but the main source of heat will be contact with e.g. a hot pan
 Dembim (2026-02-01T00:42:59.676Z): Frame: c
 Dembim (2026-02-01T00:43:12.972Z): Pronominal_class: ta
+Dembim (2026-02-13T02:26:12.485Z): Distribution: d
+Dembim (2026-02-13T02:26:22.966Z): Subject: individual
 
 fuepue ± `en` @Laqme #fnL5bPn0k 2024-09-02T11:01:40.576Z
 ▯ is a centipede.
@@ -21432,6 +21454,7 @@ Laqme (2024-10-24T22:33:12.113Z): Works well with serial verbs: **fuı noaq**, *
 
 fuı +2 `en` @nano #_au5XuUIC 2024-10-03T16:41:22.973Z
 ▯ is easy.
+nano (2026-02-12T16:15:12.202Z): pronominal_class: ta
 
 fuı ± `en` @fagri #2hGitoFA1 2021-08-09T02:36:11.500Z
 ▯ finds it easy to satisfy property ▯
@@ -23073,6 +23096,8 @@ geohuaıche ± `en` @TheAndSys #6Bacp98gi 2024-05-05T23:33:51.369Z
 geoı +2 `en` @Laqme #BXvfy3Sot 2022-12-26T19:28:14.966Z
 ▯ rolls.
 robintown (2023-11-16T11:51:15.408Z): Imagined etymology: blend of **gıam** and **muoı**
+evie (2026-02-12T17:01:04.767Z): frame: c
+evie (2026-02-12T17:01:14.294Z): pronominal_class: maq
 
 geoıchao ± `en` @robintown #8h8DyQpwU 2023-11-16T11:51:38.373Z
 ▯ is a wheelchair.
@@ -24434,12 +24459,12 @@ gıudetoa ± `en` @TheAndSys #s0aozeeRP 2024-04-30T02:18:10.577Z
 gıuduo -1 `en` @Ilmen #u9_NGy8dP 2020-01-26T21:19:02.352Z
 ▯ moves along path ▯.
 
-gıufa ± `en` @seaqtaq #m2WQUhHwL 2019-01-31T03:39:32.000Z
-▯ goes along path ▯ from ▯
-
 gıufa ± `en` @Ilmen #jB5rtlIfj 2025-12-25T22:57:19.278Z
 ▯ goes along path ▯.
 Ilmen (2025-12-25T22:57:25.939Z): discriminator: 2
+
+gıufa -1 `en` @seaqtaq #m2WQUhHwL 2019-01-31T03:39:32.000Z
+▯ goes along path ▯ from ▯
 
 gıume ± `en` @lassc #xrUTAJzeV 2025-11-20T22:18:35.802Z
 ▯ is a queue/file/line (first-in/first-out arrangement).
@@ -29972,8 +29997,12 @@ robintown (2021-10-22T14:29:24.900Z): Calque of Mandarin '水晶' ('river crysta
 hıureareaq -1 `en` @Ilmen #xz315kPZa 2018-10-11T22:03:22.000Z
 ▯ is a crocodile.
 
-hıꝡa ± `en` @jiqci #DD2521uSZ 2025-01-14T08:57:25.498Z
-▯ is a siskin (genus Spinus).
+hıꝡa ± `en` @jiqci #h0abWo1HZ 2026-02-12T14:17:24.450Z
+▯ is yeast.
+jiqci (2026-02-12T14:17:38.983Z): etym: Finnish hiiva
+
+hıꝡasaı ± `en` @jiqci #c6AR4Aetf 2026-02-12T14:20:19.028Z
+▯ is an enzyme.
 
 ho- ± `en` @Laqme #UMJeBxPFI 2025-04-26T14:24:14.529Z
 prefix: incorporate **hó** object
@@ -33543,6 +33572,8 @@ jaofoaq ± `toa` @Dembim #mcDDOQPje 2026-01-31T14:27:50.372Z
 ▯, nä foaq kuaq hóa ké kımpaq âq côm báq poq butı sòaojuı hôa kéobu côm báq tı sòaojuı hôa
 Dembim (2026-02-08T13:10:40.895Z): Frame: c
 Dembim (2026-02-08T13:10:49.270Z): Pronominal_class: ho
+Dembim (2026-02-13T02:11:59.457Z): Subject: individual
+Dembim (2026-02-13T02:12:04.780Z): Distribution: d
 
 jaogaıkea ± `en` @jiqci #fMMXCEPql 2023-02-13T21:57:25.972Z
 ▯ is a radar.
@@ -35683,6 +35714,8 @@ according to a credible source, ▯ is the case, but I cannot remember the sourc
 Dembim (2026-01-29T02:48:01.705Z): Frame: 0
 Dembim (2026-01-29T02:48:21.813Z): Pronominal_class: hoq
 Dembim (2026-01-29T02:49:40.929Z): evidential
+Dembim (2026-02-13T02:06:07.300Z): Subject: proposition
+Dembim (2026-02-13T02:06:17.450Z): Distribution: d
 
 jıeq- ± `en` @kazoo #XHCAOPdYy 2025-03-01T17:10:12.729Z
 prefix: makes 2D shape names based on its number of angles, X-gon
@@ -35822,6 +35855,8 @@ according to my past self, who I consider to be a credible source, ▯ is the ca
 Dembim (2026-01-29T02:48:36.295Z): Frame: 0
 Dembim (2026-01-29T02:48:54.805Z): Pronominal_class: hoq
 Dembim (2026-01-29T02:49:21.749Z): evidential
+Dembim (2026-02-13T02:06:28.323Z): Subject: proposition
+Dembim (2026-02-13T02:06:32.892Z): Distribution: d
 
 jıka ± `en` @ijonetun #5eQ2gmpj7 2025-03-23T20:12:14.480Z
 ▯ is unique / iconic / bold / passionate / fierce.
@@ -36273,6 +36308,8 @@ Dembim (2026-01-27T18:48:11.641Z): Pronominal_class: ta
 Dembim (2026-01-27T18:50:38.246Z): Swapped slot order of <@fagri jiqci>
 Dembim (2026-01-27T18:50:56.366Z): kw: unalienable
 Ilmen (2026-01-28T11:13:29.533Z): discriminator: 2
+Dembim (2026-02-13T01:44:34.210Z): Distribution: d d
+Dembim (2026-02-13T01:44:56.343Z): Subject: individual
 
 jıqcıbo ± `en` @jiqci #e3SmIiaUR 2024-06-26T07:55:50.579Z
 ▯ possesses ▯ inalienably.
@@ -37143,11 +37180,15 @@ Dembim (2026-01-28T16:37:34.603Z): Frame: c 2ix
 Dembim (2026-01-28T16:38:07.768Z): Pronominal_class: ta
 Dembim (2026-01-28T16:41:27.007Z): See also <@Dembim aqcha> for a similar idea
 Dembim (2026-01-28T16:42:33.496Z): Etymology: a priori
+Dembim (2026-02-13T02:04:22.320Z): Distribution: n d
+Dembim (2026-02-13T02:04:30.536Z): Subject: free
 
 jole ± `toa` @Dembim #JkcPO1Ceg 2026-01-28T16:39:39.775Z
 cuoı ▯ ▯, lá cuoı já shı ké, ꝡë cuoı shí hóa já gu, gú
 Dembim (2026-01-28T16:40:10.629Z): Frame: c 2ix
 Dembim (2026-01-28T16:40:21.530Z): Pronominal_class: ta
+Dembim (2026-02-13T02:05:47.839Z): Distribution: n d
+Dembim (2026-02-13T02:05:52.815Z): Subject: free
 
 jolıaq ± `en` @official #LHy6K3WMU5 2019-05-05T22:26:05.410Z
 predicate: ‘quartet’; ▯ is a quartet.
@@ -40376,6 +40417,8 @@ Dembim (2026-02-01T20:04:22.047Z): Pronominal_class: ho
 Dembim (2026-02-01T20:08:16.057Z): This is meant as a sort of counterpart to <baı> (which suggests constructive creation) that means creation through destruction/reduction
 Dembim (2026-02-01T20:13:12.746Z): Etymology: the sound of a pestle scraping in a mortar
 Dembim (2026-02-01T20:21:42.710Z): kw: crushes, grinds, mashes
+Dembim (2026-02-13T02:27:41.768Z): Distribution: d d
+Dembim (2026-02-13T02:27:56.580Z): Subject: agent
 
 kashese ± `en` @Dembim #qZ9p3km7T 2026-02-01T20:05:31.071Z
 ▯ is a prototypical product of destruction (paste/powder/rubble), a high-entropy mass of what was once far more ordered
@@ -40728,6 +40771,10 @@ keaqkushu ± `en` @uakci #3O0AJCQbM 2022-03-21T23:02:20.996Z
 
 keaqloeq ± `en` @uakci #tliqjJDSM 2022-12-02T17:20:59.908Z
 ▯ is pickled/brined/marinated.
+Dembim (2026-02-12T15:43:41.722Z): Frame: c
+Dembim (2026-02-12T15:43:47.623Z): Pronominal_class: ta
+Dembim (2026-02-12T15:43:55.460Z): Subject: individual
+Dembim (2026-02-12T15:44:00.446Z): Distribution: d
 
 keaqloha -1 `en` @Ilmen #aV1l79UFh 2019-04-17T09:21:48.000Z
 ▯ is sodium.
@@ -43591,6 +43638,8 @@ nheam ıq ▯ áq ▯
 Dembim (2026-01-28T03:01:06.968Z): Frame: c 1i
 Dembim (2026-01-28T03:01:30.132Z): Pronominal_class: ho
 Ilmen (2026-01-28T11:14:53.117Z): discriminator: 1
+Dembim (2026-02-13T01:47:09.843Z): Subject: agent
+Dembim (2026-02-13T01:47:27.189Z): Distribution: d d
 
 kuaq -1 `toa` @uakci #glEYwCb7- 2019-01-26T11:11:54.000Z
 tua dua chà kûq dóshı sa ráı na dóshı jêo dóshı dógu da
@@ -44301,6 +44350,8 @@ kunesıu ± `en` @Dembim #Ul5eJ5zB8 2026-01-27T14:29:06.798Z
 ▯ is a Canidae
 Dembim (2026-01-27T14:29:15.429Z): Frame: c
 Dembim (2026-01-27T14:29:25.125Z): Pronominal_class: ho
+Dembim (2026-02-13T01:43:59.853Z): Subject: individual
+Dembim (2026-02-13T01:44:05.154Z): Distribution: d
 
 kuneteı ± `en` @Ilmen #33n4R-90G 2018-10-10T16:32:07.000Z
 ▯ belongs to the Caniformia taxonomic suborder.
@@ -45961,7 +46012,7 @@ Dembim (2026-02-12T01:31:39.322Z): Subject: individual
 lazanha -1 `en` @fagri #Muqv-vkb3 2021-08-03T18:56:24.928Z
 ▯ is lasagna
 
-lazaqnha +1 `en` @uakci #68lwnBQBM 2022-05-25T21:39:52.891Z
+lazaqnha +2 `en` @uakci #68lwnBQBM 2022-05-25T21:39:52.891Z
 ▯ is lasagna.
 uakci (2022-05-25T21:40:12.383Z): better reflects the /ɲ.ɲ/ in the original Italian than **lazanha**
 
@@ -47224,6 +47275,7 @@ Dembim (2026-01-23T22:41:49.189Z): Frame: c c
 Dembim (2026-01-23T22:42:03.357Z): Pronominal_class: ho
 Dembim (2026-02-11T22:07:34.005Z): Distribution: d d
 Dembim (2026-02-11T22:07:48.020Z): Subject: agent
+Dembim (2026-02-13T02:31:05.553Z): kw: around
 
 lımnoa ± `en` @Laqme #dm0kk7Xar 2025-03-14T17:30:47.572Z
 ▯ is hard to understand / complicated.
@@ -48019,7 +48071,7 @@ loepuao ± `en` @Ilmen #N_GOLHQ2A 2020-02-24T12:04:39.186Z
 loepuaobıu ± `en` @Ilmen #ogi4SZ8mW 2022-02-16T21:07:09.026Z
 ▯ is a chimney.
 
-loeq +2 `en` @uakci #-E6dKlMwd 2022-12-02T17:17:16.155Z
+loeq +1 `en` @uakci #-E6dKlMwd 2022-12-02T17:17:16.155Z
 ▯ cooks/is cooked.
 uakci (2022-12-02T17:17:28.338Z): replaces **loy**, **lony**
 uakci (2022-12-02T17:18:45.854Z): boils, boiled; cooks, cooked; fries, fried; steams, steamed; treats, treated; pickles, pickled; ferments, fermented; ages, aged; smokes, smoked; kneads, kneaded
@@ -48029,6 +48081,7 @@ uakci (2022-12-02T17:25:35.588Z): spoils, spoiled; rots, rotten; molds/moulds, m
 uakci (2024-03-11T15:24:06.598Z): this is an unaccusative verb, meaning that **loeq kásı** means ‘the nuts cook/are cooking’ and not ‘the nuts cook themselves’ or ‘the nuts are cooked by somebody’ (although this could still be implied). use **tua loeq** for transitive ‘cook’, e.g., **tua loeq jí kásı** ‘i cook the nuts’. also, this word expresses the action of cooking – becoming cooked – and not the state of having been cooked (so possibly ready to eat) – for that, use **luı loeq**, or its abbreviated variant **loq'e**
 Dembim (2026-02-04T02:04:53.401Z): Frame: c
 Dembim (2026-02-04T02:05:09.155Z): Pronominal_class: ta
+Dembim (2026-02-12T15:30:06.541Z): I prefer that this word _not_ include the various ways something can go foul. The result of <loeq> should be something edible.
 
 loeqbıo ± `en` @TheAndSys #A7xyFLZyk 2025-09-09T15:11:37.161Z
 ▯ is a cauldron
@@ -48041,6 +48094,18 @@ loeqfua ± `en` @Laqme #ugRxgYmFL 2024-06-10T18:58:23.095Z
 
 loeqja +1 `en` @Laqme #ZKgqzCK0f 2024-09-19T19:31:44.524Z
 ▯ cooks/fries/prepares ▯.
+Dembim (2026-02-12T15:46:47.372Z): Frame: c c
+Dembim (2026-02-12T15:47:00.210Z): Pronominal_class: ho
+Dembim (2026-02-12T15:47:06.297Z): Subject: agent
+Dembim (2026-02-12T15:47:16.700Z): Distribution: d d
+
+loeqja ± `toa` @Dembim #zgCwPUGWz 2026-02-12T15:47:49.128Z
+tua loeq ▯ ▯
+Dembim (2026-02-12T15:48:26.321Z): Frame: c c
+Dembim (2026-02-12T15:48:37.798Z): Pronominal_class: ho
+Dembim (2026-02-12T15:48:43.202Z): Subject: agent
+Dembim (2026-02-12T15:48:47.513Z): Distribution: d d
+Dembim (2026-02-12T15:48:58.086Z): Discriminator: 1
 
 loeqjueq ± `en` @Laqme #vwcxClbQA 2024-09-19T19:31:54.792Z
 ▯ stir-fries ▯.
@@ -49991,6 +50056,11 @@ maıkueq +2 `en` @Laqme #LuYI7yI1l 2025-05-19T20:05:52.345Z
 
 maılaı ± `en` @Laqme #N8PbkX-Pz 2023-11-09T03:18:25.048Z
 ▯ is a heart (symbol).
+Dembim (2026-02-12T18:54:50.159Z): ideogram ideographic
+Dembim (2026-02-12T18:55:49.340Z): Pronominal_class: hoq
+Dembim (2026-02-12T18:56:03.793Z): Subject: individual
+Dembim (2026-02-12T18:56:08.848Z): Distribution: d
+Dembim (2026-02-12T18:56:14.961Z): Frame: c
 
 maıleı +1 `en` @robintown #pzY3-mv7H 2023-12-23T15:03:28.439Z
 ▯ is a minority with respect to who they love / how they experience love.
@@ -50171,6 +50241,14 @@ Makabanımoa ± `en` @salarua #wQWvXjTlK 2023-12-18T00:23:21.972Z
 makaka ± `en` @Hoemai #Rzj79Sh5N 2019-02-26T20:13:46.000Z
 ▯ is a member of genus Macaca (the macaques).
 
+makam ± `en` @Dembim #kaVaBp6YX 2026-02-12T13:30:15.642Z
+▯ is tamarind fruit
+Dembim (2026-02-12T13:30:47.321Z): Frame: c
+Dembim (2026-02-12T13:30:59.835Z): Pronominal_class: maq
+Dembim (2026-02-12T13:31:07.527Z): Subject: individual
+Dembim (2026-02-12T13:31:14.519Z): Distribution: d
+Dembim (2026-02-12T13:35:25.809Z): Etymology: Thai "มะขาม"
+
 makasıq ± `en` @Ilmen #OCdbkG42y 2019-02-26T17:52:38.000Z
 ▯ is a moccasin (kind of shoe).
 
@@ -50324,6 +50402,8 @@ manakueqgo ± `en` @Dembim #JTr7GHFRa 2026-01-27T14:23:03.542Z
 Dembim (2026-01-27T14:23:11.196Z): Frame: c
 Dembim (2026-01-27T14:23:18.253Z): Pronominal_class: maq
 Dembim (2026-01-27T14:24:27.526Z): any implement for focusing one's magical power
+Dembim (2026-02-13T01:43:38.970Z): Distribution: d
+Dembim (2026-02-13T01:43:49.032Z): Subject: individual
 
 manaopıo ± `en` @Laqme #F_qVMBUQ9 2022-05-10T10:17:28.895Z
 ▯ is agate.
@@ -50479,6 +50559,9 @@ maqkaı ± `en` @Laqme #av5mNx8mB 2024-09-10T21:43:14.837Z
 
 maqkaıheaq ± `en` @Ilmen #PPf6EzgVs 2019-04-18T13:28:39.000Z
 ▯ is a mango tree (Mangifera genus).
+
+maqkıa ± `en` @TheAndSys #-qyoy-vFr 2026-02-12T17:43:49.869Z
+▯ laments ▯
 
 maqlete ± `en` @evie #Gr7bCKGJQ 2024-11-14T19:37:05.456Z
 ▯ is a tortilla
@@ -51927,14 +52010,14 @@ TheAndSys (2023-06-11T06:25:23.519Z): synonym of miehe
 mıechu +1 `en` @Laqme #Jbz59Mpkb 2023-12-04T17:42:45.327Z
 ▯ is one's soul / spirit / psyche.
 
+mıedaohıꝡa ± `en` @jiqci #ydQ_Z2iPC 2026-02-12T14:22:07.356Z
+▯ is a ribozyme.
+
 mıedaolaı ± `en` @Laqme #Bqacqu-99 2023-02-11T03:27:11.148Z
 ▯ is a nucleotide.
 
 mıedaosaı ± `en` @Ilmen #P8JLgF147 2019-04-13T17:01:53.000Z
 ▯ is a nucleic acid (DNA or RNA).
-
-mıedaosoasaı ± `en` @jiqci #GdIV1fCo7 2023-05-23T10:06:18.007Z
-▯ is a ribozyme.
 
 mıedaotıuq ± `en` @jiqci #xKQKgmx9q 2023-04-24T08:57:55.511Z
 ▯ is ribose.
@@ -52664,6 +52747,9 @@ mıtıq +1 `en` @Laqme #lj6JrHgC5 2025-05-12T15:10:14.105Z
 mıto ± `en` @seaqtaq #TtzZOwxgy 2024-11-04T22:54:21.116Z
 ▯ is a biological cell
 seaqtaq (2024-11-04T22:54:52.896Z): Shortening of mıetoaı, which feels quite long be used in compounds
+
+mıtochu ± `en` @jiqci #pzMJfiLSE 2026-02-12T14:02:46.115Z
+▯ is a cell nucleus.
 
 mıtum +1 `en` @nano #QyBx5l2Vp 2023-03-05T09:34:29.216Z
 ▯ avoids understanding ▯ for the benefits associated with not understanding.
@@ -58177,6 +58263,7 @@ Dembim (2026-02-04T03:22:40.076Z): see <loeı>
 nım +2 `en` @nano #XBtCeZ42J 2023-12-09T13:07:14.061Z
 ▯ is a division in an organized system/construct.
 nano (2023-12-09T13:07:22.991Z): class, stratum, strata
+nano (2026-02-12T16:14:52.818Z): pronominal_class: hoq
 
 nımchuaq ± `en` @Laqme #tEl9s2iw2 2023-12-09T14:13:58.058Z
 ▯ is an "ism" that divides people into classes or strata.
@@ -58244,6 +58331,8 @@ nınhoe ± `en` @Dembim #cIvFhIiVO 2026-01-31T15:58:54.478Z
 Dembim (2026-01-31T16:14:52.911Z): Frame: c
 Dembim (2026-01-31T16:15:14.792Z): Pronominal_class: ta
 Dembim (2026-01-31T16:19:52.938Z): For example, "I think someone posted a cat video here yesterday", written in a chat room, could be « Chı jı́, ꝡá do sá poq sá bıdeo bâq kato râo púchaq nı̂nhoe da. »
+Dembim (2026-02-13T02:12:41.928Z): Subject: free
+Dembim (2026-02-13T02:12:47.364Z): Distribution: d
 
 nıo- ± `en` @Laqme #ETsO2qBRO 2024-07-25T08:37:05.897Z
 prefix: X years old
@@ -58940,6 +59029,7 @@ Laqme (2024-10-24T22:28:53.842Z): Works well with serial verbs: **noa fataı**, 
 
 noa +1 `en` @nano #gg_m3Z3mJ 2024-10-24T21:55:01.113Z
 ▯ is difficult.
+nano (2026-02-12T16:15:33.484Z): pronominal_class: ta
 
 noa ± `en` @fagri #SCjRO3MiA 2021-08-09T02:35:49.490Z
 ▯ finds it difficult to satisfy property ▯
@@ -59566,6 +59656,8 @@ noqze ± `en` @Dembim #_4h5sc8K6 2026-02-01T00:10:29.701Z
 Dembim (2026-02-01T00:11:12.886Z): Frame: c
 Dembim (2026-02-01T00:11:23.767Z): Pronominal_class: maq
 Ilmen (2026-02-02T21:51:50.033Z): discriminator: 2
+Dembim (2026-02-13T02:13:46.609Z): Distribution: d
+Dembim (2026-02-13T02:13:59.477Z): Subject: individual
 
 noraı ± `en` @Laqme #wwvUcIQzH 2023-09-03T22:28:16.489Z
 ▯ is some media.
@@ -59689,6 +59781,8 @@ nu ± `toa` @Dembim #y5D2FYP6i 2026-01-31T02:42:56.149Z
 ıq ▯ ní
 Dembim (2026-01-31T02:43:30.723Z): Frame: c
 Dembim (2026-01-31T02:43:51.628Z): Pronominal_class: ta
+Dembim (2026-02-13T02:10:52.779Z): Distribution: n
+Dembim (2026-02-13T02:10:56.969Z): Subject: free
 
 nu -1 `toa` @uakci #8ByRT9l_I 2019-04-15T07:17:40.000Z
 chasıu dóshı ní da
@@ -59996,6 +60090,7 @@ Dembim (2026-02-04T13:30:08.972Z): Pronominal_class: ta
 Dembim (2026-02-04T13:32:54.111Z): kw: smuggle proscribed bootleg unlicensed illegal
 Dembim (2026-02-11T23:58:31.340Z): Subject: individual
 Dembim (2026-02-11T23:58:47.565Z): Distribution: d
+Dembim (2026-02-13T00:58:59.969Z): see also <zearaı>
 
 nuaqshıe ± `en` @robintown #k0aAk9BhO 2023-10-08T13:03:24.880Z
 ▯ is nocturnal.
@@ -60339,6 +60434,7 @@ nuımeı ± `jbo` @zearen #3YncHIbfS 2025-03-16T19:20:02.246Z
 
 nuımıe ± `en` @seaqtaq #3yRDOlpks 2019-11-11T03:43:55.675Z
 ▯ is a microbe
+Dembim (2026-02-12T15:41:53.968Z): microorganism
 
 nuımıebısa ± `en` @nuimshuao #iGfzokkzG 2024-09-06T23:50:26.019Z
 ▯ is an antibiotic / sanitizer; ▯ has antimicrobial properties
@@ -60485,6 +60581,8 @@ nula ± `toa` @Dembim #KpgjK5fjp 2026-01-31T02:35:25.583Z
 cuoı ▯ ▯ ní
 Dembim (2026-01-31T02:36:09.423Z): Frame: c c
 Dembim (2026-01-31T02:36:50.258Z): Pronominal_class: ta
+Dembim (2026-02-13T02:10:39.735Z): Distribution: n n
+Dembim (2026-02-13T02:10:45.214Z): Subject: free
 
 nula -1 `en` @robintown #hRGOICvJx 2025-08-30T08:06:12.877Z
 ▯ does such / goes like that.
@@ -61089,6 +61187,8 @@ nutao ± `toa` @Dembim #rwv-GEMlW 2026-01-31T02:44:49.010Z
 tao ▯ ní
 Dembim (2026-01-31T02:45:01.488Z): Frame: c
 Dembim (2026-01-31T02:45:31.562Z): Pronominal_class: ho
+Dembim (2026-02-13T02:11:07.752Z): Distribution: d
+Dembim (2026-02-13T02:11:12.878Z): Subject: agent
 
 nutaola ± `en` @uakci #pTS8NFzHZ 2026-01-30T12:13:30.338Z
 ▯ acts like this towards ▯; ▯ does such (**nu**) a thing towards ▯.
@@ -61097,6 +61197,8 @@ nutaola ± `toa` @Dembim #val-jqLVs 2026-01-31T02:46:12.918Z
 tao cuoı ▯ ▯ ní
 Dembim (2026-01-31T02:46:23.545Z): Frame: c c
 Dembim (2026-01-31T02:46:42.705Z): Pronominal_class: ho
+Dembim (2026-02-13T02:11:24.163Z): Distribution: d
+Dembim (2026-02-13T02:11:28.868Z): Subject: agent
 
 nutu ± `en` @jiqci #9CIPRq8Zv 2023-07-27T17:47:17.369Z
 ▯ is dregs/debris/remains/gunk/scum.
@@ -61376,6 +61478,8 @@ nheam +1 `en` @TheAndSys #1cv3ZMqtL 2023-10-16T09:11:52.552Z
 Dembim (2026-01-28T00:37:53.367Z): Frame: c 0
 Dembim (2026-01-28T00:38:04.342Z): Pronominal_class: ho
 Ilmen (2026-01-28T10:53:21.833Z): What is the type of the direct object?
+Dembim (2026-02-13T01:48:47.148Z): Subject: agent
+Dembim (2026-02-13T01:49:00.672Z): Distribution: d d
 
 nheaze ± `en` @uakci #F5TxJ6AAp 2023-02-20T18:43:06.049Z
 ▯ is a drink with sedative properties (e.g., chamomile tea).
@@ -62248,6 +62352,7 @@ mimiaoganhaqpy (2025-11-08T07:16:18.400Z): Keyword: one hundred million
 
 okuq ± `en` @jiqci #Q22-amyNV 2024-01-03T07:43:47.233Z
 ▯ is a perch (genus Perca).
+jiqci (2026-02-12T13:52:41.551Z): etym: Proto-Slavic *okunь
 
 ola ± `en` @uakci #CfOb091BC 2023-12-28T20:09:26.076Z
 ▯ is taken aback by ▯; ▯ drops their jaw at ▯.
@@ -62624,7 +62729,7 @@ mıu gı dóshı dógu, na ru cho dóshı gâq dógu dóshı, na na ru (le) shao
 paıcuao ± `en` @uakci #9dFWsnSzS 2021-10-13T15:32:44.350Z
 ▯ and ▯ are at odds with each other.
 
-paıchua ± `en` @uakci #ouehSAwFm 2019-07-11T17:10:47.238Z
+paıchua +1 `en` @uakci #ouehSAwFm 2019-07-11T17:10:47.238Z
 ▯ is a friendly pseudonym for ▯; ▯ is how ▯'s friend(s) call(s) them.
 
 paıchua ± `en` @Laqme #ngIMbZSvd 2022-01-09T13:41:30.898Z
@@ -67098,6 +67203,8 @@ raogaqme ± `en` @Dembim #eaLjN_2wm 2025-12-31T15:45:11.511Z
 ▯ is temporally continuous
 Dembim (2026-01-09T16:31:01.701Z): Frame: c
 Dembim (2026-01-28T14:10:43.062Z): Pronominal_class: ta
+Dembim (2026-02-13T01:37:56.886Z): Subject: individual
+Dembim (2026-02-13T01:38:03.570Z): Distribution: d
 
 raogı ± `en` @Ilmen #YGBRgyBJW 2019-01-20T13:34:27.000Z
 ▯ is timely.
@@ -70457,6 +70564,8 @@ Dembim (2026-01-27T22:40:46.264Z): Frame: c
 Dembim (2026-01-27T22:41:32.256Z): Pronominal_class: maq
 Dembim (2026-01-27T22:43:14.557Z): Etymology: <@uakci rum> and <ruq>, roughly
 Dembim (2026-01-27T22:47:12.439Z): <sá rumuq> does not necessarily stop being <rumuq> just because it's hit the ground
+Dembim (2026-02-13T01:45:43.379Z): Subject: individual
+Dembim (2026-02-13T01:45:52.042Z): Distribution: d
 
 runa ± `en` @uakci #mzm1vjYqq 2023-06-01T22:53:44.709Z
 ▯ is both [of the two]; ▯ is this and that.
@@ -75945,6 +76054,8 @@ sueqloeq ± `en` @Dembim #rIRRt3fJQ 2026-01-28T00:22:33.394Z
 Dembim (2026-01-28T00:22:42.701Z): Frame: c
 Dembim (2026-01-28T00:22:54.525Z): Pronominal_class: ta
 Dembim (2026-01-28T00:23:54.678Z): See also <@uakci sueqloq> for the "heated but not necessarily actually cooked" meaning
+Dembim (2026-02-13T01:46:02.913Z): Subject: individual
+Dembim (2026-02-13T01:46:13.821Z): Distribution: d
 
 sueqloq +1 `en` @uakci #bqKEf-Srp 2023-10-22T14:26:06.632Z
 ▯ is microwave-warmed.
@@ -77338,7 +77449,7 @@ sheameame ± `en` @Ilmen #xrq_3akeu 2019-01-24T10:36:23.000Z
 sheameo ± `en` @seaqtaq #Sy-e1xyVq 2025-05-26T02:05:29.312Z
 ▯ feels ennui / sadness, dissatisfaction, and/or lamentation at the emptiness in their life
 
-sheamı ± `en` @robintown #_Xbn80UjW 2023-01-11T16:30:34.508Z
+sheamı +1 `en` @robintown #_Xbn80UjW 2023-01-11T16:30:34.508Z
 ▯ is outer space.
 
 sheamı'araı ± `en` @robintown #oPSMVY2R6 2023-01-11T16:59:02.426Z
@@ -78504,6 +78615,8 @@ shıqcaı ± `en` @Dembim #lp3El26Bm 2026-02-01T00:51:26.159Z
 ▯ is fragrant/redolent/aromatic
 Dembim (2026-02-01T01:47:21.450Z): Frame: c
 Dembim (2026-02-01T01:47:34.492Z): Pronominal_class: ta
+Dembim (2026-02-13T02:26:59.841Z): Subject: individual
+Dembim (2026-02-13T02:27:20.859Z): Distribution: d
 
 shıqcıkı ± `en` @seaqtaq #Z_LHjwVpv 2024-11-13T16:01:27.100Z
 ▯ is an olfactorily sharp/distinct and intense stimulus
@@ -78661,6 +78774,14 @@ shıqshıq ± `en` @Laqme #4UdDyRiCA 2024-10-08T21:01:49.096Z
 
 shıqto ± `en` @salarua #k5QXIKorD 2022-10-27T21:41:23.437Z
 ▯ is Shinto (being an adherent to Shinto, or relating to adherents to Shinto or the Shinto faith)
+
+shıqtoaı ± `en` @Dembim #0w0eruyOJ 2026-02-13T02:17:01.141Z
+▯ is an odorant
+Dembim (2026-02-13T02:23:39.785Z): Odorants are mostly volatile organic compounds, but of course this word includes any potential olfactory agonist.
+Dembim (2026-02-13T02:23:46.769Z): Frame: c
+Dembim (2026-02-13T02:23:52.948Z): Distribution: d
+Dembim (2026-02-13T02:23:58.819Z): Pronominal_class: maq
+Dembim (2026-02-13T02:24:04.554Z): Subject: individual
 
 shıqzana ± `en` @seaqtaq #Z3dss4Uox 2024-10-29T13:32:40.102Z
 ▯ is olfactorily stimulating/rich; ▯ is intense to smell
@@ -79281,6 +79402,8 @@ tao feobo ▯ ▯
 Dembim (2026-01-24T14:17:48.766Z): Frame: c c
 Dembim (2026-01-24T14:17:55.689Z): Pronominal_class: ho
 Dembim (2026-01-24T14:45:43.365Z): muana he shomdo báq hemsoı báq ream hô rú he shomdo báq lıefache ké seoqrea
+Dembim (2026-02-13T01:42:44.943Z): Subject: agent
+Dembim (2026-02-13T01:42:51.634Z): Distribution: d d
 
 shomdu ± `en` @Laqme #zVVwj0blM 2024-08-10T09:38:05.172Z
 ▯ seems to satisfy property ▯ judging by the look on their face.
@@ -79871,6 +79994,8 @@ shuıla ± `toa` @Dembim #jI6pmo4Jk 2026-01-27T20:19:14.502Z
 tao tıshuı ▯
 Dembim (2026-01-28T03:01:50.414Z): Frame: c
 Dembim (2026-01-28T03:01:56.184Z): Pronominal_class: ho
+Dembim (2026-02-13T01:45:11.313Z): Subject: agent
+Dembim (2026-02-13T01:45:17.053Z): Distribution: d
 
 shuılao ± `en` @Dembim #pfWtFxnTr 2026-02-07T22:56:51.625Z
 ▯ lurks/ lies in wait
@@ -80401,6 +80526,9 @@ tamara +1 `en` @TheAndSys #Mte7kCN8u 2023-05-15T03:06:15.308Z
 ▯ is gentle, is soft
 Dembim (2026-02-04T01:36:05.625Z): Frame: c
 Dembim (2026-02-04T01:38:00.750Z): Pronominal_class: ta
+Dembim (2026-02-12T14:56:42.587Z): Such a pretty word
+Dembim (2026-02-12T14:57:06.762Z): Subject: free
+Dembim (2026-02-12T14:57:18.630Z): Distribution: d
 
 tambu ± `en` @Ilmen #rwvj6MZ1s 2023-02-10T09:14:11.898Z
 ▯ is taboo.
@@ -80482,14 +80610,14 @@ Ilmen (2019-04-17T10:26:48.000Z): Inspired by the probable etymology of the Czec
 Ilmen (2020-07-07T11:47:34.519Z): Lackafi confirmed the etymology of the Czech word as being indeed derived from the word "hlína" ("soil"), on the basis of the authoritative Czech etymological dictionary by Jiří Rejzek.
 jiqci (2025-03-01T14:11:26.805Z): Polish similarly has "glin" from "glina" ("clay")
 
+tao +2 `toa` @Ilmen #1xcxEbPTn 2020-01-26T22:42:12.504Z
+= taoshao rú ıq ▯ ▯.
+
 tao ± `en` @official #1BszDPm_R9 2019-05-05T22:27:40.831Z
 predicate: ‘do’; ▯ does ▯.
 uakci (2020-07-05T22:46:53.601Z): make, do, perform, work
 Isi (2023-04-24T14:16:07.634Z): Intentional, according to the refgram (**bọtao** is defined as "X is intentionally caused by agent Y" in the refgram)
 Laqme (2024-09-28T01:02:30.244Z): The object is a property (**Tao jí, lä hıaı já** = I "do" laughing = I intentionally laugh = **Tao hıaı jí**.)
-
-tao +1 `toa` @Ilmen #1xcxEbPTn 2020-01-26T22:42:12.504Z
-= taoshao rú ıq ▯ ▯.
 
 tao +1 `en` @Isi #G8ZOUyaZc 2024-07-23T16:42:41.448Z
 predicate: ‘do’; ▯ intentionally makes itself satisfy property ▯.
@@ -81176,6 +81304,8 @@ tatoa ± `en` @Dembim #j-mGXF-hl 2026-01-28T13:56:43.671Z
 Dembim (2026-01-28T13:56:48.025Z): Frame: c
 Dembim (2026-01-28T13:56:56.071Z): Pronominal_class: hoq
 Ilmen (2026-01-28T14:14:50.206Z): discriminator: 2
+Dembim (2026-02-13T02:03:03.065Z): Subject: individual
+Dembim (2026-02-13T02:03:18.217Z): Distribution: d
 
 tatu +1 `en` @uakci #ffd2moXrR 2022-07-21T14:04:05.159Z
 ▯ is a tattoo.
@@ -83646,9 +83776,6 @@ toaıcadıushuedamataotenuoqreamoıhuabo ± `en` @slush #6NAxXub0S 2022-10-16T19
 ▯owns a quantum stabilized atom mirror-like surface brain
 evie (2024-06-14T19:33:45.056Z): what
 
-toaıcea ± `en` @jiqci #nP3y6_Ptq 2023-05-08T12:57:50.570Z
-▯ is a biological cell.
-
 toaıceo ± `en` @uakci #2dHbxkDMq 2022-05-28T15:58:10.072Z
 ▯ resumes activity ▯.
 
@@ -83685,6 +83812,14 @@ Xylochoron (2019-01-02T22:34:15.000Z): Ok actually I just realized, I think I wo
 Xylochoron (2019-01-02T22:51:35.000Z): -2
 Dembim (2026-02-10T03:14:32.444Z): Frame: c
 Dembim (2026-02-10T03:14:45.599Z): Pronominal_class: ho
+
+toaımıe ± `en` @Dembim #2CG9x1bP6 2026-02-12T15:35:50.406Z
+▯ is a microorganism
+Dembim (2026-02-12T15:36:13.272Z): Frame: c
+Dembim (2026-02-12T15:36:56.505Z): Pronominal_class: maq
+Dembim (2026-02-12T15:37:16.853Z): Subject: individual
+Dembim (2026-02-12T15:37:22.394Z): Distribution: d
+Dembim (2026-02-12T15:42:05.159Z): microbe
 
 toaınuı ± `en` @Laqme #9G8zw0YXJ 2021-10-14T16:36:48.861Z
 ▯ is very tiny/microscopic/minuscule/infinitesimal.
@@ -86286,6 +86421,8 @@ Dembim (2026-01-30T00:21:03.135Z): Frame: c 1i
 Dembim (2026-01-30T00:21:10.363Z): Pronominal_class: ho
 Dembim (2026-01-30T00:21:19.022Z): tao hyponym
 Dembim (2026-01-30T00:22:03.463Z): see also <=ujı>
+Dembim (2026-02-13T02:09:42.091Z): Distribution: d d
+Dembim (2026-02-13T02:10:02.713Z): Subject: agent
 
 ujoq ± `en` @official #OReOxhkdQ 2022-05-21T12:59:59.995Z
 predicate: ‘mallet’; ▯ is a club/mallet/baton/hammer/pestle.
@@ -87579,6 +87716,8 @@ jiqci (2025-05-05T15:08:36.457Z): hails from
 
 zearaı ± `en` @Laqme #uOc6LjKOK 2025-02-02T10:58:49.019Z
 ▯ are illegal wares / is anything that it's illegal to possess.
+Dembim (2026-02-13T00:58:32.364Z): kw: contraband
+Dembim (2026-02-13T00:58:46.481Z): see also <nuaqsaı>
 
 zeareq ± `en` @zearen #j0Y2jxtkp 2025-08-04T19:51:50.663Z
 ▯ is criminally human
@@ -88905,6 +89044,7 @@ Dembim (2026-02-12T00:12:23.758Z): Frame: c
 Dembim (2026-02-12T00:13:02.042Z): Pronominal_class: hoq
 Dembim (2026-02-12T00:13:30.594Z): Subject: free
 Dembim (2026-02-12T00:13:56.440Z): Distribution: d
+Ilmen (2026-02-12T17:07:23.466Z): discriminator: 2
 
 zuohıra ± `en` @Dembim #rFvcasj4S 2025-11-18T15:45:25.230Z
 ▯ is for some purpose (I don't know what).
@@ -93948,7 +94088,7 @@ Please speak slowly.
 Meo súq kûı hí móq? ± `en` @examples #KZjALH9nRPR 2023-02-11T18:31:26.372Z
 Why are you sad?
 
-- mı ± `en` @jiqci #iUFIzIgoJ 2023-06-10T16:25:28.628Z
+- mı +1 `en` @jiqci #iUFIzIgoJ 2023-06-10T16:25:28.628Z
 suffix: forms words denoting a vast expanse of something
 jiqci (2023-06-10T16:25:51.463Z): akin to **naomı** and **sheamı**
 
@@ -97627,7 +97767,7 @@ fagri (2021-10-29T04:04:39.888Z): use "cou" for the "X flexes on Y" meaning
 ⚠ caıshıy ± `en` @uakci #Imdj3yaox 2022-08-18T17:49:40.778Z
 ▯ becomes foggy/muddled/inapparent.
 
-⚠ cakyı ± `en` @seaqtaq #nlQkHle5X 2021-07-24T04:31:58.627Z
+⚠ cakyı -1 `en` @seaqtaq #nlQkHle5X 2021-07-24T04:31:58.627Z
 in state of affairs▯, the semantic role of FORCE is assumed by ▯
 
 ⚠ ceocıy -1 `en` @uakci #QE96T5VXP 2022-08-06T10:18:58.026Z
@@ -98850,7 +98990,7 @@ fagri (2021-10-25T01:08:40.964Z): Though I admit that nasachitaqtua, which I cam
 ⚠ rıy -1 `en` @akesi #iL4TIHl4H 2020-04-23T02:34:45.037Z
 ▯ is a gas
 
-roaıfeode(poq) +1 `en` @uakci #ojqAPJGYj 2019-04-12T17:03:27.000Z
+roaıfeode(poq) ± `en` @uakci #ojqAPJGYj 2019-04-12T17:03:27.000Z
 ▯ is a 八方美人 [hap·pō·bi·jin]; ▯ is a «person beautiful in eight directions» – somebody who tries to appeal to and be a friend of everybody.
 uakci (2019-04-12T17:05:20.000Z): The term in the source language is generally derogatory.
 
