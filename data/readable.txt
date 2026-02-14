@@ -3539,12 +3539,15 @@ seaqtaq (2024-07-07T14:10:36.174Z): Appears to be a synonym of dıam
 bı'atacha ± `en` @Hoemai #waJJiVWtE 2019-04-05T12:22:16.000Z
 ▯ is a member of the family Blattaria (cockroaches).
 
-bıa +2 `en` @lassc #xZv2z4q4s 2025-03-19T23:46:07.361Z
+bıa +1 `en` @lassc #xZv2z4q4s 2025-03-19T23:46:07.361Z
 ▯ is afflicted with ▯.
 lassc (2025-03-19T23:49:06.508Z): vaguer definition than official to consider more than things typically described in english as "sickness". distinguished from something like **hıaolıe** by this referring to an affliction that occurs over time (similar to an illness)
 ijonetun (2025-04-02T11:54:49.693Z): +1 i like :3
 
-bıa ± `en` @official #fOFG0r1r5m 2019-05-05T22:24:58.082Z
+bıa ± `en` @official #QOs2oSTAK 2026-02-13T17:39:53.343Z
+predicate: ‘sick’; ▯ is sick/ill.
+
+bıa -1 `en` @official #fOFG0r1r5m 2019-05-05T22:24:58.082Z
 predicate: ‘sick’; ▯ is sick/ill; ▯ is sick/ill with ▯.
 
 bıa ± `tok` @el #oIlYhABjX 2022-10-26T18:11:34.811Z
@@ -3564,6 +3567,7 @@ may sakit ang ▯; dumamdam ang ▯ ng sakit na ▯.
 
 bıa ± `en` @robintown #6YtxKiTj5 2024-09-20T20:06:02.830Z
 ▯ is sick/ill.
+Ilmen (2026-02-13T17:52:34.047Z): officialized: yes
 
 bıaca ± `en` @seaqtaq #-goN2Jk8M 2019-09-17T19:19:51.024Z
 ▯ is an illness
@@ -5105,6 +5109,14 @@ Ilmen (2025-10-22T19:48:52.791Z): officialized: yes
 
 boregam ± `en` @jiqci #GCzsdWGOC 2025-11-14T22:17:11.501Z
 ▯ is a rectangle.
+
+borego ± `en` @Dembim #DliGkMZc3 2026-02-13T11:35:55.298Z
+▯ is an iron/roller/press/mangle/grader/"smoother"/ device for rendering (something) smooth/flat.
+Dembim (2026-02-13T11:36:04.192Z): Frame: c
+Dembim (2026-02-13T11:36:10.626Z): Pronominal_class: maq
+Dembim (2026-02-13T11:36:16.670Z): Subject: individual
+Dembim (2026-02-13T11:36:23.870Z): Distribution: d
+Dembim (2026-02-13T11:37:06.339Z): Etymology: <@official bore> + <@Dembim - go>
 
 borekea ± `en` @Snow #ufsRu3TnC 2024-09-25T10:58:45.318Z
 ▯ is a press (such as a hydraulic press).
@@ -13722,6 +13734,7 @@ predicate: ‘eat’; ▯ eats ▯.
 
 chuq -1 `en` @official #PLbQDPsx0l 2019-05-05T22:25:08.716Z
 predicate: ‘eat’; ▯ eats; ▯ eats ▯.
+Ilmen (2026-02-13T12:54:20.854Z): This should be `oldofficial`, as it is now an obsolete definition.
 
 chuq ± `ja` @Laqme #86YQpTMwJ 2021-10-04T15:55:48.599Z
 ▯は食べる；▯は▯を食べる
@@ -17920,11 +17933,12 @@ dunafuom ± `en` @seaqtaq #RPCZgtPXu 2024-10-27T01:55:16.481Z
 dunakua ± `en` @seaqtaq #tfSWhF_eg 2024-11-09T05:02:43.126Z
 ▯ is a holding/containment cell
 
+duo +1 `en` @official #Bzfc6HLTf4 2026-01-21T18:50:16.599Z
+predicate: ‘continue’; ▯ lasts for time ▯.
+
 duo ± `en` @official #H5xijIFYNuA 2021-09-29T13:08:54.561Z
 predicate: ‘continue’; ▯ lasts/continues; ▯ lasts for time ▯.
-
-duo ± `en` @official #Bzfc6HLTf4 2026-01-21T18:50:16.599Z
-predicate: ‘continue’; ▯ lasts for time ▯.
+Ilmen (2026-02-13T12:57:12.550Z): This should be `oldofficial`, as it's an obsolete definition.
 
 duo ± `tok` @el #kVfV7rtyk 2022-07-10T07:10:47.998Z
 tenpo ▯₂ la ▯₁
@@ -20706,6 +20720,9 @@ fıom +1 `en` @Laqme #ZARLufX4D 2023-10-03T16:45:04.188Z
 Fıosazu ± `en` @mimiaoganhaqpy #hDigp0UfV 2023-07-12T19:38:22.508Z
 ▯ is the Viossa language (constructed pidgin).
 
+fıpesa +1 `en` @evie #6-iEG1Vru 2026-02-14T00:49:26.736Z
+▯ is the Subject metadata of Toadua entry ▯
+
 fıqko ± `en` @jiqci #E7iKIb1mx 2024-03-27T12:25:15.690Z
 ▯ is a finch / chaffinch (genus Fringilla).
 
@@ -21602,7 +21619,7 @@ fuq ± `pl` @jiqci #1e0cg6mGrv 2023-07-31T08:20:19.200Z
 fuqbore ± `en` @seaqtaq #V22XOrZtT 2024-10-16T21:43:53.564Z
 ▯ irons ▯ with a clothing iron.
 
-fuqborechuo ± `en` @seaqtaq #Oi7-IzZuP 2024-10-16T21:44:34.350Z
+fuqborechuo -1 `en` @seaqtaq #Oi7-IzZuP 2024-10-16T21:44:34.350Z
 ▯ is a clothing iron
 
 fuqboretoq ± `en` @Snow #dWIK9pdgY 2024-10-17T10:44:12.033Z
@@ -23826,11 +23843,12 @@ gıempıa ± `en` @Laqme #sUt5a3xh2 2023-11-20T02:29:31.452Z
 gıemshıe ± `en` @Laqme #oXXP6-bpE 2025-02-04T13:07:43.335Z
 ▯ is half-asleep / half-awake.
 
-gıeq ± `en` @official #AGzEjORT_F 2019-05-05T22:25:41.268Z
+gıeq -1 `en` @official #AGzEjORT_F 2019-05-05T22:25:41.268Z
 predicate: ‘shock’; ▯ shocks ▯.
 Dembim (2026-02-07T21:53:39.782Z): electrically, or just in the general sense of "has a sudden and pronounced effect"?
 Dembim (2026-02-07T21:56:02.504Z): I guess the latter, judging by compounds
 Dembim (2026-02-07T22:11:51.445Z): see <@Dembim gıeq>
+Dembim (2026-02-13T11:56:24.482Z): This seems to basically be an emotion word. Emotion words should not have stimulus slots.
 
 gıeq ± `pl` @jiqci #BfBcMd1OFe 2023-07-31T08:20:31.812Z
 ▯ szokuje ▯.
@@ -23841,6 +23859,7 @@ Dembim (2026-02-07T22:12:03.517Z): Pronominal_class: ho
 Dembim (2026-02-07T22:12:07.053Z): Frame: c
 Dembim (2026-02-07T22:38:24.064Z): see also <gıeqshoem>, which is necessarily more intense and/or prolonged
 Ilmen (2026-02-07T22:40:58.103Z): discriminator: 2
+Dembim (2026-02-13T12:20:02.885Z): kw: dazed, taken aback
 
 gıeqca ± `en` @Ilmen #tor4oNntH 2026-02-07T22:41:31.536Z
 predicate: ‘shock’; ▯ shocks ▯ emotionally.
@@ -27446,6 +27465,10 @@ halao +2 `en` @Laqme #gAMgoyB3F 2025-03-02T16:57:48.767Z
 Laqme (2025-03-02T18:09:38.984Z): from Malay "halau"
 Laqme (2025-03-02T18:17:19.749Z): Pretty generic: "to relieve" pain/doubt/sadness, "to solve" a problem, "to exorcise" a spirit, "to shoo off" a person, "to remove" something that's physically in the way
 Laqme (2025-03-02T18:23:11.386Z): "drives away", "gets rid of"
+Dembim (2026-02-14T01:13:51.149Z): Frame: c c
+Dembim (2026-02-14T01:14:00.578Z): Pronominal_class: ho
+Dembim (2026-02-14T01:14:07.614Z): Distribution: d d
+Dembim (2026-02-14T01:14:15.562Z): Subject: agent
 
 halaotaq ± `en` @seaqtaq #nns_BvBsY 2025-03-02T19:48:32.003Z
 ▯ leaves/scurries off/removes themselves/gets out
@@ -28080,6 +28103,9 @@ Laqme (2023-07-17T01:20:26.481Z): Not really lexical tone — if you see "hê", 
 
 hea ± `en` @official #Cek4_oFOFv 2019-05-05T22:25:56.468Z
 predicate: ‘piece’; ▯ is a piece/chunk; ▯ is a piece/chunk of substance ▯.
+
+hea ± `en` @official #EJ7HpuuOZ 2026-02-13T17:33:53.690Z
+predicate: ‘piece’; ▯ is a piece/chunk of substance ▯.
 
 hea ± `pl` @jiqci #0xbMeeT3F4 2023-07-31T08:20:41.899Z
 ▯ to fragment/kawałek substancji ▯.
@@ -31740,7 +31766,10 @@ huogaıkea +1 `en` @Laqme #gEXYdNf1T 2019-02-03T03:05:52.000Z
 huoge ± `en` @Ilmen #c5qqCO4e8 2020-03-10T22:58:29.787Z
 ▯ emits sound ▯.
 
-huogı ± `en` @official #TqlnOApR9u 2019-05-05T22:25:49.903Z
+huogı ± `en` @official #EibuoEbvUi 2026-02-13T17:39:53.731Z
+predicate: ‘sound.good’; ▯ sounds good.
+
+huogı -1 `en` @official #TqlnOApR9u 2019-05-05T22:25:49.903Z
 predicate: ‘sound.good’; ▯ sounds good; ▯ sounds good to ▯.
 mimiaoganhaqpy (2024-11-12T23:22:07.450Z): “euphonic”
 
@@ -38634,7 +38663,7 @@ Event ▯ has ▯ as benefactor.
 juqbuo ± `en` @uakci #BhW_NVe3c 2022-10-26T15:34:11.614Z
 ▯ is accepting of / willing to receive property ▯.
 
-juqca +1 `en` @uakci #ha6zjkRy_ 2022-07-31T08:55:31.604Z
+juqca +2 `en` @uakci #ha6zjkRy_ 2022-07-31T08:55:31.604Z
 ▯ has an effect on / affects ▯; ▯ causes ▯ to receive property ▯; ▯ has ▯ as an effective target / affected party.
 
 juqcaha ± `en` @Ilmen #mTzxV2t8T 2023-01-13T22:25:52.924Z
@@ -40001,6 +40030,9 @@ kaqgegaı ± `en` @Ilmen #wkeSI62Dh 2019-02-14T22:58:35.000Z
 
 kaqgı ± `en` @official #0KUuqDAeKd 2019-05-05T22:26:11.095Z
 predicate: ‘look.good’; ▯ looks good; ▯ looks good to ▯.
+
+kaqgı ± `en` @official #SRbdyF6n3E 2026-02-13T17:39:53.849Z
+predicate: ‘look.good’; ▯ looks good.
 
 kaqgı ± `tok` @el #UPylspBXt 2022-07-10T05:14:50.757Z
 ▯ li pona lukin
@@ -41995,6 +42027,7 @@ kımpaq ± `en` @Dembim #dBVX6ttRg 2026-01-20T20:37:47.369Z
 Dembim (2026-01-20T21:14:48.669Z): Frame: c c
 Dembim (2026-01-20T21:50:26.238Z): see also <@uakci kım'ıq>— synonyms but for slot order
 Dembim (2026-01-22T19:20:13.852Z): Pronominal_class: hoq
+Dembim (2026-02-13T11:45:26.942Z): Distribution: d d
 
 kımsope ± `en` @Laqme #QLF_zcWu1 2024-01-12T09:42:05.196Z
 ▯ swap identities / personas.
@@ -53541,6 +53574,8 @@ moıge +4 `en` @Laqme #d3W96P-Gc 2019-02-08T12:48:23.000Z
 ▯ is an intellectual stimulus / really makes you think / is food for thought.
 Dembim (2026-02-04T01:03:44.203Z): Pronominal_class: hoq
 Dembim (2026-02-04T18:30:14.103Z): Frame: c
+Dembim (2026-02-13T11:48:28.048Z): Subject: free
+Dembim (2026-02-13T11:48:48.799Z): Distribution: d
 
 moıge -1 `en` @Ilmen #Kn7wsk0cl 2020-02-17T12:30:49.588Z
 ▯ evokes, in the mind of ▯, thought or mental manifestation ▯.
@@ -54126,6 +54161,9 @@ Ilmen (2020-02-28T12:05:16.148Z): Shortening of "muıjēqkūq".
 
 mua ± `en` @official #sRcHzgTKJo 2019-05-05T22:26:35.107Z
 predicate: ‘example’; ▯ is an example of ▯.
+
+mua ± `en` @official #BI-42_tewj 2026-02-13T17:39:54.044Z
+predicate: ‘example’; ▯ is an example of what satisfies property ▯.
 
 mua ± `pl` @jiqci #N2lVXd6Eui 2023-07-31T08:21:19.530Z
 ▯ to przykład ▯.
@@ -56535,6 +56573,9 @@ robintown (2023-02-19T15:14:43.357Z): From Proto-Toaqic *nınỉ (Earth) and Pro
 
 naqpao ± `en` @official #5byYMVu53 2019-05-05T22:26:45.600Z
 predicate: ‘father’; ▯ is a father of ▯; acts as a father towards ▯.
+
+naqpao ± `en` @official #Qi-i8vRYD 2026-02-13T22:03:54.737Z
+predicate: ‘father’; ▯ is a father of ▯; ▯ acts as a father towards ▯.
 
 naqpao ± `tok` @el #U36p9ZYp7 2022-07-10T07:10:10.293Z
 ▯ li mama mije e ▯
@@ -59527,7 +59568,10 @@ noqgaı ± `pl` @jiqci #jSQ5Elvi9b 2023-07-31T08:21:40.478Z
 noqge ± `en` @Laqme #aXcajtjey 2024-10-30T18:11:17.319Z
 ▯ is a taste/flavor.
 
-noqgı ± `en` @official #qdpTf_g51Y 2019-05-05T22:26:55.274Z
+noqgı ± `en` @official #TJmck5q3X 2026-02-13T17:39:54.135Z
+predicate: ‘delicious’; ▯ tastes good / is delicious.
+
+noqgı -1 `en` @official #qdpTf_g51Y 2019-05-05T22:26:55.274Z
 predicate: ‘delicious’; ▯ tastes good / is delicious; ▯ tastes good / is delicious to ▯.
 
 noqgı ± `tok` @el #gnZ5_QQo- 2022-07-10T05:14:29.247Z
@@ -59542,7 +59586,10 @@ What does ▯ taste like? How does ▯ taste?
 noqhıaq ± `en` @uakci #l_8W6lRs9 2022-05-23T11:45:59.148Z
 ▯ is poor in taste; ▯ is bland/insipid.
 
-noqhuı ± `en` @official #ELin1ebysh 2019-05-05T22:26:55.423Z
+noqhuı ± `en` @official #-P7zTS3Mp2 2026-02-13T17:39:54.140Z
+predicate: ‘taste.bad’; ▯ tastes bad.
+
+noqhuı -1 `en` @official #ELin1ebysh 2019-05-05T22:26:55.423Z
 predicate: ‘taste.bad’; ▯ tastes bad; ▯ tastes bad to ▯.
 
 noqhuı ± `pl` @jiqci #T0dvYWbnKb 2023-07-31T08:21:40.761Z
@@ -61865,13 +61912,13 @@ prefix: Like **nhu-**, but always names a new variable, overriding previous ‹n
 Neaqbua (2024-10-02T01:25:00.465Z): 	Introduces something relevant in the current context without worrying about previous bindings to the same word. See **nhu-**.
 Neaqbua (2024-10-02T01:25:14.178Z): 	Intuitively, ‹nhúaı-kune› is read as "a dog that will remain relevant for a while."
 
-nhuaı +2 `en` @Ilmen #P3--SLtcH 2022-11-10T14:04:57.953Z
+nhuaı +3 `en` @Ilmen #P3--SLtcH 2022-11-10T14:04:57.953Z
 ▯ is a quale, a sensation, a sensory experience.
 
 nhuaıgaı ± `en` @Ilmen #2PfKW9xmc 2022-11-10T14:12:21.709Z
 ▯ has sensory perception ▯ (quale, raw sensory experience, neither the stimuli/cause thereof nor any proposition induced from it).
 
-nhuaıge ± `en` @Ilmen #ZFg_4kOU5 2022-11-10T14:14:11.908Z
+nhuaıge +1 `en` @Ilmen #ZFg_4kOU5 2022-11-10T14:14:11.908Z
 physical entity ▯ is a stimulus source of quale ▯.
 
 nhuaılıe ± `en` @Ilmen #t9ifhvWYx 2022-11-10T14:09:35.988Z
@@ -62704,7 +62751,10 @@ pahoehoe ± `en` @jiqci #UAh6wM8Xo 2025-09-06T09:48:47.919Z
 pahukorı ± `en` @Ilmen #G1cuHGyEd 2020-04-02T12:52:57.066Z
 ▯ is a true bug of the Pyrrhocoris genus.
 
-paı ± `en` @official #dJs1xRB46k 2019-05-05T22:26:59.155Z
+paı ± `en` @official #_mZNtKX0jR 2026-02-13T17:39:54.175Z
+predicate: ‘friend’; ▯ is a friend of ▯.
+
+paı -1 `en` @official #dJs1xRB46k 2019-05-05T22:26:59.155Z
 predicate: ‘friend’; ▯ is a friend; ▯ is a friend of ▯.
 
 paı ± `ja` @Laqme #EXPOjQZdA 2021-10-05T14:19:18.034Z
@@ -65870,6 +65920,9 @@ puaqge ± `en` @jiqci #srZ8P8cyr 2024-06-28T15:55:09.607Z
 puaqgı ± `en` @official #H6zCaI1hD8 2019-05-05T22:27:01.142Z
 predicate: ‘feel.good’; ▯ is nice to the touch; ▯ is nice to the touch of ▯.
 
+puaqgı ± `en` @official #1uUNWgd4Us 2026-02-13T17:39:54.218Z
+predicate: ‘feel.good’; ▯ is nice to the touch.
+
 puaqgı ± `pl` @jiqci #jnId2l2cgK 2023-07-31T08:21:45.675Z
 ▯ jest miły w dotyku (dla ▯).
 
@@ -67973,12 +68026,15 @@ rena ± `en` @seaqtaq #i4rLbZYhd 2024-10-24T09:08:44.954Z
 ▯ is conducive to ▯; ▯ is (likely to) engender conditions favorable for ▯ to happen
 seaqtaq (2024-10-24T09:08:50.364Z): A priori
 
-reo ± `en` @official #OICmTNiH4h 2019-05-05T22:27:20.023Z
-predicate: ‘coloured’; ▯ is coloured; ▯ is of colour ▯.
-Dembim (2026-02-10T17:35:47.314Z): kw: colored
-
 reo +1 `en` @Laqme #PloWQglHg 2025-01-22T02:24:52.413Z
 ▯ is a color.
+
+reo ± `en` @official #MiauDR5CDE 2026-02-13T17:39:54.252Z
+predicate: ‘has.colour’; ▯ is of colour ▯.
+
+reo -1 `en` @official #OICmTNiH4h 2019-05-05T22:27:20.023Z
+predicate: ‘coloured’; ▯ is coloured; ▯ is of colour ▯.
+Dembim (2026-02-10T17:35:47.314Z): kw: colored
 
 reo ± `ja` @Laqme #6IJ87o3PD 2021-10-11T16:49:11.870Z
 ▯は色付き；▯に▯という色が付いている
@@ -70905,9 +70961,6 @@ ruqshua ± `en` @uakci #oT94YKI7S 2022-12-22T18:20:50.382Z
 predicate: ‘for it to rain’; It rains.
 Ilmen (2025-10-31T19:27:15.262Z): officialized: yes
 
-Ruqshua. ± `en` @examples #faORp-U9jdZ 2023-01-09T21:51:47.021Z
-It is raining.
-
 ruqshua ± `pl` @jiqci #19WNGOCGL 2023-07-31T08:21:54.070Z
 Pada deszcz.
 
@@ -70916,6 +70969,9 @@ ruqshua ± `ru` @SuperSpaceNiM #Z0QI24BVu 2024-08-11T17:55:46.399Z
 
 ruqshua -1 `toa` @uakci #H7dziX-fZ 2019-04-15T04:54:25.000Z
 shua dóshı ruq dógu dósaq da
+
+Ruqshua. -1 `en` @examples #faORp-U9jdZ 2023-01-09T21:51:47.021Z
+It is raining.
 
 ruqshuanaı ± `en` @fagri #4B6jV8zN0 2019-02-27T00:14:38.000Z
 It's raining.
@@ -73154,7 +73210,10 @@ prefix: turns a verb into a discursive announcing/tagging the start of a (verb)
 Laqme (2025-04-08T20:03:59.456Z): For example, **sịaomose** "I quote…" **sịaolua** "Okay, story time…" **sịaoneaıse** "Proof: ..."
 Laqme (2025-04-08T20:10:58.583Z): See also **fao-**, but one may be used without the other.
 
-sıao ± `en` @official #93NhRaC20u 2019-05-05T22:27:28.688Z
+sıao ± `en` @official #bAl0y_0-3K 2026-02-13T17:39:54.406Z
+predicate: ‘beginning’; ▯ is a beginning/start of ▯.
+
+sıao -1 `en` @official #93NhRaC20u 2019-05-05T22:27:28.688Z
 predicate: ‘beginning’; ▯ is a beginning/start; ▯ is a beginning/start of ▯.
 
 sıao ± `tok` @el #IOSK6T5p3 2022-07-10T07:14:11.827Z
@@ -73682,6 +73741,7 @@ sıgı +6 `en` @Laqme #_ko4X6EVL 2023-03-28T18:31:54.986Z
 predicate: ‘interesting’; ▯ is interesting.
 Dembim (2026-02-04T02:15:54.018Z): Frame: c
 Dembim (2026-02-04T02:16:01.496Z): Pronominal_class: ta
+Ilmen (2026-02-13T17:49:24.355Z): officialized: yes
 
 sıgı ± `en` @Ilmen #b_MDV1fxY 2019-12-29T10:28:24.512Z
 ▯ is interesting; ▯ is interesting to ▯.
@@ -75670,6 +75730,9 @@ suaıkoıluaq ± `en` @uakci #elaLC3z4O 2020-05-18T18:16:39.945Z
 
 suaıkuaı ± `en` @official #IWPoEhg2qu 2019-05-05T22:27:24.931Z
 predicate: ‘in.a.hurry’; ▯ is in a hurry; ▯ feels the urge to quickly satisfy property ▯.
+
+suaıkuaı ± `en` @official #96VHfm5oyM 2026-02-13T17:39:54.440Z
+predicate: ‘in.a.hurry’; ▯ is in a hurry, feeling the urge to quickly satisfy property ▯.
 
 suaıkuaı ± `pl` @jiqci #1jnhg0kbTZ 2023-07-31T08:22:06.464Z
 ▯ śpieszy się; czuje potrzebę jak najszybszego spełnienia własności ▯.
@@ -85692,7 +85755,10 @@ Laqme (2024-12-30T14:22:37.607Z): flat
 tunu ± `en` @mimiaoganhaqpy #KOX_rdk4i 2022-06-26T19:27:17.245Z
 ▯ is a tuna fish.
 
-tuo ± `en` @official #0W4e8W1WkI 2019-05-05T22:27:45.815Z
+tuo ± `en` @official #yS7Ybfkne 2026-02-13T17:33:54.578Z
+predicate: ‘swallow’; ▯ swallows ▯.
+
+tuo -1 `en` @official #0W4e8W1WkI 2019-05-05T22:27:45.815Z
 predicate: ‘swallow’; ▯ swallows; ▯ swallows ▯.
 Laqme (2022-12-26T19:34:20.592Z): maybe a good word for "ingests/consumes" for things that aren't food
 
