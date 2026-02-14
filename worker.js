@@ -36,6 +36,7 @@ function search(q) {
       "not",
       "order",
       "ord",
+      "count",
       "warn",
       "w",
       "frame",
@@ -45,7 +46,7 @@ function search(q) {
     ];
     if (colon && !operators.includes(operator))
       return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
-    if (["/", "arity"].includes(operator) && !/^[0-9]?$/.test(query))
+    if (["/", "arity", "count"].includes(operator) && !/^[0-9]*$/.test(query))
       return {
         err: `<code>${escapeHTML(query)}</code> is not an unsigned integer`,
       };
@@ -74,11 +75,14 @@ function search(q) {
       return { err: `<code>w</code> does not accept arguments, it's a flag` };
     if (operator == "ord") operator = "order";
     if (operator == "order") {
-      if (terms.length == 1) terms.push({ op: "~", orig: "", value: "" });
       if (!orders[query])
         return {
           err: `<code>${escapeHTML(query)}</code> is not an ordering. available orderings: <code>default</code> <code>random</code> <code>alpha</code> <code>highest</code> <code>lowest</code> <code>newest</code> <code>oldest</code>`,
         };
+    }
+    if (operator == "count") {
+      if (+query > dict.length)
+        return {err: `there are only ${dict.length} entries!`};
     }
     if (operator == "frame" && !/^(0|1x?|2(xx)?|c(0|1[ix]?|2(ix|x[ix])?|c(0|1[ijx]?|2(i[jx]|j[ix]|x[ijx])?|c)?)?)?$/.test(query))
       return {
@@ -104,8 +108,12 @@ function search(q) {
   });
   if (terms.filter((t) => t.op == "order").length > 1)
     return { err: `it is not possible to have multiple orders` };
+  if (terms.filter((t) => t.op == "count").length > 1)
+    return { err: `it is not possible to have multiple counts` };
   let err = terms.find((t) => t.err);
   if (err) return err;
+  if (terms.length == 1 && ["order","count"].includes(terms[0].op))
+      terms.push({ op: "~", orig: "", value: "" });
   let excluded = terms
     .filter((t) => ["!", "not"].includes(t.op))
     .map((t) => search(t.orig));
@@ -122,7 +130,7 @@ function search(q) {
       arities = arities.filter((x) => x != 0);
     }
     let scores = terms
-      .filter((t) => t.op != "order")
+      .filter((t) => t.op != "order" && t.op != "count")
       .map(({ op, orig, value, comparison }) => {
         // 6: id
         if (["#", "id"].includes(op) && entry.id == orig) return 6;
@@ -145,7 +153,7 @@ function search(q) {
         }
         // 3: body
         if (["body", ""].includes(op)) {
-          const v = normalize_query(value).replace(
+          const v = normalize_query(value).replace(/_/g, " ").replace(
             /[.*+?^${}()|[\]\\]/g,
             "\\$&",
           );
@@ -240,8 +248,15 @@ function search(q) {
     res.push([entry, Math.max(...scores) + bonus]);
   }
   let order = terms.find((t) => t.op == "order") || { value: "default" };
-  if (order.value == "random") return shuffle(res);
-  return res.sort(orders[order.value]);
+  if (order.value == "random")
+    res = shuffle(res);
+   else
+    res = res.sort(orders[order.value]);
+  let count_term = terms.find((t) => t.op == "count");
+  if (count_term) {
+      res = res.slice(0, +count_term.value);
+  }
+  return res;
 }
 const tones = `\u0300\u0301\u0308\u0302`;
 const underdot = `\u0323`;
