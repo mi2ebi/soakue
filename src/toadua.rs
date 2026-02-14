@@ -51,6 +51,10 @@ pub struct Toa {
         skip_serializing_if = "Option::is_none"
     )]
     pub animacy: Option<String>,
+    #[serde(skip_deserializing, skip_serializing_if = "Option::is_none")]
+    pub distribution: Option<String>,
+    #[serde(skip_deserializing, skip_serializing_if = "Option::is_none")]
+    pub subject: Option<String>,
 }
 
 fn normalize_for_validation(text: &str) -> String {
@@ -108,16 +112,28 @@ impl Toa {
             })
             .collect_vec();
     }
+    pub fn has_metadata(&self) -> bool {
+        [self.frame.clone(), self.animacy.clone(), self.distribution.clone(), self.subject.clone()]
+            .iter()
+            .any(Option::is_some)
+    }
     pub fn get_metadata_from_notes(&mut self) {
-        self.frame = self.notes.iter().sorted_by_key(|n| &n.date).rev().find_map(|n| {
-            FRAME_COMMENT
-                .captures(&n.content)
-                .and_then(|caps| caps.get(1).map(|m| m.as_str().to_string()))
-        });
-        // self.animacy is set by toadua already
+        macro_rules! set {
+            ($field:ident, $regex:ident) => {
+                self.$field = self.notes.iter().sorted_by_key(|n| &n.date).rev().find_map(|n| {
+                    $regex
+                        .captures(&n.content)
+                        .and_then(|caps| caps.get(1).map(|m| m.as_str().to_string()))
+                });
+            };
+        }
+        set!(frame, FRAME_NOTE);
+        // .animacy is set (and correctly) by toadua already
+        set!(distribution, DISTRIBUTION_NOTE);
+        set!(subject, SUBJECT_NOTE);
     }
 }
-static FRAME_COMMENT: LazyLock<Regex> = LazyLock::new(|| {
+static FRAME_NOTE: LazyLock<Regex> = LazyLock::new(|| {
     Regex::new(
         r"(?ix)^frame\s*:\s*(
             0 | 1x? | 2(?:xx)? | c\s*(?:
@@ -125,10 +141,14 @@ static FRAME_COMMENT: LazyLock<Regex> = LazyLock::new(|| {
                     0 | 1[ijx]? | 2(?:i[jx]|j[ix]|x[ijx])? | c
                 )?
             )?
-        )$
-    ",
+        )$",
     )
     .unwrap()
+});
+static DISTRIBUTION_NOTE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"(?i)^distribution\s*:\s*(([nd]\s*){1,3})$").unwrap());
+static SUBJECT_NOTE: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(?i)^subject\s*:\s*(free|individual|predicate|event|agent|shape)$").unwrap()
 });
 
 impl Display for Toa {

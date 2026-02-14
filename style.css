@@ -118,9 +118,6 @@ button {
 }
 .gray {
   color: var(--gray);
-  a&:hover {
-    color: var(--purple);
-  }
 }
 a {
   color: var(--blue);
@@ -207,13 +204,19 @@ dd {
   color: var(--adv);
   white-space: nowrap;
 }
-.score,
-.score a {
+.meta {
+  font-size: 0.9rem;
+}
+.score {
   color: var(--purple);
+  font-variant-numeric: proportional-nums;
 }
 .notes {
   font-size: 0.9rem;
   margin-top: 0.2em;
+  .nuser, .nuser a {
+    color: var(--purple);
+  }
 }
 @media (prefers-contrast: more) {
   :root {

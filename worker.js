@@ -20,7 +20,7 @@ function shuffle(a) {
 function search(q) {
   let terms = q.split(" ");
   terms = terms.map((term) => {
-    let [_, operator, query] = term.match(/^([=~@#/$!^-]|[a-z]*:)(.*)/) ?? [];
+    let [_, operator, query] = term.match(/^([=~@#/$!^]|[a-z]*:)(.*)/) ?? [];
     if (!operator) return { op: "", orig: term, value: term.toLowerCase() };
     let colon = operator.endsWith(":");
     operator = operator.replace(/:$/, "");
@@ -38,7 +38,9 @@ function search(q) {
       "warn",
       "w",
       "frame",
-      "anim"
+      "anim",
+      "dist",
+      "subj"
     ];
     if (colon && !operators.includes(operator))
       return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
@@ -73,6 +75,14 @@ function search(q) {
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid pronominal class`
       }
+    if (operator == "dist" && !/^[nd]{0,3}$/.test(query.normalize("NFD")))
+      return {
+        err: `<code>${escapeHTML(query)}</code> isn't a valid distribution`
+      }
+    if (operator == "subj" && !/^[fipeas]?$/.test(query.normalize("NFD")))
+      return {
+        err: `<code>${escapeHTML(query)}</code> isn't a valid subject type`
+      }
     return {
       op: operator,
       orig: query,
@@ -84,7 +94,7 @@ function search(q) {
   let err = terms.find((t) => t.err);
   if (err) return err;
   let excluded = terms
-    .filter((t) => ["!", "-", "not"].includes(t.op))
+    .filter((t) => ["!", "not"].includes(t.op))
     .map((t) => search(t.orig));
   err = excluded.find((e) => e.err);
   if (err) return err;
@@ -160,10 +170,12 @@ function search(q) {
             (entry.score >= value || entry.score == value.replace(/^=/, ""))) ||
           (op == "warn" && entry.warn) ||
           ["!", "-", "not"].includes(op) ||
-          (op == "frame" && entry.frame !== undefined && (
+          (op == "frame" && entry.frame && (
             value == entry.frame.replace(/ /g, "") || value == entry.frame.replace(/ |[ijx]+$/g, "") || !value && entry.frame
           )) ||
-          (op == "anim" && (value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy || !value && entry.animacy))
+          (op == "anim" && entry.animacy && (value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy || !value && entry.animacy)) ||
+          (op == "dist" && entry.distribution && (value == entry.distribution.replace(/ /g, "") || !value && entry.distribution)) ||
+          (op == "subj" && entry.subject && (value == entry.subject || !value && entry.subject))
         )
           return 0.1;
       });

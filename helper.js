@@ -36,19 +36,32 @@ let htmlify = (json) =>
       json.warn ? mkel("span", {}, "⚠\ufe0f ") : null,
       makeLink(json.head, json.head.replace(/'/g, "’"), { className: "toa" }),
       " ",
-      json.frame ? mkel("span", { className: "adv" }, ["(", makeLink("frame:" + json.frame.replace(/ /g, ""), [json.frame]), ")"]) : null,
+      json.frame ? mkel("span", { className: "adv nobr" }, [
+        "(",
+        makeLink("frame:" + json.frame.replace(/ /g, ""), [json.frame]),
+        ")"
+      ]) : null,
+      " ",
+      json.distribution ? mkel("span", { className: "adv nobr" }, [
+        "(",
+        makeLink("dist:" + json.distribution.replace(/ /g, ""), json.distribution),
+        ")"
+      ]) : null,
       " ",
       json.animacy ? mkel("span", { className: "adv" }, [makeLink("anim:" + json.animacy, json.animacy.replace(/(?<=[aeiıou])/, "\u0301").normalize("NFC"))]) : null,
       " ",
-      mkel("span", { className: "nobr" }, [
-        makeLink("$" + json.scope, json.scope, { className: "gray" }),
-        " ",
+      json.subject ? mkel("span", { className: "adv" }, [makeLink("subj:" + json.subject[0], json.subject[0].toUpperCase())]) : null,
+      " ",
+      // mkel("br", {}, []),
+      mkel("span", { className: "gray meta nobr" }, [
         makeLink("@" + json.user, json.user),
         " ",
         makeLink("#" + json.id, json.date.slice(0, 10), {
           className: "date",
           "data-id": json.id,
         }),
+        " ",
+        makeLink("$" + json.scope, json.scope, {}),
         " ",
         mkel("span", { className: "score" }, [
           ("" + json.score).replace(/^0$/, "±").replace(/^(\d)/, "+$1"),
@@ -71,7 +84,7 @@ let htmlify = (json) =>
       "div",
       { className: "notes indent" },
       json.notes.flatMap((note) => [
-        mkel("span", { className: "score" }, [
+        mkel("span", { className: "nuser" }, [
           makeLink("@" + note.user, note.user),
           ": ",
         ]),

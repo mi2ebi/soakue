@@ -1,3 +1,5 @@
+#![allow(clippy::cast_precision_loss)]
+
 mod dedup;
 mod letters;
 mod old_main;
@@ -33,6 +35,11 @@ pub fn main() {
     println!("jsonifying");
     let dict = dictify(&text);
     let dict_str = to_string(&dict).expect("Couldn't convert dictionary data to a string");
+
+    println!(
+        "{:.02}% of entries have fancy metadata!",
+        dict.iter().filter(|t| t.has_metadata()).count() as f64 / dict.len() as f64 * 100.
+    );
 
     println!("writing");
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
