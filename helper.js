@@ -114,7 +114,7 @@ function replaceLinks(str) {
       return mkel("a", { href: body }, [body.replace(/^https?:\/\//, "")]);
     }
     let search = head === "📦" ? "=" + body.replace(/ /g, "|") : body;
-    return makeLink(search, body);
+    return makeLink(search, body, head === "📦" ? {className:"toa"} : {});
   });
 }
 function load(res, page) {

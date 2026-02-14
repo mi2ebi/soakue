@@ -31,7 +31,6 @@ body {
   padding: 24px 16px;
   background-color: var(--bg);
   color: var(--fg);
-  word-break: break-word;
   line-height: 1.6;
 }
 h1 {
@@ -179,6 +178,17 @@ code {
       color: var(--purple);
     }
   }
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    text-align: left;
+    padding: 0.5em;
+  }
+  th {
+    font-weight: 600;
+    color: var(--purple);
+  }
 }
 .indent {
   text-indent: 20px hanging each-line;
@@ -197,11 +207,11 @@ dd {
   margin-left: 20px;
 }
 .toa {
-  color: var(--pink);
+  color: var(--pink) !important;
   font-weight: 700;
 }
 .adv {
-  color: var(--adv);
+  color: var(--adv) !important;
   white-space: nowrap;
 }
 .meta {

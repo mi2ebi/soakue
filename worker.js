@@ -20,7 +20,7 @@ function shuffle(a) {
 function search(q) {
   let terms = q.split(" ");
   terms = terms.map((term) => {
-    let [_, operator, query] = term.match(/^([=~@#/$!^]|[a-z]*:)(.*)/) ?? [];
+    let [_, operator, query] = term.match(/^([=~@#/$!]|[a-z]*:)(.*)/) ?? [];
     if (!operator) return { op: "", orig: term, value: term.toLowerCase() };
     let colon = operator.endsWith(":");
     operator = operator.replace(/:$/, "");
@@ -29,6 +29,7 @@ function search(q) {
       "body",
       "user",
       "score",
+      "date",
       "id",
       "scope",
       "arity",
@@ -48,10 +49,22 @@ function search(q) {
       return {
         err: `<code>${escapeHTML(query)}</code> is not an unsigned integer`,
       };
-    if (["^", "score"].includes(operator) && isNaN(query.replace(/^=/, "")))
-      return {
-        err: `<code>${escapeHTML(query.replace(/^=/, ""))}</code> is not a number`,
-      };
+    if (["score", "date"].includes(operator)) {
+      let match = query.match(/^(>=?|<=?|=)?(.+)$/);
+      if (!match) return {err: `<code>${escapeHTML(query)}</code> is nothing`};
+      let [_, comparison, value] = match;
+      comparison = comparison || "=";
+      if (operator == "score") {
+        if (isNaN(value))
+          return {err: `<code>${escapeHTML(value)}</code> is not a number`};
+        return {op: operator, orig: query, value: value.toLowerCase(), comparison};
+      }
+      if (operator == "date") {
+        if (!/^\d{4}(-\d{2}(-\d{2})?)?$/.test(value))
+          return {err: `<code>${escapeHTML(value)}</code> is not a valid iso-8601 date`};
+        return {op: operator, orig: query, value: value.toLowerCase(), comparison};
+      }
+    }
     if (["head", "=", "~"].includes(operator)) {
       let regex = queryToRegex(query);
       if (regex.err) return regex;
@@ -75,11 +88,11 @@ function search(q) {
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid pronominal class`
       }
-    if (operator == "dist" && !/^[nd]{0,3}$/.test(query.normalize("NFD")))
+    if (operator == "dist" && !/^[nd]{0,3}$/.test(query))
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid distribution`
       }
-    if (operator == "subj" && !/^[fipeas]?$/.test(query.normalize("NFD")))
+    if (operator == "subj" && !/^[fipeas]?$/i.test(query))
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid subject type`
       }
@@ -110,7 +123,7 @@ function search(q) {
     }
     let scores = terms
       .filter((t) => t.op != "order")
-      .map(({ op, orig, value }) => {
+      .map(({ op, orig, value, comparison }) => {
         // 6: id
         if (["#", "id"].includes(op) && entry.id == orig) return 6;
         // 5: head
@@ -159,6 +172,44 @@ function search(q) {
           if (normalizeToneless(entry.head).includes(normalizeToneless(value)))
             return 1;
         }
+        // score
+        if (op == "score") {
+          let match = false;
+          let num = parseFloat(value);
+          switch (comparison) {
+            case "=": match = entry.score == num; break;
+            case ">": match = entry.score > num; break;
+            case ">=": match = entry.score >= num; break;
+            case "<": match = entry.score < num; break;
+            case "<=": match = entry.score <= num; break;
+          }
+          if (match) return 0.1;
+        }
+        // date
+        if (op == "date") {
+          let date = entry.date.slice(0, 10);
+          if (comparison == "=" && date.startsWith(value))
+            return 0.1;
+          if (value.length == 4)
+            value += /</.test(comparison) ? "-01-01" : "-12-31";
+          if (value.length == 7)
+            if (/</.test(comparison))
+              value += "-01";
+            else {
+              let [year, month] = value.split("-").map(Number);
+              // javascript...
+              value += `-${String(new Date(year, month, 0).getDate()).padStart(2, "0")}`;
+            }
+          let match = false;
+          switch (comparison) {
+            case "=": match = date == value; break;
+            case ">": match = date > value; break;
+            case ">=": match = date >= value; break;
+            case "<": match = date < value; break;
+            case "<=": match = date <= value; break;
+          }
+          if (match) return 0.1;
+        }
         // other
         if (
           (["@", "user"].includes(op) &&
@@ -166,16 +217,14 @@ function search(q) {
           (["$", "scope"].includes(op) &&
             entry.scope.toLowerCase() == value.toLowerCase()) ||
           (["/", "arity"].includes(op) && arities.includes(+value)) ||
-          (["^", "score"].includes(op) &&
-            (entry.score >= value || entry.score == value.replace(/^=/, ""))) ||
           (op == "warn" && entry.warn) ||
-          ["!", "-", "not"].includes(op) ||
+          ["!", "not"].includes(op) ||
           (op == "frame" && entry.frame && (
             value == entry.frame.replace(/ /g, "") || value == entry.frame.replace(/ |[ijx]+$/g, "") || !value && entry.frame
           )) ||
           (op == "anim" && entry.animacy && (value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy || !value && entry.animacy)) ||
           (op == "dist" && entry.distribution && (value == entry.distribution.replace(/ /g, "") || !value && entry.distribution)) ||
-          (op == "subj" && entry.subject && (value == entry.subject || !value && entry.subject))
+          (op == "subj" && entry.subject && (value.toLowerCase() == entry.subject[0] || !value && entry.subject))
         )
           return 0.1;
       });

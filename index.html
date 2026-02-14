@@ -14,7 +14,6 @@
     />
     <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
   </head>
-
   <body>
     <h1>sóakue</h1>
     <p>
@@ -40,9 +39,8 @@
     </p>
     <div id="res"></div>
     <div id="bottom"></div>
-    <details id="howto">
+    <details id="howto" open>
       <summary>help</summary>
-      <h2>about</h2>
       <p>
         soakue is a dictionary for <a href="https://toaq.net">Toaq</a> that uses
         data from <a href="https://toadua.uakci.space/">Toadua</a> (updated
@@ -51,70 +49,223 @@
         words or vote on existing words.
       </p>
       <p>thanks to emnresu, &, and Lynn for contributing!</p>
-      <h2>syntax</h2>
-      <p>
-        <code>=toa</code> searches for exactly the word <code>toa</code>. there
-        are a couple fancy things you can do with this:
-      </p>
-      <div class="indent">
-        <p>
-          <code>CVFQ</code> match their
-          <a href="https://toaq.net/refgram/phonology">refgram</a> definitions
-          (note that <code>VV</code> includes <code>F</code>)<br />
-          <code>R</code> matches a raku<br />
-          <code>_</code> matches a space<br />
-          everything else works like in
-          <a
-            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#writing_a_regular_expression_pattern"
-            >regex</a
-          >
-        </p>
-      </div>
-      <p>
-        soakue automatically converts some characters to their Toaq equivalents:
-      </p>
-      <div class="indent">
-        <p>
-          <code>i</code> → <code>ı</code><br />
-          <code>v</code> or <code>w</code> or <code>y</code> → <code>ꝡ</code
-          ><br />
-          <code>x</code> → <code>'</code><br />
-          <code>:</code> or <code>-</code> → <code>◌̣</code> (prefix underdot)<br />
-          <code>1234</code> → <code>◌̀◌́◌̈◌̂</code> (tones)
-        </p>
-      </div>
-      <p>
-        <code>~</code> is similar but will also match word-internally:
-        <code>~toa</code> behaves the same as <code>=.*toa.*</code> and
-        <code>=toa</code> behaves the same as <code>~^(?:toa)$</code>
-      </p>
-      <p>
-        <code>@author</code> searches for words defined by <code>author</code>
-      </p>
-      <p><code>#QixhMGJ8MQ</code> finds the word with that exact ID</p>
-      <p><code>/n</code> finds definitions with <code>n</code> slots</p>
-      <p>
-        <code>$scope</code> shows words defined under a particular language
-        code. for example <code>$en</code> for English, <code>$toa</code> for
-        Toaq
-      </p>
-      <p><code>!</code> negates a query, e.g. <code>!@official</code></p>
-      <p>
-        <code>^n</code> finds definitions with at least +<code>n</code> votes.
-        you can do <code>!^n</code> for less than <code>n</code>, and
-        <code>^=n</code> for exactly <code>n</code>.
-      </p>
-      <p>
-        <code>w:</code> finds words that are Bad (from older versions of Toaq,
-        phonotactically invalid, etc)
-      </p>
-      <p>
-        <code>frame:</code> searches frames (eg <code>frame:c1</code>),<br />
-        <code>anim:</code> searches pronominal classes (eg <code>anim:máq</code>),<br />
-        <code>dist:</code> searches distributions (eg <code>dist:nd</code>), and<br />
-        <code>subj:</code> searches subject types (eg <code>subj:e</code>).<br/>
-        without arguments they tell you which entries have them at all
-      </p>
+      <hr />
+      <details>
+        <summary>ways to search things</summary>
+        <table>
+          <tr>
+            <th>operator</th>
+            <th>description</th>
+            <th>examples</th>
+          </tr>
+          <tr>
+            <td><code>=</code></td>
+            <td>exact Toaq word (regex)</td>
+            <td><code>=toa</code><br /><code>=C[aei]q</code></td>
+          </tr>
+          <tr>
+            <td><code>~</code></td>
+            <td>word-internal (regex)</td>
+            <td><code>~aq?w</code></td>
+          </tr>
+          <tr>
+            <td>(nothing)</td>
+            <td>head, body, notes</td>
+            <td><code>cat</code></td>
+          </tr>
+          <tr>
+            <td><code>@</code></td>
+            <td>filter by author</td>
+            <td><code>@laqme</code></td>
+          </tr>
+          <tr>
+            <td><code>#</code></td>
+            <td>find a specific entry by id</td>
+            <td><code>#QixhMGJ8MQ</code></td>
+          </tr>
+          <tr>
+            <td><code>$</code></td>
+            <td>filter by language the definition is in</td>
+            <td><code>$en</code></td>
+          </tr>
+          <tr>
+            <td><code>/</code></td>
+            <td>filter by arity (number of slots)</td>
+            <td><code>/2</code> (transitive verbs)<br /><code>/</code> (only non-verbs)</td>
+          </tr>
+          <tr>
+            <td><code>score:</code></td>
+            <td>filter by score</td>
+            <td><code>score:3</code><br /><code>score:&lt;5</code></td>
+          </tr>
+          <tr>
+            <td><code>date:</code></td>
+            <td>filter by creation date</td>
+            <td><code>date:2018-09-17</code><br /><code>date:2026</code></td>
+          </tr>
+          <tr>
+            <td><code>!</code></td>
+            <td>negate a query</td>
+            <td><code>!@official</code></td>
+          </tr>
+          <tr>
+            <td><code>w:</code></td>
+            <td>show problematic words (<code>@oldofficial</code>, invalid phonotactics, etc)</td>
+            <td>most useful as <code class="nobr">!w:</code></td>
+          </tr>
+          <tr>
+            <td><code>frame:</code></td>
+            <td>filter by <a href="https://toaq.me/Frame">serial frame</a></td>
+            <td><code>frame:c1x</code><br /><code>frame:</code> (any)</td>
+          </tr>
+          <tr>
+            <td><code>dist:</code></td>
+            <td>filter by distributivity frame</td>
+            <td><code>dist:nd</code></td>
+          </tr>
+          <tr>
+            <td><code>anim:</code></td>
+            <td>filter by animacy / pronominal class / grammatical gender</td>
+            <td><code>anim:ta</code></td>
+          </tr>
+          <tr>
+            <td><code>subj:</code></td>
+            <td>filter by subject type</td>
+            <td><code>subj:e</code></td>
+          </tr>
+          <tr>
+            <td><code>order:</code></td>
+            <td>sort the results differently</td>
+            <td><code>order:alpha</code><br /><code>order:newest</code><br /><code>order:random</code></td>
+          </tr>
+        </table>
+        <p>in <code>=</code> and <code>~</code> searches you can also glob different types of letters:</p>
+        <table>
+          <tr>
+            <th>glob</th>
+            <th>matches</th>
+          </tr>
+          <tr>
+            <td><code>C</code></td>
+            <td>a consonant</td>
+          </tr>
+          <tr>
+            <td><code>V</code></td>
+            <td>a vowel</td>
+          </tr>
+          <tr>
+            <td><code>F</code></td>
+            <td>a diphthong (aı/eı/oı/ao)</td>
+          </tr>
+          <tr>
+            <td><code>Q</code></td>
+            <td>a final (m/q)</td>
+          </tr>
+          <tr>
+            <td><code>R</code></td>
+            <td>a raku</td>
+          </tr>
+          <tr>
+            <td><code>X</code></td>
+            <td>a Toaq letter</td>
+          </tr>
+          <tr>
+            <td><code>_</code></td>
+            <td>a space</td>
+          </tr>
+        </table>
+        <p>and these automatically get Toaqized always:</p>
+        <table>
+          <tr>
+            <th>thing</th>
+            <th>matches</th>
+          </tr>
+          <tr>
+            <td><code>i</code></td>
+            <td>ı</td>
+          </tr>
+          <tr>
+            <td><code>v w y</code></td>
+            <td>ꝡ</td>
+          </tr>
+          <tr>
+            <td><code>x</code></td>
+            <td>'</td>
+          </tr>
+          <tr>
+            <td><code>: -</code></td>
+            <td>prefix underdot</td>
+          </tr>
+          <tr>
+            <td><code>2 3 4</code></td>
+            <td>tones</td>
+          </tr>
+        </table>
+        <hr />
+      </details>
+      <details>
+        <summary>holy metadata batman</summary>
+        <p>next to a word there will be up to 4 mysterious orange things.</p>
+        <p>the first one will look something like <span class="adv">(c 1i)</span>. this is the "serial frame", which you can learn about <a href="https://toaq.me/Frame">on the wiki</a>.</p>
+        <p>the second one will look something like <span class="adv">(n d)</span>. this is the "distribution frame". <span class="adv">d</span> means if you put a plurality into that slot of the predicate, that's equivalent to saying each member of it also satisfies it (i.e. the slot is "distributive"); <span class="adv">n</span> means that <i>doesn't</i> happen</p>
+        <p>the third one will be one of <span class="adv">hó máq hóq tá ráı</span>, which is the animacy pronoun the subject binds. (in case of <span class="toa nobr">bo-</span> usage etc the object always binds <span class="toa">tá</span>)</p>
+        <p>the last one is what type the subject is. here's a nice <a href="https://discord.com/channels/311223912044167168/889589074011230230/1471915734119743520">diagram Lynn made</a>:</p>
+        <table>
+          <tr>
+            <th><i>subject type</i></th>
+            <th>animal</th>
+            <th>thing</th>
+            <th>event</th>
+            <th>proposition</th>
+            <th><i>example</i></th>
+          </tr>
+          <tr>
+            <th class="adv">agent</th>
+            <td colspan="4">ok (+ must be deliberate)</td>
+            <td><span class="toa">jara</span> "run"</td>
+          </tr>
+          <tr>
+            <th class="adv">individual</th>
+            <td>ok</td>
+            <td>ok</td>
+            <td></td>
+            <td></td>
+            <td><span class="toa">tuoq</span> "heavy"</td>
+          </tr>
+          <tr>
+            <th class="adv">shape</th>
+            <td>ok</td>
+            <td>ok</td>
+            <td>ok</td>
+            <td></td>
+            <td><span class="toa">sao</span> "large"</td>
+          </tr>
+          <tr>
+            <th class="adv">free</th>
+            <td>ok</td>
+            <td>ok</td>
+            <td>ok</td>
+            <td>ok</td>
+            <td><span class="toa">gı</span> "good"</td>
+          </tr>
+          <tr>
+            <th class="adv">event</th>
+            <td></td>
+            <td></td>
+            <td>ok</td>
+            <td></td>
+            <td><span class="toa">bıe</span> "before"</td>
+          </tr>
+          <tr>
+            <th class="adv">predicate</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>ok</td>
+            <td><span class="toa">laheq</span> "entail"</td>
+          </tr>
+        </table>
+      </details>
     </details>
     <script src="data/toakue.js"></script>
     <script src="helper.js"></script>
