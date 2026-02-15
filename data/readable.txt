@@ -5235,8 +5235,8 @@ Laqme (2022-03-25T10:46:19.196Z): See **taoboqtaq**
 Laqme (2023-07-19T16:12:03.532Z): the Toadua Android app nicely uses this word for "Cancel"
 Dembim (2026-02-04T01:11:19.415Z): Frame: c 1i
 Dembim (2026-02-04T01:11:40.893Z): Pronominal_class: ho
-Dembim (2026-02-11T22:02:36.810Z): Distribution: d
 Dembim (2026-02-11T22:02:52.184Z): Subject: agent
+Dembim (2026-02-14T12:54:36.089Z): Distribution: d d
 
 bọtao ± `en` @Laqme #4NBg1IRtS 2022-12-12T21:22:04.803Z
 ▯ is intentionally caused by agent ▯.
@@ -18976,6 +18976,10 @@ Ilmen (2019-07-21T21:56:10.248Z): Serial signature: E…
 eu -1 `en` @Ilmen #tsAUe2c5I 2019-07-21T21:51:09.245Z
 ▯is a property satisfied by a predicate which is true of the argument structure ⟨▯, (▯, (▯, …)))⟩; the first argument is the property of a predicate that is true of the argument structure made from to the remaining arguments.
 
+eum ± `en` @uakci #jRWcQQxfF 2026-02-14T13:38:24.547Z
+▯ is an event or proposition entailed by a verb phrase.
+uakci (2026-02-14T13:38:49.875Z): to be used alongside or in place of **um** & co. to describe the event itself as opposed to its grammatical parties
+
 Eume +2 `en` @jiqci #6o9A77B4N 2024-12-26T16:34:22.303Z
 ▯ is the European Union (EU).
 
@@ -23906,6 +23910,9 @@ gıfoa ± `en` @Laqme #Wi7M6np_k 2024-01-04T09:03:05.464Z
 
 gıga ± `en` @official #hpqAhN63re 2019-08-22T20:30:00.637Z
 predicate: ‘giga’; ▯ are 10<sup>9</sup> (1,000,000,000) in number; ▯ are a billion.
+kazoo (2026-02-14T14:41:05.032Z): should be changed to 10⁹, it causes issues in nonhtml places
+kazoo (2026-02-14T14:41:13.195Z): including here
+kazoo (2026-02-14T14:43:17.629Z): Frame: c
 
 gıga ± `pl` @jiqci #0oM6Jn2YSU 2023-07-31T08:20:29.020Z
 ▯ to miliard (10^9).
@@ -25246,7 +25253,7 @@ gomı ± `en` @Dembim #GmH9jtg3P 2026-02-08T01:39:55.497Z
 interjection: lingering; more of this; like <aıka> signals that the speaker is moving on, <gomı> signals that they mean to stay on this point/activity a bit longer
 Dembim (2026-02-08T01:40:42.951Z): Etymology: imagined squishification of <gúom> <ní>
 
-gomjom +2 `en` @Laqme #hZtiLf6sj 2023-12-17T00:48:32.430Z
+gomjom +3 `en` @Laqme #hZtiLf6sj 2023-12-17T00:48:32.430Z
 ▯ is a gomjom (microscopic spirit that haunts people and makes them clumsy).
 Laqme (2023-12-17T00:50:56.397Z): "faltergeist"
 
@@ -30515,7 +30522,7 @@ hoerua +1 `en` @robintown #BrbGI-KYG 2022-01-28T21:50:53.422Z
 hoerueı ± `en` @jiqci #cDOMoyATX 2025-10-11T07:43:16.732Z
 ▯ is solar wind.
 
-hoesaı ± `en` @Ilmen #ebFjDgbGA 2019-04-18T09:10:32.000Z
+hoesaı +1 `en` @Ilmen #ebFjDgbGA 2019-04-18T09:10:32.000Z
 ▯ is helium.
 
 hoesaı -1 `en` @elements #FjwjBKVKo 2020-02-26T04:55:07.385Z
@@ -33150,14 +33157,17 @@ Itıopıagua ± `en` @countries #Iv3JCy0PnE4 2023-10-02T12:22:04.299Z
 ıtoa ± `en` @uakci #DOLj-1MY9 2023-06-03T11:38:13.921Z
 ▯ is a word (architecture-dependent smallest unit of data transfer in a CPU).
 
-ıu- ± `en` @Laqme #XNUAWjMq3 2024-12-05T12:05:07.568Z
+ıu- +1 `en` @Laqme #XNUAWjMq3 2024-12-05T12:05:07.568Z
 prefix: properly, actually, in the literal/strict sense
+Dembim (2026-02-15T01:59:01.906Z): see also <aı->
 
 ıu +5 `en` @uakci #mm9Rlfo1v 2021-09-03T19:59:42.037Z
 ▯ is the case in the real world rather than hypothetically.
 robintown (2023-12-06T18:48:36.220Z): actually, really
 Dembim (2026-02-04T02:16:43.501Z): Frame: 0
 Dembim (2026-02-04T02:16:50.842Z): Pronominal_class: hoq
+Dembim (2026-02-15T01:59:47.743Z): Subject: proposition
+Dembim (2026-02-15T01:59:57.206Z): Distribution: d
 
 ıubı ± `en` @salarua #M9GpX27ma 2025-04-30T18:39:24.020Z
 number: 4,294,967,296
@@ -33201,7 +33211,7 @@ Laqme (2025-09-23T23:27:56.275Z): Refers to disyllabic diphthongs like **ea**, *
 ▯ is a true story.
 robintown (2022-04-25T17:34:13.101Z): non-fiction
 
-ıum ± `en` @uakci #112H1NouX 2022-12-31T12:23:08.601Z
+ıum +1 `en` @uakci #112H1NouX 2022-12-31T12:23:08.601Z
 ▯ is a chemical element.
 
 ıumeo ± `en` @Laqme #hyf9hDfro 2023-11-04T09:18:04.785Z
@@ -37213,7 +37223,7 @@ Dembim (2026-02-13T02:04:22.320Z): Distribution: n d
 Dembim (2026-02-13T02:04:30.536Z): Subject: free
 
 jole ± `toa` @Dembim #JkcPO1Ceg 2026-01-28T16:39:39.775Z
-cuoı ▯ ▯, lá cuoı já shı ké, ꝡë cuoı shí hóa já gu, gú
+cuoı ▯ ▯, lá cuoı já nha shì ké, ꝡë cuoı nha shí hóa já nha gù, nha gú
 Dembim (2026-01-28T16:40:10.629Z): Frame: c 2ix
 Dembim (2026-01-28T16:40:21.530Z): Pronominal_class: ta
 Dembim (2026-02-13T02:05:47.839Z): Distribution: n d
@@ -49532,11 +49542,13 @@ seaqtaq (2022-02-20T09:44:32.037Z): fench krisser*
 lum- ± `en` @seaqtaq #GoRnDMKhJ 2024-11-05T10:15:42.259Z
 prefix: incorporate **lúm** object
 
-lúm +1 `en` @uakci #49F_VMDdn 2023-02-18T16:25:47.230Z
-anaphoric pronoun referring back reflexively to the nearest direct object to the left
-uakci (2023-02-18T16:27:12.612Z): unlike **áq**, the use of **lúm** is not mandated (and an equivalent anaphora can be used instead), and the pronoun selects for direct objects *to the left* of its own placement, unlike **áq**, which can be cataphoric
-uakci (2023-02-18T16:27:51.851Z): **paıjıaı jí sá nıaı câ, ꝡä rıu jaı lúm**
-uakci (2023-02-18T16:31:06.361Z): < **luoı**
+lum ± `en` @uakci #sHqnfGZL8 2026-02-14T13:35:35.543Z
+▯ is a grammatical direct object [i.e., the only grammatical case in an unaccusative intransitive verb OR the last in a (di)transitive verb].
+Dembim (2026-02-15T01:52:23.165Z): see <um>, <nhum>
+Dembim (2026-02-15T02:11:51.908Z): Frame: c
+Dembim (2026-02-15T02:11:56.704Z): Pronominal_class: hoq
+Dembim (2026-02-15T02:12:04.696Z): Subject: free
+Dembim (2026-02-15T02:12:10.242Z): Distribution: n
 
 lumbo ± `en` @seaqtaq #-9LTNGG7Z 2024-10-23T06:19:45.797Z
 possessive pronoun predicate: ▯ is lúm's
@@ -61964,10 +61976,13 @@ Machy (2022-04-12T01:08:19.476Z): connotes a *feeling* of agreement or acceptanc
 nhum- ± `en` @seaqtaq #xAp7Dz5Zc 2024-11-05T10:15:56.077Z
 prefix: incorporate **nhúm** object
 
-nhúm +1 `en` @uakci #xdzRDvso0 2023-02-18T16:25:53.913Z
-anaphoric pronoun referring back reflexively to the nearest indirect object to the left
-uakci (2023-02-18T16:26:00.793Z): see notes on **lúm**
-uakci (2023-02-18T16:31:16.402Z): < **nhuq**
+nhum ± `en` @uakci #U23VQit4f 2026-02-14T13:35:54.684Z
+▯ is an indirect object [in a ditransitive verb].
+Dembim (2026-02-15T01:52:54.602Z): see <um>, <lum>
+Dembim (2026-02-15T01:54:02.755Z): Frame: c
+Dembim (2026-02-15T01:55:11.369Z): Pronominal_class: hoq
+Dembim (2026-02-15T02:09:16.788Z): Subject: free
+Dembim (2026-02-15T02:11:02.835Z): Distribution: n
 
 nhumbo ± `en` @seaqtaq #dQKYiGabW 2024-10-23T06:19:54.181Z
 possessive pronoun predicate: ▯ is nhúm's
@@ -86548,9 +86563,13 @@ kazoo (2025-03-06T16:01:17.603Z): turkish "uğultu" + toaq "laq"
 um- ± `en` @seaqtaq #HqPufJV_e 2024-11-05T10:15:36.326Z
 prefix: incorporate **úm** object
 
-úm ± `en` @uakci #of2LwoP18 2023-02-18T16:32:02.221Z
-anaphoric pronoun referring back reflexively to the nearest subject to the left
-uakci (2023-02-18T16:32:10.655Z): see notes on **lúm**
+um ± `en` @uakci #8b9TVPU_1 2026-02-14T13:35:26.500Z
+▯ is a grammatical subject [in unergative intransitive or (di)transitive verbs].
+Dembim (2026-02-15T01:52:36.827Z): see <lum>, <nhum>
+Dembim (2026-02-15T02:09:28.179Z): Subject: free
+Dembim (2026-02-15T02:10:53.592Z): Distribution: n
+Dembim (2026-02-15T02:11:32.565Z): Pronominal_class: hoq
+Dembim (2026-02-15T02:11:41.249Z): Frame: c
 
 Umaq ± `en` @countries #uCuAybislri 2023-10-02T12:22:04.929Z
 ▯ pertains to the culture of Oman – Sultanate of Oman.
