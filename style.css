@@ -190,6 +190,10 @@ code {
     color: var(--purple);
   }
 }
+hr {
+  border: none;
+  border-top: 1px solid var(--gray);
+}
 .indent {
   text-indent: 20px hanging each-line;
 }
