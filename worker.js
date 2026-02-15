@@ -199,15 +199,11 @@ function search(q) {
           if (comparison == "=" && date.startsWith(value))
             return 0.1;
           if (value.length == 4)
-            value += /</.test(comparison) ? "-01-01" : "-12-31";
-          if (value.length == 7)
-            if (/</.test(comparison))
-              value += "-01";
-            else {
-              let [year, month] = value.split("-").map(Number);
-              // javascript...
-              value += `-${String(new Date(year, month, 0).getDate()).padStart(2, "0")}`;
-            }
+            value += (comparison == ">" || comparison == "<=") ? "-12-31" : "-01-01";
+          else if (value.length == 7) {
+            let [year, month] = value.split("-").map(Number);
+            value += (comparison == ">" || comparison == "<=") ? `-${String(new Date(year, month, 0).getDate()).padStart(2, "0")}` : "-01";
+          }
           let match = false;
           switch (comparison) {
             case "=": match = date == value; break;
