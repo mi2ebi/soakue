@@ -44,16 +44,16 @@ pub struct Toa {
     pub scope: String,
     #[serde(default, skip_serializing_if = "std::ops::Not::not")]
     pub warn: bool,
-    #[serde(skip_deserializing, skip_serializing_if = "Option::is_none")]
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub frame: Option<String>,
     #[serde(
         rename(deserialize = "pronominal_class", serialize = "animacy"),
         skip_serializing_if = "Option::is_none"
     )]
     pub animacy: Option<String>,
-    #[serde(skip_deserializing, skip_serializing_if = "Option::is_none")]
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub distribution: Option<String>,
-    #[serde(skip_deserializing, skip_serializing_if = "Option::is_none")]
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub subject: Option<String>,
 }
 
@@ -117,22 +117,27 @@ impl Toa {
             .iter()
             .any(Option::is_some)
     }
-    pub fn get_metadata_from_notes(&mut self) {
-        macro_rules! set {
-            ($field:ident, $regex:ident) => {
-                self.$field = self.notes.iter().sorted_by_key(|n| &n.date).rev().find_map(|n| {
-                    $regex
-                        .captures(&n.content)
-                        .and_then(|caps| caps.get(1).map(|m| m.as_str().to_string()))
-                });
-            };
+    pub fn fixup_metadata(&mut self) {
+        if !self.body.clone().contains("▯") {
+            self.frame = None;
+            self.animacy = None;
+            self.distribution = None;
+            self.subject = None;
         }
-        set!(frame, FRAME_NOTE);
-        // .animacy is set (and correctly) by toadua already
-        set!(distribution, DISTRIBUTION_NOTE);
-        set!(subject, SUBJECT_NOTE);
+        if [
+            self.frame.clone(),
+            self.animacy.clone(),
+            self.distribution.clone(),
+            self.subject.clone(),
+        ]
+        .iter()
+        .any(|m| *m == Some("undefined".to_string()))
+        {
+            println!("{} #{} has bad metadata", self.head, self.id);
+        }
     }
 }
+/*
 static FRAME_NOTE: LazyLock<Regex> = LazyLock::new(|| {
     Regex::new(
         r"(?ix)^frame\s*:\s*(
@@ -150,6 +155,7 @@ static DISTRIBUTION_NOTE: LazyLock<Regex> =
 static SUBJECT_NOTE: LazyLock<Regex> = LazyLock::new(|| {
     Regex::new(r"(?i)^subject\s*:\s*(free|individual|predicate|event|agent|shape)$").unwrap()
 });
+*/
 
 impl Display for Toa {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
