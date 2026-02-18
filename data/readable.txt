@@ -8113,6 +8113,9 @@ cesasha ± `en` @uakci #U6xOqVmq5 2022-03-09T19:49:19.903Z
 ceu +1 `en` @Laqme #gR-QF3xBR 2022-12-13T19:44:22.748Z
 ▯ breathes.
 
+ceubıu ± `en` @jiqci #k3vlp3zy- 2026-02-17T11:21:36.454Z
+▯ is a trachea / windpipe.
+
 ceubuaq ± `en` @robintown #KFAYGdrMy 2023-02-10T05:30:29.658Z
 ▯ suffocates, asphyxiates, cannot breathe.
 
@@ -13109,7 +13112,7 @@ textspeak for **châ hí raı** (how)
 chu- ± `en` @uakci #FItLutpaC 2023-08-29T18:51:32.757Z
 prefix: neither X nor the opposite of X
 
-chu ± `en` @official #HOgZeNlhZtj 2026-02-16T08:36:42.947Z
+chu ± `en` @official #LOMQljrdc 2026-02-17T11:47:50.724Z
 predicate: ‘middle’; ▯ is the middle of ▯.
 
 chu ± `tok` @el #8BKjx2pzM 2022-10-26T18:20:14.142Z
@@ -26645,6 +26648,7 @@ uakci (2021-10-01T19:07:16.359Z): underground, subterranean
 
 guaqnıe ± `en` @Ilmen #8g78O6tJ4 2026-02-16T21:35:24.919Z
 ▯ is buried in the ground.
+Ilmen (2026-02-17T17:36:37.973Z): discriminator: 2
 
 guaqnıejeoq -1 `en` @Ilmen #AzlKBExPI 2022-11-09T12:31:21.713Z
 ▯ is a cave or cavern.
@@ -27329,6 +27333,15 @@ adverb of quantification: in which cases?
 
 guohıba ± `en` @robintown #iyzlqrwbo 2025-04-24T22:19:45.978Z
 adverb of quantification: in which cases … did you say?
+
+guoı ± `en` @uakci #l3eEYuQEs 2026-02-17T15:24:22.345Z
+▯ are two things standing on both sides of relation ▯; ▯ are two things, one of which satisfies relation ▯ with the other; ▯ are an “X-er and X-ed”, where X is the relation ▯.
+uakci (2026-02-17T15:25:27.649Z): < **gu** + **cuoı**. example: **guoı pao** ‘to be parent and child’ → **gúoı pao** ‘the parent and their child’
+uakci (2026-02-17T15:29:19.145Z): for symmetrical relationships, this boils down to **gu cheo**: **guoı paı** ‘to be two friends’ = **gu cheo paı**. asymmetrical examples: **guoı cheom** ‘sinner and their sin’; **guoı muı** ‘[text] and its meaning’; **guoı hıaoja** ‘perpetrator and victim’
+uakci (2026-02-17T15:34:46.025Z): given the usual mathematical treatment of relations as subsets of U × U (where U is the domain/universe), this **guoı** expresses membership modulo ordering: “the unordered tuple {a, b} for a ≠ b is s.t. aRb or bRa”
+
+guoı ± `toa` @uakci #p1Ouo8RA5 2026-02-17T15:32:20.698Z
+jeı sá shı róı sá nọshı já gu rú cuoı ra bocuoı shí nọ́shı já guja
 
 guojeaq ± `en` @uakci #BI9_xnnAd 2024-12-31T19:10:13.202Z
 ▯ happens more; ▯ happens further; ▯ repeats.
@@ -28770,7 +28783,7 @@ haqtoq ± `en` @Machy #EwNjq7ndy 2022-01-26T01:20:14.712Z
 ▯ is a plate(for food).
 Machy (2022-01-26T17:03:18.839Z): credit to @Laqme
 
-haqtu +2 `en` @Ilmen #rSCUuK6ci 2018-10-01T19:52:43.000Z
+haqtu +3 `en` @Ilmen #rSCUuK6ci 2018-10-01T19:52:43.000Z
 ▯ is a spirit, soul or ghost.
 Ilmen (2018-10-01T19:54:20.000Z): Borrowed from Malay, Javanese, Sundanese… See #kanītū.
 
@@ -31199,6 +31212,10 @@ hoefeıtue ± `en` @Ilmen #iElUuFJs5 2026-01-19T21:30:24.648Z
 
 hoefu +1 `en` @uakci #IWGt_InvC 2019-05-02T12:26:49.000Z
 ▯ is a Toaqist.
+
+hoefurı ± `en` @Dembim #zSVrrnckS 2026-02-17T12:29:09.019Z
+▯ is the "tides" of sunlight, is the state of affairs of how (a/the) sun appears to behave in cyclic fashion, rises each day on schedule, etc
+Dembim (2026-02-17T12:34:19.959Z): Not necessarily a simple cycle. One could use this to ask e.g. about how a member of an n-ary solar system behaves with respect to visibility from a planet, **hoefurı hí po ké hoe hụguko**
 
 hoegaı ± `en` @seaqtaq #4JnMvzgcX 2020-06-16T05:30:59.863Z
 ▯ sees the world for what it is; ▯ sees the light/is enlightened
@@ -34976,7 +34993,7 @@ jeaneaıpeq ± `en` @Laqme #e3jvlMBUu 2024-09-18T14:39:34.422Z
 jeanua ± `en` @Laqme #o86t0bvNX 2024-07-02T14:36:08.143Z
 ▯, from/off ▯, buys ▯.
 
-jeaq +2 `en` @evie #PkvfmZVv2 2024-11-04T03:20:45.722Z
+jeaq +3 `en` @evie #PkvfmZVv2 2024-11-04T03:20:45.722Z
 ▯ increases
 
 jeaq ± `en` @official #0joKDx8DR8u 2026-02-16T08:36:44.369Z
@@ -51674,6 +51691,12 @@ Dembim (2026-02-12T13:31:07.527Z): Subject: individual
 Dembim (2026-02-12T13:31:14.519Z): Distribution: d
 Dembim (2026-02-12T13:35:25.809Z): Etymology: Thai "มะขาม"
 
+makasachuaq ± `en` @Laqme #nmlz3YvwC 2026-02-17T20:35:53.869Z
+▯ is Marxism.
+
+makasachuaq'aı ± `en` @Laqme #5sYJyX8hB 2026-02-17T20:37:13.214Z
+▯ is Marxist.
+
 makasıq ± `en` @Ilmen #OCdbkG42y 2019-02-26T17:52:38.000Z
 ▯ is a moccasin (kind of shoe).
 
@@ -57707,6 +57730,7 @@ Laqme (2025-05-12T15:23:21.700Z): I think it's good if this includes / is how we
 
 naofurı ± `en` @evie #NIGmsI-_c 2025-06-06T06:17:32.399Z
 ▯ is a tide
+Dembim (2026-02-17T12:09:31.805Z): Presumably this refers to all that extra water that shows up at high tide? Or perhaps to the temporal interval of what is recognized as a "tide"— i.e. when the water is notably high, low, going out, coming in— or maybe to events thereof? Or perhaps it could mean "is the tides", i.e. is the tidal regime or predominant effect of a tidal system at a given scale.
 
 naogere ± `en` @seaqtaq #l1IjHOV9N 2019-11-15T01:19:45.688Z
 ▯ is a member of class Echinoidea; ▯ is a sea urchin/hedgehog
@@ -69265,6 +69289,11 @@ maigoi (2024-09-18T16:52:57.956Z): to be found: theme, related, subject, topic, 
 lassc (2025-03-18T02:06:31.833Z): "with regards to"
 lassc (2025-03-20T00:18:42.713Z): concerning
 
+raqbı ± `en` @uakci #sDcN8zoFf 2026-02-18T02:04:57.902Z
+Here’s something to contemplate: ▯.
+uakci (2026-02-18T02:05:28.331Z): see also **gemna** (a particle; this one is a verb)
+uakci (2026-02-18T02:05:32.904Z): Just putting this out there: ▯; Not sure what to say about it yet but here’s something relevant to the topic at hand: ▯; Consider ▯.
+
 raqbo ± `en` @uakci #HriZ8X2A_ 2022-05-17T13:45:35.135Z
 ▯ pertains/alludes to ▯.
 uakci (2022-05-17T13:47:12.306Z): ▯ contains references to ▯
@@ -76548,6 +76577,13 @@ determiner: proper noun; for use with Kuna/Eatoaq/Koıtıeq variable-style names
 Dembim (2025-12-14T13:54:02.454Z): Whatever ends up happening with mí, this seems like a worthwhile thing to have access to. Perhaps that usefulness will be overcome by future events.
 Dembim (2025-12-14T13:55:22.841Z): see also <@Ilmen ıqmı>
 Dembim (2026-02-09T17:02:29.570Z): Good for complex foreign names e.g. (só mı Alecaqdoro cuoı) as well as complex Toaqic names e.g. (só Gıo Tamara Eka Zaq)
+
+so'u ± `en` @Dembim #1tmLoZLNC 2026-02-17T23:22:24.026Z
+non-assertive illocution
+Dembim (2026-02-17T23:22:54.657Z): See comments under <@Machy sou>
+Ilmen (2026-02-17T23:25:45.204Z): In the past I called this “null illocution”, though I think “contemplative illocution” is nice too.
+Ilmen (2026-02-17T23:27:54.351Z): You could presumably imitate this by saying e.g. ⟪sıaja, ꝡä …… da⟫ instead of ⟪…… so'u⟫.
+Ilmen (2026-02-17T23:32:05.547Z): At any rate, theoretically, this could be used to replace subordinate clauses with flat sequences of sentences, using pro-sentence anaphora ⟪hóq⟫ instead of subordinate clauses. But I think for it to really be handy and powerful enough, you'd need ways to refer to sentences that are not immediately before the current one, possibly with some sort of device akin to Lojban ⟪go'oi⟫…
 
 soa +1 `en` @Dembim #l_1IwOtPg 2026-01-14T00:13:14.486Z
 predicate: ‘help’; ▯ helps ▯ to satisfy some salient property (<oı>).
@@ -84048,6 +84084,10 @@ teıde ± `en` @Ilmen #uT-57cbrd 2020-01-02T19:13:26.966Z
 teıdıu +1 `en` @Laqme #rBeIfaZJN 2018-10-03T13:58:50.000Z
 ▯ is geometry.
 
+teıdıu ± `en` @Ilmen #MOoxDDXUn 2026-02-17T18:02:30.963Z
+▯ is topology.
+Ilmen (2026-02-17T18:02:47.975Z): discriminator: 2
+
 teıdo ± `en` @seaqtaq #U3wb09MG6 2024-07-28T07:20:16.116Z
 ▯ "gives shape" to ▯; ▯ instantiates/incarnates/creates ▯
 seaqtaq (2024-07-28T07:20:40.890Z): Artistic/poetic version of baı
@@ -84225,6 +84265,7 @@ teka ± `en` @seaqtaq #MhaXHb_WG 2024-11-13T07:45:10.369Z
 
 teka ± `en` @evie #Nmjv1Td0c 2026-02-17T04:47:48.574Z
 ▯ cracks
+Ilmen (2026-02-17T17:37:08.649Z): discriminator: 2
 
 teketeke +1 `en` @Laqme #RteMW7-Li 2025-02-20T13:25:48.475Z
 onomatopoeia: typing
