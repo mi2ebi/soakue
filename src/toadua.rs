@@ -2,10 +2,7 @@ use std::{cmp::Ordering, fmt::Display, sync::LazyLock};
 
 use itertools::Itertools as _;
 use jiff::fmt::rfc2822;
-use regex::{
-    Regex,
-    bytes::{Regex as Bregex, RegexBuilder as BregexBuilder},
-};
+use regex::bytes::{Regex as Bregex, RegexBuilder as BregexBuilder};
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization as _;
 
@@ -153,36 +150,70 @@ static FRAME_NOTE: LazyLock<Regex> = LazyLock::new(|| {
 static DISTRIBUTION_NOTE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new(r"(?i)^distribution\s*:\s*(([nd]\s*){1,3})$").unwrap());
 static SUBJECT_NOTE: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(r"(?i)^subject\s*:\s*(free|individual|predicate|event|agent|shape)$").unwrap()
+    Regex::new(r"(?i)^subject\s*:\s*(free|individual|proposition|event|agent|shape)$").unwrap()
 });
 */
 
 impl Display for Toa {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        let Self {
+            id,
+            date,
+            head,
+            body,
+            user,
+            notes,
+            score,
+            scope,
+            warn,
+            frame,
+            animacy,
+            distribution,
+            subject,
+        } = self.clone();
+        // warn head (frame) (dist) ánim S @user date #id $scope +score\nbody\nnotes
         write!(
             f,
-            "{}{} {} `{}` @{} #{} {}\n{}{}",
-            if self.warn { "⚠ " } else { "" },
-            self.head,
-            match self.score {
-                0 => "±".to_string(),
-                x if x > 0 => format!("+{}", self.score),
-                _ => self.score.to_string(),
+            "{}{head}{} @{user} {} #{id} ${scope} {}\n{body}{}",
+            if warn { "⚠ " } else { "" },
+            if self.has_metadata() {
+                format!(
+                    " [{}]",
+                    [
+                        frame.map_or_else(String::new, |f| format!("({f})")),
+                        distribution.map_or_else(String::new, |d| format!("({d})")),
+                        animacy.map_or_else(String::new, |a| format!(
+                            "{}\u{0301}{}",
+                            &a[0..2].to_string(),
+                            &a[2..]
+                        )
+                        .nfc()
+                        .to_string()),
+                        subject.map_or_else(String::new, |s| s
+                            .chars()
+                            .next()
+                            .unwrap()
+                            .to_uppercase()
+                            .collect::<String>()),
+                    ]
+                    .join(" ")
+                )
+            } else {
+                String::new()
             },
-            self.scope,
-            self.user,
-            self.id,
-            self.date,
-            self.body,
+            &date[0..10],
+            match score {
+                0 => "±".to_string(),
+                x if x > 0 => format!("+{score}"),
+                _ => score.to_string(),
+            },
             if self.notes.is_empty() {
                 String::new()
             } else {
-                "\n".to_string()
-                    + &self
-                        .notes
-                        .iter()
-                        .map(|n| format!("{} ({}): {}", n.user, n.date, n.content))
-                        .join("\n")
+                notes
+                    .iter()
+                    .map(|n| format!("\n  {} ({}): {}", n.user, &n.date[0..10], n.content))
+                    .join("")
             }
         )
     }
