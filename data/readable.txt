@@ -3061,7 +3061,7 @@ beomnam @lassc 2025-03-20 #iejpKJavC $en ±
   lassc (2025-03-20): oh yeah it's also served with rice typically ^^
   lassc (2025-03-21): UPDATE: it's incredibly good, i'll post a recipe soon
 
-beoq [(c c)  hóq ] @jiqci 2023-11-28 #jBxaGNDLS $en +3
+beoq [(c c) (d d) hóq F] @jiqci 2023-11-28 #jBxaGNDLS $en +3
 ▯ underlies ▯; ▯ is a platform / basis / layer of abstraction / infrastructure ▯ is built upon.
   jiqci (2023-11-28): E.g. an opereting system **beoq**s apps/programs run in it, set theory **beoq**s a substantial chunk of maths, a system of roots and affixes **beoq**s the morphology of a language, water supply, sewers and underground cables **beoq** a well-functioning modern city
   Dembim (2026-02-10): Pronominal_class: hoq
@@ -3741,7 +3741,6 @@ predicate: ‘video’; ▯ is a video of ▯.
   Dembim (2026-01-31): Frame: c c
   Dembim (2026-01-31): Pronominal_class: maq
   Dembim (2026-01-31): Broader than "video recording", including e.g. animations, etc
-  Dembim (2026-01-31): -1 use <coq>
   Dembim (2026-02-03): Discriminator: 2
   Dembim (2026-02-13): Distribution: d d
   Dembim (2026-02-13): Subject: individual
@@ -6464,7 +6463,7 @@ butıbujı @jiqci 2023-06-15 #yr5oJy7De $en ±
 ▯ is a nimby; ▯ opposes building things / developments just because they'll be near their home.
   jiqci (2023-06-15): from **bu** **tî** **búa** **jıbo** "not at my house" or **bu** **tî** **búajıome** **jıbo** "not in my neighborhood"
 
-butıubu @uakci 2022-10-21 #1Si5Gy6j4 $en ±
+butıubu @uakci 2022-10-21 #1Si5Gy6j4 $en -1
 But since not, not; But since some (counterfactual) condition is not met, neither is its consequent; Now that this is false, that is clearly false too.
   uakci (2022-10-21): nullary predicate
 
@@ -9961,6 +9960,10 @@ chaqchıu @Laqme 2024-01-10 #eIeLJUdlA $en +1
 chaqchuı @Ilmen 2019-04-21 #rr61xz88v $en ±
 ▯ takes place early in the day.
 
+chaqdeoq [(c) (n) hó A] @Dembim 2026-02-21 #EhhBbNTxC $en ±
+predicate: 'chat'; ▯ (plural) make small-talk, everyday conversation, with one another.
+  Dembim (2026-02-21): I like both of <soaokeoı> and <seoqkeoı>; this just feels like something that should have several synonyms. Also this one is plural-subject, because— why not?
+
 chaqdıaq [(0) (d) hóq P] @Laqme 2018-12-14 #6us7v51VY $en +3
 ▯ occurs daily / every day.
   Laqme (2018-12-14): #chaqtū (official) seems to break the #niaqdīaq, #joadīaq, etc. pattern.
@@ -11478,6 +11481,7 @@ chıkuı @jiqci 2024-08-04 #1OJICEMAe $en ±
 
 chıkuıche [(c) (d) hó I] @Dembim 2026-02-06 #74NBrShUS $en ±
 ▯ is an officer/official
+  Dembim (2026-02-22): in the sense of <chıkuı>
 
 chılam @Laqme 2024-06-20 #_ZC0ZgLSb $en ±
 ▯ is naive / gullible.
@@ -15403,6 +15407,7 @@ deq [(c 1i) (d d) hó I] @Dembim 2026-02-16 #s-cB99lVy $en ±
 ▯ is able to do ▯
   Dembim (2026-02-16): <@official =deq> is ta class. Usage of the word is mostly that it's « daı tao ▯ ▯ », which imo suggests that it be ho class.
   Ilmen (2026-02-16): discriminator: 2
+  Dembim (2026-02-22): Pronominal_class: ho
 
 ⚠ deq @oldofficial 2019-05-05 #dWaVWV0nOj $en -1
 predicate: ‘able’; ▯ is able / has the ability to satisfy property ▯.
@@ -17447,7 +17452,7 @@ duasıa @uakci 2020-04-02 #SDpb2q-fF $en ±
 duasoı @eednb 2023-11-20 #hah4FFJ2b $en ±
 ▯ has a dispute over whether ▯ is the case.
 
-duasuao @uakci 2020-03-05 #8EyCFIvSp $en ±
+duasuao [(c) (d) hóq P] @uakci 2020-03-05 #8EyCFIvSp $en ±
 ▯ is important/relevant/remarkable; It is important to know ▯.
 
 duasue [(c c 0) (d d d) hó A] @official 2026-02-16 #s7n2Fzh94Gh $en ±
@@ -17930,7 +17935,7 @@ duopıosaı @Snow 2024-03-21 #n5U1ycqw0 $en ±
 ▯ is feldspar.
   Snow (2024-03-21): Calqued from 长石
 
-duoq [(c) (d) tá I] @Dembim 2026-02-03 #1CpAe6kww $en ±
+duoq [(c) (d) tá I] @Dembim 2026-02-03 #1CpAe6kww $en +1
 ▯ is hard/firm/immalleable
   Dembim (2026-02-03): Frame: c
   Dembim (2026-02-03): Pronominal_class: ta
@@ -20349,10 +20354,6 @@ fıakaıse @Laqme 2019-12-09 #HqpV-IYqF $en ±
 
 fıako @Ilmen 2019-01-23 #aId4EFtY1 $en ±
 ▯, in the sequence ▯, is at position ▯, counting from the end/right direction, the last slot having 1 as its index.
-
-fıam- @evie 2025-05-09 #PxUtkUQ3W $en ±
-prefix (number→number): the first n
-  evie (2025-05-09): **fị́amgu ıum** "the first two elements"
 
 fıamaq @Ilmen 2019-01-05 #Qw1_oepxC $en ±
 ▯ is it (obviative); ▯ is the second-to-lastly mentioned inanimate referent.
@@ -28635,6 +28636,9 @@ heqfareq @Laqme 2024-05-12 #gC4WbgEZ3 $en ±
 heqfuq @Machy 2022-04-16 #l74MazFEY $en ±
 ▯ is a purse/backpack/handbag/etc.
 
+heqgo [(c) (d) máq I] @Dembim 2026-02-21 #XD0O_UwrW $en ±
+predicate: ‘container’; ▯ is a container.
+
 heqgoa @uakci 2022-05-15 #e77sBjP2K $en ±
 ▯ is a vessel/compartment.
 
@@ -30109,7 +30113,7 @@ hoaqzuom @Laqme 2024-11-03 #YF2Ceh5es $en ±
 hoaraı @seaqtaq 2021-07-21 #zjEg3DyCd $en ±
 ▯ is a resumptive antecedent; ▯ is what the latest "hoa" refers to
 
-hobı [(c)  hó ] @Ilmen 2019-04-11 #S2pmG_nEJ $en ±
+hobı [(c) (d) hó I] @Ilmen 2019-04-11 #S2pmG_nEJ $en ±
 ▯ is a sheep.
   Ilmen (2026-01-28): frame: c
   Ilmen (2026-01-28): pronominal_class: ho
@@ -30771,10 +30775,6 @@ Illocution: suggestive ("X could happen, maybe", "X is an idea")
 
 hóꝡa @Laqme 2024-09-30 #hDqV3vHx2 $en +1
 vocative: "O!", archaic vocative
-
-⚠ hoꝡı @Ilmen 2019-07-21 #zGWjoJi27 $en -1
-▯ is a sheep.
-  uakci (2023-06-03): -1, **ꝡı** is an invalid syllable
 
 ⚠ hraı @Laqme 2024-04-27 #tW1dECy43 $en +1
 contraction of **hí raı**
@@ -42822,7 +42822,7 @@ __ is the x-th to last among ▯ where x is the number ▯, when sorted by prope
 kogıq @Ilmen 2019-01-05 #x2AfizkSb $en -1
 ▯ is the x-th to last among ▯ where x is the number ▯, when sorted by property ▯.
 
-kohu @seaqtaq 2024-08-25 #I8C8-lmM1 $en ±
+kohu @seaqtaq 2024-08-25 #I8C8-lmM1 $en -1
 ▯ commits the moral conundrum of punishing ▯ by placing them under the control/authority/influence of a entity that even the punisher themselves sees as at least contextually malicious and so would normally refuse to associate with it
   seaqtaq (2024-08-25): Example: There is an episode of Dr. Who wherein the 13th Doctor punishes an archnemesis of theirs who had been assuming the shape of a brown person by blowing their cover in front of the Nazis, with whom said archnemesis had temporarily aligned themselves
   seaqtaq (2024-08-25): Keyword: zakaı
@@ -42967,6 +42967,7 @@ koko @fagri 2021-09-30 #CdE7N431c $en ±
 ▯ is related to ▯; ▯ and ▯ are relevant to one another somehow
   fagri (2021-09-30): etymology: a priori
   fagri (2021-09-30): I'm having trouble finding the right predicate, and also finding the right words in English to describe it. Some things that might cheo koko: "your fingers should always come back to the home row when they aren't typing" "the home row keys make for the quickest keyboard shortcuts" "the home row is equidistant from the top and bottom rows"
+  Dembim (2026-02-21): If this is in use, some Toaq examples would be helpful. The above means that cheo koko one's fingers róı the home row, shortcuts róı the home row, etc, nhó?
 
 kokojıe @seaqtaq 2025-02-20 #296lKPUrV $en ±
 ▯ attributes ▯ to ▯ (and vice versa); ▯ deems ▯ and ▯ to be relevant to one another
@@ -46513,14 +46514,14 @@ prefix: "-level"; level/tier/stage/status/rank of X
   lassc (2025-03-22): trimmed from **lıuq**. an example would be like a rhythm game difficulty of lı̣joe as like "the difficulty level intended for skilled players"
   lassc (2025-03-23): i generalized this definition to allow uses similar to "-dan" or "duan" in martial arts/rhythm-gaming contexts
 
-lı @uakci 2023-12-02 #phXJYoHPd $en +1
+lı [(c 2xi) (n d) tá F] @uakci 2023-12-02 #phXJYoHPd $en +1
 As a general rule, one satisfies, with ▯, relation ▯; [≈ **he** **ıqha**]
   uakci (2023-12-02): **he** often goes with **há**, so understand **lı** as an abbreviation of this pattern: **he huaqcho há báq kırı** ‘one usually prefers cute things’ = **lı huaqcho báq kırı** ‘cute things are preferred’
   uakci (2023-12-02): syntactic aside: since **lı** has a built-in **ha** Asp node, i’d like to treat **lı** as the masked spelled-out form of an Asp node above and a V node below, namely **he** and **ıqha**
   uakci (2023-12-02): (in other words, some ✨automagical syntactic process✨ turns the continuous sequence **he ıqha** into **lı**, perhaps during Spell-Out, the syntactic phase infamous for having all kinds of magic shoved into it
 
-lı [  hóq ] @Dembim 2026-02-09 #X0kTGsk80 $toa ±
-he ıq há ▯
+lı [(c 2xi) (n d) tá F] @Dembim 2026-02-09 #X0kTGsk80 $toa ±
+he cuoı há ▯ ▯
 
 lị́a- @uakci 2025-10-07 #c8TRWI2vX $en ±
 prefix: turn conjunction X into a pronoun denoting ‘the former X the latter’ (in some contextually appropriate sense)
@@ -47812,6 +47813,7 @@ loeı @lassc 2025-03-14 #28Guub71j $en +1
   lassc (2025-03-15): «▯ nä za juq ▯ hóa» or something like that
   Dembim (2025-12-28): I like this quite a bit. I've found it useful for a sense of "concerns" and for things like: (two people considering how things are with some complex system) "it may be relevant that", « ao loei nî ... »
   Dembim (2026-02-04): kw: significant influence
+  Dembim (2026-02-21): see also similar, <@fagri koko>
 
 loekıa @robintown 2021-10-20 #5ryfGCIar $en +1
 ▯ is crimson.
@@ -59709,6 +59711,8 @@ nuaıkea @Laqme 2019-02-08 #djJp2l22S $en ±
 nuaıkıaı [(c c) (d d) hó A] @TheAndSys 2026-02-21 #bg2tTbQKU $en ±
 ▯ funds ▯
   TheAndSys (2026-02-21): A little broader than the definition may imply. Generally giving money to sustain
+  evie (2026-02-21): kw: bankroll, pay for
+  Dembim (2026-02-21): finances
 
 nuaıkuaı @uakci 2023-09-05 #rMY2gmcpK $en ±
 ▯ is greedy.
@@ -62128,10 +62132,6 @@ oka @mimiaoganhaqpy 2022-12-03 #07EQ0ppct $zh ±
 okapı @Ilmen 2025-03-27 #kzRhmEbQc $en ±
 ▯ is an okapi.
 
-oke @Dembim 2025-12-12 #dyPJLPKad $en ±
-interjection: "this/that/it is OK (fine, acceptable, alright)"
-  Dembim (2025-12-12): prefer <@Dembim okeı>
-
 okeı @Laqme 2019-11-08 #dH3dUir_c $en +1
 ▯ is OK (okay, fine, acceptable, all right).
   Laqme (2019-11-08): Doesn't cover the “passable, but not especially good” meaning that “OK” sometimes has in English (as in “the party was OK”).
@@ -62618,6 +62618,10 @@ predicate: ‘friendly’; ▯ acts friendly/kindly towards ▯.
 
 paıruo @jiqci 2023-07-31 #2n8tQaLUJz $pl ±
 ▯ zachowuje się przyjaźnie wobec ▯.
+
+paıtao [(c c) (d d) hó A] @Dembim 2026-02-22 #dOCmQR5ls $en ±
+▯ does ▯ as a social pretext, not because it's worth doing in its own right, but because they like who they're with while they do it
+  Dembim (2026-02-22): E.g. I wouldn't go to a brewery by myself, but I'll go if my friends are going because the point isn't the beer but rather, the conversation. This also covers many date/couples activities, the situation of restaurant regulars who mostly come because they know the owner, and so on.
 
 paıteı @Laqme 2023-12-06 #TUjAGeS4X $en ±
 ▯ is a Platonic solid.
@@ -72399,7 +72403,7 @@ seoqkası @Ilmen 2018-10-20 #CGZa-PTsQ $en ±
   Ilmen (2018-10-20): Juglans genus ("Jupiter's acorn", or more literally "sky/day + acorn/nut").
   Ilmen (2018-10-20): Hmm, but if that word refers to the tree, how to refer to the nut?
 
-seoqkeoı @Laqme 2023-12-11 #o7gZe9RSn $en ±
+seoqkeoı @Laqme 2023-12-11 #o7gZe9RSn $en +1
 ▯ talks about everyday matters with ▯.
   Laqme (2023-12-11): such as (but not limited to) the weather
   Laqme (2023-12-11): "small talk". Inspired by 聊天 liáotiān "chat"
@@ -72556,7 +72560,7 @@ sero @jiqci 2023-09-05 #HVzNdnqTV $en ±
 sesam @jiqci 2023-09-08 #a9H3TUJjd $en ±
 ▯ is sesame.
 
-seseq @robintown 2023-07-20 #QW9SuKxwO $en +1
+seseq @robintown 2023-07-20 #QW9SuKxwO $en ±
 ▯ is in control / empowered; ▯ has sufficient self-confidence and control over their own situation to satisfy property ▯.
   robintown (2023-07-20): A priori
 
@@ -72564,6 +72568,7 @@ seseq [(c) (d) hó I] @Dembim 2026-02-18 #TKSXJblZZ $en ±
 ▯ is empowered, confident, having the necessary control of their own situation to accomplish their goal(s)
   Dembim (2026-02-18): Valency-monomorphic fork of <@robintown seseq>
   Dembim (2026-02-18): Recover the bivalent meaning with subject-sharing, e.g. « ua, chum fatuı nháo ní jalam puaı sêseq »
+  Ilmen (2026-02-21): discriminator: 2
 
 sesese @Laqme 2024-07-14 #x5mxuWI5l $en -1
 interjection: keysmashing, speechlessness, "asdfghjkl"
@@ -79234,7 +79239,7 @@ shoshıa @jiqci 2023-07-31 #bQznHtanN6 $pl ±
 ⚠ shoulaı @uakci 2022-07-17 #lIVWR6cDh $en ±
 ▯ is a word of permission / OK sign / green light (literal or metaphorical).
 
-⚠ shr @kazoo 2026-01-16 #2nD0XiLRH $en ±
+⚠ shr @kazoo 2026-01-16 #2nD0XiLRH $en -1
 ▯ is identical to ▯.
   kazoo (2026-01-16): non-predicatizer version of **jeı**
 
@@ -91140,7 +91145,7 @@ focus marker: re-quantify the marked noun phrase, asserting that rather than for
 ⚠ nhuopeomy @uakci 2021-11-07 #dRV2UW45l $en ±
 ▯ is a comb.
 
-⚠ nhy @kazoo 2026-01-16 #flb-04dwv $en ±
+⚠ nhy @kazoo 2026-01-16 #flb-04dwv $en -1
 partial allophone of ^: object incorporation.
 
 ⚠ oılyzıu @Ilmen 2022-07-31 #QD0_hOjdH $en ±
@@ -91677,10 +91682,6 @@ Ina
 ⚠ @toacıa @salarua 2022-10-27 #kvOkqlKF8 $en ±
 ▯ is spiritist (being a spiritist, or relating to spiritists or spiritism)
 
-⚠ ysıloqlaı @kazoo 2026-01-16 #kB9-XUQx6 $en ±
-▯ is the letter upsilon. (υ)
-  kazoo (2026-01-16): will make sense later
-
 ⚠ (nuı)pıonuq @seaqtaq 2019-01-14 #N7umr_iUS $en -1
 (fork of #xz315kPZa) ▯ is a crocodile.
 
@@ -91709,6 +91710,10 @@ interjection: *clears throat conspicuously*
 
 ⚠ ㄷ @soyeon 2024-08-25 #6sHrD28jr $ko -1
 ㄷ
+
+⚠ ysıloqlaı @kazoo 2026-01-16 #kB9-XUQx6 $en -1
+▯ is the letter upsilon. (υ)
+  kazoo (2026-01-16): will make sense later
 
 ⚠ chey tao @uakci 2021-09-27 #KcvsuY0cI $en -1
 ▯ tricks ▯ into doing property ▯, supposedly of their own will.
