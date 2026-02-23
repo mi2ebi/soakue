@@ -27235,7 +27235,7 @@ haınu @uakci 2022-11-28 #YqqIjaeDW $en ±
   uakci (2022-11-28): ‘already’ not in the temporal sense but in the sense of discourse control (≈ ‘it’s already known that …’)
   uakci (2022-11-28): see **hoaınu**
 
-haıre @robintown 2023-11-29 #jK4ZOB5X3 $en +1
+haıre [(c c) (d d) hó I] @robintown 2023-11-29 #jK4ZOB5X3 $en +1
 ▯ curses / places a curse upon ▯.
   robintown (2023-11-29): A priori
   robintown (2023-11-29): Now I've decided this is some kind of word for 'curse' from Proto-Toaq, plus re likely coming from **reı** (compare **suoqre**)
@@ -32993,7 +32993,7 @@ Italıazu @eednb 2024-01-01 #IxKMW4YFk $en ±
 prefix: properly, actually, in the literal/strict sense
   Dembim (2026-02-15): see also <aı->
 
-ıu [(0)  hóq ] @uakci 2021-09-03 #mm9Rlfo1v $en +5
+ıu [(0) (d) hóq P] @uakci 2021-09-03 #mm9Rlfo1v $en +5
 ▯ is the case in the real world rather than hypothetically.
   robintown (2023-12-06): actually, really
   Dembim (2026-02-04): Frame: 0
@@ -35759,7 +35759,7 @@ interjección: ‘de.nada’; de nada/no hay de qué
 jıkı @SuperSpaceNiM 2024-08-12 #DMp69kWeK $ru ±
 междометие: ответ на **kıjı** 'спасибо' (не за что, да пожалуйста)
 
-jıko [(c)   ] @robintown 2022-12-04 #ZMkRYPNMf $en +7
+jıko [(c) (d) hóq I] @robintown 2022-12-04 #ZMkRYPNMf $en +7
 ▯ is the World Wide Web; ▯ is the Internet.
   eednb (2022-12-04): +1!
   Laqme (2025-01-01): from **jıaqkoaı**
@@ -36693,6 +36693,7 @@ joagu @seaqtaq 2019-01-26 #3BRrXlJdH $en +1
 
 joaı [(c c) (d d) hó A] @official 2026-02-16 #HQxqxHY0DXe $en ±
 predicate: ‘seek’; ▯ looks for ▯
+  Dembim (2026-02-22): kw: searches
 
 joaı @robintown 2022-01-27 #7qqsJfHTD $toa ±
 Leo joaıtaı ▯ ▯.
@@ -37070,7 +37071,7 @@ jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #Hu2b0J6Xe $en ±
   Dembim (2026-02-13): Subject: free
 
 jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #JkcPO1Ceg $toa ±
-cuoı ▯ ▯, lá cuoı já nha shì ké, ꝡë cuoı nha shí hóa já nha gù, nha gú
+cuoı ▯ ▯, lá cuoı já nhashì ké, ꝡë cuoı nhashí hóa já nhagù, nhagú
   Dembim (2026-01-28): Frame: c 2ix
   Dembim (2026-01-28): Pronominal_class: ta
   Dembim (2026-02-13): Distribution: n d
@@ -42414,7 +42415,7 @@ koaıcheo @Ilmen 2025-04-27 #Iy0ZfAJ4Z $en ±
 koaıfachuo @Ilmen 2020-02-22 #0z9weprYs $en ±
 ▯ is a web browser.
 
-koaıjoaı @Laqme 2025-01-01 #APiAKylAc $en ±
+koaıjoaı [(c c) (d d) hó A] @Laqme 2025-01-01 #APiAKylAc $en ±
 ▯ searches the internet for ▯.
   Laqme (2025-01-01): web search, "to google"
 
@@ -42946,6 +42947,12 @@ koja @seaqtaq 2021-12-28 #bwd7Z5BA- $en +1
 
 kojaka @jiqci 2024-06-19 #w25yTLFe0 $en ±
 ▯ is a jail / slammer (colloquial synonym of **tıoqbue**).
+
+kojo [(c c) (d d) hó A] @Dembim 2026-02-22 #Bs55DVQBy $en ±
+predicate: 'search.web'; ▯ searches the internet for ▯.
+  Dembim (2026-02-22): Etymology: from <@Laqme koaıjoaı>
+  Dembim (2026-02-22): Maybe this has a slightly slang or informal vibe about it.
+  Dembim (2026-02-22): Happy to say, see also <ꝡahu>.
 
 kojuao @fagri 2023-01-24 #F8iPAFV9c $en ±
 ▯ is the ko rule (in Go, the rule that states you may not make a move which causes an exact repetition of a previously-seen board state)
@@ -74234,6 +74241,9 @@ soaıja @seaqtaq 2024-11-19 #bbPljgZaH $en ±
 ▯ extends ▯
   seaqtaq (2024-11-19): Not in the sense of making longer or more in some property, but as in extending an arm upwards
 
+soaınıoq @evie 2026-02-22 #tMZScSFVg $en ±
+▯ is a radiodont
+
 soaıshoaı @Ilmen 2018-10-07 #BriVPtBTU $en ±
 ▯ is an Actinopterygii.
 
@@ -76239,29 +76249,34 @@ direct object  sharing adverbial head: as if [object] does/is...
 suonuo @samael 2025-09-29 #2cIj0KiqU $es -1
 ser un viaje astral; experiencia extracorporal
 
-suoq @evie 2025-12-15 #RL9s7Tobg $en +1
+suoq [(c c) (d d) tá F] @evie 2025-12-15 #RL9s7Tobg $en +1
 ▯ entices/attracts/seduces/lures ▯.
   evie (2025-12-15): fork of #vPcZDClB9 = <@robintown suoqja>
   Ilmen (2025-12-16): discriminator: 2
   evie (2026-01-06): the "into doing what" can be specified with **ôı** or **ôq**
+  Dembim (2026-02-22): Is this agent-subject?
+  evie (2026-02-22): not necessarily i think
 
 suoq @Machy 2022-02-07 #GI1xELz5Q $en ±
 ▯ is a child of ▯. (not necessarily biological)
   evie (2025-04-01): -1 <@Laqme fu> exists and i kinda want <@robintown suoqja> to be a shiraku
 
-suoqja @robintown 2023-11-09 #vPcZDClB9 $en ±
+suoqja [(c c 1j) (d n d) hó A] @robintown 2023-11-09 #vPcZDClB9 $en ±
 ▯ entices/attracts/seduces/lures ▯ into satisfying property ▯.
   robintown (2023-11-09): Etymology: Originally **suoq**. 'ja' < **aıja** was later added to avoid polysemy.
 
-suoqre @robintown 2023-11-29 #Z-M3jFzWv $en +1
+suoqre [(c c) (d d) hó I] @robintown 2023-11-29 #Z-M3jFzWv $en +1
 ▯ bewitches/enchants/charms ▯; ▯ casts a spell on ▯.
   robintown (2023-11-29): suoq < **suoqja** + re, possibly from **reı** (compare **haıre**)
 
-suoqse @robintown 2023-11-29 #sKzbDIOdO $en +1
+suoqse [(c) (d) hóq F] @robintown 2023-11-29 #sKzbDIOdO $en +1
 ▯ is a spell/charm.
   robintown (2023-11-29): suoq < **suoqja** + **se**. See also **suoqre**.
 
-suoqsuaq @Laqme 2023-11-29 #tiP-bNVDf $en +1
+suoqsı [(c c) (d d) hó A] @kazoo 2026-02-22 #IqU_8AI5L $en ±
+▯ (by effort/intention) entices/seduces/attracts/lures ▯.
+
+suoqsuaq [(c c) (d d) hó I] @Laqme 2023-11-29 #tiP-bNVDf $en +1
 ▯ chants/sings/speaks magical spell/incantation ▯.
 
 suoqsuoq @uakci 2021-11-07 #JQt5x8ryi $en ±
@@ -80953,6 +80968,9 @@ taqmudaı @uakci 2020-04-07 #dehnhirv1 $en ±
 
 taqmuo @Laqme 2025-02-22 #Hgo-7EMu5 $en ±
 ▯ is complete/full/whole.
+
+taqmuosho [(c) (d) tá F] @kazoo 2026-02-22 #RLj26H21n $en ±
+▯ is filled automatically; ▯ is autofilled.
 
 taqnulı @jiqci 2023-05-01 #2iXstWxKz $en ±
 ▯ is tar.
