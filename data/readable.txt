@@ -31576,7 +31576,7 @@ predicate: ‘auditory’; ▯ is auditory; ▯ pertains to the sense of hearing
 huo @jiqci 2023-07-31 #WtIHp3wV7R $pl ±
 ▯ jest słuchowy/związany ze zmysłem słuchu.
 
-huo @Laqme 2023-10-22 #5oTMwX9M0 $en -1
+huo @Laqme 2023-10-22 #5oTMwX9M0 $en ±
 ▯ hears ▯.
 
 huobo @seaqtaq 2020-02-26 #iN95ls21g $en ±
@@ -42948,7 +42948,7 @@ koja @seaqtaq 2021-12-28 #bwd7Z5BA- $en +1
 kojaka @jiqci 2024-06-19 #w25yTLFe0 $en ±
 ▯ is a jail / slammer (colloquial synonym of **tıoqbue**).
 
-kojo [(c c) (d d) hó A] @Dembim 2026-02-22 #Bs55DVQBy $en ±
+kojo [(c c) (d d) hó A] @Dembim 2026-02-22 #Bs55DVQBy $en +1
 predicate: 'search.web'; ▯ searches the internet for ▯.
   Dembim (2026-02-22): Etymology: from <@Laqme koaıjoaı>
   Dembim (2026-02-22): Maybe this has a slightly slang or informal vibe about it.
