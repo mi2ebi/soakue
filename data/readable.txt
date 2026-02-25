@@ -21693,7 +21693,7 @@ gaı @jiqci 2023-07-31 #XTkGnrsQ0q $pl ±
 gaı @SuperSpaceNiM 2024-08-15 #lsl12n9Ie $ru ±
 предикат: ‘воспринимать’; ▯ воспринимает/чувствует положение дел ▯.
 
-gaı @Laqme 2024-09-02 #znUUtn9YI $en ±
+gaı [(c c) (d d) hó I] @Laqme 2024-09-02 #znUUtn9YI $en ±
 ▯ perceives/senses ▯.
 
 gaı @evie 2025-03-16 #p9UADTPCs $tlh ±
@@ -37071,7 +37071,7 @@ jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #Hu2b0J6Xe $en ±
   Dembim (2026-02-13): Subject: free
 
 jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #JkcPO1Ceg $toa ±
-cuoı ▯ ▯, lá cuoı já nhashì ké, ꝡë cuoı nhashí hóa já nhagù, nhagú
+cuoı ▯ ▯, lá cuoı já nha shì ké, ꝡë cuoı nha shí hóa já nha gù, nha gú
   Dembim (2026-01-28): Frame: c 2ix
   Dembim (2026-01-28): Pronominal_class: ta
   Dembim (2026-02-13): Distribution: n d
@@ -60651,12 +60651,13 @@ nuogaı @Ilmen 2018-09-18 #RZJs3Ltv3 $en +12
   uakci (2019-01-21): +1 I do
   Ilmen (2019-01-22): +1 I do as well; #kaqnūo feels off for blind people, for example.
 
-nuogaı [(c c)  hó ] @Laqme 2026-02-11 #vQrHpMchi $en +2
+nuogaı [(c c)  hó ] @Laqme 2026-02-11 #vQrHpMchi $en +1
 ▯ dreams of ▯.
   uakci (2026-02-11): also, equivalently: ▯ sees ▯ in a dream
   Dembim (2026-02-11): Frame: c c
   Dembim (2026-02-11): Pronominal_class: ho
   Ilmen (2026-02-11): discriminator: 2
+  evie (2026-02-24): we can just say the-other-nuogai **pó**
 
 nuogaı [(c 0) (d d) hó A] @official 2026-02-16 #jhEjUwZwMSy $en ±
 predicate: ‘dream’; ▯ dreams state of affairs ▯.
