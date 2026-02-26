@@ -4515,6 +4515,9 @@ boekıoq @xorxes 2020-06-05 #rhmHRd-JE $en ±
 bóekıoqmuteı @xorxes 2020-06-05 #Yqb-Z-BEt $en ±
 ▯ is circular.
 
+boekuo @Laqme 2026-02-25 #P-CS0z4mk $en ±
+▯ is of the clubs suit.
+
 boeleq @jiqci 2023-07-05 #GVX540GyB $en ±
 ▯ is spinach.
   jiqci (2023-07-05): from Chinese 菠薐 and/or Thai ปวยเล้ง, + **boe**
@@ -13361,6 +13364,9 @@ chukao @TheAndSys 2024-05-06 #GRt_gHnUb $en ±
 chuke @Ilmen 2024-09-30 #MRba0dGrk $en +1
 ▯ is a potato.
   Ilmen (2024-09-30): Etymology: Aymara ⟪chʼuqi⟫.
+
+chukıa @Laqme 2026-02-25 #tGxxnVH_c $en ±
+▯ is of the hearts suit.
 
 chukuq @Hoemai 2019-04-08 #NB6GHRBpV $en +1
 ▯ mediates between/among ▯.
@@ -34658,7 +34664,7 @@ jeq @el 2022-07-10 #CWexL80Ei $tok ±
 jeq @jiqci 2023-07-31 #OZ4ukGG9i_ $pl ±
 ▯ jest taki sam jak ▯ pod względem własności ▯.
 
-jeqbıao [(c c) (d n) hó A] @Dembim 2026-02-16 #LlxsNsiyL $en ±
+jeqbıao [(c c) (d n) hó I] @Dembim 2026-02-16 #LlxsNsiyL $en ±
 ▯ conflates the members of ▯ (plural), mistakenly behaving as though they are the same/interchangeable
 
 jeqbıao [(c c) (d n) hó A] @Dembim 2026-02-16 #2cAB3uV3r $toa ±
@@ -46471,39 +46477,41 @@ leubeqmıa @seaqtaq 2024-10-24 #JatCiazaJ $en ±
 leupıe @Laqme 2025-01-10 #taE06lnmE $en +1
 ▯ drinks / has something to drink / hydrates / slakes their thirst.
 
-leuq @Laqme 2023-02-07 #ZVNU2siLv $en +1
+leuq [(c) (d) tá F] @Laqme 2023-02-07 #ZVNU2siLv $en +1
 ▯ is LGBT/queer.
   Laqme (2023-09-02): Intended as a pretty broad adjective: a story can be **leuq** for example
 
 leuq @Laqme 2025-01-09 #uELLL1mrT $toa ±
 Cẹmaıleı ra cẹjeqdaleı ▯.
 
-leuqboe @Laqme 2023-09-02 #btT9ffEEW $en +1
+leuqboe [(c) (d) máq I] @Laqme 2023-09-02 #btT9ffEEW $en +1
 ▯ is a pride flag.
 
-leuqcueq @seaqtaq 2024-11-03 #vtOYzipg8 $en ±
+leuqcueq [(c) (d) hó I] @seaqtaq 2024-11-03 #vtOYzipg8 $en +1
 ▯ is "out of the closet" in regards to their LGBT+ identity
   seaqtaq (2024-11-03): == cueqhe leuq
+  Laqme (2026-02-25): "coming out, to come out" = **sho leuqcueq**
+  Dembim (2026-02-25): perhaps <tao sha leuqcueq> if one wishes to avoid the <botùa leuqcueq> reading
 
-leuqde @Laqme 2024-10-10 #rCSGOJwzW $en ±
+leuqde [(c) (d) tá F] @Laqme 2024-10-10 #rCSGOJwzW $en ±
 ▯ is cute in a gay way.
 
-leuqdoaq @Laqme 2023-09-02 #XO8X68A1a $en ±
+leuqdoaq [(c) (d) máq I] @Laqme 2023-09-02 #XO8X68A1a $en ±
 ▯ is an LGBT neighborhood / gay village / gayborhood.
 
-leuqjue @Laqme 2023-09-02 #TJulC1DEV $en +1
+leuqjue [(c) (d) hóq F] @Laqme 2023-09-02 #TJulC1DEV $en +1
 ▯ is an LGBT Pride Month.
 
-leuqpaı @Laqme 2023-09-02 #fxYodF6UB $en +1
+leuqpaı [(c) (d) hó I] @Laqme 2023-09-02 #fxYodF6UB $en +1
 ▯ is an (LGBT) ally.
 
-leuqpoq @Laqme 2023-09-02 #zYdM86tMa $en ±
+leuqpoq [(c) (d) hó I] @Laqme 2023-09-02 #zYdM86tMa $en ±
 ▯ is a person under the LGBTQ+ umbrella / is a sexual or gender minority.
 
-leuqreo @Laqme 2023-09-02 #YP26tu9Z1 $en ±
+leuqreo [(c) (d) máq I] @Laqme 2023-09-02 #YP26tu9Z1 $en ±
 ▯ is rainbow-colored.
 
-leuqshuı @seaqtaq 2024-11-03 #xl2TGeImD $en ±
+leuqshuı [(c) (d) hó I] @seaqtaq 2024-11-03 #xl2TGeImD $en ±
 ▯ is "in the closet" in regards to their LGBT+ identity
   seaqtaq (2024-11-03): == shuıhe leuq
 
@@ -46938,6 +46946,9 @@ lıemgıu @uakci 2023-08-11 #J0AzpwWZS $en ±
 
 lıemıeq @Ilmen 2020-01-15 #YqUAGoNdL $en +1
 ▯ satisfies property ▯ in order to know what it feels like.
+
+lıemkıa @Laqme 2026-02-25 #oUszT7zfk $en ±
+▯ is of the diamonds suit.
 
 lıemlım @uakci 2023-08-11 #YZWr9pw50 $en ±
 ▯ sees the unique value in ▯.
@@ -48463,7 +48474,7 @@ lota @kazoo 2025-02-11 #f3mIfgaxM $en ±
 lotıehua @RaineTheEnby 2019-09-17 #Keir_7ReKOs $en ±
 ▯ is a mechanical exoskeleton worn by ▯
 
-lotuq @robintown 2023-11-07 #Zsl1Dk_fl $en +2
+lotuq [(c) (d) tá F] @robintown 2023-11-07 #Zsl1Dk_fl $en +2
 ▯ is LGBTQ+.
   robintown (2023-11-07): Etymology: Compared to **leuq** this is a considerably more modern term, designed to read as 'LGTBQ' in Derani. Alternatively, a common folk etymology tells that it was formed from a reduced form of **leuq** + **túq**.
   uakci (2023-11-07): another folk etymology could state that **lotuq** < **lo** + **tuq**, or ◌́+ **tuq**, or **túq**
@@ -77653,6 +77664,9 @@ sheqgao @jiqci 2024-01-07 #FnyGrtH9h $en ±
 
 sheqgaosaı @jiqci 2024-01-07 #xZxQyhtbH $en ±
 ▯ is alkannin (E103).
+
+sheqkuo @Laqme 2026-02-25 #HWJPeJXu6 $en ±
+▯ is of the spades suit.
 
 sheqloha @Laqme 2022-05-10 #CU7y4l3WH $en ±
 ▯ is steel.
