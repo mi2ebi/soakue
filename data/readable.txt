@@ -14417,6 +14417,8 @@ prefix: given a verb X expressing a denomination of date or time, form a new ver
 
 daq [(c) (d) hóq I] @official 2026-02-16 #AAm6pf9sZn4 $en ±
 predicate: ‘time’; ▯ is time.
+  Dembim (2026-02-27): I think I prefer that this mean— much as <goa> means "is a region of space"— "is a region of time", "is time".
+  Dembim (2026-02-27): I guess that's the intention anyway, given the way <goa> is phrased, but it's not super clear.
 
 daq @Laqme 2021-10-05 #5FMfw6h_s $ja ±
 ▯は時間
@@ -17078,10 +17080,11 @@ du @SuperSpaceNiM 2024-08-15 #Jc_j1ZvbW $ru ±
 du @uakci 2019-04-15 #EwajX9uDs $toa -1
 sa dó bı sıu jêo dóshı dó na sa jéı jêo dóshı dógu na lě da
 
-du'aı @uakci 2022-07-18 #c3Xnj4wUu $en ±
+du'aı [(c 1i) (d d) tá F] @uakci 2022-07-18 #c3Xnj4wUu $en ±
 ▯ is an imitation of property ▯.
   uakci (2022-07-18): ▯ is an artificial ▯-er.
   uakci (2022-07-18): **du'aı rủa** ‘artificial/fake/synthetic/plastic flowers’
+  Dembim (2026-02-27): see also <mıuq>
 
 dua [(c 0) (d d) hó I] @official 2026-02-16 #Kk759QMbPFH $en ±
 predicate: ‘know’; ▯ knows ▯ to be the case / to be true.
@@ -32577,7 +32580,7 @@ Hóa is with ▯ in relation ▯
 ıqhu @seaqtaq 2024-10-22 #mLci-_8Ge $en ±
 The aforementioned is with ▯ in relation ▯.
 
-ıqhueq @Laqme 2023-11-30 #iWRnpOCsY $en ±
+ıqhueq [(c c) (d d) hóq F] @Laqme 2023-11-30 #iWRnpOCsY $en ±
 ▯ is an aspect / facet / characteristic of ▯.
 
 ıqhuı @TheAndSys 2023-04-16 #Jt_mbsDBn $en ±
@@ -44009,6 +44012,10 @@ kuımutıao @Ilmen 2019-12-31 #BtRcJY6XQ $en -1
 kuıne @uakci 2022-02-10 #TXblLRHZa $en ±
 ▯ is a predetermined/specific amount of ▯.
 
+kuıq @uakci 2026-02-27 #8yDurjq1M $en +1
+Relevantly, ▯ satisfies property ▯; It is ▯ that satisfies property ▯; ▯ is circumstantially/contextually characterized as satisfying property ▯.
+  uakci (2026-02-27): see **kupo**
+
 kuıq @Ilmen 2024-09-08 #dmXLHFshJ $en ±
 ▯ is an answer to the question of what has property ▯, which I assume is newsworthy and useful to you.
 
@@ -44483,6 +44490,9 @@ kupefo @evie 2025-07-24 #PIQGpbvD9 $en ±
 
 kupı @Hoemai 2019-07-12 #YBk-POsp3 $en ±
 ▯ is a carp.
+
+kupo @uakci 2026-02-27 #Vs6kFTHpw $en +1
+Relevantly, ▯ is of/related to ▯; Circumstantially, ▯ is identified/characterized as being related to ▯.
 
 kuq- @seaqtaq 2024-11-30 #fZ3W0u58Q $en ±
 prefix: turns a transitive verb X into a verb meaning ▯ X's ▯ (text) and says it aloud
@@ -46183,6 +46193,13 @@ lembo @Laqme 2025-02-19 #f8hoV7qgD $en +1
 
 lemcıa @seaqtaq 2024-07-16 #HtzSowj6d $en ±
 ▯ is featureless/plain/dull
+
+lemdaq [(c c) (d d) hóq I] @Dembim 2026-02-27 #OT7wMPMbw $en ±
+predicate: 'age'; ▯ is an age, a period of time characterized by ▯
+  Dembim (2026-02-27): <ké lemdaq bê raqsu>, the Bronze Age; <sá lemdaq, ꝡâ he hıoq há kûı pó pı́ohoe>, an age of planetary pride.
+
+lemdaq @uakci 2026-02-27 #xPJw_V44d $en ±
+▯ is a/The ▯ Period; ▯ is a period/era/wave that, uniquely or in particular, satisfies property ▯.
 
 lemhıaq @Laqme 2024-05-16 #vWy3djoBD $en ±
 ▯ is simplistic / shallow / predictable / one-sided / lacks depth or contradictions.
@@ -52727,7 +52744,7 @@ mıumumıa @uakci 2020-03-07 #-jXQsw1xM $en ±
 mıunoba @lassc 2022-12-05 #TltMsqrvV $en ±
 ▯ is cognitively biased with regards to ▯ due to their prior beliefs/opinions.
 
-mıuq @Laqme 2022-12-17 #tDliApEBW $en +1
+mıuq [(c 1i) (d d) hó A] @Laqme 2022-12-17 #tDliApEBW $en +1
 ▯ feigns/simulates/pretends to satisfy property ▯.
 
 mıuqche @seaqtaq 2024-11-05 #5wneHlCiC $en ±
@@ -53913,7 +53930,7 @@ mọsosorofofetaq @kazoo 2025-04-30 #UgtPyfFBm $en -1
 mote @Lori 2023-12-04 #EiPjK-b62 $en +1
 ▯ is the 'motte' part of a motte-and-bailey fallacy; ▯ is an uncontroversial opinion, used to misrepresent a more controversial opinion. See 'beılı'.
 
-moteo [(c)   ] @Ilmen 2018-11-17 #_JbKFg0vw $en +3
+moteo [(c) (d) hóq I] @Ilmen 2018-11-17 #_JbKFg0vw $en +3
 ▯ is a text.
   fagri (2021-07-29): -1, I prefer kaise for this meaning and #E6dUI5YlJ for this spelling
   fagri (2021-08-21): Lol, I do not prefer kaise for this meaning, that was a stupid judgment
@@ -75467,6 +75484,7 @@ predicate: ‘shorthand’; ▯ writes ▯ using shorthand
 
 suaıkoı @Dembim 2026-02-27 #SUg9rKmOv $en ±
 predicate: ‘run’; ▯ runs.
+  Dembim (2026-02-27): <jara> is great; I just need this for isocolon.
 
 suaıkoıha @Snow 2024-10-02 #C92hYfsWR $en ±
 ▯ is galloping; ▯ is using the gallop gait.
@@ -82027,6 +82045,9 @@ determiner: each single thing among some X
 tesela @salarua 2022-12-13 #PdQnzGGy3 $en ±
 predicate: ‘tesla’; ▯ is a tesla (unit of measurement)
 
+teseu @evie 2026-02-27 #lfFAZ-Ze5 $en ±
+▯ incrementally replaces each of the components of ▯
+
 tesıe @Ilmen 2019-01-07 #XBUz5q8D9 $en -1
 ▯ is the sequence resulting from applying the cons function of the arguments ▯ and ▯.
   Ilmen (2019-01-08): −1
@@ -85012,7 +85033,7 @@ tuaıloq @seaqtaq 2024-08-20 #w8lpUs2gi $en ±
 tuaımoaı @seaqtaq 2024-08-06 #FbGtHnzA2 $en ±
 ▯ is thick/chubby/larger
 
-tuaımuo @seaqtaq 2025-12-13 #MvlMyCv0h $en ±
+tuaımuo @seaqtaq 2025-12-13 #MvlMyCv0h $en +1
 ▯ is in a blissful state of being characterized by complete physical satisfaction; ▯ is in no need of urination or defecation or itching and feels no thirst or hunger or any other physical urge
   seaqtaq (2025-12-13): = chıcıa gạtuaı
 
