@@ -17841,8 +17841,8 @@ dunafuom @seaqtaq 2024-10-27 #RPCZgtPXu $en ±
 dunakua @seaqtaq 2024-11-09 #tfSWhF_eg $en ±
 ▯ is a holding/containment cell
 
-duo [(c c) (d d) hóq E] @official 2026-02-16 #c0zzsR3CrLT $en ±
-predicate: ‘continue’; ▯ lasts for time ▯.
+duo [(c c) (d d) hóq E] @Ilmen 2024-02-12 #nnu-qR1Wz $en +1
+▯ lasts for time, has duration ▯.
 
 duo @el 2022-07-10 #kVfV7rtyk $tok ±
 tenpo ▯₂ la ▯₁
@@ -17850,8 +17850,8 @@ tenpo ▯₂ la ▯₁
 duo @jiqci 2023-07-31 #cjUmPOgcVe $pl ±
 ▯ trwa; ▯ trwa przez czas ▯.
 
-duo @Ilmen 2024-02-12 #nnu-qR1Wz $en ±
-▯ lasts for time, has duration ▯.
+duo [(c c) (d d) hóq E] @official 2026-02-16 #c0zzsR3CrLT $en -1
+predicate: ‘continue’; ▯ lasts for time ▯.
 
 duo @uakci 2019-01-28 #WMSxCsXda $toa -1
 sa dó jěı dûo dóshı dógu dósaq bı, she go fâq dó na, lû to ru shıu go dó tî dóshı dósaq, to bıe go dó tî dóshı dógu da
@@ -21786,9 +21786,8 @@ gaıkaruaq @fagri 2020-01-23 #F4JWxLkal $en ±
 ▯ acknowledges that ▯ is true
   fagri (2020-01-23): (to be used with ka)
 
-gaıkea @evie 2024-11-03 #PDnAuHk5F $en +1
-▯ is a ▯ sensor/detector
-  evie (2024-11-03): i could see the object being a kind (báq) or property (lä)
+gaıkea [(c 1x) (d d) máq I] @evie 2024-11-03 #PDnAuHk5F $en +1
+▯ is a ▯ sensor/detector; ▯ senses/detects things that satisfy property ▯
 
 gaıkea @seaqtaq 2024-07-26 #Ht1xibM7h $en ±
 ▯ is a sensor
@@ -29947,6 +29946,7 @@ pronoun: ‘RSM’; resumptive
 
 hoabo @robintown 2022-02-16 #PF7Xgd8yc $en ±
 ▯ is of the referent of 'hóa'.
+  Laqme (2026-02-28): Clarifying note: this word means the same as **po hóa** (it's like **jıbo** or **suqbo**.)
 
 hoaı- @Laqme 2023-12-13 #EgQjze177 $en +1
 pre-aspect: 'still'
@@ -87365,7 +87365,7 @@ zaonoba @lassc 2022-12-05 #3LuHQ5otL $en ±
 zaopuı @Ilmen 2020-03-07 #Bk3dt72M4 $en ±
 ▯ is famous/well-known.
 
-zaosu @seaqtaq 2023-03-08 #vNV7j5DTu $en +2
+zaosu @seaqtaq 2023-03-08 #vNV7j5DTu $en +3
 'signature':▯ is something that makes one contextually unique in some salient respect
   seaqtaq (2023-03-08): Clipping of "zaosuao"
 
