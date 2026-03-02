@@ -44795,6 +44795,9 @@ interjection: 'sorry'
 kushe @salarua 2022-12-23 #cmAqcu4ZX $es ±
 interjección: ‘lo.siento’: lo siento
 
+kushenam [(c) (d) máq I] @Dembim 2026-03-01 #DyBfcOS9A $en ±
+▯ is a peace offering or propitiatory gift, given to make amends in good faith
+
 kushu @Hoemai 2019-09-17 #tif1DItsMOW $en +1
 ▯ is a cucumber.
 
@@ -53291,12 +53294,12 @@ mohıamohıabıa @Hydro 2021-08-19 #wxwanHk_4 $en ±
 moho @Ilmen 2022-02-15 #CMa--GYOH $en ±
 illocution: humorous, non-serious question.
 
-moı @kazoo 2025-05-03 #JH8I-TeOn $en +2
+moı [(c 0) (d d) hó A] @official 2026-02-16 #Oy7Wen-10K5 $en +1
+predicate: ‘think’; ▯ thinks thought ▯.
+
+moı @kazoo 2025-05-03 #JH8I-TeOn $en +1
 predicate: ‘think’; ▯ thinks thought ▯.
   kazoo (2025-05-03): forked from @official, binary only
-
-moı [(c 0) (d d) hó A] @official 2026-02-16 #Oy7Wen-10K5 $en ±
-predicate: ‘think’; ▯ thinks thought ▯.
 
 moı @el 2022-07-10 #EthoiUDy5 $tok ±
 ▯ li toki e ▯ lon lawa ona
@@ -84221,6 +84224,9 @@ toegoıtue @jiqci 2024-07-14 #6JLWk7m2A $en ±
 
 toejı @Hoemai 2019-04-03 #N_2PJJikH $en ±
 ▯ is a mole of genus Talpa (containing different species of mole found primarily in Europe and western Asia).
+
+toejıchırı [(c) (d) hó I] @jiqci 2026-03-01 #OKXmbqASq $en ±
+▯ is a mole cricket (family Gryllotalpidae).
 
 toejıkea @jiqci 2023-08-04 #7ZGguVOtw $en ±
 ▯ is a tunnel boring machine.
