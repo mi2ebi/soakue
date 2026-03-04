@@ -16984,6 +16984,12 @@ doqkopı @fagri 2018-11-22 #O9rzsjMRD $en ±
 doqmuı @uakci 2020-05-19 #QvclbHazc $en ±
 ▯ is concise/'to the point'/terse/succinct/laconic; ▯ is a short/pithy way to say ▯.
 
+doqnueq [(c) (d) máq I] @Dembim 2026-03-03 #UEj1mrhDQ $en ±
+▯ is steak, meat with short fibers cut against the grain
+
+doqnueq @Dembim 2026-03-03 #gOfpm59dK $toa ±
+toese bâq nueq ▯, ꝡë doq ké nhoq hoabo
+
 doqnuo @fagri 2020-06-22 #7QK0cKWCM $en ±
 ▯ naps; ▯ sleeps for only a short time
 
@@ -20377,7 +20383,7 @@ fıaona @jiqci 2025-05-31 #8vXCwe0d7 $en ±
 fıapoha @Laqme 2025-02-14 #naNVRzQhe $en ±
 ▯ refers anaphorically to ▯.
 
-fıaq @TheAndSys 2024-02-16 #ZfzhcSPsJ $en +1
+fıaq @TheAndSys 2024-02-16 #ZfzhcSPsJ $en +2
 interjection: Anyways, regardless
   TheAndSys (2024-02-16): Does not affect the topic of conversation, unlike nhu
 
@@ -26297,6 +26303,7 @@ gujeqsaqjıeq @kazoo 2025-10-18 #vSAFA5ncm $en ±
 
 gujıeq @Ilmen 2019-02-01 #iQr6WFgKF $en +1
 ▯ is a finite straight line.
+  Dembim (2026-03-03): line segment
 
 gujue @fagri 2020-01-06 #ZTJK7vsqy $en +1
 ▯ is a February
@@ -33016,6 +33023,10 @@ number: 4,294,967,296
   salarua (2025-04-30): Used for counting in binary
   salarua (2025-04-30): c.f. **hem**, **chuom**, **dobı**, **buabı**, **cıeqchuom**
 
+ıuchı @uakci 2026-03-02 #v0wD3VK3b $en ±
+▯ believes that the answer to the indirect question ▯ is really what it is.
+  uakci (2026-03-02): “you won’t believe what happened” = “you won’t believe it’s *this* that happened” (where the value of ‘this’ is implied)
+
 ıudaıjıaq @Ilmen 2026-01-21 #TawnZhBbm $en ±
 ▯ is a possible world consistent with (my incomplete model of) the real world. (I.e. it is a world which fills in unkown information, but doesn't alter known information about the real world.)
 
@@ -38965,12 +38976,12 @@ kahua @uakci 2023-11-01 #_nOkn019x $en ±
 kahucıa @Ilmen 2020-02-05 #bickjqvmg $en -1
 ▯ is a member of the order Anura (the frogs and toads).
 
-kaı @evie 2024-06-13 #DlN3gDVNv $en +3
+kaı [(c c) (d d) hó A] @Ilmen 2024-10-21 #GfidDHUKP $en +3
+▯ writes, inscribes, draws physical marking ▯.
+
+kaı [(c c) (d d) hó A] @evie 2024-06-13 #DlN3gDVNv $en +2
 ▯ writes ▯
   Laqme (2024-09-19): This is about the physical act of writing. If you mean "writing a story" as in authoring/inventing it, you might want **fıeq** or **kaıfıeq**.
-
-kaı @Ilmen 2024-10-21 #GfidDHUKP $en +3
-▯ writes, inscribes, draws physical marking ▯.
 
 kaı [(c c c) (d d d) hó A] @official 2026-02-16 #OeSetJLu9po $en ±
 predicate: ‘write’; ▯ writes ▯ on ▯.
@@ -39069,7 +39080,7 @@ predicate: ‘desk’; ▯ is a desk.
 kaıfua @jiqci 2023-07-31 #VdL45MGgP $pl ±
 ▯ to biurko.
 
-kaıge @jiqci 2024-01-02 #sk4Cj2bT8 $en ±
+kaıge @jiqci 2024-01-02 #sk4Cj2bT8 $en +1
 ▯ is a (writing) prompt.
 
 kaıgıq @fagri 2021-08-14 #cdfj8pTRA $en ±
@@ -39192,6 +39203,11 @@ kaıse @kazoo 2024-11-24 #rHgvKKKV8 $tr ±
 
 kaıse [(c) (d) hóq I] @official 2026-02-16 #HUuvgju0JcR $en -1
 predicate: ‘text’; ▯ is text/writing.
+  Dembim (2026-03-03): I prefer <moteo> for this meaning. See <@Dembim kaıse>, <@Ilmen kaı>.
+
+kaıse @Dembim 2026-03-03 #KYwXcBQE3 $en ±
+predicate: ‘marking’; ▯ is a marking.
+  Ilmen (2026-03-03): discriminator: 2
 
 kaısebe @fagri 2021-10-05 #3rue_X8L7 $en ±
 ▯ is a stub article
@@ -40298,7 +40314,7 @@ kasha @Ilmen 2019-01-05 #WrTJHkGwQ $en ±
 kasha @jiqci 2023-03-08 #t52jVVmlF $en ±
 ▯ is a kasha/porridge.
 
-kashe [(c c) (d d) hó A] @Dembim 2026-02-01 #3XLzGdz0t $en ±
+kashe [(c c) (d d) hó A] @Dembim 2026-02-01 #3XLzGdz0t $en -1
 ▯ creates paste/powder/rubble/fragments ▯
   Dembim (2026-02-01): Frame: c c
   Dembim (2026-02-01): Pronominal_class: ho
@@ -40308,7 +40324,7 @@ kashe [(c c) (d d) hó A] @Dembim 2026-02-01 #3XLzGdz0t $en ±
   Dembim (2026-02-13): Distribution: d d
   Dembim (2026-02-13): Subject: agent
 
-kashese [(c) (d) máq I] @Dembim 2026-02-01 #qZ9p3km7T $en ±
+kashese [(c) (d) máq I] @Dembim 2026-02-01 #qZ9p3km7T $en -1
 ▯ is a prototypical product of destruction (paste/powder/rubble), a high-entropy mass of what was once far more ordered
   Dembim (2026-02-01): Frame: c
   Dembim (2026-02-01): Pronominal_class: maq
@@ -44015,6 +44031,7 @@ kuıne @uakci 2022-02-10 #TXblLRHZa $en ±
 kuıq @uakci 2026-02-27 #8yDurjq1M $en +1
 Relevantly, ▯ satisfies property ▯; It is ▯ that satisfies property ▯; ▯ is circumstantially/contextually characterized as satisfying property ▯.
   uakci (2026-02-27): see **kupo**
+  Ilmen (2026-03-03): discriminator: 2
 
 kuıq @Ilmen 2024-09-08 #dmXLHFshJ $en ±
 ▯ is an answer to the question of what has property ▯, which I assume is newsworthy and useful to you.
@@ -52594,6 +52611,10 @@ mısotuze @robintown 2025-05-20 #_tteWGunO $en ±
 mıshı @uakci 2022-02-14 #XFDpLiYRt $en ±
 name verb: St., Saint
 
+mıta @evie 2026-03-02 #v2kwp06Fh $en ±
+▯ believes (source of information) ▯
+  evie (2026-03-02): etymology: 믿다 mitda
+
 mıtıeq @jiqci 2023-07-03 #XIObzvBYX $en ±
 name verb: ▯ is a street/road/avenue named (after) X.
 
@@ -53939,6 +53960,7 @@ moteo [(c) (d) hóq I] @Ilmen 2018-11-17 #_JbKFg0vw $en +3
   fagri (2021-08-21): Lol, I do not prefer kaise for this meaning, that was a stupid judgment
   fagri (2021-08-21): +1
   Dembim (2026-02-10): Frame: c
+  Dembim (2026-03-03): writing
 
 moteolaı @el 2022-06-20 #ze6UANcY4 $en ±
 ▯ are quotes («, », “, ”, ", etc)
@@ -65964,6 +65986,7 @@ pueq @jiqci 2023-07-31 #a9kszl15Uw $pl ±
 
 pueq [(c) (d) hó A] @Dembim 2026-02-27 #9WnYzJsG6 $en ±
 predicate: ‘tread’; ▯ steps/treads.
+  Ilmen (2026-03-03): discriminator: 2
 
 pueqbuaq @uakci 2021-11-15 #rymHxjkRW $en ±
 ▯ trips/slips/trembles/loses balance/grip.
@@ -85264,6 +85287,10 @@ tuası @robintown 2023-05-15 #ggaDx-RMl $en ±
 
 tuasıa @seaqtaq 2018-12-25 #aj2zMW5Zb $en ±
 ▯ deletes file/data ▯
+
+tuashao [(c c) (d d) hó I] @Dembim 2026-03-03 #OE1KxYuYV $en ±
+predicate: ‘intend’; it is the intention of ▯ that ▯ happen.
+  Dembim (2026-03-03): Think of this as a point between <taoshao> <tua> and <zaı>, something like "▯ encourages/ weakly tries to make ▯ the case", or in that neighborhood. For instance, I'm tuashao-ing right now in writing this comment that prescribes a usage of tuashao.
 
 tuasheo @seaqtaq 2024-08-05 #yxVcYGyi0 $en ±
 ▯ feels guilty/culpable/at fault
