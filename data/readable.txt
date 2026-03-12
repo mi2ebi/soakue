@@ -615,7 +615,7 @@ akıleopuebeqbo @Ilmen 2022-03-03 #poI1jYQRI $en ±
 akım @Snow 2023-05-31 #a81wpwTn9 $en ±
 ▯ is an alkyne.
 
-akımı [(c)  tá ] @fagri 2022-12-27 #cU5pe4wIr $en +2
+akımı [(c) (d) tá I] @fagri 2022-12-27 #cU5pe4wIr $en +2
 ▯ is active/awake/on/engaged
   fagri (2022-12-27): Of a lock: "closed"/"locked"
   robintown (2023-06-06): antonym: **dom**
@@ -11208,7 +11208,7 @@ chıeguo @uakci 2022-02-02 #_hgkjTZQd $en ±
 chıeguo @Machy 2022-04-01 #11iOTfS-q $en ±
 ▯ is a class for studying ▯.
 
-chıeja [(c c 1j)   ] @robintown 2023-11-09 #4jIxOXAM9 $en ±
+chıeja [(c c 1j) (d d d) hó I] @robintown 2023-11-09 #4jIxOXAM9 $en ±
 ▯ teaches ▯ ▯.
   robintown (2023-11-09): **chıe** + 'ja' < **aıja**
   Dembim (2025-12-09): Frame: c c 1j
@@ -11393,6 +11393,10 @@ chıetoaı @seaqtaq 2019-03-15 #nXwyyaUcm $en ±
 chıetoaı @salarua 2022-12-23 #4xall3I5a $es ±
 predicato: ‘lección’; ▯ es una lección
 
+chıetua @takoda 2024-10-28 #PQMl2qILp $en +1
+▯ teaches on how to satisfy property ▯.
+  takoda (2024-10-28): Simplified version of official **chıetua**. Works well with **côm**.
+
 chıetua [(c c 1j) (d d d) hó A] @official 2026-02-16 #sJ2IrwwwTty $en ±
 predicate: ‘teach’; ▯ teaches ▯ property ▯.
 
@@ -11407,10 +11411,6 @@ chıetua @nano 2023-05-23 #DKQPqLBSz $tok ±
 
 chıetua @jiqci 2023-07-31 #6Y_mKEtGJE $pl ±
 ▯ uczy ▯ własności ▯.
-
-chıetua @takoda 2024-10-28 #PQMl2qILp $en ±
-▯ teaches on how to satisfy property ▯.
-  takoda (2024-10-28): Simplified version of official **chıetua**. Works well with **côm**.
 
 chıetua @el 2022-10-26 #2YkFksa9Q $tok -1
 ▯ li pana, tawa ▯, e sona pi ▯ (toki pi lupa wan)
@@ -16883,7 +16883,7 @@ dolomme @Laqme 2025-03-10 #namWCBV5a $en ±
 dolomrueqguhu @jiqci 2025-01-21 #BFV0bWLzh $en ±
 ▯ is a tensor tympani muscle.
 
-dom [(c)  tá ] @fagri 2022-12-27 #KNxFHz4X_ $en +2
+dom [(c) (d) tá I] @fagri 2022-12-27 #KNxFHz4X_ $en +2
 ▯ is inactive/asleep/off/disengaged
   fagri (2022-12-27): Of a lock: "open"/"unlocked"
   robintown (2023-06-06): antonym: **akımı**
@@ -17363,7 +17363,7 @@ duaoboe @fagri 2019-02-09 #BXP7Nzq89 $en +1
 duaocea @robintown 2021-10-22 #Gt3aHnIp7 $en +1
 ▯ is a pie.
 
-duaochaı @robintown 2022-06-25 #mlXFFOTJA $en +1
+duaochaı @robintown 2022-06-25 #mlXFFOTJA $en +2
 ▯ is sweet tea.
   robintown (2022-06-25): it's NOT just dủao chảı 😤
 
@@ -19067,7 +19067,7 @@ faheaq @Laqme 2025-04-10 #g0SfQSty4 $en ±
 faheqchuo @Laqme 2020-01-10 #WcF3sRDww $en ±
 ▯ is luggage / baggage / (e.g.) a suitcase or travel bag.
 
-faı @robintown 2022-06-02 #6wtPL7fgw $en +2
+faı @robintown 2022-06-02 #6wtPL7fgw $en +3
 ▯ is common/ordinary/frequent.
   robintown (2022-06-02): Advantages: doesn't make your head spin with property places, and serializes nicely as an attributive adjective
 
@@ -21948,9 +21948,15 @@ I now directly perceive that ▯ is the case; my senses are telling me that ▯ 
 galaoko @Ilmen 2021-12-31 #8cKIlSTbd $en ±
 ▯ is a member of the Glaucus family (blue dragon sea slugs).
 
-gale @Machy 2021-11-17 #X_BglWICR $en +2
+gale [(c c 1j) (d d d) hó A] @Machy 2021-11-17 #X_BglWICR $en +2
 ▯ teaches ▯ to satisfy property ▯.
   Machy (2021-11-17): ex forma
+
+gale [(c c) (d d) hó A] @Dembim 2026-03-09 #EsdFj2wY5 $en ±
+predicate: 'teach'; ▯ teaches learner ▯.
+  Dembim (2026-03-09): Fork of <@Machy gale>— use <ôı> or <ôq> + <deq>. <dua>, etc for the dropped "to satisfy property" slot.
+  Dembim (2026-03-09): Discriminator: 2
+  Dembim (2026-03-09): Related: <@takoda chıetua>
 
 galeche @Laqme 2025-03-14 #QkJQIYfmr $en +1
 ▯ is a teacher.
@@ -27220,7 +27226,7 @@ interjection: "I should stop talking / what am I saying?"
 haıchoe @seaqtaq 2024-07-10 #6pVfQ8M5H $en ±
 ▯ has already happened by the time ▯ happens
 
-haıda @jiqci 2024-06-25 #SWYNyjrIE $en +2
+haıda @jiqci 2024-06-25 #SWYNyjrIE $en +3
 ▯ destroys / devastates / lays waste / obliterates ▯.
 
 haıdakıoq @jiqci 2025-01-13 #lIrQHzQJR $en ±
@@ -32544,7 +32550,7 @@ Iqdonesıazu @eednb 2024-01-01 #xLf2Y28Jj $en ±
 ıqdua @Isi 2023-05-08 #yh1J9OXKB $en ±
 predicate: ▯ knows how to satisfy property ▯.
 
-ıqfaı @Laqme 2024-06-28 #LoeIj3BcD $en ±
+ıqfaı @Laqme 2024-06-28 #LoeIj3BcD $en +1
 ▯ frequently/often satisfies property ▯.
 
 ıqfeu @salarua 2023-01-10 #5jmc4gb61 $en ±
@@ -38876,7 +38882,7 @@ kadıo @fagri 2021-09-30 #rvmz9wY74 $en ±
 ▯ does cardio exercise
   fagri (2021-09-30): etymology: borrowing from English
 
-kado @el 2022-07-22 #VFmFKEDZD $en ±
+kado @el 2022-07-22 #VFmFKEDZD $en +1
 ▯ (event) is ▯'s fault (negative connotation)
   el (2022-07-22): a priori
   el (2022-07-22): see also **kamı**
@@ -39435,7 +39441,7 @@ kamhe @uakci 2024-09-20 #7KQBxw7T1 $en ±
 aspect: by definition/definitionally; by nature/design
   uakci (2024-09-20): see **kám**
 
-kamı @el 2022-07-22 #jifNykA8E $en ±
+kamı @el 2022-07-22 #jifNykA8E $en +1
 ▯ (event) is thanks to ▯ (positive connotation)
   el (2022-07-22): a priori
   el (2022-07-22): see also **kado**
@@ -40320,23 +40326,6 @@ kasha @Ilmen 2019-01-05 #WrTJHkGwQ $en ±
 
 kasha @jiqci 2023-03-08 #t52jVVmlF $en ±
 ▯ is a kasha/porridge.
-
-kashe [(c c) (d d) hó A] @Dembim 2026-02-01 #3XLzGdz0t $en -1
-▯ creates paste/powder/rubble/fragments ▯
-  Dembim (2026-02-01): Frame: c c
-  Dembim (2026-02-01): Pronominal_class: ho
-  Dembim (2026-02-01): This is meant as a sort of counterpart to <baı> (which suggests constructive creation) that means creation through destruction/reduction
-  Dembim (2026-02-01): Etymology: the sound of a pestle scraping in a mortar
-  Dembim (2026-02-01): kw: crushes, grinds, mashes
-  Dembim (2026-02-13): Distribution: d d
-  Dembim (2026-02-13): Subject: agent
-
-kashese [(c) (d) máq I] @Dembim 2026-02-01 #qZ9p3km7T $en -1
-▯ is a prototypical product of destruction (paste/powder/rubble), a high-entropy mass of what was once far more ordered
-  Dembim (2026-02-01): Frame: c
-  Dembim (2026-02-01): Pronominal_class: maq
-  Dembim (2026-02-01): I probably used "entropy" subtly wrong here— I was never any good at physics— but hopefully you get the idea.
-  Dembim (2026-02-01): Ex: chile paste, demolition rubble, climbing chalk, anything milled, ground, etc
 
 kata @Ilmen 2018-09-24 #YqZfmuBBp $en ±
 ▯ is a card.
@@ -46224,9 +46213,11 @@ lemcıa @seaqtaq 2024-07-16 #HtzSowj6d $en ±
 lemdaq [(c c) (d d) hóq I] @Dembim 2026-02-27 #OT7wMPMbw $en ±
 predicate: 'age'; ▯ is an age, a period of time characterized by ▯
   Dembim (2026-02-27): <ké lemdaq bê raqsu>, the Bronze Age; <sá lemdaq, ꝡâ he hıoq há kûı pó pı́ohoe>, an age of planetary pride.
+  Dembim (2026-03-09): see also <@uakci lemdaq>
 
 lemdaq @uakci 2026-02-27 #xPJw_V44d $en ±
 ▯ is a/The ▯ Period; ▯ is a period/era/wave that, uniquely or in particular, satisfies property ▯.
+  Dembim (2026-03-09): related: <@uakci kuıq>
 
 lemhıaq @Laqme 2024-05-16 #vWy3djoBD $en ±
 ▯ is simplistic / shallow / predictable / one-sided / lacks depth or contradictions.
@@ -54196,6 +54187,9 @@ muaq @jiqci 2023-07-31 #F5Ij9APOYH $pl ±
 
 muaq @kazoo 2024-11-24 #02OIXOptv $tr ±
 ▯ ölüdür.
+
+muaq [(c) (d) hó I] @Dembim 2026-03-11 #aSoqPw_Za $toa ±
+bu mıe ▯, jü luı mıe hóa
 
 muaq @uakci 2019-04-14 #mHgyv1FQa $toa -1
 = bu #mıe
@@ -63087,7 +63081,7 @@ paqku @uakci 2022-02-08 #omtTWoBqP $en ±
 paqkuı @Laqme 2019-02-21 #FlmFbxixE $en ±
 ▯ is the case, partially because ▯ (but also for other reasons).
 
-paqla @Laqme 2023-08-31 #ERhgu4Buk $en ±
+paqla @Laqme 2023-08-31 #ERhgu4Buk $en +1
 ▯ splits / divvies up / allots parts of ▯.
   Laqme (2024-01-02): divides / to divide something
 
@@ -80666,13 +80660,8 @@ taogı @uakci 2022-11-09 #Y4PBXCo19 $en ±
 ▯ is a property worth satisfying.
   robintown (2025-02-13): virtuous, perhaps?
 
-taogıq @Ilmen 2020-01-10 #oYd969ikJ $en +2
+taogıq @Ilmen 2020-01-10 #oYd969ikJ $en +3
 ▯ accidentally/unintentionally satisfies property ▯.
-
-taogıq @fagri 2019-01-21 #pbwemuAmr $en -1
-▯ is an accident; ▯ does ▯ by accident
-  fagri (2019-01-21): +1
-  uakci (2020-02-05): I prefer #oYd969ikJ
 
 taoguo @uakci 2020-04-11 #5-jhduQ4Y $en ±
 ▯ is an activity; ▯ is an instance of ▯ doing ▯.
@@ -84684,7 +84673,7 @@ toqluaqmu @jiqci 2023-01-29 #9Zz2DL8Kj $en ±
 toqlucu @jiqci 2024-01-01 #hqATOUhfO $en ±
 ▯ is a board game.
 
-toqna @jiqci 2023-05-30 #cSThHfY0j $en +1
+toqna @jiqci 2023-05-30 #cSThHfY0j $en +2
 ▯ is a crapton/crapload/shitton/shitload/buttload/a lot/loads/metric ton of something.
 
 toqnhe @uakci 2023-05-30 #Ffe-L6R0V $en ±
@@ -85281,7 +85270,7 @@ tuaotuao @Ilmen 2019-02-21 #-6AN3x6M7 $en ±
 tuaotuoı @uakci 2022-08-05 #g3BCfnQio $en ±
 ▯ is a nitpick in ▯
 
-tuaq @Ilmen 2018-10-14 #-AW8yvvUN $en ±
+tuaq @Ilmen 2018-10-14 #-AW8yvvUN $en +1
 ▯ is a horn (body part).
   uakci (2018-10-14): +1.
 
