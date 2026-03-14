@@ -245,12 +245,6 @@ dd {
     --bg: light-dark(#ffffff, #000000);
     --fg: light-dark(#000000, #ffffff);
     --input: light-dark(#ffffff, #1a1a1a);
-    --gray: light-dark(#4a4a4a, #cccccc);
-    --focus: light-dark(#b91c1c, #fca5a5);
-    --orange: light-dark(#b45309, #fcd34d);
-    --blue: light-dark(#1e40af, #93c5fd);
-    --purple: light-dark(#6b21a8, #d8b4fe);
-    --pink: light-dark(#be185d, #fbcfe8);
   }
   #search,
   #howto {
