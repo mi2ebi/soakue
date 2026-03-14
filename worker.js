@@ -20,7 +20,7 @@ function shuffle(a) {
 function search(q) {
   let terms = q.split(" ");
   terms = terms.map((term) => {
-    let [_, operator, query] = term.match(/^([=~@#/$!]|[a-z]*:)(.*)/) ?? [];
+    let [_, operator, query] = term.match(/^([=~@#/$!%]|[a-z]*:)(.*)/) ?? [];
     if (!operator) return { op: "", orig: term, value: term.toLowerCase() };
     let colon = operator.endsWith(":");
     operator = operator.replace(/:$/, "");
@@ -42,7 +42,8 @@ function search(q) {
       "frame",
       "anim",
       "dist",
-      "subj"
+      "subj",
+      "tags"
     ];
     if (colon && !operators.includes(operator))
       return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
@@ -228,7 +229,8 @@ function search(q) {
           )) ||
           (op == "anim" && entry.animacy && (value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy || !value && entry.animacy)) ||
           (op == "dist" && entry.distribution && (value == entry.distribution.replace(/ /g, "") || !value && entry.distribution)) ||
-          (op == "subj" && entry.subject && (value.toLowerCase() == entry.subject[0] || !value && entry.subject))
+          (op == "subj" && entry.subject && (value.toLowerCase() == entry.subject[0] || !value && entry.subject)) ||
+          (["%", "tags"].includes(op) && entry.tags && (value == "" || entry.tags.split(" ").includes(value)))
         )
           return 0.1;
       });

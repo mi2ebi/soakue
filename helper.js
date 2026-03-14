@@ -80,6 +80,11 @@ let htmlify = (json) =>
       ]),
     ]),
     mkel("dd", { dir: "ltr" }, replaceLinks(json.body)),
+    json.tags ? mkel("div", { className: "tags meta" },
+      json.tags.split(" ").flatMap((tag, i) =>
+        [i > 0 ? ", " : null, makeLink("%" + tag, tag)]
+      )
+    ) : null,
     mkel(
       "div",
       { className: "notes indent" },

@@ -16,6 +16,7 @@
   --focus: light-dark(#c6777e, #fb7185);
   --adv: light-dark(#c77873, #fc736e);
   --orange: light-dark(#d97706, #fbbf24);
+  --teal: light-dark(#0d9488, #2dd4bf);
   --blue: light-dark(#2563eb, #60a5fa);
   --purple: light-dark(#7c3aed, #a78bfa);
   --pink: light-dark(#db2777, #f472b6);
@@ -231,6 +232,13 @@ dd {
   .nuser, .nuser a {
     color: var(--purple);
   }
+}
+.tags {
+  font-size: 0.9rem;
+  &, a {
+    color: var(--teal);
+  }
+  margin-top: 0.2em;
 }
 @media (prefers-contrast: more) {
   :root {

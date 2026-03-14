@@ -52,6 +52,8 @@ pub struct Toa {
     pub distribution: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub subject: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub tags: Option<String>,
 }
 
 fn normalize_for_validation(text: &str) -> String {
@@ -170,11 +172,13 @@ impl Display for Toa {
             animacy,
             distribution,
             subject,
+            tags,
         } = self.clone();
-        // warn head (frame) (dist) ánim S @user date #id $scope +score\nbody\nnotes
+        // warn head [(frame) (dist) ánim S] @user date #id $scope +score
+        // %tags\nbody\nnotes
         write!(
             f,
-            "{}{head}{} @{user} {} #{id} ${scope} {}\n{body}{}",
+            "{}{head}{} @{user} {} #{id} ${scope} {}{}\n{body}{}",
             if warn { "⚠ " } else { "" },
             if self.has_metadata() {
                 format!(
@@ -207,6 +211,7 @@ impl Display for Toa {
                 x if x > 0 => format!("+{score}"),
                 _ => score.to_string(),
             },
+            tags.map_or_else(String::new, |t| format!(" %{}", t.replace(' ', ","))),
             if self.notes.is_empty() {
                 String::new()
             } else {

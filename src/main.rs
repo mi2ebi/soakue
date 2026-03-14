@@ -5,6 +5,7 @@ mod letters;
 mod old_main;
 #[cfg(test)] mod tests;
 mod toadua;
+mod toakao;
 
 use std::{fs, time::Duration};
 
@@ -21,19 +22,32 @@ pub fn main() {
     let client =
         Client::builder().timeout(Duration::from_mins(2)).build().expect("Building client failed");
 
-    let query = r#"{"action": "search", "query": ["and"]}"#.to_string();
-
     println!("getting stuff from toadua");
-    let res = client
+    let toadua_text = client
         .post("https://toadua.uakci.space/api")
-        .body(query)
+        .body(r#"{"action": "search", "query": ["and"]}"#)
         .send()
-        .expect("Couldn't receive toadua's response");
+        .expect("Couldn't receive toadua's response")
+        .text()
+        .expect("Couldn't convert toadua's response to a string");
 
-    let text = res.text().expect("Couldn't convert toadua's response to a string");
+    println!("getting stuff from toakao");
+    let toakao_text = client
+        .get("https://raw.githubusercontent.com/toaq/toakao/refs/heads/master/toakao_extended.json")
+        .send()
+        .expect("Couldn't receive toakao's response")
+        .text()
+        .expect("Couldn't convert toakao's response to a string");
 
     println!("jsonifying");
-    let dict = dictify(&text);
+    let mut dict = dictify(&toadua_text);
+
+    println!("tagging");
+    let tags = toakao::tag_map(&toakao_text);
+    for toa in &mut dict {
+        toa.tags = tags.get(&toa.head).cloned();
+    }
+
     let dict_str = to_string(&dict).expect("Couldn't convert dictionary data to a string");
 
     println!(

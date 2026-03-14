@@ -33,7 +33,7 @@
       <span id="post">
         <span id="btns">
           <button type="reset" id="clear">sheaja</button>
-          <button type="button" id="english">tọ’ıqlızuno</button></span
+          <button type="button" id="english">tọ'ıqlızuno</button></span
         ><span id="len"></span>
       </span>
     </p>
@@ -43,8 +43,9 @@
       <summary>help</summary>
       <p>
         soakue is a dictionary for <a href="https://toaq.net">Toaq</a> that uses
-        data from <a href="https://toadua.uakci.space/">Toadua</a> (updated
-        daily). you can download it to use it offline, and it works even when
+        data from <a href="https://toadua.uakci.space/">Toadua</a> (updated daily),
+        as well as category data from <a href="https://toaq.net/toakao/browser">Toakao</a>/<a href="https://ntsekees.github.io/Predilex/viewer">Predilex</a>.
+        you can download it to use it offline, and it works even when
         Toadua is down. on the other hand, you can't use soakue to define new
         words or vote on existing words.
       </p>
@@ -92,6 +93,11 @@
             <td><code>/</code></td>
             <td>filter by arity (number of slots)</td>
             <td><code>/2</code> (transitive verbs)<br /><code>/</code> (only non-verbs)</td>
+          </tr>
+          <tr>
+            <td><code>%</code></td>
+            <td>filter by Predilex  tag</td>
+            <td><code>%deixis</code><br /><code>%fish</code></td>
           </tr>
           <tr>
             <td><code>score:</code></td>
@@ -276,29 +282,29 @@
     <script src="helper.js"></script>
     <script src="events.js"></script>
     <script>
-      $`search`.removeAttribute("disabled");
-      $`search`.setAttribute("placeholder", "joaıteoq");
-      worker = new Worker("worker.js");
-      worker.addEventListener("message", function (e) {
-        res = e.data;
-        if (res.err) {
-          $`res`.innerHTML = res.err;
-          $`bottom`.innerHTML = "";
-          return;
-        }
-        $`res`.innerHTML = "";
-        $`len`.innerHTML = "netı\u{00a0}<b>" + res.length + "</b>\u{00a0}raı";
-        page = 0;
-        load(res, page);
-        checkLength();
-      });
-      function updateFromQuery() {
-        var par = new URLSearchParams(window.location.search);
-        navigate(par.get("q") ?? "", false);
-        $`search`.focus();
-      }
-      window.addEventListener("DOMContentLoaded", updateFromQuery);
-      window.addEventListener("popstate", updateFromQuery);
+     $`search`.removeAttribute("disabled");
+     $`search`.setAttribute("placeholder", "joaıteoq");
+     worker = new Worker("worker.js");
+     worker.addEventListener("message", function (e) {
+       res = e.data;
+       if (res.err) {
+         $`res`.innerHTML = res.err;
+         $`bottom`.innerHTML = "";
+         return;
+       }
+       $`res`.innerHTML = "";
+       $`len`.innerHTML = "netı\u{00a0}<b>" + res.length + "</b>\u{00a0}raı";
+       page = 0;
+       load(res, page);
+       checkLength();
+     });
+     function updateFromQuery() {
+       var par = new URLSearchParams(window.location.search);
+       navigate(par.get("q") ?? "", false);
+       $`search`.focus();
+     }
+     window.addEventListener("DOMContentLoaded", updateFromQuery);
+     window.addEventListener("popstate", updateFromQuery);
     </script>
   </body>
 </html>
