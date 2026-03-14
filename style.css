@@ -12,14 +12,14 @@
   --bg: light-dark(#f5f3ff, #0f0e1a);
   --fg: light-dark(#1a1a1a, #e5e7eb);
   --input: light-dark(#ffffff, #1a1a2e);
-  --gray: light-dark(#6b7280, #9ca3af);
-  --focus: light-dark(#c6777e, #fb7185);
-  --adv: light-dark(#c77873, #fc736e);
-  --orange: light-dark(#d97706, #fbbf24);
-  --teal: light-dark(#0d9488, #2dd4bf);
-  --blue: light-dark(#2563eb, #60a5fa);
-  --purple: light-dark(#7c3aed, #a78bfa);
-  --pink: light-dark(#db2777, #f472b6);
+  --gray: light-dark(#495360, #9ca3af);
+  --focus: light-dark(#74464a, #fb7185);
+  --adv: light-dark(#7a4441, #fc736e);
+  --orange: light-dark(#7d4503, #fbbf24);
+  --teal: light-dark(#085c54, #2dd4bf);
+  --blue: light-dark(#0242cf, #60a5fa);
+  --purple: light-dark(#6115e3, #a78bfa);
+  --pink: light-dark(#9b1c54, #f472b6);
   text-size-adjust: none;
   -moz-text-size-adjust: none;
   -webkit-text-size-adjust: none;
@@ -124,7 +124,7 @@ a {
   text-decoration: none;
   transition: color 0.15s;
   &:hover {
-    color: var(--purple);
+    color: var(--purple) !important;
     text-decoration: underline;
   }
 }
@@ -212,11 +212,11 @@ dd {
   margin-left: 20px;
 }
 .toa {
-  color: var(--pink) !important;
+  color: var(--pink);
   font-weight: 700;
 }
 .adv {
-  color: var(--adv) !important;
+  color: var(--adv);
   white-space: nowrap;
 }
 .meta {
