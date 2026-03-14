@@ -179,17 +179,17 @@ code {
       color: var(--purple);
     }
   }
-  table {
-    border-collapse: collapse;
-  }
-  th, td {
-    text-align: left;
-    padding: 0.5em;
-  }
-  th {
-    font-weight: 600;
-    color: var(--purple);
-  }
+}
+table {
+  border-collapse: collapse;
+}
+th, td {
+  text-align: left;
+  padding: 0.5em;
+}
+th {
+  font-weight: 600;
+  color: var(--purple);
 }
 hr {
   border: none;
