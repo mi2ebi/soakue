@@ -54,6 +54,10 @@ pub fn main() {
         "{:.02}% of entries have fancy metadata!",
         dict.iter().filter(|t| t.has_metadata()).count() as f64 / dict.len() as f64 * 100.
     );
+    println!(
+        "{:.02}% of entries have tags!",
+        dict.iter().filter(|t| t.tags.is_some()).count() as f64 / dict.len() as f64 * 100.
+    );
 
     println!("writing");
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
