@@ -2155,6 +2155,9 @@ banadıum @uakci 2022-12-31 #ngPX5GQAN $en ±
 banaku @Hoemai 2019-04-03 #fmNhaA6By $en ±
 ▯ is a guanaco (Lama guanicoe).
 
+banana @Machy 2022-09-03 #bjdJTFzh8 $en -1
+▯ is a banana.
+
 banım @uakci 2023-12-09 #evzqqsiv2 $en +1
 ▯ is a caste.
   uakci (2023-12-09): varna + **nım**
@@ -4036,6 +4039,11 @@ bıosazu @Laqme 2021-11-08 #Di1yYqlBw $en ±
 
 bıosıqkea @Laqme 2024-07-12 #ZpumHyLdP $en ±
 ▯ is a dishwasher.
+
+bıota [(c) (d) hó I] @kazoo 2026-03-14 #KXmxILW-R $en ±
+▯ is a member of the root taxon Biota.
+  kazoo (2026-03-14): a strictly biological version of **mıe**.
+  kazoo (2026-03-14): keyword: alive, life
 
 bıpa @jiqci 2023-05-19 #q-07Us68i $en ±
 ▯ squeezes ▯.
@@ -6062,6 +6070,10 @@ bumuojuı @uakci 2022-08-18 #JiZGp0W-f $en +1
 
 buna @uakci 2023-12-05 #p_irtaCd0 $en ±
 interjection: ‘…not!’
+
+bunhuelo @TheAndSys 2026-03-15 #8cdpGienY $en ±
+▯ is a buñuelo
+  TheAndSys (2026-03-15): Dough fritter fried in a round shape, typically made with flour, milk, and eggs, enjoyed as a snack.
 
 buo [(c 1i) (d d) hó I] @official 2026-02-16 #nbVGtnUBtMi $en ±
 predicate: ‘ready’; ▯ is ready to satisfy property ▯.
@@ -8892,18 +8904,18 @@ cuana @Laqme 2023-11-01 #xHzAz87UA $en ±
 cuao- @lassc 2023-10-23 #0_53Z7mvd $en ±
 prefix: beyond X, exceeding the category of X
 
-cuao @nano 2023-03-07 #7goDiW5iw $tok ±
-▯ li suli wawa tawa ▯.
-
-cuao @jiqci 2023-07-31 #t7pfaSLo41 $pl ±
-▯ jest za/poza ▯ pod względem własności ▯.
-
-cuao [(c c) (d d) tá F] @Dembim 2026-02-02 #pDDManh9c $en ±
+cuao [(c c) (d d) tá F] @Dembim 2026-02-02 #pDDManh9c $en +1
 predicate: ‘beyond’; ▯ exceeds boundary/limit ▯ (in some salient property).
   Dembim (2026-02-02): Use <ôı> to specify the property in which the subject exceeds.
   Dembim (2026-02-02): Frame: c c
   Dembim (2026-02-02): Pronominal_class: ta
   Ilmen (2026-02-02): discriminator: 2
+
+cuao @nano 2023-03-07 #7goDiW5iw $tok ±
+▯ li suli wawa tawa ▯.
+
+cuao @jiqci 2023-07-31 #t7pfaSLo41 $pl ±
+▯ jest za/poza ▯ pod względem własności ▯.
 
 cuao [(c c 1x) (d d d) tá F] @official 2026-02-16 #kSXfW3BfKs $en -1
 predicate: ‘beyond’; ▯ is beyond ▯ in property ▯.
@@ -8919,7 +8931,7 @@ cuaocıa @uakci 2022-06-08 #tDg7juDpj $en ±
 ▯ is something that ends where it starts; ▯ is a “circle”/loop; ▯ goes/(happens) round in circle(s).
   seaqtaq (2024-07-13): Loose keyword: ouroboros
 
-cuaocoa @robintown 2023-11-28 #b9V52EpLi $en +1
+cuaocoa [(c) (d) hóq I] @robintown 2023-11-28 #b9V52EpLi $en +1
 ▯ is December.
   Dembim (2026-03-13): kw: month
 
@@ -10087,7 +10099,7 @@ chaso @el 2022-10-19 #FT3OjQe2a $en +2
 chaso @el 2022-10-19 #30oTIrswN $ja ±
 ▯は面倒臭い
 
-chateı @uakci 2021-09-27 #kXoxo_FBV $en +4
+chateı [(c c) (d d) hóq F] @uakci 2021-09-27 #kXoxo_FBV $en +4
 ▯ is the manner/procedure/scheme/recipe by/in which ▯ happens or is done.
   mimiaoganhaqpy (2023-03-13): “method” “way”
 
@@ -10833,12 +10845,12 @@ chıaısı @robintown 2021-09-16 #6m7Rshqap $en +2
 ▯ does ▯ carefully.
   robintown (2021-09-16): As if we don't already have enough proposed words for 'careful', I decided it could stand to be shorter
 
+chıaısı @robintown 2024-09-11 #nu2X2xWnK $en +1
+▯ is careful / exercises caution.
+
 chıaısı @uakci 2021-09-16 #KDTbEQR57 $en ±
 ▯ is aware of ▯, which is morally reprehensible.
   uakci (2021-09-16): joke word, don't eat me
-
-chıaısı @robintown 2024-09-11 #nu2X2xWnK $en ±
-▯ is careful / exercises caution.
 
 chıaısıcıa @robintown 2021-09-16 #ckiIs4KV2 $en ±
 ▯ does ▯ carelessly/recklessly.
@@ -11172,7 +11184,7 @@ chıechefuaı @Laqme 2019-02-14 #l8ba5HWdS $en ±
 chıechekata @robintown 2021-08-29 #xl9qugwhO $en ±
 ▯ is a student ID card.
 
-chıecheme @fagri 2019-07-04 #P1E-H2FtG $en ±
+chıecheme [(c) (d) hóq I] @fagri 2019-07-04 #P1E-H2FtG $en ±
 ▯ is a school (the institution itself, not the building)
 
 chıechepaqtao @fagri 2020-06-13 #x_gLxQEak $en ±
@@ -11580,7 +11592,7 @@ chıocha @seaqtaq 2024-11-14 #B1NKrvA1h $en ±
 chıochıo @Laqme 2021-09-01 #FvpqmeVHK $en ±
 ▯ happens over and over and over again.
 
-chıochu @robintown 2023-11-23 #zR0p5pZNP $en +1
+chıochu [(c) (d) hóq I] @robintown 2023-11-23 #zR0p5pZNP $en +1
 ▯ is January.
   Dembim (2026-03-13): kw: month
 
@@ -16653,7 +16665,7 @@ doelım @Laqme 2023-11-26 #DqcaBruIT $en ±
 doeluı @seaqtaq 2024-07-09 #2SH6XVCmN $en ±
 ▯ is defunct
 
-doem @seaqtaq 2024-11-21 #xq7FmLpD9 $en +2
+doem @seaqtaq 2024-11-21 #xq7FmLpD9 $en +3
 ▯ is a system
 
 doeme @Ilmen 2020-02-26 #7CfYTaDXF $en +1
@@ -16871,7 +16883,7 @@ dole @Ilmen 2024-11-18 #7H5Pf_XmD $en ±
 dolı @Laqme 2025-05-28 #orNFyblHQ $en ±
 ▯ is in honor/celebration of / out of deference to / dedicated to ▯.
 
-dolom @mimiaoganhaqpy 2023-01-13 #MylNfRTUg $en +2
+dolom [(c) (d) máq I] @mimiaoganhaqpy 2023-01-13 #MylNfRTUg $en +2
 ▯ is a drum.
   mimiaoganhaqpy (2023-01-13): onomatopœic
 
@@ -19744,7 +19756,7 @@ feabeo @seaqtaq 2024-10-02 #QZM3ctndr $en +1
 feabuo @Ilmen 2018-10-08 #QdM94q5pv $en ±
 ▯ is resigned to satisfy the property ▯.
 
-feafao @robintown 2024-07-14 #9eBorn-lr $en +2
+feafao [(c) (d) hóq I] @robintown 2024-07-14 #9eBorn-lr $en +2
 ▯ is October.
   Dembim (2026-03-13): kw: month
 
@@ -21731,6 +21743,7 @@ gaıboq [(c 0) (d d) hó A] @lassc 2022-12-03 #nb1qRTmEM $en +1
   lassc (2022-12-03): **cıakuq** for just not mentioning something
   salarua (2024-01-11): imo the second slot should be a state of affairs to mirror **gaı**
   lassc (2026-03-13): fair, changed this
+  Dembim (2026-03-15): There is a contingent, though, that take .*gaı objects to be concrete stimuli, just to make the choice less clear. <@Laqme gaı>
 
 gaıca @seaqtaq 2020-06-28 #6BVO1-sw- $en ±
 ▯ induces in ▯ sensation ▯ (property)
@@ -22561,7 +22574,7 @@ geafa @Laqme 2022-05-08 #rHtt4f-Eo $en ±
 geafueq @Laqme 2024-08-19 #iASdIxeIC $en +1
 ▯ slopes upward.
 
-geagom @robintown 2023-11-24 #7ZrlS5OU3 $en +1
+geagom [(c) (d) hóq I] @robintown 2023-11-24 #7ZrlS5OU3 $en +1
 ▯ is April.
   robintown (2023-11-24): **gea** + **gom** < **gıogom**, named after the Toaq lantern festival that takes place this month
   Dembim (2026-03-13): kw: month
@@ -29596,7 +29609,7 @@ hıme @lassc 2025-03-18 #dS9qHlT1m $en ±
 hımea @uakci 2021-11-10 #NcdDJH2op $en ±
 Which of the arguments is true?
 
-hımehıme @lassc 2025-03-18 #P_bqqzPX5 $en ±
+hımehıme [(c 0) (d d) hó A] @lassc 2025-03-18 #P_bqqzPX5 $en ±
 ▯ asserts that a salient source asserts that ▯ is the case.
   lassc (2025-03-18): this is technically the closest verb equivalent of what **zoe** is doing when you use it
   lassc (2025-03-18): to specify the source, you could use **ruaq** and/or **tuehıme**
@@ -30309,7 +30322,7 @@ hoehıao @el 2022-10-21 #T3W6Z2liN $en ±
 hoehılo @jiqci 2023-06-10 #yRZ7CvX_L $en ±
 ▯ is a coronal mass ejection.
 
-hoehıu @robintown 2023-11-23 #f1Oqh7Qvi $en +1
+hoehıu [(c) (d) hóq I] @robintown 2023-11-23 #f1Oqh7Qvi $en +1
 ▯ is November.
   Dembim (2026-03-13): kw: month
 
@@ -30557,12 +30570,13 @@ hoıtoa @seaqtaq 2019-01-08 #H_FXwezkm $en -1
 hoıtoateı @jiqci 2023-06-12 #OB3q_1dzn $en ±
 ▯ is a vocative case.
 
-hoja [(c) (d) tá F] @lassc 2025-04-01 #ddVlbJhh- $en +1
+hoja [(c) (d) hóq I] @lassc 2025-04-01 #ddVlbJhh- $en +1
 ▯ is "the date".
   lassc (2025-04-01): clarification: you feed a date into the first argument and that is then contextually known to be the time you are talking about
   lassc (2025-04-01): replicates adverbial constructions like "on April 1st, 2025", or setting the stage to talk about an occurence that occurs within that time period
   lassc (2025-04-01): etymology: this is a heavily assimilated and sound-changed version of **hoe** + **chaq**
   lassc (2026-03-13): i honestly have no idea what subject type this is
+  Dembim (2026-03-15): I think it should be "individual"- it's not an agent and doesn't make sense as an event.
 
 hojeo @uakci 2022-02-04 #-OjyUjcHj $en -1
 ▯ satisfies the predicate that defines **ho**.
@@ -32890,7 +32904,7 @@ predicate: ‘wind’; ▯ is a wind/breeze.
 ırue @jiqci 2023-07-31 #4lxSt2vX9X $pl ±
 ▯ to wiatr.
 
-ırue'ısıe @robintown 2023-11-28 #iQm9WUVYP $en +1
+ırue'ısıe [(c) (d) hóq I] @robintown 2023-11-28 #iQm9WUVYP $en +1
 ▯ is March.
   Dembim (2026-03-13): kw: month
 
@@ -32925,7 +32939,7 @@ predicate: ‘wind’; ▯ is a wind/breeze.
 ıruemuoı @seaqtaq 2024-10-03 #VE78Rz1HV $en ±
 ▯ is a whirlwind
 
-ıruesıe @robintown 2023-11-28 #qHEahPdB0 $en +1
+ıruesıe [(c) (d) hóq I] @robintown 2023-11-28 #qHEahPdB0 $en +1
 ▯ is March.
   robintown (2023-11-28): Colloquial pronunciation/spelling of **ırue'ısıe**
   Dembim (2026-03-13): kw: month
@@ -33000,7 +33014,7 @@ Isıkuıgua @jiqci 2023-01-11 #KgXJMDtw9 $en +1
 ıshı [(c) (d) hó I] @lassc 2025-04-01 #GnKORzjYi $en +1 %lifeform,animal,vertebrate,mammal
 ▯ is a mouse.
 
-ıshıe @TheAndSys 2024-09-07 #NpTd3CG1n $en +1
+ıshıe @TheAndSys 2024-09-07 #NpTd3CG1n $en +2
 ▯ subtly/quietly/discreetly satisfies property ▯
 
 ıshıkusu @robintown 2025-04-01 #KJRQCSVl1 $en ± %lifeform,plant,fruit
@@ -33829,6 +33843,10 @@ Jaꝡazu @eednb 2024-01-01 #jPpWLQ4rt $en ±
 
 jaza @Laqme 2024-10-25 #uB36Aj-Ln $en ±
 ▯ is jazz (music).
+
+jazıra [(c) (d) hóq F] @evie 2026-03-14 #HGe7IQ-gm $en ±
+▯ is toxic yuri
+  evie (2026-03-14): etymology: deep space nine
 
 je- @uakci 2023-10-31 #0-BtGEred $en ±
 adjectival phrase head (like **kị-**): definite possessive; ‘of the …’; same as **kịpo ◌́…**
@@ -39229,7 +39247,7 @@ kaıse [(c) (d) hóq I] @official 2026-02-16 #HUuvgju0JcR $en -1
 predicate: ‘text’; ▯ is text/writing.
   Dembim (2026-03-03): I prefer <moteo> for this meaning. See <@Dembim kaıse>, <@Ilmen kaı>.
 
-kaıse @Dembim 2026-03-03 #KYwXcBQE3 $en ±
+kaıse [(c) (d) máq I] @Dembim 2026-03-03 #KYwXcBQE3 $en ±
 predicate: ‘marking’; ▯ is a marking.
   Ilmen (2026-03-03): discriminator: 2
 
@@ -42151,7 +42169,7 @@ kıqkea @Laqme 2025-04-04 #UcyszbCiv $en ± %artifact,machine
 predicate: ‘camera’; ▯ is a film camera.
   Ilmen (2019-08-24): That word could just as well be assigned to the concept of video screen.
 
-kíqkeape [(c) (d) hóq S] @TheAndSys 2026-03-13 #XPgo5eHHD $en ±
+kíqkeape [(c) (d) hóq S] @TheAndSys 2026-03-13 #XPgo5eHHD $en -1
 ▯ is screen tearing
   TheAndSys (2026-03-13): The visual glitch that requires vsync
 
@@ -45384,7 +45402,7 @@ laoheq @Laqme 2024-04-25 #hph5Bt1C5 $en ±
 For the first time in ▯ (duration), it happens that ▯ is the case.
   Laqme (2024-04-26): The etymology is a bit of an obscure metaphor: **é lao há dûo X** "contains" a **guo Ŷ** as its reward/fruit.
 
-laojaı @Ilmen 2018-09-18 #bkt2Pj87C $en ±
+laojaı [(c 0) (d d) hó I] @Ilmen 2018-09-18 #bkt2Pj87C $en ±
 ▯ looks forward to ▯; ▯ is in joyful anticipation of ▯.
 
 laojaq @robintown 2022-03-27 #HhpjHB4Tf $en +1
@@ -46914,6 +46932,7 @@ lıeı [(c c) (d d) tá F] @Laqme 2024-05-18 #nfJuIXszk $en +4
   lassc (2025-03-12): acquiescence
   Dembim (2026-02-04): Frame: c c
   Dembim (2026-02-04): Pronominal_class: ta
+  lassc (2026-03-15): "congruent/congruence", "in line with", "in the character of", "in agreement with" (only in some senses)
 
 lıeı'ıq @uakci 2025-03-07 #_cBuH6UN_ $en ±
 ▯ obeys/is in accordance with ▯ by satisfying property ▯.
@@ -49614,7 +49633,7 @@ luqke @Laqme 2018-10-03 #GkvxtvMky $en ±
 ▯ is a lynx.
   Laqme (2018-10-03): Ancient Greek λύγξ (lúnx), PL λύγκες (lúnkes).
 
-luqluoq @robintown 2023-11-24 #K-7WcwczR $en +1
+luqluoq [(c) (d) hóq I] @robintown 2023-11-24 #K-7WcwczR $en +1
 ▯ is February.
   Dembim (2026-03-13): kw: month
 
@@ -50782,7 +50801,7 @@ meaı @fagri 2023-01-08 #38az5y_VB $en -1
 ▯ is a star in the night sky (not the sun)
   fagri (2023-01-08): Candidate meaning for Lina's new name, may depricate this if not chosen
 
-meaıcadıu @Ilmen 2026-03-07 #9PbDnyEc7 $en ±
+meaıcadıu [(c) (d) hóq I] @Ilmen 2026-03-07 #9PbDnyEc7 $en ±
 ▯ is astrophysics.
 
 meaıdıu @jiqci 2024-04-24 #_kB9oiA6J $en +2
@@ -50798,7 +50817,7 @@ meaıdıuche [(c) (d) hó I] @Dembim 2026-01-18 #gZo7g1zVE $en ±
 meaıfıem @jiqci 2024-10-03 #dL08cU9TN $en ±
 ▯ is a planetary ring system.
 
-meaıfıeqdıu @Ilmen 2026-03-07 #b2o0lwig6 $en ±
+meaıfıeqdıu [(c) (d) hóq I] @Ilmen 2026-03-07 #b2o0lwig6 $en ±
 ▯ is astroengineering.
 
 meaımeaq @Laqme 2024-06-28 #iSoAVRXtO $en ±
@@ -50807,13 +50826,13 @@ meaımeaq @Laqme 2024-06-28 #iSoAVRXtO $en ±
 meaımeaqme @evie 2024-06-29 #sVjKpzwMV $en ±
 ▯ is a fleet of spaceships
 
-meaımıedıu @Ilmen 2026-03-07 #UbLZpVTO4 $en ±
+meaımıedıu [(c) (d) hóq I] @Ilmen 2026-03-07 #UbLZpVTO4 $en ±
 ▯ is astrobiology.
 
 meaımıq @Laqme 2024-04-29 #aJ3RuA3Uc $en ±
 ▯ is infinite like the galaxy.
 
-meaınıoqdıu @Ilmen 2026-03-07 #tLVFaAwZd $en ±
+meaınıoqdıu [(c) (d) hóq I] @Ilmen 2026-03-07 #tLVFaAwZd $en ±
 ▯ is astrodentistry.
 
 meaıpoq @robintown 2025-03-22 #2sYk36CDI $en +1
@@ -55366,9 +55385,15 @@ mụrıem @Laqme 2023-12-11 #cmy90fDJv $en ±
 mụroa @robintown 2025-05-04 #jG_etr9O0 $en +1
 ▯ is artificial.
 
+muru @Dembim 2026-03-15 #HPrwsEOUB $en ±
+conjunction: 'nand'; not (X and Y)
+
 murum @jiqci 2023-11-04 #BelQ7MtBf $en +1
 ▯ murmurs/mutters.
   jiqci (2023-11-04): pros: not a meme   cons: none
+
+murutoa @Dembim 2026-03-15 #XUxOZysQF $en ±
+▯ is a conjunction word
 
 musasabı @uakci 2019-05-16 #faxGOzQ_d $en ±
 ▯ is a Japanese giant flying squirrel (species: Petaurista leucogenys).
@@ -57045,7 +57070,7 @@ neq- @Laqme 2024-04-25 #co4irK4YJ $en +1
 prefix: "-soever", attaches to determiners to mean the domain is to be conceived of broadly
   Laqme (2024-04-25): **nẹ́qsa zu** "*some* language out there", **nẹ́qtu zu** "any language whatsoever", **nẹ́qsıa zu** "no language at all"
 
-neq [(0)  tá ] @Laqme 2024-08-22 #iBXW_8Dka $en +3
+neq [(0) (d) tá E] @Laqme 2024-08-22 #iBXW_8Dka $en +3
 ▯ is random / determined by luck or fortune.
   Dembim (2026-02-04): Frame: 0
   Dembim (2026-02-04): Pronominal_class: ta
@@ -60940,7 +60965,7 @@ nuoqmıa @seaqtaq 2019-07-04 #uzVk0IFh- $en ±
 ▯ is brilliant/shines greatly
   Laqme (2024-10-15): shiny
 
-nuoqnea @robintown 2023-11-23 #evCDZIh2F $en +1
+nuoqnea [(c) (d) hóq I] @robintown 2023-11-23 #evCDZIh2F $en +1
 ▯ is June.
   Dembim (2026-03-13): kw: month
 
@@ -61343,7 +61368,7 @@ nharuaq @robintown 2021-12-29 #fT5EvdBMk $en ±
 nharula @seaqtaq 2024-10-09 #prwSzbvfy $en ±
 Nullary predicate: It is storming.
 
-nharunhuo @robintown 2023-11-24 #CEIPCNyaJ $en +1
+nharunhuo [(c) (d) hóq I] @robintown 2023-11-24 #CEIPCNyaJ $en +1
 ▯ is July.
   Dembim (2026-03-13): kw: month
 
@@ -61436,7 +61461,7 @@ nhejaı @uakci 2022-07-29 #pKebEJdQ6 $en ±
   uakci (2022-07-29): since furry-ness has something of a je-ne-sais-quoi aspect to it (it's not exactly "liking animals", you could say it's something deeper spiritually), a made-up word seems in order
   uakci (2022-07-29): corruption of **nıaı**
 
-nheje @uakci 2022-12-30 #8wuG7uavW $en ±
+nheje @uakci 2022-12-30 #8wuG7uavW $en +1
 It turns out that ▯ is the case.
   uakci (2022-12-30): sick of ugly and not really representational compounds like **duceo** and **faonu**, i'm pulling this root out of thin air
   Laqme (2025-02-10): This means "new information reveals that ▯ is the case"; compare **junasha** which covers a different sense of "it turns out".
@@ -64762,7 +64787,7 @@ pu me dóshı sa dó, na ru naı cheo tıpoe dó da
 poaqbo @seaqtaq 2024-11-13 #bPnhVvCkQ $en ±
 ▯ is cracked/fissured/fractured/splintered
 
-poaqchuq @Ilmen 2018-10-08 #wgLJrpn7p $en ± %action,body_action
+poaqchuq @Ilmen 2018-10-08 #wgLJrpn7p $en ± %action
 ▯ chews ▯.
 
 poaqdea @Laqme 2022-08-04 #zwE5hiXgf $en ±
@@ -65320,7 +65345,6 @@ poqkata @robintown 2021-08-29 #0pYuv0E1f $en ±
 
 poqkea @Ilmen 2019-04-21 #zY_zOhoem $en ± %artifact,machine
 ▯ is a robot.
-  Dembim (2026-03-13): <keapoq> synonym?
 
 poqkoja @seaqtaq 2021-12-28 #upJKRG9fA $en ±
 ▯ abducts/kidnaps ▯
@@ -66602,7 +66626,7 @@ puqneoqsuq @Machy 2020-06-30 #DqPjILrO6 $en ±
 puqnuadeq @seaqtaq 2020-03-01 #VHIK4WL0Q $en ±
 (Game) piece ▯ may capture any of pieces ▯; Piece ▯ puts pieces ▯ in a fork.
 
-puqraku @Dembim 2026-03-13 #TMFYsvWw1 $en ±
+puqraku [(c) (d) hóq I] @Dembim 2026-03-13 #TMFYsvWw1 $en ±
 ▯ is a word of multiple <raku>
 
 puqraku [(c) (d) hóq I] @Dembim 2026-03-13 #r_y5wNdt5 $toa ±
@@ -67499,6 +67523,9 @@ rato @Ilmen 2018-10-19 #2XHVHLjIT $en ± %lifeform,animal,vertebrate,mammal
 rato @SuperSpaceNiM 2024-08-11 #4Lid425T3 $ru ± %lifeform,animal,vertebrate,mammal
 ▯ — крыса.
 
+ratoa @Dembim 2026-03-15 #0jg38GxHw $en ±
+▯ is a conjunction word
+
 raꝡom @uakci 2023-05-20 #yAMn5sO_P $en ±
 onomatopoeia: mrowl
   Laqme (2025-04-28): meow, mrow, cat sound
@@ -68040,7 +68067,7 @@ reorue @Laqme 2023-12-25 #aBDS_GIn9 $en +1
   Laqme (2023-12-25): low color saturation
   jiqci (2024-07-13): bleak, pale, pallid
 
-reoruq @robintown 2024-07-14 #FjXymf99V $en +2
+reoruq [(c) (d) hóq I] @robintown 2024-07-14 #FjXymf99V $en +2
 ▯ is September.
   Dembim (2026-03-13): kw: month
 
@@ -68882,7 +68909,7 @@ rıopuo @Laqme 2024-06-11 #9Ke6BIGSb $en ±
 rıopuo @Ilmen 2024-11-18 #o-MetjnGK $en ±
 ▯ is airborn dust.
 
-rıoq [(c c) (d d) hóq I] @official 2026-02-16 #cMPvwybUYF $en ± %basic
+rıoq [(c c) (d d) hóq I] @official 2026-02-16 #cMPvwybUYF $en +1 %basic
 predicate: ‘type’; ▯ is a type/kind of ▯
 
 rıoq @uakci 2022-07-17 #dltL5xBRE $tok ± %basic
@@ -70472,6 +70499,7 @@ unit: rupnu (Lojbanic currency)
 
 rumu @Ilmen 2020-05-03 #if9irI1jm $en ± %logic
 ▯ is, with ▯, in relation ▯, and vice-versa (reciprocity of the two first arguments).
+  Dembim (2026-03-15): kw: reciprocal
 
 rumuq [(c) (d) máq I] @Dembim 2026-01-27 #mEKw6UUTs $en ±
 ▯ is meteorological precipitation
@@ -71613,7 +71641,7 @@ saosa @Laqme 2022-05-23 #a2kbdcKuE $en ±
 saosao @akesi 2020-02-02 #YZMFvop3h $en ±
 colloq. ▯ is huge, ▯ is enormous, ▯ is gigantic
 
-saose @Laqme 2021-10-09 #OkAocEr1Q $en ±
+saose [(c) (d) hóq E] @Laqme 2021-10-09 #OkAocEr1Q $en ±
 ▯ is a celebration / feast / ceremony / rite.
   Laqme (2021-10-09): when people do a Big Thing and it involves a bunch of Culture
   Laqme (2023-09-03): festival
@@ -71985,7 +72013,7 @@ prefix: turn verb X into verb: ▯ is in a state resulting from having X’d.
   uakci (2023-10-25): you could also perhaps argue that a closed door *is* **luı rıasho** or **tẹrıatua** although that is petty and not up-to-speed with pragmatics and **mala** exists for that semantic space already anyway
   uakci (2023-10-25): so perhaps this is reminiscent of the german zustandspassiv (‘is opened’ as opposed to ‘has opened’)
 
-se [(c 0) (d d) tá_strong I] @official 2026-02-16 #cOmpMYUaD8E $en ± %⚠
+se [(c 0) (d d) tá I] @official 2026-02-16 #cOmpMYUaD8E $en ± %⚠
 predicate: ‘result’; ▯ is a product/result of ▯ taking place.
 
 se @jiqci 2023-07-31 #tAghNHqXOF $pl ± %⚠
@@ -73903,7 +73931,7 @@ sıoqpuao @Ilmen 2018-10-16 #7nucVY1Mo $en ± %weather
 ▯ is a cyclone.
   jiqci (2023-05-27): hurricane, typhoon, willy-willy
 
-sıoqseu @Ilmen 2018-12-29 #yBZCLlo0F $en ± %mathematics,mathematical_constant
+sıoqseu @Ilmen 2018-12-29 #yBZCLlo0F $en ± %constant,number,mathematics,mathematical_constant
 ▯ is the τ mathematical constant, the ratio of the radius of a circle to its circumference.
   uakci (2018-12-29): Hon hon hon, I zis like better. +1
 
@@ -75796,7 +75824,7 @@ suaqrom @Laqme 2024-07-16 #lbKU113bi $en ±
 suaqse @Ilmen 2020-01-10 #nQiWN999G $en ±
 ▯ is a song.
 
-suaqsoq @robintown 2023-11-23 #4pZNsPnFO $en +1
+suaqsoq [(c) (d) hóq I] @robintown 2023-11-23 #4pZNsPnFO $en +1
 ▯ is May.
   robintown (2023-11-23): From **suaqtuq** + **sóq**, "peak of the hot season"
   Dembim (2026-03-13): kw: month
@@ -79624,7 +79652,7 @@ shuaqsoasaı @jiqci 2023-05-23 #nblQ4beex $en ±
   magnap (2024-10-10): nope, it's two words of different arity in one definition
   magnap (2024-10-10): keyword: synthetase
 
-shuaqshoa @robintown 2023-11-24 #mCbxOPHh2 $en +1
+shuaqshoa [(c) (d) hóq I] @robintown 2023-11-24 #mCbxOPHh2 $en +1
 ▯ is August.
   Dembim (2026-03-13): kw: month
 
@@ -80357,7 +80385,7 @@ tajeo @uakci 2022-02-04 #7T6A-isu8 $en -1
 ▯ satisfies the predicate that defines **ta**.
   uakci (2022-02-04): actually this one is already in as #lQBXcWnoB. call it a redefinition ig
 
-tajı @fagri 2019-01-31 #BeCyXyc-f $en +1
+tajı @fagri 2019-01-31 #BeCyXyc-f $en +2
 Doing ▯ is a way of doing ▯
   fagri (2019-01-31): I.e. "Making frequent backups is a way to prevent significant loss of data"
   fagri (2019-01-31): Both slots are actions (properties) and the word is therefore analogous to shiutāo at #NubN97J6o
@@ -83686,7 +83714,7 @@ predicate: ‘line’; ▯ is a line (of text).
 toagıu @jiqci 2023-07-31 #rd2oWAa0Au $pl ±
 ▯ to linijka tekstu.
 
-toagıushı @TheAndSys 2026-03-13 #lHtfGbeK5 $en ±
+toagıushı [(c) (d) hóq I] @TheAndSys 2026-03-13 #lHtfGbeK5 $en ±
 ▯ is a slogan/motto
 
 toaguı @mimiaoganhaqpy 2022-10-20 #BW2iKNsD4 $en ±
@@ -88619,8 +88647,10 @@ zue @jiqci 2023-07-31 #HYYve4EOrz $pl ±
 zuebaı @Laqme 2025-02-22 #MVS4HzCwH $en ±
 ▯ fashions / hacks together / jury-rigs ▯.
 
-zuebo @Laqme 2022-01-30 #2TCTOIfHv $en ±
+zuebo [(c c) (d d) hó I] @Laqme 2022-01-30 #2TCTOIfHv $en ±
 ▯ is borrowing (ownership of) ▯.
+  Dembim (2026-03-14): borrows
+  Dembim (2026-03-14): source with <nıme>
 
 zuebue @robintown 2025-07-28 #I0uEQRRtT $en ±
 ▯ is a rental home.
@@ -88635,6 +88665,10 @@ zuechao @robintown 2025-07-28 #y_psg3zuo $en ±
 zuedo @nano 2023-03-18 #LMilaYVFW $en ±
 ▯ lends to ▯ possession of ▯.
   robintown (2025-07-28): keyword: loans
+
+zuedo [(c c) (d d) hó A] @Dembim 2026-03-14 #PuDPeGGNV $en ±
+predicate: 'lend'; ▯ lends possession of ▯.
+  Dembim (2026-03-14): recipient with <cu>
 
 zuefıeq @Laqme 2025-02-22 #u1nfoSfKy $en ±
 ▯ improvises / makes up ▯ on the spot.
