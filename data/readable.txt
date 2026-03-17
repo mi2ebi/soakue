@@ -1019,6 +1019,9 @@ Cuoı ▯ ▯ lâ ja ko shı ja ko gu bı she kó shı kó gu ru bı bu kó gu.
 ao'aı @uakci 2022-05-27 #AY5jchYnE $en ±
 ▯ is realistic/down-to-earth.
 
+ao'ao @lassc 2026-03-16 #okMTbFgMQ $en ±
+ideophone: swaying/rocking/swinging
+
 ao'aoga @el 2022-08-01 #hde34R7pF $en ±
 ▯ is the letter Ao
 
@@ -2157,6 +2160,10 @@ banaku @Hoemai 2019-04-03 #fmNhaA6By $en ±
 
 banana @Machy 2022-09-03 #bjdJTFzh8 $en -1
 ▯ is a banana.
+
+bananapudıq [(c) (d) máq I] @Dembim 2026-03-16 #h4GuuX4bm $en ±
+predicate: 'banana.pudding'; ▯ is banana pudding, a layered dessert consisting of Nilla Wafers (or similar vanilla cookies), sliced banana, and Jello-style pudding/soft custard.
+  Dembim (2026-03-16): A classic dessert in the south-eastern United States.
 
 banım @uakci 2023-12-09 #evzqqsiv2 $en +1
 ▯ is a caste.
@@ -5532,9 +5539,10 @@ bubuetıeq @abcdeusername 2025-05-17 #rzuXxDQrB $en +1
 bubula @robintown 2023-11-17 #eWmcYN9Be $en ±
 ▯ bubbles.
 
-bubuo [(c 1i) (d d) hó A] @lassc 2022-12-05 #a55R5vTyd $en +1
-▯ does ▯ in a extemporaneous/impromptu/improvised manner.
+bubuo [(c) (d) tá F] @lassc 2022-12-05 #a55R5vTyd $en +1
+▯ is extemporaneous/impromptu/improvised.
   uakci (2022-12-05): makeshift
+  lassc (2026-03-17): this frame is bizarre in retrospect, for general positioning of the old definition (▯ does ▯ in that manner) i believe an adverbial works
 
 buca @Ilmen 2019-06-20 #qL2KzpfZc $en +1 %causality
 predicate: ‘prevent’; That ▯ is the case prevents ▯ from being the case.
@@ -6863,6 +6871,11 @@ cajoı @seaqtaq 2019-06-14 #qGFqXyvAC $en -1
 
 cajoq @uakci 2019-01-27 #OP2F2k9jK $en ±
 ▯ directly causes ▯.
+
+caka @lassc 2026-03-17 #n4eU28Wk2 $en ±
+interjection: "enough!", "stop it!", "no more!"; lighthearted response to minor annoyance
+  lassc (2026-03-17): wordform changed from chaka because i am quite fond of it being used for cicadas
+  lassc (2026-03-17): cf. **shıkı**
 
 cake @uakci 2022-05-02 #KNhSzwt7Q $en ±
 ▯ is a treat (be it sweet or savoury, pastry- or cookie- or pudding-like).
@@ -8752,6 +8765,10 @@ cu @Laqme 2025-03-02 #NSPwLIb2q $en +2
   Laqme (2025-03-02): ▯ is an event whose PATIENT arrives at belonging to ▯.
   Laqme (2025-03-02): = **dona** I think, but I just want it to be short and not have **do** in it
 
+cua @robintown 2023-11-11 #v-pC6ES7Q $en +1 %action
+▯ reacts/responds to ▯.
+  robintown (2023-11-11): The property place in the official definition can be replaced by subject-sharing adverbials.
+
 cua [(c ci 1i) (d d d) hó A] @official 2026-02-16 #qqmdZQNIEj $en ± %action
 predicate: ‘respond’; ▯ responds to satisfying property ▯ by satisfying property ▯.
 
@@ -8763,10 +8780,6 @@ cua @jiqci 2023-07-31 #a_CcKHFwtJ $pl ± %action
 
 cua @Hoekeiboi 2023-08-01 #KNkMsT8X3 $tl ± %action
 tumugon ang ▯ sa matamasang ▯ ng matamasang ▯.
-
-cua @robintown 2023-11-11 #v-pC6ES7Q $en ± %action
-▯ reacts/responds to ▯.
-  robintown (2023-11-11): The property place in the official definition can be replaced by subject-sharing adverbials.
 
 ⚠ cua @oldofficial 2019-05-05 #Cxk9NJMY9 $en -1 %action
 predicate: ‘respond’; ▯ responds to satisfying property ▯ by satisfying property ▯.
@@ -9766,10 +9779,6 @@ chajuı @uakci 2022-06-22 #iNN7X0OOJ $en ±
 
 chaka @robintown 2022-12-13 #uJWuOJJUo $en ±
 onomatopoeia: the sound of cicadas
-
-chaka @lassc 2022-12-03 #nPpSmIBLj $en -1
-interjection: "enough!", "stop it!", "no more!"; lighthearted response to minor annoyance
-  lassc (2022-12-03): cf. **shıkı**
 
 chakachaq @robintown 2022-12-13 #e3VrDHv-- $en ±
 ▯ is a cicada.
@@ -12562,7 +12571,7 @@ choqfuı @jiqci 2024-06-28 #CQyxQoy8U $en ±
 choqgeo @Laqme 2022-12-28 #AMHfdZ6h1 $en +1
 ▯ is worn / used / vintage / antique.
 
-choqgı [(c 1x) (d d) tá_strong I] @official 2026-02-16 #s5bJ9Xhf2Ui $en ±
+choqgı [(c 1x) (d d) tá I] @official 2026-03-16 #ZeXaz1dht $en ±
 predicate: ‘useful’; ▯ is useful for doing ▯.
 
 choqgı @el 2022-10-26 #hkeDb0N9_ $tok ±
@@ -12583,7 +12592,7 @@ Using ▯ has harmful consequences; ▯ is anti-useful.
   Machy (2021-11-17): Wordform is a pun on **choqgı**.
   Machy (2021-11-17): Smoking cigarettes is generally **choqgıq**.
 
-choqhuı [(c 1x) (d d) tá_strong I] @official 2026-02-16 #c1x1SnZHD-L $en ±
+choqhuı [(c 1x) (d d) tá I] @official 2026-03-16 #CmRW0NXQS0 $en ±
 predicate: ‘useless’; ▯ is useless/inconvenient for doing ▯.
 
 choqhuı @nano 2023-05-23 #vlTwAaezE $tok ±
@@ -32160,6 +32169,9 @@ interjection: ‘eww’; disgust
 ıga @seaqtaq 2024-07-10 #PiiTt-Zk- $en +2
 interjection: "Of course..."/"...After all"
 
+ıgıgı @lassc 2026-03-16 #vMbOfCdIz $en ±
+ideophone: shaking/shivering/trembling/shuddering
+
 ⚠ ïgo @seaqtaq 2024-07-16 #wxeB-9cn1 $en ±
 relative retroactive cleft: ‘RELRETROCLE’; lift superordinate clause, binding hóa in the following clause on the same level as said superordinate clause
   seaqtaq (2024-07-16): Intended to cover for a (perceived) weakness of gö—namely that it can only be used to add extra details to the main proposition, and not propositions represented in arbitrarily nested subordinate claues
@@ -32498,6 +32510,9 @@ woţpêı tha thëıxauksa oţpízcıu’lu
 
 ıq'aq @seaqtaq 2024-10-30 #sbeDbX6j0 $en ±
 Itself is with ▯ in relation ▯
+
+ıq'ım @lassc 2026-03-16 #U7nI8IsRO $en ±
+ideophone: (often imperceptible) singing/humming/melodic utterance
 
 ıq'ıq @uakci 2022-10-16 #0s40RFIHo $en ±
 ▯ satisfies property ▯ [emphatic and/or not reducible like **ıq**].
@@ -33489,7 +33504,7 @@ jaoduma @jiqci 2023-05-30 #5t41jWc_8 $en ±
 jaofa @Ilmen 2021-09-02 #IXwjCCEXv $en +1 %action
 ▯ goes away from ▯.
 
-jaofoaq [(c c) (d d) hó I] @lassc 2025-04-26 #q61-J2iEf $en +3
+jaofoaq [(c) (d) hó I] @lassc 2025-04-26 #q61-J2iEf $en +3
 ▯ feels unable to act in a specific way around those they are close to, but feels capable of doing so around others; ▯ feels "stranger-comfort".
   ijonetun (2025-04-26): +1 so cute!!
   lassc (2025-04-26): kw: **zakaı**
@@ -38649,7 +38664,7 @@ satisfying property ▯ is worthy / would be beneficial for ▯.
 juqgıtao @uakci 2020-04-02 #VqhEdr_Wl $en ±
 ▯ does ▯ for ▯’s benefit.
 
-Juqguo @Laqme 2018-10-05 #Yostk24_8 $en ±
+Juqguo @Laqme 2018-10-05 #Yostk24_8 $en +1
 ▯ is Chinese / is of China, its languages or people.
 
 ⚠ Juqguo @oldcountries 2023-10-02 #SrKZtINcKm $en -1
@@ -40375,6 +40390,11 @@ katame @akesi 2020-04-02 #dRctcyw4b $en +1
 katana @Ilmen 2019-06-25 #GuN1A8nt1 $en ± %artifact,weapon
 ▯ is a katana.
 
+katao @lassc 2026-03-16 #_Ak_R-Gua $en +1
+▯ decides/chooses/opts/elects to satisfy property ▯.
+  lassc (2026-03-16): **taokakoe** is too wordy for this imo
+  Dembim (2026-03-17): decides to do
+
 kataraı @TheAndSys 2024-08-19 #akR807YQd $en ±
 ▯ is an Object (technical term for use in card games where the word "kata" is reserved for something more specific)
   TheAndSys (2024-08-19): Sala made this word for bloodless, but other card games (like MtG) benefit from having this word, so I figured it could be added to the dictionary
@@ -41307,15 +41327,15 @@ kıahupı @jiqci 2025-04-20 #tjt4qmmX- $en ±
 kıaı [(c c) (d d) hó A] @official 2026-02-16 #47rz3HtAffV $en ± %action
 predicate: ‘look.after’; ▯ looks after ▯; ▯ takes care of ▯.
 
+⚠ kıaı [(c c) (d d) hó A] @oldofficial 2019-05-05 #ek3ar8iBeX $en ± %action
+predicate: ‘look.after’; ▯ looks after ▯; ▯ takes care of ▯.
+  lassc (2025-11-20): cf. **kamaı**, **maı** (hypernyms)
+
 kıaı @jiqci 2023-07-31 #juuz0BTfd6 $pl ± %action
 ▯ opiekuje się/dba o ▯.
 
 kıaı @evie 2025-06-02 #3YYZ49HWD $tlh ± %action
 ▯₂ Qorgh ▯₁
-
-⚠ kıaı @oldofficial 2019-05-05 #ek3ar8iBeX $en -1 %action
-predicate: ‘look.after’; ▯ looks after ▯; ▯ takes care of ▯.
-  lassc (2025-11-20): cf. **kamaı**, **maı** (hypernyms)
 
 kıaıbo @robintown 2022-09-26 #MHCDaijkf $en ±
 ▯ has ▯ in their care.
@@ -47823,6 +47843,10 @@ How much is ▯ the case on a scale from red to purple?
   uakci (2022-02-09): the Toaqic equivalent of “on a scale of 1 to 10…”, patterned like the days of the week
   uakci (2022-02-09): not sure if i prefer this form or **kıaloa**
 
+Lobenıq [(c) (d) tá F] @Dembim 2026-03-16 #3ZAM4Ju2R $en ±
+predicate: 'Slavic'; ▯ is of the Slavic languages, people(s), cultures(s).
+  Dembim (2026-03-16): Etymology: stress-aligned truncation of hypothetical "sulobenıq", from proto-slavic *Slověninъ
+
 loduhuhukao @Ilmen 2019-09-03 #ASEXtTXCP $en +3
 the text/utterance ▯ is very verbose.
 
@@ -49567,10 +49591,6 @@ luoqsıo @Laqme 2023-11-03 #Lo_IOAACi $en +1
 luoqsoı @uakci 2022-10-11 #by3C81C-4 $en ±
 ▯ bid peace and wage ware; ▯ go through laughter and strife; ▯ have a (varied/ambivalent) interpersonal relationship; ▯ are in some interpersonal relation with each other, whether characterized by diplomatic peace or by interpersonal conflict; ▯ have or don’t have drama.
 
-luoqtao [(c c) (d d) hó A] @lassc 2022-11-30 #Yb6iFA8h- $en +1
-▯ does ▯ in moderation.
-  lassc (2022-11-30): ▯ does ▯ to the extent determined healthy by them
-
 luoqtaq @seaqtaq 2024-07-14 #_gVPiSgAv $en ±
 ▯ is evenly spread out (its parts or members are at an average/fair distance from one another.)
 
@@ -50374,7 +50394,7 @@ maohuaq @Machy 2022-01-23 #vtNOAmajC $en ±
 In state of affairs ▯, ▯ satisfies the predicate more than its arguments.
   Machy (2022-01-23): keyword: "especially", as in "I like this chapter, especially the new characters".
 
-maoja [(c) (d) máq I] @official 2026-02-16 #xiu9KuYdggT $en ± %lifeform,plant,fruit
+maoja [(c) (d) máq I] @official 2026-02-16 #xiu9KuYdggT $en +1 %lifeform,plant,fruit
 predicate: ‘banana’; ▯ is a banana.
 
 ⚠ maoja @oldofficial 2019-05-05 #av_HGWpfnP $en ± %lifeform,plant,fruit
@@ -50396,7 +50416,7 @@ maojabuq @jiqci 2024-07-02 #-BsC9qC25 $en ±
 maojala @Laqme 2024-09-10 #SuAXpdUCX $en ±
 ▯ is a banana plant. (genus Musa)
 
-maojanam @Laqme 2022-12-08 #10Jypzev0 $en +1
+maojanam @Laqme 2022-12-08 #10Jypzev0 $en ±
 ▯ is banana bread.
 
 maojeo @el 2022-07-10 #DuJ678FzM $tok ±
@@ -52814,7 +52834,7 @@ mıumumıa @uakci 2020-03-07 #-jXQsw1xM $en ±
 mıunoba @lassc 2022-12-05 #TltMsqrvV $en ±
 ▯ is cognitively biased with regards to ▯ due to their prior beliefs/opinions.
 
-mıuq [(c 1i) (d d) hó A] @Laqme 2022-12-17 #tDliApEBW $en +1
+mıuq [(c 1i) (d d) hó A] @Laqme 2022-12-17 #tDliApEBW $en +2
 ▯ feigns/simulates/pretends to satisfy property ▯.
 
 mıuqche @seaqtaq 2024-11-05 #5wneHlCiC $en ±
@@ -57175,9 +57195,6 @@ neqle @uakci 2022-08-09 #hidcV7c7B $en ±
 neqluaq @Laqme 2024-05-11 #wZgXelFdz $en +1
 ▯ gambles.
 
-neqluaq @lassc 2022-12-11 #hWI3jsqga $en -1
-▯ is a gambling game.
-
 neqlucu @Laqme 2024-05-11 #_HPDX4adq $en ±
 ▯ is a gambling game.
 
@@ -60562,10 +60579,6 @@ nulıloeq [(c) (d) tá I] @Dembim 2025-10-31 #V2jj3OwoV $en ±
   Dembim (2026-02-12): Subject: individual
   Dembim (2026-02-12): Distribution: d
 
-nulıloeq @lassc 2025-03-17 #8hWSi3Yzo $en -1
-▯ fries ▯.
-  lassc (2025-03-17): specific variation of **loeqja**
-
 nulımeaq @jiqci 2023-06-27 #_gmCx0jdr $en ±
 ▯ is a tanker ship.
 
@@ -62172,6 +62185,11 @@ oguıpıu @robintown 2022-01-02 #QjEyWANuw $en ±
 
 oguıpoq @Machy 2022-05-23 #-iZxbHf-w $en ±
 ▯ is half-snake, half-human; ▯ is a naga, Echidna, Tlanchana, etc.
+
+ohe @lassc 2026-03-17 #gJmkcLnYi $en ±
+▯ is marked/the Other (philosophical/linguistic/sociological).
+  lassc (2026-03-17): etymology: syllabic inversion of **heo**
+  lassc (2026-03-17): i guess this etymology (ironically) makes ohe an autological word
 
 ohı @lassc 2025-04-01 #lZEDhdxaw $en ±
 ▯ is amber/gold (color).
@@ -68745,7 +68763,7 @@ rıo @jiqci 2023-07-31 #miYnTe-E0 $pl ± %substance
 rıo @SuperSpaceNiM 2024-08-11 #t9kP4TO-3 $ru ± %substance
 ▯ — воздух.
 
-rıo'aı @lassc 2022-12-02 #bVpZnkcl1 $en ± %physics,state_of_matter
+rıo'aı @lassc 2022-12-02 #bVpZnkcl1 $en +1 %physics,state_of_matter
 ▯ is unperceived/unacknowledged, yet present.
 
 rıo'aı @Ilmen 2020-03-03 #By1ajvvg2 $en -1 %physics,state_of_matter
@@ -72708,6 +72726,10 @@ sero @jiqci 2023-09-05 #HVzNdnqTV $en ±
 sesam @jiqci 2023-09-08 #a9H3TUJjd $en ±
 ▯ is sesame.
 
+sesea @lassc 2026-03-16 #sPLQyVYs1 $en ±
+▯ is cool/composed/nonchalant/suave.
+  lassc (2026-03-16): etymology: simple compound; **se** + **sea**
+
 seseq @robintown 2023-07-20 #QW9SuKxwO $en ±
 ▯ is in control / empowered; ▯ has sufficient self-confidence and control over their own situation to satisfy property ▯.
   robintown (2023-07-20): A priori
@@ -73325,7 +73347,7 @@ sıchedu @jiqci 2023-07-13 #ADCezkl-8 $en ±
 sıchu @Laqme 2024-05-06 #SEs_VmdZi $en ±
 ▯ is one's attention / focus.
 
-sıchuq @lassc 2022-11-30 #B1hVdqtXO $en ±
+sıchuq @lassc 2022-11-30 #B1hVdqtXO $en +1
 ▯ distracts ▯ from ▯.
 
 sıde @Laqme 2024-05-02 #QhDZnTKn- $en +1
@@ -78336,7 +78358,7 @@ shıkeoıse @Laqme 2024-07-06 #ADPyFuGZB $en ±
 
 shıkı @lassc 2022-12-03 #aepuXwRef $en ±
 interjection: "enough!", "stop it!", "no more!"; emphatic/serious request of cessation
-  lassc (2022-12-03): cf. **chaka**
+  lassc (2026-03-17): cf. **caka**
 
 shıko [(c c) (d n) tá F] @official 2026-02-16 #7AMiOk37qWp $en ± %⚠,ordinality
 predicate: ‘first’; ▯ is first among ▯.
@@ -83914,9 +83936,6 @@ toaluaqse @Hoemai 2019-03-21 #8aoI7T-mq $en +2
 toaluoqrıoq @uakci 2022-01-01 #nHXzo8HF5 $en ±
 ▯ is a word of grammatical gender/word class ▯;
 
-Toam @nano 2024-09-06 #_TnrpoKMr $en -1
-▯ is superficially "Toaqic"; ▯ is of or related to Toaq, but not really.
-
 toame @uakci 2020-01-22 #98apQqGdT $en ±
 ▯ is a phrase / sentence / fragment / utterance.
 
@@ -87920,6 +87939,10 @@ zeumsuhu @Ilmen 2025-07-31 #z6L-jUata $en ±
 zeune @jiqci 2024-09-15 #UJG9uWHKw $en ±
 ▯ is the height / tallness of ▯.
 
+zeze @lassc 2026-03-16 #SENyL5c7P $en ±
+ideophone: vibrating/buzzing/whirring/hissing
+  lassc (2026-03-16): unintentional but fully welcome sound symbolism parallel with **sheze**
+
 zı- @evie 2025-05-26 #sqrZTfcdc $en ±
 number (usually) prefix: almost, approximately
   evie (2025-08-11): i swear the pun about this vs **nho-** is unintentional
@@ -91210,11 +91233,11 @@ hesitation
   fagri (2020-06-20): https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F511862313898449666%2F&psig=AOvVaw3gHdKtvxYOmJs69FOe2gcK&ust=1592721588039000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDx97Xkj-oCFQAAAAAdAAAAABAE
   akesi (2020-06-20): keywords: bread tag, occlupanid
 
-⚠ nabycake @lassc 2022-12-05 #7tTx3tUr4 $en ±
-▯ is a pastry (dish).
-
 ⚠ nabydashı @Ilmen 2021-10-04 #5zRkuXzP6 $en -1
 ▯ is dough.
+
+⚠ nabycake @lassc 2022-12-05 #7tTx3tUr4 $en -1
+▯ is a pastry (dish).
 
 naobuaq(moe) @seaqtaq 2019-03-20 #lFd3zTbEE $en ±
 (fork of #zh_7vMEmt) ▯ feels as if they are repeatedly taking water in their hands, only to watch it consistently fall out (a specific type of frustration) 
