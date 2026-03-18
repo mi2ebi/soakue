@@ -82,9 +82,11 @@ pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
 
 impl Toa {
     pub fn set_warning(&mut self) {
+        let toneless: String =
+            self.head.nfd().filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c)).collect();
         self.warn = (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
             .iter()
-            .any(|v| self.head.contains(v))
+            .any(|v| toneless.contains(v))
             || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
             || self.head.nfc().any(|c| {
                 !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
