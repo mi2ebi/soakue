@@ -508,6 +508,10 @@ interjection: "omg no way! I can't even! be for real!"
   el (2022-08-30): ex: «aıueo míao ke ke nınuaq gy 8kohora» "the moon sets at 8pm tonight"
   el (2022-08-30): ex: «aıueo máy sa gı mua ba» "let's set a good example"
 
+aıꝡa @lassc 2026-03-17 #dHKQ5OkfF $en ±
+interjection: dazed/stunned/shocked/flabbergasted/in disbelief; "gosh...", "woah...", "oh...!"
+  lassc (2026-03-17): muuuuuuuch less clear-cut amazement relative to **ua**; implies a sense of disorientation at the state of affairs
+
 aıze @uakci 2023-09-07 #H6NCcdvOI $en +2
 polarity: ‘bad presupposition’ (e.g., a failed reference to something which does not exist)
   uakci (2023-09-07): < **aımu** + **naze**
@@ -1401,6 +1405,10 @@ aqjeo @uakci 2022-02-04 #qYdDFC2B1 $en ±
 aqjıkı @Laqme 2022-12-13 #hlOjWf4C9 $en ±
 ▯ is polysterene / polysterene foam / styrofoam.
   Laqme (2023-02-11): from New Ithkuil aňžkil meaning “object made of polysterene”
+
+aqkao @lassc 2026-03-17 #ScEIdOZey $en ±
+▯ is a personal diary/journal.
+  lassc (2026-03-17): **aq** + **kao**, distinguished from **dıaqkao** (which this is now a clipping of yaaay) in implication that the journal/log is in some manner designed to not be read by others
 
 aqkı @Machy 2022-02-04 #ylganlZn_ $en ±
 ▯ is Anki, the ridiculously powerful open-source memorization software.
@@ -5115,7 +5123,7 @@ bosho @Ilmen 2020-02-25 #wi_TCP8sL $en ±
 boshue @Laqme 2023-07-18 #UYespNSzh $en ±
 ▯ keeps / retains possession of ▯.
 
-bota [(c 1i) (d d) hó A] @Laqme 2022-03-25 #pKosdgFAx $en +4
+bota [(c 1i) (d d) hó A] @Laqme 2022-03-25 #pKosdgFAx $en +5
 ▯ holds off / refrains / stops themselves from satisfying ▯.
   Laqme (2022-03-25): See **taoboqtaq**
   Laqme (2023-07-19): the Toadua Android app nicely uses this word for "Cancel"
@@ -7939,6 +7947,12 @@ cıa @el 2022-07-10 #qOfu7f37H $tok -1 %logic
 cıa @uakci 2022-10-31 #BxWExfz9K $toa -1 %logic
 bu ıq [ja] [ja] da
 
+cıaı [(c 1i) (n d) tá F] @Dembim 2026-03-17 #WO5QayRNE $en +4
+predicate: 'stop'; ▯ stops satisfying property ▯
+
+cıaı [(c 1i) (n d) tá F] @Dembim 2026-03-17 #njn6pMKYn $toa ±
+shaı ıq ▯ ▯
+
 cıakuq @lassc 2022-12-03 #NiA_XEnaU $en ±
 ▯ omits/leaves out information ▯ while talking to ▯.
 
@@ -9992,7 +10006,7 @@ chaqdeoq [(c) (n) hó A] @Dembim 2026-02-21 #EhhBbNTxC $en ±
 predicate: 'chat'; ▯ (plural) make small-talk, everyday conversation, with one another.
   Dembim (2026-02-21): I like both of <soaokeoı> and <seoqkeoı>; this just feels like something that should have several synonyms. Also this one is plural-subject, because— why not?
 
-chaqdıaq [(0) (d) hóq P] @Laqme 2018-12-14 #6us7v51VY $en +3
+chaqdıaq [(0) (d) hóq P] @Laqme 2018-12-14 #6us7v51VY $en +4
 ▯ occurs daily / every day.
   Laqme (2018-12-14): #chaqtū (official) seems to break the #niaqdīaq, #joadīaq, etc. pattern.
   seaqtaq (2019-01-21): +1
@@ -17066,7 +17080,7 @@ dosısodı @jiqci 2023-06-10 #jMBdegz0S $en ±
 doso @kazoo 2025-04-30 #REOaOW7hY $en ±
 ▯ is the musical note C.
 
-dosoa @lassc 2025-03-20 #vwRK-3jFN $en ±
+dosoa @lassc 2025-03-20 #vwRK-3jFN $en +1
 ▯ donates ▯.
   lassc (2025-03-20): redo of an old word of mine. connotes that the item is voluntarily given to someone else as a gift, specifically *without* strings attached.
 
@@ -19547,6 +19561,9 @@ faqmıa @jiqci 2024-08-10 #GBpUr-AgS $en ±
 faqne @jiqci 2024-08-02 #hU5iNreYI $en ±
 ▯ is the rate at which ▯ occurs.
 
+faqnue [(c 0) (d d) hó A] @Dembim 2026-03-17 #YBSWmDX9x $en ±
+▯ promises/threatens that ▯ happen
+
 faqrıoı @seaqtaq 2019-01-30 #98INR8O34 $en ±
 (fork of #uj3xeJG6G) ▯ is the case instead of ▯ being the case
 
@@ -20355,6 +20372,7 @@ feze @jiqci 2024-01-19 #1qMy2rWa9 $en ±
 
 fı @official 2026-02-18 #Ic6VzdhVqWk $en ± %aspect
 aspect: ‘NEAR.PRSP’; near prospective (is about to X)
+  Ilmen (2026-03-17): sememe: joveyo
 
 fıa @Laqme 2023-11-03 #bOqg73SY7 $en +1
 ▯ is sequentially before ▯.
@@ -20739,6 +20757,11 @@ fıuta @salarua 2024-09-20 #ccRDIGotV $en ±
 
 fıutoe @Ilmen 2019-06-15 #9o8Lh79f9 $en ±
 ▯ notches/cuts ▯ (incomplete cut, not resulting in a complete separation).
+
+fo- @Dembim 2026-03-17 #Fd9goxTB_ $en ±
+illocution prefix: takes a speech act particle X and yields one that attributes the speech act of X's complement to an unnamed (possibly contextually determined) party.
+  Dembim (2026-03-17): This is a slightly weird entry I know, but I'd like to try it out.
+  Dembim (2026-03-17): <@lassc zoe> would be equivalent to <fodà>
 
 fo @Laqme 2023-11-08 #OE9a9X3fG $en ±
 interjection: ‘by the way’
@@ -38336,7 +38359,7 @@ It turns out / comes to a point where ▯; Things develop/culminate/approach a r
 junatıe @seaqtaq 2024-10-03 #_wvTbHzcG $en ±
 That ▯ is the case obscures/covers the fact that ▯ is the case
 
-junı @lassc 2022-12-02 #pQoMSOvG- $en +4
+junı @lassc 2022-12-02 #pQoMSOvG- $en +5
 interjection: "see you later"; acknowledgement of departure with expectation of return
   lassc (2022-12-02): **oka** for indication, **koıka**/**reına** for situations in which you do not expect return
   robintown (2023-10-17): goodbye
@@ -42983,7 +43006,7 @@ koıhua @Ilmen 2019-02-04 #rAKrG541U $en ± %body_part
 koıjuı @Laqme 2024-07-03 #20UP5ESE0 $en ±
 ▯ is within walking distance of ▯.
 
-koıka @lassc 2022-12-02 #vVM0H8pgJ $en +4
+koıka @lassc 2022-12-02 #vVM0H8pgJ $en +5
 interjection: "farewell"; indication of departure without expectation of return
   lassc (2022-12-02): **reına** for acknowledgement, **oka**/**junı** for situations in which you expect return
   robintown (2023-10-17): goodbye
@@ -43948,6 +43971,7 @@ focus prefix-izer: takes a (c 1) verb and forms a focus prefix in KU, with the f
 kugo @robintown 2023-05-20 #Z047Xst3M $en ±
 ▯ is sturdy/durable/lasting.
   robintown (2023-05-20): From Iban 'kukoh'
+  Dembim (2026-03-17): kw: resilient; tough; abiding
 
 kugu @Machy 2021-08-25 #nP9lNAnsx $en ±
 ▯ is sneaking.
@@ -48049,7 +48073,7 @@ tua loeq ▯ ▯
   Dembim (2026-02-12): Distribution: d d
   Dembim (2026-02-12): Discriminator: 1
 
-loeqjueq @Laqme 2024-09-19 #vwcxClbQA $en ±
+loeqjueq @Laqme 2024-09-19 #vwcxClbQA $en +1
 ▯ stir-fries ▯.
 
 loeqkua [(c)  máq ] @seaqtaq 2024-11-13 #0CyCFXQkJ $en +1
@@ -49202,6 +49226,10 @@ predicate: ‘serve’; ▯ serves ▯ with property ▯.
 lueq @jiqci 2023-07-31 #WfZH43tYGY $pl ± %action
 ▯ służy/obsługuje ▯ spełniając własność ▯.
 
+lueq [(c c) (d d) hó A] @Dembim 2026-03-17 #7GFWVp5lC $en ± %action
+predicate: ‘serve’; ▯ serves / acts in the benefit/interest of ▯.
+  Dembim (2026-03-17): Recover the <@official> k-slot with subject-sharing or <ôı>.
+
 lueqbuaq @seaqtaq 2024-10-30 #XaXIRQr2y $en ±
 ▯ fails ▯; ▯ does not succeed in doing what ▯ wants or needs of them
 
@@ -49238,7 +49266,7 @@ lueqmuce @robintown 2021-10-18 #S68-TEY5p $en ±
 lueqse @Laqme 2024-04-29 #Z9Wv_obI0 $en ±
 ▯ is a service / favor.
 
-lueqsı @Laqme 2023-09-04 #2GBddGRma $en +2
+lueqsı @Laqme 2023-09-04 #2GBddGRma $en +1
 ▯ is mesmerized / engrossed / transfixed / absorbed / entranced / enthralled / nerd-sniped by ▯.
 
 lueqsıge @Laqme 2023-09-04 #W6_pnzllz $en +1
@@ -49333,7 +49361,7 @@ luıgıq @Ilmen 2019-03-06 #15weQiE61 $en ±
   Ilmen (2019-03-06): +1
 
 luıgıqjuı @Ilmen 2020-01-02 #ILRPERM3a $en ±
-▯ is just about to be the case; ▯ is on the verge of being the case.
+▯ is about to be the case; ▯ is on the verge of being the case.
 
 luıjaı @seaqtaq 2025-12-13 #kDKieNcb8 $en ±
 ▯ is glad that ▯ is over / said and done / fully in the past now
@@ -50280,6 +50308,7 @@ prefix: **aımu**
 mam @uakci 2024-09-24 #Uo_fvFO_n $en ±
 tense: ‘then’, ‘at that time’
   uakci (2024-09-24): like **tuom** except that the implied tense variable is pragmatically favored to the time of a previously-mentioned event rather than an ambient time frame
+  Dembim (2026-03-17): kw: demonstrative
 
 mama [(c) (d) hó I] @official 2026-02-16 #VtstjmpKZY2 $en ± %deixis,kinship
 predicate: ‘mama’; ▯ is mama (Mom, mommy, mum, mother).
@@ -50318,6 +50347,13 @@ The truth value of ▯ (proposition) is verifiable.
 mamıeqnoa @Ilmen 2026-01-17 #BsArtdfFy $en ±
 ▯ is difficult to assess whether it is the case or not.
 
+mamjao @Dembim 2026-03-17 #ogTJlTfIX $en ±
+tense: remote demonstrative
+  Dembim (2026-03-17): e.g. "back then"
+
+mamjuı @Dembim 2026-03-17 #_xjuJiXqw $en ±
+tense: "just then"; "just now"; near demonstrative
+
 mamla @Laqme 2024-08-28 #B0L0AT_tc $en ±
 ▯ is horrible/terrible/awful/wretched.
   Laqme (2024-08-28): From Lojban "mabla" / shortened from **mabala**.
@@ -50327,6 +50363,9 @@ mamoaq @Laqme 2019-12-16 #AAfnl6N81 $en ±
 
 mamoq @uakci 2018-11-20 #lOJe6A4Xs $en ±
 ▯ is a ‘ma… moq’ (yes–no) question.
+
+mamsa @Dembim 2026-03-17 #lmbhpbZfH $en ±
+tense: medial demonstrative
 
 mamu @uakci 2024-08-03 #y9c5FDfpw $en ±
 complementizer: is [clause] true or the converse?
@@ -51406,7 +51445,7 @@ meobubo @mimiaoganhaqpy 2023-07-08 #AFpccxVtL $en ±
 meoca @Ilmen 2020-01-26 #fkZr5rIJv $en ± %emotion
 ▯ saddens ▯.
 
-meocaı @fagri 2019-01-10 #UjGwG4Uz- $en ±
+meocaı @fagri 2019-01-10 #UjGwG4Uz- $en -1
 ▯ is emotionally strong (e.g. in the face of hard times)
   fagri (2019-01-10): Emotional state -- use "duq mẻocāi" for habitual aspect of the word
   Laqme (2019-01-11): +1
@@ -53127,11 +53166,8 @@ moe @el 2022-07-10 #pah9eDdbH $tok ± %emotion
 moe @jiqci 2023-07-31 #utWGf6Wcbl $pl ± %emotion
 ▯ odczuwa emocję ▯.
 
-moecaı @Ilmen 2024-11-18 #ffjVdlV7W $en ± %psychology,personality
+moecaı @Ilmen 2024-11-18 #ffjVdlV7W $en -1 %psychology,personality
 ▯ is emotionally strong, stoical, impassible, tough-skinned.
-
-moecaı @Laqme 2024-01-04 #atxPGJIJK $en -1 %psychology,personality
-▯ is emotionally strong (e.g. in the face of hard times).
 
 moecıa @uakci 2022-06-23 #RVcJiRdYv $en ±
 ▯ is emotionless/callous/indifferent/ruthless/insensitive/desensitized.
@@ -53160,6 +53196,10 @@ moechuo @Ilmen 2022-11-04 #_1-0-X-XR $en ±
 
 moedea @Ilmen 2019-02-27 #rUp8rgeGr $en ±
 ▯ causes emotional shock in ▯.
+
+moeduoq [(c) (d) hó I] @Dembim 2026-03-17 #0iay39i3I $en ±
+predicate: 'emotionally.hard'; ▯ is emotionally "hard" (e.g. in response to difficult times).
+  Dembim (2026-03-17): In contrast to <moekugo>, has a somewhat negative connotation of brittleness and sharp edges.
 
 moefaı @Laqme 2023-10-17 #4pJYGnMYi $en ±
 ▯ is emotional (experiences lots of emotions).
@@ -53230,6 +53270,9 @@ moekuaq @uakci 2018-09-25 #LvqraO6u- $en ±
 
 moekuaqsıa @Ilmen 2018-10-09 #cZnhNgsht $en ±
 ▯ doesn't display any emotion.
+
+moekugo [(c) (d) hó I] @Dembim 2026-03-17 #GXrbOOgJz $en ±
+predicate: 'emotionally.strong'; ▯ is emotionally strong (e.g. in the face of hard times).
 
 moela @TheAndSys 2024-05-29 #X5m9HsYKU $en ±
 ▯ is an emotion
@@ -53938,7 +53981,7 @@ moqla @Machy 2021-10-12 #otQW3MFoW $en ±
 statement prefix: interrogative
   Machy (2021-10-12): question
 
-moqlaı [(c) (d) hóq I] @Laqme 2019-02-05 #KqjS8TGpq $en +3
+moqlaı [(c) (d) hóq I] @Laqme 2019-02-05 #KqjS8TGpq $en +4
 ▯ is a question mark.
   Ilmen (2019-02-05): +1
   fagri (2019-02-06): +1
@@ -62266,7 +62309,7 @@ ojarua @lassc 2025-03-12 #Kjjt4AN5c $en ±
 ▯ is a member of the genus Datura (commonly referred to as "thornapples" and "jimsonweeds").
   lassc (2025-03-12): calque from Spanish toloache ← Classical Nahuatl toloatzin (toloa "bow one's head" + -tzin (honorific/diminutive))
 
-oka @lassc 2022-12-02 #BqntvW_Vp $en +4
+oka @lassc 2022-12-02 #BqntvW_Vp $en +5
 interjection: "goodbye"; indication of departure with expectation of return
   lassc (2022-12-02): **junı** for acknowledgement, **koıka**/**reına** for situations in which you do not expect return
 
@@ -67811,7 +67854,7 @@ reımuoı @robintown 2023-01-13 #PbC7Aw4mR $en ±
 ▯ revolves/orbits around ▯.
   robintown (2023-01-13): this has more of a connotation of regular/repeated motion than **fareı**
 
-reına @lassc 2022-12-02 #8Cqe4OchL $en +4
+reına @lassc 2022-12-02 #8Cqe4OchL $en +5
 interjection: "until we meet again"; acknowledgement of departure without expectation of return
   lassc (2022-12-02): **koıka** for indication, **oka**/**junı** for situations in which you expect return
   robintown (2023-10-17): goodbye
@@ -79094,6 +79137,9 @@ sho @el 2022-07-10 #G9UdwX5GI $tok ±
 sho @jiqci 2023-07-31 #IBj1E4V2Wi $pl ±
 ▯ staje się taki, że spełnia własność ▯.
 
+sho [(c 1i) (n d) tá F] @Dembim 2026-03-17 #ZJnof1FB5 $toa ±
+ceo ıq ▯ ▯
+
 ⚠ sho @oldofficial 2019-05-05 #N-gK3n-i0L $en -1
 predicate: ‘become’; ▯ becomes such that they satisfy property ▯.
   uakci (2022-05-16): also: ▯ comes to be the case ?
@@ -79775,12 +79821,6 @@ shuehaq @robintown 2023-11-29 #Ax536OpZX $en ±
 
 shuehuıcea @Ilmen 2020-02-27 #MxfLWQ1KV $en ± %artifact,container
 ▯ is a garbage bag.
-
-shueı [(c 1i) (n d) tá F] @Dembim 2025-11-27 #7lJLLFi3B $en +2
-▯ stops satisfying property ▯
-  Dembim (2025-11-27): Frame: c 1i
-  Dembim (2025-12-06): stops satisfying property; cf. <sho>
-  Dembim (2026-02-11): Distribution: d d
 
 shuekaze @lassc 2025-03-18 #9gBSRc5Ng $en ±
 ▯ rhythmically beats/pulses/throbs.
@@ -86184,7 +86224,7 @@ tuzeo @uakci 2023-12-02 #JO2TGmWKM $en +1
   uakci (2023-12-02): with no intention to replace **tama**. etymologically twofold: < **tuze** + **zeo**, as a fruit with a soupy, swampy interior; < **tu** + **zeo**, as a fruit with versatile culinary use
   uakci (2023-12-02): @Laqme also notes tomato soup exists and is popular. so there goes a third leg for the etymology
 
-u- @eednb 2023-11-21 #rNCE0T_hW $en +1
+u- @eednb 2023-11-21 #rNCE0T_hW $en +2
 prefix: drop direct object argument on ditransitive verb
 
 u @Laqme 2022-12-13 #62IXWjZlQ $en ±
@@ -88288,6 +88328,13 @@ zıubeoq @Laqme 2024-05-06 #ybjK_krwl $en ±
 zıubuzıu @Laqme 2022-08-02 #tdHBiC0Dk $en ±
 ▯ is NaN (floating-point value "not a number").
 
+zıucu [(c) (d) hóq I] @lassc 2026-03-17 #csYuNGLel $en ±
+▯ is a video game which relies on an internet connection.
+  lassc (2026-03-17): cf. **zıuqlucu**. i envision the difference mostly lies in the distribution of usage of the two; this form being for communities centered around the topic as opposed to the other being more commercial/journalistic
+  lassc (2026-03-17): etymology: blend version of aforementioned word
+  Dembim (2026-03-17): Perhaps this should mean "is an online/ multiplayer game", in keeping with the apparent networking focus of <zıuq>
+  Dembim (2026-03-17): See also <@Laqme luaqrom>, <@Ilmen luaqkıq>, <@robintown geımıq>
+
 zıuchue @Laqme 2024-06-21 #cSdIm3AGo $en ±
 ▯ is a sequence (mathematics).
 
@@ -88339,6 +88386,14 @@ zıulaıtoaı @uakci 2022-07-03 #-pMinMsn7 $en ±
 
 zıunhuo @Laqme 2023-11-07 #lSD23Jsfk $en ±
 ▯ is a matrix.
+
+zıuq @lassc 2026-03-17 #9GIETUG9a $en ±
+▯ is digital/virtual/online/Internet-based/networked.
+  lassc (2026-03-17): etymology: extension of **zıq**, with similarity to analogous **heum**
+  lassc (2026-03-17): distinct from ziq by virtue of this word referring to specifically internet-connected/online things as opposed to anything electronic
+
+zıuqlucu [(c) (d) hóq I] @lassc 2026-03-17 #l127wBcii $en ±
+▯ is a video game which relies on an internet connection.
 
 zıurıe @Ilmen 2025-12-04 #6pfojG1bt $en ±
 Number ▯ is in range ▯ (two different numbers).
