@@ -140,10 +140,10 @@ a {
     position: absolute;
     left: 50%;
     top: 0.125rem;
-    width: 12ch;
+    font-size: calc(1em * 10/12);
+    min-width: 12ch;
     text-align: center;
     transform: translateX(-50%);
-    font-size: 0.83em;
     background: var(--bg);
     color: var(--orange);
     opacity: 0;
