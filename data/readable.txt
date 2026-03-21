@@ -531,7 +531,7 @@ interjection: "omg no way! I can't even! be for real!"
   el (2022-08-30): ex: «aıueo míao ke ke nınuaq gy 8kohora» "the moon sets at 8pm tonight"
   el (2022-08-30): ex: «aıueo máy sa gı mua ba» "let's set a good example"
 
-aıꝡa @lassc 2026-03-17 #dHKQ5OkfF $en ±
+aıꝡa @lassc 2026-03-17 #dHKQ5OkfF $en +1
 interjection: dazed/stunned/shocked/flabbergasted/in disbelief; "gosh...", "woah...", "oh...!"
   lassc (2026-03-17): muuuuuuuch less clear-cut amazement relative to **ua**; implies a sense of disorientation at the state of affairs
 
@@ -7692,6 +7692,9 @@ Node ▯ is connected to node ▯.
 
 cecuao @uakci 2023-05-21 #YDbKOK03C $en ±
 ▯ is a morphism/arrow taking/mapping ▯ to ▯.
+
+cecuo [(c) (d) hó A] @Dembim 2026-03-20 #8tZ1bEcvu $en ±
+▯ does some low-stakes mischief/facetiousness/leg-pulling/jesting/pot-stirring/light trolling/devil-advocating/hijinks/bit-running/antagonizing/mostly-but-perhaps-not-entirely-harmless sport
 
 cechue @seaqtaq 2024-11-04 #9vAORpRHb $en ±
 ▯ is a linked list
@@ -85106,7 +85109,7 @@ tocuq @jiqci 2023-10-23 #rzNfG3K81 $en ±
 todaq @jiqci 2023-12-29 #M1-rlzZt_ $en ±
 ▯ is a bustard (family Otididae).
 
-toe @el 2022-07-10 #auusE45wf $en +2
+toe [(c c) (d d) hó A] @el 2022-07-10 #auusE45wf $en +2
 ▯ cuts ▯
   el (2022-07-10): use **sey** / **mu se** to get at the result of the cutting
 
@@ -87666,7 +87669,7 @@ pronoun: the proposition expressed by the previous sentence.
   lassc (2025-04-15): (joke word? what do you mean joke word? no, impossible! toaqgua just exists in a universe where yahoo won instead of google. yep! im yahooing it.)
   ijonetun (2025-04-15): +1 i live
 
-ꝡáı @uakci 2024-01-03 #xvC8-FhEy $en -1
+ꝡáı @uakci 2024-01-03 #xvC8-FhEy $en ±
 vague definite determiner; ‘the’
   uakci (2024-01-03): like **◌́**/**ló** but binds rather than being bound. almost like “**hú** ∨ **ké**”. you should probably use one of the three if desiring to be more specific
 
