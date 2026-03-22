@@ -1502,6 +1502,9 @@ aqmınhue @evie 2025-05-09 #aXCJg26T_ $en +1
 aqmırao @evie 2024-06-29 #IDtMCKnds $en ±
 ▯ is an admiral
 
+aqmoı @lassc 2026-03-22 #RHoh5ns3E $en ±
+▯ introspects/ruminates/self-reflects/soul-searches/navel-gazes.
+
 áqna @robintown 2025-08-21 #cY-zD26_p $en +2
 pronoun: ‘REFL.ND’; non-distributive reflexive pronoun
   robintown (2025-08-21): Subtly different in meaning to **áq**: "He kıaı hú poq áq" means "Those people (each) care for their own self (singular)", while "He kıaı hú poq áqna" means "Those people (taken as a group) care for themselves (the whole group)".
@@ -6178,6 +6181,10 @@ bụkaqsoeı @robintown 2023-11-15 #Qk4anX_C6 $en ±
 búkeo @Laqme 2024-06-13 #8Jc1NeziZ $en +1
 conjunction: 'not X, but Y'
 
+bukeodu @seaqtaq 2026-03-21 #Sf4LpJVaA $en ±
+▯ seems to not be the case but in fact is the case
+  seaqtaq (2026-03-21): ≈jehana
+
 bukero @kazoo 2025-08-06 #RxoEc5iLJ $en ±
 ▯ has scurvy.
 
@@ -10535,6 +10542,10 @@ checu [(c c 2xx) (n n d) tá F] @el 2022-07-12 #zhAQmft54 $en ±
 ▯ and ▯ satisfy relation ▯ with each other
   el (2022-07-12): shorter form of **cheocuoı** because i've been using it a lot
   Dembim (2026-03-13): kw: reciprocal, and vice versa
+
+checuo @lassc 2026-03-21 #qTA2oyrdk $en ±
+▯ is a prankster/trickster/rascal/rapscallion/scoundrel/jester.
+  lassc (2026-03-21): etym: pun on **cecuo**
 
 chedu @uakci 2022-11-05 #u5L_ZWJUf $en +1
 ▯ tricks ▯ into satisfying property ▯.
@@ -18093,6 +18104,10 @@ dujıqchea @Laqme 2023-10-06 #jP9Ffk1If $en ±
 dujıqjıaq @robintown 2023-10-06 #UHOTdkG1l $en ±
 ▯ is a virtual reality / VR world.
 
+dukeobu @seaqtaq 2026-03-21 #M-AfFrrvQ $en ±
+▯ seems to be the case but is not in fact the case
+  seaqtaq (2026-03-21): ≈ aımuna
+
 duku @nano 2023-11-19 #yES1CvcHT $en ±
 onomatopoeia: 'dook'
 
@@ -19464,7 +19479,7 @@ faımu @uakci 2023-11-27 #afqepSnp5 $en ±
 ▯ is an uncommon occurrence; It’s not every day that ▯ is the case.
   uakci (2023-11-27): **faı** + **aımu**
 
-faımuı @uakci 2022-08-06 #PbA70ILpi $en ±
+faımuı @uakci 2022-08-06 #PbA70ILpi $en +1
 ▯ is a common/idiomatic interpretation of ▯.
 
 faıne @Laqme 2022-02-11 #-3ij9oodf $en +1
@@ -25750,6 +25765,9 @@ Guacızu @tonibrown 2025-04-30 #naX6cKRDn $en -1
 
 guache @uakci 2019-04-17 #yw34XK_v3 $en ±
 ▯ is a monarch/president/head of the state.
+
+guagoa @Dembim 2026-03-21 #cvd9haIre $en ±
+predicate: 'territory'; ▯ is territory, physical space under the jurisdiction of a government
 
 guahezo @seaqtaq 2024-08-07 #pxYqoFm05 $en ±
 ▯ occurs abroad; ▯ happens in a country/territory foreign to the speaker's own
@@ -35962,7 +35980,7 @@ jıaꝡaı @robintown 2024-11-03 #MqDEXds4N $en ±
 jıazoaımeo @fagri 2021-08-21 #K1nkp0Hat $en ±
 ▯ feels doubtful and apprehensive about what the future holds
 
-jıba @Ilmen 2020-03-10 #9R1DDUq_M $en ±
+jıba @Ilmen 2020-03-10 #9R1DDUq_M $en +1
 ▯ satisfies property ▯ as a reflex, unvoluntarily (automatic action not under conscious control).
   Ilmen (2020-03-10): Etymology: a priori.
 
@@ -39501,13 +39519,6 @@ kaıbeaq @Ilmen 2025-05-04 #RyHEVmCpO $en ±
 kaıce @uakci 2021-10-03 #Z0yYJXxgK $en ±
 ▯ is an article/(web)page.
 
-kaıcıe [(c) (d) hó I] @Dembim 2026-01-25 #pt7w5vBNC $en ±
-▯ is a "mackrel", stripy fishes of Scombridae
-  Dembim (2026-01-28): Frame: c
-  Dembim (2026-01-28): Pronominal_class: ho
-  Dembim (2026-02-12): Subject: individual
-  Dembim (2026-02-12): Distribution: d
-
 kaıcıoq @Laqme 2023-10-27 #fMV2NxjC3 $en +1
 ▯ is a key (on a keyboard).
 
@@ -39691,6 +39702,9 @@ predicate: ‘marking’; ▯ is a marking.
 
 kaısebe @fagri 2021-10-05 #3rue_X8L7 $en ±
 ▯ is a stub article
+
+kaısebo [(c) (d) hó I] @Dembim 2026-03-21 #TvMhE4JCk $toa ±
+▯ is a "mackrel", stripy fishes of Scombridae
 
 kaısedeo @fagri 2021-10-05 #IxwOgRo7e $en ±
 ▯ is a (non-final) draft
@@ -40774,7 +40788,7 @@ karotoq @Ilmen 2018-10-08 #utedEf9eA $en +2 %lifeform,plant
 Karotuaqdam @jiqci 2024-04-06 #dnL1-sMYZ $en ±
 ▯ is the star sign Capricorn.
 
-karuaq @fagri 2019-01-28 #IST14yB49 $en +2
+karuaq [(c 0) (d d) hó A] @fagri 2019-01-28 #IST14yB49 $en +2
 ▯ makes ▯ true by virtue of saying it
   uakci (2019-01-28): +1
   Machy (2020-06-30): pronounce, hereby
@@ -46717,7 +46731,7 @@ leıko @Laqme 2025-05-28 #9qrXSxnUV $en +1
 leılı @robintown 2022-06-02 #fWqMA96Zw $en ±
 Property ▯ is rare/uncommon among ▯.
 
-leımuı @uakci 2022-08-06 #vY1kFm5-n $en ±
+leımuı @uakci 2022-08-06 #vY1kFm5-n $en +1
 ▯ is an odd/unidiomatic/“stretching it”/contextual interpretation of ▯.
 
 leımuo @fagri 2021-10-13 #mpCtJuIE_ $en ±
@@ -81301,7 +81315,7 @@ tamaohaq @el 2022-06-23 #nZnsf1niC $en +1
 ▯ is a tamale (steamed cornmeal dough filled with various ingredients)
   el (2022-06-23): < spanish "tamal" + l-coloring
 
-tamara [(c)  tá F] @TheAndSys 2023-05-15 #Mte7kCN8u $en +1
+tamara [(c) (d) tá F] @TheAndSys 2023-05-15 #Mte7kCN8u $en +1
 ▯ is gentle, is soft
   Dembim (2026-02-04): Frame: c
   Dembim (2026-02-04): Pronominal_class: ta
