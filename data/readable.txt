@@ -18209,7 +18209,7 @@ duogoı @uakci 2022-06-14 #yU_Lyh7LN $en ±
 duohuame @akesi 2020-03-27 #FPuRvrC5S $en ±
 ▯ is a muscular system.
 
-duoı @uakci 2021-11-07 #3kMmKExrA $en ± %time
+duoı @uakci 2021-11-07 #3kMmKExrA $en +1 %time
 ▯ gestures with/moves body part ▯ (without moving their entire body).
 
 duoıfaı @seaqtaq 2024-11-03 #uCIxNIqI1 $en ±
@@ -21197,7 +21197,7 @@ foaqduı @seaqtaq 2024-09-15 #4-YQngJv0 $en ±
   seaqtaq (2024-09-15): E.g. Feeling too tired to go and use the bathroom while laying in bed despite having to go really bad, all because you don't feel like moving or getting up
   seaqtaq (2024-09-15): Zakaı word
 
-foaqduna @robintown 2023-11-13 #wcILNugeZ $en +1
+foaqduna @robintown 2023-11-13 #wcILNugeZ $en +2
 ▯ is stuck in a comfy state which they don't feel ready to end.
 
 foaqfua @akesi 2020-01-22 #DZv2SrK0A $en +1
@@ -40272,14 +40272,14 @@ kaq- @salarua 2023-02-07 #zuhHqOhQT $en ±
 prefix: reduces arity by one and fills dropped place with kága
   salarua (2023-02-07): etymology: abbreviated **kaga**
 
+kaq @Laqme 2023-10-22 #-9YiR5N7i $en +1 %perception
+▯ sees ▯.
+
 kaq [(c) (d) tá F] @official 2026-02-16 #FUjh1CPzKlZ $en ± %perception
 predicate: ‘visual’; ▯ is visual/optical; ▯ pertains to the sense of sight/vision.
 
 kaq @jiqci 2023-07-31 #MDyjIPEo- $pl ± %perception
 ▯ jest wzrokowy/wizualny/optyczny/związany ze zmysłem wzroku.
-
-kaq @Laqme 2023-10-22 #-9YiR5N7i $en ± %perception
-▯ sees ▯.
 
 kaq'ıq @uakci 2023-05-13 #PBKJaC78x $en ±
 ▯ has look/appearance (property) ▯.
@@ -45727,7 +45727,7 @@ laısıeme @Ilmen 2022-11-04 #veUtSB5QP $en ±
 laısıemekao @Ilmen 2022-11-04 #BP58kXtjq $en ±
 ▯ is a plain text file.
 
-laısıo @Laqme 2021-10-18 #8iAdHSey6 $en ±
+laısıo [(c 0) (d d) hóq F] @Laqme 2021-10-18 #8iAdHSey6 $en ±
 ▯ is a metaphor / allegory / symbolism for "inner meaning" ▯.
   Laqme (2021-10-18): This is 0 0, and the sense is a bit literary: "the picture frame being cracked is a metaphor for the couple having broken up". But I think this is also fine for when things happen to be aptly symbolic for other things by sheer coincidence, without being "written" into existence (only interpreted into existence).
 
@@ -84296,6 +84296,9 @@ tısha @el 2022-07-10 #qVj2JZgI4 $tok ±
 
 tısha @jiqci 2023-07-31 #EbXqu0_4Qz $pl ±
 ▯ przychodzi/przyjeżdża do ▯.
+
+tıshache [(c) (d) hó I] @Dembim 2026-03-23 #e0fFF8kAy $en ±
+predicate: 'carrier'; ▯ is a carrier/carter/hauler
 
 tıshagıq @Laqme 2019-03-05 #yT4DjReam $en +2
 ▯ leaves place/position ▯.
