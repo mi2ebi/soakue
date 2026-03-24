@@ -53,6 +53,7 @@
       <hr />
       <details>
         <summary>ways to search things</summary>
+        <p>bare terms and operator arguments can be quoted to include spaces</p>
         <table>
           <tr>
             <th>operator</th>
@@ -113,6 +114,11 @@
             <td><code>!</code></td>
             <td>negate a query</td>
             <td><code>!@official</code></td>
+          </tr>
+          <tr>
+            <td><code>|</code></td>
+            <td>disjoin some queries</td>
+            <td><code>|"dog bird"</td>
           </tr>
           <tr>
             <td><code>w:</code></td>
@@ -179,10 +185,6 @@
           <tr>
             <td><code>X</code></td>
             <td>a Toaq letter</td>
-          </tr>
-          <tr>
-            <td><code>_</code></td>
-            <td>a space</td>
           </tr>
         </table>
         <p>and these automatically get Toaqized always:</p>

@@ -17,10 +17,29 @@ function shuffle(a) {
   }
   return a;
 }
+function tokenize(q) {
+    let terms = [], quote = false, current = "";
+    for (const c of q) {
+        if (c == '"')
+            quote ^= true;
+        else if (c == " " && !quote) {
+            terms.push(current);
+            current = "";
+        } else
+            current += c;
+    }
+    if (quote)
+        return {err: `unclosed quote`};
+    if (current)
+        terms.push(current);
+    return terms;
+}
 function search(q) {
-  let terms = q.split(" ");
+  let terms = tokenize(q);
+  if (terms.err)
+    return terms;
   terms = terms.map((term) => {
-    let [_, operator, query] = term.match(/^([=~@#/$!%]|[a-z]*:)(.*)/) ?? [];
+    let [_, operator, query] = term.match(/^([=~@#/$!%|]|[a-z]*:)(.*)/) ?? [];
     if (!operator) return { op: "", orig: term, value: term.toLowerCase() };
     let colon = operator.endsWith(":");
     operator = operator.replace(/:$/, "");
@@ -43,7 +62,8 @@ function search(q) {
       "anim",
       "dist",
       "subj",
-      "tags"
+      "tags",
+      "or"
     ];
     if (colon && !operators.includes(operator))
       return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
@@ -121,6 +141,14 @@ function search(q) {
   err = excluded.find((e) => e.err);
   if (err) return err;
   excluded = new Set(excluded.flat().map((e) => e[0].id));
+    let disjuncts = terms
+        .filter(t => ["|", "or"].includes(t.op))
+        .map(t => t.orig.split(" ").map(k => search(k)))
+        .flat(2)
+        .reduce((map, [e, s]) => {
+            map.set(e.id, Math.max(s, map.get(e.id) ?? 0));
+            return map;
+        }, new Map());
   let res = [];
   for (const entry of dict) {
     if (excluded.has(entry.id)) continue;
@@ -131,8 +159,9 @@ function search(q) {
       arities = arities.filter((x) => x != 0);
     }
     let scores = terms
-      .filter((t) => t.op != "order" && t.op != "count")
-      .map(({ op, orig, value, comparison }) => {
+        .filter((t) => t.op != "order" && t.op != "count")
+        .map(({ op, orig, value, comparison }) => {
+            if (["|", "or"].includes(op)) return disjuncts.get(entry.id);
         // 6: id
         if (["#", "id"].includes(op) && entry.id == orig) return 6;
         // 5: head
@@ -154,7 +183,7 @@ function search(q) {
         }
         // 3: body
         if (["body", ""].includes(op)) {
-          const v = normalize_query(value).replace(/_/g, " ").replace(
+          const v = normalize_query(value).replace(
             /[.*+?^${}()|[\]\\]/g,
             "\\$&",
           );
@@ -273,7 +302,6 @@ let substitutions = {
   F: diphthongs,
   Q: finals,
   R: raku,
-  _: " ",
 };
 // If a tone is present in the query, it's required in the word; if not present any tone(s) are allowed.
 // Underdots are dealt with separately, so query nạbie matches word nạ́bıe
