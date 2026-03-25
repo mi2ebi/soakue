@@ -11652,6 +11652,9 @@ chıeqtıeq @seaqtaq 2018-12-29 #1MPOG9tea $en ±
 chıeqzu @shamu 2024-10-16 #MrHMXEEum $en ±
 ▯ is an auxiliary language / interlingua / lingua franca / auxlang.
 
+chıeromdıu @Dembim 2026-03-24 #f-ZTjPF0f $en ±
+predicate: 'machine.learning'; ▯ is the field/discipline of machine learning
+
 chıese @TheAndSys 2025-02-11 #wUKmdYfUD $en ±
 ▯ is a class (an event of going to study in a school)
 
@@ -22966,6 +22969,9 @@ geameı @Ilmen 2020-02-24 #HTE8SMtA2 $en ± %geographic_feature
 geameka @jiqci 2023-05-24 #y-S0XucFe $en ±
 ▯ is a tower crane.
 
+geamoa @Dembim 2026-03-24 #zpqQDcOuN $en ±
+▯ is a maximum (i.e. of a function)
+
 geane @jiqci 2024-09-15 #lmS8O4kQb $en ±
 ▯ is the height / altitude of ▯.
   jiqci (2024-09-15): for 'tallness', see **zeune**
@@ -24677,6 +24683,10 @@ gısıo @uakci 2020-04-07 #qOORXjtH0 $en ±
 
 gısoq @Laqme 2022-01-09 #OBre-Pmz- $en ±
 ▯ is the best / optimal.
+
+gısoqmoa @Dembim 2026-03-24 #4PJtjr6dw $en ±
+▯ is an optimum
+  Dembim (2026-03-24): Maybe a <nıamoa> or <geamoa> depending on context
 
 gısumu @Ilmen 2023-01-13 #3ldihDqHG $en ± %cultural,linguistics,Lojban
 ▯ is a gismu, a Lojbanic root word.
@@ -27211,6 +27221,9 @@ guqkua @jiqci 2024-11-12 #dQYd_MFr2 $en ±
 guqkuatom @Snow 2023-05-22 #aXVOd-ExU $en ±
 ▯is a bottom quark.
 
+guqlaı @Dembim 2026-03-24 #2HcxqQP1D $en ±
+▯ is an underdot/dot-below
+
 guqlıo @Ilmen 2020-01-16 #STc9cffv5 $en ± %space,spatial_position
 ▯ is halfway between below and to the left direction of ▯.
 
@@ -27219,6 +27232,12 @@ guqlıoshaq @Ilmen 2020-01-16 #JE6Hj3bnY $en ± %space,spatial_position
 
 guqlıotıa @Ilmen 2020-01-16 #YjewUp38i $en ± %space,spatial_position
 ▯ is halfway between below, on the left and behind ▯.
+
+guqmoa @Dembim 2026-03-24 #kCPxLD4yO $en ±
+▯ is an underdot.
+
+guqmoacıa @Dembim 2026-03-24 #BrNOjvNkx $en ±
+▯ is written without underdots, following the Prefix Reform.
 
 guqmuı @uakci 2020-03-11 #bc1ucXi58 $en ±
 ▯ is a metaphorical/figurative meaning of ▯.
@@ -58209,6 +58228,9 @@ nıamıq @Laqme 2022-07-03 #5j3wFmSAO $en +1
 
 nıamoa @Laqme 2024-04-26 #RR0y67dtS $en ±
 ▯ is an underdot.
+
+nıamoa @Dembim 2026-03-24 #JuzIStJn9 $en ±
+▯ is a minimum (i.e. of a function)
 
 nıamoacıa @Laqme 2024-04-26 #PprNlWlsV $en ±
 ▯ is written without underdots, following the Prefix Reform.
