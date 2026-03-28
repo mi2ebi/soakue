@@ -578,7 +578,7 @@ Ajıchedam @jiqci 2024-04-06 #sPQ0r3W8- $en ±
 ajıhaq @jiqci 2023-04-22 #kP6m3HHXv $en ±
 ▯ is an arrow.
 
-ajıkea @robintown 2022-08-20 #KZkYwYR5T $en ±
+ajıkea [(c) (d) máq I] @robintown 2022-08-20 #KZkYwYR5T $en ±
 ▯ is a crossbow.
 
 ajınhoq @kazoo 2025-03-10 #MUv63LfN3 $en ±
@@ -987,7 +987,7 @@ predicate: ‘break.up’; ▯ breaks up with ▯
 anogaq @salarua 2023-01-11 #y9IiT_11k $en ±
 predicate: ‘romantic.partner’; ▯ is a romantic partner of ▯
 
-anoke @jiqci 2023-05-23 #YdQrTdKEE $en ±
+anoke [(c) (d) máq I] @jiqci 2023-05-23 #YdQrTdKEE $en ±
 ▯ is a nuclear bomb / nuke.
   jiqci (2023-05-23): **atompoaq** + **notuqkea**
 
@@ -1688,7 +1688,7 @@ asaı @Machy 2022-10-15 #-bvqHnEeC $en +3
 asaıdashı @robintown 2022-10-16 #p68CRe26j $en ±
 ▯ is mud.
 
-asaımeaı @mimiaoganhaqpy 2023-02-06 #zRLRB9WrB $en ±
+asaımeaı [(c) (d) máq I] @mimiaoganhaqpy 2023-02-06 #zRLRB9WrB $en ±
 predicate: ‘Saturn’; ▯ is the planet Saturn.
   mimiaoganhaqpy (2024-05-10): Etymology: Calque of Chinese “土星”
 
@@ -2800,7 +2800,7 @@ beaızurunhoq @Ilmen 2024-07-09 #VUiXHySHJ $en ±
 beaızurunhoqdunashuacaram @Ilmen 2024-07-09 #e7S1FdOYf $en ±
 ▯ is a shell ammunition stuck in power line ▯.
 
-beajıoqkea @Ilmen 2020-03-06 #f2KUNXbzc $en +1 %artifact,machine
+beajıoqkea [(c) (d) máq I] @Ilmen 2020-03-06 #f2KUNXbzc $en +1 %artifact,machine
 ▯ is a laptop (foldable computer).
 
 beakuoq @jiqci 2023-03-13 #I3m4jI6YG $en +1
@@ -2829,6 +2829,7 @@ beapueqhe @Ilmen 2019-04-13 #25083hW7q $en ± %biology
 
 beaq [(c) (d) máq I] @official 2026-02-16 #OtsEBKI0T5Q $en ±
 predicate: ‘stick’; ▯ is a stick/pole.
+  lassc (2026-03-27): keywords: bar, beam, post, rod, shaft, spoke, twig
 
 beaq @Laqme 2021-10-05 #EtIhuhDFV $ja ±
 ▯は竿／棒
@@ -4215,7 +4216,7 @@ bıosazu [(c) (d) hóq F] @Laqme 2021-11-08 #Di1yYqlBw $en ±
   Amo (2021-11-13): But Viossa is not a conlang...
   uakci (2021-11-14): yes it is – an intentional, effort-driven project. compare to something like Nicaraguan Sign Language, which was neither “intentional” or made for the fun of it (but out of pure necessity)
 
-bıosıqkea @Laqme 2024-07-12 #ZpumHyLdP $en ±
+bıosıqkea [(c) (d) máq I] @Laqme 2024-07-12 #ZpumHyLdP $en ±
 ▯ is a dishwasher.
 
 bıota [(c) (d) hó I] @kazoo 2026-03-14 #KXmxILW-R $en ±
@@ -5194,7 +5195,7 @@ borego [(c) (d) máq I] @Dembim 2026-02-13 #DliGkMZc3 $en ±
   Dembim (2026-02-13): Distribution: d
   Dembim (2026-02-13): Etymology: <@official bore> + <@Dembim - go>
 
-borekea @Snow 2024-09-25 #ufsRu3TnC $en ±
+borekea [(c) (d) máq I] @Snow 2024-09-25 #ufsRu3TnC $en ±
 ▯ is a press (such as a hydraulic press).
 
 borela @Ilmen 2025-10-30 #Zc5JJDiL2 $en ±
@@ -6087,7 +6088,7 @@ buınua @Laqme 2023-11-14 #kPkU_EkCH $en +2
 ▯ takes out of ▯, ▯.
   Laqme (2023-11-14): extracts, pulls out of
 
-buıpıanete @mimiaoganhaqpy 2023-04-06 #oxmj55lWl $en ±
+buıpıanete [(c) (d) máq I] @mimiaoganhaqpy 2023-04-06 #oxmj55lWl $en ±
 ▯ is an exoplanet.
 
 buıpoha @Laqme 2025-02-14 #cE1dcZmzu $en ±
@@ -7620,7 +7621,7 @@ ceaılıuqme @seaqtaq 2025-05-12 #CA_Cpum4G $en ±
 ceaıruaq @fagri 2023-06-12 #PICPPsdXI $en ±
 ▯ complains
 
-ceakea @uakci 2022-05-25 #22N87P9hQ $en ±
+ceakea [(c) (d) máq I] @uakci 2022-05-25 #22N87P9hQ $en ±
 ▯ is a pocket device (calculator, smartphone, etc.).
 
 cealaısaı @Laqme 2025-03-28 #KR6t1DTOj $en ±
@@ -7889,7 +7890,7 @@ ceoq @uakci 2021-11-07 #AavH0k65H $en +1
 ceoqbeoce @TheAndSys 2023-07-01 #XqBJpWcLU $en +1
 ▯ is a substation
 
-ceoqbeokea @jiqci 2023-09-23 #kPehZzZIL $en ±
+ceoqbeokea [(c) (d) máq I] @jiqci 2023-09-23 #kPehZzZIL $en ±
 ▯ is a power transformer.
 
 ceoqce @fagri 2021-08-13 #BrGoFmi4I $en ±
@@ -8437,7 +8438,7 @@ cıkımoe @Laqme 2025-02-13 #JHTdE0Lcu $en +1
 cıkınam @Laqme 2024-10-11 #DfU781nTq $en ±
 ▯ is toast.
 
-cıkınamkea @jiqci 2025-01-29 #okmWWK-N_ $en ±
+cıkınamkea [(c) (d) máq I] @jiqci 2025-01-29 #okmWWK-N_ $en ±
 ▯ is a toaster.
 
 cıko [(c c) (d d) tá F] @official 2026-02-16 #NlLqe_06f $en ± %⚠,ordinality
@@ -8556,7 +8557,7 @@ cıqpeqjı @Ilmen 2018-10-09 #PBu5gWdO2 $en ± %lifeform,animal,vertebrate,mamma
 cırı @Ilmen 2023-01-13 #jkivghn6O $en +1 %artifact
 ▯ is a chain.
 
-cırıtoekea @jiqci 2025-03-16 #0-LWsx4qy $en ±
+cırıtoekea [(c) (d) máq I] @jiqci 2025-03-16 #0-LWsx4qy $en ±
 ▯ is a chainsaw.
 
 cıseı @Machy 2022-02-07 #ta3jzhjwK $en ±
@@ -9322,7 +9323,7 @@ cuaqfıeq @uakci 2021-09-04 #9-zUr4nIo $en -1
 cuaqke @uakci 2021-09-04 #e443Y_2st $en ±
 ▯ is a specific/contextual instantiation/reification of concept ▯.
 
-cụaqkeaı @seaqtaq 2025-05-20 #FHCAMnF4c $en +1
+cụaqkeaı [(c c) (d d) hóq F] @seaqtaq 2025-05-20 #FHCAMnF4c $en +1
 ▯ is (one's) rights; ▯ is the ethereal mass / "amount" of one's rights
 
 cuaqko @uakci 2020-04-11 #DnNMGb7Xs $en ±
@@ -9381,7 +9382,7 @@ cuaqshuekueq @uakci 2021-09-04 #WgGaz6VTI $en ±
 cuaqshuekueqse @uakci 2021-09-04 #LJ-vz49Qn $en ±
 ▯ is a compositional derivation (such as a serial predicate).
 
-cụaqshuıkeaı @seaqtaq 2025-05-20 #NKWuxkyPB $en +2
+cụaqshuıkeaı [(c) (d) hóq F] @seaqtaq 2025-05-20 #NKWuxkyPB $en +2
 ▯ is (one's) privacy
   seaqtaq (2025-05-20): Not to be confused with **shuısıo**
 
@@ -10928,7 +10929,7 @@ chereu @robintown 2023-11-06 #pw74t4ixI $en ±
 chereuchuo @robintown 2023-11-07 #F3YrtJGls $en ±
 ▯ is a grater.
 
-chereukea @robintown 2023-11-07 #c3vEDpxeT $en ±
+chereukea [(c) (d) máq I] @robintown 2023-11-07 #c3vEDpxeT $en ±
 ▯ is a paper shredder.
 
 chetue @Laqme 2024-04-28 #_BwNcBCQ1 $en ±
@@ -12281,7 +12282,7 @@ choaıtuao @Xeizzen 2019-01-26 #E1rP0Pm5k $en ±
 choakao @Ilmen 2019-05-06 #2rhzvHKvU $en ±
 ▯ is a voice recording.
 
-choakea @lassc 2023-10-18 #xMSkxHRjd $en ±
+choakea [(c) (d) máq I] @lassc 2023-10-18 #xMSkxHRjd $en ±
 ▯ is a microphone.
   lassc (2023-10-18): i'm back :)
 
@@ -13981,7 +13982,7 @@ chuqchuo @Laqme 2019-01-26 #1RsbN0kRi $en +2
   uakci (2019-01-26): +1, although this obviously should’ve been #haqhuaichuo
   uakci (2021-11-07): silverware
 
-chuqchuosıqkea @Laqme 2019-11-12 #TcpY2fZF_ $en ±
+chuqchuosıqkea [(c) (d) máq I] @Laqme 2019-11-12 #TcpY2fZF_ $en ±
 ▯ is a dishwasher (appliance).
 
 chuqchuosıqtua @Laqme 2019-11-12 #QJL01kUm8 $en ±
@@ -14130,7 +14131,7 @@ churıoq @seaqtaq 2018-12-31 #SHDHqPJe8 $en ±
 churıqkea @Ilmen 2023-01-13 #5d7IWel50 $en ±
 ▯ is a Turing machine.
 
-churıqkeajeq @jiqci 2023-01-21 #gdamQOjs2 $en ±
+churıqkeajeq [(c) (d) tá F] @jiqci 2023-01-21 #gdamQOjs2 $en ±
 ▯ is Turing-complete.
 
 chusıbo @uakci 2023-11-03 #4QoriqO6n $en ±
@@ -14552,7 +14553,7 @@ daokaıchuo @Laqme 2019-02-03 #jcf4DWhEH $en ±
 daokaodaı @salarua 2022-10-27 #Q92MiZtRh $en ±
 ▯ is Caodaist (being a Caodaist, or relating to Caodaist or Caodaism)
 
-daokea @Machy 2021-11-18 #sSFwc0pnq $en ±
+daokea [(c) (d) máq I] @Machy 2021-11-18 #sSFwc0pnq $en ±
 ▯ is a computer.
 
 daokoaı @Ilmen 2020-02-06 #bJ2jD_6qy $en ±
@@ -14655,7 +14656,7 @@ daotıaı @salarua 2022-09-15 #ICro6bc66 $en ±
 daotıq @Laqme 2024-06-18 #YEt8S3K04 $en ±
 ▯ is a floppy disk / diskette.
 
-daotıqkea @Laqme 2024-06-18 #9MT-VNPta $en ±
+daotıqkea [(c) (d) máq I] @Laqme 2024-06-18 #9MT-VNPta $en ±
 ▯ is a floppy disk drive.
 
 daotıuq @jiqci 2023-11-26 #kIZXS7pnx $en ±
@@ -16831,7 +16832,7 @@ daı chôq sa ráı dóshı sa ráı kùı jêo dóshı dógu da
 doebo @Laqme 2025-02-28 #tDNcYpN4K $en +1
 ▯ has functionality for / supports ▯.
 
-doecakea @jiqci 2023-02-13 #VOQ59S2sk $en ±
+doecakea [(c) (d) máq I] @jiqci 2023-02-13 #VOQ59S2sk $en ±
 ▯ is an engine.
 
 doecaq @uakci 2018-12-28 #gi3rRGEDp $en ±
@@ -18061,7 +18062,7 @@ duıhıoq @seaqtaq 2019-01-24 #vNnUDkvX1 $en ±
 duıjuo @uakci 2022-06-24 #RuOkDXgo9 $en ±
 ▯ is spam.
 
-duıjuokea @funbreaker 2024-01-21 #5vp8lsQza $en ±
+duıjuokea [(c) (d) hóq I] @funbreaker 2024-01-21 #5vp8lsQza $en ±
 ▯ is a spam bot, ▯ is a program or account dedicated to posting spam
 
 duıkıaosıubıa @Hydro 2021-09-06 #xbvm3V-iU $en ±
@@ -18243,7 +18244,7 @@ duoısıa @Ilmen 2019-12-31 #ZQAhqqJyr $en ± %time
 duoıshe @uakci 2021-09-07 #msiqAtqMu $en ±
 ▯ is/(will be) the case if ▯ keeps being the case.
 
-duokea @Ilmen 2019-04-21 #k6bXXrW3_ $en ± %artifact,artifact_component
+duokea [(c) (d) máq I] @Ilmen 2019-04-21 #k6bXXrW3_ $en ± %artifact,artifact_component
 ▯ is a robot (broad sense, including robot arms and such).
 
 duokea @Ilmen 2019-04-22 #wDlRIwsS_ $en -1 %artifact,artifact_component
@@ -18286,7 +18287,7 @@ duoshaı @Laqme 2019-02-03 #iULuWK3kk $en ±
 duotaq @seaqtaq 2019-04-24 #LLOY2PECx $en ±
 ▯ vibrates
 
-duotaqkea @seaqtaq 2019-02-03 #-wnrmKN-P $en ±
+duotaqkea [(c) (d) máq I] @seaqtaq 2019-02-03 #-wnrmKN-P $en ±
 ▯ is a vibrator
   seaqtaq (2019-02-03): Specifically the sex toy
 
@@ -19573,7 +19574,7 @@ fajeq @Ilmen 2020-01-24 #dVrwFLbsd $toa -1
 fajuı @fagri 2020-02-08 #N_7Xol0fi $en ±
 ▯ passes by ▯
 
-fakea @Ilmen 2019-04-22 #s8d50UYJG $en ± %artifact,machine
+fakea [(c) (d) máq I] @Ilmen 2019-04-22 #s8d50UYJG $en ± %artifact,machine
 ▯ is a robot (not necessarily humanoid).
 
 fakeru @seaqtaq 2025-03-22 #lFwfl2AP4 $en ±
@@ -20190,7 +20191,7 @@ predicate: ‘rice’; ▯ is rice.
 feaqboe @robintown 2024-09-20 #0BRuefFqs $en ±
 ▯ is rice paper / bánh tráng.
 
-feaqkea @Laqme 2023-10-31 #X3mlRjC3_ $en ±
+feaqkea [(c) (d) máq I] @Laqme 2023-10-31 #X3mlRjC3_ $en ±
 ▯ is a rice cooker.
 
 fease @uakci 2022-02-06 #x-kI60Fe- $en ±
@@ -20306,7 +20307,7 @@ tua unu ▯ ▯ zûam luaqmoe
 feımeo @fagri 2021-09-16 #3cpepoVXn $en ±
 ▯ sulks
 
-feınotuq @fagri 2021-11-11 #swLDOQFvY $en +1
+feınotuq [(c) (d) hó I] @fagri 2021-11-11 #swLDOQFvY $en +1
 ▯ loses their temper / blows their top / throws a fit
   fagri (2021-11-11): tags: tantrum
 
@@ -21403,7 +21404,7 @@ foto @jiqci 2023-07-31 #yY1OeQenwD $pl ± %artifact
 fotoche [(c) (d) hó A] @lassc 2022-12-03 #T9nCbijMt $en +1
 ▯ is a photographer.
 
-fotokea @Laqme 2025-04-04 #3OQd7je3B $en ±
+fotokea [(c) (d) máq I] @Laqme 2025-04-04 #3OQd7je3B $en ±
 ▯ is a photo camera.
 
 fotola @Laqme 2023-10-19 #MNPTBnt4N $en ±
@@ -21483,7 +21484,7 @@ fuaımuı @uakci 2024-08-19 #TBrFx0y6g $en ±
 ▯ is an assigned meaning of ▯ (e.g., as defined in a legal document, as found in a dictionary, as agreed upon verbally by a community).
   uakci (2024-08-19): **fuaı** mostly confers formality here; no actual committee is required
 
-fuakea @Laqme 2025-07-13 #ED-PUCTam $en ±
+fuakea [(c) (d) máq I] @Laqme 2025-07-13 #ED-PUCTam $en ±
 ▯ are "white goods" / is a non-portable domestic appliance.
   Laqme (2025-07-13): washers, dryers, ovens, fridges, etc.
 
@@ -21829,7 +21830,7 @@ fuofuaq @Laqme 2022-07-26 #nsXcBIVIN $en ±
 ▯ is a print / imprint.
   jiqci (2023-10-31): stamp
 
-fuofuaqkea @Laqme 2022-07-26 #62sh_9gcR $en ±
+fuofuaqkea [(c) (d) máq I] @Laqme 2022-07-26 #62sh_9gcR $en ±
 ▯ is a printer.
 
 fuofuı @Isi 2024-11-02 #D1OYtP5Mf $en +1
@@ -21928,7 +21929,7 @@ fuqsaı @el 2022-07-10 #R_7VAsD6e $tok ±
 fuqsaıchuo @robintown 2022-02-19 #ydFo1Dbv7 $en ±
 ▯ is a loom.
 
-fuqsıqkea @Laqme 2025-02-04 #U4GNL-atZ $en ±
+fuqsıqkea [(c) (d) máq I] @Laqme 2025-02-04 #U4GNL-atZ $en ±
 ▯ is a washing machine.
 
 fuqshuo @Laqme 2023-10-09 #g6yoxVChg $en +1
@@ -22168,7 +22169,7 @@ gaıkaruaq @fagri 2020-01-23 #F4JWxLkal $en ±
 gaıkea [(c 1x) (d d) máq I] @evie 2024-11-03 #PDnAuHk5F $en +1
 ▯ is a ▯ sensor/detector; ▯ senses/detects things that satisfy property ▯
 
-gaıkea @seaqtaq 2024-07-26 #Ht1xibM7h $en ±
+gaıkea [(c) (d) máq I] @seaqtaq 2024-07-26 #Ht1xibM7h $en ±
 ▯ is a sensor
 
 gaıkıu @niucuq 2019-02-15 #Otw_ELndk $en ±
@@ -22299,7 +22300,7 @@ gaızıa @Ilmen 2025-03-19 #21uItPm8v $en ±
 gaızıe @uakci 2020-01-23 #3ssKAnhpl $en ±
 Event ▯ references (for the jie perceiver) ▯; The sight of ▯ is associated with ▯.
 
-gaja @seaqtaq 2019-06-09 #R2exVNBOR $en +2
+gaja [(c) (d) máq I] @seaqtaq 2019-06-09 #R2exVNBOR $en +2
 ▯ is the planet earth
   jiqci (2026-02-06): headcanon etym: shortened from **guaq**+**jıaq**
 
@@ -23716,7 +23717,7 @@ gıakao @Laqme 2023-10-22 #eDlKyVQYr $en ±
 gıakaq @Ilmen 2018-10-08 #OqcwV2fBh $en ±
 ▯ is a strip (a visual pattern, not a tridimentional shape).
 
-gıakea @lassc 2025-03-17 #rSwyXyBXE $en ±
+gıakea [(c) (d) máq I] @lassc 2025-03-17 #rSwyXyBXE $en ±
 ▯ is a cassette player/personal stereo/walkman.
   lassc (2025-03-17): by analogy to/pun of **gıaqkea**
   lassc (2025-03-17): i guess in the same way as **gıaqkao** -> **gıakao**. heh thats funny
@@ -23779,7 +23780,7 @@ gıaocao @jiqci 2023-07-27 #Ov4D0a7LE $en +1
 gıaoguaq @Machy 2020-06-04 #mcJZuwWSm $en ±
 ▯ is a desert.
 
-gıaokea @evie 2025-05-20 #vhBYGwsIH $en ±
+gıaokea [(c) (d) máq I] @evie 2025-05-20 #vhBYGwsIH $en ±
 ▯ is a dryer
 
 gıaome @jiqci 2023-05-30 #gJIaXNlnU $en ±
@@ -23908,7 +23909,7 @@ gıaqkaıse @uakci 2018-09-22 #LTb5sfLid $en ±
 gıaqkao @Laqme 2023-10-22 #snrdbtnyM $en ±
 ▯ is a music record (CD, vinyl, cassette...).
 
-gıaqkea @fagri 2021-08-19 #gtWoLRFUU $en ±
+gıaqkea [(c) (d) máq I] @fagri 2021-08-19 #gtWoLRFUU $en ±
 ▯ is a music device of any kind, such as an mp3 player or a record player
 
 gıaqkoı @Laqme 2018-12-08 #DBagtGVoz $en ±
@@ -24096,7 +24097,7 @@ predicate: ‘armpit’; ▯ is an armpit.
 gıejeoq @jiqci 2023-07-31 #IQtPPc367e $pl ± %body_part
 ▯ to pacha.
 
-gıekea @Ilmen 2019-04-22 #m4V7J4xj_ $en ± %artifact,machine
+gıekea [(c) (d) máq I] @Ilmen 2019-04-22 #m4V7J4xj_ $en ± %artifact,machine
 ▯ is a robotic arm.
 
 gıela @Laqme 2023-08-31 #6A3IvyqT4 $en ±
@@ -25546,7 +25547,7 @@ gomı @Dembim 2026-02-08 #GmH9jtg3P $en ±
 interjection: lingering; more of this; like <aıka> signals that the speaker is moving on, <gomı> signals that they mean to stay on this point/activity a bit longer
   Dembim (2026-02-08): Etymology: imagined squishification of <gúom> <ní>
 
-gomjom @Laqme 2023-12-17 #hZtiLf6sj $en +3
+gomjom @Laqme 2023-12-17 #hZtiLf6sj $en +4
 ▯ is a gomjom (microscopic spirit that haunts people and makes them clumsy).
   Laqme (2023-12-17): "faltergeist"
 
@@ -25562,6 +25563,10 @@ volume unit: US legal cup (240 ml)
 
 gompıq @Laqme 2025-10-12 #aoabb3mKJ $en +1
 ▯ butt-dials / pocket-dials / accidentally pings ▯.
+
+gomsaı [(c) (d) máq I] @Dembim 2026-03-28 #Ck4lJfkPb $en ±
+▯ is the substance a <gomjom> puts in your morning mug of coffee to make you kick a door frame and drop it on the same toe.
+  Dembim (2026-03-28): etc.
 
 gomse @Laqme 2024-07-13 #E_yMsZUo3 $en ±
 ▯ is a mistake / error.
@@ -25892,7 +25897,7 @@ guaıjea [(c c) (d d) hó A] @Dembim 2026-03-22 #KIGsyEHGH $en ±
 predicate: 'hire'; ▯ hires ▯.
   Dembim (2026-03-22): discriminator: 2
 
-guaıjıoqkea @fagri 2021-08-11 #eQ4oXraNe $en ±
+guaıjıoqkea [(c) (d) máq I] @fagri 2021-08-11 #eQ4oXraNe $en ±
 ▯ is a work computer (a computer you do your work on)
 
 guaıjoaq @Laqme 2024-06-10 #qjVUn23SH $en ±
@@ -26192,7 +26197,7 @@ guaqjeoqdıu [(c) (d) hóq F] @nano 2023-03-27 #AaqVKoYfs $en ±
 guaqkıaq @seaqtaq 2019-11-11 #5E9fMhv4u $en ± %lifeform,plant
 ▯ is grass.
 
-guaqkıoqpıu @Ilmen 2019-02-10 #vkv2_6fx8 $en ±
+guaqkıoqpıu [(c) (d) máq I] @Ilmen 2019-02-10 #vkv2_6fx8 $en ±
 ▯ is the crust of a planet.
 
 guaqkıoqpıu @ijonetun 2023-01-06 #g_IFTrPzM $tok ±
@@ -26259,7 +26264,7 @@ guaqnueqreı @salarua 2023-12-18 #ojPCOULzH $en ±
 guaqnulı @uakci 2022-07-05 #NLo_6QUw5 $en ±
 ▯ is crude oil.
 
-guaqpıanete @robintown 2023-01-11 #AiL0ZTHJe $en ±
+guaqpıanete [(c) (d) máq I] @robintown 2023-01-11 #AiL0ZTHJe $en ±
 ▯ is a terrestrial planet.
 
 guaqpılaı @jiqci 2023-05-01 #ReQOiRMwI $en ±
@@ -26274,7 +26279,7 @@ guaqpuao @Ilmen 2018-09-26 #6neIK2s4f $en ± %landscape
 guaqrea @seaqtaq 2024-07-10 #qe7OtcKsj $en ±
 ▯ is a border between lands/territories ▯ (plural)
 
-guaqrem @Laqme 2023-02-11 #lxJiDpfyB $en +1
+guaqrem [(c) (d) máq I] @Laqme 2023-02-11 #lxJiDpfyB $en +1
 ▯ is a surface (of land / a planet).
 
 Guaqrıenaomı @jiqci 2023-07-26 #yxb5nJz6x $en ±
@@ -26661,7 +26666,7 @@ guıpuo @jiqci 2023-07-31 #AZcoyKpF8U $pl ± %food
 guıq @Laqme 2023-07-19 #JLVnx_qUO $en +2
 ▯ processes / handles / deals with ▯.
 
-guıqkea @Laqme 2023-07-19 #xnbmLZzTc $en +2
+guıqkea [(c) (d) máq I] @Laqme 2023-07-19 #xnbmLZzTc $en +2
 ▯ is a processor.
 
 guıqluoı @Laqme 2023-07-19 #KWEi-sa8z $en +1
@@ -27232,8 +27237,9 @@ guqkuatom @Snow 2023-05-22 #aXVOd-ExU $en ±
 ▯is a bottom quark.
 
 guqlaı @Dembim 2026-03-24 #2HcxqQP1D $en ±
-▯ is an underdot/dot-below
+▯ is a diacritic that goes underneath its host
   evie (2026-03-27): i'd rather this mean any diacritic that goes under something
+  Dembim (2026-03-27): Oh, agreed.
 
 guqlıo @Ilmen 2020-01-16 #STc9cffv5 $en ± %space,spatial_position
 ▯ is halfway between below and to the left direction of ▯.
@@ -28196,7 +28202,7 @@ haqjıe @TheAndSys 2023-06-15 #yICgomcji $en ±
 haqjıegıu @TheAndSys 2023-06-15 #sgsmI9P_C $en ±
 ▯ is soldering wire
 
-haqjueqkea @el 2022-07-31 #EK50A9Q0k $en ±
+haqjueqkea [(c) (d) máq I] @el 2022-07-31 #EK50A9Q0k $en ±
 ▯ is a blender / food processor
 
 haqjuq @uakci 2019-07-03 #K0fgwcHR1 $en ±
@@ -28494,7 +28500,7 @@ heaq @kazoo 2024-11-24 #nFspaGbkb $tr ±
 predicate: ‘carry’; ▯ carries/holds ▯.
   Laqme (2021-09-29): This is Lojban's "ralte". The focus is on "carrying the thing on your person / with you", whereas **hıe** is about hauling / transporting.
 
-heaqchoakea @lassc 2023-10-18 #EoD33t94o $en ±
+heaqchoakea [(c) (d) máq I] @lassc 2023-10-18 #EoD33t94o $en ±
 ▯ is a portable voice recorder/field recorder.
 
 heaqdo @Ilmen 2023-12-19 #PpebG25wm $en ± %action
@@ -28508,7 +28514,7 @@ heaqfa @seaqtaq 2019-01-06 #Pkv2PiGsS $en -1
 ▯ carries ▯ to ▯ from ▯
   seaqtaq (2019-01-06): from sample text
 
-heaqjıoqkea @Laqme 2024-04-26 #FQyzby5fA $en ±
+heaqjıoqkea [(c) (d) máq I] @Laqme 2024-04-26 #FQyzby5fA $en ±
 ▯ is a mobile device.
   Laqme (2024-04-26): i.e. a smartphone or tablet
 
@@ -29574,7 +29580,7 @@ hıaojoaısı @uakci 2022-07-18 #cd2UrJT48 $en ±
 hıaojuqcho @uakci 2019-05-06 #04AO0Mt1u $en ±
 ▯ is a masochist; ▯ is enjoys the hurt from ▯.
 
-hıaokea @uakci 2020-01-27 #cNNF_cM9G $en ±
+hıaokea [(c) (d) máq I] @uakci 2020-01-27 #cNNF_cM9G $en ±
 ▯ is a virus.
 
 hıaokuaı @Ilmen 2019-01-02 #7LhzYdB_Z $en ±
@@ -29841,7 +29847,7 @@ hıeqbıa @uakci 2020-02-08 #MwxSkkxdy $en ±
 hıeqbıu @Ilmen 2019-04-17 #i2WfShzpX $en ± %artifact,artifact_component
 ▯ is a cannon/barrel.
 
-hıeqbıukea @Ilmen 2019-04-17 #Kj3fXGrva $en ± %artifact,weapon
+hıeqbıukea [(c) (d) máq I] @Ilmen 2019-04-17 #Kj3fXGrva $en ± %artifact,weapon
 ▯ is a gun/rifle.
 
 hıeqboe @fagri 2021-11-06 #4ewymNmID $en ±
@@ -29921,7 +29927,7 @@ predicate: ‘javelin’; ▯ is a javelin
 hıereqkıu @Ilmen 2025-04-12 #lHIhzQTjo $en ±
 ▯ is human-portable.
 
-hıereqkıurıofaleoqkea @Ilmen 2025-04-12 #PZf_69UDj $en ±
+hıereqkıurıofaleoqkea [(c) (d) máq I] @Ilmen 2025-04-12 #PZf_69UDj $en ±
 ▯ is a MANPADS (man-portable air defense system).
 
 hıesıaıbıu @uakci 2020-03-07 #A6Wnl503U $en ±
@@ -29974,7 +29980,7 @@ Hıjasazu @eednb 2024-01-01 #npu2ET6qi $en ±
 hıjeo @uakci 2022-07-31 #6WtZgiVK6 $en ±
 ▯ satisfies the constraint predicate of the most recent **hı** in scope.
 
-hıkea @Laqme 2023-01-08 #elcUiBTlH $en +1
+hıkea [(c) (d) máq I] @Laqme 2023-01-08 #elcUiBTlH $en +1
 ▯ is a member of phylum Ikeazoa (stuffed animals from IKEA).
   Laqme (2023-01-08): from Proto-Indo-European *h₂īkʷea
 
@@ -30021,10 +30027,10 @@ hılo @Ilmen 2023-02-13 #-kQP27s8f $en ±
 hılofa @Ilmen 2023-02-13 #weKwFV3Mj $en ±
 ▯ moves using jet propulsion.
 
-hılofakea @Ilmen 2023-02-13 #In7jHWm19 $en ±
+hılofakea [(c) (d) máq I] @Ilmen 2023-02-13 #In7jHWm19 $en ±
 ▯ is a rocket engine, a jet engine.
 
-hılonotuqkea @Ilmen 2023-02-13 #jbRnwXfw2 $en ±
+hılonotuqkea [(c) (d) máq I] @Ilmen 2023-02-13 #jbRnwXfw2 $en ±
 ▯ is a rocket or missile.
 
 hıloruka @jiqci 2024-06-22 #MaiNNh-3g $en ±
@@ -30089,7 +30095,7 @@ hınoeq @el 2022-06-28 #AyILuRwBR $toa -1
 hınoke @Ilmen 2023-02-13 #lm7ha5zxV $en ±
 ▯ is a rocket or missile.
 
-hınokepuıcarakea @Ilmen 2023-02-13 #rLZZlLLw3 $en ±
+hınokepuıcarakea [(c) (d) máq I] @Ilmen 2023-02-13 #rLZZlLLw3 $en ±
 ▯ is a multiple rocket launcher.
 
 hınho @uakci 2021-11-10 #Zyll4gBtI $en -1
@@ -30770,7 +30776,7 @@ hoeıchuq @Laqme 2023-12-04 #fAzXpQdEd $en ±
 hoeıhaq @Laqme 2022-12-13 #7V-0XSOJN $en ±
 predicate: ‘breakfast’; ▯ is breakfast.
 
-Hoeınuım @jiqci 2024-10-14 #wgPr1jA_0 $en ±
+Hoeınuım [(c) (d) máq I] @jiqci 2024-10-14 #wgPr1jA_0 $en ±
 ▯ is the morning star (planet Venus as seen at dawn).
 
 hoeırıao @Laqme 2023-11-21 #BRXXHGlvD $en ±
@@ -30822,7 +30828,7 @@ hoelohareo @Machy 2022-01-26 #f5zGDXx03 $en ±
 hoeluı @Ilmen 2019-04-11 #-Tb43HkKW $en ±
 ▯ is a stellar remnant (white dwarf, neutron star, black hole…).
 
-hoeluo @robintown 2023-01-11 #XUBsbfsjE $en +1
+hoeluo [(c) (d) máq I] @robintown 2023-01-11 #XUBsbfsjE $en +1
 ▯ is a solar system / planetary system.
 
 hoemaı @uakci 2019-01-26 #dP-SF5C48 $toa -1
@@ -30853,7 +30859,7 @@ hoeneq @Laqme 2022-01-09 #_Fw-jTpCO $en +2
 hoenoaı @seaqtaq 2019-10-11 #L4Gb18U-a $en +1
 ▯ is sunscreen
 
-hoenotuq @seaqtaq 2024-11-29 #koB1SjeQn $en ±
+hoenotuq [(c) (d) máq I] @seaqtaq 2024-11-29 #koB1SjeQn $en ±
 ▯ goes supernova
 
 hoepaojıo [(c) (d) máq I] @seaqtaq 2020-05-01 #gIU-ZW7lf $en +1
@@ -31372,7 +31378,7 @@ huaısoı @jiqci 2023-05-01 #KK9hnldTp $en ±
 huaıtoe @Laqme 2023-11-06 #pfyodVBGt $en ±
 ▯ drills / bores hole ▯ into ▯.
 
-huakea @seaqtaq 2019-04-22 #JiNWJLZ3m $en ±
+huakea [(c) (d) máq I] @seaqtaq 2019-04-22 #JiNWJLZ3m $en ±
 ▯ is a prosthetic limb
 
 huakuaq @xorxes 2020-06-04 #WdpGtT2f3 $en ±
@@ -31896,7 +31902,7 @@ huınua @uakci 2018-10-19 #mUPTaGyy4 $en -1
 ▯ steals ▯ from ▯.
   mimiaoganhaqpy (2023-03-18): -1, argument order
 
-huınuatesıqkeahıesoımuoıshuoıchao @Ilmen 2022-05-17 #iURf0G_x7 $en ±
+huınuatesıqkeahıesoımuoıshuoıchao [(c c) (d d) máq I] @Ilmen 2022-05-17 #iURf0G_x7 $en ±
 ▯ is a combat helicopter carrying stolen washing machine ▯.
 
 huınue [(c c 1i) (d d d) hó A] @official 2026-02-16 #7cVEI4pAOaS $en ± %action,communication
@@ -32126,7 +32132,7 @@ huogaı @jiqci 2023-07-31 #d-AzjfRsgf $pl ±
 huogaı @robintown 2022-05-01 #oqc09mnjM $toa -1
 Gaı hũo ▯ ▯.
 
-huogaıkea @Laqme 2019-02-03 #gEXYdNf1T $en +1
+huogaıkea [(c) (d) máq I] @Laqme 2019-02-03 #gEXYdNf1T $en +1
 ▯ is a microphone.
 
 huoge @Ilmen 2020-03-10 #c5qqCO4e8 $en ±
@@ -32304,7 +32310,7 @@ huosıq @Laqme 2025-01-30 #drWWlPfRo $en ±
 huosıu @seaqtaq 2018-10-08 #n9LU1XoqG $en ±
 ▯ sounds like ▯
 
-huosoakea @Laqme 2020-03-02 #JehOzIi3x $en ±
+huosoakea [(c) (d) máq I] @Laqme 2020-03-02 #JehOzIi3x $en ±
 ▯ is a hearing aid.
 
 huosoeı @Laqme 2023-09-29 #bp3NrVdg7 $en ±
@@ -32685,8 +32691,14 @@ interjection: a slangy way of reacting when something bad happens. "bad!"
   kazoo (2025-04-17): from toki pona "ike" (bad)
   jiqci (2025-04-17): "yikes"
 
-ıkea @jiqci 2023-05-13 #cA96ygqQg $en ±
+ıkea [(c) (d) máq I] @Ilmen 2026-03-27 #hDVh6eqXT $en ±
+▯ requires assembly prior to usage; ▯ is produced/transported/sold/dealt with in parts and only put together at the destination.
+  Ilmen (2026-03-27): Originally by @jiqci.
+  Ilmen (2026-03-27): discriminator: 1
+
+ıkea @jiqci 2023-05-13 #cA96ygqQg $en -1
 ▯ requires assembly prior to usage, ▯ is produced/transported/sold/dealt with in parts and only put together at the destination.
+  Ilmen (2026-03-27): ⟪;⟫ should be used for separating two definitions for a same predicate.
 
 ıkı @uakci 2022-05-11 #vTXfTZJPm $en +1
 interjection: emotional/sensory overload/overwhelming; ‘eek’
@@ -33385,7 +33397,7 @@ predicate: ‘wind’; ▯ is a wind/breeze.
 ıruejake @robintown 2025-01-26 #lQ6Ao1va_ $en ±
 ▯ is a windbreaker.
 
-ıruekea @el 2022-07-31 #Cv9i_O9hp $en ±
+ıruekea [(c) (d) máq I] @el 2022-07-31 #Cv9i_O9hp $en ±
 ▯ is a fan
   Laqme (2022-07-31): the wind machine
 
@@ -33946,7 +33958,7 @@ jaobıumeaı @jiqci 2023-04-22 #jMAr1xeCc $en ±
 jaocachu @seaqtaq 2024-11-13 #4qTqUPfJu $en ±
 ▯ is artillery; ▯ is heavy, ranged weaponry
 
-jaocaqkea @Ilmen 2020-02-16 #MsOtofPA- $en ± %artifact,machine
+jaocaqkea [(c) (d) máq I] @Ilmen 2020-02-16 #MsOtofPA- $en ± %artifact,machine
 ▯ is a remote control.
 
 jaocaqrıochao @jiqci 2023-01-21 #vF6_AX4Xd $en ±
@@ -33990,7 +34002,7 @@ jaofoaq [(c) (d) hó I] @Dembim 2026-01-31 #mcDDOQPje $toa ±
   Dembim (2026-02-13): Subject: individual
   Dembim (2026-02-13): Distribution: d
 
-jaogaıkea @jiqci 2023-02-13 #fMMXCEPql $en ±
+jaogaıkea [(c) (d) máq I] @jiqci 2023-02-13 #fMMXCEPql $en ±
 ▯ is a radar.
 
 jaoheo @uakci 2020-04-05 #OA7z7xjE1 $en ±
@@ -34428,7 +34440,7 @@ jeakao @salarua 2021-10-08 #Ndsq-uqdg $en +1
 jeakao @Laqme 2024-09-18 #vO7tVOVqJ $en ±
 ▯ is a shopping list.
 
-jeakea @jiqci 2023-03-13 #jJApxl_D6 $en +1
+jeakea [(c) (d) máq I] @jiqci 2023-03-13 #jJApxl_D6 $en +1
 ▯ is a vending machine.
 
 jeakıu @uakci 2023-01-31 #2KPLLG8jV $en ±
@@ -35248,10 +35260,10 @@ jeqchoqjuao @uakci 2020-03-01 #8Ip-qy-wd $en ±
 jeqchoqjuaobo @mimiaoganhaqpy 2023-09-15 #lkLphLEW_ $en ±
 ▯ owns the copyright to ▯.
 
-jeqchoqkeaı @uakci 2020-03-01 #ld4KVgDiI $en ±
+jeqchoqkeaı [(c c) (d d) hó I] @uakci 2020-03-01 #ld4KVgDiI $en ±
 ▯ has the right to use owned content ▯.
 
-jeqchoqkeaıjuao @uakci 2020-03-01 #HDavzufQH $en ±
+jeqchoqkeaıjuao [(c) (d) hóq F] @uakci 2020-03-01 #HDavzufQH $en ±
 ▯ is an open licence (license).
 
 jeqchoqshe @uakci 2020-03-01 #9zp9H0-wn $en ±
@@ -36602,7 +36614,7 @@ jıoqjueq @uakci 2024-07-24 #aBSMfi3tL $en ±
 jıoqkea [(c) (d) máq I] @official 2026-02-16 #9GuMXvarazc $en ± %artifact,machine
 predicate: ‘computer’; ▯ is a computer.
 
-jıoqkea @uakci 2020-01-22 #cRQueOw-N $en ± %artifact,machine
+jıoqkea [(c) (d) máq I] @uakci 2020-01-22 #cRQueOw-N $en ± %artifact,machine
 ▯ is a computer.
   Ilmen (2025-10-31): officialized: yes
 
@@ -37277,7 +37289,7 @@ joaıhuaı @uakci 2024-05-05 #61rZ0YN0e $en ±
 joaıjıoq @uakci 2021-11-06 #KjFWy9m38 $en ±
 ▯ finds that ▯ is the answer to question property ▯ via reckoning/calculation; ▯ seeks the answer to a question (stated as a property), and finds ▯ to be it.
 
-joaıkea @evie 2024-07-06 #0szUoLWoo $en ±
+joaıkea [(c 1x) (d d) hóq F] @evie 2024-07-06 #0szUoLWoo $en ±
 ▯ is a search engine for finding ▯
 
 joaısı @uakci 2022-07-18 #Nha2gb5Xb $en ±
@@ -37411,7 +37423,7 @@ joejıse @Laqme 2023-12-18 #u1M6cxVLX $en ±
 joekao @Laqme 2024-06-27 #JjAQQC7V3 $en ±
 ▯ is a résumé / resume / cv / curriculum vitae / (document outlining one's skills).
 
-joekea @fagri 2021-07-27 #tnQVWUPg3 $en ±
+joekea [(c) (d) máq I] @fagri 2021-07-27 #tnQVWUPg3 $en ±
 ▯ is a smart device
   salarua (2021-07-27): dang, this machine has skills
 
@@ -37671,6 +37683,10 @@ jomnıu [(c) (d) máq I] @Laqme 2025-02-11 #j6dngql0g $en +1
 
 Jomnuım @jiqci 2024-01-28 #TSOwAtlZw $en ±
 ▯ is Algol / the Demon Star.
+
+jompıo @lassc 2026-03-28 #56OpsaOpI $en ±
+▯ are the set of minerals that were feared due to their toxicity (now known to refer to primarily arsenic).
+  lassc (2026-03-28): colloquial and relatively archaic, for scientific uses you are looking for **asenı**.
 
 jomuoı @fagri 2019-12-19 #D-8onRTfZ $en -1
 ▯ is a right angle
@@ -38066,7 +38082,7 @@ juamıu @Ilmen 2019-06-09 #Vd5qiPRXM $en ± %cognition
 juamjeoq @robintown 2025-04-01 #zsm4V6wIa $en ±
 ▯ is a frying pan / skillet.
 
-juamkea @robintown 2025-04-01 #9MdW9z1_8 $en ±
+juamkea [(c) (d) máq I] @robintown 2025-04-01 #9MdW9z1_8 $en ±
 ▯ is a fryer.
 
 juamloeq @robintown 2025-04-01 #Mq3UXk3qE $en ±
@@ -39112,7 +39128,7 @@ juqdıeq @TheAndSys 2023-10-26 #cV09ACrNd $en ±
 ▯ receives ▯
   TheAndSys (2023-10-26): Specifically something that was sent, not given
 
-juqdıeqkea @seaqtaq 2024-07-20 #4qPJ6dJrQ $en ±
+juqdıeqkea [(c) (d) máq I] @seaqtaq 2024-07-20 #4qPJ6dJrQ $en ±
 ▯ is a transceiver
 
 juqfa @uakci 2021-10-28 #z2WCVmhA9 $en ±
@@ -39207,7 +39223,7 @@ State of affairs ▯ impacts ▯ equally
 juqjoaı @uakci 2021-08-31 #XbUICEwAM $en +1
 ▯ is on the lookout for ▯ (property); ▯ pays heed just in case anything happens to satisfy property ▯, but doesn't seek such actively.
 
-juqkea @uakci 2019-01-01 #uTf5cIR2g $en ±
+juqkea [(c) (d) máq I] @uakci 2019-01-01 #uTf5cIR2g $en ±
 ▯ is a client machine.
 
 juqkıu @salarua 2023-01-31 #SsPzgfv7F $en ±
@@ -39441,7 +39457,7 @@ kafefaseo @Laqme 2024-06-05 #Et3aM1G0n $en ±
 kafehıaq @Laqme 2024-06-05 #ieWGjLyKe $en ±
 ▯ "hasn't had their coffee" / isn't caffeinated enough to function.
 
-kafekea @Laqme 2025-08-11 #qbOrlsL18 $en ±
+kafekea [(c) (d) máq I] @Laqme 2025-08-11 #qbOrlsL18 $en ±
 ▯ is a coffee maker.
 
 kafepeq @Laqme 2024-06-05 #nooSTtezN $en ±
@@ -39653,13 +39669,13 @@ predicato: ’lápiz’; ▯ es un lápiz
 kaıkea [(c) (d) máq I] @official 2026-02-16 #YrbRswHZ_EV $en ± %artifact,machine
 predicate: ‘typewriter’; ▯ is a typewriter.
 
-kaıkea @el 2022-09-21 #mKZ7lZM82 $en ± %artifact,machine
+kaıkea [(c) (d) máq I] @el 2022-09-21 #mKZ7lZM82 $en ± %artifact,machine
 ▯ is a keyboard / typewriter / text entry machine of some sort
 
 kaıkea @jiqci 2023-07-31 #AeW8MXMM8T $pl ± %artifact,machine
 ▯ to maszyna do pisania.
 
-kaıkeatoaı @el 2022-09-21 #GKVcK6W2N $en ±
+kaıkeatoaı [(c) (d) máq I] @el 2022-09-21 #GKVcK6W2N $en ±
 ▯ is a key (on a keyboard)
 
 kaıkeoı @Laqme 2024-01-02 #Hi8DIfT13 $en ±
@@ -39805,7 +39821,7 @@ kaıtoaq @Ilmen 2019-08-29 #grsttkVrn $en ± %linguistics
 kaıtoq @seaqtaq 2018-12-17 #Ip5fZrxz2 $en ±
 ▯ is a whiteboard/blackboard
 
-kaıtoqkea @jiqci 2023-09-09 #ViKrECsmW $en ±
+kaıtoqkea [(c) (d) máq I] @jiqci 2023-09-09 #ViKrECsmW $en ±
 ▯ is a graphics tablet.
 
 kaızeq @Machy 2022-06-25 #zeH6vJiHx $en ±
@@ -40437,7 +40453,7 @@ kaqgaı @Ilmen 2020-02-10 #WiM6Mi3YI $toa -1
 kaqgaı @robintown 2022-05-01 #kvsSNCY_r $toa -1
 Gaı kãq ▯ ▯.
 
-kaqgaıkea @Ilmen 2020-03-06 #0LZVxZOVn $en +1 %artifact,machine
+kaqgaıkea [(c) (d) máq I] @Ilmen 2020-03-06 #0LZVxZOVn $en +1 %artifact,machine
 ▯ is a film camera.
 
 kaqgaıkıu @xorxes 2020-06-05 #u-b1vEXnS $en ±
@@ -40781,7 +40797,7 @@ kaqzıa @uakci 2023-02-20 #NnggzjzAs $en ±
 kaqzıam @Laqme 2023-11-09 #u-vucRtOQ $en ±
 ▯ clashes visually / looks bad together with ▯.
 
-kara'okekea @Iako 2025-05-11 #ULpzt4e9V $en ±
+kara'okekea [(c) (d) máq I] @Iako 2025-05-11 #ULpzt4e9V $en ±
 ▯ is a karaoke machine.
 
 Karakalapakagua @jiqci 2024-12-05 #_vqd7K7iB $en ±
@@ -41051,7 +41067,7 @@ prefix: quasi-X, pesudo-X, virtually X, something that is as if it were X but is
 kea- @kazoo 2024-12-05 #UonbhyjNz $tr ±
 ön ek: sözde X, sahte X, neredeyse X, X gibi görünen ama aslında gerçekten X olmayan bir şey
 
-kea @robintown 2024-06-13 #ZRauG-hId $en +3 %artifact,machine
+kea [(c) (d) máq I] @robintown 2024-06-13 #ZRauG-hId $en +3 %artifact,machine
 ▯ is a machine/apparatus.
 
 kea [(c 1i) (d d) máq I] @official 2026-02-16 #JEpq-gfZI_N $en ± %artifact,machine
@@ -41072,28 +41088,28 @@ sa ráı pa lu baı hóa dóshı kùı shâo hóa chûo dóshı dógu da
 keabaı @evie 2025-09-24 #pVjXvOsYF $en ±
 ▯ automates satisfying property ▯
 
-keacaq @Ilmen 2020-02-26 #JC-_DjIto $en ± %action
+keacaq [(c c) (d d) hó A] @Ilmen 2020-02-26 #JC-_DjIto $en ± %action
 ▯ operates/drives/runs machine ▯.
 
-keacaqrom @jiqci 2024-01-11 #zP-i3_-zI $en ±
+keacaqrom [(c) (d) máq I] @jiqci 2024-01-11 #zP-i3_-zI $en ±
 ▯ is a device driver.
 
-keachuo @jiqci 2024-11-28 #5tnVQWw94 $en ±
+keachuo [(c) (d) máq I] @jiqci 2024-11-28 #5tnVQWw94 $en ±
 ▯ is a power tool.
 
 keadıu [(c) (d) hóq F] @Ilmen 2025-05-07 #FSY8W3vcR $en +1
 ▯ is mechanics, technology, the science of design and construction of machines.
 
-keafuaq @seaqtaq 2018-12-31 #_4TEyOsYw $en ±
+keafuaq [(c) (d) hóq F] @seaqtaq 2018-12-31 #_4TEyOsYw $en ±
 ▯ is a screenshot
 
-keafuaqtao @seaqtaq 2018-12-31 #ghGZtcXP6 $en ±
+keafuaqtao [(c) (d) hó A] @seaqtaq 2018-12-31 #ghGZtcXP6 $en ±
 ▯ takes a screenshot
 
-keafuq @Ilmen 2019-09-17 #zf66ntcCGmv $en ± %artifact,machine
+keafuq [(c) (d) máq I] @Ilmen 2019-09-17 #zf66ntcCGmv $en ± %artifact,machine
 ▯ is a mechanical exoskeleton.
 
-keagaı @salarua 2022-12-05 #ndVlzXhHG $en +1
+keagaı [(c 0) (d d) hó I] @salarua 2022-12-05 #ndVlzXhHG $en +1
 ▯ perceives that ▯ is the case through machine empathy
 
 keaı [(c 1i) (d d) tá I] @official 2026-02-16 #bC8Lx2vq5Nh $en ±
@@ -41105,78 +41121,78 @@ keaı @jiqci 2023-07-31 #kmXx8GlSum $pl ±
 keaı @kazoo 2025-03-22 #VD2mNSokn $tr ±
 ▯, ▯ niteliğini tamamlamaya hakkı var.
 
-keaıcoı @uakci 2021-11-06 #vNumP6cFQ $en ±
+keaıcoı [(c 1i) (d d) hó F] @uakci 2021-11-06 #vNumP6cFQ $en ±
 ▯ has universal right ▯.
 
-keaıcoıha @uakci 2021-11-06 #bzvyTzM5z $en ±
+keaıcoıha [(c) (d) hóq F] @uakci 2021-11-06 #bzvyTzM5z $en ±
 ▯ (property) is a universal human right.
 
-keaıcoıse @uakci 2021-11-06 #7Ci7Kzg6L $en ±
+keaıcoıse [(c) (d) hóq F] @uakci 2021-11-06 #7Ci7Kzg6L $en ±
 ▯ is a property that is everybody’s right.
 
-keaıjıe @uakci 2020-04-05 #gNznGn_gA $en ±
+keaıjıe [(c 1i) (d d) hó I] @uakci 2020-04-05 #gNznGn_gA $en ±
 ▯ feels entitled to satisfy property ▯.
 
-keaıjuao @uakci 2021-08-17 #6PabxgMEa $en ±
+keaıjuao [(c 1x) (d d) hóq F] @uakci 2021-08-17 #6PabxgMEa $en ±
 ▯ is law giving one the freedom/entitlement to satisfy property ▯.
 
-keaıkao @Laqme 2024-06-27 #BhBRm36Vz $en ±
+keaıkao [(c 1x) (d d) máq I] @Laqme 2024-06-27 #BhBRm36Vz $en ±
 ▯ is a permit/license to satisfy property ▯.
 
-keaılaı @uakci 2021-09-04 #x6FvZvmth $en ±
+keaılaı [(c 1x) (d d) máq I] @uakci 2021-09-04 #x6FvZvmth $en ±
 ▯ is a ticket/passport/credential/pass entitling one to satisfying property ▯.
   jiqci (2023-04-20): licence/license, permit, warrant
 
-keaıleı @uakci 2022-02-25 #7n8DJmZ12 $en ±
+keaıleı [(c 1x) (d d) hó I] @uakci 2022-02-25 #7n8DJmZ12 $en ±
 ▯ is privileged in / has the privilege of satisfying property ▯.
 
-keaıpeq @Laqme 2024-01-12 #1Ee-AH_kv $en ±
+keaıpeq [(c) (d) máq I] @Laqme 2024-01-12 #1Ee-AH_kv $en ±
 ▯ is a ticket/pass.
 
 keaıshıu @Laqme 2025-08-05 #R88Sk4EuA $en ±
 ▯ has right of way over ▯.
 
-keajuao @seaqtaq 2018-12-30 #sJIjtk_NX $en ±
+keajuao [(c c) (d d) hóq F] @seaqtaq 2018-12-30 #sJIjtk_NX $en ±
 (fork of #AMo6X-SN1) ▯ are the settings concerning ▯
 
 keajuao @uakci 2022-02-27 #7_1ZbUcHP $en ±
 ▯ is a machine instruction; ▯ (plural) are machine code.
 
-keajuaobaı @uakci 2022-02-27 #BKvUqHU_k $en ±
+keajuaobaı [(c c) (d d) máq I] @uakci 2022-02-27 #BKvUqHU_k $en ±
 ▯ compiles code ▯ into machine code.
 
-keakaı @Ilmen 2019-05-01 #y3caTUxQf $en ±
+keakaı [(c c c) (d d d) hó A] @Ilmen 2019-05-01 #y3caTUxQf $en ±
 ▯ types text ▯ on machine ▯.
 
 keakaı @Laqme 2025-03-14 #-dBMpgyeD $en ±
 ▯ types ▯.
 
-keakaıteı @mimiaoganhaqpy 2022-11-17 #IBo5uN9hH $en ±
+keakaıteı [(c) (d) hóq F] @mimiaoganhaqpy 2022-11-17 #IBo5uN9hH $en ±
 ▯ is a keyboard layout.
   mimiaoganhaqpy (2022-11-17): **keakaı** + **tıteı**
 
-keakıaıche @seaqtaq 2024-07-02 #Bjoi0lQPz $en ±
+keakıaıche [(c) (d) hó I] @seaqtaq 2024-07-02 #Bjoi0lQPz $en ±
 ▯ is a mechanic
 
-keakoaı @Ilmen 2020-02-06 #l7ReYZNkg $en ±
+keakoaı [(c) (d) máq I] @Ilmen 2020-02-06 #l7ReYZNkg $en ±
 ▯ is a network connecting multiple computers or other devices.
 
-keakue @akesi 2020-04-30 #TLFyQjbo9 $en ±
+keakue [(c) (d) hóq I] @akesi 2020-04-30 #TLFyQjbo9 $en ±
 ▯ is a webpage
 
-keakuq @fagri 2019-01-15 #sNluHlcOu $en ±
+keakuq [(c c c) (d d d) hó A] @fagri 2019-01-15 #sNluHlcOu $en ±
 ▯ texts ▯ (quote) to ▯
 
 keam- @seaqtaq 2024-10-23 #GGWzra5qc $en ±
 prefix: X→X and all that X entails; Brings forth salient 
 or contextual significance or connotation of a word
 
-keam @seaqtaq 2024-08-07 #DkbmzEL7t $en ±
+keam [(c) (d) tá F] @seaqtaq 2024-08-07 #DkbmzEL7t $en ±
 predicatizer:▯is X and all that X entails; Brings forth salient 
 or contextual significance or connotation of a phrase
   seaqtaq (2024-08-07): Pretty much ithkuil's FUNCTIONAL Context
 
-keameaı @jiqci 2023-02-13 #i6WjB_Kn0 $en ±
+keameaı [(c) (d) máq I] @jiqci 2023-02-13 #i6WjB_Kn0 $en ±
 ▯ is an artificial satellite.
 
 keao- @evie 2025-08-11 #vKdi-rQAm $en ±
@@ -41188,10 +41204,10 @@ prefix: describes a pair of entities where one is X and one is un-X
 kéao @robintown 2024-08-21 #IeyfTtF1A $en +1
 focus particle: exactly, precisely
 
-keapoq @Laqme 2018-12-14 #8sujbYaeK $en +1
+keapoq [(c) (d) hó I] @Laqme 2018-12-14 #8sujbYaeK $en +1
 ▯ is a robot / android / artificial intelligence (sci-fi sense) / machine person.
 
-keapuao @kazoo 2024-12-05 #BravwOEhZ $tr +1
+keapuao [(c) (d) máq I] @kazoo 2024-12-05 #BravwOEhZ $tr +1
 ▯ is a nebula
   kazoo (2024-12-05): comes from kẹapuao (quasi-cloud), isnt related to the word kea
 
@@ -41210,17 +41226,17 @@ keaqbo @Laqme 2024-09-18 #i69w7Sz3y $en ±
 keaqcıa @Laqme 2024-09-18 #ywMzIg2Y3 $en ±
 ▯ is unsalted.
 
-keaqcuaı @uakci 2022-03-21 #Uyuc5ML5A $en ±
+keaqcuaı [(c) (d) máq I] @uakci 2022-03-21 #Uyuc5ML5A $en ±
 ▯ is marinated/treated with brine.
   uakci (2022-03-21): pickled
 
-keaqguaq @salarua 2024-09-26 #RaQnkKhKR $en ±
+keaqguaq [(c) (d) máq I] @salarua 2024-09-26 #RaQnkKhKR $en ±
 ▯ is a salt pan.
 
-keaqkushu @uakci 2022-03-21 #3O0AJCQbM $en ±
+keaqkushu [(c c) (d d) máq I] @uakci 2022-03-21 #3O0AJCQbM $en ±
 ▯ is brined cucumber; ▯ is a gherkin/pickle.
 
-keaqloeq [(c)  tá I] @uakci 2022-12-02 #tliqjJDSM $en ±
+keaqloeq [(c) (d) tá I] @uakci 2022-12-02 #tliqjJDSM $en ±
 ▯ is pickled/brined/marinated.
   Dembim (2026-02-12): Frame: c
   Dembim (2026-02-12): Pronominal_class: ta
@@ -41230,22 +41246,22 @@ keaqloeq [(c)  tá I] @uakci 2022-12-02 #tliqjJDSM $en ±
 keaqloha @Ilmen 2019-04-17 #aV1l79UFh $en -1
 ▯ is sodium.
 
-keaqsaı @seaqtaq 2019-02-03 #MpCWm9p7H $en ±
+keaqsaı [(c) (d) máq I] @seaqtaq 2019-02-03 #MpCWm9p7H $en ±
 ▯ is salt
 
-keaqsaıheq @seaqtaq 2019-02-03 #2mHgvxnNN $en ±
+keaqsaıheq [(c) (d) máq I] @seaqtaq 2019-02-03 #2mHgvxnNN $en ±
 ▯ is a salt shaker
 
-keaqtuanueq @brunofrancosalamin 2019-03-16 #qMpgdfm1l $en ±
+keaqtuanueq @brunofrancosalamin 2019-03-16 #qMpgdfm1l $en -1
 _ is a salami
 
-keaqze @salarua 2022-12-12 #YDo96nEDr $en ±
+keaqze [(c) (d) máq I] @salarua 2022-12-12 #YDo96nEDr $en ±
 predicate: ‘brine’; ▯ is brine
 
-keareq @Laqme 2024-06-13 #gkS-bySh7 $en ±
+keareq [(c) (d) hó I] @Laqme 2024-06-13 #gkS-bySh7 $en ±
 ▯ is a cyborg.
 
-kearoa @Laqme 2024-06-13 #yBbF5wo_P $en ±
+kearoa [(c) (d) hó I] @Laqme 2024-06-13 #yBbF5wo_P $en ±
 ▯ is a cyborg.
 
 kearom @lassc 2023-10-18 #ScMKxIgOb $en ±
@@ -41323,7 +41339,7 @@ keho'aı @seaqtaq 2024-08-11 #rGyca2CHE $en ±
 kehomeaı @seaqtaq 2024-07-09 #5Oopt9gsL $en ±
 ▯ is the celestial body Pluto
 
-kehoruaımeaı @mimiaoganhaqpy 2023-02-06 #uHRN0dN1M $en ±
+kehoruaımeaı [(c) (d) máq I] @mimiaoganhaqpy 2023-02-06 #uHRN0dN1M $en ±
 predicate: ‘Pluto’; ▯ is the planet Pluto.
   mimiaoganhaqpy (2024-05-10): Etymology: Calque of Chinese “冥王星”
 
@@ -41618,7 +41634,7 @@ keqjuo @Ilmen 2019-09-17 #ubjXm1xyWlt $en +2
 ▯ is a shitpost.
   uakci (2020-03-01): +1 sảı
 
-keqkea @Laqme 2022-07-02 #BBWJIQCl4 $en ±
+keqkea [(c) (d) máq I] @Laqme 2022-07-02 #BBWJIQCl4 $en ±
 ▯ is a shitter. (vulgar slang for toilet)
 
 keqkuaı @fagri 2021-08-19 #GxkVK-Sj6 $en ±
@@ -41915,7 +41931,7 @@ kıamıao @salarua 2021-09-16 #d5Dpiu5mH $en ±
 kıanaokusu @robintown 2021-10-19 #51kxvtEKF $en ±
 ▯ is a watermelon.
 
-Kıanete @jiqci 2024-01-14 #0A6VplStY $en +3
+Kıanete [(c) (d) máq I] @jiqci 2024-01-14 #0A6VplStY $en +3
 ▯ is the planet Mars.
 
 kıao [(c) (d) máq I] @official 2026-02-16 #bK5x9Cfh8pC $en ± %artifact
@@ -42687,11 +42703,11 @@ kıqjıpuo @Laqme 2024-09-19 #UgI7i4vFx $en ±
 kıqkao @nano 2024-10-10 #6puvL4_DE $en ±
 ▯ is a vlog.
 
-kıqkea @Ilmen 2020-03-06 #ijDz18r_a $en ± %artifact,machine
+kıqkea [(c) (d) máq I] @Ilmen 2020-03-06 #ijDz18r_a $en ± %artifact,machine
 ▯ is a video screen.
   Laqme (2024-09-18): monitor
 
-kıqkea @Laqme 2025-04-04 #UcyszbCiv $en ± %artifact,machine
+kıqkea [(c) (d) máq I] @Laqme 2025-04-04 #UcyszbCiv $en ± %artifact,machine
 ▯ is a film camera.
   Laqme (2025-04-04): oldofficial was so real for this one
 
@@ -43045,7 +43061,7 @@ koakafe @salarua 2022-08-31 #3xDi0JFhd $en ±
 koakea [(c) (d) máq I] @official 2026-02-16 #wH8310_UYAq $en ± %artifact,machine
 predicate: ‘refrigerator’; ▯ is a refrigerator.
 
-koakea @uakci 2022-07-31 #aM_uhZsQE $en ± %artifact,machine
+koakea [(c) (d) máq I] @uakci 2022-07-31 #aM_uhZsQE $en ± %artifact,machine
 ▯ is air conditioning.
 
 koakea @jiqci 2023-07-31 #t9tOwd9Hli $pl ± %artifact,machine
@@ -43054,7 +43070,7 @@ koakea @jiqci 2023-07-31 #t9tOwd9Hli $pl ± %artifact,machine
 koakoa @robintown 2023-10-17 #ZEsv9ozNU $en ±
 ▯ is freezing cold.
 
-koakuakea @el 2022-06-23 #wWxjVmX0S $en ±
+koakuakea [(c) (d) máq I] @el 2022-06-23 #wWxjVmX0S $en ±
 ▯ is an air conditioner
 
 koalıe @fagri 2021-08-02 #Zlyyao5bb $en ±
@@ -43161,7 +43177,7 @@ koaqpoq @ArdentIce 2025-11-29 #TlUXsJ_Bn $en ±
 koaqto @Laqme 2023-11-09 #a_l9l9Kgo $en ±
 ▯ is restricted/18+/adult-only.
 
-koarıokea @Ilmen 2022-07-31 #8A-_Co0jy $en ±
+koarıokea [(c) (d) máq I] @Ilmen 2022-07-31 #8A-_Co0jy $en ±
 ▯ is air conditioning.
 
 koarue @seaqtaq 2024-08-11 #fffe-8NN7 $en ±
@@ -44078,7 +44094,7 @@ kuaomıo @Ilmen 2019-12-23 #1adeeQXf1 $en ± %perception,color
 kuaomıo @Machy 2022-01-26 #5eQ4LT5Kl $en ± %perception,color
 ▯ is of the colour/color azure.
 
-Kuaonete @jiqci 2024-01-14 #nCBH7au-v $en +1
+Kuaonete [(c) (d) máq I] @jiqci 2024-01-14 #nCBH7au-v $en +1
 ▯ is the planet Uranus.
   salarua (2024-01-29): Caelus
 
@@ -44323,13 +44339,13 @@ kuejıo @jiqci 2023-07-31 #T1jPjEYl7S $pl ±
 predicate: ‘library’; ▯ is a library.
   robintown (2022-05-07): 'library building', as opposed to kủeshuo
 
-kuejıoqkea @Ilmen 2019-08-24 #-ylGL94KQ $en +1 %artifact,machine
+kuejıoqkea [(c) (d) máq I] @Ilmen 2019-08-24 #-ylGL94KQ $en +1 %artifact,machine
 ▯ is a laptop.
 
 kuekao @uakci 2021-09-20 #pU_7ZwGBU $en ±
 ▯ is a book/notebook/written record of ▯.
 
-kuekea @Laqme 2022-07-26 #8Fye73uy0 $en ±
+kuekea [(c) (d) máq I] @Laqme 2022-07-26 #8Fye73uy0 $en ±
 ▯ is a printing press.
 
 kuekue @robintown 2024-01-21 #-U_Nar9ck $en ±
@@ -45225,7 +45241,7 @@ kuqjeq @jiqci 2024-07-20 #jCrVSR74f $en ±
 ▯ besieges / beleaguers / lays siege to ▯.
   jiqci (2024-07-20): Sinitic loan from 攻城
 
-kuqjeqkea @jiqci 2024-12-15 #1m7mCPgeW $en ±
+kuqjeqkea [(c) (d) máq I] @jiqci 2024-12-15 #1m7mCPgeW $en ±
 ▯ is a siege engine.
 
 kuqjeqlea @jiqci 2024-07-20 #ISEmyd9uc $en ±
@@ -45690,7 +45706,7 @@ laıjuı @Laqme 2022-08-09 #aMVjWPVXr $en ±
 laıkaı @seaqtaq 2019-07-04 #j4HeYRcIt $en ±
 ▯ spells out ▯
 
-laıkoekea @seaqtaq 2019-06-14 #ruWVf-MH5 $en ±
+laıkoekea [(c) (d) máq I] @seaqtaq 2019-06-14 #ruWVf-MH5 $en ±
 ▯ is a keyboard 
   seaqtaq (2019-06-14): calque of lojban lercu'aca'a
 
@@ -46234,11 +46250,11 @@ laqkakıoq @Laqme 2023-10-06 #4OV66n4jz $en ±
 laqkao @Laqme 2024-05-10 #2cqd3SLch $en ±
 ▯ is an audio file / sound recording.
 
-laqkea @seaqtaq 2018-12-31 #XtB5hM_Vx $en +1
+laqkea [(c) (d) máq I] @seaqtaq 2018-12-31 #XtB5hM_Vx $en +1
 ▯ is a speaker
   Laqme (2022-02-13): (as in a device that produces sound)
 
-laqkeafuq @fagri 2019-01-05 #8Di3QfZu7 $en ±
+laqkeafuq [(c) (d) máq I] @fagri 2019-01-05 #8Di3QfZu7 $en ±
 ▯ is headphones or earbuds
 
 laqkıoq @fagri 2019-12-28 #8jkKWtVn3 $en +1
@@ -48268,7 +48284,7 @@ loaıjoe @Laqme 2024-12-20 #V1SjDMKd4 $en ±
 ▯ is fluent at satisfying property ▯.
   Laqme (2024-12-20): i.e. they can do it smoothly, without stops and starts or hesitation.
 
-loaıkea @Ilmen 2019-04-13 #jLNpPGpmO $en ±
+loaıkea [(c) (d) máq I] @Ilmen 2019-04-13 #jLNpPGpmO $en ±
 ▯ is a pump.
 
 loaılam @Laqme 2024-06-12 #tdrdBF94v $en ±
@@ -48548,7 +48564,7 @@ loem @Snow 2023-06-14 #xTE1C6Qvh $en ±
 loemajı @Vinterfred 2023-11-26 #VYhM2UQxB $en ±
 ▯ uses/performs pyromancy
 
-loemeaı @mimiaoganhaqpy 2023-02-06 #sqSs293o8 $en ±
+loemeaı [(c) (d) máq I] @mimiaoganhaqpy 2023-02-06 #sqSs293o8 $en ±
 predicate: ‘Mars’; ▯ is the planet Mars.
   mimiaoganhaqpy (2024-05-10): Etymology: Calque of Chinese “火星”
 
@@ -48748,7 +48764,7 @@ lohalajı @lassc 2025-03-23 #9SPugznKG $en ±
 lohame @jiqci 2023-01-03 #6xHGJPV61 $en ±
 ▯ is an alloy of metals ▯.
 
-lohameaı @mimiaoganhaqpy 2023-02-06 #otr1zxLDk $en ±
+lohameaı [(c) (d) máq I] @mimiaoganhaqpy 2023-02-06 #otr1zxLDk $en ±
 predicate: ‘Venus’; ▯ is the planet Venus.
   mimiaoganhaqpy (2024-05-10): Etymology: Calque of Chinese “金星”
 
@@ -48957,7 +48973,7 @@ loqcıa @el 2021-10-25 #OPnJOZOha $en ±
 loqcıu @uakci 2022-05-30 #1W2brdgsB $en ±
 ▯ sweats to lower body temperature.
 
-loqcheokea @jiqci 2023-02-13 #URXPfusEs $en ±
+loqcheokea [(c) (d) máq I] @jiqci 2023-02-13 #URXPfusEs $en ±
 ▯ is a heat exchanger.
 
 loqchıoq @salarua 2023-08-16 #GKT6xAjno $en ±
@@ -49511,7 +49527,7 @@ luaqjuao @Ilmen 2020-02-04 #Odj14b7Hn $en ± %game
 luaqkata @Ilmen 2020-02-03 #m72WWIV46 $en ± %artifact
 ▯ is a playing card.
 
-luaqkea @Laqme 2019-02-05 #yLmcTpu_e $en +2
+luaqkea [(c) (d) máq I] @Laqme 2019-02-05 #yLmcTpu_e $en +2
 ▯ is a video game console.
 
 luaqkım @uakci 2023-01-11 #K_787fFv0 $en ±
@@ -49777,7 +49793,7 @@ lueloqbıa @Ilmen 2021-10-28 #HlzrYbbM_ $en ±
 luemochelıao [(c) (d) máq I] @Snow 2024-10-06 #s9diVenUn $en ±
 ▯ is a common morel. ▯ is Morchella esculenta.
 
-Luenete @jiqci 2024-01-14 #aEHE29xDo $en +1
+Luenete [(c) (d) máq I] @jiqci 2024-01-14 #aEHE29xDo $en +1
 ▯ is the planet Jupiter.
 
 lueq [(c c 1i) (d d d) hó A] @official 2026-02-16 #7CdjIJFQeB $en ± %action
@@ -49809,7 +49825,7 @@ lueqduaı @seaqtaq 2020-03-09 #vL_APngLA $en ±
 lueqjuq @uakci 2019-01-01 #onbH7TjYV $en ±
 ▯ is a client; ▯ receives ▯’s service ▯.
 
-lueqkea @uakci 2019-01-01 #_VwEbGoaA $en ±
+lueqkea [(c) (d) máq I] @uakci 2019-01-01 #_VwEbGoaA $en ±
 ▯ is a server.
 
 lueqkoe @uakci 2023-12-28 #pxCeUJv4m $en ±
@@ -50145,7 +50161,7 @@ luoqhua @jiqci 2023-09-22 #oEyNCOv8g $en +1
 luoqhuofeqnhoq @jiqci 2025-08-29 #u678EqZ7_ $en ±
 ▯ is a vestibulocochlear nerve (CN VIII).
 
-luoqkea @seaqtaq 2019-06-10 #AGQFpKZbb $en ±
+luoqkea [(c) (d) máq I] @seaqtaq 2019-06-10 #AGQFpKZbb $en ±
 ▯ is a balance scale
 
 luoqko @seaqtaq 2024-11-27 #_qW_2J1Np $en ±
@@ -51444,7 +51460,7 @@ meaheo @Ilmen 2020-01-30 #C_OvmFaJ5 $toa -1
 meaheqcuaq @Ilmen 2025-10-02 #qkU6ANHUB $en ± %mathematics,sets
 ▯ is a mathematical set.
 
-meaı @uakci 2023-01-19 #k1Yp8CAPc $en +1
+meaı [(c) (d) máq I] @uakci 2023-01-19 #k1Yp8CAPc $en +1
 ▯ is a celestial object (star, planet, satellite, comet, etc.).
 
 meaı @SuperSpaceNiM 2024-08-16 #5kZv3Q1CA $ru ±
@@ -51467,7 +51483,7 @@ meaıdıuche [(c) (d) hó I] @Dembim 2026-01-18 #gZo7g1zVE $en ±
   Dembim (2026-02-12): Subject: individual
   Dembim (2026-02-12): Distribution: d
 
-meaıfıem @jiqci 2024-10-03 #dL08cU9TN $en ±
+meaıfıem [(c) (d) máq I] @jiqci 2024-10-03 #dL08cU9TN $en ±
 ▯ is a planetary ring system.
 
 meaıfıeqdıu [(c) (d) hóq I] @Ilmen 2026-03-07 #b2o0lwig6 $en ±
@@ -51608,7 +51624,7 @@ predicate: ‘harbour’; ▯ is a harbour/haven.
 meaqcoa @Laqme 2025-07-27 #pHwB6urVl $en ±
 ▯ is a pier/jetty.
 
-meaqchoaq @Laqme 2025-06-03 #cKOOW92zq $en ±
+meaqchoaq [(c) (d) hó I] @Laqme 2025-06-03 #cKOOW92zq $en ±
 ▯ is a passenger (of a ship/plane).
 
 meaqdeaq @jiqci 2023-12-10 #6GlcqJyDv $en ±
@@ -53118,7 +53134,7 @@ mıoloa @akesi 2020-06-06 #ctZcR959z $en ±
 mıoluereo [(c) (d) hóq F] @Ilmen 2020-01-31 #OYwjtaos3 $en ± %perception,color
 ▯ is the bluish yellow color (an "impossible color").
 
-Mıonete @jiqci 2024-01-14 #lmXcegFAM $en +1
+Mıonete [(c) (d) máq I] @jiqci 2024-01-14 #lmXcegFAM $en +1
 ▯ is the planet Neptune.
 
 mıonıoq @seaqtaq 2018-12-31 #s3Qh2MYDu $en ±
@@ -53695,7 +53711,7 @@ moaqke @robintown 2023-12-06 #ZnRq0XoBY $en ±
 ▯ is a keepsake/memento/souvenir/memorabilia.
   robintown (2023-12-06): **moaq** + 'ke' < **raıke**
 
-moaqkea @Ilmen 2021-10-07 #o4IguazJL $en ± %artifact
+moaqkea [(c) (d) máq I] @Ilmen 2021-10-07 #o4IguazJL $en ± %artifact
 ▯ is an electronic or mechanical data storage device.
 
 moaqmoı @Ilmen 2021-10-07 #dVCcs5S8d $en ±
@@ -53920,7 +53936,7 @@ moenoa @seaqtaq 2024-08-09 #EYWWnWLfO $en ±
 moenoı @uakci 2022-06-23 #EzTa_slNT $en ±
 ▯ suffers pain from their emotional state (e.g., a prickly feeling in the chest).
 
-moenotuq @fagri 2021-11-11 #6IbbM-LpM $en +1
+moenotuq [(c) (d) hó I] @fagri 2021-11-11 #6IbbM-LpM $en +1
 ▯ loses their cool / has a meltdown
 
 moenuoq @Machy 2022-05-15 #ib_mNVdkD $en +2
@@ -54448,7 +54464,7 @@ moku @uakci 2022-10-21 #qTj6XacN1 $en +2
 ▯ is dark (lacking in illumination).
   uakci (2022-10-21): < **moy** + **kuo**, as a replacement for **moy** (which is Vy)
 
-mokukaqkea @jiqci 2023-02-14 #uSM3CjNv3 $en ±
+mokukaqkea [(c) (d) máq I] @jiqci 2023-02-14 #uSM3CjNv3 $en ±
 ▯ is a night vision device.
 
 mokuq @uakci 2021-07-29 #XpDbyuo7K $en ±
@@ -54833,7 +54849,7 @@ predicate: ‘forest’; ▯ is a forest.
 muaome @jiqci 2023-07-31 #u9848Mvd5T $pl ± %landscape
 ▯ to las.
 
-muaomeaı @mimiaoganhaqpy 2023-02-06 #N0pmZOCu- $en ±
+muaomeaı [(c) (d) máq I] @mimiaoganhaqpy 2023-02-06 #N0pmZOCu- $en ±
 predicate: ‘Jupiter’; ▯ is the planet Jupiter.
   mimiaoganhaqpy (2024-05-10): Etymology: Calque of Chinese “木星”
 
@@ -55149,7 +55165,7 @@ It is reckoned/measured/reasoned that ▯ is true.
 mueq @uakci 2021-11-06 #BAbmf2x00 $toa ±
 ▯ bı, joı mîeq ra jıoq sa sa po bíy ky dûasha sa bíy
 
-mueqkea @uakci 2021-11-06 #kAw9A0ji9 $en ±
+mueqkea [(c) (d) máq I] @uakci 2021-11-06 #kAw9A0ji9 $en ±
 ▯ is a computer.
 
 muetao @lassc 2025-03-16 #mpBdYsQza $en ±
@@ -55468,7 +55484,7 @@ mukam @Laqme 2024-05-19 #7opsdNL6P $en ±
 ▯ is a spinning top.
   Laqme (2024-05-19): Etymology: a priori but related to **muoı**
 
-mukamkea @Ilmen 2025-01-16 #FEbIzfngQ $en ±
+mukamkea [(c) (d) máq I] @Ilmen 2025-01-16 #FEbIzfngQ $en ±
 ▯ is a gyroscope.
   Ilmen (2025-01-16): Etymology: ⟪mukam⟫ + ⟪kea⟫; calque of Mandarin ⟪陀螺儀⟫ ⟪tuóluóyí⟫.
 
@@ -55613,7 +55629,7 @@ muoıhaq @kazoo 2025-01-16 #n1mbuMLZ2 $en ±
 muoıhua @Ilmen 2020-03-07 #MBLAdZuMs $en ± %body_part
 ▯ is a neck (body part).
 
-muoıhuaıkea @jiqci 2024-11-28 #hFqYaWfoQ $en ±
+muoıhuaıkea [(c) (d) máq I] @jiqci 2024-11-28 #hFqYaWfoQ $en ±
 ▯ is a drill.
 
 muoıhupa @seaqtaq 2020-04-24 #Pfnb5tz0M $en ±
@@ -55625,7 +55641,7 @@ muoıhupachuo @seaqtaq 2020-04-24 #Z05klxu8W $en ±
 muoıjıaı @seaqtaq 2024-10-31 #x3SvYLiJK $en ±
 ▯ twines around ▯
 
-muoıkea @Ilmen 2025-01-16 #kuuRuYYHn $en ±
+muoıkea [(c) (d) máq I] @Ilmen 2025-01-16 #kuuRuYYHn $en ±
 ▯ is a gyroscope.
 
 muoıkıaoboq @jiqci 2023-06-17 #yCHgU5uqk $en ±
@@ -55972,7 +55988,7 @@ muqkaıdıu @seaqtaq 2025-05-06 #GNMKHe9Wu $en ±
 muqkaıse [(c) (d) máq I] @lassc 2022-12-02 #I3xO51Y4l $en +1
 ▯ is handwriting.
 
-muqkea @uakci 2022-05-19 #9YZQYubfn $en ±
+muqkea [(c) (d) máq I] @uakci 2022-05-19 #9YZQYubfn $en ±
 ▯ is a cell phone/smartphone/PDA; ▯ is a portable electronic utility device.
   uakci (2022-05-19): also works for smartwatches. clipping of **muqjıoqkea**, i assume
 
@@ -55996,7 +56012,7 @@ muqnıeq @Laqme 2023-12-17 #YDok-DUW7 $en ±
 muqnoke @jiqci 2025-01-24 #O0EijUwzn $en ±
 ▯ is a grenade (handheld explosive weapon).
 
-muqnotuqkea @Ilmen 2022-07-05 #yOz0aM2E6 $en ±
+muqnotuqkea [(c) (d) máq I] @Ilmen 2022-07-05 #yOz0aM2E6 $en ±
 ▯ is a grenade (handheld explosive weapon).
 
 muqnua @Laqme 2019-02-14 #9E-S-aFUI $en ±
@@ -56084,7 +56100,7 @@ muse @Ilmen 2020-03-03 #mJ1VkiDxt $en +1 %lifeform,animal,vertebrate,mammal
 muse @SuperSpaceNiM 2024-08-11 #Watmsa16c $ru ± %lifeform,animal,vertebrate,mammal
 ▯ — мышь.
 
-musekea @Ilmen 2019-05-31 #ffdUInqg9 $en ± %artifact
+musekea [(c) (d) máq I] @Ilmen 2019-05-31 #ffdUInqg9 $en ± %artifact
 ▯ is a computer mouse.
 
 musela @Ilmen 2018-10-19 #-Lm7uVwnd $en ±
@@ -56727,7 +56743,7 @@ naofurı @evie 2025-06-06 #NIGmsI-_c $en ±
 naogere @seaqtaq 2019-11-15 #l1IjHOV9N $en ±
 ▯ is a member of class Echinoidea; ▯ is a sea urchin/hedgehog
 
-naogıokea @salarua 2021-10-08 #tMNknv4eo $en ±
+naogıokea [(c) (d) máq I] @salarua 2021-10-08 #tMNknv4eo $en ±
 ▯ is a lava lamp
 
 naogoaq @seaqtaq 2019-06-04 #e-6sXzM8h $en ±
@@ -56839,7 +56855,7 @@ naoloha @seaqtaq 2019-01-30 #NajAhxv3n $en +2
 naoloqchuo @uakci 2018-11-03 #UsUNF3UXM $en ±
 ▯ is a kettle.
 
-naoloqkea @Laqme 2023-12-13 #-4DitR09R $en ±
+naoloqkea [(c) (d) máq I] @Laqme 2023-12-13 #-4DitR09R $en ±
 ▯ is a boiler.
 
 naomeaı @mimiaoganhaqpy 2023-02-06 #YOsAZmGND $en ±
@@ -56961,7 +56977,7 @@ naorogı @robintown 2023-11-20 #rcmQZdcCw $en ±
 naorosaı @robintown 2023-11-20 #wOyz_B7Bo $en ±
 ▯ is an addictive substance.
 
-naoruaımeaı @mimiaoganhaqpy 2023-02-06 #hkoDRcxSR $en ±
+naoruaımeaı [(c) (d) máq I] @mimiaoganhaqpy 2023-02-06 #hkoDRcxSR $en ±
 predicate: ‘Neptune’; ▯ is the planet Neptune.
   mimiaoganhaqpy (2024-05-10): Etymology: Partial calque of Chinese “海王星”
 
@@ -57245,7 +57261,7 @@ naraqlue @Machy 2022-01-26 #bEYYa6Oe8 $en ±
 naraqnaokusu @robintown 2021-10-19 #7dQX6WLKE $en ±
 ▯ is a cantaloupe.
 
-Naraqnete @jiqci 2024-01-14 #sSWwj6gPF $en +1
+Naraqnete [(c) (d) máq I] @jiqci 2024-01-14 #sSWwj6gPF $en +1
 ▯ is the planet Venus.
 
 naraqtıeq @Laqme 2024-12-20 #ChXk6EHDK $en ±
@@ -57928,14 +57944,14 @@ nese @uakci 2022-09-29 #0f2Rx_KfC $en ±
 nesıe @uakci 2018-11-29 #uOVjaiByx $en ±
 Sequence ▯ is sorted by property ▯; an element in sequence ▯ comes earlier if it scores higher on scale ▯.
 
-nete @jiqci 2023-05-14 #Cz4o5Tj_y $en ±
+nete [(c) (d) máq I] @jiqci 2023-05-14 #Cz4o5Tj_y $en ±
 ▯ is a planet.
   jiqci (2023-05-14): clipping of **pıanete**
 
-netedoaq @jiqci 2024-01-28 #BTBbwEbz0 $en ±
+netedoaq [(c) (d) máq I] @jiqci 2024-01-28 #BTBbwEbz0 $en ±
 ▯ is an ecumenopolis / planet-wide city.
 
-netepıu @jiqci 2023-06-12 #6_rpANx-u $en ±
+netepıu [(c) (d) máq I] @jiqci 2023-06-12 #6_rpANx-u $en ±
 ▯ is the crust of a planet.
 
 netı @Laqme 2024-09-21 #58H8hbQE1 $en +3
@@ -58601,7 +58617,7 @@ nıefana @seaqtaq 2024-11-20 #pDodBnQt2 $en ±
 nıefuq @fagri 2021-08-09 #KCySbg7ue $en +1
 ▯ is underwear
 
-nıegaıkea @Ilmen 2019-11-11 #8EtDmbJ9p $en ± %artifact
+nıegaıkea [(c) (d) máq I] @Ilmen 2019-11-11 #8EtDmbJ9p $en ± %artifact
 ▯ is an endoscope.
 
 nıegoa @fagri 2020-05-28 #Q-Xx4WUTf $en ±
@@ -59386,7 +59402,7 @@ nıqtoaq @uakci 2022-07-30 #4WT4sv00n $en +1
 nıqtua @Laqme 2023-01-25 #_IrgIfJwn $en ±
 ▯ updates / brings up-to-date ▯.
 
-nıqzıakea @robintown 2022-02-19 #udSESpZl2 $en ±
+nıqzıakea [(c) (d) máq I] @robintown 2022-02-19 #udSESpZl2 $en ±
 ▯ is a repeater.
 
 nırıaq @Ilmen 2020-02-05 #KCWpFwbLl $en ± %deixis
@@ -59862,7 +59878,7 @@ noaqfua @robintown 2021-10-25 #1F_BJJAUu $en ±
 noaqgaı @Laqme 2022-10-06 #PSRtZpFGW $en +1
 ▯ reads that ▯ is the case.
 
-noaqgıokea @salarua 2021-10-08 #9N-qF9lR1 $en ±
+noaqgıokea [(c) (d) máq I] @salarua 2021-10-08 #9N-qF9lR1 $en ±
 ▯ is a reading lamp
 
 noaqjıoqjuao @salarua 2022-10-05 #3J2YjQnsH $en ±
@@ -60080,7 +60096,7 @@ nojıaq @jiqci 2023-06-21 #0khHYlCWL $en ±
 ▯ is the universe in which literature/work/media ▯ is set.
   jiqci (2023-06-21): cinematic universe
 
-noke @jiqci 2025-01-22 #1ZJ8INLif $en ±
+noke [(c) (d) máq I] @jiqci 2025-01-22 #1ZJ8INLif $en ±
 ▯ is a bomb.
   jiqci (2025-01-22): shortened from **notuqkea**
 
@@ -60365,35 +60381,35 @@ notua @Laqme 2022-10-20 #mosz2U3_0 $en ±
 notuase @Laqme 2024-08-16 #dDBbsVWEe $en ±
 ▯ is a translation/adaptation.
 
-notuq @seaqtaq 2020-06-21 #pHqR95xI1 $en +2
+notuq [(c) (d) máq I] @seaqtaq 2020-06-21 #pHqR95xI1 $en +2
 ▯ explodes
   seaqtaq (2020-06-21): Borrowing from the vietnamese "nổ tung"
 
-notuqcıegıuqmuao @Ilmen 2024-09-15 #4ft0M_6oQ $en ±
+notuqcıegıuqmuao [(c) (d) máq I] @Ilmen 2024-09-15 #4ft0M_6oQ $en ±
 ▯ is an explosive fishhook tree, a rare and deadly kind of tree only found in Ukraine, with hidden fishhooks dangling at the tip of its branches, linked with fishing lines to the fuse of a grenade.
 
-notuqcıejıaıguemuao @Ilmen 2022-07-09 #07Us2UGy3 $en ±
+notuqcıejıaıguemuao [(c) (d) máq I] @Ilmen 2022-07-09 #07Us2UGy3 $en ±
 ▯ is an explosive fishhook tree, a rare and deadly kind of tree only found in Ukraine, with hidden fishhooks dangling at the tip of its branches, linked with fishing lines to the fuse of a grenade.
 
 notuqja @seaqtaq 2024-10-07 #iH2kNE2d0 $en ±
 ▯ blows up ▯
 
-notuqjeoq @Ilmen 2022-08-13 #1lYsluD8T $en ±
+notuqjeoq [(c) (d) máq I] @Ilmen 2022-08-13 #1lYsluD8T $en ±
 ▯ is a crater.
 
-notuqkea @robintown 2021-10-23 #dI8UXcFCO $en +1
+notuqkea [(c) (d) máq I] @robintown 2021-10-23 #dI8UXcFCO $en +1
 ▯ is a bomb.
 
 notuqmıe @kazoo 2025-10-20 #qPiTNjBEz $en ±
 ▯ is a creeper. (Minecraft)
 
-notuqpuo @robintown 2021-10-23 #EEaSm0hn2 $en ±
+notuqpuo [(c) (d) máq I] @robintown 2021-10-23 #EEaSm0hn2 $en ±
 ▯ is gunpowder.
 
-notuqsaı @robintown 2021-10-23 #Sojo-LENx $en ±
+notuqsaı [(c) (d) máq I] @robintown 2021-10-23 #Sojo-LENx $en ±
 ▯ is an explosive.
 
-notuqtoı @jiqci 2024-04-08 #BfArwlR-R $en ±
+notuqtoı [(c c) (d d) hó A] @jiqci 2024-04-08 #BfArwlR-R $en ±
 ▯ bombs / bombards ▯.
 
 ⚠ nou @fagri 2022-07-03 #pbru7f_u5 $en -1
@@ -60543,7 +60559,7 @@ nuaıkata @seaqtaq 2020-02-08 #_2KqhZW6I $en ±
 ▯ is a card for making purchases
   Laqme (2023-08-15): bank card, debit card, credit card
 
-nuaıkea @Laqme 2019-02-08 #djJp2l22S $en ±
+nuaıkea [(c) (d) máq I] @Laqme 2019-02-08 #djJp2l22S $en ±
 ▯ is an automated teller machine / ATM machine.
 
 nuaıkıaı [(c c) (d d) hó A] @TheAndSys 2026-02-21 #bg2tTbQKU $en ±
@@ -60641,7 +60657,7 @@ nuaobo @uakci 2022-09-07 #XGhB2OApJ $en ±
 nuaocıa @uakci 2021-11-07 #wlexepOAb $en ±
 ▯ is straight, flat.
 
-nuaocıamıq @salarua 2022-09-15 #Vn4eA5j93 $en ±
+nuaocıamıq [(c) (d) hóq F] @salarua 2022-09-15 #Vn4eA5j93 $en ±
 ▯ is a geometric plane
 
 nuaofurı @Machy 2020-02-29 #x8xSBLTKn $en ±
@@ -60723,7 +60739,7 @@ nuaqhoe @Ilmen 2019-04-11 #ZWwVsNKVx $en ±
 nuaqhoenıq @TheAndSys 2023-05-22 #750in1hRU $en ±
 ▯ is a supernova
 
-nuaqkaqkea @jiqci 2023-02-14 #oa4dCSG4T $en ±
+nuaqkaqkea [(c) (d) máq I] @jiqci 2023-02-14 #oa4dCSG4T $en ±
 ▯ is a night vision device.
 
 nuaqmeo @fagri 2021-08-06 #X4O7eBfxi $en +1
@@ -61171,7 +61187,7 @@ nuıpaq @Ilmen 2019-04-09 #KeuqB56re $en ±
 nuıpeotıe @TheAndSys 2024-10-31 #MGaI9jDTY $en ±
 ▯ is porous.
 
-nuıpıanete @robintown 2023-01-11 #L-0l38RJY $en ±
+nuıpıanete [(c) (d) máq I] @robintown 2023-01-11 #L-0l38RJY $en ±
 ▯ is a dwarf planet.
 
 nuıpoaq @Ilmen 2020-03-03 #JpyLrMfVr $en ±
@@ -62317,7 +62333,7 @@ nhoam @eednb 2024-09-06 #JXkz6jdIf $en ±
 aspect: fuzzy future imperfective; event time overlaps with reference time with a definite starting point, but its endpoint is irrelevant/vague
   eednb (2024-09-06): moved from now-deleted "toam"
 
-nhoanete @seaqtaq 2024-07-09 #CqWh60Sgv $en ±
+nhoanete [(c) (d) máq I] @seaqtaq 2024-07-09 #CqWh60Sgv $en ±
 ▯ is a dwarf planet
 
 nhobu @Laqme 2024-09-03 #MD9T-g6FD $en +1
@@ -63164,7 +63180,7 @@ orıgano @robintown 2025-05-05 #QzNkKokA3 $en ±
 orıganom @robintown 2025-05-05 #jRoWgKMNd $en ±
 ▯ is oregano herbs.
 
-orıoqkea @jiqci 2023-08-28 #MW25Np_wf $en ±
+orıoqkea [(c) (d) máq I] @jiqci 2023-08-28 #MW25Np_wf $en ±
 ▯ is a nuclear pulse engine.
 
 oro @official 2026-02-18 #x7BlO_Xf_x $en ±
@@ -63564,7 +63580,7 @@ palaq @Ilmen 2019-05-17 #wLvYrRXKl $en ± %body_part
 ▯ is a hand palm / foot sole.
   Ilmen (2019-05-17): From PIE *palam- (or some similar form) and also Proto-Austronesian *pálag (both meaning "palm of the hand" and being coincidentally similar in sound).
 
-palataq @jiqci 2023-10-13 #zotQXrcWF $en ±
+palataq [(c) (d) máq I] @jiqci 2023-10-13 #zotQXrcWF $en ±
 ▯ is a planetree / sycamore (genus Platanus).
 
 palate @seaqtaq 2019-09-17 #kLFOUUu6F-r $en ±
@@ -63599,7 +63615,7 @@ pamdamkao @jiqci 2025-02-14 #ha91chrsQ $en ±
 pamgıam @Laqme 2025-04-29 #_Uwy3wUna $en ±
 ▯ (a picture) animates.
 
-pamkea @salarua 2023-03-17 #LIq-MALry $en ±
+pamkea [(c) (d) máq I] @salarua 2023-03-17 #LIq-MALry $en ±
 predicate: ‘projector’; ▯ is a projector
 
 pammuq @jiqci 2023-07-10 #nUsXR0im6 $en ±
@@ -64307,7 +64323,7 @@ peo @jiqci 2023-07-31 #VbUBp2sCA- $pl ±
 peobıoı @Laqme 2022-11-25 #dhfE5KfZg $en +1
 ▯ leaks through leaky barrier ▯.
 
-peocaqkea @seaqtaq 2024-07-17 #eMNebQJh1 $en ±
+peocaqkea [(c) (d) máq I] @seaqtaq 2024-07-17 #eMNebQJh1 $en ±
 ▯ is a valve
 
 peocoe @seaqtaq 2019-12-07 #gUUHG9Xj- $en ±
@@ -64641,7 +64657,7 @@ pıafu @seaqtaq 2019-03-20 #VsTMk5Bfq $en ±
 pıahu @samael 2025-09-29 #0TEjZz34A $es -1
 ser un espíritu asociado a un planeta
 
-pıanete @Hoemai 2022-12-19 #xlzbZnJam $en +1
+pıanete [(c) (d) máq I] @Hoemai 2022-12-19 #xlzbZnJam $en +1
 ▯ is a planet.
 
 pıano [(c) (d) máq I] @official 2026-02-16 #puz-ixN307h $en ± %artifact,musical_instrument
@@ -64919,7 +64935,7 @@ pıkajuoı @uakci 2021-11-07 #QZBfyJIFL $en ±
 pıkashe @seaqtaq 2024-10-29 #2dfG9Hbr6 $en ±
 Modality: X happens immediately upon/right when...; X happens on sight/on cue
 
-pıkea @robintown 2021-10-19 #-rA-64xw6 $en ±
+pıkea [(c) (d) máq I] @robintown 2021-10-19 #-rA-64xw6 $en ±
 ▯ is a spruce tree.
   robintown (2021-10-19): From Latin 'picea'
 
@@ -65055,7 +65071,7 @@ pıofuaq @fagri 2020-02-13 #jHW9o7h2v $en ±
 pıogaqlıao [(c) (d) máq I] @Snow 2024-10-06 #qE1Uy5MJP $en ±
 ▯ is a gray bolete. ▯ is Retiboletus griseus.
 
-pıohoe @seaqtaq 2019-06-09 #mPjAod_bN $en +1
+pıohoe [(c) (d) máq I] @seaqtaq 2019-06-09 #mPjAod_bN $en +1
 ▯ is a planet
   seaqtaq (2019-06-09): I find this etymology very pleasing even though I would prefer a root. Since **hoe** is the only root for celestial bodies I can think of at the moment, I am going to treat it as a general celestial body suffix in compounds
 
@@ -65121,7 +65137,7 @@ pıosıu @fagri 2019-06-25 #1yy1oSWcX $en ± %physics,state_of_matter
 pıosuaonıaqme [(c) (d) hóq F] @darthjaffacake 2023-02-03 #3kkP313ty $en ±
 ▯ is a stone age
 
-pıotoekea @robintown 2022-02-19 #J6NGXHm8g $en ±
+pıotoekea [(c) (d) máq I] @robintown 2022-02-19 #J6NGXHm8g $en ±
 ▯ is a stonecutter.
 
 pıotuaı @robintown 2022-02-19 #H2I0OYdBU $en ±
@@ -65862,7 +65878,7 @@ poıbasıu @Ilmen 2019-11-11 #W63PCnQmp $en ± %lifeform,plant
 poıbasheq @jiqci 2023-02-07 #Khe_FeKGu $en ±
 ▯ is a scythe / sickle.
 
-poıbatoekea @jiqci 2024-07-12 #ktlGX07Df $en ±
+poıbatoekea [(c) (d) máq I] @jiqci 2024-07-12 #ktlGX07Df $en ±
 ▯ is a lawnmower.
 
 poıbe @Hoemai 2019-11-11 #I7wGTqP_V $en ±
@@ -66112,7 +66128,7 @@ poqjuaoduaı @Ilmen 2020-03-17 #OmrrUt0w1 $en ±
 poqkata @robintown 2021-08-29 #0pYuv0E1f $en ±
 ▯ is a personal ID card.
 
-poqkea @Ilmen 2019-04-21 #zY_zOhoem $en ± %artifact,machine
+poqkea [(c) (d) hó I] @Ilmen 2019-04-21 #zY_zOhoem $en ± %artifact,machine
 ▯ is a robot.
 
 poqkoja @seaqtaq 2021-12-28 #upJKRG9fA $en ±
@@ -67286,7 +67302,7 @@ puoqtıao @uakci 2022-05-11 #mfGMZ8lZ_ $en ±
   uakci (2022-05-11): also: ▯ is (perceived to be) intended for purpose ▯
   uakci (2022-05-11): this is similar yet distinct from **puoq**, since **puoq** seems to concern inherent purpose
 
-puosupukea @Ilmen 2025-10-10 #l7_6nXT9n $en ±
+puosupukea [(c) (d) máq I] @Ilmen 2025-10-10 #l7_6nXT9n $en ±
 ▯ is a vacuum cleaner.
 
 puosho @Laqme 2021-10-17 #Jw0jzab94 $en ±
@@ -67550,19 +67566,19 @@ predicate: ‘radio’; ▯ pertains to radio transmission.
 radıo @jiqci 2023-07-31 #6WEqUbtugE $pl ±
 ▯ jest radiowy/związany z przekazem falami radiowymi.
 
-radıodıeqkea @Laqme 2020-03-02 #YX486sZsC $en ±
+radıodıeqkea [(c) (d) máq I] @Laqme 2020-03-02 #YX486sZsC $en ±
 ▯ is a radio transmitter.
 
-radıojuqkea @Laqme 2020-03-02 #UH92-IC6a $en ±
+radıojuqkea [(c) (d) máq I] @Laqme 2020-03-02 #UH92-IC6a $en ±
 ▯ is a radio receiver.
 
-radıokea @Laqme 2024-06-10 #qQdXQxXXJ $en ±
+radıokea [(c) (d) máq I] @Laqme 2024-06-10 #qQdXQxXXJ $en ±
 ▯ is a radio.
 
-radıonuoqgaıkea @Ilmen 2023-02-13 #r1uSTqGlS $en ±
+radıonuoqgaıkea [(c) (d) máq I] @Ilmen 2023-02-13 #r1uSTqGlS $en ±
 ▯ is a radar.
 
-radıonuoqkea @Ilmen 2023-02-13 #NEk-S4Q9V $en ±
+radıonuoqkea [(c) (d) máq I] @Ilmen 2023-02-13 #NEk-S4Q9V $en ±
 ▯ is a radar.
 
 radıopuache @sheireq 2024-10-18 #6vr_gnj9z $en ±
@@ -67574,7 +67590,7 @@ radıosueq @Laqme 2023-02-17 #0-42bs2aA $en +1
 radıozıa @Laqme 2021-08-31 #Sn5iKEoD- $en ±
 ▯ broadcasts radio signal ▯.
 
-radıozıakea @funbreaker 2024-01-13 #UrxoBylqQ $en ±
+radıozıakea [(c) (d) máq I] @funbreaker 2024-01-13 #UrxoBylqQ $en ±
 ▯ is a radio transmitter, esp. used for broadcast radio
 
 radıum [(c) (d) máq I] @Laqme 2022-12-31 #dfsI1gWe8 $en ±
@@ -68943,10 +68959,10 @@ reqgaq @uakci 2021-09-03 #dFU2ppbrJ $en ±
 reqjıaq @Laqme 2024-04-26 #3rryEhjkJ $en ±
 ▯ is a human society.
 
-reqkea @Ilmen 2019-04-21 #fNHHpEuQl $en +1
+reqkea [(c) (d) hó I] @Ilmen 2019-04-21 #fNHHpEuQl $en +1
 ▯ is an android.
 
-reqkeaı @Laqme 2022-10-16 #sb0QhV2sj $en ±
+reqkeaı [(c 1i) (d d) hó I] @Laqme 2022-10-16 #sb0QhV2sj $en ±
 ▯ has the human right to satisfy property ▯.
 
 reqkeaıse @Laqme 2022-10-16 #xZmQvz1-Y $en ±
@@ -69564,7 +69580,7 @@ predicate: ‘aircraft’; ▯ is an aircraft/plane.
 rıochao @jiqci 2023-07-31 #bkDhKRaypU $pl ± %artifact,vehicle
 ▯ to samolot.
 
-⚠ rıochao @oldofficial 2019-05-05 #9f5KKayaL- $en -1 %artifact,vehicle
+⚠ rıochao [(c) (d) máq I] @oldofficial 2019-05-05 #9f5KKayaL- $en -1 %artifact,vehicle
 predicate: ‘aircraft’; ▯ is an aircraft/plane.
   Ilmen (2020-06-09): Keyword: airplane.
 
@@ -69586,7 +69602,7 @@ rıofa @jiqci 2023-07-31 #0EXgPTb3uK $pl ±
 rıofa @Amo 2023-08-04 #W9yiOaife $ru ±
 предикат: ‘летать’; ▯ летит, летает; ▯ летит к ▯.
 
-rıofakea @TheAndSys 2023-02-14 #hujLh2wyl $en ±
+rıofakea [(c) (d) máq I] @TheAndSys 2023-02-14 #hujLh2wyl $en ±
 ▯ is a drone
 
 rıofaleoqhınokecarakea @Ilmen 2024-04-08 #rK2cFnjSm $en ±
@@ -70493,7 +70509,7 @@ romkaıguaı @TheAndSys 2025-05-06 #htJjTeC9W $en ±
 romkaılea @seaqtaq 2025-05-06 #LcG-hAgxv $en ±
 ▯ is programming (the act of writing a program)
 
-romkea @Laqme 2024-06-10 #MXHakGAC9 $en +2
+romkea [(c) (d) máq I] @Laqme 2024-06-10 #MXHakGAC9 $en +2
 ▯ is a computer.
 
 romlaı @Laqme 2024-05-25 #M1OIP6T6I $en ±
@@ -71046,7 +71062,7 @@ rueı @jiqci 2024-08-06 #NEHOXwOe5 $en -1
   jiqci (2024-08-06): **ırue** could be a more poetic/literary synonym
   Ilmen (2025-10-22): This sound form was already assigned a meaning by Salarua.
 
-rueıkea @jiqci 2024-08-06 #Ib82gjN5U $en ±
+rueıkea [(c) (d) máq I] @jiqci 2024-08-06 #Ib82gjN5U $en ±
 ▯ is a fan.
 
 rueısıoq [(c) (d) máq I] @jiqci 2024-08-06 #03V-J3oFz $en ±
@@ -71174,7 +71190,7 @@ rúım @uakci 2024-05-14 #nOUpw3e5R $en +1
 focus prefix: X instead (of some other option)
   uakci (2024-05-14): < **rurı**. see **béı**, which is more about dispelling a notion to the contrary of what is being said; **rúım** expresses that the speaker considers X to be an alternative to some other contextually relevant contingency
 
-Ruınete @jiqci 2024-01-14 #zSzpCuHWT $en +1
+Ruınete [(c) (d) máq I] @jiqci 2024-01-14 #zSzpCuHWT $en +1
 ▯ is the planet Mercury.
 
 ruıq @Laqme 2024-01-01 #6jO0lrf7t $en ±
@@ -71586,7 +71602,7 @@ ruqfuq @Laqme 2022-03-18 #FNnl--cxO $en ±
 ruqhıeq @uakci 2022-12-02 #Ag_bftN0t $en ±
 ▯ scolds/accosts/lectures/mocks ▯ for satisfying property ▯.
 
-ruqkea @jiqci 2023-05-01 #ecnXfHbYu $en ±
+ruqkea [(c) (d) máq I] @jiqci 2023-05-01 #ecnXfHbYu $en ±
 ▯ is a shower.
 
 ruqkueqbeqpuao @salarua 2023-02-11 #RuKvMuMcA $en ±
@@ -71956,7 +71972,7 @@ saıcea @Laqme 2024-10-09 #aykRDmObR $en ±
 saıcua @jiqci 2023-05-17 #utSoguwnu $en ±
 ▯ undergoes chemical reaction.
 
-saıcuakea @jiqci 2023-05-17 #FQRgBxtLl $en ±
+saıcuakea [(c) (d) máq I] @jiqci 2023-05-17 #FQRgBxtLl $en ±
 ▯ is a reactor.
 
 saıcuao @uakci 2022-11-05 #zPioK-N7J $en ±
@@ -73015,7 +73031,7 @@ seaqhuarıoq @salarua 2021-08-17 #8L2WTFuKp $en ±
 seaqjaı @uakci 2019-01-19 #P9yrkjsgZ $en ±
 ▯ is sexually aroused.
 
-seaqkea @seaqtaq 2019-02-03 #ldkV9MEjj $en +1
+seaqkea [(c) (d) máq I] @seaqtaq 2019-02-03 #ldkV9MEjj $en +1
 ▯ is a sex toy 
   Laqme (2019-02-03): +1
 
@@ -73341,7 +73357,7 @@ seoqcuaomıe @Ilmen 2022-07-31 #sGrorSGn7 $en ±
 seoqcuaomıe @Ilmen 2018-11-22 #UhDs2gNAs $en -1
 ▯ is an extraterrestrial.
 
-seoqchao @Ilmen 2020-01-18 #1SaGhxvrt $en +1 %artifact,vehicle
+seoqchao [(c) (d) máq I] @Ilmen 2020-01-18 #1SaGhxvrt $en +1 %artifact,vehicle
 predicate: ‘aircraft’; ▯ is an aircraft/plane.
 
 seoqchuaı @desca 2022-12-29 #MrpYLtO7x $en ±
@@ -73403,7 +73419,7 @@ seoqlaqbıu @Ilmen 2019-04-17 #6HRkRNrIW $en ± %artifact,weapon
 seoqlıaı @Ilmen 2019-03-23 #2lOEJKNWK $en ±
 ▯ flies.
 
-seoqmeaq @Ilmen 2020-06-09 #enR7JgIwM $en ± %artifact,vehicle
+seoqmeaq [(c) (d) máq I] @Ilmen 2020-06-09 #enR7JgIwM $en ± %artifact,vehicle
 ▯ is an aircraft/airplane.
 
 seoqmı @Laqme 2024-10-31 #4jwV9V3Hp $en ±
@@ -73637,7 +73653,7 @@ seumgıaq @jiqci 2024-03-24 #JAY94uef0 $en ±
 seumhaq @Laqme 2022-12-13 #0aRL3pUWk $en ±
 predicate: ‘dinner’; ▯ is dinner (evening meal).
 
-Seumnuım @jiqci 2024-10-14 #L1Nzd0gk0 $en ±
+Seumnuım [(c) (d) máq I] @jiqci 2024-10-14 #L1Nzd0gk0 $en ±
 ▯ is the evening star (planet Venus as seen in the evening).
 
 seumrıao @Laqme 2023-11-21 #4AvG9fwR0 $en ±
@@ -75434,7 +75450,7 @@ soasıa @Laqme 2022-10-20 #ZsFT6Q0KK $en ±
   Laqme (2022-10-20): "univerbation" from **soa sıa (nháo hâo ja)**
   uakci (2022-10-31): solo, unassisted
 
-soasıateqkea @Laqme 2022-10-20 #YqthwqO9R $en ±
+soasıateqkea [(c) (d) máq I] @Laqme 2022-10-20 #YqthwqO9R $en ±
 ▯ is a self-checkout machine.
 
 soasue @Laqme 2022-02-04 #F029Oq0BW $en ±
@@ -75916,8 +75932,15 @@ sọmısa @kazoo 2025-05-01 #KbxkwpnWF $en ±
 somjıaq @Laqme 2023-12-30 #G_CQa4U1r $en ±
 ▯ is purgatory.
 
+somne @lassc 2026-03-28 #-Vs-CRG4S $en ±
+▯ is "healing" (video game resource).
+
 somnıaq @Laqme 2023-09-22 #Xi-ANnjsc $en +1
 ▯ is a leap year.
+
+somsaı @lassc 2026-03-28 #aQtMpcV64 $en ±
+▯ is a remedy/antidote/cure for ▯.
+  lassc (2026-03-28): cf. **goısaı**, which is different: this word implies that the thing is not _just_ treating something but going further into (partial or full) remission
 
 somsı @Laqme 2023-08-01 #KMkyBXevb $en +1
 ▯ diagnoses / inspects / "debugs" ▯ to find out what's wrong with it, in order to repair it.
@@ -76227,7 +76250,7 @@ sorı @Ilmen 2018-10-11 #UESKf2mq3 $en +1
   Ilmen (2018-10-11): A priori.
   seaqtaq (2019-01-03): +1, maybe the third place could be done away with though
 
-sorıkea @jiqci 2023-06-15 #YppDNSxOm $en ±
+sorıkea [(c) (d) máq I] @jiqci 2023-06-15 #YppDNSxOm $en ±
 ▯ is a sewing machine.
 
 sorıse @jiqci 2023-11-08 #wEyRArGmf $en ±
@@ -76835,7 +76858,7 @@ sueqfa @jiqci 2023-06-16 #n1EzeiH3D $en ±
 sueqgıam @robintown 2023-11-29 #SvaEqVXqV $en ±
 ▯ undulates/wobbles/oscillates/moves in waves.
 
-sueqkea @uakci 2023-10-22 #m6oVAnyJ0 $en ±
+sueqkea [(c) (d) máq I] @uakci 2023-10-22 #m6oVAnyJ0 $en ±
 ▯ is a microwave.
 
 sueqloaı @seaqtaq 2024-11-16 #dtXfg1CHc $en ±
@@ -77144,7 +77167,7 @@ predicate: ‘your’; ▯ is y'all's (multiple listeners').
 sune @Ilmen 2018-10-07 #kjxQi96Ya $en ± %action
 ▯ weaves ▯.
 
-sunekea @Laqme 2023-11-24 #aipK4VxFE $en +1
+sunekea [(c) (d) máq I] @Laqme 2023-11-24 #aipK4VxFE $en +1
 ▯ is a loom.
 
 sunekıaq @jiqci 2023-05-21 #pI8UGx0OA $en ±
@@ -77203,7 +77226,7 @@ suoıbuaq @jiqci 2023-06-04 #_CglPnUv6 $en +1
 suoıchım @uakci 2023-12-10 #DiVkfVNdz $en ±
 ▯ prospers/thrives at satisfying property ▯.
 
-suoıdaokea @jiqci 2023-11-10 #IQG4Ko3UI $en ±
+suoıdaokea [(c) (d) máq I] @jiqci 2023-11-10 #IQG4Ko3UI $en ±
 ▯ is a supercomputer.
 
 suoıde @jiqci 2024-08-20 #OatA_4YPu $en ±
@@ -77325,10 +77348,10 @@ supubıo @jiqci 2023-10-28 #a0M-nUhYG $en ±
 supuchuo @jiqci 2024-09-16 #CeQjCT0Zo $en ±
 ▯ is a plunger.
 
-supukea @jiqci 2023-05-21 #3fC3BwweK $en +1
+supukea [(c) (d) máq I] @jiqci 2023-05-21 #3fC3BwweK $en +1
 ▯ is a vacuum cleaner or other suction device.
 
-supukeala @Laqme 2024-04-26 #2Z-sSGf4- $en ±
+supukeala [(c c) (d d) máq I] @Laqme 2024-04-26 #2Z-sSGf4- $en ±
 ▯ vacuums / cleans with a vacuum cleaner ▯.
 
 suq- @Laqme 2024-04-27 #fd4xKyrL_ $en +1
@@ -77693,7 +77716,7 @@ shaıhıo @Ilmen 2018-09-20 #8Km5hhCUK $en ± %action
 ▯ greets ▯ on parting; ▯ says goodbye to ▯.
   Laqme (2021-10-30): bids farewell
 
-shaıkea @Laqme 2025-04-24 #o6zaNtHlw $en ±
+shaıkea [(c) (d) máq I] @Laqme 2025-04-24 #o6zaNtHlw $en ±
 ▯ is a brake / are brakes.
 
 shaıkıao @uakci 2022-10-04 #tS8ZjPHNm $en ±
@@ -78049,10 +78072,10 @@ shaqhueq @Laqme 2025-06-02 #kPAjgmR5I $en ±
 shaqjeoq @salarua 2023-12-18 #p0IcrZyh2 $en ±
 ▯ is a ventral cavity.
 
-shaqkea @Laqme 2024-05-10 #vHV8X9ZPF $en +1
+shaqkea [(c) (d) máq I] @Laqme 2024-05-10 #vHV8X9ZPF $en +1
 ▯ is a computer terminal.
 
-shaqkearom @Laqme 2024-05-10 #XzDSjDemD $en ±
+shaqkearom [(c) (d) máq I] @Laqme 2024-05-10 #XzDSjDemD $en ±
 ▯ is a terminal emulator / console.
 
 shaqkerapıu @jiqci 2025-01-22 #SsiYYSlom $en ±
@@ -78534,7 +78557,7 @@ sheımoı @Hoemai 2019-04-08 #z8cVFKj4X $en +1
 sheımoıhe @Hoemai 2019-04-08 #ilRy0oMa8 $en +1
 ▯ is a freethinker.
 
-sheımuoıkea @Ilmen 2025-01-16 #iYcn39xFa $en ±
+sheımuoıkea [(c) (d) máq I] @Ilmen 2025-01-16 #iYcn39xFa $en ±
 ▯ is a gyroscope.
 
 sheıpoe @Laqme 2024-05-12 #U2xShN2Br $en ±
@@ -80180,7 +80203,7 @@ shoıgıaq @robintown 2021-11-13 #4YxkXW6TE $en ±
 shoıkao @Laqme 2023-10-30 #xU9ezgK4q $en ±
 ▯ is a tweet / post / toot / microblog or social media update.
 
-shoıkea @jiqci 2023-10-11 #fCMKpUa1E $en ±
+shoıkea [(c) (d) máq I] @jiqci 2023-10-11 #fCMKpUa1E $en ±
 ▯ is a loudspeaker / megaphone.
 
 shoıkune [(c) (d) hó I] @Ilmen 2020-01-17 #Vsv-Y81QH $en +1 %lifeform,animal,vertebrate,mammal
@@ -80521,7 +80544,7 @@ predicate: ‘factory’; ▯ is a factory.
 shuaqjıo @jiqci 2023-07-31 #zjEhZ-7ayS $pl ±
 ▯ to fabryka/zakład produkcyjny.
 
-shuaqkea @seaqtaq 2024-10-03 #jGP1D6q8F $en ±
+shuaqkea [(c) (d) máq I] @seaqtaq 2024-10-03 #jGP1D6q8F $en ±
 ▯ is a (power) generator
 
 shuaqnım @nano 2023-12-09 #HmhAPBcrg $en ±
@@ -80820,7 +80843,7 @@ shuıjuq @uakci 2022-07-25 #Fxp1BgVD6 $en ±
 shuıkaq @Laqme 2024-09-27 #IxcNRY764 $en ±
 ▯ peeks at / glances at / spies on ▯.
 
-shuıkeaı @seaqtaq 2025-05-20 #d2-3xUVQx $en +2
+shuıkeaı [(c) (d) hó I] @seaqtaq 2025-05-20 #d2-3xUVQx $en +2
 ▯ has the right to privacy / be a private entity
 
 shuıkeoı [(c c) (d n) hó I] @Laqme 2024-04-25 #ArV0hprXO $en ±
@@ -80940,7 +80963,7 @@ shulıboe @jiqci 2023-07-17 #6jq32OzLx $en ±
 shulıchao @jiqci 2023-07-17 #CHVDgF-PW $en ±
 ▯ is a glider.
 
-shulıpeq @jiqci 2023-07-17 #2yt-Qm3ZU $en ±
+shulıpeq [(c) (d) máq I] @jiqci 2023-07-17 #2yt-Qm3ZU $en ±
 ▯ is a paper airplane.
 
 shum @jiqci 2024-09-15 #8-9Zqpt6X $en ±
@@ -82979,7 +83002,7 @@ teqkata @seaqtaq 2020-02-08 #rU8J5iKn9 $en ±
 ▯ is a card for making purchases
   seaqtaq (2020-02-08): inclydes credit cards, debit cards, prepaid cards, etc.
 
-teqkea @Laqme 2022-10-20 #lc4x_02Gs $en ±
+teqkea [(c) (d) máq I] @Laqme 2022-10-20 #lc4x_02Gs $en ±
 ▯ is a cash register.
 
 teqluaq @Laqme 2022-07-01 #rPHZLNfFy $en ±
@@ -83471,7 +83494,7 @@ tıaqkeıke @jiqci 2023-09-08 #KqeMGURBi $en ±
 tıaqla @Laqme 2024-09-19 #o9RD_x_Cr $en ±
 ▯ sears/browns ▯.
 
-Tıaqnete @jiqci 2024-01-14 #xqYovTxLu $en +1
+Tıaqnete [(c) (d) máq I] @jiqci 2024-01-14 #xqYovTxLu $en +1
 ▯ is the planet Saturn.
 
 tıaqrıhı @uakci 2022-01-08 #3hV7kui0I $en ±
@@ -83785,7 +83808,7 @@ tıeqkıu @uakci 2022-09-28 #rVBWhtQqs $en ±
 tıeqkoaı @Hoemai 2019-04-01 #J5IsqMhLG $en ±
 ▯ is a network of roads/paths.
 
-tıeqkoekea @jiqci 2023-10-17 #9AkKOqQEO $en ±
+tıeqkoekea [(c) (d) máq I] @jiqci 2023-10-17 #9AkKOqQEO $en ±
 ▯ is a router.
 
 tıeqpıq @mimiaoganhaqpy 2023-05-22 #erWkrOH3E $en ±
@@ -85203,10 +85226,10 @@ shuaq dóshı sa jéoq nǐe ra reatı hóa dógu na dósaq da
 toebeaq @robintown 2021-08-01 #jnp3payKa $en -1
 ▯ is a sword.
 
-toecırıkea @Ilmen 2023-01-13 #Ssoj1OsQ7 $en ± %artifact,machine
+toecırıkea [(c) (d) máq I] @Ilmen 2023-01-13 #Ssoj1OsQ7 $en ± %artifact,machine
 ▯ is a chainsaw.
 
-toechuekea @Ilmen 2020-03-01 #XTOkYgOkP $en ± %artifact,machine
+toechuekea [(c) (d) máq I] @Ilmen 2020-03-01 #XTOkYgOkP $en ± %artifact,machine
 ▯ is a chainsaw.
 
 toechuo @robintown 2021-10-22 #vKJdYuz9V $en ± %artifact,tool,handheld_tool,bladed_tool
@@ -85237,7 +85260,7 @@ toejı @Hoemai 2019-04-03 #N_2PJJikH $en ±
 toejıchırı [(c) (d) hó I] @jiqci 2026-03-01 #OKXmbqASq $en ±
 ▯ is a mole cricket (family Gryllotalpidae).
 
-toejıkea @jiqci 2023-08-04 #7ZGguVOtw $en ±
+toejıkea [(c) (d) máq I] @jiqci 2023-08-04 #7ZGguVOtw $en ±
 ▯ is a tunnel boring machine.
 
 toejınu @Hoemai 2019-04-03 #BJKpEFAHZ $en ±
@@ -85644,7 +85667,7 @@ toqjı @salarua 2021-08-17 #JZ1SdHbXY $en +1
 toqjı @el 2022-07-10 #bKgSdxXSw $tok ±
 ▯ li tonsi
 
-toqkea @Laqme 2022-09-21 #Oc-YpBZ79 $en ±
+toqkea [(c) (d) hó I] @Laqme 2022-09-21 #Oc-YpBZ79 $en ±
 ▯ is a tablet computer.
 
 toqkue @Laqme 2025-01-18 #cdc-IAYPC $en ±
@@ -86696,7 +86719,7 @@ tuoqdekı @fagri 2021-08-13 #3t4Tzbh8H $en ±
 ▯ is a scale (any device used for measuring weight)
   fagri (2021-08-13): Not to be confused with kılōdēkī
 
-tuoqkea @seaqtaq 2019-06-10 #mRTzFOzGw $en ±
+tuoqkea [(c) (d) máq I] @seaqtaq 2019-06-10 #mRTzFOzGw $en ±
 ▯ is a scale (for measuring weight and or mass)
 
 tuoqlıa @uakci 2020-05-06 #Xilg_h1oK $en ±
@@ -86724,7 +86747,7 @@ tupa @Ilmen 2020-03-03 #A3Ft_QGGv $en +1 %artifact,container
 tupadolom @jiqci 2023-08-21 #M8hfGNBL6 $en ±
 ▯ is a kettledrum / timpani.
 
-tupakea @jiqci 2023-07-19 #GTLsmlxgP $en ±
+tupakea [(c) (d) máq I] @jiqci 2023-07-19 #GTLsmlxgP $en ±
 ▯ is a kettle/boiler.
 
 tupapuao [(c) (d) máq I] @Dembim 2026-01-26 #F-vGGEr6P $en ±
@@ -86873,7 +86896,7 @@ tuqne @seaqtaq 2024-07-11 #yI23bvmxy $en ±
 túqnı @jiqci 2025-01-13 #3XM46gpo5 $en ±
 determiner: all of this
 
-Tuqnotuq @jiqci 2024-02-09 #XlFjLT85e $en +1
+Tuqnotuq [(c) (d) hóq F] @jiqci 2024-02-09 #XlFjLT85e $en +1
 ▯ is the Big Bang.
 
 tuqpaq @Hoemai 2019-04-08 #W0D8ApTle $en +2
@@ -87553,7 +87576,7 @@ uqsaqbuce @salarua 2021-10-08 #56XT2SJlN $en ±
 uranıum [(c) (d) máq I] @shuaida 2022-12-31 #nt4C776OD $en ±
 ▯ is Uranium
 
-uranumeaı @mimiaoganhaqpy 2023-02-06 #b-HeIdSje $en ±
+uranumeaı [(c) (d) máq I] @mimiaoganhaqpy 2023-02-06 #b-HeIdSje $en ±
 predicate: ‘Uranus’; ▯ is the planet Uranus.
   mimiaoganhaqpy (2024-05-10): Etymology: Uranus (Roman god) + -meaı (calquing Chinese “星”)
 
@@ -88686,7 +88709,7 @@ zeno @jiqci 2023-06-07 #YOoQQpFUM $en +1
 zenochao @jiqci 2023-06-07 #VHZvLmA4A $en ±
 ▯ is a UFO.
 
-zenomeaı @jiqci 2023-06-07 #vWUnsxD8r $en ±
+zenomeaı [(c) (d) máq I] @jiqci 2023-06-07 #vWUnsxD8r $en ±
 ▯ is an exoplanet.
 
 zenomıe @jiqci 2023-06-07 #YxThRiNAF $en ±
@@ -88938,7 +88961,7 @@ zıafeı @seaqtaq 2025-09-10 #rHk7Uew5A $en ±
 ▯ is particularly frustrated, annoyed, or angry at something and as a result starts lashing out at irrelevant current or past inconveniences or grievances against them
   seaqtaq (2025-09-10): kw: zakaı
 
-zıahaqkea @Laqme 2021-08-31 #lMLhwvDw1 $en ±
+zıahaqkea [(c) (d) máq I] @Laqme 2021-08-31 #lMLhwvDw1 $en ±
 ▯ is a microwave oven.
 
 zıahıeq @Laqme 2024-12-25 #P90QULbdo $en ±
@@ -88947,7 +88970,7 @@ zıahıeq @Laqme 2024-12-25 #P90QULbdo $en ±
 zıajuo @Laqme 2024-04-25 #5mnN4bzaF $en +2
 ▯ is a transmission / broadcasted message.
 
-zıakea @jiqci 2023-02-13 #y9Seh7KJf $en ±
+zıakea [(c) (d) máq I] @jiqci 2023-02-13 #y9Seh7KJf $en ±
 ▯ is a beacon/emitter.
 
 zıam @Laqme 2023-11-09 #Z0Y1amgUX $en +3
@@ -89272,7 +89295,7 @@ zıuhueq @Laqme 2025-06-02 #SZTvVJq9I $en ±
 ▯ is the "amount" face of coin ▯.
   Laqme (2025-06-02): reverse, tails
 
-zıujıoqkea @Ilmen 2025-12-02 #V9qaCIf_J $en ±
+zıujıoqkea [(c) (d) máq I] @Ilmen 2025-12-02 #V9qaCIf_J $en ±
 ▯ is a calculator.
 
 zıukuoı @Ilmen 2022-07-31 #0kg8IyGeR $en ±
@@ -89805,7 +89828,7 @@ zuıkaı @Laqme 2024-12-28 #W0SQJd--d $en ±
 zuıkaı @seaqtaq 2025-05-06 #R7slCXTap $en -1
 ▯ writes ▯ via stenography
 
-zuıkaıkea @Laqme 2024-12-28 #c8gsr0MYl $en ±
+zuıkaıkea [(c) (d) máq I] @Laqme 2024-12-28 #c8gsr0MYl $en ±
 ▯ is a stenotype machine / stenography keyboard.
 
 zuıkaılea @seaqtaq 2025-05-06 #qrVIhUc7_ $en ±
@@ -89974,7 +89997,7 @@ zuoıfeqchuoı @seaqtaq 2024-10-24 #XLLaDdvx_ $en ±
 zuoıfeqnhoq @jiqci 2025-01-03 #MBxRwEtZz $en ±
 ▯ is a motor nerve.
 
-zuokea @seaqtaq 2024-11-09 #zmaFmctKe $en ±
+zuokea [(c 1i) (d d) máq I] @seaqtaq 2024-11-09 #zmaFmctKe $en ±
 predicate: ‘machine’; ▯ is a machine/apparatus performing function ▯.
   seaqtaq (2024-11-09): Assumes robin's unary **kea** is being used
 
@@ -91453,12 +91476,12 @@ I could love this person if I got to know them.
 Dâı, ꝡä sho zao ní ocha jí, nä ano hó jí da. @examples 2025-09-21 #0FMZwaFxi_EJ $en ±
 This person could love me if they got to know me.
 
-daochue bu keaı @uakci 2022-04-15 #9IkKkJaES $en ±
+daochue bu keaı [(c 1x) (d d) hóq F] @uakci 2022-04-15 #9IkKkJaES $en ±
 ▯ is a blacklist/denylist/block list for access to satisfying property ▯.
   uakci (2022-04-15): **daochue bủ kẻaı (tỏı) kỏy** ‘▯ is a list of blocked people/(users) for person/(user) ▯’
   mimiaoganhaqpy (2023-07-08): “blocklist” (there was a space in the original definition)
 
-daochue keaı @uakci 2022-04-15 #-rZHnbci2 $en ±
+daochue keaı [(c 1x) (d d) hóq F] @uakci 2022-04-15 #-rZHnbci2 $en ±
 ▯ is a whitelist/allowlist/access control list for access to property ▯.
   uakci (2022-04-15): **daochue kẻaı chỏaq** ‘invite list’
 
@@ -95725,7 +95748,7 @@ This restaurant's black tea is weak in flavour to me.
 noqsaıla bâq nampuo @Laqme 2024-05-22 #edr7dsmtX $en ±
 metaphor: ▯ does too little too late ("adds spices to breadcrumbs").
 
-notuq pẹhoe @seaqtaq 2024-07-27 #warmAQHgQ $en ±
+notuq pẹhoe [(c) (d) máq I] @seaqtaq 2024-07-27 #warmAQHgQ $en ±
 ▯ (of a star) goes nova
 
 nua sheı @robintown 2021-12-27 #XFBerVKdY $en ±
@@ -99926,7 +99949,7 @@ rıq(de)pıo @seaqtaq 2021-10-25 #VQqzQbhoZ $en ±
 connective: ‘or equivalently’
   uakci (2021-08-18): denotes that the choice of either conjunct doesn’t affect the truth value of the entire sentence
 
-⚠ rıygıokeatao @fagri 2021-10-25 #4TeLXhao1 $en ±
+⚠ rıygıokeatao [(c c) (d d) hó A] @fagri 2021-10-25 #4TeLXhao1 $en ±
 ▯ gaslights ▯
   fagri (2021-10-25): Calquing from English because I suspect that any compound that actually hints at the meaning (like nasachitaqtua) would just end up sounding like weak sauce
   fagri (2021-10-25): Though I admit that nasachitaqtua, which I came up with in like two seconds, sounds much stronger than I thought it would
