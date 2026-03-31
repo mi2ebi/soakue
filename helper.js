@@ -48,7 +48,7 @@ let htmlify = (json) =>
         ")"
       ]) : null,
       " ",
-      json.pronoun ? mkel("span", { className: "adv" }, [makeLink("pron:" + json.pronoun, json.pronoun.replace(/(?<=[aeiıou])/, "\u0301").normalize("NFC"))]) : null,
+      json.pronoun ? mkel("span", { className: "adv" }, [makeLink("pron:" + json.pronoun, json.pronoun)]) : null,
       " ",
       json.subject ? mkel("span", { className: "adv" }, [makeLink("subj:" + json.subject[0], json.subject[0].toUpperCase())]) : null,
       " ",
