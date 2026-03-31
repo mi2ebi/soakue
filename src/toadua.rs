@@ -161,6 +161,10 @@ impl Toa {
                     .to_string(),
             );
         }
+        if let Some(subject) = &self.subject {
+            self.subject =
+                Some(String::new() + &subject.chars().next().unwrap().to_uppercase().to_string());
+        }
     }
 }
 /*

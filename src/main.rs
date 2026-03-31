@@ -1,9 +1,11 @@
 #![allow(clippy::cast_precision_loss)]
 
 mod dedup;
+mod guess_metadata;
 mod letters;
 mod old_main;
-#[cfg(test)] mod tests;
+#[cfg(test)]
+mod tests;
 mod toadua;
 mod toakao;
 
@@ -19,8 +21,10 @@ const UNDERDOT: char = '\u{0323}';
 
 #[allow(clippy::missing_panics_doc)]
 pub fn main() {
-    let client =
-        Client::builder().timeout(Duration::from_mins(2)).build().expect("Building client failed");
+    let client = Client::builder()
+        .timeout(Duration::from_mins(2))
+        .build()
+        .expect("Building client failed");
 
     println!("getting stuff from toadua");
     let toadua_text = client
@@ -62,8 +66,21 @@ pub fn main() {
     println!("writing");
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
 
-    fs::write("data/all.txt", dict.iter().map(|toa| toa.head.clone()).collect_vec().join("\n"))
-        .unwrap();
+    fs::write(
+        "data/all.txt",
+        dict.iter()
+            .map(|toa| toa.head.clone())
+            .collect_vec()
+            .join("\n"),
+    )
+    .unwrap();
 
-    fs::write("data/readable.txt", dict.iter().map(ToString::to_string).join("\n\n")).unwrap();
+    fs::write(
+        "data/readable.txt",
+        dict.iter().map(ToString::to_string).join("\n\n"),
+    )
+    .unwrap();
+
+    // just for fun i fed claude data/readable.txt and asked it to write this function to try annotating stuff with metadata
+    guess_metadata::run(&dict).unwrap();
 }
