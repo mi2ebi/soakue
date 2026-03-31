@@ -512,7 +512,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             out,
             "{} #{} → [({}) ({}) {} {}]",
             toa.head,
-            &toa.id[..toa.id.len().min(8)],
+            toa.id,
             g.frame, g.distribution, g.animacy, g.subject
         )?;
     }
