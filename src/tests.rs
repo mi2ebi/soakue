@@ -45,7 +45,7 @@ impl Toa {
             scope: String::new(),
             warn: false,
             frame: None,
-            animacy: None,
+            pronoun: None,
             distribution: None,
             subject: None,
             tags: None,

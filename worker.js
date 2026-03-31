@@ -59,7 +59,7 @@ function search(q) {
       "warn",
       "w",
       "frame",
-      "anim",
+      "pron",
       "dist",
       "subj",
       "tags",
@@ -109,7 +109,7 @@ function search(q) {
       return {
         err: `<code>${escapeHTML(query.replace(/(?=[ce\d])/g, " "))}</code> isn't a valid frame`
       }
-    if (operator == "anim" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q)?$/.test(query.normalize("NFD")))
+    if (operator == "pron" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q)?$/.test(query.normalize("NFD")))
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid pronominal class`
       }
@@ -256,7 +256,7 @@ function search(q) {
           (op == "frame" && entry.frame && (
             value == entry.frame.replace(/ /g, "") || value == entry.frame.replace(/ |[ijx]+$/g, "") || !value && entry.frame
           )) ||
-          (op == "anim" && entry.animacy && (value.normalize("NFD").replace(/\u0301/g, "") == entry.animacy || !value && entry.animacy)) ||
+          (op == "pron" && entry.pronoun && (value.normalize("NFD").replace(/\u0301/g, "") == entry.pronoun || !value && entry.pronoun)) ||
           (op == "dist" && entry.distribution && (value == entry.distribution.replace(/ /g, "") || !value && entry.distribution)) ||
           (op == "subj" && entry.subject && (value.toLowerCase() == entry.subject[0] || !value && entry.subject)) ||
           (["%", "tags"].includes(op) && entry.tags && (value == "" || entry.tags.split(" ").includes(value)))

@@ -62,7 +62,8 @@ static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
 });
 
 fn dictify(the: &str) -> Vec<Toa> {
-    let out = from_str::<Toadua>(the)
+    
+    from_str::<Toadua>(the)
         .unwrap()
         .results
         .into_iter()
@@ -102,8 +103,7 @@ fn dictify(the: &str) -> Vec<Toa> {
         })
         .sorted_by_key(|(info, _)| info.clone())
         .map(|(_, toa)| toa)
-        .collect_vec();
-    out
+        .collect_vec()
 }
 
 pub fn tones(head: &str) -> (String, Vec<usize>, Vec<usize>) {

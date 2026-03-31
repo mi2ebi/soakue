@@ -44,10 +44,10 @@ pub struct Toa {
     #[serde(skip_serializing_if = "Option::is_none")]
     pub frame: Option<String>,
     #[serde(
-        rename(deserialize = "pronominal_class", serialize = "animacy"),
+        rename(deserialize = "pronominal_class", serialize = "pronoun"),
         skip_serializing_if = "Option::is_none"
     )]
-    pub animacy: Option<String>,
+    pub pronoun: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub distribution: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -66,7 +66,10 @@ fn normalize_for_validation(text: &str) -> String {
         .replace(" ı", "'i")
         .replace(" o", "'o")
         .replace(" u", "'u")
-        .replace(|x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x), "")
+        .replace(
+            |x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x),
+            "",
+        )
 }
 pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
     let normalized = normalize_for_validation(word);
@@ -82,11 +85,16 @@ pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
 
 impl Toa {
     pub fn set_warning(&mut self) {
-        let toneless: String =
-            self.head.nfd().filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c)).collect();
-        self.warn = (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
-            .iter()
-            .any(|v| toneless.contains(v))
+        let toneless: String = self
+            .head
+            .nfd()
+            .filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c))
+            .collect();
+        self.warn = ([
+            "ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq",
+        ]
+        .iter()
+        .any(|v| toneless.contains(v))
             || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
             || self.head.nfc().any(|c| {
                 !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
@@ -114,20 +122,19 @@ impl Toa {
             .collect_vec();
     }
     pub fn has_metadata(&self) -> bool {
-        [self.frame.clone(), self.animacy.clone(), self.distribution.clone(), self.subject.clone()]
-            .iter()
-            .any(Option::is_some)
+        [
+            self.frame.clone(),
+            self.pronoun.clone(),
+            self.distribution.clone(),
+            self.subject.clone(),
+        ]
+        .iter()
+        .any(Option::is_some)
     }
     pub fn fixup_metadata(&mut self) {
-        if !self.body.clone().contains("▯") {
-            self.frame = None;
-            self.animacy = None;
-            self.distribution = None;
-            self.subject = None;
-        }
         if [
             self.frame.clone(),
-            self.animacy.clone(),
+            self.pronoun.clone(),
             self.distribution.clone(),
             self.subject.clone(),
         ]
@@ -135,6 +142,24 @@ impl Toa {
         .any(|m| *m == Some("undefined".to_string()))
         {
             println!("{} #{} has bad metadata", self.head, self.id);
+        }
+        if let Some(pronoun) = &self.pronoun
+            && !["ho", "maq", "hoq", "ta", "raı", "particle", "phrase"].contains(&pronoun.as_str())
+        {
+            println!(
+                "{} #{} has pronoun {}, removing",
+                self.head, self.id, pronoun
+            );
+            self.pronoun = None;
+        }
+        if let Some(pronoun) = &self.pronoun
+            && !["particle", "phrase"].contains(&pronoun.as_str())
+        {
+            self.pronoun = Some(
+                format!("{}\u{0301}{}", &pronoun[0..2], &pronoun[2..])
+                    .nfc()
+                    .to_string(),
+            );
         }
     }
 }
@@ -171,7 +196,7 @@ impl Display for Toa {
             scope,
             warn,
             frame,
-            animacy,
+            pronoun,
             distribution,
             subject,
             tags,
@@ -188,13 +213,7 @@ impl Display for Toa {
                     [
                         frame.map_or_else(String::new, |f| format!("({f})")),
                         distribution.map_or_else(String::new, |d| format!("({d})")),
-                        animacy.map_or_else(String::new, |a| format!(
-                            "{}\u{0301}{}",
-                            &a[0..2].to_string(),
-                            &a[2..]
-                        )
-                        .nfc()
-                        .to_string()),
+                        pronoun.map_or_else(String::new, |p| p.to_string()),
                         subject.map_or_else(String::new, |s| s
                             .chars()
                             .next()
@@ -227,7 +246,9 @@ impl Display for Toa {
 }
 
 impl PartialOrd for Toa {
-    fn partial_cmp(&self, other: &Self) -> Option<Ordering> { Some(self.cmp(other)) }
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
 }
 
 impl Ord for Toa {
