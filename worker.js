@@ -256,7 +256,7 @@ function search(q) {
           (op == "frame" && entry.frame && (
             value == entry.frame.replace(/ /g, "") || value == entry.frame.replace(/ |[ijx]+$/g, "") || !value && entry.frame
           )) ||
-          (op == "pron" && entry.pronoun && (value.normalize("NFD").replace(/\u0301/g, "") == entry.pronoun || !value && entry.pronoun)) ||
+          (op == "pron" && entry.pronoun && (value.normalize("NFD").replace(/\u0301/g, "") == entry.pronoun.normalize("NFD").replace(/\u0301/g, "") || !value && entry.pronoun)) ||
           (op == "dist" && entry.distribution && (value == entry.distribution.replace(/ /g, "") || !value && entry.distribution)) ||
           (op == "subj" && entry.subject && (value.toLowerCase() == entry.subject[0] || !value && entry.subject)) ||
           (["%", "tags"].includes(op) && entry.tags && (value == "" || entry.tags.split(" ").includes(value)))
