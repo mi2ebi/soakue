@@ -1,16 +1,16 @@
 Top discriminative tokens for pronoun:
-  hó: ["acts", "tells", "winged", "form", "amusement", "bu", "toaqist", "checks", "action", "act"]
-  hóq: ["sudden", "event", "last", "function", "grammar", "life", "address", "scheme", "seems", "season"]
-  máq: ["stropharia", "dish", "pencil", "saturated", "toe", "gyroscope", "serif", "nicaragua", "mushroom", "slush"]
-  tá: ["weird", "cooked", "beautifully", "connotation", "he", "direct", "grammatical", "sad", "nha", "relation"]
+  hó: ["identity", "action", "believe", "uses", "asserts", "spirit", "due", "asks", "act", "effort"]
+  hóq: ["science", "chaos", "sudden", "season", "natural", "linguistic", "pidgin", "scheme", "age", "constructed"]
+  máq: ["mushroom", "star", "salt", "fructose", "portable", "rocket", "claw", "boletus", "ring", "grapes"]
+  tá: ["he", "cooked", "weird", "nha", "direct", "connotation", "beautifully", "sad", "grammatical", "relation"]
 
 Top discriminative tokens for subject:
-  A: ["effort", "tests", "asserts", "fishes", "themselves", "asks", "hunts", "action", "translates", "runs"]
-  E: ["duration", "lasts", "expect", "happen", "natural", "determined", "manner", "happens", "last", "personal"]
-  F: ["states", "democratic", "myanmar", "nepal", "armenia", "theory", "pertains", "ghana", "algeria", "bhutan"]
-  I: ["slush", "grapes", "shimeji", "colored", "cap", "house", "bomb", "venus", "die", "down"]
-  P: ["judging", "seems", "cannot", "according", "world", "extent", "indirect", "source", "true", "sun"]
-  S: ["lacking", "members", "east", "away", "another", "surface", "parts", "set", "dark", "north"]
+  A: ["effort", "asserts", "fishes", "tests", "asks", "themselves", "hunts", "action", "translates", "runs"]
+  E: ["expect", "lasts", "duration", "happen", "natural", "determined", "manner", "happens", "temporary", "written"]
+  F: ["states", "democratic", "myanmar", "america", "africa", "chile", "bhutan", "lithuania", "sad", "brazil"]
+  I: ["crumples", "u", "chainsaw", "raw", "gyroscope", "pegasus", "aid", "radar", "shimeji", "multiple"]
+  P: ["judging", "seems", "according", "cannot", "extent", "world", "source", "indirect", "true", "usually"]
+  S: ["members", "lacking", "east", "away", "surface", "parts", "another", "set", "north", "sign"]
 
 === 10-FOLD CROSS-VALIDATION ACCURACY (honest estimate, n=2413) ===
   pronoun: 63.3%
