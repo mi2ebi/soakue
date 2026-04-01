@@ -2,16 +2,14 @@
 
 //! Heuristic + Naive Bayes metadata guesser for Toaq dictionary entries.
 //!
-//! Writes `data/guesses.txt` with accuracy stats on the already-annotated
-//! entries followed by metadata guesses for everything that has ▯ but no
-//! existing annotation.
+//! Writes `data/guesses.txt` with:
+//!   - Top discriminative tokens per class (sanity check)
+//!   - 10-fold cross-validation accuracy (honest held-out estimate)
+//!   - Training-data accuracy (inflated, for comparison)
+//!   - Guesses for unannotated entries with confidence scores
 //!
-//! Frame and distribution are still rule-based (they're syntactic/structural
-//! and 91–94% accurate already). Pronoun and subject use Naive Bayes trained
-//! on the annotated entries in the same dictionary.
-//!
-//! Note: accuracy is evaluated on the training data, so numbers will be
-//! optimistic. Held-out experiments suggest ~67% real pronoun accuracy.
+//! Frame and distribution use heuristics (~92%/94% accurate).
+//! Pronoun and subject use Naive Bayes trained on annotated entries.
 
 use std::{
     collections::HashMap,
@@ -23,8 +21,6 @@ use crate::toadua::Toa;
 
 // ─── tokenizer ────────────────────────────────────────────────────────────────
 
-/// Split a definition body into tokens. Keeps alphabetic chars (including ı
-/// and other Unicode letters) and ▯ as a literal token.
 fn tokenize(text: &str) -> Vec<String> {
     let mut tokens = Vec::new();
     let mut current = String::new();
@@ -37,11 +33,9 @@ fn tokenize(text: &str) -> Vec<String> {
             tokens.push("▯".to_string());
         } else if ch.is_alphabetic() {
             current.push(ch);
-        } else {
-            if !current.is_empty() {
-                tokens.push(current.to_lowercase());
-                current.clear();
-            }
+        } else if !current.is_empty() {
+            tokens.push(current.to_lowercase());
+            current.clear();
         }
     }
     if !current.is_empty() {
@@ -52,14 +46,11 @@ fn tokenize(text: &str) -> Vec<String> {
 
 // ─── Naive Bayes ─────────────────────────────────────────────────────────────
 
+#[derive(Clone)]
 struct NaiveBayes {
-    /// Number of training examples per class.
     class_counts: HashMap<String, usize>,
-    /// token → class → count.
     token_class_counts: HashMap<String, HashMap<String, usize>>,
-    /// Total unique tokens (for Laplace smoothing denominator).
     vocab_size: usize,
-    /// Ordered list of classes (for deterministic argmax).
     classes: Vec<String>,
 }
 
@@ -67,7 +58,6 @@ impl NaiveBayes {
     fn train<'a>(examples: impl Iterator<Item = (&'a str, &'a str)>) -> Self {
         let mut class_counts: HashMap<String, usize> = HashMap::new();
         let mut token_class_counts: HashMap<String, HashMap<String, usize>> = HashMap::new();
-
         for (text, label) in examples {
             *class_counts.entry(label.to_string()).or_insert(0) += 1;
             for token in tokenize(text) {
@@ -78,46 +68,56 @@ impl NaiveBayes {
                     .or_insert(0) += 1;
             }
         }
-
         let vocab_size = token_class_counts.len();
         let mut classes: Vec<String> = class_counts.keys().cloned().collect();
         classes.sort();
-
         NaiveBayes { class_counts, token_class_counts, vocab_size, classes }
     }
 
-    fn predict(&self, text: &str) -> &str {
+    /// Returns (predicted_class, confidence).
+    /// Confidence is the softmax probability of the winning class,
+    /// i.e. exp(best_score) / sum(exp(all_scores)) — ranges 0..1.
+    fn predict_with_confidence(&self, text: &str) -> (String, f64) {
         let tokens = tokenize(text);
         let total_examples: usize = self.class_counts.values().sum();
         let n_classes = self.classes.len();
 
-        let best = self.classes.iter().max_by(|a, b| {
-            let score_for = |c: &str| -> f64 {
-                let class_count = *self.class_counts.get(c).unwrap_or(&0);
-                // log prior: Laplace-smoothed
-                let mut score =
-                    ((class_count + 1) as f64 / (total_examples + n_classes) as f64).ln();
-                // log likelihood: Laplace-smoothed
-                for token in &tokens {
-                    let token_count = self
-                        .token_class_counts
-                        .get(token)
-                        .and_then(|m| m.get(c))
-                        .copied()
-                        .unwrap_or(0);
-                    score += ((token_count + 1) as f64
-                        / (class_count + self.vocab_size + 1) as f64)
-                        .ln();
-                }
-                score
-            };
-            score_for(a).partial_cmp(&score_for(b)).unwrap()
-        });
+        let log_scores: Vec<f64> = self.classes.iter().map(|c| {
+            let class_count = *self.class_counts.get(c).unwrap_or(&0);
+            let mut score =
+                ((class_count + 1) as f64 / (total_examples + n_classes) as f64).ln();
+            for token in &tokens {
+                let token_count = self
+                    .token_class_counts
+                    .get(token)
+                    .and_then(|m| m.get(c))
+                    .copied()
+                    .unwrap_or(0);
+                score +=
+                    ((token_count + 1) as f64 / (class_count + self.vocab_size + 1) as f64).ln();
+            }
+            score
+        }).collect();
 
-        best.map(|s| s.as_str()).unwrap_or("")
+        let best_idx = log_scores
+            .iter()
+            .enumerate()
+            .max_by(|a, b| a.1.partial_cmp(b.1).unwrap())
+            .map(|(i, _)| i)
+            .unwrap_or(0);
+
+        // Numerically stable softmax: subtract max before exp
+        let max_score = log_scores[best_idx];
+        let exp_sum: f64 = log_scores.iter().map(|s| (s - max_score).exp()).sum();
+        let confidence = 1.0 / exp_sum; // exp(0) / exp_sum
+
+        (self.classes[best_idx].clone(), confidence)
     }
 
-    /// Print the most discriminative tokens per class (P(token|class) / P(token)).
+    fn predict(&self, text: &str) -> String {
+        self.predict_with_confidence(text).0
+    }
+
     fn print_top_tokens(&self, label: &str, n: usize, out: &mut impl io::Write) -> io::Result<()> {
         let total_examples: usize = self.class_counts.values().sum();
         writeln!(out, "Top discriminative tokens for {label}:")?;
@@ -126,11 +126,10 @@ impl NaiveBayes {
             let mut scores: Vec<(&str, f64)> = self
                 .token_class_counts
                 .iter()
-                .filter(|(_, m)| m.values().sum::<usize>() >= 3) // ignore rare tokens
+                .filter(|(_, m)| m.values().sum::<usize>() >= 3)
                 .map(|(token, class_map)| {
                     let token_total: usize = class_map.values().sum();
-                    let p_t_given_c =
-                        (*class_map.get(class.as_str()).unwrap_or(&0) + 1) as f64
+                    let p_t_given_c = (*class_map.get(class.as_str()).unwrap_or(&0) + 1) as f64
                         / (class_count + 1) as f64;
                     let p_t = (token_total + 1) as f64 / (total_examples + 1) as f64;
                     (token.as_str(), p_t_given_c / p_t)
@@ -144,7 +143,42 @@ impl NaiveBayes {
     }
 }
 
-// ─── frame heuristics (unchanged from previous version) ──────────────────────
+// ─── k-fold cross-validation ─────────────────────────────────────────────────
+
+fn kfold_accuracy(
+    examples: &[(&str, &str, &str)], // (body, pronoun, subject)
+    k: usize,
+) -> (f64, f64) {
+    let n = examples.len();
+    let mut correct_pron = 0usize;
+    let mut correct_subj = 0usize;
+
+    for fold in 0..k {
+        let test_start = fold * n / k;
+        let test_end = (fold + 1) * n / k;
+
+        let train: Vec<_> = examples[..test_start]
+            .iter()
+            .chain(examples[test_end..].iter())
+            .collect();
+        let test = &examples[test_start..test_end];
+
+        let pron_model = NaiveBayes::train(train.iter().map(|(b, p, _)| (*b, *p)));
+        let subj_model = NaiveBayes::train(train.iter().map(|(b, _, s)| (*b, *s)));
+
+        for (body, pron, subj) in test {
+            if pron_model.predict(body) == *pron { correct_pron += 1; }
+            if subj_model.predict(body) == *subj { correct_subj += 1; }
+        }
+    }
+
+    (
+        correct_pron as f64 / n as f64,
+        correct_subj as f64 / n as f64,
+    )
+}
+
+// ─── frame heuristics ────────────────────────────────────────────────────────
 
 fn primary_arity(body: &str) -> usize {
     body.split(';').next().unwrap_or(body).chars().filter(|&c| c == '▯').count()
@@ -252,13 +286,22 @@ const VALID_SUBJECTS: &[&str] = &["I", "F", "A", "E", "P", "S"];
 fn is_valid_pronoun(s: &str) -> bool { VALID_PRONOUNS.contains(&s) }
 fn is_valid_subject(s: &str) -> bool { VALID_SUBJECTS.contains(&s) }
 
+// ─── OOV rate ────────────────────────────────────────────────────────────────
+
+fn oov_rate(body: &str, model: &NaiveBayes) -> f64 {
+    let tokens = tokenize(body);
+    if tokens.is_empty() { return 0.0; }
+    let oov = tokens.iter().filter(|t| !model.token_class_counts.contains_key(t.as_str())).count();
+    oov as f64 / tokens.len() as f64
+}
+
 // ─── top-level ────────────────────────────────────────────────────────────────
 
 pub fn run(dict: &[Toa]) -> io::Result<()> {
     fs::create_dir_all("data")?;
     let mut out = fs::File::create("data/guesses.txt")?;
 
-    // ── train ─────────────────────────────────────────────────────────────
+    // ── collect annotated examples ────────────────────────────────────────
     let annotated: Vec<&Toa> = dict
         .iter()
         .filter(|t| t.has_metadata() && primary_arity(&t.body) > 0)
@@ -268,6 +311,22 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         })
         .collect();
 
+    // ── k-fold CV (10-fold) ───────────────────────────────────────────────
+    // Use a stable order (dict order) so results are reproducible.
+    let cv_examples: Vec<(&str, &str, &str)> = annotated
+        .iter()
+        .map(|t| (
+            t.body.as_str(),
+            t.pronoun.as_deref().unwrap(),
+            t.subject.as_deref().unwrap(),
+        ))
+        .collect();
+
+    eprint!("Running 10-fold CV... ");
+    let (cv_pron, cv_subj) = kfold_accuracy(&cv_examples, 10);
+    eprintln!("done");
+
+    // ── train final model on all annotated data ───────────────────────────
     let pronoun_model = NaiveBayes::train(
         annotated.iter().map(|t| (t.body.as_str(), t.pronoun.as_deref().unwrap()))
     );
@@ -280,8 +339,15 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     subject_model.print_top_tokens("subject", 10, &mut out)?;
     writeln!(out)?;
 
-    // ── accuracy pass (on training data — optimistic) ─────────────────────
-    writeln!(out, "=== MISMATCHES ON ANNOTATED ENTRIES (evaluated on training data) ===")?;
+    // ── 10-fold CV accuracy ───────────────────────────────────────────────
+    writeln!(out, "=== 10-FOLD CROSS-VALIDATION ACCURACY (honest estimate, n={}) ===",
+        cv_examples.len())?;
+    writeln!(out, "  pronoun: {:.1}%", cv_pron * 100.0)?;
+    writeln!(out, "  subject: {:.1}%", cv_subj * 100.0)?;
+    writeln!(out)?;
+
+    // ── training-data accuracy (inflated) ────────────────────────────────
+    writeln!(out, "=== MISMATCHES ON ANNOTATED ENTRIES (training data — inflated) ===")?;
     writeln!(out)?;
 
     let mut total = 0usize;
@@ -298,8 +364,8 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
 
         let frame = guess_frame(&toa.body, n);
         let dist  = guess_distribution(&toa.body, n);
-        let pron  = pronoun_model.predict(&toa.body).to_string();
-        let subj  = subject_model.predict(&toa.body).to_string();
+        let pron  = pronoun_model.predict(&toa.body);
+        let subj  = subject_model.predict(&toa.body);
 
         let af = toa.frame.as_deref();
         let ad = toa.distribution.as_deref();
@@ -318,9 +384,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
 
         if fm.unwrap_or(true) && dm.unwrap_or(true)
             && pm.unwrap_or(true) && sm.unwrap_or(true)
-        {
-            ok_all += 1;
-        }
+        { ok_all += 1; }
 
         let any_wrong = matches!(fm, Some(false)) || matches!(dm, Some(false))
             || matches!(pm, Some(false)) || matches!(sm, Some(false));
@@ -340,8 +404,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     };
 
     writeln!(out)?;
-    writeln!(out, "=== ACCURACY ({total} annotated entries, evaluated on training data) ===")?;
-    writeln!(out, "  (held-out experiment suggests ~67% real pronoun accuracy)")?;
     writeln!(out, "  frame:        {ok_frame}/{n_frame} ({:.1}%)", pct(ok_frame, n_frame))?;
     writeln!(out, "  distribution: {ok_dist}/{n_dist} ({:.1}%)",   pct(ok_dist,  n_dist))?;
     writeln!(out, "  pronoun:      {ok_pron}/{n_pron} ({:.1}%)",   pct(ok_pron,  n_pron))?;
@@ -351,21 +413,50 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     // ── guess pass ────────────────────────────────────────────────────────
     writeln!(out)?;
     writeln!(out, "=== GUESSES FOR UNANNOTATED ENTRIES ===")?;
+    writeln!(out, "  confidence = softmax prob of winning class (0..1)")?;
+    writeln!(out, "  oov = fraction of tokens unseen in training")?;
     writeln!(out)?;
 
     let mut n_guessed = 0usize;
+    let mut confidence_sum = 0.0f64;
+    let mut oov_sum = 0.0f64;
+    let mut low_conf: Vec<String> = Vec::new();
+
     for toa in dict.iter().filter(|t| !t.has_metadata()) {
         let n = primary_arity(&toa.body);
         if n == 0 { continue; }
+
         let frame = guess_frame(&toa.body, n);
         let dist  = guess_distribution(&toa.body, n);
-        let pron  = pronoun_model.predict(&toa.body);
-        let subj  = subject_model.predict(&toa.body);
+        let (pron, pron_conf) = pronoun_model.predict_with_confidence(&toa.body);
+        let (subj, subj_conf) = subject_model.predict_with_confidence(&toa.body);
+        let oov = oov_rate(&toa.body, &pronoun_model);
+        let min_conf = pron_conf.min(subj_conf);
+
         n_guessed += 1;
-        writeln!(out, "{} #{} → [({}) ({}) {} {}]",
-            toa.head, toa.id, frame, dist, pron, subj)?;
+        confidence_sum += min_conf;
+        oov_sum += oov;
+
+        let conf_str = format!("{:.0}%", min_conf * 100.0);
+        let oov_str = if oov > 0.0 { format!(" oov={:.0}%", oov * 100.0) } else { String::new() };
+
+        let line = format!("{} #{} → [({}) ({}) {} {}] conf={}{}",
+            toa.head, toa.id, frame, dist, pron, subj, conf_str, oov_str);
+
+        if min_conf < 0.5 {
+            low_conf.push(line.clone());
+        }
+        writeln!(out, "{line}")?;
     }
 
+    writeln!(out)?;
+    writeln!(out, "=== SUMMARY ===")?;
+    writeln!(out, "  unannotated entries guessed: {n_guessed}")?;
+    writeln!(out, "  mean confidence: {:.1}%", 100.0 * confidence_sum / n_guessed as f64)?;
+    writeln!(out, "  mean oov rate:   {:.1}%", 100.0 * oov_sum / n_guessed as f64)?;
+    writeln!(out, "  low-confidence guesses (conf < 50%): {}", low_conf.len())?;
+
     println!("data/guesses.txt: {total} annotated checked, {n_guessed} unannotated guessed");
+    println!("10-fold CV: pronoun {:.1}%, subject {:.1}%", cv_pron * 100.0, cv_subj * 100.0);
     Ok(())
 }
