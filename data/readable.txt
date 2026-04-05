@@ -1447,6 +1447,7 @@ aqcha [(0) (d) hóq E] @Dembim 2025-12-26 #9MvQfzSov $en +1
   Dembim (2026-02-11): Subject: event
   Dembim (2026-02-11): Distribution: d
   evie (2026-04-03): how is this subject:event but frame:0 ?
+  Dembim (2026-04-04): The idea is for it to behave the same as <@official ceo>, etc., in coercing a passed proposition to the event of that proposition.
 
 aqcheoja @seaqtaq 2024-11-23 #KlCnpM9Dz $en ±
 ▯ makes it so that they and ▯ are in relation ▯ with each other
@@ -8592,13 +8593,6 @@ scientific notation incorporating verb: turns following numbers X and Y into ver
 cıeqchuom [  phrase ] @tonibrown 2025-05-01 #yNkTRDqLb $en ±
 number: 1.157920892373162×10⁷⁷
   tonibrown (2025-05-01): AKA: 2^2^8, byteplex
-
-cıeqchuom [  phrase ] @salarua 2025-04-30 #urEEHT_bu $en -1
-number: 3.402823669×10³⁸
-  salarua (2025-04-30): AKA: 2^2^7, byteplex
-  salarua (2025-04-30): Used for counting in binary
-  salarua (2025-04-30): c.f. **hem**, **chuom**, **dobı**, **ıubı**, **buabı**
-  tonibrown (2025-05-01): correction: this number is called "overlong". its square is byteplex.
 
 cıeqde @jiqci 2024-06-06 #4LmsIL8AJ $en ±
 ▯ is fine / exquisite / elaborate.
@@ -23341,6 +23335,9 @@ Geba'ezu [(c) (d) hóq I] @jiqci 2023-05-19 #IDoX1seO5 $en ±
 ▯ is the PIE / Proto-Indo-European language.
   jiqci (2023-05-19): abbreviated **geobarata'eoropazu**
 
+gebaı @lassc 2026-04-04 #s1ruoN-4P $en ±
+▯ stims.
+
 gebıtım @kazoo 2025-06-19 #tLBlTN_NP $en ±
 ▯ is a mulberry fruit.
   kazoo (2025-06-19): ge:bıtım
@@ -27193,7 +27190,7 @@ guobuı @uakci 2024-05-15 #bwv8VDKkT $en ±
 guofaı @uakci 2022-10-13 #lu_N9aFwn $en ±
 ▯ is an instance of a frequent pattern ▯; ▯ occurs frequently (in a sense).
 
-guofıa @Ilmen 2018-10-08 #U7IfVVNXS $en +1
+guofıa [(c c) (d d) hóq E] @Ilmen 2018-10-08 #U7IfVVNXS $en +1
 ▯ is the previous occurrence of ▯.
 
 guoguo @uakci 2021-09-01 #zdLG_GOSx $en ±
@@ -34287,7 +34284,7 @@ jana [  phrase ] @uakci 2022-03-07 #7g6-bfsDK $en ±
 jâna [  phrase ] @uakci 2022-03-07 #FqIfLl3rl $en ±
 ‘whenever you’re ready’
 
-jane @Ilmen 2019-01-28 #SyvvCRFbE $en +1
+jane [(c c) (d d) tá I] @Ilmen 2019-01-28 #SyvvCRFbE $en +2
 ▯ is an arity of predicate ▯.
   uakci (2019-02-04): +1
 
@@ -40301,11 +40298,11 @@ kalo @jiqci 2023-06-22 #tYmiprJP2 $en ±
 ▯ is a calorie/kilocalorie.
   jiqci (2023-06-22): there were historically two calories, the large calorie being the amount of energy required to heat 1kg of water by 1 degree, and the small calorie being 1/1000th of that, i.e. heat required for 1-degree change of 1g of water. The term "calorie" nowadays refers to the large calorie, while "kilocalorie" means 1000 of the small calories, i.e. the two are equivalent.
 
-kam [  phrase ] @TheAndSys 2023-05-14 #RMwpYNQaP $en +1
+kam [  phrase ] @TheAndSys 2023-05-14 #RMwpYNQaP $en ±
 Number component: "and some"
   TheAndSys (2023-05-14): Used to say numbers like "thirty-something" (which would be saqheikam
 
-kám [  particle ] @uakci 2023-11-16 #AN91v-3b1 $en +1
+kám [  particle ] @uakci 2023-11-16 #AN91v-3b1 $en +2
 focus prefix like **bí**: expresses that the speaker is spelling out a definition for the marked phrase
   uakci (2023-11-16): under the **bï**-as-focus-marker, focus-markers-as-clefts proposal, this can be used like **lạ́hao käm, haohaohao hóa**
   uakci (2023-11-16): but importantly still valid as a focus marker: **he cheo kạmaı báq poq kú shê, ꝡä cheo shaıcıa kuaı soa mıetao póq da** ‘it’s when they unceasingly yearn to help each other out living that people love each other – that’s what «love» is’
@@ -47468,6 +47465,10 @@ leoqfuq @fagri 2020-05-29 #9lz71bysH $en ±
 
 leoqfuqche [(c) (d) hó I] @robintown 2023-02-06 #sjYLKJntA $en ±
 ▯ is an armorer.
+
+leoqgıa [(c) (d) máq I] @Laqme 2026-04-04 #NX5ajiFCt $en ±
+▯ is a seat belt.
+  Laqme (2026-04-04): kw: seatbelt
 
 leoqheaqsıu @Ilmen 2019-09-19 #uDoJepnZV $en ±
 ▯ is a house centipede; ▯ is a member of the Scutigeridae family.
@@ -82193,7 +82194,7 @@ tanoloha @Ilmen 2019-04-17 #Gt3_lHq_0 $en ± %substance,chemical_element
   Ilmen (2020-07-07): Lackafi confirmed the etymology of the Czech word as being indeed derived from the word "hlína" ("soil"), on the basis of the authoritative Czech etymological dictionary by Jiří Rejzek.
   jiqci (2025-03-01): Polish similarly has "glin" from "glina" ("clay")
 
-tao @Ilmen 2020-01-26 #1xcxEbPTn $toa +2 %action
+tao @Ilmen 2020-01-26 #1xcxEbPTn $toa +1 %action
 = taoshao rú ıq ▯ ▯.
 
 tao [(c 1i) (d d) hó A] @Isi 2024-07-23 #G8ZOUyaZc $en +1 %action
@@ -89119,7 +89120,7 @@ zamna [(c) (d) tá F] @robintown 2024-01-06 #kqBjdy6mv $en +3
 zamuo [  particle ] @uakci 2023-10-29 #g-pjR56XJ $en ±
 aspect: have yet to X
 
-zana @seaqtaq 2024-10-29 #pu7D4STL9 $en ±
+zana @seaqtaq 2024-10-29 #pu7D4STL9 $en +1
 ▯ is rich/flavorful/stimulating/deep; ▯ contains some special, notable, intense property which sets it apart from others of its kind
   seaqtaq (2024-11-14): Complement to **komu**
   seaqtaq (2025-08-24): This should have a fairly neutral connotation. The intense property may be quite negative or quite positive
