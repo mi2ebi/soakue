@@ -30962,7 +30962,7 @@ hochuhorechıu @mati 2025-12-14 #g4Sk2qxTb $en +1
 hochupaq @robintown 2024-09-01 #MkSm2rIYj $en ±
 ▯ is the eastern part of ▯.
 
-hochupoq @robintown 2022-08-07 #7M6HZBTr1 $en ±
+hochupoq [(c) (d) hó I] @robintown 2022-08-07 #7M6HZBTr1 $en ±
 ▯ is an easterner / from the east.
 
 Hochusamızu [(c) (d) hóq I] @salarua 2023-12-06 #Bpr_fPMVs $en ±
@@ -34872,7 +34872,7 @@ jeaqchua @uakci 2019-07-11 #IT1RNVOXC $en ±
 jeaqchuq @uakci 2021-09-27 #coXXCIXPk $en ±
 ▯ snacks on ▯; ▯ eats ▯ outside of a (presumed) meal schedule or as a non-serious meal.
 
-jeaqdaıbu @Ilmen 2018-12-29 #cV3kWhafX $en +1
+jeaqdaıbu [(c) (d) hóq P] @Ilmen 2018-12-29 #cV3kWhafX $en +1
 ▯ cannot increase; ▯ is the case to the largest possible extent.
   uakci (2018-12-29): +1, although I’d make this a JEO
 
@@ -42617,7 +42617,7 @@ kıechaq @mimiaoganhaqpy 2022-11-25 #GkdyMVbB5 $en ±
 kıedo @Ilmen 2024-11-18 #wNYfYbu7u $en ± %action
 ▯ rewards ▯ with action ▯.
 
-kıegıq @Ilmen 2019-01-30 #SIG-xusrN $en +1 %emotion
+kıegıq [(c c c) (d d d) hó I] @Ilmen 2019-01-30 #SIG-xusrN $en +1 %emotion
 ▯ feels resentment/bitterness towards ▯ for action ▯.
 
 kıeı [(c) (d) máq I] @Laqme 2022-11-24 #gQF5ugOZT $en +2
@@ -46244,7 +46244,7 @@ laısujıuchaq [(c) (d) hóq I] @uakci 2022-02-14 #mc7nLV6H8 $en +1
 laısujıulaochaq [(c) (d) hóq I] @uakci 2022-02-14 #k9xILWi-c $en +1
 ▯ is Christmas Eve.
 
-laısunıqjıuchaq @uakci 2022-02-14 #UgfWJRjaf $en +1
+laısunıqjıuchaq [(c) (d) hóq I] @uakci 2022-02-14 #UgfWJRjaf $en +1
 ▯ is Easter.
 
 laıshı @uakci 2022-02-14 #XrSNGG5TM $en ±
@@ -46633,7 +46633,7 @@ laqgeane @Iako 2025-05-11 #EuYzcqOos $en ±
 laqgearı @Laqme 2025-05-01 #QQLRB6Csc $en ±
 ▯ is a bell tower / belfry.
 
-laqgeateı @Ilmen 2019-01-28 #vhr7joiy7 $en +1
+laqgeateı [(c) (d) hóq I] @Ilmen 2019-01-28 #vhr7joiy7 $en +1
 ▯ is a pitch-contour, tune or melody.
   Laqme (2019-01-28): +1 (I had defined #laqtēi but I prefer this.)
 
@@ -64619,7 +64619,7 @@ paruq @Ilmen 2019-09-17 #w5fhARHRaA4 $en +1 %body_part,inner_organ
 paruqlaq @Ilmen 2019-09-17 #Eur1lUKi9Zv $en ± %linguistics,phonetics
 ▯ is a pharyngeal consonant.
 
-Pasaka @Laqme 2023-10-01 #S8D8p9IcT $en ±
+Pasaka [(c) (d) hóq I] @Laqme 2023-10-01 #S8D8p9IcT $en +1
 ▯ is Easter / Passover / Pesach.
 
 pasakala @salarua 2022-12-12 #DybdDBTQV $en ±
@@ -108043,9 +108043,6 @@ Semantic role: event ▯ has ▯ take place as part of the event.
 
 ⚠ paqkyı @Machy 2022-05-20 #Y2tTclrKj $en -1
 Semantic role: event ▯ has event ▯ take place as part of the former happening.
-
-⚠ pasyka @salarua 2022-12-02 #VU_8Qa1wq $en ±
-▯ is Easter
 
 ⚠ pesahy @salarua 2022-12-02 #sPHeU2kNI $en ±
 ▯ is Pesach/Passover

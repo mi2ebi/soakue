@@ -22,7 +22,7 @@ const UNDERDOT: char = '\u{0323}';
 #[allow(clippy::missing_panics_doc)]
 pub fn main() {
     let client = Client::builder()
-        .timeout(Duration::from_mins(2))
+        .timeout(Duration::from_mins(3))
         .build()
         .expect("Building client failed");
 

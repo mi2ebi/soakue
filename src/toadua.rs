@@ -217,7 +217,7 @@ impl Display for Toa {
                     [
                         frame.map_or_else(String::new, |f| format!("({f})")),
                         distribution.map_or_else(String::new, |d| format!("({d})")),
-                        pronoun.map_or_else(String::new, |p| p.to_string()),
+                        pronoun.map_or_else(String::new, |p| p.clone()),
                         subject.map_or_else(String::new, |s| s
                             .chars()
                             .next()
