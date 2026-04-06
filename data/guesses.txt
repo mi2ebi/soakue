@@ -7,9 +7,9 @@ Top discriminative tokens (LogReg Weights) for pronoun:
 Top discriminative tokens (LogReg Weights) for subject:
   A: ["_PRON_hó(4.82)", "_RAKU_tao(1.74)", "file(1.73)", "downloads(1.69)", "writes(1.58)", "themselves(1.57)", "that(1.43)", "considers(1.28)", "_RAKU_la(1.26)", "_RAKU_kım(1.22)"]
   I: ["chord(2.93)", "_PRON_máq(2.19)", "feels(1.97)", "_PRON_hó(1.89)", "_CAPS(1.66)", "_RAKU_loeq(1.52)", "address(1.50)", "_RAKU_che(1.50)", "an(1.45)", "_BIAS(1.44)"]
-  E: ["_PRON_hóq(1.84)", "season(1.75)", "time(1.70)", "place(1.65)", "takes(1.59)", "whatever(1.48)", "occurrence(1.41)", "trouble(1.38)", "happens(1.33)", "_RAKU_zaq(1.32)"]
+  E: ["_PRON_hóq(1.84)", "season(1.75)", "time(1.70)", "place(1.65)", "takes(1.59)", "whatever(1.48)", "occurrence(1.41)", "trouble(1.38)", "happens(1.33)", "sunrise(1.32)"]
   P: ["case(3.19)", "_PRON_hóq(2.43)", "question(2.19)", "true(1.67)", "proposition(1.62)", "by(1.53)", "unprecedented(1.34)", "decreases(1.27)", "doing(1.25)", "increases(1.15)"]
-  S: ["_PRON_tá(2.17)", "_RAKU_jıeq(1.99)", "_RAKU_na(1.90)", "circle(1.69)", "triangle(1.64)", "_RAKU_teuq(1.64)", "has(1.53)", "beautiful(1.38)", "square(1.35)", "_RAKU_lıo(1.33)"]
+  S: ["_PRON_tá(2.17)", "_RAKU_jıeq(1.99)", "_RAKU_na(1.90)", "circle(1.69)", "triangle(1.64)", "_RAKU_teuq(1.64)", "has(1.53)", "beautiful(1.38)", "square(1.35)", "clockwise(1.33)"]
   F: ["_RAKU_zuom(2.64)", "_PRON_tá(2.60)", "pertains(2.36)", "_RAKU_dıu(1.92)", "right(1.84)", "blows(1.68)", "_RAKU_nhuaı(1.61)", "_RAKU_coı(1.60)", "_RAKU_reo(1.51)", "age(1.51)"]
 
 === ACCURACY (n=3649) ===
