@@ -37,9 +37,9 @@ fn extract_features(toa: &Toa) -> String {
         && let Some(raku0) = rakus.last()
     {
         tokens.push(format!("_RAKU_{raku0}"));
-        // if let Some(raku1) = rakus.get(rakus.len() - 2) {
-        //     tokens.push(format!("_2_RAKU_{raku1}{raku0}"));
-        // }
+        if let Some(raku1) = rakus.get(rakus.len() - 2) {
+            tokens.push(format!("_2_RAKU_{raku1}{raku0}"));
+        }
     }
 
     tokens.push(format!("_ARITY_{}", primary_arity(&toa.body)));
@@ -100,7 +100,10 @@ struct LogisticRegression {
 }
 
 impl LogisticRegression {
-    fn train<'a>(examples: impl Iterator<Item = (&'a str, &'a str)>) -> Self {
+    fn train<'a>(
+        examples: impl Iterator<Item = (&'a str, &'a str)>,
+        weights: &HashMap<String, f64>,
+    ) -> Self {
         let mut class_to_id = HashMap::new();
         let mut vocab = HashMap::new();
         let mut processed_data = Vec::new();
@@ -160,8 +163,11 @@ impl LogisticRegression {
                     let target = if c_idx == *label_id { 1.0 } else { 0.0 };
                     let error = target - prob;
 
+                    let class_name = &model.classes[c_idx];
+                    let class_weight = weights.get(class_name).unwrap_or(&1.0);
+
                     for &t_id in token_ids {
-                        model.weights[t_id * num_classes + c_idx] += lr * error;
+                        model.weights[t_id * num_classes + c_idx] += lr * error * class_weight;
                     }
                 }
             }
@@ -370,9 +376,29 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
             .collect();
         let test = &examples[test_start..test_end];
 
+        let mut pron_weights = HashMap::new();
+        let mut subj_weights = HashMap::new();
+        let mut p_counts = HashMap::new();
+        let mut s_counts = HashMap::new();
+
+        for (_, p, s, _) in &train {
+            *p_counts.entry(p.to_string()).or_insert(0) += 1;
+            *s_counts.entry(s.to_string()).or_insert(0) += 1;
+        }
+
+        let train_n = train.len() as f64;
+        for (name, count) in p_counts {
+            pron_weights.insert(name, train_n / (f64::from(count) * 4.0)); // 4 main prons
+        }
+        for (name, count) in s_counts {
+            subj_weights.insert(name, train_n / (f64::from(count) * 6.0)); // A, I, E, F, P, S
+        }
+
         // train pronoun model on raw features
-        let pron_model =
-            LogisticRegression::train(train.iter().map(|(f, p, _, _)| (f.as_str(), *p)));
+        let pron_model = LogisticRegression::train(
+            train.iter().map(|(f, p, _, _)| (f.as_str(), *p)),
+            &pron_weights,
+        );
 
         // train subject model with chained pronoun feature:
         // for each training example, predict pronoun and append as feature
@@ -380,8 +406,10 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
             .iter()
             .map(|(f, p, s, _)| (with_pron_feature(f, p), *s))
             .collect();
-        let subj_model =
-            LogisticRegression::train(subj_train_examples.iter().map(|(f, s)| (f.as_str(), *s)));
+        let subj_model = LogisticRegression::train(
+            subj_train_examples.iter().map(|(f, s)| (f.as_str(), *s)),
+            &subj_weights,
+        );
 
         for (features, pron, subj, _) in test {
             let (pred_pron, raw_conf) = pron_model.predict_raw(features);
@@ -422,11 +450,10 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
 
 fn primary_arity(body: &str) -> usize {
     body.split(';')
-        .next()
-        .unwrap_or(body)
-        .chars()
-        .filter(|&c| c == '▯')
-        .count()
+        .filter(|clause| clause.contains('▯'))
+        .map(|clause| clause.chars().filter(|&c| c == '▯').count())
+        .max()
+        .unwrap_or(0)
 }
 
 fn normalize_body(s: &str) -> String {
@@ -509,7 +536,13 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
 
 fn guess_frame(body: &str, n: usize) -> String {
     (0..n)
-        .map(|i| classify_slot(body, i))
+        .map(|i| {
+            if i == n - 1 {
+                classify_slot(body, i)
+            } else {
+                "c"
+            }
+        })
         .collect::<Vec<_>>()
         .join(" ")
 }
@@ -584,6 +617,18 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         })
         .collect();
 
+    let mut subj_counts = std::collections::HashMap::new();
+    for (_, _, s, _) in &cv_examples {
+        *subj_counts.entry(s.to_string()).or_insert(0) += 1;
+    }
+
+    let total_n = cv_examples.len() as f64;
+    let num_subjs = subj_counts.len() as f64;
+    let subj_weights: std::collections::HashMap<String, f64> = subj_counts
+        .into_iter()
+        .map(|(name, count)| (name, total_n / (f64::from(count) * num_subjs)))
+        .collect();
+
     // ── export NB training data ──
     let mut f = fs::File::create("data/nb_export.tsv")?;
     writeln!(f, "features\tpron\tsubj\tarity")?;
@@ -601,8 +646,19 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     let calibration = Calibration::fit(cv.pron_calibration_data.clone(), 20);
 
     // ── train final models on all annotated data ──────────────────────────
-    let pronoun_model =
-        LogisticRegression::train(cv_examples.iter().map(|(f, p, _, _)| (f.as_str(), *p)));
+    let mut pron_counts = std::collections::HashMap::new();
+    for (_, p, _, _) in &cv_examples {
+        *pron_counts.entry(p.to_string()).or_insert(0) += 1;
+    }
+    let num_prons = pron_counts.len() as f64;
+    let pron_weights: std::collections::HashMap<String, f64> = pron_counts
+        .into_iter()
+        .map(|(name, count)| (name, total_n / (f64::from(count) * num_prons)))
+        .collect();
+    let pronoun_model = LogisticRegression::train(
+        cv_examples.iter().map(|(f, p, _, _)| (f.as_str(), *p)),
+        &pron_weights,
+    );
     // subject model: use predicted pronoun as chained feature
     let subj_train: Vec<(String, &str)> = cv_examples
         .iter()
@@ -611,7 +667,10 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             (with_pron_feature(f, &pred_pron), *s)
         })
         .collect();
-    let subject_model = LogisticRegression::train(subj_train.iter().map(|(f, s)| (f.as_str(), *s)));
+    let subject_model = LogisticRegression::train(
+        subj_train.iter().map(|(f, s)| (f.as_str(), *s)),
+        &subj_weights,
+    );
 
     let mut total = 0usize;
     let mut n_frame = 0usize;
@@ -686,8 +745,10 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
                 s_conf * 100.0
             );
 
-            let max_ml_conf = if !pm || !sm {
-                p_cal_conf.max(s_conf)
+            let max_ml_conf = if !pm {
+                1. + p_cal_conf
+            } else if !sm {
+                s_conf
             } else {
                 0.0
             };
@@ -820,8 +881,8 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
 
         writeln!(
             out,
-            "{} #{} → [({}) ({}) {} {}] conf={}{}",
-            toa.head, toa.id, frame, dist, pron, subj, conf_str, oov_str
+            "{} #{} → [({}) ({}) {} {}] conf={}{}\n  {}",
+            toa.head, toa.id, frame, dist, pron, subj, conf_str, oov_str, toa.body
         )?;
     }
 
