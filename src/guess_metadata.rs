@@ -34,9 +34,12 @@ fn extract_features(toa: &Toa) -> String {
     let mut tokens = tokenize(&toa.body);
 
     if let Some(rakus) = split_into_raku(&toa.head)
-        && let Some(final_raku) = rakus.last()
+        && let Some(raku0) = rakus.last()
     {
-        tokens.push(format!("_RAKU_{final_raku}"));
+        tokens.push(format!("_RAKU_{raku0}"));
+        // if let Some(raku1) = rakus.get(rakus.len() - 2) {
+        //     tokens.push(format!("_2_RAKU_{raku1}{raku0}"));
+        // }
     }
 
     tokens.push(format!("_ARITY_{}", primary_arity(&toa.body)));

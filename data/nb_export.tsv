@@ -114,6 +114,7 @@ what is ▯ like what impressions vibes does ▯ give off _BIAS _RAKU_hıa _ARIT
 ▯ is a craftsman artisan _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is technology _BIAS _RAKU_dıu _ARITY_1	hóq	F	1
 ▯ is a mason _BIAS _RAKU_che _ARITY_1	hó	I	1
+▯ is a canal artificial river _BIAS _RAKU_hıu _ARITY_1	máq	I	1
 ▯ is a workroom a room in which one produces assembles makes _BIAS _RAKU_kua _ARITY_1	máq	I	1
 ▯ is a part ingredient component needed to make ▯ _BIAS _RAKU_paq _ARITY_2	máq	I	2
 ▯ is a constructed language conlang _BIAS _RAKU_zu _ARITY_1	hóq	F	1
@@ -128,6 +129,7 @@ what is ▯ like what impressions vibes does ▯ give off _BIAS _RAKU_hıa _ARIT
 ▯ is pink _BIAS _RAKU_kıa _ARITY_1	máq	I	1
 ▯ is balsamic vinegar _BIAS _RAKU_zu _ARITY_1	máq	I	1
 ▯ is cantonese yue chinese _BIAS _RAKU_zu _ARITY_1	hóq	F	1
+▯ likes things that satisfy property ▯ ▯ likes all that ▯ s _BIAS _RAKU_cho _ARITY_2	hó	I	2
 ▯ pertains to the culture of bangladesh people s republic of bangladesh _BIAS _RAKU_shı _ARITY_1 _CAPS	tá	F	1
 ▯ is the country bangladesh people s republic of bangladesh _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
 ▯ is a leopard cat prionailurus bengalensis _BIAS _RAKU_to _ARITY_1	hó	I	1
@@ -217,6 +219,7 @@ in hindsight in retrospect ▯ is the case _BIAS _RAKU_jıe _ARITY_1	hóq	P	1
 ▯ is a plumber _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is a barrel _BIAS _RAKU_tıaı _ARITY_1	máq	I	1
 ▯ is a neck _BIAS _RAKU_boa _ARITY_1	máq	I	1
+▯ is a scarf _BIAS _RAKU_fuq _ARITY_1	máq	I	1
 ▯ yields to surrenders to gives up to ▯ opposite of fea _BIAS _RAKU_boaı _ARITY_2	hó	I	2
 ▯ is a necklace _BIAS _RAKU_lıem _ARITY_1	máq	I	1
 ▯ is the bavarian language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
@@ -355,6 +358,7 @@ the behaviors and attitudes ▯ properties are a culture shared among ▯ usuall
 ▯ is zipf s law _BIAS _RAKU_juao _ARITY_1	hóq	I	1
 ▯ is a hexagon _BIAS _RAKU_jıeq _ARITY_1	máq	I	1
 ▯ is spiky sharp jaggy crispy angular kiki _BIAS _RAKU_kı _ARITY_1	tá	F	1
+▯ feels on edge alert sharp focused stressed locked in _BIAS _RAKU_kım _ARITY_1	hó	I	1
 ▯ is toast _BIAS _RAKU_nam _ARITY_1	máq	I	1
 ▯ is a toaster _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is a coelacanth _BIAS _RAKU_kaq _ARITY_1	hó	I	1
@@ -410,6 +414,7 @@ somehow ▯ happens i don t know how _BIAS _RAKU_ra _ARITY_1	hóq	E	1
 ▯ is a poplar fieldcap velvet pioppini ▯ is cyclocybe aegerita _BIAS _RAKU_lıao _ARITY_2	máq	I	2
 ▯ takes place in the same way manner as ▯ _BIAS _RAKU_jeq _ARITY_2	hóq	E	2
 ▯ is a summer day _BIAS _RAKU_chaq _ARITY_1	hóq	I	1
+▯ is a settings file configuration file _BIAS _RAKU_kao _ARITY_1	hóq	I	1
 ▯ is unripe green almonds _BIAS _RAKU_zeo _ARITY_1	máq	I	1
 ▯ is hummus _BIAS _RAKU_sham _ARITY_1	máq	I	1
 ▯ has motion car travel sickness _BIAS _RAKU_bıa _ARITY_1	hó	I	1
@@ -426,6 +431,7 @@ somehow ▯ happens i don t know how _BIAS _RAKU_ra _ARITY_1	hóq	E	1
 ▯ is unforced a result of letting things go their way non goal oriented casual spontaneous _BIAS _RAKU_cheaı _ARITY_1	tá	F	1
 ▯ is a diacritic _BIAS _RAKU_laı _ARITY_1	máq	I	1
 ▯ can be trusted to reliably satisfies property ▯ _BIAS _RAKU_doe _ARITY_2	tá	F	2
+▯ is a credit card _BIAS _RAKU_ta _ARITY_1	máq	I	1
 ▯ is reliable dependable trustworthy _BIAS _RAKU_go _ARITY_1	tá	F	1
 ▯ entrusts ▯ to satisfy property ▯ _BIAS _RAKU_sue _ARITY_3	hó	A	3
 ▯ betrays ▯ _BIAS _RAKU_zua _ARITY_2	hó	A	2
@@ -443,6 +449,7 @@ somehow ▯ happens i don t know how _BIAS _RAKU_ra _ARITY_1	hóq	E	1
 ▯ is a finger print toe print _BIAS _RAKU_se _ARITY_1	máq	I	1
 ▯ is a date fruit _BIAS _RAKU_zeo _ARITY_1	máq	I	1
 ▯ is a jaw _BIAS _RAKU_ja _ARITY_1	máq	I	1
+▯ is an armchair ▯ ist ▯ is not really a professional and potentially merely an enthusiast and or doesn t have formal education to at satisfy ing property ▯ _BIAS _RAKU_kuaı _ARITY_2	hó	I	2
 ▯ is a community of ▯ ers _BIAS _RAKU_chem _ARITY_2	hóq	I	2
 ▯ is in heat estrus _BIAS _RAKU_neq _ARITY_1	hó	I	1
 ▯ and ▯ are in relation ▯ with each other _BIAS _RAKU_cuoı _ARITY_3	tá	F	3
@@ -502,6 +509,7 @@ any member of ▯ can be connected to any other member by repeated application o
 ▯ is a troublemaker mischief maker rascal trickster _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is a claw talon _BIAS _RAKU_ceaq _ARITY_1	máq	I	1
 ▯ is diamond dust ice crystals a cloud of tiny ice crystals formed at ground level _BIAS _RAKU_ha _ARITY_1	máq	I	1
+▯ pierces ▯ _BIAS _RAKU_peo _ARITY_2	máq	I	2
 ▯ is diamond _BIAS _RAKU_pıo _ARITY_1	máq	I	1
 ▯ is a cranberry berry _BIAS _RAKU_zeo _ARITY_1	máq	I	1
 ▯ likes on social media faves heart reacts on ▯ _BIAS _RAKU_nı _ARITY_2	hó	I	2
@@ -534,6 +542,7 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _ARITY_1	
 ▯ is penicillin _BIAS _RAKU_saı _ARITY_1	máq	I	1
 ▯ is a rite custom ritual tradition convention _BIAS _RAKU_toq _ARITY_1	hóq	F	1
 ▯ person institution culture etc observes recognizes statute custom law holiday convention ▯ _BIAS _RAKU_lıeı _ARITY_2	tá	F	2
+▯ is a save file _BIAS _RAKU_kao _ARITY_1	hóq	I	1
 ▯ mediates between among ▯ _BIAS _RAKU_kuq _ARITY_2	hó	A	2
 ▯ is determined resolved resolute to satisfy property ▯ _BIAS _RAKU_chum _ARITY_2	hó	I	2
 ▯ is an interpunct _BIAS _RAKU_laı _ARITY_1	máq	I	1
@@ -541,6 +550,7 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _ARITY_1	
 ▯ is a thread rope cord string _BIAS _RAKU_chuoı _ARITY_1	máq	I	1
 ▯ is asbestos _BIAS _RAKU_pıo _ARITY_1	máq	I	1
 ▯ is a byte _BIAS _RAKU_laı _ARITY_1	máq	I	1
+▯ is in bytes binary of a file digital _BIAS _RAKU_no _ARITY_1	tá	F	1
 ▯ hits collides with ▯ _BIAS _RAKU_chuoq _ARITY_2	tá	I	2
 ▯ is a crash collision incident _BIAS _RAKU_tue _ARITY_1	hóq	E	1
 ▯ are chopsticks _BIAS _RAKU_beaq _ARITY_1	máq	I	1
@@ -552,13 +562,19 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _ARITY_1	
 ▯ is a chinese language _BIAS _RAKU_zu _ARITY_1	hóq	F	1
 ▯ imagines ▯ _BIAS _RAKU_daım _ARITY_2	hó	A	2
 ▯ is dame in go a point on the board which neither player can claim as territory such as in a seki _BIAS _RAKU_dam _ARITY_1	máq	I	1
+▯ is a file _BIAS _RAKU_baq _ARITY_1	hóq	I	1
+▯ is a file system _BIAS _RAKU_heq _ARITY_1	hóq	I	1
+▯ is an address url file path to data ▯ _BIAS _RAKU_chıu _ARITY_2	hóq	I	2
 ▯ informs indicates says that ▯ is the case _BIAS _RAKU_do _ARITY_2	tá	F	2
+▯ video audio file gif etc plays _BIAS _RAKU_faq _ARITY_1	hóq	I	1
 ▯ is a hard disk _BIAS _RAKU_feoq _ARITY_1	máq	I	1
 ▯ researches question ▯ _BIAS _RAKU_joaı _ARITY_2	hó	A	2
 ▯ inputs data ▯ in form record ▯ _BIAS _RAKU_kaı _ARITY_3	hó	A	3
 ▯ is a computer _BIAS _RAKU_kea _ARITY_1	máq	I	1
+▯ is the size of file cache folder ▯ _BIAS _RAKU_ne _ARITY_2	hóq	I	2
 ▯ is a data table or spreadsheet _BIAS _RAKU_nhuo _ARITY_1	hóq	I	1
 ▯ infodumps _BIAS _RAKU_suaq _ARITY_1	hó	A	1
+▯ is the file format file type of ▯ _BIAS _RAKU_teı _ARITY_2	hóq	I	2
 ▯ is a floppy disk drive _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is a data format _BIAS _RAKU_zu _ARITY_1	hóq	F	1
 ▯ is data in format ▯ _BIAS _RAKU_bo _ARITY_2	hóq	F	2
@@ -619,6 +635,7 @@ daı tao ▯ ▯ _BIAS _RAKU_deq _ARITY_2	hó	I	2
 ▯ is a dj disk jockey _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is a precedent ▯ being the case sets a precedent for when similar situations occur in the future _BIAS _RAKU_dım _ARITY_1	hóq	P	1
 ▯ is unprecedented _BIAS _RAKU_cıa _ARITY_1	hóq	P	1
+▯ authorizes authenticates themselves as being allowed to satisfy property ▯ _BIAS _RAKU_neaı _ARITY_2	hó	A	2
 ▯ is our sun any star regularly bringing light and warmth to the place where the speaker is at the time of utterance the star s the speaker is currently orbiting _BIAS _RAKU_hoe _ARITY_1	máq	I	1
 ▯ is direct _BIAS _RAKU_dıoq _ARITY_1	tá	F	1
 ▯ is explicit clearly stated _BIAS _RAKU_no _ARITY_1	hóq	F	1
@@ -659,6 +676,7 @@ daı tao ▯ ▯ _BIAS _RAKU_deq _ARITY_2	hó	I	2
 ▯ is a dungeon master _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is steak meat with short fibers cut against the grain _BIAS _RAKU_nueq _ARITY_1	máq	I	1
 ▯ is an imitation of property ▯ _BIAS _RAKU_'aı _ARITY_2	tá	F	2
+▯ adds ▯ to toadua _BIAS _RAKU_do _ARITY_2	hó	A	2
 ▯ must be the case ▯ must be the case if ▯ is the case _BIAS _RAKU_duaı _ARITY_1	hóq	P	1
 ▯ is a tautology universal fact invariant _BIAS _RAKU_dao _ARITY_1	hóq	P	1
 ▯ is conscripted into the armed forces ▯ undergoes compulsory military service _BIAS _RAKU_che _ARITY_1	hó	I	1
@@ -713,6 +731,7 @@ predicate made happen ▯ is caused made happen by ▯ identical to bo tua _BIAS
 ▯ acts as if they are a ▯ _BIAS _RAKU_ruo _ARITY_2	hó	A	2
 ▯ pertains to the culture of ireland _BIAS _RAKU_rıe _ARITY_1 _CAPS	tá	F	1
 ▯ is the country ireland _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
+▯ is the country ireland _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
 ▯ rocks slaps is awesome is super good _BIAS _RAKU_gı _ARITY_1	tá	F	1
 ▯ pertains to the culture of spain kingdom of spain _BIAS _RAKU_nha _ARITY_1 _CAPS	tá	F	1
 ▯ is the country spain kingdom of spain _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
@@ -732,6 +751,7 @@ predicate made happen ▯ is caused made happen by ▯ identical to bo tua _BIAS
 ▯ is a fly agaric amanita muscaria _BIAS _RAKU_lıao _ARITY_1	máq	I	1
 ▯ is a common button white champignon chestnut mushroom agaricus bisporus _BIAS _RAKU_lıao _ARITY_1	máq	I	1
 ▯ is a file path of file ▯ _BIAS _RAKU_chıu _ARITY_2	hóq	F	2
+▯ is a filename of file ▯ _BIAS _RAKU_chua _ARITY_2	hóq	I	2
 ▯ is a cep penny bun porcino mushroom ▯ is boletus edulis _BIAS _RAKU_lıao _ARITY_2	máq	I	2
 ▯ is a sp cortinarius caperatus fungus _BIAS _RAKU_lıao _ARITY_1	máq	I	1
 ▯ is a robot not necessarily humanoid _BIAS _RAKU_kea _ARITY_1	máq	I	1
@@ -892,6 +912,7 @@ in any case anyhow ▯ is the case _BIAS _RAKU_huı _ARITY_1	hóq	P	1
 ▯ is a lamp torch flashlight candle bulb light making device _BIAS _RAKU_go _ARITY_1	máq	I	1
 ▯ cooks is cooked through exposure to thermal radiation _BIAS _RAKU_loeq _ARITY_1	tá	I	1
 ▯ is a light bulb _BIAS _RAKU_so _ARITY_1	máq	I	1
+▯ emits light ▯ _BIAS _RAKU_zıa _ARITY_2	máq	I	2
 ▯ senses perceives ▯ which stands in contrast to their normalized sensory experience _BIAS _RAKU_gaı _ARITY_2	hó	I	2
 ▯ is lovely is really pleasing is really nice _BIAS _RAKU_rı _ARITY_1	tá	F	1
 ▯ is an optimum _BIAS _RAKU_moa _ARITY_1	hóq	F	1
@@ -915,6 +936,7 @@ in any case anyhow ▯ is the case _BIAS _RAKU_huı _ARITY_1	hóq	P	1
 ▯ is a medicine substance _BIAS _RAKU_saı _ARITY_1	máq	I	1
 ▯ is a pharmacist _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is in relation ▯ with me _BIAS _RAKU_jı _ARITY_2	tá	F	2
+▯ is rubber _BIAS _RAKU_la _ARITY_1	máq	I	1
 ▯ errs makes a mistake _BIAS _RAKU_gom _ARITY_1	hó	A	1
 ▯ is a gomjom microscopic spirit that haunts people and makes them clumsy _BIAS _RAKU_jom _ARITY_1	hó	I	1
 ▯ is the intangible zuosaı of a gomjom used to cause clumsiness and mistakes _BIAS _RAKU_saı _ARITY_1	máq	I	1
@@ -1009,11 +1031,13 @@ in any case anyhow ▯ is the case _BIAS _RAKU_huı _ARITY_1	hóq	P	1
 ▯ is the hausa language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
 ▯ leaves ▯ as is untouched _BIAS _RAKU_sem _ARITY_2	hó	A	2
 ▯ is a bee _BIAS _RAKU_pı _ARITY_1	hó	I	1
+▯ is a recipe _BIAS _RAKU_se _ARITY_1	hóq	I	1
 ▯ is a cook _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is a kitchen _BIAS _RAKU_kua _ARITY_1	máq	I	1
 ▯ vomits up ▯ _BIAS _RAKU_cıu _ARITY_2	hó	I	2
 ▯ is a cook _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is a blender food processor _BIAS _RAKU_kea _ARITY_1	máq	I	1
+▯ is a han character kanji hànzì hanja _BIAS _RAKU_laı _ARITY_1	hóq	I	1
 ▯ is a waitron _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is a farmer _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is farmland _BIAS _RAKU_guaq _ARITY_1	máq	I	1
@@ -1046,6 +1070,7 @@ in any case anyhow ▯ is the case _BIAS _RAKU_huı _ARITY_1	hóq	P	1
 ▯ is a crop top _BIAS _RAKU_doq _ARITY_1	máq	I	1
 ▯ is an armadillo cingulata taxonomic order _BIAS _RAKU_bo _ARITY_1	hó	I	1
 ▯ is an elf _BIAS _RAKU_fa _ARITY_1	hó	I	1
+file ▯ contains data ▯ whole content _BIAS _RAKU_kao _ARITY_2	hóq	I	2
 ▯ is a member of genus anas containing various species of dabbling duck _BIAS _RAKU_tı _ARITY_1	hó	I	1
 ▯ is a horseradish armoracia rusticana _BIAS _RAKU_req _ARITY_1	máq	I	1
 ▯ is horseradish condiment _BIAS _RAKU_sham _ARITY_1	máq	I	1
@@ -1161,11 +1186,13 @@ what does ▯ sound like how does ▯ sound _BIAS _RAKU_hıa _ARITY_2	tá	F	2
 ▯ is a sound an auditory quale _BIAS _RAKU_nhuaı _ARITY_1	hóq	F	1
 ▯ is muffled dampened _BIAS _RAKU_puao _ARITY_1	tá	S	1
 ▯ is a hearing aid _BIAS _RAKU_kea _ARITY_1	máq	I	1
+▯ is a snow leopard panthera uncia _BIAS _RAKU_kıa _ARITY_1	hó	I	1
 ▯ is a witch _BIAS _RAKU_he _ARITY_1	hó	I	1
 ▯ pertains to cyberspace _BIAS _RAKU_ı _ARITY_1	tá	F	1
 ▯ is ok acceptable alright _BIAS _RAKU_ıao _ARITY_1	hóq	F	1
 ▯ is the igbo language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
 ▯ is ibuprofen _BIAS _RAKU_feq _ARITY_1	máq	I	1
+▯ of a noise is shrill sharp piercing _BIAS _RAKU_cı _ARITY_1	hóq	I	1
 ▯ is an ida a kind of elemental being to which various personal conditions affects are attributed in toaq folklore _BIAS _RAKU_da _ARITY_1	máq	I	1
 ▯ is oleaster russian olive silverberry _BIAS _RAKU_zeo _ARITY_1	máq	I	1
 ▯ is the yiddish language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
@@ -1216,6 +1243,7 @@ at least ▯ is the case as in things could be worse _BIAS _RAKU_sa _ARITY_1	hó
 ▯ satisfies property ▯ more than it really does _BIAS _RAKU_ha _ARITY_2	tá	F	2
 ▯ satisfies property ▯ less than it really does _BIAS _RAKU_ku _ARITY_2	tá	F	2
 ▯ is a derani hiatus mark _BIAS _RAKU_laı _ARITY_1	máq	I	1
+▯ is a signed integer _BIAS _RAKU_zıu _ARITY_1	hóq	I	1
 ▯ is a predicatizer _BIAS _RAKU_toa _ARITY_1	hóq	I	1
 ▯ is a slot as seen in toaq word definitions _BIAS _RAKU_chuao _ARITY_1	máq	I	1
 ▯ is a white vertical rectangle u 25af _BIAS _RAKU_laı _ARITY_1	máq	I	1
@@ -1232,6 +1260,7 @@ at least ▯ is the case as in things could be worse _BIAS _RAKU_sa _ARITY_1	hó
 ▯ nä foaq kuaq hóa ké kımpaq âq côm báq poq butı sòaojuı hôa kéobu côm báq tı sòaojuı hôa _BIAS _RAKU_foaq _ARITY_1	hó	I	1
 ▯ is a radar _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ runs away _BIAS _RAKU_ra _ARITY_1	hó	A	1
+▯ is a teleprinter teletype _BIAS _RAKU_kıq _ARITY_1	máq	I	1
 ▯ feels emotionally disconnected distant from ▯ _BIAS _RAKU_jaom _ARITY_2	hó	I	2
 ▯ is a distal peripheral extreme part s of ▯ _BIAS _RAKU_paq _ARITY_2	tá	I	2
 ▯ is sparse spread out it s far away from itself i e its parts or members are far away from one another _BIAS _RAKU_taq _ARITY_1	tá	S	1
@@ -1369,6 +1398,7 @@ according to ▯ ▯ is the case _BIAS _RAKU_jı _ARITY_2	hó	I	2
 ▯ is a hunter _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is the dyula language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
 ▯ is a jumbotron _BIAS _RAKU_toq _ARITY_1	máq	I	1
+▯ is an ovum egg cell _BIAS _RAKU_jum _ARITY_1	máq	I	1
 ▯ is a picture representing the proposition ▯ _BIAS _RAKU_fuaq _ARITY_2	máq	I	2
 there is risk of ▯ being true _BIAS _RAKU_rıeı _ARITY_1	hóq	P	1
 ▯ is a message _BIAS _RAKU_juo _ARITY_1	hóq	I	1
@@ -1430,10 +1460,13 @@ there is risk of ▯ being true _BIAS _RAKU_rıeı _ARITY_1	hóq	P	1
 ▯ is a rabbit _BIAS _RAKU_nı _ARITY_1	hó	I	1
 ▯ is rabbit meat _BIAS _RAKU_nueq _ARITY_1	máq	I	1
 ▯ is a spirit soul or ghost _BIAS _RAKU_tu _ARITY_1	hó	I	1
+▯ uploads sends to ▯ file ▯ _BIAS _RAKU_dıeq _ARITY_3	hó	A	3
+▯ uploads file ▯ _BIAS _RAKU_dıeq _ARITY_2	hó	A	2
 ▯ downloads receives file ▯ from ▯ _BIAS _RAKU_juq _ARITY_3	máq	A	3
 ▯ downloads receives file ▯ _BIAS _RAKU_juq _ARITY_2	máq	A	2
 ▯ is a scribe _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is limestone _BIAS _RAKU_pıo _ARITY_1	máq	I	1
+▯ is a file _BIAS _RAKU_laı _ARITY_1	hóq	I	1
 ▯ has official sex ▯ e g in official records _BIAS _RAKU_chı _ARITY_2	hó	I	2
 ▯ is an optical hard drive _BIAS _RAKU_sıoq _ARITY_1	máq	I	1
 ▯ is a cappuccino _BIAS _RAKU_no _ARITY_1	máq	I	1
@@ -1448,10 +1481,12 @@ what does ▯ look like how does ▯ look _BIAS _RAKU_hıa _ARITY_2	tá	F	2
 ▯ has visual perception ▯ visual quale raw view as opposed to the stimulus object or a proposition inferred from the perception _BIAS _RAKU_gaı _ARITY_2	hó	I	2
 ▯ pertains to the culture of cambodia kingdom of cambodia _BIAS _RAKU_tıa _ARITY_1 _CAPS	tá	F	1
 ▯ is the country cambodia kingdom of cambodia _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
+▯ has their eyes open _BIAS _RAKU_rıa _ARITY_1	hó	I	1
 ▯ is wales _BIAS _RAKU_gua _ARITY_1	máq	I	1
 ▯ is the welsh language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
 ▯ is calcite _BIAS _RAKU_pıo _ARITY_1	máq	I	1
 ▯ is visually similar to ▯ ▯ looks like ▯ _BIAS _RAKU_sıu _ARITY_2	tá	S	2
+▯ is a lens spectacle lens telescope lens photographic lens all alike _BIAS _RAKU_shıa _ARITY_1	máq	I	1
 ▯ is a freak of nature an abberation a mutant _BIAS _RAKU_shoı _ARITY_1	hó	I	1
 ▯ is a karaoke machine _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is the karakalpak language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
@@ -1462,6 +1497,7 @@ what does ▯ look like how does ▯ look _BIAS _RAKU_hıa _ARITY_2	tá	F	2
 ▯ is the kazakh language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
 ▯ is a nut _BIAS _RAKU_sı _ARITY_1	máq	I	1
 ▯ is retired _BIAS _RAKU_sıaq _ARITY_1	hó	A	1
+▯ studies flashcards _BIAS _RAKU_tao _ARITY_1	hó	A	1
 ▯ is a cat _BIAS _RAKU_to _ARITY_1	hó	I	1
 ▯ is an illocution marking particle like ka da moq etc _BIAS _RAKU_toa _ARITY_1	hóq	I	1
 ▯ is a cat ears hat _BIAS _RAKU_chea _ARITY_1	máq	I	1
@@ -1507,6 +1543,8 @@ predicatizer ▯ is x and all that x entails brings forth salient or contextual 
 ▯ is an artificial satellite _BIAS _RAKU_keam _ARITY_1	máq	I	1
 ▯ is a robot android artificial intelligence sci fi sense machine person _BIAS _RAKU_poq _ARITY_1	hó	I	1
 ▯ is a nebula _BIAS _RAKU_puao _ARITY_1	máq	I	1
+▯ is salted _BIAS _RAKU_bo _ARITY_1	tá	I	1
+▯ is unsalted _BIAS _RAKU_cıa _ARITY_1	tá	I	1
 ▯ is marinated treated with brine _BIAS _RAKU_cuaı _ARITY_1	máq	I	1
 ▯ is a salt pan _BIAS _RAKU_guaq _ARITY_1	máq	I	1
 ▯ is brined cucumber ▯ is a gherkin pickle _BIAS _RAKU_shu _ARITY_1	máq	I	1
@@ -1565,6 +1603,7 @@ predicatizer ▯ is x and all that x entails brings forth salient or contextual 
 ▯ is the copper age _BIAS _RAKU_me _ARITY_1	hóq	F	1
 ▯ feels resentment bitterness towards ▯ for action ▯ _BIAS _RAKU_gıq _ARITY_3	hó	I	3
 ▯ is ice _BIAS _RAKU_kıeı _ARITY_1	máq	I	1
+▯ is an ice cube _BIAS _RAKU_gam _ARITY_1	máq	I	1
 ▯ is ice cold _BIAS _RAKU_koa _ARITY_1	tá	I	1
 ▯ keeps ▯ the case _BIAS _RAKU_kıem _ARITY_2	hó	A	2
 ▯ has recoiled in disgust ▯ cringes _BIAS _RAKU_gue _ARITY_1	hó	I	1
@@ -1605,6 +1644,7 @@ predicatizer ▯ is x and all that x entails brings forth salient or contextual 
 ▯ is an automobile car _BIAS _RAKU_che _ARITY_1	máq	I	1
 ▯ is a code _BIAS _RAKU_do _ARITY_1	máq	I	1
 ▯ chooses what the answer to ▯ indirect question is _BIAS _RAKU_koe _ARITY_2	hó	A	2
+▯ is pathetic _BIAS _RAKU_fıe _ARITY_1	tá	F	1
 ▯ is considering the different options ▯ for making a choice as to which will satisfy property ▯ _BIAS _RAKU_koem _ARITY_3	hó	I	3
 ▯ is a walking stick _BIAS _RAKU_beaq _ARITY_1	máq	I	1
 ▯ is a hoof _BIAS _RAKU_ceaq _ARITY_1	máq	I	1
@@ -1718,6 +1758,7 @@ relevantly ▯ satisfies property ▯ it is ▯ that satisfies property ▯ ▯ 
 ▯ is the country latvia republic of latvia _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
 ▯ is a pitch contour tune or melody _BIAS _RAKU_teı _ARITY_1	hóq	I	1
 ▯ is a tonal language tone language _BIAS _RAKU_zu _ARITY_1	hóq	F	1
+▯ is an audio file sound recording _BIAS _RAKU_kao _ARITY_1	hóq	I	1
 ▯ is a speaker _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is headphones or earbuds _BIAS _RAKU_fuq _ARITY_1	máq	I	1
 ▯ is phonotactics _BIAS _RAKU_dıu _ARITY_1	hóq	F	1
@@ -1857,6 +1898,7 @@ fork of izrjjekrf ▯ is a joke word _BIAS _RAKU_toa _ARITY_1	hóq	I	1
 ▯ is the game negative score of player ▯ the higher the number the worse for the player _BIAS _RAKU_ne _ARITY_2	hóq	I	2
 ▯ is an occupational professional player of ▯ _BIAS _RAKU_che _ARITY_2	hó	I	2
 ▯ is a professional player _BIAS _RAKU_che _ARITY_1	hó	I	1
+▯ is a save file in a game _BIAS _RAKU_kao _ARITY_1	hóq	I	1
 ▯ plays physical sport ▯ _BIAS _RAKU_duo _ARITY_2	hó	I	2
 ▯ is the game of rock paper sciccors _BIAS _RAKU_keq _ARITY_1	hóq	F	1
 ▯ is a video game console _BIAS _RAKU_kea _ARITY_1	máq	I	1
@@ -2029,6 +2071,7 @@ mo ▯ says text to ▯ _BIAS _RAKU_moao _ARITY_2	hó	A	2
 ▯ is a therapist psychotherapist talk therapist _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is an emoji _BIAS _RAKU_laı _ARITY_1	máq	I	1
 ▯ is rounded round blunt dull bouba _BIAS _RAKU_moem _ARITY_1	tá	F	1
+▯ feels mellow relaxed sleepy spaced out adrift dazed slow dull content _BIAS _RAKU_moe _ARITY_1	hó	I	1
 ▯ loses their cool has a meltdown _BIAS _RAKU_tuq _ARITY_1	hó	I	1
 ▯ feels sympathy for ▯ _BIAS _RAKU_nuoq _ARITY_2	hó	I	2
 ▯ is lava molten rock _BIAS _RAKU_pıo _ARITY_1	máq	I	1
@@ -2070,6 +2113,7 @@ coq sâ juna ▯ jü kuqse hóa _BIAS _RAKU_na _ARITY_1	hóq	I	1
 bu mıe ▯ jü luı mıe hóa _BIAS _RAKU_muaq _ARITY_1	hó	I	1
 ▯ is a necromancer _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is beautiful in its deathly transience or reminder thereof _BIAS _RAKU_de _ARITY_1	tá	F	1
+▯ kills ▯ _BIAS _RAKU_ja _ARITY_2	hó	A	2
 ▯ mourns grieves over the death of ▯ _BIAS _RAKU_meo _ARITY_2	hó	I	2
 ▯ is a tombstone _BIAS _RAKU_pıo _ARITY_1	máq	I	1
 ▯ is quintessential paradigmatic archetypal standard _BIAS _RAKU_soq _ARITY_1	tá	F	1
@@ -2088,6 +2132,7 @@ understanding the meaning of ▯ is hard _BIAS _RAKU_noa _ARITY_1	hóq	I	1
 ▯ is a gyroscope _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is a drill _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is a gyroscope _BIAS _RAKU_kea _ARITY_1	máq	I	1
+▯ rotates ▯ _BIAS _RAKU_tua _ARITY_2	hó	A	2
 ▯ occurs during the whole duration of ▯ _BIAS _RAKU_rao _ARITY_2	hóq	E	2
 ▯ is a knuckle finger joint _BIAS _RAKU_bea _ARITY_1	máq	I	1
 ▯ waves at ▯ _BIAS _RAKU_duo _ARITY_2	hó	A	2
@@ -2147,6 +2192,7 @@ understanding the meaning of ▯ is hard _BIAS _RAKU_noa _ARITY_1	hóq	I	1
 ▯ proves shows demonstrates that ▯ is the case _BIAS _RAKU_neaı _ARITY_2	hó	A	2
 ▯ is a proof _BIAS _RAKU_se _ARITY_1	hóq	I	1
 ▯ is ashamed ▯ feels shame _BIAS _RAKU_neao _ARITY_1	hó	I	1
+▯ is somewhat mildly the case ▯ is the case to neither extreme extent _BIAS _RAKU_chu _ARITY_1	hóq	P	1
 ▯ pertains to the culture of netherlands kingdom of the netherlands _BIAS _RAKU_laq _ARITY_1 _CAPS	tá	F	1
 ▯ is the country netherlands kingdom of the netherlands _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
 ▯ is the dutch language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	F	1
@@ -2339,6 +2385,7 @@ cuoı ▯ ▯ ní _BIAS _RAKU_la _ARITY_2	tá	F	2
 ▯ somnambulates ▯ walks in their sleep _BIAS _RAKU_koı _ARITY_1	hó	I	1
 ▯ is the dreamworld _BIAS _RAKU_nuom _ARITY_1	máq	I	1
 ▯ is june _BIAS _RAKU_nea _ARITY_1	hóq	I	1
+▯ is chiral _BIAS _RAKU_zıam _ARITY_1	tá	F	1
 ▯ is in a hypnotic state trance _BIAS _RAKU_shıe _ARITY_1	hó	I	1
 ▯ is a sedative _BIAS _RAKU_zuo _ARITY_1	máq	I	1
 ▯ does back to ▯ the relation ▯ _BIAS _RAKU_nuq _ARITY_3	hó	I	3
@@ -2511,6 +2558,7 @@ some of ▯ do ▯ to each other _BIAS _RAKU_cheo _ARITY_2	tá	F	2
 ▯ is a pokemon _BIAS _RAKU_kem _ARITY_1	hó	I	1
 ▯ pertains to the culture of poland republic of poland _BIAS _RAKU_laq _ARITY_1 _CAPS	tá	F	1
 ▯ is the country poland republic of poland _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
+▯ is a tokiponist _BIAS _RAKU_poq _ARITY_1	hó	I	1
 ▯ is a personal id card _BIAS _RAKU_ta _ARITY_1	máq	I	1
 ▯ is a robot _BIAS _RAKU_kea _ARITY_1	hó	I	1
 ▯ is socially awkward bad with people _BIAS _RAKU_nıeq _ARITY_1	hó	A	1
@@ -2587,6 +2635,7 @@ lanao ▯ is outbound headed to the outskirts of the spiral _BIAS _RAKU_na _ARIT
 ▯ is coiled up rolled up bundled up _BIAS _RAKU_taq _ARITY_1	máq	I	1
 ▯ is a spiral helix shape _BIAS _RAKU_teı _ARITY_1	hóq	I	1
 ▯ is the surface of ▯ _BIAS _RAKU_rem _ARITY_2	tá	I	2
+▯ is at on the surface of ▯ _BIAS _RAKU_tı _ARITY_2	tá	S	2
 ▯ is a color _BIAS _RAKU_reo _ARITY_1	hóq	I	1
 ▯ is saturated vivid vibrant _BIAS _RAKU_caı _ARITY_1	máq	I	1
 ▯ is color theory _BIAS _RAKU_dıu _ARITY_1	hóq	F	1
@@ -2740,6 +2789,7 @@ fork of qmpgdfm1l ▯ is a salami _BIAS _RAKU_lam _ARITY_1	máq	I	1
 ▯ has three colors ▯ is trichromatic _BIAS _RAKU_bo _ARITY_1	máq	I	1
 ▯ is a whisper _BIAS _RAKU_se _ARITY_1	hóq	F	1
 ▯ is a moron idiot halfwit dunce fool _BIAS _RAKU_zao _ARITY_1	hó	I	1
+▯ is associated related to something satisfying property ▯ _BIAS _RAKU_raq _ARITY_2	tá	F	2
 ▯ is a kind of linen wrapping worn in toaqgua to cover the arms and sometimes also leg and torso _BIAS _RAKU_shı _ARITY_1	máq	I	1
 ▯ is a skirt sarong kilt non legged lower body garment suspended at the waist _BIAS _RAKU_ro _ARITY_1	máq	I	1
 ▯ manages to satisfy property ▯ despite expectations _BIAS _RAKU_ta _ARITY_2	hó	I	2
@@ -2854,6 +2904,7 @@ how about ▯ _BIAS _RAKU_hıa _ARITY_1	tá	F	1
 ▯ is an aide assistant _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ cooperate with each other for achieving the task of collectively having property ▯ _BIAS _RAKU_cheo _ARITY_2	hó	A	2
 ▯ unhelps interfers with hinders ▯ s attempt to satisfy the property ▯ _BIAS _RAKU_gıq _ARITY_3	hó	A	3
+▯ is a vector _BIAS _RAKU_zıu _ARITY_1	hóq	I	1
 ▯ interacts socially socializes with ▯ _BIAS _RAKU_soao _ARITY_2	hó	A	2
 ▯ is socially skilled tactful _BIAS _RAKU_joe _ARITY_1	tá	F	1
 ▯ is socially awkward _BIAS _RAKU_jua _ARITY_1	tá	F	1
@@ -2907,6 +2958,7 @@ how about ▯ _BIAS _RAKU_hıa _ARITY_1	tá	F	1
 ▯ beats wins against ▯ in a battle or competition _BIAS _RAKU_taı _ARITY_2	hó	A	2
 ▯ is a war _BIAS _RAKU_zuom _ARITY_1	hóq	F	1
 ▯ is a citrus fruit _BIAS _RAKU_zeo _ARITY_1	máq	I	1
+▯ is a spork _BIAS _RAKU_kuao _ARITY_1	máq	I	1
 ▯ is a spoon _BIAS _RAKU_kum _ARITY_1	máq	I	1
 ▯ is a a5 chord _BIAS _RAKU_fe _ARITY_1	hóq	I	1
 ▯ is a asus2 chord _BIAS _RAKU_gu _ARITY_1	hóq	I	1
@@ -2977,6 +3029,7 @@ fork of official predicate ▯ among ▯ is the ▯ est ▯ among ▯ satisfies 
 ▯ is a gaug chord _BIAS _RAKU_pı _ARITY_1	hóq	I	1
 ▯ is a g major chord _BIAS _RAKU_sa _ARITY_1	hóq	I	1
 ▯ is an emt _BIAS _RAKU_che _ARITY_1	hó	I	1
+▯ is soy milk _BIAS _RAKU_noaı _ARITY_1	máq	I	1
 ▯ is a fast food worker _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is an emulator virtualization software _BIAS _RAKU_rom _ARITY_1	hóq	I	1
 ▯ is a vip _BIAS _RAKU_che _ARITY_1	hó	I	1
@@ -3004,6 +3057,7 @@ fork of official predicate ▯ among ▯ is the ▯ est ▯ among ▯ satisfies 
 ▯ is a loom _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is a heaven _BIAS _RAKU_ga _ARITY_1	máq	I	1
 ▯ is great awesome impressive _BIAS _RAKU_suoı _ARITY_1	tá	F	1
+▯ tries to satisfy property ▯ which ends up in a hilariously catastrophic failure _BIAS _RAKU_buaq _ARITY_2	hó	A	2
 ▯ is a supercomputer _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is a disaster catastrophe _BIAS _RAKU_zuom _ARITY_1	hóq	F	1
 ▯ pertains to the culture of finland republic of finland _BIAS _RAKU_suom _ARITY_1 _CAPS	tá	F	1
@@ -3035,6 +3089,7 @@ fork of official predicate ▯ among ▯ is the ▯ est ▯ among ▯ satisfies 
 ▯ is a terminal emulator console _BIAS _RAKU_rom _ARITY_1	máq	I	1
 ▯ is a vanguard of some army or force _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is a prosecutor _BIAS _RAKU_che _ARITY_1	hó	I	1
+▯ is inside out _BIAS _RAKU_tıa _ARITY_1	máq	I	1
 ▯ is a positive number _BIAS _RAKU_zıu _ARITY_1	hóq	I	1
 ▯ reaches its natural conclusion ends at the time and in the way one would expect _BIAS _RAKU_shaı _ARITY_1	hóq	E	1
 ▯ disposes of discards bins removes throws out ▯ _BIAS _RAKU_ta _ARITY_2	hó	A	2
@@ -3112,6 +3167,8 @@ ceo ıq ▯ ▯ _BIAS _RAKU_sho _ARITY_2	tá	F	2
 ▯ is soy sauce _BIAS _RAKU_ju _ARITY_1	máq	I	1
 ▯ facepalms _BIAS _RAKU_pa _ARITY_1	hó	A	1
 tao feobo ▯ ▯ _BIAS _RAKU_do _ARITY_2	hó	A	2
+▯ is a mask _BIAS _RAKU_fuq _ARITY_1	máq	I	1
+▯ makes a face expressing property ▯ _BIAS _RAKU_kuaq _ARITY_2	hó	I	2
 ▯ is a falcon genus falco _BIAS _RAKU_ku _ARITY_1	hó	I	1
 ▯ falls _BIAS _RAKU_shua _ARITY_1	máq	I	1
 ▯ is a primate belonging to the haplorhini taxonomic suborder _BIAS _RAKU_hua _ARITY_1	hó	I	1
@@ -3169,6 +3226,7 @@ doing ▯ is a way of doing ▯ _BIAS _RAKU_jı _ARITY_2	hóq	P	2
 ▯ tries doing ▯ to see if they like doing it they like the result ▯ tries property ▯ on for size _BIAS _RAKU_taom _ARITY_2	hó	A	2
 ▯ reminds ▯ to satisfy property ▯ _BIAS _RAKU_ca _ARITY_3	hó	A	3
 ▯ is timid shy _BIAS _RAKU_rue _ARITY_1	hó	I	1
+▯ refuses to satisfy property ▯ _BIAS _RAKU_rı _ARITY_2	hó	A	2
 ▯ is a step in doing ▯ _BIAS _RAKU_toaı _ARITY_2	hóq	F	2
 ▯ to each member of ▯ one after the other does ▯ 2 _BIAS _RAKU_tu _ARITY_3	tá	I	3
 ▯ claps their hands _BIAS _RAKU_paq _ARITY_1	hó	A	1
@@ -3235,6 +3293,7 @@ doing ▯ is a way of doing ▯ _BIAS _RAKU_jı _ARITY_2	hóq	P	2
 ▯ is a router _BIAS _RAKU_kea _ARITY_1	máq	I	1
 ▯ is spatially together with ▯ _BIAS _RAKU_gaq _ARITY_2	tá	I	2
 ▯ is spatially continuous _BIAS _RAKU_me _ARITY_1	tá	I	1
+▯ is a vault safe containing ▯ _BIAS _RAKU_heq _ARITY_2	máq	I	2
 ▯ is a degree word _BIAS _RAKU_toa _ARITY_1	hóq	I	1
 ▯ is a degree phrase _BIAS _RAKU_toam _ARITY_1	máq	I	1
 ▯ is colored in patches tiles of different colors _BIAS _RAKU_reo _ARITY_1	máq	I	1
@@ -3274,6 +3333,7 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _ARITY_2	hó	I	2
 ▯ is a toaqist a person pertaining to the toaq language _BIAS _RAKU_poq _ARITY_1	hó	I	1
 ▯ is toaq colored pink and white and light blue _BIAS _RAKU_reo _ARITY_1	máq	I	1
 ▯ is a park where toaqists have met _BIAS _RAKU_soaq _ARITY_1	máq	I	1
+▯ is un toaqic goes against toaq s principles _BIAS _RAKU_zıam _ARITY_1	tá	F	1
 ▯ is in toaq _BIAS _RAKU_no _ARITY_1	tá	F	1
 ▯ is a transformer deep learning sense _BIAS _RAKU_rom _ARITY_1	hóq	I	1
 ▯ cuts ▯ _BIAS _RAKU_toe _ARITY_2	hó	A	2
@@ -3298,10 +3358,13 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _ARITY_2	hó	I	2
 ▯ is a crapton crapload shitton shitload buttload a lot loads metric ton of something _BIAS _RAKU_na _ARITY_1	tá	I	1
 ▯ is cardboard _BIAS _RAKU_peq _ARITY_1	máq	I	1
 ▯ is genderqueer transgender nonbinary _BIAS _RAKU_sı _ARITY_1	hó	I	1
+▯ torrents file ▯ ▯ downloads file ▯ over a protocol like bittorrent _BIAS _RAKU_juq _ARITY_2	hó	A	2
+▯ seeds file ▯ ▯ uploads broadcasts file ▯ over a protocol like bittorrent _BIAS _RAKU_zıa _ARITY_2	hó	A	2
 ▯ brilliantly expresses idea ▯ _BIAS _RAKU_che _ARITY_2	hó	I	2
 ▯ is a tram car _BIAS _ARITY_1	máq	I	1
 ▯ is the ubykh language _BIAS _RAKU_zu _ARITY_1 _CAPS	hóq	I	1
 ▯ is a cloak _BIAS _RAKU_fuq _ARITY_1	máq	I	1
+▯ throws themselves lurches at towards ▯ _BIAS _RAKU_hıeq _ARITY_2	hó	A	2
 ▯ acts physically friendly intimately toward ▯ _BIAS _RAKU_ruo _ARITY_2	hó	A	2
 ▯ is a horn body part _BIAS _RAKU_tuaq _ARITY_1	máq	I	1
 ▯ is a unicorn mythical horned horse _BIAS _RAKU_ku _ARITY_1	hó	I	1
@@ -3320,6 +3383,7 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _ARITY_2	hó	I	2
 ▯ is the big bang _BIAS _RAKU_tuq _ARITY_1 _CAPS	hóq	F	1
 ▯ comprise make up constitute all the parts of whole ▯ _BIAS _RAKU_paq _ARITY_2	tá	I	2
 ▯ is the lexicon of language ▯ the entirety of the words of a language _BIAS _RAKU_toa _ARITY_2	hóq	I	2
+▯ is a situation _BIAS _RAKU_tue _ARITY_1	hóq	F	1
 ▯ is cross linguistic common to all languages _BIAS _RAKU_chıeq _ARITY_1	hóq	I	1
 ▯ is physically weak _BIAS _RAKU_rue _ARITY_1	tá	I	1
 ▯ pertains to the culture of turkey republic of turkey _BIAS _RAKU_ke _ARITY_1 _CAPS	tá	F	1
@@ -3355,11 +3419,13 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _ARITY_2	hó	I	2
 ▯ pertains to the culture of united states united states of america _BIAS _RAKU_na _ARITY_1 _CAPS	tá	F	1
 ▯ is the country united states united states of america _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
 ▯ is a youtuber _BIAS _RAKU_che _ARITY_1	hó	I	1
+▯ is an unsigned integer _BIAS _RAKU_zıu _ARITY_1	hóq	I	1
 ▯ is plastic _BIAS _RAKU_chım _ARITY_1	máq	I	1
 ▯ searches online for ▯ _BIAS _RAKU_hu _ARITY_2	hóq	A	2
 ▯ is a wi fi network _BIAS _RAKU_faı _ARITY_1	máq	I	1
 ▯ is a water etc well _BIAS _RAKU_me _ARITY_1	máq	I	1
 ▯ defiles desecrates profanes violates ▯ _BIAS _RAKU_rı _ARITY_2	hó	A	2
+▯ is intense excruciating unbearable _BIAS _RAKU_ꝡem _ARITY_1	tá	F	1
 ▯ is a restrictive relative clause phrase _BIAS _RAKU_toam _ARITY_1	máq	I	1
 ▯ is yogurt yoghurt _BIAS _RAKU_gu _ARITY_1	máq	I	1
 ▯ dreams that they invent ▯ _BIAS _RAKU_ku _ARITY_2	hó	A	2
@@ -3429,9 +3495,14 @@ signature ▯ is something that makes one contextually unique in some salient re
 ▯ sparkles _BIAS _RAKU_zıa _ARITY_1	máq	I	1
 ▯ is an eruption _BIAS _RAKU_zuom _ARITY_1	hóq	F	1
 ▯ is a 0 off false bit _BIAS _RAKU_dao _ARITY_1	hóq	I	1
+▯ person or speech act or event points at mentions designates ▯ _BIAS _RAKU_zıe _ARITY_2	tá	F	2
+▯ is an index finger _BIAS _RAKU_cheı _ARITY_1	máq	I	1
+▯ is an arrow symbol or similar pointing shape _BIAS _RAKU_laı _ARITY_1	hóq	I	1
+▯ points at to ▯ _BIAS _RAKU_tao _ARITY_2	hó	A	2
 ▯ pertains to the culture of zimbabwe republic of zimbabwe _BIAS _RAKU_bue _ARITY_1 _CAPS	tá	F	1
 ▯ is the country zimbabwe republic of zimbabwe _BIAS _RAKU_gua _ARITY_1 _CAPS	máq	I	1
 ▯ is a black hat computer hacker _BIAS _RAKU_che _ARITY_1	hó	I	1
+▯ is a digital file _BIAS _RAKU_kao _ARITY_1	hóq	I	1
 ▯ is a cyber criminal black hat hacker _BIAS _RAKU_che _ARITY_1	hó	I	1
 ▯ is zirconium _BIAS _RAKU_nıum _ARITY_1	máq	I	1
 ▯ is a number could be integer rational real complex _BIAS _RAKU_zıu _ARITY_1	hóq	I	1
@@ -3576,3 +3647,4 @@ what is the purpose of ▯ _BIAS _RAKU_hı _ARITY_1	hóq	F	1
 ▯ is a fish from the beta genus _BIAS _ARITY_1	hó	I	1
 ▯ is juice _BIAS _ARITY_1	máq	I	1
 ▯ beats up beats the hell out of ▯ rendering the latter broken or badly hurt damaged _BIAS _ARITY_2	hó	I	2
+▯ is a general chat channel hosted in toadua _BIAS _ARITY_1	hóq	I	1
