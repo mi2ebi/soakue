@@ -66,10 +66,7 @@ fn normalize_for_validation(text: &str) -> String {
         .replace(" ı", "'i")
         .replace(" o", "'o")
         .replace(" u", "'u")
-        .replace(
-            |x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x),
-            "",
-        )
+        .replace(|x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x), "")
 }
 pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
     let normalized = normalize_for_validation(word);
@@ -85,16 +82,11 @@ pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
 
 impl Toa {
     pub fn set_warning(&mut self) {
-        let toneless: String = self
-            .head
-            .nfd()
-            .filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c))
-            .collect();
-        self.warn = ([
-            "ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq",
-        ]
-        .iter()
-        .any(|v| toneless.contains(v))
+        let toneless: String =
+            self.head.nfd().filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c)).collect();
+        self.warn = (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
+            .iter()
+            .any(|v| toneless.contains(v))
             || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
             || self.head.nfc().any(|c| {
                 !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
@@ -122,14 +114,9 @@ impl Toa {
             .collect_vec();
     }
     pub fn has_metadata(&self) -> bool {
-        [
-            self.frame.clone(),
-            self.pronoun.clone(),
-            self.distribution.clone(),
-            self.subject.clone(),
-        ]
-        .iter()
-        .any(Option::is_some)
+        [self.frame.clone(), self.pronoun.clone(), self.distribution.clone(), self.subject.clone()]
+            .iter()
+            .any(Option::is_some)
     }
     pub fn fixup_metadata(&mut self) {
         if [
@@ -146,20 +133,14 @@ impl Toa {
         if let Some(pronoun) = &self.pronoun
             && !["ho", "maq", "hoq", "ta", "raı", "particle", "phrase"].contains(&pronoun.as_str())
         {
-            println!(
-                "{} #{} has pronoun {}, removing",
-                self.head, self.id, pronoun
-            );
+            println!("{} #{} has pronoun {}, removing", self.head, self.id, pronoun);
             self.pronoun = None;
         }
         if let Some(pronoun) = &self.pronoun
             && !["particle", "phrase"].contains(&pronoun.as_str())
         {
-            self.pronoun = Some(
-                format!("{}\u{0301}{}", &pronoun[0..2], &pronoun[2..])
-                    .nfc()
-                    .to_string(),
-            );
+            self.pronoun =
+                Some(format!("{}\u{0301}{}", &pronoun[0..2], &pronoun[2..]).nfc().to_string());
         }
         if let Some(subject) = &self.subject {
             self.subject =
@@ -213,19 +194,24 @@ impl Display for Toa {
             if warn { "⚠ " } else { "" },
             if self.has_metadata() {
                 format!(
-                    " [{}]",
-                    [
-                        frame.map_or_else(String::new, |f| format!("({f})")),
-                        distribution.map_or_else(String::new, |d| format!("({d})")),
-                        pronoun.map_or_else(String::new, |p| p.clone()),
-                        subject.map_or_else(String::new, |s| s
-                            .chars()
-                            .next()
-                            .unwrap()
-                            .to_uppercase()
-                            .collect::<String>()),
-                    ]
-                    .join(" ")
+                    " [{}{}{}{}]",
+                    frame.clone().map_or_else(String::new, |f| format!("({f})")),
+                    distribution.clone().map_or_else(String::new, |d| format!(
+                        "{}({d})",
+                        if frame.is_some() { " " } else { "" }
+                    )),
+                    pronoun.clone().map_or_else(String::new, |p| format!(
+                        "{}{p}",
+                        if frame.is_some() || distribution.is_some() { " " } else { "" }
+                    )),
+                    subject.map_or_else(String::new, |s| format!(
+                        "{}{s}",
+                        if frame.is_some() || distribution.is_some() || pronoun.is_some() {
+                            " "
+                        } else {
+                            ""
+                        }
+                    )),
                 )
             } else {
                 String::new()
@@ -250,9 +236,7 @@ impl Display for Toa {
 }
 
 impl PartialOrd for Toa {
-    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
-        Some(self.cmp(other))
-    }
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> { Some(self.cmp(other)) }
 }
 
 impl Ord for Toa {
