@@ -105,7 +105,7 @@ function search(q) {
       if (+query > dict.length)
         return {err: `there are only ${dict.length} entries!`};
     }
-    if (operator == "frame" && !/^(0|1x?|2(xx)?|c(0|1[ix]?|2(ix|x[ix])?|c(0|1[ijx]?|2(i[jx]|j[ix]|x[ijx])?|c)?)?)?$/.test(query))
+    if (operator == "frame" && !/^(0|1x?|2(xx)?|c(0|1[ix]?|2([ix][ix])?|c(0|1[ijx]?|2([ijx][ijx])?|c)?)?)?$/.test(query))
       return {
         err: `<code>${escapeHTML(query.replace(/(?=[ce\d])/g, " "))}</code> isn't a valid frame`
       }
