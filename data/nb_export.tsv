@@ -801,6 +801,7 @@ predicate edible ▯ is edible _BIAS _RAKU_tıao _2_RAKU_chuqtıao _ARITY_1	tá	
 predicate hope ▯ has hope that ▯ is the case ▯ believes ▯ can happen _BIAS _RAKU_chı _2_RAKU_daıchı _ARITY_2	hó	I	2
 ▯ imagines ▯ _BIAS _RAKU_daım _ARITY_2	hó	A	2
 predicate idea ▯ is an idea _BIAS _RAKU_sıo _2_RAKU_daısıo _ARITY_1	hóq	I	1
+▯ is an external acquired separable property of ▯ s _BIAS _RAKU_ta _2_RAKU_daıta _ARITY_2	hóq	P	2
 ▯ is dame in go a point on the board which neither player can claim as territory such as in a seki _BIAS _RAKU_dam _ARITY_1	máq	I	1
 predicate defeat ▯ defeats ▯ _BIAS _RAKU_na _2_RAKU_dana _ARITY_2	hó	A	2
 predicate information ▯ is information data _BIAS _RAKU_dao _ARITY_1	hóq	I	1
@@ -1904,6 +1905,7 @@ predicate leader ▯ is a leader of ▯ _BIAS _RAKU_joaq _ARITY_2	hó	I	2
 predicate skilled ▯ is skilled at satisfying property ▯ _BIAS _RAKU_joe _ARITY_2	hó	I	2
 ▯ is a charlatan _BIAS _RAKU_che _2_RAKU_duche _ARITY_1	hó	I	1
 ▯ is an intern _BIAS _RAKU_che _2_RAKU_guaıche _ARITY_1	hó	I	1
+▯ shows demonstrates reveals that ▯ is the case _BIAS _RAKU_joeı _ARITY_2	hó	A	2
 ▯ is a smart device _BIAS _RAKU_kea _2_RAKU_joekea _ARITY_1	máq	I	1
 ▯ is ▯ s dominant hand _BIAS _RAKU_joem _ARITY_2	máq	I	2
 ▯ does ▯ 1 while being good at it to ru jỏe to tảo ▯ ▯ _BIAS _RAKU_poı _2_RAKU_joepoı _ARITY_2	hó	A	2

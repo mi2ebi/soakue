@@ -14351,7 +14351,7 @@ daıshe'ao @TheAndSys 2023-05-25 #wAaG7tXwh $en ±
 ▯ is technically the case
   TheAndSys (2023-05-25): it just felt right, somehow
 
-daıta @uakci 2021-08-10 #Gm6pvKSrX $en ±
+daıta [(c c) (d d) hóq P] @uakci 2021-08-10 #Gm6pvKSrX $en ±
 ▯ is an external/acquired/separable property of ▯’s.
   uakci (2021-08-10): also: mutable
   uakci (2021-08-10): the property is not satisfied by the individual at a given time, you may use **ma**: dảıtā/bủ dủaıtā mâ rủo hóa baq gỉ na baq kủnē — dogs are not born obedient or not obedient; a dog’s well-behavedness is circumstantial.
@@ -30473,7 +30473,7 @@ hoamoa @uakci 2020-05-20 #gopFu_0ZE $en ±
 hoao [phrase] @uakci 2024-12-04 #PziTocxEI $en ±
 pro-verb: stands for the term currently being defined
 
-hoapa @Ilmen 2019-04-14 #2XHCwwlko $en ±
+hoapa @Ilmen 2019-04-14 #2XHCwwlko $en -1
 The antecedent(s) of the relative clause satisfies property ▯.
 
 hoaq [(c) (d) tá I] @official 2026-02-16 #jGU72SVFV7m $en ±
@@ -37392,8 +37392,10 @@ joeguaı @uakci 2022-08-06 #erLj22Cvt $en ±
 joeguaıche [(c) (d) hó I] @Laqme 2024-10-14 #Fr09tBA8j $en ±
 ▯ is an intern.
 
-joeı @Laqme 2025-04-09 #cArsX0oTp $en +1
+joeı [(c 0) (d d) hó A] @Laqme 2025-04-09 #cArsX0oTp $en +1
 ▯ shows / demonstrates / reveals that ▯ is the case.
+  evie (2026-04-08): is this intended to be agentive?
+  Laqme (2026-04-08): yes (subject is a person)
 
 joeıse @Laqme 2025-04-09 #lTOtsYtfz $en +1
 ▯ is a demonstration.
@@ -46439,7 +46441,7 @@ lara [(c) (d) máq I] @lassc 2023-10-31 #_XzCkgdEg $en +1
 ▯ are bay leaves/laurel leaves (herb/spice).
   Dembim (2026-02-01): leaf
 
-laraı [(c 1) hóq] @Dembim 2026-01-21 #iqF_qI6IX $en ±
+laraı [(c 1x) (d d) hóq] @Dembim 2026-01-21 #iqF_qI6IX $en ±
 ▯ is an abstract object "encoding" property ▯
   Dembim (2026-01-21): Frame: c 1
   Dembim (2026-01-21): Pronominal_class: hoq
