@@ -41,12 +41,14 @@ fn extract_features(toa: &Toa) -> String {
         && let Some(raku0) = rakus.last()
     {
         tokens.push(format!("_RAKU_{raku0}"));
-        if let Some(raku1) = rakus.get(rakus.len() - 2) {
+        if rakus.len() >= 2
+            && let Some(raku1) = rakus.get(rakus.len() - 2)
+        {
             tokens.push(format!("_2_RAKU_{raku1}{raku0}"));
         }
     }
 
-    tokens.push(format!("_ARITY_{}", primary_arity(&toa.body)));
+    tokens.push(format!("_ARITY_{}", primary_arity(&toa.body).0));
 
     if toa.head.chars().next().is_some_and(char::is_uppercase) {
         tokens.push("_CAPS".to_string());
@@ -423,26 +425,23 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
 
 // ─── frame heuristics ────────────────────────────────────────────────────────
 
-fn primary_arity(body: &str) -> usize {
+fn primary_arity(body: &str) -> (usize, &str) {
     body.split(';')
         .filter(|clause| clause.contains('▯'))
-        .map(|clause| clause.chars().filter(|&c| c == '▯').count())
-        .max()
-        .unwrap_or(0)
+        .map(|clause| (clause.chars().filter(|&c| c == '▯').count(), clause))
+        .max_by_key(|(a, _)| *a)
+        .unwrap_or_default()
 }
 
-fn normalize_body(s: &str) -> String {
-    s.chars().filter(|&c| c != '*' && c != '†' && c != '‡').collect::<String>().to_lowercase()
-}
+fn normalize_body(s: &str) -> String { s.to_lowercase() }
 
 fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
     let parts: Vec<&str> = body.split('▯').collect();
     let before = normalize_body(parts.get(slot_idx).copied().unwrap_or(""));
     let after = normalize_body(parts.get(slot_idx + 1).copied().unwrap_or(""));
-    let after = after.trim_start_matches(|c: char| " ;,./†*".contains(c));
+    let after = after.trim_start_matches(|c: char| " ;,./".contains(c));
 
-    if after.starts_with("is the case")
-        || after.starts_with("is not the case")
+    if after.contains("is the case")
         || (1..=2).any(|n| after.split_whitespace().skip(n).join(" ").starts_with("the case"))
         || after.starts_with("is true")
         || after.starts_with("is false")
@@ -456,10 +455,14 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
         return "0";
     }
 
+    if before.ends_with("for doing ") {
+        return "1x";
+    }
+
     let is_property = before.ends_with("property ")
         || before.contains("satisfies ")
         || before.contains("satisfying ")
-        || before.ends_with("for doing ");
+        || before.ends_with("to do ");
 
     if is_property {
         if before.ends_with("instructions for ") || before.ends_with("recipe for ") {
@@ -475,6 +478,7 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
                 "compels",
                 "manipulat",
                 "persuad",
+                "to do",
             ]
             .iter()
             .any(|v| b.contains(v))
@@ -507,13 +511,19 @@ fn guess_frame(body: &str, n: usize) -> String {
 }
 
 fn guess_distribution(body: &str, n: usize) -> String {
-    let b = body.to_lowercase();
-    let collective = b.contains("each other")
-        || b.contains("mutual")
-        || b.contains("collectively")
-        || b.contains("reciprocal")
-        || b.contains("both sides");
-    (0..n).map(|i| if collective && i == 0 { "n" } else { "d" }).collect::<Vec<_>>().join(" ")
+    let b = normalize_body(body);
+    let n_collective = if b.starts_with("▯ and ▯") {
+        2
+    } else {
+        usize::from(
+            b.contains("each other")
+                || b.contains("mutual")
+                || b.contains("collectively")
+                || b.contains("reciprocal")
+                || b.contains("both sides"),
+        )
+    };
+    (0..n).map(|i| if i < n_collective { "n" } else { "d" }).collect::<Vec<_>>().join(" ")
 }
 
 // ─── valid label sets
@@ -551,7 +561,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         .iter()
         .filter(|t| {
             t.has_metadata()
-                && primary_arity(&t.body) > 0
+                && primary_arity(&t.body).0 > 0
                 && t.pronoun.as_deref().is_some_and(is_valid_pronoun)
                 && t.subject.as_deref().is_some_and(is_valid_subject)
                 && t.scope == "en"
@@ -565,7 +575,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
                 extract_features(t),
                 t.pronoun.as_deref().unwrap(),
                 t.subject.as_deref().unwrap(),
-                primary_arity(&t.body),
+                primary_arity(&t.body).0,
             )
         })
         .collect();
@@ -633,14 +643,14 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
 
     for toa in annotated {
         let n = primary_arity(&toa.body);
-        if n == 0 {
+        if n.0 == 0 {
             continue;
         }
         total += 1;
 
         // Guesses
-        let frame = guess_frame(&toa.body, n);
-        let dist = guess_distribution(&toa.body, n);
+        let frame = guess_frame(n.1, n.0);
+        let dist = guess_distribution(n.1, n.0);
         let features = extract_features(toa);
         let (pron, p_raw_conf) = pronoun_model.predict_raw(&features);
         let p_cal_conf = calibration.calibrate(p_raw_conf);
@@ -774,12 +784,12 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
 
     for toa in dict.iter().filter(|t| !t.has_metadata() && !t.warn && t.scope == "en") {
         let n = primary_arity(&toa.body);
-        if n == 0 {
+        if n.0 == 0 {
             continue;
         }
 
-        let frame = guess_frame(&toa.body, n);
-        let dist = guess_distribution(&toa.body, n);
+        let frame = guess_frame(n.1, n.0);
+        let dist = guess_distribution(n.1, n.0);
         let features = extract_features(toa);
         let (pron, raw_conf) = pronoun_model.predict_raw(&features);
         let cal_conf = calibration.calibrate(raw_conf);
