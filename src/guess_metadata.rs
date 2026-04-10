@@ -485,12 +485,7 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
         return "1i";
     }
 
-    if before.ends_with("relation ")
-        || before.ends_with("in relation ")
-        || before.ends_with("satisfies relation ")
-        || before.ends_with("relationship ")
-        || before.ends_with("connected by relation ")
-    {
+    if before.ends_with("relation ") || before.ends_with("relationship ") {
         let b = body.to_lowercase();
         if b.contains("each other") || b.contains("reciprocal") || b.contains("both sides") {
             return "2xx";
