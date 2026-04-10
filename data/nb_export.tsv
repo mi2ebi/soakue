@@ -198,6 +198,7 @@ predicate build ▯ builds assembles makes ▯ _BIAS _RAKU_baı _ARITY_2	hó	A	2
 ▯ is the bambara bamanankan language _BIAS _RAKU_zu _2_RAKU_nazu _ARITY_1 _CAPS	hóq	I	1
 ▯ is vanadium _BIAS _RAKU_dıum _2_RAKU_nadıum _ARITY_1	máq	I	1
 predicate banana pudding ▯ is banana pudding a layered dessert consisting of nilla wafers or similar vanilla cookies sliced banana and jello style pudding soft custard _BIAS _RAKU_dıq _2_RAKU_pudıq _ARITY_1	máq	I	1
+▯ is or pertains to bunny rabbits _BIAS _RAKU_'uı _2_RAKU_nu'uı _ARITY_1	tá	F	1
 ▯ is the country vanuatu republic of vanuatu _BIAS _RAKU_gua _2_RAKU_tugua _ARITY_1 _CAPS	máq	I	1
 predicate white ▯ is white _BIAS _RAKU_bao _ARITY_1	tá	I	1
 ▯ is a dog _BIAS _RAKU_che _2_RAKU_baoche _ARITY_1	hó	I	1
@@ -248,6 +249,8 @@ contrarily to your expectation it s ▯ which is what has property ▯ ▯ is th
 ▯ is true most of the time when ▯ is true _BIAS _RAKU_daq _2_RAKU_ladaq _ARITY_2	hóq	P	2
 ▯ is belgium _BIAS _RAKU_gua _2_RAKU_jıgua _ARITY_1 _CAPS	máq	I	1
 ▯ is the country belize _BIAS _RAKU_gua _2_RAKU_jegua _ARITY_1 _CAPS	máq	I	1
+▯ pertains to the culture of venezuela bolivarian republic of venezuela _BIAS _RAKU_la _2_RAKU_juela _ARITY_1 _CAPS	tá	F	1
+▯ is the country venezuela bolivarian republic of venezuela _BIAS _RAKU_gua _2_RAKU_lagua _ARITY_1 _CAPS	máq	I	1
 ▯ pertains to the culture of benin republic of benin _BIAS _RAKU_nıq _2_RAKU_benıq _ARITY_1 _CAPS	tá	F	1
 ▯ is the country benin republic of benin _BIAS _RAKU_gua _2_RAKU_nıqgua _ARITY_1 _CAPS	máq	I	1
 predicate change ▯ changes ▯ changes in property ▯ _BIAS _RAKU_beo _ARITY_2	tá	F	2
@@ -3409,7 +3412,6 @@ predicate pyjama ▯ is a pyjama _BIAS _RAKU_jam _2_RAKU_pıjam _ARITY_1	máq	I	
 ▯ is the standard filipino language _BIAS _RAKU_zu _2_RAKU_nozu _ARITY_1 _CAPS	hóq	I	1
 ▯ is a pinewood king bolete ▯ is boletus pinophilus _BIAS _RAKU_lıao _2_RAKU_gaqlıao _ARITY_2	máq	I	2
 ▯ is a matsutake mushroom ▯ is tricholoma matsutake _BIAS _RAKU_lıao _2_RAKU_soılıao _ARITY_2	máq	I	2
-predicate rock ▯ is rock material _BIAS _RAKU_pıo _ARITY_1	máq	I	1
 predicate rock ▯ is rock material _BIAS _RAKU_pıo _ARITY_1	máq	I	1
 ▯ is gravel _BIAS _RAKU_nı _2_RAKU_'anı _ARITY_1	máq	I	1
 ▯ is a statue _BIAS _RAKU_fuaq _2_RAKU_pıofuaq _ARITY_1	máq	I	1

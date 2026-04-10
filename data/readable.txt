@@ -2268,7 +2268,7 @@ banım @uakci 2023-12-09 #evzqqsiv2 $en +1
 ▯ is a caste.
   uakci (2023-12-09): varna + **nım**
 
-banu'uı @TheAndSys 2024-10-02 #nj1UQ5Rp_ $en -1
+banu'uı [(c) (d) tá F] @TheAndSys 2024-10-02 #nj1UQ5Rp_ $en -1
 ▯ is or pertains to bunny rabbits
 
 Banuatu @countries 2026-04-01 #KvAFO-7DYx6 $en ±
@@ -3111,10 +3111,10 @@ bemhaq @Laqme 2023-10-12 #6HW7Crhzt $en ±
 bemnoaı @Laqme 2023-10-12 #2dwMmFc39 $en ±
 ▯ is infant formula / baby formula.
 
-Benejuela @countries 2026-04-01 #uRi_GoaeCtx $en ±
+Benejuela [(c) (d) tá F] @countries 2026-04-01 #uRi_GoaeCtx $en ±
 ▯ pertains to the culture of Venezuela – Bolivarian Republic of Venezuela.
 
-Benejuelagua @countries 2026-04-01 #ycQCfMb0Wau $en ±
+Benejuelagua [(c) (d) máq I] @countries 2026-04-01 #ycQCfMb0Wau $en ±
 ▯ is the country Venezuela – Bolivarian Republic of Venezuela.
 
 Benelu @robintown 2025-07-28 #vnHtqlCYF $en ±
@@ -10379,6 +10379,8 @@ chaso [(c 2xi) (d d) tá F] @el 2022-10-19 #FT3OjQe2a $en +2
   el (2022-10-19): (1), or (c 2) if you don't like (1)
   el (2022-10-19): NOA frame
   el (2022-10-19): a priori
+  evie (2026-04-09): frame: 1x
+  evie (2026-04-09): i guess the notes way to do it no longer works
 
 chaso @el 2022-10-19 #30oTIrswN $ja ±
 ▯は面倒臭い
@@ -31332,7 +31334,7 @@ huadosoa @lassc 2025-03-20 #_0Zw_-6zk $en ±
 huaduo @uakci 2020-05-20 #gDT183ZSf $en -1
 ▯ gestures; ▯ moves body part ▯ (while staying in place overall).
 
-huagaı [(c 0) (d d) hó I] @Ilmen 2018-10-29 #3WYIKWgut $en +2 %perception
+huagaı [(c c) (d d) hó I] @Ilmen 2018-10-29 #3WYIKWgut $en +2 %perception
 ▯ feels ▯ via proprioception.
   seaqtaq (2019-01-21): +1
   Dembim (2026-02-10): Frame: c 0
@@ -37611,7 +37613,7 @@ jokaqgı @Machy 2021-10-07 #8DppilMeW $en +1
 jokata @akesi 2020-02-02 #Srmx2DxS5 $en ±
 ▯ is a four (cards)
 
-joko [(c c) (d) tá F] @official 2026-02-16 #HeNFzUafrHZ $en ± %⚠,ordinality
+joko [(c c) (d d) tá F] @official 2026-02-16 #HeNFzUafrHZ $en ± %⚠,ordinality
 predicate: ‘fourth’; ▯ is fourth among ▯.
 
 joko @el 2022-07-10 #vWGBYwI0o $tok ± %⚠,ordinality
@@ -52493,7 +52495,7 @@ mıaqcıa [(c) (d) tá F] @robintown 2022-08-20 #OldiLXp5L $en +2
 ▯ is worthless.
   robintown (2022-12-18): This word is often a good translation for "that damn …", "a fucking …", despite not being inherently vulgar.
 
-mıaqgaı [(c 0) (d d) hó I] @official 2026-02-16 #lb-TBU-kdFD $en ± %cognition
+mıaqgaı [(c c) (d d) hó I] @official 2026-02-16 #lb-TBU-kdFD $en ± %cognition
 predicate: ‘esteem’; ▯ appreciates/esteems ▯.
 
 mıaqgaı @jiqci 2023-07-31 #j1WyxjDdBB $pl ± %cognition
@@ -60159,6 +60161,14 @@ noqfuı @Laqme 2025-02-19 #vzzvOu96S $en ±
 
 noqgaı [(c 0) (d d) hó I] @official 2026-02-16 #14CeAOp1DHc $en ±
 predicate: ‘taste’; ▯ tastes state of affairs ▯.
+  evie (2026-04-09): the example using **noqgaı**, #Q TjátQ'ıuKX, does not use **pó**, and i don't know what it means to taste a proposition anyway, so i have made this (c c)
+  Dembim (2026-04-09): I believe it will be switched back and/or a new entry matching `dictionary.json` will be created next time tóadua restarts. It would be better to make a pull request against the official dictionary source modifying <gaı> and its derivatives from (c 0) to (c c).
+  Dembim (2026-04-09): That said, I agree that gaı and friends probably should be (c c). The present meaning of e.g. <noqgaı> "▯ senses that ▯ is the case using their nose" (more or less) is not usually the most intuitive. I recall reading that Hoemaı prefers that gaı &c are (c c) as well, though it's possible I misremember.
+  Ilmen (2026-04-09): ⟪i don't know what it means to taste a proposition anyway⟫
+  Ilmen (2026-04-09): ➥ It may parallel ⟪kaqlagaı⟫, i.e. “see that… is the case”.
+  Ilmen (2026-04-09): However, Hoemaı expressed their desire for ⟪kaqgaı⟫ to be about source of stimulus, and not about visual quale nor inferred information. For the sake of consistency and homogeneity, ⟪noqgaı⟫ shall pattern after ⟪kaqgaı⟫ in this respect.
+  Dembim (2026-04-09): -# * (people don't taste with their nose, Démbım...)
+  Ilmen (2026-04-09): 🔗 https://github.com/toaq/dictionary/issues/15
 
 noqgaı @robintown 2022-05-01 #jWtLUNlRJ $toa ±
 Gaı nõq ▯ ▯.
@@ -65018,10 +65028,6 @@ pıo [(c) (d) máq I] @el 2022-07-10 #fGbw6PZc_ $tok ± %substance
 
 pıo [(c) (d) máq I] @jiqci 2023-07-31 #7Wyf8L4zjn $pl ± %substance
 ▯ to skała/kamień.
-
-⚠ pıo [() () máq I] @oldofficial 2019-05-05 #J9yXporZhk $en -1 %substance
-predicate: ‘rock’; ▯ is rock (material).
-  Laqme (2022-07-06): stone
 
 pıo'anı [(c) (d) máq I] @robintown 2021-10-19 #kmQanGMHh $en ±
 ▯ is gravel.
