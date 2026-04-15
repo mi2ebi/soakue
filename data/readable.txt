@@ -1496,7 +1496,7 @@ aqmana @uakci 2022-07-25 #f_tvG0eAV $en ±
   uakci (2022-07-25): better than **aq'aq** in the sense that 1) it's more pleasing to the eye and ear and 2) it enumerates all the allophones of /ŋ/
   evie (2025-03-29): -1 q no longer has such allophones
 
-aqmı @Laqme 2023-12-06 #Uadf-s1l5 $en ±
+aqmı [(c) (d) hóq I] @Laqme 2023-12-06 #Uadf-s1l5 $en +1
 ▯ is a noun form.
   Laqme (2023-12-06): A string of Toaq words that acts like a noun. https://toaq.me/Noun_form
 
@@ -2919,7 +2919,7 @@ bede @Machy 2022-05-18 #QBtuln9sI $en ±
 ▯ is/are grapes.
   Machy (2022-05-18): corruption of **bıtı**
 
-bedoa @akesi 2020-02-10 #uvNB07xSJ $en ±
+bedoa @akesi 2020-02-10 #uvNB07xSJ $en -1
 ▯ makes ▯ pregnant; ▯ impregnates ▯
 
 befe @Laqme 2024-10-06 #vT45j36vr $en ±
@@ -9321,7 +9321,7 @@ cuaqko @uakci 2020-04-11 #DnNMGb7Xs $en ±
 ▯ fills in the ▯-th argument in proposition ▯.
   uakci (2020-04-11): x1 is textual
 
-cuaqkotoa @Ilmen 2019-01-28 #rbTeloRub $en ±
+cuaqkotoa [(c) (d) hóq I] @Ilmen 2019-01-28 #rbTeloRub $en -1
 ▯ is a noun.
   uakci (2019-01-30): gloss: noun
 
@@ -9734,7 +9734,7 @@ cuoınıqdua @seaqtaq 2024-07-30 #Eh7c9W3_U $en ±
 cuoırueq @seaqtaq 2024-08-04 #xv1PnAm6In $en ±
 ▯ are experiencing strained/conflicting/tense relations; there is tension amongst ▯
 
-cuoısa @Ilmen 2022-08-19 #DmHq1du8c $en ±
+cuoısa [(c 2xi) (d d) tá F] @Ilmen 2022-08-19 #DmHq1du8c $en ±
 Something is, with ▯, in relation ▯.
 
 cuoısoq @uakci 2022-10-06 #MRdsNQUqp $en ±
@@ -17889,13 +17889,15 @@ duedaq @lassc 2022-12-02 #G-gKADi50 $en ±
 duede @TheAndSys 2023-04-30 #zoRF2x2S9 $en ±
 ▯ is graceful
 
-duehea @robintown 2022-01-26 #09iR-mNog $en ±
+duehea [(c 0) (d d) hóq P] @robintown 2022-01-26 #09iR-mNog $en ±
 ▯ is a hint of ▯ being the case.
 
-duehea [(c c) (d d) hóq P] @Ilmen 2025-12-31 #l41bJZO3C $en -1
-predicate 'hint'; ⌷ is a hint about the indirect question ⌷; in other words, ⌷ guides to the correct answer of ⌷.
+duehea [(c 0) (d d) hóq P] @Ilmen 2025-12-31 #l41bJZO3C $en ±
+predicate 'hint'; ▯ is a hint about the indirect question ▯; in other words, ▯ guides to the correct answer of ▯.
   Ilmen (2025-12-31): Word by Nozz.
   evie (2026-04-12): wrong rectangle character
+  Ilmen (2026-04-13): Fixed, thanks.
+  Ilmen (2026-04-13): It seems I had just forked Nozz's definition without noticing that the box characters were wrong.
 
 duekuaq @uakci 2019-04-12 #jXv82BJGK $en ±
 ▯ hereby corrects their previous utterance to ▯.
@@ -34898,7 +34900,7 @@ Jemute'aomo @uakci 2023-06-15 #QK_GqJnF0 $en ±
 jemuzıam @seaqtaq 2025-05-10 #PL4vkj2c2 $en +1
 ▯ is a crime against Jemu; ▯ is heretical / sinful / blasphemous
 
-jena @Laqme 2023-12-06 #N_9Oi07RK $en ±
+jena [(c) (d) hóq I] @Laqme 2023-12-06 #N_9Oi07RK $en +1
 ▯ is a verb form.
   Laqme (2023-12-06): A string of Toaq words that acts like a verb. https://toaq.me/Verb_form
 
@@ -48088,7 +48090,7 @@ lırı @lassc 2025-03-25 #lrGd13Ebz $en ±
 lıru @Ilmen 2020-01-24 #iY1JymKqv $en ±
 ▯ satisfies property ▯ and property ▯.
 
-lısı [phrase] @Laqme 2022-08-02 #C_tM_uBho $en +1
+lısı [particle] @Laqme 2022-08-02 #C_tM_uBho $en +1
 conjunction: "respectively"
   Laqme (2022-08-02): A clause with any **lısı** in it is interpreted as the conjunction of "the clause obtained when selecting all the left connectands" and "the clause obtained when selecting all the right connectands".
   Laqme (2022-08-02): Lojban's {fa'u}.
@@ -50028,11 +50030,15 @@ predicate: ‘Lule.Sami.language’; ▯ is the Lule Sami language
 
 lulu [(c) (d) máq I] @uakci 2023-02-14 #2Gw3jPbQn $en +1
 ▯ is a toy/plaything / something played with or used to play a game.
+  evie (2026-04-13): doll
 
 lulu @seaqtaq 2022-02-20 #km4S242OnT $en ±
 ▯ french-kisses ▯
   seaqtaq (2022-02-20): this word form has relatively significant sound symbolism to me. Dedicated to @ilmen, profressional french kisser
   seaqtaq (2022-02-20): fench krisser*
+
+lululemoq @seaqtaq 2026-04-13 #JX5-5eBdZ $en ±
+▯ is a toy lemon
 
 lum- [particle] @seaqtaq 2024-11-05 #GoRnDMKhJ $en -1
 prefix: incorporate **lúm** object
@@ -51168,7 +51174,7 @@ maqtoa [(c) (d) hóq I] @Dembim 2026-01-08 #zfZ0zRg2S $en ±
 maqtoa @el 2022-11-27 #wgV2lL-vj $en -1
 ▯ is an anaphoric pronoun
 
-mara [(c) (d) tá I] @Ilmen 2018-10-29 #rX6IzGP4R $en +4 %physical_property
+mara [(c) (d) tá I] @Ilmen 2018-10-29 #rX6IzGP4R $en +5 %physical_property
 ▯ is fluffy/airy/soft/fuzzy in texture.
   Dembim (2026-02-10): Pronominal_class: ta
   Dembim (2026-02-10): Frame: c
@@ -52538,7 +52544,7 @@ mıbato @evie 2025-07-24 #nSqejKa80 $en ±
 mıbo @Ilmen 2021-10-23 #cn3l-rWAy $en ±
 object incorporating+name verb: ‘of that called’; turns following phrase X into verb: ▯ is of that which is called X.
 
-mıca @Laqme 2025-03-28 #MeGqyPtL0 $en +1
+mıca [(c) (d) máq I] @Laqme 2025-03-28 #MeGqyPtL0 $en +1
 ▯ is semen.
   Laqme (2025-03-28): etymologically related to **mıe** and **ca** or maybe **za**
   jiqci (2025-08-21): cum, ejaculate
@@ -59657,7 +59663,7 @@ no'ao @uakci 2021-09-29 #lnUIbtWVo $en ±
 noa- [particle] @seaqtaq 2024-10-18 #HACw0V0US $en ±
 prefix: turns verb X into ▯ finds it hard/difficult to X
 
-noa [tá] @nano 2024-10-24 #gg_m3Z3mJ $en +1
+noa [(c) (d) tá F] @nano 2024-10-24 #gg_m3Z3mJ $en +1
 ▯ is difficult.
   nano (2026-02-12): pronominal_class: ta
 
@@ -61888,7 +61894,7 @@ nhä [particle] @TheAndSys 2024-09-22 #aesA9Xp98 $en +2
 complementizer: 'INDQ'; opens indirect question clause
   TheAndSys (2024-09-22): This word has been bouncing around in my head a lot. Accepting this word would mean that ꝡä is eclusively for direct questions
 
-nhâ [phrase] @el 2022-07-12 #SjXVZqYSU $en +1
+nhâ [particle] @el 2022-07-12 #SjXVZqYSU $en +1
 catgirl illocution
 
 nhabo @uakci 2022-05-04 #qe_4USIZy $en ±
@@ -79867,7 +79873,7 @@ shıumeo @seaqtaq 2019-06-04 #LVwQO26Ij $en ±
 ▯ dreads ▯
   seaqtaq (2019-06-04): Antonym of shiujai
 
-shıumıca @jiqci 2025-08-21 #ACbAN8aPw $en ±
+shıumıca [(c) (d) máq I] @jiqci 2025-08-21 #ACbAN8aPw $en ±
 ▯ is Cowper's fluid / pre-ejaculate / pre-cum.
 
 shıumıu [(c 0) (d d) hó I] @Laqme 2021-09-25 #RNw6rWYMx $en +1
@@ -87048,7 +87054,7 @@ tuto @Hoemai 2019-02-23 #uRn7bLYkk $en ±
 tuto @TheAndSys 2025-03-28 #_uwbnQ_d6 $es ±
 ▯ es una lechuza
 
-tutu [phrase] @el 2022-08-08 #rvADAWxJr $en +1
+tutu [particle] @el 2022-08-08 #rvADAWxJr $en +1
 determiner: "all Xses" / "every Xs" / plural universal quantifier
   el (2022-08-08): equivalent to official **tu**
   el (2023-01-12): as of Delta, no longer equivalent to official **tu** (which is now singular)

@@ -162,6 +162,7 @@ predicate oneself s ▯ is oneself s of the subject of the sentence _BIAS _RAKU_
 ▯ experiences property ▯ for themselves rather than it happening to other people _BIAS _RAKU_lıe _2_RAKU_aqlıe _ARITY_2	hó	I	2
 ▯ is anglish english without romance language borrowings _BIAS _RAKU_zu _2_RAKU_lızu _ARITY_1 _CAPS	hóq	I	1
 ▯ is the collection of meaning making and life experiences that one has _BIAS _RAKU_lua _2_RAKU_aqlua _ARITY_1	hóq	F	1
+▯ is a noun form _BIAS _RAKU_mı _2_RAKU_aqmı _ARITY_1	hóq	I	1
 ▯ introspects ruminates self reflects soul searches navel gazes _BIAS _RAKU_moı _2_RAKU_aqmoı _ARITY_1	hó	I	1
 ▯ swears to themselves that they satisfy property ▯ ▯ holds themselves accountable in satisfying property ▯ _BIAS _RAKU_nue _2_RAKU_aqnue _ARITY_2	hó	I	2
 ▯ is the apl programming language _BIAS _RAKU_zu _2_RAKU_laozu _ARITY_1	hóq	I	1
@@ -675,6 +676,7 @@ predicate concept ▯ is the concept idea of satisfying property ▯ ▯ is the 
 ▯ is an abstract science e g mathematics logic _BIAS _RAKU_dıu _2_RAKU_cuaqdıu _ARITY_1	hóq	I	1
 ▯ is a theory _BIAS _RAKU_dıu _2_RAKU_cuaqdıu _ARITY_1	hóq	I	1
 ▯ is one s rights ▯ is the ethereal mass amount of one s rights _BIAS _RAKU_keaı _2_RAKU_cuaqkeaı _ARITY_1	hóq	F	1
+▯ is a noun _BIAS _RAKU_toa _2_RAKU_kotoa _ARITY_1	hóq	I	1
 ▯ is abstract _BIAS _RAKU_raı _2_RAKU_cuaqraı _ARITY_1	hóq	I	1
 ▯ is one s privacy _BIAS _RAKU_keaı _2_RAKU_shuıkeaı _ARITY_1	hóq	F	1
 ▯ reaches goal accomplishment hallmark milestone ▯ _BIAS _RAKU_taı _2_RAKU_cuaqtaı _ARITY_2	tá	I	2
@@ -698,6 +700,7 @@ predicate magenta ▯ is magenta _BIAS _RAKU_cuı _ARITY_1	tá	I	1
 predicate assume ▯ assumes that ▯ is the case _BIAS _RAKU_cuo _ARITY_2	hó	I	2
 ▯ and ▯ satisfy relation ▯ _BIAS _RAKU_cuoı _ARITY_3	tá	F	3
 predicate satisfy relation ▯ satisfy with ▯ relation ▯ _BIAS _RAKU_cuoı _ARITY_3	tá	F	3
+something is with ▯ in relation ▯ _BIAS _RAKU_sa _2_RAKU_cuoısa _ARITY_2	tá	F	2
 ▯ is presumably the case _BIAS _RAKU_nu _2_RAKU_cuonu _ARITY_1	hóq	P	1
 ▯ leaves departs from satisfying property ▯ _BIAS _RAKU_cuq _ARITY_2	tá	F	2
 ▯ has its natural start begins at the time and in the way one would expect _BIAS _RAKU_ceo _2_RAKU_cuqceo _ARITY_1	hóq	E	1
@@ -1206,6 +1209,8 @@ predicate find out ▯ discovers finds out ▯ _BIAS _RAKU_sho _2_RAKU_duasho _A
 ▯ takes place in a way that suggests that ▯ is true _BIAS _RAKU_cha _2_RAKU_ducha _ARITY_2	hóq	E	2
 predicate d ▯ is the letter d _BIAS _RAKU_deo _2_RAKU_dudeo _ARITY_1	hóq	I	1
 predicate correct ▯ is correct _BIAS _RAKU_due _ARITY_1	tá	F	1
+▯ is a hint of ▯ being the case _BIAS _RAKU_hea _2_RAKU_duehea _ARITY_2	hóq	P	2
+predicate hint ▯ is a hint about the indirect question ▯ in other words ▯ guides to the correct answer of ▯ _BIAS _RAKU_hea _2_RAKU_duehea _ARITY_2	hóq	P	2
 predicate field ▯ is a field _BIAS _RAKU_dueq _ARITY_1	máq	I	1
 ▯ is a disguise _BIAS _RAKU_fuq _2_RAKU_dufuq _ARITY_1	máq	I	1
 ▯ is a plug stopper _BIAS _RAKU_go _2_RAKU_dugo _ARITY_1	máq	I	1
@@ -2169,6 +2174,7 @@ predicatizer identical turns following phrase x into verb ▯ is x _BIAS _RAKU_j
 ▯ is the country yemen republic of yemen _BIAS _RAKU_gua _2_RAKU_jemgua _ARITY_1 _CAPS	máq	I	1
 predicate jemu ▯ is jemu a legendary whale moth creature in toaq mythology _BIAS _RAKU_jem _ARITY_1 _CAPS	hó	I	1
 ▯ is an amazingly good saıram to the point that it might be a forbidden one _BIAS _RAKU_ram _2_RAKU_saıram _ARITY_1	máq	I	1
+▯ is a verb form _BIAS _RAKU_na _2_RAKU_jena _ARITY_1	hóq	I	1
 ▯ belongs to the euarchonta taxonomic grandorder treeshrews colugos and primates _BIAS _RAKU_che _2_RAKU_cueche _ARITY_1	hó	I	1
 ▯ belongs to the euarchontoglires taxonomic superorder _BIAS _RAKU_leı _2_RAKU_galeı _ARITY_1	hó	I	1
 it s ▯ out of the salient options which is what satisfies property ▯ _BIAS _RAKU_ku _2_RAKU_jeoku _ARITY_2	tá	F	2
@@ -3290,6 +3296,7 @@ predicate esteem ▯ appreciates esteems ▯ _BIAS _RAKU_gaı _2_RAKU_mıaqgaı 
 predicate appreciate ▯ appreciates ▯ _BIAS _RAKU_jıe _2_RAKU_mıaqjıe _ARITY_2	hó	I	2
 ▯ is invaluable priceless precious _BIAS _RAKU_mıq _2_RAKU_mıaqmıq _ARITY_1	tá	F	1
 ▯ is valuable precious _BIAS _RAKU_sao _2_RAKU_mıaqsao _ARITY_1	tá	I	1
+▯ is semen _BIAS _RAKU_ca _2_RAKU_mıca _ARITY_1	máq	I	1
 name verb ▯ is a button switch dial marked x _BIAS _RAKU_cıoq _2_RAKU_mıcıoq _ARITY_1	máq	I	1
 predicate alive ▯ lives is alive _BIAS _RAKU_mıe _ARITY_1	hó	I	1
 ▯ is ecology _BIAS _RAKU_dıu _2_RAKU_cuoıdıu _ARITY_1	hóq	I	1
@@ -3721,6 +3728,7 @@ predicate leaf ▯ is a leaf of a plant _BIAS _RAKU_boe _2_RAKU_nıuboe _ARITY_1
 fork of ter olatu ▯ is agriculture _BIAS _RAKU_dıu _2_RAKU_shuaqdıu _ARITY_1	hóq	I	1
 ▯ is the language the current utterance is spoken in _BIAS _RAKU_zu _2_RAKU_nızu _ARITY_1	hóq	I	1
 predicate in ▯ is in format medium genre ▯ _BIAS _RAKU_no _ARITY_2	tá	F	2
+▯ is difficult _BIAS _RAKU_noa _ARITY_1	tá	F	1
 predicate difficult ▯ is difficult to be in relation ▯ with _BIAS _RAKU_noa _ARITY_2	tá	F	2
 predicate milk ▯ is milk _BIAS _RAKU_noaı _ARITY_1	máq	I	1
 ▯ is milk tea _BIAS _RAKU_chaı _2_RAKU_noaıchaı _ARITY_1	máq	I	1
@@ -5035,6 +5043,7 @@ predicate raccoon ▯ is a racoon ▯ is a member of genus procyon _BIAS _RAKU_n
 ▯ is a raccoon _BIAS _RAKU_ne _2_RAKU_kune _ARITY_1	hó	I	1
 predicate past ▯ is a the past _BIAS _RAKU_shıum _ARITY_1	hóq	I	1
 predicate museum ▯ is a museum _BIAS _RAKU_jıo _2_RAKU_shıumjıo _ARITY_1	máq	I	1
+▯ is cowper s fluid pre ejaculate pre cum _BIAS _RAKU_ca _2_RAKU_shıumca _ARITY_1	máq	I	1
 ▯ holds the prejudice bias of thinking that ▯ is the case _BIAS _RAKU_shıum _ARITY_2	hó	I	2
 ▯ is pre ejaculate _BIAS _RAKU_nao _2_RAKU_shıunao _ARITY_1	máq	I	1
 ▯ satisfies property ▯ in advance _BIAS _RAKU_tao _2_RAKU_shıutao _ARITY_2	hó	A	2
