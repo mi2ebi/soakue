@@ -2184,6 +2184,8 @@ bıaqbıaq #HFq2YTavI → [(0) (d) hóq P] conf=97% oov=8%
   ▯ is well more than enough the case; ▯ is the case to an even more than satisfiable extent.
 bıaqmıa #ixLfEBqCk → [(c 2ix) (d d) tá F] conf=97% oov=7%
   ▯ has enough things in relation ▯ with it
+bıaruaq #Ko0uUAGE8 → [(c c c) (d d d) hó A] conf=97% oov=10%
+  ▯ diagnoses ▯ with ▯.
 bıatuataqtua #HIxS4JiA8 → [(c c c) (d d d) hó A] conf=97% oov=20%
   ▯ makes ▯ make themselves ill with ▯; ▯ inflicts onto ▯ viral disease ▯.
 bıdeoluaqmukuqhuı #_xk70MRJa → [(c) (d) hóq F] conf=97% oov=25%
@@ -34770,7 +34772,7 @@ moechu #OVcQ8w43V → [(c) (d) hóq I] conf=0% oov=11%
   ▯ is one's metaphorical heart, the part of oneself that feels emotion.
 
 === SUMMARY ===
-  unannotated entries guessed: 16321
+  unannotated entries guessed: 16322
   mean calibrated pronoun conf: 75.0%
   mean oov rate:                16.8%
-  high-confidence (cal≥80%):    7945
+  high-confidence (cal≥80%):    7946
