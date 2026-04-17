@@ -10,7 +10,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   E: ["event(7.63)", "happens(7.11)", "eternal(5.95)", "random(5.92)", "_RAKU_neq(5.59)", "_PRON_hóq(5.36)", "late(5.27)", "until(5.01)", "_2_RAKU_cuıchaq(4.98)", "whatever(4.96)"]
   P: ["case(8.32)", "_PRON_hóq(5.55)", "proposition(4.63)", "times(4.30)", "true(4.28)", "decreases(4.15)", "_2_RAKU_juaodı(4.09)", "likely(4.06)", "convenient(4.03)", "_RAKU_kuem(3.97)"]
   S: ["_PRON_tá(10.40)", "shallow(7.35)", "short(7.14)", "_RAKU_lıo(6.75)", "has(6.72)", "front(6.34)", "above(6.23)", "around(6.10)", "visually(6.09)", "thin(6.07)"]
-  F: ["_PRON_tá(3.88)", "_RAKU_zuom(3.86)", "pertains(3.75)", "satisfies(2.51)", "_PRON_hóq(2.31)", "universal(2.30)", "_RAKU_nhuaı(2.19)", "relation(2.14)", "_RAKU_reo(2.09)", "_2_RAKU_keaıcoı(2.01)"]
+  F: ["_PRON_tá(3.88)", "_RAKU_zuom(3.86)", "pertains(3.75)", "satisfies(2.51)", "_PRON_hóq(2.31)", "universal(2.30)", "_RAKU_nhuaı(2.19)", "relation(2.14)", "_RAKU_reo(2.09)", "_RAKU_coı(2.01)"]
 
 === ACCURACY (n=5767) ===
   frame:        93.4% (heuristic, training data)
