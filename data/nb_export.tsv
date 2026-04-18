@@ -118,6 +118,7 @@ predicate valentines day ▯ is valentine s day _BIAS _RAKU_chaq _2_RAKU_nochaq 
 ▯ is a nuclear bomb nuke _BIAS _RAKU_ke _2_RAKU_noke _ARITY_1	máq	I	1
 ▯ romantically crushes on ▯ _BIAS _RAKU_kuaı _2_RAKU_nokuaı _ARITY_2	hó	I	2
 ▯ is an edible fruit of the annona genus ▯ is a custard apple sugar apple sweetsop _BIAS _RAKU_noq _2_RAKU_anoq _ARITY_2	máq	I	2
+▯ love panics feels lonely and miserable and despairs as to whether they ll ever find love _BIAS _RAKU_deı _2_RAKU_'ıdeı _ARITY_1	hó	I	1
 ▯ is wacky zany cartoonish _BIAS _RAKU_nhaı _2_RAKU_anhaı _ARITY_1	tá	F	1
 ▯ bumps stumbles into ▯ _BIAS _RAKU_nho _2_RAKU_anho _ARITY_2	hó	A	2
 ▯ is imaginary made up fictional _BIAS _RAKU_bı _2_RAKU_aobı _ARITY_1	tá	F	1
@@ -318,6 +319,7 @@ predicate change ▯ changes ▯ changes in property ▯ _BIAS _RAKU_beo _ARITY_
 ▯ is calculus _BIAS _RAKU_dıu _2_RAKU_toaıdıu _ARITY_1	hóq	I	1
 predicate extrusion ▯ is an extrusion swelling convex _BIAS _RAKU_beq _ARITY_1	máq	I	1
 ▯ is convex at ▯ _BIAS _RAKU_bo _2_RAKU_beqbo _ARITY_2	tá	S	2
+▯ is an abscess _BIAS _RAKU_beq _2_RAKU_zebeq _ARITY_1	máq	I	1
 ▯ is eberban a logical language _BIAS _RAKU_zu _2_RAKU_baqzu _ARITY_1 _CAPS	hóq	I	1
 ▯ is northern europe _BIAS _RAKU_pa _2_RAKU_ropa _ARITY_1 _CAPS	máq	I	1
 ▯ makes a stop _BIAS _RAKU_req _2_RAKU_bereq _ARITY_1	tá	I	1
@@ -1218,6 +1220,7 @@ predicate too much ▯ is too much ▯ ▯ satisfies property ▯ too much to sa
 ▯ satisfies property ▯ too much _BIAS _RAKU_duı _ARITY_2	tá	F	2
 ▯ is overstimulating overwhelming overbearing _BIAS _RAKU_ge _2_RAKU_duıge _ARITY_1	tá	F	1
 ▯ is a spam bot ▯ is a program or account dedicated to posting spam _BIAS _RAKU_kea _2_RAKU_juokea _ARITY_2	hóq	I	2
+▯ has an panic attack _BIAS _RAKU_duım _ARITY_1	hó	I	1
 ▯ is a vtuber _BIAS _RAKU_che _2_RAKU_jıqche _ARITY_1	hó	I	1
 ▯ seems to be the case but is not in fact the case _BIAS _RAKU_bu _2_RAKU_keobu _ARITY_1	hóq	P	1
 ▯ is minimal free of namako _BIAS _RAKU_dum _ARITY_1	tá	F	1
@@ -1373,6 +1376,7 @@ predicate shallow ▯ is shallow _BIAS _RAKU_fıu _ARITY_1	tá	S	1
 predicate feel ▯ feels ▯ good or bad ▯ is ▯ ill or well _BIAS _RAKU_foa _ARITY_2	hó	I	2
 how is ▯ doing faring _BIAS _RAKU_hıa _2_RAKU_foahıa _ARITY_1	hó	I	1
 ▯ is a detail nuance aspect subtlety particular factor facet of something _BIAS _RAKU_foaı _ARITY_1	hóq	F	1
+▯ detail panics becomes fixated on some tiny thing that probably doesn t matter and grows increasingly uncomfortable until it s put right _BIAS _RAKU_deı _2_RAKU_'ıdeı _ARITY_1	hó	I	1
 ▯ feels the same as ▯ to ▯ _BIAS _RAKU_jeq _2_RAKU_foajeq _ARITY_3	tá	F	3
 predicate comfortable ▯ is comfortable ▯ feels comfort ▯ feels comfort in satisfying property ▯ _BIAS _RAKU_foaq _ARITY_2	hó	I	2
 ▯ is stuck in a comfy state which they don t feel ready to end _BIAS _RAKU_na _2_RAKU_duna _ARITY_1	hó	I	1
@@ -2036,6 +2040,7 @@ predicate hush ▯ becomes quiet silent ▯ hushes _BIAS _RAKU_sho _2_RAKU_husho
 ▯ is ibuprofen _BIAS _RAKU_feq _2_RAKU_puofeq _ARITY_1	máq	I	1
 ▯ of a noise is shrill sharp piercing _BIAS _RAKU_cı _2_RAKU_ıcı _ARITY_1	hóq	I	1
 ▯ is an ida a kind of elemental being to which various personal conditions affects are attributed in toaq folklore _BIAS _RAKU_da _2_RAKU_ıda _ARITY_1	máq	I	1
+▯ panics emotion _BIAS _RAKU_deı _2_RAKU_ıdeı _ARITY_1	hó	I	1
 ▯ is oleaster russian olive silverberry _BIAS _RAKU_zeo _2_RAKU_dezeo _ARITY_1	máq	I	1
 ▯ is the yiddish language _BIAS _RAKU_zu _2_RAKU_shızu _ARITY_1 _CAPS	hóq	I	1
 ▯ is christmas _BIAS _RAKU_chaq _2_RAKU_jıuchaq _ARITY_1	hóq	I	1
@@ -2240,6 +2245,7 @@ predicate deemed ▯ is as ▯ deems judges evaluates things to be _BIAS _RAKU_j
 ▯ is a jury _BIAS _RAKU_jıem _ARITY_1	hó	I	1
 according to a credible source ▯ is the case but i cannot remember the source _BIAS _RAKU_na _2_RAKU_jıena _ARITY_1	hóq	P	1
 predicate tip ▯ is a tip pointed end _BIAS _RAKU_jıeq _ARITY_1	máq	I	1
+▯ panics experiences a panic attack _BIAS _RAKU_feao _2_RAKU_jıeqfeao _ARITY_1	hó	I	1
 ▯ is an arrow _BIAS _RAKU_sha _2_RAKU_jıeqsha _ARITY_1	máq	I	1
 according to my past self who i consider to be a credible source ▯ is the case but i cannot remember the reasoning or evidence by which i originally concluded such _BIAS _RAKU_na _2_RAKU_jıena _ARITY_1	hóq	P	1
 ▯ is the world wide web ▯ is the internet _BIAS _RAKU_ko _2_RAKU_jıko _ARITY_1	máq	I	1
