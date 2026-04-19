@@ -7316,6 +7316,10 @@ caqdao @Ilmen 2020-02-22 #AeDwZzBYf $en ± %computer_science
 caqdı [(c) (d) hó I] @uakci 2023-06-04 #X2wfEmauV $en +2
 ▯ is (sexually/romantically) dominant / a dom/domme.
 
+caqdıq @evie 2026-04-19 #XUwiNxHaa $en ±
+▯ doms ▯
+  evie (2026-04-19): cf **caqdı** and **- dıq**
+
 caqduaı @seaqtaq 2019-06-15 #YXeYOow76 $en ±
 ▯ is responsible for satisfying property ▯
 
@@ -19648,10 +19652,6 @@ predicate: ‘end’; ▯ is an end/ending of ▯.
 
 fao @jiqci 2023-07-31 #1t2WDiwdmw $pl ±
 ▯ to koniec/zakończenie, ▯ zakańcza ▯.
-
-⚠ fao @oldofficial 2019-05-05 #M6BCdPTw_M $en -1
-predicate: ‘end’; ▯ is an end/ending; ▯ is an end/ending of ▯.
-  kazoo (2025-05-23): -1 variable arity
 
 faobo @seaqtaq 2024-07-10 #GSP0VOdx7 $en ±
 ▯ has ending ▯
@@ -34729,7 +34729,7 @@ jeıchıaq @uakci 2018-12-30 #CTYNBOMOt $en ±
 jeıchıu @Laqme 2023-09-06 #-juUz9tnB $en ±
 ▯ is an identifier (number, code, etc) for ▯.
 
-jeıdu @Ilmen 2020-03-03 #O8G8gxkgf $en ±
+jeıdu [(c c) (d d) tá F] @Ilmen 2020-03-03 #O8G8gxkgf $en ±
 ▯ is indistinguishable from ▯.
 
 jeıdua @Hoemai 2019-03-17 #uKZzmLkxu $en ±
@@ -41859,6 +41859,9 @@ kıaıbo @robintown 2022-09-26 #MHCDaijkf $en ±
 kıaıche [(c) (d) hó I] @seaqtaq 2024-07-02 #xlLeHrxvs $en ±
 ▯ is an attendant
 
+kıaıdı [(c) (d) hó I] @evie 2026-04-19 #KbBKT1pMf $en ±
+▯ is a softdom
+
 kıaıgıla @Ilmen 2025-04-28 #9eFpNrTNe $en ±
 ▯ is responsible for the well-being of, is a caretaker of ▯.
 
@@ -43219,7 +43222,7 @@ kodo [(c) (d) máq I] @robintown 2023-09-14 #q6RWLncIr $en +1
 ▯ is a code.
   robintown (2023-09-14): This refers to the result of encoding something in a particular system, rather than the system itself
 
-koe [(c 0) (d d) hó A] @el 2022-06-23 #K2KJy_vKA $en +4 %cognition,quaternary_predicate
+koe [(c 0) (d d) hó A] @el 2022-06-23 #K2KJy_vKA $en +2 %cognition,quaternary_predicate
 ▯ chooses what the answer to ▯ (indirect question) is
   el (2022-06-24): you can recover the old "among ..." place by constraining the **hı**-binding
   el (2022-06-24): ex. «koe jí lâ ... cy kúe da» ⇒ «koe jí lâ hı mea kúe bı ... da»
@@ -43244,6 +43247,11 @@ koe @jiqci 2023-07-31 #k8vcqB4um $pl ± %cognition,quaternary_predicate
 
 koe [(c c c 2ij) (d d n d) hó A] @official 2026-02-16 #2aJL-UBd0hU $en -1 %cognition,quaternary_predicate
 predicate: ‘choose’; ▯ chooses ▯ out of ▯ for ▯.
+
+koe [(c c) (d d) hó A] @evie 2026-04-18 #CLqur8gj7 $en ± %cognition,quaternary_predicate
+▯ chooses ▯
+  evie (2026-04-18): **chábu** for alternatives and **ôı** for usecase
+  evie (2026-04-18): actually maybe **îaı** too
 
 koe @uakci 2019-04-15 #n75LHl8wO $toa -1 %cognition,quaternary_predicate
 dua dóshı lû tu dó měa hóa dósaq bı deq dóshı lî gujeo ja ráı dó dójo na na, na ru gujeo dóshı ku dógu dójo da
@@ -47540,7 +47548,7 @@ lıeıcua @uakci 2025-03-07 #s2XQcitqI $en ±
 lıeıdao @uakci 2025-03-07 #dY8ayer4J $en ±
 ▯ is a (potential) answer/solution to ▯ (question/problem).
 
-lıeıdı [(c) (d) hó A] @evie 2025-12-08 #v4YuuvFTC $en +2
+lıeıdı [(c) (d) hó I] @evie 2025-12-08 #v4YuuvFTC $en +2
 ▯ is (sexually/romantically) submissive / a sub.
 
 lıeıma @seaqtaq 2024-11-21 #OjeX9Bppg $en ±
@@ -74440,7 +74448,7 @@ sıetu @Ilmen 2018-10-05 #twHH-LHpX $en ± %mathematics,sequences
 sıetueme @seaqtaq 2020-02-23 #Z4oPjVPcG $en ±
 ▯is an event that consists of ordered steps/stages/subevents▯; ▯ is a process involving steps▯in order of listing
 
-sıezı [(c 2xx) (d d d) tá F] @Laqme 2019-12-21 #xY9UFVLVQ $en +2
+sıezı [(c c 2xx) (d d d) tá F] @Laqme 2019-12-21 #xY9UFVLVQ $en +2
 Sequences a ≔ ▯ and b ≔ ▯ are of equal length, and (a[i] ▯ b[i]) for each index i.
   Laqme (2019-12-21): This is Prolog's "maplist(P, A, B)" predicate.
   fagri (2019-12-21): +1, I think this will be very useful
@@ -97485,7 +97493,7 @@ I intend to become beautiful.
 Tao úmo hóq ba. [phrase] @examples 2026-04-11 #l0f1aS-tR5f $en ±
 We should do it.
 
-taq ao gı @fagri 2020-01-11 #NQ07kmzBQ $en ±
+taq ao gı [(0) (d) hóq P] @fagri 2020-01-11 #NQ07kmzBQ $en ±
 It would be nice if ▯ were true
   fagri (2020-01-11): This is a rare instance where I actually enter a compound into the dictionary, because I think this particular construction is difficult to come up with but potentially extremely useful
   fagri (2020-01-11): I mean *serial, not compound

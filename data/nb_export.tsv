@@ -2175,6 +2175,7 @@ predicate market ▯ is a market _BIAS _RAKU_rıaq _2_RAKU_jearıaq _ARITY_1	má
 ▯ is a true jelly class scyphozoa _BIAS _RAKU_lıaı _2_RAKU_gaqlıaı _ARITY_1	máq	I	1
 ▯ is the case _BIAS _RAKU_ha _2_RAKU_jeha _ARITY_1	hóq	P	1
 predicatizer identical turns following phrase x into verb ▯ is x _BIAS _RAKU_jeı _ARITY_1	tá	F	1
+▯ is indistinguishable from ▯ _BIAS _RAKU_du _2_RAKU_jeıdu _ARITY_2	tá	F	2
 ▯ pertains to the culture of yemen republic of yemen _BIAS _RAKU_jem _ARITY_1 _CAPS	tá	F	1
 ▯ is the country yemen republic of yemen _BIAS _RAKU_gua _2_RAKU_jemgua _ARITY_1 _CAPS	máq	I	1
 predicate jemu ▯ is jemu a legendary whale moth creature in toaq mythology _BIAS _RAKU_jem _ARITY_1 _CAPS	hó	I	1
@@ -2621,6 +2622,7 @@ predicate monday ▯ is a monday _BIAS _RAKU_chaq _2_RAKU_kıachaq _ARITY_1	hóq
 predicate look after ▯ looks after ▯ ▯ takes care of ▯ _BIAS _RAKU_kıaı _ARITY_2	hó	A	2
 predicate look after ▯ looks after ▯ ▯ takes care of ▯ _BIAS _RAKU_kıaı _ARITY_2	hó	A	2
 ▯ is an attendant _BIAS _RAKU_che _2_RAKU_kıaıche _ARITY_1	hó	I	1
+▯ is a softdom _BIAS _RAKU_dı _2_RAKU_kıaıdı _ARITY_1	hó	I	1
 ▯ is a major seventh maj7 chord _BIAS _RAKU_jo _2_RAKU_kıajo _ARITY_1	hóq	I	1
 ▯ is infrared _BIAS _RAKU_kuoı _2_RAKU_kıakuoı _ARITY_1	tá	I	1
 ▯ is copper _BIAS _RAKU_ha _2_RAKU_loha _ARITY_1	máq	I	1
@@ -2710,6 +2712,7 @@ predicate man ▯ is a man adult male _BIAS _RAKU_naq _2_RAKU_koaqnaq _ARITY_1	h
 ▯ chooses what the answer to ▯ indirect question is _BIAS _RAKU_koe _ARITY_2	hó	A	2
 ▯ chooses ▯ out of ▯ _BIAS _RAKU_koe _ARITY_3	hó	A	3
 predicate choose ▯ chooses ▯ out of ▯ for ▯ _BIAS _RAKU_koe _ARITY_4	hó	A	4
+▯ chooses ▯ _BIAS _RAKU_koe _ARITY_2	hó	A	2
 ▯ is an arbitrary random thing satisfying property ▯ _BIAS _RAKU_faı _2_RAKU_koefaı _ARITY_2	tá	F	2
 predicate option ▯ is an option _BIAS _RAKU_koem _ARITY_1	hóq	I	1
 ▯ is pathetic _BIAS _RAKU_fıe _2_RAKU_koemfıe _ARITY_1	tá	F	1
@@ -2986,7 +2989,7 @@ predicate like ▯ likes satisfying property ▯ _BIAS _RAKU_cho _2_RAKU_lıecho
 ▯ knows ▯ from personal experience _BIAS _RAKU_dua _2_RAKU_lıedua _ARITY_2	hó	I	2
 ▯ is enjoyable a good time _BIAS _RAKU_gı _2_RAKU_lıegı _ARITY_1	tá	F	1
 ▯ follows matches obeys goes along is in accordance with ▯ _BIAS _RAKU_lıeı _ARITY_2	tá	F	2
-▯ is sexually romantically submissive a sub _BIAS _RAKU_dı _2_RAKU_lıeıdı _ARITY_1	hó	A	1
+▯ is sexually romantically submissive a sub _BIAS _RAKU_dı _2_RAKU_lıeıdı _ARITY_1	hó	I	1
 ▯ is a jewel gem pearl ornament valuable treasure _BIAS _RAKU_lıem _ARITY_1	máq	I	1
 ▯ is bejeweled _BIAS _RAKU_bo _2_RAKU_lıembo _ARITY_1	máq	I	1
 ▯ is a jeweler _BIAS _RAKU_che _2_RAKU_lıemche _ARITY_1	hó	I	1
@@ -5744,6 +5747,7 @@ metaphor ▯ spends idle time does nothing ponders cats _BIAS _RAKU_chıq _2_RAK
 ▯ registers with ▯ for course ▯ _BIAS _RAKU_'eı _2_RAKU_chıe'eı _ARITY_3	hó	A	3
 ▯ flowers blooms _BIAS _RAKU_bo _2_RAKU_ruabo _ARITY_1	máq	I	1
 ▯ is crowned king queen ascends to the throne _BIAS _RAKU_joaq _2_RAKU_ruaıjoaq _ARITY_1	hó	I	1
+it would be nice if ▯ were true _BIAS _RAKU_gı _2_RAKU_'aogı _ARITY_1	hóq	P	1
 ▯ makes it seem that ▯ ▯ makes ▯ seem to satisfy property ▯ _BIAS _RAKU_du _2_RAKU_tuadu _ARITY_3	hó	A	3
 ▯ is a limnic eruption _BIAS _RAKU_roq _2_RAKU_suroq _ARITY_1	hóq	F	1
 ▯ is eberban a logical language _BIAS _ARITY_1	hóq	I	1
