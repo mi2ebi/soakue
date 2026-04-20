@@ -9036,9 +9036,10 @@ cu [(c c) (d d) hóq E] @Laqme 2025-03-02 #NSPwLIb2q $en +2
   Laqme (2025-03-02): ▯ is an event whose PATIENT arrives at belonging to ▯.
   Laqme (2025-03-02): = **dona** I think, but I just want it to be short and not have **do** in it
 
-cua [(c c) (d d) hó A] @robintown 2023-11-11 #v-pC6ES7Q $en +2 %action
+cua [(c c) (d d) hó A] @robintown 2023-11-11 #v-pC6ES7Q $en +1 %action
 ▯ reacts/responds to ▯.
   robintown (2023-11-11): The property place in the official definition can be replaced by subject-sharing adverbials.
+  Dembim (2026-04-19): The object is a stimulus, presumably?
 
 cua [(c c 1i) (d d d) hó A] @official 2026-04-11 #jczsB8Jlwl $en ± %action
 predicate: ‘respond’; ▯ responds to satisfying property ▯ by satisfying property ▯.
@@ -9504,7 +9505,7 @@ cuekueq @jiqci 2023-12-04 #rzg-lKZHY $en ±
 cuelıo @jiqci 2023-07-06 #ZEYGwdM4V $en ±
 ▯ is politically left-wing / progressive.
 
-cueluaq @fagri 2021-11-11 #yTiBcwsUn $en ±
+cueluaq @fagri 2021-11-11 #yTiBcwsUn $en -1
 ▯ doms ▯
 
 cuem @uakci 2023-04-21 #OxH9q22ef $en -1
@@ -73571,15 +73572,15 @@ sesea [(c) (d) tá F] @lassc 2026-03-16 #sPLQyVYs1 $en ±
 ▯ is cool/composed/nonchalant/suave.
   lassc (2026-03-16): etymology: simple compound; **se** + **sea**
 
-seseq @robintown 2023-07-20 #QW9SuKxwO $en ±
-▯ is in control / empowered; ▯ has sufficient self-confidence and control over their own situation to satisfy property ▯.
-  robintown (2023-07-20): A priori
-
 seseq [(c) (d) hó I] @Dembim 2026-02-18 #TKSXJblZZ $en ±
 ▯ is empowered, confident, having the necessary control of their own situation to accomplish their goal(s)
   Dembim (2026-02-18): Valency-monomorphic fork of <@robintown seseq>
   Dembim (2026-02-18): Recover the bivalent meaning with subject-sharing, e.g. « ua, chum fatuı nháo ní jalam puaı sêseq »
   Ilmen (2026-02-21): discriminator: 2
+
+seseq @robintown 2023-07-20 #QW9SuKxwO $en -1
+▯ is in control / empowered; ▯ has sufficient self-confidence and control over their own situation to satisfy property ▯.
+  robintown (2023-07-20): A priori
 
 sesese [particle] @Laqme 2024-07-14 #x5mxuWI5l $en -1
 interjection: keysmashing, speechlessness, "asdfghjkl"
@@ -85509,7 +85510,7 @@ toıjuao @Ilmen 2020-04-23 #SvfknquTE $en ±
 toıleoq @seaqtaq 2020-06-12 #B9XSKWNCo $en ±
 ▯ protects ▯ from being treated like ▯ (relation)
 
-toıluaq @seaqtaq 2024-07-18 #YAh_kXjZL $en ±
+toıluaq @seaqtaq 2024-07-18 #YAh_kXjZL $en -1
 ▯ doms ▯
 
 toıluoq @robintown 2023-12-17 #M5-hKOdK2 $en ±
