@@ -13166,7 +13166,7 @@ chuaıruq @kazoo 2024-11-24 #GsNek-oot $tr ± %weather
 chuaıruq @el 2022-10-26 #JoZQP_S3T $tok -1 %weather
 ▯ li telo kiwen li kama anpa tan sewi
 
-chuaıruqshua [phrase] @official 2026-04-06 #hPzNK-OGENH $en ±
+chuaıruqshua [() () I] @official 2026-04-20 #DHdVfk-nV $en ±
 predicate: ‘hail’; It hails.
 
 chuaıruqshua @el 2022-10-26 #OKtp-KE-Q $tok ±
@@ -58304,7 +58304,7 @@ nıaopoq @Hoemai 2019-12-11 #2YJyxyILm $en +1
 nıaopoq @SuperSpaceNiM 2024-08-11 #xVSG2KESF $ru ±
 ▯ — снеговик (снежная баба, статуя из снега).
 
-nıaoshua [phrase] @official 2026-04-06 #nOESbQ4E11l $en ±
+nıaoshua [() () I] @official 2026-04-20 #m5WKlrVTR $en ±
 predicate: ‘snow’; It snows.
 
 nıaoshua @jiqci 2023-07-31 #9e22wVzO_E $pl ±
@@ -71657,7 +71657,7 @@ ruqshıq @Ilmen 2019-12-08 #ku4a_T-Rf $en ± %perception,olfaction
 ruqshıqsaı @jiqci 2025-05-28 #hyjMm45yB $en ±
 ▯ is geosmin.
 
-ruqshua [phrase] @official 2026-04-06 #c6AmZw8Jsmp $en ±
+ruqshua [() () I] @official 2026-04-20 #H6GLirbpiX $en ±
 predicate: ‘rain’; It rains.
 
 ruqshua @el 2022-07-10 #nwNoneA_D $tok ±
@@ -71774,7 +71774,7 @@ sa @Ilmen 2020-01-26 #35YaHsFz4 $toa -1
 sa @Laqme 2021-10-03 #z5v2qqNi6 $jbo -1
 .i ku'antora valsi gi'e smudu'i zo "su'oi" (noi panra zo "su'o" tu'a lo me zei logji)
 
-sá [particle] @official 2026-04-06 #j1sCqqbN0wj $en ±
+sá @official 2026-04-20 #d79X1m9ZGj $en ±
 determiner: ‘some’; existential quantifier
 
 sá @TheAndSys 2025-03-26 #WxIOAXnS9 $es ±
@@ -100661,11 +100661,11 @@ This winter (I like winter) I built a snow figure.
 ⚠ Sho tuı súq ní põı gaqcıa ba [phrase] @examples 2026-04-11 #CtWLLZglxOkO $en ±
 (B0675) Sit here by yourself
 
-⚠ Shu ‹ Merı › jíbo chua da. [phrase] @examples 2026-04-11 #wDpa7q4kZ7-x $en ±
-My name is Mary.
-
 ⚠ Shu ‹nuaqchu› ꝡé chua hóa éku jıbo. [phrase] @examples 2026-04-11 #vIlQ7E-wpCN $en ±
 The name of my horse is the word "midnight".
+
+⚠ Shu ‹ Merı › jíbo chua da. [phrase] @examples 2026-04-11 #wDpa7q4kZ7-x $en ±
+My name is Mary.
 
 ⚠ Shú ‹keq› bï, ma kuqbuaq súq shú ‹teq› móq? [phrase] @examples 2026-04-11 #CduYaeIOve5K $en ±
 About "keq": did you mean to say "teq"?
