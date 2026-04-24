@@ -441,7 +441,7 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
     let after = normalize_body(parts.get(slot_idx + 1).copied().unwrap_or(""));
     let after = after.trim_start_matches(|c: char| " ;,./".contains(c));
 
-    if after.contains("is the case")
+    if after.contains("the case")
         || (1..=2).any(|n| after.split_whitespace().skip(n).join(" ").starts_with("the case"))
         || after.starts_with("is true")
         || after.starts_with("is false")
@@ -510,8 +510,8 @@ fn guess_frame(body: &str, n: usize) -> String {
         .join(" ")
 }
 
-fn guess_distribution(body: &str, n: usize) -> String {
-    let b = normalize_body(body);
+fn guess_distribution(entry: &Toa, n: usize) -> String {
+    let b = normalize_body(&entry.body);
     let n_collective = if b.starts_with("▯ and ▯") {
         2
     } else {
@@ -520,10 +520,64 @@ fn guess_distribution(body: &str, n: usize) -> String {
                 || b.contains("mutual")
                 || b.contains("collectively")
                 || b.contains("reciprocal")
-                || b.contains("both sides"),
+                || b.contains("both sides")
+                || entry.head.ends_with("gua"),
         )
     };
     (0..n).map(|i| if i < n_collective { "n" } else { "d" }).collect::<Vec<_>>().join(" ")
+}
+
+const PARTICLE_LABELS: &[&str] = &[
+    "interjection",
+    "vocative",
+    "pronoun",
+    "determiner",
+    "quantifier",
+    "complementizer",
+    "adverb",
+    "conjunction",
+    "connective",
+    "coordinator",
+    "prefix",
+    "suffix",
+    "particle",
+    "sentence connector",
+    "illocution",
+    "cleft",
+    "topic marker",
+    "focus marker",
+    "focus particle",
+    "tense",
+    "aspect",
+    "modal",
+    "modality",
+    "modal aspect",
+    "polarity",
+    "degree",
+    "number",
+    "number component",
+    "unit",
+    "adjunct",
+    "evidential",
+];
+
+fn guess_particle_or_phrase(toa: &Toa) -> Option<&'static str> {
+    if toa.body.contains('▯') {
+        return None;
+    }
+    let b = toa.body.to_lowercase();
+    if let colon = b.find(':').unwrap_or(b.len())
+        && !toa.head.contains(' ')
+    {
+        let label = b[..colon].trim();
+        if PARTICLE_LABELS.iter().any(|p| label.contains(p)) {
+            return Some("particle");
+        }
+    }
+    if toa.head.ends_with('-') || toa.head.starts_with('-') {
+        return Some("particle");
+    }
+    Some("phrase")
 }
 
 // ─── valid label sets
@@ -638,6 +692,8 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     let mut ok_frame = 0;
     let mut n_dist = 0;
     let mut ok_dist = 0;
+    let mut n_pp = 0;
+    let mut ok_pp = 0;
 
     let mut mismatches: Vec<Mismatch> = Vec::new();
 
@@ -650,7 +706,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
 
         // Guesses
         let frame = guess_frame(n.1, n.0);
-        let dist = guess_distribution(n.1, n.0);
+        let dist = guess_distribution(toa, n.0);
         let features = extract_features(toa);
         let (pron, p_raw_conf) = pronoun_model.predict_raw(&features);
         let p_cal_conf = calibration.calibrate(p_raw_conf);
@@ -715,6 +771,24 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         }
     }
 
+    // ── particle/phrase mismatch pass ────────────────────────────────────
+    let mut pp_mismatches: Vec<String> = Vec::new();
+    for toa in dict.iter().filter(|t| {
+        matches!(t.pronoun.as_deref(), Some("particle" | "phrase")) && primary_arity(&t.body).0 == 0
+    }) {
+        let actual = toa.pronoun.as_deref().unwrap();
+        let guessed = guess_particle_or_phrase(toa).unwrap_or("?");
+        n_pp += 1;
+        if guessed == actual {
+            ok_pp += 1;
+        } else {
+            pp_mismatches.push(format!(
+                "✗ {} #{}\n  actual:  [{actual}]\n  guessed: [{guessed}]",
+                toa.head, toa.id
+            ));
+        }
+    }
+
     // Sort: High confidence errors first (likely annotation typos)
     mismatches.sort_by(|a, b| b.max_ml_conf.partial_cmp(&a.max_ml_conf).unwrap());
 
@@ -729,9 +803,10 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     writeln!(out)?;
 
     writeln!(out, "=== ACCURACY (n={}) ===", cv_examples.len())?;
-    writeln!(out, "  frame:        {:.1}% (heuristic, training data)", pct(ok_frame, n_frame))?;
-    writeln!(out, "  distribution: {:.1}% (heuristic, training data)", pct(ok_dist, n_dist))?;
-    writeln!(out, "  pronoun:      {:4.1}% (10-fold CV)", cv.pron_acc * 100.0)?;
+    writeln!(out, "  frame:           {:.1}% (heuristic, training data)", pct(ok_frame, n_frame))?;
+    writeln!(out, "  distribution:    {:.1}% (heuristic, training data)", pct(ok_dist, n_dist))?;
+    writeln!(out, "  particle/phrase: {:.1}% (heuristic, training data)", pct(ok_pp, n_pp))?;
+    writeln!(out, "  pronoun:         {:4.1}% (10-fold CV)", cv.pron_acc * 100.0)?;
     let mut pron_classes: Vec<_> = cv.pron_per_class.iter().collect();
     pron_classes.sort_by_key(|(k, _)| k.as_str());
     for &(class, &(correct, total)) in &pron_classes {
@@ -741,7 +816,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             100.0 * correct as f64 / total as f64
         )?;
     }
-    writeln!(out, "  subject:      {:4.1}% (10-fold CV, chained)", cv.subj_acc * 100.0)?;
+    writeln!(out, "  subject:         {:4.1}% (10-fold CV, chained)", cv.subj_acc * 100.0)?;
     let mut subj_classes: Vec<_> = cv.subj_per_class.iter().collect();
     subj_classes.sort_by_key(|(k, _)| k.as_str());
     for &(class, &(correct, total)) in &subj_classes {
@@ -770,6 +845,13 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     }
     writeln!(out)?;
 
+    writeln!(out, "=== PARTICLE/PHRASE MISMATCHES ({}) ===", pp_mismatches.len())?;
+    writeln!(out)?;
+    for m in &pp_mismatches {
+        writeln!(out, "{m}")?;
+    }
+    writeln!(out)?;
+
     // ── guess pass ────────────────────────────────────────────────────────
     writeln!(out, "=== GUESSES FOR UNANNOTATED ENTRIES ===")?;
     writeln!(out, "  conf = calibrated pronoun accuracy estimate")?;
@@ -777,7 +859,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     writeln!(out)?;
 
     let mut guesses = vec![];
-    let mut n_guessed = 0;
+    let mut n_guessed @ mut n_particle_phrase = 0;
     let mut confidence_sum = 0.;
     let mut oov_sum = 0.;
     let mut high_conf_count = 0;
@@ -785,11 +867,15 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     for toa in dict.iter().filter(|t| !t.has_metadata() && !t.warn && t.scope == "en") {
         let n = primary_arity(&toa.body);
         if n.0 == 0 {
+            if let Some(pronoun) = guess_particle_or_phrase(toa) {
+                n_guessed += 1;
+                n_particle_phrase += 1;
+                writeln!(out, "{} #{} → [{pronoun}]", toa.head, toa.id)?;
+            }
             continue;
         }
-
         let frame = guess_frame(n.1, n.0);
-        let dist = guess_distribution(n.1, n.0);
+        let dist = guess_distribution(toa, n.0);
         let features = extract_features(toa);
         let (pron, raw_conf) = pronoun_model.predict_raw(&features);
         let cal_conf = calibration.calibrate(raw_conf);
@@ -832,6 +918,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         100.0 * oov_sum / f64::from(n_guessed)
     )?;
     writeln!(out, "  high-confidence (cal≥80%):    {high_conf_count}")?;
+    writeln!(out, "  particle/phrase guesses:      {n_particle_phrase}")?;
 
     println!("data/guesses.txt: {total} annotated checked, {n_guessed} unannotated guessed");
     println!(
