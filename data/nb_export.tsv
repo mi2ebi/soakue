@@ -5217,6 +5217,7 @@ predicate form ▯ is a form shape ▯ is a form shape of ▯ _BIAS _RAKU_teı _
 ▯ cracks _BIAS _RAKU_ka _2_RAKU_teka _ARITY_1	máq	I	1
 ▯ is an interview questionnaire poll quiz test evaluation set of exercises homework _BIAS _RAKU_tem _ARITY_1	hóq	I	1
 ▯ tests quizzes polls conducts an interview with ▯ _BIAS _RAKU_tem _ARITY_2	hó	A	2
+▯ is a question _BIAS _RAKU_tem _ARITY_1	hóq	F	1
 predicate question ▯ is a question _BIAS _RAKU_teoq _ARITY_1	hóq	I	1
 ▯ is an interviewer _BIAS _RAKU_che _2_RAKU_teoqche _ARITY_1	hó	I	1
 predicate ask ▯ asks question ▯ _BIAS _RAKU_kuq _2_RAKU_teoqkuq _ARITY_2	hó	A	2
