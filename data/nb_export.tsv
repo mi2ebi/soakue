@@ -2714,6 +2714,7 @@ predicate man ▯ is a man adult male _BIAS _RAKU_naq _2_RAKU_koaqnaq _ARITY_1	h
 predicate choose ▯ chooses ▯ out of ▯ for ▯ _BIAS _RAKU_koe _ARITY_4	hó	A	4
 ▯ chooses ▯ _BIAS _RAKU_koe _ARITY_2	hó	A	2
 ▯ is an arbitrary random thing satisfying property ▯ _BIAS _RAKU_faı _2_RAKU_koefaı _ARITY_2	tá	F	2
+predicate ▯ is smart ▯ makes good decisions _BIAS _RAKU_joe _2_RAKU_koejoe _ARITY_1	hó	I	1
 predicate option ▯ is an option _BIAS _RAKU_koem _ARITY_1	hóq	I	1
 ▯ is pathetic _BIAS _RAKU_fıe _2_RAKU_koemfıe _ARITY_1	tá	F	1
 ▯ is considering the different options ▯ for making a choice as to which will satisfy property ▯ _BIAS _RAKU_koem _ARITY_3	hó	I	3

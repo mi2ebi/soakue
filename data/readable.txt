@@ -18150,7 +18150,7 @@ It seems that ▯ because it seems that ▯; ▯ seems to have property ▯ beca
 dula @salarua 2022-12-12 #DyO_YATm2 $en ±
 predicate: ‘doula’; ▯ is a doula
 
-dum [(c) (d) tá F] @evie 2025-11-18 #G_ZESCYqh $en ±
+dum [(c) (d) tá F] @evie 2025-11-18 #G_ZESCYqh $en +1
 ▯ is minimal / free of **namako**
   evie (2025-11-18): etymology: https://udm14.org which removes the ai summary from google, and also orthosemantic matching of english "dumb" as in "dumbphone" (as opposed to "smartphone")
 
@@ -37412,7 +37412,7 @@ joejıse @Laqme 2023-12-18 #u1M6cxVLX $en ±
 joekao @Laqme 2024-06-27 #JjAQQC7V3 $en ±
 ▯ is a résumé / resume / cv / curriculum vitae / (document outlining one's skills).
 
-joekea [(c) (d) máq I] @fagri 2021-07-27 #tnQVWUPg3 $en ±
+joekea [(c) (d) máq I] @fagri 2021-07-27 #tnQVWUPg3 $en +1
 ▯ is a smart device
   salarua (2021-07-27): dang, this machine has skills
 
@@ -43314,6 +43314,9 @@ koejoaı @uakci 2022-10-23 #W_9clHr8J $en ±
 
 koejoaı @el 2022-10-23 #zFV481oL9 $en ±
 ▯ considers what answer to choose for ▯ (indirect question)
+
+koejoe [(c) (d) hó I] @Dembim 2026-04-24 #7p5cqGlSp $en +1
+predicate: ▯ is smart; ▯ makes good decisions
 
 koekıu @seaqtaq 2019-12-27 #Xzq_gFluo $en ±
 ▯ is available
