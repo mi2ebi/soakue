@@ -2031,6 +2031,7 @@ kushe #2qknnMNLO → [particle]
 kꝡ #FNSDw0cMz → [phrase]
 lä #an5m1L1QbR → [particle]
 laolaı #TKQ0R6HZa → [phrase]
+Lésehıu #4t9JloYeq → [phrase]
 lıamshe #kr44s05rO → [particle]
 ló #w7GmzkbuCY → [particle]
 loeruamıa #IN74Q07eD → [phrase]
@@ -26732,6 +26733,8 @@ leabo #q-Vhxlxk2 → [(c) (d) tá F] conf=60% oov=11%
   ▯ is artistic; ▯ has artistic value or is worth interpreting as art.
 lem #qwd3gAzMp → [(c c) (d d) tá F] conf=60% oov=7%
   ▯ is the feature/characteristic/property/trait ▯ (property place).
+lese #f2gVvQIh7 → [(c) (d) hóq F] conf=60% oov=25%
+  ▯ is loess.
 leubeqmıa #JatCiazaJ → [(c) (d) tá S] conf=60% oov=18%
   ▯ has many cysts on it
 lıaınuaı #KXPf9rO-F → [(c) (d) máq I] conf=60% oov=25%
@@ -34924,8 +34927,8 @@ toaınuı #9G8zw0YXJ → [(c) (d) hóq I] conf=31% oov=17%
   ▯ is very tiny/microscopic/minuscule/infinitesimal.
 
 === SUMMARY ===
-  unannotated entries guessed: 16739
+  unannotated entries guessed: 16741
   mean calibrated pronoun conf: 73.3%
   mean oov rate:                16.4%
   high-confidence (cal≥80%):    7977
-  particle/phrase guesses:      423
+  particle/phrase guesses:      424
