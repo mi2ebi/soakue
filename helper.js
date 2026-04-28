@@ -36,21 +36,21 @@ let htmlify = (json) =>
       json.warn ? mkel("span", {}, "⚠\ufe0f ") : null,
       makeLink(json.head, json.head.replace(/'/g, "’"), { className: "toa" }),
       " ",
-      json.frame ? mkel("span", { className: "adv nobr" }, [
+      json.frame !== undefined ? mkel("span", { className: "adv nobr" }, [
         "(",
         makeLink("frame:" + json.frame.replace(/ /g, ""), [json.frame]),
         ")"
       ]) : null,
       " ",
-      json.distribution ? mkel("span", { className: "adv nobr" }, [
+      json.distribution !== undefined ? mkel("span", { className: "adv nobr" }, [
         "(",
         makeLink("dist:" + json.distribution.replace(/ /g, ""), json.distribution),
         ")"
       ]) : null,
       " ",
-      json.pronoun ? mkel("span", { className: "adv" }, [makeLink("pron:" + json.pronoun, json.pronoun)]) : null,
+      json.pronoun !== undefined ? mkel("span", { className: "adv" }, [makeLink("pron:" + json.pronoun, json.pronoun)]) : null,
       " ",
-      json.subject ? mkel("span", { className: "adv" }, [makeLink("subj:" + json.subject[0], json.subject[0].toUpperCase())]) : null,
+      json.subject !== undefined ? mkel("span", { className: "adv" }, [makeLink("subj:" + json.subject[0], json.subject[0].toUpperCase())]) : null,
       " ",
       // mkel("br", {}, []),
       mkel("span", { className: "gray meta nobr" }, [

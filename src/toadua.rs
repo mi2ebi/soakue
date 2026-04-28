@@ -128,13 +128,14 @@ impl Toa {
         .iter()
         .any(|m| *m == Some("undefined".to_string()))
         {
-            println!("{} #{} has bad metadata", self.head, self.id);
+            println!("\x1b[91m{} #{} has bad metadata:\n{self}\x1b[r", self.head, self.id);
         }
         if let Some(pronoun) = &self.pronoun
             && !["ho", "maq", "hoq", "ta", "raı", "particle", "phrase"].contains(&pronoun.as_str())
         {
-            println!("{} #{} has pronoun {}, removing", self.head, self.id, pronoun);
+            println!("\x1b[93m{} #{} has pronoun \"{}\", removing", self.head, self.id, pronoun);
             self.pronoun = None;
+            println!("new entry:\n\x1b[95m{self}\x1b[m");
         }
         if let Some(pronoun) = &self.pronoun
             && !["particle", "phrase"].contains(&pronoun.as_str())
