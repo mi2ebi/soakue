@@ -5,7 +5,7 @@ prefix: interjectionizer; converts a predicate into an interjection meaning “I
 a- [particle] @uakci 2022-12-31 #Qn06JTEEu $en -1
 prefix: interjectionalizer
 
-a [particle] @official 2026-04-06 #JX1zhxw_d $en ±
+a @official 2026-04-28 #VI4RPZN8F $en ±
 interjection: ‘ah’; discovery; ah
 
 a @el 2022-10-26 #Uex9vi9jd $tok ±
@@ -245,7 +245,7 @@ ahaqdulılahı @eednb 2022-10-16 #pZcJQZyfV $en ±
 ▯ thanks God/Zeus/Allah/some other higher deity for ▯
   eednb (2022-10-16): etymology: Arabic اَلْحَمْدُ لِلّٰهِ‎ (praise be to God)
 
-ahı [particle] @official 2026-04-06 #Bs7kXdS3K- $en ±
+ahı @official 2026-04-28 #-OhETIS-HX $en ±
 interjection: ‘ouch’; pain; ouch
 
 ahı @eednb 2023-12-03 #EwIZnlx1T $lou ±
@@ -305,7 +305,7 @@ aı'aı [(c c) (d d) tá F] @uakci 2020-04-05 #-A9n8F6W0 $en ±
 aı'aıpu [(c) (d) hóq F] @robintown 2022-08-01 #TZ_UY2QV4 $en ±
 ▯ is the letter Aı.
 
-aıba [particle] @official 2026-04-06 #MbEDg1EsNJ $en ±
+aıba @official 2026-04-28 #KBwsXkCQ0y $en ±
 interjection: ‘c'mon’; encouraging/hurrying
 
 aıbı [(c c) (d d) hó A] @kazoo 2025-05-03 #rmGNgnKgg $en +1
@@ -418,7 +418,7 @@ aıleı @uakci 2022-01-24 #qkynu4GRb $en ±
 Aımarazu [(c) (d) hóq I] @funbreaker 2024-03-02 #XV912kb6i $en ±
 ▯ is the Aymara language.
 
-aımu [(0) (d) hóq P] @Hoemai 2022-08-06 #zJJysQXen $en +2 %basic
+aımu [(0) (d) hóq proposition] @Hoemai 2022-08-06 #zJJysQXen $en +2 %basic
 ▯ is not* the case.
   Hoemai (2022-08-06): This predicate expresses that its argument is false and that this disagrees with a proposition from the immediately preceding discourse (there should be one most salient proposition). Like the opposite of German "doch" and French "si", but as a verb. If no argument is provided, it defaults to the negation of the most salient proposition.
   Hoemai (2022-08-06): A: **Jảq chỏ hó jí** B: **Aımu chô hó súq**. A: "He really likes me!" B: "No, he doesn't."
@@ -546,7 +546,7 @@ aızıa @TheAndSys 2025-01-29 #LnyMp1gSe $en ±
 aızoq @TheAndSys 2023-05-18 #1wsB5vaw8 $en +1
 ▯ is the letter y
 
-aja [particle] @official 2026-04-06 #x9PzG8hiu1 $en ± %emotion
+aja @official 2026-04-28 #wHXKB9UcGG $en ± %emotion
 interjection: ‘yay’; happiness; yay
 
 aja @el 2022-07-10 #OZu6k0rtI $tok ± %emotion
@@ -769,7 +769,7 @@ onomatopoeia: ‘nom’, ‘chomp’; biting into food
 äm [particle] @evie 2025-08-17 #-r4qMEgOr $en ±
 interjection: go away
 
-áma [particle] @official 2026-04-06 #5F9AJDi0YO $en ± %deixis,discourse_participants
+áma @official 2026-04-28 #agPhP7gn4A $en ± %deixis,discourse_participants
 pronoun: ‘1+2+3’; 1st + 2nd + 3rd person personal pronoun; we/us (me + you + them)
 
 áma @eednb 2023-12-04 #p3yCT3lyn $lou ± %deixis,discourse_participants
@@ -1167,7 +1167,7 @@ aoga @el 2022-08-01 #k6BGXqgjo $en ±
 aoha [particle] @uakci 2023-11-01 #9vDUBHtv_ $en ±
 modality: X would happen if … were truer/more-so than it really is
 
-aohıa [(0) (d) hóq P] @Laqme 2024-06-14 #qCiqeAIXd $en +1
+aohıa [(0) (d) hóq proposition] @Laqme 2024-06-14 #qCiqeAIXd $en +1
 What if ▯ were the case?
 
 aoja [(c) (d) hó I] @uakci 2023-01-27 #KFZSuGqG_ $en +1
@@ -1704,7 +1704,7 @@ asenı [(c) (d) máq I] @uakci 2022-12-31 #zHoI62JtG $en ±
 aseq @jiqci 2024-06-13 #YH09GPCJg $en ±
 ▯ is an ash tree (genus Fraxinus).
 
-ası [(0) (d) hóq P] @uakci 2022-07-23 #-cHvFyOF5 $en +1
+ası [(0) (d) hóq proposition] @uakci 2022-07-23 #-cHvFyOF5 $en +1
 What's worse, ▯ is the case; To add insult to injury, ▯ is the case.
   uakci (2022-07-23): cf. **ısa**
 
@@ -3049,7 +3049,7 @@ bela @fagri 2021-10-02 #8dGP5bbDV $en ±
 ▯ are a majority of the members of ▯
   fagri (2021-10-02): etymology: a priori
 
-beladaq [(c 0) (d d) hóq P] @fagri 2021-10-02 #qrMYH8Bio $en ±
+beladaq [(c 0) (d d) hóq proposition] @fagri 2021-10-02 #qrMYH8Bio $en ±
 ▯ is true most of the time when ▯ is true
 
 Belarusı [(c) (d) tá F] @countries 2026-04-11 #s6Z8bJ34tdW $en ±
@@ -3811,7 +3811,7 @@ predicate: ‘enough’; ▯ is enough; ▯ sufficiently satisfies property ▯.
   robintown (2022-01-30): Use pùoq to express "enough to satisfy property ▯"
   robintown (2023-01-06): Actually no, use **dîam** for "enough for ▯ to be the case"
 
-bıaq [(c 0) (d d) hóq P] @fagri 2021-07-27 #iiuwaW7Vc $en +2
+bıaq [(c 0) (d d) hóq proposition] @fagri 2021-07-27 #iiuwaW7Vc $en +2
 ▯ is true enough that ▯ happens
 
 bıaq [(c 1i) (d d) tá F] @official 2026-02-16 #QjeMLwkDzTw $en ±
@@ -4008,7 +4008,7 @@ bıejaqguo @Ilmen 2018-10-08 #nai8RybBN $en ±
 bıejearıaq @xorxes 2020-06-08 #WUgQD-yv8 $en ±
 ▯ is a bar/pub/cafe.
 
-bıejıe [(0) (d) hóq P] @jiqci 2024-02-17 #8SrTqQJzN $en +2
+bıejıe [(0) (d) hóq proposition] @jiqci 2024-02-17 #8SrTqQJzN $en +2
 In hindsight / in retrospect, ▯ is the case.
 
 bıejıezuq @jiqci 2024-02-17 #WFnvGg6OF $en +1
@@ -4068,7 +4068,7 @@ bıerao @uakci 2020-05-19 #EVVxZZft7 $en ±
 bıeru @uakci 2022-11-03 #TraptK3qh $en ±
 conjunction: and then, and sequentially
 
-bıesaofaq [(c) (d) hóq P] @Laqme 2021-10-18 #TUzyZgVGR $en +1
+bıesaofaq [(c) (d) hóq proposition] @Laqme 2021-10-18 #TUzyZgVGR $en +1
 ▯ finally happens, at long last.
 
 bıeseudıu @seaqtaq 2020-03-18 #dbB3IUC6g $en ±
@@ -5074,7 +5074,7 @@ boqbeaq @Laqme 2025-05-01 #XrhAhgu8m $en +1
 boqboq @jiqci 2023-09-04 #LmBzX5HHi $en +1
 ▯ knocks on door ▯.
 
-boqbu [(c c) (d d) hóq P] @Laqme 2018-12-14 #bZVMqex1a $en +1
+boqbu [(c c) (d d) hóq proposition] @Laqme 2018-12-14 #bZVMqex1a $en +1
 ▯ does not prevent ▯. (= Despite ▯, event ▯ happens.)
   fagri (2019-01-12): +1
   Laqme (2021-10-12): see also **noeq**
@@ -5715,7 +5715,7 @@ bubeı @uakci 2022-08-09 #owPf1SbLj $en ±
 ▯ is indeed not so; ▯ indeed doesn‘t satisfy property ▯ [does not emphasize the intensity of the property being claimed, but rather the pertinence of its ramifications].
   uakci (2022-08-09): “▯ *isn‘t* (!) the case”
 
-bubu [(0) (d) hóq P] @uakci 2019-01-01 #MnuNDywDB $en -1
+bubu [(0) (d) hóq proposition] @uakci 2019-01-01 #MnuNDywDB $en -1
 ▯ is not not the case; It's not the case that ▯ isn't the case; ▯ indeed is the case.
   uakci (2019-01-01): (and analogously for /2)
 
@@ -6196,7 +6196,7 @@ bụkaqsoeı @robintown 2023-11-15 #Qk4anX_C6 $en ±
 búkeo [particle] @Laqme 2024-06-13 #8Jc1NeziZ $en +1
 conjunction: 'not X, but Y'
 
-bukeodu [(0) (d) hóq P] @seaqtaq 2026-03-21 #Sf4LpJVaA $en ±
+bukeodu [(0) (d) hóq proposition] @seaqtaq 2026-03-21 #Sf4LpJVaA $en ±
 ▯ seems to not be the case but in fact is the case
   seaqtaq (2026-03-21): ≈jehana
 
@@ -7535,7 +7535,7 @@ casuao @Laqme 2025-02-28 #izc5Z5TeD $en ±
 casuaocıa @uakci 2025-02-28 #qA6TSLvDB $en ±
 ▯ is inconsequential.
 
-cashe [(c 0) (d d) hóq P] @Ilmen 2020-01-05 #h17yXirZa $en ±
+cashe [(c 0) (d d) hóq proposition] @Ilmen 2020-01-05 #h17yXirZa $en ±
 ▯ is such that, if ▯ is the case, then the latter causes the former.
 
 cashe @Ilmen 2020-03-07 #VHDdGdMC5 $en ±
@@ -7825,7 +7825,7 @@ cemeq [(c) (d) máq I] @Ilmen 2019-04-22 #jwg9I5eZx $en +1 %substance
 cempe [particle] @Laqme 2025-04-12 #DU0ltWC8e $en +1
 degree: relatively / more than usual
 
-cemshe [(c 0) (d d) hóq P] @Ilmen 2025-01-10 #f7YxJP6Vi $en ±
+cemshe [(c 0) (d d) hóq proposition] @Ilmen 2025-01-10 #f7YxJP6Vi $en ±
 ▯ is usually the case if/when ▯ is the case.
 
 cemzıamla [(c 1i) (d d) hó A] @seaqtaq 2025-06-18 #awZqjXB8t $en ±
@@ -8233,7 +8233,7 @@ cıao [(c) (d) hóq I] @Laqme 2023-11-03 #FnegqpJlf $en +4
   Dembim (2026-02-04): Pronominal_class: hoq
   Dembim (2026-02-04): Frame: c
 
-cıao [(c c) (d d) hóq P] @Ilmen 2019-02-26 #3gqrO8MwM $en +2
+cıao [(c c) (d d) hóq proposition] @Ilmen 2019-02-26 #3gqrO8MwM $en +2
 the behaviors and attitudes ▯ (properties) are a culture shared among ▯ (usually by transmission from member to member).
   uakci (2019-02-26): +1
   Laqme (2019-02-26): +1
@@ -9775,7 +9775,7 @@ focus particle: damn, fucking, bloody, the fuck
 cuona [particle] @Laqme 2024-04-24 #P8R9fxzn8 $en ±
 interjection: I assume, I guess
 
-cuonu [(0) (d) hóq P] @robintown 2023-12-30 #q5iTwyssl $en +1
+cuonu [(0) (d) hóq proposition] @robintown 2023-12-30 #q5iTwyssl $en +1
 ▯ is presumably the case.
   robintown (2023-12-30): By analogy with **kuqnu**
   robintown (2023-12-31): presumedly, assumedly, assumably
@@ -10258,7 +10258,7 @@ chaqdeoq [(c) (n) hó A] @Dembim 2026-02-21 #EhhBbNTxC $en ±
 predicate: 'chat'; ▯ (plural) make small-talk, everyday conversation, with one another.
   Dembim (2026-02-21): I like both of <soaokeoı> and <seoqkeoı>; this just feels like something that should have several synonyms. Also this one is plural-subject, because— why not?
 
-chaqdıaq [(0) (d) hóq P] @Laqme 2018-12-14 #6us7v51VY $en +4
+chaqdıaq [(0) (d) hóq proposition] @Laqme 2018-12-14 #6us7v51VY $en +4
 ▯ occurs daily / every day.
   Laqme (2018-12-14): #chaqtū (official) seems to break the #niaqdīaq, #joadīaq, etc. pattern.
   seaqtaq (2019-01-21): +1
@@ -10353,7 +10353,7 @@ charıoq @uakci 2021-07-31 #ZMuEHGmTF $en ±
 charıoq @TheAndSys 2024-05-03 #rdCHn9uvu $en ±
 ▯ is a mode/setting defined by satisfying property ▯
 
-chase [(c 0) (d d) hóq P] @uakci 2022-10-27 #87hyQNlsh $en ±
+chase [(c 0) (d d) hóq proposition] @uakci 2022-10-27 #87hyQNlsh $en ±
 ▯ is a manner in which ▯ happens; ▯ is what ▯ is the case like.
 
 chasıa @jiqci 2024-07-16 #lk0rlPLaT $en ±
@@ -10554,7 +10554,7 @@ chebabıao @seaqtaq 2024-08-11 #agel1V80t $en ±
 chebage @seaqtaq 2024-08-12 #AtanMSdYi $en ±
 ▯ is maddening
 
-chebanhe [(0) (d) hóq P] @jiqci 2023-09-05 #xqmVUSWOg $en +1
+chebanhe [(0) (d) hóq proposition] @jiqci 2023-09-05 #xqmVUSWOg $en +1
 ▯ is the case to a ridiculous / insane / ludicrous extent / going "through the roof".
 
 checu [(c c 2xx) (n n d) tá F] @el 2022-07-12 #zhAQmft54 $en ±
@@ -11970,7 +11970,7 @@ chıraı [(c) (d) tá F] @seaqtaq 2024-11-27 #diejzFIFV $en +3
 chırı @jiqci 2023-08-17 #AhjNbwcxx $en +1
 ▯ is a cricket (superfamily Grylloidea).
 
-chırıaı [(c 0) (d d) hóq P] @Laqme 2019-11-12 #BVEm2RJtv $en ±
+chırıaı [(c 0) (d d) hóq proposition] @Laqme 2019-11-12 #BVEm2RJtv $en ±
 ▯ being true is evidence / "supports the belief" that ▯ is true.
 
 chırıeq @Ilmen 2019-11-05 #rS5EXi70O $en ± %cognition
@@ -13162,7 +13162,7 @@ chuaıruq @kazoo 2024-11-24 #GsNek-oot $tr ± %weather
 chuaıruq @el 2022-10-26 #JoZQP_S3T $tok -1 %weather
 ▯ li telo kiwen li kama anpa tan sewi
 
-chuaıruqshua [() () I] @official 2026-04-20 #DHdVfk-nV $en ±
+chuaıruqshua [() ()] @official 2026-04-28 #oiWjOpHt5l $en ±
 predicate: ‘hail’; It hails.
 
 chuaıruqshua @el 2022-10-26 #OKtp-KE-Q $tok ±
@@ -14345,7 +14345,7 @@ daıshe'ao @TheAndSys 2023-05-25 #wAaG7tXwh $en ±
 ▯ is technically the case
   TheAndSys (2023-05-25): it just felt right, somehow
 
-daıta [(c c) (d d) hóq P] @uakci 2021-08-10 #Gm6pvKSrX $en ±
+daıta [(c c) (d d) hóq proposition] @uakci 2021-08-10 #Gm6pvKSrX $en ±
 ▯ is an external/acquired/separable property of ▯’s.
   uakci (2021-08-10): also: mutable
   uakci (2021-08-10): the property is not satisfied by the individual at a given time, you may use **ma**: dảıtā/bủ dủaıtā mâ rủo hóa baq gỉ na baq kủnē — dogs are not born obedient or not obedient; a dog’s well-behavedness is circumstantial.
@@ -14976,7 +14976,7 @@ daqleaqfıa @Ilmen 2022-10-27 #pCvSbZiaw $en ±
 daqleaqsıe @Ilmen 2022-10-27 #9AT3PCS6N $en ±
 ▯ is next, immediately follows ▯ in the temporal sequence of what instantiates property ▯.
 
-daqleı [(0) (d) hóq P] @Laqme 2024-05-04 #aCuNvslTZ $en ±
+daqleı [(0) (d) hóq proposition] @Laqme 2024-05-04 #aCuNvslTZ $en ±
 ▯ is seldom/infrequently/rarely the case.
 
 daqleı @el 2022-11-27 #ckOji2tQ2 $en -1
@@ -15905,13 +15905,13 @@ predicate: ‘may’; ▯ (agent) may satisfy ▯.
 dı @uakci 2019-04-15 #Sy1GPMb4L $toa -1
 shoe sa ráı dóshı dógu da
 
-dı [(0) (d) hóq P] @robintown 2021-08-01 #nFAtiPCe2 $en -1
+dı [(0) (d) hóq proposition] @robintown 2021-08-01 #nFAtiPCe2 $en -1
 ▯ may be the case; ▯ may be the case if ▯ is the case.
   robintown (2021-08-01): This is the more regular form for modals.
   Laqme (2021-10-21): This is the “allowed” sense of “may”. For the “possible” sense see **daı**, for the “likely/probable” sense see **le**.
   Laqme (2021-12-02): “deontic permission”
 
-dıa [(0) (d) hóq P] @evie 2024-11-04 #v9BJEiZJc $en +2
+dıa [(0) (d) hóq proposition] @evie 2024-11-04 #v9BJEiZJc $en +2
 ▯ decreases
 
 dıa [(0) (d) hóq P] @official 2026-02-16 #pHEOpLf_yvU $en ±
@@ -16342,10 +16342,10 @@ dıjuao @uakci 2021-08-17 #RXYRRHc-t $en ±
 dıkao @seaqtaq 2024-08-07 #E5mAJBIGF $en ±
 ▯ is a license to be able to ▯
 
-dımua [(c) (d) hóq P] @jiqci 2023-11-01 #G9f1QW0tx $en +2
+dımua [(c) (d) hóq proposition] @jiqci 2023-11-01 #G9f1QW0tx $en +2
 ▯ is a precedent; ▯ being the case sets a precedent for when similar situations occur in the future.
 
-dımuacıa [(0) (d) hóq P] @jiqci 2024-03-24 #QhhxqHAyq $en +1
+dımuacıa [(0) (d) hóq proposition] @jiqci 2024-03-24 #QhhxqHAyq $en +1
 ▯ is unprecedented.
 
 Dıne @Ilmen 2019-04-23 #LpaChdMuZ $en ±
@@ -17543,7 +17543,7 @@ duahuıpoq @akesi 2020-04-02 #nvn2WF7r4 $en ±
 duaı [(c 1i) (d d) tá F] @official 2026-02-16 #_vnFnh5v4qf $en ± %modality
 predicate: ‘must’; ▯ must satisfy property ▯.
 
-duaı [(0) (d) hóq P] @robintown 2021-08-01 #BqjCzzUst $en ± %modality
+duaı [(0) (d) hóq proposition] @robintown 2021-08-01 #BqjCzzUst $en ± %modality
 ▯ must be the case; ▯ must be the case if ▯ is the case.
   robintown (2021-08-01): This is the more regular form for modals.
   Laqme (2021-10-23): this expresses an obligation
@@ -17576,7 +17576,7 @@ predicate: ‘must’; ▯ (agent) is obligated to satisfy ▯.
 duaı @el 2022-07-10 #13JIE0RPV $tok -1 %modality
 ▯₂ la ▯₁ li wile
 
-duaıdao [(c) (d) hóq P] @uakci 2020-03-01 #X8o9l-luV $en ±
+duaıdao [(c) (d) hóq proposition] @uakci 2020-03-01 #X8o9l-luV $en ±
 ▯ is a tautology / universal fact / invariant.
 
 duaıdaotaı @uakci 2020-03-01 #q4zSfKSKX $en ±
@@ -17787,7 +17787,7 @@ duasıa @uakci 2020-04-02 #SDpb2q-fF $en ±
 duasoı @eednb 2023-11-20 #hah4FFJ2b $en ±
 ▯ has a dispute over whether ▯ is the case.
 
-duasuao [(c) (d) hóq P] @uakci 2020-03-05 #8EyCFIvSp $en ±
+duasuao [(c) (d) hóq proposition] @uakci 2020-03-05 #8EyCFIvSp $en ±
 ▯ is important/relevant/remarkable; It is important to know ▯.
 
 duasue [(c c 0) (d d d) hó A] @official 2026-02-16 #s7n2Fzh94Gh $en ±
@@ -17901,10 +17901,10 @@ duedaq @lassc 2022-12-02 #G-gKADi50 $en ±
 duede @TheAndSys 2023-04-30 #zoRF2x2S9 $en ±
 ▯ is graceful
 
-duehea [(c 0) (d d) hóq P] @robintown 2022-01-26 #09iR-mNog $en ±
+duehea [(c 0) (d d) hóq proposition] @robintown 2022-01-26 #09iR-mNog $en ±
 ▯ is a hint of ▯ being the case.
 
-duehea [(c 0) (d d) hóq P] @Ilmen 2025-12-31 #l41bJZO3C $en ±
+duehea [(c 0) (d d) hóq proposition] @Ilmen 2025-12-31 #l41bJZO3C $en ±
 predicate 'hint'; ▯ is a hint about the indirect question ▯; in other words, ▯ guides to the correct answer of ▯.
   Ilmen (2025-12-31): Word by Nozz.
   evie (2026-04-12): wrong rectangle character
@@ -18136,7 +18136,7 @@ dujıqchea @Laqme 2023-10-06 #jP9Ffk1If $en ±
 dujıqjıaq @robintown 2023-10-06 #UHOTdkG1l $en ±
 ▯ is a virtual reality / VR world.
 
-dukeobu [(0) (d) hóq P] @seaqtaq 2026-03-21 #M-AfFrrvQ $en ±
+dukeobu [(0) (d) hóq proposition] @seaqtaq 2026-03-21 #M-AfFrrvQ $en ±
 ▯ seems to be the case but is not in fact the case
   seaqtaq (2026-03-21): ≈ aımuna
 
@@ -23069,7 +23069,7 @@ gebıtım @kazoo 2025-06-19 #tLBlTN_NP $en ±
 ▯ is a mulberry fruit.
   kazoo (2025-06-19): ge:bıtım
 
-gebo [(c) (d) tá P] @uakci 2022-06-18 #xRH-13PlH $en +1
+gebo [(c) (d) tá proposition] @uakci 2022-06-18 #xRH-13PlH $en +1
 ▯ (event) has some perceptible signs to account for it / as proof for it happening; ▯ is visible/apparent/noticeable/(somehow) external(ized).
   uakci (2022-06-18): you can tell ▯ is the case
   uakci (2022-07-10): ▯ is the case, and it shows; ▯ is the case, and one has (something) to show for it
@@ -24199,7 +24199,7 @@ gıgıodoatuaıtua @nano 2024-03-23 #AF0mRkDUH $en ±
 gıhuaq @fagri 2019-03-12 #xnjtGytY4 $en ±
 ▯ is better than / preferable to ▯; ▯ zabnymau ▯
 
-gıhuı [(0) (d) hóq P] @Hoemai 2019-09-15 #hxYcVtuyT $en +2
+gıhuı [(0) (d) hóq proposition] @Hoemai 2019-09-15 #hxYcVtuyT $en +2
 In any case / anyhow, ▯ is the case.
 
 gıjao @uakci 2022-02-10 #XYiJKLcXd $en ±
@@ -27973,7 +27973,7 @@ haokoe @Laqme 2025-04-01 #MFoDzT7HJ $en +1
 haola [(c c) (d d) tá F] @Laqme 2024-01-05 #hCt2uRMJg $en +3
 ▯ satisfies some unspecified salient relation with ▯.
 
-haope [(0) (d) hóq P] @Laqme 2022-08-06 #4nEDz58Fu $en +1
+haope [(0) (d) hóq proposition] @Laqme 2022-08-06 #4nEDz58Fu $en +1
 ▯ is relatively the case (relative to some salient standard).
   uakci (2022-08-07): ≈ **pe hảo**
   uakci (2022-08-07): +1 good word!
@@ -29983,7 +29983,7 @@ hıko @kazoo 2025-11-01 #PgWxQgtIv $tr ±
 hıkorı @jiqci 2024-12-18 #cwGxItBH0 $en ±
 ▯ is a hickory tree (genus Carya).
 
-hıkuı [(c c) (d d) hóq P] @el 2022-06-23 #9Upx6mpvF $en +2
+hıkuı [(c c) (d d) hóq proposition] @el 2022-06-23 #9Upx6mpvF $en +2
 The answer to ▯ is determined by the answer to ▯ (both indirect questions)
   el (2022-06-23): designed as a more flexible version that subsumes #e6rVb6USU
 
@@ -30721,7 +30721,7 @@ hoefeıtue @Ilmen 2026-01-19 #iElUuFJs5 $en ±
 hoefu [(c) (d) hó I] @uakci 2019-05-02 #IWGt_InvC $en +1
 ▯ is a Toaqist.
 
-hoefurı [(0) (d) hóq P] @Dembim 2026-02-17 #zSVrrnckS $en ±
+hoefurı [(0) (d) hóq proposition] @Dembim 2026-02-17 #zSVrrnckS $en ±
 ▯ is the "tides" of sunlight, is the state of affairs of how (a/the) sun appears to behave in cyclic fashion, rises each day on schedule, etc
   Dembim (2026-02-17): Not necessarily a simple cycle. One could use this to ask e.g. about how a member of an n-ary solar system behaves with respect to visibility from a planet, **hoefurı hí po ké hoe hụguko**
 
@@ -31110,7 +31110,7 @@ Hoqduragua [(c) (n) máq I] @countries 2026-04-11 #KyRQzCgX_Io $en ±
 hoqjeo @uakci 2022-02-04 #q_1KZdQrG $en ±
 ▯ satisfies the predicate that defines **hoq**.
 
-hoqka [(c c) (d d) hóq P] @uakci 2018-12-27 #p1qTvZ0GJ $en +2
+hoqka [(c c) (d d) hóq proposition] @uakci 2018-12-27 #p1qTvZ0GJ $en +2
 ▯ is true by virtue of ▯ ka-saying so.
   Machy (2020-06-30): pronounce, hereby, adjourn
   TheAndSys (2023-05-16): honk
@@ -31559,7 +31559,7 @@ huaqsoı @uakci 2022-04-15 #s7FhtM35w $en ±
 huaqsoıcheo @uakci 2022-04-15 #pFO15aIba $en ±
 ▯ participate in oneupfolkship in property ▯; ▯ competitively attempt to outdo each other in property ▯.
 
-huaqshe [(c 0) (d d) hóq P] @sheireq 2018-12-09 #huwwwLAVj $en +2
+huaqshe [(c 0) (d d) hóq proposition] @sheireq 2018-12-09 #huwwwLAVj $en +2
 ▯ is more the case the more ▯ is the case.
 
 huaqsho @uakci 2022-04-15 #EchxFMBPp $en ±
@@ -33420,7 +33420,7 @@ predicate: ‘wind’; ▯ is a wind/breeze.
 ıruesıoq [(c) (d) máq I] @Laqme 2022-03-16 #RqLDxKCPv $en +1
 ▯ is a wind turbine / windmill.
 
-ısa [(0) (d) hóq P] @Laqme 2022-05-17 #QAeH5JCeD $en +3
+ısa [(0) (d) hóq proposition] @Laqme 2022-05-17 #QAeH5JCeD $en +3
 At least ▯ is the case (as in, things could be worse).
   Laqme (2022-05-17): ≈ "If it's any consolation, ▯ is the case"
   uakci (2022-07-23): silver lining
@@ -33538,7 +33538,7 @@ Itıopıagua [(c) (n) máq I] @countries 2026-04-11 #ca0xMovVpqO $en ±
 prefix: properly, actually, in the literal/strict sense
   Dembim (2026-02-15): see also <aı->
 
-ıu [(0) (d) hóq P] @uakci 2021-09-03 #mm9Rlfo1v $en +6
+ıu [(0) (d) hóq proposition] @uakci 2021-09-03 #mm9Rlfo1v $en +6
 ▯ is the case in the real world rather than hypothetically.
   robintown (2023-12-06): actually, really
   Dembim (2026-02-04): Frame: 0
@@ -33883,7 +33883,7 @@ jam @robintown 2023-05-20 #YMBxFpWju $en ±
 ▯ is a clock/watch/timepiece.
   robintown (2023-05-20): From Malay 'jam'
 
-jama [(c 0) (d d) hóq P] @uakci 2023-01-01 #9k3FFE4wF $en +2
+jama [(c 0) (d d) hóq proposition] @uakci 2023-01-01 #9k3FFE4wF $en +2
 ▯ influences ▯; The answer to indirect question ▯ has influence on the answer to indirect question ▯.
   uakci (2023-01-01): → **mu jama** ▯ depends on ▯
   uakci (2023-01-02): has a bearing on, contributes to; [**mu**:] is a function of
@@ -34164,7 +34164,7 @@ jaqbıaq @jiqci 2023-07-31 #feQQXC4ck8 $pl ±
 predicate: ‘enough.to’; ▯ is sufficiently the case for ▯ to be the case; ▯ is so much so that ▯ is the case.
   Ilmen (2019-06-20): I prefer #cabīaq.
 
-jaqbu [(0) (d) tá P] @Ilmen 2019-01-01 #2IvJBc6me $en +1
+jaqbu [(0) (d) tá proposition] @Ilmen 2019-01-01 #2IvJBc6me $en +1
 ▯ is not very much the case; ▯ is somewhat the case. ▯ has property ▯ to some non-extreme extent.
 
 jaqbu'eqbı @salarua 2021-08-17 #e-knS4xDZ $en ±
@@ -34463,7 +34463,7 @@ jeaneaıpeq @Laqme 2024-09-18 #e3jvlMBUu $en ±
 jeanua @Laqme 2024-07-02 #o86t0bvNX $en ±
 ▯, from/off ▯, buys ▯.
 
-jeaq [(0) (d) hóq P] @evie 2024-11-04 #PkvfmZVv2 $en +3
+jeaq [(0) (d) hóq proposition] @evie 2024-11-04 #PkvfmZVv2 $en +3
 ▯ increases
 
 jeaq [(0) (d) hóq P] @official 2026-02-16 #0joKDx8DR8u $en ±
@@ -34508,7 +34508,7 @@ jeaqchua @uakci 2019-07-11 #IT1RNVOXC $en ±
 jeaqchuq @uakci 2021-09-27 #coXXCIXPk $en ±
 ▯ snacks on ▯; ▯ eats ▯ outside of a (presumed) meal schedule or as a non-serious meal.
 
-jeaqdaıbu [(c) (d) hóq P] @Ilmen 2018-12-29 #cV3kWhafX $en +1
+jeaqdaıbu [(c) (d) hóq proposition] @Ilmen 2018-12-29 #cV3kWhafX $en +1
 ▯ cannot increase; ▯ is the case to the largest possible extent.
   uakci (2018-12-29): +1, although I’d make this a JEO
 
@@ -34660,7 +34660,7 @@ jegaq [(c) (d) máq I] @robintown 2023-06-06 #OZeicAZNp $en +1
 jegaqlıaı [(c) (d) máq I] @jiqci 2024-11-12 #WRpyxKh7V $en ±
 ▯ is a true jelly (class Scyphozoa).
 
-jeha [(0) (d) hóq P] @Hoemai 2022-08-06 #-MLQG4xTd $en +2
+jeha [(0) (d) hóq proposition] @Hoemai 2022-08-06 #-MLQG4xTd $en +2
 ▯ is* the case.
   Hoemai (2022-08-06): This predicate expresses that its argument is true and that this disagrees with a proposition from the immediately preceding discourse (there should be one most salient proposition). Like German "doch" and French "si", but as a verb. If no argument is provided, it defaults to the negation of the most salient proposition.
   Hoemai (2022-08-06): A: **Bủ chỏ súq jí** B: **Jẻha chô jí súq**. A: "You don't like me." B: "Yes, I do like you."
@@ -35968,7 +35968,7 @@ null tense: ▯ is true without contextual restriction of interval of time (canc
 jıaqroam @kazoo 2026-01-08 #g5SVEtIES $en ±
 There is global unrest.
 
-jıaqsahu [(c c) (d d) hóq P] @Dembim 2025-12-26 #XQ0McSU0W $en ±
+jıaqsahu [(c c) (d d) hóq proposition] @Dembim 2025-12-26 #XQ0McSU0W $en ±
 ▯ is false in world ▯
   Dembim (2026-01-28): Pronominal_class: hoq
   Dembim (2026-02-12): Subject: proposition
@@ -36146,7 +36146,7 @@ jıemıa @uakci 2020-03-07 #ZqiwEeWvj $en ±
 jıemıajoe @uakci 2020-03-07 #vZ9M4K-YS $en ±
 ▯ is a professional at ▯.
 
-jıena [(0) (d) hóq P] @Dembim 2026-01-28 #UCK9yBzpu $en ±
+jıena [(0) (d) hóq proposition] @Dembim 2026-01-28 #UCK9yBzpu $en ±
 according to a credible source, ▯ is the case, but I cannot remember the source
   Dembim (2026-01-29): Frame: 0
   Dembim (2026-01-29): Pronominal_class: hoq
@@ -36287,7 +36287,7 @@ response to / acknowledgment of **kıkı** (cf **kıjı**→**jıkı**)
 jıjıe @Laqme 2019-02-20 #o14fTIn40 $en ±
 ▯ is how I deem/judge things to be / is my opinion.
 
-jıjıena [(0) (d) hóq P] @Dembim 2026-01-28 #x4NWBjWSl $en ±
+jıjıena [(0) (d) hóq proposition] @Dembim 2026-01-28 #x4NWBjWSl $en ±
 according to my past self, who I consider to be a credible source, ▯ is the case, but I cannot remember the reasoning or evidence by which I originally concluded such
   Dembim (2026-01-29): Frame: 0
   Dembim (2026-01-29): Pronominal_class: hoq
@@ -38173,7 +38173,7 @@ modality: legal possibility, "X can be the case in worlds where everybody follow
 juaodeq @Ilmen 2019-04-19 #gAfulqHpd $en ±
 ▯ has the right to satisfy property ▯ according to law/rule ▯.
 
-juaodı [(c c) (d) tá P] @Ilmen 2019-04-19 #12zxcy0gW $en +1
+juaodı [(c c) (d) tá proposition] @Ilmen 2019-04-19 #12zxcy0gW $en +1
 ▯ is legal; ▯ is allowed by rule/law ▯.
 
 juaodıbu @jiqci 2025-01-13 #WzVS6ypYt $en ±
@@ -38182,7 +38182,7 @@ juaodıbu @jiqci 2025-01-13 #WzVS6ypYt $en ±
 juaodıu [(c) (d) hóq I] @Laqme 2020-01-04 #3MWd_B0uQ $en +1
 ▯ is judisprudence / legal theory / the study of law.
 
-juaoduaı [(0) (d) hóq P] @robintown 2022-09-20 #ye3XIG_QV $en +1
+juaoduaı [(0) (d) hóq proposition] @robintown 2022-09-20 #ye3XIG_QV $en +1
 ▯ is legally necessitated; ▯ is legally necessitated by rule/law ▯.
 
 juaoduaı @Ilmen 2020-03-17 #WxZs8FF36 $en ±
@@ -38805,7 +38805,7 @@ júnaq @Laqme 2024-06-12 #EMLjK_NcL $en ±
 pronoun: true, 1, ⊤
   Laqme (2024-06-12): Might even refer to the greatest element of your favorite bounded lattice!
 
-junarıeı [(0) (d) hóq P] @Ilmen 2026-02-16 #I5XMnipDV $en ±
+junarıeı [(0) (d) hóq proposition] @Ilmen 2026-02-16 #I5XMnipDV $en ±
 there is risk of ▯ being true.
 
 junasha @uakci 2024-12-31 #T8BOP6ptg $en ±
@@ -38978,7 +38978,7 @@ juopaı @lassc 2025-03-25 #ytAu8Qgjy $en ±
 juopaku @jiqci 2023-10-31 #Ur-EA70O4 $en ±
 ▯ is sealing wax.
 
-juoq [(0) (d) hóq P] @robintown 2022-01-16 #W29_1hRvl $en +2 %modality
+juoq [(0) (d) hóq proposition] @robintown 2022-01-16 #W29_1hRvl $en +2 %modality
 ▯ should be the case; ▯ had better be the case if ▯ is the case.
   robintown (2022-01-16): A version of jủoq in the modal class
 
@@ -42107,7 +42107,7 @@ kıashoqku @jiqci 2024-01-03 #2KGdMJOct $en ±
 kıatıeq @Laqme 2024-12-20 #agYF0eZGh $en ±
 ▯ is a major scale.
 
-kıba [(c c) (d d) hóq P] @lassc 2025-04-03 #6ryQ4ZBAg $en +1
+kıba [(c c) (d d) hóq proposition] @lassc 2025-04-03 #6ryQ4ZBAg $en +1
 ▯ is the case because of ▯ playing a part in/contributing to/being a factor in it.
   lassc (2025-04-03): partial causation, cf. **capaq**, **paqkuı**, etc. deserves a root i think
   lassc (2026-03-13): also cf **caca**
@@ -42453,7 +42453,7 @@ kımo @uakci 2021-10-18 #fn_9-q2CC $en ±
 kımo @el 2022-07-10 #qnxU4Y8DO $tok ±
 ▯ li jaki
 
-kımpaq [(c c) (d d) hóq P] @Dembim 2026-01-20 #dBVX6ttRg $en ±
+kımpaq [(c c) (d d) hóq proposition] @Dembim 2026-01-20 #dBVX6ttRg $en ±
 ▯ is a property constitutive of ▯'s self-concept
   Dembim (2026-01-20): Frame: c c
   Dembim (2026-01-20): see also <@uakci kım'ıq>— synonyms but for slot order
@@ -44358,7 +44358,7 @@ kueme @salarua 2021-10-08 #rtlpX1wwd $en ±
 kuemjıe @seaqtaq 2024-11-04 #dfr8TFUeu $en ±
 ▯ finds ▯ to be suspicious/"off"
 
-kuemuı [(c c) (d d) hóq P] @seaqtaq 2018-12-21 #bNexjsdJh $en +1
+kuemuı [(c c) (d d) hóq proposition] @seaqtaq 2018-12-21 #bNexjsdJh $en +1
 ▯ is the definition of ▯
   seaqtaq (2018-12-21): Alternative to nuimui
 
@@ -44557,7 +44557,7 @@ kuı @Laqme 2022-03-25 #koIo2TQoY $en -1 %⚠
 kuıboq @Laqme 2024-06-28 #vOtm2EJSQ $en ±
 ▯ is a reason why ▯ isn't the case.
 
-kuıca [(c 0) (d d) hóq P] @Laqme 2024-06-28 #LEGqk_GRo $en +2
+kuıca [(c 0) (d d) hóq proposition] @Laqme 2024-06-28 #LEGqk_GRo $en +2
 ▯ is a reason why ▯ is the case.
 
 kuıcana [phrase] @Laqme 2025-03-14 #dJcEleZPD $en ±
@@ -44591,7 +44591,7 @@ kuıgıq @seaqtaq 2018-12-27 #DdkRBe6x8 $en -1
 kuıgıqcıa @uakci 2020-03-20 #NXPMF5i4G $en ±
 ▯ is pointless.
 
-kuıhı [(0) (d) hóq P] @Ilmen 2018-11-22 #BrVr17jMJ $en +2
+kuıhı [(0) (d) hóq proposition] @Ilmen 2018-11-22 #BrVr17jMJ $en +2
 Why is ▯ the case?
   fagri (2020-01-05): Is this kind of predicate allowed?
   Ilmen (2020-01-05): Question predicates? "tıopūı" (#NTs8O3T0Za) and "hıa" (#_5chCCpS-) are precedents for that kind of predicate.
@@ -44783,7 +44783,7 @@ kunagoeq @Laqme 2024-08-16 #jAoXM0I4q $en ±
 ▯ is a sentence fence.
   Laqme (2024-08-16): Toaq jargon for words like **ꝡa** or **da** (and maybe **je**) that separate sentences.
 
-kunajuna [(0) (d) hóq P] @Laqme 2024-04-29 #GKtMjuzpn $en +1
+kunajuna [(0) (d) hóq proposition] @Laqme 2024-04-29 #GKtMjuzpn $en +1
 ▯ is literally the case.
   Laqme (2024-04-29): i.e. "▯ is the case and I'm not exaggerating or being metaphorical"
 
@@ -46823,7 +46823,7 @@ lejesheq @Laqme 2025-01-11 #c-2H0oVq- $en ±
 lejıe @uakci 2022-06-24 #MySHe5XVs $en ±
 ▯ deems ▯ likely.
 
-lekuı [(c 0) (d d) hóq P] @Ilmen 2020-02-27 #Fe_YAp6b8 $en +1 %evidentiality
+lekuı [(c 0) (d d) hóq proposition] @Ilmen 2020-02-27 #Fe_YAp6b8 $en +1 %evidentiality
 ▯ is a proposition supported by evidence ▯ (proposition).
 
 lem @jiqci 2024-02-15 #qwd3gAzMp $en ±
@@ -50841,7 +50841,7 @@ makua @jiqci 2025-06-22 #3cHwdVZvF $en ±
 ▯ is a loon (genus Gavia).
   jiqci (2025-06-22): etym: Cree ᒪᑿ makwa
 
-makuı [(c 0) (d d) hóq P] @Ilmen 2020-01-05 #zKt4u6MMO $en ± %logic
+makuı [(c 0) (d d) hóq proposition] @Ilmen 2020-01-05 #zKt4u6MMO $en ± %logic
 whether ▯ is the case depends on whether ▯ is the case.
 
 makuı @Ilmen 2018-11-17 #yMscjPRAV $en -1 %logic
@@ -56359,7 +56359,7 @@ naıdua @lassc 2022-12-04 #6wW9Q8iX5 $en ±
 naıfoaq @lassc 2022-11-28 #DAhKFQt0s $en ±
 ▯ experiences a profound feeling of fulfillment/content/wonder about aspect ▯ of the present moment.
 
-naıhe [(0) (d) hóq P] @Laqme 2022-07-01 #e7P_Fwt3l $en +2
+naıhe [(0) (d) hóq proposition] @Laqme 2022-07-01 #e7P_Fwt3l $en +2
 ▯ is generally the case lately/nowadays.
   robintown (2022-07-02): where has this word been all my life
 
@@ -57508,7 +57508,7 @@ nechoe @Laqme 2024-04-26 #aUca4vd95 $en ±
 ▯ will be the case for ▯ (duration) longer.
   Laqme (2024-04-26): ↔ **neboı**
 
-nechu [(0) (d) hóq P] @seaqtaq 2024-11-20 #_C4COxaNQ $en ±
+nechu [(0) (d) hóq proposition] @seaqtaq 2024-11-20 #_C4COxaNQ $en ±
 ▯ is somewhat/mildly the case;  ▯ is the case to neither extreme extent
   Dembim (2026-02-11): see also: <jaqchu>, <luam>
 
@@ -57934,7 +57934,7 @@ predicatizer: turns a number n into a verb saying: ▯ is the case n times less 
 nereuhuaq @seaqtaq 2025-04-30 #P6gCSBhxK $en ±
 ▯ is x times more the case than ▯
 
-nereukuoı [(c 0) (d d) hóq P] @seaqtaq 2025-04-30 #PzQaF20d- $en ±
+nereukuoı [(c 0) (d d) hóq proposition] @seaqtaq 2025-04-30 #PzQaF20d- $en ±
 ▯ is x times less the case than ▯
 
 nerıe @Ilmen 2020-07-07 #kVnoNocrd $en ± %mathematics
@@ -58297,7 +58297,7 @@ nıaopoq @Hoemai 2019-12-11 #2YJyxyILm $en +1
 nıaopoq @SuperSpaceNiM 2024-08-11 #xVSG2KESF $ru ±
 ▯ — снеговик (снежная баба, статуя из снега).
 
-nıaoshua [() () I] @official 2026-04-20 #m5WKlrVTR $en ±
+nıaoshua [() ()] @official 2026-04-28 #ag4IhBb9- $en ±
 predicate: ‘snow’; It snows.
 
 nıaoshua @jiqci 2023-07-31 #9e22wVzO_E $pl ±
@@ -60152,7 +60152,7 @@ noqdoa @uakci 2022-07-02 #8tiy20tvC $en ±
 noqdoase @uakci 2022-07-02 #l14_VMHqC $en ±
 ▯ is the flavor/taste “variant” of ▯.
 
-noqdu [(0) (d) hóq P] @Dembim 2025-12-29 #JZ8VfYObe $en ±
+noqdu [(0) (d) hóq proposition] @Dembim 2025-12-29 #JZ8VfYObe $en ±
 ▯ seems to be the case gustatorily/ judging by taste
   Dembim (2026-01-03): Frame: 0
   Dembim (2026-01-28): Pronominal_class: hoq
@@ -61074,7 +61074,7 @@ nuım @SuperSpaceNiM 2024-08-16 #UWmqPHzfZ $ru ±
 ▯ — звезда.
   SuperSpaceNiM (2024-08-16): мерцающая точка на ночном небе...
 
-nuımbo [(c) (d) hóq P] @lassc 2025-04-07 #hRGOGXH2j $en +2
+nuımbo [(c) (d) hóq proposition] @lassc 2025-04-07 #hRGOGXH2j $en +2
 ▯ is something which has escaped one's agency/control.
 
 nuımbuaq @Ilmen 2026-01-02 #deENfUydD $en ±
@@ -62108,7 +62108,7 @@ prefix: ▯ is an X-ful.
   Snow (2024-10-02): ▯ is an amount worth/contained in/associated with one typical X.
   lassc (2025-03-20): unit or system of measurement
 
-nhe [(c c) (d d) hóq P] @evie 2024-11-04 #JMRXBA_t_ $en +2
+nhe [(c c) (d d) hóq proposition] @evie 2024-11-04 #JMRXBA_t_ $en +2
  ▯ is true to extent ▯
 
 nhe [(c c) (d d) hóq E] @official 2026-02-16 #GfgVb1jSRcb $en ±
@@ -62911,7 +62911,7 @@ prefix: for a verb of valence N that involves some "salient property", produces 
   Dembim (2025-12-09): Sometimes one may want the IO serialization behavior of many c c 1 verbs, even if one is generally in favor of the c c ôı 1 pattern.
   Ilmen (2025-12-16): discriminator: 2
 
-oı [(c 1x) (d d) hóq P] @salarua 2025-03-12 #VGQjJagkP $en +3
+oı [(c 1x) (d d) hóq proposition] @salarua 2025-03-12 #VGQjJagkP $en +3
 ▯ is the case with respect to property ▯.
   salarua (2025-03-12): Coined specifically to reduce the arity of (c c 1) words to (c c)
   lassc (2025-03-22): ▯ is the case when it comes to satisfying property ▯
@@ -66543,7 +66543,7 @@ puaqcıkı @seaqtaq 2024-11-13 #hJNEv5Vw7 $en ±
 puaqdaogaı @Ilmen 2022-10-28 #fEzBNhzPN $en ± %perception
 ▯ has tactile sensation ▯ (tactile data) at locus ▯.
 
-puaqdu [(0) (d) hóq P] @Dembim 2026-02-06 #3ZFDDmRtS $en ±
+puaqdu [(0) (d) hóq proposition] @Dembim 2026-02-06 #3ZFDDmRtS $en ±
 ▯ seems to be the case tactilely/ judging by feel/touch
   Dembim (2026-02-06): Frame: 0
   Dembim (2026-02-06): Pronominal_class: hoq
@@ -66666,7 +66666,7 @@ puateı @Laqme 2025-02-20 #wcRkxwKSN $en ±
 pucıq @salarua 2021-09-14 #oJ4BSG4In $en ±
 ▯ is poutine
 
-pucham [(0) (d) hóq P] @TheAndSys 2023-10-27 #UZ_DECkRO $en ±
+pucham [(0) (d) hóq proposition] @TheAndSys 2023-10-27 #UZ_DECkRO $en ±
 ▯ happened yesterday
 
 puchaq [(c) (d) hóq I] @official 2026-02-16 #Ong3pJbXbsE $en ± %deixis,time
@@ -67786,7 +67786,7 @@ prefix: frequentative form of verb
   Laqme (2023-11-22): "ram-X" is like a spatiotemporal burst of small X-ings viewed as a single event: "X repeatedly" or "X around" or "X here and there".
   Laqme (2023-11-22): This is something like "crack → crackle" and "spark → sparkle" in English, or "-ella" in Finnish
 
-ram [(0) (d) hóq P] @Ilmen 2025-09-22 #zeEjNbOqJ $en +3
+ram [(0) (d) hóq proposition] @Ilmen 2025-09-22 #zeEjNbOqJ $en +3
 ▯ is repetitively the case.
 
 ram @fagri 2023-01-22 #kS_-h1XzK $en -1
@@ -68242,7 +68242,7 @@ raqtoatuq @jiqci 2024-06-25 #9ydZzD_Uh $en ±
 raqzaruse @Laqme 2022-10-09 #XJEHa-0qF $en ±
 ▯ is a content warning.
 
-rara [(0) (d) hóq P] @Laqme 2019-01-25 #-W0QS1OdY $en +4
+rara [(0) (d) hóq proposition] @Laqme 2019-01-25 #-W0QS1OdY $en +4
 ▯ is the case, or something.
   Ilmen (2019-01-25): See also #sıujēo and #lısīu.
   Laqme (2019-01-25): Some context: I wanted something fun and slangy-sounding and easy to say, and more {ie'o}-like and {sa'enai}-like than literally “similar to / approximate to having such-and-such-property”.  You can throw it anywhere as an adverbial interjection («rãrā») and it also works well in serials («rárā chủe»). This is apriori-ish, but duplicating the word for “or” seemed fitting, because that’s what a few languages I speak do, at least.
@@ -69895,7 +69895,7 @@ rıta @seaqtaq 2024-11-05 #go9IptZ4P $en ±
 ▯ insists upon/demands that ▯ be the case
   seaqtaq (2024-11-05): Antonym of **tarı**
 
-rıteoq [(0) (d) tá P] @Hoemai 2019-03-18 #OtnPfVkbx $en +1
+rıteoq [(0) (d) tá proposition] @Hoemai 2019-03-18 #OtnPfVkbx $en +1
 ▯ is a which-of-the-two question (a question using **rı**).
 
 rıtı @robintown 2023-04-29 #Ft85AXccl $en ±
@@ -70879,7 +70879,7 @@ ruaqdıu [(c) (d) hóq I] @seaqtaq 2018-12-10 #LlC84qJFf $en ±
 ruaqdua @Ilmen 2019-05-05 #zWiz3s3Jq $en +1 %cognition
 ▯ knows ▯ from hearsay (no matter through which medium —spoken, written…— that second-hand information was obtained).
 
-ruaqduajı [(0) (d) hóq P] @Ilmen 2019-05-05 #Syr9Mhy5G $en ± %deixis,evidentiality
+ruaqduajı [(0) (d) hóq proposition] @Ilmen 2019-05-05 #Syr9Mhy5G $en ± %deixis,evidentiality
 I heard that / according to hearsays ▯ is the case.
 
 ruaqgaı @Laqme 2024-05-30 #bNtlXN9D4 $en ±
@@ -71158,7 +71158,7 @@ ruı @jiqci 2023-07-31 #WtbVnNsxId $pl ± %has_color,trichromatic,pseudo-absolut
 ruı @SuperSpaceNiM 2024-08-11 #Rc8TzOsHS $ru ± %has_color,trichromatic,pseudo-absolute
 предикат: ‘серый’; ▯ серого цвета.
 
-ruıdaı [(0) (d) hóq P] @robintown 2021-08-01 #kmDzc2mbQ $en ±
+ruıdaı [(0) (d) hóq proposition] @robintown 2021-08-01 #kmDzc2mbQ $en ±
 ▯ is arguably the case; ▯ is arguably the case if ▯ is the case.
   robintown (2022-07-13): dual **ruıshe**
 
@@ -71208,7 +71208,7 @@ ruırualıao [(c) (d) máq I] @Snow 2024-10-06 #9Z-trznw8 $en ±
 ▯ is a maitake/hen-of-the-woods, maitake mushroom. ▯ is Grifola frondosa.
   Snow (2024-10-06): Calque of chinese 灰樹花.
 
-ruıshe [(0) (d) hóq P] @robintown 2021-08-01 #JOlc4o84J $en ±
+ruıshe [(0) (d) hóq proposition] @robintown 2021-08-01 #JOlc4o84J $en ±
 ▯ is clearly/definitely the case; ▯ is clearly/definitely the case if ▯ is the case.
   robintown (2022-07-13): Etymology: just **ruı** + **she**, with the former being a metaphor for vagueness
   robintown (2022-07-13): dual **ruıdaı**
@@ -71642,7 +71642,7 @@ ruqshıq @Ilmen 2019-12-08 #ku4a_T-Rf $en ± %perception,olfaction
 ruqshıqsaı @jiqci 2025-05-28 #hyjMm45yB $en ±
 ▯ is geosmin.
 
-ruqshua [() () I] @official 2026-04-20 #H6GLirbpiX $en ±
+ruqshua [() ()] @official 2026-04-28 #1t9I9jkztC $en ±
 predicate: ‘rain’; It rains.
 
 ruqshua @el 2022-07-10 #nwNoneA_D $tok ±
@@ -73837,7 +73837,7 @@ sıaıshuaq @salarua 2023-12-18 #SGTY7yhSP $en ±
 sıaızıe @uakci 2021-11-12 #g1-ZvNhv9 $en ±
 ▯ is a hormone.
 
-sıaja [(0) (d) hóq P] @Ilmen 2018-10-07 #K8hPBXVOu $en +1 %logic
+sıaja [(0) (d) hóq proposition] @Ilmen 2018-10-07 #K8hPBXVOu $en +1 %logic
 ▯ is a proposition.
   seaqtaq (2019-02-22): +1
 
@@ -79469,7 +79469,7 @@ shıqde [(c) (d) tá S] @Ilmen 2019-04-23 #Ir4u4UYC_ $en +1 %perception,olfactio
 shıqdenao @uakci 2020-03-02 #Dz9fsZ6-D $en ±
 ▯ is perfume.
 
-shıqdu [(0) (d) hóq P] @Dembim 2025-12-29 #gdcaNjXIe $en ±
+shıqdu [(0) (d) hóq proposition] @Dembim 2025-12-29 #gdcaNjXIe $en ±
 ▯ seems to be the case olfactorily/ judging by scent
   Dembim (2026-01-03): Frame: 0
   Dembim (2026-01-28): Pronominal_class: hoq
@@ -81286,7 +81286,7 @@ tajeo @uakci 2021-11-10 #lQBXcWnoB $en -1
   uakci (2021-11-10): **Zảo jí sa hủı pỏq da. Keo bủ tả súq da.** ‘I know some bad people. You are not [coreferential with] them.’
   uakci (2021-11-10): **Zảo jí sa hủı pỏq da. Keo bủ tảjeo súq da.** ‘I know some bad people. You are not a bad person.’
 
-tajı [(c 1x) (d d) hóq P] @fagri 2019-01-31 #BeCyXyc-f $en +2
+tajı [(c 1x) (d d) hóq proposition] @fagri 2019-01-31 #BeCyXyc-f $en +2
 Doing ▯ is a way of doing ▯
   fagri (2019-01-31): I.e. "Making frequent backups is a way to prevent significant loss of data"
   fagri (2019-01-31): Both slots are actions (properties) and the word is therefore analogous to shiutāo at #NubN97J6o
@@ -81310,7 +81310,7 @@ Tajıkıgua [(c) (n) máq I] @countries 2026-04-11 #ZK8MizU5oR8 $en ±
 tajızao @fagri 2021-07-31 #dYnfH9fV8 $en ±
 ▯ knows how to do ▯ (at least one way of doing it)
 
-taka [(c) (d) hóq P] @Machy 2022-02-07 #XiIIPfA7u $en +1
+taka [(c) (d) hóq proposition] @Machy 2022-02-07 #XiIIPfA7u $en +1
 ▯ ıs really fuckıng true (vulgar clone of **jaq**)
   Machy (2022-02-07): (this one is in en scope)
   Machy (2022-02-07): credit to hoaqgio for wording, and to me for being awesome
@@ -85124,7 +85124,7 @@ toaqzu @Laqme 2021-10-04 #GyFZkc2rW $ja -1
 toaqzu @mimiaoganhaqpy 2022-07-10 #uFqYyRnXp $tok -1
 ▯ li toki Towan.
 
-Tóaqzu [() () hóq P] @robintown 2023-10-18 #Zpox4-4I6 $en +1
+Tóaqzu [() () hóq proposition] @robintown 2023-10-18 #Zpox4-4I6 $en +1
 pronoun: the Toaq language
 
 toaqzuno [(c) (d) tá F] @uakci 2022-04-17 #ApwF0dEpT $en +1
@@ -86226,7 +86226,7 @@ tuaobupe @Ilmen 2020-01-30 #7nkjRBEhN $toa ±
 tuaojaq @Ilmen 2019-02-21 #qN-C5lZoN $en ±
 ▯ is the case to a very little extent; ▯ has property ▯ to a very little extent.
 
-tuaonu [(0) (d) hóq P] @uakci 2022-07-25 #Fgd7ECIRf $en ±
+tuaonu [(0) (d) hóq proposition] @uakci 2022-07-25 #Fgd7ECIRf $en ±
 ▯ is just the case.
   uakci (2022-07-25): opposite **jaqnu**, idek how you’d translate this
 
@@ -86310,7 +86310,7 @@ Tubalugua [(c) (n) máq I] @countries 2026-04-11 #RnLKLNYmnDn $en ±
 tubaq @jiqci 2023-08-04 #-CTxFroq7 $en ±
 ▯ is a trumpet.
 
-tubı [(0) (d) tá P] @Ilmen 2019-02-09 #o7SMnGs5e $en +1 %logic
+tubı [(0) (d) tá proposition] @Ilmen 2019-02-09 #o7SMnGs5e $en +1 %logic
 ▯ is true with maximal quantification domain (the quantification domain for that proposition is regarded as being as wide as possible, including anything one can think of; there is no implicit domain restriction).
 
 tubom @uakci 2023-08-11 #_c_ygh8nl $en ±
@@ -88132,7 +88132,7 @@ nullary predicate: always true, tautology, ⊤
 ꝡose @Ilmen 2023-01-13 #PIo7LjrHz $en ±
 predicate: ‘wasp’; ▯ is a wasp.
 
-ꝡoshı [(c 0) (d d) hóq P] @uakci 2023-01-09 #gmB9jiWQX $en +2
+ꝡoshı [(c 0) (d d) hóq proposition] @uakci 2023-01-09 #gmB9jiWQX $en +2
 ▯ is true in the sense that ▯ is true; ▯ is the case, by which what is (actually) meant is that ▯ is the case.
 
 ꝡota [particle] @evie 2025-12-19 #K5SlsVxrD $en ±
@@ -88291,7 +88291,7 @@ zakıq @jiqci 2023-11-04 #rTb5h2P0X $en ±
 zalaı @uakci 2022-02-19 #gLDUUCDiX $en ±
 ▯ is an omen, prophetic sign, ominous occurrence, premonition/foreboding observation, “writing on the wall” (whether positive or negative).
 
-zam [(c) (d) hóq P] @el 2022-12-13 #dOOZsMa4s $en +2
+zam [(c) (d) hóq proposition] @el 2022-12-13 #dOOZsMa4s $en +2
 ▯ is unlikely / improbable
   evie (2026-01-02): opposite **le**
 
@@ -89831,10 +89831,10 @@ zujuaokao [(c) (d) hóq F] @uakci 2022-12-19 #TNByQc9yI $en ±
 zujuaome @Laqme 2024-06-11 #n_7NQYwL1 $en ±
 ▯ is a grammar.
 
-zujuoıse [(0) (d) hóq P] @evie 2025-06-01 #DWuS6MR0x $en ±
+zujuoıse [(0) (d) hóq proposition] @evie 2025-06-01 #DWuS6MR0x $en ±
 ▯ is the case descriptively
 
-zujuoqse [(0) (d) hóq P] @evie 2025-06-01 #5d7XAHvpD $en ±
+zujuoqse [(0) (d) hóq proposition] @evie 2025-06-01 #5d7XAHvpD $en ±
 ▯ is the case prescriptively
 
 zukı [particle] @Dembim 2025-11-12 #FMqNS1vXZ $en ±
@@ -97467,7 +97467,7 @@ I intend to become beautiful.
 Tao úmo hóq ba. [phrase] @examples 2026-04-11 #l0f1aS-tR5f $en ±
 We should do it.
 
-taq ao gı [(0) (d) hóq P] @fagri 2020-01-11 #NQ07kmzBQ $en ±
+taq ao gı [(0) (d) hóq proposition] @fagri 2020-01-11 #NQ07kmzBQ $en ±
 It would be nice if ▯ were true
   fagri (2020-01-11): This is a rare instance where I actually enter a compound into the dictionary, because I think this particular construction is difficult to come up with but potentially extremely useful
   fagri (2020-01-11): I mean *serial, not compound

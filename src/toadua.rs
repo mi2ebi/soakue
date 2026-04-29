@@ -130,13 +130,15 @@ impl Toa {
         {
             println!("\x1b[91m{} #{} has bad metadata:\n{self}\x1b[r", self.head, self.id);
         }
-        if let Some(pronoun) = &self.pronoun
+        let mut affected = if let Some(pronoun) = &self.pronoun
             && !["ho", "maq", "hoq", "ta", "raı", "particle", "phrase"].contains(&pronoun.as_str())
         {
             println!("\x1b[93m{} #{} has pronoun \"{}\", removing", self.head, self.id, pronoun);
             self.pronoun = None;
-            println!("new entry:\n\x1b[95m{self}\x1b[m");
-        }
+            true
+        } else {
+            false
+        };
         if let Some(pronoun) = &self.pronoun
             && !["particle", "phrase"].contains(&pronoun.as_str())
         {
@@ -144,8 +146,31 @@ impl Toa {
                 Some(format!("{}\u{0301}{}", &pronoun[0..2], &pronoun[2..]).nfc().to_string());
         }
         if let Some(subject) = &self.subject {
-            self.subject =
-                Some(String::new() + &subject.chars().next().unwrap().to_uppercase().to_string());
+            if ["agent", "individual", "shape", "free", "event", "proposition"]
+                .contains(&subject.as_str())
+            {
+                self.subject = Some(
+                    String::new() + &subject.chars().next().unwrap().to_uppercase().to_string(),
+                );
+            } else {
+                if subject == "predicate" {
+                    println!(
+                        "\x1b[93m{} #{} has subject \"predicate\", changing to \"proposition\"",
+                        self.head, self.id
+                    );
+                    self.subject = Some("proposition".into());
+                } else {
+                    println!(
+                        "\x1b[93m{} #{} has subject \"{}\", removing",
+                        self.head, self.id, subject
+                    );
+                    self.subject = None;
+                }
+                affected = true;
+            }
+        }
+        if affected {
+            println!("new entry:\n\x1b[95m{self}\x1b[m");
         }
     }
 }
