@@ -152,20 +152,14 @@ impl Toa {
                 self.subject = Some(
                     String::new() + &subject.chars().next().unwrap().to_uppercase().to_string(),
                 );
+            } else if subject == "predicate" {
+                self.subject = Some("P".into());
             } else {
-                if subject == "predicate" {
-                    println!(
-                        "\x1b[93m{} #{} has subject \"predicate\", changing to \"proposition\"",
-                        self.head, self.id
-                    );
-                    self.subject = Some("proposition".into());
-                } else {
-                    println!(
-                        "\x1b[93m{} #{} has subject \"{}\", removing",
-                        self.head, self.id, subject
-                    );
-                    self.subject = None;
-                }
+                println!(
+                    "\x1b[93m{} #{} has subject \"{}\", removing",
+                    self.head, self.id, subject
+                );
+                self.subject = None;
                 affected = true;
             }
         }
