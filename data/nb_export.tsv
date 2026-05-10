@@ -104,6 +104,7 @@ predicate darling ▯ is a darling sweetheart sweetie honey term of endearment u
 ▯ noms chomps ▯ _BIAS _RAKU_la _2_RAKU_amla _ARITY_2	hó	A	2
 ▯ action is devious mischievous sly _BIAS _RAKU_ra _2_RAKU_amra _ARITY_1	tá	E	1
 ▯ agent is devious mischievous sly in character _BIAS _RAKU_lam _2_RAKU_ralam _ARITY_1	hó	A	1
+▯ is absinthe _BIAS _RAKU_seq _2_RAKU_amseq _ARITY_1	máq	I	1
 predicate inari sami language ▯ is the inari sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	I	1
 ▯ is anatolia _BIAS _RAKU_rıaq _2_RAKU_torıaq _ARITY_1 _CAPS	máq	I	1
 predicate sand ▯ is sand _BIAS _RAKU_nı _2_RAKU_anı _ARITY_1	máq	I	1
@@ -2485,6 +2486,7 @@ predicate archivist ▯ is an archivist _BIAS _RAKU_che _2_RAKU_jache _ARITY_1	h
 ▯ is limestone _BIAS _RAKU_pıo _2_RAKU_kıpıo _ARITY_1	máq	I	1
 ▯ is a file _BIAS _RAKU_laı _2_RAKU_kaolaı _ARITY_1	hóq	I	1
 ▯ has official sex ▯ e g in official records _BIAS _RAKU_chı _2_RAKU_'uchı _ARITY_2	hó	I	2
+▯ is ransomware _BIAS _RAKU_rom _2_RAKU_toırom _ARITY_1	hóq	I	1
 ▯ is an optical hard drive _BIAS _RAKU_sıoq _2_RAKU_kaosıoq _ARITY_1	máq	I	1
 ▯ is a cappuccino _BIAS _RAKU_no _2_RAKU_chıno _ARITY_1	máq	I	1
 predicate visual ▯ is visual optical ▯ pertains to the sense of sight vision _BIAS _RAKU_kaq _ARITY_1	tá	F	1
