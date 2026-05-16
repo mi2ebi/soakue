@@ -880,7 +880,6 @@ predicate cost ▯ costs ▯ _BIAS _RAKU_choaı _ARITY_2	tá	F	2
 ▯ is a phone linguistics _BIAS _RAKU_laı _2_RAKU_choalaı _ARITY_1	máq	I	1
 predicate voice ▯ is a voice _BIAS _RAKU_laq _2_RAKU_choalaq _ARITY_1	hóq	I	1
 toaq discord jargon ▯ has the choa role _BIAS _RAKU_poq _2_RAKU_choapoq _ARITY_1	hó	I	1
-predicate guest ▯ is a guest ▯ is a guest of ▯ _BIAS _RAKU_choaq _ARITY_2	hó	I	2
 predicate guest ▯ is a guest of ▯ _BIAS _RAKU_choaq _ARITY_2	hó	I	2
 ▯ shows hospitality towards ▯ _BIAS _RAKU_cho _2_RAKU_choaqcho _ARITY_2	hó	A	2
 ▯ visits ▯ _BIAS _RAKU_fa _2_RAKU_choaqfa _ARITY_2	hó	A	2
@@ -5280,7 +5279,6 @@ predicate depart ▯ leaves departs from place position ▯ _BIAS _RAKU_cuq _2_R
 ▯ are irregularly placed ▯ are chaotically placed distributed in a disorderly disordered manner _BIAS _RAKU_noa _2_RAKU_daonoa _ARITY_1	tá	S	1
 ▯ folds rolls up crumples opposite of sala _BIAS _RAKU_du _2_RAKU_tıdu _ARITY_1	tá	I	1
 predicate find ▯ finds locates ▯ _BIAS _RAKU_sho _2_RAKU_duasho _ARITY_2	hó	A	2
-predicate find ▯ finds ▯ ▯ discovers that ▯ is at ▯ _BIAS _RAKU_sho _2_RAKU_duasho _ARITY_3	hó	A	3
 ▯ folds rolls up crumples collapses ▯ _BIAS _RAKU_ja _2_RAKU_duja _ARITY_2	hó	I	2
 predicate cover ▯ covers ▯ _BIAS _RAKU_tıe _ARITY_2	tá	I	2
 ▯ is an angiosperm plant _BIAS _RAKU_poaı _2_RAKU_bopoaı _ARITY_1	máq	I	1
@@ -5299,7 +5297,6 @@ predicate path ▯ is a way path _BIAS _RAKU_tıeq _ARITY_1	máq	I	1
 predicate far ▯ is far away from ▯ _BIAS _RAKU_jao _2_RAKU_tıjao _ARITY_2	tá	S	2
 predicate near ▯ is near in the vicinity of ▯ _BIAS _RAKU_juı _2_RAKU_tıjuı _ARITY_2	tá	S	2
 ▯ is the country east timor _BIAS _RAKU_gua _2_RAKU_tegua _ARITY_1 _CAPS	máq	I	1
-predicate find ▯ finds ▯ ▯ discovers that ▯ is at ▯ _BIAS _RAKU_dua _2_RAKU_nıqdua _ARITY_3	hó	A	3
 predicate find ▯ finds discovers ▯ s location _BIAS _RAKU_dua _2_RAKU_nıqdua _ARITY_2	hó	A	2
 ▯ is composition study of arrangement _BIAS _RAKU_dıu _2_RAKU_nhuodıu _ARITY_1	hóq	I	1
 predicate how many ▯ are how many _BIAS _RAKU_puı _2_RAKU_tıopuı _ARITY_1	tá	F	1

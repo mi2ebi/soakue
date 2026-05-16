@@ -12353,9 +12353,6 @@ choapoq [(c) (d) hó I] @Laqme 2022-10-15 #p3ntB5uFd $en ±
 (Toaq Discord jargon:) ▯ has the "Choa" role.
   Laqme (2022-10-15): Indicating the demonstrated ability to have basic spoken conversations.
 
-choaq [(c c) (d d) hó I] @official 2026-02-16 #vawTC7z3MGT $en ±
-predicate: ‘guest’; ▯ is a guest; ▯ is a guest of ▯.
-
 choaq [(c c) (d d) hó I] @official 2026-03-28 #P4fK_35Jh $en ±
 predicate: ‘guest’; ▯ is a guest of ▯.
 
@@ -83654,9 +83651,6 @@ predicate: ‘find’; ▯ finds, locates ▯.
 tıduasho @jiqci 2023-07-31 #lbt5moJJej $pl ±
 ▯ znajduje ▯; ▯ odkrywa/dowiaduje się, że ▯ jest w miejscu ▯.
 
-tıduasho [(c c c) (d d d) hó A] @official 2026-02-16 #RuIHbYigJ00 $en -1
-predicate: ‘find’; ▯ finds ▯; ▯ discovers that ▯ is at ▯.
-
 tıduja [(c c) (d d) hó I] @Laqme 2024-05-06 #tTBeXsZ4d $en +2
 ▯ folds / rolls up / crumples / collapses ▯.
 
@@ -84028,9 +84022,6 @@ tınaq @seaqtaq 2019-05-30 #mK4ebQsza $en ±
 tınıka @fagri 2021-08-21 #8Y5nSWaE_ $en +1
 ▯ is a place-marker
   fagri (2021-08-21): Tags: bookmark, buoy, flag, target
-
-tınıqdua [(c c c) (d d d) hó A] @official 2026-02-16 #GAd4keSUJg $en ±
-predicate: ‘find’; ▯ finds ▯; ▯ discovers that ▯ is at ▯.
 
 tınıqdua [(c c) (d d) hó A] @official 2026-03-28 #IHEtyn1I5m $en ±
 predicate: ‘find’; ▯ finds, discovers ▯'s location.
