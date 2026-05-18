@@ -25892,6 +25892,9 @@ guaıjea [(c c) (d d) hó A] @Dembim 2026-03-22 #KIGsyEHGH $en ±
 predicate: 'hire'; ▯ hires ▯.
   Dembim (2026-03-22): discriminator: 2
 
+guaıjeate @Ilmen 2026-05-17 #qMtohMiOo $en ±
+▯ is an employee.
+
 guaıjıoqkea [(c) (d) máq I] @fagri 2021-08-11 #eQ4oXraNe $en ±
 ▯ is a work computer (a computer you do your work on)
 
@@ -53694,6 +53697,9 @@ moaqde @Laqme 2024-10-19 #C4vraq47r $en +1
 moaqdeq @Ilmen 2021-10-07 #KJLEckk5p $en ±
 ▯ is able to retrieve memory ▯.
 
+moaqdıu [(c) (d) hóq I] @salarua 2026-05-17 #F0dx2xeq1 $en ±
+▯ is mnemotechnics
+
 moaqfea [(c 1i) (d d) hó A] @evie 2025-09-04 #8OUpJ_7P3 $en ±
 ▯ experiences property ▯ and consequently is mentally affected by it for a long time
   evie (2025-09-04): kw: the excessively loose colloquial definition of "traumatized"
@@ -70572,8 +70578,8 @@ roneu @Laqme 2024-07-20 #eBTcITlKu $en ±
 roq [(c) (d) hó A] @robintown 2022-01-01 #_BWlKrQz4 $en +2
 ▯ cries/sobs/weeps.
 
-roq [(c c) (d d) hó A] @official 2026-02-16 #vYci9QasOKg $en ±
-predicate: ‘weep’; ▯ cries/weeps; ▯ cries tears ▯.
+roq [(c c) (d d) hó I] @official 2026-05-17 #ZLMenZlTd $en ±
+predicate: ‘weep’; ▯ cries/sobs/weeps.
 
 roq @Laqme 2021-10-11 #ljfloNIK- $ja ±
 ▯は泣く；▯は▯（涙）を流す
@@ -88722,6 +88728,10 @@ zeo [(c c) (d d) máq I] @Laqme 2022-05-18 #pE4N-Vu6s $en -1 %lifeform,plant,fru
 
 zeocoeze [(c) (d) máq I] @Laqme 2025-01-26 #MERxCQDxt $en ±
 ▯ is pectin.
+
+zeogoaq [(c) (d) máq I] @evie 2026-05-18 #lfB-GbXqj $en ±
+▯ is a smoothie
+  evie (2026-05-18): by analogy with **zeoze** and **zeosham**
 
 zeoı [particle] @kazoo 2024-12-06 #Od4UyBH_E $en +2
 self-exclusionary 1st person plural: the speaker addresses a group (as if/normally) they belong to it, but excludes themselves from it

@@ -3381,6 +3381,7 @@ predicate remember ▯ remembers ▯ _BIAS _RAKU_moaq _ARITY_2	hó	A	2
 ▯ is a monument to the memory of ▯ _BIAS _RAKU_se _2_RAKU_baıse _ARITY_2	máq	I	2
 ▯ memorizes ▯ _BIAS _RAKU_chıe _2_RAKU_moaqchıe _ARITY_2	hó	A	2
 predicate mnemonic ▯ is a mnemonic for remembering ▯ _BIAS _RAKU_chuo _2_RAKU_moaqchuo _ARITY_2	máq	I	2
+▯ is mnemotechnics _BIAS _RAKU_dıu _2_RAKU_moaqdıu _ARITY_1	hóq	I	1
 ▯ experiences property ▯ and consequently is mentally affected by it for a long time _BIAS _RAKU_fea _2_RAKU_moaqfea _ARITY_2	hó	A	2
 ▯ is an electronic or mechanical data storage device _BIAS _RAKU_kea _2_RAKU_moaqkea _ARITY_1	máq	I	1
 predicate memory ▯ is a memory _BIAS _RAKU_sıo _2_RAKU_moaqsıo _ARITY_1	hóq	I	1
@@ -4426,7 +4427,7 @@ predicate program ▯ is a computer program _BIAS _RAKU_rom _ARITY_1	hóq	I	1
 ▯ is a virtual idol vocaloid _BIAS _RAKU_che _2_RAKU_suaqche _ARITY_1	hó	I	1
 ▯ is a programming language _BIAS _RAKU_zu _2_RAKU_romzu _ARITY_1	hóq	I	1
 ▯ cries sobs weeps _BIAS _RAKU_roq _ARITY_1	hó	A	1
-predicate weep ▯ cries weeps ▯ cries tears ▯ _BIAS _RAKU_roq _ARITY_2	hó	A	2
+predicate weep ▯ cries sobs weeps _BIAS _RAKU_roq _ARITY_1	hó	I	1
 predicate tear ▯ is a tear teardrop _BIAS _RAKU_dıao _2_RAKU_roqdıao _ARITY_1	máq	I	1
 ▯ is an onion _BIAS _RAKU_zeo _2_RAKU_roqzeo _ARITY_1	máq	I	1
 predicate flower ▯ is a flower _BIAS _RAKU_rua _ARITY_1	máq	I	1
@@ -5567,6 +5568,7 @@ predicate appear ▯ appears enters perception _BIAS _RAKU_zaq _ARITY_1	tá	I	1
 predicate fruit ▯ is a fruit _BIAS _RAKU_zeo _ARITY_1	máq	I	1
 ▯ is a fruit of ▯ _BIAS _RAKU_zeo _ARITY_2	máq	I	2
 ▯ is pectin _BIAS _RAKU_ze _2_RAKU_coeze _ARITY_1	máq	I	1
+▯ is a smoothie _BIAS _RAKU_goaq _2_RAKU_zeogoaq _ARITY_1	máq	I	1
 ▯ is ripe _BIAS _RAKU_koaq _2_RAKU_zeokoaq _ARITY_1	tá	F	1
 ▯ is a chilli chili _BIAS _RAKU_loq _2_RAKU_zeoloq _ARITY_1	máq	I	1
 ▯ is a bunch of fruits many fruits on a shared stem branch e g bananas grapes _BIAS _RAKU_zeom _ARITY_1	máq	I	1
