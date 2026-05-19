@@ -2083,6 +2083,7 @@ predicate take property ▯ from ▯ takes removes property ▯ _BIAS _RAKU_nua 
 ▯ is an object entity thing phenomenon _BIAS _RAKU_raı _2_RAKU_ıqraı _ARITY_1	hóq	I	1
 ▯ is jade jadeite nephrite _BIAS _RAKU_se _2_RAKU_ıqse _ARITY_1	máq	I	1
 ▯ is jadeite mineral _BIAS _RAKU_pıo _2_RAKU_sepıo _ARITY_1	máq	I	1
+▯ fakes mocks not necessarily agentively property ▯ _BIAS _RAKU_suam _2_RAKU_ıqsuam _ARITY_2	máq	I	2
 ▯ wants to satisfy property ▯ _BIAS _RAKU_shao _2_RAKU_ıqshao _ARITY_2	hó	I	2
 ▯ pertains to the culture of iraq republic of iraq _BIAS _RAKU_kı _2_RAKU_rakı _ARITY_1 _CAPS	tá	F	1
 ▯ is the country iraq republic of iraq _BIAS _RAKU_gua _2_RAKU_kıgua _ARITY_1 _CAPS	máq	I	1
@@ -2260,7 +2261,7 @@ predicate tip ▯ is a tip pointed end _BIAS _RAKU_jıeq _ARITY_1	máq	I	1
 ▯ panics experiences a panic attack _BIAS _RAKU_feao _2_RAKU_jıeqfeao _ARITY_1	hó	I	1
 ▯ is an arrow _BIAS _RAKU_sha _2_RAKU_jıeqsha _ARITY_1	máq	I	1
 according to my past self who i consider to be a credible source ▯ is the case but i cannot remember the reasoning or evidence by which i originally concluded such _BIAS _RAKU_na _2_RAKU_jıena _ARITY_1	hóq	P	1
-▯ is the world wide web ▯ is the internet _BIAS _RAKU_ko _2_RAKU_jıko _ARITY_1	máq	I	1
+▯ is the world wide web ▯ is the internet _BIAS _RAKU_ko _2_RAKU_jıko _ARITY_1	hóq	I	1
 ▯ is theology _BIAS _RAKU_dıu _2_RAKU_laodıu _ARITY_1	hóq	I	1
 ▯ lasts for a short amount of time is brief _BIAS _RAKU_jım _ARITY_1	hóq	E	1
 predicate building ▯ is a building _BIAS _RAKU_jıo _ARITY_1	máq	I	1
