@@ -388,7 +388,7 @@ aıjı @fagri 2023-01-24 #U-8d16OZD $en ±
 aıjuı [(c c) (d d) tá F] @uakci 2022-07-29 #IazIOKv6T $en ±
 ▯ feels similar to ▯ subjectively.
 
-aıka [particle] @Laqme 2022-05-24 #0M_k8mlsG $en +2
+aıka [particle] @Laqme 2022-05-24 #0M_k8mlsG $en +3
 interjection: ‘well then, / alright, / moving on… / here we go…’
   Laqme (2022-05-24): Like **aıba** minus **ba** plus **ka**. and also sounds great **ĩmo** :)
 
@@ -43536,6 +43536,12 @@ koıkala @Laqme 2024-07-10 #Ds4or1GEp $en ±
 ▯, departing without expecting to return, says an indefinite farewell/goodbye to ▯.
   Laqme (2024-07-10): ▯ says **koıka** to ▯.
 
+koıkamoı [(c) (d) hó I] @Dembim 2026-05-23 #4KbgDfSdk $en ±
+▯ thinks/fantasizes about leaving and never coming back
+  Dembim (2026-05-23): The classic one for software engineers is quitting your job to become an a) farmer b) baker c) carpenter.
+  Dembim (2026-05-23): Indicative of the state of mind in which one considers buying a one-way plane ticket to a foreign country with the idea that they'll figure out the rest when they land.
+  Dembim (2026-05-23): kw: fantasizes, wanderlust, restless
+
 koıkoı [particle] @fagri 2021-10-04 #dnM2jOI0F $en +1
 Interjection: taunting, provoking
 
@@ -56495,7 +56501,7 @@ nam @jiqci 2023-07-31 #V1edKJDmVj $pl ± %food,prepared_food
 nam @SuperSpaceNiM 2024-08-11 #bAkBhSKRj $ru ± %food,prepared_food
 ▯ — хлеб.
 
-nama @uakci 2023-05-17 #PpoKe1blA $en ±
+nama @uakci 2023-05-17 #PpoKe1blA $en +1
 ▯ is a boy/guy/dude.
   uakci (2023-05-17): **naq** + –**ma** (vague nominalizer)
 
@@ -94798,6 +94804,11 @@ Does this look good to you?
 
 Ma kıachaq níchaq moq [phrase] @examples 2026-04-11 #OVyU7Adv5AnA $en ±
 (B0327) Is today Monday?
+
+- mako @Dembim 2026-05-23 #e1tf00Oqn $en ±
+pseudo-suffix: decoration/embellishment
+  Dembim (2026-05-23): e.g. a « kıoqmako » might be a bauble; a « nhoqmako » could be a tassel or fringe
+  Dembim (2026-05-23): Words made this way are probably informal
 
 Ma ko shı chaq po baq jöa baq kıachaq moq [phrase] @examples 2026-04-11 #i2Lvx9COxTYv $en ±
 (B0333) Is Sunday the first day of theweek?

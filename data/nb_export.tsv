@@ -2771,6 +2771,7 @@ predicate ambulate ▯ ambulates walks runs crawls _BIAS _RAKU_koı _ARITY_1	hó
 ▯ is a walking stick _BIAS _RAKU_beaq _2_RAKU_koıbeaq _ARITY_1	máq	I	1
 ▯ is a hoof _BIAS _RAKU_ceaq _2_RAKU_koıceaq _ARITY_1	máq	I	1
 ▯ is a pedestrian _BIAS _RAKU_che _2_RAKU_koıche _ARITY_1	hó	I	1
+▯ thinks fantasizes about leaving and never coming back _BIAS _RAKU_kam _2_RAKU_koıkam _ARITY_1	hó	I	1
 ▯ goes on a walk _BIAS _RAKU_koı _2_RAKU_koıkoı _ARITY_1	hó	A	1
 ▯ is an infantry soldier _BIAS _RAKU_che _2_RAKU_soıche _ARITY_1	hó	I	1
 predicate path ▯ is a walking path _BIAS _RAKU_tıeq _2_RAKU_koıtıeq _ARITY_1	máq	I	1
