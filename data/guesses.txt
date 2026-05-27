@@ -31730,6 +31730,8 @@ duoshaı #iULuWK3kk → [(c) (d) hó I] conf=49% oov=25%
   ▯ stops moving.
 duqchıa #cKagHlnzn → [(c c) (d d) tá F] conf=49% oov=27%
   ▯ requires regular intake/consumption of ▯ to function properly
+eaı'ıq #4Mm45H13M → [(c 1i) (d d) tá F] conf=49% oov=5%
+  ▯ vibe-satisfies-property-▯; ▯ gets an AI to satisfy property ▯ for them
 eajuna #U1d77nUQ_ → [(c) (d) máq I] conf=49% oov=15%
   ▯ is a possible, counterfactual conditional (modal logic)
 eheꝡa #OPdhRm6Hy → [(c) (d) máq I] conf=49% oov=25%
@@ -34784,7 +34786,7 @@ shuojeaq #9vaq13xr5 → [(c) (d) máq I] conf=0% oov=11%
   ▯ accumulates/builds up
 
 === SUMMARY ===
-  unannotated entries guessed: 16639
+  unannotated entries guessed: 16640
   mean calibrated pronoun conf: 73.4%
   mean oov rate:                16.3%
   high-confidence (cal≥80%):    7909

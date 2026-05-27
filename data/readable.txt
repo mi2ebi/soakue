@@ -18468,6 +18468,9 @@ eahu [(c c) (d d) hó I] @seaqtaq 2024-07-25 #R9Wffsbr- $en +1
 eaı [(c) (d) hóq I] @jiqci 2026-02-04 #KdlbocnHg $en ±
 ▯ is generative AI.
 
+eaı'ıq @evie 2026-05-27 #4Mm45H13M $en ±
+▯ vibe-satisfies-property-▯; ▯ gets an AI to satisfy property ▯ for them
+
 eajıaq @Ilmen 2022-11-05 #buZNwhbqM $en ±
 ▯ is an imaginary world.
 
@@ -99286,9 +99289,6 @@ jaonoı(lıe) @Hoemai 2020-05-20 #WVKqhQ9e2 $en ±
 ⚠ jeyjeo @uakci 2021-11-07 #azfBT1U9e $en ±
 ▯ has gender-specific property ▯; ▯ is gendered in property ▯.
 
-⚠ jeytoaı @uakci 2021-11-11 #3BrMC_EOQ $en ±
-▯ is a gender quale (qualia), gender gestalt; ▯ is a gender(ed) impression or “vibe” seen as relatively primitive, or tough or futile to analyze.
-
 ⚠ jeyleı @uakci 2021-11-19 #Je1qKayFY $en ±
 ▯ is transgender/genderqueer.
   uakci (2021-11-19): umbrella term. **jeyfaı** – **jeyleı** form a spectrum that one can place themselves on depending on their attitude towards their identity; that said, people who explicitly identify as non-binary, transgender, genderqueer, inter-/a-/third-gender, etc., are all less **jeyfaı** than those who don't
@@ -99319,6 +99319,9 @@ jaonoı(lıe) @Hoemai 2020-05-20 #WVKqhQ9e2 $en ±
 
 ⚠ jeyfaı @uakci 2021-11-07 #Txb53yo_k $en -1
 ▯ is stereotypically gendered in property ▯.
+
+⚠ jeytoaı @uakci 2021-11-11 #3BrMC_EOQ $en -1
+▯ is a gender quale (qualia), gender gestalt; ▯ is a gender(ed) impression or “vibe” seen as relatively primitive, or tough or futile to analyze.
 
 ⚠ jeymaı @uakci 2022-02-08 #pi2CrWdKe $en -1
 ▯ has sexual orientation based on liking ▯ types of people (be it romantic, sexual, or platonic/“soulmate”-based).
