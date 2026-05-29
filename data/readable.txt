@@ -19229,6 +19229,9 @@ eu @Ilmen 2019-07-21 #aeLl3Hbg8 $en -1
 eu @Ilmen 2019-07-21 #tsAUe2c5I $en -1
 ▯is a property satisfied by a predicate which is true of the argument structure ⟨▯, (▯, (▯, …)))⟩; the first argument is the property of a predicate that is true of the argument structure made from to the remaining arguments.
 
+eujıam @TheAndSys 2026-05-28 #RES-oqUkC $en ±
+▯ euthanizes ▯
+
 eum [hóq] @uakci 2026-02-14 #jRWcQQxfF $en ±
 ▯ is an event or proposition entailed by a verb phrase.
   uakci (2026-02-14): to be used alongside or in place of **um** & co. to describe the event itself as opposed to its grammatical parties
@@ -29111,6 +29114,9 @@ heqchuo @jiqci 2023-07-31 #_ByNzNN1ml $pl ± %artifact,container
 heqchuo @Ilmen 2019-02-21 #DPgZQFgYc $en -1 %artifact,container
 (fork of official) predicate: ‘container’; ▯ is a container; ▯ is a contained designed to contain anything satisfying property ▯.
 
+heqdaı @TheAndSys 2026-05-28 #LsS86vqNv $en ±
+▯ is an alternative to ▯.
+
 heqfa [(c) (d) hó I] @fagri 2018-10-14 #aWp_fO07M $en +1
 ▯ is an elf.
   fagri (2018-10-14): From lojban's {xelfa}, which I also created.
@@ -32075,6 +32081,10 @@ hunı @Machy 2022-05-13 #iI_knXtd_ $en -1
 
 hunıu @jiqci 2024-02-01 #o8hgeQqRa $en ±
 ▯ is a herbaceous plant.
+
+huo- @TheAndSys 2026-05-28 #2blFy3cBd $en ±
+prefix; X-ful. Full of X (metaphorically or physically, can refer to the event or the noun).
+  TheAndSys (2026-05-28): "joa huo-domu" -> "busy week"
 
 huo [(c) (d) tá F] @official 2026-02-16 #FheVGzNWAck $en ± %perception
 predicate: ‘auditory’; ▯ is auditory; ▯ pertains to the sense of hearing/audition.
@@ -70522,6 +70532,9 @@ romjom @Laqme 2023-12-17 #IL_paJfG- $en +1
 
 romjomboq @jiqci 2024-11-27 #EaBT9HEpj $en ±
 ▯ is an antivirus software.
+
+romjuq [(c c) (d d) hó A] @TheAndSys 2026-05-28 #gNIVcb7fS $en ±
+▯ installs software ▯
 
 romkaı @Laqme 2024-09-18 #zWpVHbf5m $en ±
 ▯ programs / writes code ▯.

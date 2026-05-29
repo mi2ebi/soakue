@@ -4470,6 +4470,7 @@ predicate recover ▯ recovers ▯ becomes healthy _BIAS _RAKU_sho _2_RAKU_roesh
 ▯ is a crocodile _BIAS _RAKU_lo _2_RAKU_delo _ARITY_1	hó	I	1
 predicate program ▯ is a computer program _BIAS _RAKU_rom _ARITY_1	hóq	I	1
 ▯ is a programmer software engineer _BIAS _RAKU_che _2_RAKU_romche _ARITY_1	hó	I	1
+▯ installs software ▯ _BIAS _RAKU_juq _2_RAKU_romjuq _ARITY_2	hó	A	2
 ▯ is a programmer _BIAS _RAKU_che _2_RAKU_kaıche _ARITY_1	hó	I	1
 ▯ is a computer _BIAS _RAKU_kea _2_RAKU_romkea _ARITY_1	máq	I	1
 ▯ is an opcode _BIAS _RAKU_laı _2_RAKU_romlaı _ARITY_1	máq	I	1
