@@ -39610,6 +39610,10 @@ predicate: ‘writing.implement’; ▯ is a writing implement.
 kaıchuo @jiqci 2023-07-31 #NqY3_JT7IW $pl ±
 ▯ to narzędzie pisarskie.
 
+kaıdao @lassc 2026-05-29 #-qqPeLiGw $en ±
+▯ is "plain-text".
+  lassc (2026-05-29): i.e. not in a binary format
+
 kaıdıu [(c) (d) hóq I] @seaqtaq 2025-05-06 #D3KY_m_m6 $en ±
 ▯ is graphology (the study of written and printed symbols)
 
@@ -39668,6 +39672,10 @@ kaıkabo [(c) (d) máq I] @Laqme 2022-10-09 #5RCzcduFc $en +1
 kaıkabo @salarua 2022-12-23 #i5O5v3ePv $es ±
 predicato: ’lápiz’; ▯ es un lápiz
 
+kaıkao @lassc 2026-05-29 #sXhWTR7AE $en ±
+▯ is a plain-text file.
+  lassc (2026-05-29): cf. **kaıdao**
+
 kaıkea [(c) (d) máq I] @official 2026-02-16 #YrbRswHZ_EV $en ± %artifact,machine
 predicate: ‘typewriter’; ▯ is a typewriter.
 
@@ -39723,9 +39731,8 @@ kaına @fagri 2023-06-13 #zkoz0eaEK $en ±
 kaınao @Laqme 2019-01-26 #YPiVG8pqJ $en -1
 ▯ is ink.
 
-kaıno @lassc 2023-11-13 #9nBk_ZVGd $en ±
-▯ is a writing style that satisfies property ▯.
-  lassc (2023-11-13): keyword: typing quirk
+kaıno @lassc 2026-05-29 #uxT2bU6iL $en ±
+▯ is a plain-text file format.
 
 kaınua @zearen 2024-09-18 #TPdOQTXVS $en ±
 ▯ deletes from text ▯ the tokens/glyphs ▯.
@@ -40236,6 +40243,9 @@ kaomojı @evie 2025-06-11 #ZcDs2mS4P $en ±
 
 kaomuao @uakci 2023-02-14 #RAueC-73r $en ±
 ▯ is a tree (data structure).
+
+kaono @lassc 2026-05-29 #4Mca5mXCM $en ±
+▯ is a file format.
 
 kaonu @jiqci 2023-08-04 #fNT0gMwGG $en ±
 ▯ is the case formally/officially/on paper.

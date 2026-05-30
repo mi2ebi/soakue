@@ -4317,10 +4317,14 @@ kaı #bINVjpKE0 → [(c c c) (d d d) hó A] conf=97%
   ▯ writes on ▯, ▯.
 kaıgıqchuo #3fJhRfRdt → [(c) (d) máq I] conf=97% oov=22%
   ▯ is an eraser
+kaıkao #sXhWTR7AE → [(c) (d) hóq I] conf=97% oov=18%
+  ▯ is a plain-text file.
 kaıkuq #fhD_HrR5f → [(c c c) (d d d) hó A] conf=97% oov=10%
   ▯ writes ▯ to ▯.
 kaına #zkoz0eaEK → [(c c) (d d) hó I] conf=97% oov=17%
   ▯ disharmonizes / doesn't align with ▯
+kaıno #uxT2bU6iL → [(c) (d) hóq F] conf=97% oov=17%
+  ▯ is a plain-text file format.
 kaızeq #zeH6vJiHx → [(c 1i) (d d) hó A] conf=97% oov=18%
   ▯ continuously improves at satisfying ▯.
 kajıa #LVljnyNiZ → [(c c c) (d d d) hó A] conf=97% oov=8%
@@ -10773,6 +10777,8 @@ kamparıaq #6vBN5s2yC → [(c) (d) máq I] conf=93% oov=22%
   ▯ is a campsite.
 kampıqrıaq #J_W7KTuEG → [(c) (d) máq I] conf=93% oov=22%
   ▯ is a campsite.
+kaono #4Mca5mXCM → [(c) (d) hóq F] conf=93% oov=10%
+  ▯ is a file format.
 kaonu #fNT0gMwGG → [(0) (d) hóq P] conf=93% oov=23%
   ▯ is the case formally/officially/on paper.
 kapasa #aAQUeR2Jl → [(c) (d) máq I] conf=93% oov=16%
@@ -15359,6 +15365,8 @@ kabeta #ejIVewyaq → [(c c) (d d) hó A] conf=86%
   ▯ hoes / tills ▯.
 kadaq #YQ4nshLQE → [(c) (d) hóq I] conf=86% oov=9%
   Usually/most of the time, ▯.
+kaıdao #-qqPeLiGw → [(c) (d) hóq I] conf=86% oov=22%
+  ▯ is "plain-text".
 keona #_flJRjZQO → [(0) (d) hóq P] conf=86% oov=7%
   ▯ is the case contrarily to your probable expectation.
 keramoham #auUVQU-T9 → [(c) (d) máq I] conf=86% oov=17%
@@ -22855,8 +22863,6 @@ juaofıeq #ryMXAvBML → [(c c) (d d) hó A] conf=69% oov=18%
   predicate: ‘legislate’; ▯ passes law ▯
 juqshıeı #KRM5LYW3a → [(c) (d) máq I] conf=69% oov=40%
   ▯ is an income tax.
-kaıno #9nBk_ZVGd → [(c 1i) (d d) tá F] conf=69% oov=7%
-  ▯ is a writing style that satisfies property ▯.
 kaısekoaq #u3Lsv9kOA → [(c) (d) máq I] conf=69% oov=25%
   ▯ is a final draft / final copy
 kaodoakıu #cjBZSkuun → [(c) (d) máq I] conf=69% oov=25%
@@ -34791,8 +34797,8 @@ shuojeaq #9vaq13xr5 → [(c) (d) máq I] conf=0% oov=11%
   ▯ accumulates/builds up
 
 === SUMMARY ===
-  unannotated entries guessed: 16643
+  unannotated entries guessed: 16646
   mean calibrated pronoun conf: 73.4%
   mean oov rate:                16.3%
-  high-confidence (cal≥80%):    7909
+  high-confidence (cal≥80%):    7913
   particle/phrase guesses:      416
