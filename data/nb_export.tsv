@@ -984,6 +984,7 @@ predicate dawn ▯ is dawn _BIAS _RAKU_rıao _2_RAKU_chuırıao _ARITY_1	hóq	I	
 ▯ is sexy sexually attractive _BIAS _RAKU_de _2_RAKU_nıde _ARITY_1	tá	F	1
 ▯ is perverted a pervert _BIAS _RAKU_huı _2_RAKU_nıhuı _ARITY_1	tá	F	1
 predicate tool ▯ is a tool utensil resource instrument for satisfying property ▯ _BIAS _RAKU_chuo _ARITY_2	máq	I	2
+▯ is a toolbar line of icons in a computer application _BIAS _RAKU_gıu _2_RAKU_chuogıu _ARITY_1	hóq	I	1
 ▯ is a thread rope cord string _BIAS _RAKU_chuoı _ARITY_1	máq	I	1
 ▯ is string theory _BIAS _RAKU_dıu _2_RAKU_chuoıdıu _ARITY_1	hóq	I	1
 ▯ is asbestos _BIAS _RAKU_pıo _2_RAKU_chuoıpıo _ARITY_1	máq	I	1
@@ -1587,6 +1588,7 @@ predicate opportunity ▯ is an opportunity _BIAS _RAKU_tue _2_RAKU_daıtue _ARI
 predicate arm ▯ is an arm _BIAS _RAKU_gıe _ARITY_1	máq	I	1
 predicate elbow ▯ is an elbow _BIAS _RAKU_bea _2_RAKU_gıebea _ARITY_1	máq	I	1
 ▯ is a branch twig stick _BIAS _RAKU_gıeı _ARITY_1	máq	I	1
+predicate foliage ▯ is a tree s foliage ▯ is the branches and or leaves on a tree _BIAS _RAKU_me _2_RAKU_gıeıme _ARITY_1	máq	I	1
 predicate armpit ▯ is an armpit _BIAS _RAKU_jeoq _2_RAKU_gıejeoq _ARITY_1	máq	I	1
 ▯ is a robotic arm _BIAS _RAKU_kea _2_RAKU_gıekea _ARITY_1	máq	I	1
 ▯ is a bracelet _BIAS _RAKU_lıem _2_RAKU_gıelıem _ARITY_1	máq	I	1
@@ -1858,6 +1860,7 @@ predicate tenth ▯ is tenth among ▯ _BIAS _RAKU_ko _2_RAKU_heıko _ARITY_2	t�
 ▯ is the country greece hellenic republic _BIAS _RAKU_gua _2_RAKU_sagua _ARITY_1 _CAPS	máq	I	1
 ▯ is the greek language _BIAS _RAKU_zu _2_RAKU_sazu _ARITY_1 _CAPS	hóq	I	1
 ▯ is a cherry plum prunus cerasifera _BIAS _RAKU_lı _2_RAKU_hemlı _ARITY_1	máq	I	1
+▯ shows presents ▯ _BIAS _RAKU_nı _2_RAKU_henı _ARITY_2	hó	I	2
 ▯ is covered in permafrost _BIAS _RAKU_nıao _2_RAKU_henıao _ARITY_1	máq	I	1
 ▯ is an version variant adaptation of ▯ _BIAS _RAKU_no _2_RAKU_heno _ARITY_2	tá	I	2
 predicate different ▯ is different from ▯ ▯ differs from ▯ in property ▯ _BIAS _RAKU_heo _ARITY_3	tá	F	3
@@ -2519,6 +2522,7 @@ predicate archivist ▯ is an archivist _BIAS _RAKU_che _2_RAKU_jache _ARITY_1	h
 ▯ is a scribe _BIAS _RAKU_che _2_RAKU_kaıche _ARITY_1	hó	I	1
 ▯ is limestone _BIAS _RAKU_pıo _2_RAKU_kıpıo _ARITY_1	máq	I	1
 ▯ is a file _BIAS _RAKU_laı _2_RAKU_kaolaı _ARITY_1	hóq	I	1
+▯ is a link hyperlink _BIAS _RAKU_lıq _2_RAKU_kaolıq _ARITY_1	máq	I	1
 ▯ has official sex ▯ e g in official records _BIAS _RAKU_chı _2_RAKU_'uchı _ARITY_2	hó	I	2
 ▯ is ransomware _BIAS _RAKU_rom _2_RAKU_toırom _ARITY_1	hóq	I	1
 ▯ is an optical hard drive _BIAS _RAKU_sıoq _2_RAKU_kaosıoq _ARITY_1	máq	I	1
@@ -2771,6 +2775,7 @@ predicate ambulate ▯ ambulates walks runs crawls _BIAS _RAKU_koı _ARITY_1	hó
 ▯ is a walking stick _BIAS _RAKU_beaq _2_RAKU_koıbeaq _ARITY_1	máq	I	1
 ▯ is a hoof _BIAS _RAKU_ceaq _2_RAKU_koıceaq _ARITY_1	máq	I	1
 ▯ is a pedestrian _BIAS _RAKU_che _2_RAKU_koıche _ARITY_1	hó	I	1
+predicate ▯ departs from ▯ not intending to return _BIAS _RAKU_la _2_RAKU_kala _ARITY_2	hó	I	2
 ▯ thinks fantasizes about leaving and never coming back _BIAS _RAKU_kam _2_RAKU_koıkam _ARITY_1	hó	I	1
 ▯ goes on a walk _BIAS _RAKU_koı _2_RAKU_koıkoı _ARITY_1	hó	A	1
 ▯ is an infantry soldier _BIAS _RAKU_che _2_RAKU_soıche _ARITY_1	hó	I	1
@@ -3778,6 +3783,7 @@ predicate miss ▯ misses ▯ ▯ hungers for ▯ to happen again _BIAS _RAKU_ku
 ▯ is part of the neofelis genus _BIAS _RAKU_to _2_RAKU_kato _ARITY_1	hó	I	1
 ▯ nitpicks _BIAS _RAKU_pıq _2_RAKU_nıqpıq _ARITY_1	hó	A	1
 ▯ is a repeater _BIAS _RAKU_kea _2_RAKU_zıakea _ARITY_1	máq	I	1
+▯ departs this place _BIAS _RAKU_cuq _2_RAKU_tıcuq _ARITY_1	hó	I	1
 ▯ returns to this place comes back _BIAS _RAKU_rıu _2_RAKU_tırıu _ARITY_1	tá	I	1
 predicate plant ▯ is a plant organism _BIAS _RAKU_nıu _ARITY_1	máq	I	1
 ▯ is a flower pot _BIAS _RAKU_bıo _2_RAKU_nıubıo _ARITY_1	máq	I	1
@@ -3992,6 +3998,7 @@ physical entity ▯ is a stimulus source of quale ▯ _BIAS _RAKU_ge _2_RAKU_nhu
 ▯ is a grammatical indirect object ▯ is io _BIAS _RAKU_nhum _ARITY_1	tá	F	1
 ▯ is an array battery of ▯ series of objects in a specific spatial arrangement _BIAS _RAKU_nhuo _ARITY_2	máq	I	2
 ▯ is a blankie _BIAS _RAKU_bı _2_RAKU_nhuobı _ARITY_1	máq	I	1
+▯ is a tab bar _BIAS _RAKU_gıu _2_RAKU_cıoqgıu _ARITY_1	hóq	I	1
 ▯ is a crystal _BIAS _RAKU_pıo _2_RAKU_nhuopıo _ARITY_1	máq	I	1
 ▯ is a column vertical arrangement in a grid _BIAS _RAKU_sheaq _2_RAKU_nhuosheaq _ARITY_1	máq	I	1
 ▯ is an array language like apl uiua j _BIAS _RAKU_zu _2_RAKU_nhuozu _ARITY_1	hóq	I	1
@@ -4013,6 +4020,7 @@ predicate snake ▯ is a snake _BIAS _RAKU_guı _2_RAKU_oguı _ARITY_1	hó	I	1
 for some property constitutive of ▯ s self conception they recognize that ▯ too exhibits that property _BIAS _RAKU_jo _2_RAKU_oıjo _ARITY_2	hó	A	2
 ▯ feels a sense of intimacy by shared identity perceiving something of themself external to themself _BIAS _RAKU_jom _2_RAKU_oıjom _ARITY_1	hó	I	1
 ▯ makes a bow curtsy ▯ bows as a social gesture _BIAS _RAKU_ja _2_RAKU_oja _ARITY_1	hó	I	1
+predicate ▯ departs has departed from ▯ and intends to return there _BIAS _RAKU_la _2_RAKU_kala _ARITY_2	hó	I	2
 ▯ is ok okay fine acceptable all right _BIAS _RAKU_keı _2_RAKU_okeı _ARITY_1	tá	F	1
 ▯ is an omega the letter ω _BIAS _RAKU_laı _2_RAKU_galaı _ARITY_1	máq	I	1
 ▯ is a hermit recluse _BIAS _RAKU_rı _2_RAKU_omrı _ARITY_1	hó	I	1
@@ -5248,6 +5256,7 @@ predicate do ▯ does ▯ _BIAS _RAKU_tao _ARITY_2	hó	A	2
 ▯ is strong willed forward confident _BIAS _RAKU_caı _2_RAKU_taocaı _ARITY_1	hó	I	1
 predicate accidental ▯ is accidental unintentional _BIAS _RAKU_cıa _2_RAKU_taocıa _ARITY_1	hóq	F	1
 ▯ does whatever comes naturally goes with the flow doesn t force things _BIAS _RAKU_cheaı _2_RAKU_taocheaı _ARITY_1	hó	I	1
+▯ plans intends is going to do ▯ _BIAS _RAKU_chı _2_RAKU_taochı _ARITY_2	hó	I	2
 ▯ likes enjoys to ▯ _BIAS _RAKU_cho _2_RAKU_taocho _ARITY_2	hó	I	2
 ▯ has an opportunity to satisfy property ▯ _BIAS _RAKU_daı _2_RAKU_taodaı _ARITY_2	hó	I	2
 ▯ may ▯ _BIAS _RAKU_dı _2_RAKU_taodı _ARITY_2	hó	I	2
@@ -5495,6 +5504,7 @@ predicate knife ▯ is a knife _BIAS _RAKU_rea _2_RAKU_torea _ARITY_1	máq	I	1
 ▯ brilliantly expresses idea ▯ _BIAS _RAKU_che _2_RAKU_touche _ARITY_2	hó	I	2
 ▯ is a tram car _BIAS _ARITY_1	máq	I	1
 predicate make happen ▯ makes ▯ happen _BIAS _RAKU_tua _ARITY_2	hó	A	2
+predicate intend ▯ intends for ▯ to happen _BIAS _RAKU_chı _2_RAKU_tuachı _ARITY_2	hó	I	2
 ▯ is the ubykh language _BIAS _RAKU_zu _2_RAKU_hızu _ARITY_1 _CAPS	hóq	I	1
 predicate body ▯ is a body corpse _BIAS _RAKU_tuaı _ARITY_1	máq	I	1
 predicate physical ▯ is physical corporal _BIAS _RAKU_bo _2_RAKU_tuaıbo _ARITY_1	máq	I	1

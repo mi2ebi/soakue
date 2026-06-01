@@ -13805,6 +13805,9 @@ chuodoebu @Ilmen 2020-02-26 #RcbdOu-tb $en ±
 chuodoedoa @xorxes 2020-06-06 #Pn8nR5q8X $en ±
 ▯ turns/switches on ▯.
 
+chuogıu [(c) (d) hóq I] @salarua 2026-05-31 #MkuZuNXya $en ±
+▯ is a toolbar (line of icons in a computer application)
+
 chuoı [(c) (d) máq I] @Ilmen 2019-04-13 #DfKRmS5KY $en +1 %artifact
 ▯ is a thread/rope/cord/string.
   uakci (2020-03-20): −1 (-uoı is deprecated)
@@ -15163,7 +15166,7 @@ daqtaı @Laqme 2025-01-31 #BQIsw8bC0 $en ±
 ▯ satisfies property ▯ in time.
   Laqme (2025-01-31): "makes it in time", "before it's too late"
 
-daqteı @Laqme 2023-09-03 #TbpvwL-ao $en ±
+daqteı @Laqme 2023-09-03 #TbpvwL-ao $en +1
 ▯ is an aspect (linguistics sense).
 
 daqtı @Laqme 2025-04-25 #qSZAfqFPH $en +1
@@ -24096,6 +24099,9 @@ gıeıla @Laqme 2025-08-11 #NdJLTbRsV $en +1
 gıeımara @jiqci 2024-11-14 #greDNL9Vd $en ±
 ▯ is a catkin / ament.
 
+gıeıme [(c) (d) máq I] @Dembim 2026-05-31 #CmgzfOxw9 $en ±
+predicate: 'foliage'; ▯ is a tree's foliage; ▯ is the branches and/or leaves on a tree.
+
 gıejam @robintown 2023-05-20 #Whbb2xi3y $en ±
 ▯ is a wristwatch.
 
@@ -28803,7 +28809,7 @@ hemuo @uakci 2022-05-28 #gAg6c8cT6 $en ±
 ▯ happens not just as a general rule, but consistently every single time, like clockwork.
   uakci (2022-05-28): probably meaningless without some form of contingency clause
 
-henı @seaqtaq 2024-07-21 #BFDr2uNJ6 $en +1
+henı [(c c) (d d) hó I] @seaqtaq 2024-07-21 #BFDr2uNJ6 $en +1
 ▯ shows/presents ▯
   seaqtaq (2024-07-21): Inspired by interjection "enı". I did not like the aesthetics of ıjo, and it seems to produce somewhat unpleasant compounds
 
@@ -40227,7 +40233,7 @@ kaola @Laqme 2025-01-05 #acPPZ4gYQ $en ±
 kaolaı [(c) (d) hóq I] @seaqtaq 2019-06-24 #A-igVT7sM $en ±
 ▯ is a file.
 
-kaolıq @robintown 2023-07-02 #NTJM23mpR $en ±
+kaolıq [(c) (d) máq I] @robintown 2023-07-02 #NTJM23mpR $en +1
 ▯ is a link/hyperlink.
   robintown (2023-07-02): **kao** as classifier + English 'link'
 
@@ -43558,6 +43564,10 @@ interjection: "farewell"; indication of departure without expectation of return
 koıkala @Laqme 2024-07-10 #Ds4or1GEp $en ±
 ▯, departing without expecting to return, says an indefinite farewell/goodbye to ▯.
   Laqme (2024-07-10): ▯ says **koıka** to ▯.
+
+koıkala [(c c) (d d) hó I] @Dembim 2026-05-31 #w1Kw5nOYd $en ±
+predicate: ▯ departs from ▯, not intending to return
+  Dembim (2026-05-31): Discriminator: 2
 
 koıkamoı [(c) (d) hó I] @Dembim 2026-05-23 #4KbgDfSdk $en ±
 ▯ thinks/fantasizes about leaving and never coming back
@@ -56143,9 +56153,6 @@ murum @jiqci 2023-11-04 #BelQ7MtBf $en +1
 ▯ murmurs/mutters.
   jiqci (2023-11-04): pros: not a meme   cons: none
 
-murutoa @Dembim 2026-03-15 #XUxOZysQF $en -1
-▯ is a conjunction word
-
 musasabı @uakci 2019-05-16 #faxGOzQ_d $en ±
 ▯ is a Japanese giant flying squirrel (species: Petaurista leucogenys).
 
@@ -59492,6 +59499,9 @@ nıtı @uakci 2023-05-18 #xGBIaDFJ2 $en +1
   uakci (2023-05-18): (not as in “▯ is this location” – that’s **nıgoa** or **ní goa** or just **ní**)
   uakci (2023-05-18): or **ní rıaq**, etc.
 
+nıtıcuq [(c) (d) hó I] @Dembim 2026-05-31 #g0GNA6Tr3 $en ±
+▯ departs this place
+
 nıtırao @Ilmen 2022-10-24 #MBYqEZaCM $en ±
 ▯ is the case here and now.
 
@@ -62656,6 +62666,9 @@ nhuocefa @Laqme 2024-10-25 #BObQemfI0 $en ±
 nhuocıoq @uakci 2022-05-11 #QoJUHN6li $en ±
 ▯ is a tab/pane.
 
+nhuocıoqgıu [(c) (d) hóq I] @salarua 2026-05-31 #jIZ_CEDbE $en ±
+▯ is a tab bar
+
 nhuogı @uakci 2021-11-07 #ywmrPSY6f $en ±
 ▯ are ordered / neatly arranged.
   Ilmen (2025-10-22): keyword: tidy
@@ -63038,6 +63051,11 @@ oka @mimiaoganhaqpy 2022-12-03 #07EQ0ppct $zh ±
 感嘆詞：「再見」；表明離開，預期回來
   mimiaoganhaqpy (2022-12-03): 感叹词：「再见」；表明离开，预期回来
   mimiaoganhaqpy (2022-12-03): 參見：**junı** 和 **koıka**／**reına**
+
+okala [(c c) (d d) hó I] @Dembim 2026-05-31 #F5WHj4qxn $en ±
+predicate: ▯ departs/has departed from ▯ and intends to return there
+  Dembim (2026-05-31): The idea is that the event is ongoing until a) the subject returns or b) they stop intending to. So one who goes to work and comes back home is chum okala each day while they're at work until they get home. It means "▯ is on a temporary trip from ▯" or "▯ has steps out for a bit (from ▯)", gö rara hóa.
+  Dembim (2026-05-31): Muana, « Tıka! Jóq, bı̈ ma luı buefa nháo?» « Zı— Chum shúq okala Jóq nı́ zûam heaq sá guorı. » « Aa, ına.. ufu, chıa kudote ı́me. »
 
 okapı @Ilmen 2025-03-27 #kzRhmEbQc $en ± %lifeform,animal,vertebrate,mammal
 ▯ is an okapi.
@@ -81582,7 +81600,7 @@ in event ▯, ▯ is an agent-patient.
 taocheaı [(c) (d) hó I] @Laqme 2025-03-22 #-ktm7X6H2 $en ±
 ▯ does whatever comes naturally / goes with the flow / doesn't force things.
 
-taochı @uakci 2021-09-05 #N5zaPPawH $en ±
+taochı [(c 1i) (d d) hó I] @uakci 2021-09-05 #N5zaPPawH $en ±
 ▯ plans/intends/is going to do ▯.
 
 taochıe @Ilmen 2019-04-09 #gN7nZoZJZ $en ±
@@ -85948,6 +85966,9 @@ tuabaı @fagri 2019-02-26 #uFz-loAbz $en ±
 tuabo @Laqme 2024-05-31 #54Lne3iHl $en ±
 ▯ is made to happen by ▯.
   Laqme (2024-05-31): Agent tag. Replaces **bọtua** if **bo-** makes intransitive verbs.
+
+tuachı [(c 0) (d d) hó I] @Dembim 2026-05-31 #JuEcaNYq3 $en ±
+predicate: ‘intend’; ▯ intends for ▯ to happen.
 
 tuadue @lassc 2022-12-05 #nzBFcgin8 $en ±
 ▯ corrects ▯ about ▯ being the case.
