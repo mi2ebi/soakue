@@ -18471,7 +18471,7 @@ eahu [(c c) (d d) hó I] @seaqtaq 2024-07-25 #R9Wffsbr- $en +1
 eaı [(c) (d) hóq I] @jiqci 2026-02-04 #KdlbocnHg $en ±
 ▯ is generative AI.
 
-eaı'ıq @evie 2026-05-27 #4Mm45H13M $en ±
+eaı'ıq [(c 1x) (d d) hó A] @evie 2026-05-27 #4Mm45H13M $en ±
 ▯ vibe-satisfies-property-▯; ▯ gets an AI to satisfy property ▯ for them
 
 eajıaq @Ilmen 2022-11-05 #buZNwhbqM $en ±
@@ -55260,6 +55260,10 @@ muı @el 2022-07-10 #WsEUPF2RO $tok ±
 muı @jiqci 2023-07-31 #9z2KhJeBVu $pl ±
 ▯ to znaczenie ▯.
 
+muı @evie 2026-06-01 #d2F-HI6OM $en ±
+▯ means ▯
+  evie (2026-06-01): = place-swapped <@official =muı> = **semıo**
+
 muı @uakci 2019-01-26 #EmPFsoLpM $toa -1
 sa dó poq bı, rao gâı dó dógu na môı ra mıu dó dóshı da
 
@@ -73309,13 +73313,13 @@ seme @akesi 2020-02-02 #AdBj4MnRk $en +1
 semıeq @Ilmen 2020-01-15 #iyuPFZ80e $en ±
 ▯ intentionally satisfies property ▯ in order to know what is the result of doing so, what are the cosequences of this action.
 
-semıo [particle] @fagri 2022-10-16 #UIYX4Jsvk $toa ±
+semıo [particle] @fagri 2022-10-16 #UIYX4Jsvk $toa +1
 Mu muı [ja] [ja].
   mimiaoganhaqpy (2022-10-16): Kủq mí @fagri mó « Tỏasiao sia da. » fi da.
   fagri (2022-12-28): -1, no longer necessary in light of the bo- prefix. «Jeq bọmuı hú hú»
   fagri (2022-12-28): Actually, removing my -1, I still think this is the order the arguments should be in
 
-semıo @mimiaoganhaqpy 2022-10-16 #Qxa1e50P_ $en ±
+semıo @mimiaoganhaqpy 2022-10-16 #Qxa1e50P_ $en +1
 ▯ means ▯.
   mimiaoganhaqpy (2022-10-16): Translated from #UIYX4Jsvk
   mimiaoganhaqpy (2022-10-16): No etymology, according to @fagri
