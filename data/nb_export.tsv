@@ -3554,6 +3554,7 @@ predicate rotate ▯ rotates spins turns _BIAS _RAKU_muoı _ARITY_1	tá	I	1
 predicate made of ▯ is made of ▯ _BIAS _RAKU_muoq _ARITY_2	máq	I	2
 ▯ is materials science _BIAS _RAKU_dıu _2_RAKU_muoqdıu _ARITY_1	hóq	I	1
 ▯ occurs during the whole duration of ▯ _BIAS _RAKU_rao _2_RAKU_muorao _ARITY_2	hóq	E	2
+predicate ▯ is at in over the whole volume of ▯ _BIAS _RAKU_tı _2_RAKU_muotı _ARITY_2	tá	S	2
 predicate mend ▯ mends ▯ ▯ makes ▯ whole ▯ completes ▯ _BIAS _RAKU_tua _2_RAKU_muotua _ARITY_2	hó	A	2
 predicate hand ▯ is a hand _BIAS _RAKU_muq _ARITY_1	máq	I	1
 predicate handbag ▯ is a handbag _BIAS _RAKU_cea _2_RAKU_muqcea _ARITY_1	máq	I	1

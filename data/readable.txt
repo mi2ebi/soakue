@@ -6820,6 +6820,8 @@ predicate: ‘enough.to’; ▯ is sufficiently the case for ▯ to be the case;
 cabo @uakci 2022-10-05 #Yvighn4m6 $en ±
 Event ▯ has ▯ as initiating force.
   Laqme (2024-05-31): "caused by"
+  Dembim (2026-06-04): Equivalent to <tı̣̂ca>, but with the benefit of not being awful to pronounce.
+  Dembim (2026-06-04): I find it funny to pretend the etymology is <capo> -- intervocalic voicing assimilation --> <cabo>
 
 caca [(c c) (d d) hóq E] @Ilmen 2019-01-27 #Y2gNfJoeU $en +2
 ▯ indirectly causes ▯.
@@ -13901,9 +13903,10 @@ chuonuo @Ilmen 2020-02-26 #rMyWgA7Qd $en ±
 chuopoı @uakci 2020-05-16 #8mPfkKqx8 $en ±
 ▯ is done in order to achieve ▯.
 
-chuoq [(c c) (d d) tá I] @robintown 2023-02-10 #YNwlMl4Hp $en +1
+chuoq [(c c) (d d) tá I] @robintown 2023-02-10 #YNwlMl4Hp $en +2
 ▯ hits / collides with ▯.
   robintown (2023-02-10): From Middle Chinese '衝'
+  Dembim (2026-06-04): kw: impacts
 
 chuoqboaq @Laqme 2024-11-20 #7duP5k7b0 $en ±
 ▯ is a bruise.
@@ -15266,6 +15269,7 @@ predicate: ‘beautiful’; ▯ is beautiful for the contextual evaluator (*jîe
 
 dea [(c c) (d d) hó A] @official 2026-02-16 #vkjdrKUiWVR $en ±
 predicate: ‘hit’; ▯ hits/punches/kicks ▯.
+  Dembim (2026-06-04): kw: strikes
 
 dea @jiqci 2023-07-31 #D2Y95Np3ao $pl ±
 ▯ uderza ▯.
@@ -17168,7 +17172,7 @@ dojo @Ilmen 2020-05-24 #z9X18sK1- $en ±
 dojuq @uakci 2023-01-17 #-wAIW9P5j $en ±
 ▯ receives from ▯ possession of ▯.
 
-doka [(c c) (d d) tá I] @Machy 2022-02-15 #rbKrgMi4g $en +2
+doka [(c c) (d d) tá I] @Machy 2022-02-15 #rbKrgMi4g $en +1
 ▯ hits/impacts ▯.
 
 dokata @Laqme 2023-08-15 #lH8XARM55 $en ±
@@ -17186,7 +17190,7 @@ unit: dollar
 dola @Ilmen 2020-03-03 #SJDzjU0sT $en ± %currency
 ▯ is one dollar; ▯ is one dollar × the cardinality of anything satisfying property ▯.
 
-dolam [(c) (d) hó I] @Laqme 2025-10-31 #VMvgQ0-cQ $en ±
+dolam [(c) (d) hó I] @Laqme 2025-10-31 #VMvgQ0-cQ $en +1
 ▯ is generous/altruistic (personality trait).
 
 dole @Ilmen 2024-11-18 #7H5Pf_XmD $en ±
@@ -25576,7 +25580,6 @@ gompıq @Laqme 2025-10-12 #aoabb3mKJ $en +1
 
 gomsaı [(c) (d) máq I] @Dembim 2026-03-28 #Ck4lJfkPb $en ±
 ▯ is the intangible <zuosaı> of a <gomjom>, used to cause clumsiness and mistakes
-  Dembim (2026-03-28): Perhaps an object coated with it is easily dropped ("slippery") and ingesting it makes one prone to mistake-causing behaviors (like a sort of targeted intoxicant). I imagine this to be merely one among the many means at such a spirit's disposal.
 
 gomse @Laqme 2024-07-13 #E_yMsZUo3 $en ±
 ▯ is a mistake / error.
@@ -27431,7 +27434,7 @@ gurugu @robintown 2022-08-07 #zp1mIT9VU $en ±
 guruo @uakci 2020-04-02 #0Qd7YUTop $en ±
 On the one hand, ▯ satisfies property ▯, which is morally right — on the other hand, they satisfy property ▯, which is morally wrong.
 
-guruq [(c) (d) hó I] @jiqci 2023-09-09 #HFvNvf9io $en +2
+guruq [(c) (d) hó I] @jiqci 2023-09-09 #HFvNvf9io $en +3
 ▯ is a frog/toad (order Anura).
   jiqci (2023-09-09): i do NOT like **huoıcıa**. also cf. **gurugu**
 
@@ -35151,6 +35154,7 @@ Property ▯ is the only property associated with the satisfying of property ▯
 
 jeoq [(c) (d) máq I] @official 2026-02-16 #gCFyB1QCdc2 $en ± %geometry
 predicate: ‘concave’; ▯ is a concave shape; ▯ is a cavity/hollow/cavern.
+  Dembim (2026-06-04): kw: dimple, dent, notch, socket, bowl, crater, divot, pit, hole, ditch, basin, depression, recess
 
 jeoq @el 2022-02-28 #xOwCf-MFI $en ± %geometry
 (fork of official) predicate: ‘concave’; ▯ is a concave shape; ▯ is a cavity/hollow/cavern in ▯
@@ -37426,6 +37430,7 @@ joeı [(c 0) (d d) hó A] @Laqme 2025-04-09 #cArsX0oTp $en +1
 ▯ shows / demonstrates / reveals that ▯ is the case.
   evie (2026-04-08): is this intended to be agentive?
   Laqme (2026-04-08): yes (subject is a person)
+  Dembim (2026-06-04): <ıjo> hyponym— the subject presents/ makes apparent an event of the object proposition, e.g. perhaps <joeı bo jı́ áq ké echı jıbo> by holding them up in my hand. (cf. <neaı>)
 
 joeıse @Laqme 2025-04-09 #lTOtsYtfz $en +1
 ▯ is a demonstration.
@@ -55475,7 +55480,7 @@ muımıu @uakci 2019-02-28 #K0sEaoWTv $en ±
 muımu @Laqme 2022-10-26 #tmONeShKr $en ±
 ▯ has meaning ▯.
 
-muına [particle] @Laqme 2024-06-24 #Qxw1gA8s7 $en ±
+muına [particle] @Laqme 2024-06-24 #Qxw1gA8s7 $en +1
 interjection: 'to be clear', 'what I mean is...'
 
 muınıe @uakci 2020-05-19 #oo4P6HeQe $en ±
@@ -55898,6 +55903,10 @@ muoshaı @Ilmen 2019-12-31 #9ABCnQwNj $en ± %aspect
 
 muotaı @uakci 2022-02-10 #43F5ktSsA $en ±
 ▯ manages to impart onto the whole/full ▯ relation ▯; ▯ finishes ▯ (probably an exhaustable resource, such as food) in performing relation ▯ at it.
+
+muotı [(c c) (d d) tá S] @Dembim 2026-06-04 #lXBZIrjaB $en ±
+predicate: ▯ is at/in/over the whole volume of ▯
+  Dembim (2026-06-04): etym: analogy with <muorao>
 
 muotua [(c 0) (d d) hó A] @official 2026-02-16 #KH4oATlfH-I $en ± %action
 predicate: ‘mend’; ▯ mends ▯; ▯ makes ▯ whole; ▯ completes ▯.
@@ -56727,6 +56736,7 @@ nanı [particle] @Hoemai 2023-08-02 #WQDyI_Lzt $en +1
 determiner: ‘that’; demonstrative; that X
   Hoemai (2023-08-02): synonym of #7tg2NkMmm and follows the same idea, I just prefer this form
   Laqme (2023-09-04): I assume this should be **nánı**
+  Dembim (2026-06-04): Presumably, the above-linked entry was <níjao>?
 
 nánı [particle] @robintown 2024-08-21 #9WxZGE8ys $en +2 %deixis,demonstrative
 determiner: ‘that’; distal demonstrative
@@ -64215,7 +64225,7 @@ The day ▯ days ago.
   Machy (2022-01-26): péachaq shỉ = yesterday
   Machy (2022-01-26): péachaq gu = anteyesterday
 
-peaı [(c c) (d d) hó I] @jiqci 2023-11-08 #JRJNN-8GE $en +3
+peaı [(c c) (d d) hó I] @jiqci 2023-11-08 #JRJNN-8GE $en +4
 ▯ tears / rips / rends ▯.
 
 peaıse @Laqme 2023-11-08 #FV3tO-a1y $en +1
@@ -73584,7 +73594,7 @@ polarity: "OTHR": something other than X
   seaqtaq (2024-07-16): "Seqbu jaı jí" == "I feel not exactly happy"
   seaqtaq (2024-07-17): Seqbu X ló Y ≈ Iq ló Y sá seq, lä X já
 
-seqju [(c) (d) hó I] @Laqme 2023-01-26 #OTqBp6d-d $en +1
+seqju [(c) (d) hó I] @Laqme 2023-01-26 #OTqBp6d-d $en +2
 ▯ is a snail.
 
 seqtaku @seaqtaq 2021-09-05 #_zPdy-G46 $en ±
@@ -74363,6 +74373,9 @@ sıela @seaqtaq 2024-11-06 #FjzntCFH- $en ±
 
 sıelu @Ilmen 2019-05-24 #o4FA2JNEu $en ±
 ▯ is the following / subsequently mentioned proposition.
+
+sıelua @Dembim 2026-06-04 #meDQApSNR $en ±
+predicate: 'sequel'; ▯ is a sequel (book, movie, comic, etc.)
 
 síem [particle] @Ilmen 2025-12-04 #CEz66Khrj $en -1
 sequence coordinator: ⟪X síem Y⟫ = the sequence ⟨X, Y⟩.
@@ -79933,6 +79946,9 @@ sa dó fǎq ru jeı lêo tao dóshı dógu bı, shao dóshı câ dó dósaq da
 shıulıam @seaqtaq 2024-11-25 #iG0gVIgKA $en ±
 ▯ is a harbinger/herald/omen/foretoken
 
+shıulua @Dembim 2026-06-04 #f1QIdeG4q $en ±
+predicate: 'prequel'; ▯ is a prequel (book, movie, comic, etc.)
+
 shıume [(c) (d) hóq I] @official 2026-02-16 #Vj7r7Jrzn8d $en ± %time
 predicate: ‘past’; ▯ is a/the past.
 
@@ -82812,7 +82828,7 @@ pre-nounform particle: for each single thing among X
   uakci (2024-01-02): ≈ **tú mea (NP)** so long as the NP’s quantifier is moved outside of the **mea** phrase
   uakci (2024-01-02): keyword: distributive marker
 
-teme [(c) (d) hóq I] @lassc 2025-04-02 #PQ33IgIv5 $en +2
+teme [(c) (d) hóq I] @lassc 2025-04-02 #PQ33IgIv5 $en +3
 ▯ is an interview/questionnaire/poll/quiz/test/evaluation/set of exercises/homework.
   lassc (2025-04-02): clarification: "▯ is a structured activity revolving around a set of questions that need to be answered"
   lassc (2025-04-02): etymology: started as a colloquial blend of **teoq** + **me**, but increasingly adopted in use to become no longer colloquial
@@ -85763,7 +85779,7 @@ toqpeqtıaı @Laqme 2021-08-05 #0vKvkG3fP $en ±
 toqpuo @uakci 2023-11-11 #f9Kdy27-O $en ±
 ▯ is dust (the kind you vacuum up).
 
-toqsa @Hoemai 2022-08-04 #juvybs9XA $en +1
+toqsa @Hoemai 2022-08-04 #juvybs9XA $en +2
 ▯ is being patient.
   Hoemai (2022-08-04): displaying patience
   Hoemai (2022-08-04): a priori
