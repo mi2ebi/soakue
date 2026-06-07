@@ -13807,7 +13807,7 @@ chuodoebu @Ilmen 2020-02-26 #RcbdOu-tb $en ±
 chuodoedoa @xorxes 2020-06-06 #Pn8nR5q8X $en ±
 ▯ turns/switches on ▯.
 
-chuogıu [(c) (d) hóq I] @salarua 2026-05-31 #MkuZuNXya $en ±
+chuogıu [(c) (d) máq I] @salarua 2026-05-31 #MkuZuNXya $en ±
 ▯ is a toolbar (line of icons in a computer application)
 
 chuoı [(c) (d) máq I] @Ilmen 2019-04-13 #DfKRmS5KY $en +1 %artifact
@@ -17802,7 +17802,7 @@ duasıa @uakci 2020-04-02 #SDpb2q-fF $en ±
 duasoı @eednb 2023-11-20 #hah4FFJ2b $en ±
 ▯ has a dispute over whether ▯ is the case.
 
-duasuao [(c) (d) hóq P] @uakci 2020-03-05 #8EyCFIvSp $en ±
+duasuao [(0) (d) hóq P] @uakci 2020-03-05 #8EyCFIvSp $en ±
 ▯ is important/relevant/remarkable; It is important to know ▯.
 
 duasue [(c c 0) (d d d) hó A] @official 2026-02-16 #s7n2Fzh94Gh $en ±
@@ -19236,7 +19236,7 @@ eu @Ilmen 2019-07-21 #aeLl3Hbg8 $en -1
 eu @Ilmen 2019-07-21 #tsAUe2c5I $en -1
 ▯is a property satisfied by a predicate which is true of the argument structure ⟨▯, (▯, (▯, …)))⟩; the first argument is the property of a predicate that is true of the argument structure made from to the remaining arguments.
 
-eujıam @TheAndSys 2026-05-28 #RES-oqUkC $en ±
+eujıam [(c c) (d d) hó A] @TheAndSys 2026-05-28 #RES-oqUkC $en ±
 ▯ euthanizes ▯
 
 eum [hóq] @uakci 2026-02-14 #jRWcQQxfF $en ±
@@ -21474,7 +21474,7 @@ predicate: ‘furniture’; ▯ is an item of furniture.
 fua @jiqci 2023-07-31 #ViM4NX8eKD $pl ±
 ▯ to mebel.
 
-fuafuq @uakci 2022-06-20 #F6Waj_P5W $en ±
+fuafuq @uakci 2022-06-20 #F6Waj_P5W $en +1
 ▯ is any material that is laid on / strung across a piece of furniture; ▯ is a mattress cover / bedsheet / couch cover / upholstering / desk mat / etc.
 
 fuaı [(c) (d) hóq I] @official 2026-02-16 #mGWN2Hoy1h1 $en ±
@@ -24263,7 +24263,7 @@ gılafuq @Ilmen 2025-10-02 #kYJIUsfFl $en ±
 gılatao @Ilmen 2025-11-04 #9O2EBq8At $en ±
 ▯ does their duty of having property ▯.
 
-gıle @uakci 2018-10-29 #Cczdkj3vL $en +1
+gıle [(c) (d) hóq I] @uakci 2018-10-29 #Cczdkj3vL $en +1
 (fork of #1bop7NTap) There’s an opportunity for ▯ to happen; ▯ has the opportunity to do ▯ [JEO].
   Ilmen (2018-10-29): +1
 
@@ -25910,7 +25910,7 @@ guaıjea [(c c) (d d) hó A] @Dembim 2026-03-22 #KIGsyEHGH $en ±
 predicate: 'hire'; ▯ hires ▯.
   Dembim (2026-03-22): discriminator: 2
 
-guaıjeate @Ilmen 2026-05-17 #qMtohMiOo $en ±
+guaıjeate [(c) (d) hó I] @Ilmen 2026-05-17 #qMtohMiOo $en ±
 ▯ is an employee.
 
 guaıjıoqkea [(c) (d) máq I] @fagri 2021-08-11 #eQ4oXraNe $en ±
@@ -29123,7 +29123,7 @@ heqchuo @jiqci 2023-07-31 #_ByNzNN1ml $pl ± %artifact,container
 heqchuo @Ilmen 2019-02-21 #DPgZQFgYc $en -1 %artifact,container
 (fork of official) predicate: ‘container’; ▯ is a container; ▯ is a contained designed to contain anything satisfying property ▯.
 
-heqdaı @TheAndSys 2026-05-28 #LsS86vqNv $en ±
+heqdaı [(c c) (d d) tá F] @TheAndSys 2026-05-28 #LsS86vqNv $en ±
 ▯ is an alternative to ▯.
 
 heqfa [(c) (d) hó I] @fagri 2018-10-14 #aWp_fO07M $en +1
@@ -39621,7 +39621,7 @@ predicate: ‘writing.implement’; ▯ is a writing implement.
 kaıchuo @jiqci 2023-07-31 #NqY3_JT7IW $pl ±
 ▯ to narzędzie pisarskie.
 
-kaıdao @lassc 2026-05-29 #-qqPeLiGw $en ±
+kaıdao [(c) (d) máq I] @lassc 2026-05-29 #-qqPeLiGw $en ±
 ▯ is "plain-text".
   lassc (2026-05-29): i.e. not in a binary format
 
@@ -39742,7 +39742,7 @@ kaına @fagri 2023-06-13 #zkoz0eaEK $en ±
 kaınao @Laqme 2019-01-26 #YPiVG8pqJ $en -1
 ▯ is ink.
 
-kaıno @lassc 2026-05-29 #uxT2bU6iL $en ±
+kaıno [(c) (d) hóq I] @lassc 2026-05-29 #uxT2bU6iL $en ±
 ▯ is a plain-text file format.
 
 kaınua @zearen 2024-09-18 #TPdOQTXVS $en ±
@@ -40255,7 +40255,7 @@ kaomojı @evie 2025-06-11 #ZcDs2mS4P $en ±
 kaomuao @uakci 2023-02-14 #RAueC-73r $en ±
 ▯ is a tree (data structure).
 
-kaono @lassc 2026-05-29 #4Mca5mXCM $en ±
+kaono [(c) (d) hóq I] @lassc 2026-05-29 #4Mca5mXCM $en ±
 ▯ is a file format.
 
 kaonu @jiqci 2023-08-04 #fNT0gMwGG $en ±
@@ -42409,7 +42409,7 @@ kıkıre @fagri 2021-09-28 #0pFiZFLca $en +1
 ▯ are several in number
   fagri (2021-09-28): etymology: a priori
 
-kıkoe @Laqme 2024-04-26 #TtshgZhAH $en ±
+kıkoe @Laqme 2024-04-26 #TtshgZhAH $en +1
 ▯ (agent) clicks/taps/selects ▯.
 
 kıkue [(c) (d) hóq I] @official 2026-02-16 #7sf64AlYU8L $en ±
@@ -55265,7 +55265,7 @@ muı @el 2022-07-10 #WsEUPF2RO $tok ±
 muı @jiqci 2023-07-31 #9z2KhJeBVu $pl ±
 ▯ to znaczenie ▯.
 
-muı @evie 2026-06-01 #d2F-HI6OM $en ±
+muı [(c 0) (d d) tá I] @evie 2026-06-01 #d2F-HI6OM $en ±
 ▯ means ▯
   evie (2026-06-01): = place-swapped <@official =muı> = **semıo**
 
@@ -55889,6 +55889,7 @@ muoqtuao @Ilmen 2019-01-07 #LQ_EtnIeU $en -1
 
 muorao [(c c) (d d) hóq E] @Machy 2021-10-08 #-BU3Wy-rO $en +2
 ▯ occurs during the whole duration of ▯
+  Dembim (2026-06-05): see also <raoheq>
 
 muoseu @Ilmen 2019-03-18 #PXV7J7UO1 $en ± %mathematics,number
 ▯ is an integer/natural number.
@@ -55907,6 +55908,8 @@ muotaı @uakci 2022-02-10 #43F5ktSsA $en ±
 muotı [(c c) (d d) tá S] @Dembim 2026-06-04 #lXBZIrjaB $en ±
 predicate: ▯ is at/in/over the whole volume of ▯
   Dembim (2026-06-04): etym: analogy with <muorao>
+  Dembim (2026-06-05): This might more appropriately be "▯ is entirely at ▯", i.e. no part is not so.
+  Dembim (2026-06-05): Perhaps the same of <muorao>
 
 muotua [(c 0) (d d) hó A] @official 2026-02-16 #KH4oATlfH-I $en ± %action
 predicate: ‘mend’; ▯ mends ▯; ▯ makes ▯ whole; ▯ completes ▯.
@@ -62680,7 +62683,7 @@ nhuocefa @Laqme 2024-10-25 #BObQemfI0 $en ±
 nhuocıoq @uakci 2022-05-11 #QoJUHN6li $en ±
 ▯ is a tab/pane.
 
-nhuocıoqgıu [(c) (d) hóq I] @salarua 2026-05-31 #jIZ_CEDbE $en ±
+nhuocıoqgıu [(c) (d) máq I] @salarua 2026-05-31 #jIZ_CEDbE $en ±
 ▯ is a tab bar
 
 nhuogı @uakci 2021-11-07 #ywmrPSY6f $en ±
@@ -66365,7 +66368,7 @@ poꝡe @evie 2024-08-16 #IR4XTDTRr $en ±
 pozola @robintown 2022-02-19 #Gvk4eppiV $en ±
 ▯ is podzol.
 
-⚠ predıcate @Laqme 2022-10-23 #eRB2wK4sc $en +2
+⚠ predıcate [(c) (d) hóq I] @Laqme 2022-10-23 #eRB2wK4sc $en +2
 ▯ is a dirty SEO hack, and the Toaq word for "predicate" is **saja** or **jabı**.
   Laqme (2022-10-23): The word for "predicate _word_" aka "atomic verb" is **jeotoa**.
   Dembim (2026-02-03): The word for "predicate _word_" aka "atomic verb" is also (and as most seem to prefer) <faqtoa>.
@@ -73329,7 +73332,7 @@ Mu muı [ja] [ja].
   fagri (2022-12-28): -1, no longer necessary in light of the bo- prefix. «Jeq bọmuı hú hú»
   fagri (2022-12-28): Actually, removing my -1, I still think this is the order the arguments should be in
 
-semıo @mimiaoganhaqpy 2022-10-16 #Qxa1e50P_ $en +1
+semıo [(c 0) (d d) tá I] @mimiaoganhaqpy 2022-10-16 #Qxa1e50P_ $en +1
 ▯ means ▯.
   mimiaoganhaqpy (2022-10-16): Translated from #UIYX4Jsvk
   mimiaoganhaqpy (2022-10-16): No etymology, according to @fagri
@@ -85779,7 +85782,7 @@ toqpeqtıaı @Laqme 2021-08-05 #0vKvkG3fP $en ±
 toqpuo @uakci 2023-11-11 #f9Kdy27-O $en ±
 ▯ is dust (the kind you vacuum up).
 
-toqsa @Hoemai 2022-08-04 #juvybs9XA $en +2
+toqsa [(c) (d) hó I] @Hoemai 2022-08-04 #juvybs9XA $en +2
 ▯ is being patient.
   Hoemai (2022-08-04): displaying patience
   Hoemai (2022-08-04): a priori

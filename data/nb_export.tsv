@@ -984,7 +984,7 @@ predicate dawn ▯ is dawn _BIAS _RAKU_rıao _2_RAKU_chuırıao _ARITY_1	hóq	I	
 ▯ is sexy sexually attractive _BIAS _RAKU_de _2_RAKU_nıde _ARITY_1	tá	F	1
 ▯ is perverted a pervert _BIAS _RAKU_huı _2_RAKU_nıhuı _ARITY_1	tá	F	1
 predicate tool ▯ is a tool utensil resource instrument for satisfying property ▯ _BIAS _RAKU_chuo _ARITY_2	máq	I	2
-▯ is a toolbar line of icons in a computer application _BIAS _RAKU_gıu _2_RAKU_chuogıu _ARITY_1	hóq	I	1
+▯ is a toolbar line of icons in a computer application _BIAS _RAKU_gıu _2_RAKU_chuogıu _ARITY_1	máq	I	1
 ▯ is a thread rope cord string _BIAS _RAKU_chuoı _ARITY_1	máq	I	1
 ▯ is string theory _BIAS _RAKU_dıu _2_RAKU_chuoıdıu _ARITY_1	hóq	I	1
 ▯ is asbestos _BIAS _RAKU_pıo _2_RAKU_chuoıpıo _ARITY_1	máq	I	1
@@ -1306,6 +1306,7 @@ predicate exa ▯ are 10 sup 18 sup 1 000 000 000 000 000 000 in number ▯ are 
 ▯ pertains to the culture of estonia republic of estonia _BIAS _RAKU_tı _2_RAKU_setı _ARITY_1 _CAPS	tá	F	1
 ▯ is the country estonia republic of estonia _BIAS _RAKU_gua _2_RAKU_tıgua _ARITY_1 _CAPS	máq	I	1
 ▯ is a pike fish _BIAS _RAKU_so _2_RAKU_eso _ARITY_1	hó	I	1
+▯ euthanizes ▯ _BIAS _RAKU_jıam _2_RAKU_eujıam _ARITY_2	hó	A	2
 ▯ is the european union eu _BIAS _RAKU_eum _ARITY_1 _CAPS	máq	I	1
 ▯ is the basque country _BIAS _RAKU_gua _2_RAKU_kagua _ARITY_1 _CAPS	máq	I	1
 ▯ is the basque algonquian pidgin _BIAS _RAKU_zu _2_RAKU_kızu _ARITY_1 _CAPS	hóq	F	1
@@ -1602,6 +1603,7 @@ predicate shoulder ▯ is a shoulder _BIAS _RAKU_shıo _2_RAKU_gıeshıo _ARITY_
 predicate giga ▯ are 10 sup 9 sup 1 000 000 000 in number ▯ are a billion _BIAS _RAKU_ga _2_RAKU_gıga _ARITY_1	tá	F	1
 in any case anyhow ▯ is the case _BIAS _RAKU_huı _2_RAKU_gıhuı _ARITY_1	hóq	P	1
 ▯ is in charge of satisfying the property ▯ _BIAS _RAKU_la _2_RAKU_gıla _ARITY_2	hó	I	2
+fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportunity to do ▯ jeo _BIAS _RAKU_le _2_RAKU_gıle _ARITY_2	hóq	I	2
 ▯ approves of ▯ _BIAS _RAKU_gım _ARITY_2	hó	I	2
 predicate fortunate ▯ is fortunate for ▯ _BIAS _RAKU_neq _2_RAKU_gıneq _ARITY_2	tá	E	2
 ▯ pertains to the culture of guinea republic of guinea _BIAS _RAKU_nı _2_RAKU_gını _ARITY_1 _CAPS	tá	F	1
@@ -1690,6 +1692,7 @@ predicate work ▯ works in satisfying property ▯ _BIAS _RAKU_guaı _ARITY_2	h
 ▯ is burnt out _BIAS _RAKU_bıa _2_RAKU_duıbıa _ARITY_1	hó	I	1
 ▯ hires ▯ to do ▯ _BIAS _RAKU_jea _2_RAKU_guaıjea _ARITY_3	hó	A	3
 predicate hire ▯ hires ▯ _BIAS _RAKU_jea _2_RAKU_guaıjea _ARITY_2	hó	A	2
+▯ is an employee _BIAS _RAKU_te _2_RAKU_jeate _ARITY_1	hó	I	1
 ▯ is a work computer a computer you do your work on _BIAS _RAKU_kea _2_RAKU_jıoqkea _ARITY_1	máq	I	1
 predicate workplace ▯ is a workplace office _BIAS _RAKU_rıaq _2_RAKU_guaırıaq _ARITY_1	máq	I	1
 ▯ puts off procrastinates avoids working at satisfying ▯ _BIAS _RAKU_rıeq _2_RAKU_guaırıeq _ARITY_2	hó	I	2
@@ -1879,6 +1882,7 @@ predicate belt ▯ is a belt _BIAS _RAKU_gıa _2_RAKU_heoqgıa _ARITY_1	máq	I	1
 predicate contain ▯ contains ▯ _BIAS _RAKU_heq _ARITY_2	tá	I	2
 ▯ are intertwined mixed together _BIAS _RAKU_cheo _2_RAKU_heqcheo _ARITY_1	máq	I	1
 predicate container ▯ is a container _BIAS _RAKU_chuo _2_RAKU_heqchuo _ARITY_1	máq	I	1
+▯ is an alternative to ▯ _BIAS _RAKU_daı _2_RAKU_heqdaı _ARITY_2	tá	F	2
 ▯ is an elf _BIAS _RAKU_fa _2_RAKU_heqfa _ARITY_1	hó	I	1
 predicate container ▯ is a container _BIAS _RAKU_go _2_RAKU_heqgo _ARITY_1	máq	I	1
 file ▯ contains data ▯ whole content _BIAS _RAKU_kao _2_RAKU_heqkao _ARITY_2	hóq	I	2
@@ -2482,6 +2486,7 @@ predicate write ▯ writes ▯ on ▯ _BIAS _RAKU_kaı _ARITY_3	hó	A	3
 ▯ is a writing system encoding ▯ _BIAS _RAKU_cha _2_RAKU_kaıcha _ARITY_2	hóq	I	2
 ▯ is a scribe _BIAS _RAKU_che _2_RAKU_kaıche _ARITY_1	hó	I	1
 predicate writing implement ▯ is a writing implement _BIAS _RAKU_chuo _2_RAKU_kaıchuo _ARITY_1	máq	I	1
+▯ is plain text _BIAS _RAKU_dao _2_RAKU_kaıdao _ARITY_1	máq	I	1
 ▯ is graphology the study of written and printed symbols _BIAS _RAKU_dıu _2_RAKU_kaıdıu _ARITY_1	hóq	I	1
 ▯ posts to channel group board ▯ message ▯ _BIAS _RAKU_do _2_RAKU_kaıdo _ARITY_3	hó	A	3
 ▯ writes ▯ ▯ is a writer _BIAS _RAKU_fıeq _2_RAKU_kaıfıeq _ARITY_2	hó	A	2
@@ -2491,6 +2496,7 @@ predicate desk ▯ is a desk _BIAS _RAKU_fua _2_RAKU_kaıfua _ARITY_1	máq	I	1
 predicate typewriter ▯ is a typewriter _BIAS _RAKU_kea _2_RAKU_kaıkea _ARITY_1	máq	I	1
 ▯ is a keyboard typewriter text entry machine of some sort _BIAS _RAKU_kea _2_RAKU_kaıkea _ARITY_1	máq	I	1
 ▯ is a key on a keyboard _BIAS _RAKU_toaı _2_RAKU_keatoaı _ARITY_1	máq	I	1
+▯ is a plain text file format _BIAS _RAKU_no _2_RAKU_kaıno _ARITY_1	hóq	I	1
 ▯ is graphite _BIAS _RAKU_pıo _2_RAKU_kaıpıo _ARITY_1	máq	I	1
 predicate text ▯ is text writing _BIAS _RAKU_se _2_RAKU_kaıse _ARITY_1	hóq	I	1
 predicate marking ▯ is a marking _BIAS _RAKU_se _2_RAKU_kaıse _ARITY_1	máq	I	1
@@ -2524,6 +2530,7 @@ predicate archivist ▯ is an archivist _BIAS _RAKU_che _2_RAKU_jache _ARITY_1	h
 ▯ is limestone _BIAS _RAKU_pıo _2_RAKU_kıpıo _ARITY_1	máq	I	1
 ▯ is a file _BIAS _RAKU_laı _2_RAKU_kaolaı _ARITY_1	hóq	I	1
 ▯ is a link hyperlink _BIAS _RAKU_lıq _2_RAKU_kaolıq _ARITY_1	máq	I	1
+▯ is a file format _BIAS _RAKU_no _2_RAKU_kaono _ARITY_1	hóq	I	1
 ▯ has official sex ▯ e g in official records _BIAS _RAKU_chı _2_RAKU_'uchı _ARITY_2	hó	I	2
 ▯ is ransomware _BIAS _RAKU_rom _2_RAKU_toırom _ARITY_1	hóq	I	1
 ▯ is an optical hard drive _BIAS _RAKU_sıoq _2_RAKU_kaosıoq _ARITY_1	máq	I	1
@@ -3529,6 +3536,7 @@ predicate kill ▯ kills ▯ _BIAS _RAKU_tua _2_RAKU_muaqtua _ARITY_2	hó	A	2
 ▯ is a lodestone _BIAS _RAKU_pıo _2_RAKU_mueıpıo _ARITY_1	máq	I	1
 ▯ is a computer _BIAS _RAKU_kea _2_RAKU_mueqkea _ARITY_1	máq	I	1
 predicate meaning ▯ is a meaning of ▯ _BIAS _RAKU_muı _ARITY_2	hóq	F	2
+▯ means ▯ _BIAS _RAKU_muı _ARITY_2	tá	I	2
 ▯ is meaningful ▯ has meaning ▯ predicate _BIAS _RAKU_bo _2_RAKU_muıbo _ARITY_2	tá	F	2
 ▯ is a definition of ▯ _BIAS _RAKU_dao _2_RAKU_muıdao _ARITY_2	hóq	I	2
 ▯ is the field of semantics _BIAS _RAKU_dıu _2_RAKU_muıdıu _ARITY_1	hóq	I	1
@@ -4000,7 +4008,7 @@ physical entity ▯ is a stimulus source of quale ▯ _BIAS _RAKU_ge _2_RAKU_nhu
 ▯ is a grammatical indirect object ▯ is io _BIAS _RAKU_nhum _ARITY_1	tá	F	1
 ▯ is an array battery of ▯ series of objects in a specific spatial arrangement _BIAS _RAKU_nhuo _ARITY_2	máq	I	2
 ▯ is a blankie _BIAS _RAKU_bı _2_RAKU_nhuobı _ARITY_1	máq	I	1
-▯ is a tab bar _BIAS _RAKU_gıu _2_RAKU_cıoqgıu _ARITY_1	hóq	I	1
+▯ is a tab bar _BIAS _RAKU_gıu _2_RAKU_cıoqgıu _ARITY_1	máq	I	1
 ▯ is a crystal _BIAS _RAKU_pıo _2_RAKU_nhuopıo _ARITY_1	máq	I	1
 ▯ is a column vertical arrangement in a grid _BIAS _RAKU_sheaq _2_RAKU_nhuosheaq _ARITY_1	máq	I	1
 ▯ is an array language like apl uiua j _BIAS _RAKU_zu _2_RAKU_nhuozu _ARITY_1	hóq	I	1
@@ -4235,6 +4243,7 @@ predicate group of people ▯ is a group of people _BIAS _RAKU_me _2_RAKU_poqme 
 ▯ is socially awkward bad with people _BIAS _RAKU_nıeq _2_RAKU_poqnıeq _ARITY_1	hó	A	1
 ▯ is a meddling frustrating annoying individual one must interact with _BIAS _RAKU_roq _2_RAKU_poroq _ARITY_1	hó	A	1
 ▯ is related to its his her ▯ by the relation ▯ _BIAS _RAKU_taq _2_RAKU_potaq _ARITY_3	tá	F	3
+▯ is a dirty seo hack and the toaq word for predicate is saja or jabı _BIAS _ARITY_1	hóq	I	1
 predicate enjoy ▯ enjoys satisfying property ▯ _BIAS _RAKU_pua _ARITY_2	hó	I	2
 ▯ is anhedonic fundamentally apathetic unmotivated uninterested _BIAS _RAKU_cıa _2_RAKU_puacıa _ARITY_1	hó	I	1
 ▯ does ▯ as a hobby _BIAS _RAKU_che _2_RAKU_puache _ARITY_2	hó	I	2
@@ -4663,6 +4672,7 @@ predicate shark ▯ is a shark superorder selachimorpha selachii _BIAS _RAKU_laq
 ▯ leaves lets ▯ be the case _BIAS _RAKU_sem _ARITY_2	hó	A	2
 ▯ is are an intensional plural entity int pl e _BIAS _RAKU_sem _ARITY_1	tá	F	1
 ▯ is toaq semantics _BIAS _RAKU_dıu _2_RAKU_semdıu _ARITY_1	hóq	I	1
+▯ means ▯ _BIAS _RAKU_sem _ARITY_2	tá	I	2
 ▯ pertains to the culture of senegal republic of senegal _BIAS _RAKU_la _2_RAKU_gala _ARITY_1 _CAPS	tá	F	1
 ▯ is the country senegal republic of senegal _BIAS _RAKU_gua _2_RAKU_lagua _ARITY_1 _CAPS	máq	I	1
 predicate spouse ▯ is a spouse of ▯ _BIAS _RAKU_seo _ARITY_2	hó	I	2
@@ -5497,6 +5507,7 @@ predicate table ▯ is a table _BIAS _RAKU_fua _2_RAKU_toqfua _ARITY_1	máq	I	1
 ▯ is a tablet computer _BIAS _RAKU_kea _2_RAKU_toqkea _ARITY_1	máq	I	1
 ▯ is a crapton crapload shitton shitload buttload a lot loads metric ton of something _BIAS _RAKU_na _2_RAKU_toqna _ARITY_1	tá	I	1
 ▯ is cardboard _BIAS _RAKU_peq _2_RAKU_toqpeq _ARITY_1	máq	I	1
+▯ is being patient _BIAS _RAKU_sa _2_RAKU_toqsa _ARITY_1	hó	I	1
 ▯ is genderqueer transgender nonbinary _BIAS _RAKU_sı _2_RAKU_toqsı _ARITY_1	hó	I	1
 ▯ is transphobic _BIAS _RAKU_chı _2_RAKU_tachı _ARITY_1	tá	F	1
 predicate knife ▯ is a knife _BIAS _RAKU_rea _2_RAKU_torea _ARITY_1	máq	I	1
