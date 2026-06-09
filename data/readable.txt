@@ -17046,7 +17046,7 @@ doezu [(c) (d) hóq I] @Laqme 2021-08-05 #1rsPIosKc $en ±
 doezua [(c c) (d d) hó A] @uakci 2022-06-24 #VE9Dv2RLG $en +1
 ▯ turns off / switches off / disables ▯.
 
-dogı @Ilmen 2024-11-18 #USV_5jEZ8 $en ±
+dogı @Ilmen 2024-11-18 #USV_5jEZ8 $en +1
 ▯ is generous.
 
 dohe @uakci 2022-02-16 #S5xJI9l8R $en ±
@@ -17795,8 +17795,12 @@ duase @Laqme 2023-12-17 #ywKkEPqYj $en ±
 duasıa @uakci 2020-04-02 #SDpb2q-fF $en ±
 ▯ is unknown; It is unknown (not known by anybody) that ▯ is the case.
 
-duasoı @eednb 2023-11-20 #hah4FFJ2b $en ±
+duasoı [(c c 0) (d d d) hó I] @Dembim 2026-06-09 #apej2dgY3 $en ±
+predicate: ▯ and ▯ have a dispute over ▯ (indirect question).
+
+duasoı [(c 0) (d d) hó A] @eednb 2023-11-20 #hah4FFJ2b $en -1
 ▯ has a dispute over whether ▯ is the case.
+  Dembim (2026-06-08): plural subject
 
 duasuao [(0) (d) hóq P] @uakci 2020-03-05 #8EyCFIvSp $en ±
 ▯ is important/relevant/remarkable; It is important to know ▯.
@@ -23117,7 +23121,7 @@ gẹduı @Laqme 2024-10-03 #nAe5IKMHF $en ±
 gefeao [(c) (d) hó A] @robintown 2022-08-09 #tv3xQYOcF $en ±
 ▯ is overstimulated.
 
-gefuı [(c) tá] @Laqme 2025-05-26 #aMJK6Gyt4 $en +1
+gefuı [(c) (d) tá F] @Laqme 2025-05-26 #aMJK6Gyt4 $en +1
 ▯ is mild/gentle/inoffensive.
   Laqme (2025-05-26): Like "bland" but positive.
   evie (2025-05-26): cf **komu** (bland but negative), **zana**, **heqbeam**
@@ -29347,7 +29351,7 @@ hezo @el 2022-09-25 #5GI_rDl3a $en ±
 hezo @el 2022-09-25 #WcblfJ6j4 $toa -1
 Suku [ja aqnhy] [ja bunhy], ru bı ıq áqnhy ru búnhy [ja shıja]
 
-hı- [particle] @evie 2024-10-08 #iL9Au1Ve6 $en ±
+hı- [particle] @evie 2024-10-08 #iL9Au1Ve6 $en +1
 prefix: incorporate **hí raı** object
 
 hı @el 2022-07-10 #8hp3X4vxJ $tok ±
@@ -30160,6 +30164,9 @@ predicate: ‘proud’; ▯ is proud / feels pride.
 
 hıoq @jiqci 2023-07-31 #9oVuedbrEp $pl ± %emotion
 ▯ jest dumny.
+
+hıoqbıoı [(c) (d) hó I] @Dembim 2026-06-09 #1Ag2DJt85 $en ±
+predicate: 'prideful'; ▯ acts badly in an excess of pride
 
 hıoqdeaı @Machy 2020-07-05 #UA7aRJpca $en ±
 ▯ is worthy of ▯.
@@ -59513,7 +59520,7 @@ nıtı @uakci 2023-05-18 #xGBIaDFJ2 $en +1
   uakci (2023-05-18): (not as in “▯ is this location” – that’s **nıgoa** or **ní goa** or just **ní**)
   uakci (2023-05-18): or **ní rıaq**, etc.
 
-nıtıcuq [(c) (d) hó I] @Dembim 2026-05-31 #g0GNA6Tr3 $en ±
+nıtıcuq [(c) (d) tá I] @Dembim 2026-05-31 #g0GNA6Tr3 $en ±
 ▯ departs this place
 
 nıtırao @Ilmen 2022-10-24 #MBYqEZaCM $en ±
@@ -59526,6 +59533,9 @@ nıtırıu [(c) (d) tá I] @Dembim 2025-12-29 #gs2toMNzf $en ±
   Dembim (2026-01-28): Pronominal_class: ta
   Dembim (2026-02-12): Subject: individual
   Dembim (2026-02-12): Distribution: d
+
+nıtısha [(c) (d) tá I] @Dembim 2026-06-09 #dbwFG0Lhl $en ±
+▯ arrives at this place
 
 nıto @jiqci 2023-05-04 #ni4Hlip7e $en ±
 ▯ is nitrogen.
@@ -71060,7 +71070,7 @@ ruco @Machy 2021-10-10 #yzNK2qS7P $en ±
 ruchıa [(c) (d) tá F] @salarua 2022-10-27 #i3AUOnfFa $en ±
 ▯ is Confucian (being a Confucianist, or relating to Confucianists or Confucianism)
 
-rudo @Ilmen 2018-10-08 #mNIBa7BKQ $en ±
+rudo @Ilmen 2018-10-08 #mNIBa7BKQ $en +1
 ▯ is a bramble.
   Ilmen (2018-10-08): PIE "wr̥dʰo-" → Rubus.
 

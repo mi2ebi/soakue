@@ -1241,6 +1241,8 @@ predicate candy ▯ is a piece of candy _BIAS _RAKU_hea _2_RAKU_duaohea _ARITY_1
 ▯ is cotton candy _BIAS _RAKU_puao _2_RAKU_duaopuao _ARITY_1	máq	I	1
 predicate larva ▯ is a larva distinct juvenile form undergone before metamorphosis into adult form _BIAS _RAKU_duaq _ARITY_1	hó	I	1
 ▯ intuits ▯ _BIAS _RAKU_roa _2_RAKU_duaroa _ARITY_2	hó	I	2
+predicate ▯ and ▯ have a dispute over ▯ indirect question _BIAS _RAKU_soı _2_RAKU_duasoı _ARITY_3	hó	I	3
+▯ has a dispute over whether ▯ is the case _BIAS _RAKU_soı _2_RAKU_duasoı _ARITY_2	hó	A	2
 ▯ is important relevant remarkable it is important to know ▯ _BIAS _RAKU_suao _2_RAKU_duasuao _ARITY_1	hóq	P	1
 predicate ask ▯ asks ▯ fact ▯ _BIAS _RAKU_sue _2_RAKU_duasue _ARITY_3	hó	A	3
 ▯ is a you know what _BIAS _RAKU_suq _2_RAKU_duasuq _ARITY_1	tá	F	1
@@ -1553,6 +1555,7 @@ predicate dirty ▯ is dirty unclean contaminated _BIAS _RAKU_geaq _ARITY_1	tá	
 ▯ is vivid stark loud striking a strong stimulus _BIAS _RAKU_caı _2_RAKU_gecaı _ARITY_1	tá	F	1
 ▯ taps flicks ▯ _BIAS _RAKU_dea _2_RAKU_gedea _ARITY_2	hó	A	2
 ▯ is overstimulated _BIAS _RAKU_feao _2_RAKU_gefeao _ARITY_1	hó	A	1
+▯ is mild gentle inoffensive _BIAS _RAKU_fuı _2_RAKU_gefuı _ARITY_1	tá	F	1
 ▯ is overstimulated has sensory overload _BIAS _RAKU_ge _2_RAKU_gege _ARITY_1	hó	I	1
 predicate wear ▯ wears ▯ _BIAS _RAKU_geı _ARITY_2	tá	A	2
 ▯ changes clothes _BIAS _RAKU_beo _2_RAKU_geıbeo _ARITY_1	hó	A	1
@@ -1976,6 +1979,7 @@ predicate greet ▯ greets ▯ _BIAS _RAKU_hıo _ARITY_2	hó	A	2
 ▯ says ▯ as a greeting _BIAS _RAKU_kuq _2_RAKU_hıokuq _ARITY_2	hó	A	2
 ▯ say their goodbyes _BIAS _RAKU_poaq _2_RAKU_hıopoaq _ARITY_1	hó	A	1
 predicate proud ▯ is proud feels pride _BIAS _RAKU_hıoq _ARITY_1	hó	I	1
+predicate prideful ▯ acts badly in an excess of pride _BIAS _RAKU_bıoı _2_RAKU_hıoqbıoı _ARITY_1	hó	I	1
 ▯ person or behavior is arrogant prideful cocky _BIAS _RAKU_fıe _2_RAKU_hıoqfıe _ARITY_1	hó	I	1
 predicate yotta ▯ are 10 sup 24 sup 1 000 000 000 000 000 000 000 000 in number ▯ are a septillion _BIAS _RAKU_ta _2_RAKU_hıota _ARITY_1	tá	F	1
 ▯ is a hippie matching the general colloquial usage seen in english _BIAS _RAKU_pı _2_RAKU_hıpı _ARITY_1	hó	I	1
@@ -3852,8 +3856,9 @@ predicate miss ▯ misses ▯ ▯ hungers for ▯ to happen again _BIAS _RAKU_ku
 ▯ is part of the neofelis genus _BIAS _RAKU_to _2_RAKU_kato _ARITY_1	hó	I	1
 ▯ nitpicks _BIAS _RAKU_pıq _2_RAKU_nıqpıq _ARITY_1	hó	A	1
 ▯ is a repeater _BIAS _RAKU_kea _2_RAKU_zıakea _ARITY_1	máq	I	1
-▯ departs this place _BIAS _RAKU_cuq _2_RAKU_tıcuq _ARITY_1	hó	I	1
+▯ departs this place _BIAS _RAKU_cuq _2_RAKU_tıcuq _ARITY_1	tá	I	1
 ▯ returns to this place comes back _BIAS _RAKU_rıu _2_RAKU_tırıu _ARITY_1	tá	I	1
+▯ arrives at this place _BIAS _RAKU_sha _2_RAKU_tısha _ARITY_1	tá	I	1
 predicate plant ▯ is a plant organism _BIAS _RAKU_nıu _ARITY_1	máq	I	1
 ▯ is a flower pot _BIAS _RAKU_bıo _2_RAKU_nıubıo _ARITY_1	máq	I	1
 predicate leaf ▯ is a leaf of a plant _BIAS _RAKU_boe _2_RAKU_nıuboe _ARITY_1	máq	I	1
