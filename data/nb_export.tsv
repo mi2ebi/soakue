@@ -64,6 +64,7 @@ what is ▯ like what impressions vibes does ▯ give off _BIAS _RAKU_hıa _2_RA
 ▯ feels dissimilar from ▯ subjectively _BIAS _RAKU_jao _2_RAKU_aıjao _ARITY_2	tá	F	2
 ▯ feels the same as ▯ subjectively _BIAS _RAKU_jeq _2_RAKU_aıjeq _ARITY_2	tá	F	2
 ▯ feels similar to ▯ subjectively _BIAS _RAKU_juı _2_RAKU_aıjuı _ARITY_2	tá	F	2
+▯ is alcohol _BIAS _RAKU_ko _2_RAKU_aıko _ARITY_1	máq	I	1
 ▯ sort of does is ▯ the property that ▯ satisfies is similar to property ▯ _BIAS _RAKU_la _2_RAKU_aıla _ARITY_2	tá	F	2
 ▯ is a derani falling diphthong mark _BIAS _RAKU_laı _2_RAKU_aılaı _ARITY_1	máq	I	1
 ▯ is the aymara language _BIAS _RAKU_zu _2_RAKU_razu _ARITY_1 _CAPS	hóq	I	1
@@ -144,6 +145,7 @@ what if ▯ were the case _BIAS _RAKU_hıa _2_RAKU_aohıa _ARITY_1	hóq	P	1
 ▯ is fantastical outlandish other worldly bizarre _BIAS _RAKU_jua _2_RAKU_aojua _ARITY_1	tá	F	1
 ▯ is an island _BIAS _RAKU_aom _ARITY_1	máq	I	1
 predicate island ▯ is an island _BIAS _RAKU_aom _ARITY_1	máq	I	1
+▯ comes to ▯ _BIAS _RAKU_na _2_RAKU_aona _ARITY_2	tá	S	2
 ▯ depersonalizes has an out of body experience _BIAS _RAKU_pu _2_RAKU_aopu _ARITY_1	hó	I	1
 ▯ is a bamboo plant _BIAS _RAKU_ro _2_RAKU_aoro _ARITY_1	máq	I	1
 ▯ wishes ▯ were the case but it isn t _BIAS _RAKU_shao _2_RAKU_aoshao _ARITY_2	hó	I	2
@@ -220,6 +222,7 @@ predicate asia ▯ is asia _BIAS _RAKU_sıa _2_RAKU_asıa _ARITY_1 _CAPS	máq	I	
 ▯ is a predilex sememe id _BIAS _RAKU_ba _2_RAKU_baba _ARITY_1	hóq	I	1
 ▯ pertains to the culture of barbados _BIAS _RAKU_do _2_RAKU_bado _ARITY_1 _CAPS	tá	F	1
 ▯ is the country barbados _BIAS _RAKU_gua _2_RAKU_dogua _ARITY_1 _CAPS	máq	I	1
+▯ is a member of genus papio the baboons _BIAS _RAKU_bue _2_RAKU_babue _ARITY_1	hó	I	1
 ▯ unsuccessfully pulls ▯ failing to move accelerate the latter _BIAS _RAKU_buaq _2_RAKU_gabuaq _ARITY_2	hó	A	2
 ▯ is a pulley _BIAS _RAKU_sıoq _2_RAKU_gasıoq _ARITY_1	máq	I	1
 ▯ pertains to the culture of the bahamas bahamas the _BIAS _RAKU_ham _2_RAKU_baham _ARITY_1 _CAPS	tá	F	1
@@ -240,6 +243,7 @@ predicate build ▯ builds assembles makes ▯ _BIAS _RAKU_baı _ARITY_2	hó	A	2
 ▯ expresses optative love i e love via desires urges longing towards ▯ _BIAS _RAKU_bam _ARITY_2	hó	A	2
 ▯ is the bambara bamanankan language _BIAS _RAKU_zu _2_RAKU_nazu _ARITY_1 _CAPS	hóq	I	1
 ▯ is vanadium _BIAS _RAKU_dıum _2_RAKU_nadıum _ARITY_1	máq	I	1
+▯ is a guanaco lama guanicoe _BIAS _RAKU_ku _2_RAKU_naku _ARITY_1	hó	I	1
 predicate banana pudding ▯ is banana pudding a layered dessert consisting of nilla wafers or similar vanilla cookies sliced banana and jello style pudding soft custard _BIAS _RAKU_dıq _2_RAKU_pudıq _ARITY_1	máq	I	1
 ▯ is or pertains to bunny rabbits _BIAS _RAKU_'uı _2_RAKU_nu'uı _ARITY_1	tá	F	1
 ▯ pertains to the culture of vanuatu republic of vanuatu _BIAS _RAKU_tu _2_RAKU_nuatu _ARITY_1 _CAPS	tá	F	1
@@ -264,6 +268,7 @@ having property ▯ is frequent common among what has property ▯ _BIAS _RAKU_l
 ▯ is the country bahrain kingdom of bahrain _BIAS _RAKU_gua _2_RAKU_nıgua _ARITY_1 _CAPS	máq	I	1
 ▯ pertains to the culture of brazil federative republic of brazil _BIAS _RAKU_jıu _2_RAKU_rajıu _ARITY_1 _CAPS	tá	F	1
 ▯ is the country brazil federative republic of brazil _BIAS _RAKU_gua _2_RAKU_jıugua _ARITY_1 _CAPS	máq	I	1
+▯ is a member of genus varanus the monitor lizards _BIAS _RAKU_la _2_RAKU_rala _ARITY_1	hó	I	1
 ▯ is a guaraní language _BIAS _RAKU_zu _2_RAKU_nızu _ARITY_1 _CAPS	hóq	I	1
 ▯ is india _BIAS _RAKU_gua _2_RAKU_tagua _ARITY_1	máq	I	1
 ▯ is a rose _BIAS _RAKU_rua _2_RAKU_barua _ARITY_1	máq	I	1
@@ -318,6 +323,7 @@ predicate infant ▯ is an infant ▯ is a baby _BIAS _RAKU_bem _ARITY_1	hó	I	1
 ▯ pertains to the culture of benin republic of benin _BIAS _RAKU_nıq _2_RAKU_benıq _ARITY_1 _CAPS	tá	F	1
 ▯ is the country benin republic of benin _BIAS _RAKU_gua _2_RAKU_nıqgua _ARITY_1 _CAPS	máq	I	1
 predicate change ▯ changes ▯ changes in property ▯ _BIAS _RAKU_beo _ARITY_2	tá	F	2
+▯ is a variable mathematics _BIAS _RAKU_daı _2_RAKU_beodaı _ARITY_1	hóq	I	1
 ▯ changes modifies ▯ _BIAS _RAKU_ja _2_RAKU_beoja _ARITY_2	hó	I	2
 ▯ is a diff patch _BIAS _RAKU_kao _2_RAKU_beokao _ARITY_1	hóq	I	1
 ▯ is hearty heavy nourishing wholesome of food _BIAS _RAKU_beom _ARITY_1	máq	I	1
@@ -330,6 +336,7 @@ predicate change ▯ changes ▯ changes in property ▯ _BIAS _RAKU_beo _ARITY_
 ▯ is calculus _BIAS _RAKU_dıu _2_RAKU_toaıdıu _ARITY_1	hóq	I	1
 predicate extrusion ▯ is an extrusion swelling convex _BIAS _RAKU_beq _ARITY_1	máq	I	1
 ▯ is convex at ▯ _BIAS _RAKU_bo _2_RAKU_beqbo _ARITY_2	tá	S	2
+▯ is a date palm genus phoenix _BIAS _RAKU_ra _2_RAKU_beqra _ARITY_1	máq	I	1
 ▯ is an abscess _BIAS _RAKU_beq _2_RAKU_zebeq _ARITY_1	máq	I	1
 ▯ is eberban a logical language _BIAS _RAKU_zu _2_RAKU_baqzu _ARITY_1 _CAPS	hóq	I	1
 ▯ is northern europe _BIAS _RAKU_pa _2_RAKU_ropa _ARITY_1 _CAPS	máq	I	1
@@ -341,6 +348,7 @@ predicate extrusion ▯ is an extrusion swelling convex _BIAS _RAKU_beq _ARITY_1
 predicate northern sami language ▯ is the northern sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	I	1
 ▯ is concrete _BIAS _RAKU_toq _2_RAKU_betoq _ARITY_1	máq	I	1
 ▯ is concrete powder _BIAS _RAKU_puo _2_RAKU_toqpuo _ARITY_1	máq	I	1
+▯ is a member of the family blattaria cockroaches _BIAS _RAKU_cha _2_RAKU_tacha _ARITY_1	hó	I	1
 ▯ is afflicted with ▯ _BIAS _RAKU_bıa _ARITY_2	hó	I	2
 predicate sick ▯ is sick ill _BIAS _RAKU_bıa _ARITY_1	hó	I	1
 ▯ is a patient _BIAS _RAKU_che _2_RAKU_bıache _ARITY_1	hó	I	1
@@ -391,6 +399,7 @@ predicate cup ▯ is a cup glass _BIAS _RAKU_bıo _ARITY_1	máq	I	1
 ▯ squeezes ▯ _BIAS _RAKU_pa _2_RAKU_bıpa _ARITY_2	tá	F	2
 predicate thousand ▯ are a thousand in number _BIAS _RAKU_bıq _ARITY_1	tá	I	1
 predicate beer ▯ is beer _BIAS _RAKU_ra _2_RAKU_bıra _ARITY_1	máq	I	1
+▯ is a member of genus oryza rice _BIAS _RAKU_jı _2_RAKU_rıqjı _ARITY_1	máq	I	1
 ▯ is a ballpoint pen _BIAS _RAKU_ro _2_RAKU_bıro _ARITY_1	máq	I	1
 ▯ is a face mask worn to protect others from one s mouth germs and oneself from others _BIAS _RAKU_rum _2_RAKU_bırum _ARITY_1	máq	I	1
 ▯ is poison venom toxic _BIAS _RAKU_sa _2_RAKU_bısa _ARITY_1	máq	I	1
@@ -539,6 +548,7 @@ predicate deny ▯ denies that ▯ is the case _BIAS _RAKU_ruaq _2_RAKU_buruaq _
 ▯ is the country bhutan kingdom of bhutan _BIAS _RAKU_gua _2_RAKU_taqgua _ARITY_1 _CAPS	máq	I	1
 ▯ suspects that ▯ is the case _BIAS _RAKU_zoaı _2_RAKU_buzoaı _ARITY_2	hó	I	2
 predicate cause ▯ physically causes ▯ to be the case _BIAS _RAKU_ca _ARITY_2	hóq	E	2
+event ▯ has ▯ as initiating force _BIAS _RAKU_bo _2_RAKU_cabo _ARITY_2	hóq	E	2
 ▯ indirectly causes ▯ _BIAS _RAKU_ca _2_RAKU_caca _ARITY_2	hóq	E	2
 ▯ happens for no reason _BIAS _RAKU_cıa _2_RAKU_cacıa _ARITY_1	hóq	F	1
 ▯ is a gun _BIAS _RAKU_chu _2_RAKU_cachu _ARITY_1	máq	I	1
@@ -585,6 +595,7 @@ predicate traffic light ▯ is a traffic light _BIAS _RAKU_gıo _2_RAKU_caqgıo 
 predicate node ▯ is a node station port _BIAS _RAKU_ce _ARITY_1	máq	I	1
 predicate sack ▯ is a sack bag pocket _BIAS _RAKU_cea _ARITY_1	máq	I	1
 ▯ are bagpipes _BIAS _RAKU_bıu _2_RAKU_gıaqbıu _ARITY_1	máq	I	1
+▯ is a member of genus phascolarctos the koala and extinct relatives _BIAS _RAKU_ko _2_RAKU_hako _ARITY_1	hó	I	1
 ▯ suffers subjective experience _BIAS _RAKU_ceaı _ARITY_1	hó	I	1
 ▯ is a pocket device calculator smartphone etc _BIAS _RAKU_kea _2_RAKU_ceakea _ARITY_1	máq	I	1
 ▯ is a sac fungus acsomycete phylum ascomycota _BIAS _RAKU_lıao _2_RAKU_cealıao _ARITY_1	máq	I	1
@@ -657,6 +668,7 @@ predicate sixth ▯ is sixth among ▯ _BIAS _RAKU_ko _2_RAKU_cıko _ARITY_2	tá
 predicate adolescent ▯ is adolescent pubescent _BIAS _RAKU_cıo _ARITY_1	hó	I	1
 ▯ keymashes keysmashes _BIAS _RAKU_cıoq _2_RAKU_cıoqcıoq _ARITY_1	hó	I	1
 ▯ snaps clicks their fingers _BIAS _RAKU_pıq _2_RAKU_cıpıq _ARITY_1	hó	A	1
+▯ is a member of subphylum hexapoda the six legged arthropods _BIAS _RAKU_pue _2_RAKU_cıpue _ARITY_1	hó	I	1
 ▯ is a chainsaw _BIAS _RAKU_kea _2_RAKU_toekea _ARITY_1	máq	I	1
 ▯ is a morpheme _BIAS _RAKU_su _2_RAKU_cısu _ARITY_1	hóq	I	1
 ▯ is a cube _BIAS _RAKU_toq _2_RAKU_cıtoq _ARITY_1	máq	I	1
@@ -714,6 +726,7 @@ predicate reign ▯ reigns over ▯ _BIAS _RAKU_cue _ARITY_2	hó	A	2
 predicate government ▯ is a government ▯ is a government of ▯ _BIAS _RAKU_fuaı _2_RAKU_cuefuaı _ARITY_2	hóq	I	2
 ▯ is a domain realm _BIAS _RAKU_rıaq _2_RAKU_cuerıaq _ARITY_1	máq	I	1
 ▯ is sovereign said of a political entity possibly as small as one person _BIAS _RAKU_taq _2_RAKU_cuetaq _ARITY_1	tá	I	1
+▯ is a hemlock tree _BIAS _RAKU_ga _2_RAKU_cuga _ARITY_1	máq	I	1
 predicate magenta ▯ is magenta _BIAS _RAKU_cuı _ARITY_1	tá	I	1
 ▯ is ultraviolet _BIAS _RAKU_cuao _2_RAKU_cuıcuao _ARITY_1	tá	I	1
 ▯ is whatever day _BIAS _RAKU_chaq _2_RAKU_cuıchaq _ARITY_1	hóq	E	1
@@ -736,6 +749,7 @@ predicate manner ▯ takes place in way form ▯ _BIAS _RAKU_cha _ARITY_2	hóq	E
 ▯ are settings configuration data _BIAS _RAKU_dao _2_RAKU_chadao _ARITY_1	hóq	I	1
 in what manner does ▯ happen _BIAS _RAKU_hı _2_RAKU_chahı _ARITY_1	hóq	E	1
 somehow ▯ happens i don t know how _BIAS _RAKU_ra _2_RAKU_hıra _ARITY_1	hóq	E	1
+fork of ygnkicuqb ▯ is something i don t know how to say ▯ is a difficult to express concept _BIAS _RAKU_kuq _2_RAKU_raıkuq _ARITY_1	hóq	I	1
 predicate tea ▯ is tea beverage _BIAS _RAKU_chaı _ARITY_1	máq	I	1
 ▯ is a teacup _BIAS _RAKU_bıo _2_RAKU_chaıbıo _ARITY_1	máq	I	1
 ▯ is tea leaf are tea leaves _BIAS _RAKU_boe _2_RAKU_chaıboe _ARITY_1	máq	I	1
@@ -808,6 +822,8 @@ predicate digit ▯ is a digit finger toe _BIAS _RAKU_cheı _ARITY_1	máq	I	1
 predicate reciprocally ▯ are in reciprocal relationship ▯ with each other _BIAS _RAKU_cheo _ARITY_2	tá	F	2
 ▯ and ▯ are in relation ▯ with each other _BIAS _RAKU_cuoı _2_RAKU_cheocuoı _ARITY_3	tá	F	3
 any member of ▯ can be connected to any other member by repeated application of relation ▯ _BIAS _RAKU_cheo _2_RAKU_cheocheo _ARITY_2	tá	F	2
+▯ person is evil cruel wicked _BIAS _RAKU_he _2_RAKU_cheomhe _ARITY_1	tá	I	1
+▯ is some evil cruelty _BIAS _RAKU_se _2_RAKU_cheomse _ARITY_1	hóq	E	1
 ▯ is so in the grand scheme of things ▯ is all things considered ▯ is the case considering the interplay between all things _BIAS _RAKU_nu _2_RAKU_cheonu _ARITY_1	hóq	F	1
 predicate bottle ▯ is a bottle _BIAS _RAKU_cheoq _ARITY_1	máq	I	1
 ▯ bottles fills a bottle with ▯ _BIAS _RAKU_la _2_RAKU_cheoqla _ARITY_2	hó	I	2
@@ -827,6 +843,7 @@ predicate believe ▯ believes ▯ to be the case to be true _BIAS _RAKU_chı _A
 predicate need ▯ needs to satisfy property ▯ to satisfy property ▯ _BIAS _RAKU_chıa _ARITY_3	tá	F	3
 predicate wrong ▯ is wrong incorrect _BIAS _RAKU_chıaı _ARITY_1	tá	F	1
 ▯ doubles down on arguing opinion ▯ despite being proven wrong _BIAS _RAKU_chıo _2_RAKU_chıchıo _ARITY_2	hó	I	2
+▯ is a pseudonym of ▯ _BIAS _RAKU_chua _2_RAKU_chıaıchua _ARITY_2	hóq	I	2
 ▯ hallucinates ▯ _BIAS _RAKU_gaı _2_RAKU_chıaıgaı _ARITY_2	hó	I	2
 ▯ is careful exercises caution _BIAS _RAKU_sı _2_RAKU_chıaısı _ARITY_1	hó	A	1
 ▯ is careless reckless _BIAS _RAKU_cıa _2_RAKU_sıcıa _ARITY_1	hó	A	1
@@ -933,6 +950,7 @@ predicate thorn ▯ is a thorn _BIAS _RAKU_hua _2_RAKU_choıhua _ARITY_1	máq	I	
 ▯ likes ▯ which people rarely like ▯ is into niche thing ▯ _BIAS _RAKU_leı _2_RAKU_choleı _ARITY_2	hó	I	2
 ▯ is an insect bug _BIAS _RAKU_chom _ARITY_1	hó	I	1
 ▯ is entomology _BIAS _RAKU_dıu _2_RAKU_chomdıu _ARITY_1	hóq	I	1
+▯ is an insect bug _BIAS _RAKU_chom _ARITY_1	hó	I	1
 predicate insect ▯ is an insect bug _BIAS _RAKU_chom _ARITY_1	hó	I	1
 ▯ is popular trendy well liked _BIAS _RAKU_chom _ARITY_1	tá	I	1
 ▯ uses ▯ _BIAS _RAKU_choq _ARITY_2	hó	A	2
@@ -1155,6 +1173,7 @@ predicate noon ▯ is a noon _BIAS _RAKU_chu _2_RAKU_dıochu _ARITY_1	hóq	I	1
 predicate lunch ▯ is a lunch _BIAS _RAKU_haq _2_RAKU_chuhaq _ARITY_1	hóq	I	1
 predicate evening ▯ is an evening _BIAS _RAKU_fao _2_RAKU_dıofao _ARITY_1	hóq	I	1
 ▯ is our sun any star regularly bringing light and warmth to the place where the speaker is at the time of utterance the star s the speaker is currently orbiting _BIAS _RAKU_hoe _2_RAKU_dıohoe _ARITY_1	máq	I	1
+▯ is an albatross of the family diomedeidae _BIAS _RAKU_sıu _2_RAKU_dıomsıu _ARITY_1	hó	I	1
 ▯ is direct _BIAS _RAKU_dıoq _ARITY_1	tá	F	1
 ▯ goes straight to ▯ _BIAS _RAKU_fa _2_RAKU_dıoqfa _ARITY_2	hó	A	2
 ▯ is explicit clearly stated _BIAS _RAKU_no _2_RAKU_dıoqno _ARITY_1	hóq	F	1
@@ -1209,6 +1228,7 @@ predicate giving to ▯ is an event of something being given to recipient ▯ _B
 ▯ is a donut doughnut _BIAS _RAKU_ta _2_RAKU_nata _ARITY_1	máq	I	1
 ▯ is a tone mark diacritic _BIAS _RAKU_laı _2_RAKU_nelaı _ARITY_1	máq	I	1
 predicate short ▯ is short _BIAS _RAKU_doq _ARITY_1	tá	S	1
+▯ is a member of the infraorder brachyura the true crabs _BIAS _RAKU_huoı _2_RAKU_doqhuoı _ARITY_1	hó	I	1
 ▯ is a dungeon _BIAS _RAKU_joq _2_RAKU_doqjoq _ARITY_1	máq	I	1
 ▯ is a dungeon master _BIAS _RAKU_che _2_RAKU_caqche _ARITY_1	hó	I	1
 ▯ is steak meat with short fibers cut against the grain _BIAS _RAKU_nueq _2_RAKU_doqnueq _ARITY_1	máq	I	1
@@ -1368,6 +1388,7 @@ predicate happen ▯ happens takes place _BIAS _RAKU_faq _ARITY_1	hóq	E	1
 ▯ is the académie française _BIAS _RAKU_fuaı _2_RAKU_zufuaı _ARITY_1 _CAPS	hóq	F	1
 ▯ is a trip voyage journey _BIAS _RAKU_se _2_RAKU_fase _ARITY_1	hóq	I	1
 ▯ is a bean _BIAS _RAKU_seo _2_RAKU_faseo _ARITY_1	máq	I	1
+▯ is the origin of ▯ s journey to place ▯ _BIAS _RAKU_sıao _2_RAKU_fasıao _ARITY_3	máq	I	3
 ▯ pertains to the culture of holy see vatican city _BIAS _RAKU_no _2_RAKU_kano _ARITY_1 _CAPS	tá	F	1
 ▯ is the country holy see vatican city _BIAS _RAKU_gua _2_RAKU_nogua _ARITY_1 _CAPS	máq	I	1
 ▯ rides travels aboard vehicle ▯ _BIAS _RAKU_tuı _2_RAKU_fatuı _ARITY_2	hó	I	2
@@ -1527,6 +1548,7 @@ predicate accompany ▯ accompanies is with ▯ in property ▯ _BIAS _RAKU_gaq 
 ▯ is quality time time spent together _BIAS _RAKU_daq _2_RAKU_gaqdaq _ARITY_1	hóq	I	1
 ▯ is a union alliance association guild _BIAS _RAKU_fuaı _2_RAKU_gaqfuaı _ARITY_1	hóq	I	1
 predicate kangaroo ▯ is a kangaroo _BIAS _RAKU_ru _2_RAKU_guru _ARITY_1	hó	I	1
+▯ is a kangaroo family macropodidae _BIAS _RAKU_ru _2_RAKU_guru _ARITY_1	hó	I	1
 ▯ is australia _BIAS _RAKU_gua _2_RAKU_rugua _ARITY_1	máq	I	1
 ▯ rejects solidarity with ▯ despite having been accepted into the fold ▯ vehemently refuses to associate with ▯ even though they have the opportunity to do so due to a strong inner sense that they do not in fact belong to said group collective culture _BIAS _RAKU_feu _2_RAKU_jeqfeu _ARITY_2	hó	I	2
 predicate group ▯ is a group team gang band _BIAS _RAKU_me _2_RAKU_gaqme _ARITY_1	tá	I	1
@@ -1536,6 +1558,7 @@ predicate group ▯ is a group team gang band _BIAS _RAKU_me _2_RAKU_gaqme _ARIT
 ▯ is a stomach _BIAS _RAKU_ra _2_RAKU_gara _ARITY_1	máq	I	1
 ▯ feels nauseous sick to the stomach _BIAS _RAKU_bıa _2_RAKU_rabıa _ARITY_1	hó	I	1
 predicate gram ▯ is a gram _BIAS _RAKU_ram _2_RAKU_garam _ARITY_1	hóq	I	1
+▯ is a gastropod _BIAS _RAKU_pue _2_RAKU_rapue _ARITY_1	hó	I	1
 ▯ is a slug cat _BIAS _RAKU_to _2_RAKU_kato _ARITY_1	hó	I	1
 predicate stimulus ▯ is a stimulus _BIAS _RAKU_ge _ARITY_1	hóq	F	1
 predicate high ▯ is high _BIAS _RAKU_gea _ARITY_1	tá	S	1
@@ -1549,6 +1572,7 @@ predicate dirty ▯ is dirty unclean contaminated _BIAS _RAKU_geaq _ARITY_1	tá	
 ▯ is a vegetable _BIAS _RAKU_zeo _2_RAKU_geaqzeo _ARITY_1	máq	I	1
 ▯ is a tower _BIAS _RAKU_rı _2_RAKU_gearı _ARITY_1	máq	I	1
 ▯ is an elevator _BIAS _RAKU_tıaı _2_RAKU_geatıaı _ARITY_1	máq	I	1
+▯ is a member of genus aepyceros the impala _BIAS _RAKU_tuaq _2_RAKU_geatuaq _ARITY_1	hó	I	1
 ▯ is the pie proto indo european language _BIAS _RAKU_zu _2_RAKU_'ezu _ARITY_1 _CAPS	hóq	I	1
 ▯ stims _BIAS _RAKU_baı _2_RAKU_gebaı _ARITY_1	hó	I	1
 ▯ event has some perceptible signs to account for it as proof for it happening ▯ is visible apparent noticeable somehow external ized _BIAS _RAKU_bo _2_RAKU_gebo _ARITY_1	tá	P	1
@@ -1557,6 +1581,8 @@ predicate dirty ▯ is dirty unclean contaminated _BIAS _RAKU_geaq _ARITY_1	tá	
 ▯ is overstimulated _BIAS _RAKU_feao _2_RAKU_gefeao _ARITY_1	hó	A	1
 ▯ is mild gentle inoffensive _BIAS _RAKU_fuı _2_RAKU_gefuı _ARITY_1	tá	F	1
 ▯ is overstimulated has sensory overload _BIAS _RAKU_ge _2_RAKU_gege _ARITY_1	hó	I	1
+▯ is cartilage gristle _BIAS _RAKU_gu _2_RAKU_gegu _ARITY_1	máq	I	1
+▯ is a member of the class chondrichthyes the cartilaginous fishes _BIAS _RAKU_cıe _2_RAKU_gucıe _ARITY_1	hó	I	1
 predicate wear ▯ wears ▯ _BIAS _RAKU_geı _ARITY_2	tá	A	2
 ▯ changes clothes _BIAS _RAKU_beo _2_RAKU_geıbeo _ARITY_1	hó	A	1
 ▯ games plays video games _BIAS _RAKU_geım _ARITY_1	hó	I	1
@@ -1564,6 +1590,7 @@ predicate wear ▯ wears ▯ _BIAS _RAKU_geı _ARITY_2	tá	A	2
 ▯ is an outfit _BIAS _RAKU_se _2_RAKU_geıse _ARITY_1	máq	I	1
 ▯ puts on starts wearing ▯ _BIAS _RAKU_sho _2_RAKU_geısho _ARITY_2	hó	A	2
 ▯ is germanium _BIAS _RAKU_nıum _2_RAKU_gemnıum _ARITY_1	máq	I	1
+▯ is a member of genus homo _BIAS _RAKU_gem _ARITY_1	hó	I	1
 ▯ is genetics _BIAS _RAKU_dıu _2_RAKU_neadıu _ARITY_1	hóq	I	1
 ▯ is the study of genetics _BIAS _RAKU_dıu _2_RAKU_nomdıu _ARITY_1	hóq	I	1
 ▯ shaves trims clips ▯ removing material from the surface _BIAS _RAKU_nua _2_RAKU_genua _ARITY_2	hó	A	2
@@ -1580,6 +1607,7 @@ predicate old ▯ is old _BIAS _RAKU_geo _ARITY_1	tá	I	1
 predicate age ▯ is the age of ▯ _BIAS _RAKU_ne _2_RAKU_geone _ARITY_2	hóq	I	2
 predicate meet ▯ meets ▯ _BIAS _RAKU_geq _ARITY_2	hó	I	2
 predicate miss ▯ misses ▯ ▯ hungers to meet ▯ again _BIAS _RAKU_kuaı _2_RAKU_geqkuaı _ARITY_2	hó	I	2
+▯ is a congress assembly conference convention meeting of ▯ plural _BIAS _RAKU_me _2_RAKU_geqme _ARITY_2	máq	I	2
 predicate alone ▯ is alone _BIAS _RAKU_sıa _2_RAKU_geqsıa _ARITY_1	hó	I	1
 ▯ introduces ▯ _BIAS _RAKU_soa _2_RAKU_geqsoa _ARITY_2	hó	A	2
 ▯ is a crane grus genus _BIAS _RAKU_ro _2_RAKU_gero _ARITY_1	hó	I	1
@@ -1613,6 +1641,7 @@ predicate musical instrument ▯ is a musical instrument _BIAS _RAKU_chuo _2_RAK
 ▯ is a music device of any kind such as an mp3 player or a record player _BIAS _RAKU_kea _2_RAKU_gıaqkea _ARITY_1	máq	I	1
 ▯ walks to music marches _BIAS _RAKU_koı _2_RAKU_gıaqkoı _ARITY_1	hó	A	1
 ▯ performs music ▯ _BIAS _RAKU_reum _2_RAKU_gıaqreum _ARITY_2	hó	A	2
+▯ are the lyrics to music song ▯ _BIAS _RAKU_toa _2_RAKU_gıaqtoa _ARITY_2	hóq	I	2
 predicate free of ▯ is free of property ▯ ▯ not having property ▯ is good _BIAS _RAKU_cıa _2_RAKU_gıcıa _ARITY_2	tá	F	2
 ▯ is a hero protagonist good guy _BIAS _RAKU_che _2_RAKU_gıche _ARITY_1	hó	I	1
 predicate opportunity ▯ is an opportunity _BIAS _RAKU_tue _2_RAKU_daıtue _ARITY_1	hóq	E	1
@@ -1649,6 +1678,7 @@ predicate dark ▯ is dark poorly illuminated _BIAS _RAKU_hıaq _2_RAKU_gıohıa
 predicate lamp ▯ is a lamp _BIAS _RAKU_kea _2_RAKU_gıokea _ARITY_1	máq	I	1
 ▯ cooks is cooked through exposure to thermal radiation _BIAS _RAKU_loeq _2_RAKU_gıoloeq _ARITY_1	tá	I	1
 predicate light ▯ is bright _BIAS _RAKU_gıom _ARITY_1	tá	F	1
+▯ is a light year _BIAS _RAKU_nıaq _2_RAKU_gıonıaq _ARITY_1	hóq	I	1
 ▯ is a light bulb _BIAS _RAKU_so _2_RAKU_pıso _ARITY_1	máq	I	1
 ▯ emits light ▯ _BIAS _RAKU_zıa _2_RAKU_gıozıa _ARITY_2	máq	I	2
 predicate opposite ▯ satisfies with reversed polarity property ▯ _BIAS _RAKU_gıq _ARITY_2	tá	F	2
@@ -1684,6 +1714,7 @@ predicate smooth ▯ is smooth even _BIAS _RAKU_goaq _ARITY_1	tá	I	1
 ▯ is spatially big takes up lots of space _BIAS _RAKU_sao _2_RAKU_goasao _ARITY_1	tá	S	1
 ▯ is a void ▯ is devoid of ▯ _BIAS _RAKU_shea _2_RAKU_goashea _ARITY_2	hóq	I	2
 ▯ is a domestic cat _BIAS _RAKU_chıq _2_RAKU_gochıq _ARITY_1	hó	I	1
+▯ is a pika _BIAS _RAKU_doı _2_RAKU_godoı _ARITY_1	hó	I	1
 predicate in ▯ will happen in ▯ amount of time from now _BIAS _RAKU_goe _ARITY_2	hóq	E	2
 ▯ is a wall barrier _BIAS _RAKU_goeq _ARITY_1	máq	I	1
 ▯ is a mason _BIAS _RAKU_che _2_RAKU_goeqche _ARITY_1	hó	I	1
@@ -1701,6 +1732,7 @@ predicate treat ▯ treats doctors ▯ _BIAS _RAKU_goı _ARITY_2	hó	A	2
 ▯ is a pharmacist _BIAS _RAKU_che _2_RAKU_saıche _ARITY_1	hó	I	1
 ▯ is in relation ▯ with me _BIAS _RAKU_jı _2_RAKU_gojı _ARITY_2	tá	F	2
 ▯ is rubber _BIAS _RAKU_la _2_RAKU_gola _ARITY_1	máq	I	1
+▯ is golf game _BIAS _RAKU_fe _2_RAKU_lofe _ARITY_1	hóq	E	1
 ▯ errs makes a mistake _BIAS _RAKU_gom _ARITY_1	hó	A	1
 ▯ is a gomjom microscopic spirit that haunts people and makes them clumsy _BIAS _RAKU_jom _2_RAKU_gomjom _ARITY_1	hó	I	1
 ▯ is the intangible zuosaı of a gomjom used to cause clumsiness and mistakes _BIAS _RAKU_saı _2_RAKU_gomsaı _ARITY_1	máq	I	1
@@ -1708,8 +1740,10 @@ predicate treat ▯ treats doctors ▯ _BIAS _RAKU_goı _ARITY_2	hó	A	2
 ▯ is a knee _BIAS _RAKU_nu _2_RAKU_gonu _ARITY_1	máq	I	1
 ▯ kneels _BIAS _RAKU_la _2_RAKU_nula _ARITY_1	hó	A	1
 ▯ is smoke _BIAS _RAKU_goq _ARITY_1	máq	I	1
+▯ is golf game _BIAS _RAKU_fe _2_RAKU_goqfe _ARITY_1	hóq	E	1
 ▯ is the gan chinese language _BIAS _RAKU_zu _2_RAKU_nozu _ARITY_1 _CAPS	hóq	I	1
 predicate chicken ▯ is a chicken ▯ is a member of genus gallus _BIAS _RAKU_so _2_RAKU_goso _ARITY_1	hó	I	1
+▯ is a member of genus gallus the junglefowls and the chicken _BIAS _RAKU_so _2_RAKU_goso _ARITY_1	hó	I	1
 ▯ is chicken meat _BIAS _RAKU_nueq _2_RAKU_sonueq _ARITY_1	máq	I	1
 ▯ is a chicken egg _BIAS _RAKU_poaı _2_RAKU_sopoaı _ARITY_1	máq	I	1
 ▯ is in relation ▯ with you _BIAS _RAKU_suq _2_RAKU_gosuq _ARITY_2	tá	F	2
@@ -1763,6 +1797,7 @@ predicate twice ▯ happens twice two times _BIAS _RAKU_chıo _2_RAKU_guchıo _A
 ▯ does a double take on ▯ _BIAS _RAKU_gaı _2_RAKU_chıogaı _ARITY_2	hó	I	2
 ▯ is devoted to satisfying the property ▯ _BIAS _RAKU_da _2_RAKU_guda _ARITY_2	hó	A	2
 predicate curved ▯ is curved bent _BIAS _RAKU_gue _ARITY_1	tá	S	1
+▯ is a gland _BIAS _RAKU_le _2_RAKU_guele _ARITY_1	máq	I	1
 ▯ is cloth _BIAS _RAKU_gueq _ARITY_1	máq	I	1
 ▯ is a cloth sheet _BIAS _RAKU_boe _2_RAKU_gueqboe _ARITY_1	máq	I	1
 ▯ leans slants _BIAS _RAKU_sheaq _2_RAKU_guesheaq _ARITY_1	tá	F	1
@@ -1815,6 +1850,7 @@ predicate bottom ▯ is the bottom of ▯ _BIAS _RAKU_paq _2_RAKU_guqpaq _ARITY_
 ▯ is a tunnel _BIAS _RAKU_tıeq _2_RAKU_guqtıeq _ARITY_1	máq	I	1
 ▯ has two colors ▯ is bichromatic _BIAS _RAKU_bo _2_RAKU_reobo _ARITY_1	máq	I	1
 predicate kidney ▯ is a kidney _BIAS _RAKU_req _2_RAKU_gureq _ARITY_1	máq	I	1
+▯ is a kidney _BIAS _RAKU_req _2_RAKU_gureq _ARITY_1	máq	I	1
 ▯ is a cashew _BIAS _RAKU_sı _2_RAKU_kası _ARITY_1	máq	I	1
 ▯ is a kidney stone _BIAS _RAKU_pıo _2_RAKU_reqpıo _ARITY_1	máq	I	1
 ▯ is nephrite mineral _BIAS _RAKU_pıo _2_RAKU_reqpıo _ARITY_1	máq	I	1
@@ -1849,6 +1885,7 @@ predicate stuff ▯ satisfies some unspecified salient predicate _BIAS _RAKU_hao
 ▯ is relatively the case relative to some salient standard _BIAS _RAKU_pe _2_RAKU_haope _ARITY_1	hóq	P	1
 ▯ is the hausa language _BIAS _RAKU_zu _2_RAKU_sazu _ARITY_1 _CAPS	hóq	I	1
 ▯ leaves ▯ as is untouched _BIAS _RAKU_sem _2_RAKU_haosem _ARITY_2	hó	A	2
+▯ is an alpaca vicugna pacos _BIAS _RAKU_ka _2_RAKU_paka _ARITY_1	hó	I	1
 ▯ is a bee _BIAS _RAKU_pı _2_RAKU_hapı _ARITY_1	hó	I	1
 predicate food ▯ is food _BIAS _RAKU_haq _ARITY_1	máq	I	1
 predicate prepare food ▯ prepares food cooks ▯ _BIAS _RAKU_baı _2_RAKU_haqbaı _ARITY_2	hó	A	2
@@ -1873,6 +1910,7 @@ predicate plate ▯ is a plate dish _BIAS _RAKU_rıaı _2_RAKU_haqrıaı _ARITY_
 ▯ is a plate dish _BIAS _RAKU_toq _2_RAKU_haqtoq _ARITY_1	máq	I	1
 ▯ is a spirit soul or ghost _BIAS _RAKU_tu _2_RAKU_haqtu _ARITY_1	hó	I	1
 ▯ is a cjk language ▯ is chinese japanese korean vietnamese et al in context of their usage of han characters _BIAS _RAKU_zu _2_RAKU_haqzu _ARITY_1	hóq	I	1
+▯ is a member of genus arnica _BIAS _RAKU_ka _2_RAKU_nıka _ARITY_1	máq	I	1
 ▯ sighs _BIAS _RAKU_sa _2_RAKU_hasa _ARITY_1	hó	I	1
 ▯ is a hash tag _BIAS _RAKU_dao _2_RAKU_shıdao _ARITY_1	máq	I	1
 predicate piece ▯ is a piece chunk of substance ▯ _BIAS _RAKU_hea _ARITY_2	máq	I	2
@@ -1896,6 +1934,8 @@ predicate tenth ▯ is tenth among ▯ _BIAS _RAKU_ko _2_RAKU_heıko _ARITY_2	t�
 ▯ pertains to the culture of greece hellenic republic _BIAS _RAKU_sa _2_RAKU_lasa _ARITY_1 _CAPS	tá	F	1
 ▯ is the country greece hellenic republic _BIAS _RAKU_gua _2_RAKU_sagua _ARITY_1 _CAPS	máq	I	1
 ▯ is the greek language _BIAS _RAKU_zu _2_RAKU_sazu _ARITY_1 _CAPS	hóq	I	1
+▯ is a member of genus alces the moose _BIAS _RAKU_kı _2_RAKU_lekı _ARITY_1	hó	I	1
+▯ is an elbow bone ulna the bone of the forearm that extends from the elbow to the wrist on the side opposite to the thumb _BIAS _RAKU_leq _2_RAKU_heleq _ARITY_1	máq	I	1
 ▯ is a cherry plum prunus cerasifera _BIAS _RAKU_lı _2_RAKU_hemlı _ARITY_1	máq	I	1
 ▯ shows presents ▯ _BIAS _RAKU_nı _2_RAKU_henı _ARITY_2	hó	I	2
 ▯ is covered in permafrost _BIAS _RAKU_nıao _2_RAKU_henıao _ARITY_1	máq	I	1
@@ -1952,6 +1992,7 @@ predicate dangerous ▯ is dangerous _BIAS _RAKU_daı _2_RAKU_hıaodaı _ARITY_1
 predicate escape ▯ escapes from ▯ _BIAS _RAKU_rıeq _2_RAKU_hıaorıeq _ARITY_2	tá	I	2
 ▯ is a rescuer lifeguard _BIAS _RAKU_che _2_RAKU_soache _ARITY_1	hó	I	1
 predicate poor ▯ is poor in relation ▯ ▯ is in relation ▯ to with few things _BIAS _RAKU_hıaq _ARITY_2	tá	F	2
+▯ is a red raspberry rubus ideaus _BIAS _RAKU_do _2_RAKU_rudo _ARITY_1	máq	I	1
 predicate carry ▯ carries bears hauls ▯ _BIAS _RAKU_hıe _ARITY_2	hó	A	2
 ▯ is a porter _BIAS _RAKU_che _2_RAKU_hıeche _ARITY_1	hó	I	1
 ▯ to ▯ brings ▯ _BIAS _RAKU_fa _2_RAKU_hıefa _ARITY_3	hó	A	3
@@ -2040,6 +2081,7 @@ predicate maned wolf ▯ is a maned wolf chrysocyon brachyurus _BIAS _RAKU_ne _2
 ▯ is a wild enoki mushroom ▯ is flammulina velutipes _BIAS _RAKU_lıao _2_RAKU_zeumlıao _ARITY_2	máq	I	2
 ▯ is the toaq language _BIAS _RAKU_zu _2_RAKU_hoezu _ARITY_1	hóq	I	1
 ▯ is the date _BIAS _RAKU_ja _2_RAKU_hoja _ARITY_1	hóq	I	1
+▯ is hockey game _BIAS _RAKU_kı _2_RAKU_hokı _ARITY_1	hóq	E	1
 ▯ is a data compression format algorithm _BIAS _RAKU_zu _2_RAKU_kuzu _ARITY_1	hóq	F	1
 predicate afterwards ▯ is afterwards _BIAS _RAKU_bıe _2_RAKU_hoqbıe _ARITY_1	hóq	E	1
 predicate its ▯ is hóq s the referent of the recent abstract dp s _BIAS _RAKU_bo _2_RAKU_hoqbo _ARITY_1	tá	F	1
@@ -2047,6 +2089,7 @@ predicate its ▯ is hóq s the referent of the recent abstract dp s _BIAS _RAKU
 ▯ is the country honduras republic of honduras _BIAS _RAKU_gua _2_RAKU_ragua _ARITY_1 _CAPS	máq	I	1
 ▯ is true by virtue of ▯ ka saying so _BIAS _RAKU_ka _2_RAKU_hoqka _ARITY_2	hóq	P	2
 predicate therefore ▯ is therefore the case _BIAS _RAKU_kuı _2_RAKU_hoqkuı _ARITY_1	hóq	P	1
+▯ is the case afterwards _BIAS _RAKU_sıe _2_RAKU_hoqsıe _ARITY_1	hóq	P	1
 ▯ belongs to the abstract pronominal class iii _BIAS _RAKU_toa _2_RAKU_hoqtoa _ARITY_1	hóq	I	1
 predicate hour ▯ is an hour _BIAS _RAKU_ra _2_RAKU_hora _ARITY_1	hóq	I	1
 ▯ is west of ▯ _BIAS _RAKU_re _2_RAKU_hore _ARITY_2	tá	S	2
@@ -2077,6 +2120,7 @@ predicate fantastic ▯ is amazingly fantastic _BIAS _RAKU_jem _2_RAKU_tojem _AR
 ▯ is a histologist _BIAS _RAKU_che _2_RAKU_dıuche _ARITY_1	hó	I	1
 ▯ after great anticipation of ▯ which seemed to be just on the verge of happening is sharply let down as it comes to happen that that event won t be happening _BIAS _RAKU_che _2_RAKU_huche _ARITY_2	hó	I	2
 predicate feather ▯ is a feather _BIAS _RAKU_hue _ARITY_1	máq	I	1
+▯ is a vulva _BIAS _RAKU_la _2_RAKU_huela _ARITY_1	máq	I	1
 ▯ is velvet _BIAS _RAKU_lo _2_RAKU_huelo _ARITY_1	máq	I	1
 predicate bad ▯ is bad _BIAS _RAKU_huı _ARITY_1	tá	F	1
 predicate lack ▯ is lacking in that does not satisfy property ▯ ▯ lacking property ▯ is bad _BIAS _RAKU_cıa _2_RAKU_huıcıa _ARITY_2	tá	F	2
@@ -2137,6 +2181,7 @@ predicate hush ▯ becomes quiet silent ▯ hushes _BIAS _RAKU_sho _2_RAKU_husho
 predicate our ▯ is ours 1st 3rd person _BIAS _RAKU_bo _2_RAKU_ımbo _ARITY_1	tá	F	1
 ▯ is a chair _BIAS _RAKU_naq _2_RAKU_ınaq _ARITY_1	máq	I	1
 ▯ is a candle _BIAS _RAKU_ıom _ARITY_1	máq	I	1
+▯ satisfies property ▯ _BIAS _RAKU_ıq _ARITY_2	tá	F	2
 predicate satisfy property ▯ satisfy property ▯ _BIAS _RAKU_ıq _ARITY_2	tá	F	2
 ▯ satisfies property ▯ emphatic and or not reducible like ıq _BIAS _RAKU_'ıq _2_RAKU_ıq'ıq _ARITY_2	tá	F	2
 predicate i ▯ is the letter i _BIAS _RAKU_rue _2_RAKU_'ırue _ARITY_1	hóq	I	1
@@ -2222,6 +2267,7 @@ predicate far ▯ is far away from ▯ in property ▯ _BIAS _RAKU_jao _ARITY_3	
 ▯ runs away _BIAS _RAKU_ra _2_RAKU_jara _ARITY_1	hó	A	1
 ▯ is a teleprinter teletype _BIAS _RAKU_kıq _2_RAKU_jaokıq _ARITY_1	máq	I	1
 predicate walkie talkie ▯ is a walkie talkie _BIAS _RAKU_kuq _2_RAKU_jaokuq _ARITY_1	máq	I	1
+▯ is a telephone _BIAS _RAKU_laq _2_RAKU_jaolaq _ARITY_1	máq	I	1
 predicate phone ▯ is a telephone _BIAS _RAKU_laq _2_RAKU_jaolaq _ARITY_1	máq	I	1
 ▯ is a telephone number of ▯ _BIAS _RAKU_chıu _2_RAKU_laqchıu _ARITY_2	hóq	I	2
 predicate talk on the phone ▯ talks on the phone with ▯ _BIAS _RAKU_tao _2_RAKU_laqtao _ARITY_2	hó	A	2
@@ -2263,7 +2309,9 @@ predicate market ▯ is a market _BIAS _RAKU_rıaq _2_RAKU_jearıaq _ARITY_1	má
 ▯ is a true jelly class scyphozoa _BIAS _RAKU_lıaı _2_RAKU_gaqlıaı _ARITY_1	máq	I	1
 ▯ is the case _BIAS _RAKU_ha _2_RAKU_jeha _ARITY_1	hóq	P	1
 predicatizer identical turns following phrase x into verb ▯ is x _BIAS _RAKU_jeı _ARITY_1	tá	F	1
+▯ confuses mistakes ▯ for something someone else ▯ confuses mistakes ▯ for ▯ _BIAS _RAKU_bıao _2_RAKU_jeıbıao _ARITY_3	hó	I	3
 ▯ is indistinguishable from ▯ _BIAS _RAKU_du _2_RAKU_jeıdu _ARITY_2	tá	F	2
+▯ knows who what ▯ is ▯ knows the identity of ▯ _BIAS _RAKU_dua _2_RAKU_jeıdua _ARITY_2	hó	I	2
 ▯ pertains to the culture of yemen republic of yemen _BIAS _RAKU_jem _ARITY_1 _CAPS	tá	F	1
 ▯ is the country yemen republic of yemen _BIAS _RAKU_gua _2_RAKU_jemgua _ARITY_1 _CAPS	máq	I	1
 predicate jemu ▯ is jemu a legendary whale moth creature in toaq mythology _BIAS _RAKU_jem _ARITY_1 _CAPS	hó	I	1
@@ -2296,6 +2344,7 @@ predicate same ▯ is identical to ▯ ▯ is the same as ▯ in property ▯ _B
 ▯ is transgender sex assigned at birth does not match gender identity includes nonbinary people _BIAS _RAKU_ku _2_RAKU_suku _ARITY_1	hó	I	1
 ▯ is cisgender _BIAS _RAKU_shue _2_RAKU_dashue _ARITY_1	hó	I	1
 ▯ is a mime a pantomime _BIAS _RAKU_che _2_RAKU_duoıche _ARITY_1	hó	I	1
+▯ is a member of infraorder isoptera the termites _BIAS _RAKU_shoaı _2_RAKU_jeqshoaı _ARITY_1	hó	I	1
 ▯ is a fungus of genus termitomyces _BIAS _RAKU_lıao _2_RAKU_shoaılıao _ARITY_1	máq	I	1
 predicate copy ▯ copies ▯ ▯ produces an object identical to ▯ _BIAS _RAKU_shuaq _2_RAKU_jeqshuaq _ARITY_2	hó	I	2
 predicate identical ▯ is identical to ▯ _BIAS _RAKU_tu _2_RAKU_jeqtu _ARITY_2	tá	F	2
@@ -2494,6 +2543,7 @@ predicate acquire ▯ gets acquires property ▯ _BIAS _RAKU_juq _ARITY_2	tá	I	
 ▯ pertains to the culture of china people s republic of china _BIAS _RAKU_guo _2_RAKU_juqguo _ARITY_1 _CAPS	tá	F	1
 ▯ is china _BIAS _RAKU_gua _2_RAKU_guogua _ARITY_1 _CAPS	máq	I	1
 ▯ is the country china people s republic of china _BIAS _RAKU_gua _2_RAKU_guogua _ARITY_1 _CAPS	máq	I	1
+▯ is a sinogram sinograph character used in chinese writing hanzi _BIAS _RAKU_laı _2_RAKU_guolaı _ARITY_1	hóq	I	1
 ▯ is made in china _BIAS _RAKU_se _2_RAKU_guose _ARITY_1	tá	I	1
 ▯ is the country of china _BIAS _RAKU_gua _2_RAKU_huagua _ARITY_1 _CAPS	máq	I	1
 ▯ is a client machine _BIAS _RAKU_kea _2_RAKU_juqkea _ARITY_1	máq	I	1
@@ -2582,6 +2632,7 @@ predicate optical tool ▯ is an optical tool _BIAS _RAKU_chuo _2_RAKU_kaqchuo _
 ▯ is visually beautiful ▯ is pleasant to look at ▯ is pleasing to the eye _BIAS _RAKU_de _2_RAKU_kaqde _ARITY_1	tá	S	1
 ▯ is blind _BIAS _RAKU_bu _2_RAKU_deqbu _ARITY_1	tá	I	1
 ▯ is scandium _BIAS _RAKU_dıum _2_RAKU_kaqdıum _ARITY_1	máq	I	1
+▯ bites ▯ _BIAS _RAKU_ga _2_RAKU_kaqga _ARITY_2	hó	A	2
 predicate bite ▯ bites ▯ _BIAS _RAKU_ga _2_RAKU_kaqga _ARITY_2	hó	A	2
 predicate see ▯ sees ▯ _BIAS _RAKU_gaı _2_RAKU_kaqgaı _ARITY_2	hó	I	2
 ▯ is a film camera _BIAS _RAKU_kea _2_RAKU_gaıkea _ARITY_1	máq	I	1
@@ -2589,6 +2640,7 @@ predicate look good ▯ looks good _BIAS _RAKU_gı _2_RAKU_kaqgı _ARITY_1	tá	F
 what does ▯ look like how does ▯ look _BIAS _RAKU_hıa _2_RAKU_kaqhıa _ARITY_2	tá	F	2
 predicate eye ▯ is an eye _BIAS _RAKU_hua _2_RAKU_kaqhua _ARITY_1	máq	I	1
 predicate eyelid ▯ is an eyelid _BIAS _RAKU_tıe _2_RAKU_huatıe _ARITY_1	máq	I	1
+▯ is a kanji _BIAS _RAKU_jı _2_RAKU_kaqjı _ARITY_1	hóq	I	1
 ▯ is an eyeliner pencil _BIAS _RAKU_bo _2_RAKU_kabo _ARITY_1	máq	I	1
 ▯ takes a look at ▯ _BIAS _RAKU_kaq _2_RAKU_kaqkaq _ARITY_2	hó	A	2
 predicate visible ▯ is visible _BIAS _RAKU_kıu _2_RAKU_kaqkıu _ARITY_1	tá	F	1
@@ -2686,6 +2738,7 @@ predicate brine ▯ is brine _BIAS _RAKU_ze _2_RAKU_keaqze _ARITY_1	máq	I	1
 ▯ is a programming language _BIAS _RAKU_zu _2_RAKU_keazu _ARITY_1	hóq	I	1
 ▯ is a machine language bytecode assembly _BIAS _RAKU_zu _2_RAKU_keazu _ARITY_1	hóq	I	1
 ▯ is a binary executable or library file _BIAS _RAKU_se _2_RAKU_zuse _ARITY_1	hóq	F	1
+▯ is a kelvin ▯ is ▯ number of property kelvin _BIAS _RAKU_bıq _2_RAKU_kebıq _ARITY_2	hóq	I	2
 predicate horse ▯ is a horse member of species equus ferus caballus _BIAS _RAKU_bo _2_RAKU_kebo _ARITY_1	hó	I	1
 ▯ is a hinny _BIAS _RAKU_she _2_RAKU_'aqshe _ARITY_1	hó	I	1
 ▯ is a horse barn _BIAS _RAKU_jıo _2_RAKU_bojıo _ARITY_1	máq	I	1
@@ -2694,6 +2747,8 @@ predicate horse ▯ is a horse member of species equus ferus caballus _BIAS _RAK
 predicate pluto ▯ is the planet pluto _BIAS _RAKU_meaı _2_RAKU_ruaımeaı _ARITY_1	máq	I	1
 predicate celsius ▯ is a degree celsius _BIAS _RAKU_cıu _2_RAKU_keıcıu _ARITY_1	hóq	I	1
 ▯ is cake _BIAS _RAKU_ke _2_RAKU_keıke _ARITY_1	máq	I	1
+▯ is a clitoris _BIAS _RAKU_leo _2_RAKU_keleo _ARITY_1	máq	I	1
+▯ is a stork _BIAS _RAKU_na _2_RAKU_kena _ARITY_1	hó	I	1
 ▯ is a cnidarian jellyfish coral hydra etc _BIAS _RAKU_da _2_RAKU_neıda _ARITY_1	hó	I	1
 ▯ pertains to the culture of kenya republic of kenya _BIAS _RAKU_nıa _2_RAKU_kenıa _ARITY_1 _CAPS	tá	F	1
 ▯ is the country kenya republic of kenya _BIAS _RAKU_gua _2_RAKU_nıagua _ARITY_1 _CAPS	máq	I	1
@@ -2702,6 +2757,7 @@ predicate celsius ▯ is a degree celsius _BIAS _RAKU_cıu _2_RAKU_keıcıu _ARI
 ▯ talks to ▯ _BIAS _RAKU_keoı _ARITY_2	hó	I	2
 ▯ is a contact physical means through which to communicate remotely with someone or something _BIAS _RAKU_kea _2_RAKU_keoıkea _ARITY_1	hóq	F	1
 ▯ is a conversation language _BIAS _RAKU_zu _2_RAKU_keoızu _ARITY_1	hóq	I	1
+▯ is a member of genus cygnus the swans _BIAS _RAKU_ko _2_RAKU_keoko _ARITY_1	hó	I	1
 ▯ is an onion _BIAS _RAKU_pa _2_RAKU_kepa _ARITY_1	máq	I	1
 predicate feces ▯ are feces ▯ is excrement shit poo _BIAS _RAKU_keq _ARITY_1	máq	I	1
 predicate defecate ▯ defecates shits _BIAS _RAKU_cıu _2_RAKU_keqcıu _ARITY_1	hó	A	1
@@ -2715,6 +2771,7 @@ predicate defecate ▯ defecates shits _BIAS _RAKU_cıu _2_RAKU_keqcıu _ARITY_1
 ▯ is a tree or shrub of the citrus genus _BIAS _RAKU_ro _2_RAKU_kero _ARITY_1	máq	I	1
 ▯ has brain gender ▯ _BIAS _RAKU_bo _2_RAKU_dabo _ARITY_2	hó	I	2
 ▯ is a citrus fruit _BIAS _RAKU_zeo _2_RAKU_rozeo _ARITY_1	máq	I	1
+▯ is a member of the order cetacea the whales porpoises and dolphins _BIAS _RAKU_tea _2_RAKU_ketea _ARITY_1	hó	I	1
 ▯ is vinegar as food an ingredient _BIAS _RAKU_zu _2_RAKU_kezu _ARITY_1	máq	I	1
 ▯ is pickled _BIAS _RAKU_te _2_RAKU_zute _ARITY_1	tá	F	1
 ▯ is a valve _BIAS _RAKU_'ao _2_RAKU_kı'ao _ARITY_1	máq	I	1
@@ -2739,6 +2796,8 @@ predicate door ▯ is a door _BIAS _RAKU_toq _2_RAKU_kıaotoq _ARITY_1	máq	I	1
 predicate hair ▯ is a hair _BIAS _RAKU_kıaq _ARITY_1	máq	I	1
 ▯ is hairless bald _BIAS _RAKU_cıa _2_RAKU_kıaqcıa _ARITY_1	tá	I	1
 ▯ is a barber hairdresser hair stylist _BIAS _RAKU_che _2_RAKU_kıaqche _ARITY_1	hó	I	1
+▯ is a baleen whale _BIAS _RAKU_tea _2_RAKU_ketea _ARITY_1	hó	I	1
+▯ is a redcurrant ribes rubrum _BIAS _RAKU_ba _2_RAKU_rıba _ARITY_1	máq	I	1
 ▯ is the reddish green color an impossible color _BIAS _RAKU_reo _2_RAKU_rıqreo _ARITY_1	hóq	F	1
 ▯ is a major chord _BIAS _RAKU_saq _2_RAKU_kıasaq _ARITY_1	hóq	I	1
 ▯ is a cherry fruit _BIAS _RAKU_se _2_RAKU_kıase _ARITY_1	máq	I	1
@@ -2764,6 +2823,7 @@ predicate k ▯ is the letter k _BIAS _RAKU_kue _2_RAKU_kıkue _ARITY_1	hóq	I	1
 ▯ is a right parenthesis _BIAS _RAKU_laı _2_RAKU_kılaı _ARITY_1	máq	I	1
 ▯ is mica _BIAS _RAKU_pıo _2_RAKU_lepıo _ARITY_1	máq	I	1
 ▯ is a kilogram _BIAS _RAKU_lo _2_RAKU_kılo _ARITY_1	hóq	I	1
+▯ is a kilogram ▯ is ▯ number of property kilograms _BIAS _RAKU_lo _2_RAKU_kılo _ARITY_2	hóq	I	2
 ▯ is something that ▯ considers to be themselves _BIAS _RAKU_kım _ARITY_2	tá	A	2
 ▯ is kimchi a type of korean salted and fermented vegetables _BIAS _RAKU_chı _2_RAKU_kımchı _ARITY_1	máq	I	1
 ▯ is a property constitutive of ▯ s self concept _BIAS _RAKU_paq _2_RAKU_kımpaq _ARITY_2	hóq	P	2
@@ -2840,7 +2900,9 @@ predicate search web ▯ searches the internet for ▯ _BIAS _RAKU_jo _2_RAKU_ko
 ▯ is a coconut _BIAS _RAKU_zeo _2_RAKU_kozeo _ARITY_1	máq	I	1
 ▯ pertains to the culture of colombia republic of colombia _BIAS _RAKU_bıa _2_RAKU_loqbıa _ARITY_1 _CAPS	tá	F	1
 ▯ is the country colombia republic of colombia _BIAS _RAKU_gua _2_RAKU_bıagua _ARITY_1 _CAPS	máq	I	1
+▯ is a member of genus columba containing some doves and pigeons the typical pigeons _BIAS _RAKU_bao _2_RAKU_luqbao _ARITY_1	hó	I	1
 ▯ is a comma _BIAS _RAKU_laı _2_RAKU_komlaı _ARITY_1	máq	I	1
+▯ is a komodo dragon komodo monitor varanus komodoensis _BIAS _RAKU_la _2_RAKU_rala _ARITY_1	hó	I	1
 predicate computer ▯ is a computer _BIAS _RAKU_ta _2_RAKU_pıuta _ARITY_1	máq	I	1
 ▯ is a european rabbit oryctolagus cuniculus _BIAS _RAKU_nı _2_RAKU_konı _ARITY_1	hó	I	1
 predicate copy ▯ is a copy of ▯ _BIAS _RAKU_pı _2_RAKU_kopı _ARITY_2	tá	I	2
@@ -2889,12 +2951,14 @@ predicate library ▯ is a library _BIAS _RAKU_jıo _2_RAKU_kuejıo _ARITY_1	má
 ▯ is the definition of ▯ _BIAS _RAKU_kuem _ARITY_2	hóq	P	2
 ▯ is the quenya language _BIAS _RAKU_zu _2_RAKU_nhazu _ARITY_1 _CAPS	hóq	I	1
 predicate chapter ▯ is a chapter _BIAS _RAKU_paq _2_RAKU_kuepaq _ARITY_1	hóq	I	1
+▯ is a vagina _BIAS _RAKU_po _2_RAKU_kuepo _ARITY_1	máq	I	1
 ▯ plural gather come together _BIAS _RAKU_kueq _ARITY_1	tá	F	1
 predicate gather ▯ plural gather collect at locus ▯ intransitive and non agentive _BIAS _RAKU_kueq _ARITY_2	tá	I	2
 ▯ is a collector of ▯ _BIAS _RAKU_che _2_RAKU_boche _ARITY_2	hó	I	2
 ▯ is a collecting focusing element _BIAS _RAKU_go _2_RAKU_kueqgo _ARITY_1	máq	I	1
 predicate collect ▯ collects gathers ▯ plural at locus ▯ _BIAS _RAKU_tua _2_RAKU_kueqtua _ARITY_3	hó	A	3
 predicate library ▯ is a library _BIAS _RAKU_shuo _2_RAKU_kueshuo _ARITY_1	máq	I	1
+▯ is a book cover ▯ is a book cover of book ▯ _BIAS _RAKU_tıe _2_RAKU_kuetıe _ARITY_2	máq	I	2
 ▯ pertains to the culture of kuwait state of kuwait _BIAS _RAKU_faı _2_RAKU_kufaı _ARITY_1 _CAPS	tá	F	1
 ▯ is the country kuwait state of kuwait _BIAS _RAKU_gua _2_RAKU_faıgua _ARITY_1 _CAPS	máq	I	1
 predicate cheese ▯ cheeses uses unconventional tactics in a game especially some seen as unsporting but stopping short of cheating by satisfying property ▯ _BIAS _RAKU_tao _2_RAKU_hatao _ARITY_2	hó	A	2
@@ -2932,6 +2996,7 @@ predicate bone ▯ is a bone _BIAS _RAKU_kuoq _ARITY_1	máq	I	1
 ▯ is a skeleton _BIAS _RAKU_me _2_RAKU_kuoqme _ARITY_1	máq	I	1
 ▯ is bone meal _BIAS _RAKU_puo _2_RAKU_kuoqpuo _ARITY_1	máq	I	1
 ▯ is bone material _BIAS _RAKU_saı _2_RAKU_kuoqsaı _ARITY_1	máq	I	1
+▯ is a blackcurrant ribes nigrum _BIAS _RAKU_ba _2_RAKU_rıba _ARITY_1	máq	I	1
 relevantly ▯ is of related to ▯ circumstantially ▯ is identified characterized as being related to ▯ _BIAS _RAKU_po _2_RAKU_kupo _ARITY_2	tá	F	2
 predicate say ▯ says ▯ _BIAS _RAKU_kuq _ARITY_2	hó	A	2
 predicate say ▯ says ▯ _BIAS _RAKU_kuq _ARITY_2	hó	A	2
@@ -2948,10 +3013,12 @@ predicate berry ▯ is a berry _BIAS _RAKU_rı _2_RAKU_kurı _ARITY_1	máq	I	1
 ▯ is the kurmanji language _BIAS _RAKU_zu _2_RAKU_dızu _ARITY_1 _CAPS	hóq	I	1
 ▯ is a squash gourd pumpkin _BIAS _RAKU_su _2_RAKU_kusu _ARITY_1	máq	I	1
 predicate gourd ▯ is a squash gourd pumpkin _BIAS _RAKU_su _2_RAKU_kusu _ARITY_1	máq	I	1
+▯ is a member of genus cucurbita squashes gourds pumpkins _BIAS _RAKU_su _2_RAKU_kusu _ARITY_1	máq	I	1
 ▯ is a queerplatonic partner of ▯ _BIAS _RAKU_gaq _2_RAKU_sugaq _ARITY_2	hó	I	2
 ▯ mistakenly construes the etymology of the classical nahuatl word āyōtōchin armadillo as being gourd rabbit instead of the real etymology tortoise rabbit _BIAS _RAKU_nı _2_RAKU_konı _ARITY_1	hó	A	1
 ▯ squishes has a queerplatonic crush on ▯ _BIAS _RAKU_kuaı _2_RAKU_sukuaı _ARITY_2	hó	I	2
 ▯ is a peace offering or propitiatory gift given to make amends in good faith _BIAS _RAKU_nam _2_RAKU_shenam _ARITY_1	máq	I	1
+▯ is a cucumber _BIAS _RAKU_shu _2_RAKU_kushu _ARITY_1	máq	I	1
 ▯ is kudzu _BIAS _RAKU_zu _2_RAKU_kuzu _ARITY_1	máq	I	1
 predicate lion ▯ is a lion _BIAS _RAKU_bı _2_RAKU_labı _ARITY_1	hó	I	1
 ▯ is the star sign leo _BIAS _RAKU_dam _2_RAKU_bıdam _ARITY_1 _CAPS	hóq	I	1
@@ -3134,6 +3201,7 @@ predicate woman ▯ is a female human ▯ is a woman _BIAS _RAKU_cha _2_RAKU_'oc
 ▯ is a femboy _BIAS _RAKU_naq _2_RAKU_denaq _ARITY_1	tá	I	1
 predicate girl ▯ is a girl _BIAS _RAKU_deo _2_RAKU_lıqdeo _ARITY_1	hó	I	1
 predicate daughter ▯ is a daughter female biological offspring of ▯ _BIAS _RAKU_fu _2_RAKU_lıqfu _ARITY_2	hó	I	2
+▯ is a hen of genus gallus ▯ is a female chicken _BIAS _RAKU_so _2_RAKU_goso _ARITY_1	hó	I	1
 predicate mother ▯ is a mother of ▯ ▯ acts as a mother towards ▯ _BIAS _RAKU_pao _2_RAKU_lıqpao _ARITY_2	hó	I	2
 predicate sister ▯ is a sister of ▯ _BIAS _RAKU_pıa _2_RAKU_lıqpıa _ARITY_2	hó	I	2
 predicate mother ▯ is a biological mother of ▯ _BIAS _RAKU_roaq _2_RAKU_lıqroaq _ARITY_2	hó	I	2
@@ -3157,6 +3225,7 @@ predicate flow ▯ flows _BIAS _RAKU_loaı _ARITY_1	tá	I	1
 ▯ is an event with an extent metaphorically expressed by the hue of ▯ red is almost none orange a little more etc and purple is very much _BIAS _RAKU_nhe _2_RAKU_loanhe _ARITY_2	hóq	E	2
 predicate buttocks ▯ is a buttocks ass behind _BIAS _RAKU_loaq _ARITY_1	máq	I	1
 ▯ is a diminished chord _BIAS _RAKU_saq _2_RAKU_loasaq _ARITY_1	hóq	I	1
+▯ is a member of genus phoenicopterus the flamingos _BIAS _RAKU_shoaı _2_RAKU_loashoaı _ARITY_1	hó	I	1
 predicate slavic ▯ is of the slavic languages people s cultures s _BIAS _RAKU_nıq _2_RAKU_benıq _ARITY_1 _CAPS	tá	F	1
 the text utterance ▯ is very verbose _BIAS _RAKU_kao _2_RAKU_hukao _ARITY_1	hóq	I	1
 predicate flame ▯ is a flame fire _BIAS _RAKU_loe _ARITY_1	máq	I	1
@@ -3182,6 +3251,7 @@ predicate mars ▯ is the planet mars _BIAS _RAKU_loem _ARITY_1	máq	I	1
 ▯ is a firefighter _BIAS _RAKU_che _2_RAKU_soıche _ARITY_1	hó	I	1
 ▯ is obsidian _BIAS _RAKU_shıa _2_RAKU_loeshıa _ARITY_1	máq	I	1
 ▯ is the loglan language _BIAS _RAKU_zu _2_RAKU_laqzu _ARITY_1 _CAPS	hóq	I	1
+▯ is a logo _BIAS _RAKU_go _2_RAKU_logo _ARITY_1	hóq	I	1
 ▯ is metal _BIAS _RAKU_ha _2_RAKU_loha _ARITY_1	máq	I	1
 ▯ is metal music _BIAS _RAKU_gıaq _2_RAKU_hagıaq _ARITY_1	hóq	I	1
 ▯ is a blåhaj _BIAS _RAKU_haı _2_RAKU_lohaı _ARITY_1	máq	I	1
@@ -3210,6 +3280,7 @@ predicate heater ▯ is a heater _BIAS _RAKU_kea _2_RAKU_loqkea _ARITY_1	máq	I	
 ▯ is lukewarm _BIAS _RAKU_koa _2_RAKU_loqkoa _ARITY_1	tá	I	1
 ▯ is a hot dog _BIAS _RAKU_ne _2_RAKU_kune _ARITY_1	máq	I	1
 ▯ feels hot overheated _BIAS _RAKU_lıe _2_RAKU_loqlıe _ARITY_1	hó	A	1
+▯ is a jaguar panthera onca _BIAS _RAKU_sa _2_RAKU_loqsa _ARITY_1	hó	I	1
 ▯ is an oven kiln or other enclosed space used to heat stuff to very hot temperatures _BIAS _RAKU_tıaı _2_RAKU_loqtıaı _ARITY_1	máq	I	1
 predicate placeholder ▯ is placeholder content _BIAS _RAKU_rem _2_RAKU_lorem _ARITY_1	hóq	I	1
 the text utterance ▯ is verbose _BIAS _RAKU_hu _2_RAKU_duhu _ARITY_1	tá	I	1
@@ -3308,6 +3379,7 @@ predicate love letter ▯ is a love letter _BIAS _RAKU_juo _2_RAKU_maıjuo _ARIT
 ▯ is a fly agaric ▯ is amanita muscaria _BIAS _RAKU_lıao _2_RAKU_jılıao _ARITY_2	máq	I	2
 ▯ is a magical girl _BIAS _RAKU_deo _2_RAKU_lıqdeo _ARITY_1	hó	I	1
 ▯ is a magical scroll _BIAS _RAKU_peq _2_RAKU_jıpeq _ARITY_1	máq	I	1
+▯ is a member of genus macaca the macaques _BIAS _RAKU_ka _2_RAKU_kaka _ARITY_1	hó	I	1
 ▯ is tamarind fruit _BIAS _RAKU_kam _2_RAKU_makam _ARITY_1	máq	I	1
 ▯ is marxism _BIAS _RAKU_chuaq _2_RAKU_sachuaq _ARITY_1	hóq	F	1
 ▯ is marxist _BIAS _RAKU_'aı _2_RAKU_chuaq'aı _ARITY_1	tá	F	1
@@ -3322,6 +3394,7 @@ whether ▯ is the case depends on whether ▯ is the case _BIAS _RAKU_kuı _2_R
 predicate ithkuil ▯ is ithkuil iv tnil malëuţřait _BIAS _RAKU_zu _2_RAKU_faızu _ARITY_1 _CAPS	hóq	F	1
 predicate mama ▯ is mama mom mommy mum mother _BIAS _RAKU_mam _ARITY_1	hó	I	1
 predicate m ▯ is the letter m _BIAS _RAKU_mam _ARITY_1	hóq	I	1
+▯ is a member of genus mammuthus the mammoths _BIAS _RAKU_tu _2_RAKU_mamtu _ARITY_1	hó	I	1
 ▯ is mana magical energy _BIAS _RAKU_na _2_RAKU_mana _ARITY_1	máq	I	1
 ▯ is an arcane focus _BIAS _RAKU_go _2_RAKU_kueqgo _ARITY_1	máq	I	1
 ▯ is agate _BIAS _RAKU_pıo _2_RAKU_naopıo _ARITY_1	máq	I	1
@@ -3332,6 +3405,7 @@ predicate banana ▯ is a banana _BIAS _RAKU_ja _2_RAKU_maoja _ARITY_1	máq	I	1
 ▯ is mayonnaise _BIAS _RAKU_neı _2_RAKU_maoneı _ARITY_1	máq	I	1
 ▯ does ▯ too while everyone is doing it ▯ jumps on the doing ▯ bandwagon _BIAS _RAKU_tao _2_RAKU_maotao _ARITY_2	hó	A	2
 predicate its ▯ is máq s the referent of the recent inanimate dp s _BIAS _RAKU_bo _2_RAKU_maqbo _ARITY_1	tá	F	1
+▯ is lazy _BIAS _RAKU_gu _2_RAKU_maqgu _ARITY_1	hó	I	1
 ▯ is a tortilla _BIAS _RAKU_te _2_RAKU_lete _ARITY_1	máq	I	1
 ▯ belongs to the inanimate pronominal class ii _BIAS _RAKU_toa _2_RAKU_maqtoa _ARITY_1	hóq	I	1
 ▯ is fluffy airy soft fuzzy in texture _BIAS _RAKU_ra _2_RAKU_mara _ARITY_1	tá	I	1
@@ -3393,6 +3467,7 @@ predicate mountain ▯ is a mountain hill _BIAS _RAKU_meı _ARITY_1	máq	I	1
 ▯ is a camellia japonica plant _BIAS _RAKU_nıu _2_RAKU_chaınıu _ARITY_1	máq	I	1
 ▯ is a maid _BIAS _RAKU_do _2_RAKU_meıdo _ARITY_1	hó	I	1
 ▯ is a maid outfit costume _BIAS _RAKU_me _2_RAKU_fuqme _ARITY_1	máq	I	1
+▯ is mountain arnica arnica montana _BIAS _RAKU_ka _2_RAKU_nıka _ARITY_1	máq	I	1
 predicate mountain range ▯ is a mountain range _BIAS _RAKU_meım _ARITY_1	máq	I	1
 ▯ is a bump lump bulge protrustion protuberance _BIAS _RAKU_meım _ARITY_1	máq	I	1
 predicate valley ▯ is a valley _BIAS _RAKU_rıe _2_RAKU_meırıe _ARITY_1	máq	I	1
@@ -3504,6 +3579,7 @@ predicate mnemonic ▯ is a mnemonic for remembering ▯ _BIAS _RAKU_chuo _2_RAK
 ▯ is an electronic or mechanical data storage device _BIAS _RAKU_kea _2_RAKU_moaqkea _ARITY_1	máq	I	1
 predicate memory ▯ is a memory _BIAS _RAKU_sıo _2_RAKU_moaqsıo _ARITY_1	hóq	I	1
 predicate forget ▯ forgets ▯ _BIAS _RAKU_shaı _2_RAKU_moaqshaı _ARITY_2	hó	I	2
+▯ memorizes ▯ _BIAS _RAKU_tao _2_RAKU_shuetao _ARITY_2	hó	I	2
 ▯ is memory esp computer memory _BIAS _RAKU_shuo _2_RAKU_moaqshuo _ARITY_1	máq	I	1
 ▯ recalls ▯ _BIAS _RAKU_tao _2_RAKU_moaqtao _ARITY_2	hó	A	2
 ▯ happens precisely the moment that ▯ happens _BIAS _RAKU_rao _2_RAKU_moarao _ARITY_2	hóq	E	2
@@ -3540,6 +3616,7 @@ predicate think ▯ thinks thought ▯ _BIAS _RAKU_moı _ARITY_2	hó	A	2
 ▯ mentally processes ▯ _BIAS _RAKU_guıq _2_RAKU_moıguıq _ARITY_2	hó	A	2
 predicate brain ▯ is a brain _BIAS _RAKU_hua _2_RAKU_moıhua _ARITY_1	máq	I	1
 ▯ is a braincell _BIAS _RAKU_toaı _2_RAKU_huatoaı _ARITY_1	máq	I	1
+▯ is a member of the order mantodea the mantises _BIAS _RAKU_deo _2_RAKU_jıdeo _ARITY_1	hó	I	1
 predicate clever ▯ is clever smart witty intelligent _BIAS _RAKU_joe _2_RAKU_moıjoe _ARITY_1	hó	I	1
 ▯ thinks of saying ▯ ▯ says ▯ in their mind _BIAS _RAKU_kuq _2_RAKU_moıkuq _ARITY_2	hó	I	2
 predicate hesitate ▯ hesitates _BIAS _RAKU_lao _2_RAKU_moılao _ARITY_1	hó	A	1
@@ -3562,6 +3639,8 @@ predicate ponder ▯ ponders concentrates mentally on ▯ _BIAS _RAKU_sı _2_RAK
 ▯ is a question mark _BIAS _RAKU_laı _2_RAKU_moqlaı _ARITY_1	máq	I	1
 ▯ is a mora the phonological timing unit _BIAS _RAKU_ra _2_RAKU_mora _ARITY_1	hóq	I	1
 ▯ is an ant _BIAS _RAKU_rı _2_RAKU_morı _ARITY_1	hó	I	1
+▯ is a member of genus myrmecophaga the giant anteater _BIAS _RAKU_chuq _2_RAKU_ruıchuq _ARITY_1	hó	I	1
+▯ is a formicary anthill _BIAS _RAKU_ruım _2_RAKU_moruım _ARITY_1	máq	I	1
 ▯ is a text _BIAS _RAKU_teo _2_RAKU_moteo _ARITY_1	hóq	I	1
 ▯ is a motorbike _BIAS _RAKU_sıoq _2_RAKU_gusıoq _ARITY_1	máq	I	1
 ▯ is a motorcycle _BIAS _RAKU_sıoq _2_RAKU_tosıoq _ARITY_1	máq	I	1
@@ -3645,14 +3724,17 @@ predicate glove ▯ is a glove _BIAS _RAKU_fuq _2_RAKU_muqfuq _ARITY_1	máq	I	1
 ▯ handles gropes kneads fondles ▯ _BIAS _RAKU_la _2_RAKU_muqla _ARITY_2	hó	A	2
 ▯ is a handful _BIAS _RAKU_ne _2_RAKU_muqne _ARITY_1	máq	I	1
 ▯ is a grenade handheld explosive weapon _BIAS _RAKU_kea _2_RAKU_tuqkea _ARITY_1	máq	I	1
+▯ is a member of the order chiroptera the bats _BIAS _RAKU_shoaı _2_RAKU_muqshoaı _ARITY_1	hó	I	1
 ▯ is a sign language _BIAS _RAKU_zu _2_RAKU_muqzu _ARITY_1	hóq	I	1
 ▯ is artificial _BIAS _RAKU_roa _2_RAKU_muroa _ARITY_1	tá	F	1
 ▯ is a computer mouse _BIAS _RAKU_kea _2_RAKU_sekea _ARITY_1	máq	I	1
 ▯ is muslim relating to islam synonym of po ísılam _BIAS _RAKU_lım _2_RAKU_sılım _ARITY_1	tá	F	1
 ▯ is wood _BIAS _RAKU_so _2_RAKU_muso _ARITY_1	máq	I	1
+▯ is garbage trash junk rubbish filth waste _BIAS _RAKU_te _2_RAKU_mute _ARITY_1	máq	I	1
 ▯ takes out the trash _BIAS _RAKU_la _2_RAKU_buıla _ARITY_1	hó	A	1
 ▯ is the nahuatl language _BIAS _RAKU_zu _2_RAKU_bazu _ARITY_1	hóq	I	1
 ▯ is a hierophant a person who interprets spiritual mysteries _BIAS _RAKU_che _2_RAKU_shuıche _ARITY_1	hó	I	1
+▯ is a member of genus naja the cobras _BIAS _RAKU_ga _2_RAKU_naga _ARITY_1	hó	I	1
 ▯ is garlic _BIAS _RAKU_ho _2_RAKU_naho _ARITY_1	máq	I	1
 ▯ is garlic bread _BIAS _RAKU_nam _2_RAKU_honam _ARITY_1	máq	I	1
 ▯ is the now _BIAS _RAKU_daq _2_RAKU_naıdaq _ARITY_1	hóq	I	1
@@ -3675,6 +3757,7 @@ predicate bread ▯ is bread _BIAS _RAKU_nam _ARITY_1	máq	I	1
 predicate southern sami language ▯ is the southern sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	I	1
 ▯ is dough _BIAS _RAKU_sham _2_RAKU_namsham _ARITY_1	máq	I	1
 predicate n ▯ is the letter n _BIAS _RAKU_naq _2_RAKU_nanaq _ARITY_1	hóq	I	1
+▯ is a member of genus ananas the pineapple and similar plants _BIAS _RAKU_sa _2_RAKU_nasa _ARITY_1	máq	I	1
 predicate water ▯ is water _BIAS _RAKU_nao _ARITY_1	máq	I	1
 ▯ is liquid _BIAS _RAKU_'aı _2_RAKU_nao'aı _ARITY_1	máq	I	1
 ▯ is a water lily _BIAS _RAKU_nıu _2_RAKU_boenıu _ARITY_1	máq	I	1
@@ -3705,6 +3788,7 @@ predicate man ▯ is a male human ▯ is a man _BIAS _RAKU_cha _2_RAKU_'ocha _AR
 ▯ is a tomboy _BIAS _RAKU_lıq _2_RAKU_delıq _ARITY_1	tá	I	1
 predicate boy ▯ is a boy _BIAS _RAKU_deo _2_RAKU_naqdeo _ARITY_1	hó	I	1
 predicate son ▯ is a son male biological offspring of ▯ _BIAS _RAKU_fu _2_RAKU_naqfu _ARITY_2	hó	I	2
+▯ is a rooster cock of genus gallus ▯ is a male chicken _BIAS _RAKU_so _2_RAKU_goso _ARITY_1	hó	I	1
 predicate father ▯ is a father of ▯ ▯ acts as a father towards ▯ _BIAS _RAKU_pao _2_RAKU_naqpao _ARITY_2	hó	I	2
 predicate brother ▯ is a brother of ▯ _BIAS _RAKU_pıa _2_RAKU_naqpıa _ARITY_2	hó	I	2
 predicate father ▯ is a biological father of ▯ _BIAS _RAKU_roaq _2_RAKU_naqroaq _ARITY_2	hó	I	2
@@ -3787,6 +3871,7 @@ predicate snow ▯ is snow _BIAS _RAKU_nıao _ARITY_1	máq	I	1
 ▯ is a snow fungus ▯ is tremella fuciformis _BIAS _RAKU_lıao _2_RAKU_kılıao _ARITY_2	máq	I	2
 ▯ is a snowball _BIAS _RAKU_kıoq _2_RAKU_nıaokıoq _ARITY_1	máq	I	1
 ▯ is an avalanche _BIAS _RAKU_loaı _2_RAKU_nıaoloaı _ARITY_1	hóq	F	1
+▯ is a snow figure _BIAS _RAKU_poq _2_RAKU_nıaopoq _ARITY_1	máq	I	1
 ▯ is a snow globe _BIAS _RAKU_kıoq _2_RAKU_shuakıoq _ARITY_1	máq	I	1
 ▯ is powdered sugar _BIAS _RAKU_tıuq _2_RAKU_nıaotıuq _ARITY_1	máq	I	1
 ▯ is a snowflake _BIAS _RAKU_toaı _2_RAKU_nıaotoaı _ARITY_1	máq	I	1
@@ -3836,6 +3921,7 @@ predicate tooth ▯ is a tooth _BIAS _RAKU_nıoq _ARITY_1	máq	I	1
 ▯ is a cat of the prionailurus genus _BIAS _RAKU_to _2_RAKU_kato _ARITY_1	hó	I	1
 ▯ is dentistry _BIAS _RAKU_dıu _2_RAKU_nıoqdıu _ARITY_1	hóq	I	1
 ▯ is a dentist _BIAS _RAKU_che _2_RAKU_goıche _ARITY_1	hó	I	1
+▯ is a toothed whale _BIAS _RAKU_tea _2_RAKU_ketea _ARITY_1	hó	I	1
 ▯ are gums gingiva _BIAS _RAKU_nueq _2_RAKU_nıoqnueq _ARITY_1	máq	I	1
 ▯ is a cogwheel gear wheel _BIAS _RAKU_sıoq _2_RAKU_nıoqsıoq _ARITY_1	máq	I	1
 ▯ are gears _BIAS _RAKU_me _2_RAKU_sıoqme _ARITY_1	máq	I	1
@@ -3974,6 +4060,7 @@ predicate midnight ▯ is midnight _BIAS _RAKU_chu _2_RAKU_nuaqchu _ARITY_1	hóq
 predicate promise ▯ promises threatens to ▯ to satisfy property ▯ _BIAS _RAKU_nue _ARITY_3	hó	A	3
 ▯ makes promises that they can t or don t intend to keep _BIAS _RAKU_gue _2_RAKU_nuegue _ARITY_1	hó	I	1
 predicate meat ▯ is meat flesh _BIAS _RAKU_nueq _ARITY_1	máq	I	1
+▯ is a sausage made out of meat _BIAS _RAKU_bıu _2_RAKU_nueqbıu _ARITY_1	máq	I	1
 ▯ is a butcher _BIAS _RAKU_che _2_RAKU_nueqche _ARITY_1	hó	I	1
 ▯ is carnelian _BIAS _RAKU_pıo _2_RAKU_kıapıo _ARITY_1	máq	I	1
 ▯ is a shimeji mushroom ▯ is an edible fungus of the lyophyllaceae family _BIAS _RAKU_lıao _2_RAKU_nueqlıao _ARITY_2	máq	I	2
@@ -4031,6 +4118,7 @@ predicate tired ▯ is tired _BIAS _RAKU_kuaı _2_RAKU_nuokuaı _ARITY_1	hó	I	1
 ▯ is the dreamworld _BIAS _RAKU_nuom _ARITY_1	máq	I	1
 predicate reflect ▯ reflects mirrors echoes ▯ _BIAS _RAKU_nuoq _ARITY_2	tá	F	2
 ▯ is june _BIAS _RAKU_nea _2_RAKU_nuoqnea _ARITY_1	hóq	I	1
+▯ agent mirrors action event ▯ with a corresponding action _BIAS _RAKU_tao _2_RAKU_nuoqtao _ARITY_2	hó	I	2
 ▯ is chiral _BIAS _RAKU_zıam _2_RAKU_nuoqzıam _ARITY_1	tá	F	1
 ▯ is in a hypnotic state trance _BIAS _RAKU_shıe _2_RAKU_nuoshıe _ARITY_1	hó	I	1
 predicate fall asleep ▯ falls asleep _BIAS _RAKU_sho _2_RAKU_nuosho _ARITY_1	hó	I	1
@@ -4094,6 +4182,7 @@ predicate ▯ is the letter _BIAS _RAKU_'aom _2_RAKU_o'aom _ARITY_1	hóq	I	1
 ▯ is a sentient being _BIAS _RAKU_cha _2_RAKU_ocha _ARITY_1	hó	A	1
 predicate human ▯ is a human _BIAS _RAKU_cha _2_RAKU_ocha _ARITY_1	hó	I	1
 predicate humanoid ▯ is humanoid human like _BIAS _RAKU_sıu _2_RAKU_chasıu _ARITY_1	hó	I	1
+▯ is a snake _BIAS _RAKU_guı _2_RAKU_oguı _ARITY_1	hó	I	1
 predicate snake ▯ is a snake _BIAS _RAKU_guı _2_RAKU_oguı _ARITY_1	hó	I	1
 ▯ is a poisonous or inedible mushroom ▯ is a toadstool _BIAS _RAKU_lıao _2_RAKU_guılıao _ARITY_1	máq	I	1
 ▯ is snake skin _BIAS _RAKU_pıu _2_RAKU_guıpıu _ARITY_1	máq	I	1
@@ -4153,6 +4242,7 @@ predicate friendly ▯ acts friendly kindly towards ▯ _BIAS _RAKU_ruo _2_RAKU_
 ▯ is on surface page sign screen ▯ _BIAS _RAKU_pam _ARITY_2	tá	S	2
 predicate projector ▯ is a projector _BIAS _RAKU_kea _2_RAKU_pamkea _ARITY_1	máq	I	1
 ▯ pets pats strokes ▯ _BIAS _RAKU_pam _2_RAKU_pampam _ARITY_2	hó	A	2
+▯ is panamanian of from or pertaining to panama or panamanian people _BIAS _RAKU_nam _2_RAKU_panam _ARITY_1	tá	F	1
 ▯ pertains to the culture of panama republic of panama _BIAS _RAKU_nam _2_RAKU_panam _ARITY_1 _CAPS	tá	F	1
 ▯ is panama country _BIAS _RAKU_gua _2_RAKU_namgua _ARITY_1	máq	I	1
 ▯ is the country panama republic of panama _BIAS _RAKU_gua _2_RAKU_namgua _ARITY_1 _CAPS	máq	I	1
@@ -4176,6 +4266,7 @@ predicate panda ▯ is a panda _BIAS _RAKU_da _2_RAKU_paqda _ARITY_1	hó	I	1
 ▯ splits divvies up allots parts of ▯ _BIAS _RAKU_la _2_RAKU_paqla _ARITY_2	hó	A	2
 predicate whole ▯ is whole complete _BIAS _RAKU_muo _2_RAKU_paqmuo _ARITY_1	tá	I	1
 predicate remove ▯ removes from ▯ part ▯ _BIAS _RAKU_nua _2_RAKU_paqnua _ARITY_3	hó	A	3
+▯ is a member of genus pan the chimpanzees including the common chimpanzee and the bonobo _BIAS _RAKU_sım _2_RAKU_paqsım _ARITY_1	hó	I	1
 predicate lose ▯ loses part ▯ _BIAS _RAKU_shaı _2_RAKU_paqshaı _ARITY_2	tá	I	2
 predicate participate ▯ takes part in ▯ ▯ participates in ▯ _BIAS _RAKU_tao _2_RAKU_paqtao _ARITY_2	hó	A	2
 ▯ pertains to the culture of paraguay republic of paraguay _BIAS _RAKU_guaı _2_RAKU_raguaı _ARITY_1 _CAPS	tá	F	1
@@ -4194,6 +4285,7 @@ predicate ago ▯ happened ▯ amount of time ago _BIAS _RAKU_pea _ARITY_2	hóq	
 ▯ is the northern sotho language _BIAS _RAKU_zu _2_RAKU_dızu _ARITY_1 _CAPS	hóq	I	1
 ▯ is the cardinality of anything satisfying property ▯ _BIAS _RAKU_peı _ARITY_2	hóq	F	2
 ▯ is a pecan nut _BIAS _RAKU_kaq _2_RAKU_pekaq _ARITY_1	máq	I	1
+▯ is a member of genus falco the falcons _BIAS _RAKU_ka _2_RAKU_luka _ARITY_1	hó	I	1
 predicate through ▯ passes through ▯ _BIAS _RAKU_peo _ARITY_2	tá	S	2
 ▯ leaks through leaky barrier ▯ _BIAS _RAKU_bıoı _2_RAKU_peobıoı _ARITY_2	tá	I	2
 ▯ is a valve _BIAS _RAKU_kea _2_RAKU_caqkea _ARITY_1	máq	I	1
@@ -4210,6 +4302,7 @@ predicate sheet ▯ is a sheet of paper _BIAS _RAKU_boe _2_RAKU_peqboe _ARITY_1	
 ▯ is a penis _BIAS _RAKU_so _2_RAKU_peso _ARITY_1	máq	I	1
 predicate peta ▯ are 10 sup 15 sup 1 000 000 000 000 000 in number ▯ are a quadrillion _BIAS _RAKU_ta _2_RAKU_peta _ARITY_1	tá	F	1
 ▯ is study of perspective as in a fine arts course _BIAS _RAKU_dıu _2_RAKU_teıdıu _ARITY_1	hóq	I	1
+▯ is a member of genus struthio the ostriches _BIAS _RAKU_gam _2_RAKU_rogam _ARITY_1	hó	I	1
 ▯ is a passerine passeriformes taxonomic order _BIAS _RAKU_teı _2_RAKU_roteı _ARITY_1	hó	I	1
 predicate urine ▯ is urine pee piss _BIAS _RAKU_pı _ARITY_1	máq	I	1
 predicate sibling ▯ is a sibling of ▯ _BIAS _RAKU_pıa _ARITY_2	hó	I	2
@@ -4255,6 +4348,7 @@ predicate rock ▯ is rock material _BIAS _RAKU_pıo _ARITY_1	máq	I	1
 ▯ is a stonecutter _BIAS _RAKU_kea _2_RAKU_toekea _ARITY_1	máq	I	1
 ▯ is coral _BIAS _RAKU_tuaı _2_RAKU_pıotuaı _ARITY_1	máq	I	1
 ▯ is a coral tooth fungus ▯ is hericium coralloides _BIAS _RAKU_lıao _2_RAKU_kıaqlıao _ARITY_2	máq	I	2
+▯ is pepper _BIAS _RAKU_pa _2_RAKU_pıpa _ARITY_1	máq	I	1
 ▯ is a kidney stone _BIAS _RAKU_pıo _2_RAKU_pıpıo _ARITY_1	máq	I	1
 predicate p ▯ is the letter p _BIAS _RAKU_poq _2_RAKU_pıpoq _ARITY_1	hóq	I	1
 ▯ is a peanut _BIAS _RAKU_da _2_RAKU_pıqda _ARITY_1	máq	I	1
@@ -4311,6 +4405,7 @@ predicate toki pona ▯ is toki pona _BIAS _RAKU_zu _2_RAKU_nazu _ARITY_1 _CAPS	
 ▯ is a popup blocker _BIAS _RAKU_rom _2_RAKU_boqrom _ARITY_1	hóq	I	1
 ▯ is a poppy _BIAS _RAKU_pı _2_RAKU_popı _ARITY_1	máq	I	1
 predicate person ▯ is a person _BIAS _RAKU_poq _ARITY_1	hó	I	1
+▯ is a member of genus pongo the orangutans _BIAS _RAKU_go _2_RAKU_poqgo _ARITY_1	hó	I	1
 ▯ is a personal id card _BIAS _RAKU_ta _2_RAKU_kata _ARITY_1	máq	I	1
 ▯ is a robot _BIAS _RAKU_kea _2_RAKU_poqkea _ARITY_1	hó	I	1
 predicate group of people ▯ is a group of people _BIAS _RAKU_me _2_RAKU_poqme _ARITY_1	hó	I	1
@@ -4351,6 +4446,7 @@ predicate toe ▯ is a toe _BIAS _RAKU_cheı _2_RAKU_puecheı _ARITY_1	máq	I	1
 predicate kick ▯ kicks ▯ _BIAS _RAKU_dea _2_RAKU_puedea _ARITY_2	hó	A	2
 predicate shoe ▯ is a shoe _BIAS _RAKU_fuq _2_RAKU_puefuq _ARITY_1	máq	I	1
 predicate sock ▯ is a sock _BIAS _RAKU_gao _2_RAKU_puegao _ARITY_1	máq	I	1
+▯ is soccer football game _BIAS _RAKU_kıoq _2_RAKU_puekıoq _ARITY_1	hóq	E	1
 predicate tread ▯ steps treads on ▯ _BIAS _RAKU_pueq _ARITY_2	hó	A	2
 predicate tread ▯ steps treads _BIAS _RAKU_pueq _ARITY_1	hó	A	1
 predicate hip ▯ is a hip _BIAS _RAKU_shıo _2_RAKU_pueshıo _ARITY_1	máq	I	1
@@ -4376,6 +4472,7 @@ predicate few ▯ are few in number _BIAS _RAKU_tuao _2_RAKU_puıtuao _ARITY_1	t
 ▯ is a historian _BIAS _RAKU_che _2_RAKU_pumche _ARITY_1	hó	I	1
 predicate powder ▯ is powder _BIAS _RAKU_puo _ARITY_1	máq	I	1
 ▯ is a vacuum cleaner _BIAS _RAKU_kea _2_RAKU_pukea _ARITY_1	máq	I	1
+▯ pulverizes ▯ _BIAS _RAKU_tua _2_RAKU_puotua _ARITY_2	hó	A	2
 ▯ is the day before yesterday _BIAS _RAKU_chaq _2_RAKU_puchaq _ARITY_1	hóq	I	1
 predicate multiple ▯ are more than one multiple things _BIAS _RAKU_puq _ARITY_1	tá	F	1
 ▯ is multivariable calculus _BIAS _RAKU_dıu _2_RAKU_toaıdıu _ARITY_1	hóq	I	1
@@ -4508,6 +4605,7 @@ predicate twilight ▯ is a twilight dawn dusk half light glimmering _BIAS _RAKU
 ▯ is colored like the sky at dawn dusk _BIAS _RAKU_reo _2_RAKU_rıaoreo _ARITY_1	máq	I	1
 ▯ is clueless has no idea about the purpose of ▯ and what to do with it _BIAS _RAKU_puq _2_RAKU_rıapuq _ARITY_1	hó	I	1
 predicate place ▯ is a place site _BIAS _RAKU_rıaq _ARITY_1	máq	I	1
+▯ is a member of genus ribes including the blackcurrant redcurrant white currant the gooseberry and other plants _BIAS _RAKU_ba _2_RAKU_rıba _ARITY_1	máq	I	1
 ▯ is riebeckite _BIAS _RAKU_pıo _2_RAKU_bepıo _ARITY_1	máq	I	1
 predicate between ▯ is between amidst among ▯ plural _BIAS _RAKU_rıe _ARITY_2	tá	S	2
 ▯ risks is at risk of satisfying property ▯ _BIAS _RAKU_rıeı _ARITY_2	máq	I	2
@@ -4559,6 +4657,7 @@ predicate parent ▯ is a biological parent of ▯ _BIAS _RAKU_roaq _ARITY_2	hó
 ▯ is ethology _BIAS _RAKU_dıu _2_RAKU_ruodıu _ARITY_1	hóq	I	1
 ▯ is a natural language _BIAS _RAKU_zu _2_RAKU_roazu _ARITY_1	hóq	I	1
 ▯ is a natural disaster _BIAS _RAKU_zuom _2_RAKU_roazuom _ARITY_1	hóq	F	1
+▯ is a member of genus rhododendron _BIAS _RAKU_muao _2_RAKU_doqmuao _ARITY_1	máq	I	1
 predicate healthy ▯ is healthy _BIAS _RAKU_roe _ARITY_1	tá	I	1
 ▯ is good for one s health _BIAS _RAKU_gı _2_RAKU_roegı _ARITY_1	tá	F	1
 predicate recover ▯ recovers ▯ becomes healthy _BIAS _RAKU_sho _2_RAKU_roesho _ARITY_1	tá	I	1
@@ -4605,6 +4704,8 @@ i heard that according to hearsays ▯ is the case _BIAS _RAKU_jı _2_RAKU_duaj�
 ▯ has a vivid saturated floral color _BIAS _RAKU_reo _2_RAKU_ruareo _ARITY_1	máq	I	1
 ▯ is a hummingbird _BIAS _RAKU_shuao _2_RAKU_ruashuao _ARITY_1	hó	I	1
 ▯ is confucian being a confucianist or relating to confucianists or confucianism _BIAS _RAKU_chıa _2_RAKU_ruchıa _ARITY_1	tá	F	1
+▯ is a bramble _BIAS _RAKU_do _2_RAKU_rudo _ARITY_1	máq	I	1
+▯ is a member of genus rubus including the raspberries blackberries dewberries and other plants _BIAS _RAKU_do _2_RAKU_rudo _ARITY_1	máq	I	1
 predicate weak ▯ is weak feeble _BIAS _RAKU_rue _ARITY_1	tá	F	1
 predicate miserable ▯ is miserable dejected melancholy _BIAS _RAKU_rueı _ARITY_1	hó	I	1
 ▯ is a fan _BIAS _RAKU_kea _2_RAKU_rueıkea _ARITY_1	máq	I	1
@@ -4677,6 +4778,7 @@ fork of qmpgdfm1l ▯ is a salami _BIAS _RAKU_lam _2_RAKU_salam _ARITY_1	máq	I	
 ▯ locates finds ▯ _BIAS _RAKU_sam _ARITY_2	hó	A	2
 ▯ is the sambahsa language _BIAS _RAKU_zu _2_RAKU_sazu _ARITY_1 _CAPS	hóq	I	1
 ▯ is an aggregate of things having property ▯ _BIAS _RAKU_sam _ARITY_2	tá	I	2
+▯ is a moth of genus samia in the family saturniidae _BIAS _RAKU_sam _ARITY_1	hó	I	1
 predicate sami language ▯ is a sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	I	1
 ▯ pertains to the culture of samoa independent state of samoa _BIAS _RAKU_sam _ARITY_1 _CAPS	tá	F	1
 ▯ is the country samoa independent state of samoa _BIAS _RAKU_gua _2_RAKU_samgua _ARITY_1 _CAPS	máq	I	1
@@ -4688,8 +4790,10 @@ predicate big ▯ is big large _BIAS _RAKU_sao _ARITY_1	tá	S	1
 ▯ is the country saudi arabia kingdom of saudi arabia _BIAS _RAKU_gua _2_RAKU_dıgua _ARITY_1 _CAPS	máq	I	1
 predicate city ▯ is a city _BIAS _RAKU_doaq _2_RAKU_saodoaq _ARITY_1	máq	I	1
 predicate long while ▯ lasts for a long while _BIAS _RAKU_duo _2_RAKU_saoduo _ARITY_1	hóq	E	1
+▯ is a member of genus cavia guinea pigs cavies _BIAS _RAKU_ja _2_RAKU_saoja _ARITY_1	hó	I	1
 predicate grow ▯ grows gets bigger _BIAS _RAKU_jeaq _2_RAKU_saojeaq _ARITY_1	tá	S	1
 ▯ is a giant puffball ▯ is calvatia gigantea _BIAS _RAKU_lıao _2_RAKU_kıoqlıao _ARITY_2	máq	I	2
+▯ is a hall _BIAS _RAKU_kua _2_RAKU_saokua _ARITY_1	máq	I	1
 ▯ is capitalized _BIAS _RAKU_bo _2_RAKU_laıbo _ARITY_1	máq	I	1
 ▯ is ambitious as a personality trait _BIAS _RAKU_he _2_RAKU_leohe _ARITY_1	hó	I	1
 ▯ is the big ▯ the largest companies within the industry related to ▯ understood collectively as a major economic player _BIAS _RAKU_po _2_RAKU_saopo _ARITY_3	hóq	I	3
@@ -4768,6 +4872,7 @@ predicate sky ▯ is a sky _BIAS _RAKU_seoq _ARITY_1	máq	I	1
 predicate aircraft ▯ is an aircraft plane _BIAS _RAKU_chao _2_RAKU_seoqchao _ARITY_1	máq	I	1
 ▯ is astronomy _BIAS _RAKU_dıu _2_RAKU_seoqdıu _ARITY_1	hóq	I	1
 predicate grasshopper ▯ is a member the suborder caelifera the grasshoppers in the strict sense _BIAS _RAKU_hıe _2_RAKU_seoqhıe _ARITY_1	hó	I	1
+▯ is a member the suborder caelifera the grasshoppers _BIAS _RAKU_hıe _2_RAKU_seoqhıe _ARITY_1	hó	I	1
 ▯ is the milky way _BIAS _RAKU_hıu _2_RAKU_seoqhıu _ARITY_1	máq	I	1
 ▯ talks about everyday matters with ▯ _BIAS _RAKU_keoı _2_RAKU_seoqkeoı _ARITY_2	hó	I	2
 ▯ is an aircraft airplane _BIAS _RAKU_meaq _2_RAKU_seoqmeaq _ARITY_1	máq	I	1
@@ -4791,6 +4896,7 @@ predicate weather ▯ is weather ▯ is the state of the weather _BIAS _RAKU_tue
 ▯ is the country serbia republic of serbia _BIAS _RAKU_gua _2_RAKU_bıagua _ARITY_1 _CAPS	máq	I	1
 ▯ is cool composed nonchalant suave _BIAS _RAKU_sea _2_RAKU_sesea _ARITY_1	tá	F	1
 ▯ is empowered confident having the necessary control of their own situation to accomplish their goal s _BIAS _RAKU_seq _2_RAKU_seseq _ARITY_1	hó	I	1
+▯ is a degree celsius ▯ is ▯ number of property degrees celcius _BIAS _RAKU_sıu _2_RAKU_sesıu _ARITY_2	hóq	I	2
 predicate zetta ▯ are 10 sup 21 sup 1 000 000 000 000 000 000 000 in number ▯ are a sextillion _BIAS _RAKU_ta _2_RAKU_seta _ARITY_1	tá	F	1
 ▯ is a number sieve like eratosthenes _BIAS _RAKU_koaı _2_RAKU_seukoaı _ARITY_1	hóq	F	1
 predicate evening ▯ is an evening _BIAS _RAKU_seum _ARITY_1	hóq	I	1
@@ -4870,6 +4976,7 @@ predicate clean ▯ is clean pure _BIAS _RAKU_sıq _ARITY_1	tá	I	1
 ▯ is a janitor cleaner _BIAS _RAKU_che _2_RAKU_sıqche _ARITY_1	hó	I	1
 ▯ is a mop _BIAS _RAKU_chuım _2_RAKU_sıqchuım _ARITY_1	máq	I	1
 ▯ is the sindarin language _BIAS _RAKU_zu _2_RAKU_rıqzu _ARITY_1 _CAPS	hóq	I	1
+▯ is a member of genus zingiber the true gingers _BIAS _RAKU_ra _2_RAKU_bera _ARITY_1	hó	I	1
 ▯ pertains to the culture of singapore republic of singapore _BIAS _RAKU_ra _2_RAKU_pura _ARITY_1 _CAPS	tá	F	1
 ▯ is the country singapore republic of singapore _BIAS _RAKU_gua _2_RAKU_ragua _ARITY_1 _CAPS	máq	I	1
 ▯ is a wash cloth _BIAS _RAKU_gueq _2_RAKU_sıqgueq _ARITY_1	máq	I	1
@@ -4885,6 +4992,7 @@ predicate washing machine ▯ is a washing machine _BIAS _RAKU_kea _2_RAKU_sıqk
 ▯ leaves in the sense that they stop paying attention to a chat _BIAS _RAKU_shaı _2_RAKU_sıshaı _ARITY_1	hó	I	1
 ▯ is tied bound restrained _BIAS _RAKU_ta _2_RAKU_sıta _ARITY_1	tá	I	1
 ▯ spots picks out ▯ _BIAS _RAKU_taı _2_RAKU_sıtaı _ARITY_2	hó	I	2
+▯ is a member of genus psitaccus containing the grey parrot and the timneh parrot _BIAS _RAKU_ko _2_RAKU_tako _ARITY_1	hó	I	1
 ▯ is a parrot _BIAS _RAKU_ko _2_RAKU_tako _ARITY_1	hó	I	1
 ▯ is bondage _BIAS _RAKU_lea _2_RAKU_talea _ARITY_1	hóq	I	1
 ▯ is the chittagonian language _BIAS _RAKU_zu _2_RAKU_gazu _ARITY_1 _CAPS	hóq	I	1
@@ -5058,6 +5166,7 @@ predicate fast ▯ is fast quick _BIAS _RAKU_suaı _ARITY_1	hóq	F	1
 ▯ is a fast food worker _BIAS _RAKU_che _2_RAKU_haqche _ARITY_1	hó	I	1
 predicate run ▯ runs _BIAS _RAKU_koı _2_RAKU_suaıkoı _ARITY_1	hó	A	1
 predicate in a hurry ▯ is in a hurry feeling the urge to quickly satisfy property ▯ _BIAS _RAKU_kuaı _2_RAKU_suaıkuaı _ARITY_2	hó	I	2
+▯ is a member of genus dromaius the emus _BIAS _RAKU_pue _2_RAKU_suaıpue _ARITY_1	hó	I	1
 ▯ is an emulator virtualization software _BIAS _RAKU_rom _2_RAKU_suamrom _ARITY_1	hóq	I	1
 predicate important ▯ is important _BIAS _RAKU_suao _ARITY_1	tá	F	1
 ▯ is a vip _BIAS _RAKU_che _2_RAKU_suaoche _ARITY_1	hó	I	1
@@ -5189,6 +5298,7 @@ predicate free ▯ is free to do ▯ _BIAS _RAKU_sheı _ARITY_2	hó	I	2
 ▯ freethinks ▯ forms their own ideas and opinions rather than accepting those of other people or traditional social or religious belief systems ▯ practices performs freethought _BIAS _RAKU_sheım _ARITY_1	hó	I	1
 ▯ is a freethinker _BIAS _RAKU_he _2_RAKU_sheımhe _ARITY_1	hó	I	1
 ▯ is a gyroscope _BIAS _RAKU_kea _2_RAKU_sheımkea _ARITY_1	máq	I	1
+▯ liberates ▯ ▯ liberates ▯ such that they are now free to satisfy property ▯ _BIAS _RAKU_tua _2_RAKU_sheıtua _ARITY_3	hó	I	3
 ▯ fears that even if they tried to apologize for ▯ no one would accept it or wish to continue interacting with them _BIAS _RAKU_te _2_RAKU_kute _ARITY_2	hó	I	2
 predicate regret ▯ regrets satisfying property ▯ _BIAS _RAKU_sheo _ARITY_2	hó	I	2
 ▯ apologizes to ▯ for satisfying property ▯ _BIAS _RAKU_kuq _2_RAKU_sheokuq _ARITY_3	hó	A	3
@@ -5210,6 +5320,8 @@ predicate glass shard ▯ is a glass shard ▯ is a piece of broken glass _BIAS 
 predicate leg ▯ is a leg _BIAS _RAKU_shıaq _ARITY_1	máq	I	1
 predicate leg cramp ▯ is a sudden leg cramp charley horse _BIAS _RAKU_fa _2_RAKU_tefa _ARITY_1	hóq	F	1
 ▯ is a dictator despot autocrat tyrant _BIAS _RAKU_che _2_RAKU_caqche _ARITY_1	hó	I	1
+▯ satisfy property ▯ individually one by one _BIAS _RAKU_cha _2_RAKU_shıcha _ARITY_2	tá	F	2
+▯ is a mayfly order ephemeroptera _BIAS _RAKU_shoaı _2_RAKU_chaqshoaı _ARITY_1	hó	I	1
 predicate once ▯ happens once one time _BIAS _RAKU_chıo _2_RAKU_shıchıo _ARITY_1	hóq	P	1
 predicate awake ▯ is awake _BIAS _RAKU_shıe _ARITY_1	hó	I	1
 ▯ has insomnia _BIAS _RAKU_bıa _2_RAKU_shıebıa _ARITY_1	hó	I	1
@@ -5247,6 +5359,7 @@ predicate individual ▯ is an individual _BIAS _RAKU_raı _2_RAKU_shıraı _ARI
 ▯ is a unicycle _BIAS _RAKU_sıoq _2_RAKU_shısıoq _ARITY_1	máq	I	1
 ▯ merges blends together becomes one _BIAS _RAKU_sho _2_RAKU_shısho _ARITY_1	tá	F	1
 ▯ is city pop music _BIAS _RAKU_pu _2_RAKU_popu _ARITY_1	hóq	I	1
+▯ is a unicorn _BIAS _RAKU_tuaq _2_RAKU_shıtuaq _ARITY_1	hó	I	1
 predicate before ▯ is before in the past of ▯ _BIAS _RAKU_shıu _ARITY_2	hóq	E	2
 ▯ is a prefix _BIAS _RAKU_toa _2_RAKU_coetoa _ARITY_1	hóq	I	1
 ▯ forms preconceived belief ▯ _BIAS _RAKU_chı _2_RAKU_shıuchı _ARITY_2	hó	I	2
@@ -5266,11 +5379,13 @@ predicate museum ▯ is a museum _BIAS _RAKU_jıo _2_RAKU_shıumjıo _ARITY_1	m�
 ▯ is pre ejaculate _BIAS _RAKU_nao _2_RAKU_shıunao _ARITY_1	máq	I	1
 ▯ is a prophecy _BIAS _RAKU_se _2_RAKU_ruaqse _ARITY_1	hóq	I	1
 ▯ satisfies property ▯ in advance _BIAS _RAKU_tao _2_RAKU_shıutao _ARITY_2	hó	A	2
+▯ is a member of genus brassica including cabbage mustard and rapes _BIAS _RAKU_toe _2_RAKU_shıutoe _ARITY_1	máq	I	1
 predicate become ▯ becomes such that they satisfy property ▯ _BIAS _RAKU_sho _ARITY_2	tá	F	2
 predicate deep ▯ is deep _BIAS _RAKU_shoa _ARITY_1	tá	S	1
 predicate wing ▯ is a wing _BIAS _RAKU_shoaı _ARITY_1	máq	I	1
 ▯ is a winged horse ▯ is a pegasus _BIAS _RAKU_ku _2_RAKU_'eku _ARITY_1	hó	I	1
 ▯ is a winged horse ▯ is a pegasus _BIAS _RAKU_ku _2_RAKU_'eku _ARITY_1	hó	I	1
+▯ is a winged insect subclass pterygota _BIAS _RAKU_bo _2_RAKU_shoaıbo _ARITY_1	hó	I	1
 ▯ is a winged horse ▯ is a pegasus _BIAS _RAKU_ku _2_RAKU_heku _ARITY_1	hó	I	1
 ▯ feels reverence at the unfathomable depth of ▯ _BIAS _RAKU_sıeq _2_RAKU_shoasıeq _ARITY_2	hó	I	2
 predicate allow ▯ lets ▯ happen ▯ allows ▯ to happen _BIAS _RAKU_shoe _ARITY_2	hó	I	2
@@ -5319,6 +5434,7 @@ predicate bitter ▯ is bitter _BIAS _RAKU_shueq _ARITY_1	tá	I	1
 predicate secret ▯ is secret _BIAS _RAKU_shuı _ARITY_1	tá	F	1
 secret ▯ is spilled leaked comes to light becomes no longer secret _BIAS _RAKU_bıoı _2_RAKU_shuıbıoı _ARITY_1	tá	F	1
 ▯ is cryptology cryptography _BIAS _RAKU_dıu _2_RAKU_chadıu _ARITY_1	hóq	I	1
+▯ is a member of genus cryptocercus the wood roaches or brown hooded cockroaches _BIAS _RAKU_huoı _2_RAKU_shuıhuoı _ARITY_1	hó	I	1
 ▯ hides obscures ▯ _BIAS _RAKU_ja _2_RAKU_shuıja _ARITY_2	hó	A	2
 ▯ has the right to privacy be a private entity _BIAS _RAKU_keaı _2_RAKU_shuıkeaı _ARITY_1	hó	I	1
 ▯ and ▯ talk privately one on one _BIAS _RAKU_keoı _2_RAKU_shuıkeoı _ARITY_2	hó	I	2
@@ -5391,6 +5507,7 @@ predicate intend ▯ intends to satisfy property ▯ _BIAS _RAKU_shao _2_RAKU_ta
 ▯ is a step in doing ▯ _BIAS _RAKU_toaı _2_RAKU_taotoaı _ARITY_2	hóq	F	2
 ▯ to each member of ▯ one after the other does ▯ 2 _BIAS _RAKU_tu _2_RAKU_taotu _ARITY_3	tá	I	3
 ▯ claps their hands _BIAS _RAKU_paq _2_RAKU_tapaq _ARITY_1	hó	A	1
+▯ is a member of genus tapirus the tapirs _BIAS _RAKU_ra _2_RAKU_pıra _ARITY_1	hó	I	1
 predicate self ▯ is related to itself by property ▯ _BIAS _RAKU_taq _ARITY_2	tá	F	2
 ▯ is their usual self _BIAS _RAKU_cem _2_RAKU_taqcem _ARITY_1	hó	I	1
 predicate car ▯ is a car ▯ is an automobile _BIAS _RAKU_chao _2_RAKU_taqchao _ARITY_1	máq	I	1
@@ -5420,6 +5537,7 @@ predicate nipple ▯ is a nipple _BIAS _RAKU_jıeq _2_RAKU_teaqjıeq _ARITY_1	m�
 ▯ solicits woos flirts at ▯ _BIAS _RAKU_kuq _2_RAKU_teaqkuq _ARITY_2	hó	A	2
 predicate mammal ▯ is a mammal _BIAS _RAKU_nıaı _2_RAKU_teaqnıaı _ARITY_1	hó	I	1
 predicate bra ▯ is a bra _BIAS _RAKU_rıaı _2_RAKU_teaqrıaı _ARITY_1	máq	I	1
+▯ is a member of the superorder dinosauria the true dinosaurs _BIAS _RAKU_ra _2_RAKU_saora _ARITY_1	hó	I	1
 ▯ is free of charge ▯ is done for free involves no reward _BIAS _RAKU_cı _2_RAKU_tecı _ARITY_1	tá	E	1
 ▯ are tangled intertwined _BIAS _RAKU_fa _2_RAKU_tefa _ARITY_1	máq	I	1
 ▯ is a pretzel _BIAS _RAKU_nam _2_RAKU_famnam _ARITY_1	máq	I	1
@@ -5429,6 +5547,7 @@ predicate form ▯ is a form shape ▯ is a form shape of ▯ _BIAS _RAKU_teı _
 ▯ is geometry _BIAS _RAKU_dıu _2_RAKU_teıdıu _ARITY_1	hóq	I	1
 ▯ is topology _BIAS _RAKU_dıu _2_RAKU_teıdıu _ARITY_1	hóq	I	1
 ▯ is a design blueprint plan of ▯ _BIAS _RAKU_fuaq _2_RAKU_teıfuaq _ARITY_2	máq	I	2
+▯ is a member of the genus strix the earless owls _BIAS _RAKU_ge _2_RAKU_teıge _ARITY_1	hó	I	1
 ▯ is hard it is hard to change the shape of ▯ _BIAS _RAKU_noa _2_RAKU_teınoa _ARITY_1	máq	I	1
 ▯ satisfy property ▯ by default _BIAS _RAKU_sıao _2_RAKU_teısıao _ARITY_2	tá	F	2
 ▯ is circle ring hoop shaped _BIAS _RAKU_sıoq _2_RAKU_teısıoq _ARITY_1	máq	I	1
@@ -5438,6 +5557,7 @@ predicate form ▯ is a form shape ▯ is a form shape of ▯ _BIAS _RAKU_teı _
 ▯ is an interview questionnaire poll quiz test evaluation set of exercises homework _BIAS _RAKU_tem _ARITY_1	hóq	I	1
 ▯ tests quizzes polls conducts an interview with ▯ _BIAS _RAKU_tem _ARITY_2	hó	A	2
 ▯ is a question _BIAS _RAKU_tem _ARITY_1	hóq	F	1
+▯ is tennis game _BIAS _RAKU_sı _2_RAKU_nısı _ARITY_1	hóq	E	1
 ▯ is a tennis ball _BIAS _RAKU_kıoq _2_RAKU_sıkıoq _ARITY_1	máq	I	1
 predicate question ▯ is a question _BIAS _RAKU_teoq _ARITY_1	hóq	I	1
 ▯ is an interviewer _BIAS _RAKU_che _2_RAKU_teoqche _ARITY_1	hó	I	1
@@ -5471,6 +5591,7 @@ predicate brown ▯ is brown _BIAS _RAKU_tıaq _ARITY_1	tá	I	1
 ▯ is the planet saturn _BIAS _RAKU_te _2_RAKU_nete _ARITY_1 _CAPS	máq	I	1
 ▯ is lignite _BIAS _RAKU_pıo _2_RAKU_taqpıo _ARITY_1	máq	I	1
 predicate tv ▯ pertains to television _BIAS _RAKU_bı _2_RAKU_tıbı _ARITY_1	tá	F	1
+▯ is a tibia shinbone the inner and usually the larger of the two bones of the leg or hind limb below the knee _BIAS _RAKU_bıa _2_RAKU_tıbıa _ARITY_1	máq	I	1
 ▯ has ▯ at it _BIAS _RAKU_bo _2_RAKU_tıbo _ARITY_2	tá	S	2
 ▯ misses ▯ ▯ is sad that ▯ is not there _BIAS _RAKU_bum _2_RAKU_tıbum _ARITY_2	hó	I	2
 predicate miss ▯ misses ▯ ▯ is sad that ▯ is not there _BIAS _RAKU_bum _2_RAKU_tıbum _ARITY_2	hó	I	2
@@ -5489,13 +5610,16 @@ predicate lid ▯ is a lid cover _BIAS _RAKU_chuo _2_RAKU_tıechuo _ARITY_1	máq
 ▯ hears about possibly false fact ▯ _BIAS _RAKU_na _2_RAKU_tıena _ARITY_2	hó	I	2
 predicate path ▯ is a way path _BIAS _RAKU_tıeq _ARITY_1	máq	I	1
 ▯ is lost unable or struggling to find one s way _BIAS _RAKU_bıao _2_RAKU_tıeqbıao _ARITY_1	hó	A	1
+▯ is a network of roads paths _BIAS _RAKU_koaı _2_RAKU_tıeqkoaı _ARITY_1	máq	I	1
 ▯ is a router _BIAS _RAKU_kea _2_RAKU_koekea _ARITY_1	máq	I	1
 ▯ is the spatial end endpoint of ▯ _BIAS _RAKU_fao _2_RAKU_tıfao _ARITY_2	máq	I	2
 ▯ is spatially together with ▯ _BIAS _RAKU_gaq _2_RAKU_tıgaq _ARITY_2	tá	I	2
 ▯ is spatially continuous _BIAS _RAKU_me _2_RAKU_gaqme _ARITY_1	tá	I	1
 predicate far ▯ is far away from ▯ _BIAS _RAKU_jao _2_RAKU_tıjao _ARITY_2	tá	S	2
 predicate near ▯ is near in the vicinity of ▯ _BIAS _RAKU_juı _2_RAKU_tıjuı _ARITY_2	tá	S	2
+▯ waits for ▯ to be there ▯ waits for ▯ to be at place ▯ _BIAS _RAKU_lao _2_RAKU_tılao _ARITY_3	hó	I	3
 ▯ is spatially adjacent to neighbors abuts ▯ _BIAS _RAKU_leaq _2_RAKU_tıleaq _ARITY_2	tá	S	2
+▯ is a member of genus tilia including the lindens the basswoods and the lime tree _BIAS _RAKU_lıa _2_RAKU_tılıa _ARITY_1	máq	I	1
 ▯ is a spot place locus _BIAS _RAKU_tım _ARITY_1	máq	I	1
 ▯ is the country east timor _BIAS _RAKU_gua _2_RAKU_tegua _ARITY_1 _CAPS	máq	I	1
 predicate find ▯ finds discovers ▯ s location _BIAS _RAKU_dua _2_RAKU_nıqdua _ARITY_2	hó	A	2
@@ -5553,6 +5677,7 @@ predicate quantum ▯ is a quantum smallest possible unit of quantity or quantif
 ▯ text is the dictionary form of ▯ text _BIAS _RAKU_teı _2_RAKU_kueteı _ARITY_2	hóq	I	2
 ▯ verbalizes puts ▯ into words _BIAS _RAKU_la _2_RAKU_toala _ARITY_2	hó	A	2
 ▯ is a letter rather than punctuation digit or some other laı _BIAS _RAKU_laı _2_RAKU_toalaı _ARITY_1	máq	I	1
+▯ makes a play on words ▯ makes a pun _BIAS _RAKU_luaq _2_RAKU_toaluaq _ARITY_1	hó	I	1
 ▯ is a pun a play on words _BIAS _RAKU_se _2_RAKU_luaqse _ARITY_1	hóq	F	1
 predicate toaqic ▯ is toaqic ▯ is of or pertaining to toaq _BIAS _RAKU_toaq _ARITY_1 _CAPS	tá	F	1
 ▯ is the toaq dzu way ▯ is how it s done in toaq _BIAS _RAKU_cha _2_RAKU_toaqcha _ARITY_1	hóq	I	1
@@ -5585,6 +5710,7 @@ predicate cut ▯ cuts ▯ into ▯ _BIAS _RAKU_toe _ARITY_3	tá	A	3
 ▯ is a chainsaw _BIAS _RAKU_kea _2_RAKU_chuekea _ARITY_1	máq	I	1
 ▯ is an axe _BIAS _RAKU_chuo _2_RAKU_toechuo _ARITY_1	máq	I	1
 ▯ is a surgeon _BIAS _RAKU_che _2_RAKU_goıche _ARITY_1	hó	I	1
+▯ is a mole of genus talpa containing different species of mole found primarily in europe and western asia _BIAS _RAKU_jı _2_RAKU_toejı _ARITY_1	hó	I	1
 ▯ is a mole cricket family gryllotalpidae _BIAS _RAKU_rı _2_RAKU_chırı _ARITY_1	hó	I	1
 ▯ is a tunnel boring machine _BIAS _RAKU_kea _2_RAKU_jıkea _ARITY_1	máq	I	1
 ▯ is a member of subfamily talpinae old world moles and relatives _BIAS _RAKU_nu _2_RAKU_jınu _ARITY_1	hó	I	1
@@ -5617,6 +5743,7 @@ predicate table ▯ is a table _BIAS _RAKU_fua _2_RAKU_toqfua _ARITY_1	máq	I	1
 ▯ is being patient _BIAS _RAKU_sa _2_RAKU_toqsa _ARITY_1	hó	I	1
 ▯ is genderqueer transgender nonbinary _BIAS _RAKU_sı _2_RAKU_toqsı _ARITY_1	hó	I	1
 ▯ is transphobic _BIAS _RAKU_chı _2_RAKU_tachı _ARITY_1	tá	F	1
+▯ is a chest thorax _BIAS _RAKU_raq _2_RAKU_toraq _ARITY_1	máq	I	1
 predicate knife ▯ is a knife _BIAS _RAKU_rea _2_RAKU_torea _ARITY_1	máq	I	1
 ▯ torrents file ▯ ▯ downloads file ▯ over a protocol like bittorrent _BIAS _RAKU_juq _2_RAKU_reqjuq _ARITY_2	hó	A	2
 ▯ seeds file ▯ ▯ uploads broadcasts file ▯ over a protocol like bittorrent _BIAS _RAKU_zıa _2_RAKU_reqzıa _ARITY_2	hó	A	2
@@ -5667,6 +5794,7 @@ predicate heavy ▯ is heavy _BIAS _RAKU_tuoq _ARITY_1	tá	I	1
 ▯ is a kettle boiler _BIAS _RAKU_kea _2_RAKU_pakea _ARITY_1	máq	I	1
 ▯ is visible airborne condensation or steam _BIAS _RAKU_puao _2_RAKU_papuao _ARITY_1	máq	I	1
 predicate first ▯ is first in sequence ▯ _BIAS _RAKU_fıa _2_RAKU_tuqfıa _ARITY_2	tá	F	2
+▯ is a universe cosmos _BIAS _RAKU_jıaq _2_RAKU_tuqjıaq _ARITY_1	máq	I	1
 ▯ is cosmology _BIAS _RAKU_dıu _2_RAKU_jıaqdıu _ARITY_1	hóq	I	1
 ▯ is the big bang _BIAS _RAKU_tuq _2_RAKU_notuq _ARITY_1 _CAPS	hóq	F	1
 ▯ comprise make up constitute all the parts of whole ▯ _BIAS _RAKU_paq _2_RAKU_tuqpaq _ARITY_2	tá	I	2
@@ -5677,6 +5805,7 @@ predicate last ▯ is last in sequence ▯ _BIAS _RAKU_sıe _2_RAKU_tuqsıe _ARI
 ▯ is physically weak _BIAS _RAKU_rue _2_RAKU_turue _ARITY_1	tá	I	1
 ▯ pertains to the culture of turkey republic of turkey _BIAS _RAKU_ke _2_RAKU_ruke _ARITY_1 _CAPS	tá	F	1
 ▯ is the country turkey republic of turkey _BIAS _RAKU_gua _2_RAKU_kegua _ARITY_1 _CAPS	máq	I	1
+▯ is a member of the genus tyto the true barn owls grass owls and masked owls _BIAS _RAKU_to _2_RAKU_tuto _ARITY_1	hó	I	1
 ▯ is soup _BIAS _RAKU_ze _2_RAKU_tuze _ARITY_1	máq	I	1
 ▯ is soup philosophy _BIAS _RAKU_dıu _2_RAKU_zedıu _ARITY_1	hóq	I	1
 ▯ is a tomato _BIAS _RAKU_zeo _2_RAKU_tuzeo _ARITY_1	máq	I	1
@@ -5995,8 +6124,10 @@ it would be nice if ▯ were true _BIAS _RAKU_gı _2_RAKU_'aogı _ARITY_1	hóq	P
 ▯ uses speaks writes in outdated language ▯ uses speaks writes in outdated form of language ▯ _BIAS _ARITY_2	hó	I	2
 ▯ zgikemfi inalka esefsysajyke ejvekemsefsyda atoiflike ejvejagborkemjilryjvesefsyborxenze a ▯ ▯ _BIAS _ARITY_3	hó	I	3
 ▯ is esperantujo _BIAS _ARITY_1 _CAPS	máq	I	1
+▯ is a hanzi chinese character _BIAS _ARITY_1	hóq	I	1
 ▯ performs cunnilingus on ▯ _BIAS _RAKU_fuo _2_RAKU_leqfuo _ARITY_2	hó	A	2
 ▯ is of near ultraviolet color _BIAS _ARITY_1	máq	I	1
+▯ is a telescope _BIAS _ARITY_1	máq	I	1
 ▯ is a spokesperson spokesman spokeswoman diplomat deputy mediator _BIAS _ARITY_1	hó	I	1
 ▯ is a shield _BIAS _ARITY_1	máq	I	1
 ▯ is dark lacking illumination _BIAS _ARITY_1	máq	I	1
