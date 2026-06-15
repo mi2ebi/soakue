@@ -869,6 +869,12 @@ amralam [(c) (d) hó A] @robintown 2025-02-13 #eOI_5M2RU $en +2
 amseq [(c) (d) máq I] @Laqme 2026-05-08 #YWb90X8PR $en ±
 ▯ is absinthe.
 
+amu [(c) (d) máq I] @Dembim 2026-06-15 #shTAeq3aS $en ±
+predicate: 'object'; ▯ is a discrete physical object/item/thing.
+  Dembim (2026-06-15): I know there's <araı>; I just find it unattractive.
+  Dembim (2026-06-15): Etymology: a priori
+  Dembim (2026-06-15): This deserves a root, anyway.
+
 anaı [particle] @Laqme 2023-12-05 #pQe5GYNjd $en ±
 interjection: 'just kidding!'
 
@@ -1621,7 +1627,7 @@ arabıtıuq @jiqci 2024-11-23 #ifDDIyTzr $en ±
 Arabızu [(c) (d) hóq I] @mimiaoganhaqpy 2022-08-28 #7eqkfmGPp $en ±
 ▯ is the Arabic language.
 
-araı [(c) (d) máq I] @robintown 2023-01-11 #4qlPR5wR8 $en +1
+araı [(c) (d) máq I] @robintown 2023-01-11 #4qlPR5wR8 $en ±
 ▯ is a physical object.
 
 aramoshı [(c) (d) hó I] @fagri 2021-09-25 #iXA8s7nXM $en +2
@@ -8808,6 +8814,9 @@ coegıa @Laqme 2021-08-05 #VgVjgw-Vj $en ±
 coegıu @Laqme 2022-08-06 #3md0adDAQ $en ±
 ▯ is a seam.
 
+coego [(c) (d) máq I] @Dembim 2026-06-15 #d5vK0sv9- $en ±
+predicate: 'fastener'; ▯ is a tack, pin, clip, or other device for attaching things to one another
+
 Coeguaq [(c) (d) tá F] @countries 2026-04-11 #SEATng9akfo $en ±
 ▯ pertains to the culture of United Kingdom – United Kingdom of Great Britain and Northern Ireland.
 
@@ -13432,7 +13441,7 @@ chuecheo @Ilmen 2025-04-27 #KRXWogGlu $en ± %logic
 chuechıo @uakci 2023-05-21 #EZOwB09Kv $en ±
 ▯ alternates between properties ▯.
 
-chuechue [(c) (d) máq I] @uakci 2020-03-02 #8bOgYNxw1 $en +2
+chuechue [(c) (d) máq I] @uakci 2020-03-02 #8bOgYNxw1 $en +3
 ▯ is a choo-choo train.
   uakci (2020-03-02): Infantile term.
   fagri (2021-08-10): +1 perfection
@@ -20191,7 +20200,7 @@ feaoruıq @Laqme 2024-05-26 #i_xj4VODG $en ±
 feaotoı @robintown 2022-08-09 #hQi9SRpat $en ±
 ▯ harasses ▯.
 
-feaq [(c) (d) máq I] @Laqme 2022-12-13 #1ZzbXe4iy $en +1
+feaq [(c) (d) máq I] @Laqme 2022-12-13 #1ZzbXe4iy $en +2
 predicate: ‘rice’; ▯ is rice.
   Dembim (2026-01-30): I like to imagine that this is a culinary term while <rıhı> is more scientific.
 
@@ -21709,7 +21718,7 @@ fuerı @Laqme 2024-11-08 #KZcTuRo_V $en ±
 fueta @jiqci 2023-07-12 #2PFDtbdsP $en ±
 ▯ is a hectare (100x100 meters squared).
 
-fuetoa @salarua 2026-06-13 #rxVALdKt0 $en ±
+fuetoa [(c) (d) hóq I] @salarua 2026-06-13 #rxVALdKt0 $en ±
 ▯ is a drabble (a story written with exactly 100 words)
 
 fufıeq @seaqtaq 2024-07-15 #HBXOsgMDj $en -1
@@ -57796,7 +57805,7 @@ neokıu @fagri 2021-08-02 #aAVLBqWme $en -1
   fagri (2021-08-02): (as the etymology suggests, sufficiently small horizontal surfaces may in context not quality as neokiu because they do not kiu neo)
   fagri (2021-08-02): not to be confused with seoqrea'ai
 
-neom [(c) (d) tá F] @salarua 2022-12-19 #hd233DAgM $en +2
+neom [(c) (d) tá I] @salarua 2022-12-19 #hd233DAgM $en +2
 predicate: ‘standard’; ▯ is standard/canonical
 
 Neom'arabızu [(c) (d) hóq I] @Ilmen 2025-11-01 #LvbDMOtVF $en ±
@@ -60060,6 +60069,7 @@ noga [particle] @Laqme 2022-06-19 #o3CZQFWcr $en +1
 interjection: 'so true! / I know what you mean!'
   Laqme (2022-06-19): "finally someone says it!" "amen!" "big mood!"
   uakci (2023-11-11): also: something like ‘^ this’ under another user’s message
+  nano (2026-06-14): type shit
 
 noga @el 2022-07-24 #QlYJ97yYj $jbo ±
 .i ca'e le valsi cu cnima'o jecu smusmi lu{ .iesai }li'u
@@ -64274,7 +64284,7 @@ pecatureum @seaqtaq 2025-06-18 #wHhk7dPxT $en ±
 ▯ demonstrates sprezzatura in doing ▯
   seaqtaq (2025-06-18): from **pecatura**+**reum**
 
-pecem @seaqtaq 2024-10-16 #zpBcrG_7W $en ±
+pecem [(c) (d) tá I] @seaqtaq 2024-10-16 #zpBcrG_7W $en ±
 ▯ is standard/canonical
 
 pecha @seaqtaq 2024-07-16 #CxOifTTqP $en ±
@@ -64285,6 +64295,10 @@ pedaq @uakci 2023-11-15 #H1YrtBlzW $en ±
 
 Pedızu [(c) (d) hóq I] @eednb 2024-01-01 #Oy5uAyO_T $en ±
 ▯ is the Northern Sotho language.
+
+pefuaı [(c) (d) tá I] @Dembim 2026-06-14 #kRYiGLK2L $en ±
+predicate: 'standard'; ▯ is standard-conforming; ▯ meets all technical requirements for certification by the relevant standards body
+  Dembim (2026-06-14): hyponym: <pecem>, <neom>
 
 peha @el 2022-05-01 #kRcC2OMGS $en ±
 ▯ is figuratively/metaphorically/non-literally true; ▯ figuratively/... satisfies ▯ (JEO frame)
@@ -72033,9 +72047,15 @@ prefix: when used on a number, it means "the element with the atomic number X". 
 
 saı [(c) (d) máq I] @official 2026-02-16 #KdviPjGR2OR $en ±
 predicate: ‘matter’; ▯ is matter/material/substance.
+  Dembim (2026-06-15): kw: physical, object
 
 saı @jiqci 2023-07-31 #ItGHg9J1km $pl ±
 ▯ to materia/substancja/materiał.
+
+saı [(c) (d) tá I] @Dembim 2026-06-15 #-1kfcXGLL $en ±
+predicate: ‘matter’; ▯ is matter/material/substance.
+  Dembim (2026-06-15): Discriminator: 2
+  Dembim (2026-06-15): This differs from <@official saı> only in pronominal class.
 
 saıbeo @uakci 2023-04-17 #-dOEqBgMt $en ±
 ▯ transfigurates/transmutates (in an alchemistic/esoteric sense).
@@ -76078,6 +76098,9 @@ sono @el 2022-07-10 #iw_S_5ps8 $tok ±
 
 sono'acı @Machy 2022-09-29 #brBKjVdzj $en ±
 ▯ is a weak acid.
+
+sononeq [(c) (d) máq I] @Dembim 2026-06-14 #CkyPKuzGx $en ±
+predicate: 'bric-a-brac'; ▯ is a curio/bric-a-brac/object valued for being interesting or pretty.
 
 sope @Ilmen 2025-10-22 #2UPKWZmLE $en ±
 ▯ swap, exchange values, with respect to what they are in relation ▯ with.
@@ -85943,7 +85966,7 @@ Only ▯ satisfies ▯.
 ⚠ tounueqchuq @uakci 2021-10-02 #6TjNzv9nK $en ±
 ▯ is a carnivore; ▯ eats meat exclusively.
 
-⚠ toura @el 2022-11-06 #aYqRZ3OXb $en ±
+⚠ toura @el 2022-11-06 #aYqRZ3OXb $en -1
 ▯ satisfies only ▯/1 (out of the relevant properties)
   el (2022-11-06): obviously it won't be the ONLY property, but it'll be the only one out of the ones you're talking about at the moment
   el (2022-11-06): ex. **toura joepoq** - only a joepoq (and no higher)
@@ -89953,7 +89976,7 @@ zujuaochıaı [(c) (d) hóq F] @mimiaoganhaqpy 2022-10-20 #wdoN4YgLu $en ±
 zujuaodue [(c) (d) hóq F] @uakci 2022-06-23 #MlrWossvK $en ±
 ▯ is grammatically correct.
 
-zujuaokao [(c) (d) hóq F] @uakci 2022-12-19 #TNByQc9yI $en ±
+zujuaokao [(c) (d) hóq F] @uakci 2022-12-19 #TNByQc9yI $en +1
 ▯ is a grammar (writeup).
 
 zujuaome @Laqme 2024-06-11 #n_7NQYwL1 $en ±

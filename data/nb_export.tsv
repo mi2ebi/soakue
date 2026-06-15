@@ -108,6 +108,7 @@ predicate darling ▯ is a darling sweetheart sweetie honey term of endearment u
 ▯ action is devious mischievous sly _BIAS _RAKU_ra _2_RAKU_amra _ARITY_1	tá	E	1
 ▯ agent is devious mischievous sly in character _BIAS _RAKU_lam _2_RAKU_ralam _ARITY_1	hó	A	1
 ▯ is absinthe _BIAS _RAKU_seq _2_RAKU_amseq _ARITY_1	máq	I	1
+predicate object ▯ is a discrete physical object item thing _BIAS _RAKU_am _ARITY_1	máq	I	1
 predicate inari sami language ▯ is the inari sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	I	1
 ▯ is anatolia _BIAS _RAKU_rıaq _2_RAKU_torıaq _ARITY_1 _CAPS	máq	I	1
 predicate sand ▯ is sand _BIAS _RAKU_nı _2_RAKU_anı _ARITY_1	máq	I	1
@@ -686,6 +687,7 @@ predicate tamed ▯ is tame domesticated _BIAS _RAKU_coaq _ARITY_1	hó	I	1
 ▯ is universal in property ▯ ▯ satisfies universal property ▯ ▯ satisfies property ▯ as does everything everyone else _BIAS _RAKU_bı _2_RAKU_cobı _ARITY_2	tá	F	2
 predicate joined ▯ is joined connected to ▯ _BIAS _RAKU_coe _ARITY_2	tá	I	2
 ▯ is a bound morpheme _BIAS _RAKU_su _2_RAKU_cısu _ARITY_1	hóq	I	1
+predicate fastener ▯ is a tack pin clip or other device for attaching things to one another _BIAS _RAKU_go _2_RAKU_coego _ARITY_1	máq	I	1
 ▯ pertains to the culture of united kingdom united kingdom of great britain and northern ireland _BIAS _RAKU_guaq _2_RAKU_coeguaq _ARITY_1 _CAPS	tá	F	1
 ▯ is the country united kingdom united kingdom of great britain and northern ireland _BIAS _RAKU_gua _2_RAKU_guaqgua _ARITY_1 _CAPS	máq	I	1
 ▯ is solder _BIAS _RAKU_ha _2_RAKU_loha _ARITY_1	máq	I	1
@@ -1501,6 +1503,7 @@ predicate hundred ▯ are a hundred in number _BIAS _RAKU_fue _ARITY_1	tá	F	1
 ▯ is slanting oblique askew _BIAS _RAKU_fueq _ARITY_1	tá	F	1
 ▯ is a spirit level _BIAS _RAKU_kı _2_RAKU_dekı _ARITY_1	máq	I	1
 ▯ is an oblique letter _BIAS _RAKU_laı _2_RAKU_fueqlaı _ARITY_1	máq	I	1
+▯ is a drabble a story written with exactly 100 words _BIAS _RAKU_toa _2_RAKU_fuetoa _ARITY_1	hóq	I	1
 ▯ blows _BIAS _RAKU_ha _2_RAKU_fuha _ARITY_1	tá	F	1
 predicate easy ▯ is easy to be in relation ▯ with _BIAS _RAKU_fuı _ARITY_2	tá	F	2
 ▯ is easy _BIAS _RAKU_fuı _ARITY_1	tá	F	1
@@ -3873,7 +3876,7 @@ predicate on ▯ is on ▯ _BIAS _RAKU_neo _ARITY_2	tá	S	2
 ▯ is neodymium _BIAS _RAKU_dım _2_RAKU_neodım _ARITY_1	máq	I	1
 ▯ is a neodymium magnet _BIAS _RAKU_mueı _2_RAKU_dımmueı _ARITY_1	máq	I	1
 ▯ is formal official institutional organized _BIAS _RAKU_neoı _ARITY_1	hóq	F	1
-predicate standard ▯ is standard canonical _BIAS _RAKU_neom _ARITY_1	tá	F	1
+predicate standard ▯ is standard canonical _BIAS _RAKU_neom _ARITY_1	tá	I	1
 ▯ is the modern standard arabic language _BIAS _RAKU_zu _2_RAKU_bızu _ARITY_1 _CAPS	hóq	I	1
 predicate reference grammar ▯ is a reference grammar _BIAS _RAKU_kao _2_RAKU_juaokao _ARITY_1	hóq	F	1
 predicate mr mrs ▯ is a mr mrs ms miss _BIAS _RAKU_neoq _ARITY_1	hó	I	1
@@ -4334,7 +4337,9 @@ predicate for ▯ is the case for by the standard of ▯ _BIAS _RAKU_pe _ARITY_2
 predicate ago ▯ happened ▯ amount of time ago _BIAS _RAKU_pea _ARITY_2	hóq	E	2
 ▯ tears rips rends ▯ _BIAS _RAKU_peaı _ARITY_2	hó	I	2
 ▯ is a shred tatter scrap _BIAS _RAKU_se _2_RAKU_peaıse _ARITY_1	máq	I	1
+▯ is standard canonical _BIAS _RAKU_cem _2_RAKU_pecem _ARITY_1	tá	I	1
 ▯ is the northern sotho language _BIAS _RAKU_zu _2_RAKU_dızu _ARITY_1 _CAPS	hóq	I	1
+predicate standard ▯ is standard conforming ▯ meets all technical requirements for certification by the relevant standards body _BIAS _RAKU_fuaı _2_RAKU_pefuaı _ARITY_1	tá	I	1
 ▯ is the cardinality of anything satisfying property ▯ _BIAS _RAKU_peı _ARITY_2	hóq	F	2
 ▯ is a pecan nut _BIAS _RAKU_kaq _2_RAKU_pekaq _ARITY_1	máq	I	1
 ▯ is a member of genus falco the falcons _BIAS _RAKU_ka _2_RAKU_luka _ARITY_1	hó	I	1
@@ -4814,6 +4819,7 @@ at least one pair among ▯ satisfies binary relationship ▯ _BIAS _RAKU_cheo _
 ▯ cares to bothers to goes even slightly out of their way to satisfy property ▯ _BIAS _RAKU_go _2_RAKU_sago _ARITY_2	hó	I	2
 predicate is false ▯ is false is not the case _BIAS _RAKU_hu _2_RAKU_sahu _ARITY_1	hóq	P	1
 predicate matter ▯ is matter material substance _BIAS _RAKU_saı _ARITY_1	máq	I	1
+predicate matter ▯ is matter material substance _BIAS _RAKU_saı _ARITY_1	tá	I	1
 ▯ is intoxicated tripping drunk high _BIAS _RAKU_bıao _2_RAKU_saıbıao _ARITY_1	hó	I	1
 ▯ is a test tube _BIAS _RAKU_bıu _2_RAKU_saıbıu _ARITY_1	máq	I	1
 ▯ is a reactor _BIAS _RAKU_kea _2_RAKU_cuakea _ARITY_1	máq	I	1
@@ -5170,6 +5176,7 @@ predicate soccer ▯ is soccer football _BIAS _RAKU_ka _2_RAKU_soka _ARITY_1	hó
 ▯ diagnoses inspects debugs ▯ to find out what s wrong with it in order to repair it _BIAS _RAKU_sı _2_RAKU_somsı _ARITY_2	hó	I	2
 ▯ is a circle _BIAS _RAKU_na _2_RAKU_sona _ARITY_1	tá	I	1
 predicate a little ▯ is the case a little bit _BIAS _RAKU_no _2_RAKU_sono _ARITY_1	hóq	P	1
+predicate bric a brac ▯ is a curio bric a brac object valued for being interesting or pretty _BIAS _RAKU_neq _2_RAKU_noneq _ARITY_1	máq	I	1
 ▯ satisfies property ▯ the most _BIAS _RAKU_soq _ARITY_2	tá	F	2
 fork of official predicate ▯ among ▯ is the ▯ est ▯ among ▯ satisfies property ▯ the most _BIAS _RAKU_soq _ARITY_3	tá	F	3
 predicate most ▯ among ▯ satisfies property ▯ the most _BIAS _RAKU_soq _ARITY_3	tá	F	3
