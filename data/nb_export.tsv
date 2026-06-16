@@ -1081,6 +1081,7 @@ predicate temporal end ▯ is the end of ▯ ▯ is the point at which ▯ cease
 predicate previous ▯ is previous to ▯ in time _BIAS _RAKU_fıa _2_RAKU_daqfıa _ARITY_2	hóq	E	2
 ▯ is spacetime _BIAS _RAKU_goa _2_RAKU_daqgoa _ARITY_1	hóq	I	1
 ▯ is the spatiotemporal address of ▯ _BIAS _RAKU_chıu _2_RAKU_goachıu _ARITY_2	hóq	I	2
+predicate ▯ happens during which ▯ happens _BIAS _RAKU_heq _2_RAKU_daqheq _ARITY_2	hóq	E	2
 predicate clock ▯ is a clock _BIAS _RAKU_kea _2_RAKU_daqkea _ARITY_1	máq	I	1
 ▯ is the ▯ th among those satisfying property ▯ sorted by time _BIAS _RAKU_ko _2_RAKU_daqko _ARITY_3	tá	F	3
 ▯ among those satisfying property ▯ is the ▯ th _BIAS _RAKU_ko _2_RAKU_daqko _ARITY_3	tá	F	3
@@ -3751,7 +3752,6 @@ predicate rotate ▯ rotates spins turns _BIAS _RAKU_muoı _ARITY_1	tá	I	1
 predicate made of ▯ is made of ▯ _BIAS _RAKU_muoq _ARITY_2	máq	I	2
 ▯ is materials science _BIAS _RAKU_dıu _2_RAKU_muoqdıu _ARITY_1	hóq	I	1
 ▯ occurs during the whole duration of ▯ _BIAS _RAKU_rao _2_RAKU_muorao _ARITY_2	hóq	E	2
-predicate ▯ is at in over the whole volume of ▯ _BIAS _RAKU_tı _2_RAKU_muotı _ARITY_2	tá	S	2
 predicate mend ▯ mends ▯ ▯ makes ▯ whole ▯ completes ▯ _BIAS _RAKU_tua _2_RAKU_muotua _ARITY_2	hó	A	2
 predicate hand ▯ is a hand _BIAS _RAKU_muq _ARITY_1	máq	I	1
 ▯ is a wristband _BIAS _RAKU_gıa _2_RAKU_beagıa _ARITY_1	máq	I	1
@@ -4574,6 +4574,8 @@ there are ▯ number raku in the word phrase ▯ _BIAS _RAKU_zıu _2_RAKU_kuzıu
 ▯ is a writing system _BIAS _RAKU_nı _2_RAKU_ranı _ARITY_1	hóq	I	1
 predicate when ▯ happens at the same time as ▯ ▯ is simultaneous with ▯ _BIAS _RAKU_rao _ARITY_2	hóq	E	2
 ▯ is temporally continuous _BIAS _RAKU_me _2_RAKU_gaqme _ARITY_1	tá	I	1
+▯ happens during which ▯ happens _BIAS _RAKU_heq _2_RAKU_raoheq _ARITY_2	hóq	E	2
+▯ happens during ▯ _BIAS _RAKU_nıe _2_RAKU_raonıe _ARITY_2	hóq	E	2
 predicate about ▯ pertains to is about ▯ _BIAS _RAKU_raq _ARITY_2	tá	F	2
 ▯ talks about ▯ _BIAS _RAKU_deoq _2_RAKU_raqdeoq _ARITY_2	hó	A	2
 ▯ is familiar acquainted with ▯ _BIAS _RAKU_dua _2_RAKU_raqdua _ARITY_2	hó	I	2

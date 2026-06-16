@@ -9654,7 +9654,7 @@ cuıkuq @uakci 2021-11-07 #eDr-I8DJ9 $en ±
 ▯ tweets (as on Twitter) / toots (as on Mastodon) / microblogs ▯.
   uakci (2021-11-07): < Japanese ツイッター tsuittaa ‘Twitter’ + **cuı** + **kuq**
 
-cuıq [(c) (d) tá F] @uakci 2022-09-28 #KQSX5RGy- $en +2
+cuıq [(c) (d) tá F] @uakci 2022-09-28 #KQSX5RGy- $en +3
 ▯ is profane/despicable [connotation word].
   uakci (2022-09-28): /tsʰuːwɪq/. after **cutao** and @salarua’s **cu** #Kp4IuR5B0
 
@@ -14931,6 +14931,11 @@ daqguo @xorxes 2020-06-05 #JgD6bDjDO $en ±
 daqhe @Machy 2022-05-20 #tUq_3wWwW $en ±
 ▯ is usually the case.
 
+daqheq [(c 0) (d d) hóq E] @Dembim 2026-06-15 #Tqvo-PUCi $en ±
+predicate: ▯ happens, during which ▯ happens.
+  Dembim (2026-06-15): opposite of <daqnıe>
+  Dembim (2026-06-15): synonym: raoheq
+
 daqhıaq @Laqme 2019-01-11 #-9bibEmmt $en ±
 ▯ has little time that they can spend satisfying property ▯.
 
@@ -15076,6 +15081,8 @@ daqne @Ilmen 2020-01-10 #ByYY59NbT $en -1
 daqnıe [(c c) (d d) hóq E] @Ilmen 2018-12-29 #kx8NXBrhw $en +3 %time
 ▯ is within the time-span of ▯.
   uakci (2018-12-29): +1
+  Dembim (2026-06-15): This should probably be (c 0)
+  Dembim (2026-06-15): synonym: raonıe
 
 daqnoeq @jiqci 2024-08-08 #Yj-58g1d2 $en ±
 ▯ is timeless; Proposition ▯ has the same value or interpretation, irregardless of the relative time.
@@ -29095,6 +29102,7 @@ hepetesıu @Ilmen 2018-10-20 #5fB1I90by $en ± %lifeform,animal,vertebrate,mamma
 
 heq [(c c) (d d) tá I] @official 2026-02-16 #W3T4uoEYki $en ±
 predicate: ‘contain’; ▯ contains ▯.
+  Dembim (2026-06-15): Surely this should be S, no?
 
 heq @Laqme 2021-10-05 #pWIkxnbUx $ja ±
 ▯は▯を含んでいる；▯には▯が入っている
@@ -55905,9 +55913,9 @@ muoqtoaı @uakci 2018-12-30 #Wm2jE8UZD $en ±
 muoqtuao @Ilmen 2019-01-07 #LQ_EtnIeU $en -1
 ▯ has a small mass.
 
-muorao [(c c) (d d) hóq E] @Machy 2021-10-08 #-BU3Wy-rO $en +2
+muorao [(c c) (d d) hóq E] @Machy 2021-10-08 #-BU3Wy-rO $en ±
 ▯ occurs during the whole duration of ▯
-  Dembim (2026-06-05): see also <raoheq>
+  Dembim (2026-06-15): I prefer <@Laqme raoheq> or <@Dembim daqheq>
 
 muoseu @Ilmen 2019-03-18 #PXV7J7UO1 $en ± %mathematics,number
 ▯ is an integer/natural number.
@@ -55922,12 +55930,6 @@ muoshaı @Ilmen 2019-12-31 #9ABCnQwNj $en ± %aspect
 
 muotaı @uakci 2022-02-10 #43F5ktSsA $en ±
 ▯ manages to impart onto the whole/full ▯ relation ▯; ▯ finishes ▯ (probably an exhaustable resource, such as food) in performing relation ▯ at it.
-
-muotı [(c c) (d d) tá S] @Dembim 2026-06-04 #lXBZIrjaB $en ±
-predicate: ▯ is at/in/over the whole volume of ▯
-  Dembim (2026-06-04): etym: analogy with <muorao>
-  Dembim (2026-06-05): This might more appropriately be "▯ is entirely at ▯", i.e. no part is not so.
-  Dembim (2026-06-05): Perhaps the same of <muorao>
 
 muotua [(c 0) (d d) hó A] @official 2026-02-16 #KH4oATlfH-I $en ± %action
 predicate: ‘mend’; ▯ mends ▯; ▯ makes ▯ whole; ▯ completes ▯.
@@ -68037,7 +68039,7 @@ raogaqme [(c) (d) tá I] @Dembim 2025-12-31 #eaLjN_2wm $en ±
 raogı @Ilmen 2019-01-20 #YGBRgyBJW $en ±
 ▯ is timely.
 
-raoheq @Laqme 2023-04-13 #rc4fKJpix $en ±
+raoheq [(c 0) (d d) hóq E] @Laqme 2023-04-13 #rc4fKJpix $en ±
 ▯ happens, during which ▯ happens.
   Laqme (2023-04-13): As in, time(e₁) ⊃ time(e₂). Opposite of **raonıe**.
 
@@ -68078,7 +68080,7 @@ raomuo @fagri 2019-12-19 #hd5LyJ-UR $en -1
 ▯ occurs during the whole duration of ▯
   robintown (2022-01-02): keyword: throughout
 
-raonıe @Laqme 2023-04-13 #TfPMKWsRH $en ±
+raonıe [(c 0) (d d) hóq E] @Laqme 2023-04-13 #TfPMKWsRH $en ±
 ▯ happens during ▯.
   Laqme (2023-04-13): "while"
   Laqme (2023-04-13): Means time(e₁) ⊂ time(e₂), whereas **rao** just says they overlap.
@@ -84061,11 +84063,11 @@ tıjaone @Laqme 2024-06-10 #w-dvPpb_H $en ±
 tıjeaq @seaqtaq 2019-09-17 #SqvCW79frHe $en ±
 ▯ spreads throughout ▯
 
-tıjeq @seaqtaq 2019-01-31 #LqGUAz4un $en ± %space
-(fork of #XfrtqNuqD) ▯ (roı) are all at the same place
-
-tıjeq @Ilmen 2020-02-08 #GYoZERAdP $en ± %space
+tıjeq @Ilmen 2020-02-08 #GYoZERAdP $en +1 %space
 ▯ and ▯ occupy exactly the same location in space.
+
+tıjeq @seaqtaq 2019-01-31 #LqGUAz4un $en -1 %space
+(fork of #XfrtqNuqD) ▯ (roı) are all at the same place
 
 tıjeq @Ilmen 2020-02-08 #sNtY2ZOAw $toa -1 %space
 = tı tu goamoa ▯ re ▯.
