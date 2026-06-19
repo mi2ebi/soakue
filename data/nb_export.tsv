@@ -1043,6 +1043,7 @@ predicate edible ▯ is edible _BIAS _RAKU_tıao _2_RAKU_chuqtıao _ARITY_1	tá	
 predicate hope ▯ has hope that ▯ is the case ▯ believes ▯ can happen _BIAS _RAKU_chı _2_RAKU_daıchı _ARITY_2	hó	I	2
 ▯ imagines ▯ _BIAS _RAKU_daım _ARITY_2	hó	A	2
 predicate idea ▯ is an idea _BIAS _RAKU_sıo _2_RAKU_daısıo _ARITY_1	hóq	I	1
+▯ is plausible ▯ looks like it could happen _BIAS _RAKU_sıu _2_RAKU_daısıu _ARITY_1	hóq	E	1
 ▯ is an external acquired separable property of ▯ s _BIAS _RAKU_ta _2_RAKU_daıta _ARITY_2	hóq	P	2
 ▯ is an elder senior respectful term _BIAS _RAKU_lao _2_RAKU_dalao _ARITY_1	hó	I	1
 ▯ is dame in go a point on the board which neither player can claim as territory such as in a seki _BIAS _RAKU_dam _ARITY_1	máq	I	1
