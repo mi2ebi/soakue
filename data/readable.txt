@@ -869,7 +869,7 @@ amralam [(c) (d) hó A] @robintown 2025-02-13 #eOI_5M2RU $en +2
 amseq [(c) (d) máq I] @Laqme 2026-05-08 #YWb90X8PR $en ±
 ▯ is absinthe.
 
-amu [(c) (d) máq I] @Dembim 2026-06-15 #shTAeq3aS $en ±
+amu [(c) (d) máq I] @Dembim 2026-06-15 #shTAeq3aS $en +1
 predicate: 'object'; ▯ is a discrete physical object/item/thing.
   Dembim (2026-06-15): I know there's <araı>; I just find it unattractive.
   Dembim (2026-06-15): Etymology: a priori
@@ -18447,7 +18447,7 @@ event accessor: ‘EVA’; derive a verb referring to the following clause's eve
 ẹ'e @seaqtaq 2023-05-16 #bAMgXB8_H $en -1
 event event accessor verb: transforms a full clause into a verb meaning: ▯ is an event of being an event of [that clause].
 
-e'eq [phrase] @jiqci 2023-05-15 #g6HtyEFhA $en +1
+e'eq [phrase] @jiqci 2023-05-15 #g6HtyEFhA $en +2
 iterjection/onomatopoeaixia: *clears throat*
 
 ea- [particle] @seaqtaq 2025-07-22 #WY6wRb4Ym $en ±
@@ -52507,7 +52507,7 @@ mıala [(c) (d) máq I] @Laqme 2022-07-20 #zCTRGnD-L $en +3
 mıalaıbıa @Hydro 2021-09-06 #ocHNZpxAn $en ±
 ▯ suffers from a syndrome.
 
-mıam [phrase] @uakci 2023-05-20 #fEB6VzURM $en +1
+mıam [phrase] @uakci 2023-05-20 #fEB6VzURM $en +2
 onomatopoeia: miaow
   Laqme (2025-04-28): meow, cat sound
 
@@ -73586,6 +73586,7 @@ seoqshua @seaqtaq 2020-06-29 #IGGrB5O7t $en ±
 
 seoqtue [(c) (d) hóq I] @official 2026-02-16 #yMfZhZTPBOo $en ± %deixis
 predicate: ‘weather’; ▯ is weather; ▯ is the state of the weather.
+  Dembim (2026-06-19): Like <tue>, the subject on this seems off. <Seoqtue> should probably mean something like "▯ is a weather event" and be sE.
 
 seoqtue @jiqci 2023-07-31 #0dv_Eyghbp $pl ± %deixis
 ▯ to pogoda.
@@ -86505,6 +86506,7 @@ tudua @Laqme 2024-05-23 #wXVionS9- $en +1
 
 tue [(c) (d) hóq F] @official 2026-04-06 #Zg_YopQVr $en ± %⚠
 predicate: ‘state’; ▯ is a state / state of affairs / situation.
+  Dembim (2026-06-19): Why is this `F`, rather than `E` (or _maybe_ `P`)?
 
 tue @uakci 2019-01-26 #WfLO9gvmX $en ± %⚠
 ▯ is the event ▯/0.
