@@ -5159,7 +5159,7 @@ boqsa @uakci 2022-02-27 #0XEwSmZYJ $en ±
 boqsaı @seaqtaq 2024-10-02 #RZ1Zc1m_V $en ±
 ▯ is a retardant material inhibiting/preventing process ▯ (property)
 
-boqsıa @seaqtaq 2024-10-24 #9MJSGEcvW $en ±
+boqsıa [(c) (d) hóq E] @seaqtaq 2024-10-24 #9MJSGEcvW $en ±
 ▯ takes place unfettered/unmitigated/wildly/unrestrictedly
 
 boqsoa @seaqtaq 2020-04-20 #vztm07qSg $en ±
@@ -10954,8 +10954,13 @@ chereukea [(c) (d) máq I] @robintown 2023-11-07 #c3vEDpxeT $en ±
 chetue @Laqme 2024-04-28 #_BwNcBCQ1 $en ±
 ▯ is a job/gig (period/event of employment).
 
-cheu [(c 1i) (d d) hó I] @Ilmen 2020-02-29 #xqEAmdmgC $en +1
+cheu [(c 1i) (d d) hó I] @Ilmen 2020-02-29 #xqEAmdmgC $en ±
 ▯ deceitfully/dishonestly satisfies property ▯.
+  Dembim (2026-06-20): With subject-sharing, I don't think this word needs a property slot.
+
+cheu [(c) (d) tá I] @Dembim 2026-06-20 #ueFGL6Po3 $en ±
+predicate: 'deceptive'; ▯ is deceptive/misleading/dishonest/insincere.
+  Dembim (2026-06-20): <rıem> antonym
 
 cheubuq [(c) (d) hó I] @Laqme 2025-05-11 #axEVeOxEi $en +1
 ▯ is a liar.
@@ -32117,14 +32122,14 @@ prefix; X-ful. Full of X (metaphorically or physically, can refer to the event o
   TheAndSys (2026-05-28): "joa huo-domu" -> "busy week"
   evie (2026-06-17): etymology?
 
+huo @Laqme 2023-10-22 #5oTMwX9M0 $en +1 %perception
+▯ hears ▯.
+
 huo [(c) (d) tá F] @official 2026-02-16 #FheVGzNWAck $en ± %perception
 predicate: ‘auditory’; ▯ is auditory; ▯ pertains to the sense of hearing/audition.
 
 huo @jiqci 2023-07-31 #WtIHp3wV7R $pl ± %perception
 ▯ jest słuchowy/związany ze zmysłem słuchu.
-
-huo @Laqme 2023-10-22 #5oTMwX9M0 $en ± %perception
-▯ hears ▯.
 
 huobo @seaqtaq 2020-02-26 #iN95ls21g $en ±
 ▯ has the sound of ▯ (property)
@@ -40372,14 +40377,14 @@ kaq- [particle] @salarua 2023-02-07 #zuhHqOhQT $en ±
 prefix: reduces arity by one and fills dropped place with kága
   salarua (2023-02-07): etymology: abbreviated **kaga**
 
+kaq [(c c) (d d) hó I] @Laqme 2023-10-22 #-9YiR5N7i $en +1 %perception
+▯ sees ▯.
+
 kaq [(c) (d) tá F] @official 2026-02-16 #FUjh1CPzKlZ $en ± %perception
 predicate: ‘visual’; ▯ is visual/optical; ▯ pertains to the sense of sight/vision.
 
 kaq @jiqci 2023-07-31 #MDyjIPEo- $pl ± %perception
 ▯ jest wzrokowy/wizualny/optyczny/związany ze zmysłem wzroku.
-
-kaq [(c c) (d d) hó I] @Laqme 2023-10-22 #-9YiR5N7i $en ± %perception
-▯ sees ▯.
 
 kaq'ıq @uakci 2023-05-13 #PBKJaC78x $en ±
 ▯ has look/appearance (property) ▯.
@@ -49736,7 +49741,7 @@ luaqtoe @TheAndSys 2024-05-17 #Pdvl9Z-HV $en ±
 luaqtoı @Laqme 2024-09-03 #uyHucrE_5 $en ±
 ▯ plays/toys with ▯ by doing ▯ to it.
 
-luaqtue @uakci 2020-02-29 #PN7GZumc8 $en +1
+luaqtue @uakci 2020-02-29 #PN7GZumc8 $en +2
 ▯ is a (game) position.
 
 luaqtue @Ilmen 2020-02-04 #WGy7a3H8E $en -1
@@ -60211,14 +60216,14 @@ nono [(c) (d) hó I] @Laqme 2023-11-09 #_KfS4iNqM $en +2
 nonhumaq @uakci 2023-07-19 #vbi_NjsmQ $en ±
 ▯ is otherkin/therian / a nonhuman entity/being.
 
+noq @Laqme 2023-10-22 #scfb0b6e6 $en +2 %perception,taste
+▯ tastes ▯.
+
 noq [(c) (d) tá F] @official 2026-02-16 #HTqHYfXXXSY $en ± %perception,taste
 predicate: ‘gustatory’; ▯ is gustatory; ▯ pertains to the sense of taste/gustation.
 
 noq @jiqci 2023-07-31 #3dnp-DenQk $pl ± %perception,taste
 ▯ jest smakowy, związany ze zmysłem smaku.
-
-noq @Laqme 2023-10-22 #scfb0b6e6 $en ± %perception,taste
-▯ tastes ▯.
 
 noqba @robintown 2025-01-25 #lDzKLfIpj $nl ±
 tussenwerpsel: 'Smakelijk!'
@@ -66633,14 +66638,14 @@ puaoshıao @Laqme 2023-11-04 #XVbA3j7ft $en ±
 puaotı @seaqtaq 2024-07-24 #lqwhear72 $en ±
 ▯ pepper/litter/powder (the surface/volume of) ▯
 
+puaq @Laqme 2023-10-22 #YMmjPHqZV $en +1 %perception
+▯ touches and feels ▯.
+
 puaq [(c) (d) tá F] @official 2026-02-16 #Ls9eQKkgxgx $en ± %perception
 predicate: ‘somatic’; ▯ is somatic/tactile; ▯ pertains to the sense of touch/somatosensation.
 
 puaq @jiqci 2023-07-31 #lI75OPoQah $pl ± %perception
 ▯ jest czuciowy/dotykowy, związany ze zmysłem dotyku.
-
-puaq @Laqme 2023-10-22 #YMmjPHqZV $en ± %perception
-▯ touches and feels ▯.
 
 puaqbo @seaqtaq 2020-02-26 #vZJA7hq-0 $en ±
 ▯ has the texture of/feels like ▯ (property)
@@ -79550,14 +79555,14 @@ Shı [ja poq] ru bı bu chıaqme póq
 shıposodaoluezeq @jiqci 2024-01-07 #C8j9MvYdZ $en ±
 ▯ is flavin mononucleotide (FMN).
 
+shıq @Laqme 2023-10-22 #oL8jm7NcV $en +2 %perception,olfaction
+▯ smells ▯.
+
 shıq [(c) (d) tá F] @official 2026-02-16 #EBFshABuRXj $en ± %perception,olfaction
 predicate: ‘smell’; ▯ is olfactory; ▯ pertains to the sense of smell/olfaction.
 
 shıq @jiqci 2023-07-31 #P4Mj0Nd98u $pl ± %perception,olfaction
 ▯ jest nosowy/węchowy, związany ze zmysłem węchu.
-
-shıq @Laqme 2023-10-22 #oL8jm7NcV $en ± %perception,olfaction
-▯ smells ▯.
 
 shıqbıru @seaqtaq 2020-01-27 #1DW74gxOA $en ±
 ▯ is a rhinovirus

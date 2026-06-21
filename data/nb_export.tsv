@@ -458,6 +458,7 @@ predicate prevent ▯ prevents ▯ from happening _BIAS _RAKU_boq _ARITY_2	tá	F
 ▯ is a spoilsport buzzkill killjoy party pooper _BIAS _RAKU_che _2_RAKU_boqche _ARITY_1	hó	I	1
 predicate inevitable ▯ is inevitable _BIAS _RAKU_bu _2_RAKU_kıubu _ARITY_1	hóq	P	1
 predicate ▯ is too little the case for ▯ to be the case _BIAS _RAKU_nhoa _2_RAKU_boqnhoa _ARITY_2	hóq	F	2
+▯ takes place unfettered unmitigated wildly unrestrictedly _BIAS _RAKU_sıa _2_RAKU_boqsıa _ARITY_1	hóq	E	1
 predicate flat ▯ is flat _BIAS _RAKU_re _2_RAKU_bore _ARITY_1	tá	I	1
 ▯ is an iron roller press mangle grader smoother device for rendering something smooth flat _BIAS _RAKU_go _2_RAKU_rego _ARITY_1	máq	I	1
 ▯ is a press such as a hydraulic press _BIAS _RAKU_kea _2_RAKU_rekea _ARITY_1	máq	I	1
@@ -837,6 +838,7 @@ predicate each other s ▯ is each other s _BIAS _RAKU_bo _2_RAKU_cheqbo _ARITY_
 ▯ satisfies the predicate that defines cheq _BIAS _RAKU_jeo _2_RAKU_cheqjeo _ARITY_1	tá	F	1
 ▯ is a paper shredder _BIAS _RAKU_kea _2_RAKU_reukea _ARITY_1	máq	I	1
 ▯ deceitfully dishonestly satisfies property ▯ _BIAS _RAKU_cheu _ARITY_2	hó	I	2
+predicate deceptive ▯ is deceptive misleading dishonest insincere _BIAS _RAKU_cheu _ARITY_1	tá	I	1
 ▯ is a liar _BIAS _RAKU_buq _2_RAKU_cheubuq _ARITY_1	hó	I	1
 ▯ is cunning sly crafty wily _BIAS _RAKU_joe _2_RAKU_cheujoe _ARITY_1	hó	I	1
 ▯ tells lie ▯ a statement they don t believe _BIAS _RAKU_kuq _2_RAKU_cheukuq _ARITY_2	hó	I	2
@@ -2662,8 +2664,8 @@ predicate archivist ▯ is an archivist _BIAS _RAKU_che _2_RAKU_jache _ARITY_1	h
 ▯ is ransomware _BIAS _RAKU_rom _2_RAKU_toırom _ARITY_1	hóq	I	1
 ▯ is an optical hard drive _BIAS _RAKU_sıoq _2_RAKU_kaosıoq _ARITY_1	máq	I	1
 ▯ is a cappuccino _BIAS _RAKU_no _2_RAKU_chıno _ARITY_1	máq	I	1
-predicate visual ▯ is visual optical ▯ pertains to the sense of sight vision _BIAS _RAKU_kaq _ARITY_1	tá	F	1
 ▯ sees ▯ _BIAS _RAKU_kaq _ARITY_2	hó	I	2
+predicate visual ▯ is visual optical ▯ pertains to the sense of sight vision _BIAS _RAKU_kaq _ARITY_1	tá	F	1
 ▯ is blind _BIAS _RAKU_cıa _2_RAKU_kaqcıa _ARITY_1	hó	I	1
 predicate optical tool ▯ is an optical tool _BIAS _RAKU_chuo _2_RAKU_kaqchuo _ARITY_1	máq	I	1
 ▯ is visually beautiful ▯ is pleasant to look at ▯ is pleasing to the eye _BIAS _RAKU_de _2_RAKU_kaqde _ARITY_1	tá	S	1
