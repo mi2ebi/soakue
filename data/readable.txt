@@ -8532,7 +8532,7 @@ cıolıq @Laqme 2022-05-15 #amuR5Rpm- $en ±
 cıonaq @Laqme 2022-05-15 #lV03jukLO $en ±
 ▯ is an adolescent boy / young man.
 
-cıoq @fagri 2021-07-31 #fbv_nYFN9 $en ±
+cıoq @fagri 2021-07-31 #fbv_nYFN9 $en +1
 ▯ is a button/dial/lever/switch/control
 
 cıoq @el 2022-07-10 #D4DjrXYjF $tok ±
@@ -10954,13 +10954,13 @@ chereukea [(c) (d) máq I] @robintown 2023-11-07 #c3vEDpxeT $en ±
 chetue @Laqme 2024-04-28 #_BwNcBCQ1 $en ±
 ▯ is a job/gig (period/event of employment).
 
+cheu [(c) (d) hó I] @Dembim 2026-06-20 #ueFGL6Po3 $en +1
+predicate: 'deceptive'; ▯ is deceptive/misleading/dishonest/insincere.
+  Dembim (2026-06-20): <rıem> antonym
+
 cheu [(c 1i) (d d) hó I] @Ilmen 2020-02-29 #xqEAmdmgC $en ±
 ▯ deceitfully/dishonestly satisfies property ▯.
   Dembim (2026-06-20): With subject-sharing, I don't think this word needs a property slot.
-
-cheu [(c) (d) tá I] @Dembim 2026-06-20 #ueFGL6Po3 $en ±
-predicate: 'deceptive'; ▯ is deceptive/misleading/dishonest/insincere.
-  Dembim (2026-06-20): <rıem> antonym
 
 cheubuq [(c) (d) hó I] @Laqme 2025-05-11 #axEVeOxEi $en +1
 ▯ is a liar.
@@ -14326,7 +14326,7 @@ daıneq @lassc 2025-11-19 #D438lzeNX $en ±
 daınoeq @uakci 2023-02-12 #Cpdj-LVU8 $en ±
 ▯ happens instead of ▯.
 
-daırabu @jiqci 2023-05-23 #M8z_qHlxv $en ±
+daırabu @jiqci 2023-05-23 #M8z_qHlxv $en -1
 ▯ may or may not be the case, may or may not have property ▯.
 
 daısı @Laqme 2025-05-05 #uQG1mPO-Q $en +1
@@ -21227,14 +21227,14 @@ foao @uakci 2022-08-19 #i33q0t1Ft $en ±
 object-incorporating verb: turns following phrase X into verb: X is with ▯ in relation ▯.
   uakci (2022-08-19): supersedes **loao**/**foao** by giving it/them a viable frame
 
-foaq [(c 1i) (d d) hó I] @official 2026-02-16 #yPoxucqkuPW $en ± %perception
-predicate: ‘comfortable’; ▯ is comfortable; ▯ feels comfort; ▯ feels comfort in satisfying property ▯.
+foaq @Laqme 2024-08-22 #JtGclO9iR $en +1 %perception
+▯ is comfortable / feels comfort.
 
 foaq @jiqci 2023-07-31 #hiw45ySekV $pl ± %perception
 ▯ czuje się wygodnie/komfortowo spełniając własność ▯.
 
-foaq @Laqme 2024-08-22 #JtGclO9iR $en ± %perception
-▯ is comfortable / feels comfort.
+foaq [(c 1i) (d d) hó I] @official 2026-02-16 #yPoxucqkuPW $en -1 %perception
+predicate: ‘comfortable’; ▯ is comfortable; ▯ feels comfort; ▯ feels comfort in satisfying property ▯.
 
 foaqduı @seaqtaq 2024-09-15 #4-YQngJv0 $en ±
 ▯ is in a state of excessive complacency and/or laziness to commit to completing the negligibly inconvenient act ▯ which would result in making oneself more comfortable or otherwise more satisfied overall
@@ -43326,9 +43326,6 @@ koe @Ilmen 2022-10-27 #mrL9hLn8I $en ± %cognition,quaternary_predicate
 koe @jiqci 2023-07-31 #k8vcqB4um $pl ± %cognition,quaternary_predicate
 ▯ wybiera/decyduje ▯. [p. komentarze pod **jioq**]
 
-koe [(c c c 2ij) (d d n d) hó A] @official 2026-02-16 #2aJL-UBd0hU $en -1 %cognition,quaternary_predicate
-predicate: ‘choose’; ▯ chooses ▯ out of ▯ for ▯.
-
 koe [(c c) (d d) hó A] @evie 2026-04-18 #CLqur8gj7 $en ± %cognition,quaternary_predicate
 ▯ chooses ▯
   evie (2026-04-18): **chábu** for alternatives and **ôı** for usecase
@@ -63229,7 +63226,7 @@ opuru @Ilmen 2024-03-19 #ivsSBt_o8 $en ±
 ▯ is a vampire.
   Ilmen (2024-03-19): Etymology: Proto-Turkic ⟪ōpur⟫.
 
-oq [particle] @fagri 2021-07-28 #u8vcOf5Ul $en ±
+oq [particle] @fagri 2021-07-28 #u8vcOf5Ul $en -1
 Particle: accepts a predicate in the fourth tone and produces a high adverb that takes no complement
 
 ôq [particle] @Laqme 2023-02-18 #70rCWf6zQ $en +4
@@ -64410,6 +64407,7 @@ peluka [(c) (d) hó I] @Hoemai 2019-04-03 #jJU9RbSq8 $en ±
 pém @uakci 2023-10-25 #bXz_-3Bxo $en ±
 particle: turn following noun phrase X into an intensional reading of it, more or less: “things X was/will be / would be / could have been”
   uakci (2023-10-25): pretend this is like a PO that’s lexicalized with the definite determiner. since PO capture quantified variables by means of an internal CP (and CP’s capture QP’s and are referentially opaque), you could think of this as turning the possibly quantified noun phrase (<<e, t>, t>) into one that also captures intension as <s, <<e, t>, t>> maybe???????
+  evie (2026-06-22): fixed type notation stuff (to prevent them turning into links): ⟨⟨e, t⟩, t⟩ and ⟨s, ⟨⟨e, t⟩, t⟩⟩ respectively
 
 pema @seaqtaq 2024-10-16 #5gd2Iotq4 $en ±
 ▯ is a reference frame/view/standard.
@@ -69537,7 +69535,7 @@ rıeloaıdıu [(c) (d) hóq I] @salarua 2023-12-18 #48irRCmF7 $en ±
 rıeloaıdıuche [(c) (d) hó I] @salarua 2023-12-18 #KY_hxK6eb $en ±
 ▯ is a rheumatologist.
 
-rıem [(c) (d) tá I] @Laqme 2023-12-11 #xdjlEBAhO $en +1
+rıem [(c) (d) hó I] @Laqme 2023-12-11 #xdjlEBAhO $en +1
 ▯ is candid/honest/frank/sincere/forthright.
 
 rıemchaı [(c) (d) máq I] @Laqme 2023-12-15 #E_i30B9WI $en +1
@@ -73595,6 +73593,9 @@ predicate: ‘weather’; ▯ is weather; ▯ is the state of the weather.
 
 seoqtue @jiqci 2023-07-31 #0dv_Eyghbp $pl ± %deixis
 ▯ to pogoda.
+
+seoqtue [(c) (d) hóq E] @Dembim 2026-06-21 #HtWYfvPuT $en ± %deixis
+predicate: ‘weather’; ▯ is an event of weather
 
 seoqtuedıu [(c) (d) hóq I] @Laqme 2018-10-03 #6fvwBbR9p $en ±
 ▯ is meteorology.
@@ -78319,20 +78320,23 @@ she @Ilmen 2019-01-31 #-5C3mnuMa $toa -1 %logic,modal,duplicate
 = [00] To ra jeo dóshı to bu dógu.
   uakci (2019-04-14): +1
 
-shea [(c 1i) (d d) tá I] @official 2026-02-16 #O2s7vLkGD53 $en ± %⚠
-predicate: ‘empty’; ▯ is empty in aspect ▯.
-
 shea @robintown 2022-08-10 #Is-ZZKem- $toa ± %⚠
 Muo bu ıq ▯ ▯.
-
-shea @uakci 2022-10-31 #oDe100dLt $en ± %⚠
-▯ satisfies relation ▯ with nobody and nothing; ▯ doesn’t satisfy relation ▯ with anybody or anything.
 
 shea @uakci 2022-10-31 #PGBm82BR7 $toa ± %⚠
 cuoı [ja] sıa [ja] da
 
 shea @jiqci 2023-07-31 #mizUVKBmvG $pl ± %⚠
 ▯ jest pusty pod względem ▯.
+
+shea [(c 1i) (d d) tá I] @official 2026-02-16 #O2s7vLkGD53 $en -1 %⚠
+predicate: ‘empty’; ▯ is empty in aspect ▯.
+
+shea [(c c) (d d) tá F] @evie 2026-06-21 #XfXHj8ZkM $en ± %⚠
+▯ is empty of ▯; ▯ doesn't have ▯ in it
+
+shea @uakci 2022-10-31 #oDe100dLt $en -1 %⚠
+▯ satisfies relation ▯ with nobody and nothing; ▯ doesn’t satisfy relation ▯ with anybody or anything.
 
 sheabaga @Ilmen 2023-03-14 #TyFzv0ksu $en ±
 ▯ sucks, applies suction on ▯ (pulling it via pressure differential).
@@ -96074,7 +96078,7 @@ This building has three rooms.
 Paq sá shıaq jo nháo da. [phrase] @examples 2026-04-11 #dGL4_wpvlh5J $en ±
 It has four legs.
 
-peı meamıq @Ilmen 2019-02-04 #Uf-cJQzTq $en +1
+peı meamıq @Ilmen 2019-02-04 #Uf-cJQzTq $en ±
 ▯ is infinity (mathematical constant ∞).
   uakci (2019-02-04): +1 ∞)
 
