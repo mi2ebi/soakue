@@ -4739,6 +4739,9 @@ boenao @Machy 2020-05-01 #8vMjHGwBj $en ±
 boepaq @seaqtaq 2024-10-14 #1hmyJfCyM $en ±
 ▯ is a layer of ▯.
 
+boepaq [(c c) (d d) máq I] @Ilmen 2026-06-22 #y2GEj3lUc $en ±
+▯ is a cross-section of ▯.
+
 boepata @seaqtaq 2019-02-01 #YBXRLhfyQ $en ±
 ▯ is a chip
   seaqtaq (2019-02-01): Mủa mó mủqdōa súq jí céa pỏ bóepātā ba teo
@@ -10972,6 +10975,10 @@ cheuchea @jiqci 2023-11-12 #42mLc0h5t $en ±
 cheufuı @seaqtaq 2025-07-07 #6HsXwtRU1 $en ±
 ▯ is deceptively easy to be in relation ▯ with.
 
+cheugı [(c) (d) hó I] @Dembim 2026-06-22 #B595gZijJ $en ±
+predicate: 'tactful'; ▯ is tactful/diplomatic.
+  Dembim (2026-06-22): cf. <soaojoe>
+
 cheuhataı @jiqci 2024-07-06 #PBKqI9UX5 $en ±
 ▯ outsmarts / outwits / outfoxes ▯.
 
@@ -11602,6 +11609,10 @@ chıeq @jiqci 2023-07-31 #PrxzDZ0yPb $pl ± %mathematics,geometry
 
 chıeqcha @uakci 2022-08-07 #KLDLLk0Kd $en ±
 ▯ happens in a motion across ▯.
+
+chıeqchu [(c c) (d d) máq I] @Ilmen 2026-06-22 #L_tN2X0Sc $en ±
+▯ is the section-wise middle of ▯.
+  Dembim (2026-06-22): To be clear, IIUC, ▯ is the length-spanning middle section of ▯, e.g. the middle lane of a three-lane road.
 
 chıeqdao @uakci 2021-09-27 #bdiU43St6 $en ±
 ▯ is a hashtag.
@@ -16315,7 +16326,7 @@ dıeqse @robintown 2025-01-30 #QkYaLus5D $en ±
 dıeqte @Laqme 2024-05-01 #HjVDNI0_j $en ±
 ▯ is a packet / parcel / shipment.
 
-dıese @uakci 2023-10-01 #UR-MtQVCG $en ±
+dıese [(c) (d) hóq I] @uakci 2023-10-01 #UR-MtQVCG $en ±
 ▯ is a piece/word of advice.
   Laqme (2023-11-22): suggestion
 
@@ -42266,9 +42277,6 @@ kıdonıaqme [(c) (d) hóq F] @TheAndSys 2025-02-01 #8Li3GJtOz $en ±
 kıdopıu @jiqci 2023-05-31 #sKEwsGuMH $en ±
 ▯ is patina/verdigris (copper rust)
 
-kıe [(c c 1j) (d d d) hó I] @official 2026-02-16 #TnGt5zHqooV $en ± %emotion
-predicate: ‘thankful’; ▯ is thankful/grateful to ▯ for satisfying property ▯.
-
 kıe [(c) (d) hó I] @Dembim 2026-06-10 #rOi67HPth $en +1 %emotion
 predicate: 'grateful'; ▯ is/feels grateful.
   Dembim (2026-06-12): Emotions are unary.
@@ -42281,6 +42289,9 @@ kıe @zearen 2023-03-07 #vuzO-BicI $jbo ± %emotion
 
 kıe @jiqci 2023-07-31 #Yt7_5PSKAH $pl ± %emotion
 ▯ jest wdzięczny ▯ za spełnienie własności ▯.
+
+kıe [(c c 1j) (d d d) hó I] @official 2026-02-16 #TnGt5zHqooV $en -1 %emotion
+predicate: ‘thankful’; ▯ is thankful/grateful to ▯ for satisfying property ▯.
 
 kıe @uakci 2019-04-14 #IV_Uq_OFu $toa -1 %emotion
 tıaojaı dóshı jêo dógu dósaq lũı ru jùqgı dóshı da
@@ -54118,7 +54129,7 @@ moetuaı [(c c) (d d) hó I] @uakci 2018-10-02 #GOqTtZ1EE $en +1
 moeꝡera @Ilmen 2023-03-23 #1GXkLiiYl $en ±
 ▯ has psychological trauma, an “emotional wound”.
 
-mogu [(c) (d) máq I] @robintown 2023-02-07 #HcLUxKzyM $en +1
+mogu [(c) (d) máq I] @robintown 2023-02-07 #HcLUxKzyM $en +2
 ▯ is ink.
   robintown (2023-02-07): From Old Chinese '墨'
 
@@ -68034,12 +68045,9 @@ raofaza @cateyes 2025-10-09 #4Jkp9rP5w $en ±
 ▯ is ingrain wallpaper
   cateyes (2025-10-09): loaned from German Raufaser(tapete)
 
-raogaqme [(c) (d) tá I] @Dembim 2025-12-31 #eaLjN_2wm $en ±
-▯ is temporally continuous
-  Dembim (2026-01-09): Frame: c
-  Dembim (2026-01-28): Pronominal_class: ta
-  Dembim (2026-02-13): Subject: individual
-  Dembim (2026-02-13): Distribution: d
+raogaq [(c c) (d d) tá I] @Dembim 2026-06-22 #2JA84GeIr $en ±
+▯ is temporally together with ▯; ▯ and ▯ are contemporaries
+  Dembim (2026-06-22): kw: contemporary
 
 raogı @Ilmen 2019-01-20 #YGBRgyBJW $en ±
 ▯ is timely.
@@ -68112,7 +68120,7 @@ raoshe @Ilmen 2021-11-03 #JcE0d0mHC $en ±
 raoshı @Laqme 2025-08-03 #NwgHGLC_7 $en ±
 ▯ are simultaneous / (all) at once / (all) at the same time.
 
-raoshıaı @jiqci 2025-12-31 #gah7LHvWB $en ±
+raoshıaı @jiqci 2025-12-31 #gah7LHvWB $en +1
 ▯ is temporally continuous/contiguous.
 
 raoshıdaq @Laqme 2025-08-03 #0VDZZ2r_Q $en ±
@@ -75469,7 +75477,7 @@ soaojeqda'eı @Ilmen 2026-02-05 #XLDkNIdMH $en ±
 soaojıaq @Laqme 2023-12-08 #rMAJkpmmP $en ±
 ▯ is (a) society.
 
-soaojoe [(c) (d) tá F] @Ilmen 2024-12-27 #WajXEIRtU $en +1
+soaojoe [(c) (d) hó I] @Ilmen 2024-12-27 #WajXEIRtU $en +1
 ▯ is socially skilled, tactful.
 
 soaojua [(c) (d) tá F] @Laqme 2024-04-26 #kXxeg1Cqz $en +1
@@ -84025,9 +84033,6 @@ tıgaı @el 2022-11-28 #yut-rBcqJ $en ±
 tıgaı @el 2022-12-03 #0hx7TaSZG $toa -1
 = gaı tı
 
-tıgaq @uakci 2019-01-11 #QOqptq9Ui $en ±
-▯ stays with ▯ at ▯.
-
 tıgaq [(c c) (d d) tá I] @Dembim 2025-12-31 #Hiz1VG1wx $en ±
 ▯ is spatially together with ▯
   Ilmen (2025-12-31): discriminator: 2
@@ -84036,12 +84041,8 @@ tıgaq [(c c) (d d) tá I] @Dembim 2025-12-31 #Hiz1VG1wx $en ±
   Dembim (2026-02-12): Subject: individual
   Dembim (2026-02-12): Distribution: d d
 
-tıgaqme [(c) (d) tá I] @Dembim 2025-12-31 #LIgu7WiDC $en ±
-▯ is spatially continuous
-  Dembim (2026-01-09): Frame: c
-  Dembim (2026-01-28): Pronominal_class: ta
-  Dembim (2026-02-12): Subject: individual
-  Dembim (2026-02-12): Distribution: d
+tıgaq @uakci 2019-01-11 #QOqptq9Ui $en -1
+▯ stays with ▯ at ▯.
 
 tıgıq @Laqme 2023-07-18 #MJ0vEaExz $en ±
 ▯ is absent from ▯.
@@ -84527,7 +84528,7 @@ tıshatı @Laqme 2022-03-18 #IZ13Ud5Ng $en ±
 tıshatua @fagri 2020-02-05 #-Np8t30L_ $en ±
 ▯ brings ▯ to ▯
 
-tıshıaı @jiqci 2025-12-31 #vL29TjFxd $en ±
+tıshıaı @jiqci 2025-12-31 #vL29TjFxd $en +1
 ▯ is spatially continuous/contiguous.
 
 tısho @Machy 2020-05-25 #fSkXQJBDA $en ±
