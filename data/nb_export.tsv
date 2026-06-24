@@ -881,6 +881,7 @@ predicate learn ▯ learns to satisfy property ▯ ▯ learns how to satisfy pro
 ▯ is a student id card _BIAS _RAKU_ta _2_RAKU_kata _ARITY_1	máq	I	1
 ▯ is a school the institution itself not the building _BIAS _RAKU_chem _2_RAKU_chıechem _ARITY_1	hóq	I	1
 ▯ teaches ▯ ▯ _BIAS _RAKU_ja _2_RAKU_chıeja _ARITY_3	hó	A	3
+predicate teach ▯ teaches how to satisfy ▯ _BIAS _RAKU_ja _2_RAKU_chıeja _ARITY_2	hó	A	2
 ▯ is a teacher _BIAS _RAKU_che _2_RAKU_jache _ARITY_1	hó	I	1
 predicate school ▯ is a school _BIAS _RAKU_jıo _2_RAKU_chıejıo _ARITY_1	máq	I	1
 ▯ is a flashcard _BIAS _RAKU_ta _2_RAKU_kata _ARITY_1	máq	I	1
@@ -1263,7 +1264,6 @@ predicate wise ▯ is wise _BIAS _RAKU_gı _2_RAKU_duagı _ARITY_1	hó	I	1
 predicate foolish ▯ is foolish _BIAS _RAKU_huı _2_RAKU_duahuı _ARITY_1	hó	I	1
 predicate must ▯ must satisfy property ▯ _BIAS _RAKU_duaı _ARITY_2	tá	F	2
 ▯ must be the case ▯ must be the case if ▯ is the case _BIAS _RAKU_duaı _ARITY_2	hóq	P	2
-predicate must ▯ agent is obligated to satisfy ▯ _BIAS _RAKU_duaı _ARITY_2	hó	I	2
 ▯ is a tautology universal fact invariant _BIAS _RAKU_dao _2_RAKU_duaıdao _ARITY_1	hóq	P	1
 ▯ is conscripted into the armed forces ▯ undergoes compulsory military service _BIAS _RAKU_che _2_RAKU_soıche _ARITY_1	hó	I	1
 ▯ is mysterious _BIAS _RAKU_jua _2_RAKU_duajua _ARITY_1	tá	F	1
@@ -1547,6 +1547,7 @@ predicate enjoy ▯ enjoys sensing observing ▯ _BIAS _RAKU_pua _2_RAKU_gaıpua
 ▯ is the planet earth _BIAS _RAKU_ja _2_RAKU_gaja _ARITY_1	máq	I	1
 ▯ teaches ▯ to satisfy property ▯ _BIAS _RAKU_le _2_RAKU_gale _ARITY_3	hó	A	3
 predicate teach ▯ teaches learner ▯ _BIAS _RAKU_le _2_RAKU_gale _ARITY_2	hó	A	2
+predicate teach ▯ teaches _BIAS _RAKU_le _2_RAKU_gale _ARITY_1	hó	A	1
 ▯ is a teacher _BIAS _RAKU_che _2_RAKU_leche _ARITY_1	hó	I	1
 ▯ is a teacher of student s ▯ _BIAS _RAKU_che _2_RAKU_leche _ARITY_2	hó	I	2
 ▯ is a teaching assistant _BIAS _RAKU_che _2_RAKU_soache _ARITY_1	hó	I	1
@@ -2541,10 +2542,12 @@ predicate legislator ▯ is a legislator lawmaker _BIAS _RAKU_che _2_RAKU_fıeqc
 ▯ is an abolitionist _BIAS _RAKU_che _2_RAKU_shaıche _ARITY_1	hó	I	1
 ▯ blames ▯ for state of affairs ▯ ▯ deems holds ▯ accountable for ▯ happening _BIAS _RAKU_chı _2_RAKU_juchı _ARITY_3	hó	A	3
 predicate month ▯ is a month _BIAS _RAKU_jue _ARITY_1	hóq	I	1
+▯ is a semester _BIAS _RAKU_cı _2_RAKU_juecı _ARITY_1	hóq	I	1
 predicate monthly ▯ occurs monthly _BIAS _RAKU_dıaq _2_RAKU_juedıaq _ARITY_1	hóq	P	1
 ▯ stirs scrambles shuffles mixes up disorganizes ▯ _BIAS _RAKU_jueq _ARITY_2	hó	A	2
 ▯ is disorder disarray chaos _BIAS _RAKU_se _2_RAKU_jueqse _ARITY_1	hóq	I	1
 ▯ is shuffled scrambled unordered in disarray _BIAS _RAKU_te _2_RAKU_jueqte _ARITY_1	tá	F	1
+▯ is a trimester quarter _BIAS _RAKU_saq _2_RAKU_juesaq _ARITY_1	hóq	I	1
 ▯ pertains to the culture of united states united states of america _BIAS _RAKU_seı _2_RAKU_jueseı _ARITY_1 _CAPS	tá	F	1
 ▯ is the country united states united states of america _BIAS _RAKU_gua _2_RAKU_seıgua _ARITY_1 _CAPS	máq	I	1
 predicate near ▯ is near ▯ in property ▯ _BIAS _RAKU_juı _ARITY_3	tá	F	3
@@ -4571,6 +4574,7 @@ predicate same ▯ is the same thing as ▯ _BIAS _RAKU_jeq _2_RAKU_raıjeq _ARI
 ▯ is a derani null variable symbol _BIAS _RAKU_laı _2_RAKU_raılaı _ARITY_1	máq	I	1
 predicate r ▯ is the letter r _BIAS _RAKU_rua _2_RAKU_raırua _ARITY_1	hóq	I	1
 ▯ is a noun phrase _BIAS _RAKU_toam _2_RAKU_raıtoam _ARITY_1	hóq	I	1
+▯ is the case in a non continuous way as a bunch of disconnected chunks _BIAS _RAKU_ka _2_RAKU_raka _ARITY_1	hóq	E	1
 ▯ is a toaq syllable _BIAS _RAKU_ku _2_RAKU_raku _ARITY_1	hóq	I	1
 there are ▯ number raku in the word phrase ▯ _BIAS _RAKU_zıu _2_RAKU_kuzıu _ARITY_2	hóq	I	2
 ▯ is repetitively the case _BIAS _RAKU_ram _ARITY_1	hóq	P	1

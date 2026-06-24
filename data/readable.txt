@@ -11525,6 +11525,10 @@ chıeja [(c c 1j) (d d d) hó A] @robintown 2023-11-09 #4jIxOXAM9 $en ±
   robintown (2023-11-09): **chıe** + 'ja' < **aıja**
   Dembim (2025-12-09): Frame: c c 1j
 
+chıeja [(c 1i) (d d) hó A] @Dembim 2026-06-23 #PPBgNF4Ef $en ±
+predicate: 'teach'; ▯ teaches how to satisfy ▯.
+  Dembim (2026-06-23): Use <côm> for who is being taught.
+
 chıejache [(c) (d) hó I] @robintown 2023-11-09 #hCr4m-YIZ $en +1
 ▯ is a teacher.
 
@@ -17598,16 +17602,12 @@ duaı @nano 2023-05-24 #YgT090Ue7 $tok ± %modality
 duaı @jiqci 2023-07-31 #5djXkdtAI $pl ± %modality
 ▯ musi spełnić własność ▯.
 
-duaı [(c 1i) (d d) hó I] @Dembim 2026-02-04 #EZwOO1vub $en ± %modality
+duaı @Dembim 2026-02-04 #EZwOO1vub $en ± %modality
 predicate: ‘must’; ▯ (agent) is obligated to satisfy ▯.
-  Dembim (2026-02-04): Pronominal_class: ho
-  Dembim (2026-02-04): Frame: c 1i
   Dembim (2026-02-04): kw: deontic obligation
   Dembim (2026-02-04): see also: <taoduaı>
   Ilmen (2026-02-04): discriminator: 1
-  Dembim (2026-02-12): Subject: individual
   Dembim (2026-02-12): Despite the appearance of "(agent)" in the definition body, the subject doesn't take the _role_ of agent in _this_ predicate but is rather a "moral agent" in the persistent sense.
-  Dembim (2026-02-12): Distribution: d d
   Dembim (2026-02-12): Note that this differs from official in subject and pronominal class.
 
 duaı @el 2022-07-10 #13JIE0RPV $tok -1 %modality
@@ -22372,7 +22372,15 @@ gale [(c c) (d d) hó A] @Dembim 2026-03-09 #EsdFj2wY5 $en ±
 predicate: 'teach'; ▯ teaches learner ▯.
   Dembim (2026-03-09): Fork of <@Machy gale>— use <ôı> or <ôq> + <deq>. <dua>, etc for the dropped "to satisfy property" slot.
   Dembim (2026-03-09): Discriminator: 2
-  Dembim (2026-03-09): Related: <@takoda chıetua>
+  Dembim (2026-06-23): This word has an audience slot and no property slot. For a property slot and no audience, see <@Dembim chıeja>. However, you should _probably_ just prefer <@Dembim gale> over both— I do, anyway.
+  Dembim (2026-06-23): That's the _other_ <@Dembim gale>, of course.
+  evie (2026-06-23): (i.e. #wbPMrhopb)
+  Dembim (2026-06-23): Actually, on second thought, the unary gale needs <tûa> instead of <ôq>, which make things really clunky. That's my bad; disregard; keep using this gale + <@Dembim chıeja>... <mene>...
+
+gale [(c) (d) hó A] @Dembim 2026-06-23 #wbPMrhopb $en -1
+predicate: 'teach'; ▯ teaches.
+  Dembim (2026-06-23): Discriminator: 3
+  Dembim (2026-06-23): -1 for being a pain to use
 
 galeche [(c) (d) hó I] @Laqme 2025-03-14 #QkJQIYfmr $en +1
 ▯ is a teacher.
@@ -38495,6 +38503,10 @@ jue @jiqci 2023-07-31 #ZLK1Q6F3YQ $pl ± %cultural,measure_unit
 predicate: ‘month’; ▯ is a month.
   uakci (2022-09-11): ▯ are consecutive months
 
+juecı [(c) (d) hóq I] @jiqci 2026-06-23 #-QFffSmt4 $en ±
+▯ is a semester.
+  jiqci (2026-06-23): synonym of **nıaqgıem**
+
 juedıaq [(c) (d) hóq P] @official 2026-02-16 #eGF0llCHzf0 $en ± %cultural
 predicate: ‘monthly’; ▯ occurs monthly.
 
@@ -38595,6 +38607,9 @@ jueqseaı @Laqme 2022-05-18 #p4_VcjPvM $en ±
 
 jueqte [(c) (d) tá F] @Laqme 2022-01-26 #Ta0lCmI7l $en +1
 ▯ is shuffled, scrambled, unordered, in disarray.
+
+juesaq [(c) (d) hóq I] @jiqci 2026-06-23 #jAlLVj9Wz $en ±
+▯ is a trimester / quarter.
 
 Jueseı [(c) (d) tá F] @Ilmen 2020-02-26 #zAjFPVvFT $en +1
 ▯ pertains to the culture of United States – United States of America.
@@ -60125,11 +60140,11 @@ noheotua @seaqtaq 2024-07-07 #JSiSBQMhi $en ±
 noı [(c c) (d d) hó I] @uakci 2022-02-16 #QvjJuhrmc $en +2 %perception
 ▯ feels pain in ▯.
 
-noı [(c) (d) hóq I] @official 2026-02-16 #k66ifuxPZQr $en ± %perception
-predicate: ‘pain’; ▯ is pain.
-
 noı @jiqci 2023-07-31 #V9anh8_bLr $pl ± %perception
 ▯ to ból.
+
+noı [(c) (d) hóq I] @official 2026-02-16 #k66ifuxPZQr $en -1 %perception
+predicate: ‘pain’; ▯ is pain.
 
 noı @uakci 2019-01-27 #fV1X3RIcG $toa -1 %perception
 gaıkıu dóshı, na ru tu dó bı ca hîao sa ráı dó na lîe sa ráı dóshı da
@@ -67898,9 +67913,10 @@ rajoe @seaqtaq 2025-06-17 #iVY7YHyD2 $en ±
   seaqtaq (2025-06-17): from **rara** + **joe**
   seaqtaq (2025-06-17): Kw: zakai ex: One could say this about [insert language here] that they were forced to learn in school, which they often will recognize simple sentences in, and might even still be familiar with some grammatical constructions, but  otherwise is no longer quite familiar with the language
 
-raka @Ilmen 2022-03-17 #flTQcDCsl $en +1
+raka [(0) (d) hóq E] @Ilmen 2022-03-17 #flTQcDCsl $en +1
 ▯ is the case in a non-continuous way, as a bunch of disconnected chunks.
   Laqme (2024-06-25): bit by bit, stopping and starting, here and there
+  Dembim (2026-06-23): Does this need to be sE? It seems like it would work fine for this case and be more flexible as tá (c) (d) sI.
 
 rakı @kazoo 2024-11-24 #0ma817Myv $en +1
 ▯ is rakı, the national alcoholic beverage of Turkey.
@@ -75291,7 +75307,7 @@ determiner: proper noun; for use with Kuna/Eatoaq/Koıtıeq variable-style names
   Dembim (2026-02-09): Good for complex foreign names e.g. (só mı Alecaqdoro cuoı) as well as complex Toaqic names e.g. (só Gıo Tamara Eka Zaq)
 
 so'u @Dembim 2026-02-17 #1tmLoZLNC $en ±
-non-assertive illocution
+contemplative illocution
   Dembim (2026-02-17): See comments under <@Machy sou>
   Ilmen (2026-02-17): In the past I called this “null illocution”, though I think “contemplative illocution” is nice too.
   Ilmen (2026-02-17): You could presumably imitate this by saying e.g. ⟪sıaja, ꝡä …… da⟫ instead of ⟪…… so'u⟫.
