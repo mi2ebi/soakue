@@ -1322,6 +1322,7 @@ predicate habitually ▯ habitually satisfies property ▯ _BIAS _RAKU_duq _ARIT
 ▯ is dew _BIAS _RAKU_buq _2_RAKU_ebuq _ARITY_1	máq	I	1
 predicate made happen ▯ is caused made happen by ▯ identical to bo tua _BIAS _RAKU_cı _2_RAKU_ecı _ARITY_2	hóq	E	2
 ▯ is a key _BIAS _RAKU_chı _2_RAKU_echı _ARITY_1	máq	I	1
+▯ is a ticket for admission to place event ▯ _BIAS _RAKU_peq _2_RAKU_chıpeq _ARITY_2	máq	I	2
 ▯ is maroon _BIAS _RAKU_bu _2_RAKU_gebu _ARITY_1	tá	F	1
 ▯ plays role ▯ formally assigned functional niche societal status _BIAS _RAKU_eı _ARITY_2	hó	I	2
 ▯ is generative ai _BIAS _RAKU_'aı _2_RAKU_eı'aı _ARITY_1	máq	I	1
@@ -4621,8 +4622,8 @@ predicate around ▯ is around ▯ ▯ surrounds ▯ _BIAS _RAKU_reı _ARITY_2	t
 ▯ is a spiral helix shape _BIAS _RAKU_teı _2_RAKU_taqteı _ARITY_1	hóq	I	1
 ▯ is the surface of ▯ _BIAS _RAKU_rem _ARITY_2	tá	I	2
 ▯ is at on the surface of ▯ _BIAS _RAKU_tı _2_RAKU_remtı _ARITY_2	tá	S	2
-▯ is a color _BIAS _RAKU_reo _ARITY_1	hóq	I	1
 predicate has colour ▯ is of colour ▯ _BIAS _RAKU_reo _ARITY_2	tá	I	2
+▯ is a color _BIAS _RAKU_reo _ARITY_1	hóq	I	1
 predicate coloured ▯ is of colour ▯ _BIAS _RAKU_bo _2_RAKU_reobo _ARITY_2	máq	I	2
 ▯ is saturated vivid vibrant _BIAS _RAKU_caı _2_RAKU_reocaı _ARITY_1	máq	I	1
 predicate paintbrush ▯ is a paintbrush _BIAS _RAKU_chuo _2_RAKU_reochuo _ARITY_1	máq	I	1
@@ -5626,7 +5627,8 @@ predicate bra ▯ is a bra _BIAS _RAKU_rıaı _2_RAKU_teaqrıaı _ARITY_1	máq	I
 ▯ are tangled intertwined _BIAS _RAKU_fa _2_RAKU_tefa _ARITY_1	máq	I	1
 ▯ is a pretzel _BIAS _RAKU_nam _2_RAKU_famnam _ARITY_1	máq	I	1
 ▯ is a tombstone _BIAS _RAKU_pıo _2_RAKU_hupıo _ARITY_1	máq	I	1
-predicate form ▯ is a form shape ▯ is a form shape of ▯ _BIAS _RAKU_teı _ARITY_2	hóq	I	2
+predicate form ▯ is a form shape _BIAS _RAKU_teı _ARITY_1	hóq	I	1
+▯ has shape ▯ _BIAS _RAKU_teı _ARITY_2	tá	S	2
 ▯ plural are arranged in shape ▯ _BIAS _RAKU_ca _2_RAKU_teıca _ARITY_2	máq	I	2
 ▯ is geometry _BIAS _RAKU_dıu _2_RAKU_teıdıu _ARITY_1	hóq	I	1
 ▯ is topology _BIAS _RAKU_dıu _2_RAKU_teıdıu _ARITY_1	hóq	I	1

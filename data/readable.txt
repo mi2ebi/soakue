@@ -18040,7 +18040,7 @@ duı- [particle] @lassc 2023-11-04 #fM7prt_BO $en ±
 prefix: "too (much) X"
   lassc (2023-11-04): i.e duı-loq for "overheating" or "hyperthermia"
 
-duı [particle] @Laqme 2025-03-02 #fZMcamXBO $en +2
+duı [particle] @Laqme 2025-03-02 #fZMcamXBO $en +3
 degree: too much
 
 duı [(c c 1i) (d d d) tá F] @official 2026-04-11 #bticO0mK_k $en ±
@@ -18603,7 +18603,7 @@ echateabıa @Ilmen 2024-05-08 #K9t24l5ml $en ±
 **chéq**, but bubbles up to illocution-phrase level rather than clause scope
   el (2022-12-02): **hẻo ní écheq hı moq?** "How are these different from each other?" [solicting one answer per pair]
 
-echı [(c) (d) máq I] @fagri 2021-09-25 #1_XoHidLt $en +2
+echı [(c) (d) máq I] @fagri 2021-09-25 #1_XoHidLt $en +3
 ▯ is a key
   fagri (2021-09-25): etymology: a priori
 
@@ -18615,6 +18615,10 @@ echıkuoq @jiqci 2023-07-07 #ds6-0z3nT $en ±
 
 echımı @seaqtaq 2024-11-22 #6jnKxXej9 $en ±
 ▯ is anything that allows access to some resource or desired entity or property one wishes to have whether circumstantially or inherently; ▯ is a key/id card/access code/password/ticket/testimonial
+
+echıpeq [(c c) (d d) máq I] @salarua 2026-06-24 #C_z2Lw9YB $en ±
+▯ is a ticket for admission to place/event ▯
+  salarua (2026-06-24): Need not be physical! This also covers QR codes, wristbands, etc
 
 efue [particle] @robintown 2023-04-23 #GXcCOGSGW $en +1
 interjection: praise; 'very good!', 'that's right!'
@@ -37715,7 +37719,7 @@ jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #Hu2b0J6Xe $en ±
   Dembim (2026-02-13): Subject: free
 
 jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #JkcPO1Ceg $toa ±
-cuoı ▯ ▯, lá cuoı já nha shì ké, ꝡë cuoı nha shí hóa já nha gù, nha gú
+cuoı ▯ ▯, lá cuoı já nhashì ké, ꝡë cuoı nhashí hóa já nhagù, nhagú
   Dembim (2026-01-28): Frame: c 2ix
   Dembim (2026-01-28): Pronominal_class: ta
   Dembim (2026-02-13): Distribution: n d
@@ -41894,6 +41898,7 @@ kı'ıq @seaqtaq 2025-08-23 #rsGNZM3Rv $en ±
 kıa- [particle] @Laqme 2026-03-30 #XK7vYfjRr $en ±
 prefix: "some parts/elements of which are..."
   Laqme (2026-03-30): example: **sá gaqme kı̣anıo kı̣ageo** "a team with some young members and some old members"
+  Dembim (2026-06-24): see also <paq'ıq>
 
 kıa [(c) (d) tá I] @official 2026-02-16 #-6OwT5AuR0S $en ± %has_color,trichromatic,pseudo-absolute
 predicate: ‘red’; ▯ is red.
@@ -59283,7 +59288,7 @@ nıq- [particle] @Laqme 2023-11-20 #9ouLPkK-M $en +3
 prefix: ‘re-’
   Laqme (2023-11-20): Doing something again/anew, especially improving/correcting/obsoleting an earlier action
 
-nıq [(c) (d) tá F] @robintown 2022-05-15 #r9UnapQch $en +3
+nıq [(c) (d) tá F] @robintown 2022-05-15 #r9UnapQch $en +4
 ▯ is new.
   robintown (2022-05-15): Because the official definition is binary, which causes genetival serial behahvior to kick in when you don't want it to. Use jìe to get the second slot back.
 
@@ -68640,7 +68645,7 @@ reatıaı @kazoo 2025-05-17 #EfVyEKncr $en ±
 reatuq @uakci 2021-09-27 #bZ8ZmjQPA $en ±
 ▯ is all contained/enclosed/embedded in ▯.
 
-rebo @el 2022-11-07 #vHSbN330i $en ±
+rebo @el 2022-11-07 #vHSbN330i $en -1
 ▯ is **ré**'s
 
 redıcate @jiqci 2023-10-17 #nsQE-sspI $en ±
@@ -68850,11 +68855,12 @@ rena @seaqtaq 2024-10-24 #i4rLbZYhd $en ±
 ▯ is conducive to ▯; ▯ is (likely to) engender conditions favorable for ▯ to happen
   seaqtaq (2024-10-24): A priori
 
+reo [(c 1i) (d d) tá I] @official 2026-02-16 #YvpVsgl2o $en +1
+predicate: ‘has.colour’; ▯ is of colour ▯.
+  Dembim (2026-06-24): kw: color
+
 reo [(c) (d) hóq I] @Laqme 2025-01-22 #PloWQglHg $en +1
 ▯ is a color.
-
-reo [(c 1i) (d d) tá I] @official 2026-02-16 #YvpVsgl2o $en ±
-predicate: ‘has.colour’; ▯ is of colour ▯.
 
 reo @Laqme 2021-10-11 #6IJ87o3PD $ja ±
 ▯は色付き；▯に▯という色が付いている
@@ -82665,8 +82671,11 @@ prefix: 'X-shaped'
   Laqme (2024-05-01): **tẹıbıo** "cup-shaped", **tẹıfelaı** "󱚴-shaped"
   Laqme (2024-05-01): **tẹı-X** means **teıjeq bâq X**.
 
-teı [(c c) (d d) hóq I] @official 2026-02-16 #p2klU-vuE95 $en ±
-predicate: ‘form’; ▯ is a form/shape; ▯ is a form/shape of ▯.
+teı [(c) (d) hóq I] @official 2026-06-24 #j14gQXVSa $en ±
+predicate: ‘form’; ▯ is a form/shape.
+
+teı [(c c) (d d) tá S] @evie 2026-06-24 #pHktMKE3h $en +1
+▯ has shape ▯
 
 teı @uakci 2021-10-29 #v713U2QrU $ja ±
 ▯は▯の形／姿
