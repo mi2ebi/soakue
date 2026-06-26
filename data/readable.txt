@@ -474,7 +474,7 @@ aıpam @jiqci 2024-11-05 #pCrXWB1Q7 $en ±
 aıpe @akesi 2020-04-06 #dXVY8Yl0y $en +1
 ▯ is a gnome, dwarf, or the like
 
-aıpı @akesi 2020-04-03 #myVFBVHD6 $en +1
+aıpı [(c) (d) hó I] @akesi 2020-04-03 #myVFBVHD6 $en +2
 ▯ is a faerie/fairy, an elf or an imp, or a brownie. 
 in the spirit of aıpū but with an ī because i find it cuter
 
@@ -486,7 +486,7 @@ aıpo @akesi 2020-04-06 #XRryqUeDK $en +1
 aıpoq @uakci 2022-12-07 #eNVCpITYO $en ±
 ▯ is a faerie/fairy, an elf or an imp, or a brownie.
 
-aıpu [(c) (d) hó I] @Hoemai 2019-12-11 #zVFG4en65 $en +2
+aıpu [(c) (d) hó I] @Hoemai 2019-12-11 #zVFG4en65 $en +3
 ▯ is a ghost/spirit.
   jiqci (2024-06-16): sprite, apparition
   Ilmen (2025-10-31): officialized: yes
@@ -2478,7 +2478,7 @@ baqcu @TheAndSys 2023-11-05 #How4vjosS $en ±
 baqcho [(c 1i) (d d) hó I] @Ilmen 2019-05-18 #ZGbp7LFn0 $en ±
 ▯ likes things that satisfy property ▯; ▯ likes all that ▯'s.
 
-baqdakı @Hoemai 2019-03-01 #Ssk5UlCZB $en +1
+baqdakı [(c) (d) máq I] @Hoemai 2019-03-01 #Ssk5UlCZB $en +1
 ▯ is a member of the species Solanum melongena (eggplant/aubergine).
 
 baqdehosu @seaqtaq 2024-11-05 #cPxINkyRg $en ±
@@ -2783,7 +2783,7 @@ beafıla @seaqtaq 2025-06-19 #CaOiLQIdM $en ±
 ▯ experiences the sensation that occurs when one is on the verge of popping a knuckle
   seaqtaq (2025-06-19): kw: zakai
 
-beagoa @Ilmen 2019-04-24 #aoe23sciy $en +1
+beagoa [(c) (d) máq I] @Ilmen 2019-04-24 #aoe23sciy $en +1
 ▯ is a corner.
   Ilmen (2019-04-24): Inspired from the etymologies of the words for "corner" in Greek, Hebrew and Latin.
 
@@ -5538,7 +5538,7 @@ buaıjıo @Machy 2022-01-26 #nhEKk700Z $en +1
 buaıjıojıeq @buhuoiji 2019-12-20 #jKgi1k3UY $en ±
 ▯ is a rectangle.
 
-buaıkıoq @Ilmen 2019-03-03 #KbyY-Yf-2 $en +1
+buaıkıoq [(c) (d) tá S] @Ilmen 2019-03-03 #KbyY-Yf-2 $en +1
 ▯ is a 3D oval shape (oblong sphere-like shape, similar to the shape of a bird's egg).
   Laqme (2019-03-03): also «spheroid» or «ellipsoid»
   Laqme (2019-03-03): +1 also :)
@@ -7389,6 +7389,7 @@ caqhınoke @Ilmen 2023-02-13 #fG27jv9V1 $en ±
 
 caqhuı @uakci 2019-03-01 #xcTAu_3_m $en +1
 For ▯ having happened, ▯ is to be blamed; ▯ is ▯’s fault.
+  Dembim (2026-06-26): see also: <kado>
 
 caqhupame @Ilmen 2019-08-24 #SaItZrBUQ $en ± %artifact
 ▯ is a keyboard.
@@ -9081,7 +9082,7 @@ cuaboq @seaqtaq 2018-12-27 #TxYEc1h1e $en ±
 cuadeoq @Laqme 2024-05-23 #_KT7cUA3F $en ±
 ▯ answers ▯ that ▯ is the case.
 
-cuadeq [(c) hó] @Ilmen 2026-01-08 #Zd5Agm2Mt $en +1
+cuadeq [(c) (d) hó I] @Ilmen 2026-01-08 #Zd5Agm2Mt $en +1
 ▯ is an interactive, reaction-capable entity (e.g. living beings, advanced robots, artificial intelligences, REPLs…).
   Ilmen (2026-01-08): frame: c
   Ilmen (2026-01-08): pronominal_class: ho
@@ -15036,7 +15037,7 @@ Daqmaka [(c) (d) tá F] @countries 2026-04-11 #D9dUzo7CQvP $en ±
 Daqmakagua [(c) (n) máq I] @countries 2026-04-11 #YKwma_1d4yd $en ±
 ▯ is the country Denmark – Kingdom of Denmark.
 
-daqme @Ilmen 2019-04-05 #3rHAKryhp $en +1 %time,basic
+daqme [(c) (d) hóq I] @Ilmen 2019-04-05 #3rHAKryhp $en ± %time,basic
 ▯ is a time period.
 
 daqmeoq @uakci 2022-05-27 #kjqo_YezW $en ±
@@ -16604,6 +16605,11 @@ predicate: ‘arcsecond’; ▯ is an arcsecond
 
 dıqtanı @jiqci 2024-01-31 #Rp2np1MgJ $en ±
 ▯ is a prism (shape).
+
+dıraı [(c) (d) hó I] @Dembim 2026-06-25 #IX761ISV2 $en ±
+predicate: 'moral.agent'; ▯ is a moral agent
+  Dembim (2026-06-25): an agent with the capacity to act in reference to a notion of right and wrong
+  Dembim (2026-06-25): kw: agentive, agency
 
 dıru [(c c 1j) (d d d) hó A] @Laqme 2023-12-02 #6E_BfxCu4 $en +3
 ▯ wishes / bids ▯ to satisfy property ▯.
@@ -20744,13 +20750,17 @@ predicate: ‘previous’; ▯ is previous to ▯ in sequence ▯; ▯ precedes 
 fıa @jiqci 2023-07-31 #9BgXgpa3Ke $pl ±
 ▯ poprzedza ▯ w kolejności ▯.
 
-fíachaq [particle] @robintown 2023-10-17 #2an4kDx3Q $en +1
+fíachaq [particle] @robintown 2023-10-17 #2an4kDx3Q $en +2
 pronoun: yesterday
   robintown (2023-10-17): I think this flows more nicely than **puchaq**, and because we don't think of tense words as being "normal verbs" nowadays, they've started to feel out of place to me in compounds
   robintown (2023-10-17): also this Just Makes Sense as a pronoun
 
 fıache @seaqtaq 2024-07-28 #-g9RS1aNT $en ±
 ▯ is predecessor to ▯ in the job of satisfying property ▯.
+
+fíadaq [particle] @Dembim 2026-06-25 #S7T04pytQ $en ±
+pronoun: 'last.time'; the previous period (of a sort determined by context)
+  Dembim (2026-06-25): see notes on <síedaq>
 
 fıagu @Ilmen 2022-11-26 #EDTr0Kcq1 $en ±
 ▯ is the ordered pair with head, first element ▯, and tail, last element ▯.
@@ -22686,7 +22696,7 @@ gaqbota [(c c) (d d) hó I] @seaqtaq 2024-10-14 #iBfzyG80D $en ±
 gaqcara @Ilmen 2024-07-03 #YyjGNy4M3 $en ±
 ▯ does friendly fire at ▯.
 
-gaqcıa @seaqtaq 2019-01-31 #thkbKTuiO $en +1
+gaqcıa [(c) (d) tá I] @seaqtaq 2019-01-31 #thkbKTuiO $en +1
 (fork of official) predicate: ‘alone’; ▯ is alone.
 
 gaqcıa @uakci 2022-05-28 #1IZCC0QQb $en ±
@@ -28015,7 +28025,7 @@ haoha @fagri 2023-11-04 #DshLlNdd3 $en ±
 ▯ talks aloud or makes a noise aloud, in at least a normal speaking voice (not whispering or murmuring)
   fagri (2023-11-04): Etymology: sound symbolism (a priori)
 
-haohao @Ilmen 2019-05-01 #VO90I1d_- $en +1 %basic
+haohao [(c) (d) tá I] @Ilmen 2019-05-01 #VO90I1d_- $en +1 %basic
 ▯ is a thingamajig (a thing which the speaker doesn't know how to name or describe).
 
 haohaohao @Laqme 2025-09-07 #dr025LjmY $en ±
@@ -28416,7 +28426,7 @@ haqtoq @Machy 2022-01-26 #EwNjq7ndy $en ±
 ▯ is a plate(for food).
   Machy (2022-01-26): credit to @Laqme
 
-haqtu [(c) (d) hó I] @Ilmen 2018-10-01 #rSCUuK6ci $en +3
+haqtu [(c) (d) hó I] @Ilmen 2018-10-01 #rSCUuK6ci $en +2
 ▯ is a spirit, soul or ghost.
   Ilmen (2018-10-01): Borrowed from Malay, Javanese, Sundanese… See #kanītū.
 
@@ -31270,6 +31280,9 @@ hore [(c c) (d d) tá S] @Laqme 2021-09-25 #QFrNJmZVY $en +6
 
 horefana @robintown 2024-09-25 #5pKxS6Qvw $en ±
 ▯ is westbound.
+
+horelua @jiqci 2026-06-25 #A0NLh0J4f $en ±
+▯ is a western (genre).
 
 Horeoropa [(c) (d) máq I] @kazoo 2025-05-02 #yM5-iGxRo $en ±
 ▯ is Western Europe.
@@ -35664,8 +35677,8 @@ jıadam @jiqci 2024-06-10 #jQxZeZBJr $en ±
 jıadaq @robintown 2024-09-09 #AIrUBeh2k $en ±
 ▯ is the future.
 
-jıadıo @jiqci 2023-01-20 #2kr57H8LG $en ±
-▯ is today/tomorrow (used at night, when it's confusing whether to call the coming day "today" or "tomorrow".)
+jıadıo @jiqci 2023-01-20 #2kr57H8LG $en +1
+▯ is tomorrow/the next daytime (used at night regardless if it's before or after midnight).
 
 jıadıu [(c) (d) hóq I] @Ilmen 2018-10-03 #5QeaOf9I9 $en ± %science
 ▯ is futurology.
@@ -39768,7 +39781,7 @@ kaıkıq @uakci 2020-02-06 #LbA92UOsA $en +1
 kaıkıu @uakci 2022-09-15 #DNuwggbYo $en ±
 ▯ is writable/writeable to (e.g., a disk or a file or a piece of paper, not words/symbols/facts).
 
-kaıkue @fagri 2019-01-05 #9260DvJnj $en +1
+kaıkue [(c) (d) máq I] @fagri 2019-01-05 #9260DvJnj $en +1
 ▯ is a notebook
 
 kaıkue @salarua 2022-12-23 #6OpntLgTl $es ±
@@ -45609,7 +45622,7 @@ What has the property ▯ changes.
 labeqda @robintown 2023-03-17 #EhE9jSdJ8 $en ±
 ▯ is lavender (the plant).
 
-labı @Hoemai 2019-02-26 #6CgPNKE4y $en +1
+labı [(c) (d) hó I] @Hoemai 2019-02-26 #6CgPNKE4y $en +1
 ▯ is a lion (Panthera leo).
   seaqtaq (2019-04-05): +1
   Ilmen (2025-10-31): officialized: yes
@@ -47140,7 +47153,7 @@ leoqhıesıu [(c) (d) hó I] @seaqtaq 2019-04-08 #FjJOYXb8R $en ±
 leoqraı @seaqtaq 2024-11-09 #s1Xn-slQi $en ±
 ▯ is a fortification; ▯ is something which makes something else harder to access
 
-leoqrıaq @Ilmen 2019-04-08 #x4k4Br63V $en +1
+leoqrıaq [(c 1i) (d d) máq I] @Ilmen 2019-04-08 #x4k4Br63V $en +1
 ▯ is a shelter/refuge/retreat/harbor (protecting against satisfying property ▯).
 
 leoqrıo @jiqci 2023-03-14 #rW_npAG9M $en ±
@@ -49309,7 +49322,7 @@ lotuq [(c) (d) tá F] @robintown 2023-11-07 #Zsl1Dk_fl $en +2
 lotuqrua @uakci 2023-11-07 #WSntj1hOH $en ±
 ▯ is a lotus (genus Nelumbo).
 
-⚠ lou @fagri 2021-09-25 #qT092fAoO $en ±
+⚠ lou @fagri 2021-09-25 #qT092fAoO $en -1
 Event ▯ satisfies relation ▯ with its agent
 
 lozeq @jiqci 2024-09-10 #yL1NkgiMZ $en ±
@@ -49769,7 +49782,7 @@ luaqtoe @TheAndSys 2024-05-17 #Pdvl9Z-HV $en ±
 luaqtoı @Laqme 2024-09-03 #uyHucrE_5 $en ±
 ▯ plays/toys with ▯ by doing ▯ to it.
 
-luaqtue @uakci 2020-02-29 #PN7GZumc8 $en +2
+luaqtue [(c) (d) hóq I] @uakci 2020-02-29 #PN7GZumc8 $en +2
 ▯ is a (game) position.
 
 luaqtue @Ilmen 2020-02-04 #WGy7a3H8E $en -1
@@ -50438,7 +50451,7 @@ lusuıq [(c) (d) máq I] @jiqci 2023-11-26 #74qvWP6WD $en ±
 ▯ is an asparagus.
   jiqci (2023-11-26): from Chinese 蘆筍
 
-lusha @Ilmen 2019-04-17 #mcJyBkW4T $en +1
+lusha [(c c) (d d) tá I] @Ilmen 2019-04-17 #mcJyBkW4T $en +1
 ▯ slips/slides/glides on ▯.
   Ilmen (2020-03-01): Etymology: a priori.
 
@@ -57364,8 +57377,8 @@ narabıboe @uakci 2021-10-25 #LXATaI-2T $en ±
 ▯ is a baking sheet.
   uakci (2021-10-25): tags: pizza pan, cookie sheet, tray
 
-naraq [(c) (d) tá I] @official 2026-02-16 #48m_5G8OanG $en ± %has_color,trichromatic,pseudo-absolute
-predicate: ‘orange’; ▯ is of orange color.
+naraq [(c) (d) tá I] @official 2026-06-25 #jMbo7E9aZ $en ± %has_color,trichromatic,pseudo-absolute
+predicate: ‘orange’; ▯ is of orange colour.
 
 naraq @el 2022-07-10 #GKf0U-Wp1 $tok ± %has_color,trichromatic,pseudo-absolute
 ▯ li loje jelo
@@ -60244,7 +60257,7 @@ nono [(c) (d) hó I] @Laqme 2023-11-09 #_KfS4iNqM $en +2
 nonhumaq @uakci 2023-07-19 #vbi_NjsmQ $en ±
 ▯ is otherkin/therian / a nonhuman entity/being.
 
-noq @Laqme 2023-10-22 #scfb0b6e6 $en +2 %perception,taste
+noq [(c c) (d d) hó I] @Laqme 2023-10-22 #scfb0b6e6 $en +2 %perception,taste
 ▯ tastes ▯.
 
 noq [(c) (d) tá F] @official 2026-02-16 #HTqHYfXXXSY $en ± %perception,taste
@@ -62935,26 +62948,31 @@ ocısopocua @Ilmen 2023-05-04 #p51eQg88q $en ±
 ocısopocuapuo @Ilmen 2023-05-04 #gryNyOYN0 $en ±
 ▯ is thermite.
 
-ocha [(c) (d) hó I] @Laqme 2021-09-27 #Q_Rqv4kfm $en +2 %lifeform,animal,vertebrate,mammal
-▯ is a human.
-  Ilmen (2025-10-31): officialized: yes
-
-ocha [(c) (d) hó A] @uakci 2022-10-02 #c3c3pCCum $en +2 %lifeform,animal,vertebrate,mammal
+ocha [(c) (d) hó I] @uakci 2022-10-02 #c3c3pCCum $en +2 %lifeform,animal,vertebrate,mammal
 ▯ is a sentient being.
   uakci (2022-10-02): not necessarily human or a person (includes otherkin, etc.). superset of **poq**
   uakci (2022-10-02): examples of **ocha** that may not be **poq** or **req**: those who don't consider themselves people; those who may be simulated or automated (or feel this way about themselves); fantastical/fictional creatures (demons, pixies, genies, etc.); sentient-seeming mares or delusions
+  evie (2026-06-26): i don't think this should be sA, and potentially not hó either
+  Dembim (2026-06-26): Certainly not sA- I think that was just an annotation mistake.
+  Dembim (2026-06-26): I do think hó is correct though.
+  evie (2026-06-26): my motivation for non-hó was the « those who may be simulated or automated (or feel this way about themselves) »
+  Dembim (2026-06-26): I guess it would be something like that, I think even for such entities, hó is appropriate. Consider that <cuadeq> is hó, for instance.
 
-ocha [(c) (d) hó I] @official 2026-02-16 #JBTdwgyYOvW $en ± %lifeform,animal,vertebrate,mammal
+ocha [(c) (d) hó I] @Laqme 2021-09-27 #Q_Rqv4kfm $en +1 %lifeform,animal,vertebrate,mammal
+▯ is a human.
+  Ilmen (2025-10-31): officialized: yes
+
+ocha [(c) (d) hó I] @official 2026-02-16 #JBTdwgyYOvW $en -1 %lifeform,animal,vertebrate,mammal
 predicate: ‘human’; ▯ is a human.
 
-ocha @Laqme 2021-10-04 #02Kwpeo7m $ja ± %lifeform,animal,vertebrate,mammal
+ocha @Laqme 2021-10-04 #02Kwpeo7m $ja -1 %lifeform,animal,vertebrate,mammal
 ▯は人間
   Laqme (2021-10-05): ヒト
 
-ocha @el 2022-07-10 #DSmw70C-3 $tok ± %lifeform,animal,vertebrate,mammal
+ocha @el 2022-07-10 #DSmw70C-3 $tok -1 %lifeform,animal,vertebrate,mammal
 ▯ li jan
 
-ocha @jiqci 2023-07-31 #65dwYQGA-Y $pl ± %lifeform,animal,vertebrate,mammal
+ocha @jiqci 2023-07-31 #65dwYQGA-Y $pl -1 %lifeform,animal,vertebrate,mammal
 ▯ to człowiek.
 
 ocha'aı @uakci 2022-07-25 #b4tuU80AS $en ±
@@ -65358,13 +65376,16 @@ pıranha @cateyes 2025-09-07 #_eCSe6cKr $en ±
 ▯ is a piranha
   cateyes (2025-09-07): loaned from Spanish "piraña"
 
-pırı @Ilmen 2023-01-13 #kdNFJIxe_ $en +1 %emotion
+pırı [(c c) (d d) hó I] @Ilmen 2023-01-13 #kdNFJIxe_ $en ± %emotion
 ▯ is annoyed, irritated by ▯.
+
+pırı [(c) (d) hó I] @Dembim 2026-06-25 #6N94rNzUb $en ± %emotion
+predicate: 'annoyed'; ▯ is annoyed.
 
 pırıbu @Ilmen 2023-01-14 #ckvxkopkG $en ±
 ▯ is okay with / doesn't mind ▯ being the case.
 
-pırıca @Ilmen 2023-01-13 #Z7IScWNrT $en +1
+pırıca [(c c) (d d) hóq E] @Ilmen 2023-01-13 #Z7IScWNrT $en +1
 ▯ annoys, irritates ▯.
 
 pırıfuı @Ilmen 2023-01-13 #5Q8Tg7Juo $en ±
@@ -68412,9 +68433,6 @@ rarakuq @Machy 2022-02-14 #S3euH2tQd $en +1
 rarasaı [(c) (d) máq I] @uakci 2022-07-21 #0MXc3daYJ $en ±
 ▯ is unobtainium.
 
-⚠ rarau [particle] @TheAndSys 2023-08-05 #IXhxJpRZH $en -1
-interjection: that’s sorta/kinda/vaguely/obliquely/metaphorically/non-literally true
-
 raroı @Ilmen 2019-01-03 #SO7yjqQkE $en ± %logic,plural_logic
 ▯ are the things that are either among ▯ or among ▯.
 
@@ -69062,9 +69080,6 @@ req @SuperSpaceNiM 2024-08-15 #zbZsFVfMW $ru ± %lifeform,animal,vertebrate,mamm
 
 req @zearen 2025-03-21 #9DlfBGpS9 $jbo ± %lifeform,animal,vertebrate,mammal
 ▯ remna
-
-req @jiqci 2025-03-07 #DT_WcfST2 $en -1 %lifeform,animal,vertebrate,mammal
-▯ is a sentient being.
 
 req @Laqme 2025-04-03 #5naEjNcEf $jbo -1 %lifeform,animal,vertebrate,mammal
 ▯ remna
@@ -74390,7 +74405,7 @@ sıeceo @Ilmen 2019-01-23 #KtSx4-iqA $en ±
 sıecuoı @uakci 2022-09-07 #0cuN6nJQg $en ±
 ▯, with each element of sequence ▯ in order, satisfies ▯ (relation).
 
-síechaq [particle] @robintown 2023-10-17 #zgaAshRgV $en +1
+síechaq [particle] @robintown 2023-10-17 #zgaAshRgV $en +2
 pronoun: tomorrow
 
 sıeche @Laqme 2024-04-28 #tRqEQG2qB $en ±
@@ -74405,6 +74420,10 @@ sıechıo @seaqtaq 2024-07-30 #r5hx34nww $en ±
 
 sıedao @Ilmen 2020-01-16 #2Yc--Y2LK $en -1
 ▯ is a sequence; ▯ is the sequence ⟨▯, ▯ (, ▯ (, ▯ (…)))⟩.
+
+síedaq [particle] @Dembim 2026-06-25 #zrsfMRp15 $en ±
+pronoun: 'next.time'; the next period (of a sort determined by context)
+  Dembim (2026-06-25): Depending on context, this means "tomorrow", "next month", "next semester", etc.
 
 sıefa [(c c) (d d) hó A] @official 2026-02-16 #owmumYgJ6EN $en ±
 predicate: ‘follow’; ▯ follows/goes after ▯.
@@ -74529,7 +74548,7 @@ sıeqdoa @Machy 2020-06-29 #duav7bS3i $en ±
 sıeqdoache [(c) (d) hó I] @Machy 2020-06-29 #n4K7tgNSk $en ±
 ▯ is a hierophant, one who brings people into numinous, divine, holy, or sacred mysteries.
 
-sıeqge [(c) (d) tá F] @robintown 2022-07-02 #Mn94mgGmS $en +1
+sıeqge [(c) (d) tá F] @robintown 2022-07-02 #Mn94mgGmS $en +2
 ▯ is amazing.
   uakci (2022-07-02): miracle, wonder
 
@@ -74777,7 +74796,7 @@ sımkıu @Laqme 2023-03-16 #nFZx0R4V6 $en ±
 sımko @Laqme 2023-12-03 #ziLCvs-mf $en ±
 ▯ is one of the first among ▯.
 
-sımo @Hoemai 2019-02-24 #OjnDMtT75 $en +1
+sımo [(c) (d) hó I] @Hoemai 2019-02-24 #OjnDMtT75 $en +1
 ▯ is a member of the genus Simiiformes (the monkeys and apes); ▯ is a simian.
   jiqci (2023-01-31): infraorder, not genus
   Ilmen (2025-10-31): officialized: yes
@@ -79589,7 +79608,7 @@ Shı [ja poq] ru bı bu chıaqme póq
 shıposodaoluezeq @jiqci 2024-01-07 #C8j9MvYdZ $en ±
 ▯ is flavin mononucleotide (FMN).
 
-shıq @Laqme 2023-10-22 #oL8jm7NcV $en +2 %perception,olfaction
+shıq [(c c) (d d) hó I] @Laqme 2023-10-22 #oL8jm7NcV $en +2 %perception,olfaction
 ▯ smells ▯.
 
 shıq [(c) (d) tá F] @official 2026-02-16 #EBFshABuRXj $en ± %perception,olfaction
@@ -80263,7 +80282,7 @@ shoarom @Laqme 2024-05-25 #DMzY4AzF3 $en ±
 ▯ is a machine executable / compiled / native program.
   Laqme (2024-05-25): The metaphor is that the program is executed "deep down" by the hardware, rather than interpreted "high up" by other software (see **fıurom**).
 
-shoasıeq [(c c) (d d) hó I] @Hoemai 2019-04-01 #uU3PXaCbO $en +3
+shoasıeq [(c c) (d d) hó I] @Hoemai 2019-04-01 #uU3PXaCbO $en +4
 ▯ feels reverence at the unfathomable depth of ▯.
   Hoemai (2019-04-01): Trying to capture the emotion I experience when I see underwater footage of whales in the ocean.
   Machy (2020-07-01): nice literary vocabulary
@@ -80865,7 +80884,7 @@ shuene @Laqme 2024-01-02 #YSbCTZXND $en ±
 shuenu @uakci 2022-07-04 #razWtMH03 $en ±
 It’s still that ▯; Regardless, ▯.
 
-shuepaq @fagri 2019-02-19 #Kq14chq2U $en +1
+shuepaq [(c c) (d d) tá I] @fagri 2019-02-19 #Kq14chq2U $en +1
 ▯ is what's left of ▯; ▯ is the rest of ▯
   seaqtaq (2019-02-19): +1
 
@@ -81474,7 +81493,7 @@ tajeo @uakci 2021-11-10 #lQBXcWnoB $en -1
   uakci (2021-11-10): **Zảo jí sa hủı pỏq da. Keo bủ tả súq da.** ‘I know some bad people. You are not [coreferential with] them.’
   uakci (2021-11-10): **Zảo jí sa hủı pỏq da. Keo bủ tảjeo súq da.** ‘I know some bad people. You are not a bad person.’
 
-tajı [(c 1x) (d d) hóq P] @fagri 2019-01-31 #BeCyXyc-f $en +2
+tajı [(c 1x) (d d) hóq P] @fagri 2019-01-31 #BeCyXyc-f $en +3
 Doing ▯ is a way of doing ▯
   fagri (2019-01-31): I.e. "Making frequent backups is a way to prevent significant loss of data"
   fagri (2019-01-31): Both slots are actions (properties) and the word is therefore analogous to shiutāo at #NubN97J6o
@@ -81956,6 +81975,7 @@ taopaqme @uakci 2022-07-20 #l9BJD7zJE $en ±
 
 taoraı @robintown 2023-04-29 #9eF6eCkkj $en ±
 ▯ is an agentive entity / has agency.
+  Dembim (2026-06-25): kw: agent
 
 taorıeq @seaqtaq 2024-10-29 #5KRTV-Xsu $en ±
 ▯ shies away/cowers from doing ▯
@@ -83173,7 +83193,7 @@ teqhukı @salarua 2022-12-11 #UBXetqxvZ $en +1
 teqjeaqne @jiqci 2023-06-10 #cvdGr47Q5 $en ±
 ▯ is (the rate of) economic inflation.
 
-teqjıaq @Laqme 2024-05-14 #H3LNfMomg $en ±
+teqjıaq @Laqme 2024-05-14 #H3LNfMomg $en +1
 ▯ is an economy.
 
 teqjuq @seaqtaq 2019-01-30 #_H2XatRCE $en -1
@@ -83748,7 +83768,7 @@ tıcaı @uakci 2022-03-09 #qeUxvm4IC $en ±
 tıcoı @uakci 2021-09-29 #f4MoAt1SN $en ±
 ▯ is spread everywhere around ▯.
 
-tıcuao @Ilmen 2019-04-18 #xg-k-6QHJ $en +1
+tıcuao [(c c) (d d) tá S] @Ilmen 2019-04-18 #xg-k-6QHJ $en +1
 ▯ is across / on the opposite side of ▯.
 
 tıcuao @Ilmen 2020-02-25 #LIImgp8Tp $en ±
@@ -89634,11 +89654,6 @@ zoge [(c) (d) tá F] @jiqci 2023-02-04 #AqnH6PvER $en ±
 zoı- [particle] @seaqtaq 2024-10-18 #Bopd4YcnA $en ±
 prefix: 'antipassive': demotes greatly the saliency of an object as well as removes it from the structure of a verb. The former object may only be referenced through oblique semantic role marking
   seaqtaq (2024-10-18): . Tag: voice operator; Zọıchuq mí Joq" == "John eats [something]". Object is only referenceable obliquely through choosing the appropriate semantic role marker. "Zọıchuq mí Joq têcha háq" == "John is eating, with what's being eaten being the food" (John is even more salient than he would be in an active relation)
-
-zöı [particle] @evie 2025-06-12 #VFfv7xJ2Y $en -1
-complementizer: indirect question
-  evie (2025-06-12): replacement for <@TheAndSys nhä> which conflicts with **nha** when used as the complement of :d2:
-  evie (2025-12-22): self-downvote, this doesn't always solve the issue. you could potentially want to nest a direct question in this. what we really need is something like lojban's {makau} etc
 
 zoku [(c) (d) máq I] @Laqme 2023-02-14 #exjKx_vPg $en +1
 ▯ is steel.
