@@ -1473,7 +1473,6 @@ predicate create ▯ creates invents ▯ _BIAS _RAKU_fıeq _ARITY_2	hó	A	2
 ▯ is the country palestine state of palestine _BIAS _RAKU_gua _2_RAKU_sıqgua _ARITY_1 _CAPS	máq	I	1
 ▯ is a cousin of ▯ _BIAS _RAKU_fıom _ARITY_2	hó	I	2
 ▯ is the viossa language constructed pidgin _BIAS _RAKU_zu _2_RAKU_sazu _ARITY_1 _CAPS	hóq	I	1
-▯ is the subject metadata of toadua entry ▯ _BIAS _RAKU_sa _2_RAKU_pesa _ARITY_2	hóq	I	2
 ▯ is a font _BIAS _RAKU_ra _2_RAKU_fıra _ARITY_1	hóq	I	1
 ▯ whistles _BIAS _RAKU_su _2_RAKU_fısu _ARITY_1	hó	A	1
 ▯ is in extreme anticipation of ▯ which is on the cusp of happening ▯ can hardly wait any longer for ▯ to happen which it very soon should _BIAS _RAKU_shoem _2_RAKU_fıshoem _ARITY_2	hó	I	2
@@ -4381,6 +4380,7 @@ predicate sheet ▯ is a sheet of paper _BIAS _RAKU_boe _2_RAKU_peqboe _ARITY_1	
 ▯ is a radish _BIAS _RAKU_rao _2_RAKU_perao _ARITY_1	máq	I	1
 ▯ pertains to the culture of peru republic of peru _BIAS _RAKU_ru _2_RAKU_peru _ARITY_1 _CAPS	tá	F	1
 ▯ is the country peru republic of peru _BIAS _RAKU_gua _2_RAKU_rugua _ARITY_1 _CAPS	máq	I	1
+predicate subject type ▯ is a subject type one of proposition event shape individual free or agent _BIAS _RAKU_fa _2_RAKU_sıfa _ARITY_1	hóq	I	1
 ▯ is a penis _BIAS _RAKU_so _2_RAKU_peso _ARITY_1	máq	I	1
 predicate peta ▯ are 10 sup 15 sup 1 000 000 000 000 000 in number ▯ are a quadrillion _BIAS _RAKU_ta _2_RAKU_peta _ARITY_1	tá	F	1
 ▯ is study of perspective as in a fine arts course _BIAS _RAKU_dıu _2_RAKU_teıdıu _ARITY_1	hóq	I	1
@@ -4925,6 +4925,7 @@ predicate rest ▯ rests relaxes _BIAS _RAKU_sea _ARITY_1	hó	I	1
 ▯ feels relieved _BIAS _RAKU_jaı _2_RAKU_seajaı _ARITY_1	hó	I	1
 ▯ goes on a walk stroll constitutional _BIAS _RAKU_koı _2_RAKU_seakoı _ARITY_1	hó	A	1
 predicate exhausted ▯ is exhausted _BIAS _RAKU_kuaı _2_RAKU_seakuaı _ARITY_1	hó	I	1
+▯ is a drug narcotic _BIAS _RAKU_seao _ARITY_1	máq	I	1
 ▯ is pharmacology _BIAS _RAKU_dıu _2_RAKU_seaodıu _ARITY_1	hóq	I	1
 predicate have sex ▯ has sex with ▯ ▯ has sexual intercourse with ▯ _BIAS _RAKU_seaq _ARITY_2	hó	A	2
 ▯ is a virgin _BIAS _RAKU_cıa _2_RAKU_seaqcıa _ARITY_1	hó	I	1
@@ -6057,7 +6058,7 @@ predicate needle ▯ is a needle _BIAS _RAKU_zeum _ARITY_1	máq	I	1
 ▯ is radiant lustrous _BIAS _RAKU_zıam _ARITY_1	tá	F	1
 ▯ is radioactive _BIAS _RAKU_tı _2_RAKU_zıatı _ARITY_1	máq	I	1
 ▯ is galena _BIAS _RAKU_pıo _2_RAKU_lopıo _ARITY_1	máq	I	1
-▯ sparkles _BIAS _RAKU_zıa _2_RAKU_zıazıa _ARITY_1	máq	I	1
+▯ sparkles _BIAS _RAKU_zıa _2_RAKU_zıazıa _ARITY_1	tá	I	1
 ▯ is an eruption _BIAS _RAKU_zuom _2_RAKU_zıazuom _ARITY_1	hóq	F	1
 ▯ is a 0 off false bit _BIAS _RAKU_dao _2_RAKU_zıdao _ARITY_1	hóq	I	1
 ▯ person or speech act or event points at mentions designates ▯ _BIAS _RAKU_zıe _ARITY_2	tá	F	2

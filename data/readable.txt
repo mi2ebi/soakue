@@ -8696,7 +8696,7 @@ cataphoric predicate: ▯ is something that satisfies a floating relative clause
   uakci (2022-08-21): **tỉ có baq sỏaq nheı jẻı sôı há chéq** ‘it was in a park, one’s fighting with each other’
   uakci (2022-08-21): thinking of allowing **nheı** to associate with DPs/CPs too (imagine removing the **jẻı** from this last example)
 
-có [particle] @uakci 2023-05-30 #Rs8NuzD9J $en +2
+có [particle] @uakci 2023-05-30 #Rs8NuzD9J $en +3
 pronoun: cataphoric; a placeholder that anticipates an extra noun phrase after the clause
   fagri (2023-05-30): Example usage: «Ca có wä jaı jı́, wä gaı jı́ sá shuao de gu»
   uakci (2023-05-30): akin to **nä** (and as such termable as a cleft) except the extracted noun phrase appears after the clause, not before. we assume that this NP appears after all adverbials (i.e., a full clause, right below CP) and participates in a cleft structure that’s exactly like **nä** but not pronounced (we’re able to pull this off because we don’t need to disambiguate the end of a noun phrase from the start of a predicate)
@@ -21030,9 +21030,6 @@ fıom [(c c) (d d) hó I] @Laqme 2023-10-03 #ZARLufX4D $en +1
 
 Fıosazu [(c) (d) hóq I] @mimiaoganhaqpy 2023-07-12 #hDigp0UfV $en ±
 ▯ is the Viossa language (constructed pidgin).
-
-fıpesa [(c c) (d d) hóq I] @evie 2026-02-14 #6-iEG1Vru $en +1
-▯ is the Subject metadata of Toadua entry ▯
 
 fıqko @jiqci 2024-03-27 #E7iKIb1mx $en ±
 ▯ is a finch / chaffinch (genus Fringilla).
@@ -52593,6 +52590,7 @@ mıaobubua @Lisaki 2025-09-15 #VE8BKDbRZ $en ±
 
 mıaochoa @uakci 2020-03-01 #2XxrrPOOD $en ±
 ▯ meows / miaows; ▯ makes a meowing sound.
+  jiqci (2026-06-26): meowls
 
 mıaodoaı @Hydro 2021-09-15 #BbDUbIdbA $en ±
 ▯ is a mooncake.
@@ -64705,6 +64703,10 @@ peseo @Ilmen 2019-09-16 #atcMqOLWb $en ± %lifeform,plant
 peseto @robintown 2024-08-28 #4amxmTZFN $en ±
 ▯ is pesto.
 
+pesıfa [(c) (d) hóq I] @Dembim 2026-06-26 #EqPzE46Ik $en ±
+predicate: 'subject.type'; ▯ is a subject type (one of "proposition", "event", "shape", "individual", "free", or "agent")
+  Dembim (2026-06-26): kw: metadata
+
 pesıtı @Ilmen 2023-01-13 #qubl32D-h $en ± %illness
 ▯ is plague.
 
@@ -65021,7 +65023,7 @@ pıeq @Iako 2025-05-11 #If6A0JOlQ $en +1
 pıeraı @robintown 2023-02-10 #Nst9m2zrz $en ±
 ▯ is a beverage.
 
-pıerıaq @Laqme 2024-05-14 #qD5iCbxDv $en ±
+pıerıaq @Laqme 2024-05-14 #qD5iCbxDv $en +1
 ▯ is a bar/cafe/pub.
 
 pıerıo @uakci 2020-03-01 #-iiS0B5Jj $en ±
@@ -73123,7 +73125,7 @@ seakuaı @Laqme 2025-04-03 #ER6oGwcrB $jbo ± %perception
 seamoe @Machy 2020-07-02 #4A9YLRge1 $en ±
 ▯ feels relaxed/restful.
 
-seao @jiqci 2023-07-18 #6MgTEin64 $en +1
+seao [(c) (d) máq I] @jiqci 2023-07-18 #6MgTEin64 $en +1
 ▯ is a drug/narcotic.
 
 seaodıem @Laqme 2024-06-27 #wMt3wGy6G $en ±
@@ -89195,7 +89197,7 @@ zıatuoqlopıo [(c) (d) máq I] @Snow 2024-03-21 #OKpF9aBhX $en ±
 zıazaq @Laqme 2024-12-25 #UBXylsmSt $en ±
 ▯ gets emitted / radiated.
 
-zıazıa [(c) (d) máq I] @Laqme 2021-10-18 #k_8P_E-vL $en +7
+zıazıa [(c) (d) tá I] @Laqme 2021-10-18 #k_8P_E-vL $en +7
 ▯ sparkles.
   Laqme (2021-10-18): glitters, glimmers, twinkles!
 
