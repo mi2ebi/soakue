@@ -168,6 +168,7 @@ function search(q) {
         if (
           ["=", "head", "~", ""].includes(op) &&
           (value == entry.head ||
+           compareish(normalize(value), normalize(entry.head)) ||
             compareish(normalize_query(value), normalize(entry.head)))
         )
           return 5.2;
@@ -358,7 +359,8 @@ const normalize_query = memoize((w, lowercase = true) =>
 );
 // handle prefix hyphens
 const compareish = (query, word) =>
-  query == word || query == word.replace(/-$/, "");
+      query == word || query == word.replace(/-$/, "") ||
+      (word.endsWith('-') && query.replace(/\u0323$/, '') == word.replace(/-$/, ''));
 const char_regex = new RegExp(`${char_match}`, "iug");
 const char_brackets_regex = new RegExp(`\\[(?!^)${char_match}*?\\]`, "iug");
 const queryToRegex = memoize((query, anchored = true) => {
