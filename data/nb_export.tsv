@@ -1178,8 +1178,8 @@ predicate journal ▯ is a journal periodical newspaper _BIAS _RAKU_kue _2_RAKU_
 ▯ replaces substitutes for ▯ in satisfying some salient property the former now satisfies the property while the latter no longer does no agentivity implied _BIAS _RAKU_ba _2_RAKU_dıba _ARITY_2	tá	F	2
 ▯ is disallowed _BIAS _RAKU_bu _2_RAKU_dıbu _ARITY_1	tá	F	1
 predicate suggest ▯ suggests ▯ _BIAS _RAKU_dıe _ARITY_2	hó	A	2
-predicate send ▯ sends to ▯ ▯ _BIAS _RAKU_dıeq _ARITY_3	hó	A	3
 ▯ sends ▯ _BIAS _RAKU_dıeq _ARITY_2	hó	A	2
+predicate send ▯ sends to ▯ ▯ _BIAS _RAKU_dıeq _ARITY_3	hó	A	3
 ▯ is a postman _BIAS _RAKU_che _2_RAKU_dıeqche _ARITY_1	hó	I	1
 ▯ receives ▯ which was sent to them _BIAS _RAKU_juq _2_RAKU_dıeqjuq _ARITY_2	hó	I	2
 ▯ is a piece word of advice _BIAS _RAKU_se _2_RAKU_dıese _ARITY_1	hóq	I	1
@@ -1554,7 +1554,6 @@ predicate enjoy ▯ enjoys sensing observing ▯ _BIAS _RAKU_pua _2_RAKU_gaıpua
 ▯ is the planet earth _BIAS _RAKU_ja _2_RAKU_gaja _ARITY_1	máq	I	1
 ▯ teaches ▯ to satisfy property ▯ _BIAS _RAKU_le _2_RAKU_gale _ARITY_3	hó	A	3
 predicate teach ▯ teaches learner ▯ _BIAS _RAKU_le _2_RAKU_gale _ARITY_2	hó	A	2
-predicate teach ▯ teaches _BIAS _RAKU_le _2_RAKU_gale _ARITY_1	hó	A	1
 ▯ is a teacher _BIAS _RAKU_che _2_RAKU_leche _ARITY_1	hó	I	1
 ▯ is a teacher of student s ▯ _BIAS _RAKU_che _2_RAKU_leche _ARITY_2	hó	I	2
 ▯ is a teaching assistant _BIAS _RAKU_che _2_RAKU_soache _ARITY_1	hó	I	1
@@ -2421,10 +2420,12 @@ predicate world ▯ is a world _BIAS _RAKU_jıaq _ARITY_1	máq	I	1
 ▯ is true in world ▯ _BIAS _RAKU_jeo _2_RAKU_jıaqjeo _ARITY_2	hóq	I	2
 ▯ is a globe _BIAS _RAKU_kıoq _2_RAKU_jıaqkıoq _ARITY_1	máq	I	1
 ▯ is the world wide web ▯ is the internet _BIAS _RAKU_koaı _2_RAKU_jıaqkoaı _ARITY_1	máq	I	1
+▯ is climate change global warming _BIAS _RAKU_tue _2_RAKU_loqtue _ARITY_1	hóq	E	1
 ▯ is false in world ▯ _BIAS _RAKU_hu _2_RAKU_sahu _ARITY_2	hóq	P	2
 predicate universe ▯ is the universe _BIAS _RAKU_tu _2_RAKU_jıaqtu _ARITY_1	máq	I	1
 ▯ is an apocalypse _BIAS _RAKU_zuom _2_RAKU_jıaqzuom _ARITY_1	hóq	F	1
 predicate hope ▯ hopes that ▯ will be the case _BIAS _RAKU_shao _2_RAKU_jıashao _ARITY_2	hó	I	2
+▯ grasps holds ▯ _BIAS _RAKU_ꝡaı _2_RAKU_jıaꝡaı _ARITY_2	hó	I	2
 ▯ feels doubtful and apprehensive about what the future holds _BIAS _RAKU_meo _2_RAKU_zoaımeo _ARITY_1	hó	I	1
 predicate my ▯ is mine _BIAS _RAKU_bo _2_RAKU_jıbo _ARITY_1	tá	F	1
 ▯ is lojban _BIAS _RAKU_zu _2_RAKU_bozu _ARITY_1 _CAPS	hóq	I	1
@@ -2648,6 +2649,7 @@ predicate marking ▯ is a marking _BIAS _RAKU_se _2_RAKU_kaıse _ARITY_1	máq	I
 ▯ is a mackerel stripy fishes of scombridae _BIAS _RAKU_bo _2_RAKU_sebo _ARITY_1	hó	I	1
 ▯ has ▯ written on it _BIAS _RAKU_te _2_RAKU_kaıte _ARITY_2	máq	I	2
 ▯ is a graphics tablet _BIAS _RAKU_kea _2_RAKU_toqkea _ARITY_1	máq	I	1
+▯ undergoes yet again the silly epiphany that what one sees beyond their glasses is not simply a mirage constructed with the help of their lenses but reality _BIAS _RAKU_cha _2_RAKU_jıcha _ARITY_1	hó	I	1
 ▯ is a cocoa bean _BIAS _RAKU_seo _2_RAKU_faseo _ARITY_1	máq	I	1
 ▯ is cocoa powder _BIAS _RAKU_puo _2_RAKU_kaopuo _ARITY_1	máq	I	1
 ▯ decides ▯ _BIAS _RAKU_koe _2_RAKU_kakoe _ARITY_2	hó	A	2
@@ -3090,6 +3092,7 @@ predicate letter ▯ is a letter glyph sign character symbol graphical component
 ▯ is a serif of a letter character _BIAS _RAKU_pa _2_RAKU_dapa _ARITY_1	máq	I	1
 ▯ is in a serif font _BIAS _RAKU_bo _2_RAKU_pabo _ARITY_1	máq	I	1
 ▯ is in a sans serif font _BIAS _RAKU_cıa _2_RAKU_pacıa _ARITY_1	máq	I	1
+▯ signs signals semantic content ▯ to ▯ with an action gesture hint etc _BIAS _RAKU_dıeq _2_RAKU_laıdıeq _ARITY_3	hó	I	3
 ▯ is a keyboard _BIAS _RAKU_kea _2_RAKU_koekea _ARITY_1	máq	I	1
 ▯ is calligraphy _BIAS _RAKU_lea _2_RAKU_laılea _ARITY_1	hóq	I	1
 ▯ is the amount of letters in ▯ _BIAS _RAKU_ne _2_RAKU_laıne _ARITY_2	hóq	I	2
