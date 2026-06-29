@@ -3138,8 +3138,8 @@ Benıqgua [(c) (n) máq I] @countries 2026-04-11 #A844WLhOEqR $en ±
 benhoq @Laqme 2022-10-21 #k48dFX_w6u $en ±
 ▯ is an umbilical cord.
 
-beo [(c 2ix) (d d) tá F] @official 2026-02-16 #JtrT3fVcRzI $en ±
-predicate: ‘change’; ▯ changes; ▯ changes in property ▯.
+beo [(c 2ix) (d d) tá F] @official 2026-06-28 #2vPEpamFR $en ±
+predicate: ‘change’; ▯ changes in property ▯.
 
 beo @Ilmen 2020-01-25 #JaMc4PbeQ $toa ±
 = [X2] ja raı ja guja bı sa shıko sa guko bü jeı shíko bı leaqshıu dêı gúja ráı shíko ru sıa jeı gúko na dêı gúja ráı sıa jeı shíko ru gúko.
@@ -3828,8 +3828,8 @@ predicate: ‘enough’; ▯ is enough; ▯ sufficiently satisfies property ▯.
 bıaq [(c 0) (d d) hóq P] @fagri 2021-07-27 #iiuwaW7Vc $en +2
 ▯ is true enough that ▯ happens
 
-bıaq [(c 1i) (d d) tá F] @official 2026-02-16 #QjeMLwkDzTw $en ±
-predicate: ‘enough’; ▯ is enough; ▯ sufficiently satisfies property ▯.
+bıaq [(c 1i) (d d) tá F] @official 2026-06-28 #Jg4vIOu4yp $en ±
+predicate: ‘enough’; ▯ sufficiently satisfies property ▯.
 
 bıaq @uakci 2021-09-09 #7U2raYU2D $en ±
 ▯ is enough the case for ▯ to be the case; ▯ satisfies property ▯ to enough an extent to satisfy property ▯.
@@ -3961,8 +3961,8 @@ bıdeozıa @eednb 2023-01-26 #7i5VVw5lX $en ±
 bıdıesem [(c) (d) tá F] @Laqme 2025-05-28 #aMZAY7VwV $en +2
 ▯ pertains to BDSM.
 
-bıe [(c 0) (d d) hóq E] @official 2026-02-16 #dquPCgo9-6K $en ±
-predicate: ‘after’; ▯ takes place after ▯.
+bıe [(c 0) (d d) hóq E] @official 2026-06-28 #Jus2qGlmc $en ±
+predicate: ‘after’; ▯ is after / in the future of ▯.
 
 ⚠ bıe @oldofficial 2019-05-05 #jc4Pz8XNd1 $en ±
 predicate: ‘after’; ▯ takes place after ▯.
@@ -4001,8 +4001,8 @@ bıejaı @Laqme 2023-12-29 #T7att97zC $en ±
 ▯ reminisces / looks back happily on ▯.
   Laqme (2023-12-29): Could be distant (nostalgia) or nearby ("today was so nice!")
 
-bıejao [(c 0) (d d) hóq E] @official 2026-02-16 #FHks3rVnzYt $en ±
-predicate: ‘long.after’; ▯ takes place long after ▯.
+bıejao [(c 0) (d d) hóq E] @official 2026-06-28 #-YQ_nTLLBb $en ±
+predicate: ‘long.after’; ▯ is long after / in the remote future of ▯.
 
 bıejao @nano 2023-03-07 #5kTcmUweu $tok ±
 ▯ li open lon pini suli ▯.
@@ -4033,8 +4033,8 @@ bıejıezuq @jiqci 2024-02-17 #WFnvGg6OF $en +1
 bíejoa [particle] @robintown 2023-10-31 #PqgLLkqws $en ±
 pronoun: next week
 
-bıejuı [(c 0) (d d) hóq E] @official 2026-02-16 #uJyhkSxGeuS $en ±
-predicate: ‘shortly.after’; ▯ takes place shortly after ▯.
+bıejuı [(c 0) (d d) hóq E] @official 2026-06-28 #Lnuw6Nrv9T $en ±
+predicate: ‘shortly.after’; ▯ is shortly after / in the near future of ▯.
 
 bıejuı @nano 2023-03-07 #MLIDRHro4 $tok ±
 ▯ li open lon pini lili ▯.
@@ -4570,6 +4570,9 @@ boao @fagri 2019-03-17 #Jywua4acj $en ±
 boaq @Laqme 2024-08-22 #-1Z3Wbh7u $en +1
 ▯ is a shadow.
 
+boaq [(c) (d) máq I] @official 2026-06-28 #R9cPV8TuEz $en ±
+predicate: ‘shadow’; ▯ is a shadow.
+
 boaq @Laqme 2021-10-29 #x5N7HUNAJ $ja ±
 ▯は影；▯は▯の影
 
@@ -4581,9 +4584,6 @@ boaq @jiqci 2023-07-31 #m3vVxkRE0n $pl ±
 
 boaq @Hoekeiboi 2023-07-31 #7EPrcgUcV $tl ±
 anino ang ▯. anino ang ▯ ng ▯.
-
-boaq [(c c) (d d) máq I] @official 2026-02-16 #Ve8-NLXqLUG $en -1
-predicate: ‘shadow’; ▯ is a shadow; ▯ is a shadow of ▯.
 
 boaqbo @Ilmen 2025-10-30 #6t-Z5Sn-j $en ±
 ▯ casts shadow ▯.
@@ -9474,8 +9474,8 @@ cuedıu [(c) (d) hóq I] @Ilmen 2019-01-11 #hLsW4bG8I $en ±
 cuedıuche [(c) (d) hó I] @Laqme 2022-10-09 #A6bzD_eX4 $en ±
 ▯ is a political scientist.
 
-cuefuaı [(c c) (d d) hóq I] @official 2026-02-16 #xKNVKBXfPQ $en ±
-predicate: ‘government’; ▯ is a government; ▯ is a government of ▯.
+cuefuaı [(c) (d) hóq I] @official 2026-06-28 #fOEPOjGwX0 $en ±
+predicate: ‘government’; ▯ is a government.
 
 cuefuaı @el 2022-10-26 #it-Pb9RvS $tok ±
 ▯ li kulupu li lawa e ▯
@@ -11158,8 +11158,8 @@ chıaısıcıa [(c) (d) hó A] @robintown 2024-09-11 #zvkr1tGtK $en ±
 chıaısıtao [(c 1i) (d d) hó I] @uakci 2021-09-11 #9SDlN5CuY $en +1
 ▯ does ▯ carefully (avoiding making mistakes).
 
-chıaıtao [(c 1i) (d d) hó A] @official 2026-02-16 #UgNHS24WKuS $en ±
-predicate: ‘err’; ▯ errs; ▯ makes mistake ▯.
+chıaıtao [(c 1i) (d d) hó A] @official 2026-06-28 #EaW-OX5kFL $en ±
+predicate: ‘err’; ▯ makes mistake ▯.
 
 chıaıtao @nano 2023-05-23 #IKPY-3IgO $tok ±
 ▯ li kepeken nasin ike; ▯ li kepeken nasin ike tawa ▯.
@@ -11223,8 +11223,8 @@ chıaq [(c c) (d d) hó I] @Laqme 2023-11-05 #ZlES9ZBbk $en +1 %⚠
 ▯ is aware of ▯.
   Laqme (2023-11-05): I'd like this not to have the intransitive meaning "conscious"
 
-chıaq [(c 0) (d d) hó I] @official 2026-02-16 #SzoLUePXga2 $en ± %⚠
-predicate: ‘aware’; ▯ is conscious; ▯ is aware of ▯.
+chıaq [(c 0) (d d) hó I] @official 2026-06-28 #qo4qVcGTrP $en ± %⚠
+predicate: ‘aware’; ▯ is aware of ▯.
 
 chıaq @el 2022-07-10 #v4L9LtbuI $tok ± %⚠
 ▯ li sona e ni: ▯ li lon
@@ -13282,8 +13282,8 @@ chuapeq @Laqme 2024-08-17 #asH7M0Bee $en ±
 chuaq [(c) (d) hóq I] @Laqme 2024-09-07 #okzVBPkps $en +2 %culture
 ▯ is an "ism" / ideology.
 
-chuaq [(c 1x) (d d) hóq I] @official 2026-02-16 #FQGvVh8tae7 $en ± %culture
-predicate: ‘ism’; ▯ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; ▯ is an ideology based on concept ▯; ▯ is an ism; ▯ is an ▯-ism.
+chuaq [(c) (d) hóq I] @official 2026-06-28 #NbZ9FS9zio $en ± %culture
+predicate: ‘ism’; ▯ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof.
 
 chuaq @nano 2023-03-05 #7EC_906HE $tok ± %culture
 ▯ li nasin jan.
@@ -15168,8 +15168,8 @@ daqsheı [(c) (d) hó I] @Hoemai 2019-02-06 #eJX6bX9Am $en +1
 ▯ has free time; ▯ has time to satisfy property ▯.
   Ilmen (2025-10-31): officialized: yes
 
-daqsheı [(c 1i) (d d) tá I] @official 2026-02-16 #3ydwpf-5qS9 $en ±
-predicate: ‘free’; ▯ has free time; ▯ has time to satisfy property ▯.
+daqsheı [(c) (d) tá I] @official 2026-06-28 #WdS1FsOb7U $en ±
+predicate: ‘free’; ▯ has free time.
 
 daqsheı @jiqci 2023-07-31 #TeHGGg2J2l $pl ±
 ▯ ma czas wolny (na spełnienie własności ▯).
@@ -16620,8 +16620,8 @@ dıru [(c c 1j) (d d d) hó A] @Laqme 2023-12-02 #6E_BfxCu4 $en +3
 dıtao @uakci 2022-05-28 #yciPLLJaf $en ±
 ▯ does ▯, as is their right; ▯ is allowed to do ▯, and does so, too.
 
-dıu [(c c) (d d) hóq I] @official 2026-02-16 #-hbUteZ1N0M $en ± %science
-predicate: ‘science’; ▯ is the branch of knowledge that studies ▯; ▯ is a science.
+dıu [(c) (d) hóq I] @official 2026-06-28 #Qqng-Y0bRC $en ± %science
+predicate: ‘science’; ▯ is a science.
 
 dıu @mimiaoganhaqpy 2022-04-29 #X6nSZ1SAu $zh ± %science
 謂詞：「科學」；▯是一種研究▯的知識；▯是科學。
@@ -17526,8 +17526,8 @@ duafuı @fagri 2021-08-18 #lJStqyOEx $en +1
 duafuı [(c) (d) tá F] @Laqme 2023-10-23 #OmODjdhKN $en +1
 ▯ is obvious.
 
-duafuı [(c c) (d d) hóq P] @official 2026-02-16 #T75Syy6AK7j $en ±
-predicate: ‘obvious’; ▯ is obvious; ▯ is obvious to ▯.
+duafuı [(c) (d) hóq P] @official 2026-06-28 #biMR0EHzBO $en ±
+predicate: ‘obvious’; ▯ is obvious.
 
 duafuı @el 2022-09-07 #p9AUBFcna $jbo ±
 bo'a li'armi bo'e
@@ -18046,8 +18046,8 @@ prefix: "too (much) X"
 duı [particle] @Laqme 2025-03-02 #fZMcamXBO $en +3
 degree: too much
 
-duı [(c c 1i) (d d d) tá F] @official 2026-04-11 #bticO0mK_k $en ±
-predicate: ‘too.much’; ▯ is too much ▯; ▯ satisfies property ▯ too much to satisfy property ▯.
+duı [(0) (d) hóq P] @official 2026-06-28 #uvTrM50VF4 $en ±
+predicate: ‘too.much’; ▯ is too much the case.
 
 duı [(c 1i) (n d) tá F] @robintown 2021-09-18 #ZzCuiCA1o $en ±
 ▯ satisfies property ▯ too much.
@@ -21249,11 +21249,11 @@ object-incorporating verb: turns following phrase X into verb: X is with ▯ in 
 foaq @Laqme 2024-08-22 #JtGclO9iR $en +1 %perception
 ▯ is comfortable / feels comfort.
 
+foaq [(c) (d) hó I] @official 2026-06-28 #DqyPMO2u-R $en ± %perception
+predicate: ‘comfortable’; ▯ is comfortable; ▯ feels comfort.
+
 foaq @jiqci 2023-07-31 #hiw45ySekV $pl ± %perception
 ▯ czuje się wygodnie/komfortowo spełniając własność ▯.
-
-foaq [(c 1i) (d d) hó I] @official 2026-02-16 #yPoxucqkuPW $en -1 %perception
-predicate: ‘comfortable’; ▯ is comfortable; ▯ feels comfort; ▯ feels comfort in satisfying property ▯.
 
 foaqduı @seaqtaq 2024-09-15 #4-YQngJv0 $en ±
 ▯ is in a state of excessive complacency and/or laziness to commit to completing the negligibly inconvenient act ▯ which would result in making oneself more comfortable or otherwise more satisfied overall
@@ -28877,17 +28877,17 @@ henocaqrom @Laqme 2023-11-29 #Jpv2u_4ux $en ±
 heo- [particle] @uakci 2022-12-18 #HtkjiWApw $en ±
 prefix: ‘different subject’; specifies that the affected exophor has switched referents since last mention
 
-heo [(c c 1x) (d d d) tá F] @el 2022-07-05 #7vsitXngI $en +1 %logic
-▯ and ▯ differ in what the answer to ▯ (indirect question + property) is
-
-heo [(c c 2xx) (d d d) tá F] @official 2026-02-16 #Y_61hJ3dtN $en ± %logic
-predicate: ‘different’; ▯ is different from ▯; ▯ differs from ▯ in property ▯.
+heo [(c c 2xx) (d d d) tá F] @official 2026-06-28 #8GlKcUtUEv $en ± %logic
+predicate: ‘different’; ▯ differs from ▯ in property ▯.
 
 heo @uakci 2019-01-26 #7VPCKG2KZ $toa ± %logic
 = bu #jeq
 
 heo @Ilmen 2022-07-02 #MhJ2biQcS $en ± %logic
 predicate: ‘different’; ▯ is different from ▯; ▯ differs from ▯ in what they are in relation ▯ with.
+
+heo [(c c 1x) (d d d) tá F] @el 2022-07-05 #7vsitXngI $en ± %logic
+▯ and ▯ differ in what the answer to ▯ (indirect question + property) is
 
 heo @el 2022-07-10 #w-4PT0H5U $tok ± %logic
 ▯₃ la ▯₁ en ▯₂ li ante
@@ -29229,8 +29229,8 @@ heqma @robintown 2022-12-07 #7MWiRomej $en ±
 heqmıa @seaqtaq 2024-08-05 #tCE7SYNJp $en ±
 ▯ is populated/contains many things
 
-heqmuo [(c c) (d d) tá I] @official 2026-02-16 #Zcw9dhq63Z $en ±
-predicate: ‘full’; ▯ is full; ▯ is filled with ▯.
+heqmuo [(c) (d) tá I] @official 2026-06-28 #3Acq27RkWu $en ±
+predicate: ‘full’; ▯ is full.
 
 heqmuo @jiqci 2023-07-31 #_CpuccU2xb $pl ±
 ▯ jest pełny, wypełniony ▯.
@@ -32564,7 +32564,6 @@ onomatopoeia: neigh; ▯ neighs.
 
 îaı [particle] @evie 2025-09-21 #ZxxlL0NdG $en +2
 adjunct head: forms direct-object-sharing adverbials
-  evie (2025-09-21): **ôq** is defined as this but means **îaı sho**
 
 íam [particle] @uakci 2024-09-06 #H62RJJ_QE $en +1
 focus marker: regardless of X
@@ -35283,24 +35282,27 @@ jeotue [(c) (d) hóq F] @jiqci 2023-02-25 #8VLSx1bR6 $en ±
 jeq- [particle] @uakci 2022-12-18 #RsQf7LSE8 $en ±
 prefix: ‘same subject’; specifies that the affected exophor has not switched referents since last mention
 
-jeq [(c c 1x) (d d d) tá F] @el 2022-07-02 #8DsWeRuK6 $en +1 %logic
-▯ is identical to ▯ in what the answer to ▯ is (x₃ is an indirect question AND property)
-  el (2022-07-02): ex. «jeq jí súq têqguaı ja hı da» "you and I are identical in what we do for a job" = "you and I work the same job"
-
-jeq @Ilmen 2024-09-15 #FEKKWPJiT $en +1 %logic
+jeq [(c 2xx) (d d d) tá F] @Ilmen 2024-09-15 #FEKKWPJiT $en +1 %logic
 ▯ and ▯ are in relation ▯ with the same things.
 
-jeq [(c c 2xx) (d d d) tá F] @official 2026-02-16 #qE2Mmukkb4I $en ± %logic
-predicate: ‘same’; ▯ is identical to ▯; ▯ is the same as ▯ in property ▯.
+jeq [(c c 2xx) (d d d) tá F] @official 2026-06-28 #kizNXHr5FM $en ± %logic
+predicate: ‘same’; ▯ is the same as ▯ in property ▯.
 
 jeq @Ilmen 2020-01-24 #sJALs8S2v $toa ± %logic
 = [XX2] tu raı bı gujeo ▯ re ▯ ráı ▯.
+
+jeq [(c c 1x) (d d d) tá F] @el 2022-07-02 #8DsWeRuK6 $en ± %logic
+▯ is identical to ▯ in what the answer to ▯ is (x₃ is an indirect question AND property)
+  el (2022-07-02): ex. «jeq jí súq têqguaı ja hı da» "you and I are identical in what we do for a job" = "you and I work the same job"
 
 jeq @el 2022-07-10 #CWexL80Ei $tok ± %logic
 ▯₃ la ▯₁ en ▯₂ li sama
 
 jeq @jiqci 2023-07-31 #OZ4ukGG9i_ $pl ± %logic
 ▯ jest taki sam jak ▯ pod względem własności ▯.
+
+jeq @evie 2026-06-28 #kxhvMNLmC $en -1 %logic
+▯ are similar
 
 jeqbıao [(c c) (d n) hó I] @Dembim 2026-02-16 #LlxsNsiyL $en ±
 ▯ conflates the members of ▯ (plural), mistakenly behaving as though they are the same/interchangeable
@@ -38224,8 +38226,8 @@ juaoche [(c) (d) hó I] @jiqci 2025-01-05 #H2ZeSYPAq $en ±
 juaochebuajıao @RaineTheEnby 2019-09-17 #2Rb-A88kMM3 $en ±
 ▯ is a police station
 
-juaochıaı [(c c) (d d) tá F] @official 2026-02-16 #pxrXMYVuidz $en ±
-predicate: ‘illegal’; ▯ is illegal; ▯ breaks rule ▯; ▯ is against law ▯.
+juaochıaı [(c) (d) tá F] @official 2026-06-28 #-h12ghd-Z4 $en ±
+predicate: ‘illegal’; ▯ is illegal.
 
 juaochıaı @jiqci 2023-07-31 #lbcxFuk6O $pl ±
 ▯ jest nielegalny; ▯ łamie regułę/prawo ▯.
@@ -38274,8 +38276,8 @@ juaoduaı [(0) (d) hóq P] @robintown 2022-09-20 #ye3XIG_QV $en +1
 juaoduaı @Ilmen 2020-03-17 #WxZs8FF36 $en ±
 ▯ has the obligation to satisfy property ▯ under law/rule ▯.
 
-juaodue [(c c) (d d) hóq F] @official 2026-02-16 #aj9pVv--tKj $en ±
-predicate: ‘legal’; ▯ is legal; ▯ is according to rule/law ▯.
+juaodue [(c) (d) hóq F] @official 2026-06-28 #P72htJ5DZ_W $en ±
+predicate: ‘legal’; ▯ is legal.
 
 juaodue @jiqci 2023-07-31 #Um7qJqCLO6 $pl ±
 ▯ jest legalny, zgodny z regułą/prawem ▯.
@@ -47930,7 +47932,7 @@ lımkuaı @lassc 2025-03-25 #M7y8zJZdq $en ±
   lassc (2025-11-20): cf. **bamaı**, **maı** (hypernyms)
 
 lımla [(c c) (d d) hó A] @Dembim 2026-01-23 #-rjnK-i_s $en +2
-▯ attentively interacts with/ messes with /interrogates/ explores the nature of ▯
+predicate: 'explore'; ▯ attentively interacts with/ messes with /interrogates/ explores the nature of ▯.
   Dembim (2026-01-23): Frame: c c
   Dembim (2026-01-23): Pronominal_class: ho
   Dembim (2026-02-11): Distribution: d d
@@ -59298,8 +59300,8 @@ nıq [(c) (d) tá F] @robintown 2022-05-15 #r9UnapQch $en +4
 ▯ is new.
   robintown (2022-05-15): Because the official definition is binary, which causes genetival serial behahvior to kick in when you don't want it to. Use jìe to get the second slot back.
 
-nıq [(c c) (d d) tá I] @official 2026-02-16 #OAjB-ZG8DQm $en ±
-predicate: ‘new’; ▯ is new; ▯ is new to ▯.
+nıq [(c) (d) tá I] @official 2026-06-28 #I3gQbfkz2 $en ±
+predicate: ‘new’; ▯ is new.
 
 nıq @Laqme 2021-10-05 #q7RJ3VvBx $ja ±
 ▯は新しい；▯は▯にとって新しい
@@ -69762,8 +69764,8 @@ rıocholımeaq @Ilmen 2022-11-02 #gN8m1ddKU $en ±
 rıodueq @jiqci 2024-08-02 #lHQXnTENF $en ±
 ▯ is an airfield / aerodrome.
 
-rıofa [(c c) (d d) hó A] @official 2026-02-16 #MICtXe0F-J $en ±
-predicate: ‘fly’; ▯ flies; ▯ flies to ▯.
+rıofa [(c c) (d d) hó A] @official 2026-06-28 #8emWIZoZMl $en ±
+predicate: ‘fly’; ▯ flies to ▯.
 
 rıofa @jiqci 2023-07-31 #0EXgPTb3uK $pl ±
 ▯ leci do ▯.
@@ -70739,7 +70741,7 @@ roneu @Laqme 2024-07-20 #eBTcITlKu $en ±
 roq [(c) (d) hó A] @robintown 2022-01-01 #_BWlKrQz4 $en +2
 ▯ cries/sobs/weeps.
 
-roq [(c c) (d d) hó I] @official 2026-05-17 #ZLMenZlTd $en ±
+roq [(c) (d) hó I] @official 2026-06-28 #OQN14VmFdo $en ±
 predicate: ‘weep’; ▯ cries/sobs/weeps.
 
 roq @Laqme 2021-10-11 #ljfloNIK- $ja ±
@@ -75280,6 +75282,10 @@ sıu [(c c 1x) (d d d) tá F] @Xylochoron 2019-01-04 #-4ZycrOw1 $en +2 %basic
 predicate: ‘similar’; ▯ is similar to ▯.
   lassc (2025-03-19): alike
 
+sıu @TheAndSys 2024-09-07 #q7ieNzOEb $en +1 %basic
+predicate: ‘similar’; ▯ are similar.
+  Ilmen (2026-02-11): discriminator: 3
+
 sıu [(c c) (d d) tá F] @official 2026-02-16 #hBWRLwEYsAB $en ± %basic
 predicate: ‘similar’; ▯ is similar to ▯.
 
@@ -75289,15 +75295,8 @@ sıu @jiqci 2023-07-31 #oilIVV0oQl $pl ± %basic
 sıu @SuperSpaceNiM 2024-08-15 #ZG0o4QdZS $ru ± %basic
 ▯ напоминает, похож на ▯ по свойству ▯.
 
-sıu @TheAndSys 2024-09-07 #q7ieNzOEb $en ± %basic
-predicate: ‘similar’; ▯ are similar.
-  Ilmen (2026-02-11): discriminator: 3
-
 sıu @uakci 2019-04-14 #J0FZRVMZ3 $toa -1 %basic
 gıq puı sa túq lu bu jeojeq jêo dóshı hóa na jêo dógu hóa da
-
-sıu @salarua 2025-03-26 #daysbjKUv $en -1 %basic
-▯ (plural) are similar.
 
 sıuchoa @Laqme 2024-05-11 #b9OfbVPd1 $en ±
 ▯ imitates sound ▯ with their voice.
@@ -77269,7 +77268,7 @@ interjection: same to you; back at you; likewise; you too
   uakci (2023-11-12): cf. **nuq'o**
 
 suje [(c c) (d d) hó A] @Dembim 2025-11-11 #cZZcQ75Ci $en +3
-▯ orders/commissions/requests ▯
+predicate: 'order'; ▯ orders/commissions/requests ▯
   Dembim (2025-11-11): from sue + jea, but needn't involve an actual monetary transaction
   Dembim (2025-11-11): Frame: c c
   Dembim (2025-11-11): especially when what's ordered must be created or assembled before delivery
@@ -82706,6 +82705,7 @@ predicate: ‘form’; ▯ is a form/shape.
 
 teı [(c c) (d d) tá S] @evie 2026-06-24 #pHktMKE3h $en +1
 ▯ has shape ▯
+  evie (2026-06-28): is shaped like
 
 teı @uakci 2021-10-29 #v713U2QrU $ja ±
 ▯は▯の形／姿
