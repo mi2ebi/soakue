@@ -8389,7 +8389,7 @@ cıeluko @jiqci 2023-05-28 #jQNUe93Mb $en ±
 cıepoq @fagri 2019-02-10 #JXKXGXELI $en ±
 ▯ is half-fish, half-human (a non-gender-specific mermaid)
 
-cıeq @Machy 2022-10-17 #hknR62apH $en ±
+cıeq @Machy 2022-10-17 #hknR62apH $en -1
 scientific notation incorporating verb: turns following numbers X and Y into verb: ▯ is X * 10^Y.
   Machy (2022-10-17): Scientific notation
   Machy (2022-10-17): Usage example: "Cỉeq shí héi ní da" = "This is one times ten to the tenth power." Both shí and héi are incorporated into the verb, meaning you can use "cíeq shí héi" to mean "one times ten to the tenth power."
@@ -8996,7 +8996,7 @@ comtua @zearen 2025-10-23 #HkOb6R8vV $en ±
 ▯ directs at ▯ some event ▯.
   zearen (2025-10-23): I.e., x makes y experience z.  For example, "comtua noa ché gale jí" is roughly, "The teacher made things hard for me."
 
-coq [(c c) (d d) hóq F] @Machy 2022-02-05 #BYobcANlA $en +3
+coq [(c c) (d d) hóq F] @Machy 2022-02-05 #BYobcANlA $en +4
 ▯ is a representation of ▯.
   mimiaoganhaqpy (2023-05-13): “depicts”
   mimiaoganhaqpy (2023-05-13): “is depicted by”
@@ -17479,6 +17479,9 @@ dua @TheAndSys 2025-03-26 #gmD_9XP0H $es ± %cognition,presuppositional
 
 dua @evie 2025-07-15 #KFLb_QnfX $tlh ± %cognition,presuppositional
 ▯₂ 'e' Sov ▯₁
+
+dua @zearen 2026-07-01 #Pw7pycoq_ $jbo ± %cognition,presuppositional
+▯ djuno ▯
 
 duabu @uakci 2023-11-01 #SMz8fQCCs $en ±
 ▯ does not know ▯ to be true [the implication being that it is true].
@@ -30192,6 +30195,9 @@ hıodıeq @Laqme 2022-09-23 #JBvNELVXe $en ±
 ▯ sends greetings / regards from ▯ (person) to ▯.
   Laqme (2022-09-23): as in "say hi to Mary for me!"
 
+hıofeu [(c c) (d d) hó A] @salarua 2026-07-01 #OH2MC3qu2 $en ±
+▯ cuts direct (intentionally ignores the greeting of) ▯
+
 hıohaı @Machy 2021-09-21 #02atHQa9c $en ±
 ▯ acknowledges ▯.
   Machy (2021-09-21): like nodding to someone you see
@@ -31152,7 +31158,7 @@ prefix: incorporate **hóq** object
 hoq @Laqme 2021-10-03 #ccCRbOkw9 $jbo -1
 .i sumka'i lo pu se skicu poi mucti
 
-hóq @official 2026-04-06 #qym5T2uhNFN $en ±
+hóq [() () hóq P] @official 2026-04-06 #qym5T2uhNFN $en ±
 pronoun: ‘it.III’; anaphoric pronoun for abstract DPs (class III)
 
 hóq @Laqme 2021-10-04 #vw0mWvk-W $ja ±
@@ -33563,6 +33569,10 @@ Isılaqgua [(c) (n) máq I] @countries 2026-04-11 #wMtHqZbTo8g $en ±
 ısuı'aı @mimiaoganhaqpy 2024-05-06 #GeZjoWcjd $en ±
 ▯ is highly complex, but it is complex in a well-designed way, rather than what Ithkuil would probably call choices-ařfra
   mimiaoganhaqpy (2024-05-06): Shortened **ısıkuı** + **aı**
+
+ıshaqꝡo [(c) (d) máq I] @Dembim 2026-07-01 #EkATfbXsK $en ±
+predicate: 'voice'; ▯ is a voice (musical instrument)
+  Dembim (2026-07-01): etymology: a priori
 
 ıshe @uakci 2022-10-31 #gKB72pji1 $en ±
 ▯ is the worst that could happen if ▯ happened.
@@ -45890,9 +45900,8 @@ laısıeme @Ilmen 2022-11-04 #veUtSB5QP $en ±
 laısıemekao @Ilmen 2022-11-04 #BP58kXtjq $en ±
 ▯ is a plain text file.
 
-laısıo [(c 0) (d d) hóq F] @Laqme 2021-10-18 #8iAdHSey6 $en ±
-▯ is a metaphor / allegory / symbolism for "inner meaning" ▯.
-  Laqme (2021-10-18): This is 0 0, and the sense is a bit literary: "the picture frame being cracked is a metaphor for the couple having broken up". But I think this is also fine for when things happen to be aptly symbolic for other things by sheer coincidence, without being "written" into existence (only interpreted into existence).
+laısıo [(c) (d) hóq F] @Laqme 2021-10-18 #8iAdHSey6 $en ±
+▯ is a metaphor / allegory / instance of symbolism.
 
 laısom @Laqme 2023-12-30 #sn8n-ISPK $en ±
 ▯ proofreads / fixes typos in ▯.
@@ -50175,7 +50184,7 @@ lulu [(c) (d) máq I] @uakci 2023-02-14 #2Gw3jPbQn $en +1
 ▯ is a toy/plaything / something played with or used to play a game.
   evie (2026-04-13): doll
 
-lulu @seaqtaq 2022-02-20 #km4S242OnT $en ±
+lulu @seaqtaq 2022-02-20 #km4S242OnT $en -1
 ▯ french-kisses ▯
   seaqtaq (2022-02-20): this word form has relatively significant sound symbolism to me. Dedicated to @ilmen, profressional french kisser
   seaqtaq (2022-02-20): fench krisser*
@@ -86521,7 +86530,7 @@ Tubalu [(c) (d) tá F] @countries 2026-04-11 #_Xne99V-xER $en ±
 Tubalugua [(c) (n) máq I] @countries 2026-04-11 #RnLKLNYmnDn $en ±
 ▯ is the country Tuvalu.
 
-tubaq @jiqci 2023-08-04 #-CTxFroq7 $en ±
+tubaq [(c) (d) máq I] @jiqci 2023-08-04 #-CTxFroq7 $en ±
 ▯ is a trumpet.
 
 tubı [(0) (d) tá P] @Ilmen 2019-02-09 #o7SMnGs5e $en +1 %logic
@@ -88197,7 +88206,7 @@ plural coordinator: range between (left is closed interval, right is open)
 ▯ is a metrical foot
   seaqtaq (2025-11-10): from **ꝡezım** + **atom**
 
-ꝡetuba @robintown 2025-04-05 #nmWe0hqGe $en ±
+ꝡetuba [(c) (d) hó I] @robintown 2025-04-05 #nmWe0hqGe $en +1
 ▯ is a ꝠTuber.
 
 ꝡeu @evie 2025-10-19 #dGRfGguXU $en ±
@@ -88812,7 +88821,7 @@ zearaı @Laqme 2025-02-02 #uOc6LjKOK $en ±
   Dembim (2026-02-13): kw: contraband
   Dembim (2026-02-13): see also <nuaqsaı>
 
-zeareq @zearen 2025-08-04 #j0Y2jxtkp $en ±
+zeareq [(c) (d) hó I] @zearen 2025-08-04 #j0Y2jxtkp $en ±
 ▯ is criminally human
 
 zeasea @Laqme 2025-09-05 #ejon58Xpa $en +1
@@ -97752,7 +97761,7 @@ taq ruaq jeo @uakci 2019-04-20 #Vp3R6-D_E $en ±
 taq shao jeo @uakci 2019-04-20 #0xupL5kpE $en ±
 ▯ wants to satisfy property ▯.
 
-taq teq @niucuq 2019-02-16 #CwkVTt8AE $en +1
+taq teq [phrase] @niucuq 2019-02-16 #CwkVTt8AE $en +1
 ▯ pays oneself to ▯ for satisfying property ▯
 
 taq tua kaqrıa @seaqtaq 2024-07-10 #TTEs5YKN5 $en ±

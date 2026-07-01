@@ -2061,6 +2061,7 @@ the answer to ▯ is determined by the answer to ▯ both indirect questions _BI
 ▯ classifies categorizes ▯ into categories ▯ several properties each standing for one category _BIAS _RAKU_hım _ARITY_3	hó	A	3
 ▯ is a multiple rocket launcher _BIAS _RAKU_kea _2_RAKU_rakea _ARITY_1	máq	I	1
 predicate greet ▯ greets ▯ _BIAS _RAKU_hıo _ARITY_2	hó	A	2
+▯ cuts direct intentionally ignores the greeting of ▯ _BIAS _RAKU_feu _2_RAKU_hıofeu _ARITY_2	hó	A	2
 ▯ is a greeting card _BIAS _RAKU_ta _2_RAKU_kata _ARITY_1	máq	I	1
 ▯ says ▯ as a greeting _BIAS _RAKU_kuq _2_RAKU_hıokuq _ARITY_2	hó	A	2
 ▯ say their goodbyes _BIAS _RAKU_poaq _2_RAKU_hıopoaq _ARITY_1	hó	A	1
@@ -2269,6 +2270,7 @@ at least ▯ is the case as in things could be worse _BIAS _RAKU_sa _2_RAKU_ısa
 ▯ is islam _BIAS _RAKU_lam _2_RAKU_sılam _ARITY_1	hóq	I	1
 ▯ pertains to the culture of iceland _BIAS _RAKU_laq _2_RAKU_sılaq _ARITY_1 _CAPS	tá	F	1
 ▯ is the country iceland _BIAS _RAKU_gua _2_RAKU_laqgua _ARITY_1 _CAPS	máq	I	1
+predicate voice ▯ is a voice musical instrument _BIAS _RAKU_ꝡo _2_RAKU_shaqꝡo _ARITY_1	máq	I	1
 ▯ is a mouse _BIAS _RAKU_shı _2_RAKU_ıshı _ARITY_1	hó	I	1
 ▯ subtly quietly discreetly satisfies property ▯ _BIAS _RAKU_shıe _2_RAKU_ıshıe _ARITY_2	tá	F	2
 ▯ pertains to the culture of italy italian republic _BIAS _RAKU_lıa _2_RAKU_talıa _ARITY_1 _CAPS	tá	F	1
@@ -3097,7 +3099,7 @@ predicate letter ▯ is a letter glyph sign character symbol graphical component
 ▯ is a keyboard _BIAS _RAKU_kea _2_RAKU_koekea _ARITY_1	máq	I	1
 ▯ is calligraphy _BIAS _RAKU_lea _2_RAKU_laılea _ARITY_1	hóq	I	1
 ▯ is the amount of letters in ▯ _BIAS _RAKU_ne _2_RAKU_laıne _ARITY_2	hóq	I	2
-▯ is a metaphor allegory symbolism for inner meaning ▯ _BIAS _RAKU_sıo _2_RAKU_laısıo _ARITY_2	hóq	F	2
+▯ is a metaphor allegory instance of symbolism _BIAS _RAKU_sıo _2_RAKU_laısıo _ARITY_1	hóq	F	1
 ▯ is christmas advent time ▯ is the christian holiday time of the year _BIAS _RAKU_cao _2_RAKU_sucao _ARITY_1	hóq	I	1
 ▯ is christmas _BIAS _RAKU_chaq _2_RAKU_jıuchaq _ARITY_1	hóq	I	1
 ▯ is christmas eve _BIAS _RAKU_chaq _2_RAKU_laochaq _ARITY_1	hóq	I	1
@@ -5887,6 +5889,7 @@ predicate intend it is the intention of ▯ that ▯ happen _BIAS _RAKU_shao _2_
 ▯ is a step in toward achieving state of affairs ▯ _BIAS _RAKU_toaı _2_RAKU_tuatoaı _ARITY_2	hóq	F	2
 ▯ pertains to the culture of tuvalu _BIAS _RAKU_lu _2_RAKU_balu _ARITY_1 _CAPS	tá	F	1
 ▯ is the country tuvalu _BIAS _RAKU_gua _2_RAKU_lugua _ARITY_1 _CAPS	máq	I	1
+▯ is a trumpet _BIAS _RAKU_baq _2_RAKU_tubaq _ARITY_1	máq	I	1
 ▯ is true with maximal quantification domain the quantification domain for that proposition is regarded as being as wide as possible including anything one can think of there is no implicit domain restriction _BIAS _RAKU_bı _2_RAKU_tubı _ARITY_1	tá	P	1
 ▯ is physically strong _BIAS _RAKU_caı _2_RAKU_tucaı _ARITY_1	tá	I	1
 predicate bus ▯ is a bus omnibus _BIAS _RAKU_chao _2_RAKU_tuchao _ARITY_1	máq	I	1
@@ -5978,6 +5981,7 @@ predicate usa ▯ are the usa _BIAS _RAKU_gua _2_RAKU_nagua _ARITY_1 _CAPS	máq	
 ▯ is a complementizer c _BIAS _RAKU_toa _2_RAKU_ꝡatoa _ARITY_1	hóq	I	1
 ▯ is intense excruciating unbearable _BIAS _RAKU_ꝡem _ARITY_1	tá	F	1
 ▯ is a restrictive relative clause phrase _BIAS _RAKU_toam _2_RAKU_ꝡetoam _ARITY_1	máq	I	1
+▯ is a ꝡtuber _BIAS _RAKU_ba _2_RAKU_tuba _ARITY_1	hó	I	1
 ▯ is a closed set _BIAS _RAKU_ꝡeum _ARITY_1	hóq	I	1
 predicate ꝡ ▯ is the letter ꝡ _BIAS _RAKU_ꝡa _2_RAKU_ꝡeꝡa _ARITY_1	hóq	I	1
 ▯ is yogurt yoghurt _BIAS _RAKU_gu _2_RAKU_ꝡogu _ARITY_1	máq	I	1
@@ -6014,6 +6018,7 @@ predicate appear ▯ appears enters perception _BIAS _RAKU_zaq _ARITY_1	tá	I	1
 ▯ is a liquid ▯ is liquid _BIAS _RAKU_ze _ARITY_1	máq	I	1
 ▯ is a criminal outlaw _BIAS _RAKU_che _2_RAKU_zeache _ARITY_1	hó	I	1
 ▯ originates from ▯ _BIAS _RAKU_zeaq _ARITY_2	tá	F	2
+▯ is criminally human _BIAS _RAKU_req _2_RAKU_zeareq _ARITY_1	hó	I	1
 ▯ is brandy distilled wine of any fruit _BIAS _RAKU_ceaı _2_RAKU_zeceaı _ARITY_1	máq	I	1
 ▯ is familiar _BIAS _RAKU_zem _ARITY_1	tá	F	1
 ▯ is topology _BIAS _RAKU_dıu _2_RAKU_teıdıu _ARITY_1	hóq	I	1
