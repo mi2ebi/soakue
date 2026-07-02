@@ -7771,7 +7771,7 @@ cehuneaı @seaqtaq 2024-11-06 #Pb4s97mBp $en ±
 ▯ proves ▯ to be innocent of satisfying property▯
 
 ceı- [particle] @seaqtaq 2024-11-21 #jDdGWP-B_ $en ±
-prefix: "meta-": turns a verb X into a verb meaning ▯ is an X-er which concerns or has control over other X-ers
+prefix: 'meta-'; turns a verb X into a verb meaning ▯ is an X-er which concerns or has control over other X-ers
   seaqtaq (2024-11-21): cẹıdoem = metasystem, cẹıruaıjoaq == queen of queens
 
 ceı [particle] @salarua 2022-12-23 #oMro3hHen $en +1
@@ -8227,7 +8227,7 @@ cıaluq @uakci 2022-05-11 #YC_n4Zadq $en ±
 ▯ is at peace; ▯ is in safety; ▯ feels secure; ▯ feels nothing of danger coming at them.
 
 cîam [particle] @seaqtaq 2024-11-29 #O4RC_baT7 $en ±
-Subject sharing adjunct phrase head: "without (also doing/being)"
+adverbial head: 'without'; subject sharing, "without (also doing/being)"
   seaqtaq (2024-11-29): As regular subject sharing AdjunctP semantics may be given via "...jôı, é [hao] súbject", this head's semantics may be given by "jôıcıa, é [hao] subject"
 
 cıamoe @uakci 2022-06-23 #5V203LoKJ $en ±
@@ -13222,7 +13222,7 @@ chualuı @uakci 2021-08-17 #UwibWrzr3 $en ±
 ▯ is an expired name for ▯; ▯ is ▯’s deadname.
 
 chûam [particle] @seaqtaq 2024-12-03 #mQQr440yq $en ±
-subject sharing adjunct phrase head: "which is the way/manner that..."
+adverbial head: 'thereby'; subject sharing, "which is the way/manner that..."
   seaqtaq (2024-12-03): Inverse of **châm** and often rephrasable with **oq**. "Jıaqsha jí náq châm choıdea tá" = "Choıdea jí náq chûam jıaqsha tá" = "Choıdea jí náq ôq muaq"
   seaqtaq (2025-03-21): Kw: thereby
   evie (2026-04-23): (**îaı**)
@@ -21859,6 +21859,10 @@ fukaqmuq [(c c) (d d) hó A] @salarua 2021-08-18 #3_YZAWfaz $en ±
 
 fukıoq @Laqme 2019-02-05 #jMvxJK3iF $en ±
 ▯ is an egg.
+
+fulugo [(c) (d) máq I] @Dembim 2026-07-01 #tjhHpJB8a $en ±
+predicate: 'flugelhorn'; ▯ is a flugelhorn
+  Dembim (2026-07-01): musical instrument
 
 fuluo @uakci 2022-12-31 #ZKkUYemMe $en ±
 ▯ is fluorine.
@@ -73706,7 +73710,7 @@ seq [particle] @robintown 2023-12-20 #UqQ9GKt82 $en +2
 predicatizer: ‘other than’; turns following phrase X into verb: ▯ is not X; ▯ is something other than X.
 
 seqbu @seaqtaq 2024-07-16 #judRXfe8n $en ±
-polarity: "OTHR": something other than X
+polarity: 'OTHR'; something other than X
   seaqtaq (2024-07-16): "Seqbu jaı jí" == "I feel not exactly happy"
   seaqtaq (2024-07-17): Seqbu X ló Y ≈ Iq ló Y sá seq, lä X já
 
@@ -77340,7 +77344,7 @@ sulamguıq @evie 2025-05-07 #v-HuZ0HRT $en ±
 ▯ is deterministic
 
 sûm [particle] @seaqtaq 2024-10-29 #__AXyTo6l $en +1
-subject-sharing adverbial head: as if [subject] does/is...
+adverbial head: 'as if';  subject sharing, "as if [subject] does/is..."
   seaqtaq (2024-10-29): "Kaqsı nhána gío sûm tea"  == "They looked at the light like they were afraid"
   seaqtaq (2024-10-29): "Chuq déo háq sûm eq báq hako" == "The kid ate the food like a bear"
   seaqtaq (2024-10-29): V S sûm X == V S dûcha, ꝡä X S
@@ -85604,7 +85608,7 @@ tohuq @Ilmen 2020-01-31 #AFv7BBg-X $toa -1
 = raı ▯ na ru jeo ▯.
 
 toı- [particle] @seaqtaq 2024-07-16 #2lusJqoHb $en ±
-prefix: "sequential participation": accepts a transitive verb X which retains its valence and returns the verb:▯ does X back to ▯
+prefix: 'sequential participation'; accepts a transitive verb X which retains its valence and returns the verb:▯ does X back to ▯
   seaqtaq (2024-07-16): E.g. "Kaqla náq líq jôı, é tọıkaqla líq náq", or "The man looked and the woman, and the woman looked back at the man"
   seaqtaq (2024-07-16): Not as succinctly rephrasable when using in isolation as in e.g. "Tọıdea shúao jí" ("The bird hit me back")
   Laqme (2024-07-17): As a verb: **nuq'o**

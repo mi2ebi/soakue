@@ -1523,6 +1523,7 @@ predicate hundred ▯ are a hundred in number _BIAS _RAKU_fue _ARITY_1	tá	F	1
 predicate easy ▯ is easy to be in relation ▯ with _BIAS _RAKU_fuı _ARITY_2	tá	F	2
 ▯ is easy _BIAS _RAKU_fuı _ARITY_1	tá	F	1
 ▯ does the vulcan salute to ▯ _BIAS _RAKU_muq _2_RAKU_kaqmuq _ARITY_2	hó	A	2
+predicate flugelhorn ▯ is a flugelhorn _BIAS _RAKU_go _2_RAKU_lugo _ARITY_1	máq	I	1
 predicate touch ▯ touches ▯ non somatic ▯ is in contact with ▯ _BIAS _RAKU_fuo _ARITY_2	tá	I	2
 ▯ is a printer _BIAS _RAKU_kea _2_RAKU_fuaqkea _ARITY_1	máq	I	1
 predicate fluffy ▯ is soft fluffy _BIAS _RAKU_fuı _2_RAKU_fuofuı _ARITY_1	tá	I	1
