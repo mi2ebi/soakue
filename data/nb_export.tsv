@@ -495,7 +495,7 @@ predicate b ▯ is the letter b _BIAS _RAKU_bue _2_RAKU_bubue _ARITY_1	hóq	I	1
 ▯ is a buddhist _BIAS _RAKU_chı _2_RAKU_dachı _ARITY_1	hó	I	1
 ▯ is buddhism _BIAS _RAKU_chuaq _2_RAKU_dachuaq _ARITY_1	hóq	I	1
 ▯ warns ▯ against doing ▯ _BIAS _RAKU_dıe _2_RAKU_budıe _ARITY_3	hó	A	3
-▯ is noodle pasta _BIAS _RAKU_do _2_RAKU_budo _ARITY_1	máq	I	1
+predicate noodle ▯ is noodle pasta _BIAS _RAKU_do _2_RAKU_budo _ARITY_1	máq	I	1
 ▯ is a noodleologist _BIAS _RAKU_che _2_RAKU_dıuche _ARITY_1	hó	I	1
 predicate home ▯ is a home of ▯ _BIAS _RAKU_bue _ARITY_2	máq	I	2
 ▯ is in favor of prefers supports satisfying property ▯ _BIAS _RAKU_bueı _ARITY_2	hó	A	2
@@ -1455,6 +1455,7 @@ predicate direction ▯ is a direction _BIAS _RAKU_feo _ARITY_1	hóq	I	1
 ▯ reads the room ▯ intuits the message conveyed by a situation or person s attitude ▯ _BIAS _RAKU_noaq _2_RAKU_feqnoaq _ARITY_2	hó	I	2
 ▯ does ▯ intuitively without thought _BIAS _RAKU_tao _2_RAKU_feqtao _ARITY_2	hó	A	2
 ▯ is a ferris wheel _BIAS _RAKU_sıoq _2_RAKU_rısıoq _ARITY_1	máq	I	1
+predicate disown ▯ disowns disavows disclaims rejects association with ▯ _BIAS _RAKU_feu _ARITY_2	hó	A	2
 ▯ is sequentially before ▯ _BIAS _RAKU_fıa _ARITY_2	tá	F	2
 predicate previous ▯ is previous to ▯ in sequence ▯ ▯ precedes ▯ in sequence ▯ _BIAS _RAKU_fıa _ARITY_3	tá	F	3
 predicate previous ▯ is previous to ▯ in sequence ▯ ▯ precedes ▯ in sequence ▯ _BIAS _RAKU_fıa _ARITY_3	tá	F	3
@@ -5012,6 +5013,7 @@ predicate evening ▯ is an evening _BIAS _RAKU_seum _ARITY_1	hóq	I	1
 predicate attentive ▯ is attentive to focuses on ▯ _BIAS _RAKU_sı _ARITY_2	hó	A	2
 predicate say nothing ▯ says nothing is silent _BIAS _RAKU_choa _2_RAKU_sıachoa _ARITY_1	hó	A	1
 predicate blood ▯ is blood _BIAS _RAKU_sıaı _ARITY_1	máq	I	1
+predicate bleed ▯ bleeds _BIAS _RAKU_bıoı _2_RAKU_sıaıbıoı _ARITY_1	tá	I	1
 ▯ is a blood vessel _BIAS _RAKU_bıu _2_RAKU_sıaıbıu _ARITY_1	máq	I	1
 ▯ is anhemology the study of the rules of bloodless _BIAS _RAKU_dıu _2_RAKU_cıadıu _ARITY_1	hóq	I	1
 ▯ bleeds _BIAS _RAKU_cıu _2_RAKU_sıaıcıu _ARITY_1	hó	I	1
@@ -5102,6 +5104,7 @@ predicate washing machine ▯ is a washing machine _BIAS _RAKU_kea _2_RAKU_sıqk
 fork of official predicate similar ▯ is similar to ▯ in property ▯ _BIAS _RAKU_sıu _ARITY_3	tá	F	3
 predicate similar ▯ is similar to ▯ _BIAS _RAKU_sıu _ARITY_2	tá	F	2
 predicate similar ▯ is similar to ▯ _BIAS _RAKU_sıu _ARITY_2	tá	F	2
+predicate caesium ▯ is caesium _BIAS _RAKU_zıum _2_RAKU_sızıum _ARITY_1	máq	I	1
 predicate help ▯ helps ▯ to satisfy some salient property oı _BIAS _RAKU_soa _ARITY_2	hó	A	2
 predicate help ▯ helps ▯ to satisfy property ▯ _BIAS _RAKU_soa _ARITY_3	hó	A	3
 ▯ is an aide assistant _BIAS _RAKU_che _2_RAKU_soache _ARITY_1	hó	I	1
