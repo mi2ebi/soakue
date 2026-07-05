@@ -1271,6 +1271,7 @@ predicate wise ▯ is wise _BIAS _RAKU_gı _2_RAKU_duagı _ARITY_1	hó	I	1
 predicate foolish ▯ is foolish _BIAS _RAKU_huı _2_RAKU_duahuı _ARITY_1	hó	I	1
 predicate must ▯ must satisfy property ▯ _BIAS _RAKU_duaı _ARITY_2	tá	F	2
 ▯ must be the case ▯ must be the case if ▯ is the case _BIAS _RAKU_duaı _ARITY_2	hóq	P	2
+predicate must ▯ agent is obligated to satisfy ▯ _BIAS _RAKU_duaı _ARITY_2	hó	I	2
 ▯ is a tautology universal fact invariant _BIAS _RAKU_dao _2_RAKU_duaıdao _ARITY_1	hóq	P	1
 ▯ is conscripted into the armed forces ▯ undergoes compulsory military service _BIAS _RAKU_che _2_RAKU_soıche _ARITY_1	hó	I	1
 ▯ is mysterious _BIAS _RAKU_jua _2_RAKU_duajua _ARITY_1	tá	F	1

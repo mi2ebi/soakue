@@ -2793,6 +2793,10 @@ beaı [(c c) (d d) máq I] @Laqme 2022-03-07 #OgWeas8c4 $en +3
 beaıcoa @jiqci 2024-02-03 #ar7eK3LJU $en ±
 ▯ is a suspension bridge.
 
+beaıchue @sq 2026-07-04 #qwEJJsQJo $en ±
+▯ is a suspension railway.
+  sq (2026-07-04): «**nıe** **sá** **beaıchue****doem** Búpata**doaq** **da**.» in Ꝡuppertal gibt es eine Schwebebahn/there is a suspension railway system in Ꝡuppertal.
+
 beaıgıo [(c) (d) máq I] @Laqme 2022-03-07 #6nqQSEasB $en ±
 ▯ is a pendant light / chandelier.
 
@@ -4506,6 +4510,9 @@ bo @jiqci 2023-07-31 #h_HVmerc2f $pl ± %⚠
 bo @Hoekeiboi 2023-07-31 #diHbJAT-k $tl ± %⚠
 mayroon ang ▯ ng ▯.
   Hoekeiboi (2023-07-31): hindi quantifier ang salitang bo. predicate siya.
+
+bo @Aburn 2026-07-04 #4mAH3G8mz $de ± %⚠
+Prädikat ‘haben’; ▯ hat/besitzt ▯
 
 bo @el 2022-11-18 #G1e3Gasmk $en -1 %⚠
 For ▯, ▯ is a relevant thing that satisfies ▯
@@ -12247,6 +12254,9 @@ choaı @kazoo 2024-11-24 #RmtS3RUpV $tr ±
 choaı @el 2022-10-26 #P4LJmusP1 $tok -1
 ▯ la mani ▯ li wile
 
+choaıcaı @Dembim 2026-07-05 #IBz45EQY5 $en ±
+predicate: ▯ is eye-wateringly expensive; ▯ is strikingly unaffordable.
+
 choaıcıa @fagri 2021-08-02 #5wnIgXLup $en ±
 ▯ is free (it costs nothing)
 
@@ -13444,6 +13454,9 @@ chuece @jiqci 2023-07-31 #AY39TDRBhi $pl ±
 
 chuece @el 2022-10-26 #hLd1nfPkR $tok -1
 ▯ li tomo pi ilo tawa linja
+
+chuececoe @sq 2026-07-04 #06Ame6vZ5 $en ±
+▯ is a railway interchange/hub.
 
 chueceme @Laqme 2024-08-06 #3RpFVLsih $en ±
 ▯ is a train / railway network.
@@ -16743,6 +16756,7 @@ doacheo @fagri 2019-12-25 #uRzNJ7DMi $en -1
 doachıeq @uakci 2020-05-18 #2QBDud7l5 $en ±
 ▯ (plural) exchange property/properties ▯ amongst themselves.
   uakci (2020-05-18): roughly speaking, 'among ▯, there's transit of property/-ies ▯'.
+  sq (2026-07-04): "▯ and ▯ interchange property/properties ▯"
 
 doachıu [(c c) (d d) hóq F] @el 2021-10-25 #EJ1dZR_NI $en ±
 ▯ is the array index / DB key / memory address / etc. for ▯.
@@ -17611,7 +17625,7 @@ duaı @nano 2023-05-24 #YgT090Ue7 $tok ± %modality
 duaı @jiqci 2023-07-31 #5djXkdtAI $pl ± %modality
 ▯ musi spełnić własność ▯.
 
-duaı @Dembim 2026-02-04 #EZwOO1vub $en ± %modality
+duaı [(c 1i) (d d) hó I] @Dembim 2026-02-04 #EZwOO1vub $en ± %modality
 predicate: ‘must’; ▯ (agent) is obligated to satisfy ▯.
   Dembim (2026-02-04): kw: deontic obligation
   Dembim (2026-02-04): see also: <taoduaı>
@@ -19222,6 +19236,9 @@ Esetı [(c) (d) tá F] @countries 2026-04-11 #mwSbl-04lIe $en ±
 Esetıgua [(c) (n) máq I] @countries 2026-04-11 #QkBSCJQ5RXj $en ±
 ▯ is the country Estonia – Republic of Estonia.
 
+esıkıu @sq 2026-07-04 #Ya6UKsQfC $en ±
+▯ is a transit diagram.
+
 eso [(c) (d) hó I] @Hoemai 2019-07-12 #WQAFtFDnx $en ±
 ▯ is a pike (fish).
 
@@ -20048,6 +20065,9 @@ fashaıchuo @uakci 2022-11-01 #gzyXmmv8v $en ±
 
 fashaıjuı @Machy 2022-02-15 #DGZcD30bC $en ±
 ▯ leaves behind ▯.
+
+fashaıpoa @Aburn 2026-07-04 #VTQM8beOO $de ±
+Prädikat ‘verriegelt’; ▯ ist verriegelt/mit einem Schloss geschlossen
 
 fashı @robintown 2023-11-30 #gZ14aiPQ5 $en ±
 ▯ is fascist.
@@ -35632,6 +35652,9 @@ jí @Ilmen 2026-01-28 #e-NrP5fuW $jbo ± %deixis,discourse_participants
 ⚙ [X] Muıbo ní toa cúaq, ꝡë kuq hóa kúqtoaı, ꝡë paq ní toa hóa da.
   Ilmen (2026-01-28): discriminator: 1
 
+jí @Aburn 2026-07-04 #8I-ILr0HG $de ± %deixis,discourse_participants
+Pronomen ‘1S’; 1. Person Singular Personalpronomen; Ich/mir/mich
+
 jıa @official 2026-04-06 #zNy0gBSkIJu $en ± %deixis,time,tense
 tense: ‘FUT’; future
 
@@ -37217,6 +37240,10 @@ jıumja [(c c) (d d) hó A] @robintown 2026-04-11 #HRfmowKBy $en ±
 jıumraı @Laqme 2023-10-13 #8dJmK8coS $en ±
 ▯ is a clip / clasp / pin.
 
+jıumrıe @sq 2026-07-04 #shO-zxd6a $en ±
+▯ is squeezed/clamped/sandwiched between ▯ and ▯.
+  sq (2026-07-04): like chinese "夹"! compound of **jıum** and **rıe**
+
 jıunım @Laqme 2023-12-09 #KU-Q69rZO $en ±
 ▯ is a caste.
 
@@ -37735,7 +37762,7 @@ jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #Hu2b0J6Xe $en ±
   Dembim (2026-02-13): Subject: free
 
 jole [(c 2ix) (n d) tá F] @Dembim 2026-01-28 #JkcPO1Ceg $toa ±
-cuoı ▯ ▯, lá cuoı já nhashì ké, ꝡë cuoı nhashí hóa já nhagù, nhagú
+cuoı ▯ ▯, lá cuoı já nha shì ké, ꝡë cuoı nha shí hóa já nha gù, nha gú
   Dembim (2026-01-28): Frame: c 2ix
   Dembim (2026-01-28): Pronominal_class: ta
   Dembim (2026-02-13): Distribution: n d
@@ -40434,6 +40461,9 @@ predicate: ‘visual’; ▯ is visual/optical; ▯ pertains to the sense of sig
 kaq @jiqci 2023-07-31 #MDyjIPEo- $pl ± %perception
 ▯ jest wzrokowy/wizualny/optyczny/związany ze zmysłem wzroku.
 
+kaq @Aburn 2026-07-04 #49tu6mIoK $de ± %perception
+Prädikat ‘Sicht’; ▯ ist visuell/optisch; ▯ betrifft die Sicht/das Sehen/der Sehsinn
+
 kaq'ıq @uakci 2023-05-13 #PBKJaC78x $en ±
 ▯ has look/appearance (property) ▯.
   uakci (2023-07-28): note: this word is semi-redundant to adjectival/adverbial use of **kaq**
@@ -41071,6 +41101,9 @@ kato @TheAndSys 2025-03-26 #902tIIAKm $es ± %lifeform,animal,vertebrate,mammal
 kato @mati 2025-09-15 #qCO_Bk3cz $pt ± %lifeform,animal,vertebrate,mammal
 ▯ é um gato.
 
+kato @Aburn 2026-07-04 #rt86qhyfg $de ± %lifeform,animal,vertebrate,mammal
+Prädikat ‘Katze’; ▯ ist eine Katze
+
 katoa [(c) (d) hóq I] @Laqme 2021-09-10 #ZR5YNSZXO $en +1
 ▯ is an illocution-marking particle (like **ka**, **da**, **moq**, etc).
   uakci (2021-09-10): syn. **bakāmōqdā**
@@ -41500,6 +41533,12 @@ kelam @Laqme 2025-02-17 #Mf5rT7rws $en ±
 
 kelamnao @Laqme 2025-02-20 #Ld-dM0Nqe $en ±
 ▯ is coconut water.
+
+kelamnao @sq 2026-07-05 #zlpgTfe_c $en ±
+▯ is coconut water/coconut juice.
+
+kelamnoaı @sq 2026-07-05 #fHjoddEHN $en ±
+▯ is coconut milk.
 
 kelapa @Laqme 2025-02-17 #iNblMdfma $en ±
 ▯ is a coconut tree.
@@ -47405,6 +47444,9 @@ predicate: ‘swim’; ▯ swims.
 lıaı @jiqci 2023-07-31 #xD8UARKksC $pl ±
 ▯ pływa/unosi się.
 
+lıaı @Aburn 2026-07-04 #18SY4fySI $de ±
+Prädikat ‘schwimmen’; ▯ schwimmt
+
 lıaıcısu [(c) (d) hóq I] @evie 2025-04-30 #GDbAXRr-- $en ±
 ▯ is a free morpheme
 
@@ -48148,6 +48190,10 @@ lıqfu @Laqme 2022-03-03 #Yb7dvcviD $en ± %kinship
 lıqfu @jiqci 2023-07-31 #yvh6f_MFEv $pl ± %kinship
 ▯ to (biologiczna) córka ▯.
 
+lıqgoq @sq 2026-07-04 #OuOauCf9y $en ±
+▯ is a lingonberry (fruits of the species Vaccinium vitis-idaea)
+  sq (2026-07-04): from Swedish "lingon", meaning "lingonberry"
+
 lıqgoso [(c) (d) hó I] @Hoemai 2019-03-21 #sXJ3Z8-N4 $en ±
 ▯ is a hen of genus Gallus; ▯ is a female chicken.
 
@@ -48288,6 +48334,9 @@ lıu @jiqci 2023-07-31 #6S26218Es- $pl ± %physical_property
 
 lıu @SuperSpaceNiM 2024-08-16 #-Y0hBoDPk $ru ± %physical_property
 ▯ лёгкий (по весу)
+
+lıuchue @sq 2026-07-04 #jy5osLKc7 $en ±
+▯ is a light rail (vehicle).
 
 lıuha @jiqci 2023-06-10 #qUYC-Dg0x $en ±
 ▯ is lithium.
@@ -49094,6 +49143,9 @@ loq @Laqme 2021-10-05 #s5jGzEObi $ja ± %physical_property
 loq @jiqci 2023-07-31 #1BLCPVSQHR $pl ± %physical_property
 ▯ jest ciepły/gorący.
 
+loq @Aburn 2026-07-04 #4BeFiJhdA $de ± %physical_property
+Prädikat ‘heiss’; ▯ ist heiss/warm
+
 loq @uakci 2019-04-15 #LgMoLSfqH $toa -1 %physical_property
 jeo dóshı sa lú raq hóa sa báq loe da
 
@@ -49141,6 +49193,9 @@ loqdıa [(c) (d) máq I] @seaqtaq 2024-08-09 #AWzmvHXIh $en ±
 
 loqdıu [(c) (d) hóq I] @jiqci 2023-04-24 #J2J4GZ6UC $en ±
 ▯ is thermodynamics.
+
+loqdoaq @Aburn 2026-07-04 #MukcA2hbz $de ±
+Prädikat ‘Hitzeinseleffekt’; ▯ ist der Hitzeinseleffekt in einer Stadt
 
 loqdoka @salarua 2023-08-16 #mn1Oryr7h $en ±
 predicate: ‘heatstroke’; ▯ suffers heatstroke
@@ -62028,6 +62083,15 @@ nusıe @seaqtaq 2024-11-18 #SFPyh1H-J $en +1
 ▯ is as follows; ▯ is as about to be described
   seaqtaq (2024-11-18): nísıe:ní::nusıe:nu
 
+nushu @Aburn 2026-07-04 #RiTq-Xg66 $de ±
+Prädikat ‘Nüshu’; ▯ betrifft/bezieht sich auf Nüshu
+
+nushu @Aburn 2026-07-04 #LWYWxTU6- $de ±
+Prädikat ‘Nüshu’; ▯ ist Nüshu
+
+nushu @sq 2026-07-04 #CdcOmSKms $en ±
+▯ is the Nüshu script.
+
 nutao @uakci 2026-01-30 #AbiElZTE3 $en ±
 ▯ acts like this; ▯ does such a thing.
 
@@ -62633,6 +62697,9 @@ nhoqcıoq @robintown 2022-02-19 #fwmPoS5UB $en ±
 
 nhoqcoe @Laqme 2024-06-11 #vMEVXEDBw $en ±
 ▯ is tied to ▯.
+
+nhoqchao @sq 2026-07-04 #UDxHvLs16 $en ±
+▯ is an aerial tramway/cable car/ropeway.
 
 nhoqchıeq @robintown 2023-06-04 #eCgE6Z3lZ $en ±
 ▯ knits/crochets/weaves ▯ out of yarn/fiber.
@@ -65644,6 +65711,9 @@ predicate: ‘closed’; ▯ is closed/shut.
 poa @jiqci 2023-07-31 #8OmkN-0rUD $pl ±
 ▯ jest zamknięty.
 
+poa @Aburn 2026-07-04 #v84UpOA0l $de ±
+Prädikat ‘zu’; ▯ ist zu/geschlossen
+
 poa @uakci 2019-04-15 #AMY2_PBir $toa -1
 = bu #kıu #peo
 
@@ -66241,6 +66311,9 @@ poq @zearen 2025-03-21 #yxEmDlD5w $jbo ± %⚠,sociology
 
 poq @kazoo 2025-06-02 #Rd9UsV_6V $votgil ± %⚠,sociology
 ▯VizSumPrs.
+
+poq @Aburn 2026-07-04 #OsJ2E-O6o $de ± %⚠,sociology
+Prädikat ‘Person’; ▯ ist eine person
 
 ⚠ poq @oldofficial 2019-05-05 #UCTFP39bUH $en -1 %⚠,sociology
 predicate: ‘person’; ▯ is a person.
@@ -72944,6 +73017,10 @@ Saqshım @jiqci 2025-01-24 #s-6rDmlad $en ±
 saqtıq @jiqci 2023-01-15 #hXL589llG $en ±
 ▯ is a triomino.
 
+saqza @sq 2026-07-04 #kSu8tGZCD $en ±
+▯ is a Chinese hawthorn/mountain hawthorn berry (fruit of the species Crataegus pinnatifida).
+  sq (2026-07-04): from the Hokkien reading of "山楂" san-cha
+
 saqzao [(c) (d) hó I] @Laqme 2023-11-11 #h4OyGnQrZ $en +2
 ▯ is a moron / idiot / halfwit / dunce / fool.
   Laqme (2023-11-11): I imagine there used to be a little Toaq joke/saying like "that guy knows only 3 things: ..." and it got reduced to this word. This isn't nice to say but it isn't vulgar.
@@ -75678,6 +75755,10 @@ soatoarıoq @Laqme 2021-09-28 #goIPwng7S $en -1
 ▯ is a particle / function word class (e.g. Toaq's KU, the class containing ku, beı, tou…)
   Laqme (2021-09-28): in Lojban, these are called "selma'o"
 
+soazı @sq 2026-07-04 #iVez7-Gud $en ±
+interjection: "help lmao"; a way to signal uncontrollable laughter, implying the risk of dying of laughter and needing assistance.
+  sq (2026-07-04): soazııı: contraction of **soa** and **jí** with j > z
+
 soba [particle] @Machy 2022-04-15 #gZFGhm9Vp $en ±
 interjection: 'Help!'
 
@@ -76778,6 +76859,9 @@ suaıtoa @TheAndSys 2025-02-12 #tXlHfPb8i $en ±
 suaıtom @jiqci 2024-05-16 #iyDI4EbmU $en ±
 ▯ is a tachyon.
 
+suaıtuchao @sq 2026-07-04 #Jgr2jy_UT $en ±
+▯ is a bus rapid transit.
+
 suam @Laqme 2024-08-31 #ieHvjrODb $en +1
 ▯ is fake, fictional, mock, emulated.
   TheAndSys (2024-09-22): sham, scam, lie
@@ -77195,6 +77279,11 @@ súı [particle] @uakci 2023-01-21 #USLTd9YOD $en +2
 focus particle: the least
   uakci (2023-01-21): see note on **sóq**
 
+suı'aqsaqpaı @Aburn 2026-07-04 #x-FVZCoSK $en ±
+Prediacte ‘岁寒三友’; ▯ is the art motif of the ‘three friends of winter’
+  Aburn (2026-07-04): Based on a mix mandarin and Toaq
+  Aburn (2026-07-04): tudaqrıqpaı is another option…
+
 suıboı @uakci 2022-08-07 #T-fS2ulPB $en ±
 ▯ has been happening since not any later than ▯.
 
@@ -77611,6 +77700,9 @@ pronombre: ‘2S‘; pronombre personal de segunda persona; tú/usted
 
 súq @Ilmen 2026-01-28 #UslUknUVC $jbo ± %deixis,discourse_participants
 .i sumka'i lo se tavla .i smudu'i zo "do"
+
+súq @sq 2026-07-04 #vLSIZJhQ9 $de ± %deixis,discourse_participants
+Pronomen "2S"; Personalpronomen der 2. Person Singular; du/Sie
 
 suqbeı [particle] @uakci 2022-04-15 #ah6dW2mZ0 $en ±
 interjection: no u
@@ -83950,6 +84042,10 @@ tıechuo @jiqci 2023-07-31 #4V6KHkKtk0 $pl ± %artifact
 tıedo @Laqme 2025-02-14 #A6CZ-hIUN $en ±
 ▯ wraps/covers/boxes up ▯.
 
+tıeduao @sq 2026-07-04 #JWP2JCVOC $en ±
+▯ is ▯ covered in hardened sugar syrup; ▯ is tanghulu made from ▯.
+  sq (2026-07-04): compound of **tıe** and **duao**
+
 tıefuq @Laqme 2019-02-14 #Li2FuIoZ5 $en ±
 ▯ is a coat/overcoat/cloak.
 
@@ -87331,6 +87427,10 @@ tuꝡao @robintown 2024-11-13 #9xdPvJVAz $en ±
 tuꝡe @Ilmen 2024-10-23 #0bqxaAshY $en ± %logic,quantification,binary_quantifier
 every one thing has property ▯ among what has property ▯, if any.
 
+tuzam @sq 2026-07-05 #S0bgDoFo3 $en ±
+▯ is tomato purée/paste.
+  sq (2026-07-05): from **tuzeo** and **sham**.
+
 tuze [(c) (d) máq I] @robintown 2022-12-09 #DSw4f-cWf $en +1
 ▯ is soup.
   Ilmen (2026-01-25): Etymology: A priori, but probably related to Toaq ⟪ze⟫.
@@ -89764,6 +89864,9 @@ zu @TheAndSys 2025-03-26 #xtjp1_jHx $es ± %linguistics
 
 zu @Laqme 2025-04-03 #JzSmD3bYe $jbo ± %linguistics
 ▯ bangu
+
+zu @Aburn 2026-07-04 #krJXEgqfw $de ± %linguistics
+Prädikat ‘Sprache’; ▯ ist eine Sprache
 
 zu @el 2022-07-15 #QkuDZt9Qt $jbo -1 %linguistics
 bo'a bangu
