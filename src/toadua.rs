@@ -188,6 +188,28 @@ impl Toa {
             println!("{} #{} has an empty gloss, removing", self.head, self.id);
             self.gloss = None;
         }
+        if self.typ.is_none()
+            && self.gloss.is_none()
+            && let Some((typ, rest)) = self.body.split_once(": ")
+        {
+            let after_open = rest.strip_prefix('\'').or_else(|| rest.strip_prefix('‘'));
+            if let Some(after_open) = after_open {
+                let extracted =
+                    after_open.split_once("'; ").or_else(|| after_open.split_once("’; "));
+                if let Some((gloss, new_body)) = extracted
+                    && !gloss.is_empty()
+                    && !gloss.contains(' ')
+                {
+                    println!(
+                        "{} #{} has unconverted body metadata, extracting",
+                        self.head, self.id
+                    );
+                    self.typ = Some(typ.to_string());
+                    self.gloss = Some(gloss.to_string());
+                    self.body = new_body.to_string();
+                }
+            }
+        }
         if *self != old {
             println!("old entry:\n\x1b[91m{old}\x1b[m");
             println!("new entry:\n\x1b[92m{self}\x1b[m");
@@ -271,8 +293,8 @@ impl Display for Toa {
                 _ => score.to_string(),
             },
             tags.map_or_else(String::new, |t| format!(" %{}", t.replace(' ', ","))),
-            typ.map_or_else(String::new, |typ| format!("{typ}: ")),
-            gloss.map_or_else(String::new, |gloss| format!("‘{gloss}’; ")),
+            typ.map_or_else(String::new, |typ| format!("[t]{typ}: ")),
+            gloss.map_or_else(String::new, |gloss| format!("[g]‘{gloss}’; ")),
             if self.notes.is_empty() {
                 String::new()
             } else {
