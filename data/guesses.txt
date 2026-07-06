@@ -9,7 +9,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   I: ["_PRON_máq(1.03)", "_RAKU_dıu(0.99)", "language(0.58)", "colour(0.56)", "_PRON_hó(0.55)", "chord(0.53)", "letter(0.50)", "_BIAS(0.50)", "_RAKU_gaq(0.46)", "alone(0.45)"]
   E: ["random(6.41)", "event(6.28)", "happens(5.41)", "case(5.12)", "_PRON_hóq(4.86)", "_RAKU_neq(4.83)", "_RAKU_bıe(4.47)", "_2_RAKU_cuıchaq(4.43)", "whatever(4.40)", "forever(4.26)"]
   P: ["case(9.34)", "_PRON_hóq(5.98)", "true(5.84)", "proposition(5.25)", "_RAKU_dıaq(5.07)", "times(4.79)", "_RAKU_kuem(4.35)", "_RAKU_bu(4.11)", "decreases(4.06)", "_RAKU_chıo(3.79)"]
-  S: ["_PRON_tá(11.06)", "_RAKU_lıo(7.10)", "has(6.95)", "_RAKU_gea(6.40)", "short(6.18)", "_RAKU_shaq(6.05)", "visually(5.86)", "front(5.85)", "shallow(5.55)", "_RAKU_fıu(5.55)"]
+  S: ["_PRON_tá(11.06)", "_RAKU_lıo(7.10)", "has(6.95)", "_RAKU_gea(6.40)", "short(6.18)", "_RAKU_shaq(6.05)", "visually(5.86)", "front(5.85)", "_RAKU_fıu(5.55)", "shallow(5.55)"]
   F: ["_RAKU_zuom(4.25)", "pertains(3.99)", "_PRON_tá(3.64)", "satisfies(2.62)", "_RAKU_nhuaı(2.48)", "universal(2.43)", "_PRON_hóq(2.33)", "_RAKU_jıaq(2.24)", "relation(2.14)", "among(2.09)"]
 
 === ACCURACY (n=6289) ===
