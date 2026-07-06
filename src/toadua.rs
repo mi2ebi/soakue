@@ -43,10 +43,7 @@ pub struct Toa {
     pub warn: bool,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub frame: Option<String>,
-    #[serde(
-        rename(deserialize = "pronominal_class", serialize = "pronoun"),
-        skip_serializing_if = "Option::is_none"
-    )]
+    #[serde(rename(deserialize = "pronominal_class"), skip_serializing_if = "Option::is_none")]
     pub pronoun: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub distribution: Option<String>,
@@ -54,6 +51,13 @@ pub struct Toa {
     pub subject: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub tags: Option<String>,
+    #[serde(
+        rename(deserialize = "type", serialize = "type"),
+        skip_serializing_if = "Option::is_none"
+    )]
+    pub typ: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub gloss: Option<String>,
 }
 
 fn normalize_for_validation(text: &str) -> String {
@@ -102,6 +106,7 @@ impl Toa {
             && !self.body.contains("textspeak")
             && !self.notes.iter().any(|n| n.content.contains("textspeak"));
     }
+
     pub fn fix_note_dates(&mut self) {
         self.notes = self
             .notes
@@ -113,37 +118,38 @@ impl Toa {
             })
             .collect_vec();
     }
+
     pub fn has_metadata(&self) -> bool {
         [self.frame.clone(), self.pronoun.clone(), self.distribution.clone(), self.subject.clone()]
             .iter()
             .any(Option::is_some)
     }
+
     pub fn fixup_metadata(&mut self) {
+        let mut old = self.clone();
         if [
             self.frame.clone(),
             self.pronoun.clone(),
             self.distribution.clone(),
             self.subject.clone(),
+            self.typ.clone(),
+            self.gloss.clone(),
         ]
         .iter()
         .any(|m| *m == Some("undefined".to_string()))
         {
-            println!("\x1b[91m{} #{} has bad metadata:\n{self}\x1b[r", self.head, self.id);
+            println!("{} #{} has bad metadata:\n{self}", self.head, self.id);
         }
-        let mut affected = if let Some(pronoun) = &self.pronoun
+        if let Some(pronoun) = &self.pronoun
             && !["ho", "maq", "hoq", "ta", "raı", "particle", "phrase"].contains(&pronoun.as_str())
         {
-            println!("\x1b[93m{} #{} has pronoun \"{}\", removing", self.head, self.id, pronoun);
+            println!("{} #{} has pronoun \"{}\", removing", self.head, self.id, pronoun);
             self.pronoun = None;
-            true
-        } else {
-            false
-        };
-        if let Some(pronoun) = &self.pronoun
-            && !["particle", "phrase"].contains(&pronoun.as_str())
-        {
+        }
+        if let Some(pronoun) = &self.pronoun {
             self.pronoun =
-                Some(format!("{}\u{0301}{}", &pronoun[0..2], &pronoun[2..]).nfc().to_string());
+                Some(format!("{}\u{0301}{}", &pronoun[0 .. 2], &pronoun[2 ..]).nfc().to_string());
+            old = Self { pronoun: self.pronoun.clone(), ..old };
         }
         if let Some(subject) = &self.subject {
             if ["agent", "individual", "shape", "free", "event", "proposition"]
@@ -152,19 +158,39 @@ impl Toa {
                 self.subject = Some(
                     String::new() + &subject.chars().next().unwrap().to_uppercase().to_string(),
                 );
-            } else if subject == "predicate" {
-                self.subject = Some("P".into());
+                old = Self { subject: self.subject.clone(), ..old };
             } else {
-                println!(
-                    "\x1b[93m{} #{} has subject \"{}\", removing",
-                    self.head, self.id, subject
-                );
+                println!("{} #{} has subject \"{}\", removing", self.head, self.id, subject);
                 self.subject = None;
-                affected = true;
             }
         }
-        if affected {
-            println!("new entry:\n\x1b[95m{self}\x1b[m");
+        if let Some(frame) = self.frame.clone()
+            && frame.is_empty()
+        {
+            println!("{} #{} has an empty frame, removing", self.head, self.id);
+            self.frame = None;
+        }
+        if let Some(frame) = self.frame.clone()
+            && frame.is_empty()
+        {
+            println!("{} #{} has an empty frame, removing", self.head, self.id);
+            self.frame = None;
+        }
+        if let Some(dist) = self.distribution.clone()
+            && dist.is_empty()
+        {
+            println!("{} #{} has an empty dist, removing", self.head, self.id);
+            self.distribution = None;
+        }
+        if let Some(gloss) = self.gloss.clone()
+            && gloss.is_empty()
+        {
+            println!("{} #{} has an empty gloss, removing", self.head, self.id);
+            self.gloss = None;
+        }
+        if *self != old {
+            println!("old entry:\n\x1b[91m{old}\x1b[m");
+            println!("new entry:\n\x1b[92m{self}\x1b[m");
         }
     }
 }
@@ -205,12 +231,14 @@ impl Display for Toa {
             distribution,
             subject,
             tags,
+            typ,
+            gloss,
         } = self.clone();
         // warn head [(frame) (dist) ánim S] @user date #id $scope +score
         // %tags\nbody\nnotes
         write!(
             f,
-            "{}{head}{} @{user} {} #{id} ${scope} {}{}\n{body}{}",
+            "{}{head}{} @{user} {} #{id} ${scope} {}{}\n{}{}{body}{}",
             if warn { "⚠ " } else { "" },
             if self.has_metadata() {
                 format!(
@@ -236,19 +264,21 @@ impl Display for Toa {
             } else {
                 String::new()
             },
-            &date[0..10],
+            &date[0 .. 10],
             match score {
                 0 => "±".to_string(),
                 x if x > 0 => format!("+{score}"),
                 _ => score.to_string(),
             },
             tags.map_or_else(String::new, |t| format!(" %{}", t.replace(' ', ","))),
+            typ.map_or_else(String::new, |typ| format!("{typ}: ")),
+            gloss.map_or_else(String::new, |gloss| format!("‘{gloss}’; ")),
             if self.notes.is_empty() {
                 String::new()
             } else {
                 notes
                     .iter()
-                    .map(|n| format!("\n  {} ({}): {}", n.user, &n.date[0..10], n.content))
+                    .map(|n| format!("\n  {} ({}): {}", n.user, &n.date[0 .. 10], n.content))
                     .join("")
             }
         )

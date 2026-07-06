@@ -1,12 +1,12 @@
-use std::collections::{hash_map::Entry, HashMap};
+use std::collections::{HashMap, hash_map::Entry};
 
 use itertools::Itertools as _;
 
-use crate::toadua::{split_into_raku, Toa};
+use crate::toadua::{Toa, split_into_raku};
 
 /// Used to test all possible orders of a slice. This is important because we
 /// are performing sorting tests, and we want to ensure that the orders picked
-/// for testing are not biased for success
+/// for testing are not biased for success.
 fn permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &[T], fun: F) {
     let mut current_perm = slice.to_vec();
 
@@ -20,7 +20,7 @@ fn heap_permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &mut Vec<T>, n: usize, fu
     if n == 1 {
         fun(slice.clone());
     }
-    for i in 0..n {
+    for i in 0 .. n {
         heap_permute(slice, n - 1, fun);
 
         if n.is_multiple_of(2) {
@@ -31,7 +31,7 @@ fn heap_permute<T: Clone, F: Fn(Vec<T>) + Copy>(slice: &mut Vec<T>, n: usize, fu
     }
 }
 
-/// Little implementation used for creating test entries
+/// Little implementation used for creating test entries.
 impl Toa {
     pub fn test_new(head: String) -> Self {
         Self {
@@ -49,11 +49,13 @@ impl Toa {
             distribution: None,
             subject: None,
             tags: None,
+            typ: None,
+            gloss: None,
         }
     }
 }
 
-/// A macro to make test entries even easier to make
+/// A macro to make test entries even easier to make.
 macro_rules! toa {
     ($head:literal) => {
         Toa::test_new($head.to_string())
@@ -68,11 +70,7 @@ fn tone_ordering() {
     let words = toa!["é", "e", "ê", "ë", "è", "e-", "a"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
         assert_eq!(&["a", "e-", "e", "è", "é", "ë", "ê"], words.as_slice());
     });
@@ -83,11 +81,7 @@ fn word_ordering() {
     let words = toa!["é", "éshea", "e", "eshea", "naq", "nä"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
         assert_eq!(&["e", "é", "eshea", "éshea", "nä", "naq"], words.as_slice());
     });
@@ -98,16 +92,9 @@ fn error_ordering() {
     let words = toa!["Usona mí Lısa da.", "uatı / uakı / (uakytı?)", "x"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
-        assert_eq!(
-            &["Usona mí Lısa da.", "x", "uatı / uakı / (uakytı?)"],
-            words.as_slice()
-        );
+        assert_eq!(&["Usona mí Lısa da.", "x", "uatı / uakı / (uakytı?)"], words.as_slice());
     });
 }
 
@@ -116,16 +103,9 @@ fn sentence_ordering() {
     let words = toa!["ana", "ina", "ana da", "ina da", "x", "x x"];
 
     permute(&words, |words| {
-        let words = words
-            .into_iter()
-            .sorted_by(Toa::cmp)
-            .map(|x| x.head)
-            .collect_vec();
+        let words = words.into_iter().sorted_by(Toa::cmp).map(|x| x.head).collect_vec();
 
-        assert_eq!(
-            &["ana", "ina", "ana da", "ina da", "x", "x x"],
-            words.as_slice()
-        );
+        assert_eq!(&["ana", "ina", "ana da", "ina da", "x", "x x"], words.as_slice());
     });
 }
 
@@ -198,23 +178,15 @@ fn strict_ordering() {
 
 #[test]
 fn rakune() {
-    let cases = [
-        ("raku", Some(2)),
-        ("flksdjflks", None),
-        ("ëıgo", Some(2)),
-        ("jorakutoa", Some(4)),
-    ];
+    let cases =
+        [("raku", Some(2)), ("flksdjflks", None), ("ëıgo", Some(2)), ("jorakutoa", Some(4))];
     for (head, expected) in cases {
         assert_eq!(expected, split_into_raku(head).map(|r| r.len()));
     }
 }
 #[test]
 fn warn() {
-    let cases = [
-        (toa!("y"), true),
-        (toa!("eıgo"), false),
-        (toa!("ëıgo"), true),
-    ];
+    let cases = [(toa!("y"), true), (toa!("eıgo"), false), (toa!("ëıgo"), true)];
     for (mut head, expected) in cases {
         head.set_warning();
         assert_eq!(head.warn, expected);

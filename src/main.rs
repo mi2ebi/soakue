@@ -1,11 +1,10 @@
-#![allow(clippy::cast_precision_loss)]
+#![allow(clippy::cast_precision_loss, reason = "annoying")]
 
 mod dedup;
 mod guess_metadata;
 mod letters;
 mod old_main;
-#[cfg(test)]
-mod tests;
+#[cfg(test)] mod tests;
 mod toadua;
 mod toakao;
 
@@ -13,18 +12,14 @@ use std::{fs, time::Duration};
 
 use itertools::Itertools as _;
 use reqwest::blocking::Client;
-use serde_json::to_string;
+use serde_json::{from_str, to_string};
 
 use crate::dedup::dictify;
 
-const UNDERDOT: char = '\u{0323}';
-
-#[allow(clippy::missing_panics_doc)]
+#[allow(clippy::missing_panics_doc, reason = "github actions")]
 pub fn main() {
-    let client = Client::builder()
-        .timeout(Duration::from_mins(3))
-        .build()
-        .expect("Building client failed");
+    let client =
+        Client::builder().timeout(Duration::from_mins(3)).build().expect("Building client failed");
 
     println!("getting stuff from toadua");
     let toadua_text = client
@@ -66,21 +61,24 @@ pub fn main() {
     println!("writing");
     fs::write("data/toakue.js", format!("const dict = {dict_str};")).unwrap();
 
+    fs::write("data/all.txt", dict.iter().map(|toa| toa.head.clone()).collect_vec().join("\n"))
+        .unwrap();
+
+    fs::write("data/readable.txt", dict.iter().map(ToString::to_string).join("\n\n")).unwrap();
+    let toadua = from_str::<toadua::Toadua>(&toadua_text).unwrap().results;
     fs::write(
-        "data/all.txt",
-        dict.iter()
-            .map(|toa| toa.head.clone())
-            .collect_vec()
+        "data/toadua_types.txt",
+        toadua
+            .iter()
+            .filter(|toa| toa.scope == "en")
+            .filter_map(|toa| toa.typ.clone())
+            .sorted()
+            .dedup()
             .join("\n"),
     )
     .unwrap();
 
-    fs::write(
-        "data/readable.txt",
-        dict.iter().map(ToString::to_string).join("\n\n"),
-    )
-    .unwrap();
-
-    // just for fun i fed claude data/readable.txt and asked it to write this function to try annotating stuff with metadata
+    // just for fun i fed claude data/readable.txt and asked it to write this
+    // function to try annotating stuff with metadata
     guess_metadata::run(&dict).unwrap();
 }

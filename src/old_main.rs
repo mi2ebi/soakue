@@ -1,4 +1,4 @@
-#![allow(dead_code)]
+#![allow(dead_code, reason = "old file")]
 
 use std::{fs, sync::LazyLock, time::Duration};
 
@@ -62,7 +62,6 @@ static MADE_OF_RAKU: LazyLock<Regex> = LazyLock::new(|| {
 });
 
 fn dictify(the: &str) -> Vec<Toa> {
-    
     from_str::<Toadua>(the)
         .unwrap()
         .results

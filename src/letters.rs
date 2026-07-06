@@ -2,7 +2,7 @@ use std::{iter::Peekable, str::Chars};
 
 use unicode_normalization::{Decompositions, UnicodeNormalization as _};
 
-use crate::UNDERDOT;
+const UNDERDOT: char = '\u{0323}';
 
 #[derive(Debug, PartialEq, Eq)]
 pub enum Error {

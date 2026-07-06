@@ -3,7 +3,8 @@
     clippy::similar_names,
     clippy::too_many_lines,
     clippy::cast_possible_truncation,
-    clippy::cast_sign_loss
+    clippy::cast_sign_loss,
+    reason = "annoying"
 )]
 
 //! Heuristic + Logistic Regression metadata guesser for Toaq dictionary
@@ -131,16 +132,16 @@ impl LogisticRegression {
             classes[id].clone_from(name);
         }
 
-        let mut model = Self { weights: vec![0.0; num_tokens * num_classes], classes, vocab };
+        let mut model = Self { weights: vec![0.; num_tokens * num_classes], classes, vocab };
 
         let epochs = 50;
         let learning_rate = 0.1;
 
-        for epoch in 0..epochs {
-            let lr = learning_rate / 0.1_f64.mul_add(f64::from(epoch), 1.0);
+        for epoch in 0 .. epochs {
+            let lr = learning_rate / 0.1_f64.mul_add(f64::from(epoch), 1.);
             for (token_ids, label_id) in &processed_data {
                 // Get probabilities
-                let mut scores = vec![0.0; num_classes];
+                let mut scores = vec![0.; num_classes];
                 for (c_idx, score) in scores.iter_mut().enumerate() {
                     for &t_id in token_ids {
                         *score += model.weights[t_id * num_classes + c_idx];
@@ -155,11 +156,11 @@ impl LogisticRegression {
                 // Update weights
                 for (c_idx, e) in exps.iter().enumerate().take(num_classes) {
                     let prob = e / sum_exps;
-                    let target = if c_idx == *label_id { 1.0 } else { 0.0 };
+                    let target = if c_idx == *label_id { 1. } else { 0. };
                     let error = target - prob;
 
                     let class_name = &model.classes[c_idx];
-                    let class_weight = weights.get(class_name).unwrap_or(&1.0);
+                    let class_weight = weights.get(class_name).unwrap_or(&1.);
 
                     for &t_id in token_ids {
                         model.weights[t_id * num_classes + c_idx] += lr * error * class_weight;
@@ -172,7 +173,7 @@ impl LogisticRegression {
 
     fn get_probs_from_tokens(&self, tokens: &[String]) -> Vec<f64> {
         let num_classes = self.classes.len();
-        let mut scores = vec![0.0; num_classes];
+        let mut scores = vec![0.; num_classes];
 
         for token in tokens {
             if let Some(&t_id) = self.vocab.get(token) {
@@ -258,7 +259,7 @@ impl Calibration {
         // Bucket by quantised confidence value (steps of 1/`n_buckets`) rather
         // than equal count, so entries with identical raw conf (e.g. 1.0) all
         // land in the same bucket instead of spilling across several.
-        let step = 1.0 / n_buckets as f64;
+        let step = 1. / n_buckets as f64;
         let bucket_idx = |c: f64| ((c / step).floor() as usize).min(n_buckets - 1);
 
         let mut buckets: Vec<Vec<(f64, bool)>> = vec![Vec::new(); n_buckets];
@@ -316,7 +317,7 @@ impl Calibration {
         if raw_conf >= bp[bp.len() - 1].0 {
             return bp[bp.len() - 1].1;
         }
-        for i in 0..bp.len() - 1 {
+        for i in 0 .. bp.len() - 1 {
             if bp[i].0 <= raw_conf && raw_conf <= bp[i + 1].0 {
                 let t = (raw_conf - bp[i].0) / (bp[i + 1].0 - bp[i].0);
                 return t.mul_add(bp[i + 1].1 - bp[i].1, bp[i].1);
@@ -347,13 +348,13 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
     let mut pron_per_class: HashMap<String, (usize, usize)> = HashMap::new();
     let mut subj_per_class: HashMap<String, (usize, usize)> = HashMap::new();
 
-    for fold in 0..k {
+    for fold in 0 .. k {
         let test_start = fold * n / k;
         let test_end = (fold + 1) * n / k;
 
         let train: Vec<_> =
-            examples[..test_start].iter().chain(examples[test_end..].iter()).collect();
-        let test = &examples[test_start..test_end];
+            examples[.. test_start].iter().chain(examples[test_end ..].iter()).collect();
+        let test = &examples[test_start .. test_end];
 
         let mut pron_weights = HashMap::new();
         let mut subj_weights = HashMap::new();
@@ -367,15 +368,15 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
 
         let train_n = train.len() as f64;
         for (name, count) in p_counts {
-            pron_weights.insert(name, train_n / (f64::from(count) * 4.0)); // 4 main prons
+            pron_weights.insert(name, train_n / (f64::from(count) * 4.)); // 4 main prons
         }
         for (name, count) in s_counts {
-            subj_weights.insert(name, train_n / (f64::from(count) * 6.0)); // A, I, E, F, P, S
+            subj_weights.insert(name, train_n / (f64::from(count) * 6.)); // A, I, E, F, P, S
         }
 
         // train pronoun model on raw features
         let pron_model = LogisticRegression::train(
-            train.iter().map(|(f, p, _, _)| (f.as_str(), *p)),
+            train.iter().map(|(f, p, ..)| (f.as_str(), *p)),
             &pron_weights,
         );
 
@@ -442,7 +443,7 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
     let after = after.trim_start_matches(|c: char| " ;,./".contains(c));
 
     if after.contains("the case")
-        || (1..=2).any(|n| after.split_whitespace().skip(n).join(" ").starts_with("the case"))
+        || (1 ..= 2).any(|n| after.split_whitespace().skip(n).join(" ").starts_with("the case"))
         || after.starts_with("is true")
         || after.starts_with("is false")
         || after.starts_with("begins")
@@ -504,7 +505,7 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
 }
 
 fn guess_frame(body: &str, n: usize) -> String {
-    (0..n)
+    (0 .. n)
         .map(|i| if i == n - 1 { classify_slot(body, i) } else { "c" })
         .collect::<Vec<_>>()
         .join(" ")
@@ -524,7 +525,7 @@ fn guess_distribution(entry: &Toa, n: usize) -> String {
                 || entry.head.ends_with("gua"),
         )
     };
-    (0..n).map(|i| if i < n_collective { "n" } else { "d" }).collect::<Vec<_>>().join(" ")
+    (0 .. n).map(|i| if i < n_collective { "n" } else { "d" }).collect::<Vec<_>>().join(" ")
 }
 
 const PARTICLE_LABELS: &[&str] = &[
@@ -569,7 +570,7 @@ fn guess_particle_or_phrase(toa: &Toa) -> Option<&'static str> {
     if let colon = b.find(':').unwrap_or(b.len())
         && !toa.head.contains(' ')
     {
-        let label = b[..colon].trim();
+        let label = b[.. colon].trim();
         if PARTICLE_LABELS.iter().any(|p| label.contains(p)) {
             return Some("particle");
         }
@@ -592,7 +593,7 @@ fn is_valid_subject(s: &str) -> bool { VALID_SUBJECTS.contains(&s) }
 fn oov_rate(text: &str, model: &LogisticRegression) -> f64 {
     let tokens = tokenize(text);
     if tokens.is_empty() {
-        return 0.0;
+        return 0.;
     }
     let oov = tokens.iter().filter(|t| !model.vocab.contains_key(t.as_str())).count();
     oov as f64 / tokens.len() as f64
@@ -664,7 +665,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
 
     // ── train final models on all annotated data ──────────────────────────
     let mut pron_counts = std::collections::HashMap::new();
-    for (_, p, _, _) in &cv_examples {
+    for (_, p, ..) in &cv_examples {
         *pron_counts.entry(p.to_string()).or_insert(0) += 1;
     }
     let num_prons = pron_counts.len() as f64;
@@ -673,7 +674,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         .map(|(name, count)| (name, total_n / (f64::from(count) * num_prons)))
         .collect();
     let pronoun_model = LogisticRegression::train(
-        cv_examples.iter().map(|(f, p, _, _)| (f.as_str(), *p)),
+        cv_examples.iter().map(|(f, p, ..)| (f.as_str(), *p)),
         &pron_weights,
     );
     // subject model: use predicted pronoun as chained feature
@@ -755,8 +756,8 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
                  [({frame}) ({dist}) {pron} {subj}] (conf: p={:.0}%, s={:.0}%)",
                 toa.head,
                 toa.id,
-                p_cal_conf * 100.0,
-                s_conf * 100.0
+                p_cal_conf * 100.,
+                s_conf * 100.
             );
 
             let max_ml_conf = if !pm {
@@ -764,7 +765,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             } else if !sm {
                 s_conf
             } else {
-                0.0
+                0.
             };
 
             mismatches.push(Mismatch { line, max_ml_conf });
@@ -793,7 +794,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     mismatches.sort_by(|a, b| b.max_ml_conf.partial_cmp(&a.max_ml_conf).unwrap());
 
     let pct = |ok: usize, n: usize| {
-        if n == 0 { 0. } else { 100.0 * ok as f64 / n as f64 }
+        if n == 0 { 0. } else { 100. * ok as f64 / n as f64 }
     };
 
     // ── write summary + discriminative tokens ─────────────────────────────
@@ -806,24 +807,24 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     writeln!(out, "  frame:           {:.1}% (heuristic, training data)", pct(ok_frame, n_frame))?;
     writeln!(out, "  distribution:    {:.1}% (heuristic, training data)", pct(ok_dist, n_dist))?;
     writeln!(out, "  particle/phrase: {:.1}% (heuristic, training data)", pct(ok_pp, n_pp))?;
-    writeln!(out, "  pronoun:         {:4.1}% (10-fold CV)", cv.pron_acc * 100.0)?;
+    writeln!(out, "  pronoun:         {:4.1}% (10-fold CV)", cv.pron_acc * 100.)?;
     let mut pron_classes: Vec<_> = cv.pron_per_class.iter().collect();
     pron_classes.sort_by_key(|(k, _)| k.as_str());
     for &(class, &(correct, total)) in &pron_classes {
         writeln!(
             out,
             "    {class:4} {:4.1}%  ({correct}/{total})",
-            100.0 * correct as f64 / total as f64
+            100. * correct as f64 / total as f64
         )?;
     }
-    writeln!(out, "  subject:         {:4.1}% (10-fold CV, chained)", cv.subj_acc * 100.0)?;
+    writeln!(out, "  subject:         {:4.1}% (10-fold CV, chained)", cv.subj_acc * 100.)?;
     let mut subj_classes: Vec<_> = cv.subj_per_class.iter().collect();
     subj_classes.sort_by_key(|(k, _)| k.as_str());
     for &(class, &(correct, total)) in &subj_classes {
         writeln!(
             out,
             "    {class:4} {:4.1}%  ({correct}/{total})",
-            100.0 * correct as f64 / total as f64
+            100. * correct as f64 / total as f64
         )?;
     }
     writeln!(out)?;
@@ -831,7 +832,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     writeln!(out, "=== PRONOUN CONFIDENCE CALIBRATION ===")?;
     writeln!(out, "  (raw softmax → estimated actual accuracy)")?;
     for &(raw, cal) in &calibration.breakpoints {
-        writeln!(out, "  raw {:.0}% → {:.0}%", raw * 100.0, cal * 100.0)?;
+        writeln!(out, "  raw {:.0}% → {:.0}%", raw * 100., cal * 100.)?;
     }
     writeln!(out)?;
 
@@ -890,8 +891,8 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             high_conf_count += 1;
         }
 
-        let conf_str = format!("{:.0}%", cal_conf * 100.0);
-        let oov_str = if oov > 0.0 { format!(" oov={:.0}%", oov * 100.0) } else { String::new() };
+        let conf_str = format!("{:.0}%", cal_conf * 100.);
+        let oov_str = if oov > 0. { format!(" oov={:.0}%", oov * 100.) } else { String::new() };
 
         guesses.push((toa, frame, dist, pron, subj, conf_str, oov_str));
     }
@@ -910,13 +911,9 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     writeln!(
         out,
         "  mean calibrated pronoun conf: {:.1}%",
-        100.0 * confidence_sum / f64::from(n_guessed)
+        100. * confidence_sum / f64::from(n_guessed)
     )?;
-    writeln!(
-        out,
-        "  mean oov rate:                {:.1}%",
-        100.0 * oov_sum / f64::from(n_guessed)
-    )?;
+    writeln!(out, "  mean oov rate:                {:.1}%", 100. * oov_sum / f64::from(n_guessed))?;
     writeln!(out, "  high-confidence (cal≥80%):    {high_conf_count}")?;
     writeln!(out, "  particle/phrase guesses:      {n_particle_phrase}")?;
 
@@ -924,9 +921,9 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     println!(
         "10-fold CV accuracy: pronoun {}{:.1}%{RESET}, subject {}{:.1}%{RESET} (chained)",
         color(cv.pron_acc),
-        cv.pron_acc * 100.0,
+        cv.pron_acc * 100.,
         color(cv.subj_acc),
-        cv.subj_acc * 100.0
+        cv.subj_acc * 100.
     );
     Ok(())
 }
@@ -939,7 +936,7 @@ const BLUE: &str = "\x1b[94m";
 const PURPLE: &str = "\x1b[95m";
 const RESET: &str = "\x1b[m";
 fn color(p: f64) -> String {
-    assert!((0.0..=1.0).contains(&p), "uh oh how is p not between 0 and 1");
+    assert!((0. ..= 1.).contains(&p), "uh oh how is p not between 0 and 1");
     let k = 12_f64;
     let i = (6. / (k - 1.) * (k.powf(p) - 1.)).floor() as usize;
     let c = match i {
