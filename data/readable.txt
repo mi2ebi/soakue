@@ -4286,7 +4286,7 @@ bıqdo @robintown 2023-06-20 #p0DHUOLe1 $en ±
 bıqdonıe @Laqme 2024-05-06 #0W9rFCk5O $en ±
 [t]predicate: ▯ is windowed (not fullscreen).
 
-bıqkı @cateyes 2025-08-19 #XWDyA2ct- $en ±
+bıqkı @cateyes 2025-08-19 #XWDyA2ct- $en +1
 [t]predicate: ▯ binkies
 
 bıqpue @Laqme 2024-09-02 #6-IWpe4L1 $en ±
@@ -11506,6 +11506,9 @@ chıecheme [(c) (d) hóq I] @fagri 2019-07-04 #P1E-H2FtG $en ±
 chıechepaqtao @fagri 2020-06-13 #x_gLxQEak $en ±
 [t]predicate: ▯ is enrolled in school ▯
 
+chıedao [(c) (d) hóq I] @Dembim 2026-07-06 #eZZlBzC_V $en ±
+[t]predicate: ▯ is a textbook.
+
 chıedaq @Machy 2022-02-02 #Va97c60ud $en ±
 [t]predicate: ▯ is a class period for learning to satisfy property ▯.
   Machy (2022-04-01): keyword: "school"
@@ -15677,6 +15680,10 @@ déom @seaqtaq 2024-08-06 #lacrX6OJx $en ±
   seaqtaq (2024-08-06): This is like daı as a focus prefix. Thus it has more permissive syntax. In simple cases, there appears to be no benefit, e.g. "Daı chuq náq zéo" ≈ "Chuq déom náq sá zeo". But in more complex ones, e.g. "Chuq líq rú déom náq", I believe the benefit is apparent in the rephrasing required with daı
   seaqtaq (2024-08-06): Haola déom X Y == Daı haola kú X Y
   seaqtaq (2024-08-06): Ergo "Chuq líq rú déom náq sá zéo" == "Chuq líq sá zeo rú daı chuq kú náq sá zeo"
+
+deomuzao @Aburn 2026-07-06 #Ag0Kv7W45 $en ±
+[t]predicate: [g]‘inept’; ▯ is inept/unskilled at ▯ for reasons beyond their control/extenuating circumstances
+  Aburn (2026-07-06): This refers specifically to being unskilled not due to not wanting to learn said skill, but being inept due to not having had the resources or capability to learn said skill.
 
 deopao [(c) (d) hó I] @robintown 2025-01-10 #F4cfTpoE6 $en ±
 [t]predicate: ▯ is a parent.
@@ -41086,7 +41093,7 @@ katıa @salarua 2025-06-07 #P0Pqf252d $en ±
   salarua (2025-06-07): Etymology: contraction of **kaqhuatıa** "behind the eyes"
 
 kato [(c) (d) hó I] @Ilmen 2018-09-24 #mih9DrlXs $en +10 %lifeform,animal,vertebrate,mammal
-[t]predicate: ▯ is a cat.
+[t]predicate: [g]‘cat’; ▯ is a cat.
   uakci (2018-09-24): +1!
   Ilmen (2018-10-30): +1
   Laqme (2019-02-09): +1
@@ -46988,8 +46995,15 @@ leıdı @ijonetun 2023-01-06 #e1L69bg6- $tok ±
 leıfuıdua @uakci 2023-02-24 #RRn1LmNXx $en ±
 [t]predicate: ▯ finds it obvious that ▯ is the case, which is not generally so obvious for others.
 
+leıgı @evie 2026-07-06 #9cAtCKIgY $en +1
+▯ is bad at most things, but surprisingly good in that it satisfies property ▯
+  evie (2026-07-06): **tı-**leıgı “▯ is a rare ▯ W”
+
 leıguqmuı @uakci 2020-03-11 #UG5-Yl9Dr $en ±
 [t]predicate: ▯ is an overinterpretation of ▯; ▯ is a meaning of ▯ so abstract that it's improbable that it could have been meant.
+
+leıhuı @evie 2026-07-06 #XUuwixoaJ $en ±
+▯ is good at most things, but surprisingly bad in that it satisfies property ▯
 
 leıko @Laqme 2025-05-28 #9qrXSxnUV $en +1
 [t]predicate: ▯ is kinky / not vanilla.
@@ -58921,6 +58935,7 @@ nıepoha @Laqme 2025-02-14 #USaULxjtF $en ±
 
 nıeq [(c 1i) (d d) hó I] @official 2026-07-05 #gG52Z8LzKPx $en ±
 [t]predicate: [g]‘unskilled’; ▯ is unskilled at satisfying property ▯.
+  evie (2026-07-06): inept
 
 nıeq @jiqci 2023-07-31 #C2ItUET2S4 $pl ±
 [t]predicate: ▯ jest niewprawny w spełnianiu własności ▯.
@@ -62291,6 +62306,9 @@ nhaojı @Machy 2022-02-01 #XDNejeTkR $en -1
 
 nhaotoa @el 2022-11-27 #TJJot4dXI $en ±
 [t]predicate: ▯ is an exophoric pronoun
+
+nhaq- @evie 2026-07-07 #Fnw_FlGiR $en ±
+[t]prefix: [g]‘of.3PL’; incorporate **nhána** object
 
 nhaq- @magnap 2024-10-06 #Ex3BV2WS8 $en -1
 [t]experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
@@ -75554,6 +75572,9 @@ soachuo @uakci 2022-02-16 #M5e_Q3Xt9 $en ±
 soachuoı @seaqtaq 2024-10-03 #U7x7GPXHy $en ±
 [t]predicate: ▯ is a guide rope
 
+soadao [(c) (d) hóq I] @Dembim 2026-07-06 #s-WQgXrOd $en ±
+[t]predicate: ▯ is a guidebook/manual.
+
 soafuaı @uakci 2022-08-04 #AHTYGPU32 $en ±
 [t]predicate: ▯ is a charity.
 
@@ -78891,6 +78912,9 @@ sheı @jiqci 2023-07-31 #Up_-EPY6c $pl ±
 sheı [(c c) (d d) hó I] @Dembim 2026-03-05 #fN0k09Dpn $toa ±
 [t]predicate: boq tao sía ▯ ▯
 
+sheıbıaqranı @evie 2026-07-06 #kZmT8sTZx $en ±
+▯ is Shavian (the English shorthand)
+
 sheıdaq [(c) (d) hóq I] @Hoemai 2019-04-05 #UqdzaknNb $en +1
 [t]predicate: ▯ is free time; ▯ is free time for ▯.
   Laqme (2019-11-18): Is that “for (a person)” or “for (doing an activity)”?
@@ -81976,6 +82000,10 @@ taodıetaı [(c c 1j) (d d d) hó A] @Laqme 2022-07-19 #1pscb56L5 $en +3
 
 taodua @Ilmen 2020-02-05 #_TBZTdyVN $en +1 %cognition
 [t]predicate: ▯ knows how to satisfy property ▯.
+
+taoduabu @evie 2026-07-06 #Cj0d11tEm $en ±
+▯ doesn't know how to satisfy property ▯
+  evie (2026-07-06): hyponym of (i.e. more specific than) **nıeq**
 
 taoduaı [(c 1i) (d d) hó I] @Dembim 2026-01-06 #3xw6zFyKx $en ±
 [t]predicate: ▯ ought to ▯
@@ -87553,6 +87581,10 @@ uajaqbeı @Laqme 2024-09-10 #Cf-at6P-L $en ±
 [t]predicate: Wow, ▯ is soooo totally the case. (used sarcastically)
   Laqme (2024-09-10): **Uajaqbeı neqgı ní** = (deadpan voice) wow that's sooo fortunate. 🙄
 
+uakı [(c) (d) hó A] @evie 2026-07-07 #jzXR0xfCK $en +1
+[t]predicate: [g]‘uwaki’; ▯ translates some Viossa text even though they're not supposed to
+  sq (2026-07-07): soazı kushe 😭
+
 ualaq @uakci 2022-09-22 #tdnD6sYuH $en ±
 [t]predicate: ▯ is a wah-wah sound.
 
@@ -88769,6 +88801,9 @@ zao @Laqme 2025-04-03 #fjldF0fkS $jbo ±
 
 zaobu @fagri 2023-10-14 #97KloOan3 $en ±
 [t]predicate: ▯ is a stranger to ▯
+
+zaobu @evie 2026-07-06 #hCzUFE-bS $en ±
+▯ is unfamiliar with ▯
 
 zaobumolem @seaqtaq 2025-03-07 #VR8BkK-s7 $en ±
 [t]predicate: ▯ wonders what it's like to experience satisfying property ▯ as someone or something unaccustomed to or unfamiliar with satisfying said property

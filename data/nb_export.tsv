@@ -887,6 +887,7 @@ any member of ▯ can be connected to any other member by repeated application o
 ▯ is a student _BIAS _RAKU_che _2_RAKU_chıeche _ARITY_1	hó	I	1
 ▯ is a student id card _BIAS _RAKU_ta _2_RAKU_kata _ARITY_1	máq	I	1
 ▯ is a school the institution itself not the building _BIAS _RAKU_chem _2_RAKU_chıechem _ARITY_1	hóq	I	1
+▯ is a textbook _BIAS _RAKU_dao _2_RAKU_chıedao _ARITY_1	hóq	I	1
 ▯ teaches ▯ ▯ _BIAS _RAKU_ja _2_RAKU_chıeja _ARITY_3	hó	A	3
 ▯ teaches how to satisfy ▯ _BIAS _RAKU_ja _2_RAKU_chıeja _ARITY_2	hó	A	2
 ▯ is a teacher _BIAS _RAKU_che _2_RAKU_jache _ARITY_1	hó	I	1
@@ -5122,6 +5123,7 @@ fork of official predicate similar ▯ is similar to ▯ in property ▯ _BIAS _
 ▯ helps ▯ to satisfy property ▯ _BIAS _RAKU_soa _ARITY_3	hó	A	3
 ▯ is an aide assistant _BIAS _RAKU_che _2_RAKU_soache _ARITY_1	hó	I	1
 ▯ cooperate with each other for achieving the task of collectively having property ▯ _BIAS _RAKU_cheo _2_RAKU_soacheo _ARITY_2	hó	A	2
+▯ is a guidebook manual _BIAS _RAKU_dao _2_RAKU_soadao _ARITY_1	hóq	I	1
 ▯ is helpful _BIAS _RAKU_gı _2_RAKU_soagı _ARITY_1	tá	F	1
 ▯ unhelps interfers with hinders ▯ s attempt to satisfy the property ▯ _BIAS _RAKU_gıq _2_RAKU_soagıq _ARITY_3	hó	A	3
 ▯ is a beam ray line extending outwards from a point _BIAS _RAKU_soaı _ARITY_1	hóq	I	1
@@ -5947,6 +5949,7 @@ it is the intention of ▯ that ▯ happen _BIAS _RAKU_shao _2_RAKU_tuashao _ARI
 ▯ is soup _BIAS _RAKU_ze _2_RAKU_tuze _ARITY_1	máq	I	1
 ▯ is soup philosophy _BIAS _RAKU_dıu _2_RAKU_zedıu _ARITY_1	hóq	I	1
 ▯ is a tomato _BIAS _RAKU_zeo _2_RAKU_tuzeo _ARITY_1	máq	I	1
+▯ translates some viossa text even though they re not supposed to _BIAS _RAKU_kı _2_RAKU_uakı _ARITY_1	hó	A	1
 ▯ is of the opposite sex a different sex as ▯ _BIAS _RAKU_heo _2_RAKU_chıheo _ARITY_2	hó	I	2
 ▯ is an opposite sex sibling of ▯ _BIAS _RAKU_pıa _2_RAKU_heopıa _ARITY_2	hó	I	2
 ▯ is of the same sex as ▯ _BIAS _RAKU_jeq _2_RAKU_chıjeq _ARITY_2	hó	I	2
