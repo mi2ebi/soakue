@@ -487,7 +487,10 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
                 return "1j";
             }
         }
-        return "1i";
+        if slot_idx == 1 {
+            return "1i";
+        }
+        return "1x";
     }
 
     if before.ends_with("relation ") || before.ends_with("relationship ") {
@@ -498,7 +501,10 @@ fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
         if slot_idx >= 2 {
             return "2ij";
         }
-        return "2ix";
+        if slot_idx == 1 {
+            return "2ix";
+        }
+        return "2xx";
     }
 
     "c"
@@ -527,40 +533,6 @@ fn guess_distribution(entry: &Toa, n: usize) -> String {
     };
     (0 .. n).map(|i| if i < n_collective { "n" } else { "d" }).collect::<Vec<_>>().join(" ")
 }
-
-const PARTICLE_LABELS: &[&str] = &[
-    "interjection",
-    "vocative",
-    "pronoun",
-    "determiner",
-    "quantifier",
-    "complementizer",
-    "adverb",
-    "conjunction",
-    "connective",
-    "coordinator",
-    "prefix",
-    "suffix",
-    "particle",
-    "sentence connector",
-    "illocution",
-    "cleft",
-    "topic marker",
-    "focus marker",
-    "focus particle",
-    "tense",
-    "aspect",
-    "modal",
-    "modality",
-    "modal aspect",
-    "polarity",
-    "degree",
-    "number",
-    "number component",
-    "unit",
-    "adjunct",
-    "evidential",
-];
 
 // ─── valid label sets
 // ─────────────────────────────────────────────────────────
@@ -818,7 +790,14 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     let mut oov_sum = 0.;
     let mut high_conf_count = 0;
 
-    for toa in dict.iter().filter(|t| !t.has_any_metadata() && !t.warn && t.scope == "en") {
+    for toa in dict.iter().filter(|t| {
+        (t.frame.is_none()
+            || t.distribution.is_none()
+            || t.pronoun.is_none()
+            || t.subject.is_none())
+            && !t.warn
+            && t.scope == "en"
+    }) {
         let n = primary_arity(&toa.body);
         if n.0 == 0 {
             continue;
@@ -846,10 +825,24 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     }
     guesses.sort_by(|a, b| b.5.partial_cmp(&a.5).unwrap_or(std::cmp::Ordering::Equal));
     for (toa, frame, dist, pron, subj, conf_str, oov_str) in guesses {
+        let mut parts = Vec::new();
+        if toa.frame.is_none() {
+            parts.push(format!("({frame})"));
+        }
+        if toa.distribution.is_none() {
+            parts.push(format!("({dist})"));
+        }
+        if toa.pronoun.is_none() {
+            parts.push(pron.clone());
+        }
+        if toa.subject.is_none() {
+            parts.push(subj.clone());
+        }
+        let bracket_content = if parts.is_empty() { continue } else { parts.join(" ") };
         writeln!(
             out,
-            "{} #{} → [({}) ({}) {} {}] conf={}{}\n  {}",
-            toa.head, toa.id, frame, dist, pron, subj, conf_str, oov_str, toa.body
+            "{} #{} → [{}] conf={}{}\n  {}",
+            toa.head, toa.id, bracket_content, conf_str, oov_str, toa.body
         )?;
     }
 
