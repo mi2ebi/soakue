@@ -240,6 +240,14 @@ dd {
   }
   margin-top: 0.2em;
 }
+.type {
+  color: var(--adv);
+  font-weight: 500;
+}
+.gloss {
+  color: var(--gray);
+  font-family: var(--mono);
+}
 @media (prefers-contrast: more) {
   :root {
     --bg: light-dark(#ffffff, #000000);

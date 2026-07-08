@@ -63,7 +63,9 @@ function search(q) {
       "dist",
       "subj",
       "tags",
-      "or"
+        "or",
+        "type",
+        "gloss"
     ];
     if (colon && !operators.includes(operator))
       return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
@@ -109,7 +111,7 @@ function search(q) {
       return {
         err: `<code>${escapeHTML(query.replace(/(?=[ce\d])/g, " "))}</code> isn't a valid frame`
       }
-    if (operator == "pron" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q)?$/.test(query.normalize("NFD")))
+    if (operator == "pron" && !/^(ho\u0301?q?|ta\u0301?|ma\u0301?q|particle|phrase)?$/.test(query.normalize("NFD")))
       return {
         err: `<code>${escapeHTML(query)}</code> isn't a valid pronominal class`
       }
@@ -260,7 +262,13 @@ function search(q) {
           (op == "pron" && entry.pronoun && (value.normalize("NFD").replace(/\u0301/g, "") == entry.pronoun.normalize("NFD").replace(/\u0301/g, "") || !value && entry.pronoun)) ||
           (op == "dist" && entry.distribution && (value == entry.distribution.replace(/ /g, "") || !value && entry.distribution)) ||
           (op == "subj" && entry.subject && (value.toUpperCase() == entry.subject || !value && entry.subject)) ||
-          (["%", "tags"].includes(op) && entry.tags && (value == "" || entry.tags.split(" ").includes(value)))
+                (["%", "tags"].includes(op) && entry.tags && (value == "" || entry.tags.split(" ").includes(value))) ||
+                (op == "type" && entry.type && (
+                    entry.type.toLowerCase().replace(/ /g, "").includes(value.toLowerCase().replace(/ /g, "")) || (!value && entry.type)
+                )) ||
+                (op == "gloss" && entry.gloss && (
+                    entry.gloss.toLowerCase().includes(value.toLowerCase()) || (!value && entry.gloss)
+                ))
         )
           return 0.1;
       });

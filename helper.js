@@ -79,7 +79,14 @@ let htmlify = (json) =>
         ),
       ]),
     ]),
-    mkel("dd", { dir: "ltr" }, replaceLinks(json.body)),
+    mkel("dd", { dir: "ltr" }, [
+        (json.type
+         && !(json.type == "predicate"
+              || json.head.endsWith("-") && json.type == "prefix")
+        ) ? mkel("span", { className: "type" }, [json.type + ": "]) : null,
+        json.gloss ? [mkel("span", { className: "gloss" }, ["‘" + json.gloss + "’"]), " "] : null,
+      ...replaceLinks(json.body),
+    ].flat(Infinity)),
     json.tags ? mkel("div", { className: "tags meta" },
       json.tags.split(" ").flatMap((tag, i) =>
         [i > 0 ? ", " : null, makeLink("%" + tag, tag)]

@@ -472,6 +472,7 @@ that ▯ is the case prevents ▯ from being the case _BIAS _RAKU_boq _ARITY_2	h
 ▯ pertains to the culture of botswana republic of botswana _BIAS _RAKU_na _2_RAKU_suana _ARITY_1 _CAPS	tá	F	1
 ▯ is the country botswana republic of botswana _BIAS _RAKU_gua _2_RAKU_nagua _ARITY_1 _CAPS	máq	I	1
 fork of official predicate lose ▯ loses ▯ _BIAS _RAKU_shaı _2_RAKU_boshaı _ARITY_2	tá	F	2
+▯ is a redox reaction _BIAS _RAKU_sho _2_RAKU_bosho _ARITY_1	máq	I	1
 ▯ wants to possess ▯ _BIAS _RAKU_shao _2_RAKU_boshao _ARITY_2	hó	I	2
 ▯ holds off refrains stops themselves from satisfying ▯ _BIAS _RAKU_ta _2_RAKU_bota _ARITY_2	hó	A	2
 ▯ is vötgil _BIAS _RAKU_zu _2_RAKU_lızu _ARITY_1 _CAPS	hóq	F	1
@@ -1404,6 +1405,7 @@ made happen ▯ is caused made happen by ▯ identical to bo tua _BIAS _RAKU_cı
 ▯ is the frequency distribution of ▯ _BIAS _RAKU_nem _2_RAKU_faınem _ARITY_2	hóq	I	2
 ▯ is a cep penny bun porcino mushroom ▯ is boletus edulis _BIAS _RAKU_lıao _2_RAKU_gaqlıao _ARITY_2	máq	I	2
 ▯ is a sp cortinarius caperatus fungus _BIAS _RAKU_lıao _2_RAKU_chealıao _ARITY_1	máq	I	1
+▯ is a vandal _BIAS _RAKU_raq _2_RAKU_faıraq _ARITY_1	hó	I	1
 ▯ is a robot not necessarily humanoid _BIAS _RAKU_kea _2_RAKU_fakea _ARITY_1	máq	I	1
 ▯ is a motion event towards ▯ _BIAS _RAKU_na _2_RAKU_fana _ARITY_2	hóq	E	2
 ▯ goes to ▯ _BIAS _RAKU_naq _2_RAKU_fanaq _ARITY_2	hó	A	2
@@ -3983,6 +3985,7 @@ the content clause ▯ is true moreover the inner clause contained within its fi
 ▯ is endothermic warm blooded _BIAS _RAKU_bo _2_RAKU_loqbo _ARITY_1	hó	I	1
 ▯ is raw uncooked unprepared _BIAS _RAKU_nıem _ARITY_1	tá	I	1
 ▯ is unskilled at satisfying property ▯ _BIAS _RAKU_nıeq _ARITY_2	hó	I	2
+▯ is unskilled at satisfying property ▯ _BIAS _RAKU_nıeq _ARITY_2	hó	I	2
 ▯ is ▯ s non dominant hand _BIAS _RAKU_muq _2_RAKU_nıeqmuq _ARITY_2	máq	I	2
 ▯ falls into ▯ _BIAS _RAKU_shua _2_RAKU_nıeshua _ARITY_2	tá	I	2
 ▯ puts ▯ inside ▯ _BIAS _RAKU_tua _2_RAKU_nıetua _ARITY_3	hó	A	3
@@ -5794,6 +5797,7 @@ doing ▯ is a way of doing ▯ _BIAS _RAKU_jı _2_RAKU_tajı _ARITY_2	hóq	P	2
 ▯ is a toaqist toaq weeb toaboo _BIAS _RAKU_bu _2_RAKU_toabu _ARITY_1	hó	I	1
 ▯ is at loss for words _BIAS _RAKU_buaq _2_RAKU_toabuaq _ARITY_1	hó	A	1
 there s no toaq word for ▯ _BIAS _RAKU_cıa _2_RAKU_toacıa _ARITY_1	tá	F	1
+▯ is toadua _BIAS _RAKU_dua _2_RAKU_toadua _ARITY_1	máq	I	1
 ▯ is a prefix _BIAS _RAKU_fıa _2_RAKU_toafıa _ARITY_1	hóq	I	1
 ▯ is a line of text _BIAS _RAKU_gıu _2_RAKU_toagıu _ARITY_1	hóq	I	1
 ▯ is a slogan motto _BIAS _RAKU_shı _2_RAKU_gıushı _ARITY_1	hóq	I	1

@@ -51,7 +51,7 @@ pub fn main() {
 
     println!(
         "{:.02}% of entries have fancy metadata!",
-        dict.iter().filter(|t| t.has_metadata()).count() as f64 / dict.len() as f64 * 100.
+        dict.iter().filter(|t| t.has_all_metadata()).count() as f64 / dict.len() as f64 * 100.
     );
     println!(
         "{:.02}% of entries have tags!",

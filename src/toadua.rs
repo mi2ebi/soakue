@@ -119,10 +119,24 @@ impl Toa {
             .collect_vec();
     }
 
-    pub fn has_metadata(&self) -> bool {
-        [self.frame.clone(), self.pronoun.clone(), self.distribution.clone(), self.subject.clone()]
-            .iter()
-            .any(Option::is_some)
+    pub fn has_all_metadata(&self) -> bool {
+        self.typ.is_some()
+            && self.gloss.is_some()
+            && (self.typ.as_deref() != Some("predicate")
+                && (self.head.ends_with('-') || !self.body.contains('\u{25af}'))
+                || self.frame.is_some()
+                    && self.distribution.is_some()
+                    && self.pronoun.is_some()
+                    && self.subject.is_some())
+    }
+
+    pub const fn has_any_metadata(&self) -> bool {
+        self.frame.is_some()
+            || self.distribution.is_some()
+            || self.pronoun.is_some()
+            || self.subject.is_some()
+            || self.typ.is_some()
+            || self.gloss.is_some()
     }
 
     pub fn fixup_metadata(&mut self) {
@@ -141,7 +155,7 @@ impl Toa {
             println!("{} #{} has bad metadata:\n{self}", self.head, self.id);
         }
         if let Some(pronoun) = &self.pronoun
-            && !["ho", "maq", "hoq", "ta", "raı", "particle", "phrase"].contains(&pronoun.as_str())
+            && !["ho", "maq", "hoq", "ta", "raı"].contains(&pronoun.as_str())
         {
             println!("{} #{} has pronoun \"{}\", removing", self.head, self.id, pronoun);
             self.pronoun = None;
@@ -262,7 +276,7 @@ impl Display for Toa {
             f,
             "{}{head}{} @{user} {} #{id} ${scope} {}{}\n{}{}{body}{}",
             if warn { "⚠ " } else { "" },
-            if self.has_metadata() {
+            if self.has_all_metadata() {
                 format!(
                     " [{}{}{}{}]",
                     frame.clone().map_or_else(String::new, |f| format!("({f})")),

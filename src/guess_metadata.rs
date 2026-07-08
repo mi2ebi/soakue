@@ -562,25 +562,6 @@ const PARTICLE_LABELS: &[&str] = &[
     "evidential",
 ];
 
-fn guess_particle_or_phrase(toa: &Toa) -> Option<&'static str> {
-    if toa.body.contains('▯') {
-        return None;
-    }
-    let b = toa.body.to_lowercase();
-    if let colon = b.find(':').unwrap_or(b.len())
-        && !toa.head.contains(' ')
-    {
-        let label = b[.. colon].trim();
-        if PARTICLE_LABELS.iter().any(|p| label.contains(p)) {
-            return Some("particle");
-        }
-    }
-    if toa.head.ends_with('-') || toa.head.starts_with('-') {
-        return Some("particle");
-    }
-    Some("phrase")
-}
-
 // ─── valid label sets
 // ─────────────────────────────────────────────────────────
 
@@ -615,7 +596,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     let annotated: Vec<&Toa> = dict
         .iter()
         .filter(|t| {
-            t.has_metadata()
+            t.has_any_metadata()
                 && primary_arity(&t.body).0 > 0
                 && t.pronoun.as_deref().is_some_and(is_valid_pronoun)
                 && t.subject.as_deref().is_some_and(is_valid_subject)
@@ -693,8 +674,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     let mut ok_frame = 0;
     let mut n_dist = 0;
     let mut ok_dist = 0;
-    let mut n_pp = 0;
-    let mut ok_pp = 0;
 
     let mut mismatches: Vec<Mismatch> = Vec::new();
 
@@ -772,24 +751,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         }
     }
 
-    // ── particle/phrase mismatch pass ────────────────────────────────────
-    let mut pp_mismatches: Vec<String> = Vec::new();
-    for toa in dict.iter().filter(|t| {
-        matches!(t.pronoun.as_deref(), Some("particle" | "phrase")) && primary_arity(&t.body).0 == 0
-    }) {
-        let actual = toa.pronoun.as_deref().unwrap();
-        let guessed = guess_particle_or_phrase(toa).unwrap_or("?");
-        n_pp += 1;
-        if guessed == actual {
-            ok_pp += 1;
-        } else {
-            pp_mismatches.push(format!(
-                "✗ {} #{}\n  actual:  [{actual}]\n  guessed: [{guessed}]",
-                toa.head, toa.id
-            ));
-        }
-    }
-
     // Sort: High confidence errors first (likely annotation typos)
     mismatches.sort_by(|a, b| b.max_ml_conf.partial_cmp(&a.max_ml_conf).unwrap());
 
@@ -806,7 +767,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     writeln!(out, "=== ACCURACY (n={}) ===", cv_examples.len())?;
     writeln!(out, "  frame:           {:.1}% (heuristic, training data)", pct(ok_frame, n_frame))?;
     writeln!(out, "  distribution:    {:.1}% (heuristic, training data)", pct(ok_dist, n_dist))?;
-    writeln!(out, "  particle/phrase: {:.1}% (heuristic, training data)", pct(ok_pp, n_pp))?;
     writeln!(out, "  pronoun:         {:4.1}% (10-fold CV)", cv.pron_acc * 100.)?;
     let mut pron_classes: Vec<_> = cv.pron_per_class.iter().collect();
     pron_classes.sort_by_key(|(k, _)| k.as_str());
@@ -846,13 +806,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     }
     writeln!(out)?;
 
-    writeln!(out, "=== PARTICLE/PHRASE MISMATCHES ({}) ===", pp_mismatches.len())?;
-    writeln!(out)?;
-    for m in &pp_mismatches {
-        writeln!(out, "{m}")?;
-    }
-    writeln!(out)?;
-
     // ── guess pass ────────────────────────────────────────────────────────
     writeln!(out, "=== GUESSES FOR UNANNOTATED ENTRIES ===")?;
     writeln!(out, "  conf = calibrated pronoun accuracy estimate")?;
@@ -860,19 +813,14 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     writeln!(out)?;
 
     let mut guesses = vec![];
-    let mut n_guessed @ mut n_particle_phrase = 0;
+    let mut n_guessed = 0;
     let mut confidence_sum = 0.;
     let mut oov_sum = 0.;
     let mut high_conf_count = 0;
 
-    for toa in dict.iter().filter(|t| !t.has_metadata() && !t.warn && t.scope == "en") {
+    for toa in dict.iter().filter(|t| !t.has_any_metadata() && !t.warn && t.scope == "en") {
         let n = primary_arity(&toa.body);
         if n.0 == 0 {
-            if let Some(pronoun) = guess_particle_or_phrase(toa) {
-                n_guessed += 1;
-                n_particle_phrase += 1;
-                writeln!(out, "{} #{} → [{pronoun}]", toa.head, toa.id)?;
-            }
             continue;
         }
         let frame = guess_frame(n.1, n.0);
@@ -915,7 +863,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     )?;
     writeln!(out, "  mean oov rate:                {:.1}%", 100. * oov_sum / f64::from(n_guessed))?;
     writeln!(out, "  high-confidence (cal≥80%):    {high_conf_count}")?;
-    writeln!(out, "  particle/phrase guesses:      {n_particle_phrase}")?;
 
     println!("data/guesses.txt: {total} annotated checked, {n_guessed} unannotated guessed");
     println!(
