@@ -80,10 +80,7 @@ let htmlify = (json) =>
       ]),
     ]),
     mkel("dd", { dir: "ltr" }, [
-        (json.type
-         && !(json.type == "predicate"
-              || json.head.endsWith("-") && json.type == "prefix")
-        ) ? mkel("span", { className: "type" }, [json.type + ": "]) : null,
+        json.type ? mkel("span", { className: "type" }, [json.type + ": "]) : null,
         json.gloss ? [mkel("span", { className: "gloss" }, ["‘" + json.gloss + "’"]), " "] : null,
       ...replaceLinks(json.body),
     ].flat(Infinity)),
