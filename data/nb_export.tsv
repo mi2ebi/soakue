@@ -1397,7 +1397,9 @@ made happen ▯ is caused made happen by ▯ identical to bo tua _BIAS _RAKU_cı
 ▯ is a cinema movie theater _BIAS _RAKU_jıo _2_RAKU_fuaqjıo _ARITY_1	máq	I	1
 ▯ is a film camera _BIAS _RAKU_kea _2_RAKU_fuaqkea _ARITY_1	máq	I	1
 ▯ frequently often satisfies property ▯ _BIAS _RAKU_faı _ARITY_2	tá	F	2
+▯ is usually good and the fact that it satisfies property ▯ is no exception _BIAS _RAKU_gı _2_RAKU_faıgı _ARITY_2	tá	F	2
 ▯ is a fly agaric amanita muscaria _BIAS _RAKU_lıao _2_RAKU_sholıao _ARITY_1	máq	I	1
+▯ is usually bad and the fact that it satisfies property ▯ is no exception _BIAS _RAKU_huı _2_RAKU_faıhuı _ARITY_2	tá	F	2
 ▯ is a common button white champignon chestnut mushroom agaricus bisporus _BIAS _RAKU_lıao _2_RAKU_faılıao _ARITY_1	máq	I	1
 ▯ is a file path of file ▯ _BIAS _RAKU_chıu _2_RAKU_luchıu _ARITY_2	hóq	F	2
 ▯ is a filename of file ▯ _BIAS _RAKU_chua _2_RAKU_luchua _ARITY_2	hóq	I	2
@@ -2447,11 +2449,9 @@ it s ▯ out of the salient options which is what satisfies property ▯ _BIAS _
 ▯ deems judges finds ▯ to be the case _BIAS _RAKU_jıe _ARITY_2	hó	I	2
 ▯ is as ▯ deems judges evaluates things to be _BIAS _RAKU_jıe _ARITY_2	hóq	P	2
 ▯ is a jury _BIAS _RAKU_jıem _ARITY_1	hó	I	1
-according to a credible source ▯ is the case but i cannot remember the source _BIAS _RAKU_na _2_RAKU_jıena _ARITY_1	hóq	P	1
 ▯ is a tip pointed end _BIAS _RAKU_jıeq _ARITY_1	máq	I	1
 ▯ panics experiences a panic attack _BIAS _RAKU_feao _2_RAKU_jıeqfeao _ARITY_1	hó	I	1
 ▯ is an arrow _BIAS _RAKU_sha _2_RAKU_jıeqsha _ARITY_1	máq	I	1
-according to my past self who i consider to be a credible source ▯ is the case but i cannot remember the reasoning or evidence by which i originally concluded such _BIAS _RAKU_na _2_RAKU_jıena _ARITY_1	hóq	P	1
 ▯ is the world wide web ▯ is the internet _BIAS _RAKU_ko _2_RAKU_jıko _ARITY_1	hóq	I	1
 ▯ is theology _BIAS _RAKU_dıu _2_RAKU_laodıu _ARITY_1	hóq	I	1
 ▯ lasts for a short amount of time is brief _BIAS _RAKU_jım _ARITY_1	hóq	E	1
@@ -3170,6 +3170,7 @@ for the first time in ▯ duration it happens that ▯ is the case _BIAS _RAKU_h
 ▯ sonically suit one another would create a pleasant or desirable effect in appearing together _BIAS _RAKU_tıao _2_RAKU_laqtıao _ARITY_1	tá	I	1
 ▯ emits a sound resonates rings _BIAS _RAKU_zıa _2_RAKU_laqzıa _ARITY_1	tá	I	1
 ▯ are bay leaves laurel leaves herb spice _BIAS _RAKU_ra _2_RAKU_lara _ARITY_1	máq	I	1
+▯ is an abstract object encoding property ▯ _BIAS _RAKU_raı _2_RAKU_laraı _ARITY_2	hóq	I	2
 ▯ curls up twists crumples up _BIAS _RAKU_sa _2_RAKU_lasa _ARITY_1	tá	I	1
 ▯ is a laser ray _BIAS _RAKU_soaı _2_RAKU_lasoaı _ARITY_1	máq	I	1
 ▯ is heraldry _BIAS _RAKU_dıu _2_RAKU_soqdıu _ARITY_1	hóq	I	1
@@ -3195,6 +3196,8 @@ each two consecutive things among ▯ satisfy relation ▯ _BIAS _RAKU_cheo _2_R
 ▯ is the country lebanon lebanese republic _BIAS _RAKU_gua _2_RAKU_baqgua _ARITY_1 _CAPS	máq	I	1
 ▯ seldom infrequently satisfies property ▯ _BIAS _RAKU_leı _ARITY_2	tá	F	2
 ▯ has special permission is exceptionally allowed to ▯ _BIAS _RAKU_dı _2_RAKU_leıdı _ARITY_2	hó	I	2
+▯ is bad at most things but surprisingly good in that it satisfies property ▯ _BIAS _RAKU_gı _2_RAKU_leıgı _ARITY_2	tá	F	2
+▯ is good at most things but surprisingly bad in that it satisfies property ▯ _BIAS _RAKU_huı _2_RAKU_leıhuı _ARITY_2	tá	F	2
 ▯ is a proposition supported by evidence ▯ proposition _BIAS _RAKU_kuı _2_RAKU_lekuı _ARITY_2	hóq	P	2
 ▯ features demonstrates characteristic property trait ▯ property place _BIAS _RAKU_bo _2_RAKU_lembo _ARITY_2	tá	F	2
 ▯ is an age a period of time characterized by ▯ _BIAS _RAKU_daq _2_RAKU_lemdaq _ARITY_2	hóq	I	2
@@ -4816,6 +4819,7 @@ i heard that according to hearsays ▯ is the case _BIAS _RAKU_jı _2_RAKU_duaj�
 ▯ is sincere honest _BIAS _RAKU_gı _2_RAKU_ruaqgı _ARITY_1	hó	I	1
 ▯ has a vivid saturated floral color _BIAS _RAKU_reo _2_RAKU_ruareo _ARITY_1	máq	I	1
 ▯ is a hummingbird _BIAS _RAKU_shuao _2_RAKU_ruashuao _ARITY_1	hó	I	1
+▯ is rubidium _BIAS _RAKU_dıum _2_RAKU_bıdıum _ARITY_1	máq	I	1
 ▯ is confucian being a confucianist or relating to confucianists or confucianism _BIAS _RAKU_chıa _2_RAKU_ruchıa _ARITY_1	tá	F	1
 ▯ is a bramble _BIAS _RAKU_do _2_RAKU_rudo _ARITY_1	máq	I	1
 ▯ is a member of genus rubus including the raspberries blackberries dewberries and other plants _BIAS _RAKU_do _2_RAKU_rudo _ARITY_1	máq	I	1

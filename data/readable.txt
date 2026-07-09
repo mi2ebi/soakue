@@ -4211,8 +4211,8 @@ bıoıdıao @uakci 2024-07-28 #gia69vmuN $en +1
 [t]predicate: ▯ is “the last straw”.
   uakci (2024-07-28): metaphrase from the polish equivalent of ‘the straw that broke the camel’s back’, i.e., ‘the goblet of bitterness runs over’ (although in the case of the polish idiom, there is no ‘droplet’ to speak of, just the act of ‘spilling over’)
 
-bıoıgıo @Dembim 2026-01-28 #JSoRnlTPS $en ±
-[t]predicate: ▯ is the glow that surrounds a relatively bright source of light as seen through a scattering medium
+bıoıgıo [(c) (d) máq I] @Dembim 2026-01-28 #JSoRnlTPS $en ±
+[t]predicate: [g]‘halo’; ▯ is the glow that surrounds a relatively bright source of light as seen through a scattering medium
   Dembim (2026-01-28): halo, glare, bloom
   Dembim (2026-01-28): Frame: c
   Dembim (2026-01-28): Pronominal_class: maq
@@ -7869,8 +7869,8 @@ cemzıamla @seaqtaq 2025-06-18 #awZqjXB8t $en ±
 [t]predicate: ▯ commits action ▯, which every or nearly every other case in which they have been in a similar context have not have done, and normally would not do
   seaqtaq (2025-06-18): kw: zakaı
 
-cenhe @Dembim 2026-01-30 #y5liL0pTg $en ±
-[t]pseudo unit: portion; expected/appropriate amount
+cenhe [] @Dembim 2026-01-30 #y5liL0pTg $en ±
+[t]pseudo unit: [g]‘portion’; portion; expected/appropriate amount
   Dembim (2026-01-30): In principle, <shí> <cenhe> <nao> just means <shí> <nao>, but places special emphasis on the fact that the unit is to be understood in the present context.
   Dembim (2026-01-30): "portion" is probably the best gloss
 
@@ -9835,8 +9835,8 @@ cupısaı @jiqci 2023-03-11 #cd-qW5Pd_ $en ±
 cuq @uakci 2022-11-28 #5XwM9StZs $en +3
 [t]predicate: ▯ leaves/departs from satisfying property ▯.
 
-cuqceo @Dembim 2025-12-31 #QICpa_8q1 $en ±
-[t]predicate: ▯ has its natural start, begins at the time and in the way one would expect
+cuqceo [(0) (d) hóq E] @Dembim 2025-12-31 #QICpa_8q1 $en ±
+[t]predicate: [g]‘begin’; ▯ has its natural start, begins at the time and in the way one would expect
   Dembim (2026-01-09): Frame: 0
   Dembim (2026-01-28): Pronominal_class: hoq
   Dembim (2026-02-12): Subject: event
@@ -12612,8 +12612,8 @@ choıceaq @Ilmen 2018-10-27 #wuj9yHQ1i $en +1 %body_part
 choıceaqjo @Machy 2021-10-14 #vbfMSolDe $en ±
 [t]predicate: ▯ is a paw(clawed quadruped foot)
 
-choıceha @Dembim 2026-01-26 #2CdR4XhYK $en ±
-[t]predicate: ▯ is "diamond dust"/"ice crystals", a cloud of tiny ice crystals formed at ground level
+choıceha [(c) (d) máq I] @Dembim 2026-01-26 #2CdR4XhYK $en ±
+[t]predicate: [g]‘diamond.dust’; ▯ is "diamond dust"/"ice crystals", a cloud of tiny ice crystals formed at ground level
   Dembim (2026-01-26): Frame: c
   Dembim (2026-01-26): Pronominal_class: maq
   Dembim (2026-01-26): Etymology: <choı> + <ceha>, loosely inspired by Russian "ice needles" (Ледяные иглы)
@@ -14669,8 +14669,8 @@ daonoa @uakci 2020-02-08 #xqHQlXCCu $en ±
 daonhuo @uakci 2021-11-07 #iXY9DPpnb $en ±
 [t]predicate: ▯ is a spreadsheet of data ▯.
 
-daonhuo @Dembim 2026-02-08 #v-JYVaJN_ $en ±
-[t]predicate: ▯ is a data table (or spreadsheet)
+daonhuo [(c) (d) hóq I] @Dembim 2026-02-08 #v-JYVaJN_ $en ±
+[t]predicate: [g]‘spreadsheet’; ▯ is a data table (or spreadsheet)
   Dembim (2026-02-08): Frame: c
   Dembim (2026-02-08): Pronominal_class: hoq
   Dembim (2026-02-08): Discriminator: 2
@@ -19547,6 +19547,10 @@ faıdu @uakci 2019-01-16 #FHGSL8xTk $en ±
 faıfaı @robintown 2023-11-02 #Xh89005Jk $en ±
 [t]predicate: ▯ satsifies property ▯ all the time.
 
+faıgı [(c 1i) (n d) tá F] @evie 2026-07-08 #TvA3okrHi $en +1
+[t]predicate: [g]‘common.W’; ▯ is usually good, and the fact that it satisfies property ▯ is no exception
+  evie (2026-07-08): kw: common W
+
 faıgodeoq @Ilmen 2019-02-03 #0GZsXSoTf $en -1
 [t]predicate: ▯ is barley (Hordeum vulgare).
 
@@ -19558,6 +19562,10 @@ faıhuaq @uakci 2022-08-04 #u3AsJmojv $en ±
 
 faıhuaq @seaqtaq 2025-04-19 #lNGqCZrAi $en ±
 [t]predicate: ▯ happens more often than ▯
+
+faıhuı [(c 1i) (n d) tá F] @evie 2026-07-08 #nFKq-Yao4 $en +1
+[t]predicate: [g]‘common.L’; ▯ is usually bad, and the fact that it satisfies property ▯ is no exception
+  evie (2026-07-08): kw: common L
 
 faıjı @uakci 2019-01-16 #f-ZFpEywM $en ±
 [t]predicate: ▯ is the earliest element of ▯ that satisfies the property ▯.
@@ -20179,11 +20187,11 @@ fea @robintown 2024-09-07 #TWsvf5TYp $en +2
 [t]predicate: ▯ endures/withstands ▯.
   robintown (2024-09-07): keywords: weathers, bears
 
-fea [(c c 1i) (d d) tá I] @official 2026-07-07 #QJuAjTppJFm_ $en ±
-[t]predicate: [g]‘endure’; ▯ endures satisfying property ▯ keeping up property ▯.
-
 fea @jiqci 2023-07-31 #aP7qppMmX $pl ±
 [t]predicate: ▯ wytrzymuje spełnianie własności ▯ spełniając własność ▯.
+
+fea [(c c 1i) (d d) tá I] @official 2026-07-07 #QJuAjTppJFm_ $en -1
+[t]predicate: [g]‘endure’; ▯ endures satisfying property ▯ keeping up property ▯.
 
 feabeo @seaqtaq 2024-10-02 #QZM3ctndr $en +1
 [t]predicate: ▯ adapts to survive/be able to endure having property ▯
@@ -23439,14 +23447,14 @@ genome @uakci 2022-04-15 #aC9dMbWQx $en ±
 genomedıu @mimiaoganhaqpy 2022-08-16 #CRB5RBmZ2 $en ±
 [t]predicate: ▯ is the study of genetics.
 
-genua @Dembim 2026-02-01 #vCNChJ50i $en ±
-[t]predicate: ▯ shaves/trims/clips ▯, removing material from the surface
+genua [(c c) (d d) hó A] @Dembim 2026-02-01 #vCNChJ50i $en ±
+[t]predicate: [g]‘trim’; ▯ shaves/trims/clips ▯, removing material from the surface
   Dembim (2026-02-01): Frame: c c
   Dembim (2026-02-01): Pronominal_class: ho
   Dembim (2026-02-01): Etymology: <ge-> + <nua>
 
-genuase @Dembim 2026-02-01 #midOCJKAk $en ±
-[t]predicate: ▯ is shavings/slivers/peelings
+genuase [(c) (d) máq I] @Dembim 2026-02-01 #midOCJKAk $en ±
+[t]predicate: [g]‘trimmings’; ▯ is shavings/slivers/peelings
   Dembim (2026-02-01): Frame: c
   Dembim (2026-02-01): Pronominal_class: maq
 
@@ -27977,8 +27985,8 @@ hane @kazoo 2024-12-04 #AScdKZBzU $en ±
 [t]speech act: referencing a previous event/thing, "remember when..."
   kazoo (2024-12-04): this word is a cognate of *hanı*. both come from turkish "hani" which can function as both.
 
-hanı @kazoo 2024-11-27 #kNQBFmDtJ $en +2
-[t]interjection: reminding someone they've forgotten something or to prompt them about a task or duty they're neglecting.
+hanı [] @kazoo 2024-11-27 #kNQBFmDtJ $en +2
+[t]interjection: [g]‘poke’; reminding someone they've forgotten something or to prompt them about a task or duty they're neglecting.
   kazoo (2024-11-27): 'aren't you missing something?' 'weren't you supposed to be doing something right now?'
   Dembim (2026-06-27): poke; bonk
 
@@ -28434,8 +28442,8 @@ haqsıa @uakci 2022-06-18 #xzBbuh6Xl $en ±
 haqsue @seaqtaq 2019-12-27 #tHXa4ZKcA $en +1
 [t]predicate: ▯ orders/requests dish ▯
 
-haqsupu @Dembim 2026-01-29 #-3_TfRe7v $en ±
-[t]volume unit: tablespoon
+haqsupu [] @Dembim 2026-01-29 #-3_TfRe7v $en ±
+[t]volume unit: [g]‘tbsp’; tablespoon
   Dembim (2026-01-29): See note under <nhebıo>
   Dembim (2026-01-30): <coehaqsupu>, <usohaqsupu>, <fuıhaqsupu>, <ozıhaqsupu>
 
@@ -36306,7 +36314,7 @@ jıemıajoe @uakci 2020-03-07 #vZ9M4K-YS $en ±
 [t]predicate: ▯ is a professional at ▯.
 
 jıena @Dembim 2026-01-28 #UCK9yBzpu $en ±
-[t]predicate: according to a credible source, ▯ is the case, but I cannot remember the source
+[t]evidentiality: according to a credible source, ...
   Dembim (2026-01-29): Frame: 0
   Dembim (2026-01-29): Pronominal_class: hoq
   Dembim (2026-01-29): evidential
@@ -36447,7 +36455,7 @@ jıjıe @Laqme 2019-02-20 #o14fTIn40 $en ±
 [t]predicate: ▯ is how I deem/judge things to be / is my opinion.
 
 jıjıena @Dembim 2026-01-28 #x4NWBjWSl $en ±
-[t]predicate: according to my past self, who I consider to be a credible source, ▯ is the case, but I cannot remember the reasoning or evidence by which I originally concluded such
+[t]evidentiality: according to my past self, who I consider to be a credible source, ... is the case, but I don't recall the reasoning or evidence by which I originally concluded such
   Dembim (2026-01-29): Frame: 0
   Dembim (2026-01-29): Pronominal_class: hoq
   Dembim (2026-01-29): evidential
@@ -36892,8 +36900,8 @@ jıqcı @fagri 2018-11-09 #_Rw13-TFE $en ±
   jiqci (2025-08-05): hi
   Dembim (2025-11-15): also "unalienable" (to help out search)
 
-jıqcı @Dembim 2026-01-27 #SrfV4z1D5 $en ±
-[t]predicate: to ▯, ▯ (property) is inherent/inalienable
+jıqcı [(c 1i) (d d) tá I] @Dembim 2026-01-27 #SrfV4z1D5 $en ±
+[t]predicate: [g]‘inalienable’; to ▯, ▯ (property) is inherent/inalienable
   Dembim (2026-01-27): Frame: c 1i
   Dembim (2026-01-27): Pronominal_class: ta
   Dembim (2026-01-27): Swapped slot order of <@fagri jiqci>
@@ -39138,8 +39146,8 @@ juoızaq @uakci 2023-03-05 #Uq2Drgiwr $en ±
 juojıo @Ilmen 2020-06-06 #ggUce16-n $en ±
 [t]predicate: ▯ is a post office.
 
-juola @Dembim 2026-02-06 #CDaKuzgX- $en ±
-[t]predicate: ▯ sends/leaves message ▯
+juola [(c c) (d d) hó A] @Dembim 2026-02-06 #CDaKuzgX- $en ±
+[t]predicate: [g]‘send’; ▯ sends/leaves message ▯
   Dembim (2026-02-06): Frame: c c
   Dembim (2026-02-06): Pronominal_class: ho
   Dembim (2026-02-06): Use <zuonhûq> or <côm> or another preposition for the recipient. Use <nhôe>, <îaı pam>, etc for the medium.
@@ -44657,8 +44665,8 @@ kueqdute @Ilmen 2026-01-18 #FDRSo6Us9 $en ±
 kueqgıq @uakci 2020-03-01 #3-gXC-Qmp $en ±
 [t]predicate: ▯ disperse / distribute (themselves) away from locus ▯.
 
-kueqgo @Dembim 2026-01-27 #RevSTDlq6 $en ±
-[t]predicate: ▯ is a collecting/focusing element
+kueqgo [(c) (d) máq I] @Dembim 2026-01-27 #RevSTDlq6 $en ±
+[t]predicate: [g]‘focus.element’; ▯ is a collecting/focusing element
   Dembim (2026-01-27): perhaps a lens or a funnel, something for taking a relatively broad mass and bringing it together
   Dembim (2026-01-27): Frame: c
   Dembim (2026-01-27): Pronominal_class: maq
@@ -45070,8 +45078,8 @@ kunemaı @Machy 2021-09-01 #8AltgT5AR $en ±
 kunemuse @Ilmen 2019-04-10 #IzXy55_Er $en ± %lifeform,animal,vertebrate,mammal
 [t]predicate: ▯ is a prairie dog.
 
-kunesıu @Dembim 2026-01-27 #Ul5eJ5zB8 $en ±
-[t]predicate: ▯ is a Canidae
+kunesıu [(c) (d) hó I] @Dembim 2026-01-27 #Ul5eJ5zB8 $en ±
+[t]predicate: [g]‘canid’; ▯ is a Canidae
   Dembim (2026-01-27): Frame: c
   Dembim (2026-01-27): Pronominal_class: ho
   Dembim (2026-02-13): Subject: individual
@@ -46670,8 +46678,8 @@ lara @lassc 2023-10-31 #_XzCkgdEg $en +1
 [t]predicate: ▯ are bay leaves/laurel leaves (herb/spice).
   Dembim (2026-02-01): leaf
 
-laraı @Dembim 2026-01-21 #iqF_qI6IX $en ±
-[t]predicate: ▯ is an abstract object "encoding" property ▯
+laraı [(c 1x) (d d) hóq I] @Dembim 2026-01-21 #iqF_qI6IX $en ±
+[t]predicate: [g]‘encode’; ▯ is an abstract object "encoding" property ▯
   Dembim (2026-01-21): Frame: c 1
   Dembim (2026-01-21): Pronominal_class: hoq
   Dembim (2026-01-21): "encoding" in the sense of dual-copula attempts to resolve non-existing objects
@@ -47003,15 +47011,16 @@ leıdı @ijonetun 2023-01-06 #e1L69bg6- $tok ±
 leıfuıdua @uakci 2023-02-24 #RRn1LmNXx $en ±
 [t]predicate: ▯ finds it obvious that ▯ is the case, which is not generally so obvious for others.
 
-leıgı @evie 2026-07-06 #9cAtCKIgY $en +1
-[t]predicate: ▯ is bad at most things, but surprisingly good in that it satisfies property ▯
+leıgı [(c 1i) (n d) tá F] @evie 2026-07-06 #9cAtCKIgY $en +1
+[t]predicate: [g]‘rare.W’; ▯ is bad at most things, but surprisingly good in that it satisfies property ▯
   evie (2026-07-06): **tı-**leıgı “▯ is a rare ▯ W”
 
 leıguqmuı @uakci 2020-03-11 #UG5-Yl9Dr $en ±
 [t]predicate: ▯ is an overinterpretation of ▯; ▯ is a meaning of ▯ so abstract that it's improbable that it could have been meant.
 
-leıhuı @evie 2026-07-06 #XUuwixoaJ $en ±
-[t]predicate: ▯ is good at most things, but surprisingly bad in that it satisfies property ▯
+leıhuı [(c 1i) (n d) tá F] @evie 2026-07-06 #XUuwixoaJ $en +1
+[t]predicate: [g]‘rare.L’; ▯ is good at most things, but surprisingly bad in that it satisfies property ▯
+  evie (2026-07-08): kw: rare L
 
 leıko @Laqme 2025-05-28 #9qrXSxnUV $en +1
 [t]predicate: ▯ is kinky / not vanilla.
@@ -47985,6 +47994,7 @@ lıluhoajajuao @ykulvaarlck 2020-06-09 #9N7NqSaW3 $en -1
 lılulılululı @Machy 2022-04-30 #DQmsuB6uu $en -1
 [t]predicate: the property ▯ is in relation ▯ with property ▯ for acting towards relation ▯ with relation ▯.
   Machy (2022-04-30): Tags: "Experimental grammar"
+  evie (2026-07-08): why...
 
 lım @Laqme 2022-12-13 #0BMdwgLCX $en +1
 [t]predicate: ▯ understands ▯.
@@ -51062,8 +51072,8 @@ Makabanımoa @salarua 2023-12-18 #wQWvXjTlK $en ±
 makaka @Hoemai 2019-02-26 #Rzj79Sh5N $en ±
 [t]predicate: ▯ is a member of genus Macaca (the macaques).
 
-makam @Dembim 2026-02-12 #kaVaBp6YX $en ±
-[t]predicate: ▯ is tamarind fruit
+makam [(c) (d) máq I] @Dembim 2026-02-12 #kaVaBp6YX $en ±
+[t]predicate: [g]‘tamarind’; ▯ is tamarind fruit
   Dembim (2026-02-12): Frame: c
   Dembim (2026-02-12): Pronominal_class: maq
   Dembim (2026-02-12): Subject: individual
@@ -51244,8 +51254,8 @@ mamutu @Hoemai 2019-04-03 #EqQj2B9CR $en ±
 mana @robintown 2021-08-01 #E76cR9DN6 $en +2
 [t]predicate: ▯ is mana (magical energy).
 
-manakueqgo @Dembim 2026-01-27 #JTr7GHFRa $en ±
-[t]predicate: ▯ is an arcane focus
+manakueqgo [(c) (d) máq I] @Dembim 2026-01-27 #JTr7GHFRa $en ±
+[t]predicate: [g]‘arcane.focus’; ▯ is an arcane focus
   Dembim (2026-01-27): Frame: c
   Dembim (2026-01-27): Pronominal_class: maq
   Dembim (2026-01-27): any implement for focusing one's magical power
@@ -52044,8 +52054,8 @@ mego @evie 2024-07-24 #PtexDUH-5 $en +1
 megua @Laqme 2024-06-15 #ef5vj5JbN $en +1
 [t]predicate: ▯ is an empire / federation / federal union.
 
-mehaq @Dembim 2026-01-27 #NqhvGMG-g $en ±
-[t]predicate: ▯ is a casserole (baked aggregate food)
+mehaq [(c) (d) máq I] @Dembim 2026-01-27 #NqhvGMG-g $en ±
+[t]predicate: [g]‘casserole’; ▯ is a casserole (baked aggregate food)
   Dembim (2026-01-27): Lasagna, macaroni and cheese, American goulash, flying Jacob, timballo, shepherd's pie
   Dembim (2026-01-27): Frame: c
   Dembim (2026-01-27): Pronominal_class: maq
@@ -59249,8 +59259,8 @@ nınuaq @jiqci 2023-07-31 #2qEMnauuhD $pl ± %deixis,time
 nínuaq @robintown 2023-10-17 #e6ZnIfOzL $en ±
 [t]pronoun: tonight
 
-nınhoe @Dembim 2026-01-31 #cIvFhIiVO $en ±
-[t]predicate: ▯ is "here" in this medium
+nınhoe [(c) (d) tá F] @Dembim 2026-01-31 #cIvFhIiVO $en ±
+[t]predicate: [g]‘here’; ▯ is "here" in this medium
   Dembim (2026-01-31): Frame: c
   Dembim (2026-01-31): Pronominal_class: ta
   Dembim (2026-01-31): For example, "I think someone posted a cat video here yesterday", written in a chat room, could be « Chı jı́, ꝡá do sá poq sá bıdeo bâq kato râo púchaq nı̂nhoe da. »
@@ -60070,8 +60080,8 @@ noaınua @Ilmen 2019-11-15 #6riici0zU $en ± %action
 noaınulı @Laqme 2022-02-08 #W5hbcDOw2 $en +1 %food
 [t]predicate: ▯ is butter.
 
-noaıpıpa @Dembim 2026-02-03 #jWEQTNMzu $en ±
-[t]predicate: ▯ is white pepper
+noaıpıpa [(c) (d) máq I] @Dembim 2026-02-03 #jWEQTNMzu $en +1
+[t]predicate: [g]‘white.pepper’; ▯ is white pepper
   Dembim (2026-02-03): So called for a) its own white color and relatedly b) its use in milky dishes to avoid spoiling the color with black pepper
   Dembim (2026-02-03): Frame: c
   Dembim (2026-02-03): Pronominal_class: maq
@@ -60600,8 +60610,8 @@ noqzaosu @seaqtaq 2023-03-08 #L2zfrXBdS $en ±
 [t]predicate: ▯ is one's olfactory "voice"
   seaqtaq (2023-03-08): seaqtaqUsed to distinguish an exact olfactory pattern unique to an individual when using an olfactory language/communicative system. Potential use cases are distinguishing ants or other perhaps xeno-creatures that use pheromones/olfactory signals to communicate. This is the olfactory analogue to "voice"
 
-noqze @Dembim 2026-02-01 #_4h5sc8K6 $en ±
-[t]predicate: ▯ is a stock/broth
+noqze [(c) (d) máq I] @Dembim 2026-02-01 #_4h5sc8K6 $en ±
+[t]predicate: [g]‘broth’; ▯ is a stock/broth
   Dembim (2026-02-01): Frame: c
   Dembim (2026-02-01): Pronominal_class: maq
   Ilmen (2026-02-02): discriminator: 2
@@ -71295,7 +71305,7 @@ ruashuaq @Ilmen 2020-03-10 #I-DTyEPRR $en ±
 rubı @Laqme 2022-05-10 #VuBc_ddmd $en ±
 [t]predicate: ▯ is a ruby.
 
-rubıdıum @Dembim 2026-07-02 #Pb93FwlAV $en ±
+rubıdıum [(c) (d) máq I] @Dembim 2026-07-02 #Pb93FwlAV $en ±
 [t]predicate: [g]‘rubidium’; ▯ is rubidium.
 
 rúbıe @Laqme 2024-01-06 #cql1Bd8WO $en ±
@@ -71653,8 +71663,8 @@ rumu @Ilmen 2020-05-03 #if9irI1jm $en ± %logic
 [t]predicate: ▯ is, with ▯, in relation ▯, and vice-versa (reciprocity of the two first arguments).
   Dembim (2026-03-15): kw: reciprocal
 
-rumuq @Dembim 2026-01-27 #mEKw6UUTs $en ±
-[t]predicate: ▯ is meteorological precipitation
+rumuq [(c) (d) máq I] @Dembim 2026-01-27 #mEKw6UUTs $en ±
+[t]predicate: [g]‘precipitation’; ▯ is meteorological precipitation
   Dembim (2026-01-27): hypernym of <ruq>, <nıao>, <choıceha>
   Dembim (2026-01-27): Frame: c
   Dembim (2026-01-27): Pronominal_class: maq
@@ -75461,7 +75471,7 @@ sıu @Xylochoron 2019-01-04 #-4ZycrOw1 $en +2 %basic
   TheAndSys (2024-09-06): Is the third slot needed? I reckon it could be îq
   evie (2025-04-30): îq would be eventive
 
-⚠ sıu [(c) (d) tá F] @oldofficial 2019-05-05 #pIh3TwFDau $en +2 %basic
+⚠ sıu [(c) (d) tá F] @oldofficial 2019-05-05 #pIh3TwFDau $en +1 %basic
 [t]predicate: [g]‘similar’; ▯ is similar to ▯.
   lassc (2025-03-19): alike
 
@@ -77245,8 +77255,8 @@ sueqkea @uakci 2023-10-22 #m6oVAnyJ0 $en ±
 sueqloaı @seaqtaq 2024-11-16 #dtXfg1CHc $en ±
 [t]predicate: ▯ ripples/undulates
 
-sueqloeq @Dembim 2026-01-28 #rIRRt3fJQ $en ±
-[t]predicate: ▯ cooks/ is cooked through dielectric heating ("microwaved")
+sueqloeq [(c) (d) tá I] @Dembim 2026-01-28 #rIRRt3fJQ $en ±
+[t]predicate: [g]‘microwaved’; ▯ cooks/ is cooked through dielectric heating ("microwaved")
   Dembim (2026-01-28): Frame: c
   Dembim (2026-01-28): Pronominal_class: ta
   Dembim (2026-01-28): See also <@uakci sueqloq> for the "heated but not necessarily actually cooked" meaning
@@ -78548,8 +78558,8 @@ sharalaı @jiqci 2024-11-20 #WOX-ifPPY $en +1
 shasoa @seaqtaq 2024-07-27 #CuxISMdzY $en ±
 [t]predicate: ▯ advises/guides/leads ▯ to satisfy property ▯.
 
-shashaı @Dembim 2025-12-31 #gEI4qF1Kk $en ±
-[t]predicate: ▯ reaches its natural conclusion, ends at the time and in the way one would expect
+shashaı [(0) (d) hóq E] @Dembim 2025-12-31 #gEI4qF1Kk $en ±
+[t]predicate: [g]‘conclude’; ▯ reaches its natural conclusion, ends at the time and in the way one would expect
   Dembim (2026-01-09): Frame: 0
   Dembim (2026-01-28): Pronominal_class: hoq
   Dembim (2026-02-12): Subject: event
@@ -79855,8 +79865,8 @@ shıqbo @seaqtaq 2020-02-26 #yv3ICQQbx $en ±
 shıqboqlaq @seaqtaq 2020-06-28 #UjxQ7ICol $en ±
 [t]predicate: ▯ is a nasal stop/plosive
 
-shıqcaı @Dembim 2026-02-01 #lp3El26Bm $en ±
-[t]predicate: ▯ is fragrant/redolent/aromatic
+shıqcaı [(c) (d) tá I] @Dembim 2026-02-01 #lp3El26Bm $en ±
+[t]predicate: [g]‘fragrant’; ▯ is fragrant/redolent/aromatic
   Dembim (2026-02-01): Frame: c
   Dembim (2026-02-01): Pronominal_class: ta
   Dembim (2026-02-13): Subject: individual
@@ -84308,8 +84318,8 @@ tıgaı @el 2022-11-28 #yut-rBcqJ $en ±
 tıgaı @el 2022-12-03 #0hx7TaSZG $toa -1
 = gaı tı
 
-tıgaq @Dembim 2025-12-31 #Hiz1VG1wx $en ±
-[t]predicate: ▯ is spatially together with ▯
+tıgaq [(c c) (d d) tá I] @Dembim 2025-12-31 #Hiz1VG1wx $en ±
+[t]predicate: [g]‘together’; ▯ is spatially together with ▯
   Ilmen (2025-12-31): discriminator: 2
   Dembim (2026-01-09): Frame: c c
   Dembim (2026-01-28): Pronominal_class: ta
@@ -84762,8 +84772,8 @@ tısue @uakci 2021-09-18 #sgfF23Tsz $en ±
 tısuım @Laqme 2024-08-01 #fQwaMXpMr $en ±
 [t]predicate: ▯ puts ▯ where it belongs.
 
-tısupu @Dembim 2026-01-29 #vX0Zr0StH $en ±
-[t]volume unit: teaspoon
+tısupu [] @Dembim 2026-01-29 #vX0Zr0StH $en ±
+[t]volume unit: [g]‘tsp’; teaspoon
   Dembim (2026-01-29): see note under <@Dembim nhebıo>
   Ilmen (2026-01-29): discriminator: 2
   Dembim (2026-01-30): <fuıtısupu>, <usotısupu>, <coetısupu>
@@ -87164,8 +87174,8 @@ tupadolom @jiqci 2023-08-21 #M8hfGNBL6 $en ±
 tupakea @jiqci 2023-07-19 #GTLsmlxgP $en ±
 [t]predicate: ▯ is a kettle/boiler.
 
-tupapuao @Dembim 2026-01-26 #F-vGGEr6P $en ±
-[t]predicate: ▯ is visible airborne condensation (or "steam")
+tupapuao [(c) (d) máq I] @Dembim 2026-01-26 #F-vGGEr6P $en ±
+[t]predicate: [g]‘mist’; ▯ is visible airborne condensation (or "steam")
   Dembim (2026-01-26): Frame: c
   Dembim (2026-01-26): Pronominal_class: maq
   Dembim (2026-01-27): As in over a boiling pot.
@@ -87749,8 +87759,8 @@ ujı @robintown 2023-05-19 #lMO9RfW_6 $en +2
 ujıla @mimiaoganhaqpy 2025-02-18 #TWXQrAtNw $en ±
 [t]predicate: ‘try out’; ▯ tests/assesses/checks/trials/tries out satisfying property ▯.
 
-ujıtao @Dembim 2026-01-30 #Zf12tgDBk $en ±
-[t]predicate: ▯ tests/assesses/checks/trials/tries out doing ▯
+ujıtao [(c 1i) (d d) hó A] @Dembim 2026-01-30 #Zf12tgDBk $en ±
+[t]predicate: [g]‘trial’; ▯ tests/assesses/checks/trials/tries out doing ▯
   Dembim (2026-01-30): Frame: c 1i
   Dembim (2026-01-30): Pronominal_class: ho
   Dembim (2026-01-30): tao hyponym
@@ -88054,8 +88064,8 @@ Usonagua @countries 2026-07-07 #ibEiY53Z2ovx $en ± %cultural,country
 usonakafe @salarua 2022-08-31 #0Z39mnH4R $en ±
 [t]predicate: ▯ is caffe americano
 
-usonhebıo @Dembim 2026-01-29 #mPzv4FXg- $en ±
-[t]volume unit: US customary cup (236.5882365 ml)
+usonhebıo [] @Dembim 2026-01-29 #mPzv4FXg- $en ±
+[t]volume unit: [g]‘US.cup’; US customary cup (236.5882365 ml)
 
 usoq @Machy 2022-04-23 #22Q9mNUkU $en ±
 [t]predicate: ▯ is an imperial unit.
@@ -89823,8 +89833,8 @@ zoaıchı @Dembim 2026-02-08 #6pK5omA-F $en ±
 zoaıchıja @jiqci 2024-08-17 #yRn8qNyFK $en ±
 [t]predicate: ▯ gaslights ▯ into believing that ▯ is the case.
 
-zoaıchıja @Dembim 2026-02-08 #CkpTQ3XJb $en ±
-[t]predicate: ▯ gaslights ▯
+zoaıchıja [(c c) (d d) hó A] @Dembim 2026-02-08 #CkpTQ3XJb $en ±
+[t]predicate: [g]‘gaslight’; ▯ gaslights ▯
   Dembim (2026-02-08): Frame: c c
   Dembim (2026-02-08): Pronominal_class: ho
   Dembim (2026-02-08): Upstream: <@jiqci zoaıchıja>
@@ -92773,8 +92783,8 @@ I didn’t like the story because it was about death.
 Gı sá daqmoa da. @examples 2026-07-07 #CQrDtcPM9Ok8 $en ±
 There are good moments.
 
-- go @Dembim 2026-01-27 #DNEEchMyk $en ±
-[t]pseudo-suffix: akin to suffixed «<che>» but for non-agents (tools, elements, components), forming words for objects that have passive purpose/function
+- go [] @Dembim 2026-01-27 #DNEEchMyk $en ±
+[t]pseudo-suffix: [g]‘FUNC’; akin to suffixed «<che>» but for non-agents (tools, elements, components), forming words for objects that have passive purpose/function
   Dembim (2026-01-27): One should probably prefer «<kea>» for active or system-level (i.e. machine) functions
   Dembim (2026-01-27): This is ~roughly~ equivalent to «<chuo>» in compounds
 
@@ -99722,6 +99732,7 @@ jaonoı(lıe) @Hoemai 2020-05-20 #WVKqhQ9e2 $en ±
 ⚠ jeyde @uakci 2022-02-10 #KN2d8iAwM $en ±
 [t]predicate: ▯ is cute in a gay way.
   zearen (2024-10-10): Can there be a delta compatible version of this ?
+  sq (2026-07-08): ȷeqde :3
 
 ⚠ jeykıeq @uakci 2022-02-10 #6KPIooige $en ±
 [t]predicate: ▯ feels gender dysphoria.
