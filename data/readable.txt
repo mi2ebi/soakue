@@ -10323,7 +10323,7 @@ chaqhıa @Laqme 2024-06-07 #SX2cPyk5a $en +1
 chaqjea @Laqme 2024-07-15 #tm0hGD6o4 $en ±
 [t]predicate: ▯ does grocery shopping.
 
-chaqjıa @Laqme 2023-02-10 #I7_pHzImU $en ±
+chaqjıa @Laqme 2023-02-10 #I7_pHzImU $en +1
 [t]tense: 'tomorrow'
 
 chaqkue @Laqme 2021-11-19 #EBHGuVzrJ $en ±
@@ -10336,14 +10336,14 @@ chaqmuo @seaqtaq 2019-05-19 #NWJy-CHY2 $en ±
 [t]predicate: ▯ occurs for an entire day
   seaqtaq (2019-05-19): For ≈24 hours that is
 
-chaqnaı @Laqme 2023-02-10 #bYOXSIs1B $en ±
+chaqnaı @Laqme 2023-02-10 #bYOXSIs1B $en +1
 [t]tense: 'today'
 
 chaqne @Ilmen 2018-10-13 #JMJ1IruQO $en +1 %time,measure_unit
 [t]predicate: ▯ is the duration of a day (multiplied by ▯); ▯ is 24 hours (× ▯).
   fagri (2019-01-27): +1
 
-chaqpu @Laqme 2023-02-10 #ByoQbGJUC $en ±
+chaqpu @Laqme 2023-02-10 #ByoQbGJUC $en +1
 [t]tense: 'yesterday'
 
 chaqraı @Laqme 2024-06-19 #DUoEsMH7N $en ±
@@ -10858,6 +10858,7 @@ cheojao @uakci 2019-04-25 #nZBbWefqd $en ±
 cheom @Laqme 2025-01-06 #FcxV3iL__ $en ±
 [t]predicate: ▯ does evil/cruel/wicked/selfish deed ▯.
   Laqme (2025-04-04): sins/transgresses, **tao** hyponym
+  Dembim (2026-07-10): see also <runao>
 
 cheomhe @Laqme 2025-01-06 #Ubz8u0JkF $en ±
 [t]predicate: ▯ (person) is evil/cruel/wicked.
@@ -23296,7 +23297,7 @@ geıgıo @robintown 2025-12-10 #8rOKUTnZd $en ±
 geıkıaq @Laqme 2025-03-10 #vUCkgNDDI $en ±
 [t]predicate: ▯ is a wig / toupée.
 
-geımıq @robintown 2025-01-31 #hPevvJNPG $en +2
+geımıq @robintown 2025-01-31 #hPevvJNPG $en +3
 [t]predicate: ▯ games / plays video games.
 
 geımıqche @robintown 2025-02-17 #Uj4rIFkM8 $en +1
@@ -59202,7 +59203,7 @@ nımchuaq @Laqme 2023-12-09 #tEl9s2iw2 $en ±
 [t]predicate: ▯ is an "ism" that divides people into classes or strata.
 
 nıme @Laqme 2025-03-11 #OklMgK8QV $en ±
-[t]predicate: ▯ is an event whose PATIENT comes from / stops belonging to ▯.
+[t]predicate: [g]‘off’; ▯ is an event whose PATIENT comes from / stops belonging to ▯.
   Laqme (2025-03-11): **nîme** "(taking) from" is the opposite of **cû** "(giving) to".
   Laqme (2025-03-11): **Jea jí ní gıta nîme sá jịpaı.** I bought this guitar *off* a friend.
   Laqme (2025-11-05): kw: with donor, with source, sourced from
@@ -71691,6 +71692,7 @@ runao @Laqme 2025-01-05 #HGdSEc788 $en +2
 [t]predicate: ▯ is so kind as to do ▯; ▯ does the favor/kindness/generosity ▯.
   Laqme (2025-01-05): You can put this in front of any verb to describe someone else's actions politely: **Runao som nháo ké chao.**
   Laqme (2025-01-05): Or when making a polite request: **Suena, runao laqrue súq ba.**
+  Dembim (2026-07-10): <tao> hyponym
 
 runaohe @Laqme 2025-01-05 #ql76wSx7B $en ±
 [t]predicate: ▯ is kind/generous/selfless.
@@ -80108,6 +80110,7 @@ shıte @uakci 2020-05-14 #kSbVB1CPB $en ±
 
 shıteılaı @fagri 2021-08-27 #K1tMVTLXE $en +1
 [t]predicate: ▯ is a letter with only one form (it can't be capital or lowercase and it doesn't change shape depending on context)
+  evie (2026-07-09): unicase
 
 shıtıpopu @Dembim 2026-02-06 #W2mTU8D1O $en ±
 [t]predicate: ▯ is city pop music
