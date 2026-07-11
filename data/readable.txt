@@ -22,8 +22,8 @@ a [] @eednb 2023-12-03 #_IsCKLhQh $lou ±
   Laqme (2023-09-02): "oh it'll be fine" in response to a worry, "don't get your hopes up" in response to a wish, "oh, stop~" in response to a compliment
   Laqme (2023-09-02): very general!! probably overlaps with **zı** but more dismissing the speech act than denying the stmt
 
-â @Laqme 2019-04-21 #rV-Gbi0su $en +4
-[t]interjection: realization, "aha!"
+â [] @Laqme 2019-04-21 #rV-Gbi0su $en +4
+[t]interjection: [g]‘aha’; realization
 
 a'ala @Laqme 2024-08-06 #VrsW70rCc $en +1
 [t]predicate: ▯ gargles.
@@ -866,8 +866,8 @@ amra @robintown 2025-02-13 #LyljqYZCl $en +2
 amralam @robintown 2025-02-13 #eOI_5M2RU $en +2
 [t]predicate: ▯ (agent) is devious/mischievous/sly in character.
 
-amseq @Laqme 2026-05-08 #YWb90X8PR $en ±
-[t]predicate: ▯ is absinthe.
+amseq [(c) (d) máq I] @Laqme 2026-05-08 #YWb90X8PR $en ±
+[t]predicate: [g]‘absinthe’; ▯ is absinthe.
 
 amu [(c) (d) máq I] @Dembim 2026-06-15 #shTAeq3aS $en +1
 [t]predicate: [g]‘object’; ▯ is a discrete physical object/item/thing.
@@ -3554,6 +3554,7 @@ betoqtupa @jiqci 2024-07-21 #M-XKbwiF0 $en ±
 betu @seaqtaq 2024-10-01 #N73rARL5X $en ±
 [t]predicate: ▯ changes/alters/modifies ▯ in relation ▯; ▯ modifies ▯ in regards to what it is in relation ▯ with
   seaqtaq (2024-10-01): Shortening of beotua
+  evie (2026-07-10): i imagine this should be cc2jx but there isn't an option for that in the dropdown
 
 beu @Ilmen 2019-02-23 #jDBqsaEU6 $en ±
 [t]predicate: ▯ is much the case relatively to how much it is the case for ▯; ▯ has property ▯ to a great extent relatively to how much ▯ have that property; the amount of ▯ having property ▯ is greater than the average among ▯.
@@ -3833,7 +3834,7 @@ bıapuıtue @Ilmen 2020-03-16 #fDdAEOaMA $en ±
   robintown (2022-01-30): Use pùoq to express "enough to satisfy property ▯"
   robintown (2023-01-06): Actually no, use **dîam** for "enough for ▯ to be the case"
 
-bıaq @fagri 2021-07-27 #iiuwaW7Vc $en +2
+bıaq @fagri 2021-07-27 #iiuwaW7Vc $en +1
 [t]predicate: ▯ is true enough that ▯ happens
 
 bıaq [(c 1i) (d d) tá F] @official 2026-07-07 #0jxvVE-c8yd $en ±
@@ -3856,7 +3857,7 @@ bıaq @Hoekeiboi 2023-07-31 #bmiIji4V0 $tl ±
 bıaq @kazoo 2025-05-23 #mR4R1OaSX $tr ±
 [t]predicate: ▯ yeter; ▯ yeterince ▯ niteliğini tamamlar.
 
-bıaqbıaq @uakci 2023-08-25 #HFq2YTavI $en ±
+bıaqbıaq @uakci 2023-08-25 #HFq2YTavI $en -1
 [t]predicate: ▯ is well more than enough the case; ▯ is the case to an even more than satisfiable extent.
 
 bıaqbıaqlaı @jiqci 2023-01-16 #SEHYvL0l4 $en ±
@@ -5348,8 +5349,8 @@ bosho @Ilmen 2020-02-25 #wi_TCP8sL $en ±
 boshue @Laqme 2023-07-18 #UYespNSzh $en ±
 [t]predicate: ▯ keeps / retains possession of ▯.
 
-bota @Laqme 2022-03-25 #pKosdgFAx $en +5
-[t]predicate: ▯ holds off / refrains / stops themselves from satisfying ▯.
+bota [(c 1i) (d d) hó A] @Laqme 2022-03-25 #pKosdgFAx $en +5
+[t]predicate: [g]‘hold.off’; ▯ holds off / refrains / stops themselves from satisfying ▯.
   Laqme (2022-03-25): See **taoboqtaq**
   Laqme (2023-07-19): the Toadua Android app nicely uses this word for "Cancel"
   Dembim (2026-02-04): Frame: c 1i
@@ -8999,8 +9000,8 @@ com- @uakci 2023-01-18 #3mltOXgXW $en ±
 [t]prefix: turns verb (of any arity) into binary verb: ▯ does X at/to/towards ▯ (recipient or intended audience).
   uakci (2023-01-18): see **com**
 
-com @Laqme 2022-12-17 #_MNzppBpD $en +7
-[t]predicate: ▯ (some event of expression) is directed at / expressed toward audience ▯.
+com [(c c) (d d) hóq E] @Laqme 2022-12-17 #_MNzppBpD $en +7
+[t]predicate: [g]‘at’; ▯ (some event of expression) is directed at / expressed toward audience ▯.
   Dembim (2026-02-04): Frame: c c
   Dembim (2026-02-04): Pronominal_class: hoq
   Dembim (2026-02-12): Subject: event
@@ -10251,8 +10252,11 @@ chaotıeqhıu @jiqci 2023-03-14 #KWYpME1u_ $en ±
 chaotubaq @jiqci 2023-11-18 #1HONwz5nc $en ±
 [t]predicate: ▯ is a car horn.
 
-chaoze @salarua 2023-07-31 #R-o5lM7xM $en ±
+chaoze [(c) (d) máq I] @salarua 2023-07-31 #R-o5lM7xM $en ±
 [t]predicate: [g]‘vehicle.fuel’; ▯ is a liquid fuel for use in vehicles (gasoline, diesel, jet fuel, etc.)
+
+chaoze'obozuom @Ilmen 2026-07-10 #4TO9ycw6G $en ±
+[t]predicate: ▯ is a ‘gas famine’.
 
 chaq [(c) (d) hóq I] @official 2026-07-07 #AhmBl0FFIGk $en ±
 [t]predicate: [g]‘day’; ▯ is a day.
@@ -10297,8 +10301,8 @@ chaqdeoq [(c) (n) hó A] @Dembim 2026-02-21 #EhhBbNTxC $en ±
 [t]predicate: [g]‘chat’; ▯ (plural) make small-talk, everyday conversation, with one another.
   Dembim (2026-02-21): I like both of <soaokeoı> and <seoqkeoı>; this just feels like something that should have several synonyms. Also this one is plural-subject, because— why not?
 
-chaqdıaq @Laqme 2018-12-14 #6us7v51VY $en +4
-[t]predicate: ▯ occurs daily / every day.
+chaqdıaq [(0) (d) hóq P] @Laqme 2018-12-14 #6us7v51VY $en +4
+[t]predicate: [g]‘daily’; ▯ occurs daily / every day.
   Laqme (2018-12-14): #chaqtū (official) seems to break the #niaqdīaq, #joadīaq, etc. pattern.
   seaqtaq (2019-01-21): +1
   fagri (2019-12-27): +1
@@ -10744,8 +10748,8 @@ cheızeo @jiqci 2023-10-09 #XjKN5D0bV $en ±
 cheja @Laqme 2025-05-05 #52tKC2VuH $en +2
 [t]predicate: ▯ is a jaw.
 
-chejabea @Laqme 2026-05-01 #vc9Ql6Oeo $en ±
-[t]predicate: ▯ is a temporomandibular joint.
+chejabea [(c) (d) máq I] @Laqme 2026-05-01 #vc9Ql6Oeo $en ±
+[t]predicate: [g]‘temporomandibular.joint’; ▯ is a temporomandibular joint.
 
 chejafeqnhoq @jiqci 2025-08-29 #RfrTUBgY1 $en ±
 [t]predicate: ▯ is a mandibular nerve (CN V3).
@@ -21540,8 +21544,8 @@ fototao @Laqme 2025-05-19 #aLbG0RH8c $en ±
 fsh @evie 2024-11-11 #B_dyLSWn- $en ±
 textspeak for **foa súq hí?** (how are you?)
 
-fu @Laqme 2022-03-03 #Pam8cBXNm $en +5
-[t]predicate: ▯ is a child of ▯.
+fu [(c c) (d d) hó I] @Laqme 2022-03-03 #Pam8cBXNm $en +5
+[t]predicate: [g]‘child’; ▯ is a child of ▯.
   lassc (2025-03-25): +1, i think it is important to make the biological forms of these words the marked forms as opposed to vice versa
   ijonetun (2025-03-25): +1 ^
   evie (2025-03-25): mıja :3
@@ -30778,8 +30782,8 @@ hochata @salarua 2023-06-14 #OIXJmYuv5 $en +1
 Hochoropa @kazoo 2025-05-02 #khjUY40ss $en ±
 [t]predicate: ▯ is Eastern Europe.
 
-hochu @Laqme 2021-09-25 #KCX4MXm7S $en +6
-[t]predicate: ▯ is east of ▯.
+hochu [(c c) (d d) tá S] @Laqme 2021-09-25 #KCX4MXm7S $en +6
+[t]predicate: [g]‘east’; ▯ is east of ▯.
   Dembim (2026-02-04): Frame: c c
   Dembim (2026-02-04): Pronominal_class: ta
 
@@ -31336,8 +31340,8 @@ horane @seaqtaq 2019-06-24 #V4Yvo9Geb $en ±
 [t]predicate: ▯ is the duration of an hour multiplied by ▯
   seaqtaq (2019-06-24): fork of horabaq, inspiration from minune
 
-hore @Laqme 2021-09-25 #QFrNJmZVY $en +6
-[t]predicate: ▯ is west of ▯.
+hore [(c c) (d d) tá S] @Laqme 2021-09-25 #QFrNJmZVY $en +6
+[t]predicate: [g]‘west’; ▯ is west of ▯.
   Dembim (2026-02-04): Frame: c c
   Dembim (2026-02-04): Pronominal_class: ta
 
@@ -32693,8 +32697,9 @@ bo'a jai ckaji bo'e
 ⚠ ïba [] @jiqci 2023-08-20 #mwd1CuIat $en -1
 [t]reverse topic marker: [g]‘REVTOP’; marks topic/prenex at the end of a sentence.
 
-ıbe @Laqme 2024-04-24 #zFt1L0p2d $en +3
+ıbe @Laqme 2024-04-24 #zFt1L0p2d $en +4
 [t]interjection: I admit / I concede / that's fair / you have a point
+  Dembim (2026-07-11): kw: touché
 
 Ibozu @eednb 2024-01-01 #jg7cYrJGC $en ±
 [t]predicate: ▯ is the Igbo language.
@@ -34523,7 +34528,7 @@ je @Ilmen 2020-01-24 #_z-aNYBpN $toa -1
 jea- @seaqtaq 2024-07-27 #LsfuaHCXw $en ±
 [t]prefix: existential future (prefix form of jela)
 
-jea @Laqme 2023-09-04 #RsTfIJIvI $en +1
+jea @Laqme 2023-09-04 #RsTfIJIvI $en +2
 [t]predicate: ▯ buys/purchases ▯.
   Ilmen (2025-10-31): officialized: yes
 
@@ -39782,6 +39787,9 @@ kaıdo @Laqme 2023-03-16 #3mlwJ0aIg $en +2
 
 kaıdoem @seaqtaq 2025-05-06 #zi7xf8Tbn $en ±
 [t]predicate: ▯ is a writing system
+
+kaıdogulaq @jiqci 2026-07-10 #LmsRTss25 $en ±
+▯ is a posting gland.
 
 kaıdose @mimiaoganhaqpy 2023-07-20 #iirsDyOfZ $en ±
 [t]predicate: ▯ is a post.
@@ -47245,8 +47253,8 @@ leoqfuq @fagri 2020-05-29 #9lz71bysH $en ±
 leoqfuqche @robintown 2023-02-06 #sjYLKJntA $en ±
 [t]predicate: ▯ is an armorer.
 
-leoqgıa @Laqme 2026-04-04 #NX5ajiFCt $en ±
-[t]predicate: ▯ is a seat belt.
+leoqgıa [(c) (d) máq I] @Laqme 2026-04-04 #NX5ajiFCt $en ±
+[t]predicate: [g]‘seat.belt’; ▯ is a seat belt.
   Laqme (2026-04-04): kw: seatbelt
 
 leoqheaqsıu @Ilmen 2019-09-19 #uDoJepnZV $en ±
@@ -52497,11 +52505,11 @@ meta @jiqci 2023-07-31 #Y-EoRjrjxd $pl ± %measure_unit
 meta @kazoo 2024-11-24 #TmfL3lQbG $tr ± %measure_unit
 [t]predicate: ▯ bir metredir.
 
-metadao @Laqme 2026-04-10 #NMokTreuJ $en ±
-[t]predicate: ▯ is metadata.
+metadao [(c) (d) hóq I] @Laqme 2026-04-10 #NMokTreuJ $en ±
+[t]predicate: [g]‘metadata’; ▯ is metadata.
 
-metakao @Laqme 2026-04-10 #ikW4O-bNS $en ±
-[t]predicate: ▯ is a tag (metadata record).
+metakao [(c) (d) hóq I] @Laqme 2026-04-10 #ikW4O-bNS $en ±
+[t]predicate: [g]‘tag’; ▯ is a tag (metadata record).
 
 metao @fagri 2020-05-30 #tsO_TYM2g $en +1
 [t]predicate: ▯ all intentionally act in concert so as to make the group as a whole satisfies property ▯
@@ -52521,8 +52529,8 @@ metoa @Laqme 2024-06-04 #XUbwiFlPv $en +2
 metom @Snow 2023-05-22 #iKA8uEtTf $en ±
 [t]predicate: ▯is a meson.
 
-meu @Laqme 2023-10-19 #HW6XsIAiI $en +5
-[t]predicate: ▯ forgets/neglects to do ▯.
+meu [(c 1i) (d d) hó I] @Laqme 2023-10-19 #HW6XsIAiI $en +5
+[t]predicate: [g]‘neglect’; ▯ forgets/neglects to do ▯.
   Dembim (2026-02-04): Frame: c 1i
   Dembim (2026-02-04): Pronominal_class: ho
 
@@ -54880,8 +54888,8 @@ moqla @Machy 2021-10-12 #otQW3MFoW $en ±
 [t]statement prefix: interrogative
   Machy (2021-10-12): question
 
-moqlaı @Laqme 2019-02-05 #KqjS8TGpq $en +4
-[t]predicate: ▯ is a question mark.
+moqlaı [(c) (d) máq I] @Laqme 2019-02-05 #KqjS8TGpq $en +4
+[t]predicate: [g]‘question.mark’; ▯ is a question mark.
   Ilmen (2019-02-05): +1
   fagri (2019-02-06): +1
 
@@ -58503,8 +58511,8 @@ nıaısechuqbu @fagri 2019-04-01 #NyVTgIH5y $en -1
 [t]predicate: ▯ is a vegan
   fagri (2019-04-01): This word is kinda long. Anyone have thoughts on a shorter one?
 
-nıaıserıeq @Laqme 2019-02-03 #97Xqf1o7_ $en +4
-[t]predicate: ▯ is a vegan.
+nıaıserıeq [(c) (d) hó I] @Laqme 2019-02-03 #97Xqf1o7_ $en +4
+[t]predicate: [g]‘vegan’; ▯ is a vegan.
   seaqtaq (2019-02-03): +1
 
 nıaıserıeqchuaq @Laqme 2019-02-03 #rjY6iwIDF $en ±
@@ -60667,8 +60675,8 @@ noso @Hydro 2021-09-05 #9MEN1s3ac $en +1
 [t]predicate: ▯ has (an) inflammation; ▯ is inflamed at ▯;▯ has ▯-itis.
   Hydro (2021-09-05): Greek -ītis, from feminine of -ītēs, adj. suff. (originally modifying feminine noun nosos, disease).
 
-nosoboqseao @Laqme 2026-05-12 #KniJeglO_ $en ±
-[t]predicate: ▯ is an anti-inflammatory drug.
+nosoboqseao [(c) (d) máq I] @Laqme 2026-05-12 #KniJeglO_ $en ±
+[t]predicate: [g]‘anti-inflammatory.drug’; ▯ is an anti-inflammatory drug.
 
 noshuaq @Laqme 2019-02-21 #FfUSd3HaQ $en ±
 [t]predicate: ▯ produces something which is ▯ (existing product) but adapted to language/format ▯;  ▯ translates/adapts ▯ into ▯.
@@ -63094,7 +63102,7 @@ obelaı @el 2022-06-20 #ie_DDC1R0 $en ±
 [t]predicate: ▯ is an exclamation mark
   el (2022-06-20): < calque of japanese ビックリマーク
 
-obo @robintown 2023-02-10 #oRo1dpPGH $en +1
+obo @robintown 2023-02-10 #oRo1dpPGH $en +2
 [t]predicate: ▯ goes hungry/thirsty; ▯ starves/fasts.
   robintown (2023-02-10): From Shan 'ဢိုပ်း'
 
@@ -64124,6 +64132,9 @@ paqcueme @Ilmen 2020-03-17 #5U6Lr-qxf $en ±
 
 paqcuq @Laqme 2025-03-12 #90IBU7a68 $en ±
 [t]predicate: Part ▯ detaches from ▯.
+
+paqchaloha @Ilmen 2026-07-10 #LBfK6u_vN $en ±
+▯ is panchaloha (alloy of gold, silver, copper, zinc and iron).
 
 paqcheo @fagri 2020-02-09 #6P8Sy4DwJ $en ±
 [t]predicate: some of ▯ do ▯ to each other
@@ -68600,8 +68611,8 @@ raqtoatuq @jiqci 2024-06-25 #9ydZzD_Uh $en ±
 raqzaruse @Laqme 2022-10-09 #XJEHa-0qF $en ±
 [t]predicate: ▯ is a content warning.
 
-rara @Laqme 2019-01-25 #-W0QS1OdY $en +4
-[t]predicate: ▯ is the case, or something.
+rara [(0) (d) hóq P] @Laqme 2019-01-25 #-W0QS1OdY $en +4
+[t]predicate: [g]‘or.something’; ▯ is the case, or something.
   Ilmen (2019-01-25): See also #sıujēo and #lısīu.
   Laqme (2019-01-25): Some context: I wanted something fun and slangy-sounding and easy to say, and more {ie'o}-like and {sa'enai}-like than literally “similar to / approximate to having such-and-such-property”.  You can throw it anywhere as an adverbial interjection («rãrā») and it also works well in serials («rárā chủe»). This is apriori-ish, but duplicating the word for “or” seemed fitting, because that’s what a few languages I speak do, at least.
   uakci (2019-01-25): +1
@@ -78630,8 +78641,9 @@ sheabıa @el 2022-06-23 #MbKLsjcXX $en +2
   uakci (2022-06-23): avolition*
   el (2022-06-23): keyword: depressed
 
-sheabıafoa @TheAndSys 2023-01-12 #CaZi6mX8l $en ±
+sheabıafoa @TheAndSys 2023-01-12 #CaZi6mX8l $en -1
 [t]predicate: ▯ is depression
+  evie (2026-07-10): s/**foa**/**ge**
 
 sheachuq @Laqme 2022-10-05 #RQWBRCbIq $en +1
 [t]predicate: ▯ eats up the contents of ▯, emptying it.
@@ -88371,8 +88383,8 @@ vague definite determiner; ‘the’
 ꝡefajom @jiqci 2024-03-14 #4PvLfHdhw $en ±
 [t]predicate: ▯ is an imp.
 
-ꝡeı @Laqme 2023-01-27 #fnDUBIWMl $en +5
-illocution / speech act particle: "what a ...!" / "how ...!"
+ꝡeı [] @Laqme 2023-01-27 #fnDUBIWMl $en +5
+[t]speech act particle: [g]‘exclamative’; "what a ...!" / "how ...!"
   Laqme (2023-01-27):  **Fıe sáka da** = The shirt is ugly, **Fıe sáka ꝡeı!** = What an ugly shirt!
   Laqme (2023-01-27): Conveys an impression/emotional impact, more subjective/phatic/self-directed than **da**
   robintown (2023-12-30): Searle 1969 apparently calls this "exclamative"
@@ -89453,8 +89465,8 @@ zıatuoqlopıo @Snow 2024-03-21 #OKpF9aBhX $en ±
 zıazaq @Laqme 2024-12-25 #UBXylsmSt $en ±
 [t]predicate: ▯ gets emitted / radiated.
 
-zıazıa @Laqme 2021-10-18 #k_8P_E-vL $en +7
-[t]predicate: ▯ sparkles.
+zıazıa [(c) (d) tá I] @Laqme 2021-10-18 #k_8P_E-vL $en +7
+[t]predicate: [g]‘sparkle’; ▯ sparkles.
   Laqme (2021-10-18): glitters, glimmers, twinkles!
 
 zıazıapuo @jiqci 2023-09-15 #1ngbEg38E $en ±
@@ -90128,8 +90140,9 @@ zuegoı @uakci 2023-11-12 #3FCAvyIXZ $en ±
 zuegoısaı @uakci 2023-11-12 #tGuyUcgTx $en ±
 [t]predicate: ▯ is a take-as-needed/“pro re nata” (PRN) medication.
 
-zuejea @Laqme 2023-03-04 #uYF9R1JkR $en +1
-[t]predicate: ▯ rents, from ▯, possession of ▯.
+zuejea [(c c c) (n n n) hó I] @Laqme 2023-03-04 #uYF9R1JkR $en +1
+[t]predicate: [g]‘rent’; ▯ rents, from ▯, possession of ▯.
+  Dembim (2026-07-10): gúko lo jachuao, bï choq há shú nîme ho'u
 
 zuejuao @Laqme 2022-02-08 #s9ltdHzkY $en ±
 [t]predicate: ▯ is an arrangement / agreement.
@@ -90454,7 +90467,7 @@ zuomıa @lassc 2026-03-26 #703XwJlDe $en ±
   lassc (2026-03-26): etymology: highly-sarcastic compound of **zuo** and **mıa**
   Ilmen (2026-03-26): discriminator: 2
 
-zuomuo @Laqme 2024-09-18 #f1xmau5uK $en ±
+zuomuo @Laqme 2024-09-18 #f1xmau5uK $en +1
 [t]predicate: ▯ is all-purpose / one-size-fits-all.
 
 zuonoı @TheAndSys 2024-05-05 #L88z0rFVb $en ±
