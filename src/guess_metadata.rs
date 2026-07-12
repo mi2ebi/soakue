@@ -538,7 +538,7 @@ fn guess_distribution(entry: &Toa, n: usize) -> String {
 // ─────────────────────────────────────────────────────────
 
 const VALID_PRONOUNS: &[&str] = &["hó", "máq", "hóq", "tá"];
-const VALID_SUBJECTS: &[&str] = &["A", "I", "E", "P", "S", "F"];
+const VALID_SUBJECTS: &[&str] = &["sA", "sI", "sE", "sP", "sS", "sF"];
 
 fn is_valid_pronoun(s: &str) -> bool { VALID_PRONOUNS.contains(&s) }
 fn is_valid_subject(s: &str) -> bool { VALID_SUBJECTS.contains(&s) }
@@ -797,6 +797,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             || t.subject.is_none())
             && !t.warn
             && t.scope == "en"
+            && !t.head.ends_with('-')
     }) {
         let n = primary_arity(&toa.body);
         if n.0 == 0 {

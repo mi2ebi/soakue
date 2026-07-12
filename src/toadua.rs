@@ -170,7 +170,7 @@ impl Toa {
                 .contains(&subject.as_str())
             {
                 self.subject = Some(
-                    String::new() + &subject.chars().next().unwrap().to_uppercase().to_string(),
+                    "s".to_string() + &subject.chars().next().unwrap().to_uppercase().to_string(),
                 );
                 old = Self { subject: self.subject.clone(), ..old };
             } else {
