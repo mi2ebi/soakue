@@ -5362,13 +5362,8 @@ bota [(c 1i) (d d) hó sA] @Laqme 2022-03-25 #pKosdgFAx $en +5
 bọtao @Laqme 2022-12-12 #4NBg1IRtS $en ±
 [t]predicate: ▯ is intentionally caused by agent ▯.
 
-boteq @uakci 2022-10-25 #BnFtY-w8V $en ±
+boteq @uakci 2022-10-25 #BnFtY-w8V $en -1
 [t]predicate: ▯ pays money ▯ for the possession of ▯.
-
-boteq @salarua 2022-08-08 #mR8xyUugQ $en -1
-[t]predicate: ▯ pays ▯ for possession of ▯
-  salarua (2022-08-08): keywords: buy, purchase
-  salarua (2022-08-08): the second place is the money paid, not the payee. as with my version of teq, one can express the payee with còu
 
 botı @Laqme 2025-03-02 #R0job9JEI $en ±
 [t]predicate: ▯ is had by / belongs to ▯.
@@ -33999,6 +33994,10 @@ jaıshe @Ilmen 2019-12-11 #1DF2N0HX_ $en ± %emotion
 jaıshom @Laqme 2024-10-25 #Ygk8f1ym9 $en ±
 [t]predicate: ▯ is a smile (one's smiling face).
 
+jaıtuka @Aburn 2026-07-12 #FEvpI_3tT $en ±
+[t]predicate: [g]‘rejoice’; ▯ rejoices, is glad, joyful and shows it
+  Aburn (2026-07-12): Etymology: jaı + tuku + da
+
 jaja @akesi 2020-02-09 #vRUv8Acho $en +2
 [t]predicate: colloq. ▯ is very/extremely/totally ▯
 comes from Toaq "jảq jảq"
@@ -43129,20 +43128,20 @@ ko- @robintown 2022-12-10 #nY8ziX1nT $en ±
 turns a natural number N into the verb "▯ is Nth in sequence ▯."
   robintown (2022-12-10): ordinal
 
+ko @xorxes 2021-09-05 #_s7CDnVtp $en +1
+[t]predicate: [g]‘nth’; ▯ is the last of those satisfying number property ▯, who are the first to do so.
+  xorxes (2021-09-05): **ko cı sha tı nı jí da** 'I am the sixth to arrive here.'
+
 ko @uakci 2023-01-02 #6QH-Y-UcS $en +1
 [t]predicate: ▯ is ▯-th among ▯.
-
-ko [(c c c 1x) (d n d d) tá sF] @official 2026-07-07 #pEoiPOr1UV_ $en ±
-[t]predicate: [g]‘nth’; ▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.
 
 ko @uakci 2019-01-27 #nYd6qptxZ $toa ±
 bu huaq puı dósaq dógu, na ru jèojeq shî dósaq pa, soq dóshı dójo dógu, na ru jèojeq bû puq dósaq na sa dó lı shı sa túq lu bu jeojeq mêa hóa ja ráı na mêa hóa dósaq bı, ko dóshı sa lú dóheo hoa bı soq go dójo cu dógu fı sa lú tuq hóa lú bu jeojeq mêa hóa dóheo na mêa hóa dógu ceı ceı ceı dó dójo da
   uakci (2019-01-27): +1
   uakci (2019-01-27): soq(S, x2, x4); if(shi(x3)) x1 = S; else ko(x1, x2 \ S, x3 - 1, x4)
 
-ko @xorxes 2021-09-05 #_s7CDnVtp $en ±
-[t]predicate: [g]‘nth’; ▯ is the last of those satisfying number property ▯, who are the first to do so.
-  xorxes (2021-09-05): **ko cı sha tı nı jí da** 'I am the sixth to arrive here.'
+ko [(c c c 1x) (d n d d) tá sF] @official 2026-07-07 #pEoiPOr1UV_ $en -1
+[t]predicate: [g]‘nth’; ▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.
 
 ko @Ilmen 2019-01-30 #14uIYEUYz $toa -1
 = [XX12] Mea dóshı dógu na ru sa dosaq dógu sa dǒjo hóa dóshı.
@@ -53253,6 +53252,9 @@ mıezueq @Ilmen 2023-01-13 #wfefuYJtu $en ±
 mıhao @Machy 2022-02-14 #ZYHSAEl3P $en -1
 [t]name verb for hedging: turns following phrase X into verb: ▯ is symbolically/pragmatically X.
 
+mıhem [] @Aburn 2026-07-12 #LK1kSFXXA $en +1
+[t]interjection : [g]‘mischief’; mischeif; hehe
+
 mıja @uakci 2022-07-24 #7T0_nqVdn $en +3
 [t]interjection: yeah I agree
   uakci (2022-07-24): **ına mỉujeq jí**
@@ -55358,7 +55360,7 @@ muaqtuaısı @salarua 2023-12-18 #WlfMN-Ev7 $en ±
 muaqtuala @kazoo 2025-06-04 #QQPJQh10e $votgil ±
 [t]predicate: ▯VizKözNiq"BymVötLiv"ForLötPrsVunKolKöd
 
-muaqtue @xorxes 2020-06-04 #w_uexJguH $en ±
+muaqtue @xorxes 2020-06-04 #w_uexJguH $en -1
 [t]predicate: ▯ is death
 
 muaqzashe @Ilmen 2023-03-01 #3luasv9Yt $en ±
@@ -83352,23 +83354,20 @@ teq @evie 2024-10-29 #nQNbfe9Ss $en +4 %quaternary_predicate
   Dembim (2026-02-04): Pronominal_class: ho
   Ilmen (2026-02-11): discriminator: 3
 
-teq [(c c c 1k) (d d d d) hó sA] @official 2026-07-07 #iI5PHua7yI3 $en ± %quaternary_predicate
+teq [(c c c 1k) (d d d d) hó sA] @official 2026-07-07 #iI5PHua7yI3 $en -1 %quaternary_predicate
 [t]predicate: [g]‘pay’; ▯ pays ▯ to ▯ for satisfying property ▯.
-
-teq @uakci 2021-10-29 #LJEJHOu90 $ja ± %quaternary_predicate
-[t]predicate: ▯は▯に▯を▯［性質］と引き換えに払う；▯は▯を支払って、▯から▯を売る
-
-teq @el 2022-07-10 #9soc-P2eE $tok ± %quaternary_predicate
-[t]predicate: ▯ li pana e mani ▯ tawa ▯
-
-teq @jiqci 2023-07-31 #IAxAyQX30 $pl ± %quaternary_predicate
-[t]predicate: ▯ płaci ▯ cenę ▯ za ▯.
 
 teq @uakci 2019-04-14 #bJ1Ag-b2V $toa -1 %quaternary_predicate
 to roı doa dóshı sa pó dógu nuaı dósaq to jeo dósaq dójo da
 
+teq @uakci 2021-10-29 #LJEJHOu90 $ja -1 %quaternary_predicate
+[t]predicate: ▯は▯に▯を▯［性質］と引き換えに払う；▯は▯を支払って、▯から▯を売る
+
 teq @robintown 2022-02-08 #nVvhxw8gc $en -1 %quaternary_predicate
 [t]predicate: ▯ pays to ▯ payment ▯.
+
+teq @el 2022-07-10 #9soc-P2eE $tok -1 %quaternary_predicate
+[t]predicate: ▯ li pana e mani ▯ tawa ▯
 
 teq @salarua 2022-08-08 #RfFb3oIrE $en -1 %quaternary_predicate
 [t]predicate: [g]‘pay’; ▯ pays ▯ for ▯ being the case.
@@ -83383,6 +83382,9 @@ teq @uakci 2022-10-25 #Deg1tVpJw $en -1 %quaternary_predicate
 teq @TheAndSys 2023-07-08 #eXzMU7-5l $en -1 %quaternary_predicate
 [t]predicate: ▯ pays for ▯ (service or object)
   TheAndSys (2023-07-08): There's so many forks of this i decided to just make my own. The payee and what is given to them can be specified with prepositions
+
+teq @jiqci 2023-07-31 #IAxAyQX30 $pl -1 %quaternary_predicate
+[t]predicate: ▯ płaci ▯ cenę ▯ za ▯.
 
 teqboe @uakci 2021-11-07 #JHfkdetQM $en ±
 [t]predicate: ▯ is a coupon.
