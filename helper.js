@@ -50,7 +50,7 @@ let htmlify = (json) =>
       " ",
       json.pronoun !== undefined ? mkel("span", { className: "adv" }, [makeLink("pron:" + json.pronoun, json.pronoun)]) : null,
       " ",
-      json.subject !== undefined ? mkel("span", { className: "adv" }, [makeLink("subj:" + json.subject[0], 's' + json.subject[0].toUpperCase())]) : null,
+      json.subject !== undefined ? mkel("span", { className: "adv" }, [makeLink("subj:" + json.subject[1], json.subject)]) : null,
       " ",
       // mkel("br", {}, []),
       mkel("span", { className: "gray meta nobr" }, [
