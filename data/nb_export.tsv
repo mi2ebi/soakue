@@ -4287,6 +4287,7 @@ what does ▯ taste like how does ▯ taste _BIAS _RAKU_hıa _2_RAKU_noqhıa _AR
 ▯ are a million in number _BIAS _RAKU_nhoeı _ARITY_1	tá	sF	1
 ▯ is a cute lil paw foot hand _BIAS _RAKU_ka _2_RAKU_nhoka _ARITY_1	máq	sI	1
 ▯ rejects ▯ which the former knows to be good advice due to inner resistance _BIAS _RAKU_keo _2_RAKU_nhokeo _ARITY_2	hó	sA	2
+▯ is gnocchi _BIAS _RAKU_kı _2_RAKU_nhokı _ARITY_1	máq	sI	1
 ▯ smooches makes out with ▯ _BIAS _RAKU_cheq _2_RAKU_nhomcheq _ARITY_2	hó	sI	2
 ▯ is a cord rope thread string _BIAS _RAKU_nhoq _ARITY_1	máq	sI	1
 ▯ is a zipper _BIAS _RAKU_tıoq _2_RAKU_nhoqtıoq _ARITY_1	máq	sI	1
@@ -4589,6 +4590,7 @@ what does ▯ feel like how does ▯ feel _BIAS _RAKU_hıa _2_RAKU_puaqhıa _ARI
 ▯ is soccer football game _BIAS _RAKU_kıoq _2_RAKU_puekıoq _ARITY_1	hóq	sE	1
 ▯ steps treads on ▯ _BIAS _RAKU_pueq _ARITY_2	hó	sA	2
 ▯ steps treads _BIAS _RAKU_pueq _ARITY_1	hó	sA	1
+▯ trips slips trembles loses balance grip _BIAS _RAKU_buaq _2_RAKU_pueqbuaq _ARITY_1	hó	sI	1
 ▯ is a hip _BIAS _RAKU_shıo _2_RAKU_pueshıo _ARITY_1	máq	sI	1
 ▯ is a sock _BIAS _RAKU_tıe _2_RAKU_puetıe _ARITY_1	máq	sI	1
 ▯ is a leatherworker _BIAS _RAKU_che _2_RAKU_gache _ARITY_1	hó	sI	1
@@ -5958,6 +5960,7 @@ it is the intention of ▯ that ▯ happen _BIAS _RAKU_shao _2_RAKU_tuashao _ARI
 ▯ is a seat chair stool bench _BIAS _RAKU_fua _2_RAKU_tuıfua _ARITY_1	máq	sI	1
 ▯ is a seat chair stool bench _BIAS _RAKU_tuım _ARITY_1	máq	sI	1
 ▯ is a bench _BIAS _RAKU_toq _2_RAKU_tuıtoq _ARITY_1	máq	sI	1
+▯ shows displays ▯ to ▯ _BIAS _RAKU_ku _2_RAKU_tuku _ARITY_3	hó	sI	3
 ▯ is a pangram _BIAS _RAKU_na _2_RAKU_kuna _ARITY_1	hóq	sI	1
 ▯ pertains to the culture of tunisia tunisian republic _BIAS _RAKU_sıa _2_RAKU_nesıa _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country tunisia tunisian republic _BIAS _RAKU_gua _2_RAKU_sıagua _ARITY_1 _CAPS	máq	sI	1

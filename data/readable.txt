@@ -7444,6 +7444,9 @@ caqmıa @seaqtaq 2024-07-13 #0m3O2_vEB $en ±
 [t]predicate: ▯ is powerful
   seaqtaq (2024-07-13): In the sense that one has influence or control over many others
 
+caqmuao @jiqci 2026-07-13 #vnzzJY53h $en ±
+▯ is a hierarchy / chain of command.
+
 caqmuse @uakci 2019-04-21 #l0Eh8A6t5 $en ±
 [t]predicate: ▯ is the result of being conducted by ▯.
 
@@ -39790,6 +39793,7 @@ kaıdoem @seaqtaq 2025-05-06 #zi7xf8Tbn $en ±
 
 kaıdogulaq @jiqci 2026-07-10 #LmsRTss25 $en ±
 ▯ is a posting gland.
+  evie (2026-07-14): a what
 
 kaıdose @mimiaoganhaqpy 2023-07-20 #iirsDyOfZ $en ±
 [t]predicate: ▯ is a post.
@@ -41400,6 +41404,9 @@ keao- @kazoo 2025-01-01 #LADhl7SoU $en -1
 
 kéao @robintown 2024-08-21 #IeyfTtF1A $en +1
 [t]focus particle: exactly, precisely
+
+keaotoe @Aburn 2026-07-13 #u7BbRrFa2 $en ±
+▯ minces ▯; ▯ cuts ▯ very finely, into small pieces
 
 keapoq @Laqme 2018-12-14 #8sujbYaeK $en +1
 [t]predicate: ▯ is a robot / android / artificial intelligence (sci-fi sense) / machine person.
@@ -43111,7 +43118,7 @@ kı̣uzoaq @robintown 2025-12-14 #ieP8KEwBn $en ±
 [t]predicate: ▯ is soluble.
 
 kızı @jiqci 2023-06-05 #lv4ubq_0s $en ±
-[t]predicate: ▯ is the material felt.
+[t]predicate: [g]‘felt’; ▯ is felt (the material).
   jiqci (2023-06-05): borrowed from some Turkic language
 
 kızıa @Machy 2021-09-08 #acx1bd181 $en +1
@@ -46133,7 +46140,7 @@ lam @Laqme 2024-06-12 #z3XbDwKFh $en +2
 lama @Ilmen 2018-10-01 #tSi5iFWyC $en ± %lifeform,animal,vertebrate,mammal
 [t]predicate: ▯ is a llama.
 
-lamao @jiqci 2023-02-14 #uZt7Ao2HJ $en +1
+lamao @jiqci 2023-02-14 #uZt7Ao2HJ $en ±
 [t]interjection: lmao
 
 lamda @jiqci 2023-01-21 #pW6wmyKnb $en ±
@@ -53253,7 +53260,7 @@ mıhao @Machy 2022-02-14 #ZYHSAEl3P $en -1
 [t]name verb for hedging: turns following phrase X into verb: ▯ is symbolically/pragmatically X.
 
 mıhem [] @Aburn 2026-07-12 #LK1kSFXXA $en +1
-[t]interjection : [g]‘mischief’; mischeif; hehe
+[t]interjection : [g]‘mischief’; mischief; hehe
 
 mıja @uakci 2022-07-24 #7T0_nqVdn $en +3
 [t]interjection: yeah I agree
@@ -62749,6 +62756,9 @@ nhoka @Laqme 2022-07-10 #qyuS82cIz $en +4
 nhokeo @robintown 2021-09-23 #AuPiJroaj $en +3
 [t]predicate: ▯ rejects ▯, which the former knows to be good advice, due to inner resistance.
 
+nhokı [(c) (d) máq sI] @Dembim 2026-07-13 #Y58mxkjzh $en ±
+[t]predicate: [g]‘gnocchi’; ▯ is gnocchi
+
 nholı @uakci 2022-04-06 #ZzJd9l4xs $en ±
 [t]predicate: ▯ is the range/gamut of the parameter space for property ▯; ▯ is how low or high property(ies) ▯ can go.
 
@@ -67199,8 +67209,8 @@ pueq [(c) (d) hó sA] @Dembim 2026-02-27 #9WnYzJsG6 $en ±
 [t]predicate: [g]‘tread’; ▯ steps/treads.
   Ilmen (2026-03-03): discriminator: 2
 
-pueqbuaq @uakci 2021-11-15 #rymHxjkRW $en ±
-[t]predicate: ▯ trips/slips/trembles/loses balance/grip.
+pueqbuaq [(c) (d) hó sI] @uakci 2021-11-15 #rymHxjkRW $en ±
+[t]predicate: [g]‘slip’; ▯ trips/slips/trembles/loses balance/grip.
 
 pueqmına @jiqci 2024-01-12 #-aGxNeIkx $en ±
 [t]predicate: ▯ is a landmine.
@@ -86982,8 +86992,10 @@ tukoa @TheAndSys 2023-10-15 #DfJRgRkeX $en +1
 tukoakua @jiqci 2023-10-15 #GwQiAN8gB $en ±
 [t]predicate: ▯ is a locker room.
 
-tuku @Machy 2022-07-09 #FO_GCWfnX $en ±
-[t]predicate: ▯ shows/displays ▯ to ▯.
+tuku [(c c c) (d d d) hó sI] @Machy 2022-07-09 #FO_GCWfnX $en -1
+[t]predicate: [g]‘display’; ▯ shows/displays ▯ to ▯.
+  Dembim (2026-07-13): I think 'to ▯' is not needed.
+  Dembim (2026-07-13): See also (and probably prefer) <ıjo>.
 
 tukuaq @uakci 2021-10-18 #9mT9O_Hml $en ±
 [t]predicate: ▯ for each object among ▯ expresses that they satisfy relation ▯ with it.
@@ -87694,6 +87706,9 @@ udo @salarua 2023-02-19 #C95AlV9KA $en ±
 ⚠ ùe @xorxes 2020-06-05 #NnTp0a1k4 $en -1
 [t]interjection: expression of surprise, with overtones of disagreement or protest.
 
+⚠ ueıa [] @Aburn 2026-07-13 #LqfhVGU13 $en ±
+[t]interjection : [g]‘protest’; insolence, insubordination, protest; hey! no!
+
 Uesekozu @eednb 2023-12-31 #Y-h1-x8dO $en ±
 [t]predicate: ▯ is the Cameroonian Pidgin language.
   eednb (2023-12-31): from Cameroonian Pidgin 'Wes Cos' (their name for the language)
@@ -87768,6 +87783,12 @@ uıbokato @jiqci 2024-04-28 #a6MC9Dn8Y $en ±
 
 uıjatoq @robintown 2023-09-09 #rIxBD6vf9 $en +1
 [t]predicate: ▯ is an Ouija board.
+
+uım [] @Aburn 2026-07-13 #ag8Nany4V $en +1
+[t]interjection: [g]‘>~<’; expression of being cutely uncomfortable or embarrassed; >~<
+  Aburn (2026-07-13): Sadly I can’t have a word pronounced /ɯ/… (╯﹏╰）
+  Dembim (2026-07-13): See also <mene>
+  Aburn (2026-07-13): Intended to be similar to <uam>, the interjection also has the effect of wanting the error to be overlooked due to >~<
 
 ujı @robintown 2023-05-19 #lMO9RfW_6 $en +2
 [t]predicate: ▯ tests/assesses/checks/trials/tries out ▯.
