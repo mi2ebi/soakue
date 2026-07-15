@@ -2622,6 +2622,7 @@ according to ▯ ▯ is the case _BIAS _RAKU_jı _2_RAKU_jujı _ARITY_2	hó	sI	2
 ▯ 0 is true _BIAS _RAKU_na _2_RAKU_juna _ARITY_1	hóq	sP	1
 ▯ is true is the case _BIAS _RAKU_na _2_RAKU_juna _ARITY_1	hóq	sP	1
 ▯ is a picture representing the proposition ▯ _BIAS _RAKU_fuaq _2_RAKU_nafuaq _ARITY_2	máq	sI	2
+▯ is almost the case _BIAS _RAKU_juı _2_RAKU_najuı _ARITY_1	hóq	sP	1
 there is risk of ▯ being true _BIAS _RAKU_rıeı _2_RAKU_narıeı _ARITY_1	hóq	sP	1
 ▯ is a message _BIAS _RAKU_juo _ARITY_1	hóq	sI	1
 ▯ is a letter written message _BIAS _RAKU_juo _ARITY_1	hóq	sI	1
@@ -2689,8 +2690,8 @@ there is risk of ▯ being true _BIAS _RAKU_rıeı _2_RAKU_narıeı _ARITY_1	hó
 ▯ is a notebook _BIAS _RAKU_kue _2_RAKU_kaıkue _ARITY_1	máq	sI	1
 ▯ is a plain text file format _BIAS _RAKU_no _2_RAKU_kaıno _ARITY_1	hóq	sI	1
 ▯ is graphite _BIAS _RAKU_pıo _2_RAKU_kaıpıo _ARITY_1	máq	sI	1
-▯ is text writing _BIAS _RAKU_se _2_RAKU_kaıse _ARITY_1	hóq	sI	1
 ▯ is a marking _BIAS _RAKU_se _2_RAKU_kaıse _ARITY_1	máq	sI	1
+▯ is text writing _BIAS _RAKU_se _2_RAKU_kaıse _ARITY_1	hóq	sI	1
 ▯ is a mackerel stripy fishes of scombridae _BIAS _RAKU_bo _2_RAKU_sebo _ARITY_1	hó	sI	1
 ▯ has ▯ written on it _BIAS _RAKU_te _2_RAKU_kaıte _ARITY_2	máq	sI	2
 ▯ is a graphics tablet _BIAS _RAKU_kea _2_RAKU_toqkea _ARITY_1	máq	sI	1
@@ -5880,6 +5881,7 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _2_RAKU_toaqgeq _ARITY_2	hó	sI	2
 ▯ is the toaq language _BIAS _RAKU_zu _2_RAKU_toaqzu _ARITY_1 _CAPS	hóq	sI	1
 ▯ is in toaq _BIAS _RAKU_no _2_RAKU_zuno _ARITY_1	tá	sF	1
 ▯ is a transformer deep learning sense _BIAS _RAKU_rom _2_RAKU_sırom _ARITY_1	hóq	sI	1
+▯ is an etymology _BIAS _RAKU_tıeq _2_RAKU_toatıeq _ARITY_1	hóq	sI	1
 ▯ cuts ▯ _BIAS _RAKU_toe _ARITY_2	hó	sA	2
 ▯ cuts ▯ into ▯ _BIAS _RAKU_toe _ARITY_3	tá	sA	3
 ▯ is a chainsaw _BIAS _RAKU_kea _2_RAKU_rıkea _ARITY_1	máq	sI	1

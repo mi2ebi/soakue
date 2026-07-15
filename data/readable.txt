@@ -33659,7 +33659,7 @@ Isılaqgua @countries 2026-07-07 #WPuvHRh6B-_f $en ±
 [t]predicate: ▯ subtly/quietly/discreetly satisfies property ▯
 
 ıshıgesı [] @Aburn 2026-07-07 #vcBw_aWoY $en ±
-[t]interjection: [g]‘It’s over’; giving up; ‘It’s over/done for’
+[t]interjection: [g]‘it’s over’; giving up; ‘It’s over/done for’
 
 ıshıkusu @robintown 2025-04-01 #KJRQCSVl1 $en ± %lifeform,plant,fruit
 [t]predicate: ▯ is a cucumber.
@@ -38979,7 +38979,7 @@ junajao @seaqtaq 2024-11-05 #ojKKWgx40 $en ±
 junajuao @seaqtaq 2024-10-18 #yLlS9N2SS $en ±
 [t]predicate: ▯ is a theorem
 
-junajuı @Ilmen 2024-10-25 #qDsGdM09S $en ±
+junajuı [(0) (d) hóq sP] @Ilmen 2024-10-25 #qDsGdM09S $en ±
 [t]predicate: [g]‘almost’; ▯ is almost the case.
 
 junakoe @Neaqbua 2024-10-04 #j1a1Hq0LD $en ±
@@ -39932,9 +39932,6 @@ kaırıoqme @mimiaoganhaqpy 2023-09-10 #NHSQfh9NH $en ±
 kaırom @Laqme 2024-09-11 #f6jBTW_MF $en ±
 [t]predicate: ▯ is an input method / software keyboard.
 
-kaıse [(c) (d) hóq sI] @official 2026-07-07 #f6ntGX7nPZV $en ±
-[t]predicate: [g]‘text’; ▯ is text/writing.
-
 kaıse @jiqci 2023-07-31 #p77WPWYoye $pl ±
 [t]predicate: ▯ to tekst/napis.
 
@@ -39944,6 +39941,9 @@ kaıse @kazoo 2024-11-24 #rHgvKKKV8 $tr ±
 kaıse [(c) (d) máq sI] @Dembim 2026-03-03 #KYwXcBQE3 $en ±
 [t]predicate: [g]‘marking’; ▯ is a marking.
   Ilmen (2026-03-03): discriminator: 2
+
+kaıse [(c) (d) hóq sI] @official 2026-07-07 #f6ntGX7nPZV $en -1
+[t]predicate: [g]‘text’; ▯ is text/writing.
 
 kaısebe @fagri 2021-10-05 #3rue_X8L7 $en ±
 [t]predicate: ▯ is a stub article
@@ -85632,6 +85632,9 @@ toashuaq @ijonetun 2023-02-11 #C6wQul0Dz $tok ±
 toateoqme @Laqme 2023-11-01 #FDoAi15pg $en ±
 [t]predicate: ▯ is a vocabulary quiz.
 
+toatıeq [(c) (d) hóq sI] @Aburn 2026-07-14 #_UBKhlYin $en +1
+[t]predicate: [g]‘etymology’; ▯ is an etymology
+
 toatoaı @jiqci 2023-06-20 #KKVQ222hY $en ±
 [t]predicate: ▯ is a morpheme.
 
@@ -87706,8 +87709,8 @@ udo @salarua 2023-02-19 #C95AlV9KA $en ±
 ⚠ ùe @xorxes 2020-06-05 #NnTp0a1k4 $en -1
 [t]interjection: expression of surprise, with overtones of disagreement or protest.
 
-⚠ ueıa [] @Aburn 2026-07-13 #LqfhVGU13 $en ±
-[t]interjection : [g]‘protest’; insolence, insubordination, protest; hey! no!
+ue'ıa [] @Aburn 2026-07-14 #HUKaBhO6w $en ±
+[t]interjection: [g]‘protest’; insolence, insubordination, protest; hey! no!
 
 Uesekozu @eednb 2023-12-31 #Y-h1-x8dO $en ±
 [t]predicate: ▯ is the Cameroonian Pidgin language.
