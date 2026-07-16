@@ -17563,8 +17563,8 @@ duachıo @akesi 2020-04-06 #XmVivAMig $en +1
 duadıu @Laqme 2018-10-03 #KFPmcrc0J $en ±
 [t]predicate: ▯ is epistemology.
 
-duado @Laqme 2025-04-25 #OlDzPcC8v $en +1
-[t]predicate: ▯ adds ▯ to Toadua.
+duado [(c c) (d d) hó sA] @Laqme 2025-04-25 #OlDzPcC8v $en +2
+[t]predicate: [g]‘coin’; ▯ adds ▯ to Toadua.
 
 duafa @Ilmen 2020-02-22 #YBQ_LTGBa $en ± %action
 [t]predicate: ▯ explores ▯.
@@ -20108,6 +20108,9 @@ fashaıjuı @Machy 2022-02-15 #DGZcD30bC $en ±
 
 fashaıpoa @Aburn 2026-07-04 #VTQM8beOO $de ±
 [t]predicate: [g]‘verriegelt’; ▯ ist verriegelt/mit einem Schloss geschlossen
+  Aburn (2026-07-15): See <chuaorueq>
+  Aburn (2026-07-15): The state of having been <chuaorueq>
+  Aburn (2026-07-15): rueqpoa might have been better on second thought…
 
 fashı @robintown 2023-11-30 #gZ14aiPQ5 $en ±
 [t]predicate: ▯ is fascist.
@@ -20971,8 +20974,8 @@ fıeqno @seaqtaq 2020-04-24 #BoqEK2xiL $en +1
 fıeqrıaq @Saqani 2025-05-31 #vXaINunJ_ $en +1
 [t]predicate: ▯ is a workshop/hackspace/makerspace
 
-fıeqse @seaqtaq 2019-01-29 #Ha-MYQlmB $en ±
-[t]predicate: ▯ is a creation / work / invention / brain-child
+fıeqse [(c) (d) hóq sI] @seaqtaq 2019-01-29 #Ha-MYQlmB $en +1
+[t]predicate: [g]‘invention’; ▯ is a creation / work / invention / brain-child
   robintown (2023-11-24): invention
 
 fıeqtoa @Machy 2020-04-23 #-4pTT5qAz $en ±
@@ -23492,8 +23495,8 @@ geochua @salarua 2021-08-17 #V6pDn6l34 $en ±
 [t]predicate: ▯ is a deadname of ▯
   salarua (2021-08-17): this doesn't necessarily mean the birth name of a transgender individual; it can be the former name of anyone who changed their name for any reason
 
-geodıo @Machy 2022-04-15 #GPal0EF3O $en +5
-[t]predicate: ▯ is an afternoon.
+geodıo [(c) (d) hóq sI] @Machy 2022-04-15 #GPal0EF3O $en +5
+[t]predicate: [g]‘afternoon’; ▯ is an afternoon.
   Dembim (2026-02-12): Frame: c
   Dembim (2026-02-12): Pronominal_class: hoq
   Dembim (2026-02-12): Subject: individual
@@ -42989,8 +42992,8 @@ kıqtoq @Ilmen 2020-03-06 #DF1pQ3DVy $en ± %artifact,machine
 kıqtoqmuo @Laqme 2024-04-26 #cHxNZspdo $en ±
 [t]predicate: ▯ is full-screen (takes up the entire screen).
 
-kırı @el 2022-07-08 #9J8mxCclM $en +5 %subjective
-[t]predicate: ▯ is cute/adorable
+kırı [(c) (d) tá sF] @el 2022-07-08 #9J8mxCclM $en +5 %subjective
+[t]predicate: [g]‘cute’; ▯ is cute/adorable
   el (2022-07-08): monomorphemic root because i don't feel like the concept decomposes very well
   el (2022-07-08): came up w this w ramasu
   el (2022-07-08): * ramasu came up with it mostly
@@ -48234,12 +48237,15 @@ lıqde @uakci 2021-11-11 #EGmQUnTm4 $en +2
   fagri (2021-11-11): +1
   Dembim (2026-02-10): Frame: c
 
-lıqdenaq @mimiaoganhaqpy 2023-04-07 #k0kkxTTda $en +5
-[t]predicate: ▯ is a femboy.
+lıqdenaq [(c) (n) tá sI] @mimiaoganhaqpy 2023-04-07 #k0kkxTTda $en +6
+[t]predicate: [g]‘femboy’; ▯ is a femboy.
   mimiaoganhaqpy (2023-04-07): etymology: reversing **naqdelıq**
 
 lıqdenaq @TheAndSys 2025-03-29 #BrNMBsmfb $es ±
 [t]predicate: ▯ es un femboy
+
+lıqdenaq @Aburn 2026-07-15 #MgX80Ui7q $de ±
+[t]predicate: [g]‘femboy’; ▯ ist ein Femboy
 
 lıqdeo [(c) (d) hó sI] @official 2026-07-07 #HxUZgOxrxOkQ $en ± %biology
 [t]predicate: [g]‘girl’; ▯ is a girl.
@@ -57395,13 +57401,18 @@ naqde @uakci 2021-11-11 #2NSHqWMUT $en +2
   fagri (2021-11-11): +1
   Dembim (2026-02-10): Frame: c
 
-naqdelıq @TheAndSys 2023-04-07 #ehdtbnnyV $en +5
-[t]predicate: ▯ is a tomboy
+naqdelıq [(c) (n) tá sI] @TheAndSys 2023-04-07 #ehdtbnnyV $en +5
+[t]predicate: [g]‘tomboy’; ▯ is a tomboy
   TheAndSys (2023-04-07): etymology: it was revealed to me in a dream
   TheAndSys (2023-04-07): also naqde and liq, but i didn't know about naq when i came up with this word
 
 naqdelıq @TheAndSys 2025-03-29 #x8PGDl2_Q $es ±
 [t]predicate: ▯ es una tomboy
+
+naqdelıq @Aburn 2026-07-15 #Cx49ctO70 $de ±
+[t]predicate: [g]‘tomboy’; ▯ ist ein Tomboy
+  Aburn (2026-07-15): Ist es ein Tomboy, maskulin?
+  Aburn (2026-07-15): Ja, ist es anscheinend
 
 naqdeo [(c) (d) hó sI] @official 2026-07-07 #xJPt17gP_Y8R $en ± %biology
 [t]predicate: [g]‘boy’; ▯ is a boy.
@@ -71490,6 +71501,10 @@ rueqne @jiqci 2025-01-16 #wcOQu7Wvw $en ±
 
 rueqnoı @uakci 2023-02-10 #a4Q8Z544F $en ±
 [t]predicate: ▯ has cramps at ▯.
+
+rueqpoa @Aburn 2026-07-15 #gKVQb4vYZ $en ±
+▯ is sealed shut/closed tight/clogged/made to not allow anything to pass through it
+  Aburn (2026-07-15): See <fashaıpoa> for my… idiocy
 
 rueqreı @Laqme 2020-01-10 #BV2RS7iO4 $en +1
 [t]predicate: ▯ tightly surrounds ▯.
