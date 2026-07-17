@@ -5068,7 +5068,7 @@ bopı @robintown 2023-11-20 #-uMdZR9ko $en +2
 bopıosaı @elements 2020-02-26 #agNKPzr5X $en -1
 [t]predicate: ▯ is boron (element 5)
 
-boq [(c 0) (d d) hóq sE] @official 2026-07-07 #Lb2ywAg-8fE $en ± %causality
+boq [(c 0) (d d) hóq sE] @official 2026-07-07 #Lb2ywAg-8fE $en +1 %causality
 [t]predicate: [g]‘prevent’; That ▯ is the case prevents ▯ from being the case.
 
 boq @el 2022-07-10 #FFehipBoz $tok ± %causality
@@ -27996,6 +27996,7 @@ hanı [] @kazoo 2024-11-27 #kNQBFmDtJ $en +2
 [t]interjection: [g]‘poke’; reminding someone they've forgotten something or to prompt them about a task or duty they're neglecting.
   kazoo (2024-11-27): 'aren't you missing something?' 'weren't you supposed to be doing something right now?'
   Dembim (2026-06-27): poke; bonk
+  Dembim (2026-07-17): nudge
 
 hanoı @Ilmen 2019-04-04 #TjGZ3X4Zd $en ± %deixis
 I feel pain.
@@ -39032,9 +39033,6 @@ junu @uakci 2021-09-09 #JI8wVNFwI $en ±
 juo @Laqme 2024-07-19 #gSHsSX4Bp $en +2 %artifact
 [t]predicate: ▯ is a message.
 
-juo [(c) (d) hóq sI] @official 2026-07-07 #ra8q9eli0TG $en ± %artifact
-[t]predicate: [g]‘letter’; ▯ is a letter (written message).
-
 juo @Ilmen 2020-06-06 #VVCyoP3OA $en ± %artifact
 [t]predicate: ▯ is a written message.
 
@@ -39043,6 +39041,14 @@ juo @Laqme 2021-10-05 #sozu6kw7Z $ja ± %artifact
 
 juo @jiqci 2023-07-31 #E8YqDlT8aa $pl ± %artifact
 [t]predicate: ▯ to list.
+
+juo [(c) (d) hóq sI] @official 2026-07-07 #ra8q9eli0TG $en -1 %artifact
+[t]predicate: [g]‘letter’; ▯ is a letter (written message).
+
+juo [(c) (d) máq sI] @Dembim 2026-07-16 #Hc1CqPk-o $en ± %artifact
+[t]predicate: [g]‘message’; ▯ is a message.
+  Dembim (2026-07-16): Note that this is máq.
+  Dembim (2026-07-16): <kao> hyponym
 
 juo @uakci 2019-04-15 #ZCBGmLSCQ $toa -1 %artifact
 kaı sa ráı sa dó dóshı, na ru kuaı kuq dóshı dó sa ráı da
@@ -39159,7 +39165,7 @@ juojıo @Ilmen 2020-06-06 #ggUce16-n $en ±
 [t]predicate: ▯ is a post office.
 
 juola [(c c) (d d) hó sA] @Dembim 2026-02-06 #CDaKuzgX- $en ±
-[t]predicate: [g]‘send’; ▯ sends/leaves message ▯
+[t]predicate: [g]‘send’; ▯ sends/leaves message ▯; ▯ deposits for receipt message ▯
   Dembim (2026-02-06): Frame: c c
   Dembim (2026-02-06): Pronominal_class: ho
   Dembim (2026-02-06): Use <zuonhûq> or <côm> or another preposition for the recipient. Use <nhôe>, <îaı pam>, etc for the medium.
@@ -40294,17 +40300,17 @@ Kanho @funbreaker 2024-09-27 #0i7PJRXP3 $en ±
 [t]predicate: ▯ pertains to Karen/Kayen culture
   funbreaker (2024-09-27): from S'gaw Karen ကညီ ka nyaw
 
-kao [(c c) (d d) hóq sI] @official 2026-07-07 #N8NyOxabqts $en ± %artifact
-[t]predicate: [g]‘record’; ▯ is a record of information/data ▯.
+kao @Laqme 2024-05-10 #idAhIpCq0 $en +1 %artifact
+[t]predicate: ▯ is a record.
 
 kao @jiqci 2023-07-31 #PwlAvQ-GXX $pl ± %artifact
 [t]predicate: ▯ to zapis danych/informacji ▯.
 
-kao @Laqme 2024-05-10 #idAhIpCq0 $en ± %artifact
-[t]predicate: ▯ is a record.
-
 kao @TheAndSys 2025-03-26 #rkXwYsz3e $es ± %artifact
 [t]predicate: ▯ es un registro de información
+
+kao [(c c) (d d) hóq sI] @official 2026-07-07 #N8NyOxabqts $en -1 %artifact
+[t]predicate: [g]‘record’; ▯ is a record of information/data ▯.
 
 kao @uakci 2019-04-15 #V-jAN8YnA $toa -1 %artifact
 heq dóshı sa dáo rǎq hóa dógu da
@@ -48472,7 +48478,7 @@ lıusoqloha @Ilmen 2019-04-17 #JVN3hd54w $en ± %substance,chemical_element
 lızıam @Laqme 2024-07-15 #No8fZk0rc $en ±
 [t]predicate: Property ▯ is incompatible with property ▯ (nothing satisfies both).
 
-lo- @evie 2024-10-08 #C6gwvMl7F $en ±
+lo- @evie 2024-10-08 #C6gwvMl7F $en +1
 [t]prefix: incorporate **ráı** (*ló raı) object
   evie (2024-10-08): from mím « hıa tóaqzu? » teo
 
@@ -67720,15 +67726,15 @@ puq @el 2022-07-10 #xJtatPhZ8 $tok ± %cardinality
 puq @jiqci 2023-07-31 #vh1I-LTadI $pl ± %cardinality
 [t]predicate: ▯ to więcej niż jedna rzecz.
 
-puq @uakci 2025-01-31 #0-R5zc0uO $en ± %cardinality
-[t]as a non-standalone number component: a couple, several (some contextual “digit” value bigger than 1 and smaller than 10)
-
 ⚠ puq @oldofficial 2019-05-05 #Jrc_mBvVPD $en -1 %cardinality
 [t]predicate: [g]‘multiple’; ▯ are more than one / multiple things.
   Machy (2020-06-13): plural
 
 puq @Ilmen 2020-01-24 #ehJds0eAQ $toa -1 %cardinality
 [t]predicate: = bu shı ▯.
+
+puq @uakci 2025-01-31 #0-R5zc0uO $en -1 %cardinality
+[t]as a non-standalone number component: a couple, several (some contextual “digit” value bigger than 1 and smaller than 10)
 
 puqbeodaıbeotoaıdıu @Laqme 2022-12-04 #aYU11qFxx $en ±
 [t]predicate: ▯ is multivariable calculus.
@@ -68808,6 +68814,9 @@ reajuı @seaqtaq 2024-11-04 #toW6QnY2o $en ±
 
 reakaq @evie 2025-05-06 #7fMxWPXby $en ±
 [t]predicate: ▯ is/relates to peripheral vision
+
+reakıao [(c) (d) máq sI] @Dembim 2026-07-16 #8DrS--NFy $en ±
+[t]predicate: [g]‘door’; ▯ is an exterior doorway.
 
 realıeı @seaqtaq 2024-10-24 #cIwgYLimd $en ±
 [t]predicate: ▯ runs along (the length of) ▯
@@ -73684,7 +73693,7 @@ senuaı @Laqme 2023-07-18 #ExGCzdYAx $en ±
 senhe @uakci 2022-09-29 #XLPPA5vfJ $en ±
 [t]predicate: ▯ happens impactfully; ▯ happens with impact/result/aftermath ▯.
 
-seo [(c c) (d d) hó sI] @official 2026-07-07 #qVywP3O0Sv $en ± %kinship
+seo [(c c) (d d) hó sI] @official 2026-07-07 #qVywP3O0Sv $en +1 %kinship
 [t]predicate: [g]‘spouse’; ▯ is a spouse of ▯.
 
 seo @jiqci 2023-07-31 #ILADc11SCs $pl ± %kinship

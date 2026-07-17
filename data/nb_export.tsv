@@ -2627,13 +2627,14 @@ according to ▯ ▯ is the case _BIAS _RAKU_jı _2_RAKU_jujı _ARITY_2	hó	sI	2
 there is risk of ▯ being true _BIAS _RAKU_rıeı _2_RAKU_narıeı _ARITY_1	hóq	sP	1
 ▯ is a message _BIAS _RAKU_juo _ARITY_1	hóq	sI	1
 ▯ is a letter written message _BIAS _RAKU_juo _ARITY_1	hóq	sI	1
+▯ is a message _BIAS _RAKU_juo _ARITY_1	máq	sI	1
 ▯ blocks prevents them receiving any further written messages from ▯ _BIAS _RAKU_boq _2_RAKU_juoboq _ARITY_2	hó	sI	2
 ▯ is a postman _BIAS _RAKU_che _2_RAKU_juoche _ARITY_1	hó	sI	1
 ▯ is a mail address of ▯ _BIAS _RAKU_chıu _2_RAKU_juochıu _ARITY_2	hóq	sI	2
 ▯ describes ▯ as satisfying property ▯ _BIAS _RAKU_juoı _ARITY_3	hó	sA	3
 ▯ is characterized describable as satisfying property ▯ _BIAS _RAKU_kıu _2_RAKU_juoıkıu _ARITY_2	tá	sF	2
 ▯ is a description of ▯ _BIAS _RAKU_se _2_RAKU_juoıse _ARITY_2	hóq	sI	2
-▯ sends leaves message ▯ _BIAS _RAKU_la _2_RAKU_juola _ARITY_2	hó	sA	2
+▯ sends leaves message ▯ ▯ deposits for receipt message ▯ _BIAS _RAKU_la _2_RAKU_juola _ARITY_2	hó	sA	2
 ▯ should be the case ▯ had better be the case if ▯ is the case _BIAS _RAKU_juoq _ARITY_2	hóq	sP	2
 ▯ should satisfy property ▯ _BIAS _RAKU_juoq _ARITY_2	tá	sF	2
 ▯ receives gets acquires ▯ _BIAS _RAKU_juq _ARITY_2	hó	sI	2
@@ -2714,8 +2715,8 @@ there is risk of ▯ being true _BIAS _RAKU_rıeı _2_RAKU_narıeı _ARITY_1	hó
 ▯ is a rabbit _BIAS _RAKU_nı _2_RAKU_kanı _ARITY_1	hó	sI	1
 ▯ is rabbit meat _BIAS _RAKU_nueq _2_RAKU_nınueq _ARITY_1	máq	sI	1
 ▯ is a spirit soul or ghost _BIAS _RAKU_tu _2_RAKU_nıtu _ARITY_1	hó	sI	1
-▯ is a record of information data ▯ _BIAS _RAKU_kao _ARITY_2	hóq	sI	2
 ▯ is a record _BIAS _RAKU_kao _ARITY_1	máq	sI	1
+▯ is a record of information data ▯ _BIAS _RAKU_kao _ARITY_2	hóq	sI	2
 ▯ uploads sends to ▯ file ▯ _BIAS _RAKU_dıeq _2_RAKU_kaodıeq _ARITY_3	hó	sA	3
 ▯ uploads file ▯ _BIAS _RAKU_dıeq _2_RAKU_kaodıeq _ARITY_2	hó	sA	2
 ▯ is an archivist _BIAS _RAKU_che _2_RAKU_jache _ARITY_1	hó	sI	1
@@ -4685,6 +4686,7 @@ there are ▯ number raku in the word phrase ▯ _BIAS _RAKU_zıu _2_RAKU_kuzıu
 lanao ▯ is outbound headed to the outskirts of the spiral _BIAS _RAKU_na _2_RAKU_fana _ARITY_1	tá	sF	1
 ▯ is a colugo dermoptera taxonomic order _BIAS _RAKU_shoaı _2_RAKU_huashoaı _ARITY_1	hó	sI	1
 ▯ agent violates defies goes against is in opposition with ▯ _BIAS _RAKU_reaı _ARITY_2	hó	sA	2
+▯ is an exterior doorway _BIAS _RAKU_kıao _2_RAKU_reakıao _ARITY_1	máq	sI	1
 ▯ is a foe enemy adversary of ▯ _BIAS _RAKU_ream _ARITY_2	hó	sI	2
 ▯ is the surface of ▯ _BIAS _RAKU_ream _ARITY_2	máq	sI	2
 ▯ is an acquaintance of ▯ _BIAS _RAKU_jao _2_RAKU_reamjao _ARITY_2	hó	sI	2
