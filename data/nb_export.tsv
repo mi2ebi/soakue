@@ -601,7 +601,7 @@ event ▯ has ▯ as initiating force _BIAS _RAKU_bo _2_RAKU_cabo _ARITY_2	hóq	
 ▯ is a hard hat _BIAS _RAKU_chea _2_RAKU_caıchea _ARITY_1	máq	sI	1
 ▯ desperately badly needs to satisfy property ▯ _BIAS _RAKU_chıa _2_RAKU_caıchıa _ARITY_2	hó	sI	2
 ▯ is certain that ▯ is the case _BIAS _RAKU_dua _2_RAKU_caıdua _ARITY_2	hó	sI	2
-▯ hurls chucks pitches flings yeets ▯ _BIAS _RAKU_hıeq _2_RAKU_caıhıeq _ARITY_2	hó	sI	2
+▯ hurls chucks pitches flings yeets ▯ _BIAS _RAKU_hıeq _2_RAKU_caıhıeq _ARITY_2	hó	sA	2
 ▯ strides walks fiercely or strongly _BIAS _RAKU_koı _2_RAKU_caıkoı _ARITY_1	hó	sA	1
 ▯ must surely be the case _BIAS _RAKU_le _2_RAKU_caıle _ARITY_1	hóq	sF	1
 ▯ remembers ▯ vividly clearly in detail _BIAS _RAKU_caım _ARITY_2	hó	sI	2
@@ -955,7 +955,7 @@ any member of ▯ can be connected to any other member by repeated application o
 ▯ fucking sucks can go fuck itself _BIAS _RAKU_roı _2_RAKU_chıroı _ARITY_1	tá	sF	1
 ▯ is a belief _BIAS _RAKU_se _2_RAKU_chıse _ARITY_1	hóq	sI	1
 ▯ is skeptical in general _BIAS _RAKU_sıa _2_RAKU_chısıa _ARITY_1	hó	sI	1
-▯ remembers to do ▯ ▯ does ▯ as they have set out to do _BIAS _RAKU_tao _2_RAKU_chıtao _ARITY_2	hó	sI	2
+▯ remembers to do ▯ ▯ does ▯ as they have set out to do _BIAS _RAKU_tao _2_RAKU_chıtao _ARITY_2	hó	sA	2
 ▯ forgets to do ▯ ▯ has set out to do ▯ but doesn t do it in the end _BIAS _RAKU_bu _2_RAKU_taobu _ARITY_2	hó	sI	2
 ▯ is the address coordinates of ▯ _BIAS _RAKU_chıu _ARITY_2	hóq	sI	2
 ▯ belief system infects brainwashes ▯ into adhering to it _BIAS _RAKU_zoaq _2_RAKU_chızoaq _ARITY_2	hóq	sI	2
@@ -1325,7 +1325,7 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _2_RAKU_f
 ▯ is cotton candy _BIAS _RAKU_puao _2_RAKU_duaopuao _ARITY_1	máq	sI	1
 ▯ is a larva distinct juvenile form undergone before metamorphosis into adult form _BIAS _RAKU_duaq _ARITY_1	hó	sI	1
 ▯ intuits ▯ _BIAS _RAKU_roa _2_RAKU_duaroa _ARITY_2	hó	sI	2
-▯ and ▯ have a dispute over ▯ indirect question _BIAS _RAKU_soı _2_RAKU_duasoı _ARITY_3	hó	sI	3
+▯ and ▯ have a dispute over ▯ indirect question _BIAS _RAKU_soı _2_RAKU_duasoı _ARITY_3	hó	sA	3
 ▯ has a dispute over whether ▯ is the case _BIAS _RAKU_soı _2_RAKU_duasoı _ARITY_2	hó	sA	2
 ▯ is important relevant remarkable it is important to know ▯ _BIAS _RAKU_suao _2_RAKU_duasuao _ARITY_1	hóq	sP	1
 ▯ asks ▯ fact ▯ _BIAS _RAKU_sue _2_RAKU_duasue _ARITY_3	hó	sA	3
@@ -1792,7 +1792,7 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ is a berry _BIAS _RAKU_zeo _2_RAKU_goaızeo _ARITY_1	máq	sI	1
 ▯ gets electrified via friction triboelectric effect _BIAS _RAKU_juq _2_RAKU_rujuq _ARITY_1	máq	sI	1
 ▯ is spatially far away from ▯ _BIAS _RAKU_jao _2_RAKU_goajao _ARITY_2	tá	sS	2
-▯ is inside of ▯ in space _BIAS _RAKU_nıe _2_RAKU_goanıe _ARITY_2	tá	sF	2
+▯ is inside of ▯ in space _BIAS _RAKU_nıe _2_RAKU_goanıe _ARITY_2	tá	sS	2
 ▯ is smooth even _BIAS _RAKU_goaq _ARITY_1	tá	sI	1
 ▯ happens without problems smoothly _BIAS _RAKU_faq _2_RAKU_goaqfaq _ARITY_1	hóq	sE	1
 ▯ is spatially big takes up lots of space _BIAS _RAKU_sao _2_RAKU_goasao _ARITY_1	tá	sS	1
@@ -1930,10 +1930,17 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ is the country south africa republic of south africa _BIAS _RAKU_gua _2_RAKU_kagua _ARITY_1 _CAPS	máq	sI	1
 ▯ is the underworld _BIAS _RAKU_jıaq _2_RAKU_guqjıaq _ARITY_1	máq	sI	1
 ▯ is a diacritic that goes underneath its host _BIAS _RAKU_laı _2_RAKU_guqlaı _ARITY_1	hóq	sI	1
+▯ is halfway between below and to the left direction of ▯ _BIAS _RAKU_lıo _2_RAKU_guqlıo _ARITY_2	tá	sS	2
+▯ is halfway between below on the left and ahead of ▯ _BIAS _RAKU_shaq _2_RAKU_lıoshaq _ARITY_2	tá	sS	2
+▯ is halfway between below on the left and behind ▯ _BIAS _RAKU_tıa _2_RAKU_lıotıa _ARITY_2	tá	sS	2
 ▯ is an underdot _BIAS _RAKU_moa _2_RAKU_guqmoa _ARITY_1	hóq	sI	1
 ▯ is written without underdots following the prefix reform _BIAS _RAKU_cıa _2_RAKU_moacıa _ARITY_1	tá	sF	1
 ▯ is the bottom of ▯ _BIAS _RAKU_paq _2_RAKU_guqpaq _ARITY_2	tá	sI	2
-▯ is halfway between below and to the right direction of ▯ _BIAS _RAKU_sıaq _2_RAKU_guqsıaq _ARITY_2	tá	sF	2
+▯ is halfway between below and to the right direction of ▯ _BIAS _RAKU_sıaq _2_RAKU_guqsıaq _ARITY_2	tá	sS	2
+▯ is halfway between below on the right and ahead of ▯ _BIAS _RAKU_shaq _2_RAKU_sıaqshaq _ARITY_2	tá	sS	2
+▯ is halfway between below on the right and behind ▯ _BIAS _RAKU_tıa _2_RAKU_sıaqtıa _ARITY_2	tá	sS	2
+▯ is halfway between below and ahead of ▯ _BIAS _RAKU_shaq _2_RAKU_guqshaq _ARITY_2	tá	sS	2
+▯ is halfway between below and behind ▯ _BIAS _RAKU_tıa _2_RAKU_guqtıa _ARITY_2	tá	sS	2
 ▯ is a tunnel _BIAS _RAKU_tıeq _2_RAKU_guqtıeq _ARITY_1	máq	sI	1
 ▯ has two colors ▯ is bichromatic _BIAS _RAKU_bo _2_RAKU_reobo _ARITY_1	máq	sI	1
 ▯ is a kidney _BIAS _RAKU_req _2_RAKU_gureq _ARITY_1	máq	sI	1
@@ -2092,7 +2099,7 @@ the answer to ▯ determines the answer to ▯ both indirect questions _BIAS _RA
 ▯ to ▯ brings ▯ _BIAS _RAKU_fa _2_RAKU_hıefa _ARITY_3	hó	sA	3
 ▯ is a liver _BIAS _RAKU_ku _2_RAKU_hıeku _ARITY_1	máq	sI	1
 ▯ acts impulsively spontaneously on the spur of the moment _BIAS _RAKU_hıem _ARITY_1	hó	sA	1
-▯ throws ▯ _BIAS _RAKU_hıeq _ARITY_2	hó	sI	2
+▯ throws ▯ _BIAS _RAKU_hıeq _ARITY_2	hó	sA	2
 ▯ is a gun rifle _BIAS _RAKU_kea _2_RAKU_bıukea _ARITY_1	máq	sI	1
 ▯ is ballistics _BIAS _RAKU_dıu _2_RAKU_hıeqdıu _ARITY_1	hóq	sI	1
 ▯ catches ▯ from ▯ ▯ intercepts object ▯ which was caused to be in motion by entity ▯ _BIAS _RAKU_juq _2_RAKU_hıeqjuq _ARITY_3	hó	sA	3
@@ -2869,7 +2876,7 @@ fork of amo6x sn1 ▯ are the settings concerning ▯ _BIAS _RAKU_juao _2_RAKU_k
 ▯ is the country kenya republic of kenya _BIAS _RAKU_gua _2_RAKU_nıagua _ARITY_1 _CAPS	máq	sI	1
 ▯ is a deer of genus cervus _BIAS _RAKU_bo _2_RAKU_nobo _ARITY_1	hó	sI	1
 ▯ is sated satiated with respect to their urges to ▯ ▯ has had their fill of property ▯ _BIAS _RAKU_nhaq _2_RAKU_kenhaq _ARITY_2	hó	sI	2
-▯ talks to ▯ _BIAS _RAKU_keoı _ARITY_2	hó	sI	2
+▯ talks to ▯ _BIAS _RAKU_keoı _ARITY_2	hó	sA	2
 ▯ is a contact physical means through which to communicate remotely with someone or something _BIAS _RAKU_kea _2_RAKU_keoıkea _ARITY_1	hóq	sF	1
 ▯ is a conversation language _BIAS _RAKU_zu _2_RAKU_keoızu _ARITY_1	hóq	sI	1
 ▯ is a member of genus cygnus the swans _BIAS _RAKU_ko _2_RAKU_keoko _ARITY_1	hó	sI	1
@@ -3322,6 +3329,8 @@ as a general rule one satisfies with ▯ relation ▯ he ıqha _BIAS _RAKU_lı _
 ▯ is a vast open expanse _BIAS _RAKU_naq _2_RAKU_lınaq _ARITY_1	máq	sI	1
 ▯ is to the left of ▯ _BIAS _RAKU_lıo _ARITY_2	tá	sS	2
 ▯ is the left part of ▯ _BIAS _RAKU_paq _2_RAKU_lıopaq _ARITY_2	tá	sI	2
+▯ is halfway between the front and the left direction of ▯ _BIAS _RAKU_shaq _2_RAKU_lıoshaq _ARITY_2	tá	sS	2
+▯ is halfway between the back and the left direction of ▯ _BIAS _RAKU_tıa _2_RAKU_lıotıa _ARITY_2	tá	sS	2
 ▯ is female _BIAS _RAKU_lıq _ARITY_1	hó	sI	1
 ▯ is a female human ▯ is a woman _BIAS _RAKU_cha _2_RAKU_'ocha _ARITY_1	hó	sI	1
 ▯ is an adolescent girl young woman _BIAS _RAKU_cıo _2_RAKU_lıqcıo _ARITY_1	hó	sI	1
@@ -3583,7 +3592,7 @@ turns following phrase x into verb ▯ is among x _BIAS _RAKU_mea _ARITY_1	tá	s
 ▯ is astrodentistry _BIAS _RAKU_dıu _2_RAKU_nıoqdıu _ARITY_1	hóq	sI	1
 ▯ is an alien _BIAS _RAKU_poq _2_RAKU_meaıpoq _ARITY_1	hó	sI	1
 ▯ is the same thing as ▯ _BIAS _RAKU_jeq _2_RAKU_meajeq _ARITY_2	tá	sF	2
-▯ mentions ▯ _BIAS _RAKU_kuq _2_RAKU_meakuq _ARITY_2	hó	sI	2
+▯ mentions ▯ _BIAS _RAKU_kuq _2_RAKU_meakuq _ARITY_2	hó	sA	2
 ▯ mentions ▯ _BIAS _RAKU_kuq _2_RAKU_meakuq _ARITY_2	hó	sA	2
 ▯ is set theory _BIAS _RAKU_dıu _2_RAKU_meamdıu _ARITY_1	hóq	sI	1
 ▯ are infinitely many _BIAS _RAKU_meam _ARITY_1	hóq	sF	1
@@ -3647,7 +3656,7 @@ turns following word x into verb ▯ is called x _BIAS _RAKU_mı _ARITY_1	tá	sI
 ▯ appreciates esteems ▯ _BIAS _RAKU_gaı _2_RAKU_mıaqgaı _ARITY_2	hó	sI	2
 ▯ appreciates ▯ _BIAS _RAKU_jıe _2_RAKU_mıaqjıe _ARITY_2	hó	sI	2
 ▯ is invaluable priceless precious _BIAS _RAKU_mıq _2_RAKU_mıaqmıq _ARITY_1	tá	sF	1
-▯ is valuable precious _BIAS _RAKU_sao _2_RAKU_mıaqsao _ARITY_1	tá	sI	1
+▯ is valuable precious _BIAS _RAKU_sao _2_RAKU_mıaqsao _ARITY_1	tá	sS	1
 ▯ is semen _BIAS _RAKU_ca _2_RAKU_mıca _ARITY_1	máq	sI	1
 ▯ is a button switch dial marked x _BIAS _RAKU_cıoq _2_RAKU_mıcıoq _ARITY_1	máq	sI	1
 ▯ is rosemary _BIAS _RAKU_dıe _2_RAKU_mıdıe _ARITY_1	máq	sI	1
@@ -4025,7 +4034,7 @@ there is are ▯ _BIAS _RAKU_tı _2_RAKU_netı _ARITY_1	tá	sF	1
 ▯ is a year _BIAS _RAKU_nıaq _ARITY_1	hóq	sI	1
 ▯ is annual _BIAS _RAKU_dıaq _2_RAKU_nıaqdıaq _ARITY_1	hóq	sP	1
 ▯ is having their birthday it is ▯ s birthday _BIAS _RAKU_muo _2_RAKU_nıaqmuo _ARITY_1	hó	sI	1
-▯ takes place late in the year _BIAS _RAKU_reoq _2_RAKU_nıaqreoq _ARITY_1	hóq	sF	1
+▯ takes place late in the year _BIAS _RAKU_reoq _2_RAKU_nıaqreoq _ARITY_1	hóq	sE	1
 ▯ is today _BIAS _RAKU_chaq _2_RAKU_nıchaq _ARITY_1	hóq	sI	1
 ▯ is the now _BIAS _RAKU_daq _2_RAKU_nıdaq _ARITY_1	hóq	sI	1
 ▯ is inside ▯ _BIAS _RAKU_nıe _ARITY_2	tá	sS	2
@@ -5101,7 +5110,9 @@ someone something interacting in the expected way with ▯ generally causes them
 ▯ is to the right of ▯ _BIAS _RAKU_sıaq _ARITY_2	tá	sS	2
 ▯ moves rightwards _BIAS _RAKU_cu _2_RAKU_sıaqcu _ARITY_1	tá	sI	1
 ▯ is the right part of ▯ _BIAS _RAKU_paq _2_RAKU_sıaqpaq _ARITY_2	tá	sI	2
+▯ is halfway between the front and the right direction of ▯ _BIAS _RAKU_shaq _2_RAKU_sıaqshaq _ARITY_2	tá	sS	2
 ▯ is a bear s head fungus ▯ is hericium abietis _BIAS _RAKU_lıao _2_RAKU_kıaqlıao _ARITY_2	máq	sI	2
+▯ is halfway between the back and the right direction of ▯ _BIAS _RAKU_tıa _2_RAKU_sıaqtıa _ARITY_2	tá	sS	2
 ▯ is annihilated reduced to nothing _BIAS _RAKU_sho _2_RAKU_sıasho _ARITY_1	tá	sI	1
 ▯ is distracted from ▯ ▯ averts focus from ▯ _BIAS _RAKU_beo _2_RAKU_sıbeo _ARITY_2	hó	sI	2
 ▯ suspends their disbelief continues to believe in spite of evidence to the contrary that ▯ is the case _BIAS _RAKU_chı _2_RAKU_buchı _ARITY_2	hó	sI	2
@@ -5459,7 +5470,7 @@ fork of official predicate ▯ among ▯ is the ▯ est ▯ among ▯ satisfies 
 ▯ disposes of discards bins removes throws out ▯ _BIAS _RAKU_ta _2_RAKU_shata _ARITY_2	hó	sA	2
 ▯ is a shirt _BIAS _RAKU_tı _2_RAKU_shatı _ARITY_1	máq	sI	1
 ▯ is empty in aspect ▯ _BIAS _RAKU_shea _ARITY_2	tá	sI	2
-▯ is empty of ▯ ▯ doesn t have ▯ in it _BIAS _RAKU_shea _ARITY_2	tá	sF	2
+▯ is empty of ▯ ▯ doesn t have ▯ in it _BIAS _RAKU_shea _ARITY_2	tá	sS	2
 ▯ has depression _BIAS _RAKU_bıa _2_RAKU_sheabıa _ARITY_1	hó	sI	1
 ▯ eats up the contents of ▯ emptying it _BIAS _RAKU_chuq _2_RAKU_sheachuq _ARITY_2	hó	sA	2
 ▯ is space void vacuum _BIAS _RAKU_goa _2_RAKU_sheagoa _ARITY_1	máq	sI	1
@@ -5472,7 +5483,7 @@ fork of official predicate ▯ among ▯ is the ▯ est ▯ among ▯ satisfies 
 ▯ stands _BIAS _RAKU_sheaq _ARITY_1	hó	sI	1
 ▯ stands on ▯ _BIAS _RAKU_sheaq _ARITY_2	tá	sI	2
 ▯ is a pressure plate _BIAS _RAKU_cıoq _2_RAKU_sheaqcıoq _ARITY_1	máq	sI	1
-▯ is tall _BIAS _RAKU_sao _2_RAKU_sheaqsao _ARITY_1	tá	sF	1
+▯ is tall _BIAS _RAKU_sao _2_RAKU_sheaqsao _ARITY_1	tá	sS	1
 ▯ feels the sort of frustration that comes from repeatedly trying to stand something up or balance something on its end and repeatedly failing _BIAS _RAKU_meo _2_RAKU_buaqmeo _ARITY_1	hó	sI	1
 ▯ spaces out daydreams _BIAS _RAKU_sı _2_RAKU_sheası _ARITY_1	hó	sI	1
 ▯ is a przewalski s horse equus ferus przewalskii _BIAS _RAKU_ku _2_RAKU_'eku _ARITY_1	hó	sI	1
@@ -5631,7 +5642,7 @@ secret ▯ is spilled leaked comes to light becomes no longer secret _BIAS _RAKU
 ▯ hides _BIAS _RAKU_la _2_RAKU_shuıla _ARITY_1	hó	sA	1
 ▯ lurks lies in wait _BIAS _RAKU_lao _2_RAKU_shuılao _ARITY_1	hó	sA	1
 ▯ acts stealthily _BIAS _RAKU_ruo _2_RAKU_shuıruo _ARITY_1	hó	sA	1
-▯ spies on ▯ _BIAS _RAKU_sı _2_RAKU_shuısı _ARITY_2	hó	sI	2
+▯ spies on ▯ _BIAS _RAKU_sı _2_RAKU_shuısı _ARITY_2	hó	sA	2
 ▯ is a spy _BIAS _RAKU_che _2_RAKU_sıche _ARITY_1	hó	sI	1
 ▯ is a secret police agent _BIAS _RAKU_che _2_RAKU_juche _ARITY_1	hó	sI	1
 ▯ is a password _BIAS _RAKU_toa _2_RAKU_shuıtoa _ARITY_1	hóq	sI	1
@@ -5964,7 +5975,7 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _2_RAKU_toaqgeq _ARITY_2	hó	sI	2
 ▯ has a physical disability _BIAS _RAKU_soeı _2_RAKU_tuaısoeı _ARITY_1	hó	sI	1
 ▯ is brave courageous _BIAS _RAKU_ja _2_RAKU_tuaja _ARITY_1	hó	sI	1
 ▯ is the case a little bit _BIAS _RAKU_tuao _ARITY_1	hóq	sP	1
-▯ is little not much the case _BIAS _RAKU_tuao _ARITY_1	hóq	sI	1
+▯ is little not much the case _BIAS _RAKU_tuao _ARITY_1	hóq	sP	1
 ▯ is quite ▯ _BIAS _RAKU_bu _2_RAKU_tuaobu _ARITY_2	tá	sF	2
 ▯ is just the case _BIAS _RAKU_nu _2_RAKU_tuaonu _ARITY_1	hóq	sP	1
 ▯ is a horn body part _BIAS _RAKU_tuaq _ARITY_1	máq	sI	1
@@ -6261,7 +6272,7 @@ signature ▯ is something that makes one contextually unique in some salient re
 ▯ moves _BIAS _RAKU_zum _ARITY_1	máq	sI	1
 ▯ is unskilled bad at language ▯ _BIAS _RAKU_nıeq _2_RAKU_zunıeq _ARITY_2	hó	sI	2
 ▯ is in language ▯ _BIAS _RAKU_no _2_RAKU_zuno _ARITY_2	hóq	sF	2
-▯ translates ▯ into language ▯ _BIAS _RAKU_fıeq _2_RAKU_nofıeq _ARITY_3	hó	sI	3
+▯ translates ▯ into language ▯ _BIAS _RAKU_fıeq _2_RAKU_nofıeq _ARITY_3	hó	sA	3
 ▯ is a translator interpreter _BIAS _RAKU_che _2_RAKU_fıeqche _ARITY_1	hó	sI	1
 ▯ is for purpose ▯ _BIAS _RAKU_zuo _ARITY_2	hóq	sF	2
 what is the purpose of ▯ _BIAS _RAKU_hı _2_RAKU_zuohı _ARITY_1	hóq	sF	1

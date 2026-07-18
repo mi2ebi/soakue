@@ -326,6 +326,32 @@ impl Calibration {
     }
 }
 
+// ─── oversampling ────────────────────────────────────────────────────────────
+
+/// Duplicate examples from under-represented classes so the model sees them
+/// more often. `min_ratio` is the target count as a fraction of the
+/// majority class (e.g. 0.4 = at least 40% as many examples as the biggest
+/// class).
+fn oversample<'a>(examples: &[(String, &'a str)], min_ratio: f64) -> Vec<(String, &'a str)> {
+    let mut counts: std::collections::HashMap<&str, usize> = std::collections::HashMap::new();
+    for (_, label) in examples {
+        *counts.entry(*label).or_insert(0) += 1;
+    }
+    let max_count = counts.values().copied().max().unwrap_or(1);
+    let target = ((max_count as f64) * min_ratio).max(1.) as usize;
+
+    let mut out = examples.to_vec();
+    for (label, count) in counts {
+        if count < target {
+            let mine: Vec<_> = examples.iter().filter(|(_, l)| *l == label).cloned().collect();
+            for i in 0 .. target - count {
+                out.push(mine[i % mine.len()].clone());
+            }
+        }
+    }
+    out
+}
+
 // ─── k-fold CV with chaining + calibration ───────────────────────────────────
 
 struct CvResult {
@@ -356,7 +382,6 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
         let test = &examples[test_start .. test_end];
 
         let mut pron_weights = HashMap::new();
-        let mut subj_weights = HashMap::new();
         let mut p_counts = HashMap::new();
         let mut s_counts = HashMap::new();
 
@@ -369,9 +394,6 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
         for (name, count) in p_counts {
             pron_weights.insert(name, train_n / (f64::from(count) * 4.)); // 4 main prons
         }
-        for (name, count) in s_counts {
-            subj_weights.insert(name, train_n / (f64::from(count) * 6.)); // A, I, E, F, P, S
-        }
 
         // train pronoun model on raw features
         let pron_model = LogisticRegression::train(
@@ -379,13 +401,28 @@ fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
             &pron_weights,
         );
 
-        // train subject model with chained pronoun feature:
-        // for each training example, predict pronoun and append as feature
+        // train subject model with chained pronoun feature + oversampling
         let subj_train_examples: Vec<(String, &str)> =
             train.iter().map(|(f, p, s, _)| (with_pron_feature(f, p), *s)).collect();
+        let subj_balanced = oversample(&subj_train_examples, 0.2);
+
+        // Recompute weights on the balanced distribution
+        let mut s_counts_bal = std::collections::HashMap::new();
+        for (_, s) in &subj_balanced {
+            *s_counts_bal.entry(s.to_string()).or_insert(0) += 1;
+        }
+        let subj_n_bal = subj_balanced.len() as f64;
+        let num_subj_classes = s_counts_bal.len() as f64;
+        let subj_weights_bal: std::collections::HashMap<String, f64> = s_counts_bal
+            .into_iter()
+            .map(|(name, count)| {
+                (name, (subj_n_bal / (f64::from(count) * num_subj_classes)).sqrt())
+            })
+            .collect();
+
         let subj_model = LogisticRegression::train(
-            subj_train_examples.iter().map(|(f, s)| (f.as_str(), *s)),
-            &subj_weights,
+            subj_balanced.iter().map(|(f, s)| (f.as_str(), *s)),
+            &subj_weights_bal,
         );
 
         for (features, pron, subj, _) in test {
@@ -562,18 +599,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         })
         .collect();
 
-    let mut subj_counts = std::collections::HashMap::new();
-    for (_, _, s, _) in &cv_examples {
-        *subj_counts.entry(s.to_string()).or_insert(0) += 1;
-    }
-
-    let total_n = cv_examples.len() as f64;
-    let num_subjs = subj_counts.len() as f64;
-    let subj_weights: std::collections::HashMap<String, f64> = subj_counts
-        .into_iter()
-        .map(|(name, count)| (name, total_n / (f64::from(count) * num_subjs)))
-        .collect();
-
     // ── export NB training data ──
     let mut f = fs::File::create("data/nb_export.tsv")?;
     writeln!(f, "features\tpron\tsubj\tarity")?;
@@ -595,6 +620,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
     for (_, p, ..) in &cv_examples {
         *pron_counts.entry(p.to_string()).or_insert(0) += 1;
     }
+    let total_n = cv_examples.len() as f64;
     let num_prons = pron_counts.len() as f64;
     let pron_weights: std::collections::HashMap<String, f64> = pron_counts
         .into_iter()
@@ -604,7 +630,8 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         cv_examples.iter().map(|(f, p, ..)| (f.as_str(), *p)),
         &pron_weights,
     );
-    // subject model: use predicted pronoun as chained feature
+
+    // subject model: use predicted pronoun as chained feature + oversampling
     let subj_train: Vec<(String, &str)> = cv_examples
         .iter()
         .map(|(f, _, s, _)| {
@@ -612,8 +639,23 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             (with_pron_feature(f, &pred_pron), *s)
         })
         .collect();
-    let subject_model =
-        LogisticRegression::train(subj_train.iter().map(|(f, s)| (f.as_str(), *s)), &subj_weights);
+    let subj_balanced = oversample(&subj_train, 0.2);
+
+    let mut s_counts_bal = std::collections::HashMap::new();
+    for (_, s) in &subj_balanced {
+        *s_counts_bal.entry(s.to_string()).or_insert(0) += 1;
+    }
+    let subj_n_bal = subj_balanced.len() as f64;
+    let num_subj_classes = s_counts_bal.len() as f64;
+    let subj_weights_bal: std::collections::HashMap<String, f64> = s_counts_bal
+        .into_iter()
+        .map(|(name, count)| (name, (subj_n_bal / (f64::from(count) * num_subj_classes)).sqrt()))
+        .collect();
+
+    let subject_model = LogisticRegression::train(
+        subj_balanced.iter().map(|(f, s)| (f.as_str(), *s)),
+        &subj_weights_bal,
+    );
 
     let mut total = 0;
     let mut n_frame = 0;

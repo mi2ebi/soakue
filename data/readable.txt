@@ -7022,7 +7022,7 @@ caıguaı @Machy 2021-10-05 #Hs0QWUJby $en +1
 caıguaqfurı @seaqtaq 2020-05-19 #vsI3u23uy $en ±
 [t]predicate: ▯ is an earthquake; ▯ is an instance of intense seismological activity
 
-caıhıeq [(c c) (d d) hó sI] @Laqme 2021-11-19 #MrYwsgwax $en +2
+caıhıeq [(c c) (d d) hó sA] @Laqme 2021-11-19 #MrYwsgwax $en +2
 [t]predicate: [g]‘hurl’; ▯ hurls / chucks / pitches / flings / yeets ▯.
 
 caıhıo @Machy 2022-02-02 #WMa4ajDVQ $en ±
@@ -51844,7 +51844,7 @@ meajeq @Ilmen 2020-01-24 #4HgLHgjrB $toa -1 %logic
 meakuaı @uakci 2021-09-03 #xzIHPtGV4 $en ±
 [t]predicate: ▯ wants to feel included / be a part of something.
 
-meakuq [(c c) (d d) hó sI] @Laqme 2024-04-26 #gt_dwViqx $en +3 %action,communication
+meakuq [(c c) (d d) hó sA] @Laqme 2024-04-26 #gt_dwViqx $en +3 %action,communication
 [t]predicate: [g]‘mention’; ▯ mentions ▯.
   Ilmen (2025-10-31): officialized: yes
 
@@ -86714,7 +86714,7 @@ tuao @el 2022-07-10 #RnTSySV7d $tok ±
 tuao @jiqci 2023-07-31 #N08qKDzKif $pl ±
 [t]predicate: ▯ zachodzi trochę.
 
-tuao [(c) (d) hóq sI] @Isi 2024-10-05 #UWIcTQJ1J $en ±
+tuao [(c) (d) hóq sP] @Isi 2024-10-05 #UWIcTQJ1J $en ±
 [t]predicate: [g]‘little’; ▯ is little / not much the case.
   Isi (2024-10-05): From https://toaq.me/A_little
 
