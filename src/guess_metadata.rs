@@ -24,12 +24,11 @@
 //! uncorrelated with accuracy.
 
 use std::{
+    cmp::Ordering,
     collections::HashMap,
     fs,
     io::{self, Write as _},
 };
-
-use itertools::Itertools as _;
 
 use crate::toadua::{Toa, split_into_raku};
 
@@ -436,85 +435,60 @@ fn primary_arity(body: &str) -> (usize, &str) {
 
 fn normalize_body(s: &str) -> String { s.to_lowercase() }
 
-fn classify_slot(body: &str, slot_idx: usize) -> &'static str {
-    let parts: Vec<&str> = body.split('▯').collect();
-    let before = normalize_body(parts.get(slot_idx).copied().unwrap_or(""));
-    let after = normalize_body(parts.get(slot_idx + 1).copied().unwrap_or(""));
-    let after = after.trim_start_matches(|c: char| " ;,./".contains(c));
+use regex::Regex;
 
-    if after.contains("the case")
-        || (1 ..= 2).any(|n| after.split_whitespace().skip(n).join(" ").starts_with("the case"))
-        || after.starts_with("is true")
-        || after.starts_with("is false")
-        || after.starts_with("begins")
-        || after.starts_with("occurs")
-        || after.starts_with("takes place")
-        || before.ends_with("that ")
-        || before.ends_with("whether ")
-        || before.ends_with("if ")
+pub fn guess_frame(body: &str, n: usize) -> String {
+    if n == 0 {
+        return String::new();
+    }
+
+    let mut frame = vec!["c"; n];
+
+    let last_pos = body.rfind('▯').unwrap_or(0);
+    let before = &body[.. last_pos];
+    let after = &body[last_pos + '▯'.len_utf8() ..];
+    let after_trimmed = after.trim_start();
+    let lower = body.to_lowercase();
+
+    let re_the_case = Regex::new(r"^(\S+\s+){0,4}the case\b").unwrap();
+    let re_is_true_false = Regex::new(r"^(is true|is false)\b").unwrap();
+    let re_that_whether_if = Regex::new(r"\b(that|whether|if)\s*$").unwrap();
+
+    let re_property = Regex::new(r"\b(property|satisf\w+|to do|doing)\s*$").unwrap();
+
+    let re_making_it_them = Regex::new("making (it|them)").unwrap();
+
+    let re_relation = Regex::new(r"\brelation\w*\s*$").unwrap();
+
+    let last = if re_the_case.is_match(after_trimmed)
+        || re_is_true_false.is_match(after_trimmed)
+        || re_that_whether_if.is_match(before)
     {
-        return "0";
-    }
-
-    if before.ends_with("for doing ") {
-        return "1x";
-    }
-
-    let is_property = before.ends_with("property ")
-        || before.contains("satisfies ")
-        || before.contains("satisfying ")
-        || before.ends_with("to do ");
-
-    if is_property {
-        if before.ends_with("instructions for ") || before.ends_with("recipe for ") {
-            return "1x";
-        }
-        if slot_idx >= 2 {
-            let b = body.to_lowercase();
-            if [
-                "making it satisfy",
-                "into satisfying",
-                "to satisfy",
-                "forces",
-                "compels",
-                "manipulat",
-                "persuad",
-                "to do",
-            ]
-            .iter()
-            .any(|v| b.contains(v))
-            {
-                return "1j";
+        "0"
+    } else if re_property.is_match(before) {
+        match n.cmp(&2) {
+            Ordering::Greater => {
+                let is_manip = re_making_it_them.is_match(&lower)
+                    || lower.contains("gets")
+                    || lower.contains("into")
+                    || lower.contains("to do");
+                if is_manip { "1j" } else { "1i" }
             }
+            Ordering::Equal => "1i",
+            Ordering::Less => "1x",
         }
-        if slot_idx == 1 {
-            return "1i";
+    } else if re_relation.is_match(before) {
+        match n.cmp(&2) {
+            Ordering::Greater => "2ij",
+            Ordering::Equal => "2ix",
+            Ordering::Less => "2xx",
         }
-        return "1x";
-    }
+    } else {
+        "c"
+    };
 
-    if before.ends_with("relation ") || before.ends_with("relationship ") {
-        let b = body.to_lowercase();
-        if b.contains("each other") || b.contains("reciprocal") || b.contains("both sides") {
-            return "2xx";
-        }
-        if slot_idx >= 2 {
-            return "2ij";
-        }
-        if slot_idx == 1 {
-            return "2ix";
-        }
-        return "2xx";
-    }
-
-    "c"
-}
-
-fn guess_frame(body: &str, n: usize) -> String {
-    (0 .. n)
-        .map(|i| if i == n - 1 { classify_slot(body, i) } else { "c" })
-        .collect::<Vec<_>>()
-        .join(" ")
+    frame[n - 1] = last;
+    frame.join(" ")
 }
 
 fn guess_distribution(entry: &Toa, n: usize) -> String {
