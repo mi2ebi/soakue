@@ -554,6 +554,7 @@ fork of official predicate lose ▯ loses ▯ _BIAS _RAKU_shaı _2_RAKU_boshaı 
 ▯ pertains to the culture of burkina faso _BIAS _RAKU_so _2_RAKU_faso _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country burkina faso _BIAS _RAKU_gua _2_RAKU_sogua _ARITY_1 _CAPS	máq	sI	1
 ▯ is a bubble _BIAS _RAKU_la _2_RAKU_bula _ARITY_1	máq	sI	1
+▯ gets butterflies in their stomach _BIAS _RAKU_feao _2_RAKU_lafeao _ARITY_1	hó	sI	1
 ▯ is a stream creek brook _BIAS _RAKU_hıu _2_RAKU_lahıu _ARITY_1	máq	sI	1
 ▯ ferments _BIAS _RAKU_loeq _2_RAKU_laloeq _ARITY_1	tá	sI	1
 ▯ is foam froth _BIAS _RAKU_lam _2_RAKU_bulam _ARITY_1	máq	sI	1
@@ -567,9 +568,12 @@ fork of official predicate lose ▯ loses ▯ _BIAS _RAKU_shaı _2_RAKU_boshaı 
 ▯ is ready to satisfy property ▯ _BIAS _RAKU_buo _ARITY_2	hó	sI	2
 ▯ is non serious _BIAS _RAKU_buoq _ARITY_1	tá	sF	1
 ▯ is a clown jester buffoon _BIAS _RAKU_che _2_RAKU_buoqche _ARITY_1	hó	sI	1
+▯ is the case j ▯ is the case but i m just being silly _BIAS _RAKU_jı _2_RAKU_buoqjı _ARITY_1	hóq	sP	1
 ▯ is a glyph symbol of levity or non seriosity e g _BIAS _RAKU_laı _2_RAKU_buoqlaı _ARITY_1	máq	sI	1
 ▯ is a mouth _BIAS _RAKU_buq _ARITY_1	máq	sI	1
 ▯ is a glyph indicating schwa _BIAS _RAKU_laı _2_RAKU_chulaı _ARITY_1	máq	sI	1
+▯ satisfies property ▯ way too much _BIAS _RAKU_duı _2_RAKU_buqduı _ARITY_2	tá	sF	2
+▯ carries ▯ with their mouth _BIAS _RAKU_hıe _2_RAKU_buqhıe _ARITY_2	hó	sA	2
 ▯ is a fungus of genus hericium _BIAS _RAKU_lıao _2_RAKU_kıaqlıao _ARITY_1	máq	sI	1
 ▯ is a lip _BIAS _RAKU_luao _2_RAKU_buqluao _ARITY_1	máq	sI	1
 ▯ is kissing ▯ non agentive ▯ is touching ▯ with their lips _BIAS _RAKU_fuo _2_RAKU_luaofuo _ARITY_2	hó	sI	2
@@ -1303,7 +1307,7 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _2_RAKU_f
 ▯ learns that ▯ is the case _BIAS _RAKU_chıe _2_RAKU_duachıe _ARITY_2	hó	sA	2
 ▯ is epistemology _BIAS _RAKU_dıu _2_RAKU_duadıu _ARITY_1	hóq	sI	1
 ▯ adds ▯ to toadua _BIAS _RAKU_do _2_RAKU_duado _ARITY_2	hó	sA	2
-▯ is obvious _BIAS _RAKU_fuı _2_RAKU_duafuı _ARITY_1	tá	sF	1
+▯ is obvious _BIAS _RAKU_fuı _2_RAKU_duafuı _ARITY_1	hóq	sP	1
 ▯ is obvious _BIAS _RAKU_fuı _2_RAKU_duafuı _ARITY_1	hóq	sP	1
 ▯ is wise _BIAS _RAKU_gı _2_RAKU_duagı _ARITY_1	hó	sI	1
 ▯ investigates examines researches about looks into ▯ _BIAS _RAKU_guıq _2_RAKU_duaguıq _ARITY_2	hó	sA	2
@@ -3727,7 +3731,7 @@ mo ▯ says text to ▯ _BIAS _RAKU_moao _ARITY_2	hó	sA	2
 ▯ is an electronic or mechanical data storage device _BIAS _RAKU_kea _2_RAKU_moaqkea _ARITY_1	máq	sI	1
 ▯ is a memory _BIAS _RAKU_sıo _2_RAKU_moaqsıo _ARITY_1	hóq	sI	1
 ▯ forgets ▯ _BIAS _RAKU_shaı _2_RAKU_moaqshaı _ARITY_2	hó	sI	2
-▯ memorizes ▯ _BIAS _RAKU_tao _2_RAKU_shuetao _ARITY_2	hó	sI	2
+▯ memorizes ▯ _BIAS _RAKU_tao _2_RAKU_shuetao _ARITY_2	hó	sA	2
 ▯ is memory esp computer memory _BIAS _RAKU_shuo _2_RAKU_moaqshuo _ARITY_1	máq	sI	1
 ▯ recalls ▯ _BIAS _RAKU_tao _2_RAKU_moaqtao _ARITY_2	hó	sA	2
 ▯ happens precisely the moment that ▯ happens _BIAS _RAKU_rao _2_RAKU_moarao _ARITY_2	hóq	sE	2

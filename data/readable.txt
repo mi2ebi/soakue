@@ -6499,10 +6499,10 @@ buqjeoq @Ilmen 2019-01-02 #nfvXTRuHw $en ± %body_part
 buqjıaı @Ilmen 2019-08-24 #gSWySH3Wq $en +1 %action
 [t]predicate: ▯ holds ▯ in/with its/his/her/their mouth.
 
-buqjıaı @fagri 2019-03-02 #hdCvA1CuY $en ± %action
+buqjıaı @fagri 2019-03-02 #hdCvA1CuY $en -1 %action
 [t]predicate: ▯ bites ▯
 
-buqjıaı @uakci 2019-08-24 #4JgEmgzh- $en ± %action
+buqjıaı @uakci 2019-08-24 #4JgEmgzh- $en -1 %action
 [t]predicate: ▯ kisses ▯; ▯ with their mouth holds ▯ [person or locus].
 
 bụqjoe @examples 2026-07-17 #KykUr1QiRt0 $en ±
@@ -72365,6 +72365,7 @@ saı [(c) (d) tá sI] @Dembim 2026-06-15 #-1kfcXGLL $en ±
 [t]predicate: [g]‘matter’; ▯ is matter/material/substance.
   Dembim (2026-06-15): Discriminator: 2
   Dembim (2026-06-15): This differs from <@official saı> only in pronominal class.
+  evie (2026-07-18): why **tá**?
 
 ⚠ saı [(c) (d) máq sI] @oldofficial 2026-02-16 #KdviPjGR2OR $en -1
 [t]predicate: [g]‘matter’; ▯ is matter/material/substance.
