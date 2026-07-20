@@ -4944,7 +4944,6 @@ at least one pair among ▯ satisfies binary relationship ▯ _BIAS _RAKU_cheo _
 ▯ is false is not the case _BIAS _RAKU_hu _2_RAKU_sahu _ARITY_1	hóq	sP	1
 ▯ is false _BIAS _RAKU_hu _2_RAKU_sahu _ARITY_1	hóq	sP	1
 ▯ is matter material substance _BIAS _RAKU_saı _ARITY_1	máq	sI	1
-▯ is matter material substance _BIAS _RAKU_saı _ARITY_1	tá	sI	1
 ▯ is matter material substance _BIAS _RAKU_saı _ARITY_1	máq	sI	1
 ▯ is intoxicated tripping drunk high _BIAS _RAKU_bıao _2_RAKU_saıbıao _ARITY_1	hó	sI	1
 ▯ is a test tube _BIAS _RAKU_bıu _2_RAKU_saıbıu _ARITY_1	máq	sI	1
@@ -5920,7 +5919,7 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _2_RAKU_toaqgeq _ARITY_2	hó	sI	2
 ▯ is a transformer deep learning sense _BIAS _RAKU_rom _2_RAKU_sırom _ARITY_1	hóq	sI	1
 ▯ is an etymology _BIAS _RAKU_tıeq _2_RAKU_toatıeq _ARITY_1	hóq	sI	1
 ▯ cuts ▯ _BIAS _RAKU_toe _ARITY_2	hó	sA	2
-▯ cuts ▯ into ▯ _BIAS _RAKU_toe _ARITY_3	tá	sA	3
+▯ cuts ▯ into ▯ _BIAS _RAKU_toe _ARITY_3	hó	sA	3
 ▯ is a chainsaw _BIAS _RAKU_kea _2_RAKU_rıkea _ARITY_1	máq	sI	1
 ▯ is a chainsaw _BIAS _RAKU_kea _2_RAKU_chuekea _ARITY_1	máq	sI	1
 ▯ is an axe _BIAS _RAKU_chuo _2_RAKU_toechuo _ARITY_1	máq	sI	1

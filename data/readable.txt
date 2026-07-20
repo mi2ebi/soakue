@@ -3229,6 +3229,9 @@ beokao @Laqme 2023-11-02 #m6UUWso9L $en +1
 [t]predicate: ▯ is a diff / patch.
   Laqme (2023-11-02): computing sense
 
+beokoejeqda @Aburn 2026-07-19 #PBT4KGYmL $en ±
+▯ is genderfluid
+
 beokopı @Ilmen 2019-05-18 #8fCvnilvJ $en ±
 [t]predicate: ▯ is a fork (modified copy) of ▯.
   Ilmen (2019-05-18): (fork of #guaokōpī)
@@ -4893,8 +4896,8 @@ bojeo @uakci 2019-04-15 #Vq8n6sqeG $en ±
 Bojıpuzu @eednb 2023-12-31 #8PN_TjkkT $en ±
 [t]predicate: ▯ is the Bhojpuri language.
 
-boju @official 2026-07-17 #GbAyj7A8J5G $en ±
-interjection: ‘’; requesting to take the floor; may I speak?
+boju [] @official 2026-07-19 #8KWyu6R1S $en ±
+[t]interjection: [g]‘if.I.may’; requesting to take the floor; may I speak?
 
 boju @uakci 2022-07-31 #5ppJl-TFj $en ±
 [t]interjection: I want to speak now
@@ -18942,8 +18945,8 @@ elaq @Dembim 2026-02-18 #m7zaITlsU $en ±
 [t]onomatopoeia quote: turns the following quote X into a verb: ▯ is a sound represented onomatopoetically by X
   Dembim (2026-02-21): Shuaq ké naq élaq ııık teo râo, é zaq sá muse da.
 
-ele @official 2026-07-17 #CHkBJE61x8p $en ±
-interjection: ‘’; I don't care either way
+ele [] @official 2026-07-19 #icNKx8WXiJ $en ±
+[t]interjection: [g]‘whatever’; I don't care either way
 
 ele @Machy 2022-08-21 #nre0kUkHo $en ±
 [t]interjection: 'Who cares?', 'I dunno'
@@ -51261,15 +51264,16 @@ mamıeqkıu @Ilmen 2019-01-23 #FSeOtmqA0 $en ± %evidentiality
 mamıeqnoa @Ilmen 2026-01-17 #BsArtdfFy $en ±
 [t]predicate: ▯ is difficult to assess whether it is the case or not.
 
-mamjao [] @Dembim 2026-03-17 #ogTJlTfIX $en +1
-[t]tense: [g]‘REM.DEMO’; remote demonstrative
+mamjao @Dembim 2026-03-17 #ogTJlTfIX $en +1
+[t]tense: remote demonstrative
   Dembim (2026-03-17): e.g. "back then"
 
 mamjao @evie 2026-03-19 #OJkxHSWpI $jbo ±
 zu
 
 mamjuı @Dembim 2026-03-17 #_xjuJiXqw $en ±
-[t]tense: "just then"; "just now"; near demonstrative
+[t]tense: near demonstrative
+  Dembim (2026-07-19): "just then"; "just now"
 
 mamjuı @evie 2026-03-19 #ZlucInBg8 $jbo ±
 zi
@@ -72361,12 +72365,6 @@ saı [(c) (d) máq sI] @official 2026-07-17 #DDPNzuL8DIQL $en ±
 saı @jiqci 2023-07-31 #ItGHg9J1km $pl ±
 [t]predicate: ▯ to materia/substancja/materiał.
 
-saı [(c) (d) tá sI] @Dembim 2026-06-15 #-1kfcXGLL $en ±
-[t]predicate: [g]‘matter’; ▯ is matter/material/substance.
-  Dembim (2026-06-15): Discriminator: 2
-  Dembim (2026-06-15): This differs from <@official saı> only in pronominal class.
-  evie (2026-07-18): why **tá**?
-
 ⚠ saı [(c) (d) máq sI] @oldofficial 2026-02-16 #KdviPjGR2OR $en -1
 [t]predicate: [g]‘matter’; ▯ is matter/material/substance.
   Dembim (2026-06-15): kw: physical, object
@@ -85717,7 +85715,7 @@ toe @el 2022-07-10 #auusE45wf $en +2
 [t]predicate: ▯ cuts ▯
   el (2022-07-10): use **sey** / **mu se** to get at the result of the cutting
 
-toe [(c c c) (d d d) tá sA] @official 2026-07-17 #1ok39XeZUEe $en ±
+toe [(c c c) (d d d) hó sA] @official 2026-07-19 #-pdyd3cMb $en ±
 [t]predicate: [g]‘cut’; ▯ cuts ▯ into ▯.
 
 toe @el 2022-07-10 #3btntCjAC $tok ±
