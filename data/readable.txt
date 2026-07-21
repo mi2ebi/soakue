@@ -30568,8 +30568,8 @@ hó @Laqme 2021-10-04 #SdXu4e5g9 $ja ±
 hó @TheAndSys 2025-03-26 #2rW1MswRm $es ±
 [t]pronombre: ‘it.I‘; pronombre anafórico para DPs animadas (clase I)
 
-ho'u @Dembim 2026-01-31 #eVy_lSw81 $en ±
-[t]illocution: suggestive ("X could happen, maybe", "X is an idea")
+ho'u [] @Dembim 2026-01-31 #eVy_lSw81 $en ±
+[t]illocution: [g]‘suggestive’; X could happen, maybe; X is an idea
   Dembim (2026-01-31): <@fagri hou>
 
 hoa- @Hoemai 2023-03-11 #RqPgWwlZ9 $en +1
@@ -63292,6 +63292,9 @@ oguıpıu @robintown 2022-01-02 #QjEyWANuw $en ±
 oguıpoq @Machy 2022-05-23 #-iZxbHf-w $en ±
 [t]predicate: ▯ is half-snake, half-human; ▯ is a naga, Echidna, Tlanchana, etc.
 
+oguısuoqche @jiqci 2026-07-20 #LJcVN3Dxa $en ±
+▯ is a snake charmer.
+
 ohe @lassc 2026-03-17 #gJmkcLnYi $en ±
 [t]predicate: ▯ is marked/the Other (philosophical/linguistic/sociological).
   lassc (2026-03-17): etymology: syllabic inversion of **heo**
@@ -70340,6 +70343,7 @@ rıu- @evie 2025-03-29 #THzDDMQqV $tlh ±
 
 rıu [(c 1i) (d d) tá sI] @official 2026-07-17 #FpDDsts90CUS $en ±
 [t]predicate: [g]‘return’; ▯ returns to satisfying property ▯.
+  Dembim (2026-07-20): resumes
 
 rıu @el 2022-07-10 #iIZEeCZ-p $tok ±
 [t]predicate: ▯ li kama ▯ sin
@@ -75607,7 +75611,7 @@ só [] @Dembim 2025-12-14 #B0Yy-q2PJ $en +1
   Dembim (2026-02-09): Good for complex foreign names e.g. (só mı Alecaqdoro cuoı) as well as complex Toaqic names e.g. (só Gıo Tamara Eka Zaq)
 
 so'u @Dembim 2026-02-17 #1tmLoZLNC $en ±
-contemplative illocution
+[t]illocution: contemplative
   Dembim (2026-02-17): See comments under <@Machy sou>
   Ilmen (2026-02-17): In the past I called this “null illocution”, though I think “contemplative illocution” is nice too.
   Ilmen (2026-02-17): You could presumably imitate this by saying e.g. ⟪sıaja, ꝡä …… da⟫ instead of ⟪…… so'u⟫.
