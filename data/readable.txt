@@ -1401,10 +1401,6 @@ aq'aq @jiqci 2023-07-31 #_6QsmUaj9m $pl ±
 aq'aqshe @el 2022-08-01 #5PMi9D3yq $en ±
 [t]predicate: ▯ is the letter Aq
 
-aqbı @seaqtaq 2021-10-04 #_LvsQ87q1 $en -1
-[t]meta-predicate: ▯ is that which obviously fits into the surrounding description; jẻı ▯´ lú [containing sentence with haqbī replaced with hoa].
-  seaqtaq (2021-10-04): Fork of uakci's haqbi, added when we didn't have glottal initials so that the h- was obligatory
-
 aqbo [(c) (d) tá sF] @official 2026-07-17 #swH40iwjuFU $en ±
 [t]predicate: [g]‘oneself's’; ▯ is oneself's (of the subject of the sentence).
 
@@ -5135,6 +5131,10 @@ boqgıqtao @seaqtaq 2024-08-29 #yN3HD8qUw $en ±
 boqgoaıcha @seaqtaq 2020-06-28 #i9yMuBdj2 $en ±
 [t]predicate: ▯ is an affricate
 
+boqgoaılaq @Ilmen 2026-07-21 #n5AphILt0 $en ± %linguistics,phonetics,sounds
+[t]predicate: ▯ is an affricate consonant sound.
+  Ilmen (2026-07-21): sememe: mihome
+
 boqkıubu [(c) (d) hóq sP] @official 2026-07-17 #jCFOH-QcQpG $en ±
 [t]predicate: [g]‘inevitable’; ▯ is inevitable.
 
@@ -5148,7 +5148,7 @@ boqkıubu @jiqci 2023-07-31 #sVdUdrYf0l $pl ±
 boqko @Machy 2021-09-30 #m9TqaC8fX $en +1
 [t]predicate: ▯ finds ▯.
 
-boqlaq @Ilmen 2019-09-17 #R3pTB7FcQwp $en +1 %linguistics,phonetics
+boqlaq @Ilmen 2019-09-17 #R3pTB7FcQwp $en +1 %linguistics,phonetics,sounds
 [t]predicate: ▯ is a consonant.
 
 boqle @Ilmen 2020-01-24 #kaONupou- $en ±
@@ -5189,11 +5189,12 @@ boqsıa @seaqtaq 2024-10-24 #9MJSGEcvW $en ±
 boqsoa @seaqtaq 2020-04-20 #vztm07qSg $en ±
 [t]predicate: ▯ prevents ▯ from satisfying property  ▯ for the latter's benefit; ▯ saves ▯ from (doing) ▯
 
-boqsucha @seaqtaq 2020-06-28 #imvDMaRlT $en ±
+boqsucha @seaqtaq 2020-06-28 #imvDMaRlT $en -1
 [t]predicate: ▯ is articulated by obstructing all airflow; ▯ is an oral stop/plosive
 
 boqsulaq @seaqtaq 2019-09-17 #Qxp6j3OPGVA $en ±
 [t]predicate: ▯ is a plosive
+  Ilmen (2026-07-21): sememe: neyiza
 
 boqtao @fagri 2020-06-16 #sDBVxMSKP $en ±
 [t]predicate: ▯ (agent) prevents ▯ from being the case
@@ -6098,7 +6099,7 @@ buıkuboaq @seaqtaq 2019-06-20 #HMrq_7YzXx $en -1
 [t]predicate: ▯ is a placenta
   Ilmen (2025-10-31): Database duplicate.
 
-buılaq @seaqtaq 2020-06-28 #U_RA6pHfv $en ±
+buılaq @seaqtaq 2020-06-28 #U_RA6pHfv $en -1
 [t]predicate: ▯ is a peripheral consonant (non-coronal)
 
 buıleoq @seaqtaq 2024-11-14 #TzBISdMm4 $en ±
@@ -8111,6 +8112,10 @@ cesa @robintown 2021-12-30 #tEa2CsLFY $en ±
 
 cesafeı @jiqci 2023-11-13 #bh2JplPpF $en ±
 [t]predicate: ▯ seethes / is furious.
+
+cesalaq @evie 2026-07-21 #KokrYx2l9 $en ±
+[t]predicate: ▯ is a sibilant
+  Ilmen (2026-07-21): sememe: sibowo
 
 cesanao @el 2022-07-01 #TY-2jHGvo $en ±
 [t]predicate: ▯ is sparkling water
@@ -22128,10 +22133,10 @@ furımuoı @seaqtaq 2024-07-21 #jD_MrOx69 $en ±
 furınuofua @seaqtaq 2020-02-29 #MMUN_xMM4 $en ±
 [t]predicate: ▯ is a hammock
 
-furısa @seaqtaq 2019-09-17 #WpaFydz8Yme $en ±
+furısa @seaqtaq 2019-09-17 #WpaFydz8Yme $en +1
 [t]predicate: ▯ is voiced (phonetics)
 
-furısıa @seaqtaq 2019-09-17 #6TwxTcXP1BO $en ±
+furısıa @seaqtaq 2019-09-17 #6TwxTcXP1BO $en +1
 [t]predicate: ▯ is voiceless/unvoiced (phonetics)
 
 furıtopoı @jiqci 2025-04-20 #Sfcbm5JAy $en ±
@@ -25078,8 +25083,9 @@ goaıboe @uakci 2020-01-20 #G9JbNc4bo $en ±
 [t]predicate: ▯ is a tissue / wiping cloth / handkerchief.
   uakci (2020-01-20): possibly even: towel
 
-goaıboqlaq @Ilmen 2019-09-17 #Jw-8XofQIHQ $en ± %linguistics,phonetics
+goaıboqlaq @Ilmen 2019-09-17 #Jw-8XofQIHQ $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a fricative consonant.
+  Ilmen (2026-07-21): sememe: jasiku
 
 goaıca [(c c c) (d d d) hóq sA] @official 2026-07-17 #ZLiHA8k6J_PS $en ±
 [t]predicate: [g]‘rub’; ▯ causes ▯ to rub against ▯.
@@ -26947,11 +26953,11 @@ gulo @Ilmen 2019-01-02 #N-hACEiaA $en -1
 [t]predicate: ▯ is a wolverine.
   Ilmen (2019-01-02): −1
 
-guluao @seaqtaq 2019-09-17 #YssuC-4HCz $en ±
+guluao @seaqtaq 2019-09-17 #YssuC-4HCz $en -1
 [t]predicate: ▯ is bilabial (phonetics)
   Machy (2020-06-28): tulip
 
-guluaolaq @Ilmen 2019-09-17 #FodGCdSXymU $en ± %linguistics,phonetics
+guluaolaq @Ilmen 2019-09-17 #FodGCdSXymU $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a bilabial consonant.
 
 guluaqmu @Laqme 2019-02-05 #BgqK_D6C6 $en ±
@@ -32698,10 +32704,6 @@ bo'a jai ckaji bo'e
 ıasata @eednb 2023-05-03 #VkJ7mVLQs $en ±
 [t]predicate: ▯ is a minor deity
   eednb (2023-05-03): from Avestan 𐬫𐬀𐬰𐬀𐬙𐬀 ‘yazata’, the name for minor deities in Zoroastrianism
-
-⚠ ıat @akesi 2020-07-01 #WQqz3qJ75 $en -1
-[t]predicate: ▯ is a protist.
-  akesi (2020-07-01): 1 syllable because yes
 
 ıata @jiqci 2023-09-08 #rgtjsLx0q $en ±
 [t]predicate: ▯ is a protist.
@@ -47380,8 +47382,9 @@ leqfuochue @jiqci 2023-10-04 #9eXn7EvZm $en ±
 leqfuoduao @jiqci 2024-06-15 #kUEBUyxoh $en ±
 [t]predicate: ▯ is a lollipop.
 
-leqfurılaq @seaqtaq 2019-09-17 #Mpsr9rD980j $en ±
+leqfurılaq @seaqtaq 2019-09-17 #Mpsr9rD980j $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a trill
+  Ilmen (2026-07-21): sememe: ridobu
 
 leqguqfeqnhoq @jiqci 2025-08-29 #m5M5N9ZEZ $en ±
 [t]predicate: ▯ is an hypoglossal nerve (CN XII).
@@ -47404,14 +47407,21 @@ leqkuoq @jiqci 2023-03-12 #kEB223O0S $en ±
 leqlıacha @seaqtaq 2019-09-17 #HodV76f8k4m $en ±
 [t]predicate: ▯ is lateral/articulated using both sides of the tongue (phonetics)
 
+leqlıalaq @Ilmen 2026-07-21 #mn0B_WUt- $en ± %linguistics,phonetics,sounds
+[t]predicate: ▯ is a lateral consonant sound.
+  Ilmen (2026-07-21): sememe: labiho
+
 leqparuqfeqnhoq @jiqci 2025-08-29 #qi6t0aJdJ $en ±
 [t]predicate: ▯ is a glossopharyngeal nerve (CN IX).
 
-leqroıluao @seaqtaq 2020-06-28 #wXz-SSl8X $en ±
+leqroıluao @seaqtaq 2020-06-28 #wXz-SSl8X $en -1
 [t]predicate: ▯ is articulated linguolabially/with the tongue touching the upper lip (phonetics)
 
 leqshaqcha @seaqtaq 2019-09-17 #3QCZLfj-Pd $en ±
 [t]predicate: ▯ is a coronal consonant
+
+leqshaqlaq @evie 2026-07-21 #ZhHK0rgRr $en ±
+▯ is a coronal (i.e. apical or laminal) consonant
 
 leqtoqcha @seaqtaq 2019-09-17 #-XGSCFZwob $en ±
 [t]predicate: ▯ is laminal (phonetics)
@@ -48599,10 +48609,11 @@ loaıkea @Ilmen 2019-04-13 #jLNpPGpmO $en ±
 loaılam @Laqme 2024-06-12 #tdrdBF94v $en ±
 [t]predicate: ▯ is runny/has a low viscosity.
 
-loaılaq @seaqtaq 2019-09-17 #cYqlI2c8daV $en ±
+loaılaq @seaqtaq 2019-09-17 #cYqlI2c8daV $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is an approximant
+  Ilmen (2026-07-21): sememe: peguvu
 
-loaılaq @seaqtaq 2020-06-28 #gS1vlCcHX $en ±
+loaılaq @seaqtaq 2020-06-28 #gS1vlCcHX $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a continuant (phonetics)
 
 loaıluao @uakci 2022-03-09 #ZBO2KHdBV $en +2
@@ -49683,19 +49694,19 @@ luaokıaq @Ilmen 2019-04-01 #P_7ONm2Ui $en ± %body_part
 luaokıaqketea @Ilmen 2019-04-01 #UYdGsoQiH $en ± %lifeform,animal,vertebrate,mammal
 [t]predicate: ▯ is a baleen whale.
 
-luaolaq @Ilmen 2019-09-17 #Cx7wfD2yBz2 $en ± %linguistics,phonetics
+luaolaq @Ilmen 2019-09-17 #Cx7wfD2yBz2 $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a labial consonant (including labiodentals and bilabials).
 
 luaoleoq @Laqme 2022-04-27 #F4S9oRvtq $en ±
 [t]predicate: ▯ is lip balm.
 
-luaonıoqlaq @Ilmen 2019-09-17 #84u8DDlzPmT $en ± %linguistics,phonetics
+luaonıoqlaq @Ilmen 2019-09-17 #84u8DDlzPmT $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a labiodental consonant.
 
 ⚠ luaonhou @seaqtaq 2022-02-20 #Nzp3ddotD $en -1
 [t]predicate: ▯ kisses ▯
 
-luaoroınıoq @seaqtaq 2020-06-28 #WYRkOnnw8 $en ±
+luaoroınıoq @seaqtaq 2020-06-28 #WYRkOnnw8 $en -1
 [t]predicate: ▯ is labiodental (phonetics)
 
 luaosaı @fagri 2021-09-09 #nlp8-5CV8 $en ±
@@ -52035,7 +52046,7 @@ meazua @uakci 2024-05-01 #0x8xthbza $en +1
 meazua @Laqme 2022-08-16 #b1wWL_QWK $en ±
 [t]predicate: ▯ excludes ▯ from group ▯.
 
-mebo @seaqtaq 2024-10-02 #xhgRTsKXm $en +1
+mebo @seaqtaq 2024-10-02 #xhgRTsKXm $en +2
 [t]predicate: ▯ collectively own/share ▯
 
 mebo @Machy 2020-06-06 #5SEXdWQ0O $en -1
@@ -59041,7 +59052,7 @@ nıeqla @seaqtaq 2024-08-11 #RnEvctUOL $en ±
 nıeqleo @uakci 2023-01-02 #X3HKS24dQ $en ±
 [t]predicate: ▯ jumps in the deep end to satisfy property ▯.
 
-nıeqluaı @Ilmen 2019-09-21 #REZdCtOXQ $en -1 %subjective
+nıeqluaı @Ilmen 2019-09-21 #REZdCtOXQ $en -1
 [t]predicate: ▯ is silly.
 
 nıeqmoe @fagri 2021-08-02 #KduYm6ChU $en ±
@@ -59446,7 +59457,7 @@ nıoqketo @Ilmen 2018-10-20 #gRjNG5uln $en ± %lifeform,animal,vertebrate,mammal
 nıoqkoı @Ilmen 2019-04-01 #BAgISzNiY $en ± %lifeform,animal,vertebrate,mammal
 [t]predicate: ▯ is a walrus.
 
-nıoqluaolaq @Ilmen 2019-09-17 #OUrLOyUj1Ys $en ± %linguistics,phonetics
+nıoqluaolaq @Ilmen 2019-09-17 #OUrLOyUj1Ys $en -1 %linguistics,phonetics,sounds
 [t]predicate: ▯ is a labiodental consonant.
 
 nıoqmıa @seaqtaq 2024-11-18 #Z8AEd9_63 $en ±
@@ -59470,22 +59481,22 @@ nıoqsıoqme @Ilmen 2019-04-11 #R0BwV54xp $en ± %artifact
 nıoqsıqsaı @fagri 2021-08-21 #TnqarFCfs $en ±
 [t]predicate: ▯ is toothpaste
 
-nıoqsutıabeqtı @seaqtaq 2020-06-28 #k4_lCeTs2 $en ±
+nıoqsutıabeqtı @seaqtaq 2020-06-28 #k4_lCeTs2 $en -1
 [t]predicate: ▯ is denti-alveolar (phonetics)
 
 nıoqsham @Laqme 2024-04-30 #oV3zKy0td $en +1
 [t]predicate: ▯ is toothpaste.
 
-nıoqtı @seaqtaq 2020-06-28 #GQFUIKS4n $en ±
+nıoqtı @seaqtaq 2020-06-28 #GQFUIKS4n $en -1
 [t]predicate: ▯ is dental/articulated at the teeth (phonetics)
 
 nıoqtıabeq @seaqtaq 2019-09-17 #bfJFGwfR3Q $en ±
 [t]predicate: ▯ is an alveolar ridge
 
-nıoqtıabeqtı @seaqtaq 2020-06-28 #fTccP23m1 $en ±
+nıoqtıabeqtı @seaqtaq 2020-06-28 #fTccP23m1 $en -1
 [t]predicate: ▯ is alveolar/articulated at the alveolar ridge (phonetics)
 
-nıoqtıasutı @seaqtaq 2020-06-28 #rKmxQuNQ9 $en ±
+nıoqtıasutı @seaqtaq 2020-06-28 #rKmxQuNQ9 $en -1
 [t]predicate: ▯ is post-alveolar/articulated behind the alveolar ridge (doesn't include velars and other peripherals)
 
 nıoqtıoq @Laqme 2023-08-04 #Pc70r5_AJ $en ±
@@ -64435,7 +64446,7 @@ paraseodım @jiqci 2024-08-30 #TsJfB8KaK $en ±
 parıq @seaqtaq 2019-09-17 #gzrooyUTkMh $en ±
 [t]predicate: ▯ is a pharynx
 
-parıqtı @seaqtaq 2020-06-28 #_0JtZsC_p $en ±
+parıqtı @seaqtaq 2020-06-28 #_0JtZsC_p $en -1
 [t]predicate: ▯ is pharyngeal/articulated at/using the pharynx
 
 parısaı @zearen 2025-03-24 #ocR_oxB1z $en ±
@@ -64451,7 +64462,7 @@ paruq @Ilmen 2019-09-17 #w5fhARHRaA4 $en +1 %body_part,inner_organ
 [t]predicate: ▯ is a pharynx.
   Hydro (2021-09-05): New Latin pharynx, pharyng-, from Greek pharunx.
 
-paruqlaq @Ilmen 2019-09-17 #Eur1lUKi9Zv $en ± %linguistics,phonetics
+paruqlaq @Ilmen 2019-09-17 #Eur1lUKi9Zv $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a pharyngeal consonant.
 
 Pasaka @Laqme 2023-10-01 #S8D8p9IcT $en +1
@@ -65876,7 +65887,7 @@ poabuı @robintown 2022-01-27 #GPI3Fce1v $en -1
 poaca @Ilmen 2026-01-18 #vv3sV-rd6 $en ±
 [t]predicate: ▯ obstructs, closes way ▯ off, disallowing passage.
 
-poachoatoaı @Ilmen 2018-10-05 #E_golFcB5 $en +1 %linguistics,phonetics
+poachoatoaı @Ilmen 2018-10-05 #E_golFcB5 $en +1 %linguistics,phonetics,sounds
 [t]predicate: ▯ is a consonant.
 
 poade [(c) (d) tá sF] @Laqme 2021-09-21 #NGKVRudsZ $en +4
@@ -69606,7 +69617,7 @@ rıabo @Ilmen 2020-02-01 #1m1dQ3f9z $en ±
 rıachoacha @seaqtaq 2019-01-28 #oQm_JL27j $en ±
 [t]predicate: (fork of #qnPvxOOld) ▯ is breathy/murmured voice (phonetics)
 
-rıachoatoaı @Ilmen 2018-10-05 #vWyRNuyoB $en +1 %linguistics,phonetics
+rıachoatoaı @Ilmen 2018-10-05 #vWyRNuyoB $en +1 %linguistics,phonetics,sounds
 [t]predicate: ▯ is a vowel.
 
 rıadıam @Ilmen 2026-01-18 #B1UoZ2Aom $en ±
@@ -79936,8 +79947,9 @@ shıqbo @seaqtaq 2020-02-26 #yv3ICQQbx $en ±
 [t]predicate: ▯ emits/has the smell of ▯ (property)
   seaqtaq (2020-02-26): see #huobō for explanation
 
-shıqboqlaq @seaqtaq 2020-06-28 #UjxQ7ICol $en ±
+shıqboqlaq @seaqtaq 2020-06-28 #UjxQ7ICol $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is a nasal stop/plosive
+  Ilmen (2026-07-21): sememe: zumuvi
 
 shıqcaı [(c) (d) tá sI] @Dembim 2026-02-01 #lp3El26Bm $en ±
 [t]predicate: [g]‘fragrant’; ▯ is fragrant/redolent/aromatic
@@ -84373,8 +84385,9 @@ tıete @seaqtaq 2019-09-17 #F9MBOIpjGnP $en ±
 tıetıaı @uakci 2022-02-25 #eiNidWnE6 $en ±
 [t]predicate: ▯ is a lidded container (such as a jar, plastic box, chest).
 
-tıetıatı @seaqtaq 2020-06-28 #ZYWX2F1nr $en ±
+tıetıatı @seaqtaq 2020-06-28 #ZYWX2F1nr $en -1
 [t]predicate: ▯ is pre-velar/articulated between the soft palate/velum and the uvula
+  evie (2026-07-21): prevelar means between palatal and velar
 
 tıetıem @Laqme 2024-11-04 #XOvJ1zbjc $en +1
 [t]predicate: ▯ is a surjection / surjective function.
@@ -87724,7 +87737,7 @@ ubula @Ilmen 2019-09-17 #-KFHJIH-5Xu $en ± %body_part
 ubula @seaqtaq 2019-09-17 #mZvewcgDfOO $en -1 %body_part
 [t]predicate: ▯ is a human uvula
 
-ubulalaq @Ilmen 2019-09-17 #J7BMkozysgJ $en ± %linguistics,phonetics
+ubulalaq @Ilmen 2019-09-17 #J7BMkozysgJ $en ± %linguistics,phonetics,sounds
 [t]predicate: ▯ is an uvular consonant.
 
 ubulatı @seaqtaq 2020-06-28 #6zJ6DtlMF $en ±

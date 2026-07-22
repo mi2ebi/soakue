@@ -483,11 +483,14 @@ that ▯ is the case prevents ▯ from being the case _BIAS _RAKU_boq _ARITY_2	h
 ▯ does not prevent ▯ despite ▯ event ▯ happens _BIAS _RAKU_bu _2_RAKU_boqbu _ARITY_4	hóq	sP	4
 ▯ is a spoilsport buzzkill killjoy party pooper _BIAS _RAKU_che _2_RAKU_boqche _ARITY_1	hó	sI	1
 ▯ is too much the case for ▯ to be the case _BIAS _RAKU_duı _2_RAKU_boqduı _ARITY_2	hóq	sP	2
+▯ is an affricate _BIAS _RAKU_cha _2_RAKU_goaıcha _ARITY_1	tá	sF	1
+▯ is an affricate consonant sound _BIAS _RAKU_laq _2_RAKU_goaılaq _ARITY_1	tá	sF	1
 ▯ is inevitable _BIAS _RAKU_bu _2_RAKU_kıubu _ARITY_1	hóq	sP	1
 ▯ resists tries to prevent ▯ being the case _BIAS _RAKU_leo _2_RAKU_boqleo _ARITY_2	hó	sA	2
 ▯ is too little the case for ▯ to be the case _BIAS _RAKU_nhoa _2_RAKU_boqnhoa _ARITY_2	hóq	sF	2
 ▯ takes place unfettered unmitigated wildly unrestrictedly _BIAS _RAKU_sıa _2_RAKU_boqsıa _ARITY_1	hóq	sE	1
 ▯ prevents ▯ from satisfying property ▯ for the latter s benefit ▯ saves ▯ from doing ▯ _BIAS _RAKU_soa _2_RAKU_boqsoa _ARITY_3	hó	sA	3
+▯ is a plosive _BIAS _RAKU_laq _2_RAKU_sulaq _ARITY_1	tá	sF	1
 ▯ agent prevents ▯ from being the case _BIAS _RAKU_tao _2_RAKU_boqtao _ARITY_2	hó	sA	2
 ▯ is flat _BIAS _RAKU_re _2_RAKU_bore _ARITY_1	tá	sI	1
 ▯ is an iron roller press mangle grader smoother device for rendering something smooth flat _BIAS _RAKU_go _2_RAKU_rego _ARITY_1	máq	sI	1
@@ -672,6 +675,7 @@ event ▯ has ▯ as initiating force _BIAS _RAKU_bo _2_RAKU_cabo _ARITY_2	hóq	
 ▯ is out of battery has an empty battery _BIAS _RAKU_shea _2_RAKU_ceoqshea _ARITY_1	tá	sI	1
 ▯ is a percentage _BIAS _RAKU_zıu _2_RAKU_tızıu _ARITY_1	hóq	sI	1
 ▯ sizzles fizzes bubbles hisses _BIAS _RAKU_sa _2_RAKU_cesa _ARITY_1	tá	sI	1
+▯ is a sibilant _BIAS _RAKU_laq _2_RAKU_salaq _ARITY_1	tá	sF	1
 ▯ is sparkling water _BIAS _RAKU_nao _2_RAKU_sanao _ARITY_1	máq	sI	1
 ▯ is decentralized distributed interconnected networked _BIAS _RAKU_teı _2_RAKU_ceteı _ARITY_1	tá	sF	1
 ▯ breathes _BIAS _RAKU_ceu _ARITY_1	hó	sA	1
@@ -1784,6 +1788,7 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ is geometry _BIAS _RAKU_dıu _2_RAKU_goadıu _ARITY_1	hóq	sI	1
 ▯ is widespread common _BIAS _RAKU_faı _2_RAKU_goafaı _ARITY_1	tá	sI	1
 ▯ rubs against ▯ intransitive non agentive _BIAS _RAKU_goaı _ARITY_2	tá	sI	2
+▯ is a fricative consonant _BIAS _RAKU_laq _2_RAKU_boqlaq _ARITY_1	tá	sF	1
 ▯ causes ▯ to rub against ▯ _BIAS _RAKU_ca _2_RAKU_goaıca _ARITY_3	hóq	sA	3
 ▯ is an instance of static electricity _BIAS _RAKU_ceoq _2_RAKU_goaıceoq _ARITY_1	hóq	sI	1
 ▯ rub against each other _BIAS _RAKU_cheo _2_RAKU_goaıcheo _ARITY_1	tá	sI	1
@@ -3279,6 +3284,7 @@ each two consecutive things among ▯ satisfy relation ▯ _BIAS _RAKU_cheo _2_R
 ▯ is a tongue _BIAS _RAKU_leq _ARITY_1	máq	sI	1
 ▯ makes out with ▯ _BIAS _RAKU_ja _2_RAKU_buja _ARITY_2	hó	sA	2
 ▯ licks ▯ _BIAS _RAKU_fuo _2_RAKU_leqfuo _ARITY_2	hó	sA	2
+▯ is a lateral consonant sound _BIAS _RAKU_laq _2_RAKU_lıalaq _ARITY_1	tá	sI	1
 ▯ is articulated linguolabially with the tongue touching the upper lip phonetics _BIAS _RAKU_luao _2_RAKU_roıluao _ARITY_1	hóq	sI	1
 ▯ is liquid _BIAS _RAKU_leu _ARITY_1	máq	sI	1
 ▯ is lgbt queer _BIAS _RAKU_leuq _ARITY_1	tá	sF	1
@@ -3358,6 +3364,7 @@ as a general rule one satisfies with ▯ relation ▯ he ıqha _BIAS _RAKU_lı _
 ▯ flows _BIAS _RAKU_loaı _ARITY_1	tá	sI	1
 ▯ is a fluid _BIAS _RAKU_daı _2_RAKU_loaıdaı _ARITY_1	máq	sI	1
 ▯ is a pump _BIAS _RAKU_kea _2_RAKU_loaıkea _ARITY_1	máq	sI	1
+▯ is an approximant _BIAS _RAKU_laq _2_RAKU_loaılaq _ARITY_1	tá	sF	1
 ▯ is a spout _BIAS _RAKU_luao _2_RAKU_loaıluao _ARITY_1	máq	sI	1
 ▯ is viscous _BIAS _RAKU_meoq _2_RAKU_loaımeoq _ARITY_1	máq	sI	1
 ▯ is magma _BIAS _RAKU_pıo _2_RAKU_loaıpıo _ARITY_1	máq	sI	1
@@ -3849,6 +3856,7 @@ understanding the meaning of ▯ is hard _BIAS _RAKU_noa _2_RAKU_duanoa _ARITY_1
 ▯ is a gyroscope _BIAS _RAKU_kea _2_RAKU_kamkea _ARITY_1	máq	sI	1
 ▯ wholly completely satisfies property ▯ _BIAS _RAKU_muo _ARITY_2	tá	sF	2
 ▯ is whole complete in aspect ▯ _BIAS _RAKU_muo _ARITY_2	tá	sF	2
+▯ is an affricate _BIAS _RAKU_cha _2_RAKU_goaıcha _ARITY_1	tá	sF	1
 ▯ rotates spins turns _BIAS _RAKU_muoı _ARITY_1	tá	sI	1
 ▯ is a drill _BIAS _RAKU_kea _2_RAKU_huaıkea _ARITY_1	máq	sI	1
 ▯ is a gyroscope _BIAS _RAKU_kea _2_RAKU_muoıkea _ARITY_1	máq	sI	1
@@ -4450,6 +4458,7 @@ some of ▯ do ▯ to each other _BIAS _RAKU_cheo _2_RAKU_paqcheo _ARITY_2	tá	s
 ▯ is standard canonical _BIAS _RAKU_cem _2_RAKU_pecem _ARITY_1	tá	sI	1
 ▯ is the northern sotho language _BIAS _RAKU_zu _2_RAKU_dızu _ARITY_1 _CAPS	hóq	sI	1
 ▯ is standard conforming ▯ meets all technical requirements for certification by the relevant standards body _BIAS _RAKU_fuaı _2_RAKU_pefuaı _ARITY_1	tá	sI	1
+▯ is a tensor ▯ is a mathematical value concept representing the cardinality of ▯ _BIAS _RAKU_peı _ARITY_2	hóq	sI	2
 ▯ is the cardinality of anything satisfying property ▯ _BIAS _RAKU_peı _ARITY_2	hóq	sF	2
 ▯ is a pecan nut _BIAS _RAKU_kaq _2_RAKU_pekaq _ARITY_1	máq	sI	1
 ▯ is a member of genus falco the falcons _BIAS _RAKU_ka _2_RAKU_luka _ARITY_1	hó	sI	1
@@ -5545,6 +5554,7 @@ fork of official predicate ▯ among ▯ is the ▯ est ▯ among ▯ satisfies 
 ▯ is apathetic dispirited depressed _BIAS _RAKU_rue _2_RAKU_shıoqrue _ARITY_1	hó	sI	1
 ▯ smells ▯ _BIAS _RAKU_shıq _ARITY_2	hó	sI	2
 ▯ is olfactory ▯ pertains to the sense of smell olfaction _BIAS _RAKU_shıq _ARITY_1	tá	sF	1
+▯ is a nasal stop plosive _BIAS _RAKU_laq _2_RAKU_boqlaq _ARITY_1	tá	sF	1
 ▯ is fragrant redolent aromatic _BIAS _RAKU_caı _2_RAKU_shıqcaı _ARITY_1	tá	sI	1
 ▯ smells beautiful _BIAS _RAKU_de _2_RAKU_shıqde _ARITY_1	tá	sS	1
 ▯ seems to be the case olfactorily judging by scent _BIAS _RAKU_du _2_RAKU_shıqdu _ARITY_1	hóq	sP	1
