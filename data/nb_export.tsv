@@ -400,6 +400,7 @@ the answer to ▯ changes alternates _BIAS _RAKU_beo _2_RAKU_beobeo _ARITY_1	hó
 ▯ is a video game _BIAS _RAKU_cu _2_RAKU_lucu _ARITY_1	hóq	sF	1
 ▯ pertains to bdsm _BIAS _RAKU_sem _2_RAKU_dıesem _ARITY_1	tá	sF	1
 ▯ is after in the future of ▯ _BIAS _RAKU_bıe _ARITY_2	hóq	sE	2
+▯ is temporally after ▯ _BIAS _RAKU_bıe _ARITY_2	tá	sF	2
 ▯ is long after in the remote future of ▯ _BIAS _RAKU_jao _2_RAKU_bıejao _ARITY_2	hóq	sE	2
 in hindsight in retrospect ▯ is the case _BIAS _RAKU_jıe _2_RAKU_bıejıe _ARITY_1	hóq	sP	1
 ▯ is shortly after in the near future of ▯ _BIAS _RAKU_juı _2_RAKU_bıejuı _ARITY_2	hóq	sE	2
@@ -1267,6 +1268,7 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _2_RAKU_f
 ▯ is right in front of ▯ _BIAS _RAKU_shaq _2_RAKU_dıoqshaq _ARITY_2	tá	sS	2
 ▯ is diorite _BIAS _RAKU_pıo _2_RAKU_rıpıo _ARITY_1	máq	sI	1
 ▯ is a morning _BIAS _RAKU_sıao _2_RAKU_dıosıao _ARITY_1	hóq	sI	1
+▯ is awake active at day _BIAS _RAKU_shıe _2_RAKU_dıoshıe _ARITY_1	hó	sI	1
 ▯ is a moral agent _BIAS _RAKU_raı _2_RAKU_dıraı _ARITY_1	hó	sI	1
 ▯ wishes bids ▯ to satisfy property ▯ _BIAS _RAKU_ru _2_RAKU_dıru _ARITY_3	hó	sA	3
 ▯ is a science _BIAS _RAKU_dıu _ARITY_1	hóq	sI	1
@@ -2118,6 +2120,7 @@ echo question version of hıa ▯ is what now _BIAS _RAKU_ba _2_RAKU_hıaba _ARI
 ▯ is emotionally scarring disturbing nsfl _BIAS _RAKU_ge _2_RAKU_hıaoge _ARITY_1	tá	sF	1
 ▯ is a virus _BIAS _RAKU_kea _2_RAKU_hıaokea _ARITY_1	máq	sI	1
 ▯ is a scar _BIAS _RAKU_laı _2_RAKU_hıaolaı _ARITY_1	máq	sI	1
+▯ attacks ▯ _BIAS _RAKU_leo _2_RAKU_hıaoleo _ARITY_2	hó	sI	2
 ▯ escapes from ▯ _BIAS _RAKU_rıeq _2_RAKU_hıaorıeq _ARITY_2	tá	sI	2
 ▯ is a rescuer lifeguard _BIAS _RAKU_che _2_RAKU_soache _ARITY_1	hó	sI	1
 ▯ is poor in relation ▯ ▯ is in relation ▯ to with few things _BIAS _RAKU_hıaq _ARITY_2	tá	sF	2
@@ -4131,6 +4134,8 @@ the content clause ▯ is true moreover the inner clause contained within its fi
 ▯ is part of the neofelis genus _BIAS _RAKU_to _2_RAKU_kato _ARITY_1	hó	sI	1
 ▯ nitpicks _BIAS _RAKU_pıq _2_RAKU_nıqpıq _ARITY_1	hó	sA	1
 ▯ is a repeater _BIAS _RAKU_kea _2_RAKU_zıakea _ARITY_1	máq	sI	1
+▯ is now ▯ is temporally present _BIAS _RAKU_rao _2_RAKU_nırao _ARITY_1	tá	sF	1
+▯ is something that s present here ▯ is here _BIAS _RAKU_tı _2_RAKU_nıtı _ARITY_1	tá	sF	1
 ▯ departs this place _BIAS _RAKU_cuq _2_RAKU_tıcuq _ARITY_1	tá	sI	1
 ▯ returns to this place comes back _BIAS _RAKU_rıu _2_RAKU_tırıu _ARITY_1	tá	sI	1
 ▯ arrives at this place _BIAS _RAKU_sha _2_RAKU_tısha _ARITY_1	tá	sI	1
@@ -4246,6 +4251,7 @@ what does ▯ taste like how does ▯ taste _BIAS _RAKU_hıa _2_RAKU_noqhıa _AR
 ▯ is midnight _BIAS _RAKU_chu _2_RAKU_nuaqchu _ARITY_1	hóq	sI	1
 ▯ is a night vision device _BIAS _RAKU_kea _2_RAKU_kaqkea _ARITY_1	máq	sI	1
 ▯ is contraband illicit banned outlawed _BIAS _RAKU_saı _2_RAKU_nuaqsaı _ARITY_1	tá	sI	1
+▯ is awake active at night _BIAS _RAKU_shıe _2_RAKU_nuaqshıe _ARITY_1	hó	sI	1
 ▯ is such as ▯ ▯ satisfies the propertie s which ▯ is characterised characterized to satisfy _BIAS _RAKU_bo _2_RAKU_nubo _ARITY_2	tá	sF	2
 ▯ promises threatens to satisfy property ▯ _BIAS _RAKU_nue _ARITY_2	hó	sA	2
 ▯ promises threatens to ▯ to satisfy property ▯ _BIAS _RAKU_nue _ARITY_3	hó	sA	3
@@ -4722,6 +4728,7 @@ there are ▯ number raku in the word phrase ▯ _BIAS _RAKU_zıu _2_RAKU_kuzıu
 ▯ is a prosecutor _BIAS _RAKU_che _2_RAKU_ruaqche _ARITY_1	hó	sI	1
 ▯ is a writing system _BIAS _RAKU_nı _2_RAKU_ranı _ARITY_1	hóq	sI	1
 ▯ happens at the same time as ▯ ▯ is simultaneous with ▯ _BIAS _RAKU_rao _ARITY_2	hóq	sE	2
+▯ is during ▯ _BIAS _RAKU_rao _ARITY_2	tá	sF	2
 ▯ is temporally together with ▯ ▯ and ▯ are contemporaries _BIAS _RAKU_gaq _2_RAKU_raogaq _ARITY_2	tá	sI	2
 ▯ happens during which ▯ happens _BIAS _RAKU_heq _2_RAKU_raoheq _ARITY_2	hóq	sE	2
 ▯ happens during ▯ _BIAS _RAKU_nıe _2_RAKU_raonıe _ARITY_2	hóq	sE	2
@@ -4816,6 +4823,7 @@ lanao ▯ is outbound headed to the outskirts of the spiral _BIAS _RAKU_na _2_RA
 ▯ is a twilight dawn dusk half light glimmering _BIAS _RAKU_rıao _ARITY_1	hóq	sI	1
 ▯ are crepuscular rays _BIAS _RAKU_gıo _2_RAKU_rıaogıo _ARITY_1	máq	sI	1
 ▯ is colored like the sky at dawn dusk _BIAS _RAKU_reo _2_RAKU_rıaoreo _ARITY_1	máq	sI	1
+▯ is awake active at dawn dusk _BIAS _RAKU_shıe _2_RAKU_rıaoshıe _ARITY_1	hó	sI	1
 ▯ is clueless has no idea about the purpose of ▯ and what to do with it _BIAS _RAKU_puq _2_RAKU_rıapuq _ARITY_1	hó	sI	1
 ▯ is a place site _BIAS _RAKU_rıaq _ARITY_1	máq	sI	1
 ▯ is a member of genus ribes including the blackcurrant redcurrant white currant the gooseberry and other plants _BIAS _RAKU_ba _2_RAKU_rıba _ARITY_1	máq	sI	1
@@ -5595,6 +5603,7 @@ what does ▯ smell like how does ▯ smell _BIAS _RAKU_hıa _2_RAKU_shıqhıa _
 ▯ is city pop music _BIAS _RAKU_pu _2_RAKU_popu _ARITY_1	hóq	sI	1
 ▯ is a unicorn _BIAS _RAKU_tuaq _2_RAKU_shıtuaq _ARITY_1	hó	sI	1
 ▯ is before in the past of ▯ _BIAS _RAKU_shıu _ARITY_2	hóq	sE	2
+▯ is temporally before ▯ _BIAS _RAKU_shıu _ARITY_2	tá	sF	2
 ▯ is a prefix _BIAS _RAKU_toa _2_RAKU_coetoa _ARITY_1	hóq	sI	1
 ▯ forms preconceived belief ▯ _BIAS _RAKU_chı _2_RAKU_shıuchı _ARITY_2	hó	sI	2
 ▯ is backwards temporally _BIAS _RAKU_chıaı _2_RAKU_shıuchıaı _ARITY_1	hóq	sF	1

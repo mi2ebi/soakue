@@ -3986,6 +3986,9 @@ bıe @jiqci 2023-07-31 #gxGrqv-BHK $pl ±
 bıe @Hoekeiboi 2023-07-31 #7Mnj-zUvr $tl ±
 [t]predicate: nangyari ang ▯ pagkatapos ng ▯.
 
+bıe [(c c) (d d) tá sF] @Dembim 2026-07-23 #22hQmsnrm $en ±
+[t]predicate: [g]‘after’; ▯ is temporally after ▯.
+
 bıe @Ilmen 2019-01-30 #rX5j-5yyx $toa -1
 ≈ [00] Sıe dóshı dógu pó dáq.
 
@@ -14001,6 +14004,7 @@ chuosea @Ilmen 2020-02-26 #aIj5M5SRT $en ±
 chuoshıe @seaqtaq 2020-03-01 #hrHszwzy7 $en ±
 [t]predicate: ▯ is performing its function; ▯ is turned on.
   seaqtaq (2020-03-01): analogous to #chuonuo
+  Dembim (2026-07-23): see also <akımı>/<dom>
 
 chuotıaı @Ilmen 2020-05-29 #EBdlrgjeH $en ± %artifact
 [t]predicate: ▯ is a toolbox.
@@ -16602,6 +16606,9 @@ dıosuıchaq @Ilmen 2019-12-24 #tle-gR0VX $en ±
 
 dıoshıe @robintown 2023-10-08 #SXKADiuUz $en ±
 [t]predicate: ▯ is diurnal.
+
+dıoshıe [(c) (d) hó sI] @Dembim 2026-07-23 #VhIb_RLv2 $en ±
+[t]predicate: [g]‘diurnal’; ▯ is awake/active at day.
 
 dıozıq @jiqci 2023-09-08 #vKibbXH9H $en ±
 [t]predicate: ▯ is a diode.
@@ -25695,8 +25702,8 @@ gomeheq @Laqme 2025-05-09 #eNjxyiqx_ $en +1
 gometeı @Laqme 2022-08-14 #R2f1SK8WV $en ±
 [t]predicate: ▯ is the accusative case.
 
-gomı @Dembim 2026-02-08 #GmH9jtg3P $en ±
-[t]interjection: lingering; more of this; like <aıka> signals that the speaker is moving on, <gomı> signals that they mean to stay on this point/activity a bit longer
+gomı [] @Dembim 2026-02-08 #GmH9jtg3P $en ±
+[t]interjection: [g]‘lingering’; more of this; like <aıka> signals that the speaker is moving on, <gomı> signals that they mean to stay on this point/activity a bit longer
   Dembim (2026-02-08): Etymology: imagined squishification of <gúom> <ní>
 
 gomjom [(c) (d) hó sI] @Laqme 2023-12-17 #hZtiLf6sj $en +4
@@ -29762,7 +29769,7 @@ hıaolaı @Laqme 2024-04-25 #bVHvU9klx $en ±
 hıaole @Ilmen 2020-01-28 #tWH81N1o5 $en +1 %subjective
 [t]predicate: [g]‘dangerous’; ▯ is dangerous.
 
-hıaoleo @Ilmen 2019-04-08 #3tc2yxrAr $en -1
+hıaoleo @Ilmen 2019-04-08 #3tc2yxrAr $en ±
 [t]predicate: ▯ attacks ▯.
 
 hıaolıam @seaqtaq 2024-10-30 #H-NA2fd7o $en ±
@@ -43113,6 +43120,9 @@ kıu @el 2022-07-10 #_7DoEHWjL $tok ± %evidentiality
 kıu @jiqci 2023-07-31 #-Ucq3Z8uL- $pl ± %evidentiality
 [t]predicate: ▯ jest ▯-alny; z ▯ można/da się spełnić relację ▯.
 
+kıu @Dembim 2026-07-23 #fo7PelSpv $toa ± %evidentiality
+[t]predicate: lá já nhacù jeı ▯, nä já nharù jeı ▯, nä daı cuoı báq raı nhacú nharú
+
 kıu @uakci 2019-04-15 #RjdTcEMOf $toa -1 %evidentiality
 deq sa ráı lî gujeo ja dó dóshı dógu da
 
@@ -43690,6 +43700,7 @@ koetoq @Laqme 2024-04-26 #35eHiMIeh $en +1
 kogekı @nano 2024-09-23 #euBUioc0c $en ±
 [t]predicate: ▯ is a harassment/attack (Puyo Puyo).
   nano (2024-09-23):  攻撃
+  Ilmen (2026-07-23): It's better to frame it as ⟪▯ harasses or attack ▯⟫ and do the event noun with ⟪ë⟫.
 
 kogıq @Ilmen 2019-01-05 #c9M4vMgVl $en ± %ordinality,quaternary_predicate
 [t]predicate: __ is the x-th to last among ▯ where x is the number ▯, when sorted by property ▯.
@@ -59768,6 +59779,9 @@ nıqtua @Laqme 2023-01-25 #_IrgIfJwn $en ±
 nıqzıakea @robintown 2022-02-19 #udSESpZl2 $en ±
 [t]predicate: ▯ is a repeater.
 
+nırao [(c) (d) tá sF] @Dembim 2026-07-23 #Ubn9Omp-2 $en ±
+[t]predicate: [g]‘now’; ▯ is now; ▯ is temporally present.
+
 nırıaq @Ilmen 2020-02-05 #KCWpFwbLl $en ± %deixis
 [t]predicate: ▯ is here, this place.
 
@@ -59802,8 +59816,8 @@ nısıtıaı @jiqci 2023-06-25 #ET7mqal3A $en ±
 nısha @robintown 2024-09-11 #RrVxAIRLM $en ±
 [t]predicate: ▯ arrives here.
 
-nıtı @uakci 2023-05-18 #xGBIaDFJ2 $en +1
-[t]predicate: ▯ is something that’s present here; ▯ is here.
+nıtı [(c) (d) tá sF] @uakci 2023-05-18 #xGBIaDFJ2 $en +1
+[t]predicate: [g]‘here’; ▯ is something that’s present here; ▯ is here.
   uakci (2023-05-18): (not as in “▯ is this location” – that’s **nıgoa** or **ní goa** or just **ní**)
   uakci (2023-05-18): or **ní rıaq**, etc.
 
@@ -60322,12 +60336,13 @@ nodu @uakci 2022-01-08 #rYADcXu2k $en ±
 [t]predicate: ▯ seems to satisfy property ▯, as suggested by the properties it satisfies that fall under categorization relation ▯ [such as **kaq**]; ▯ seems to be ▯, judging from its ▯-ish properties.
 
 noeq @uakci 2023-01-21 #pMWjWikWJ $en +3
-contrastive modality; X happens despite ...
+[t]modality: contrastive modality; X happens despite ...
   uakci (2023-01-21): making this Mod head so that both **noeq hao háo…** and **hao háo nôeq ꝡä hao háo** continue to work under delta grandmar
   Laqme (2024-01-10): **Nôeq, ꝡä meo jí, nä suaq jí** = Despite being sad, I sing.
   Laqme (2024-01-10): **Noeq suaq jí** = Nevertheless, I sing.
   Laqme (2024-01-10): also "regardless"
   jiqci (2024-06-04): though / although
+  Dembim (2026-07-23): nonetheless
 
 noeqcua @seaqtaq 2025-08-24 #ldDVzchiI $en ±
 [t]predicate: ▯ copes with / deals with / grapples with state of affairs ▯
@@ -61150,6 +61165,9 @@ nuaqsaı [(c) (d) tá sI] @Dembim 2026-02-04 #ISq30dcwB $en +1
 
 nuaqshıe @robintown 2023-10-08 #k0aAk9BhO $en ±
 [t]predicate: ▯ is nocturnal.
+
+nuaqshıe [(c) (d) hó sI] @Dembim 2026-07-23 #lM7yzrchp $en ±
+[t]predicate: [g]‘nocturnal’; ▯ is awake/active at night.
 
 nuaqshoa @TheAndSys 2025-03-08 #A9V92JOSY $en ±
 [t]predicate: ▯ happens late at night
@@ -62299,11 +62317,11 @@ nha [] @Hoemai 2020-06-12 #fb4IyiEbi $en ±
 [t]illocution: [g]‘PRM’; promissive illocution
   Ilmen (2025-10-31): officialized: yes
 
-nhá @uakci 2023-03-22 #0KkER9w3c $en ±
+nhá @uakci 2023-03-22 #0KkER9w3c $en +1
 [t]illocution: promissive–interrogative; “do you promise …?”, “will you [commit to] …?”
   uakci (2023-03-22): ≈ **ba**
 
-nhä [] @TheAndSys 2024-09-22 #aesA9Xp98 $en +2
+nhä [] @TheAndSys 2024-09-22 #aesA9Xp98 $en +1
 [t]complementizer: [g]‘INDQ’; opens indirect question clause
   TheAndSys (2024-09-22): This word has been bouncing around in my head a lot. Accepting this word would mean that ꝡä is eclusively for direct questions
 
@@ -68344,6 +68362,9 @@ rao @el 2022-07-10 #fQqYt251a $tok ± %time
 rao @jiqci 2023-07-31 #L48QsvKJK2 $pl ± %time
 [t]predicate: ▯ zdarza się wtedy, gdy/w tym samym czasie, co ▯.
 
+rao [(c c) (d d) tá sF] @Dembim 2026-07-23 #wkh6ukInE $en ± %time
+[t]predicate: [g]‘while’; ▯ is during ▯.
+
 rao @uakci 2019-01-29 #46Z_4z0ym $toa -1 %time
 bu shıu ra bıe dóshı dógu da
 
@@ -68356,7 +68377,9 @@ raofaza @cateyes 2025-10-09 #4Jkp9rP5w $en ±
 
 raogaq [(c c) (d d) tá sI] @Dembim 2026-06-22 #2JA84GeIr $en ±
 [t]predicate: [g]‘contemporary’; ▯ is temporally together with ▯; ▯ and ▯ are contemporaries.
-  Dembim (2026-06-22): kw: contemporary
+
+raogaq @Dembim 2026-07-23 #bbB6C1RJL $toa ±
+[t]predicate: sá daq, nä jıq râo dáq ▯ rú ▯
 
 raogı @Ilmen 2019-01-20 #YGBRgyBJW $en ±
 [t]predicate: ▯ is timely.
@@ -69730,6 +69753,9 @@ rıaoreo @Laqme 2022-05-09 #6UA3ZRKGk $en ±
 
 rıaoshıe @robintown 2023-10-08 #UHg8DI3Br $en ±
 [t]predicate: ▯ is crepuscular.
+
+rıaoshıe [(c) (d) hó sI] @Dembim 2026-07-23 #tvONhDzDN $en ±
+[t]predicate: [g]‘crepuscular’; ▯ is awake/active at dawn/dusk.
 
 rıapuq @jiqci 2023-08-06 #NSVRQ450I $en +4
 [t]predicate: ▯ is clueless; has no idea about the purpose of ▯ and what to do with it.
@@ -80237,6 +80263,9 @@ shıu @Ilmen 2020-02-07 #SzDxt_0w2 $toa ± %temporal_position
 shıu @jiqci 2023-07-31 #iOmfzVx3zj $pl ± %temporal_position
 [t]predicate: ▯ jest/zachodzi przed/w przeszłości od ▯.
 
+shıu [(c c) (d d) tá sF] @Dembim 2026-07-23 #L3scIVsrS $en ± %temporal_position
+[t]predicate: [g]‘before’; ▯ is temporally before ▯.
+
 shıu @Ilmen 2019-01-30 #r4cGRdUuL $toa -1 %temporal_position
 ≈ [00] Fıa dóshı dógu pó dáq.
 
@@ -81386,8 +81415,7 @@ shuıla @Dembim 2026-01-27 #jI6pmo4Jk $toa ±
 shuılao @Dembim 2026-02-07 #pfWtFxnTr $en ±
 [t]predicate: ▯ lurks/ lies in wait.
   Dembim (2026-02-07): kw: hides, skulks, sneaks
-  Dembim (2026-02-07): Frame: c
-  Dembim (2026-02-07): Pronominal_class: ho
+  Dembim (2026-07-23): kw: waylays
 
 shuıleı @uakci 2023-10-17 #RNTJyi6AG $en ±
 [t]predicate: ▯ is open/upfront/forward-going/honest / “has no filter”.
@@ -83112,7 +83140,7 @@ teıfuı @uakci 2018-11-04 #SNA1LtVFc $en ±
 teıgaı @uakci 2022-02-11 #e4G0-1t5f $en ±
 [t]predicate: ▯ perceives shape ▯ (something familiar, specific, or geometric).
 
-teıge @Hoemai 2019-02-23 #Y7SuHM1dm $en ±
+teıge @Hoemai 2019-02-23 #Y7SuHM1dm $en +1
 [t]predicate: ▯ is a member of the genus Strix (the earless owls).
 
 teıgıaıchuo @uakci 2021-10-22 #bu3esBVk4 $en ±
