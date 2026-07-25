@@ -2002,6 +2002,7 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ does some unspecified salient action _BIAS _RAKU_ham _ARITY_1	hó	sA	1
 ▯ is a hamburger _BIAS _RAKU_ga _2_RAKU_baga _ARITY_1	máq	sI	1
 ▯ does some unspecified salient action to ▯ _BIAS _RAKU_la _2_RAKU_hamla _ARITY_2	hó	sA	2
+▯ overestimates the degree to which ▯ is the case _BIAS _RAKU_nem _2_RAKU_hanem _ARITY_2	hó	sI	2
 ▯ satisfies some unspecified salient predicate _BIAS _RAKU_hao _ARITY_1	tá	sF	1
 ▯ satisfies some unspecified salient predicate _BIAS _RAKU_hao _ARITY_1	tá	sF	1
 ▯ eats a meal _BIAS _RAKU_chuq _2_RAKU_haochuq _ARITY_1	hó	sI	1
@@ -3051,6 +3052,7 @@ in the sequence ▯ each nonfinal member is related to the next member by the re
 ▯ departs from ▯ not intending to return _BIAS _RAKU_la _2_RAKU_kala _ARITY_2	hó	sI	2
 ▯ thinks fantasizes about leaving and never coming back _BIAS _RAKU_kam _2_RAKU_koıkam _ARITY_1	hó	sI	1
 ▯ goes on a walk _BIAS _RAKU_koı _2_RAKU_koıkoı _ARITY_1	hó	sA	1
+▯ underestimates the degree to which ▯ is the case _BIAS _RAKU_nem _2_RAKU_koınem _ARITY_2	hó	sI	2
 ▯ is an infantry soldier _BIAS _RAKU_che _2_RAKU_soıche _ARITY_1	hó	sI	1
 ▯ is a walking path _BIAS _RAKU_tıeq _2_RAKU_koıtıeq _ARITY_1	máq	sI	1
 ▯ searches the internet for ▯ _BIAS _RAKU_jo _2_RAKU_kojo _ARITY_2	hó	sA	2
@@ -3131,6 +3133,7 @@ relevantly ▯ satisfies property ▯ it is ▯ that satisfies property ▯ ▯ 
 ▯ pours ▯ _BIAS _RAKU_lu _2_RAKU_kulu _ARITY_2	hó	sA	2
 ▯ is a sentence _BIAS _RAKU_na _2_RAKU_kuna _ARITY_1	hóq	sI	1
 ▯ is literally the case _BIAS _RAKU_na _2_RAKU_juna _ARITY_1	hóq	sP	1
+▯ is a parser software _BIAS _RAKU_rom _2_RAKU_narom _ARITY_1	hóq	sI	1
 ▯ is a sentence structure _BIAS _RAKU_teı _2_RAKU_nateı _ARITY_1	hóq	sI	1
 ▯ is a member of the genus canis the wolves coyotes jackals dingoes and dogs _BIAS _RAKU_ne _2_RAKU_kune _ARITY_1	hó	sI	1
 ▯ is butch _BIAS _RAKU_dı _2_RAKU_nedı _ARITY_1	hó	sI	1
@@ -3837,6 +3840,7 @@ mo ▯ says text to ▯ _BIAS _RAKU_moao _ARITY_2	hó	sA	2
 ▯ is monosodium glutamate msg _BIAS _RAKU_saı _2_RAKU_muaısaı _ARITY_1	máq	sI	1
 ▯ is a tree _BIAS _RAKU_muao _ARITY_1	máq	sI	1
 ▯ parses ▯ presumably into a tree ish structure _BIAS _RAKU_gaı _2_RAKU_muaogaı _ARITY_2	hó	sA	2
+▯ is a parser software _BIAS _RAKU_rom _2_RAKU_gaırom _ARITY_1	hóq	sI	1
 ▯ is a parse tree _BIAS _RAKU_se _2_RAKU_gaıse _ARITY_1	hóq	sI	1
 ▯ is a forest _BIAS _RAKU_guaq _2_RAKU_muaoguaq _ARITY_1	máq	sI	1
 ▯ is charcoal _BIAS _RAKU_pıo _2_RAKU_hoaqpıo _ARITY_1	máq	sI	1
@@ -5337,6 +5341,7 @@ fork of official predicate similar ▯ is similar to ▯ in property ▯ _BIAS _
 ▯ pertains to the culture of somalia federal republic of somalia _BIAS _RAKU_lıa _2_RAKU_somlıa _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country somalia federal republic of somalia _BIAS _RAKU_gua _2_RAKU_lıagua _ARITY_1 _CAPS	máq	sI	1
 ▯ is a handyman fixer technician _BIAS _RAKU_che _2_RAKU_somche _ARITY_1	hó	sI	1
+▯ is one who should do ▯ impersonal generic _BIAS _RAKU_ne _2_RAKU_somne _ARITY_2	hó	sI	2
 ▯ is a e5 chord _BIAS _RAKU_fe _2_RAKU_somfe _ARITY_1	hóq	sI	1
 ▯ is a esus2 chord _BIAS _RAKU_gu _2_RAKU_somgu _ARITY_1	hóq	sI	1
 ▯ is a esus4 chord _BIAS _RAKU_jo _2_RAKU_somjo _ARITY_1	hóq	sI	1
@@ -6035,6 +6040,7 @@ it is the intention of ▯ that ▯ happen _BIAS _RAKU_shao _2_RAKU_tuashao _ARI
 ▯ is a bus stop _BIAS _RAKU_ce _2_RAKU_chaoce _ARITY_1	máq	sI	1
 ▯ is a state state of affairs situation _BIAS _RAKU_tue _ARITY_1	hóq	sF	1
 ▯ is a state state of affairs situation _BIAS _RAKU_tue _ARITY_1	hóq	sF	1
+▯ is a parser _BIAS _RAKU_fa _2_RAKU_tufa _ARITY_1	hóq	sI	1
 ▯ sits on ▯ _BIAS _RAKU_tuı _ARITY_2	tá	sA	2
 ▯ is a seat chair stool bench _BIAS _RAKU_fua _2_RAKU_tuıfua _ARITY_1	máq	sI	1
 ▯ is a seat chair stool bench _BIAS _RAKU_tuım _ARITY_1	máq	sI	1

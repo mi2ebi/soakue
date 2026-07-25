@@ -28020,6 +28020,9 @@ hane @kazoo 2024-12-04 #AScdKZBzU $en ±
 [t]speech act: referencing a previous event/thing, "remember when..."
   kazoo (2024-12-04): this word is a cognate of *hanı*. both come from turkish "hani" which can function as both.
 
+hanemıu [(c 0) (d d) hó sI] @Dembim 2026-07-24 #aEpYJ5s8x $en ±
+[t]predicate: [g]‘overestimate’; ▯ overestimates the degree to which ▯ is the case.
+
 hanı [] @kazoo 2024-11-27 #kNQBFmDtJ $en +2
 [t]interjection: [g]‘poke’; reminding someone they've forgotten something or to prompt them about a task or duty they're neglecting.
   kazoo (2024-11-27): 'aren't you missing something?' 'weren't you supposed to be doing something right now?'
@@ -43817,6 +43820,12 @@ koıkuaı @tonibrown 2025-02-26 #9sj0uolhb $en ±
 [t]predicate: ▯ longs to travel
   tonibrown (2025-02-26): calque of "wanderlust"
 
+koınemıu [(c 0) (d d) hó sI] @Dembim 2026-07-24 #ppovF6dyy $en ±
+[t]predicate: [g]‘underestimate’; ▯ underestimates the degree to which ▯ is the case.
+
+koınemıu @seaqtaq 2026-07-24 #KOfX74ecv $en -1
+▯ believes that ▯ is common (to/amongst some population)
+
 koıpeo @Ilmen 2018-12-23 #UJWr70F7D $en ± %action,locomotion
 [t]predicate: ▯ ambulates through ▯.
 
@@ -50661,7 +50670,7 @@ lushaca @Ilmen 2020-01-15 #l6ZXMyseX $en +1
 lushaleu @Laqme 2024-09-20 #k4ZqhkJQU $en +1
 [t]predicate: ▯ is lubricant.
 
-lutea @seaqtaq 2020-02-07 #x0sjPgoux $en ±
+lutea @seaqtaq 2020-02-07 #x0sjPgoux $en +1
 [t]predicate: ▯ is afraid that ▯ might be the case.
 
 lutoame @el 2022-06-30 #j0R5rhCm8 $en +1
@@ -55342,9 +55351,6 @@ muaqkao @seaqtaq 2019-05-30 #5YI9xIgcB $en ±
 
 muaqkuaı @uakci 2021-09-03 #KP5uWCwyC $en +1
 [t]predicate: ▯ feels suicidal.
-
-muaqla @kazoo 2026-01-21 #VcOfx5TtM $en -1
-[t]nullary verb: "there is a genocide"
 
 muaqlua @seaqtaq 2019-05-30 #eihEUnSfu $en ±
 [t]predicate: ▯ is an obituary
@@ -76394,7 +76400,7 @@ Somalıagua @countries 2026-07-17 #37wWgJhjipl $en ±
 somche @Laqme 2025-03-10 #Ad3c9eieS $en ±
 [t]predicate: ▯ is a handyman/fixer/technician.
 
-someone @Machy 2022-02-19 #e3kkc4C_7 $en ±
+someone @Machy 2022-02-19 #e3kkc4C_7 $en +1
 [t]predicate: ▯ is one who should do ▯ (impersonal generic).
   Machy (2022-02-19): As in: Someone should write a new parser
   Machy (2022-07-10): Someone needs to fix the wiki
@@ -86988,6 +86994,10 @@ tuezaq @jiqci 2024-06-30 #Kfud4DYGE $en ±
 [t]predicate: ▯ transpires / comes about / takes effect.
   jiqci (2024-06-30): fancy synonym of **faq**
 
+tufa @evie 2026-07-25 #e6xSzDbFL $en ±
+[t]predicate: ▯ is a parser
+  evie (2026-07-25): cf. ilmentufa, zantufa, etc.
+
 tuguo @Laqme 2024-12-20 #WOOxOtqsD $en ±
 [t]predicate: ▯ is always the case.
   robintown (2024-12-20): in every case/instance
@@ -88451,7 +88461,7 @@ vague definite determiner; ‘the’
 ꝡashao @TheAndSys 2024-04-30 #yP4qPdYlZ $en ±
 [t]predicate: ▯ proposes that ▯ should be the case
 
-ꝡatea @Laqme 2024-06-23 #32Bgi7ur_ $en ±
+ꝡatea @Laqme 2024-06-23 #32Bgi7ur_ $en +1
 [t]predicate: ▯ is afraid of ▯ being the case.
   Laqme (2024-06-23): I think **lutea** having an "old Toaq" etymology is fine, but if it were added today, it'd be **ꝡatea**.
 
