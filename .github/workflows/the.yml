@@ -17,6 +17,6 @@ jobs:
       - uses: dtolnay/rust-toolchain@stable
       - name: the
         run: cargo run -r
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: update
