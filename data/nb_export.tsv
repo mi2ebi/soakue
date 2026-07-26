@@ -799,7 +799,7 @@ fork of official predicate wet ▯ is wet with ▯ _BIAS _RAKU_cuaı _ARITY_2	t�
 ▯ satisfy with ▯ relation ▯ _BIAS _RAKU_cuoı _ARITY_3	tá	sF	3
 something is with ▯ in relation ▯ _BIAS _RAKU_sa _2_RAKU_cuoısa _ARITY_2	tá	sF	2
 ▯ is presumably the case _BIAS _RAKU_nu _2_RAKU_cuonu _ARITY_1	hóq	sP	1
-▯ leaves departs from satisfying property ▯ _BIAS _RAKU_cuq _ARITY_2	tá	sF	2
+▯ leaves departs from satisfying property ▯ _BIAS _RAKU_cuq _ARITY_2	tá	sI	2
 ▯ has its natural start begins at the time and in the way one would expect _BIAS _RAKU_ceo _2_RAKU_cuqceo _ARITY_1	hóq	sE	1
 ▯ is a tsundere _BIAS _RAKU_re _2_RAKU_dere _ARITY_1	hó	sI	1
 ▯ responds with answer ▯ _BIAS _RAKU_ga _2_RAKU_cuqga _ARITY_2	hó	sA	2
@@ -1448,9 +1448,10 @@ made happen ▯ is caused made happen by ▯ identical to bo tua _BIAS _RAKU_cı
 ▯ is the basque algonquian pidgin _BIAS _RAKU_zu _2_RAKU_kızu _ARITY_1 _CAPS	hóq	sF	1
 ▯ is the basque language euskara _BIAS _RAKU_zu _2_RAKU_kazu _ARITY_1 _CAPS	hóq	sI	1
 ▯ is the abstract metalinguistic representation of a plural constant _BIAS _RAKU_zuı _2_RAKU_ezuı _ARITY_1	hóq	sF	1
-▯ goes somewhere ▯ moves _BIAS _RAKU_fa _ARITY_1	hó	sI	1
 ▯ moves autotranslocates volitionally with the purpose of changing their spatial relationship with something particular _BIAS _RAKU_fa _ARITY_1	hó	sA	1
 ▯ goes to ▯ _BIAS _RAKU_fa _ARITY_2	hó	sA	2
+▯ goes somewhere ▯ moves _BIAS _RAKU_fa _ARITY_1	hó	sI	1
+▯ goes to satisfying property ▯ _BIAS _RAKU_fa _ARITY_2	tá	sI	2
 ▯ is a nest eyrie _BIAS _RAKU_ba _2_RAKU_faba _ARITY_1	máq	sI	1
 ▯ is a legume _BIAS _RAKU_baı _2_RAKU_fabaı _ARITY_1	máq	sI	1
 ▯ blocks barricades is in the way of ▯ ▯ is an obstacle to ▯ s movement _BIAS _RAKU_boq _2_RAKU_faboq _ARITY_2	máq	sI	2
@@ -1568,6 +1569,7 @@ how is ▯ doing faring _BIAS _RAKU_hıa _2_RAKU_foahıa _ARITY_1	hó	sI	1
 ▯ is vodka _BIAS _RAKU_ka _2_RAKU_foka _ARITY_1	máq	sI	1
 ▯ is a lion s mane mushroom yamabushitake ▯ is hericium erinaceus _BIAS _RAKU_lıao _2_RAKU_kıaqlıao _ARITY_2	máq	sI	2
 ▯ is vapor some substance heated such that it s entered a distinct higher energy phase _BIAS _RAKU_ne _2_RAKU_fone _ARITY_1	máq	sI	1
+▯ is a social blunder faux pas _BIAS _RAKU_pa _2_RAKU_fopa _ARITY_1	tá	sE	1
 ▯ is a phone device _BIAS _RAKU_foq _ARITY_1	máq	sI	1
 ▯ picks up the phone answers the phone _BIAS _RAKU_cua _2_RAKU_foqcua _ARITY_1	hó	sI	1
 ▯ is a photograph _BIAS _RAKU_to _2_RAKU_foto _ARITY_1	máq	sI	1
@@ -5870,6 +5872,7 @@ doing ▯ is a way of doing ▯ _BIAS _RAKU_jı _2_RAKU_tajı _ARITY_2	hóq	sP	2
 ▯ is a network of roads paths _BIAS _RAKU_koaı _2_RAKU_tıeqkoaı _ARITY_1	máq	sI	1
 ▯ is a router _BIAS _RAKU_kea _2_RAKU_koekea _ARITY_1	máq	sI	1
 ▯ is a surjection surjective function _BIAS _RAKU_tıem _2_RAKU_tıetıem _ARITY_1	hóq	sI	1
+▯ goes to ▯ _BIAS _RAKU_fa _2_RAKU_tıfa _ARITY_2	tá	sF	2
 ▯ is the spatial end endpoint of ▯ _BIAS _RAKU_fao _2_RAKU_tıfao _ARITY_2	máq	sI	2
 ▯ is spatially together with ▯ _BIAS _RAKU_gaq _2_RAKU_tıgaq _ARITY_2	tá	sI	2
 ▯ is far away from ▯ _BIAS _RAKU_jao _2_RAKU_tıjao _ARITY_2	tá	sS	2

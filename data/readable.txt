@@ -19389,13 +19389,6 @@ fa- [] @official 2026-07-17 #hZtgH0Eey_8 $en ±
 fa- @kazoo 2024-11-24 #GXbn7Rzb_ $tr ±
 [t]prefix: ön ek: hedefli fiil
 
-fa [(c) (d) hó sI] @Isi 2024-09-11 #hD2ohHx8H $en +1 %action
-[t]predicate: [g]‘go’; ▯ goes (somewhere); ▯ moves.
-  Isi (2024-09-11): The second slot can be gotten back using **fana** as a preposition.
-  Dembim (2025-12-31): See also <gıam>.
-  Dembim (2025-12-31): This definition of "fa" means "comes" just as much as it does "goes".
-  Ilmen (2025-12-31): discriminator: 2
-
 fa [(c) (d) hó sA] @Dembim 2025-12-31 #JYGUPYMe_ $en +1 %action
 [t]predicate: [g]‘go’; ▯ moves/autotranslocates, volitionally, with the purpose of changing their spatial relationship with something particular.
   Dembim (2025-12-31): For example: When one goes "to" somewhere, one moves themselves with the purpose of reducing the distance between themselves and their destination.
@@ -19421,8 +19414,19 @@ fa @zearen 2023-03-07 #cXOHsyJOG $jbo ± %action
 fa @jiqci 2023-07-31 #7tk8wDC1a8 $pl ± %action
 [t]predicate: ▯ idzie do ▯.
 
+fa [(c) (d) hó sI] @Isi 2024-09-11 #hD2ohHx8H $en ± %action
+[t]predicate: [g]‘go’; ▯ goes (somewhere); ▯ moves.
+  Isi (2024-09-11): The second slot can be gotten back using **fana** as a preposition.
+  Dembim (2025-12-31): See also <gıam>.
+  Dembim (2025-12-31): This definition of "fa" means "comes" just as much as it does "goes".
+  Ilmen (2025-12-31): discriminator: 2
+
 fa @kazoo 2024-11-24 #NkRkr4Joo $tr ± %action
 [t]predicate: ▯, ▯'e gider.
+
+fa [(c 1i) (d d) tá sI] @Dembim 2026-07-25 #wwc9KNzUk $en ± %action
+[t]predicate: [g]‘go’; ▯ goes to satisfying property ▯.
+  Dembim (2026-07-25): analogy with e.g. <@official sha>
 
 fa @uakci 2020-01-09 #eFuXD6e-j $jbo -1 %action
 [t]predicate: ▯ klama ▯ ▯
@@ -21483,6 +21487,9 @@ fone [(c) (d) máq sI] @Dembim 2025-11-29 #pl-KNCJA_ $en +1
   Dembim (2026-01-28): Pronominal_class: maq
   Dembim (2026-02-11): Subject: individual
   Dembim (2026-02-11): Distribution: d
+
+fopa [(0) (d) tá sE] @jiqci 2026-07-25 #1XQMguQpz $en ±
+[t]predicate: [g]‘faux pas’; ▯ is a social blunder / faux pas.
 
 foq @Machy 2022-04-15 #tnpxRP3dD $en +2 %artifact,machine
 [t]predicate: ▯ is a phone(device).
@@ -27831,7 +27838,7 @@ hâıba @Laqme 2024-04-29 #Ap12T9yAP $en +1
 haıchoe @seaqtaq 2024-07-10 #6pVfQ8M5H $en ±
 [t]predicate: ▯ has already happened by the time ▯ happens
 
-haıda @jiqci 2024-06-25 #SWYNyjrIE $en +3
+haıda @jiqci 2024-06-25 #SWYNyjrIE $en +4
 [t]predicate: ▯ destroys / devastates / lays waste / obliterates ▯.
 
 haıdakıoq @jiqci 2025-01-13 #lIrQHzQJR $en ±
@@ -84438,6 +84445,9 @@ tıetoa @uakci 2021-09-04 #ntqkDmWgM $en ±
 [t]predicate: ▯ are subtitles/alt text.
   uakci (2021-09-04): after 字幕 (jimaku, ‘character curtain’)
 
+tıfa [(c c) (d d) tá sF] @Dembim 2026-07-25 #YNLaJ0IzD $en ±
+[t]predicate: [g]‘go’; ▯ goes to ▯
+
 tıfaı @seaqtaq 2019-09-17 #Myd08lnKm7q $en ±
 [t]predicate: [g]‘widespread’; ▯ is common/widespread throughout ▯
 
@@ -85591,7 +85601,7 @@ toaqlıeı @robintown 2024-09-10 #RojdibzRo $en +1
 Toaqlızu @robintown 2022-05-14 #emsxejU3Q $en ±
 [t]predicate: ▯ is Toaqglish.
 
-toaqme @uakci 2021-09-08 #ZW76AlhtB $en +1
+toaqme @uakci 2021-09-08 #ZW76AlhtB $en +2
 [t]predicate: ▯ is the Toaq community.
 
 toaqmuı @Ilmen 2020-02-19 #OYzoEhxPn $en -1
