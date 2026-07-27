@@ -1085,8 +1085,8 @@ ao'eajuna @seaqtaq 2024-12-01 #YJ0N0cmub $en ±
 aoba @Laqme 2024-11-10 #RJ6I9T6lx $en ±
 [t]predicate: ▯ is a grandfather/grandpa of ▯.
 
-aobı @salarua 2022-10-11 #5iNMrALKf $en +6
-[t]predicate: ▯ is imaginary/made-up/fictional
+aobı [(c) (d) tá sF] @salarua 2022-10-11 #5iNMrALKf $en +6
+[t]predicate: [g]‘imaginary’; ▯ is imaginary/made-up/fictional
   uakci (2022-10-11): cutest compound i've seen in a while
   Dembim (2026-02-08): Frame: c
   Dembim (2026-02-08): Pronominal_class: ta
@@ -9713,7 +9713,7 @@ cula @uakci 2022-05-12 #1cVk2OTVn $en ±
 [t]predicate: ▯ is an image/emblem/symbol/sign/emoticon/emoji/pictogram/ideogram representing the concept of the state/event/property/relation ▯.
   uakci (2022-05-12): = **lảı củaq X**
 
-cum @uakci 2023-01-05 #poKk1mogy $en ±
+cum @uakci 2023-01-05 #poKk1mogy $en -1
 [t]predicate: ▯ responds to stimulus ▯ with reaction ▯ (property).
 
 cumılaı @jiqci 2023-05-01 #F-gt939Xu $en ±
@@ -19171,6 +19171,9 @@ eqgı @Ilmen 2024-09-25 #NbEUDSNT1 $en ±
 eqjuna @seaqtaq 2024-11-05 #Z8PXqexMV $en ±
 [t]predicate: ▯ is legitimate/real/genuine
 
+eqkabuleta [(c) (d) hóq sI] @Dembim 2026-07-27 #75Bu0e-OS $en ±
+[t]predicate: [g]‘technobabble’; ▯ is technobabble, nonsense used to give an impression of technical depth and/or sophistication.
+
 eqkoe @Laqme 2025-04-01 #3bi863cX9 $en +1
 [t]predicate: ▯ chooses / selects ▯.
 
@@ -28591,6 +28594,11 @@ hataı @jiqci 2024-07-06 #yxJNOZQDP $en ±
 [t]predicate: ▯ one-ups / surpasses / outdoes ▯ in property ▯.
   jiqci (2024-07-06): shortened from **huaqtaı**
 
+hatere @Dembim 2026-07-26 #kqVJU-J7l $toa ±
+[t]predicate: Sá nhạku jeı ▯, nä sá nhạshı jeı ▯, nä huaq, ꝡé juna nhạ́ku nhê hóa, ꝡé ıq lô nhạ́shı, ꝡá juna nhạ́ku nhê hóa.
+  Dembim (2026-07-26): Etymology: <ha-> + some random syllables that sound nice
+  Dembim (2026-07-26): see <koitere>
+
 hatıao @uakci 2021-11-04 #Xn9sizCKP $en ±
 [t]predicate: ▯ is customizable/adaptable/responsive in thr way it satisfies relation ▯.
 
@@ -31915,10 +31923,6 @@ huıcıa [(c 1i) (d d) tá sF] @official 2026-07-17 #5KMX5AvTHxu $en ±
 huıcıa @jiqci 2023-07-31 #HP9Lnrit24 $pl ±
 [t]predicate: ▯ brakuje/ma niedobór własności ▯.
 
-huıcua @fagri 2020-02-14 #y8I3otXzu $en -1
-[t]predicate: ▯ responds to stimulus ▯ with revenge ▯
-  uakci (2022-02-19): −1; too specific
-
 huıcha @uakci 2022-02-06 #2bkUr_AVp $en ±
 [t]predicate: ▯ happens in a bad manner; ▯ is bad.
 
@@ -33782,7 +33786,6 @@ Itıopıagua @countries 2026-07-17 #qqx6D_F5JaL $en ±
 
 ıukoı @Laqme 2023-12-16 #cB0oabqly $en +1
 [t]predicate: ▯ satisfies property ▯ less than it really does.
-  Dembim (2026-06-07): degree:
 
 ıuku @seaqtaq 2024-12-01 #km22hluC- $en +1
 [t]predicate: ▯ satisfies property ▯ less than it really does.
@@ -34438,7 +34441,7 @@ jaqjeq @jiqci 2023-07-31 #pW7I-DfoV $pl ± %amount,comparison
 jaqjuı @fagri 2019-02-03 #mQEYFCeK5 $en ±
 [t]predicate: ▯ is about the same as ▯ in property ▯(1)
 
-jaqkafe @salarua 2022-08-31 #vFfg2N-QT $en ±
+jaqkafe @salarua 2022-08-31 #vFfg2N-QT $en +1
 [t]predicate: ▯ is a red-eye/turbo/depth charge (coffee with one or more espresso shots)
 
 jaqkempoq @uakci 2023-11-04 #KvU33NU04 $en ±
@@ -42470,9 +42473,6 @@ kıe [(c) (d) hó sI] @Dembim 2026-06-10 #rOi67HPth $en +1 %emotion
   Dembim (2026-06-12): Emotions are unary.
   Ilmen (2026-07-03): discriminator: 2
 
-kıe [(c c 1j) (d d d) hó sI] @official 2026-07-17 #fsGpxYrl1EK $en ± %emotion
-[t]predicate: [g]‘thankful’; ▯ is thankful/grateful to ▯ for satisfying property ▯.
-
 kıe @el 2022-07-10 #iq33NFMF9 $tok ± %emotion
 [t]predicate: ▯ li pilin pona tawa ▯ tan ni: ona li ▯
 
@@ -42481,6 +42481,9 @@ kıe @zearen 2023-03-07 #vuzO-BicI $jbo ± %emotion
 
 kıe @jiqci 2023-07-31 #Yt7_5PSKAH $pl ± %emotion
 [t]predicate: ▯ jest wdzięczny ▯ za spełnienie własności ▯.
+
+kıe [(c c 1j) (d d d) hó sI] @official 2026-07-17 #fsGpxYrl1EK $en -1 %emotion
+[t]predicate: [g]‘thankful’; ▯ is thankful/grateful to ▯ for satisfying property ▯.
 
 kıe @uakci 2019-04-14 #IV_Uq_OFu $toa -1 %emotion
 tıaojaı dóshı jêo dógu dósaq lũı ru jùqgı dóshı da
@@ -43841,6 +43844,10 @@ koıpu @jiqci 2024-08-27 #otv9cN5qm $en ±
 
 koısoıche @Ilmen 2020-02-16 #U1k_wZ9Ub $en ±
 [t]predicate: ▯ is an infantry soldier.
+
+koıtere @Dembim 2026-07-26 #T0hc5i4le $toa ±
+[t]predicate: Sá nhạku jeı ▯, nä sá nhạshı jeı ▯, nä kuoı, ꝡé juna nhạ́ku nhê hóa, ꝡé ıq lô nhạ́shı, ꝡá juna nhạ́ku nhê hóa.
+  Dembim (2026-07-26): see <hatere>
 
 koıtıeq [(c) (d) máq sI] @official 2026-07-17 #Irjbu6BrXaq $en ±
 [t]predicate: [g]‘path’; ▯ is a walking path.
@@ -57655,12 +57662,16 @@ naraqzeo @fagri 2021-07-27 #h7kaHC5Dn $en +1
 naraqzeonao @fagri 2021-07-27 #CLjIcZB0X $en ±
 [t]predicate: ▯ is orange juice
 
-narı @lassc 2025-03-20 #A0hGB6gAh $en +1
+narı @lassc 2025-03-20 #A0hGB6gAh $en +2
 [t]predicate: ▯ replies to/responds to/retorts at/addresses/answers ▯.
   lassc (2025-03-20): definitely exists already probably **cua** related but the point is mostly a hyponymous **kuq** for flavor
+  Dembim (2026-07-26): Is this "responds to what is said or communicated", or is it "responds to interlocutor", i.e. something like "cuakuq sá nhashì jeı ▯ sá côm ▯, jü luı kuq hóa sá côm nhashí"? I guess probably the latter.
 
 nárıaq @seaqtaq 2024-11-13 #6Tdw_hfis $en ±
 [t]pronoun: that place over there
+
+narıshaı @evie 2026-07-26 #i0ZehUftk $en ±
+[t]predicate: ▯ ghosts / stops replying to (interlocutor) ▯
 
 nasa @robintown 2024-01-10 #IIqm6jbIr $en +2
 [t]predicate: ▯ is weird/strange/silly.
@@ -62449,8 +62460,8 @@ nhaq- [] @evie 2026-07-07 #Fnw_FlGiR $en ±
 nhaq- @magnap 2024-10-06 #Ex3BV2WS8 $en -1
 [t]experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
 
-nhaq @el 2021-12-19 #xLyC14SY_ $en +23
-[t]interjection: nyaan
+nhaq [] @el 2021-12-19 #xLyC14SY_ $en +23
+[t]interjection: [g]‘nyaan’; nyaan
   el (2021-12-19): enough compounds with nhaq it may as well have its own definition
   Machy (2022-04-15): +1. If only I could +1000.
   Laqme (2022-04-15): "meow"
