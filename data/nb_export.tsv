@@ -516,6 +516,7 @@ fork of official predicate lose ▯ loses ▯ _BIAS _RAKU_shaı _2_RAKU_boshaı 
 ▯ moves house relocates to ▯ from ▯ _BIAS _RAKU_beo _2_RAKU_buabeo _ARITY_3	hó	sA	3
 ▯ moves house relocates to ▯ _BIAS _RAKU_fa _2_RAKU_buafa _ARITY_2	hó	sA	2
 ▯ is long _BIAS _RAKU_buaı _ARITY_1	tá	sS	1
+▯ is long _BIAS _RAKU_buaı _ARITY_1	tá	sS	1
 ▯ stretches flexes _BIAS _RAKU_duoı _2_RAKU_buaıduoı _ARITY_1	hó	sA	1
 ▯ is a 3d oval shape oblong sphere like shape similar to the shape of a bird s egg _BIAS _RAKU_kıoq _2_RAKU_buaıkıoq _ARITY_1	tá	sS	1
 ▯ is an ellipse _BIAS _RAKU_sıoq _2_RAKU_buaısıoq _ARITY_1	máq	sI	1
@@ -572,6 +573,7 @@ fork of official predicate lose ▯ loses ▯ _BIAS _RAKU_shaı _2_RAKU_boshaı 
 ▯ is the country brunei nation of brunei abode of peace _BIAS _RAKU_gua _2_RAKU_neıgua _ARITY_1 _CAPS	máq	sI	1
 ▯ is a buñuelo _BIAS _RAKU_lo _2_RAKU_nhuelo _ARITY_1	máq	sI	1
 ▯ is ready to satisfy property ▯ _BIAS _RAKU_buo _ARITY_2	hó	sI	2
+▯ is non serious _BIAS _RAKU_buoq _ARITY_1	tá	sF	1
 ▯ is non serious _BIAS _RAKU_buoq _ARITY_1	tá	sF	1
 ▯ is a clown jester buffoon _BIAS _RAKU_che _2_RAKU_buoqche _ARITY_1	hó	sI	1
 ▯ is the case j ▯ is the case but i m just being silly _BIAS _RAKU_jı _2_RAKU_buoqjı _ARITY_1	hóq	sP	1
@@ -1320,6 +1322,7 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _2_RAKU_f
 ▯ is a tone mark diacritic _BIAS _RAKU_laı _2_RAKU_nelaı _ARITY_1	máq	sI	1
 ▯ is short _BIAS _RAKU_doq _ARITY_1	tá	sS	1
 ▯ is short not long buaı _BIAS _RAKU_doq _ARITY_1	tá	sS	1
+▯ is short _BIAS _RAKU_doq _ARITY_1	tá	sS	1
 ▯ is a member of the infraorder brachyura the true crabs _BIAS _RAKU_huoı _2_RAKU_doqhuoı _ARITY_1	hó	sI	1
 ▯ is a dungeon _BIAS _RAKU_joq _2_RAKU_doqjoq _ARITY_1	máq	sI	1
 ▯ is a dungeon master _BIAS _RAKU_che _2_RAKU_caqche _ARITY_1	hó	sI	1
@@ -2689,8 +2692,8 @@ there is risk of ▯ being true _BIAS _RAKU_rıeı _2_RAKU_narıeı _ARITY_1	hó
 ▯ should be the case ▯ had better be the case if ▯ is the case _BIAS _RAKU_juoq _ARITY_2	hóq	sP	2
 ▯ should satisfy property ▯ _BIAS _RAKU_juoq _ARITY_2	tá	sF	2
 ▯ receives gets acquires ▯ _BIAS _RAKU_juq _ARITY_2	hó	sI	2
-▯ gets acquires property ▯ _BIAS _RAKU_juq _ARITY_2	tá	sI	2
 ▯ receives gets acquires ▯ _BIAS _RAKU_juq _ARITY_2	tá	sI	2
+▯ gets acquires property ▯ _BIAS _RAKU_juq _ARITY_2	tá	sI	2
 ▯ has an effect on affects ▯ ▯ causes ▯ to receive property ▯ ▯ has ▯ as an effective target affected party _BIAS _RAKU_ca _2_RAKU_juqca _ARITY_3	tá	sF	3
 ▯ is a transceiver _BIAS _RAKU_kea _2_RAKU_dıeqkea _ARITY_1	máq	sI	1
 ▯ is chinese is of china its languages or people _BIAS _RAKU_guo _2_RAKU_juqguo _ARITY_1 _CAPS	tá	sF	1
