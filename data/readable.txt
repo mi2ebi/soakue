@@ -21504,7 +21504,7 @@ fone [(c) (d) máq sI] @Dembim 2025-11-29 #pl-KNCJA_ $en +1
   Dembim (2026-02-11): Distribution: d
 
 fopa [(0) (d) tá sE] @jiqci 2026-07-25 #1XQMguQpz $en ±
-[t]predicate: [g]‘faux pas’; ▯ is a social blunder / faux pas.
+[t]predicate: [g]‘faux.pas’; ▯ is a social blunder / faux pas.
 
 foq @Machy 2022-04-15 #tnpxRP3dD $en +2 %artifact,machine
 [t]predicate: ▯ is a phone(device).
@@ -68409,7 +68409,8 @@ rao @jiqci 2023-07-31 #L48QsvKJK2 $pl ± %time
 [t]predicate: ▯ zdarza się wtedy, gdy/w tym samym czasie, co ▯.
 
 rao [(c c) (d d) tá sF] @Dembim 2026-07-23 #wkh6ukInE $en ± %time
-[t]predicate: [g]‘while’; ▯ is during ▯.
+[t]predicate: [g]‘during’; ▯ is during ▯.
+  evie (2026-07-30): while
 
 rao @uakci 2019-01-29 #46Z_4z0ym $toa -1 %time
 bu shıu ra bıe dóshı dógu da
