@@ -52557,11 +52557,8 @@ meq- @uakci 2023-10-13 #5lDBV3chi $en ±
 [t]prefix: turn verb into focus prefix
   uakci (2023-10-13): see **meq**, **kueu**. the mechanics of this word goes as follows: •if X is binary, then the focus prefix feeds the focused part of a proposition as the first argument and the ‘remainder’ expressed as a lambda as the second argument. for example, **cho jí mẹ́qsoq súq** transforms into **soq súq, lä cho jí já**. in this vein, **mẹ́q'ıq** corresponds to the no-op focus prefix. note that the original preposition is lifted, i.e., no longer asserted (in favor of the ancillary proposition whose predicate is X); •if X is unary, then the use of the focus prefix is equivalent to an adjoined clause with it replaced by **kú** – for example, **cho jí mẹ́qgıfaq súq** transforms into **cho jí súq; gıfaq, ꝡä cho jî kú súq**. note that this use is essentially similar to an eventive adverb (here, **gîfaq**), so like a focused/scoped adverbial if you will
 
-meq @Ilmen 2020-01-10 #RSxfBglvT $en +1
-[t]quantifier: the proposition in which this quantifier appears is treated as a property with a lambda slot placed exactly where this quantifier appears; the resulting property is then claimed to satisfy the first slot of the predicate introduced by this quantifier.
-  Ilmen (2020-01-10): ``mủıdūa meq nỏa ní`` = ``nỏa mûıdūa ja ní``.
-  Ilmen (2020-01-14): ``meq hảo`` is similar to ``hão`` but instead of delivering a proposition (lû) to the first slot of ``hao`` as is the case with the latter, it passes a property (lî) to it. Compare ``chỏq jí ní jẽaq dảqfāı`` —"I use this increasingly frequently"— with ``chỏq meq pủıjēaq ní`` —"increasingly many ones use this"—.
-  Ilmen (2020-01-14): What can be expressed as ``gủaı meq dùq póq`` under the alternative definition #46CV57Aje can be expressed as per this very definition as ``gủaı póq ru meq hỏpā dủq``, which is three syllables more. Hopefully the additional flexibility allowed by this one definition is a sufficient compensation.
+méq @Ilmen 2026-07-31 #E-wtKZlaz $en ±
+monovalent quantifier constructor: the proposition in which this quantifier appears is treated as a property with a lambda slot placed exactly where this quantifier appears; the resulting property is then claimed to satisfy the first slot of the predicate introduced by this particle.
 
 mẹ́qjoq'ıq @uakci 2024-01-07 #Rz5ut7I-m $en ±
 [t]focus marker: primarily, predominantly, mainly, chiefly, overwhelmingly, as a majority (of cases / of concern)
@@ -77846,7 +77843,7 @@ suoızuom @Laqme 2024-12-05 #vIgH2bl62 $en ±
 [t]predicate: ▯ is a disaster/catastrophe.
 
 sûom @seaqtaq 2024-10-29 #cx_jM3ZTk $en +1
-[t]direct object  sharing adverbial head: as if [object] does/is...
+[t]adjunct head: as if [object] does/is...
   seaqtaq (2024-10-29): See **oq** and, more importantly, **sum**
   evie (2026-04-23): (**îaı**)
 
