@@ -10075,6 +10075,9 @@ chaınıulıao @Snow 2024-10-06 #ekgFjsiZL $en ±
 chaırıaq @Laqme 2024-06-05 #mocCyI-ot $en ±
 [t]predicate: ▯ is a teahouse / tearoom.
 
+chaıshuoq [(c) (d) máq sI] @Laqme 2026-08-02 #cgiWWPwY_ $en ±
+[t]predicate: [g]‘teapot’; ▯ is a teapot.
+
 chaıtıaq @Laqme 2022-05-09 #yvFItNiL8 $en ±
 [t]predicate: ▯ is tea-brown.
 
@@ -39715,6 +39718,9 @@ kafesaı @Laqme 2022-10-23 #d_JzetEHO $en +1
 kafesaıcıa @Laqme 2024-06-05 #qZAxrdEzL $en ±
 [t]predicate: ▯ is non-caffeinated / decaf.
 
+kafeshuoq [(c) (d) máq sI] @Laqme 2026-08-02 #3NZjwmyh8 $en ±
+[t]predicate: [g]‘cafetière’; ▯ is a French press / cafetière.
+
 kafo @uakci 2022-10-27 #02joi82MU $en +1
 [t]predicate: ▯ is true for the most part / in most aspects / in most ways that matter.
   uakci (2022-10-27): < **kaga fỏaı**
@@ -42337,7 +42343,7 @@ kıaqmıa @robintown 2025-05-07 #D5zBD9_UN $en ±
 kıaqnıoq @jiqci 2023-08-02 #NPeTYixEP $en ±
 [t]predicate: ▯ is a baleen/whalebone.
 
-kıaqnıu @Ilmen 2018-09-24 #vHdyowpJA $en ± %lifeform,plant
+kıaqnıu @Ilmen 2018-09-24 #vHdyowpJA $en -1 %lifeform,plant
 [t]predicate: ▯ is grass.
 
 kıaqnua @uakci 2019-01-07 #iWprqewsF $en ±
@@ -55160,6 +55166,10 @@ muana [] @Laqme 2023-10-19 #TXB91TMh9 $en +6
 [t]interjection: [g]‘for.example’; 'for example'
   Laqme (2023-10-19):  I don't know if writing "for example" again in the notes will move this up in the search results but it's worth a shot
 
+muanoa @evie 2026-08-02 #d1HBfVKSH $en ±
+[t]predicate: it's hard to come up with an example of ▯
+  evie (2026-08-02): this maybe 'should' be **muadonoa** or something but like what else would **muanoa** mean
+
 muao [(c) (d) máq sI] @official 2026-07-28 #NBLGtwYP4iB $en ± %lifeform,plant,tree
 [t]predicate: [g]‘tree’; ▯ is a tree.
 
@@ -64846,7 +64856,7 @@ hyphen, dash (–)
 peolıem @Laqme 2023-12-09 #qa05F7L-W $en ±
 [t]predicate: ▯ is a piercing.
 
-peom @Laqme 2024-06-11 #Q271d3DeB $en ±
+peom @Laqme 2024-06-11 #Q271d3DeB $en +1
 [t]predicate: ▯ is spoiled/rotten.
   Laqme (2024-06-11): putrid, decayed, foul, "gone off"
 
@@ -75974,6 +75984,9 @@ soaqpao @Machy 2020-06-04 #xFHDBBmoX $en ±
 soaqpaoche @Machy 2020-06-04 #dRKHJZ78J $en ±
 [t]predicate: ▯ is a gardener.
 
+soaqshuoq [(c) (d) máq sI] @Laqme 2026-08-02 #AMUH6Nl8n $en ±
+[t]predicate: [g]‘watering can’; ▯ is a watering can.
+
 soasa @uakci 2022-10-31 #3nG3zBUYb $en ±
 [t]predicate: ▯ satisfies property ▯ with another’s help/assistance.
 
@@ -81675,6 +81688,16 @@ shuonıu @Laqme 2022-05-17 #loyC7WPZD $en ±
 
 shuonhoa @seaqtaq 2024-10-15 #Rvase6kXa $en ±
 [t]predicate: There is insufficient ▯ (in reserve/to go around)
+
+shuoq [(c) (d) máq sI] @Laqme 2026-08-02 #srsl0UwpJ $en ±
+[t]predicate: [g]‘jug’; ▯ is a jug.
+  Laqme (2026-08-02): kw: ewer, pitcher, carafe, flagon
+  Dembim (2026-08-02): Is the difference between this and e.g. <cheoq> that this is supposed to be a serving and/or transport vessel, while cheoq is maybe not? Or is this just <cheoq> <sao>?
+  Laqme (2026-08-02): A vessel for pouring, typically with a spout and/or a handle and no cap.
+  Laqme (2026-08-02): Probably similar to **jegaq** (I think that's more for storage than for pouring-from.)
+
+shuoqbıo [(c) (d) máq sI] @Laqme 2026-08-02 #RdN8bf6dJ $en ±
+[t]predicate: [g]‘tankard’; ▯ is a tankard.
 
 shuosao @seaqtaq 2024-10-08 #gNu_dsK9V $en ±
 [t]predicate: There is a lot of ▯
