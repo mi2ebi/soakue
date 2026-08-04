@@ -4573,7 +4573,7 @@ boalıem @Laqme 2023-08-11 #I_3pyanYZ $en ±
 boaluqsıbı @jiqci 2025-09-30 #SRLsASXfw $en ±
 [t]predicate: ▯ is a jugular vein.
 
-boam @uakci 2023-01-13 #aWlMnkMu4 $en +1
+boam @uakci 2023-01-13 #aWlMnkMu4 $en +2
 [t]predicate: ▯ is low-pitched/low-frequency; ▯ happens at a slow frequency / with slow oscillation.
   uakci (2023-01-13): primarily to describe sound, but also things like **koı nháo îq, lä tuao muoı nháo fâna báq lıa bôam** ‘they walked, swaying from side to side sluggishly’
 
@@ -15800,7 +15800,7 @@ deoqtoı @Ilmen 2025-12-16 #5wBu5Xbka $en +1
 deoqtoı @uakci 2023-11-11 #I0fU0djoQ $en ±
 [t]predicate: ▯ communicates to ▯ that the two are in relation ▯.
 
-deoqzaosu @seaqtaq 2023-03-08 #rt2AkRPuN $en ±
+deoqzaosu @seaqtaq 2023-03-08 #rt2AkRPuN $en +1
 [t]predicate: ▯ is one's communicative identifier/signature; ▯ is one's "voice" (not necessarily vocal)
   seaqtaq (2023-03-08): This is an abstraction of english's "voice" across every possible communicative medium, be it sound waves, the electromagnetic spectrum, tactile, olfactory, etc. Intended to be less anthropocentric, as the existence of this word means that it is not necessary to use the metaphor of "voice" to attempt to refer to communicative signatures in general. In addition to being less anthropocentric, it can be used for humans that can't speak as well. The word could be used to refer to the visual pecularities and idiosyncracies of the way one signs a particular sign language as well
 
@@ -24547,6 +24547,9 @@ gıo @SuperSpaceNiM 2024-08-16 #70Ecyqsvz $ru ±
 
 gıo @uakci 2019-04-14 #yeJJfz-dh $toa -1
 ca sa pó dóshı gâıkıu sa báq da
+
+gıo'aı @Dembim 2026-08-03 #NI9e79J6J $en ±
+[t]predicate: ▯ is electromagnetic radiation
 
 gıocıa [(c) (d) tá sF] @official 2026-07-28 #qBiIlSWOSLc $en ±
 [t]predicate: [g]‘dark’; ▯ is dark (without light).
@@ -33836,7 +33839,7 @@ Itıopıagua @countries 2026-07-28 #EAQQhEcnwZiJ $en ±
 ıutea @Laqme 2024-06-23 #SZRCx9v05 $en +1
 [t]predicate: ▯ is frightened by ▯ being the case.
 
-ıꝡe @uakci 2023-01-13 #2rdNjMFSU $en +1
+ıꝡe @uakci 2023-01-13 #2rdNjMFSU $en +2
 [t]predicate: ▯ is high-pitched/high-frequency; ▯ happens at a high frequency / with rapid oscillation.
 
 ıꝡenuo @jiqci 2025-07-30 #hgqc7-2Ua $en ±
@@ -80749,7 +80752,7 @@ shoem [(c c) (d d) tá sF] @Laqme 2024-06-25 #miSA-A7oz $en +3
 shoemjuam @robintown 2025-04-01 #tTrvm98I9 $en ±
 [t]predicate: ▯ deep-fries ▯.
 
-shoemla @seaqtaq 2024-07-26 #4OaBklZgp $en ±
+shoemla @seaqtaq 2024-07-26 #4OaBklZgp $en -1
 [t]predicate: ▯ is immersed in/consumed with/engrossed in satisfying property ▯
   seaqtaq (2024-07-26): E.g. "Shoemla tea líqdeo môaboı, ꝡä kaqla hó púao sao" == "The girl was consumed with fear upon seeing the large cloud"
   seaqtaq (2024-07-26): Not necessarily agentive, but can be
