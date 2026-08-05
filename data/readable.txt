@@ -3678,8 +3678,8 @@ bıado @Laqme 2023-11-15 #1r67fRiFp $en ±
 bıafoa @uakci 2021-11-07 #EXFeYrRME $en ±
 [t]predicate: ▯ feels sick / like a sick person; ▯ feels worn out of or resigned to sickness.
 
-bıage @Laqme 2024-07-23 #p-CwD-D9j $en ±
-[t]predicate: ▯ is a disease/illness/affliction/malady/ailment.
+bıage @Laqme 2026-08-04 #dzeB_kExw $en ±
+[t]predicate: ▯ causes illness / makes one sick.
 
 bıagetea @salarua 2021-11-09 #h5IDXR2uW $en ±
 [t]predicate: ▯ has illness anxiety
@@ -3750,6 +3750,9 @@ bıamuasaı [(c) (d) máq sI] @Laqme 2022-01-11 #ms5DR0Wda $en +2
 
 bıanuıbıru @seaqtaq 2020-01-27 #H5F-CPRxY $en ±
 [t]predicate: ▯ is of genus Morbillivirus
+
+bıanuımıe @Laqme 2026-08-04 #zAE3chnhC $en ±
+[t]predicate: ▯ is a pathogen.
 
 bıao [(c) (d) hó sI] @official 2026-07-28 #zEGkh03yBXF $en ± %emotion
 [t]predicate: [g]‘confused’; ▯ is confused.
@@ -3904,6 +3907,10 @@ bıashoaıcıa @Hoekeiboi 2023-07-31 #2scfokwQW $en ±
 
 bıashoaıcıa @Hoekeiboi 2023-07-31 #FTiBCoit1 $tl ±
 [t]predicate: may dusdos ang ▯.
+
+bıateı @Laqme 2026-08-04 #prhCtHG-h $en ±
+[t]predicate: ▯ is a disease/illness/affliction/malady/ailment.
+  Laqme (2026-08-04): An abstract "way of being sick", e.g. influenza. A single *bout* of influenza would be an **ẹbıa**.
 
 bıatıao @uakci 2021-08-22 #MgYozoWNe $en ±
 [t]predicate: Property ▯ is symptomatic of illness ▯; The symptom(s) that is satisfying properties ▯ point towards illness ▯.
@@ -61556,8 +61563,8 @@ nuımeı @Ilmen 2018-11-22 #b8Q7blyI5 $en +1 %geographic_feature
 nuımeı @zearen 2025-03-16 #3YncHIbfS $jbo ± %geographic_feature
 [t]predicate: ▯ cmama'a
 
-nuımıe @seaqtaq 2019-11-11 #3yRDOlpks $en ±
-[t]predicate: ▯ is a microbe
+nuımıe [(c) (d) hó sI] @seaqtaq 2019-11-11 #3yRDOlpks $en ±
+[t]predicate: [g]‘microbe’; ▯ is a microbe
   Dembim (2026-02-12): microorganism
 
 nuımıebısa @nuimshuao 2024-09-06 #iGfzokkzG $en ±
@@ -70515,6 +70522,9 @@ rıum @jiqci 2023-06-30 #hT0m-UHaH $en ±
 
 rıumbıru @jiqci 2023-09-08 #H7MS4q4hF $en ±
 [t]predicate: ▯ is a bacteriophage.
+
+rıumjıamloeq @Laqme 2026-08-04 #EA021PRDm $en ±
+[t]predicate: ▯ gets pasteurized.
 
 rıunua @robintown 2023-12-30 #jSd89N2Hs $en ±
 [t]predicate: ▯ takes back from ▯ possession of ▯.

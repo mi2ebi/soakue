@@ -376,10 +376,12 @@ the answer to ▯ changes alternates _BIAS _RAKU_beo _2_RAKU_beobeo _ARITY_1	hó
 ▯ is pathology _BIAS _RAKU_dıu _2_RAKU_bıadıu _ARITY_1	hóq	sI	1
 ▯ is a pathologist _BIAS _RAKU_che _2_RAKU_dıuche _ARITY_1	hó	sI	1
 ▯ feels sick like a sick person ▯ feels worn out of or resigned to sickness _BIAS _RAKU_foa _2_RAKU_bıafoa _ARITY_1	hó	sI	1
+▯ causes illness makes one sick _BIAS _RAKU_ge _2_RAKU_bıage _ARITY_1	tá	sF	1
 ▯ is a hospital _BIAS _RAKU_jıo _2_RAKU_bıajıo _ARITY_1	máq	sI	1
 ▯ has a sick unhealthy desire urge hunger for satisfying ▯ _BIAS _RAKU_kuaı _2_RAKU_bıakuaı _ARITY_2	hó	sI	2
 ▯ is mo u ld _BIAS _RAKU_lıao _2_RAKU_bıalıao _ARITY_1	máq	sI	1
 ▯ is a vaccine substance _BIAS _RAKU_saı _2_RAKU_bıamsaı _ARITY_1	máq	sI	1
+▯ is a pathogen _BIAS _RAKU_nuım _2_RAKU_bıanuım _ARITY_1	hó	sI	1
 ▯ is confused _BIAS _RAKU_bıao _ARITY_1	hó	sI	1
 ▯ is a maze _BIAS _RAKU_koaı _2_RAKU_bıaokoaı _ARITY_1	máq	sI	1
 ▯ stumbles staggers lurches flounders _BIAS _RAKU_koı _2_RAKU_bıaokoı _ARITY_1	hó	sI	1
@@ -393,6 +395,7 @@ the answer to ▯ changes alternates _BIAS _RAKU_beo _2_RAKU_beobeo _ARITY_1	hó
 ▯ is not enough ▯ insufficiently satisfies property ▯ _BIAS _RAKU_bu _2_RAKU_bıaqbu _ARITY_2	tá	sF	2
 ▯ is a miasma _BIAS _RAKU_rıo _2_RAKU_bıarıo _ARITY_1	máq	sI	1
 ▯ is toxic poison venom _BIAS _RAKU_saı _2_RAKU_bıasaı _ARITY_1	máq	sI	1
+▯ is a disease illness affliction malady ailment _BIAS _RAKU_teı _2_RAKU_bıateı _ARITY_1	hóq	sI	1
 ▯ is a video _BIAS _RAKU_deo _2_RAKU_bıdeo _ARITY_1	hóq	sI	1
 ▯ is a video of ▯ _BIAS _RAKU_deo _2_RAKU_bıdeo _ARITY_2	hóq	sI	2
 ▯ plays video game ▯ _BIAS _RAKU_luaq _2_RAKU_deoluaq _ARITY_2	hó	sI	2
@@ -4293,6 +4296,7 @@ what does ▯ taste like how does ▯ taste _BIAS _RAKU_hıa _2_RAKU_noqhıa _AR
 ▯ is a star _BIAS _RAKU_nuım _ARITY_1	máq	sI	1
 ▯ is something which has escaped one s agency control _BIAS _RAKU_bo _2_RAKU_nuımbo _ARITY_1	hóq	sP	1
 ▯ is a hill _BIAS _RAKU_nuım _ARITY_1	máq	sI	1
+▯ is a microbe _BIAS _RAKU_nuım _ARITY_1	hó	sI	1
 ▯ is a fried egg sunny side up _BIAS _RAKU_bo _2_RAKU_kubo _ARITY_1	máq	sI	1
 ▯ is an asterisk _BIAS _RAKU_laı _2_RAKU_nuımlaı _ARITY_1	máq	sI	1
 ▯ is a galaxy _BIAS _RAKU_sıoq _2_RAKU_nuımsıoq _ARITY_1	máq	sI	1
@@ -4879,6 +4883,7 @@ lanao ▯ is outbound headed to the outskirts of the spiral _BIAS _RAKU_na _2_RA
 ▯ gives ▯ back possession of ▯ _BIAS _RAKU_do _2_RAKU_rıudo _ARITY_3	hó	sA	3
 ▯ returns to ▯ ▯ goes back to ▯ _BIAS _RAKU_fa _2_RAKU_rıufa _ARITY_2	hó	sA	2
 ▯ feels nostalgic for longs to return to satisfying property ▯ _BIAS _RAKU_kuaı _2_RAKU_rıukuaı _ARITY_2	hó	sI	2
+▯ gets pasteurized _BIAS _RAKU_loeq _2_RAKU_jıamloeq _ARITY_1	máq	sI	1
 ▯ is a vein _BIAS _RAKU_bı _2_RAKU_sıbı _ARITY_1	máq	sI	1
 ▯ is natural _BIAS _RAKU_roa _ARITY_1	tá	sF	1
 ▯ is supernatural paranormal otherworldly beyond nature _BIAS _RAKU_cuao _2_RAKU_roacuao _ARITY_1	tá	sF	1
