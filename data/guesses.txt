@@ -5,12 +5,12 @@ Top discriminative tokens (LogReg Weights) for pronoun:
   tá: ["pertains(4.79)", "_RAKU_lıaq(3.05)", "beautiful(3.03)", "_RAKU_jua(2.46)", "subjectively(2.45)", "number(2.41)", "culture(2.38)", "_RAKU_de(2.37)", "half(2.31)", "result(2.29)"]
 
 Top discriminative tokens (LogReg Weights) for subject:
-  sA: ["_PRON_hó(4.83)", "excretes(2.87)", "_RAKU_tao(1.99)", "_RAKU_kım(1.99)", "writes(1.97)", "evades(1.97)", "file(1.95)", "_RAKU_geı(1.94)", "utters(1.92)", "_RAKU_koı(1.89)"]
-  sI: ["_RAKU_dıu(2.71)", "_PRON_máq(2.24)", "_PRON_hó(1.60)", "colour(1.38)", "language(1.35)", "chord(1.31)", "_RAKU_chaq(1.30)", "letter(1.30)", "_RAKU_ne(1.27)", "a(1.17)"]
-  sE: ["event(3.37)", "_PRON_hóq(2.79)", "_RAKU_neq(2.77)", "forever(2.43)", "happens(2.39)", "random(2.30)", "game(2.23)", "_RAKU_bıe(2.05)", "takes(2.04)", "_RAKU_chuı(2.04)"]
-  sP: ["case(4.36)", "true(3.49)", "_PRON_hóq(3.45)", "times(2.54)", "_RAKU_dıaq(2.49)", "proposition(2.35)", "_RAKU_fuı(2.33)", "by(2.16)", "_RAKU_bu(1.97)", "_RAKU_kuem(1.96)"]
-  sS: ["_PRON_tá(3.50)", "_RAKU_sao(2.85)", "tall(2.38)", "_RAKU_nıa(2.25)", "_RAKU_lıo(2.23)", "short(2.16)", "shape(2.14)", "disorderly(2.13)", "_RAKU_gea(1.98)", "long(1.96)"]
-  sF: ["_RAKU_zuom(4.01)", "pertains(3.88)", "_PRON_tá(2.83)", "satisfies(2.70)", "_RAKU_nhuaı(2.34)", "universal(2.26)", "_RAKU_jıaq(2.19)", "relation(2.15)", "feels(2.15)", "aıpu(2.11)"]
+  sA: ["_PRON_hó(4.82)", "excretes(2.85)", "_RAKU_geı(1.98)", "_RAKU_tao(1.97)", "writes(1.97)", "_RAKU_kım(1.97)", "file(1.97)", "evades(1.95)", "utters(1.93)", "_RAKU_koı(1.89)"]
+  sI: ["_RAKU_dıu(2.71)", "_PRON_máq(2.24)", "_PRON_hó(1.61)", "colour(1.39)", "language(1.36)", "chord(1.31)", "letter(1.30)", "_RAKU_chaq(1.30)", "_RAKU_ne(1.25)", "a(1.18)"]
+  sE: ["event(3.38)", "_RAKU_neq(2.82)", "_PRON_hóq(2.75)", "forever(2.49)", "random(2.34)", "happens(2.33)", "game(2.22)", "_RAKU_bıe(2.11)", "_RAKU_chuı(2.04)", "early(2.04)"]
+  sP: ["case(4.31)", "true(3.43)", "_PRON_hóq(3.40)", "times(2.50)", "_RAKU_dıaq(2.46)", "proposition(2.33)", "_RAKU_fuı(2.28)", "by(2.14)", "_RAKU_kuem(1.94)", "_RAKU_bu(1.86)"]
+  sS: ["_PRON_tá(3.71)", "_RAKU_sao(2.87)", "tall(2.41)", "_RAKU_lıo(2.31)", "_RAKU_nıa(2.28)", "short(2.21)", "disorderly(2.13)", "shape(2.10)", "_RAKU_gea(2.02)", "long(2.01)"]
+  sF: ["_RAKU_zuom(4.01)", "pertains(3.86)", "_PRON_tá(2.77)", "satisfies(2.67)", "_RAKU_nhuaı(2.34)", "universal(2.28)", "relation(2.17)", "_RAKU_jıaq(2.17)", "aıpu(2.11)", "feels(2.10)"]
 
 === ACCURACY (n=6449) ===
   frame:           93.6% (heuristic, training data)
@@ -20,13 +20,13 @@ Top discriminative tokens (LogReg Weights) for subject:
     hóq  76.9%  (1119/1455)
     máq  89.5%  (1773/1982)
     tá   63.0%  (690/1096)
-  subject:         81.5% (10-fold CV, chained)
-    sA   91.0%  (610/670)
-    sE   54.3%  (63/116)
+  subject:         81.4% (10-fold CV, chained)
+    sA   91.2%  (611/670)
+    sE   52.6%  (61/116)
     sF   58.8%  (542/922)
-    sI   86.2%  (3889/4510)
-    sP   62.9%  (83/132)
-    sS   68.7%  (68/99)
+    sI   86.1%  (3882/4510)
+    sP   63.6%  (84/132)
+    sS   69.7%  (69/99)
 
 === PRONOUN CONFIDENCE CALIBRATION ===
   (raw softmax → estimated actual accuracy)
@@ -41,7 +41,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   raw 93% → 87%
   raw 99% → 96%
 
-=== MISMATCHES ON ANNOTATED ENTRIES (736; annotation QC) ===
+=== MISMATCHES ON ANNOTATED ENTRIES (724; annotation QC) ===
   Sorted by confidence: high % likely indicates a typo in the training data.
 
 ✗ [PRON/SUBJ] fa #wwc9KNzUk
@@ -64,16 +64,16 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) máq sI] (conf: p=53%, s=100%)
 ✗ [PRON/SUBJ] dıeq #Z7bxg6Zj8
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=53%, s=86%)
+  guessed: [(c c) (d d) hó sA] (conf: p=53%, s=84%)
 ✗ [PRON] reqkea #fNHHpEuQl
   actual:  [(c) (d) hó sI]
   guessed: [(c) (d) máq sI] (conf: p=49%, s=100%)
 ✗ [PRON/SUBJ] sheaq #pcF622beGQ
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=48%, s=57%)
+  guessed: [(c c) (d d) hó sA] (conf: p=48%, s=54%)
 ✗ [PRON] foajeq #birf0HP8X
   actual:  [(c c c) (d d d) tá sF]
-  guessed: [(c c c) (d d d) hó sF] (conf: p=46%, s=53%)
+  guessed: [(c c c) (d d d) hó sF] (conf: p=46%, s=57%)
 ✗ [PRON] loqkune #JvCNADRQM
   actual:  [(c) (d) máq sI]
   guessed: [(c) (d) hó sI] (conf: p=46%, s=99%)
@@ -88,565 +88,517 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) máq sI] (conf: p=44%, s=100%)
 ✗ [PRON] juq #VnwEkm5wt
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) tá sI] (conf: p=44%, s=44%)
+  guessed: [(c c) (d d) tá sI] (conf: p=44%, s=42%)
 ✗ [PRON] chıaqme #Az4qkyA15
   actual:  [(c) (d) hó sI]
   guessed: [(c) (d) máq sI] (conf: p=43%, s=100%)
 ✗ [SUBJ] ne #Nli45O7GghW
   actual:  [(c 0) (d d) hóq sI]
-  guessed: [(c 0) (d d) hóq sP] (conf: p=96%, s=97%)
-✗ [SUBJ] chıe #WHu7dakxP-d
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=95%, s=95%)
+  guessed: [(c 0) (d d) hóq sP] (conf: p=96%, s=96%)
 ✗ [SUBJ] dıochu #kdV1WdVfpg0
   actual:  [(c) (d) hóq sI]
   guessed: [(c) (d) hóq sE] (conf: p=80%, s=94%)
+✗ [SUBJ] chıe #WHu7dakxP-d
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=95%, s=93%)
 ✗ [SUBJ] shuepaq #Kq14chq2U
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=93%, s=90%)
+  guessed: [(c c) (d d) tá sS] (conf: p=93%, s=92%)
 ✗ [SUBJ] neq #gQmigjzalun
   actual:  [(c c) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sE] (conf: p=80%, s=88%)
-✗ [SUBJ] muıduafuı #qdKi7xTy2
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=96%, s=88%)
-✗ [SUBJ] chıeqfa #siKxc15Lln4
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=87%, s=88%)
-✗ [SUBJ] fea #Kg5y2sIhH
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=86%, s=87%)
-✗ [SUBJ] shoı #i9CpwXU1f5
-  actual:  [(c) (d) hó sI]
-  guessed: [(c) (d) hó sA] (conf: p=95%, s=87%)
-✗ [FRAME/SUBJ] gaı #zMmO96P7aCi
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=87%)
-✗ [SUBJ] chıaqsho #HJ8hS-KK5
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=86%)
-✗ [FRAME/DIST/SUBJ] sheıdaq #UqdzaknNb
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=84%)
-✗ [SUBJ] gaı tı #r9DFXpaOa
-  actual:  [(c c c) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=84%)
+  guessed: [(c c) (d d) hóq sE] (conf: p=80%, s=89%)
 ✗ [FRAME/SUBJ] shea #xDiUcn79bN
   actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=92%, s=83%)
-✗ [SUBJ] beoja #jy20c9pbe
+  guessed: [(c c) (d d) tá sS] (conf: p=92%, s=87%)
+✗ [SUBJ] shoı #i9CpwXU1f5
+  actual:  [(c) (d) hó sI]
+  guessed: [(c) (d) hó sA] (conf: p=95%, s=86%)
+✗ [SUBJ] chıeqfa #siKxc15Lln4
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=82%)
-✗ [FRAME/SUBJ] taotıao #0-0NVvCvd
-  actual:  [(c c 1j) (d d d) hó sI]
-  guessed: [(c c 1i) (d d d) hó sP] (conf: p=96%, s=81%)
-✗ [SUBJ] caduı #VX3whmEF1
-  actual:  [(c 0) (d d) hóq sI]
-  guessed: [(c 0) (d d) hóq sP] (conf: p=96%, s=80%)
-✗ [SUBJ] nuogaı #vQrHpMchi
+  guessed: [(c c) (d d) hó sA] (conf: p=87%, s=86%)
+✗ [SUBJ] fea #Kg5y2sIhH
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=86%, s=85%)
+✗ [FRAME/SUBJ] gaı #zMmO96P7aCi
+  actual:  [(c 0) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=85%)
+✗ [SUBJ] muıduafuı #qdKi7xTy2
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sP] (conf: p=96%, s=84%)
+✗ [SUBJ] chıaqsho #HJ8hS-KK5
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=79%)
-✗ [SUBJ] nuq #gzW8DvP6_
-  actual:  [(c c 2ij) (d d d) hó sI]
-  guessed: [(c c 2ij) (d d d) hó sA] (conf: p=96%, s=79%)
+  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=84%)
 ✗ [SUBJ] poanıe #f8EvYeN4O
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=79%)
-✗ [FRAME/SUBJ] duasho #p3I94_Llen1
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=79%)
-✗ [SUBJ] caloaı #uJczwjbc-
+  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=83%)
+✗ [FRAME/DIST/SUBJ] sheıdaq #UqdzaknNb
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=82%)
+✗ [SUBJ] gaı tı #r9DFXpaOa
   actual:  [(c c c) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=90%, s=78%)
+  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=81%)
 ✗ [SUBJ] rem #9Og5oDsso
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=56%, s=78%)
-✗ [SUBJ] chıaqdıeq #HWahbUjql
-  actual:  [(c c c) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=93%, s=77%)
-✗ [FRAME/DIST/SUBJ] tılao #hH_HCklTP
+  guessed: [(c c) (d d) tá sS] (conf: p=56%, s=81%)
+✗ [SUBJ] beoja #jy20c9pbe
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=76%)
-✗ [SUBJ] shuaq #WYWYq3vJJIT
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=76%)
-✗ [FRAME/SUBJ] nuogaı #RZJs3Ltv3
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=76%)
-✗ [SUBJ] huaqcho #WOUTwJ4Af2R_
-  actual:  [(c c c) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=76%)
-✗ [SUBJ] chıaıtaosı #L5JCFpZ_E
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=93%, s=76%)
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=80%)
 ✗ [SUBJ] sıaqpaq #mBFIuND7ZXg
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=75%)
-✗ [SUBJ] zuenua #ls-aACwyH
-  actual:  [(c c c) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=94%, s=75%)
-✗ [FRAME/SUBJ] duaroa #oMoyNg5hX
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=74%)
-✗ [SUBJ] jıaqjeo #J0c05CNpu
-  actual:  [(c c) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sP] (conf: p=90%, s=74%)
-✗ [SUBJ] choaırıeq #79ZadsZcn
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=73%)
-✗ [SUBJ] chaqreoq #nhCl76LAA
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sE] (conf: p=96%, s=73%)
-✗ [SUBJ] roq #EUXKN0pG0paB
-  actual:  [(c) (d) hó sI]
-  guessed: [(c) (d) hó sA] (conf: p=94%, s=73%)
-✗ [FRAME/SUBJ] caısue #Pq7g43jmB
-  actual:  [(c c 1j) (d d d) hó sI]
-  guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=72%)
+  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=79%)
 ✗ [SUBJ] reaq #SqStDTHx-7FR
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=84%, s=72%)
-✗ [SUBJ] mıu suao #roo_lDjQu
+  guessed: [(c c) (d d) tá sS] (conf: p=84%, s=79%)
+✗ [FRAME/SUBJ] taotıao #0-0NVvCvd
+  actual:  [(c c 1j) (d d d) hó sI]
+  guessed: [(c c 1i) (d d d) hó sP] (conf: p=96%, s=78%)
+✗ [SUBJ] nuogaı #vQrHpMchi
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=72%)
-✗ [FRAME/SUBJ] taoduaı #3xw6zFyKx
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=86%, s=72%)
-✗ [SUBJ] bocheaq #7t6pwDn_J
-  actual:  [(c c c) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=71%)
-✗ [SUBJ] bua #QVLixW9cqZY
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=71%)
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=77%)
+✗ [SUBJ] caduı #VX3whmEF1
+  actual:  [(c 0) (d d) hóq sI]
+  guessed: [(c 0) (d d) hóq sP] (conf: p=96%, s=77%)
+✗ [SUBJ] nuq #gzW8DvP6_
+  actual:  [(c c 2ij) (d d d) hó sI]
+  guessed: [(c c 2ij) (d d d) hó sA] (conf: p=96%, s=76%)
+✗ [FRAME/SUBJ] duasho #p3I94_Llen1
+  actual:  [(c 0) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=76%)
 ✗ [FRAME/SUBJ] reo #2vYw2zHAzXNZ
   actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=50%, s=71%)
+  guessed: [(c c) (d d) tá sS] (conf: p=50%, s=75%)
 ✗ [FRAME/SUBJ] reo #YvpVsgl2o
   actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=50%, s=71%)
-✗ [SUBJ] luaqtue #PN7GZumc8
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sE] (conf: p=96%, s=71%)
-✗ [SUBJ] cheu #xqEAmdmgC
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=71%)
-✗ [SUBJ] buıja #0rsvnwOvI
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=71%)
-✗ [SUBJ] cım #u-QOHxmx5
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=91%, s=71%)
-✗ [DIST/SUBJ] zuese #PyIiqIrb-
-  actual:  [(c c) (n n) hóq sF]
-  guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=70%)
-✗ [SUBJ] gıebuaı #aah_sDoDq
-  actual:  [(c) (d) tá sI]
-  guessed: [(c) (d) tá sS] (conf: p=90%, s=70%)
-✗ [SUBJ] buaq #QQ0loro1jWX
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=70%)
-✗ [SUBJ] katosoı #yvAvKk3h5
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=70%)
-✗ [FRAME/SUBJ] chıaısıtao #9SDlN5CuY
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=69%)
+  guessed: [(c c) (d d) tá sS] (conf: p=50%, s=75%)
+✗ [SUBJ] caloaı #uJczwjbc-
+  actual:  [(c c c) (d d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=90%, s=75%)
 ✗ [FRAME/DIST/SUBJ] sıu #pIh3TwFDau
   actual:  [(c) (d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=80%, s=69%)
+  guessed: [(c c) (d d) tá sS] (conf: p=80%, s=74%)
 ✗ [SUBJ] sıu #1X3r9WQHUJn
   actual:  [(c c) (d d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=80%, s=69%)
-✗ [SUBJ] hıaoleo #3tc2yxrAr
+  guessed: [(c c) (d d) tá sS] (conf: p=80%, s=74%)
+✗ [SUBJ] chıaqdıeq #HWahbUjql
+  actual:  [(c c c) (d d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=93%, s=74%)
+✗ [SUBJ] shuaq #WYWYq3vJJIT
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=68%)
-✗ [SUBJ] luaqduo #FmRWBnseD
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=67%)
-✗ [SUBJ] rıoq #vMJmzTVzeszm
-  actual:  [(c c) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sF] (conf: p=91%, s=67%)
-✗ [SUBJ] zuohıra #rFvcasj4S
+  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=74%)
+✗ [FRAME/SUBJ] nuogaı #RZJs3Ltv3
+  actual:  [(c 0) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=74%)
+✗ [SUBJ] chıaıtaosı #L5JCFpZ_E
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=93%, s=73%)
+✗ [SUBJ] gıebuaı #aah_sDoDq
+  actual:  [(c) (d) tá sI]
+  guessed: [(c) (d) tá sS] (conf: p=90%, s=73%)
+✗ [SUBJ] huaqcho #WOUTwJ4Af2R_
+  actual:  [(c c c) (d d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=73%)
+✗ [SUBJ] chaqreoq #nhCl76LAA
   actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sE] (conf: p=95%, s=67%)
+  guessed: [(c) (d) hóq sE] (conf: p=96%, s=72%)
+✗ [FRAME/DIST/SUBJ] tılao #hH_HCklTP
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=72%)
 ✗ [FRAME/SUBJ] jao #1oPeK5p945FE
   actual:  [(c c 2xx) (d d d) tá sF]
-  guessed: [(c c 1i) (d d d) tá sS] (conf: p=96%, s=67%)
-✗ [SUBJ] loı #1wkbScLbf5e
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=67%)
-✗ [SUBJ] luaruo #AhktCspde
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=67%)
-✗ [SUBJ] ruabo #I5UNJQDV6
-  actual:  [(c) (d) tá sI]
-  guessed: [(c) (d) tá sS] (conf: p=73%, s=66%)
+  guessed: [(c c 1i) (d d d) tá sS] (conf: p=96%, s=72%)
+✗ [FRAME/SUBJ] duaroa #oMoyNg5hX
+  actual:  [(c 0) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=71%)
+✗ [SUBJ] zuenua #ls-aACwyH
+  actual:  [(c c c) (d d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=94%, s=71%)
 ✗ [SUBJ] faqjuq #Ih7_Li1CX
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=79%, s=66%)
-✗ [DIST/SUBJ] chedu #u5L_ZWJUf
-  actual:  [(c c 1j) (d n d) hó sI]
-  guessed: [(c c 1j) (d d d) hó sA] (conf: p=94%, s=66%)
-✗ [SUBJ] jutaq #BeX2_xuNf
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=89%, s=66%)
-✗ [SUBJ] shıq #oL8jm7NcV
+  guessed: [(c c) (d d) tá sS] (conf: p=79%, s=71%)
+✗ [SUBJ] choaırıeq #79ZadsZcn
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=87%, s=65%)
-✗ [DIST/SUBJ] shuıkeoı #ArV0hprXO
-  actual:  [(c c) (d n) hó sI]
-  guessed: [(c c) (n n) hó sA] (conf: p=89%, s=65%)
-✗ [FRAME/SUBJ] cheaqzuatao #Elxkza1VA
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=65%)
-✗ [SUBJ] mıujeq #SrX6q9tyM8d
-  actual:  [(c c 0) (d d d) hó sI]
-  guessed: [(c c 0) (d d d) hó sA] (conf: p=93%, s=65%)
-✗ [SUBJ] taogıq #oYd969ikJ
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=82%, s=65%)
-✗ [SUBJ] tuoıruaq #bfE0L6Izw
-  actual:  [(c c c) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=65%)
-✗ [SUBJ] lıopaq #Ve5iDn-0A2a
-  actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=95%, s=64%)
-✗ [SUBJ] eılala #1ZqP8EL7O
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=64%)
-✗ [SUBJ] sheo #8Xv5FzZ8KM
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=64%)
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=71%)
+✗ [SUBJ] roq #EUXKN0pG0paB
+  actual:  [(c) (d) hó sI]
+  guessed: [(c) (d) hó sA] (conf: p=94%, s=71%)
+✗ [SUBJ] ruabo #I5UNJQDV6
+  actual:  [(c) (d) tá sI]
+  guessed: [(c) (d) tá sS] (conf: p=73%, s=70%)
+✗ [SUBJ] luaqtue #PN7GZumc8
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sE] (conf: p=96%, s=70%)
+✗ [SUBJ] rıoq #vMJmzTVzeszm
+  actual:  [(c c) (d d) hóq sI]
+  guessed: [(c c) (d d) hóq sF] (conf: p=91%, s=70%)
+✗ [SUBJ] jıaqjeo #J0c05CNpu
+  actual:  [(c c) (d d) hóq sI]
+  guessed: [(c c) (d d) hóq sP] (conf: p=90%, s=70%)
 ✗ [SUBJ] nhoe #YHZ0AGc4-
   actual:  [(c c) (d d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=79%, s=64%)
-✗ [SUBJ] taobuca #JYKyW9cxx
+  guessed: [(c c) (d d) tá sS] (conf: p=79%, s=70%)
+✗ [FRAME/SUBJ] caısue #Pq7g43jmB
+  actual:  [(c c 1j) (d d d) hó sI]
+  guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=69%)
+✗ [SUBJ] lıopaq #Ve5iDn-0A2a
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=95%, s=69%)
+✗ [FRAME/SUBJ] taoduaı #3xw6zFyKx
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=86%, s=69%)
+✗ [SUBJ] bua #QVLixW9cqZY
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=89%, s=64%)
-✗ [SUBJ] teoq #9wGCLk5vWJY
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=79%, s=64%)
+  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=68%)
 ✗ [SUBJ] nuı #U3zsVmTosJ2
   actual:  [(c) (d) tá sI]
-  guessed: [(c) (d) tá sS] (conf: p=80%, s=64%)
-✗ [SUBJ] boaıtao #lULwTnHGG
-  actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c 1i) (d d) tá sA] (conf: p=48%, s=64%)
-✗ [SUBJ] zufıeq #lK4reLQfT
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=63%)
-✗ [SUBJ] nheoı #cwawoYDmR
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sE] (conf: p=96%, s=63%)
-✗ [FRAME/DIST/SUBJ] jaqbeı #xQtzw43bd
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c c) (d d) hóq sP] (conf: p=88%, s=63%)
-✗ [FRAME/SUBJ] shoe #Qic2wmpOEiF
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=63%)
-✗ [SUBJ] gımıu #gc9jhJxl0
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=91%, s=63%)
-✗ [SUBJ] cuo #OHFKDtHElRH
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c 0) (d d) hó sA] (conf: p=94%, s=63%)
-✗ [SUBJ] doılueq #hxApLg-Sp
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=63%)
-✗ [FRAME/DIST/SUBJ] jeıbıao #FXhPnqt8I
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=63%)
-✗ [SUBJ] cheoqla #qjRIwTPqf
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=63%)
-✗ [SUBJ] moıkuq #3Rf3vcMF4
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=63%)
-✗ [SUBJ] laoheq #hph5Bt1C5
-  actual:  [(c 0) (d d) hóq sI]
-  guessed: [(c 0) (d d) hóq sE] (conf: p=96%, s=62%)
-✗ [SUBJ] loeqjueq #vwcxClbQA
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=62%)
-✗ [FRAME/DIST/SUBJ] muıbo #mMFbosNXL
-  actual:  [(c) (d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=88%, s=62%)
-✗ [SUBJ] taı #cjiVZFOnOZX
+  guessed: [(c) (d) tá sS] (conf: p=80%, s=68%)
+✗ [SUBJ] cheu #xqEAmdmgC
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=61%)
-✗ [SUBJ] jıaꝡaı #MqDEXds4N
+  guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=68%)
+✗ [SUBJ] bocheaq #7t6pwDn_J
+  actual:  [(c c c) (d d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=68%)
+✗ [SUBJ] mıu suao #roo_lDjQu
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=93%, s=61%)
-✗ [SUBJ] gokuq #FSiIO-Ftb
+  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=68%)
+✗ [SUBJ] buıja #0rsvnwOvI
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=61%)
-✗ [SUBJ] fatuı #2EI18fiKs
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=67%)
+✗ [SUBJ] cım #u-QOHxmx5
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=93%, s=61%)
-✗ [SUBJ] dıeqjuq #q7fJZGWoT
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=93%, s=60%)
-✗ [SUBJ] maı #B9tzQafRcTp
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=60%)
-✗ [SUBJ] zıdao #OrTbUu8Uj
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=90%, s=60%)
-✗ [SUBJ] soka #Od1dTIHhZis
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sE] (conf: p=77%, s=60%)
-✗ [FRAME/SUBJ] gaqla #5auu4Bt-P
+  guessed: [(c c) (d d) hó sA] (conf: p=91%, s=67%)
+✗ [FRAME/SUBJ] chıaısıtao #9SDlN5CuY
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=60%)
-✗ [SUBJ] shosıadoı #6DAcVkM89
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=67%)
+✗ [SUBJ] buaq #QQ0loro1jWX
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=67%)
+✗ [SUBJ] katosoı #yvAvKk3h5
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=59%)
-✗ [SUBJ] maımaı #ScR6xE0Q8
+  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=67%)
+✗ [DIST/SUBJ] zuese #PyIiqIrb-
+  actual:  [(c c) (n n) hóq sF]
+  guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=66%)
+✗ [SUBJ] hıaoleo #3tc2yxrAr
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=59%)
-✗ [SUBJ] soaokıaı #48vyepYWt
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=59%)
+  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=66%)
 ✗ [SUBJ] tıshue #a6YTCDLVwnC
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=62%, s=59%)
-✗ [SUBJ] ıjo #x1s1-wvZO
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=59%)
-✗ [FRAME/SUBJ] cheonu #mXonMBbxJ
+  guessed: [(c c) (d d) tá sS] (conf: p=62%, s=65%)
+✗ [SUBJ] zuohıra #rFvcasj4S
   actual:  [(c) (d) hóq sF]
-  guessed: [(0) (d) hóq sP] (conf: p=96%, s=59%)
-✗ [SUBJ] zuteı #VM7QR-JUp
-  actual:  [(c c) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=59%)
-✗ [SUBJ] boıte #WRoZbEG5y
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=89%, s=58%)
+  guessed: [(c) (d) hóq sE] (conf: p=95%, s=65%)
 ✗ [SUBJ] rao #wkh6ukInE
   actual:  [(c c) (d d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=68%, s=58%)
+  guessed: [(c c) (d d) tá sS] (conf: p=68%, s=65%)
+✗ [FRAME/DIST/SUBJ] muıbo #mMFbosNXL
+  actual:  [(c) (d) tá sF]
+  guessed: [(c c) (d d) tá sS] (conf: p=88%, s=64%)
 ✗ [SUBJ] paqcıa #SlEjgmZ3ZCue
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=58%)
-✗ [SUBJ] haqcıu #Q9rsY8E8r
+  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=64%)
+✗ [SUBJ] loı #1wkbScLbf5e
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=84%, s=58%)
-✗ [SUBJ] guaırıeq #s6NBvV3wn
+  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=64%)
+✗ [SUBJ] luaqduo #FmRWBnseD
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=64%)
+✗ [SUBJ] luaruo #AhktCspde
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=94%, s=58%)
-✗ [SUBJ] zukuq #1iphDF4bs
+  guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=64%)
+✗ [SUBJ] shıq #oL8jm7NcV
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=58%)
-✗ [SUBJ] zulucu #VPJmV2yLS
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sI] (conf: p=96%, s=58%)
-✗ [SUBJ] de #yoluE6x26gK
-  actual:  [(c) (d) tá sF]
-  guessed: [(c) (d) tá sS] (conf: p=96%, s=57%)
-✗ [SUBJ] keaı #5DEdql-dI688
-  actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=55%, s=57%)
-✗ [SUBJ] luaıkuq #FdNDsnLMh
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=57%)
-✗ [SUBJ] juqkuaı #NGqMSdvBE8nc
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=56%)
-✗ [SUBJ] jaılao #rNI717BN5
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c 0) (d d) hó sA] (conf: p=96%, s=56%)
-✗ [SUBJ] mateoq #H56GdqSXB
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=96%, s=56%)
-✗ [SUBJ] nuoqtao #JHeVH2tPB
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=56%)
-✗ [SUBJ] nıhu #254C5Yb_C
-  actual:  [(c c) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sP] (conf: p=85%, s=55%)
-✗ [FRAME/SUBJ] jıqdua #neCPINNI6Nki
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c 0) (d d) hó sA] (conf: p=96%, s=55%)
-✗ [SUBJ] soaotue #UBnzUwvym
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sE] (conf: p=96%, s=55%)
+  guessed: [(c c) (d d) hó sA] (conf: p=87%, s=63%)
+✗ [SUBJ] jutaq #BeX2_xuNf
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=89%, s=63%)
+✗ [FRAME/SUBJ] cheaqzuatao #Elxkza1VA
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=63%)
+✗ [DIST/SUBJ] chedu #u5L_ZWJUf
+  actual:  [(c c 1j) (d n d) hó sI]
+  guessed: [(c c 1j) (d d d) hó sA] (conf: p=94%, s=62%)
+✗ [DIST/SUBJ] shuıkeoı #ArV0hprXO
+  actual:  [(c c) (d n) hó sI]
+  guessed: [(c c) (n n) hó sA] (conf: p=89%, s=62%)
 ✗ [DIST/SUBJ] me #4kdj7cYS68R
   actual:  [(c c) (d n) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=62%, s=55%)
-✗ [FRAME/DIST/SUBJ] sheıtua #cR29AQMLg
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=54%)
-✗ [SUBJ] caımoaq #gWxCYir7r
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=92%, s=54%)
-✗ [SUBJ] taıchu #XfbtF7JoZ
+  guessed: [(c c) (d d) tá sS] (conf: p=62%, s=62%)
+✗ [SUBJ] de #yoluE6x26gK
+  actual:  [(c) (d) tá sF]
+  guessed: [(c) (d) tá sS] (conf: p=96%, s=61%)
+✗ [SUBJ] taogıq #oYd969ikJ
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=54%)
-✗ [SUBJ] reoqchuq #HJlP3ryhe
-  actual:  [(c) (d) hó sI]
-  guessed: [(c) (d) hó sA] (conf: p=93%, s=54%)
-✗ [SUBJ] chıdoq #dvvlv8JXL
-  actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=54%)
-✗ [SUBJ] noq #scfb0b6e6
+  guessed: [(c 1i) (d d) hó sA] (conf: p=82%, s=61%)
+✗ [SUBJ] eılala #1ZqP8EL7O
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=80%, s=53%)
-✗ [SUBJ] muıjuoıse #x1j4Kro8W
-  actual:  [(c c) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sP] (conf: p=96%, s=53%)
-✗ [SUBJ] cheıruedea #qtAO6NAsp
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=61%)
+✗ [SUBJ] sheo #8Xv5FzZ8KM
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=61%)
+✗ [SUBJ] nheoı #cwawoYDmR
+  actual:  [(c) (d) hóq sF]
+  guessed: [(c) (d) hóq sE] (conf: p=96%, s=61%)
+✗ [SUBJ] taobuca #JYKyW9cxx
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=53%)
-✗ [SUBJ] soıhuaq #H5g-WLOrK
-  actual:  [(c c 1i) (d d d) hó sI]
-  guessed: [(c c 1i) (d d d) hó sA] (conf: p=88%, s=53%)
-✗ [SUBJ] kaq #-9YiR5N7i
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=93%, s=53%)
-✗ [SUBJ] joaıtaı #MvN22aQp4
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=53%)
-✗ [SUBJ] buzoaı #ZuMTzBphP
+  guessed: [(c c) (d d) hó sA] (conf: p=89%, s=61%)
+✗ [SUBJ] cuo #OHFKDtHElRH
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c 0) (d d) hó sA] (conf: p=94%, s=53%)
-✗ [SUBJ] fa #hD2ohHx8H
-  actual:  [(c) (d) hó sI]
-  guessed: [(c) (d) hó sA] (conf: p=79%, s=53%)
-✗ [SUBJ] reoge #yKJyhXMcx
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sF] (conf: p=79%, s=53%)
-✗ [SUBJ] deq #s-cB99lVy
-  actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=80%, s=53%)
+  guessed: [(c 0) (d d) hó sA] (conf: p=94%, s=61%)
+✗ [SUBJ] mıujeq #SrX6q9tyM8d
+  actual:  [(c c 0) (d d d) hó sI]
+  guessed: [(c c 0) (d d d) hó sA] (conf: p=93%, s=61%)
+✗ [SUBJ] gımıu #gc9jhJxl0
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=91%, s=61%)
+✗ [SUBJ] zufıeq #lK4reLQfT
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=60%)
+✗ [SUBJ] laoheq #hph5Bt1C5
+  actual:  [(c 0) (d d) hóq sI]
+  guessed: [(c 0) (d d) hóq sE] (conf: p=96%, s=60%)
+✗ [SUBJ] cheoqla #qjRIwTPqf
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=60%)
+✗ [SUBJ] doılueq #hxApLg-Sp
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=60%)
 ✗ [SUBJ] paq ru suku #mvXLvdP6t
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=82%, s=53%)
+  guessed: [(c c) (d d) tá sS] (conf: p=82%, s=59%)
+✗ [SUBJ] loeqjueq #vwcxClbQA
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=59%)
+✗ [SUBJ] tuoıruaq #bfE0L6Izw
+  actual:  [(c c c) (d d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=59%)
+✗ [SUBJ] teoq #9wGCLk5vWJY
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sP] (conf: p=79%, s=59%)
+✗ [SUBJ] boaıtao #lULwTnHGG
+  actual:  [(c 1i) (d d) tá sI]
+  guessed: [(c 1i) (d d) tá sA] (conf: p=48%, s=59%)
+✗ [SUBJ] soka #Od1dTIHhZis
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sE] (conf: p=77%, s=58%)
+✗ [SUBJ] jıaꝡaı #MqDEXds4N
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=93%, s=58%)
+✗ [SUBJ] gokuq #FSiIO-Ftb
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=58%)
+✗ [SUBJ] chıdoq #dvvlv8JXL
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=96%, s=58%)
+✗ [SUBJ] taı #cjiVZFOnOZX
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=58%)
+✗ [SUBJ] moıkuq #3Rf3vcMF4
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=58%)
+✗ [FRAME/SUBJ] shoe #Qic2wmpOEiF
+  actual:  [(c 0) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=58%)
+✗ [SUBJ] zuteı #VM7QR-JUp
+  actual:  [(c c) (d d) hóq sF]
+  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=58%)
+✗ [SUBJ] zulucu #VPJmV2yLS
+  actual:  [(c) (d) hóq sF]
+  guessed: [(c) (d) hóq sI] (conf: p=96%, s=57%)
+✗ [SUBJ] fatuı #2EI18fiKs
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=93%, s=57%)
+✗ [SUBJ] maı #B9tzQafRcTp
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=57%)
+✗ [FRAME/DIST/SUBJ] jeıbıao #FXhPnqt8I
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=57%)
+✗ [SUBJ] dıeqjuq #q7fJZGWoT
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=93%, s=57%)
+✗ [SUBJ] shosıadoı #6DAcVkM89
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=57%)
+✗ [FRAME/SUBJ] gaqla #5auu4Bt-P
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=56%)
+✗ [SUBJ] keaı #5DEdql-dI688
+  actual:  [(c 1i) (d d) tá sI]
+  guessed: [(c 1i) (d d) tá sF] (conf: p=55%, s=56%)
+✗ [SUBJ] maımaı #ScR6xE0Q8
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=90%, s=56%)
+✗ [SUBJ] soaokıaı #48vyepYWt
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=56%)
+✗ [SUBJ] ıjo #x1s1-wvZO
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=94%, s=56%)
+✗ [SUBJ] zıdao #OrTbUu8Uj
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sP] (conf: p=90%, s=56%)
+✗ [SUBJ] boıte #WRoZbEG5y
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=89%, s=55%)
+✗ [SUBJ] reoge #yKJyhXMcx
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sF] (conf: p=79%, s=55%)
+✗ [SUBJ] guaırıeq #s6NBvV3wn
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=94%, s=55%)
+✗ [SUBJ] zukuq #1iphDF4bs
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=95%, s=54%)
+✗ [SUBJ] soaotue #UBnzUwvym
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sE] (conf: p=96%, s=54%)
+✗ [SUBJ] haqcıu #Q9rsY8E8r
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=84%, s=54%)
+✗ [SUBJ] juqkuaı #NGqMSdvBE8nc
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=54%)
+✗ [SUBJ] chedude #Zcgn4lIso
+  actual:  [(c) (d) tá sI]
+  guessed: [(c) (d) tá sS] (conf: p=96%, s=54%)
+✗ [FRAME/DIST/SUBJ] jaqbeı #xQtzw43bd
+  actual:  [(c) (d) hóq sF]
+  guessed: [(c c) (d d) hóq sP] (conf: p=88%, s=54%)
+✗ [SUBJ] luaıkuq #FdNDsnLMh
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=53%)
+✗ [SUBJ] jaılao #rNI717BN5
+  actual:  [(c 0) (d d) hó sI]
+  guessed: [(c 0) (d d) hó sA] (conf: p=96%, s=53%)
+✗ [SUBJ] mateoq #H56GdqSXB
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sP] (conf: p=96%, s=53%)
+✗ [SUBJ] tısha #8U9SAvhG4Cg
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=81%, s=52%)
+✗ [FRAME/SUBJ] jıqdua #neCPINNI6Nki
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c 0) (d d) hó sA] (conf: p=96%, s=52%)
+✗ [SUBJ] nuoqtao #JHeVH2tPB
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=52%)
+✗ [SUBJ] nıhu #254C5Yb_C
+  actual:  [(c c) (d d) hóq sI]
+  guessed: [(c c) (d d) hóq sP] (conf: p=85%, s=52%)
+✗ [SUBJ] reoqchuq #HJlP3ryhe
+  actual:  [(c) (d) hó sI]
+  guessed: [(c) (d) hó sA] (conf: p=93%, s=51%)
+✗ [SUBJ] kopı #AmZbrWxE3pwH
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=72%, s=51%)
+✗ [SUBJ] taıchu #XfbtF7JoZ
+  actual:  [(c 1i) (d d) hó sI]
+  guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=51%)
+✗ [FRAME/SUBJ] kıu #koqbXPFcz9f5
+  actual:  [(c 2xi) (d d) tá sF]
+  guessed: [(c c) (d d) tá sS] (conf: p=91%, s=51%)
+✗ [FRAME/SUBJ] cheonu #mXonMBbxJ
+  actual:  [(c) (d) hóq sF]
+  guessed: [(0) (d) hóq sP] (conf: p=96%, s=50%)
+✗ [SUBJ] noq #scfb0b6e6
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c) (d d) hó sA] (conf: p=80%, s=50%)
 ✗ [SUBJ] nhame #eZqVYEE5Y
   actual:  [(c) (d) hó sI]
-  guessed: [(c) (d) hó sA] (conf: p=78%, s=52%)
-✗ [SUBJ] tıeqdo #k7UGSDkXb
+  guessed: [(c) (d) hó sA] (conf: p=78%, s=50%)
+✗ [SUBJ] caımoaq #gWxCYir7r
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=92%, s=52%)
-✗ [SUBJ] nhomcheq #KGpcNNw2_
-  actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=52%)
-✗ [FRAME/DIST/SUBJ] feqnoaq #qdYArWl1g
-  actual:  [(c) (d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=52%)
-✗ [SUBJ] muıdao #g_2HLtWWF
+  guessed: [(c c) (d d) hó sA] (conf: p=92%, s=50%)
+✗ [FRAME/SUBJ] muı #d2F-HI6OM
+  actual:  [(c 0) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=80%, s=50%)
+✗ [DIST/SUBJ] muıhuı #86NKEp7On
+  actual:  [(c c) (d) tá sF]
+  guessed: [(c c) (d d) tá sS] (conf: p=88%, s=50%)
+✗ [FRAME/SUBJ] muo #FJ1yVJ_2viy
+  actual:  [(c 1i) (d d) tá sF]
+  guessed: [(c c) (d d) tá sS] (conf: p=93%, s=49%)
+✗ [SUBJ] luojeq #DYFr_RHiF
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=71%, s=49%)
+✗ [SUBJ] lucu #YNZpqQD84
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sF] (conf: p=92%, s=49%)
+✗ [SUBJ] muıjuoıse #x1j4Kro8W
   actual:  [(c c) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sP] (conf: p=86%, s=52%)
-✗ [FRAME/SUBJ] neqkoe #90UsEZH3o
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=51%)
+  guessed: [(c c) (d d) hóq sP] (conf: p=96%, s=49%)
+✗ [SUBJ] choase #uLbkmwZFR
+  actual:  [(c) (d) hóq sI]
+  guessed: [(c) (d) hóq sF] (conf: p=83%, s=49%)
+✗ [SUBJ] keaqbo #i69w7Sz3y
+  actual:  [(c) (d) tá sI]
+  guessed: [(c) (d) tá sS] (conf: p=74%, s=48%)
 ✗ [SUBJ] paqdeta #WrPa_7ZaN
   actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=78%, s=51%)
-✗ [SUBJ] nuq'o #CzR-CVrqm
-  actual:  [(c c 2ij) (d d d) hó sI]
-  guessed: [(c c 2ij) (d d d) hó sA] (conf: p=96%, s=51%)
-✗ [SUBJ] toaluaq #vgbT4VWHm
-  actual:  [(c) (d) hó sI]
-  guessed: [(c) (d) hó sA] (conf: p=96%, s=50%)
-✗ [FRAME/SUBJ] manha #_cGpc_MP_
-  actual:  [(c c 1j) (d d d) hó sI]
-  guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=50%)
-✗ [SUBJ] ceoluı #xMAmKz0Pr
-  actual:  [(0) (d) hóq sF]
-  guessed: [(0) (d) hóq sP] (conf: p=96%, s=49%)
-✗ [FRAME/SUBJ] jeaqdıa #xXOtC-XZ_
-  actual:  [(0) (d) tá sF]
-  guessed: [(c) (d) tá sP] (conf: p=75%, s=48%)
-✗ [SUBJ] tuqtue #1eJUc4YBI
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sE] (conf: p=94%, s=48%)
+  guessed: [(c) (d) hóq sP] (conf: p=78%, s=47%)
+✗ [SUBJ] muıdao #g_2HLtWWF
+  actual:  [(c c) (d d) hóq sI]
+  guessed: [(c c) (d d) hóq sP] (conf: p=86%, s=47%)
+✗ [FRAME/SUBJ] choqgı #jKUMKZLDieE
+  actual:  [(c 1x) (d d) tá sI]
+  guessed: [(c 1i) (d d) tá sS] (conf: p=86%, s=47%)
 ✗ [SUBJ] zurune #JjgcKa3Yg
   actual:  [(c c) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sI] (conf: p=79%, s=47%)
-✗ [FRAME/SUBJ] kıu #koqbXPFcz9f5
-  actual:  [(c 2xi) (d d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=91%, s=47%)
-✗ [SUBJ] hoja #ddVlbJhh-
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=80%, s=47%)
-✗ [SUBJ] ıulua #IrcJOusQi
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=96%, s=47%)
-✗ [SUBJ] lucu #YNZpqQD84
-  actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sF] (conf: p=92%, s=47%)
-✗ [SUBJ] zıe #ygtWRf4WM
-  actual:  [(c c) (d d) tá sF]
-  guessed: [(c c) (d d) tá sE] (conf: p=78%, s=46%)
-✗ [SUBJ] zuetue #hpG2p39Xe
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sE] (conf: p=94%, s=46%)
-✗ [SUBJ] jıqtue #XFMK3aa6z
-  actual:  [(c c) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sE] (conf: p=90%, s=46%)
-✗ [FRAME/SUBJ] muı #d2F-HI6OM
-  actual:  [(c 0) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=80%, s=46%)
-✗ [FRAME/SUBJ] muo #FJ1yVJ_2viy
-  actual:  [(c 1i) (d d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=93%, s=45%)
-✗ [SUBJ] zutıse #lncdcHujK
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sP] (conf: p=77%, s=45%)
-✗ [SUBJ] keaqbo #i69w7Sz3y
-  actual:  [(c) (d) tá sI]
-  guessed: [(c) (d) tá sS] (conf: p=74%, s=45%)
-✗ [SUBJ] bu dua sahu #V1Svfb1pi
-  actual:  [(c 0) (d d) hó sI]
-  guessed: [(c 0) (d d) hó sP] (conf: p=85%, s=44%)
-✗ [SUBJ] luojeq #DYFr_RHiF
+✗ [SUBJ] hıaorıeq #VNGrVC2AJP0
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=71%, s=43%)
-✗ [SUBJ] noıca #JKUcJjW-D
-  actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sE] (conf: p=77%, s=43%)
-✗ [FRAME/SUBJ] choqgı #jKUMKZLDieE
-  actual:  [(c 1x) (d d) tá sI]
-  guessed: [(c 1i) (d d) tá sS] (conf: p=86%, s=43%)
-✗ [SUBJ] temoq #M2eLdHFo4
-  actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sP] (conf: p=75%, s=42%)
+  guessed: [(c c) (d d) tá sS] (conf: p=59%, s=47%)
 ✗ [FRAME/SUBJ] semıo #Qxa1e50P_
   actual:  [(c 0) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=71%, s=42%)
-✗ [SUBJ] nhuq #3LCPNhnLm-z
-  actual:  [(c c) (d d) tá sF]
-  guessed: [(c c) (d d) tá sS] (conf: p=74%, s=41%)
-✗ [SUBJ] hıao #Ix5phsrRbPl
-  actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=63%, s=41%)
-✗ [FRAME/SUBJ] zuo #TuXUcei1lCs
-  actual:  [(c 0) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sE] (conf: p=64%, s=41%)
+  guessed: [(c c) (d d) tá sS] (conf: p=71%, s=47%)
 ✗ [SUBJ] doka #rbKrgMi4g
   actual:  [(c c) (d d) tá sI]
-  guessed: [(c c) (d d) tá sS] (conf: p=75%, s=40%)
+  guessed: [(c c) (d d) tá sS] (conf: p=75%, s=46%)
+✗ [SUBJ] peobıoı #dhfE5KfZg
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=92%, s=46%)
+✗ [SUBJ] tuqtue #1eJUc4YBI
+  actual:  [(c) (d) hóq sF]
+  guessed: [(c) (d) hóq sE] (conf: p=94%, s=46%)
+✗ [SUBJ] hıao #Ix5phsrRbPl
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=63%, s=46%)
+✗ [DIST/SUBJ] kueq #AjzJqyutuE2T
+  actual:  [(c c) (n d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=94%, s=45%)
+✗ [SUBJ] nhuq #3LCPNhnLm-z
+  actual:  [(c c) (d d) tá sF]
+  guessed: [(c c) (d d) tá sS] (conf: p=74%, s=44%)
+✗ [SUBJ] jıqtue #XFMK3aa6z
+  actual:  [(c c) (d d) hóq sI]
+  guessed: [(c c) (d d) hóq sE] (conf: p=90%, s=44%)
+✗ [SUBJ] jıum #dVk9rHm52
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sS] (conf: p=83%, s=44%)
 ✗ [SUBJ] majı #hPRPClL49
   actual:  [(c) (d) hóq sI]
-  guessed: [(c) (d) hóq sP] (conf: p=92%, s=40%)
-✗ [SUBJ] pıaq #hV4LohUQ4
+  guessed: [(c) (d) hóq sP] (conf: p=92%, s=41%)
+✗ [SUBJ] bu dua sahu #V1Svfb1pi
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c 0) (d d) hó sA] (conf: p=74%, s=40%)
+  guessed: [(c 0) (d d) hó sP] (conf: p=85%, s=40%)
 ✗ [SUBJ] nıq #Pq4UdR30bE4
   actual:  [(c) (d) tá sI]
   guessed: [(c) (d) tá sF] (conf: p=79%, s=40%)
-✗ [SUBJ] zuru #2Pde-LjjU
+✗ [SUBJ] zutıse #lncdcHujK
   actual:  [(c) (d) hóq sF]
-  guessed: [(c) (d) hóq sP] (conf: p=57%, s=36%)
+  guessed: [(c) (d) hóq sP] (conf: p=77%, s=39%)
+✗ [SUBJ] noıca #JKUcJjW-D
+  actual:  [(c c) (d d) tá sI]
+  guessed: [(c c) (d d) tá sE] (conf: p=77%, s=36%)
 ✗ [SUBJ] rıaı #iQ-7cpMkdNb9
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=53%, s=35%)
-✗ [SUBJ] zuno #JLR7e0dWT
-  actual:  [(c c) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sI] (conf: p=75%, s=30%)
+✗ [SUBJ] zuru #2Pde-LjjU
+  actual:  [(c) (d) hóq sF]
+  guessed: [(c) (d) hóq sP] (conf: p=57%, s=33%)
 ✗ [FRAME] ace #PCTUufAZg
   actual:  [(c 1x) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=90%, s=99%)
+  guessed: [(c c) (d d) hó sI] (conf: p=90%, s=100%)
 ✗ [DIST] aıja #wq3qEJ2TE
   actual:  [(c c 1j) (d n d) hó sA]
   guessed: [(c c 1j) (d d d) hó sA] (conf: p=96%, s=100%)
@@ -670,7 +622,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] baqcho #ZGbp7LFn0
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c 0) (d d) hó sI] (conf: p=96%, s=92%)
+  guessed: [(c 0) (d d) hó sI] (conf: p=96%, s=94%)
 ✗ [FRAME] baqlı #DOin7TrBu
   actual:  [(c 1x) (d d) hóq sF]
   guessed: [(c 1i) (d d) hóq sF] (conf: p=87%, s=96%)
@@ -688,7 +640,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] beo #ReUjhZqD6eM
   actual:  [(c 2ix) (d d) tá sF]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=54%, s=89%)
+  guessed: [(c 1i) (d d) tá sF] (conf: p=54%, s=88%)
 ✗ [DIST] bıaqbu #PWiq2MHHA
   actual:  [(c 1i) (d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=99%)
@@ -706,7 +658,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sE] (conf: p=85%, s=100%)
 ✗ [FRAME] boq #oPKFOa9-4
   actual:  [(c 0) (d d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=66%, s=59%)
+  guessed: [(c c) (d d) tá sF] (conf: p=66%, s=58%)
 ✗ [FRAME/DIST] boqbu #bZVMqex1a
   actual:  [(c c) (d d) hóq sP]
   guessed: [(c c c c) (d d d d) hóq sP] (conf: p=89%, s=100%)
@@ -724,7 +676,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sE] (conf: p=78%, s=99%)
 ✗ [FRAME] caıle #lQXflilQm
   actual:  [(c) (d) hóq sF]
-  guessed: [(0) (d) hóq sF] (conf: p=86%, s=59%)
+  guessed: [(0) (d) hóq sF] (conf: p=86%, s=63%)
 ✗ [FRAME/DIST] caqkaqlıao #7nBWdUcNE
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -733,10 +685,10 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=99%)
 ✗ [FRAME] ceo #VC_R6vRHpYg
   actual:  [(0) (d) hóq sE]
-  guessed: [(c) (d) hóq sE] (conf: p=79%, s=97%)
+  guessed: [(c) (d) hóq sE] (conf: p=79%, s=98%)
 ✗ [FRAME] ceomana #lKCPg80vm
   actual:  [(c 1x) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=89%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=90%)
 ✗ [DIST] cı #Nm-EXVoPx3s
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=86%)
@@ -745,34 +697,34 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) tá sF] (conf: p=82%, s=93%)
 ✗ [DIST] cıaı #WO5QayRNE
   actual:  [(c 1i) (n d) tá sF]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=65%, s=70%)
+  guessed: [(c 1i) (d d) tá sF] (conf: p=65%, s=72%)
 ✗ [DIST] cıaosuoınıaqme #uRTsRuan7
   actual:  [(c c) (d n) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=91%, s=96%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=91%, s=97%)
 ✗ [DIST] cıejuku #VmIM1WtXf
   actual:  [(c c) (n d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [DIST] cıneıcheo #isL71KWwv
   actual:  [(c) (n) hó sI]
-  guessed: [(c) (d) hó sI] (conf: p=96%, s=65%)
+  guessed: [(c) (d) hó sI] (conf: p=96%, s=67%)
 ✗ [FRAME] coeq #duqEyPkL4
   actual:  [(c 2xx) (d d) tá sF]
-  guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=97%)
+  guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=98%)
 ✗ [FRAME] cuao #cBMVYgKrxE
   actual:  [(c c 1x) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=87%)
 ✗ [FRAME] cuaq #Y-Bb6tDIem
   actual:  [(c 1x) (d d) hóq sI]
-  guessed: [(c 1i) (d d) hóq sI] (conf: p=95%, s=64%)
+  guessed: [(c 1i) (d d) hóq sI] (conf: p=95%, s=70%)
 ✗ [DIST] cuoı #x3KU_gp9g
   actual:  [(c c 2ij) (d d d) tá sF]
-  guessed: [(c c 2ij) (n n d) tá sF] (conf: p=79%, s=97%)
+  guessed: [(c c 2ij) (n n d) tá sF] (conf: p=79%, s=98%)
 ✗ [DIST] cuoı #enqG1kFLqgh
   actual:  [(c c 2ij) (n n d) tá sF]
-  guessed: [(c c 2ij) (d d d) tá sF] (conf: p=62%, s=91%)
+  guessed: [(c c 2ij) (d d d) tá sF] (conf: p=62%, s=93%)
 ✗ [FRAME] cuoısa #DmHq1du8c
   actual:  [(c 2xi) (d d) tá sF]
-  guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=91%)
+  guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=92%)
 ✗ [FRAME] cuqceo #QICpa_8q1
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=96%, s=100%)
@@ -808,7 +760,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] cheme #SDgZtA-PV
   actual:  [(c 1x) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=83%, s=73%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=83%, s=75%)
 ✗ [FRAME] cheo #JNZgzdwIeX4
   actual:  [(c 2xx) (n d) tá sF]
   guessed: [(c 2ix) (n d) tá sF] (conf: p=96%, s=95%)
@@ -817,16 +769,16 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 2ij) (n n d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] cheocheo #iUUk6mN2t
   actual:  [(c 2xx) (d d) tá sF]
-  guessed: [(c 2ix) (d d) tá sF] (conf: p=91%, s=95%)
+  guessed: [(c 2ix) (d d) tá sF] (conf: p=91%, s=96%)
 ✗ [DIST] cheqbo #uxxzPPBFagN
   actual:  [(c) (d) tá sF]
   guessed: [(c) (n) tá sF] (conf: p=88%, s=89%)
 ✗ [DIST] cheqchuaq #9maqKVYcA
   actual:  [(c) (n) hóq sI]
-  guessed: [(c) (d) hóq sI] (conf: p=89%, s=61%)
+  guessed: [(c) (d) hóq sI] (conf: p=89%, s=63%)
 ✗ [DIST] cheqjeo #U4ICedBy9
   actual:  [(c) (n) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=83%, s=95%)
+  guessed: [(c) (d) tá sF] (conf: p=83%, s=96%)
 ✗ [FRAME] cheunoa #QIBV72mnU
   actual:  [(c 2xi) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=99%)
@@ -835,13 +787,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) tá sF] (conf: p=78%, s=92%)
 ✗ [FRAME] chıaıchıchıo #SWlDJy_iR
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=69%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=72%)
 ✗ [FRAME] chıaıtao #B80-B_WVnQl
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] chıaq #R-Y-ZFjMqp4
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=83%, s=71%)
+  guessed: [(c c) (d d) hó sI] (conf: p=83%, s=74%)
 ✗ [FRAME] chıeja #4jIxOXAM9
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
@@ -850,13 +802,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] chıezu #nwED_2_n4
   actual:  [(c) (d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=94%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=95%)
 ✗ [FRAME] chıtao #KSmnCZgu8
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] choazu #pwU-qk43m
   actual:  [(c c c) (d d d) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=83%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=84%)
 ✗ [FRAME] choe #zwGqO5C68gW
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=73%, s=100%)
@@ -865,7 +817,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] choqhuı #jZc3MJ2sS_a
   actual:  [(c 1x) (d d) tá sI]
-  guessed: [(c 1i) (d d) tá sI] (conf: p=86%, s=47%)
+  guessed: [(c 1i) (d d) tá sI] (conf: p=86%, s=45%)
 ✗ [DIST] chosoq #InImYSumoKF
   actual:  [(c c c) (d d n) tá sF]
   guessed: [(c c c) (d d d) tá sF] (conf: p=85%, s=84%)
@@ -883,7 +835,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) hóq sE] (conf: p=81%, s=97%)
 ✗ [FRAME] daqfao #8PjQ5rzk3et
   actual:  [(c 0) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=88%, s=70%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=88%, s=73%)
 ✗ [FRAME] daqfıa #25ob_hoLHRP
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=80%, s=100%)
@@ -895,7 +847,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=95%, s=100%)
 ✗ [FRAME] daqsıao #QeSQA8FKNq6
   actual:  [(c 0) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=86%, s=60%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=86%, s=65%)
 ✗ [FRAME] daqsıe #UA5MnEf4rb6
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=71%, s=99%)
@@ -910,34 +862,34 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=99%)
 ✗ [FRAME/DIST] demeoca #vBS9pZKFA
   actual:  [(c c) (d d) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=96%, s=84%)
+  guessed: [(c) (d) tá sF] (conf: p=96%, s=82%)
 ✗ [FRAME] deoq #eGhA6ZAmu
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=86%, s=100%)
 ✗ [FRAME] deu #UN-5lxJ0u
   actual:  [(c 2xi) (d d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=90%, s=87%)
+  guessed: [(c c) (d d) tá sF] (conf: p=90%, s=89%)
 ✗ [FRAME/DIST] dı #nFAtiPCe2
   actual:  [(0) (d) hóq sP]
   guessed: [(c 0) (d d) hóq sP] (conf: p=96%, s=100%)
 ✗ [FRAME] dıa #v9BJEiZJc
   actual:  [(0) (d) hóq sP]
-  guessed: [(c) (d) hóq sP] (conf: p=48%, s=99%)
+  guessed: [(c) (d) hóq sP] (conf: p=48%, s=98%)
 ✗ [DIST] dıaı #BKsi8YGKXA_
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=95%, s=96%)
 ✗ [DIST] dıaıko #NK4HMkUiQgL
   actual:  [(c c) (d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=95%, s=88%)
+  guessed: [(c c) (d d) tá sF] (conf: p=95%, s=86%)
 ✗ [FRAME] dıaq #wagSwVpJMfw
   actual:  [(0) (d) hóq sP]
-  guessed: [(c) (d) hóq sP] (conf: p=94%, s=99%)
+  guessed: [(c) (d) hóq sP] (conf: p=94%, s=98%)
 ✗ [DIST] dıaqko #Ucm4Y77gq
   actual:  [(c c) (d n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=96%, s=100%)
 ✗ [DIST] dıba #KMpZVeE5S
   actual:  [(c c) (n n) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=98%)
+  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=97%)
 ✗ [FRAME] dıe #yVPfte0e-AK
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=89%, s=99%)
@@ -946,7 +898,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(0) (d) hóq sP] (conf: p=96%, s=100%)
 ✗ [FRAME] dımuacıa #QhhxqHAyq
   actual:  [(0) (d) hóq sP]
-  guessed: [(c) (d) hóq sP] (conf: p=72%, s=99%)
+  guessed: [(c) (d) hóq sP] (conf: p=72%, s=98%)
 ✗ [FRAME] dıru #6E_BfxCu4
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=90%, s=99%)
@@ -970,7 +922,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] duashao #8TaBy1QRhFe
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=85%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=86%)
 ✗ [FRAME] ducha #F3i82tBmm
   actual:  [(c c) (d d) hóq sE]
   guessed: [(c 0) (d d) hóq sE] (conf: p=84%, s=100%)
@@ -979,13 +931,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sP] (conf: p=94%, s=100%)
 ✗ [DIST] duı #ZzCuiCA1o
   actual:  [(c 1i) (n d) tá sF]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=97%)
+  guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=98%)
 ✗ [FRAME/DIST] duıjuokea #5vp8lsQza
   actual:  [(c) (d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=89%, s=91%)
 ✗ [FRAME] duqcem #56Cxc4eIn
   actual:  [(0) (d) hóq sI]
-  guessed: [(c) (d) hóq sI] (conf: p=74%, s=69%)
+  guessed: [(c) (d) hóq sI] (conf: p=74%, s=71%)
 ✗ [FRAME] eaı'ıq #4Mm45H13M
   actual:  [(c 1x) (d d) hó sA]
   guessed: [(c 1i) (d d) hó sA] (conf: p=93%, s=100%)
@@ -997,13 +949,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) hóq sE] (conf: p=78%, s=98%)
 ✗ [DIST] eq #RaqwykTBg
   actual:  [(c c) (n n) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=79%, s=54%)
+  guessed: [(c c) (d d) tá sF] (conf: p=79%, s=49%)
 ✗ [DIST] esa #1MvQf-6D4mz
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [DIST] faıgı #TvA3okrHi
   actual:  [(c 1i) (n d) tá sF]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=100%)
+  guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=99%)
 ✗ [DIST] faıhuı #nFKq-Yao4
   actual:  [(c 1i) (n d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=100%)
@@ -1012,22 +964,25 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] fao #Nj8mnllpZJd
   actual:  [(c 0) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=72%, s=75%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=72%, s=77%)
 ✗ [DIST] fe #JfknKuZ9JBH
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=90%, s=93%)
 ✗ [DIST] fea #iRvTTGQAYSw
   actual:  [(c c 1i) (d d) tá sI]
-  guessed: [(c c 1i) (d d d) tá sI] (conf: p=75%, s=75%)
+  guessed: [(c c 1i) (d d d) tá sI] (conf: p=75%, s=76%)
+✗ [FRAME/DIST] feqnoaq #qdYArWl1g
+  actual:  [(c) (d) hó sI]
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=53%)
 ✗ [FRAME] feqtao #0eDKT4SNr
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] fıshoem #6KGbLxQow
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=89%, s=74%)
+  guessed: [(c c) (d d) hó sI] (conf: p=89%, s=83%)
 ✗ [FRAME] foa #Vi1_Md6reSf
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=82%, s=57%)
+  guessed: [(c c) (d d) hó sI] (conf: p=82%, s=63%)
 ✗ [FRAME/DIST] fomfomkıaqlıao #zIr6k-xtL
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1039,19 +994,19 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) tá sF] (conf: p=76%, s=95%)
 ✗ [FRAME] fuı #g6T4aVaD9BA
   actual:  [(c 2xi) (d d) tá sF]
-  guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=97%)
+  guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=98%)
 ✗ [FRAME] gaıboq #nb1qRTmEM
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=86%, s=99%)
 ✗ [FRAME/DIST] gaıchıaı #lBDMrvWyn
   actual:  [(c) (d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=92%, s=60%)
+  guessed: [(c c) (d d) hó sI] (conf: p=92%, s=64%)
 ✗ [FRAME] gaıdu #wdFjVVCAX
   actual:  [(c) (d) hóq sP]
   guessed: [(0) (d) hóq sP] (conf: p=93%, s=100%)
 ✗ [FRAME] gaıkea #PDnAuHk5F
   actual:  [(c 1x) (d d) máq sI]
-  guessed: [(c 1i) (d d) máq sI] (conf: p=89%, s=99%)
+  guessed: [(c 1i) (d d) máq sI] (conf: p=89%, s=100%)
 ✗ [FRAME] gale #X_BglWICR
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
@@ -1060,7 +1015,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=99%)
 ✗ [DIST] gaqmoe #YJpRhDYXQ
   actual:  [(c c) (d n) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=96%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=97%)
 ✗ [FRAME/DIST] gıaobalıao #m-bQQeMlO
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1072,7 +1027,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] gıle #Cczdkj3vL
   actual:  [(c) (d) hóq sI]
-  guessed: [(c 1i) (d d) hóq sI] (conf: p=91%, s=72%)
+  guessed: [(c 1i) (d d) hóq sI] (conf: p=91%, s=74%)
 ✗ [FRAME/DIST] goaıteıjuılıao #-2aU6uPH2
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1081,7 +1036,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] goashea #tteJ0B8iI
   actual:  [(c) (d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=79%, s=79%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=79%, s=81%)
 ✗ [FRAME] gojı #FLWJuBXfI
   actual:  [(c 1i) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=94%, s=90%)
@@ -1117,10 +1072,10 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) hóq sP] (conf: p=91%, s=99%)
 ✗ [FRAME] habuı #hIdOAq5kl
   actual:  [(0) (d) hóq sI]
-  guessed: [(c) (d) hóq sI] (conf: p=94%, s=90%)
+  guessed: [(c) (d) hóq sI] (conf: p=94%, s=91%)
 ✗ [DIST] hao #0MFqfYGP2gH
   actual:  [(c) (n) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=93%, s=96%)
+  guessed: [(c) (d) tá sF] (conf: p=93%, s=97%)
 ✗ [DIST] haqbaı #emRTfHLYfWl
   actual:  [(c c) (d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=92%, s=99%)
@@ -1138,7 +1093,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) máq sI] (conf: p=89%, s=100%)
 ✗ [DIST] hıa #_5chCCpS-
   actual:  [(c) (n) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=72%, s=98%)
+  guessed: [(c) (d) tá sF] (conf: p=72%, s=97%)
 ✗ [FRAME] hıca #2OMfLKkIn
   actual:  [(c 0) (d d) hóq sP]
   guessed: [(c c) (d d) hóq sP] (conf: p=96%, s=100%)
@@ -1171,19 +1126,19 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=94%, s=98%)
 ✗ [FRAME] huaqloı #uA4HLjJh4
   actual:  [(c c 1j) (d d d) hó sI]
-  guessed: [(c c c) (d d d) hó sI] (conf: p=96%, s=60%)
+  guessed: [(c c c) (d d d) hó sI] (conf: p=96%, s=66%)
 ✗ [FRAME] huche #uFCpXtFMq
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=87%)
 ✗ [FRAME] huıdaısı #NoM7F4JZu
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=91%, s=63%)
+  guessed: [(c c) (d d) hó sI] (conf: p=91%, s=66%)
 ✗ [FRAME] huogaı #WLU2kJ6zUT4L
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=72%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=75%)
 ✗ [FRAME/DIST] huohıa #KghXoXOi0
   actual:  [(c) (d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=96%)
+  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=95%)
 ✗ [FRAME/DIST] huokıaqlıao #mufnegXv-
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1192,7 +1147,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=97%)
 ✗ [DIST] ıq #qvegHF7EJ1eJ
   actual:  [(c 1i) (n d) tá sF]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=69%, s=86%)
+  guessed: [(c 1i) (d d) tá sF] (conf: p=69%, s=87%)
 ✗ [DIST] ıq'ıq #0s40RFIHo
   actual:  [(c 1i) (n d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=100%)
@@ -1232,12 +1187,15 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] jeaqdaıbu #cV3kWhafX
   actual:  [(c) (d) hóq sP]
   guessed: [(0) (d) hóq sP] (conf: p=95%, s=100%)
+✗ [FRAME] jeaqdıa #xXOtC-XZ_
+  actual:  [(0) (d) tá sF]
+  guessed: [(c) (d) tá sF] (conf: p=75%, s=55%)
 ✗ [DIST] jeı #AXKLj941lLVN
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=93%, s=94%)
 ✗ [FRAME] jeomuo #yJVzpgVLN
   actual:  [(0) (d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=86%, s=65%)
+  guessed: [(c) (d) hóq sF] (conf: p=86%, s=69%)
 ✗ [FRAME/DIST] jeonueqlıao #cTY1s2wxB
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1255,7 +1213,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c c) (d d d) tá sF] (conf: p=84%, s=100%)
 ✗ [DIST] jeqbıao #LlxsNsiyL
   actual:  [(c c) (d n) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=84%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=86%)
 ✗ [FRAME] jeqdareum #_iS23FQT-
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=94%, s=99%)
@@ -1270,7 +1228,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) hó sA] (conf: p=82%, s=100%)
 ✗ [FRAME] jıqcı #SrfV4z1D5
   actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c c) (d d) tá sI] (conf: p=94%, s=74%)
+  guessed: [(c c) (d d) tá sI] (conf: p=94%, s=71%)
 ✗ [FRAME/DIST] jıuzu #qsXxtdl8R
   actual:  [(c) (d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=96%)
@@ -1279,10 +1237,10 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) tá sF] (conf: p=91%, s=90%)
 ✗ [FRAME] joaıkea #0szUoLWoo
   actual:  [(c 1x) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=57%, s=94%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=57%, s=95%)
 ✗ [FRAME/DIST] joene #yRRuXJaXC
   actual:  [(c c 1j) (d n d) hóq sI]
-  guessed: [(c c c) (d d d) hóq sI] (conf: p=71%, s=77%)
+  guessed: [(c c c) (d d d) hóq sI] (conf: p=71%, s=78%)
 ✗ [FRAME] joetao #KAoyUsr3bXtJ
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
@@ -1291,22 +1249,22 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sP] (conf: p=96%, s=100%)
 ✗ [DIST] joko #GgDA2hE-NKxw
   actual:  [(c c) (d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=82%)
+  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=79%)
 ✗ [DIST] jole #Hu2b0J6Xe
   actual:  [(c 2ix) (n d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=100%)
 ✗ [DIST] joq #YtPM-_24cMIc
   actual:  [(c c) (d n) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=88%, s=65%)
+  guessed: [(c c) (d d) tá sF] (conf: p=88%, s=61%)
 ✗ [DIST] juaodı #12zxcy0gW
   actual:  [(c c) (d) tá sP]
-  guessed: [(c c) (d d) tá sP] (conf: p=89%, s=97%)
+  guessed: [(c c) (d d) tá sP] (conf: p=89%, s=99%)
 ✗ [FRAME/DIST] juaoduaı #ye3XIG_QV
   actual:  [(0) (d) hóq sP]
   guessed: [(c c) (d d) hóq sP] (conf: p=94%, s=100%)
 ✗ [FRAME] juı #-sgbFgkC5Saf
   actual:  [(c c 2xx) (d d d) tá sF]
-  guessed: [(c c 1i) (d d d) tá sF] (conf: p=92%, s=83%)
+  guessed: [(c c 1i) (d d d) tá sF] (conf: p=92%, s=82%)
 ✗ [FRAME] juıjıoq #xprUqjQnS
   actual:  [(c 1x) (d d) hó sA]
   guessed: [(c 1i) (d d) hó sA] (conf: p=89%, s=100%)
@@ -1333,7 +1291,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 0) (d d) hóq sP] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] juqca #ha6zjkRy_
   actual:  [(c c) (d d) tá sF]
-  guessed: [(c c 1i) (d d d) tá sF] (conf: p=84%, s=85%)
+  guessed: [(c c 1i) (d d d) tá sF] (conf: p=84%, s=87%)
 ✗ [FRAME] kakoe #qJ98yZTYz
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=95%, s=99%)
@@ -1342,7 +1300,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c c) (d d d) máq sA] (conf: p=79%, s=98%)
 ✗ [FRAME] kaqgaı #mdOVkmkjGKnE
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=88%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=90%)
 ✗ [FRAME/DIST] kaqhıa #s7dQCm6MD
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=94%, s=98%)
@@ -1354,10 +1312,10 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) máq sI] (conf: p=95%, s=100%)
 ✗ [FRAME] keaıcoı #vNumP6cFQ
   actual:  [(c 1i) (d d) hó sF]
-  guessed: [(c c) (d d) hó sF] (conf: p=81%, s=46%)
+  guessed: [(c c) (d d) hó sF] (conf: p=81%, s=49%)
 ✗ [FRAME] keaıjuao #6PabxgMEa
   actual:  [(c 1x) (d d) hóq sF]
-  guessed: [(c 1i) (d d) hóq sF] (conf: p=94%, s=94%)
+  guessed: [(c 1i) (d d) hóq sF] (conf: p=94%, s=95%)
 ✗ [FRAME] keaıkao #BhBRm36Vz
   actual:  [(c 1x) (d d) máq sI]
   guessed: [(c 1i) (d d) máq sI] (conf: p=77%, s=100%)
@@ -1372,13 +1330,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) máq sI] (conf: p=92%, s=100%)
 ✗ [FRAME/DIST] kebıq #hJHlANSEJ
   actual:  [(c) (d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=92%, s=90%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=92%, s=91%)
 ✗ [FRAME/DIST] keqnıu #rZPOhnQDd
   actual:  [(c c) (d d) máq sI]
   guessed: [(c) (d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] kıe #sHjdUXqGkIxp
   actual:  [(c c 1j) (d d d) hó sI]
-  guessed: [(c c 1i) (d d d) hó sI] (conf: p=95%, s=57%)
+  guessed: [(c c 1i) (d d d) hó sI] (conf: p=95%, s=61%)
 ✗ [FRAME/DIST] kıem #fT-Op3vnN
   actual:  [(0) (d) hó sA]
   guessed: [(c 0) (d d) hó sA] (conf: p=86%, s=99%)
@@ -1387,7 +1345,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sI] (conf: p=94%, s=75%)
 ✗ [FRAME/DIST] kım #vvorN1EMn
   actual:  [(c) (d) tá sA]
-  guessed: [(c 0) (d d) tá sA] (conf: p=87%, s=82%)
+  guessed: [(c 0) (d d) tá sA] (conf: p=87%, s=80%)
 ✗ [FRAME] kıme #98LcZV31J
   actual:  [(c 2xx) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=97%)
@@ -1405,7 +1363,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c c c) (d d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] koemoı #QUdp3Offb
   actual:  [(c c 1j) (d n d) hó sI]
-  guessed: [(c c 1i) (d d d) hó sI] (conf: p=96%, s=90%)
+  guessed: [(c c 1i) (d d d) hó sI] (conf: p=96%, s=92%)
 ✗ [FRAME] kuaıduı #nWTs7mXYl
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=99%)
@@ -1420,10 +1378,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) máq sI] (conf: p=83%, s=100%)
 ✗ [DIST] kudote #10Pipj2ys
   actual:  [(c) (n) hó sA]
-  guessed: [(c) (d) hó sA] (conf: p=88%, s=98%)
-✗ [DIST] kueq #AjzJqyutuE2T
-  actual:  [(c c) (n d) tá sI]
-  guessed: [(c c) (d d) tá sI] (conf: p=94%, s=47%)
+  guessed: [(c) (d) hó sA] (conf: p=88%, s=97%)
 ✗ [DIST] kueqtua #NBq_zHm_-jrc
   actual:  [(c c c) (d n d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
@@ -1450,31 +1405,31 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=98%)
 ✗ [DIST] laocheo #x2VwDAZ_D
   actual:  [(c c) (n n) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=82%, s=85%)
+  guessed: [(c c) (d d) hó sI] (conf: p=82%, s=87%)
 ✗ [FRAME] laojaı #bkt2Pj87C
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=91%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=92%)
 ✗ [FRAME] laojaq #HhpjHB4Tf
   actual:  [(0) (d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=96%, s=92%)
+  guessed: [(c) (d) hóq sF] (conf: p=96%, s=93%)
 ✗ [FRAME] laojaqfaq #lOkH6EpZ-
   actual:  [(0) (d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=96%, s=72%)
+  guessed: [(c) (d) hóq sF] (conf: p=96%, s=74%)
 ✗ [DIST] laqbıo #T9SN-Z9Lq
   actual:  [(c) (n) máq sI]
   guessed: [(c) (d) máq sI] (conf: p=94%, s=100%)
 ✗ [DIST] laqtıao #0y7WUoEjm
   actual:  [(c) (n) tá sI]
-  guessed: [(c) (d) tá sI] (conf: p=96%, s=94%)
+  guessed: [(c) (d) tá sI] (conf: p=96%, s=93%)
 ✗ [FRAME] laraı #iqF_qI6IX
   actual:  [(c 1x) (d d) hóq sI]
-  guessed: [(c 1i) (d d) hóq sI] (conf: p=89%, s=80%)
+  guessed: [(c 1i) (d d) hóq sI] (conf: p=89%, s=79%)
 ✗ [FRAME/DIST] lazeo #bknK3_Hy1
   actual:  [(c c) (d d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=75%, s=70%)
+  guessed: [(c) (d) hóq sF] (conf: p=75%, s=74%)
 ✗ [FRAME] leaq #16dZb56drYn
   actual:  [(c c 2xx) (d d d) tá sF]
-  guessed: [(c c 1i) (d d d) tá sF] (conf: p=92%, s=86%)
+  guessed: [(c c 1i) (d d d) tá sF] (conf: p=92%, s=85%)
 ✗ [FRAME] leaqbıe #8geSg3FUC
   actual:  [(c 0) (d d) tá sE]
   guessed: [(c c) (d d) tá sE] (conf: p=77%, s=99%)
@@ -1486,7 +1441,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) tá sE] (conf: p=83%, s=99%)
 ✗ [FRAME] leıdı #LX3EOrQZk
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=85%, s=93%)
+  guessed: [(c c) (d d) hó sI] (conf: p=85%, s=94%)
 ✗ [DIST] leıgı #9cAtCKIgY
   actual:  [(c 1i) (n d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=100%)
@@ -1501,19 +1456,19 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) tá sF] (conf: p=95%, s=99%)
 ✗ [DIST] leoshaıcıa #gVWS6whG6
   actual:  [(c 1i) (n d) hó sA]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=91%, s=98%)
+  guessed: [(c 1i) (d d) hó sA] (conf: p=91%, s=97%)
 ✗ [FRAME/DIST] lı #phXJYoHPd
   actual:  [(c 2xi) (n d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=84%, s=99%)
 ✗ [FRAME] lıam #XFTygUdWy
   actual:  [(c 0) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=79%, s=78%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=79%, s=81%)
 ✗ [FRAME] lıaq #bVpzYJSx-43
   actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c c) (d d) tá sI] (conf: p=75%, s=69%)
+  guessed: [(c c) (d d) tá sI] (conf: p=75%, s=66%)
 ✗ [FRAME] lıedua #Zac7I46hB
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=91%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=92%)
 ✗ [FRAME/DIST] lılalıao #dfpkcJn5a
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1522,7 +1477,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) hó sI] (conf: p=93%, s=100%)
 ✗ [DIST] lıqdenaq #k0kkxTTda
   actual:  [(c) (n) tá sI]
-  guessed: [(c) (d) tá sI] (conf: p=49%, s=84%)
+  guessed: [(c) (d) tá sI] (conf: p=49%, s=83%)
 ✗ [FRAME/DIST] luecaqbıulıao #souF1eIYQ
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1531,7 +1486,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] luıne #aq1HZbTtGHU
   actual:  [(c 0) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=81%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=82%)
 ✗ [DIST] lum #sHqnfGZL8
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=74%, s=97%)
@@ -1544,30 +1499,33 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] majılıao #Jp-ZWrClZ
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
+✗ [FRAME] manha #_cGpc_MP_
+  actual:  [(c c 1j) (d d d) hó sI]
+  guessed: [(c c 1i) (d d d) hó sI] (conf: p=96%, s=55%)
 ✗ [FRAME] maotao #BlHnSrMdC
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [DIST] masuım #Q4YXbIRK-
   actual:  [(c c 1j) (d n d) hó sI]
-  guessed: [(c c 1j) (d d d) hó sI] (conf: p=96%, s=71%)
+  guessed: [(c c 1j) (d d d) hó sI] (conf: p=96%, s=74%)
 ✗ [DIST] meaheo #D3WlMiA-s3p
   actual:  [(c c) (n n) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=83%)
+  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=81%)
 ✗ [DIST] meajeq #uzsPpbdqpxX
   actual:  [(c c) (n n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=93%, s=97%)
 ✗ [DIST] meboraı #WzypAXfSh
   actual:  [(c) (d) tá sF]
-  guessed: [(c) (n) tá sF] (conf: p=80%, s=86%)
+  guessed: [(c) (n) tá sF] (conf: p=80%, s=85%)
 ✗ [DIST] mega #YEnLc2g2AzJ
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] mekao #0Yeahs0Kx
   actual:  [(c 1x) (d d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=94%, s=73%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=94%, s=75%)
 ✗ [FRAME] meoq #uQ4DKnZpl_J
   actual:  [(0) (d) hóq sI]
-  guessed: [(c) (d) hóq sI] (conf: p=56%, s=46%)
+  guessed: [(c) (d) hóq sI] (conf: p=56%, s=48%)
 ✗ [DIST] metao #tsO_TYM2g
   actual:  [(c 1i) (n d) hó sA]
   guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=99%)
@@ -1579,7 +1537,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] mıaqgaı #tQEEf-_gzid
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=83%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=85%)
 ✗ [FRAME] mıefea #4yZ-sGCnvlY
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=92%, s=99%)
@@ -1591,10 +1549,10 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) hó sA] (conf: p=83%, s=100%)
 ✗ [FRAME] mıq #TgLqsroIDSg
   actual:  [(c 2ix) (d d) tá sF]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=85%)
+  guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=83%)
 ✗ [FRAME] mıuteoq #v1bklJz15
   actual:  [(c c 1j) (d d d) hóq sI]
-  guessed: [(c c c) (d d d) hóq sI] (conf: p=87%, s=78%)
+  guessed: [(c c c) (d d d) hóq sI] (conf: p=87%, s=80%)
 ✗ [FRAME] moaq #N1PunwicaJ8
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=91%, s=98%)
@@ -1606,7 +1564,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) tá sE] (conf: p=95%, s=98%)
 ✗ [FRAME] moaqshaı #chld2rjMQOl
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=88%, s=80%)
+  guessed: [(c c) (d d) hó sI] (conf: p=88%, s=82%)
 ✗ [FRAME] moaqtao #JRnoMrc1H
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
@@ -1615,34 +1573,34 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 0) (d d) hóq sE] (conf: p=96%, s=99%)
 ✗ [FRAME] moe #nTt-uTnOqQY
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=84%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=86%)
 ✗ [FRAME] moı #vbWhKDiXvvP
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=93%, s=99%)
 ✗ [FRAME] moırıeq #a3FH2C8hA
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=81%, s=64%)
+  guessed: [(c c) (d d) hó sI] (conf: p=81%, s=67%)
 ✗ [FRAME] molem #8HICOI_WT
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=98%)
-✗ [DIST] muıhuı #86NKEp7On
-  actual:  [(c c) (d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=88%, s=52%)
 ✗ [FRAME] muotua #B_u8BH1Ml9w
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [DIST] naqdelıq #ehdtbnnyV
   actual:  [(c) (n) tá sI]
-  guessed: [(c) (d) tá sI] (conf: p=56%, s=84%)
+  guessed: [(c) (d) tá sI] (conf: p=56%, s=83%)
 ✗ [DIST] neı #lzWmCNjcw_y
   actual:  [(c) (n) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=92%, s=96%)
+  guessed: [(c) (d) tá sF] (conf: p=92%, s=95%)
 ✗ [DIST] neıko #RL9TTJt_XyY
   actual:  [(c c) (d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=95%, s=90%)
+  guessed: [(c c) (d d) tá sF] (conf: p=95%, s=88%)
 ✗ [FRAME] neq #iBXW_8Dka
   actual:  [(0) (d) tá sE]
   guessed: [(c) (d) tá sE] (conf: p=53%, s=97%)
+✗ [FRAME] neqkoe #90UsEZH3o
+  actual:  [(c 0) (d d) hó sI]
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=52%)
 ✗ [FRAME] nereukuoı #PzQaF20d-
   actual:  [(c 0) (d d) hóq sP]
   guessed: [(c c) (d d) hóq sP] (conf: p=96%, s=100%)
@@ -1654,22 +1612,22 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) hó sI] (conf: p=86%, s=100%)
 ✗ [FRAME] nıejeo #NIC7oNj34
   actual:  [(c) (d) hóq sF]
-  guessed: [(0) (d) hóq sF] (conf: p=96%, s=64%)
+  guessed: [(0) (d) hóq sF] (conf: p=96%, s=70%)
 ✗ [DIST] Nıkaragua #sIDwiVWHkvsr
   actual:  [(c) (d) tá sF]
   guessed: [(c) (n) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] nıloeı #kujMb-Gae
   actual:  [(0) (d) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=70%, s=80%)
+  guessed: [(c) (d) tá sF] (conf: p=70%, s=79%)
 ✗ [FRAME] nıqchıe #ikjHH1MlyGA
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=84%, s=80%)
+  guessed: [(c c) (d d) hó sI] (conf: p=84%, s=82%)
 ✗ [FRAME] nıqdua #1M88AtYfvYK
   actual:  [(c 0) (d d) hó sA]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=97%)
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=96%)
 ✗ [FRAME] nıqguokuaı #Ob5FHj61Y9Y
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=83%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=85%)
 ✗ [FRAME] nıuqsue #HHoiFaVwE
   actual:  [(c 1i) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
@@ -1681,16 +1639,16 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) hó sA] (conf: p=90%, s=97%)
 ✗ [FRAME] noqgaı #LfgjaYwHCxb
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=74%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=76%)
 ✗ [FRAME] noqgaı #14CeAOp1DHc
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=74%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=76%)
 ✗ [FRAME/DIST] noqhıa #lmzy3i2P-
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=96%, s=100%)
 ✗ [DIST] nu #KktUip67Dy3
   actual:  [(c) (n) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=95%, s=91%)
+  guessed: [(c) (d) tá sF] (conf: p=95%, s=89%)
 ✗ [FRAME/DIST] nueqlıao #XYqNP3LVF
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=93%, s=100%)
@@ -1708,13 +1666,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) hó sI] (conf: p=96%, s=100%)
 ✗ [FRAME] nuogaı #M5mDL5hk8QMv
   actual:  [(c 0) (d d) hó sA]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=87%)
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=86%)
 ✗ [FRAME] nheam #1cv3ZMqtL
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=99%)
 ✗ [DIST] nhue #gN8roi9_0
   actual:  [(c 1i) (n d) tá sF]
-  guessed: [(c 1i) (d d) tá sF] (conf: p=94%, s=85%)
+  guessed: [(c 1i) (d d) tá sF] (conf: p=94%, s=83%)
 ✗ [DIST] nhum #U23VQit4f
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=79%, s=90%)
@@ -1741,7 +1699,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=92%, s=100%)
 ✗ [FRAME/DIST] peı #OE1WuRVn5
   actual:  [(c) (d) hóq sI]
-  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=85%)
+  guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=84%)
 ✗ [DIST] peta #dypBwfDCLG_8
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
@@ -1765,19 +1723,19 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=99%)
 ✗ [DIST] poegua #ZPt61-vee
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (n d) hó sI] (conf: p=57%, s=96%)
+  guessed: [(c c) (n d) hó sI] (conf: p=57%, s=97%)
 ✗ [DIST] poemoe #6escFkt_m
   actual:  [(c c) (d n) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=89%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=91%)
 ✗ [FRAME] puache #JMwV_jqLz
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=92%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=93%)
 ✗ [FRAME/DIST] puanoaılıao #-HTOTng6p
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] puaqgaı #fIHRRxDQ9sFL
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=95%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=96%)
 ✗ [FRAME/DIST] puaqhıa #rZluq2RH6
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=91%, s=100%)
@@ -1804,7 +1762,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) tá sF] (conf: p=88%, s=99%)
 ✗ [DIST] puqko #i_PGGaLFd
   actual:  [(c c) (d n) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=96%)
+  guessed: [(c c) (d d) tá sF] (conf: p=96%, s=95%)
 ✗ [DIST] raıjeq #9wvdC4xriB_U
   actual:  [(c c) (n n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=93%, s=97%)
@@ -1813,7 +1771,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sE] (conf: p=87%, s=97%)
 ✗ [FRAME] raoheq #rc4fKJpix
   actual:  [(c 0) (d d) hóq sE]
-  guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=95%)
+  guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=96%)
 ✗ [FRAME] raonıe #TfPMKWsRH
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=85%, s=99%)
@@ -1822,7 +1780,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (n n) tá sF] (conf: p=92%, s=92%)
 ✗ [DIST] reaı #gYSEGw8W7
   actual:  [(c c) (n n) hó sA]
-  guessed: [(c c) (d d) hó sA] (conf: p=91%, s=99%)
+  guessed: [(c c) (d d) hó sA] (conf: p=91%, s=98%)
 ✗ [DIST] reı #h2PsycpwQznq
   actual:  [(c c) (n d) tá sS]
   guessed: [(c c) (d d) tá sS] (conf: p=75%, s=100%)
@@ -1846,7 +1804,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) tá sS] (conf: p=90%, s=100%)
 ✗ [DIST] rıoq #Sv2rMAqthm
   actual:  [(c c) (d n) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=91%, s=67%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=91%, s=70%)
 ✗ [FRAME] rıteoq #OtnPfVkbx
   actual:  [(0) (d) tá sP]
   guessed: [(c) (d) tá sP] (conf: p=67%, s=99%)
@@ -1861,7 +1819,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) tá sF] (conf: p=94%, s=96%)
 ✗ [DIST] roaıko #3YqNFEDXJy5l
   actual:  [(c c) (d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=94%, s=90%)
+  guessed: [(c c) (d d) tá sF] (conf: p=94%, s=89%)
 ✗ [FRAME] roajoe #aLy_tDoh-
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=96%)
@@ -1882,10 +1840,10 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=99%)
 ✗ [FRAME] ruo #eZXyKTHt29iL
   actual:  [(c 1i) (d d) tá sI]
-  guessed: [(c c) (d d) tá sI] (conf: p=92%, s=43%)
+  guessed: [(c c) (d d) tá sI] (conf: p=92%, s=42%)
 ✗ [DIST] ruqpaı #aduFtYdzo
   actual:  [(c c) (d d) hó sI]
-  guessed: [(c c) (n n) hó sI] (conf: p=93%, s=87%)
+  guessed: [(c c) (n n) hó sI] (conf: p=93%, s=88%)
 ✗ [FRAME/DIST] rurıche #OQ9rv3sGs
   actual:  [(c c 1x) (n n d) hó sI]
   guessed: [(c c 1i) (d d d) hó sI] (conf: p=96%, s=99%)
@@ -1894,7 +1852,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=99%)
 ✗ [FRAME] saoduo #PRVjh0dZtNjq
   actual:  [(0) (d) hóq sE]
-  guessed: [(c) (d) hóq sE] (conf: p=93%, s=99%)
+  guessed: [(c) (d) hóq sE] (conf: p=93%, s=98%)
 ✗ [FRAME/DIST] saokıoqlıao #Fvz4QisU7
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1912,16 +1870,16 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) tá sF] (conf: p=90%, s=95%)
 ✗ [FRAME] se #Pq2X5b-DJWsp
   actual:  [(c 0) (d d) tá sI]
-  guessed: [(c c) (d d) tá sI] (conf: p=89%, s=59%)
+  guessed: [(c c) (d d) tá sI] (conf: p=89%, s=57%)
 ✗ [FRAME] secaq #UOSUogyBa
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=85%, s=58%)
+  guessed: [(c c) (d d) hó sI] (conf: p=85%, s=62%)
 ✗ [FRAME] sege #BHpRuUKTO
   actual:  [(c 1x) (d d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=94%, s=96%)
 ✗ [DIST] seoqkeoı #o7gZe9RSn
   actual:  [(c c) (d n) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=66%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=69%)
 ✗ [FRAME/DIST] sesıu #poA0LoBlv
   actual:  [(c) (d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=95%, s=75%)
@@ -1930,13 +1888,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] sıaja #K8hPBXVOu
   actual:  [(0) (d) hóq sP]
-  guessed: [(c) (d) hóq sP] (conf: p=73%, s=99%)
+  guessed: [(c) (d) hóq sP] (conf: p=73%, s=98%)
 ✗ [FRAME] sıam #QSNjymbAO
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=94%, s=99%)
 ✗ [FRAME] sıao #aLZh70ycVwV
   actual:  [(c 0) (d d) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=77%, s=86%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=77%, s=88%)
 ✗ [FRAME/DIST] sıaqtakıaqlıao #hucsAxdje
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -1966,7 +1924,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] someone #e3kkc4C_7
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=85%, s=90%)
+  guessed: [(c c) (d d) hó sI] (conf: p=85%, s=91%)
 ✗ [DIST] soq #8FtyCn9fR
   actual:  [(c 1i) (n d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=93%, s=99%)
@@ -1978,16 +1936,16 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] soqnedaq #Cdz7wodDA
   actual:  [(c) (d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=77%, s=50%)
+  guessed: [(c c) (d d) tá sF] (conf: p=77%, s=49%)
 ✗ [FRAME] sua #HzJ6WCXGyY6
   actual:  [(c 0) (d d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=73%, s=68%)
+  guessed: [(c c) (d d) tá sF] (conf: p=73%, s=70%)
 ✗ [FRAME] suahuaq #G6Hpn7dnclU
   actual:  [(c 0) (d d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=85%, s=91%)
 ✗ [FRAME] suaı #d9WWCnoxD9K
   actual:  [(0) (d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=75%, s=72%)
+  guessed: [(c) (d) hóq sF] (conf: p=75%, s=75%)
 ✗ [FRAME/DIST] suaojıetıao #dsLqcySVo
   actual:  [(c) (d) tá sS]
   guessed: [(c c) (d d) tá sS] (conf: p=96%, s=100%)
@@ -2005,13 +1963,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=94%, s=99%)
 ✗ [FRAME] suoı #q27sT89NlRg
   actual:  [(c 1i) (d d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=88%, s=55%)
+  guessed: [(c c) (d d) tá sF] (conf: p=88%, s=51%)
 ✗ [DIST] suoqja #vPcZDClB9
   actual:  [(c c 1j) (d n d) hó sA]
   guessed: [(c c 1j) (d d d) hó sA] (conf: p=91%, s=100%)
 ✗ [FRAME] suqkeo #T42VLKuc4
   actual:  [(0) (d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=82%, s=81%)
+  guessed: [(c) (d) hóq sF] (conf: p=82%, s=82%)
 ✗ [FRAME] shaı #pg9onjqjgv
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=86%, s=96%)
@@ -2021,24 +1979,27 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] shashaı #gEI4qF1Kk
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=96%, s=100%)
+✗ [FRAME/DIST] sheıtua #cR29AQMLg
+  actual:  [(c c) (d d) hó sI]
+  guessed: [(c c 1i) (d d d) hó sI] (conf: p=96%, s=51%)
 ✗ [FRAME] shekute #LNl3MynA4
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=76%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=78%)
 ✗ [DIST] shı #mpXwqee7zb
   actual:  [(c) (n) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=83%, s=87%)
+  guessed: [(c) (d) tá sF] (conf: p=83%, s=86%)
 ✗ [FRAME] shıchıo #q0-lrW7c0Ls
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=96%, s=98%)
 ✗ [DIST] shıjo #Vtht4TjKk
   actual:  [(c c) (n d) hóq sA]
-  guessed: [(c c) (d d) hóq sA] (conf: p=92%, s=99%)
+  guessed: [(c c) (d d) hóq sA] (conf: p=92%, s=98%)
 ✗ [DIST] shıko #loMq7JDiF4Q
   actual:  [(c c) (d n) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=95%, s=93%)
+  guessed: [(c c) (d d) tá sF] (conf: p=95%, s=92%)
 ✗ [FRAME] shıqgaı #m2auuaET9CB
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=63%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=65%)
 ✗ [FRAME/DIST] shıqhıa #pcxtNemH9
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=91%, s=99%)
@@ -2047,7 +2008,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sE] (conf: p=87%, s=99%)
 ✗ [FRAME] shıujaı #NbDLLvr9bmm
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=91%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=92%)
 ✗ [FRAME/DIST] shoaı'eku #ITpT21tDKrP
   actual:  [(c c) (d d) hó sI]
   guessed: [(c) (d) hó sI] (conf: p=86%, s=100%)
@@ -2059,7 +2020,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c) (d) hó sI] (conf: p=83%, s=100%)
 ✗ [DIST] shua #25yTdAUYWOG
   actual:  [(c c) (d d d) tá sI]
-  guessed: [(c c) (d d) tá sI] (conf: p=68%, s=53%)
+  guessed: [(c c) (d d) tá sI] (conf: p=68%, s=52%)
 ✗ [DIST] shuo #3d_vWC1SZq0
   actual:  [(c c) (d n) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
@@ -2071,28 +2032,28 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) hóq sP] (conf: p=90%, s=99%)
 ✗ [FRAME] tajıkao #pWkEzZdLu
   actual:  [(c c) (d d) hóq sI]
-  guessed: [(c 1i) (d d) hóq sI] (conf: p=93%, s=78%)
+  guessed: [(c 1i) (d d) hóq sI] (conf: p=93%, s=79%)
 ✗ [FRAME] tao #cucwN0IBwkF
   actual:  [(c 1i) (d d) hó sA]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=99%)
 ✗ [FRAME] taocıa #Kuc4Wxtp9yY
   actual:  [(0) (d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=79%, s=69%)
+  guessed: [(c) (d) hóq sF] (conf: p=79%, s=73%)
 ✗ [FRAME] taocho #mu885Nc-6
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=83%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=84%)
 ✗ [FRAME] taodı #66eRI8CSL
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=94%, s=52%)
+  guessed: [(c c) (d d) hó sI] (conf: p=94%, s=56%)
 ✗ [FRAME] taojaı #LMhC-IBMe
   actual:  [(c 1i) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=78%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=79%)
 ✗ [FRAME] taotoaı #XzUIh2_UQ
   actual:  [(c c) (d d) hóq sF]
-  guessed: [(c 1i) (d d) hóq sF] (conf: p=85%, s=54%)
+  guessed: [(c 1i) (d d) hóq sF] (conf: p=85%, s=59%)
 ✗ [FRAME] taotu #XmKFa0Qek
   actual:  [(c c 2ij) (d d d) tá sI]
-  guessed: [(c c c) (d d d) tá sI] (conf: p=89%, s=50%)
+  guessed: [(c c c) (d d d) tá sI] (conf: p=89%, s=52%)
 ✗ [FRAME] taq #FRN8nBYk1Yv
   actual:  [(c 2ii) (d d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=98%)
@@ -2101,7 +2062,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=87%, s=100%)
 ✗ [DIST] teıca #EFW3J4MML
   actual:  [(c c) (n d) máq sI]
-  guessed: [(c c) (d d) máq sI] (conf: p=77%, s=89%)
+  guessed: [(c c) (d d) máq sI] (conf: p=77%, s=88%)
 ✗ [FRAME] teq #BWwiRLSPA8i
   actual:  [(c c c 1k) (d d d d) hó sA]
   guessed: [(c c c 1i) (d d d d) hó sA] (conf: p=96%, s=100%)
@@ -2110,7 +2071,7 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=88%, s=100%)
 ✗ [FRAME] teqguaı #ZgvbKw6-hCU
   actual:  [(c 1i) (d d) hó sA]
-  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
+  guessed: [(c c) (d d) hó sA] (conf: p=96%, s=99%)
 ✗ [DIST] tera #mMr6PHQr7lh
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
@@ -2122,13 +2083,13 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 0) (d d) hó sI] (conf: p=96%, s=99%)
 ✗ [FRAME] tıena #WyKNtk6zl
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=91%, s=78%)
+  guessed: [(c c) (d d) hó sI] (conf: p=91%, s=79%)
 ✗ [DIST] tıopuı #_57qZR5h0R8
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=88%, s=99%)
 ✗ [DIST] tıosao #A0K39NK_J
   actual:  [(c) (n) tá sF]
-  guessed: [(c) (d) tá sF] (conf: p=96%, s=60%)
+  guessed: [(c) (d) tá sF] (conf: p=96%, s=56%)
 ✗ [FRAME] toakuaı #mhXfXL6dl
   actual:  [(c 1x) (d d) hó sA]
   guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=98%)
@@ -2137,19 +2098,19 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c 1i) (d d) tá sF] (conf: p=70%, s=84%)
 ✗ [FRAME] toıshı #RfhDcGJBQ
   actual:  [(c 2xi) (d d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=81%, s=87%)
+  guessed: [(c c) (d d) tá sF] (conf: p=81%, s=88%)
 ✗ [FRAME] touche #N_1nWPjYE
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=78%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=80%)
 ✗ [FRAME] tua #Noj6Tpo0JwX
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=95%, s=99%)
 ✗ [FRAME] tuachı #JuEcaNYq3
   actual:  [(c 0) (d d) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=55%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=59%)
 ✗ [FRAME] tuaobu #A8Abp0RgBFW
   actual:  [(c 1i) (d d) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=89%, s=61%)
+  guessed: [(c c) (d d) tá sF] (conf: p=89%, s=59%)
 ✗ [FRAME] tuashao #OE1KxYuYV
   actual:  [(c c) (d d) hó sI]
   guessed: [(c 0) (d d) hó sI] (conf: p=84%, s=99%)
@@ -2164,16 +2125,16 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hóq sA] (conf: p=77%, s=89%)
 ✗ [FRAME/DIST] zaıcıa #fnffh2Gna
   actual:  [(c) (d) hó sI]
-  guessed: [(c 0) (d d) hó sI] (conf: p=96%, s=87%)
+  guessed: [(c 0) (d d) hó sI] (conf: p=96%, s=89%)
 ✗ [DIST] zıam #Z0Y1amgUX
   actual:  [(c c) (n n) tá sF]
-  guessed: [(c c) (d d) tá sF] (conf: p=93%, s=55%)
+  guessed: [(c c) (d d) tá sF] (conf: p=93%, s=51%)
 ✗ [DIST] zoaq #j4tVNAwjx
   actual:  [(c c) (n d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=80%, s=96%)
 ✗ [DIST] zoaqnua #XoJs5P_hQ
   actual:  [(c c) (n d) máq sI]
-  guessed: [(c c) (d d) máq sI] (conf: p=80%, s=60%)
+  guessed: [(c c) (d d) máq sI] (conf: p=80%, s=64%)
 ✗ [FRAME] zoeq #zN2nJMX-O
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=99%)
@@ -2182,31 +2143,34 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [DIST] zua #PgzfTcovE
   actual:  [(c 0) (n d) hó sA]
-  guessed: [(c 0) (d d) hó sA] (conf: p=96%, s=100%)
+  guessed: [(c 0) (d d) hó sA] (conf: p=96%, s=99%)
 ✗ [DIST] zua #LK0wzVYXq
   actual:  [(c 0) (n d) hó sA]
   guessed: [(c 0) (d d) hó sA] (conf: p=95%, s=98%)
 ✗ [DIST] zueca #ZO9N27Hn7
   actual:  [(c c) (d n) hóq sF]
-  guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=74%)
+  guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=78%)
 ✗ [DIST] zuejea #uYF9R1JkR
   actual:  [(c c c) (n n n) hó sI]
-  guessed: [(c c c) (d d d) hó sI] (conf: p=96%, s=60%)
+  guessed: [(c c c) (d d d) hó sI] (conf: p=96%, s=64%)
 ✗ [DIST] zuekıaı #Fz_mmnpfv
   actual:  [(c c) (n n) hó sA]
-  guessed: [(c c) (d d) hó sA] (conf: p=92%, s=99%)
+  guessed: [(c c) (d d) hó sA] (conf: p=92%, s=98%)
 ✗ [FRAME] zueshaı #IbPC8ybnp
   actual:  [(c) (d) hóq sF]
-  guessed: [(0) (d) hóq sF] (conf: p=91%, s=39%)
+  guessed: [(0) (d) hóq sF] (conf: p=91%, s=43%)
 ✗ [FRAME/DIST] zufuom #n2PVhqQ1i
   actual:  [(c c) (d d) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=96%, s=94%)
+  guessed: [(c) (d) hóq sF] (conf: p=96%, s=95%)
 ✗ [DIST] zugoeqpoe #LF0ohEUra
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (n n) hó sI] (conf: p=92%, s=100%)
+✗ [FRAME] zuo #TuXUcei1lCs
+  actual:  [(c 0) (d d) hóq sF]
+  guessed: [(c c) (d d) hóq sF] (conf: p=64%, s=42%)
 ✗ [DIST] zuohı #lSceRXaqA
   actual:  [(c) (n) hóq sF]
-  guessed: [(c) (d) hóq sF] (conf: p=90%, s=55%)
+  guessed: [(c) (d) hóq sF] (conf: p=90%, s=62%)
 ✗ [FRAME] zuokea #zmaFmctKe
   actual:  [(c 1i) (d d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=95%, s=100%)
@@ -2227,25 +2191,25 @@ Top discriminative tokens (LogReg Weights) for subject:
   guessed: [(c c) (d d) hó sA] (conf: p=95%, s=99%)
 ✗ [DIST] zuzao #FSwCYMNA2
   actual:  [(c c) (d n) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=88%)
+  guessed: [(c c) (d d) hó sI] (conf: p=96%, s=89%)
 ✗ [DIST] coeq maı #053HTD5gt
   actual:  [(c) (n) hó sI]
-  guessed: [(c) (d) hó sI] (conf: p=84%, s=94%)
+  guessed: [(c) (d) hó sI] (conf: p=84%, s=95%)
 ✗ [DIST] cheo meajeq #TcOoBT1dJ
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [DIST] cheo soıluaq #bviBka5MG
   actual:  [(c 1i) (n d) hó sA]
-  guessed: [(c 1i) (d d) hó sA] (conf: p=91%, s=99%)
+  guessed: [(c 1i) (d d) hó sA] (conf: p=91%, s=98%)
 ✗ [FRAME] daochue bu keaı #9IkKkJaES
   actual:  [(c 1x) (d d) hóq sF]
-  guessed: [(c 1i) (d d) hóq sF] (conf: p=90%, s=68%)
+  guessed: [(c 1i) (d d) hóq sF] (conf: p=90%, s=70%)
 ✗ [FRAME] daochue keaı #-rZHnbci2
   actual:  [(c 1x) (d d) hóq sF]
-  guessed: [(c 1i) (d d) hóq sF] (conf: p=96%, s=70%)
+  guessed: [(c 1i) (d d) hóq sF] (conf: p=96%, s=72%)
 ✗ [DIST] luı cheaqzua #WdBXebrJ2
   actual:  [(c c) (d n) hó sI]
-  guessed: [(c c) (d d) hó sI] (conf: p=93%, s=52%)
+  guessed: [(c c) (d d) hó sI] (conf: p=93%, s=56%)
 ✗ [FRAME] nua sheı #XFBerVKdY
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
@@ -2619,7 +2583,7 @@ chıaımıutua #_wOTOHE68 → [(c c 0) (d d d) hó sA] conf=96% oov=25%
   ▯ misinforms / deceives ▯; ▯ makes ▯ wrongly believe that ▯.
 chıamoe #hOycY9xp9 → [(c 1i) (d d) hó sA] conf=96% oov=10%
   ▯ feels compelled to do ▯
-chıaqdua #WElK9yRtA → [(c c) (d d) hó sI] conf=96% oov=20%
+chıaqdua #WElK9yRtA → [(c c) (d d) hó sA] conf=96% oov=20%
   ▯ knows ▯ through metacognition.
 chıaqduı #T3lDcbV89 → [(c 1i) (d d) hó sI] conf=96% oov=8%
   ▯ feels self-conscious about satisfying property ▯
@@ -2637,7 +2601,7 @@ chıbutao #aIAPCyJb- → [(c c) (d d) hó sA] conf=96% oov=18%
   ▯ does ▯ spontaneously/without foreplanning.
 chıchedu #g2bzTfNoD → [(c c c) (d d d) hó sA] conf=96% oov=15%
   ▯ fools/manipulates/gaslights ▯ into thinking ▯.
-chıcheu #s6ymdSVeM → [(c c) (d d) hó sA] conf=96% oov=10%
+chıcheu #s6ymdSVeM → [(c c) (d d) hó sI] conf=96% oov=10%
   ▯ believes in lie ▯.
 chıcheudua #Pi_8Hv6wM → [(c c) (d d) hó sA] conf=96% oov=9%
   ▯ believes in obvious lie ▯.
@@ -3855,7 +3819,7 @@ huaqjaı #x86RNyNJ0 → [(c c) (d d) hó sI] conf=96% oov=12%
   ▯ feels compersion (joy derived from the joy of others) towards ▯.
 huaqjeq #mJh5aRWjG → [(c c 1i) (d d d) tá sF] conf=96% oov=12%
   ▯ is equally or more the case than ▯; ▯ is equal to or greater than ▯ in property ▯.
-huaqjeq #9JjCWQ3yW → [(c c c c) (d d d d) tá sP] conf=96% oov=3%
+huaqjeq #9JjCWQ3yW → [(c c c c) (d d d d) tá sF] conf=96% oov=3%
   ▯ is just as more than ▯ as the latter is than ▯ in satisfying property ▯; ▯ with ▯ and the latter with ▯ are just as much more ▯.
 huaqjuı #QXS2HXExp → [(c c 1i) (d d d) tá sF] conf=96% oov=10%
   ▯ is more than but close to ▯ in how much it has gradable property ▯.
@@ -3987,7 +3951,7 @@ jakaı #LiILEaElu → [(c) (d) hó sA] conf=96% oov=29%
   ▯ speaks / communicates aggressively or with great passion; ▯ rants / blusters / pleads
 jaocua #NA5nOMljr → [(c c 1i) (d d d) hó sA] conf=96% oov=17%
   ▯ is (being) cold/distant/unapproachable/standoffish towards ▯ in satisfying property ▯.
-jaohuo #CahQRGX2F → [(c c c) (d d d) tá sS] conf=96% oov=17%
+jaohuo #CahQRGX2F → [(c c c) (d d d) tá sF] conf=96% oov=17%
   predicate ‘resound’; ▯ resounds in a sense (resembling/similar to) ▯, at ▯ volume; ▯ emits (a) sound(s), which can be heard far away and perceived as something (resembling/similar to) ▯, at ▯ volume.
 jaokeoı #7qygYVa_H → [(c c) (d d) hó sI] conf=96% oov=17%
   ▯ calls / has a call with ▯.
@@ -4133,7 +4097,7 @@ jıane #hgAdPa_up → [(c c) (d d) hóq sE] conf=96% oov=12%
   ▯ is the time separating the future event ▯ from now.
 jıaodeoq #oPRemNDYd → [(c c) (d d) hó sA] conf=96% oov=7%
   ▯ prays / communicates with supernatural or divine being ▯.
-jıaogı #rCkh6j1vD → [(c c) (d d) tá sE] conf=96% oov=12%
+jıaogı #rCkh6j1vD → [(c c) (d d) tá sF] conf=96% oov=12%
   ▯ (event) is pious; ▯ is good to/for god ▯.
 jıaojıe #xAdXOqBro → [(c c) (d d) hó sI] conf=96% oov=6%
   ▯ has ▯ as their god; ▯ believes in god ▯.
@@ -4681,7 +4645,7 @@ kuıkuq #kuQBSUNEh → [(c c c) (d d d) hó sA] conf=96% oov=17%
   ▯ explains / argues that ▯ to ▯.
 kuılua #qGNECINAK → [(c) (d) hóq sI] conf=96% oov=18%
   ▯ is a false excuse / pretext.
-kuımoı #Gaxs-DvroIu → [(c c c) (d d d) hó sA] conf=96% oov=4%
+kuımoı #Gaxs-DvroIu → [(c c c) (d d d) hó sI] conf=96% oov=4%
   ▯ reasons that ▯ is the case (because they know that ▯ is the case); ▯ reasons ▯ from ▯
 kuımu #_AZDCDEdv → [(c 0) (d d) hóq sP] conf=96% oov=8%
   ▯ is a reason why ▯ is the case.
@@ -4903,7 +4867,7 @@ lımgaı #v5rV48Wmv → [(c 0) (d d) hó sI] conf=96% oov=13%
   ▯ makes out / discerns / understands that ▯ is the case.
 lımjıe #ZLQHZ8LI- → [(c c c) (d d d) hó sA] conf=96% oov=9%
   ▯ understands ▯ as meaning ▯
-lımkuaı #M7y8zJZdq → [(c c) (d d) hó sA] conf=96% oov=31%
+lımkuaı #M7y8zJZdq → [(c c) (d d) hó sI] conf=96% oov=31%
   ▯ yearns to fully understand the ins and outs of ▯.
 lıosı #S3VJd1HNn → [(c c) (d d) hó sA] conf=96% oov=8%
   ▯ looks to their left at ▯
@@ -5365,7 +5329,7 @@ muaqtuaısı #WlfMN-Ev7 → [(c c) (d d) hó sA] conf=96% oov=18%
   ▯ performs an autopsy on ▯.
 muaraq #2erdWmwOG → [(c c) (d d) tá sF] conf=96% oov=6%
   ▯ is specific; ▯ pertains to specific/concrete instances of ▯.
-mụcuao #ToEJwtOUI → [(c c 1i) (d d d) tá sF] conf=96% oov=6%
+mụcuao #ToEJwtOUI → [(c c 1i) (d d d) tá sS] conf=96% oov=6%
   ▯ is on the same side of ▯ in property ▯
 muchoa #5_ASK1I_o → [(c) (d) hó sA] conf=96% oov=25%
   ▯ moos; ▯ makes a moo sound.
@@ -5787,7 +5751,7 @@ nhashaı #v7MqaWgy5 → [(c 1i) (d d) hó sA] conf=96% oov=19%
   ▯ drops intention ▯; ▯ forgoes promise ▯; ▯ neglects their commitment to satisfying property ▯.
 nheaze #F5TxJ6AAp → [(c) (d) máq sI] conf=96% oov=19%
   ▯ is a drink with sedative properties (e.g., chamomile tea).
-nhemu #gvAlawgI_ → [(c 1i) (d d) hó sA] conf=96% oov=11%
+nhemu #gvAlawgI_ → [(c 1i) (d d) hó sI] conf=96% oov=11%
   ▯ gets out of satisfying property ▯; ▯ frees themselves from satisfying property ▯
 nheoıchaq #STNlS5F8J → [(c) (d) hóq sI] conf=96% oov=14%
   ▯ is a day that’s dragging on for too long because one is staying up, working a third shift, can’t sleep, etc.
@@ -5887,7 +5851,7 @@ paqkenıu #UthdaNSu- → [(c) (d) máq sI] conf=96% oov=23%
   ▯ is a Pilea peperomioides / Chinese money plant.
 paqleo #DoybbQc7r → [(c c) (d d) hó sA] conf=96% oov=25%
   ▯ contributes their prowess/effort/resources to collective effort ▯ (property)
-paqne #NzMZwjd3d → [(c c c) (d d d) hóq sI] conf=96% oov=12%
+paqne #NzMZwjd3d → [(c c c) (d d d) hóq sF] conf=96% oov=12%
   ▯ is some portion / amount / part of ▯, where the numerical amount is ▯ (where the last blank is a real number of some kind between 0 and 1, inclusive, can of course just be a fraction.)
 paqpaqgua #bqAsL9sds → [(c) (n) máq sI] conf=96% oov=17%
   ▯ is a subdivision of a province.
@@ -5991,7 +5955,7 @@ pomı #ww35SJreG → [(c) (d) tá sI] conf=96% oov=8%
   object incorporating+name verb: ‘of that called’; turns following phrase X into verb: ▯ is of that which is called X.
 poqde #kQw1kFgpG → [(c) (d) tá sS] conf=96% oov=21%
   ▯ is charming, alluring, fascinating; ▯ has personal charm [regardless of sexual/romantic connotations].
-poqgı #Mu_G3c_gc → [(c) (d) tá sF] conf=96% oov=15%
+poqgı #Mu_G3c_gc → [(c) (d) tá sS] conf=96% oov=15%
   ▯ is socially talented/has good social skills.
 poqjeose #mlYQ78YdK → [(c c) (d d) tá sF] conf=96% oov=12%
   ▯ is ▯’s personality (a totality of traits defining/distinguishing that person); ▯ is what ▯ is like.
@@ -6363,7 +6327,7 @@ saduo #vTctS_oJg → [(c) (d) hóq sE] conf=96% oov=13%
   ▯ lasts a considerable amount of time / lasts some time
 sagısahuı #XjNyNPoY2 → [(c) (d) tá sF] conf=96% oov=20%
   Some among ▯ are good, whereas others are bad; ▯ are a mix/tossup/hit-or-miss / attain mixed reception.
-sahuruaq #QwnbdjJUU → [(c 0) (d d) hó sA] conf=96% oov=5%
+sahuruaq #QwnbdjJUU → [(c 0) (d d) hó sI] conf=96% oov=5%
   ▯ tells lie ▯; ▯ asserts that ▯ is true, but it isn't
 sahutuao #JzOgETJyj → [(0) (d) hóq sP] conf=96% oov=10%
   ▯ is pretty much the case; It is negligible the degree to which ▯ is false
@@ -6381,7 +6345,7 @@ saokaı #93KHcG36u → [(c c c) (d d d) hó sA] conf=96% oov=17%
   ▯ writes ▯ on ▯ in uppercase
 saonıq #V315OaHhd → [(c) (d) hóq sE] conf=96% oov=6%
   ▯ happens again for the first time in a long while.
-saonıqguo #m5F2sfF8R → [(c) (d) hóq sE] conf=96%
+saonıqguo #m5F2sfF8R → [(c) (d) hóq sP] conf=96%
   ▯ happens again for the first time in a long while.
 saopuefuq #t1J3YNoOb → [(c) (d) máq sI] conf=96%
   ▯ is a boot.
@@ -6395,7 +6359,7 @@ sapo #-N_KxPVSl → [(c 1i) (d d) tá sI] conf=96% oov=5%
   ▯ partially satisfies the property ▯, some part of it does and some other part doesn't.
 sapocheo #Cv8EQcB8E → [(c c) (n d) tá sF] conf=96% oov=9%
   ▯ are partly related to each other by relation ▯; some of ▯ are ▯ to others
-sapuı #ULXMRc4nb → [(c c) (d d) tá sF] conf=96% oov=8%
+sapuı #ULXMRc4nb → [(c c) (d d) tá sS] conf=96% oov=8%
   ▯ are at least ▯ in number
 saqfaseotuze #wVgfPg_9h → [(c) (d) máq sI] conf=96% oov=9%
   ▯ is a vanilla soy latte.
@@ -6485,7 +6449,7 @@ sıeche #tRqEQG2qB → [(c c 1i) (d d d) hó sI] conf=96% oov=11%
   ▯ is a successor to ▯ in the job of satisfying property ▯.
 sıela #FjzntCFH- → [(c c) (d d) hó sA] conf=96% oov=30%
   ▯ trails/follows/pursues ▯
-sıgı #b_MDV1fxY → [(c c) (d d) tá sF] conf=96%
+sıgı #b_MDV1fxY → [(c c) (d d) tá sS] conf=96%
   ▯ is interesting; ▯ is interesting to ▯.
 sımıq #Fk8LvSquI → [(c c) (d d) hó sA] conf=96% oov=6%
   ▯ is enthralled/captivated by ▯; ▯ focuses all of their attention on ▯.
@@ -6654,7 +6618,7 @@ shanabıa #eOfyb1jMd → [(c) (d) hó sI] conf=96% oov=40%
   ▯ has premenstrual syndrome (PMS).
 shanadıaq #tlYuDTFWc → [(c) (d) hóq sP] conf=96% oov=21%
   ▯ happens in sync with one’s menstrual cycle.
-shaobufaq #FSBppXCVC → [(c c) (d d) hóq sP] conf=96% oov=9%
+shaobufaq #FSBppXCVC → [(c c) (d d) hóq sE] conf=96% oov=9%
   ▯ happens against ▯’s will.
 shaobutao #5nQ29RV7g → [(c c c) (d d d) hó sA] conf=96% oov=8%
   ▯ does ▯ against ▯’s will.
@@ -6962,7 +6926,7 @@ taromchaq #f9r_RPNej → [(c) (d) hóq sI] conf=96% oov=7%
   ▯ is a Saturday or Sunday / day on the weekend.
 teaızua #tVQ5CvmHn → [(c c) (d d) hó sA] conf=96% oov=23%
   ▯ (agent) averts/delays/staves off ▯ happening
-teammoı #X6CACHsq9 → [(c 0) (d d) hó sA] conf=96% oov=6%
+teammoı #X6CACHsq9 → [(c 0) (d d) hó sI] conf=96% oov=6%
   ▯ thinks on the fact that ▯ is to their detriment
 teaqfuq #hE6RJaIef → [(c) (d) máq sI] conf=96% oov=11%
   ▯ is a bra
@@ -7462,7 +7426,7 @@ taq moaqshaı taochı #Eq9X4aI0h → [(c 1i) (d d) hó sI] conf=96%
   ▯ forgets to do ▯.
 taq teq #CwkVTt8AE → [(c c 1i) (d d d) hó sA] conf=96% oov=7%
   ▯ pays oneself to ▯ for satisfying property ▯
-taq tua kaqrıa #TTEs5YKN5 → [(c) (d) hó sA] conf=96%
+taq tua kaqrıa #TTEs5YKN5 → [(c) (d) hó sI] conf=96%
   ▯ opens their eyes
 tua caıdua #XxrQ7SfGo → [(c c 0) (d d d) hó sA] conf=96% oov=7%
   ▯ (re-)assures ▯ that ▯ is the case
@@ -7718,7 +7682,7 @@ gıgıodoatuaıtua #AF0mRkDUH → [(c c) (d d) hó sA] conf=95% oov=25%
   ▯ krills ▯.
 gımnhoq #eiGJzxdR4 → [(c) (d) máq sI] conf=95% oov=14%
   ▯ is a string (of a piano/guitar/harp/...)
-gına #yew9mV0iY → [(c) (d) tá sF] conf=95% oov=14%
+gına #yew9mV0iY → [(c) (d) tá sS] conf=95% oov=14%
   ▯ is meh, just okay, good-but-unimpressive, mediocre.
 gıojeaq #YfHW4WFse → [(c) (d) tá sF] conf=95% oov=17%
   ▯ lightens up; ▯ becomes more illuminated or begins to emit more light
@@ -8012,7 +7976,7 @@ leagıkuaı #ex6NM8jv7 → [(c c) (d d) hó sI] conf=95% oov=19%
   ▯ is a perfectionist; ▯ strives for the quality of ▯.
 lecoetao #j4FRQSQ8x → [(c) (d) hó sA] conf=95% oov=45%
   ▯ uses deduction/inference/probabilistic reasoning.
-lıelua #yTmooDCvi → [(c) (d) hóq sE] conf=95% oov=7%
+lıelua #yTmooDCvi → [(c) (d) hóq sI] conf=95% oov=7%
   ▯ is a personal anecdote / story from personal experience.
 lıemcheı #TWrUuD_yc → [(c) (d) máq sI] conf=95% oov=10%
   ▯ is a ring finger.
@@ -8162,7 +8126,7 @@ nuocıu #ovBmhym9m → [(c c) (d d) hó sA] conf=95% oov=7%
   ▯ accumulates rheum/gound ▯ in their eyes during sleep.
 nuogeq #HZuuXJU1p → [(c c) (d d) hó sI] conf=95% oov=18%
   ▯ meets ▯ in a dream.
-nuopoajıaı #NTofqDIJJ → [(c c) (d d) hó sA] conf=95% oov=12%
+nuopoajıaı #NTofqDIJJ → [(c c) (d d) hó sI] conf=95% oov=12%
   ▯ holds ▯ while asleep in such a way that the latter can't leave without waking the former up
 nuoshıecaq #qBjfqDpLb → [(c c) (d d) hó sA] conf=95% oov=25%
   ▯ hypnotizes ▯.
@@ -8316,7 +8280,7 @@ suaıpeq #-5nyRbp1d → [(c) (d) máq sI] conf=95% oov=10%
   ▯ is a reference sheet
 subutu #nyLaMK-Om → [(0) (d) hóq sP] conf=95% oov=7%
   The amount of ▯ being the case is insignificant.
-suku #OljfKvofQ → [(c c) (d d) tá sF] conf=95% oov=8%
+suku #OljfKvofQ → [(c c) (d d) tá sS] conf=95% oov=8%
   ▯ are different from ▯ (different identities)
 sukua #K8_7sOJOb → [(c) (d) máq sI] conf=95% oov=10%
   ▯ is a street gang.
@@ -8520,7 +8484,7 @@ atomshıa #XPF1LJo1v → [(c) (d) máq sI] conf=94% oov=27%
   ▯ is atomsite / trinitite / melt glass formed by nuclear explosion.
 badea #RXemg9Qxq → [(c c) (d d) hó sA] conf=94% oov=22%
   ▯ slams/whacks ▯.
-beu #jDBqsaEU6 → [(c c c) (d d d) tá sP] conf=94% oov=4%
+beu #jDBqsaEU6 → [(c c c) (d d d) tá sF] conf=94% oov=4%
   ▯ is much the case relatively to how much it is the case for ▯; ▯ has property ▯ to a great extent relatively to how much ▯ have that property; the amount of ▯ having property ▯ is greater than the average among ▯.
 bıaobıa #pFZWQe2AL → [(c) (d) hó sI] conf=94% oov=12%
   ▯ is drunk.
@@ -9200,7 +9164,7 @@ rıutue #UbHqsxIBR → [(c c) (d d) hóq sE] conf=94% oov=9%
   ▯ is the anniversary of ▯
 roao #nKAAsPYxW → [(c c) (d d) hó sI] conf=94% oov=7%
   ▯ decorates/adorns ▯; ▯ is a decoration/embellishment to ▯.
-ruaqdua #zWiz3s3Jq → [(c c) (d d) hó sI] conf=94% oov=13%
+ruaqdua #zWiz3s3Jq → [(c c) (d d) hó sA] conf=94% oov=13%
   ▯ knows ▯ from hearsay (no matter through which medium —spoken, written…— that second-hand information was obtained).
 rubuıq #t9Dk5AWnT → [(c c 1i) (d d d) hó sA] conf=94% oov=14%
   ▯ does, and ▯ does not, satisfy property ▯.
@@ -9268,7 +9232,7 @@ shakua #tDClNGmIQ → [(c) (d) máq sI] conf=94% oov=22%
   ▯ is a lobby.
 shaqfa #H1KRRgZTA → [(c c) (d d) hó sA] conf=94% oov=17%
   ▯ proceeds / advances / goes forward to ▯.
-shaqtıakoı #o_O5OvI6g → [(c) (d) hó sA] conf=94% oov=15%
+shaqtıakoı #o_O5OvI6g → [(c) (d) hó sI] conf=94% oov=15%
   ▯ (four-legged creature) runs in a way where the front two legs and the back two legs move in unison
 shasoa #CuxISMdzY → [(c c 1i) (d d d) hó sA] conf=94% oov=7%
   ▯ advises/guides/leads ▯ to satisfy property ▯.
@@ -9966,7 +9930,7 @@ neqdoa #djQK6B0hf → [(c c 0) (d d d) hó sA] conf=93% oov=15%
   ▯ wishes (to person) ▯ that ▯ happens.
 neqfa #RftaUdUsF → [(c c) (d d) hó sA] conf=93% oov=11%
   ▯ wanders/roams ▯.
-neqfaq #A0AO-d1_w → [(c) (d) hóq sP] conf=93% oov=22%
+neqfaq #A0AO-d1_w → [(c) (d) hóq sE] conf=93% oov=22%
   ▯ happens randomly / unpredictably.
 neuce #lCO75Iy1t → [(c) (d) máq sI] conf=93% oov=25%
   ▯ is a neuron (neural network sense).
@@ -10310,7 +10274,7 @@ ceoqmaıloha #DPLEeIYWH → [(c) (d) máq sI] conf=92% oov=11%
   ▯ is an electromagnet.
 ceoqshuo #imdI5qiqs → [(c) (d) máq sI] conf=92% oov=11%
   ▯ is a battery.
-cıodaq #Yz6mGTETd → [(c) (d) hóq sP] conf=92% oov=13%
+cıodaq #Yz6mGTETd → [(c) (d) hóq sF] conf=92% oov=13%
   ▯ is puberty (as a time in one's life).
 cıufua #UL8-qRRBq → [(c) (d) máq sI] conf=92% oov=18%
   ▯ is a toilet (the fixture).
@@ -10708,7 +10672,7 @@ moıguaırıaq #c2xsCOIfh → [(c) (d) máq sI] conf=92%
   ▯ is an office.
 moılao #sE-D074xh → [(c 1i) (d d) hó sA] conf=92%
   ▯ hesitates to satisfy property ▯.
-muoheo #OsS6Q-hCc → [(c c) (d d) tá sF] conf=92% oov=17%
+muoheo #OsS6Q-hCc → [(c c) (d d) tá sS] conf=92% oov=17%
   ▯ is in contrast/juxtaposition to ▯.
 muozıu #cwi6saaI4 → [(c) (d) hóq sI] conf=92% oov=11%
   ▯ is an integer.
@@ -10724,7 +10688,7 @@ neqzıu #3ayJ6PEsf → [(c c) (d d) hóq sI] conf=92% oov=15%
   ▯ is the chance of ▯ taking place
 neu #ZFDSK8r9e → [(c c c) (d d d) hó sA] conf=92% oov=14%
   ▯ = ▯ + ▯.
-nıoqgoaı #Xxb6kOXGL → [(c) (d) hó sA] conf=92% oov=33%
+nıoqgoaı #Xxb6kOXGL → [(c) (d) hó sI] conf=92% oov=33%
   ▯ brushes their teeth.
 nıqjatoı #UnV9kMqHU → [(c c 2ij) (d d d) hó sA] conf=92% oov=8%
   ▯ preemptively does to ▯ relation ▯ (before the latter could ever get to doing it to the former).
@@ -11338,7 +11302,7 @@ koja #bwd7Z5BA- → [(c c) (d d) hó sA] conf=91% oov=33%
   ▯ captures/siezes/places in custody ▯
 kuaıbıa #rlAAPIyO7 → [(c 1i) (d d) hó sI] conf=91% oov=17%
   ▯ is addict to satisfying property ▯.
-kuemjıe #dfr8TFUeu → [(c c) (d d) hó sA] conf=91% oov=8%
+kuemjıe #dfr8TFUeu → [(c c) (d d) hó sI] conf=91% oov=8%
   ▯ finds ▯ to be suspicious/"off"
 kueqbaı #hkXwtWbTj → [(c c) (d d) hó sA] conf=91% oov=12%
   ▯ assembles ▯.
@@ -11554,7 +11518,7 @@ seomrıaq #zqwPeAsvZ → [(c) (d) máq sI] conf=91% oov=22%
   ▯ is a gym.
 seoqmı #4jwV9V3Hp → [(c) (d) máq sI] conf=91% oov=18%
   ▯ is a sky/heaven/firmament.
-sıaofıshoem #3rXzDact4 → [(c c) (d d) hó sS] conf=91%
+sıaofıshoem #3rXzDact4 → [(c c) (d d) hó sI] conf=91%
   ▯ is in extreme anticipation of the beginning of ▯, which is on the cusp of happening; ▯ can hardly wait any longer for ▯ to start, which it very soon should
 sıjıa #x05j6IthW → [(c c c) (d d d) hó sA] conf=91% oov=13%
   ▯, upon viewing ▯, develops attitude ▯ (relation) towards it.
@@ -11590,7 +11554,7 @@ shıucuo #2-uRG5KPH → [(c c) (d d) hó sA] conf=91% oov=25%
   ▯ presupposes ▯.
 shoamoı #hZtgb8k-S → [(c c) (d d) hó sA] conf=91% oov=25%
   ▯ cogitates about ▯
-shoelaı #ABqVE3eS- → [(c c 0) (d d d) hóq sP] conf=91% oov=11%
+shoelaı #ABqVE3eS- → [(c c 0) (d d d) hóq sI] conf=91% oov=11%
   ▯ is a word of permission from ▯ permitting ▯ to be the case.
 shuetıem #qQEdqAEZ2 → [(c) (d) hóq sI] conf=91% oov=25%
   ▯ is a homomorphism / structure-preserving function.
@@ -11626,9 +11590,9 @@ toedea #3pdJR5vpH → [(c c) (d d) hó sA] conf=91% oov=11%
   ▯ (agentive) stabs ▯
 toeqruaq #LNUYzBah2 → [(c c) (d d) hó sA] conf=91% oov=30%
   ▯ gossips/spreads rumor ▯.
-toıduejuao #KLAtnQeXn → [(c) (d) hóq sI] conf=91% oov=17%
+toıduejuao #KLAtnQeXn → [(c) (d) hóq sF] conf=91% oov=17%
   ▯ is a moral, a set of rules of conduct deemed morally correct.
-toıjuao #SvfknquTE → [(c) (d) hóq sI] conf=91% oov=17%
+toıjuao #SvfknquTE → [(c) (d) hóq sF] conf=91% oov=17%
   ▯ is a moral, a set of rules of conduct deemed morally correct.
 tuaıgaı #0abFbuGHn → [(c c) (d d) hó sI] conf=91% oov=13%
   ▯ observes through interoception state of affairs ▯ within themselves
@@ -11650,7 +11614,7 @@ zaıha #7BguwPSH4 → [(0) (d) hóq sP] conf=91% oov=20%
   Hopefully ▯ is the case.
 zaınu #33nhJTHyE → [(0) (d) hóq sP] conf=91% oov=20%
   Hopefully ▯ is the case.
-zıqtıdıbu #pQ-0M9STA → [(c c) (d d) tá sF] conf=91% oov=8%
+zıqtıdıbu #pQ-0M9STA → [(c c) (d d) tá sS] conf=91% oov=8%
   ▯ is banned from online venue ▯.
 cheo goajao #4Q1UJ1T5N → [(c) (d) tá sS] conf=91% oov=7%
   ▯ are scattered / far away from one another in space.
@@ -11966,7 +11930,7 @@ keajuao #7_1ZbUcHP → [(c) (d) máq sI] conf=90% oov=7%
   ▯ is a machine instruction; ▯ (plural) are machine code.
 kıaqdıem #HDV4bqFZz → [(c) (d) máq sI] conf=90% oov=17%
   ▯ is a hair salon / barber shop.
-kıaqgoaı #_dd1JqFUm → [(c) (d) hó sA] conf=90% oov=22%
+kıaqgoaı #_dd1JqFUm → [(c) (d) hó sI] conf=90% oov=22%
   ▯ brushes their hair
 kıaqtoe #cHgqxn-3i → [(c c) (d d) hó sA] conf=90% oov=11%
   ▯ cuts hair ▯
@@ -12026,7 +11990,7 @@ luanıeq #uQLR6ks1U → [(c) (d) hó sA] conf=90% oov=30%
   ▯ demonstrates plot-induced stupidity
 luımeo #SzD3_3WRd → [(c c) (d d) hó sA] conf=90% oov=18%
   ▯ misses ▯ for having happened/expired.
-luısho #H82JW5foK → [(c 1i) (d d) hó sA] conf=90% oov=7%
+luısho #H82JW5foK → [(c 1i) (d d) hó sI] conf=90% oov=7%
   ▯ reaches/enters a state of having satisfied property ▯.
 lukusu #1JyeDeKjA → [(c) (d) máq sI] conf=90% oov=11%
   ▯ is a lux
@@ -12058,7 +12022,7 @@ mıeqtue #ABClfuqhf → [(c) (d) hóq sE] conf=90% oov=10%
   ▯ is an experiment/test
 moanuoı #_G71bJT1q → [(c c) (d d) hó sA] conf=90% oov=12%
   ▯ bites ▯
-moaqmuojuı #wXTvG4DBQ → [(c c) (d d) hó sA] conf=90% oov=5%
+moaqmuojuı #wXTvG4DBQ → [(c c) (d d) hó sI] conf=90% oov=5%
   ▯ has ▯ at the tip of their tongue (a word, idea, or past memory).
 moepıa #c1Mb2ny0g → [(c c) (d d) hó sI] conf=90% oov=8%
   ▯ is a soul-sibling of ▯
@@ -12716,7 +12680,7 @@ puachuq #EITsS-jUl → [(c c) (d d) hó sA] conf=89% oov=18%
   ▯ recreationally consumes drug(s) ▯
 pugapeq #Gho333odp → [(c) (d) máq sI] conf=89% oov=25%
   ▯ is parchment.
-Puıpoqduq #n9fbTlGsx → [(c c) (d d) tá sF] conf=89% oov=9%
+Puıpoqduq #n9fbTlGsx → [(c c) (d d) tá sS] conf=89% oov=9%
   ▯ is popular among ▯
 punuaq #48INEjvsU → [(c) (d) hóq sP] conf=89% oov=11%
   ▯ is last night
@@ -13652,7 +13616,7 @@ jımtea #Eh8N0E_jf → [(c) (d) hó sI] conf=87% oov=21%
   ▯ is startled; experiences fear in a short burst
 jıoqsoeı #XK8hrl8ff → [(c) (d) hó sI] conf=87% oov=25%
   ▯ has dyscalculia.
-jıqcıpaq #NobS4Sm8xX → [(c c) (d d) tá sI] conf=87% oov=18%
+jıqcıpaq #NobS4Sm8xX → [(c c) (d d) tá sS] conf=87% oov=18%
   ▯ is wired into ▯; ▯ is an integral part of ▯
 jıqjıao #8uj1v2Qo7 → [(c) (d) hó sI] conf=87% oov=7%
   ▯ is a True God (which the speaker believes in).
@@ -14060,7 +14024,7 @@ choqnoa #N-I_LFGpd → [(c) (d) tá sF] conf=86% oov=14%
   ▯ is unwieldy/clumsy/awkward or difficult to use
 chuajıe #EVAfJlBjS → [(c c c) (d d d) hó sI] conf=86% oov=5%
   To ▯, ▯ is the name of ▯ ; ▯ calls  by name ▯, ▯
-chuajoe #8ZuqE-I_0 → [(c c c) (d d d) hó sA] conf=86% oov=26%
+chuajoe #8ZuqE-I_0 → [(c c c) (d d d) hó sI] conf=86% oov=26%
   ▯ has title ▯ in field ▯; ▯ is certified with honorary affix ▯ to have gained expertise on subject ▯/1.
 chuececoe #06Ame6vZ5 → [(c) (d) máq sI] conf=86% oov=18%
   ▯ is a railway interchange/hub.
@@ -14078,7 +14042,7 @@ daqbuaı #sM-wi6PdV → [(c) (d) hóq sE] conf=86% oov=9%
   ▯ lasts for a long time
 daqfaı #wCIIwqJ9k → [(c c) (d d) hóq sP] conf=86% oov=8%
   ▯ is frequently the case when ▯ is
-daqgoasueqfa #hBBGVjPMa → [(c) (d) hó sA] conf=86% oov=25%
+daqgoasueqfa #hBBGVjPMa → [(c) (d) hó sI] conf=86% oov=25%
   ▯ travels with a warp / Alcubierre drive.
 daqlıem #GXRFHkSD2 → [(c) (d) máq sI] conf=86% oov=20%
   ▯ is a watch / timepiece.
@@ -14138,7 +14102,7 @@ gaogıekuoq #6aoocsLE9 → [(c) (d) máq sI] conf=86% oov=22%
   ▯ is a humerus.
 gıbıo #vG5Wr6QQr → [(c) (d) máq sI] conf=86% oov=20%
   ▯ is environment-friendly packaging.
-gıtaq #wBeOtw0xO → [(c 1i) (d d) tá sF] conf=86% oov=13%
+gıtaq #wBeOtw0xO → [(c 1i) (d d) tá sS] conf=86% oov=13%
   ▯ has property ▯ which is beneficial for the former.
 goeqsaı #JeYtnhCta → [(c c) (d d) máq sI] conf=86% oov=27%
   ▯ is an ▯ isolator/insulator.
@@ -14194,7 +14158,7 @@ huaı #lqIMVQEBN → [(c c) (d d) hó sA] conf=86%
   ▯ scoops ▯.
 huakuaq #WdpGtT2f3 → [(c 1i) (d d) hó sA] conf=86% oov=10%
   ▯ expresses/gestures property ▯
-huıtaq #Y7SnywHdh → [(c 1i) (d d) tá sF] conf=86% oov=13%
+huıtaq #Y7SnywHdh → [(c 1i) (d d) tá sS] conf=86% oov=13%
   ▯ has property ▯ which is detrimental for the former.
 huoıkuoq #XsAv_uFR8 → [(c) (d) máq sI] conf=86% oov=30%
   ▯ is a coccyx / tailbone.
@@ -14578,7 +14542,7 @@ tıaokuq #sWYWliDoX → [(c) (d) hó sA] conf=86% oov=14%
   ▯ says exactly what needs to be said in the current situation; ▯ says the mot juste.
 tıaomuo #rcS_8GYYW → [(c c 2ij) (d d d) tá sF] conf=86% oov=15%
   ▯ perfectly suits/fits ▯ in relation ▯.
-tıbu #EHJzK-OF8 → [(c c) (d d) tá sF] conf=86% oov=25%
+tıbu #EHJzK-OF8 → [(c c) (d d) tá sS] conf=86% oov=25%
   ▯ is gone / missing / absent from ▯.
 tıduaı #p9PgXYLKw → [(c c) (d d) tá sS] conf=86% oov=12%
   ▯ is forced to be at ▯; ▯ is stuck at ▯.
@@ -14778,7 +14742,7 @@ haqchuq #tWo8IR24X → [(c) (d) hó sA] conf=85% oov=12%
   ▯ eats food.
 hempeseao #e5LJwgLHt → [(c) (d) máq sI] conf=85% oov=20%
   ▯ is cannabis / weed / marijuana.
-heogaı #kP5RFtBtv → [(c 1i) (d d) hó sA] conf=85% oov=22%
+heogaı #kP5RFtBtv → [(c 1i) (d d) hó sI] conf=85% oov=22%
   ▯ manifests property ▯.
 heqjıaq #8fCk0fCkb → [(c) (d) máq sI] conf=85% oov=27%
   ▯ is a containerized environment / "sandbox".
@@ -14814,7 +14778,7 @@ jaꝡa #0Hf8ELxIy → [(c) (d) tá sF] conf=85% oov=8%
   ▯ pertains to Javanese culture, language, etc.
 jeoduq #v9TX8vNyV → [(0) (d) hóq sP] conf=85% oov=10%
   ▯ is habitually the case.
-jeqda'eı #1tsjWAndE → [(c c) (d d) hó sA] conf=85% oov=7%
+jeqda'eı #1tsjWAndE → [(c c) (d d) hó sI] conf=85% oov=7%
   ▯ has, performs social gender role ▯.
 joekao #JjAQQC7V3 → [(c) (d) hóq sI] conf=85% oov=33%
   ▯ is a résumé / resume / cv / curriculum vitae / (document outlining one's skills).
@@ -15218,7 +15182,7 @@ buqkuoqfeqnhoq #XMWyTtZXa → [(c) (d) máq sI] conf=84% oov=33%
   ▯ is a maxillary nerve (CN V2).
 caımıu #s--GIhNOG → [(c 0) (d d) hóq sP] conf=84% oov=6%
   ▯ is firmly/strongly of the opinion that ▯ is the case.
-caqshı #EoJyDewoi → [(c) (d) hóq sP] conf=84% oov=20%
+caqshı #EoJyDewoi → [(c) (d) hóq sI] conf=84% oov=20%
   ▯ is under the authority/control/influence of one entity; ▯ (system, organization) is centralized
 carajeoq #mSZIO3v7n → [(c) (d) máq sI] conf=84% oov=18%
   ▯ is a rocket/missile silo
@@ -15326,7 +15290,7 @@ gıaqguo #RrmAF-pH2 → [(c c) (d d) hóq sE] conf=84% oov=13%
   ▯ is an instance of music ▯ being played/performed
 gıaqtao #VUG-r2S44 → [(c c) (d d) hó sA] conf=84% oov=6%
   ▯ plays music ▯ agentively with an instrument or body part.
-gıjao #XYiJKLcXd → [(c 1i) (d d) tá sF] conf=84% oov=17%
+gıjao #XYiJKLcXd → [(c 1i) (d d) tá sS] conf=84% oov=17%
   ▯ is safe/remote/has closure/recourse from (accidentally) satisfying (undesirable) property ▯.
 gımlua #sJ27DxdtO → [(c) (d) hóq sI] conf=84% oov=22%
   ▯ is a symphony.
@@ -15540,7 +15504,7 @@ nıjaofa #44rbMCBDT → [(c c c) (d d d) hó sA] conf=84% oov=13%
   ▯ goes to ▯ (farther away from us) from ▯.
 nıqguomuteheq #aVuqiGk1Y → [(c) (d) máq sI] conf=84% oov=30%
   ▯ is a recycling bin
-noaca #qA5fkBbSc → [(c c c) (d d d) hóq sA] conf=84% oov=12%
+noaca #qA5fkBbSc → [(c c c) (d d d) hóq sI] conf=84% oov=12%
   ▯ is a problem/hindrance against doing ▯ for the experiencer ▯.
 nodo #IQvStsMQG → [(c c c) (d d d) hó sA] conf=84% oov=17%
   ▯ expresses/embodies ▯ through medium ▯.
@@ -15936,7 +15900,7 @@ kubopıu #1-xQPjcbH → [(c) (d) máq sI] conf=83% oov=22%
   ▯ is an eggshell.
 kuqbuaq #ngKjgedJK → [(c c) (d d) hó sA] conf=83% oov=12%
   ▯ means to say ▯ but mistakenly says something erroneous instead.
-kuqchedu #b378UdYp8 → [(c c) (d d) hó sA] conf=83%
+kuqchedu #b378UdYp8 → [(c c) (d d) hó sI] conf=83%
   ▯ tells lie ▯
 laısuchaq #EoJQTC0rr → [(c) (d) hóq sI] conf=83% oov=17%
   ▯ is any holiday associated with Christ.
@@ -16150,9 +16114,9 @@ shuajeoq #yOBdPcqd0 → [(c) (d) máq sI] conf=83% oov=22%
   ▯ is a sinkhole.
 shuedama #QHYuBkuBs → [(c 1i) (d d) tá sF] conf=83% oov=18%
   ▯ is stable in property ▯.
-taoguo #5-jhduQ4Y → [(c c 1i) (d d d) hóq sP] conf=83% oov=6%
+taoguo #5-jhduQ4Y → [(c c 1i) (d d d) hóq sI] conf=83% oov=6%
   ▯ is an activity; ▯ is an instance of ▯ doing ▯.
-taosı #-u_vlB7ba → [(c 1i) (d d) hó sA] conf=83%
+taosı #-u_vlB7ba → [(c 1i) (d d) hó sI] conf=83%
   ▯ is interested in satisfying property ▯.
 taqkıaı #c13wUFnOR → [(c) (d) hó sI] conf=83% oov=20%
   ▯ (agent) is being selfish.
@@ -16516,13 +16480,13 @@ lohagupu #Negxlpa04 → [(c) (d) hó sA] conf=82% oov=29%
   ▯ rusts
 loqhaq #LTEvoTn6Y → [(c) (d) máq sI] conf=82% oov=7%
   ▯ is cooked; ▯ is food prepared by heating.
-luama #VRgfM9u3j → [(c) (d) hó sA] conf=82% oov=17%
+luama #VRgfM9u3j → [(c) (d) hó sI] conf=82% oov=17%
   ▯ plays
 luaokıaq #P_7ONm2Ui → [(c) (d) máq sI] conf=82% oov=22%
   ▯ is a mustache.
 lufuaq #OXvt1Vx2O → [(c c) (d d) máq sI] conf=82% oov=8%
   ▯ is a picture representing the proposition ▯.
-luoqroe #ow6yPOJhL → [(c) (d) tá sI] conf=82% oov=20%
+luoqroe #ow6yPOJhL → [(c) (d) tá sS] conf=82% oov=20%
   ▯ (process) is in homeostasis.
 maruıq #42S6yixvU → [(c 0) (d d) hóq sP] conf=82% oov=17%
   ▯ wonders if ▯ is the case.
@@ -17094,7 +17058,7 @@ rıkısha #-J5IC1S4F → [(c) (d) máq sI] conf=81% oov=22%
   ▯ is a rickshaw.
 ruodaonoa #-j9Igo93a → [(c) (d) hó sA] conf=81% oov=20%
   ▯ acts unpredictably / unreliably / chaotically.
-ruolua #HaNIGvcIf → [(c) (d) hóq sI] conf=81% oov=20%
+ruolua #HaNIGvcIf → [(c) (d) hóq sF] conf=81% oov=20%
   ▯ is a theatrical play.
 ruracıu #mZmuHUraz → [(c) (d) hó sA] conf=81% oov=12%
   ▯ belches/burps.
@@ -17136,7 +17100,7 @@ suoq #GI1xELz5Q → [(c c) (d d) hó sI] conf=81%
   ▯ is a child of ▯. (not necessarily biological)
 sushı #gtoF1_3CU → [(c) (d) máq sI] conf=81%
   ▯ is sushi.
-shaqchıaı #VjmRVaDVb → [(c) (d) hóq sP] conf=81% oov=8%
+shaqchıaı #VjmRVaDVb → [(c) (d) hóq sF] conf=81% oov=8%
   ▯ is backwards (facing the wrong way).
 sheadoaq #21wKq92Jk → [(c) (d) máq sI] conf=81% oov=10%
   ▯ is a ghost town.
@@ -17212,7 +17176,7 @@ buıce #-ihajB8t6 → [(c) (d) máq sI] conf=80% oov=11%
   ▯ is an exit
 bujaloa #b_61a3ArL → [(c) (d) máq sI] conf=80% oov=22%
   ▯ is a hickey.
-buqchulaq #HOOqc3MN8 → [(c) (d) hóq sI] conf=80% oov=10%
+buqchulaq #HOOqc3MN8 → [(c) (d) hóq sF] conf=80% oov=10%
   ▯ is a schwa vowel.
 buqhıao #XEdGaPs-I → [(c c) (d d) hó sA] conf=80% oov=12%
   ▯ bites ▯.
@@ -17288,7 +17252,7 @@ dıeqdeq #I8FdfrFDq → [(c c) (d d) hó sA] conf=80% oov=17%
   ▯ (machine, location) has connectivity to ▯.
 dıeqdıelaı #1H68rx6tO → [(c c) (d d) máq sI] conf=80% oov=19%
   ▯ is a link (an element of hypertext markup) to ▯.
-dıoduo #dEU6hxmek → [(c) (d) hóq sP] conf=80% oov=10%
+dıoduo #dEU6hxmek → [(c) (d) hóq sF] conf=80% oov=10%
   ▯ is all day long.
 dıq #j7NDj_cms → [(c) (d) máq sI] conf=80%
   ▯ is a corner.
@@ -17640,7 +17604,7 @@ reusıeme #zPxha-IA- → [(c c c) (d d d) hó sA] conf=80% oov=11%
   ▯ is a geometric sequence/progression with first term ▯ and common ratio ▯
 rıaıfıem #W7UbWYnKn → [(c) (d) máq sI] conf=80% oov=17%
   ▯ is an atlas (the top vertebra).
-rıalaq #65qRJHMUp → [(c) (d) hóq sI] conf=80% oov=11%
+rıalaq #65qRJHMUp → [(c) (d) hóq sF] conf=80% oov=11%
   ▯ is a vowel.
 rıocemeaq #e-Ff3Qb3W → [(c) (d) máq sI] conf=80% oov=10%
   ▯ is an aircraft carrier.
@@ -17778,7 +17742,7 @@ cheo cho #N0tjNwSBa → [(c) (n) tá sF] conf=80% oov=11%
   ▯ like each other.
 kuaı shaı gaıkıu #I1dG8_sRx → [(c) (d) hó sI] conf=80% oov=15%
   ▯ has a hunger/urge/longing to disappear.
-no bâq gugoa #cQEP6jBXY → [(c) (d) hóq sP] conf=80%
+no bâq gugoa #cQEP6jBXY → [(c) (d) hóq sI] conf=80%
   ▯ is two-dimensional.
 noqsaıla bâq nampuo #edr7dsmtX → [(c) (d) hó sA] conf=80% oov=20%
   ▯ does too little too late ("adds spices to breadcrumbs").
@@ -17924,7 +17888,7 @@ duaohaq #ZJsISb6kx → [(c) (d) máq sI] conf=79% oov=12%
   ▯ is dessert.
 dukuı #GgEEdtBYh → [(c c 1i) (d d d) hó sA] conf=79% oov=4%
   It seems that ▯ because it seems that ▯; ▯ seems to have property ▯ because it seems to have property ▯.
-duqdıaq #g8UAOdFra → [(c c) (d d) hó sA] conf=79% oov=11%
+duqdıaq #g8UAOdFra → [(c c) (d d) hó sI] conf=79% oov=11%
   ▯ satisfies property ▯ habitually and at regular intervals; ▯ has a set habit/routine of doing/being ▯ at a particular time.
 eacaq #B2OuThnzm → [(c 1i) (d d) hó sA] conf=79% oov=17%
   ▯ has potential to satisfy property ▯
@@ -18388,7 +18352,7 @@ tıaoteı #dpnm0t7gM → [(c) (d) hóq sF] conf=79% oov=15%
   ▯ is a mapping / matching / assignment / allotment / relation.
 tıarom #IPkldVvHL → [(c) (d) hóq sI] conf=79% oov=20%
   ▯ is a backend (software).
-tıashaq #xNgx4pMkg → [(c) (d) hó sA] conf=79% oov=33%
+tıashaq #xNgx4pMkg → [(c) (d) hó sI] conf=79% oov=33%
   ▯ plays coin flipping/heads or tails.
 tıchıaq #6Azmvmxlj → [(c c) (d d) hó sI] conf=79% oov=15%
   ▯ is aware of the presence of ▯.
@@ -18476,7 +18440,7 @@ caqdao #AeDwZzBYf → [(c) (d) hóq sI] conf=78% oov=10%
   ▯ is a program/algorithm.
 casaı #BldsxZCks → [(c c) (d d) máq sI] conf=78% oov=24%
   ▯ is energetic/nutritious (matter); ▯, when handled properly, can provide energy for ▯ to occur.
-cecoe #oiKsSxj4o → [(c c) (d d) tá sI] conf=78%
+cecoe #oiKsSxj4o → [(c c) (d d) tá sS] conf=78%
   Node ▯ is connected to node ▯.
 ceoqnhoq #Yf0kOebis → [(c) (d) máq sI] conf=78% oov=30%
   ▯ is an electrical cable.
@@ -18586,7 +18550,7 @@ gıqtısha #oPaLWHZZE → [(c c) (d d) tá sI] conf=78%
   ▯ departs from ▯.
 gıufa #jB5rtlIfj → [(c c) (d d) hó sA] conf=78% oov=10%
   ▯ goes along path ▯.
-gıuqpeaı #rlmgWLHKR → [(c c) (d d) hó sA] conf=78% oov=10%
+gıuqpeaı #rlmgWLHKR → [(c c) (d d) hó sI] conf=78% oov=10%
   ▯ rends / tears open ▯.
 goaıcıa #aggI00TxJ → [(c c) (d d) tá sS] conf=78% oov=9%
   ▯ is slippery against ▯; ▯ has no grip against ▯; ▯ slides/slips/glides on ▯.
@@ -18840,7 +18804,7 @@ noahuı #hlKrYO_VO → [(c) (d) tá sF] conf=78% oov=22%
   ▯ is needlessly hard.
 nuoqhue #aRWc_mxSl → [(c) (d) máq sI] conf=78% oov=22%
   ▯ is a shuttlecock.
-nuoqteoq #erLXgJuN9 → [(c) (d) hóq sP] conf=78% oov=10%
+nuoqteoq #erLXgJuN9 → [(c) (d) hóq sI] conf=78% oov=10%
   ▯ is an echo question.
 nuorea #VHgOz-B7r → [(c) (d) máq sI] conf=78% oov=17%
   ▯ is the “edge/threshold of sleep"; ▯ is the boundary which divides a state of consciousness from a state of sleep or unconsciousness
@@ -18906,7 +18870,7 @@ ruodue #PbUPC6llu → [(1x) (d) tá sF] conf=78% oov=17%
   Satisfying property ▯ is proper behavior / etiquette.
 ruojuq #whg8LXMF7 → [(c c) (d d) hó sA] conf=78% oov=11%
   ▯ assumes role ▯.
-ruolıeı #eM5qfggZs → [(c c) (d d) tá sS] conf=78% oov=14%
+ruolıeı #eM5qfggZs → [(c c) (d d) tá sF] conf=78% oov=14%
   ▯ conforms in behavior to rule/standard/law ▯
 rurılaı #ct6P0eTuU → [(c c) (d d) máq sI] conf=78% oov=17%
   ▯ is a tag/label on ▯.
@@ -19070,7 +19034,7 @@ beafıla #CaOiLQIdM → [(c) (d) hóq sI] conf=77% oov=10%
   ▯ experiences the sensation that occurs when one is on the verge of popping a knuckle
 beoqjuao #9syoO-1dT → [(c) (d) hóq sI] conf=77% oov=22%
   ▯ is an axiom.
-bolıq'aqdu #Q1zNeEMl8 → [(c) (d) hó sA] conf=77% oov=22%
+bolıq'aqdu #Q1zNeEMl8 → [(c) (d) hó sI] conf=77% oov=22%
   ▯ plays bowling.
 botı #R0job9JEI → [(c c) (d d) tá sS] conf=77% oov=8%
   ▯ is had by / belongs to ▯.
@@ -19084,7 +19048,7 @@ bulaı #10PhV7qID → [(c) (d) máq sI] conf=77% oov=8%
   ▯ is the Deranı glyph for B/U.
 bushejuoq #wpzQuf4kf → [(c 0) (d d) hóq sI] conf=77% oov=5%
   ▯ should take place if ▯ doesn’t, where the latter is considered the better alternative.
-caqpuı #j2QuSSIya → [(c) (d) hóq sP] conf=77% oov=19%
+caqpuı #j2QuSSIya → [(c) (d) hóq sI] conf=77% oov=19%
   ▯ is under the authority/control/influence of several independent entities; ▯ (system, organization) is decentralized
 caruoq #GUkGCid1b → [(c c) (d d) tá sS] conf=77% oov=22%
   ▯ directly causes ▯.
@@ -19432,7 +19396,7 @@ pahoehoe #UAh6wM8Xo → [(c) (d) máq sI] conf=77% oov=22%
   ▯ is pahoehoe lava.
 paıgaq #_2aTVQINt → [(c c) (d d) hó sI] conf=77% oov=20%
   ▯ is a companion/mate/comrade/associate/partner of ▯.
-paqboshaı #Fyh3nLkXD → [(c c) (d d) tá sI] conf=77%
+paqboshaı #Fyh3nLkXD → [(c c) (d d) tá sS] conf=77%
   ▯ loses part ▯.
 paqrıa #t_BgHLcPN → [(c) (d) tá sF] conf=77% oov=31%
   ▯ (doorway) is partly closed and partly ajar.
@@ -19464,7 +19428,7 @@ puzadaıbu #6tXsE4GK9 → [(c) (d) hóq sI] conf=77% oov=20%
   ▯ is a TAMN (tense, aspect, modality, or negation) verb.
 reınıe #qGkxq79g9 → [(c c) (d d) tá sS] conf=77% oov=10%
   ▯ is wrapped inside ▯.
-reqteıse #-CvarmyD2 → [(c c) (d d) hóq sE] conf=77% oov=18%
+reqteıse #-CvarmyD2 → [(c c) (d d) hóq sI] conf=77% oov=18%
   ▯ is an anthropomorphization of ▯.
 reutoaı #uNMPAnFXt → [(c) (d) hóq sI] conf=77% oov=20%
   ▯ is a prime number.
@@ -19532,7 +19496,7 @@ suoıhuı #tTEAWKKoE → [(c) (d) tá sF] conf=77% oov=30%
   ▯ is terrible/awful/vile.
 shanagaq #9HiBlQkqn → [(c c) (n n) tá sF] conf=77% oov=31%
   ▯ and ▯'s menstrual cycles are synced
-shaomuı #561Npit_d → [(c c) (d d) hóq sI] conf=77% oov=9%
+shaomuı #561Npit_d → [(c c) (d d) hóq sF] conf=77% oov=9%
   ▯ is the intended meaning of ▯
 shaotaq #dhEPLMnoV → [(c 1i) (d d) hó sA] conf=77% oov=9%
   ▯ wants to satisfy property ▯.
@@ -19618,7 +19582,7 @@ naokua bạtu #BNnE0FkB0 → [(c) (d) máq sI] conf=77% oov=18%
   ▯ is a gender-neutral restroom
 achoqhuı #6OqDhT2P0 → [(c c) (d d) tá sS] conf=76% oov=7%
   ▯ is inefficient / making poor use of resource ▯.
-Afarı'usona #AU8lu8b89 → [(c) (d) tá sF] conf=76% oov=10%
+Afarı'usona #AU8lu8b89 → [(c) (d) tá sS] conf=76% oov=10%
   ▯ is African-American.
 aımuo #yf4m9gjE6 → [(c c) (d d) tá sS] conf=76% oov=10%
   ▯ is a most genuine manifestation of property ▯; ▯ is as ▯-ish as it gets.
@@ -19946,7 +19910,7 @@ kırısochuaq #cZVaBl9Us → [(c) (d) hóq sI] conf=76% oov=25%
   ▯ is Christianity.
 kızıkaı #Xl65eg_Ys → [(c) (d) máq sI] conf=76% oov=31%
   ▯ is a felt-tip / marker pen / sharpie.
-kocuaq #wjdHuOOrt → [(c c c) (d d d) hóq sP] conf=76% oov=17%
+kocuaq #wjdHuOOrt → [(c c c) (d d d) hóq sF] conf=76% oov=17%
   ▯ is the ordering of sequence ▯ as a permutation of set ▯.
 koecachuaq #JdCK3-FIe → [(c) (d) hóq sI] conf=76% oov=25%
   ▯ is determinism
@@ -20506,7 +20470,7 @@ gaıcha #X0-RrWSVZ → [(c) (d) máq sI] conf=75% oov=11%
   ▯ is a sense.
 gaınose #Ufadquh-t → [(c) (d) hóq sI] conf=75% oov=10%
   ▯ is a sensory modality.
-gaızıe #3ssKAnhpl → [(c c) (d d) hóq sI] conf=75% oov=19%
+gaızıe #3ssKAnhpl → [(c c) (d d) hóq sE] conf=75% oov=19%
   Event ▯ references (for the jie perceiver) ▯; The sight of ▯ is associated with ▯.
 gajachuaq #edqJyMYiW → [(c) (d) hóq sI] conf=75% oov=20%
   ▯ is environmentalism/green politics
@@ -20956,7 +20920,7 @@ cheıne #kyujrZ5G3 → [(c) (d) hóq sI] conf=74% oov=23%
   ▯ is a pinch (amount held between fingertips).
 cheohıao #UIBE91KSj → [(c c 1i) (n n d) tá sF] conf=74% oov=13%
   ▯ and ▯ disadvantage each other by satisfying property ▯.
-chıaqsha #01D_QaPJW → [(c 0) (d d) hó sA] conf=74% oov=17%
+chıaqsha #01D_QaPJW → [(c 0) (d d) hó sI] conf=74% oov=17%
   ▯ realizes that ▯ is the case
 chıeqtıeq #1MPOG9tea → [(c) (d) máq sI] conf=74% oov=22%
   ▯ is a crossroad
@@ -21286,7 +21250,7 @@ mıcatoaı #FF16PZf-G → [(c) (d) máq sI] conf=74% oov=10%
   ▯ is a sperm cell.
 mıesho #DdgeK7TpZ → [(c) (d) hó sI] conf=74% oov=12%
   ▯ comes alive.
-mıonıoqcoe #oNDmEElRN → [(c c) (d d) tá sI] conf=74% oov=17%
+mıonıoqcoe #oNDmEElRN → [(c c) (d d) tá sS] conf=74% oov=17%
   ▯ is connected to ▯ via Bluetooth.
 mıqrıao #IJYkLniD6 → [(c) (d) hóq sI] conf=74% oov=30%
   ▯ is gloomy/dreary weather.
@@ -21318,7 +21282,7 @@ nıuhaq #BTX0CrTvC → [(c) (d) máq sI] conf=74% oov=25%
   ▯ is phosphorus.
 noaıkafe #4moTJWYD- → [(c) (d) máq sI] conf=74% oov=22%
   ▯ is caffe latte
-noqdoase #l14_VMHqC → [(c c) (d d) hóq sP] conf=74% oov=8%
+noqdoase #l14_VMHqC → [(c c) (d d) hóq sI] conf=74% oov=8%
   ▯ is the flavor/taste “variant” of ▯.
 noqkomu #F5R75O8ee → [(c) (d) tá sI] conf=74% oov=9%
   ▯ is gustatorily non-stimulating/bland
@@ -21358,7 +21322,7 @@ raohı #s-qCT4TAr → [(c c) (d d) hóq sE] conf=74% oov=8%
   When is ▯? When does ▯ happen?
 regu #PGNICYbza → [(c) (d) máq sI] conf=74% oov=9%
   ▯ is a region/area/zone.
-Rıammanha #DqGP9MpPE → [(c c) (d d) tá sF] conf=74% oov=16%
+Rıammanha #DqGP9MpPE → [(c c) (d d) tá sS] conf=74% oov=16%
   ▯ is Mon culture, ▯ is of the Mon people of Southeast Asia
 rıjuru #iThHjLzRr → [(c) (d) hó sI] conf=74% oov=23%
   ▯ is a marmot (member of genus Marmota)
@@ -21440,7 +21404,7 @@ shunha #1Vy4VTDlh → [(c) (d) hóq sI] conf=74% oov=10%
   ▯ is the number zero.
 shuomoaq #MGV0FsKmg → [(c c) (d d) hó sA] conf=74% oov=9%
   ▯ keeps ▯ in short-term memory.
-takumuı #nY4UkLSKy → [(c c) (d d) hóq sI] conf=74% oov=8%
+takumuı #nY4UkLSKy → [(c c) (d d) hóq sF] conf=74% oov=8%
   ▯ is the intended meaning of ▯
 taonoba #5IZTwZZAX → [(c c c) (d d d) hó sA] conf=74% oov=13%
   ▯ is a conflict of interest between ▯ and ▯.
@@ -21856,7 +21820,7 @@ mıaıchu #_TZZXwVO3 → [(c) (d) hóq sI] conf=73% oov=20%
   ▯ is a syllable nucleus
 mıaodoaı #BbDUbIdbA → [(c) (d) máq sI] conf=73% oov=33%
   ▯ is a mooncake.
-mıaqbo #hSvvLfb3AAl → [(c c) (d d) hó sA] conf=73% oov=11%
+mıaqbo #hSvvLfb3AAl → [(c c) (d d) hó sI] conf=73% oov=11%
   ▯ has value ▯
 mıqcuq #6jlPZUeKT → [(c c) (d d) hó sI] conf=73% oov=12%
   ▯ leaves/departs from ▯ with the intention of not returning.
@@ -22004,7 +21968,7 @@ soqtoı #iK2zRtqE- → [(c c 2ij) (d d d) tá sF] conf=73% oov=4%
   ▯ does to ▯ relation ▯ the most (out of all other things that they do this relation to).
 suaqkuqse #l0MgxuS4Y → [(c c) (d d) hóq sI] conf=73%
   ▯ are the lyrics to song ▯.
-suduq #_SqKGNrDI → [(c 1i) (d d) tá sF] conf=73% oov=12%
+suduq #_SqKGNrDI → [(c 1i) (d d) tá sS] conf=73% oov=12%
   ▯ is in the habit of / is accustomed to satisfying property ▯.
 shaqtı #pjjxXM_93 → [(c) (d) tá sS] conf=73% oov=11%
   ▯ is in front.
@@ -22262,7 +22226,7 @@ jeaqfıeqge #pzFt4D0S8 → [(c) (d) máq sI] conf=72% oov=18%
   ▯ is an (source of) inspiration.
 Jemufase #VQj7RgOVq → [(c) (d) hóq sI] conf=72% oov=10%
   ▯ is a pilgrimage
-jeobo #dX0X5VC5U → [(c c) (d d) hó sA] conf=72% oov=10%
+jeobo #dX0X5VC5U → [(c c) (d d) hó sI] conf=72% oov=10%
   ▯ has truth value ▯
 jıaıfoaq #b266BB95Y → [(c c) (d d) tá sF] conf=72% oov=21%
   ▯ is cuddly with / cuddled up against / snuggled in/with ▯ (object or person).
@@ -22328,9 +22292,9 @@ luaotuaq #BQ2E1Kv9l → [(c) (d) máq sI] conf=72% oov=22%
   ▯ is a beak.
 luqsıbı #HHffJryNW → [(c) (d) máq sI] conf=72%
   ▯ is a vein.
-mabo #xxdKTLilh → [(c c) (d d) hó sA] conf=72% oov=10%
+mabo #xxdKTLilh → [(c c) (d d) hó sI] conf=72% oov=10%
   ▯ has truth value ▯
-madı #odhbv5nvx → [(c c) (d d) hó sA] conf=72% oov=18%
+madı #odhbv5nvx → [(c c) (d d) hó sI] conf=72% oov=18%
   ▯ has insight relating to ▯
 maıfaı #v8fBd3jdi → [(c) (d) tá sI] conf=72% oov=20%
   ▯ is straight / (not **maıleı**).
@@ -22450,7 +22414,7 @@ seumfıa #fTHtDe8Dm → [(c) (d) hóq sI] conf=72% oov=11%
   ▯ is an afternoon.
 seumrıao #4AvG9fwR0 → [(c) (d) hóq sI] conf=72% oov=12%
   ▯ is dusk.
-sıabeo #0ai6MzWxl → [(c c 0) (d d d) hóq sP] conf=72% oov=4%
+sıabeo #0ai6MzWxl → [(c c 0) (d d d) hóq sF] conf=72% oov=4%
   ▯ satisfies ▯ as it is, in its current state, without changes.  (▯ is the case as things are, in their current state.)
 sıaobo #JisDEyaro → [(c c) (d d) hó sA] conf=72% oov=11%
   ▯ has beginning ▯
@@ -22487,7 +22451,7 @@ shıemana #mMKCElTZK → [(c) (d) tá sF] conf=72% oov=23%
   ▯ is one's capacity to stay awake.
 shıkuluq #pGH5HTIDT → [(c) (d) máq sI] conf=72% oov=18%
   ▯ is a chime / small bell.
-shıtuqsıe #QaxnULBHL → [(c c) (d d) hóq sP] conf=72% oov=6%
+shıtuqsıe #QaxnULBHL → [(c c) (d d) hóq sF] conf=72% oov=6%
   ▯ is last-but-one, penultimate, second-to-last element of sequence ▯.
 shoameaq #88MWuKyRH → [(c) (d) máq sI] conf=72% oov=33%
   ▯ is a bathyscaphe / deep-sea submersible/submarine.
@@ -22497,7 +22461,7 @@ shuıcha #De_T4rHKg → [(c c) (d d) hóq sI] conf=72% oov=22%
   ▯ is how ▯ is encrypted; ▯ is the cipher/encryption scheme protecting ▯; ▯ is a cipher.
 shumka #TpthF0pEP → [(c) (d) máq sI] conf=72% oov=45%
   ▯ is licorice / liquorice (Glycyrrhiza glabra).
-shuokopı #hplBtVncc → [(c c) (d d) tá sI] conf=72% oov=8%
+shuokopı #hplBtVncc → [(c c) (d d) tá sS] conf=72% oov=8%
   ▯ is a backup copy of ▯.
 taotıeq #aGGiRbUTi → [(c) (d) hóq sI] conf=72% oov=27%
   ▯ is a regimen/course/program/structured schedule of events.
@@ -22875,7 +22839,7 @@ saqgochıq #QG6np0fdU → [(c) (d) hó sI] conf=71% oov=10%
   ▯ is a calico cat.
 sıaocıa #uOK6r5w5h → [(c) (d) hóq sP] conf=71% oov=20%
   ▯ happens out of nowhere.
-sıaote #fVgBhkrKD → [(c) (d) tá sF] conf=71% oov=9%
+sıaote #fVgBhkrKD → [(c) (d) tá sS] conf=71% oov=9%
   ▯ has started / is in progress.
 sıaotu #V_3PQ5uel → [(c) (d) máq sI] conf=71% oov=25%
   ▯ is original
@@ -22915,7 +22879,7 @@ teoqruıq #S6sxgZ7R6 → [(c) (d) hó sA] conf=71% oov=29%
   ▯ wonders.
 tıao #YkkA5SF7j → [(c c) (d d) tá sS] conf=71% oov=11%
   ▯ is suitable for ▯
-tıaosa #fmIrUaUwc → [(c c) (d d) tá sF] conf=71% oov=15%
+tıaosa #fmIrUaUwc → [(c c) (d d) tá sS] conf=71% oov=15%
   ▯ matches/fits/suits/is applicable to ▯
 tıluoqcheo #A2p9Loke2 → [(c) (d) tá sF] conf=71% oov=17%
   ▯ are co-aligned; ▯ are even.
@@ -22941,7 +22905,7 @@ tuochıaı #NcFHeRIwU → [(c c) (d d) hó sA] conf=71% oov=22%
   ▯ chokes on ▯.
 turakı #xykIh-OVM → [(c) (d) máq sI] conf=71% oov=18%
   ▯ is a jackdaw (genus Coloeus).
-ꝡaraı #b95_nmgtb → [(c) (d) hóq sP] conf=71% oov=11%
+ꝡaraı #b95_nmgtb → [(c) (d) hóq sI] conf=71% oov=11%
   ▯ is a proposition.
 ꝡorogoı #-2WpFe-fy → [(c) (d) máq sI] conf=71% oov=22%
   ▯ is a borogove.
@@ -23013,7 +22977,7 @@ cheısheaq #EfyJRU9TV → [(c) (d) tá sF] conf=70% oov=17%
   ▯ stands on his/her/its toes.
 chıeluı #EOnF_OsWc → [(c 1i) (d d) hó sF] conf=70% oov=12%
   ▯ has learnt to satisfy property ▯; ▯ satisfies property ▯ as a result of having learnt to be/do so.
-chıokopı #CMawYQJ36 → [(c c) (d d) tá sI] conf=70% oov=8%
+chıokopı #CMawYQJ36 → [(c c) (d d) tá sS] conf=70% oov=8%
   ▯ is a version/iteration of entity ▯
 choqteı #hLSiIRLKt → [(c c) (d d) hóq sF] conf=70% oov=25%
   ▯ is the frontend/operational panel/user interface/user-facing controls and gauges of ▯.
@@ -23111,7 +23075,7 @@ jeakao #Ndsq-uqdg → [(c) (d) hóq sI] conf=70% oov=11%
   ▯ is a receipt
 jeqda'ıaq #dEmxyX2hL → [(c) (d) máq sI] conf=70% oov=40%
   ▯ is ungendered.
-jıajue #4-nHlsre_ → [(c) (d) hóq sP] conf=70% oov=11%
+jıajue #4-nHlsre_ → [(c) (d) hóq sI] conf=70% oov=11%
   ▯ is next month.
 jıaqsha #yhVSw26fK → [(c c) (d d) hó sA] conf=70% oov=12%
   ▯ kills ▯
@@ -23269,7 +23233,7 @@ pıucıu #qR-LxzGPK → [(c) (d) hó sA] conf=70% oov=29%
   ▯ sweats.
 pıukı'acı #6uHfntNdB → [(c) (d) máq sI] conf=70% oov=20%
   ▯ is tannic acid.
-podo #pupCY6c2E → [(c) (d) hóq sP] conf=70% oov=7%
+podo #pupCY6c2E → [(c) (d) hóq sF] conf=70% oov=7%
   ▯ is of the referent(s) of the variable X.
 poem #0HvE_ZBaq → [(c) (d) máq sI] conf=70%
   ▯ is grass.
@@ -23529,7 +23493,7 @@ hupataı #9GVIKQ8Ce → [(c c) (d d) hó sI] conf=69% oov=20%
   ▯ is in English.
 jaqjaq #HXuGRkojP → [(c c) (d d) hóq sP] conf=69% oov=6%
   ▯ is very, VERY much the case; ▯ is very, VERY ▯
-jaqtuao #7B0__QcHI → [(c 1i) (d d) hó sP] conf=69% oov=3%
+jaqtuao #7B0__QcHI → [(c 1i) (d d) hó sI] conf=69% oov=3%
   ▯ is the case to a rather/somewhat large extent (large but not very much so either); ▯ has property ▯ to a rather/somewhat large extent.
 jıukao #Ks6SqC0fa → [(c) (d) hóq sI] conf=69% oov=20%
   ▯ is a birth certificate.
@@ -23601,7 +23565,7 @@ neaıbaıse #oBHjGC1Pu → [(c) (d) hóq sP] conf=69% oov=8%
   ▯ is a proof-of-concept / prototype.
 nemesı #tJBWGOfdq → [(c c) (d d) hó sA] conf=69% oov=18%
   ▯ is a nemesis of ▯.
-neoqtoı #rgxsscMD7 → [(c c) (d d) hó sA] conf=69% oov=25%
+neoqtoı #rgxsscMD7 → [(c c) (d d) hó sI] conf=69% oov=25%
   ▯ is obsequious / a bootlicker towards ▯.
 noaqjıoqjuao #3J2YjQnsH → [(c) (d) hóq sI] conf=69% oov=20%
   ▯ is a screen reader
@@ -23651,7 +23615,7 @@ seoqchuaı #MrpYLtO7x → [(c) (d) máq sI] conf=69% oov=11%
   ▯ is a comet.
 seoqshua #IGGrB5O7t → [(c c) (d d) máq sI] conf=69% oov=17%
   ▯ falls from the sky onto ▯
-sıe #-cBjMWU2A → [(d d) sF] conf=69%
+sıe #-cBjMWU2A → [(d d) sS] conf=69%
   ▯ is sequentially after ▯.
 sıu #q7ieNzOEb → [(c) (d) tá sF] conf=69%
   ▯ are similar.
@@ -23719,7 +23683,7 @@ belu #y-dkTdkiU → [(c) (d) máq sI] conf=68% oov=22%
   ▯ is a neutron.
 bụkaqsoeı #Qk4anX_C6 → [(c) (d) hó sI] conf=68% oov=12%
   ▯ is sighted.
-cacha #sRJiCehQ6 → [(c c) (d d) hó sA] conf=68% oov=7%
+cacha #sRJiCehQ6 → [(c c) (d d) hó sI] conf=68% oov=7%
   In proposition ▯, ▯ assumes the semantic role FORCE
 caradoe #pQB98rObB → [(c c) (d d) hó sA] conf=68% oov=18%
   Weapon ▯ shoots/fires/launches ▯.
@@ -23727,7 +23691,7 @@ coegıu #3md0adDAQ → [(c) (d) máq sI] conf=68% oov=22%
   ▯ is a seam.
 cuana #xHzAz87UA → [(c c) (d d) hóq sE] conf=68% oov=17%
   ▯ happens in deliberate response to ▯.
-cuaocıa #tDg7juDpj → [(c) (d) hóq sP] conf=68% oov=4%
+cuaocıa #tDg7juDpj → [(c) (d) hóq sF] conf=68% oov=4%
   ▯ is something that ends where it starts; ▯ is a “circle”/loop; ▯ goes/(happens) round in circle(s).
 chıekue #YUAZQOXi2 → [(c) (d) máq sI] conf=68% oov=11%
   ▯ is a textbook
@@ -23841,7 +23805,7 @@ nuohıaq #_Om4R1fUt → [(c) (d) tá sS] conf=68% oov=25%
   ▯ is sleep-deprived / has sleep debt.
 pakurı #fnOJsnqAz → [(c) (d) máq sI] conf=68% oov=22%
   ▯ is parkour/freerunning.
-paqjuq #0BDDFzLJr → [(c c) (d d) tá sI] conf=68% oov=22%
+paqjuq #0BDDFzLJr → [(c c) (d d) tá sS] conf=68% oov=22%
   ▯ gains part ▯.
 poaqgıu #nZL6K7Wbm → [(c) (d) máq sI] conf=68% oov=30%
   ▯ is a fissure/crack.
@@ -23875,11 +23839,11 @@ tuqmu #7dXU_A2wP → [(c c) (d d) tá sF] conf=68% oov=6%
   Property ▯ uniquely identifies ▯; ▯ is ▯’s identity (one sense).
 zaqgıq #BAvHXxfoO → [(c) (d) hó sI] conf=68% oov=14%
   ▯ disappears.
-che chıe #KjWUoFnUu → [(c c) (d d) hó sA] conf=68% oov=8%
+che chıe #KjWUoFnUu → [(c c) (d d) hó sI] conf=68% oov=8%
   ▯ is a learner / student of ▯ (subject).
 tua hoaq #yvlndUYCr → [(c c) (d d) tá sS] conf=68% oov=12%
   ▯ burns ▯
-aıfao #PCA8dr7ec → [(c) (d) hóq sP] conf=67% oov=42%
+aıfao #PCA8dr7ec → [(c) (d) hóq sI] conf=67% oov=42%
   ▯ is closure/resolution/fulfillment/follow-through.
 aomeo #24OlKcAo8 → [(c 0) (d d) hó sA] conf=67%
   ▯ would be sad if ▯ were the case.
@@ -23939,7 +23903,7 @@ jakuı #ILCcmcZBp → [(c 1i) (d d) tá sF] conf=67% oov=6%
   What satisfies the property ▯ depends on what satisfies the property ▯.
 jaqbulıq #xm46G1qd- → [(c) (d) hó sI] conf=67% oov=22%
   ▯ is demi-female
-jaqjaokaqhao #R3eCinZuk → [(c) (d) hó sA] conf=67% oov=25%
+jaqjaokaqhao #R3eCinZuk → [(c) (d) hó sI] conf=67% oov=25%
   ▯ gives/exhibits the "thousand-yard stare".
 jedı #DO3AaGlTa → [(c c) (d d) hó sI] conf=67% oov=27%
   ▯ is a commercial / advertisement / ad for product / service ▯.
@@ -24231,7 +24195,7 @@ shuadutom #4VPPtg8IH → [(c) (d) máq sI] conf=66% oov=22%
   ▯ is a graviton.
 taotom #J4PICYxhQ → [(c) (d) máq sI] conf=66% oov=22%
   ▯is a tauon.
-tıtaı #nLuqz_fxY → [(c c) (d d) hó sA] conf=66% oov=8%
+tıtaı #nLuqz_fxY → [(c c) (d d) hó sI] conf=66% oov=8%
   ▯ (in its current position) reaches ▯.
 tuomtoame #YSSYawhOG → [(c) (d) máq sI] conf=66% oov=18%
   ▯ is a tense phrase (TP).
@@ -24445,7 +24409,7 @@ ceoqmueı #SS8QTGuYy → [(c) (d) máq sI] conf=64% oov=22%
   ▯ is an electromagnet.
 cıeluko #jQNUe93Mb → [(c) (d) máq sI] conf=64% oov=22%
   ▯ is a kingfisher.
-cıqcı #l1DbeS96C → [(c) (d) hóq sP] conf=64% oov=17%
+cıqcı #l1DbeS96C → [(c) (d) hóq sE] conf=64% oov=17%
   ▯ snaps; ▯ is rendered non-functional/unusable (yet not necessarily severed) due to sudden blunt force trauma
 cuaqko #DnNMGb7Xs → [(c c c) (d d d) hó sA] conf=64% oov=13%
   ▯ fills in the ▯-th argument in proposition ▯.
@@ -24685,7 +24649,7 @@ chıosıq #daT0zv8qZ → [(c) (d) tá sS] conf=63% oov=13%
   ▯ is free of cumbersome repetition / is "DRY" (programming jargon).
 choıcoe #VRoawP5b3 → [(c c) (d d) tá sS] conf=63% oov=27%
   ▯ is pinned to support ▯.
-cholırıaı #XuAhQ7ayH → [(c c) (d d) tá sA] conf=63% oov=12%
+cholırıaı #XuAhQ7ayH → [(c c) (d d) tá sS] conf=63% oov=12%
   ▯ cushions ▯ (i.e. the former physically supports the latter).
 choqchua #pPuUgpP56 → [(c) (d) hóq sI] conf=63% oov=22%
   ▯ is a username
@@ -25215,11 +25179,11 @@ chagı #q8LeGl5Se → [(c) (d) hóq sP] conf=60% oov=33%
   ▯ happens properly / thoroughly.
 chamıe #DPgF3XMdx → [(c) (d) máq sI] conf=60%
   ▯ is a way of living
-choaıcıa #5wnIgXLup → [(c) (d) tá sI] conf=60% oov=9%
+choaıcıa #5wnIgXLup → [(c) (d) tá sF] conf=60% oov=9%
   ▯ is free (it costs nothing)
 choasıa #wIKV8mL8w → [(c) (d) hó sA] conf=60% oov=8%
   ‘say.nothing.’; ▯ says nothing / is silent.
-choqshea #XRGqi8QYI → [(c) (d) hó sA] conf=60% oov=25%
+choqshea #XRGqi8QYI → [(c) (d) hó sI] conf=60% oov=25%
   ▯ goes unused.
 dalu #wcz9vWk55 → [(0) (d) hó sA] conf=60% oov=17%
   I assert that ▯ is the case
@@ -25347,7 +25311,7 @@ sagaonısı #rGYJZQ6oD → [(c) (d) máq sI] conf=60% oov=10%
   ▯ is a bevel gear.
 Samıregu #WJGjfsGEs → [(c) (d) máq sI] conf=60% oov=11%
   ▯ is Sapmi
-saoleo #RbFIaNXjV → [(c 1i) (d d) hó sA] conf=60% oov=15%
+saoleo #RbFIaNXjV → [(c 1i) (d d) hó sI] conf=60% oov=15%
   ▯ tries to satisfy property ▯, which is an amibitious/lofty goal or high bar.
 seaqtaq #brlX3TY5D → [(c) (d) hó sA] conf=60% oov=29%
   ▯ masturbates.
@@ -25433,7 +25397,7 @@ chıcefa #I-WZ_KX-a → [(c) (d) máq sI] conf=59% oov=9%
   ▯ is a recorder (musical instrument).
 chıokaodoakıudıbıdı #XSksA85jm → [(c) (d) máq sI] conf=59% oov=30%
   ▯ is a DVD-RW
-chuonuo #rMyWgA7Qd → [(c) (d) hóq sP] conf=59% oov=13%
+chuonuo #rMyWgA7Qd → [(c) (d) hóq sF] conf=59% oov=13%
   ▯ is not performing its function; ▯ is turned off.
 daqmıqbu #cYLLRNIJb → [(c) (d) hóq sE] conf=59% oov=8%
   ▯ is temporary / doesn't last forever.
@@ -25757,7 +25721,7 @@ cuaqmuıbo #6x9fFGICF → [(c) (d) máq sI] conf=58%
   ▯ is a verb.
 cuaqshuekueqse #LJ-vz49Qn → [(c) (d) hóq sI] conf=58% oov=20%
   ▯ is a compositional derivation (such as a serial predicate).
-cuesoq #02C6CrMiY → [(c c) (d d) tá sF] conf=58% oov=29%
+cuesoq #02C6CrMiY → [(c c) (d d) tá sS] conf=58% oov=29%
   ▯ is supreme, of the highest authority among ▯.
 chaqtıa #IUOhHdK8t → [(c) (d) máq sI] conf=58% oov=11%
   ▯ is an afternoon
@@ -25985,7 +25949,7 @@ kaqrıeq #trjH5yNEr → [(c c) (d d) hó sA] conf=58% oov=7%
   ▯ looks away from / breaks eye contact with ▯.
 katıa #P0Pqf252d → [(c) (d) máq sI] conf=58% oov=11%
   ▯ is a soul
-kenosa #FE1XW16po → [(c) (d) tá sI] conf=58% oov=15%
+kenosa #FE1XW16po → [(c) (d) tá sS] conf=58% oov=15%
   ▯ is horned, has one or several horns.
 kıatıeq #agYF0eZGh → [(c) (d) máq sI] conf=58% oov=10%
   ▯ is a major scale.
@@ -26119,7 +26083,7 @@ nhamese #A7Tx853Qs → [(c) (d) hóq sI] conf=58% oov=22%
   ▯ is a smile.
 nhaqdu #3u53NLXfn → [(c) (d) máq sI] conf=58% oov=25%
   ▯ is a rhea/South American ostrich
-nhubı #zKsxMJa2I → [(c c) (d d) hóq sP] conf=58% oov=17%
+nhubı #zKsxMJa2I → [(c c) (d d) hóq sI] conf=58% oov=17%
   ▯ is the derivative of function ▯.
 pala #mSIfxe-4K4j → [(c) (d) máq sI] conf=58% oov=20%
   ▯ is the (hard) palate.
@@ -26215,7 +26179,7 @@ shıteılaı #K1tMVTLXE → [(c) (d) máq sI] conf=58% oov=10%
   ▯ is a letter with only one form (it can't be capital or lowercase and it doesn't change shape depending on context)
 shıucuose #8LtZxQehk → [(c) (d) hóq sI] conf=58% oov=22%
   ▯ is a presupposition.
-shıuheq #XF5mzlM5V → [(c c) (d d) tá sI] conf=58% oov=17%
+shıuheq #XF5mzlM5V → [(c c) (d d) tá sS] conf=58% oov=17%
   ▯ comes with ▯ built-in/prepackaged
 shıuse #aBsnHQx3b → [(c) (d) hóq sI] conf=58% oov=22%
   ▯ is a relic.
@@ -26283,7 +26247,7 @@ zuejuao #s9ltdHzkY → [(c) (d) hóq sI] conf=58% oov=20%
   ▯ is an arrangement / agreement.
 zuoluoq #Hfw-Qi0J8 → [(c c) (d d) tá sF] conf=58% oov=31%
   ▯ is complementary to ▯ (and vice versa)
-mí Ira #y-PdoUzg1 → [(c) (d) hóq sP] conf=58% oov=25%
+mí Ira #y-PdoUzg1 → [(c) (d) hóq sF] conf=58% oov=25%
   ▯ is Ira, the residence of gods in Toaq mythology.
 mı Pokeceheq #s3fstMMVV → [(c) (d) máq sI] conf=58% oov=22%
   ▯ is the Pokédex.
@@ -26309,7 +26273,7 @@ bebo #ZGyZmXhH_ → [(c c) (d d) hó sI] conf=57% oov=33%
   ▯ is pregnant / in gestation; ▯ gestates unborn child ▯.
 beodama #jT0SJaHtK → [(c 1i) (d d) tá sF] conf=57% oov=20%
   ▯ is unstable / prone to unprompted change in property ▯.
-bıamea #99nJ9I4Qc → [(c c) (d d) hóq sP] conf=57% oov=19%
+bıamea #99nJ9I4Qc → [(c c) (d d) hóq sI] conf=57% oov=19%
   (Property) ▯ is a symptom of illness (group of symptoms–properties) ▯.
 bıaobıe #JG4ob-Lpx → [(c) (d) hó sI] conf=57% oov=22%
   ▯ has a hangover.
@@ -26513,7 +26477,7 @@ juaofuaı #xGyrQPZGc → [(c) (d) máq sI] conf=57% oov=18%
   ▯ is a congress/legislative body
 juo #VVCyoP3OA → [(c) (d) máq sI] conf=57%
   ▯ is a written message.
-kagakoı #2eiqSEP83 → [(c 1i) (d d) hó sA] conf=57% oov=6%
+kagakoı #2eiqSEP83 → [(c 1i) (d d) hó sI] conf=57% oov=6%
   ▯ is one of those that satisfy property ▯ the least.
 kagaq #4IKx-KxmB → [(c) (d) máq sI] conf=57% oov=27%
   ▯ is a Khan/Khagan/Han
@@ -26591,7 +26555,7 @@ malahı #GPBqIP9ZX → [(c) (d) máq sI] conf=57% oov=22%
   ▯ is an angel.
 matata #lhRXX5iaS → [(c) (d) máq sI] conf=57% oov=25%
   ▯ is celery; ▯ is apium graviolens.
-meneuchu #yu0pY8Ufm → [(c c) (d d) hóq sE] conf=57% oov=25%
+meneuchu #yu0pY8Ufm → [(c c) (d d) hóq sI] conf=57% oov=25%
   ▯ is the arithmetic mean of ▯ (sequence/multiset of numbers).
 menısıu #2kHQFtdfq → [(c) (d) máq sI] conf=57% oov=22%
   ▯ is a pangolin.
@@ -26689,7 +26653,7 @@ raqdao #OKlJCpL39 → [(c c) (d d) hóq sI] conf=57% oov=10%
   ▯ is information about ▯.
 rato #2XHVHLjIT → [(c) (d) máq sI] conf=57% oov=22%
   ▯ is a rat.
-remtımıa #qr6JeYU6J → [(c c) (d d) tá sI] conf=57% oov=33%
+remtımıa #qr6JeYU6J → [(c c) (d d) tá sS] conf=57% oov=33%
   ▯'s surface is riddled/stippled/dotted/lined with ▯
 reqdaku #0-K3H5OCP → [(c) (d) tá sS] conf=57% oov=31%
   ▯ is rendaku or any similar voicedness sandhi.
@@ -26703,7 +26667,7 @@ rıojuju #1eYKTWIBV → [(c) (d) hó sA] conf=57% oov=5%
   ▯ air-jumps (jumps while already mid-air as though off of solid ground)
 rıoqjeqchuq #G2ogHZLVR → [(c) (d) máq sI] conf=57% oov=22%
   ▯ is a cannibal.
-roamıu #kS4WGittI → [(c 1i) (d d) hó sA] conf=57% oov=17%
+roamıu #kS4WGittI → [(c 1i) (d d) hó sI] conf=57% oov=17%
   ▯ has the instinct to fulfill property ▯
 roem #mKXdRVQNx → [(c c) (d d) tá sS] conf=57% oov=18%
   ▯ is partial/incomplete in aspect ▯.
@@ -26753,7 +26717,7 @@ shomde #erlp60Zzj → [(d) sF] conf=57% oov=10%
   ▯ has a beautiful face.
 shuq #-9PFeo8zj → [(c 1i) (d d) hóq sP] conf=57% oov=6%
   ▯ is merely the case; ▯ simply/merely/just satisfies property ▯.
-taıcha #y-kwmQw03 → [(c c) (d d) hóq sE] conf=57% oov=21%
+taıcha #y-kwmQw03 → [(c c) (d d) hóq sI] conf=57% oov=21%
   ▯ is successful; ▯ occurs successfully; ▯ is a success on ▯’s part.
 taro #igN_FnHLA → [(c) (d) máq sI] conf=57% oov=25%
   ▯ is cartomancy.
@@ -27071,7 +27035,7 @@ muaqhaqtu #42MgEOh-Q → [(c) (d) máq sI] conf=56%
   ▯ is a ghost.
 mulaı #Bv2oJzdTu → [(c) (d) hóq sI] conf=56% oov=25%
   ▯ is the Greek letter mu (μ).
-muoıbomna #D9pp2gR0_ → [(c) (d) hóq sE] conf=56% oov=18%
+muoıbomna #D9pp2gR0_ → [(c) (d) hóq sP] conf=56% oov=18%
   ▯ is torque / moment of force.
 muoıchu #UMH_YC0O9 → [(c) (d) máq sI] conf=56% oov=17%
   ▯ is a cylinder (of a lock).
@@ -27187,7 +27151,7 @@ saıroq #l6QjfqD1X → [(c) (d) máq sI] conf=56% oov=12%
   ▯ is iron
 sapu #QKvg_tJ-n → [(c) (d) máq sI] conf=56% oov=22%
   ▯ is a broom.
-saqgoano #bks0HZXJf → [(c) (d) hóq sP] conf=56% oov=11%
+saqgoano #bks0HZXJf → [(c) (d) hóq sI] conf=56% oov=11%
   ▯ is three-dimensional.
 saqpeoq #zyOajOdwT → [(c) (d) máq sI] conf=56% oov=25%
   ▯ is lithium.
@@ -27485,7 +27449,7 @@ lem #qwd3gAzMp → [(c c) (d d) tá sF] conf=55% oov=7%
   ▯ is the feature/characteristic/property/trait ▯ (property place).
 lıacu #1gk7OKzMw → [(c) (d) máq sI] conf=55% oov=40%
   ▯ strafes / sidesteps / moves sideways.
-lıeıruo #9jtthYLkE → [(c c) (d d) tá sS] conf=55% oov=14%
+lıeıruo #9jtthYLkE → [(c c) (d d) tá sP] conf=55% oov=14%
   ▯ conforms in behavior to rule/standard/law ▯
 lıocu #Y11_i1x5a → [(c) (d) máq sI] conf=55% oov=25%
   ▯ moves leftwards.
@@ -27825,7 +27789,7 @@ huısoq #6OlPhpz16 → [(c c) (d d) tá sF] conf=54% oov=18%
   ▯ is iodine
 ıte #TVj6IEYze → [(c c) (d d) hó sI] conf=54% oov=24%
   ▯ has (an) inflammation; is inflamed at ▯; ▯ has ▯-itis.
-jaja #vRUv8Acho → [(c c) (d d) hó sI] conf=54% oov=29%
+jaja #vRUv8Acho → [(c c) (d d) hó sA] conf=54% oov=29%
   colloq. ▯ is very/extremely/totally ▯
 comes from Toaq "jảq jảq"
 jıaıpaq #6CEbmWEBL → [(c c) (d d) máq sI] conf=54% oov=18%
@@ -27852,7 +27816,7 @@ kaqrı #hYUA07L1- → [(c) (d) máq sI] conf=54% oov=12%
   ▯ is Welsh.
 kaqshıashı #I7iAcOh-k → [(c) (d) máq sI] conf=54% oov=22%
   ▯ is a monocle.
-kaqtıe #NiE9I8wo- → [(c c) (d d) hóq sP] conf=54% oov=6%
+kaqtıe #NiE9I8wo- → [(c c) (d d) hóq sI] conf=54% oov=6%
   ▯ is visually in the way of / obscures / blocks the view of ▯.
 kasıtıqtı #SZmomfJHi → [(c) (d) máq sI] conf=54% oov=27%
   ▯ is a nuthatch (genus Sitta).
@@ -28016,7 +27980,7 @@ sonajıeq #GSk9UbUif → [(c) (d) máq sI] conf=54% oov=22%
   ▯ is cone-shaped.
 suımmuo #qbomKg8Cn → [(c) (d) hó sI] conf=54% oov=17%
   ▯ (binary relation) is a total order.
-shahao #faKZh5RHn → [(c) (d) tá sF] conf=54% oov=18%
+shahao #faKZh5RHn → [(c) (d) tá sS] conf=54% oov=18%
   ▯ (chess king) is in checkmate
 shoafu #-MN7ZRptn → [(c) (d) hó sI] conf=54% oov=19%
   ▯ is a "tiefling", someone whose mortal form is affected by personal or ancestral contact with fiendish or demonic beings or forces
@@ -28064,7 +28028,7 @@ tıao jeo #bb3UzYIkw → [(c 1i) (d d) tá sF] conf=54% oov=17%
   ▯ is suitable for satisfying property ▯.
 tua sıq #I59mk6TCh → [(c c) (d d) hó sA] conf=54% oov=12%
   ▯ cleans ▯.
-aqrao #HYIJyrTJ8 → [(c) (d) hó sA] conf=53% oov=10%
+aqrao #HYIJyrTJ8 → [(c) (d) hó sI] conf=53% oov=10%
   ▯(plural) happen in parallel
 arane #sgI0dOqid → [(c) (d) hó sI] conf=53%
   ▯ is a spider.
@@ -28156,7 +28120,7 @@ gecha #xVvKX0dlK → [(c c) (d d) hóq sE] conf=53% oov=8%
   in proposition ▯, ▯ is a stimulus.
 gemıa #nK0JbW8Xv → [(c) (d) máq sI] conf=53%
   ▯ is bright/vibrant.
-gemoaq #FPX6wwnY5 → [(c c) (d d) hó sA] conf=53% oov=14%
+gemoaq #FPX6wwnY5 → [(c c) (d d) hó sI] conf=53% oov=14%
   ▯ is reminded of something personally significant due to a particular sensory trigger ▯ associated with the memory
 gıeımara #greDNL9Vd → [(c) (d) máq sI] conf=53% oov=20%
   ▯ is a catkin / ament.
@@ -28262,7 +28226,7 @@ juaocha #TSERYOzBe → [(c c) (d d) hóq sE] conf=53% oov=20%
   ▯ happens lawfully/predictably, conforming to law/rule/pattern ▯.
 juaokakuaq #Y38BW7V3K → [(c c) (d d) hó sA] conf=53% oov=21%
   ▯ judges / sits in judgement / issues verdict ▯ (proposition).
-jueqpaq #ZPGzCxNZj → [(c c) (d d) tá sI] conf=53% oov=10%
+jueqpaq #ZPGzCxNZj → [(c c) (d d) tá sS] conf=53% oov=10%
   ▯ is mixed into ▯.
 juıduo #sQkV8U4WN → [(c c) (d d) hó sA] conf=53% oov=11%
   ▯ passes by ▯.
@@ -28544,7 +28508,7 @@ dosısodı #jMBdegz0S → [(c) (d) máq sI] conf=52% oov=42%
   ▯ is sodium hydroxide / NaOH / caustic soda.
 duachıo #XmVivAMig → [(c c) (d d) hóq sP] conf=52% oov=18%
   ▯ is a recap of ▯
-eıdoe #Vkr0mVfoG → [(c c) (d d) tá sI] conf=52% oov=5%
+eıdoe #Vkr0mVfoG → [(c c) (d d) tá sF] conf=52% oov=5%
   ▯ functions as a ▯; ▯ circumstantially satisfies some salient property or properties the way ▯ would
 eıno #MGHupjiY9 → [(c c) (d d) hó sA] conf=52% oov=12%
   ▯ is socially/societally appropriate for (spatial, temporal, textual, etc.) context ▯.
@@ -28562,7 +28526,7 @@ fıugu #F6g0MG67T → [(c) (d) tá sS] conf=52% oov=11%
   ▯ is feel-good.
 foıfaı #g31g4Msmc → [(c) (d) máq sI] conf=52% oov=8%
   ▯ is so common that it's boring.
-foıfaı #I_yKBtGFp → [(c) (d) tá sI] conf=52% oov=45%
+foıfaı #I_yKBtGFp → [(c) (d) tá sF] conf=52% oov=45%
   ▯ is cliché/hackneyed/overdone/overrated.
 gaıca #6BVO1-sw- → [(c c c) (d d d) hó sA] conf=52% oov=17%
   ▯ induces in ▯ sensation ▯ (property)
@@ -28662,7 +28626,7 @@ moasuaı #pIjbgnQuB → [(c 1i) (d d) tá sF] conf=52% oov=23%
   ▯ occurs suddenly; ▯ suddenly satisfies property ▯
 moeq #fL1bLKodd → [(c) (d) máq sI] conf=52% oov=14%
   ▯ is molten.
-moıfaı #ulopXoSPH → [(c) (d) tá sI] conf=52% oov=25%
+moıfaı #ulopXoSPH → [(c) (d) tá sF] conf=52% oov=25%
   ▯ is neurotypical.
 naoneo #CYcopJK77 → [(c) (d) hó sA] conf=52% oov=14%
   ▯ floats.
@@ -29052,7 +29016,7 @@ Moqgala #xkOmOI2yC → [(c) (d) máq sI] conf=51% oov=8%
   ▯ is Mongol/Mongolian, related to Mongolia.
 muıqheaq #84FWCsIjm → [(c) (d) máq sI] conf=51% oov=12%
   ▯ is armed.
-mụkueq #KjgkcTBuH → [(c) (d) hó sA] conf=51% oov=22%
+mụkueq #KjgkcTBuH → [(c) (d) hó sI] conf=51% oov=22%
   ▯ disband/break up
 muoqcaı #aNk-JIDcU → [(c) (d) tá sF] conf=51% oov=12%
   ▯ is dense.
@@ -29248,7 +29212,7 @@ daqgoamoa #Q2A0jnKk0 → [(c) (d) hóq sI] conf=50% oov=18%
   ▯ is a point in spacetime.
 deoqtoı #I0fU0djoQ → [(c c 2ij) (d d d) tá sF] conf=50% oov=6%
   ▯ communicates to ▯ that the two are in relation ▯.
-dıonuısoq #H0hRggGSL → [(c) (d) hóq sI] conf=50% oov=20%
+dıonuısoq #H0hRggGSL → [(c) (d) hóq sF] conf=50% oov=20%
   ▯ is a winter solstice.
 dıqmıa #znYSkYUrC → [(c) (d) tá sI] conf=50% oov=11%
   ▯ is rough, bumpy.
@@ -29394,7 +29358,7 @@ nuaqgıaq #sq6m3YGex → [(c) (d) hóq sI] conf=50% oov=22%
   ▯ is a nocturne.
 nuıpeotıe #MGaI9jDTY → [(c) (d) máq sI] conf=50% oov=25%
   ▯ is porous.
-paqbımuo #tT-qeyp_6 → [(c c 1i) (d d d) hó sA] conf=50% oov=35%
+paqbımuo #tT-qeyp_6 → [(c c 1i) (d d d) hó sI] conf=50% oov=35%
   ▯ is pars-pro-toto metonymy/synecdoche for ▯; ▯ stands in for ▯ metonymically in terms of satisfying property ▯.
 parıqtı #_0JtZsC_p → [(c) (d) tá sS] conf=50% oov=23%
   ▯ is pharyngeal/articulated at/using the pharynx
@@ -29416,7 +29380,7 @@ rosınho #1fZyqouqj → [(c) (d) máq sI] conf=50% oov=27%
   ▯ is a nightingale (genus Luscinia).
 saheq #9y9giIaiE → [(c c) (d d) tá sS] conf=50% oov=12%
   ▯ twists ▯
-saja #khUPWnq7q → [(c) (d) hóq sP] conf=50% oov=8%
+saja #khUPWnq7q → [(c) (d) hóq sI] conf=50% oov=8%
   ▯ is a predicate or a proposition.
 satua #vxNsyWlew → [(c 1i) (d d) tá sF] conf=50% oov=8%
   ▯ brings about something which satisfies property ▯.
@@ -29560,7 +29524,7 @@ fıamaq #Qw1_oepxC → [(c) (d) tá sS] conf=49% oov=24%
   ▯ is it (obviative); ▯ is the second-to-lastly mentioned inanimate referent.
 fu'u #oFa4BQSxG → [(c) (d) hóq sF] conf=49% oov=16%
   ▯ is one step below in the family tree; ▯ is in one's direct descendant's generation; ▯ is a son/daughter/niece/nephew
-gaıbıoı #_msHb3IXm → [(c) (d) hó sA] conf=49% oov=21%
+gaıbıoı #_msHb3IXm → [(c) (d) hó sI] conf=49% oov=21%
   ▯ gets spotted / fails to stay hidden or contained.
 gaımuomuo #tecV6Oqcm → [(c) (d) tá sI] conf=49% oov=25%
   ▯ is enlightened
@@ -29636,7 +29600,7 @@ julutoame #TfmNSuPu6 → [(c) (d) hóq sI] conf=49%
   ▯ is a non-restrictive relative clause
 junasha #T8BOP6ptg → [(0) (d) hóq sP] conf=49% oov=16%
   It turns out / comes to a point where ▯; Things develop/culminate/approach a resolution where ▯ is the case; ▯ comes to be the case.
-kaıdogulaq #LmsRTss25 → [(c) (d) hóq sI] conf=49% oov=10%
+kaıdogulaq #LmsRTss25 → [(c) (d) hóq sF] conf=49% oov=10%
   ▯ is a posting gland.
 kaomojı #ZcDs2mS4P → [(c) (d) máq sI] conf=49% oov=22%
   ▯ is a kaomoji
@@ -29826,7 +29790,7 @@ toapaqjoq #L0AyXpTDR → [(c) (d) máq sI] conf=49% oov=10%
   ▯ is a word root.
 toasıe #guSZUQ8t4 → [(c) (d) hóq sI] conf=49% oov=22%
   ▯ is a suffix.
-toıtu #LIixHZNDe → [(c c) (d d) tá sS] conf=49% oov=7%
+toıtu #LIixHZNDe → [(c c) (d d) tá sF] conf=49% oov=7%
   ▯ is public: it may be ▯-ed by anyone.
 torı #1xSicea1F → [(c 0) (d d) hó sA] conf=49% oov=7%
   which of ▯ and ▯ is/are the case?
@@ -30222,7 +30186,7 @@ shıurao #wGXsU0f6F → [(c c) (d d) tá sE] conf=48% oov=17%
   ▯ overlaps with and comes before ▯.
 shoejı #iM5RvgOyo → [(c) (d) tá sF] conf=48% oov=7%
   May I satisfy property ▯; Let me just ▯.
-shoemla #4OaBklZgp → [(c 1i) (d d) hó sA] conf=48% oov=6%
+shoemla #4OaBklZgp → [(c 1i) (d d) hó sI] conf=48% oov=6%
   ▯ is immersed in/consumed with/engrossed in satisfying property ▯
 shoetuoı #XcbEgu3b6 → [(c c) (d d) hó sI] conf=48% oov=14%
   ▯ is responsible/to be blamed/found guilty for ▯ having taken place (does not imply they’ve been the one to do it).
@@ -30822,7 +30786,7 @@ sabuzıa #kf9J9b--p → [(c) (d) máq sI] conf=47% oov=25%
   ▯ is noisy.
 salı #6FkEvnHxW → [(c 1i) (d d) tá sF] conf=47% oov=5%
   some thing(s) has/have property ▯ (among the things having the property ▯)
-saojaq #Li6bJyYv6 → [(c) (d) tá sF] conf=47% oov=12%
+saojaq #Li6bJyYv6 → [(c) (d) tá sS] conf=47% oov=12%
   ▯ is huge.
 saqja #aEK6ol4_d → [(c) (d) máq sI] conf=47% oov=18%
   ▯ is a ternary relation/predicate.
@@ -30868,7 +30832,7 @@ soqpea #jhPt_mbIC → [(c c) (d d) tá sS] conf=47% oov=9%
   ▯ happened at most ▯ ago.
 suejeo #cfib-gzpt → [(c c c) (d d d) tá sF] conf=47% oov=14%
   ▯ satisfies property ▯ as ▯ asked; ▯ complies to do/be ▯ per ▯’s request.
-suı'aqsaqpaı #x-FVZCoSK → [(c) (d) hóq sP] conf=47% oov=12%
+suı'aqsaqpaı #x-FVZCoSK → [(c) (d) hóq sI] conf=47% oov=12%
   ▯ is the art motif of ‘The Three Friends of Winter’
 suıgoe #1D1YxEOwv → [(c c) (d d) hóq sE] conf=47% oov=7%
   ▯ will happen in at least ▯’s time.
@@ -31017,7 +30981,7 @@ bashoq #3M2rZJ7Rp → [(c c) (d d) hó sI] conf=46% oov=18%
   ▯ is a version of ▯.
 befe #vT45j36vr → [(c) (d) máq sI] conf=46% oov=14%
   ▯ dissolves.
-beolı #dceAllT87 → [(1x) (d) hóq sP] conf=46% oov=9%
+beolı #dceAllT87 → [(1x) (d) hóq sI] conf=46% oov=9%
   What has the property ▯ changes.
 beoreaıhe #8NRxomYoG → [(c) (d) hó sI] conf=46% oov=12%
   ▯ is stubborn
@@ -31073,7 +31037,7 @@ cuaqbeokueq #ATubWcCXo → [(c c) (d d) tá sF] conf=46% oov=18%
   ▯ (predicates, words, ideas) are warped/seasoned/shifted semantically/augmented with nuance to form new compound ▯.
 cuaqcıa #So4v_hzPr → [(c) (d) hó sI] conf=46% oov=11%
   ▯ is a particle.
-cuoshe #vv_jdlvNb → [(c c) (d d) hó sA] conf=46% oov=18%
+cuoshe #vv_jdlvNb → [(c c) (d d) hó sI] conf=46% oov=18%
   ▯ is true under assumption ▯.
 cheıcuojuoı #amcDjev_U → [(c c) (d d) hó sA] conf=46% oov=8%
   ▯ describes how ▯ should be made
@@ -31383,7 +31347,7 @@ lurıaı #jv1RJ5UJE → [(c c) (d d) hó sA] conf=46% oov=18%
   ▯ justifies/warrants ▯; ▯ is a good, acceptable reason for ▯.
 luru #zcQ7BqlyV → [(c c 0) (d d d) hóq sP] conf=46% oov=6%
   ▯ is the proposition that ▯ and ▯ are both the case.
-maheno #WU6LZgjzM → [(c c) (d d) tá sI] conf=46% oov=12%
+maheno #WU6LZgjzM → [(c c) (d d) tá sS] conf=46% oov=12%
   ▯ unknots ▯
 maıtefam #_YsIBbyV6 → [(c) (d) hó sI] conf=46% oov=25%
   ▯ is a love triangle / love polygon.
@@ -31429,7 +31393,7 @@ muoımoe #Zupv8dpAk → [(c) (d) máq sI] conf=46% oov=25%
   ▯ is dizzy
 muosoı #QbqxBLX01yQ → [(c c) (d d) hó sA] conf=46% oov=9%
   ▯ is at war with ▯
-naoguqtuo #Uf9UPqkp7 → [(c c) (d d) hó sA] conf=46% oov=25%
+naoguqtuo #Uf9UPqkp7 → [(c c) (d d) hó sI] conf=46% oov=25%
   ▯ sinks; ▯ is sinking in ▯.
 neamıq #KaUdHV5Y- → [(c) (d) máq sI] conf=46% oov=12%
   ▯ is infinitely vast.
@@ -31457,7 +31421,7 @@ nuırea #vwhHA8A1V → [(c) (d) hó sI] conf=46% oov=17%
   ▯ is a dwarf (unusually small human).
 nulıloeq #HwuywBsYm → [(c) (d) máq sI] conf=46%
   ▯ is fried.
-nuoımoaı #6zPNZtXxr → [(c) (d) tá sI] conf=46% oov=25%
+nuoımoaı #6zPNZtXxr → [(c) (d) tá sS] conf=46% oov=25%
   ▯ is chewy.
 nhejeq #6n1PQbvil → [(c 0) (n n) tá sF] conf=46% oov=6%
   ▯ and ▯ are the case to the same degree/extent.
@@ -31473,7 +31437,7 @@ pasekuq #5P3hmbbas → [(c) (d) hóq sI] conf=46% oov=11%
   ▯ is a parsec.
 peokaqraq #OcP75tbWs → [(c) (d) máq sI] conf=46% oov=19%
   ▯ is a moth or caterpillar of the species Cydalima perspectalis.
-pesoreq #omb1Rwb2D → [(c) (d) tá sI] conf=46% oov=22%
+pesoreq #omb1Rwb2D → [(c) (d) tá sS] conf=46% oov=22%
   ▯ is Homo Phallicus
 poaqfuı #bg5OnJqK1 → [(c) (d) máq sI] conf=46% oov=30%
   ▯ is fragile/brittle/flimsy.
@@ -31749,11 +31713,11 @@ boıto #WebQARh6A → [(c) (d) hóq sI] conf=45% oov=10%
   ▯ is a volt (unit).
 bomshea #3AU32t7k9 → [(c) (d) tá sF] conf=45% oov=27%
   ▯ is tacit/still/unmoving/unflinching.
-boqle #kaONupou- → [(c c) (d d) tá sE] conf=45% oov=15%
+boqle #kaONupou- → [(c c) (d d) tá sS] conf=45% oov=15%
   ▯ tends to prevent ▯ from taking place.
 boqte #jo5m2m_6Q → [(c) (d) tá sF] conf=45% oov=20%
   ▯ is prevented from happening.
-boqtıe #fuvVNtQ5Y → [(c c) (d d) tá sI] conf=45% oov=25%
+boqtıe #fuvVNtQ5Y → [(c c) (d d) tá sS] conf=45% oov=25%
   ▯ obstructs ▯.
 boru #t5VfLZJDn → [(c) (d) hó sA] conf=45% oov=20%
   ▯ goes on a rampage
@@ -31769,7 +31733,7 @@ buıhoq #Ug-r4lDEE → [(c) (d) máq sI] conf=45% oov=9%
   ▯ is the next outer proposition.
 caıge #27I3y4gfo → [(c) (d) tá sF] conf=45% oov=8%
   ▯ is a bright, intense, vivid, "strong" stimulus.
-cajoq #OP2F2k9jK → [(c c) (d d) tá sA] conf=45% oov=22%
+cajoq #OP2F2k9jK → [(c c) (d d) tá sS] conf=45% oov=22%
   ▯ directly causes ▯.
 caqtuq #J0zCtuD4a → [(c) (d) máq sI] conf=45% oov=28%
   ▯ is a Leviathan; ▯ is a centralized government or embodiment of the state deemed necessary to possess absolute control over its citizens, lest they "naturally" devolve into chaotic, animalistic behavior
@@ -31777,7 +31741,7 @@ ceqbudısuq #A9UOrEtW2 → [(c) (d) tá sF] conf=45% oov=22%
   ▯ is Zen Buddhism
 Coeruaı #f0zR8Obq- → [(c) (d) tá sF] conf=45% oov=14%
   ▯ is British / related to the United Kingdom.
-coetıe #theymCpmR → [(c c) (d d) tá sI] conf=45% oov=25%
+coetıe #theymCpmR → [(c c) (d d) tá sS] conf=45% oov=25%
   ▯ seals ▯.
 cuaıhuao #DPXFTZ64_ → [(c) (d) tá sI] conf=45% oov=25%
   ▯ is soggy.
@@ -32007,7 +31971,7 @@ magınabı #4aUXeTC0Z → [(c) (d) hó sI] conf=45% oov=18%
   ▯ is spiraculous. (spiritual and magical)
 medu #MjFr-o9v3 → [(c) (d) máq sI] conf=45% oov=12%
   ▯ is mead.
-meıfaı #F53JKzesB → [(c) (d) tá sI] conf=45% oov=22%
+meıfaı #F53JKzesB → [(c) (d) tá sF] conf=45% oov=22%
   ▯ (terrain) is mountainous
 memaı #jFZHuECEN → [(c) (d) tá sI] conf=45% oov=36%
   ▯ is well-liked/beloved/widely cherished.
@@ -32067,7 +32031,7 @@ nıutefa #XX6ug-IY4 → [(c) (d) máq sI] conf=45% oov=12%
   ▯ is overgrown.
 noalı #QgU01662t → [(c) (d) hó sI] conf=45% oov=15%
   ▯ is hard to bring about in general.
-noeqtuoı #g6tIYgMJD → [(c c) (d d) hóq sE] conf=45% oov=18%
+noeqtuoı #g6tIYgMJD → [(c c) (d d) hóq sF] conf=45% oov=18%
   ▯ is a loophole in ▯.
 nuıhuı #VIFNTpujJ → [(c) (d) hó sI] conf=45% oov=11%
   ▯ is a pathogen
@@ -32095,7 +32059,7 @@ paıream #6am6LH7nz → [(c c) (d d) máq sI] conf=45% oov=8%
   ▯ is an adversary/frenemy of ▯; ▯ is an opponent of ▯, where at least the former respects the latter
 paqtı #eifIPmAqU → [(c) (d) tá sF] conf=45% oov=33%
   ▯ are panties / briefs.
-peotıe #EnfzyjDfd → [(c c) (d d) tá sI] conf=45% oov=40%
+peotıe #EnfzyjDfd → [(c c) (d d) tá sS] conf=45% oov=40%
   ▯ obstructs passageway/opening ▯.
 peseto #4amxmTZFN → [(c) (d) máq sI] conf=45% oov=25%
   ▯ is pesto.
@@ -32107,7 +32071,7 @@ pıolıuq #caKqqlsZv → [(c) (d) máq sI] conf=45% oov=22%
   ▯ is a stratum.
 poaqlam #oJo3bAE8A → [(c) (d) hó sI] conf=45% oov=30%
   ▯ is fragile/brittle/flimsy.
-poetıe #QXYEjOy4h → [(c c) (d d) tá sI] conf=45% oov=25%
+poetıe #QXYEjOy4h → [(c c) (d d) tá sS] conf=45% oov=25%
   ▯ insulates ▯
 poqdıaca #BPC30mJjq → [(c c) (d d) hóq sE] conf=45% oov=25%
   State of affairs ▯ degrades/dehumanizes ▯
@@ -32207,7 +32171,7 @@ tamjeq #DfnrU6L9S → [(c) (d) máq sI] conf=45% oov=30%
   ▯ is ivy (genus Hedera).
 teaq'echıteaqnoguhu #vaptAh4eJ → [(c) (d) hóq sI] conf=45% oov=30%
   ▯ is a sternocleidomastoid muscle
-teıbaq #xdJt9b016 → [(c c) (d d) hóq sS] conf=45% oov=17%
+teıbaq #xdJt9b016 → [(c c) (d d) hóq sI] conf=45% oov=17%
   ▯ is the idealized shape of ▯.
 teqdoem #GLFCzUWYf → [(c) (d) máq sI] conf=45% oov=22%
   ▯ is an economy.
@@ -32235,7 +32199,7 @@ toıbaq #ZQnrEcsSh → [(c) (d) hóq sI] conf=45% oov=10%
   ▯ is a (mathematical) operator.
 tuakuı #qTQodMadC → [(c c) (d d) hó sI] conf=45% oov=27%
   ▯ is brought about due to reason/motive/incentive ▯.
-tuaotuoı #g3BCfnQio → [(c c) (d d) hóq sE] conf=45% oov=18%
+tuaotuoı #g3BCfnQio → [(c c) (d d) hóq sF] conf=45% oov=18%
   ▯ is a nitpick in ▯
 tuqchuo #xYDdJU4PK → [(c c) (d d) máq sI] conf=45% oov=5%
   ▯ is special-made for use ▯; ▯ is dedicated/custom-fit for ▯.
@@ -32247,7 +32211,7 @@ zaıge #GA49hFibV → [(c) (d) hóq sP] conf=45% oov=12%
   ▯ inspires hope.
 zaqneq #53frdxpMN → [(0) (d) tá sF] conf=45% oov=6%
   ▯ is tough luck; Too bad that ▯; It is unfortunate that ▯.
-zenateı #cogEBI97x → [(c c) (d d) hóq sE] conf=45% oov=9%
+zenateı #cogEBI97x → [(c c) (d d) hóq sI] conf=45% oov=9%
   ▯ is topologically equivalent to ▯.
 zeno #YOoQQpFUM → [(c) (d) tá sF] conf=45% oov=22%
   ▯ is alien / extraterrestial.
@@ -32323,7 +32287,7 @@ chıeqgaıno #J-FCx0G72 → [(c) (d) tá sF] conf=44% oov=25%
   ▯ is synesthetic.
 chıoq #P4Xkhkamv → [(c) (d) máq sI] conf=44% oov=14%
   ▯ is exhausted
-chokuaq #-p2qMkLMt → [(c c) (d d) hó sA] conf=44% oov=11%
+chokuaq #-p2qMkLMt → [(c c) (d d) hó sI] conf=44% oov=11%
   ▯ "likes" ▯ (in the sense of pressing the "like" button or similar)
 chonıeq #WkXNpWOdb → [(c) (d) máq sI] conf=44% oov=25%
   ▯ is picky.
@@ -32557,7 +32521,7 @@ luıjuı #A8Eze75Q8 → [(c) (d) hóq sE] conf=44% oov=8%
   ▯ has taken place a short time ago.
 luısho #92tHUtFzo → [(c) (d) máq sI] conf=44% oov=20%
   ▯ passes / goes by (timewise).
-luoqde #FMJHR8qAH → [(c) (d) hóq sP] conf=44% oov=23%
+luoqde #FMJHR8qAH → [(c) (d) hóq sE] conf=44% oov=23%
   ▯ (of e.g. movement) occurs elegantly/gracefully
 majıjıu #bx_Fb1B8s → [(c) (d) hóq sI] conf=44% oov=15%
   ▯ is a sorcerer (can perform magic innately).
@@ -32751,7 +32715,7 @@ tefamıa #mhlNWC3Di → [(c) (d) máq sI] conf=44% oov=50%
   ▯ is knotty/gnarly/gnarled/twisted/knotted
 teoqlı #JKoG24czI → [(c c) (d d) tá sS] conf=44% oov=6%
   ▯ is the predicate which question ▯ (quote) asks to fill in.
-tıapaq #h4brrbPGx → [(c c) (d d) hóq sP] conf=44% oov=9%
+tıapaq #h4brrbPGx → [(c c) (d d) hóq sI] conf=44% oov=9%
   ▯ is the back of ▯.
 tıeqshıe #1oAesjUh5 → [(c) (d) máq sI] conf=44% oov=18%
   ▯ is the star sign Scorpio.
@@ -32889,7 +32853,7 @@ gıca #Rdkp6k2og → [(c c) (d d) hó sA] conf=43% oov=9%
   ▯ has the intended result (▯).
 gıfoa #Wi7M6np_k → [(c) (d) hó sI] conf=43% oov=9%
   ▯ is (doing/feeling/faring) well.
-guarıe #jUzxtKwDJ → [(c c) (d d) tá sF] conf=43% oov=24%
+guarıe #jUzxtKwDJ → [(c c) (d d) tá sS] conf=43% oov=24%
   ▯ is international, happening with the involvement of (people from) countries ▯.
 guasıao #XMEU8RJv8 → [(c c) (d d) máq sI] conf=43% oov=6%
   ▯ is the origin nation of ▯; ▯ is where ▯ is from
@@ -33251,9 +33215,9 @@ gırıqdutao #iFgFyBJML → [(c) (d) máq sI] conf=42% oov=25%
   ▯ is greenwashing.
 guaıcıa #GNckoicsq → [(c) (d) tá sF] conf=42% oov=25%
   ▯ is unemployed.
-guaochım #BO2gqnJ2_ → [(c c) (d d) hó sA] conf=42% oov=27%
+guaochım #BO2gqnJ2_ → [(c c) (d d) hó sI] conf=42% oov=27%
   ▯ is faced with dilemma ▯
-guedaı #vYmrEBBTv → [(c) (d) hóq sP] conf=42% oov=25%
+guedaı #vYmrEBBTv → [(c) (d) hóq sF] conf=42% oov=25%
   ▯ is flexible.
 guja #ztweaO7Gf → [(c 2ix) (d d) tá sF] conf=42% oov=10%
   ▯ is the relation ▯.
@@ -33333,7 +33297,7 @@ laofeao #-DSjmTDhw → [(c) (d) hó sI] conf=42% oov=27%
   ▯ is excited/restless in anticipation.
 laqgu #q08IMinIB → [(c) (d) tá sS] conf=42%
   [poetic:] ▯ is mine; ▯ is of me.
-lasoq #in7h_wubz → [(c c) (d d) hóq sE] conf=42% oov=15%
+lasoq #in7h_wubz → [(c c) (d d) hóq sF] conf=42% oov=15%
   ▯ is a coat of arms of ▯.
 leqtoqcha #-XGSCFZwob → [(c) (d) máq sI] conf=42% oov=22%
   ▯ is laminal (phonetics)
@@ -33353,7 +33317,7 @@ loqloeq #kS7cVYoCF → [(c) (d) máq sI] conf=42% oov=21%
   ▯ is cooked with heat (boiled, fried, ovened, etc.).
 luaı'aobı #b6y5Wd97x → [(c) (d) hó sI] conf=42% oov=17%
   ▯ is of the comedy genre
-luaqleoq #SVqCEBU8I → [(c) (d) tá sI] conf=42% oov=21%
+luaqleoq #SVqCEBU8I → [(c) (d) tá sS] conf=42% oov=21%
   ▯ plays defensively; ▯ is at the defence (defense).
 luerıq #nP3Hfy5s8 → [(c) (d) tá sI] conf=42% oov=18%
   ▯ is of color/colour chartreuse.
@@ -33373,7 +33337,7 @@ moalaıpue #rzQxZw8gd → [(c) (d) máq sI] conf=42% oov=18%
   ▯ is the dot below diacritic.
 moecıa #RVcJiRdYv → [(c) (d) tá sF] conf=42% oov=54%
   ▯ is emotionless/callous/indifferent/ruthless/insensitive/desensitized.
-moefaı #4pJYGnMYi → [(c) (d) tá sI] conf=42% oov=17%
+moefaı #4pJYGnMYi → [(c) (d) tá sS] conf=42% oov=17%
   ▯ is emotional (experiences lots of emotions).
 moeroe #ykP5c48sj → [(c) (d) hó sI] conf=42% oov=20%
   ▯ is OK (emotionally speaking)
@@ -33513,7 +33477,7 @@ zaocem #KTX6CTLZi → [(c) (d) máq sI] conf=42% oov=12%
   ▯ is familiar.
 zaqpaı #NnNXlo2ze → [(c) (d) máq sI] conf=42% oov=12%
   ▯ is amber.
-zenadaı #8YYxOaO7Y → [(c) (d) hóq sP] conf=42% oov=25%
+zenadaı #8YYxOaO7Y → [(c) (d) hóq sF] conf=42% oov=25%
   ▯ is elastic.
 zeumsuhu #z6L-jUata → [(c) (d) hó sI] conf=42% oov=11%
   ▯ is a porcupine.
@@ -33527,13 +33491,13 @@ mu reu #3bDzfZ6r4 → [(c c) (d d) hó sI] conf=42% oov=27%
   ▯ is a factorization of ▯
 tuqjıaq bạgaıkıu #jO7AbcV8- → [(c) (d) máq sI] conf=42% oov=20%
   ▯ is the observable universe
-ajenalıq #pUHIZC84s → [(c) (d) tá sI] conf=41% oov=25%
+ajenalıq #pUHIZC84s → [(c) (d) tá sS] conf=41% oov=25%
   ▯ is adrenaline.
 anoketoınuecheo #4CF0cUHEU → [(c) (n) hó sI] conf=41% oov=29%
   ▯ are at peace under MAD (mutually assured destruction).
 atomzıa #SJpQoEgJg → [(c c) (d d) máq sI] conf=41% oov=18%
   ▯ emits radioactivity, nuclear radiation ▯.
-beıkoq #wErZ3Y6E1 → [(c) (d) tá sI] conf=41% oov=25%
+beıkoq #wErZ3Y6E1 → [(c) (d) tá sS] conf=41% oov=25%
   ▯ is bacon.
 beojeqda #IumsiWd_j → [(c) (d) hóq sI] conf=41% oov=12%
   ▯ is genderfluid
@@ -33559,7 +33523,7 @@ choacha #s_Q5qeTYv → [(c) (d) máq sI] conf=41% oov=25%
   (fork of #5Nw1t8LlS) ▯ is phonotation (phonetics)
 choaısoq #kA3zbEQql → [(c) (d) máq sI] conf=41% oov=45%
   ▯ is extravagant/lavish/luxurious/opulent.
-choıkoq #ypC64w2Oi → [(c) (d) tá sI] conf=41% oov=25%
+choıkoq #ypC64w2Oi → [(c) (d) tá sS] conf=41% oov=25%
   ▯ is jagged
 dam #AIyg1J05J → [(c c) (d d) hó sI] conf=41% oov=31%
   ▯ is a spatio-temporal stage/slice of ▯.
@@ -33617,7 +33581,7 @@ jaocachu #4qTqUPfJu → [(c) (d) máq sI] conf=41% oov=15%
   ▯ is artillery; ▯ is heavy, ranged weaponry
 jeıke #OiDWEqYr5 → [(c 1i) (d d) tá sF] conf=41% oov=8%
   ▯are *the* things that satisfy property ▯.
-jenalıq #NkFSOcvvk → [(c) (d) tá sI] conf=41% oov=25%
+jenalıq #NkFSOcvvk → [(c) (d) tá sS] conf=41% oov=25%
   ▯ is adrenaline.
 joqhuafuaq #Fg-NRxsYO → [(c) (d) hó sI] conf=41% oov=19%
   ▯ is a portrait (image depicting the head of a person, possibly up to the shoulders).
@@ -33713,7 +33677,7 @@ sasalı #eM9VveiCk → [(c) (d) hóq sF] conf=41% oov=11%
   ▯ is a property satisfied by at least one thing among everything imaginable.
 sıaopaq #AwC35IqI- → [(c c) (d d) hóq sI] conf=41% oov=19%
   ▯ is a root contained in derivative word/compound/reflex ▯.
-sılıkoq #YvtLRmBMa → [(c) (d) tá sI] conf=41% oov=33%
+sılıkoq #YvtLRmBMa → [(c) (d) tá sS] conf=41% oov=33%
   ▯ is silicon (Si).
 soqgoe #_JbIBsCBK → [(c c) (d d) tá sE] conf=41% oov=7%
   ▯ will happen in at most ▯’s time.
@@ -33751,7 +33715,7 @@ toru #U1ILiM4_o → [(c 0) (d d) hó sA] conf=41% oov=8%
   ▯ is damaged, wounded, hurt.
 ꝡeu #dGRfGguXU → [(c c) (d d) tá sS] conf=41% oov=8%
   ▯ is the (closed) interval / region between ▯
-zırıkoq #FXtR5RAfP → [(c) (d) tá sI] conf=41% oov=25%
+zırıkoq #FXtR5RAfP → [(c) (d) tá sS] conf=41% oov=25%
   ▯ is zircon.
 aıjı #U-8d16OZD → [(c) (d) hóq sI] conf=40% oov=23%
   ▯ is aji/potential (an opportunity that probably wouldn't lead to anything if pursued immediately but might be important later)
@@ -33889,7 +33853,7 @@ moejoe #4uicg_wl6 → [(c) (d) hó sI] conf=40% oov=17%
   ▯ is sensitive on matters of emotions.
 muınıe #oo4P6HeQe → [(c c) (d d) máq sI] conf=40% oov=18%
   ▯ is a hyponym of ▯.
-muıshea #1yAB76NSG → [(c) (d) hóq sP] conf=40% oov=29%
+muıshea #1yAB76NSG → [(c) (d) hóq sI] conf=40% oov=29%
   ▯ is nonsensical [not ‘meaningless’]/absurdist [not necessarily ‘absurd’].
 muıshı #Wm6qMAWTS → [(c) (d) máq sI] conf=40% oov=22%
   ▯ is monosemous/unambiguous.

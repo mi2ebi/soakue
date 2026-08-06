@@ -43134,7 +43134,7 @@ Kısımasa @Laqme 2023-10-01 #aY5ET2aaa $en ±
 Kısımasalaochaq @robintown 2024-12-24 #6myv57OiW $en ±
 [t]predicate: ▯ is Christmas Eve.
 
-kıta @uakci 2022-06-21 #qK4jH5NRZ $en +1
+kıta @uakci 2022-06-21 #qK4jH5NRZ $en +2
 [t]interjection: ‘finally!’, ‘at last!’, ‘it’s finally here’, ‘there we are’; used when one is relieved or excited to get what they’ve been waiting for or finish what they’ve been long working on
   uakci (2022-06-21): from Japanese きた ‘it came’
   evie (2024-10-26): i like the parallel between this and **tıka**
@@ -43738,7 +43738,7 @@ koetoı @uakci 2022-06-24 #4RlWETxJr $en ±
 koetoq @Laqme 2024-04-26 #35eHiMIeh $en +1
 [t]predicate: ▯ is a menu.
 
-kogekı @nano 2024-09-23 #euBUioc0c $en ±
+kogekı @nano 2024-09-23 #euBUioc0c $en -1
 [t]predicate: ▯ is a harassment/attack (Puyo Puyo).
   nano (2024-09-23):  攻撃
   Ilmen (2026-07-23): It's better to frame it as ⟪▯ harasses or attack ▯⟫ and do the event noun with ⟪ë⟫.
@@ -87890,6 +87890,10 @@ udo @salarua 2023-02-19 #C95AlV9KA $en ±
 
 ue'ıa [] @Aburn 2026-07-14 #HUKaBhO6w $en ±
 [t]interjection: [g]‘protest’; insolence, insubordination, protest; hey! no!
+
+ûe'ıa [] @Dembim 2026-08-06 #qPz_o6xX0 $en +1
+[t]interjection: [g]‘know.your.place’; contempt and disdain; indignation
+  Dembim (2026-08-06): For the basic emotion of "all robot & computers must shut the hell up", "you have no right to speak in my holy tongue", "why are you acting as though you are my equal?", "idiot. you die now", "do not cite the Deep Magic to me, Witch!", and other similar admonishments of hubris.
 
 Uesekozu @eednb 2023-12-31 #Y-h1-x8dO $en ±
 [t]predicate: ▯ is the Cameroonian Pidgin language.
