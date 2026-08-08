@@ -1748,6 +1748,7 @@ fork of official predicate alone ▯ is alone _BIAS _RAKU_cıa _2_RAKU_gaqcıa _
 ▯ is a pencil sharpener _BIAS _RAKU_sheq _2_RAKU_reosheq _ARITY_1	máq	sI	1
 ▯ is an automatic pencil _BIAS _RAKU_shuo _2_RAKU_reoshuo _ARITY_1	máq	sI	1
 ▯ is entomology _BIAS _RAKU_dıu _2_RAKU_tedıu _ARITY_1	hóq	sI	1
+▯ is a tablet e g for writing _BIAS _RAKU_toq _2_RAKU_gıaıtoq _ARITY_1	máq	sI	1
 ▯ is a cassette player personal stereo walkman _BIAS _RAKU_kea _2_RAKU_gıakea _ARITY_1	máq	sI	1
 ▯ moves around is in motion _BIAS _RAKU_gıam _ARITY_1	tá	sF	1
 ▯ is an animator _BIAS _RAKU_che _2_RAKU_fuaqche _ARITY_1	hó	sI	1
@@ -2913,7 +2914,7 @@ fork of amo6x sn1 ▯ are the settings concerning ▯ _BIAS _RAKU_juao _2_RAKU_k
 ▯ is a horse barn _BIAS _RAKU_jıo _2_RAKU_bojıo _ARITY_1	máq	sI	1
 ▯ is ketchup _BIAS _RAKU_pa _2_RAKU_chapa _ARITY_1	máq	sI	1
 ▯ is a quechua language _BIAS _RAKU_zu _2_RAKU_chuazu _ARITY_1 _CAPS	hóq	sI	1
-▯ is the planet pluto _BIAS _RAKU_meaı _2_RAKU_ruaımeaı _ARITY_1	máq	sI	1
+▯ is the dwarf planet pluto _BIAS _RAKU_meaı _2_RAKU_ruaımeaı _ARITY_1	máq	sI	1
 ▯ is a degree celsius _BIAS _RAKU_cıu _2_RAKU_keıcıu _ARITY_1	hóq	sI	1
 ▯ is cake _BIAS _RAKU_ke _2_RAKU_keıke _ARITY_1	máq	sI	1
 ▯ is a clitoris _BIAS _RAKU_leo _2_RAKU_keleo _ARITY_1	máq	sI	1
@@ -3587,7 +3588,7 @@ whether ▯ is the case depends on whether ▯ is the case _BIAS _RAKU_kuı _2_R
 ▯ is the malay language _BIAS _RAKU_zu _2_RAKU_leızu _ARITY_1 _CAPS	hóq	sI	1
 ▯ pertains to the culture of mali republic of mali _BIAS _RAKU_lı _2_RAKU_malı _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country mali republic of mali _BIAS _RAKU_gua _2_RAKU_lıgua _ARITY_1 _CAPS	máq	sI	1
-▯ is ithkuil iv tnil malëuţřait _BIAS _RAKU_zu _2_RAKU_faızu _ARITY_1 _CAPS	hóq	sF	1
+▯ is ithkuil iv tnil maţřëullait previously malëuţřait _BIAS _RAKU_zu _2_RAKU_faızu _ARITY_1 _CAPS	hóq	sF	1
 ▯ is mama mom mommy mum mother _BIAS _RAKU_mam _ARITY_1	hó	sI	1
 ▯ is the letter m _BIAS _RAKU_mam _ARITY_1	hóq	sI	1
 ▯ is a member of genus mammuthus the mammoths _BIAS _RAKU_tu _2_RAKU_mamtu _ARITY_1	hó	sI	1
@@ -4766,7 +4767,6 @@ there are ▯ number raku in the word phrase ▯ _BIAS _RAKU_zıu _2_RAKU_kuzıu
 ▯ is russia _BIAS _RAKU_gua _2_RAKU_sıagua _ARITY_1 _CAPS	máq	sI	1
 ▯ is the country russia russian federation _BIAS _RAKU_gua _2_RAKU_sıagua _ARITY_1 _CAPS	máq	sI	1
 ▯ is the russian language _BIAS _RAKU_zu _2_RAKU_sıazu _ARITY_1 _CAPS	hóq	sI	1
-▯ is one of the language s spoken in russia russian federation _BIAS _RAKU_zu _2_RAKU_sıazu _ARITY_1 _CAPS	hóq	sI	1
 ▯ is a conjunction word _BIAS _RAKU_toa _2_RAKU_ratoa _ARITY_1	hóq	sI	1
 ▯ is a border edge of ▯ _BIAS _RAKU_rea _ARITY_2	máq	sI	2
 ▯ is a leaf terminus terminal node endpoint _BIAS _RAKU_ce _2_RAKU_reace _ARITY_1	máq	sI	1
@@ -5929,7 +5929,6 @@ doing ▯ is a way of doing ▯ _BIAS _RAKU_jı _2_RAKU_tajı _ARITY_2	hóq	sP	2
 ▯ is the letter t _BIAS _RAKU_tıeq _2_RAKU_tıtıeq _ARITY_1	hóq	sI	1
 ▯ is logic _BIAS _RAKU_dıu _2_RAKU_tıudıu _ARITY_1	hóq	sI	1
 ▯ is a logical language _BIAS _RAKU_zu _2_RAKU_dıuzu _ARITY_1	hóq	sI	1
-▯ is a language where people argue about stuff all the time and cat no understand _BIAS _RAKU_zu _2_RAKU_dıuzu _ARITY_1	hóq	sI	1
 ▯ is a flowchart _BIAS _RAKU_fuaq _2_RAKU_tıufuaq _ARITY_1	máq	sI	1
 ▯ is logic _BIAS _RAKU_dıu _2_RAKU_heqdıu _ARITY_1	hóq	sI	1
 ▯ is sugar _BIAS _RAKU_tıuq _ARITY_1	máq	sI	1
@@ -6424,7 +6423,6 @@ it would be nice if ▯ were true _BIAS _RAKU_gı _2_RAKU_'aogı _ARITY_1	hóq	s
 ▯ pertains to the culture of south korea korea south _BIAS _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country south korea korea south _BIAS _ARITY_1 _CAPS	máq	sI	1
 ▯ zgikemfi inalka esefsysajyke ejvekemsefsyda atoiflike ejvejagborkemjilryjvesefsyborxenze a ▯ ▯ _BIAS _ARITY_3	hó	sI	3
-▯ is esperantujo _BIAS _ARITY_1 _CAPS	máq	sI	1
 ▯ is a hanzi chinese character _BIAS _ARITY_1	hóq	sI	1
 ▯ performs cunnilingus on ▯ _BIAS _RAKU_fuo _2_RAKU_leqfuo _ARITY_2	hó	sA	2
 ▯ is of near ultraviolet color _BIAS _ARITY_1	máq	sI	1
