@@ -397,7 +397,6 @@ the answer to ▯ changes alternates _BIAS _RAKU_beo _2_RAKU_beobeo _ARITY_1	hó
 ▯ is toxic poison venom _BIAS _RAKU_saı _2_RAKU_bıasaı _ARITY_1	máq	sI	1
 ▯ is a disease illness affliction malady ailment _BIAS _RAKU_teı _2_RAKU_bıateı _ARITY_1	hóq	sI	1
 ▯ is a video _BIAS _RAKU_deo _2_RAKU_bıdeo _ARITY_1	hóq	sI	1
-▯ is a video of ▯ _BIAS _RAKU_deo _2_RAKU_bıdeo _ARITY_2	hóq	sI	2
 ▯ plays video game ▯ _BIAS _RAKU_luaq _2_RAKU_deoluaq _ARITY_2	hó	sI	2
 ▯ is a video game _BIAS _RAKU_mu _2_RAKU_luaqmu _ARITY_1	hóq	sF	1
 ▯ is a video game _BIAS _RAKU_cu _2_RAKU_lucu _ARITY_1	hóq	sF	1
@@ -2001,7 +2000,6 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ is one s the generic impersonal person s _BIAS _RAKU_bo _2_RAKU_habo _ARITY_1	tá	sF	1
 ▯ is a consensus community decision etc _BIAS _RAKU_buı _2_RAKU_habuı _ARITY_1	hóq	sI	1
 ▯ is oxygen _BIAS _RAKU_geq _2_RAKU_cugeq _ARITY_1	máq	sI	1
-▯ feels amusement humor drollness or any other emotion s that tend s to elicit laughter _BIAS _RAKU_haq _2_RAKU_hahaq _ARITY_1	hó	sI	1
 ▯ destroys devastates lays waste obliterates ▯ _BIAS _RAKU_da _2_RAKU_haıda _ARITY_2	hó	sA	2
 ▯ curses places a curse upon ▯ _BIAS _RAKU_re _2_RAKU_haıre _ARITY_2	hó	sI	2
 ▯ is a curse _BIAS _RAKU_se _2_RAKU_haıse _ARITY_1	hóq	sI	1
@@ -3963,6 +3961,7 @@ understanding the meaning of ▯ is hard _BIAS _RAKU_noa _2_RAKU_duanoa _ARITY_1
 ▯ is the southern part of ▯ _BIAS _RAKU_paq _2_RAKU_nampaq _ARITY_2	máq	sI	2
 ▯ is the southern sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	sI	1
 ▯ is a sandwich _BIAS _RAKU_ru _2_RAKU_namru _ARITY_1	máq	sI	1
+▯ is a sandwich _BIAS _RAKU_nam _2_RAKU_saınam _ARITY_1	máq	sI	1
 ▯ is dough _BIAS _RAKU_sham _2_RAKU_namsham _ARITY_1	máq	sI	1
 ▯ is the letter n _BIAS _RAKU_naq _2_RAKU_nanaq _ARITY_1	hóq	sI	1
 ▯ is a member of genus ananas the pineapple and similar plants _BIAS _RAKU_sa _2_RAKU_nasa _ARITY_1	máq	sI	1

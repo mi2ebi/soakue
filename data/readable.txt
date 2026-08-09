@@ -3945,15 +3945,6 @@ bıdeo @SuperSpaceNiM 2024-08-12 #4c3QGEn1q $ru ± %⚠
 bıdeo @kazoo 2024-11-24 #pK_XSydaI $tr ± %⚠
 [t]predicate: ▯ videodur.
 
-bıdeo [(c c) (d d) hóq sI] @Dembim 2026-01-31 #ZWuLgdo9f $en ± %⚠
-[t]predicate: [g]‘video’; ▯ is a video of ▯.
-  Dembim (2026-01-31): Frame: c c
-  Dembim (2026-01-31): Pronominal_class: maq
-  Dembim (2026-01-31): Broader than "video recording", including e.g. animations, etc
-  Dembim (2026-02-03): Discriminator: 2
-  Dembim (2026-02-13): Distribution: d d
-  Dembim (2026-02-13): Subject: individual
-
 bıdeoluaq @Laqme 2022-08-06 #DCFUSBWe9 $en ±
 [t]predicate: ▯ plays video game ▯.
 
@@ -16229,7 +16220,6 @@ dıba [(c c) (n n) tá sF] @Dembim 2025-11-24 #KMpZVeE5S $en +1
 [t]predicate: [g]‘substitute’; ▯ replaces, substitutes for ▯ in satisfying some salient property: the former now satisfies the property, while the latter no longer does (no agentivity implied).
   Ilmen (2025-11-24): discriminator: 2
   Dembim (2025-11-25): Frame: c c
-  Dembim (2025-11-29): Fork of <@Ilmen dıba> without slot three. Recover with « oı ».
   Dembim (2026-01-09): Frame: c c
   Dembim (2026-01-28): Pronominal_class: ta
   Dembim (2026-02-11): Subject: free
@@ -27830,15 +27820,6 @@ haha @Laqme 2024-06-03 #ZKDyjKcNz $en +1 %deixis
 haha @zearen 2025-03-24 #3crmmGZAt $jbo ± %deixis
 smudu'i zo «.u'i»
 
-hahaq [(c) (d) hó sI] @Dembim 2025-12-28 #ff_aVkeB- $en ±
-[t]predicate: [g]‘amused’; ▯ feels amusement/humor/drollness or any other emotion(s) that tend(s) to elicit laughter.
-  Dembim (2025-12-28): a root version of <hıaımoe>, if such  is desired. from <@Laqme haha> + coda
-  Dembim (2025-12-28): root-ish, I suppose
-  Dembim (2026-01-09): Frame: c
-  Dembim (2026-01-28): Pronominal_class: ho
-  Dembim (2026-02-12): Subject: individual
-  Dembim (2026-02-12): Distribution: d
-
 haı- @Laqme 2023-12-13 #XYYJYoDwZ $en +1
 [t]pre-aspect: 'already'
   Laqme (2023-12-13): This attaches to aspects, and allows for combinations like **hạıluı seumchuq** "has already eaten dinner" vs **hạıchum seumchuq** "is already eating dinner".
@@ -38885,7 +38866,7 @@ juını @Ilmen 2020-02-26 #72dUioOGh $en ± %deixis,demonstrative
 juınhe @seaqtaq 2024-07-10 #R1ra9n9c7 $en ±
 [t]predicate: [g]‘extent’; ▯ is an event with approximately ▯ as its extent.
 
-juıpeo @Ilmen 2020-02-26 #7jcF_xJGe $en +1
+juıpeo @Ilmen 2020-02-26 #7jcF_xJGe $en ±
 [t]predicate: ▯ passes by ▯.
 
 juıq @Laqme 2023-04-07 #_DulnoiuJ $en +1
@@ -57042,6 +57023,10 @@ namru @uakci 2022-12-08 #F8aBJxJh3 $en ±
 namrukuha @robintown 2022-12-13 #V_bwyoNqv $en ±
 [t]predicate: ▯ is a grilled cheese / cheese toastie.
 
+namsaınam [(c) (d) máq sI] @Dembim 2026-08-08 #fiqwaXpvX $en +1
+[t]predicate: [g]‘sandwich’; ▯ is a sandwich.
+  Dembim (2026-08-08): Can there be too many words for sandwich? No.
+
 namsham @Laqme 2024-04-30 #ERmOCQU5U $en +1
 [t]predicate: ▯ is dough.
 
@@ -73203,6 +73188,10 @@ Saqmarıno @countries 2026-08-07 #Ue9RvRhjNhd $en ±
 
 Saqmarınogua @countries 2026-08-07 #H2PA4C4Dmty $en ±
 ▯ is the country San Marino – Republic of San Marino.
+
+saqmıqchı @mimiaoganhaqpy 2026-08-08 #23JwnLve0 $en ±
+[t]predicate: [g]‘sandwich’; ▯ is a sandwich.
+  mimiaoganhaqpy (2026-08-08): Etymology: Mandarin 三明治 sānmíngzhì, and someone who really worships sandwiches
 
 saqmotao @fagri 2023-01-21 #pk16cWj7- $en ±
 [t]predicate: ▯ triangulates (something)
