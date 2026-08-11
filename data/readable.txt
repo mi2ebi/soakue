@@ -44854,6 +44854,9 @@ kuhatao [(c 1i) (d d) hó sA] @salarua 2023-02-02 #qqRQk4eLw $en +2
 [t]predicate: [g]‘cheese’; ▯ cheeses (uses unconventional tactics in a game, especially some seen as unsporting, but stopping short of cheating) by satisfying property ▯
   salarua (2023-02-02): this is an obvious Englishism, since the English gaming slang "cheese" comes from "cheesy". however, gamers speaking other languages tend to loan from English anyway, so it would make sense for Toaq-speaking gamers to loan or calque too
 
+kuhı @Ilmen 2026-08-10 #rfMFGIOHR $en ±
+it's ▯ which is the answer to question ▯; ▯ is the answer to the question ▯, and I’m saying this either because the question was explicitly asked, or because I otherwise think it’s useful to point out.
+
 kuı [(c 0) (d d) hóq sE] @Isi 2023-04-07 #tJQm7vG0W $en +2 %⚠
 [t]predicate: [g]‘because’; event ▯ happens because ▯ is the case.
 
@@ -44910,7 +44913,7 @@ kuıgıq @seaqtaq 2018-12-27 #DdkRBe6x8 $en -1
 kuıgıqcıa @uakci 2020-03-20 #NXPMF5i4G $en ±
 [t]predicate: ▯ is pointless.
 
-kuıhı @Ilmen 2018-11-22 #BrVr17jMJ $en +2
+kuıhı @Ilmen 2018-11-22 #BrVr17jMJ $en +3
 [t]predicate: Why is ▯ the case?
   fagri (2020-01-05): Is this kind of predicate allowed?
   Ilmen (2020-01-05): Question predicates? "tıopūı" (#NTs8O3T0Za) and "hıa" (#_5chCCpS-) are precedents for that kind of predicate.
@@ -99343,7 +99346,7 @@ boe(sıu)guaq @seaqtaq 2019-01-31 #i9v-Ha7kG $en ±
 ⚠ bulututy @salarua 2022-09-15 #ohr4G9I0X $en ±
 [t]predicate: ▯ pertains to Bluetooth
 
-⚠ buy @uakci 2021-08-26 #_R9G59Rg- $en ±
+⚠ buy @uakci 2021-08-26 #_R9G59Rg- $en -1
 [t]predicate: ▯ absolutely cannot occur; ▯ absolutely cannot satisfy property ▯ under any relevant circumstance.
   uakci (2021-08-26): intended as a stronger, more consequential variant of **bu** to be used when translating words such as ‘blind’ or ‘deaf’ or ‘nogood’, where not only do we wish to negate one’s ability to do X, we also wish to stress that this inability/disability is not transient or able to be alleviated.
   uakci (2021-08-26): as noted by @xorxes, this word can be replaced with **he bu daı** or **he bu deq** in most contexts. the use of this word in particular entails consequentiality and finality for the long-term
