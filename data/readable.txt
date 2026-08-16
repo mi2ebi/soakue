@@ -12434,8 +12434,8 @@ choapoq @Laqme 2022-10-15 #p3ntB5uFd $en ±
 [t]predicate: (Toaq Discord jargon:) ▯ has the "Choa" role.
   Laqme (2022-10-15): Indicating the demonstrated ability to have basic spoken conversations.
 
-choaq [(c c) (d d) hó sI] @official 2026-08-07 #k_k_ZegLRNr $en ±
-[t]predicate: [g]‘guest’; ▯ is a guest of ▯.
+choaq @Laqme 2025-04-19 #Wv0BW73xA $en +1
+[t]predicate: ▯ is a guest.
 
 choaq @nano 2023-05-23 #O4lB-lRJj $tok ±
 [t]predicate: ▯ li lon ijo sin tan ma ante; ▯ li lon ijo sin tan ma ante tawa ▯.
@@ -12446,8 +12446,8 @@ choaq @jiqci 2023-07-31 #g5cfGzbhBK $pl ±
 choaq @SuperSpaceNiM 2024-08-16 #D_JwGjJM4 $ru ±
 [t]predicate: ▯ — гость; (▯ гостит у ▯)
 
-choaq @Laqme 2025-04-19 #Wv0BW73xA $en ±
-[t]predicate: ▯ is a guest.
+choaq [(c c) (d d) hó sI] @official 2026-08-07 #k_k_ZegLRNr $en -1
+[t]predicate: [g]‘guest’; ▯ is a guest of ▯.
 
 choaqchao @uakci 2022-08-01 #El68pQKTF $en ±
 [t]predicate: ▯ is a taxi/cab.
@@ -34222,7 +34222,7 @@ jaofoaq @Dembim 2026-01-31 #mcDDOQPje $toa ±
 jaogaıkea @jiqci 2023-02-13 #fMMXCEPql $en ±
 [t]predicate: ▯ is a radar.
 
-jaoheo @uakci 2020-04-05 #OA7z7xjE1 $en ±
+jaoheo @uakci 2020-04-05 #OA7z7xjE1 $en -1
 [t]predicate: ▯ is exotic/oriental/alien/external; ▯ is foreign to ▯.
 
 jaohuo @Amo 2021-11-13 #CahQRGX2F $en ±
@@ -42270,6 +42270,9 @@ kıaotoq @jiqci 2023-07-31 #-vLtNtmJQ $pl ± %artifact
 
 kıaotoqcıoq @fagri 2021-08-13 #8irbKUcio $en ±
 [t]predicate: ▯ is a doorknob
+
+kıaposo @jiqci 2026-08-15 #cQbKO1s8I $en ±
+▯ is red phosphorus.
 
 kıaq [(c) (d) máq sI] @official 2026-08-07 #6Wtug2074UAh $en ± %body_part
 [t]predicate: [g]‘hair’; ▯ is a hair.
@@ -58889,7 +58892,7 @@ nıbatorıdaı @mimiaoganhaqpy 2022-09-28 #cZ_1fY0cf $en -1
 nıbı @uakci 2022-07-21 #sAroNf_ly $en -1
 [t]focus marker: marks topic
 
-nıbo @Ilmen 2024-10-23 #TG4H-FY3B $en ± %deixis,possessive
+nıbo @Ilmen 2024-10-23 #TG4H-FY3B $en +1 %deixis,possessive
 [t]predicate: ▯ is of this/that; ▯ is related to this/that.
 
 nıbo @robintown 2022-02-04 #qjJVYq7zd $en -1 %deixis,possessive
