@@ -1186,8 +1186,8 @@ aohıa @Laqme 2024-06-14 #qCiqeAIXd $en +1
 aoja @uakci 2023-01-27 #KFZSuGqG_ $en +1
 [t]predicate: ▯ is detached/dissociated/distant / feels insentient.
 
-aojaı @Hoemai 2023-09-04 #QvbWT8jU7 $en +3 %emotion
-[t]predicate: ▯ wants ▯ to be the case.
+aojaı [(c 0) (d d) hó sI] @Hoemai 2023-09-04 #QvbWT8jU7 $en +3 %emotion
+[t]predicate: [g]‘want.that’; ▯ wants ▯ to be the case.
   Hoemai (2023-09-04): wish, desire; Y being the case would make X happy
 
 aojaıse @Laqme 2024-08-30 #1Sh70Suo1 $en ±
@@ -12855,8 +12855,8 @@ chopuafeu @Laqme 2024-09-15 #4R7O3vvI_ $en ±
 choq- @seaqtaq 2022-12-25 #dzaaHAM5Y $en ±
 [t]derivational prefix: instrumental applicative, adds an instrumental argument to the core argument list, "with instrument X"
 
-choq @robintown 2021-09-18 #qGSG86kIt $en +5 %action
-[t]predicate: ▯ uses ▯.
+choq [(c c) (d d) hó sA] @robintown 2021-09-18 #qGSG86kIt $en +5 %action
+[t]predicate: [g]‘use’; ▯ uses ▯.
   robintown (2021-09-18): A simplified version of chỏq that uses pùoq to express purpose
   Machy (2021-10-05): +1
   lassc (2025-03-20): by means of, via
@@ -16307,6 +16307,9 @@ dıem @Laqme 2024-05-14 #THXeop8O3 $en +1
 
 dıemchao @Laqme 2024-05-14 #EYt5SRwq3 $en ±
 [t]predicate: ▯ is a shopping cart.
+
+dıemche @jiqci 2026-08-17 #c9HiO-1Pe $en ±
+▯ is a salesperson / vendor.
 
 dıemdoaqpaq @Laqme 2024-05-14 #I_Y4JeYWa $en ±
 [t]predicate: ▯ is a shopping district.
@@ -20444,8 +20447,8 @@ feılı @Laqme 2022-12-13 #u72YJe-ws $en ±
 feıloq @uakci 2022-08-20 #S5xJiu2Gc $en ±
 [t]predicate: ▯ is boiling/sizzling hot.
 
-feıluaq @uakci 2018-12-29 #RNngGEG_k $en +5
-[t]predicate: ▯ teases, nags, pranks, picks on, bullies ▯; ▯ harasses ▯ for their own enjoyment.
+feıluaq [(c c) (d d) hó sA] @uakci 2018-12-29 #RNngGEG_k $en +5
+[t]predicate: [g]‘tease’; ▯ teases, nags, pranks, picks on, bullies ▯; ▯ harasses ▯ for their own enjoyment.
   seaqtaq (2019-02-02): +1
   Laqme (2019-02-14): +1
   uakci (2019-07-02): infinitive: bully
@@ -31018,8 +31021,8 @@ hoeleoq @Ilmen 2025-12-28 #AtbrswzUL $en ±
 hoelıaq @Machy 2020-05-23 #WEslVbpLr $en -1
 [t]predicate: ▯ is a Toaq adaptation of the Elian script.
 
-hoeloha @Ilmen 2019-01-30 #JR75rHIKR $en +5 %substance,chemical_element
-[t]predicate: ▯ is gold.
+hoeloha [(c) (d) máq sI] @Ilmen 2019-01-30 #JR75rHIKR $en +5 %substance,chemical_element
+[t]predicate: [g]‘gold’; ▯ is gold.
   Laqme (2019-02-18): +1
 
 hoeloha @el 2022-07-10 #PalYy0OIM $tok ± %substance,chemical_element
@@ -36545,8 +36548,8 @@ jıkı [] @salarua 2022-12-23 #FHNFXheP9 $es ±
 jıkı @SuperSpaceNiM 2024-08-12 #DMp69kWeK $ru ±
 междометие: ответ на **kıjı** 'спасибо' (не за что, да пожалуйста)
 
-jıko @robintown 2022-12-04 #ZMkRYPNMf $en +7
-[t]predicate: ▯ is the World Wide Web; ▯ is the Internet.
+jıko [(c) (d) hóq sI] @robintown 2022-12-04 #ZMkRYPNMf $en +7
+[t]predicate: [g]‘internet’; ▯ is the World Wide Web; ▯ is the Internet.
   eednb (2022-12-04): +1!
   Laqme (2025-01-01): from **jıaqkoaı**
   Dembim (2026-02-04): Frame: c
@@ -45796,7 +45799,7 @@ la- @uakci 2023-01-24 #bhkaW7xdL $en ±
 [t]prefix: turns verb into a pronoun referring to the relation underpinning that verb
   uakci (2023-01-24): **lạ́de** = **lä de já**; **lạ́maı** = **lä maı já já**, etc.
 
-lá @uakci 2023-04-06 #e5yuRAgtN $en ±
+lá @uakci 2023-04-06 #e5yuRAgtN $en -1
 unary property complementizer with subject implicitly filled with **já**
   uakci (2023-04-06): not sure how i feel about this
   uakci (2023-04-06): (old **lá** has since moved to **ꝡá** btw)
@@ -50160,8 +50163,8 @@ lueke @jiqci 2023-06-24 #4eN3oGrpC $en ±
 [t]predicate: ▯ is pyrite.
   jiqci (2023-06-24): **lue** + **ceke**, somewhat of a calque from Chinese 黃鐵礦
 
-luekeheıgutoq @jiqci 2024-11-27 #87FM581T6 $en ±
-[t]predicate: ▯ is a pyritohedron.
+luekeheıgutoq @jiqci 2026-08-17 #AGypSAOPL $en ±
+▯ is a pyritohedron.
 
 luekıa [(c) (d) hóq sI] @Ilmen 2019-12-23 #_phWP3HIp $en -1
 [t]predicate: [g]‘orange’; ▯ is the colour orange.
@@ -51572,8 +51575,8 @@ maqtoa [(c) (d) hóq sI] @Dembim 2026-01-08 #zfZ0zRg2S $en ±
 maqtoa @el 2022-11-27 #wgV2lL-vj $en -1
 [t]predicate: ▯ is an anaphoric pronoun
 
-mara @Ilmen 2018-10-29 #rX6IzGP4R $en +5 %physical_property
-[t]predicate: ▯ is fluffy/airy/soft/fuzzy in texture.
+mara [(c) (d) tá sI] @Ilmen 2018-10-29 #rX6IzGP4R $en +5 %physical_property
+[t]predicate: [g]‘soft’; ▯ is fluffy/airy/soft/fuzzy in texture.
   Dembim (2026-02-10): Pronominal_class: ta
   Dembim (2026-02-10): Frame: c
 
@@ -75844,8 +75847,8 @@ soakuaı @uakci 2020-04-02 #W32sxmG_F $en ±
 soamuoq @uakci 2018-12-29 #PI5SrDy5W $en ±
 [t]predicate: ▯ is an enzyme or catalyst for reaction ▯.
 
-soao @robintown 2023-12-08 #Du4iDd-SU $en +6
-[t]predicate: ▯ interacts socially / socializes with ▯.
+soao [(c c) (d d) hó sA] @robintown 2023-12-08 #Du4iDd-SU $en +6
+[t]predicate: [g]‘socialize’; ▯ interacts socially / socializes with ▯.
   robintown (2023-12-08): social root with a social etymology: Lynn chose the C, I chose the VF :)
   Dembim (2026-02-04): Frame: c c
   Dembim (2026-02-04): Pronominal_class: ho
@@ -78408,8 +78411,8 @@ shanapıu @uakci 2022-10-25 #ttT1jattp $en ±
 shanashaı @salarua 2022-10-21 #OxeWwoETF $en ±
 [t]predicate: ▯ undergoes menopause
 
-shao @uakci 2023-09-04 #FcGl3tIP1 $en +5 %emotion
-[t]predicate: ▯ wants to satisfy property ▯.
+shao [(c 1i) (d d) hó sI] @uakci 2023-09-04 #FcGl3tIP1 $en +5 %emotion
+[t]predicate: [g]‘want.to’; ▯ wants to satisfy property ▯.
   uakci (2023-09-04): rationale: this is easily the least intuitive thing about toaq to learners. they have to be told to use **ıqshao** for this frame. meanwhile, ‘to want to X’ is a super super super common catenative/modal verb/inflection in most languages i’m familiar with, and our departure from this seems to benefit nobody in particular. for (c 0) frame i’d suggest **faqshao** or perhaps **shao gaı**
   Laqme (2023-10-31): Hoemaı has defined **aojaı** which I like to interpret as a gentle statement of support for this definition :)  +1
   lassc (2025-03-20): wish, desire
@@ -86001,6 +86004,10 @@ Togo @countries 2026-08-07 #kVp1OKIFt4f $en ±
 Togogua @countries 2026-08-07 #jGxPWRLHrJe $en ±
 ▯ is the country Togo – Togolese Republic.
 
+tohao @jiqci 2026-08-17 #PTLDX8LT6 $en ±
+interjection: "I'm speaking in Toaq right now"
+  jiqci (2026-08-17): in Lojban, "to'au" is the particle that switches to Toaq. see also **sahoı**
+
 tohao @kazoo 2025-08-26 #f1HcR8rXy $en -1
 start of Toaq text, switching from (generally) Lojban.
 
@@ -90127,6 +90134,7 @@ zoku @Laqme 2023-02-14 #exjKx_vPg $en +1
 
 zokuoq @jiqci 2023-06-30 #Y9mH9yoGP $en ±
 [t]predicate: ▯ is rebar (steel structural component of reinforced concrete).
+  jiqci (2026-08-17): cf. **rıaıbetoq**
 
 zombı @robintown 2023-02-06 #vK-ldiz2M $en +1
 [t]predicate: ▯ is a zombie.
