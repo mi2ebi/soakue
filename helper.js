@@ -129,6 +129,7 @@ function replaceLinks(str) {
     return makeLink(search, body, head === "📦" ? {className:"toa"} : {});
   });
 }
+
 function load(res, page) {
   if (!res) return;
   const start = page * 100;
