@@ -910,6 +910,7 @@ any member of ▯ can be connected to any other member by repeated application o
 ▯ believes ▯ to be the case to be true _BIAS _RAKU_chı _ARITY_2	hó	sI	2
 ▯ needs to satisfy property ▯ _BIAS _RAKU_chıa _ARITY_2	tá	sF	2
 ▯ needs to satisfy property ▯ to satisfy property ▯ _BIAS _RAKU_chıa _ARITY_3	tá	sF	3
+▯ must be dealt with ▯ requires attention something needs to be done about ▯ _BIAS _RAKU_ge _2_RAKU_chıage _ARITY_1	tá	sF	1
 ▯ is wrong incorrect _BIAS _RAKU_chıaı _ARITY_1	tá	sF	1
 ▯ doubles down on arguing opinion ▯ despite being proven wrong _BIAS _RAKU_chıo _2_RAKU_chıchıo _ARITY_2	hó	sI	2
 ▯ is a pseudonym of ▯ _BIAS _RAKU_chua _2_RAKU_chıaıchua _ARITY_2	hóq	sI	2
@@ -2062,7 +2063,7 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ is one s inventory things held on them ready to be used _BIAS _RAKU_me _2_RAKU_heaqme _ARITY_1	máq	sI	1
 ▯ drops lets go of ▯ _BIAS _RAKU_shaı _2_RAKU_heaqshaı _ARITY_2	hó	sA	2
 ▯ is an inventory in the rpg sense _BIAS _RAKU_shuo _2_RAKU_heaqshuo _ARITY_1	máq	sI	1
-▯ does what it usually does ▯ is on their usual business ▯ is going through their day as normal _BIAS _RAKU_hao _2_RAKU_hehao _ARITY_1	hó	sI	1
+▯ does what it usually does ▯ is on their usual business ▯ is going through their day as normal _BIAS _RAKU_hao _2_RAKU_hehao _ARITY_1	tá	sI	1
 ▯ is the letter h _BIAS _RAKU_haq _2_RAKU_hehaq _ARITY_1	hóq	sI	1
 ▯ are ten in number _BIAS _RAKU_heı _ARITY_1	tá	sF	1
 ▯ is an oak _BIAS _RAKU_ga _2_RAKU_heıga _ARITY_1	máq	sI	1
@@ -2174,6 +2175,8 @@ the answer to ▯ is determined by the answer to ▯ both indirect questions _BI
 ▯ is whatever satisfies property ▯ i don t know _BIAS _RAKU_ra _2_RAKU_hıra _ARITY_2	tá	sF	2
 ▯ is a barnacle _BIAS _RAKU_pıo _2_RAKU_rupıo _ARITY_1	máq	sI	1
 ▯ is shy timid _BIAS _RAKU_shıe _2_RAKU_hıshıe _ARITY_1	hó	sI	1
+proposition ▯ is an answer to question ▯ embedded interrogative _BIAS _RAKU_tıao _2_RAKU_hıtıao _ARITY_2	hóq	sI	2
+proposition ▯ is an answer to what satisfies property ▯ _BIAS _RAKU_tıao _2_RAKU_hıtıao _ARITY_2	hóq	sI	2
 ▯ is a river _BIAS _RAKU_hıu _ARITY_1	máq	sI	1
 ▯ is a hippopotamus _BIAS _RAKU_ku _2_RAKU_'eku _ARITY_1	máq	sI	1
 ▯ is a delta landform _BIAS _RAKU_me _2_RAKU_guaome _ARITY_1	máq	sI	1
@@ -3133,6 +3136,7 @@ it s ▯ which is what has property ▯ ▯ is the answer to the question of wha
 ▯ pertains to the culture of kuwait state of kuwait _BIAS _RAKU_faı _2_RAKU_kufaı _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country kuwait state of kuwait _BIAS _RAKU_gua _2_RAKU_faıgua _ARITY_1 _CAPS	máq	sI	1
 ▯ cheeses uses unconventional tactics in a game especially some seen as unsporting but stopping short of cheating by satisfying property ▯ _BIAS _RAKU_tao _2_RAKU_hatao _ARITY_2	hó	sA	2
+it s ▯ which is the answer to question ▯ ▯ is the answer to the question ▯ and i m saying this either because the question was explicitly asked or because i otherwise think it s useful to point out _BIAS _RAKU_hı _2_RAKU_kuhı _ARITY_2	hóq	sI	2
 event ▯ happens because ▯ is the case _BIAS _RAKU_kuı _ARITY_2	hóq	sE	2
 ▯ is the case because ▯ _BIAS _RAKU_kuı _ARITY_2	hóq	sP	2
 ▯ is a reason why ▯ is the case _BIAS _RAKU_ca _2_RAKU_kuıca _ARITY_2	hóq	sP	2
