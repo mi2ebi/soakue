@@ -16376,6 +16376,12 @@ dıeqjıo @Ilmen 2020-06-06 #zHqLBNU0g $en ±
 dıeqjuq @Laqme 2024-06-14 #q7fJZGWoT $en +1
 [t]predicate: ▯ receives ▯, which was sent to them.
 
+dıeqlaı @jiqci 2026-08-22 #IcpNfkfUx $en ±
+▯ is a postage stamp.
+
+dıeqlaıkueqche @jiqci 2026-08-22 #xHWVdBcS5 $en ±
+▯ is a philatelist / stamp collector.
+
 dıeqme @uakci 2021-08-25 #Pop0BDpIi $en ±
 [t]predicate: ▯ is an internet/intranet / computer network.
 
@@ -39217,9 +39223,6 @@ juola [(c c) (d d) hó sA] @Dembim 2026-02-06 #CDaKuzgX- $en ±
   Dembim (2026-02-06): Pronominal_class: ho
   Dembim (2026-02-06): Use <zuonhûq> or <côm> or another preposition for the recipient. Use <nhôe>, <îaı pam>, etc for the medium.
 
-juonuaı @jiqci 2023-08-12 #wdqScouL5 $en ±
-[t]predicate: ▯ is a postage stamp.
-
 juopaı @lassc 2025-03-25 #ytAu8Qgjy $en ±
 [t]predicate: ▯ is a pen-pal.
 
@@ -54024,6 +54027,8 @@ moapoe @fagri 2019-02-24 #moYoMckev $en ±
 
 moaq [(c 0) (d d) hó sA] @official 2026-08-18 #WD3VSMRV72kh $en ± %cognition
 [t]predicate: [g]‘remember’; ▯ remembers ▯.
+  Ilmen (2026-08-22): Presumably in the active sense: ⟪▯ experiences or retrieves memory ▯⟫.
+  Ilmen (2026-08-22): See ⟪moaqdeq⟫ for the passive ⟪▯ has ▯ stored in their memory⟫ sense.
 
 moaq @jiqci 2023-07-31 #JwDUCIUBe $pl ± %cognition
 [t]predicate: ▯ pamięta ▯.
@@ -54063,7 +54068,7 @@ moaqde @Laqme 2024-10-19 #C4vraq47r $en +1
 [t]predicate: ▯ is positively nostalgic / nice to look back on.
 
 moaqdeq @Ilmen 2021-10-07 #KJLEckk5p $en ±
-[t]predicate: ▯ is able to retrieve memory ▯.
+[t]predicate: ▯ is able to retrieve memory ▯; ▯ had ▯ stored in their memory.
 
 moaqdıu @salarua 2026-05-17 #F0dx2xeq1 $en ±
 [t]predicate: ▯ is mnemotechnics
@@ -62091,6 +62096,9 @@ nuoqchoa @uakci 2022-05-30 #dJ_uzcwer $en +1
 
 nuoqchuo @jiqci 2025-08-28 #I4uYjdm9r $en ±
 [t]predicate: ▯ is a mirror.
+
+nuoqdı @Aburn 2026-08-22 #ehaUptG8N $en +1
+[t]interjection: nightsies; cute goodnight
 
 nuoqfua @Laqme 2019-11-12 #RCPseB2ts $en ±
 [t]predicate: ▯ is a mirror.

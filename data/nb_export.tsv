@@ -366,6 +366,7 @@ the answer to ▯ changes alternates _BIAS _RAKU_beo _2_RAKU_beobeo _ARITY_1	hó
 ▯ is the northern sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	sI	1
 ▯ pertains to toaq beta _BIAS _RAKU_toaq _2_RAKU_tatoaq _ARITY_1 _CAPS	tá	sF	1
 ▯ is concrete _BIAS _RAKU_toq _2_RAKU_betoq _ARITY_1	máq	sI	1
+▯ is a concrete brick cinderblock _BIAS _RAKU_gam _2_RAKU_toqgam _ARITY_1	máq	sI	1
 ▯ is concrete powder _BIAS _RAKU_puo _2_RAKU_toqpuo _ARITY_1	máq	sI	1
 ▯ changes alters modifies ▯ in relation ▯ ▯ modifies ▯ in regards to what it is in relation ▯ with _BIAS _RAKU_tu _2_RAKU_betu _ARITY_3	hó	sA	3
 ▯ is a member of the family blattaria cockroaches _BIAS _RAKU_cha _2_RAKU_tacha _ARITY_1	hó	sI	1
@@ -525,6 +526,7 @@ fork of official predicate lose ▯ loses ▯ _BIAS _RAKU_shaı _2_RAKU_boshaı 
 ▯ is a plank _BIAS _RAKU_toq _2_RAKU_buaıtoq _ARITY_1	máq	sI	1
 ▯ is a house building for living in _BIAS _RAKU_jıo _2_RAKU_buajıo _ARITY_1	máq	sI	1
 ▯ fails to satisfy property ▯ _BIAS _RAKU_buaq _ARITY_2	hó	sI	2
+▯ tries an fails to satisfy property ▯ _BIAS _RAKU_leo _2_RAKU_buaqleo _ARITY_2	hó	sI	2
 ▯ enjoys struggling failing to satisfy property ▯ _BIAS _RAKU_pua _2_RAKU_buaqpua _ARITY_2	hó	sI	2
 ▯ attempts to do ▯ without further thought that action being an end in itself and not a step in a progressive effort to achieve another goal but that attempt ends in a failure _BIAS _RAKU_roa _2_RAKU_buaqroa _ARITY_2	hó	sA	2
 ▯ is not not the case it s not the case that ▯ isn t the case ▯ indeed is the case _BIAS _RAKU_bu _2_RAKU_bubu _ARITY_1	hóq	sP	1
@@ -1063,6 +1065,7 @@ toaq discord jargon ▯ has the choa role _BIAS _RAKU_poq _2_RAKU_choapoq _ARITY
 ▯ is a blizzard _BIAS _RAKU_zuom _2_RAKU_chuaızuom _ARITY_1	hóq	sF	1
 ▯ signs writes their signature on ▯ _BIAS _RAKU_kaı _2_RAKU_chuakaı _ARITY_2	hó	sA	2
 ▯ is a window _BIAS _RAKU_chuao _ARITY_1	máq	sI	1
+▯ unjams unblocks untightens loosens opening ▯ _BIAS _RAKU_huao _2_RAKU_chuaohuao _ARITY_2	hó	sI	2
 ▯ is a glyph representing a fillable blank spot such as the first glyph in this sentence _BIAS _RAKU_laı _2_RAKU_chuaolaı _ARITY_1	máq	sI	1
 ▯ is a window cover _BIAS _RAKU_tıe _2_RAKU_chuaotıe _ARITY_1	máq	sI	1
 ▯ is an ism ideology _BIAS _RAKU_chuaq _ARITY_1	hóq	sI	1
@@ -1645,6 +1648,7 @@ how is ▯ doing faring _BIAS _RAKU_hıa _2_RAKU_foahıa _ARITY_1	hó	sI	1
 ▯ is a cuboid _BIAS _RAKU_gam _ARITY_1	máq	sI	1
 ▯ is a camel _BIAS _RAKU_gam _ARITY_1	hó	sI	1
 ▯ is a goat _BIAS _RAKU_bıq _2_RAKU_gambıq _ARITY_1	hó	sI	1
+▯ is block lava _BIAS _RAKU_ze _2_RAKU_loeze _ARITY_1	máq	sI	1
 ▯ pertains to the culture of ghana republic of ghana _BIAS _RAKU_na _2_RAKU_gana _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country ghana republic of ghana _BIAS _RAKU_gua _2_RAKU_nagua _ARITY_1 _CAPS	máq	sI	1
 ▯ is above ▯ _BIAS _RAKU_gao _ARITY_2	tá	sS	2
@@ -1801,6 +1805,7 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ is a lamp torch flashlight candle bulb light making device _BIAS _RAKU_go _2_RAKU_gıogo _ARITY_1	máq	sI	1
 ▯ is dark poorly illuminated _BIAS _RAKU_hıaq _2_RAKU_gıohıaq _ARITY_1	tá	sF	1
 ▯ is a lamp _BIAS _RAKU_kea _2_RAKU_gıokea _ARITY_1	máq	sI	1
+▯ is a sunshade sun visor or any other tool furniture having the purpose of blocking sunlight _BIAS _RAKU_leoq _2_RAKU_gıoleoq _ARITY_1	máq	sI	1
 ▯ cooks is cooked through exposure to thermal radiation _BIAS _RAKU_loeq _2_RAKU_gıoloeq _ARITY_1	tá	sI	1
 ▯ is bright _BIAS _RAKU_gıom _ARITY_1	tá	sF	1
 ▯ is a light year _BIAS _RAKU_nıaq _2_RAKU_gıonıaq _ARITY_1	hóq	sI	1
@@ -2836,6 +2841,7 @@ what does ▯ look like how does ▯ look _BIAS _RAKU_hıa _2_RAKU_kaqhıa _ARIT
 ▯ is a lens spectacle lens telescope lens photographic lens all alike _BIAS _RAKU_shıa _2_RAKU_kaqshıa _ARITY_1	máq	sI	1
 ▯ is a freak of nature an abberation a mutant _BIAS _RAKU_shoı _2_RAKU_kaqshoı _ARITY_1	hó	sI	1
 ▯ stares at ▯ _BIAS _RAKU_shue _2_RAKU_kaqshue _ARITY_2	hó	sA	2
+▯ is visually in the way of obscures blocks the view of ▯ _BIAS _RAKU_tıe _2_RAKU_kaqtıe _ARITY_2	máq	sI	2
 ▯ is a karaoke machine _BIAS _RAKU_kea _2_RAKU_kekea _ARITY_1	máq	sI	1
 ▯ is the karakalpak language _BIAS _RAKU_zu _2_RAKU_kazu _ARITY_1 _CAPS	hóq	sI	1
 ▯ is a european hornet vespa crabro _BIAS _RAKU_re _2_RAKU_sere _ARITY_1	hó	sI	1
@@ -3780,6 +3786,7 @@ mo ▯ says text to ▯ _BIAS _RAKU_moao _ARITY_2	hó	sA	2
 ▯ memorizes ▯ _BIAS _RAKU_chıe _2_RAKU_moaqchıe _ARITY_2	hó	sA	2
 ▯ is a mnemonic for remembering ▯ _BIAS _RAKU_chuo _2_RAKU_moaqchuo _ARITY_2	máq	sI	2
 ▯ is positively nostalgic nice to look back on _BIAS _RAKU_de _2_RAKU_moaqde _ARITY_1	tá	sE	1
+▯ is able to retrieve memory ▯ ▯ had ▯ stored in their memory _BIAS _RAKU_deq _2_RAKU_moaqdeq _ARITY_2	hó	sI	2
 ▯ is mnemotechnics _BIAS _RAKU_dıu _2_RAKU_moaqdıu _ARITY_1	hóq	sI	1
 ▯ experiences property ▯ and consequently is mentally affected by it for a long time _BIAS _RAKU_fea _2_RAKU_moaqfea _ARITY_2	hó	sA	2
 ▯ is an electronic or mechanical data storage device _BIAS _RAKU_kea _2_RAKU_moaqkea _ARITY_1	máq	sI	1
@@ -4619,6 +4626,7 @@ turns following phrase x into verb ▯ is of x ▯ is associated with x _BIAS _R
 ▯ is a fern _BIAS _RAKU_dı _2_RAKU_podı _ARITY_1	máq	sI	1
 ▯ is apart separate from ▯ in property ▯ _BIAS _RAKU_poe _ARITY_3	tá	sF	3
 ▯ is apart separate from ▯ _BIAS _RAKU_poe _ARITY_2	tá	sF	2
+▯ is an umbrella as a blocker of sun rain as a stylistic or cultural accessory or otherwise _BIAS _RAKU_chea _2_RAKU_poechea _ARITY_1	máq	sI	1
 ▯ is a stylized embellished poetic ized dialect variant of language ▯ _BIAS _RAKU_zu _2_RAKU_dızu _ARITY_2	hóq	sF	2
 ▯ is a fence _BIAS _RAKU_gıa _2_RAKU_poegıa _ARITY_1	máq	sI	1
 ▯ is tibet _BIAS _RAKU_gua _2_RAKU_poegua _ARITY_1 _CAPS	máq	sI	1
@@ -5049,6 +5057,7 @@ fork of qmpgdfm1l ▯ is a salami _BIAS _RAKU_lam _2_RAKU_salam _ARITY_1	máq	sI
 ▯ is ambitious as a personality trait _BIAS _RAKU_he _2_RAKU_leohe _ARITY_1	hó	sI	1
 ▯ is the big ▯ the largest companies within the industry related to ▯ understood collectively as a major economic player _BIAS _RAKU_po _2_RAKU_saopo _ARITY_3	hóq	sI	3
 ▯ is a celebration feast ceremony rite _BIAS _RAKU_se _2_RAKU_saose _ARITY_1	hóq	sE	1
+▯ is a building made of large prefabricated concrete slabs _BIAS _RAKU_jıo _2_RAKU_tıqjıo _ARITY_1	máq	sI	1
 ▯ are three in number _BIAS _RAKU_saq _ARITY_1	tá	sF	1
 ▯ is thanksgiving day _BIAS _RAKU_bıq _2_RAKU_gıbıq _ARITY_1 _CAPS	hóq	sI	1
 ▯ happens thrice three times _BIAS _RAKU_chıo _2_RAKU_saqchıo _ARITY_1	hóq	sP	1
