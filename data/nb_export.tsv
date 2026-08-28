@@ -1686,6 +1686,7 @@ fork of official predicate alone ▯ is alone _BIAS _RAKU_cıa _2_RAKU_gaqcıa _
 ▯ is a gram _BIAS _RAKU_ram _2_RAKU_garam _ARITY_1	hóq	sI	1
 ▯ is a gastropod _BIAS _RAKU_pue _2_RAKU_rapue _ARITY_1	hó	sI	1
 ▯ is a slug cat _BIAS _RAKU_to _2_RAKU_kato _ARITY_1	hó	sI	1
+▯ is a rake _BIAS _RAKU_pu _2_RAKU_sapu _ARITY_1	máq	sI	1
 ▯ is a solid state of matter _BIAS _RAKU_te _2_RAKU_gate _ARITY_1	máq	sI	1
 ▯ is a stimulus _BIAS _RAKU_ge _ARITY_1	hóq	sF	1
 ▯ is high _BIAS _RAKU_gea _ARITY_1	tá	sS	1
@@ -2993,7 +2994,9 @@ fork of amo6x sn1 ▯ are the settings concerning ▯ _BIAS _RAKU_juao _2_RAKU_k
 ▯ feels resentment bitterness towards ▯ for action ▯ _BIAS _RAKU_gıq _2_RAKU_kıegıq _ARITY_3	hó	sI	3
 ▯ is ice _BIAS _RAKU_kıeı _ARITY_1	máq	sI	1
 ▯ is an ice cube _BIAS _RAKU_gam _2_RAKU_kıeıgam _ARITY_1	máq	sI	1
+▯ is a glacier _BIAS _RAKU_hıu _2_RAKU_kıeıhıu _ARITY_1	máq	sI	1
 ▯ is ice cold _BIAS _RAKU_koa _2_RAKU_kıeıkoa _ARITY_1	tá	sI	1
+▯ is a glacier _BIAS _RAKU_leq _2_RAKU_kıeıleq _ARITY_1	máq	sI	1
 ▯ says thanks to ▯ _BIAS _RAKU_kuq _2_RAKU_kıekuq _ARITY_2	hó	sA	2
 ▯ keeps ▯ the case _BIAS _RAKU_kıem _ARITY_2	hó	sA	2
 ▯ experiences disgust _BIAS _RAKU_kıeq _ARITY_1	hó	sI	1
@@ -3284,6 +3287,7 @@ for the first time in ▯ duration it happens that ▯ is the case _BIAS _RAKU_h
 ▯ are bay leaves laurel leaves herb spice _BIAS _RAKU_ra _2_RAKU_lara _ARITY_1	máq	sI	1
 ▯ is an abstract object encoding property ▯ _BIAS _RAKU_raı _2_RAKU_laraı _ARITY_2	hóq	sI	2
 ▯ curls up twists crumples up _BIAS _RAKU_sa _2_RAKU_lasa _ARITY_1	tá	sI	1
+▯ is a cirrus cloud _BIAS _RAKU_puao _2_RAKU_sapuao _ARITY_1	máq	sI	1
 ▯ is a laser ray _BIAS _RAKU_soaı _2_RAKU_lasoaı _ARITY_1	máq	sI	1
 ▯ is heraldry _BIAS _RAKU_dıu _2_RAKU_soqdıu _ARITY_1	hóq	sI	1
 ▯ is the latin language _BIAS _RAKU_zu _2_RAKU_nazu _ARITY_1 _CAPS	hóq	sI	1
@@ -3468,6 +3472,8 @@ the text utterance ▯ is very verbose _BIAS _RAKU_kao _2_RAKU_hukao _ARITY_1	h�
 ▯ is safe not threatened by danger _BIAS _RAKU_lom _ARITY_1	tá	sI	1
 ▯ jumps leaps springs _BIAS _RAKU_lom _ARITY_1	hó	sA	1
 ▯ protects saves rescues ▯ _BIAS _RAKU_ja _2_RAKU_lomja _ARITY_2	hó	sA	2
+▯ retrieves ▯ to safety out of a dangerous situation _BIAS _RAKU_nua _2_RAKU_lomnua _ARITY_2	hó	sI	2
+▯ is a rescuer _BIAS _RAKU_che _2_RAKU_nuache _ARITY_1	hó	sI	1
 ▯ is a metal ore _BIAS _RAKU_pıo _2_RAKU_lopıo _ARITY_1	máq	sI	1
 ▯ is hot warm _BIAS _RAKU_loq _ARITY_1	tá	sI	1
 ▯ is hornfels _BIAS _RAKU_pıo _2_RAKU_caıpıo _ARITY_1	máq	sI	1
@@ -3983,6 +3989,7 @@ understanding the meaning of ▯ is hard _BIAS _RAKU_noa _2_RAKU_duanoa _ARITY_1
 ▯ is a water lily _BIAS _RAKU_nıu _2_RAKU_boenıu _ARITY_1	máq	sI	1
 ▯ is a water bottle _BIAS _RAKU_cheoq _2_RAKU_naocheoq _ARITY_1	máq	sI	1
 ▯ is a lava lamp _BIAS _RAKU_kea _2_RAKU_gıokea _ARITY_1	máq	sI	1
+▯ is a dam _BIAS _RAKU_goeq _2_RAKU_naogoeq _ARITY_1	máq	sI	1
 ▯ is an island _BIAS _RAKU_guaq _2_RAKU_naoguaq _ARITY_1	máq	sI	1
 ▯ is a bathroom _BIAS _RAKU_kua _2_RAKU_naokua _ARITY_1	máq	sI	1
 ▯ is an otter _BIAS _RAKU_ne _2_RAKU_kune _ARITY_1	hó	sI	1
@@ -4316,6 +4323,7 @@ what does ▯ taste like how does ▯ taste _BIAS _RAKU_hıa _2_RAKU_noqhıa _AR
 ▯ is a cluster of galaxies _BIAS _RAKU_me _2_RAKU_sıoqme _ARITY_1	máq	sI	1
 ▯ is a constellation _BIAS _RAKU_teı _2_RAKU_nuımteı _ARITY_1	hóq	sI	1
 ▯ is a dwarf planet _BIAS _RAKU_te _2_RAKU_nete _ARITY_1	máq	sI	1
+▯ breaks shatters into pieces ▯ _BIAS _RAKU_poaq _2_RAKU_nuıpoaq _ARITY_2	máq	sI	2
 ▯ is like that _BIAS _RAKU_jao _2_RAKU_nujao _ARITY_1	tá	sF	1
 ▯ is like this _BIAS _RAKU_juı _2_RAKU_nujuı _ARITY_1	tá	sF	1
 ▯ is grease oily or fatty matter _BIAS _RAKU_lı _2_RAKU_nulı _ARITY_1	máq	sI	1
@@ -4620,6 +4628,7 @@ turns following phrase x into verb ▯ is of x ▯ is associated with x _BIAS _R
 ▯ satisfies property ▯ permanently evermore _BIAS _RAKU_poam _ARITY_2	tá	sF	2
 ▯ is trapped confined locked shut inside of ▯ _BIAS _RAKU_nıe _2_RAKU_poanıe _ARITY_2	tá	sI	2
 ▯ breaks parts splits _BIAS _RAKU_poaq _ARITY_1	máq	sI	1
+▯ breaks splits shatters ▯ _BIAS _RAKU_ja _2_RAKU_poaqja _ARITY_2	hó	sI	2
 ▯ has a tendency to disintegrate crumble fall apart ▯ aţq asıb _BIAS _RAKU_le _2_RAKU_poaqle _ARITY_1	tá	sI	1
 ▯ is a shard cullet _BIAS _RAKU_se _2_RAKU_poaqse _ARITY_1	máq	sI	1
 ▯ is a fern _BIAS _RAKU_dı _2_RAKU_podı _ARITY_1	máq	sI	1
@@ -4871,6 +4880,7 @@ lanao ▯ is outbound headed to the outskirts of the spiral _BIAS _RAKU_na _2_RA
 ▯ avoids evades satisfying property ▯ _BIAS _RAKU_rıeq _ARITY_2	tá	sA	2
 ▯ is an esc escape key _BIAS _RAKU_cıoq _2_RAKU_rıeqcıoq _ARITY_1	máq	sI	1
 ▯ circumvents bypasses or skirts around ▯ _BIAS _RAKU_fa _2_RAKU_rıeqfa _ARITY_2	hó	sA	2
+▯ is a boundary delimiting or separating ▯ from each other _BIAS _RAKU_rea _2_RAKU_rıerea _ARITY_2	máq	sI	2
 ▯ is air _BIAS _RAKU_rıo _ARITY_1	máq	sI	1
 ▯ is a tornado _BIAS _RAKU_bıu _2_RAKU_rıobıu _ARITY_1	máq	sI	1
 ▯ is an aircraft plane _BIAS _RAKU_chao _2_RAKU_rıochao _ARITY_1	máq	sI	1
@@ -5038,6 +5048,7 @@ fork of qmpgdfm1l ▯ is a salami _BIAS _RAKU_lam _2_RAKU_salam _ARITY_1	máq	sI
 ▯ is an aggregate of things having property ▯ _BIAS _RAKU_sam _ARITY_2	tá	sI	2
 ▯ is a moth of genus samia in the family saturniidae _BIAS _RAKU_sam _ARITY_1	hó	sI	1
 ▯ is a sami language _BIAS _RAKU_zu _2_RAKU_samzu _ARITY_1 _CAPS	hóq	sI	1
+▯ is missing unfindable nowhere to be found of unknown whereabout _BIAS _RAKU_nhue _2_RAKU_samnhue _ARITY_1	máq	sI	1
 ▯ pertains to the culture of samoa independent state of samoa _BIAS _RAKU_sam _ARITY_1 _CAPS	tá	sF	1
 ▯ is the country samoa independent state of samoa _BIAS _RAKU_gua _2_RAKU_samgua _ARITY_1 _CAPS	máq	sI	1
 ▯ is big large _BIAS _RAKU_sao _ARITY_1	tá	sS	1
@@ -5057,6 +5068,7 @@ fork of qmpgdfm1l ▯ is a salami _BIAS _RAKU_lam _2_RAKU_salam _ARITY_1	máq	sI
 ▯ is the big ▯ the largest companies within the industry related to ▯ understood collectively as a major economic player _BIAS _RAKU_po _2_RAKU_saopo _ARITY_3	hóq	sI	3
 ▯ is a celebration feast ceremony rite _BIAS _RAKU_se _2_RAKU_saose _ARITY_1	hóq	sE	1
 ▯ is a building made of large prefabricated concrete slabs _BIAS _RAKU_jıo _2_RAKU_tıqjıo _ARITY_1	máq	sI	1
+▯ is a broom _BIAS _RAKU_pu _2_RAKU_sapu _ARITY_1	máq	sI	1
 ▯ are three in number _BIAS _RAKU_saq _ARITY_1	tá	sF	1
 ▯ is thanksgiving day _BIAS _RAKU_bıq _2_RAKU_gıbıq _ARITY_1 _CAPS	hóq	sI	1
 ▯ happens thrice three times _BIAS _RAKU_chıo _2_RAKU_saqchıo _ARITY_1	hóq	sP	1
@@ -5901,6 +5913,7 @@ doing ▯ is a way of doing ▯ _BIAS _RAKU_jı _2_RAKU_tajı _ARITY_2	hóq	sP	2
 ▯ is a way path _BIAS _RAKU_tıeq _ARITY_1	máq	sI	1
 ▯ is lost unable or struggling to find one s way _BIAS _RAKU_bıao _2_RAKU_tıeqbıao _ARITY_1	hó	sA	1
 ▯ removes obstacle s that lie in the way of ▯ metaphorically or literally clearing the path for the latter _BIAS _RAKU_do _2_RAKU_tıeqdo _ARITY_2	hó	sI	2
+▯ goes along path ▯ _BIAS _RAKU_fa _2_RAKU_tıeqfa _ARITY_2	hó	sI	2
 ▯ is a network of roads paths _BIAS _RAKU_koaı _2_RAKU_tıeqkoaı _ARITY_1	máq	sI	1
 ▯ is a router _BIAS _RAKU_kea _2_RAKU_koekea _ARITY_1	máq	sI	1
 ▯ is a surjection surjective function _BIAS _RAKU_tıem _2_RAKU_tıetıem _ARITY_1	hóq	sI	1

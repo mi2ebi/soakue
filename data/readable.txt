@@ -15430,6 +15430,9 @@ dealaq @seaqtaq 2019-09-17 #IbIHWiZ8LeE $en ±
 deam @evie 2024-11-24 #VQgH2CHkF $en ±
 [t]predicatizer: ▯ is the date/time x
 
+deaq- @Ilmen 2026-08-27 #qkWHpK9uR $en ±
+turn a number N into pseudo-number "at least N".
+
 deaq [(c) (d) máq sI] @official 2026-08-18 #719qefsbMoR $en ±
 [t]predicate: [g]‘floor’; ▯ is a floor.
 
@@ -26516,6 +26519,9 @@ guaqzuom @Laqme 2024-11-03 #lf5aAguXx $en ±
 
 guarıe @Laqme 2021-08-07 #jUzxtKwDJ $en ±
 [t]predicate: ▯ is international, happening with the involvement of (people from) countries ▯.
+
+guarıerea @Ilmen 2026-08-27 #WEcCnezWH $en ±
+▯ is a common border separating countries ▯.
 
 guarurıche @robintown 2025-03-12 #9_X-EAHqx $en ±
 [t]predicate: ▯ is a diplomat/ambassador.
@@ -46808,7 +46814,7 @@ lasakueqbeqpuao @salarua 2023-02-11 #pUUuhzqTT $en ±
 lasaneopaqpuao @salarua 2023-02-11 #HsyE_4AIn $en ±
 [t]predicate: [g]‘cirrostratus.cloud’; ▯ is a cirrostratus cloud
 
-lasapuao @salarua 2023-02-11 #x7RmkCLEE $en ±
+lasapuao [(c) (d) máq sI] @salarua 2023-02-11 #x7RmkCLEE $en ±
 [t]predicate: [g]‘cirrus.cloud’; ▯ is a cirrus cloud
 
 laso @kazoo 2025-04-30 #IdFLQkgby $en ±
@@ -48755,6 +48761,9 @@ loaızıa @seaqtaq 2024-11-19 #-Qt0DdFcY $en ±
 loaızuı @jiqci 2023-06-10 #fElRULyGt $en ±
 [t]predicate: ▯ has low throughput.
 
+loaızuom @Ilmen 2026-08-27 #7WZcDMy7P $en ±
+▯ is a flood.
+
 loajo @Laqme 2025-03-10 #4UmGw0iaH $en ±
 [t]predicate: ▯ is a half-diminished (m7♭5) chord.
 
@@ -49311,6 +49320,12 @@ lommoe @Laqme 2023-05-10 #cB7TV39C0 $en ±
 
 lomna @seaqtaq 2025-05-03 #q8rIkopWD $en +2
 [t]interjection: "in the clear!" / "we're safe/free!"
+
+lomnua @Ilmen 2026-08-27 #GD70nYl8z $en ±
+[t]predicate: ▯ retrieves ▯ to safety, out of a dangerous situation.
+
+lomnuache @Ilmen 2026-08-27 #55ShjMtG6 $en ±
+[t]predicate: ▯ is a rescuer.
 
 lomsem @seaqtaq 2024-11-06 #z1NzEeq1J $en ±
 [t]predicate: ▯ spares ▯; ▯ lets ▯ go on, refraining from hurting them
@@ -69987,6 +70002,9 @@ rıeqsoa @uakci 2022-11-05 #IktThgd61 $en ±
 rıeqtaı @seaqtaq 2024-07-07 #VicNkjwDL $en ±
 [t]predicate: ▯ escapes (from the obligation of) satisfying property ▯.
 
+rıerea @Ilmen 2026-08-27 #vqAvs5Rlh $en ±
+[t]predicate: ▯ is a boundary delimiting or separating ▯ from each other.
+
 ríeroı [] @uakci 2023-07-26 #xI_1hofA0 $en ±
 [t]conjunction: [g]‘definitionally.mixed.with’; some of X, some of Y; half-X half-Y; between X and Y
 
@@ -72691,6 +72709,9 @@ Samızu [(c) (d) hóq sI] @salarua 2023-12-06 #_KcBNYuHk $en ±
 
 samkero @Laqme 2025-05-07 #wg9GzmAq5 $en ±
 [t]predicate: ▯ is a pomelo tree.
+
+samnhue @Ilmen 2026-08-27 #G3i7Q-Mr6 $en ±
+[t]predicate: ▯ is missing, unfindable, nowhere to be found, of unknown whereabout.
 
 samo @Laqme 2025-05-07 #vmMX5fYqH $en ±
 [t]predicate: ▯ is a pomelo.
@@ -84399,7 +84420,7 @@ tıeqdo @Dembim 2026-07-22 #k7UGSDkXb $en ±
   Dembim (2026-07-22): Basically **soa** with flavor.
   Dembim (2026-07-22): Can be used for offering advice that "gives a clear way forward" just as well as for cutting through a pack of waylaying bandits on a mountain road.
 
-tıeqfa @Machy 2020-06-09 #_2xu8ZwkK $en -1
+tıeqfa @Machy 2020-06-09 #_2xu8ZwkK $en ±
 [t]predicate: ▯ goes along path ▯.
   Laqme (2022-07-06): "follows" (as in following a path)
 
@@ -99412,14 +99433,14 @@ boe(sıu)guaq @seaqtaq 2019-01-31 #i9v-Ha7kG $en ±
 [t]predicate: ▯ is a binary relation/predicate.
   Laqme (2024-05-01): prefer **guja**
 
-⚠ cy @kazoo 2026-01-16 #IjcoWdVj_ $en ±
-end ꝡä, lä, ë and tïo clauses.
-  kazoo (2026-01-16): mostly used to include adverbials at the end of a complementizer clause
-
 ⚠ cytao @uakci 2022-07-29 #SLYDsL7Di $en -1
 [t]predicate: ▯ spits.
   uakci (2022-07-29): stressed y is allowable here because the cy part is onomatopoeic
   uakci (2022-07-29): (fork of official **cutao**)
+
+⚠ cy @kazoo 2026-01-16 #IjcoWdVj_ $en -1
+end ꝡä, lä, ë and tïo clauses.
+  kazoo (2026-01-16): mostly used to include adverbials at the end of a complementizer clause
 
 ⚠ chaıheqmy @uakci 2022-06-24 #BKXqEHWqx $en ±
 [t]predicate: ▯ is a teapot (vessel for brewing tea)
@@ -99594,12 +99615,6 @@ as seldom occurs
 ⚠ fay @el 2022-07-10 #jZxQ6R9v_ $tok ±
 [t]predicate: ▯ li tawa ▯
 
-⚠ feamy @uakci 2022-02-06 #gKXXLQUFb $en -1
-[t]predicate: ▯ is residue/salvage/carryover/(dregs/shavings/debris)/(trace/vestige/remnants); ▯ is what remains of ▯ after property ▯ has been endured by it / applied to it.
-  uakci (2022-02-06): does not inherently carry a negative connotation (as does ‘dregs’, for example); **feamy chủq** ‘leftovers on a plate’ (**feamy mủobu chủq** ‘food left unfinished’); **feamy pỏaq** ‘trace(s) of something having been destroyed; rubble/debris’
-  uakci (2022-02-06): **feamy gỉcha mỉelıe** ‘what’s left of a life well lived’
-  uakci (2022-02-06): **feamy sỉqtua** ‘uncleanliness left behind’
-
 ⚠ febakoy @Machy 2022-04-15 #SAZZctsUR $en -1
 [t]predicate: ▯ commands ▯ to satisfy property ▯.
 
@@ -99767,7 +99782,7 @@ jeq ja hey ja mu hey sa raq, keo huaq héy mú ja cuaq
 ⚠ hısh(ı) @mimiaoganhaqpy 2023-04-10 #xGIQaNAnj $en -1
 [t]interjection: ‘hiss’
 
-⚠ hıty @uakci 2022-09-22 #MN-bu2EWf $en ±
+⚠ hıty @uakci 2022-09-22 #MN-bu2EWf $en -1
 [t]predicate: ▯ makes a quick stab at satisfying property ▯ having previously vacillated/held themselves back, then recedes; ▯ makes resolute move ▯ then disappears; ▯ hits-and-runs by satisfying property ▯.
   uakci (2022-09-22): < English ‘hit and run’
   uakci (2022-09-22): not limited to situations where one *literally* hits and then *literally* runs, but also to mimetically similar situations of doing something out of nowhere after a period of hesitation and then returning to one’s original dormant/reserved/vigilant state
@@ -100338,7 +100353,7 @@ pejorative demonstrative (points out / singles out a referent in a decrying/demo
 ⚠ nulınuty @mimiaoganhaqpy 2022-09-08 #zN64UW5FK $en ±
 [t]predicate: ▯ is tenkasu.
 
-⚠ nuty @el 2022-06-27 #tEIMSJm7Q $en ±
+⚠ nuty @el 2022-06-27 #tEIMSJm7Q $en -1
 [t]predicate: ▯ is dregs/debris/remains
   el (2022-06-27): < awkwords
   el (2022-06-27): also: gunk
