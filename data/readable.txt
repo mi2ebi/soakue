@@ -725,6 +725,7 @@ alaq @jiqci 2023-06-26 #0v_A_u_wg $en +1
 
 alefelaı @seaqtaq 2025-05-06 #jDILk1fP9 $en ±
 [t]predicate: ▯ is the hebrew letter aleph
+  Aburn (2026-08-29): א
 
 alefem @seaqtaq 2025-05-06 #8pICxH72_ $en ±
 [t]predicate: ▯ is some extremely/arbitrarily large value
@@ -10582,6 +10583,9 @@ cheaqmaı @Laqme 2025-04-06 #OpblP77P6 $en ±
 
 cheaqpaı @Laqme 2025-04-19 #vulJA2s9q $en ±
 [t]predicate: ▯ is a close/trusted friend of ▯.
+
+cheaqpoq @Aburn 2026-08-29 #d6eCiPjYO $en ±
+▯ is a confidant
 
 cheaqsue @xorxes 2020-06-07 #nsOGAtZ0I $en +1
 [t]predicate: ▯ entrusts ▯ to satisfy property ▯.
@@ -31218,6 +31222,10 @@ hoıgıq @uakci 2022-10-22 #118E6s4x- $en -1
 
 hoımu @uakci 2020-04-19 #feeBoVuup $en ±
 [t]predicate: ▯ is the following / is what follows; ▯ is the nearest future mention of a thing which satisfies property ▯.
+
+hóıne @Aburn 2026-08-29 #D46aRg9FE $en ±
+Dear…; vocative/start for formal occasions, like a letter
+  Aburn (2026-08-29): written occasions
 
 hoıpaı @seaqtaq 2023-03-22 #rTxdA4jNS $en ±
 [t]predicate: ▯ is opal.
@@ -77877,6 +77885,10 @@ Suomı @countries 2026-08-28 #1iQSxQR6mToY $en ±
 
 Suomıgua @countries 2026-08-28 #hjm72D50iim2 $en ±
 ▯ is the country Finland – Republic of Finland.
+
+súone @Aburn 2026-08-29 #1GxuCqdp_ $en ±
+Sincerely…; With kind regards…; ending to a formal occasion, like a letter
+  Aburn (2026-08-29): written occasions
 
 suonuo @samael 2025-09-29 #2cIj0KiqU $es -1
 ser un viaje astral; experiencia extracorporal
