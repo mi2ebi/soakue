@@ -702,6 +702,8 @@ event ▯ has ▯ as initiating force _BIAS _RAKU_bo _2_RAKU_cabo _ARITY_2	hóq	
 ▯ stops satisfying property ▯ _BIAS _RAKU_cıaı _ARITY_2	tá	sF	2
 ▯ is a culture _BIAS _RAKU_cıao _ARITY_1	hóq	sI	1
 the behaviors and attitudes ▯ properties are a culture shared among ▯ usually by transmission from member to member _BIAS _RAKU_cıao _ARITY_2	hóq	sP	2
+▯ is a community sharing culture ▯ _BIAS _RAKU_me _2_RAKU_jeqme _ARITY_2	hó	sI	2
+▯ is a society community with a common culture _BIAS _RAKU_luo _2_RAKU_cıaoluo _ARITY_1	hó	sI	1
 ▯ is a golden age of society ▯ _BIAS _RAKU_me _2_RAKU_nıaqme _ARITY_2	hóq	sF	2
 ▯ is a fish _BIAS _RAKU_cıe _ARITY_1	hó	sI	1
 ▯ is a fishing rod _BIAS _RAKU_beaq _2_RAKU_cıebeaq _ARITY_1	máq	sI	1
@@ -791,6 +793,7 @@ fork of official predicate wet ▯ is wet with ▯ _BIAS _RAKU_cuaı _ARITY_2	t�
 ▯ is a political scientist _BIAS _RAKU_che _2_RAKU_dıuche _ARITY_1	hó	sI	1
 ▯ is a government _BIAS _RAKU_fuaı _2_RAKU_cuefuaı _ARITY_1	hóq	sI	1
 ▯ is a domain realm _BIAS _RAKU_rıaq _2_RAKU_cuerıaq _ARITY_1	máq	sI	1
+▯ is an anarchy community organized by individual cooperation rather than by a government _BIAS _RAKU_sıam _2_RAKU_cuesıam _ARITY_1	hó	sI	1
 ▯ is sovereign said of a political entity possibly as small as one person _BIAS _RAKU_taq _2_RAKU_cuetaq _ARITY_1	tá	sI	1
 ▯ is a hemlock tree _BIAS _RAKU_ga _2_RAKU_cuga _ARITY_1	máq	sI	1
 ▯ is magenta _BIAS _RAKU_cuı _ARITY_1	tá	sI	1
@@ -1218,6 +1221,7 @@ lanao ▯ is inbound headed to the center of the spiral _BIAS _RAKU_na _2_RAKU_f
 ▯ just can t stahp talking _BIAS _RAKU_duoı _2_RAKU_deoqduoı _ARITY_1	hó	sI	1
 ▯ is a letter _BIAS _RAKU_peq _2_RAKU_deoqpeq _ARITY_1	máq	sI	1
 ▯ is a content moderator _BIAS _RAKU_che _2_RAKU_juche _ARITY_1	hó	sI	1
+▯ communicates to ▯ that the two are in relation ▯ _BIAS _RAKU_toı _2_RAKU_deoqtoı _ARITY_3	hó	sI	3
 ▯ is one s communicative identifier signature ▯ is one s voice not necessarily vocal _BIAS _RAKU_su _2_RAKU_zaosu _ARITY_1	hóq	sI	1
 ▯ pertains to toaq delta _BIAS _RAKU_toaq _2_RAKU_tatoaq _ARITY_1 _CAPS	tá	sF	1
 ▯ is a common dolphin delphinus genus _BIAS _RAKU_pı _2_RAKU_depı _ARITY_1	hó	sI	1
@@ -1678,6 +1682,7 @@ fork of official predicate alone ▯ is alone _BIAS _RAKU_cıa _2_RAKU_gaqcıa _
 ▯ rejects solidarity with ▯ despite having been accepted into the fold ▯ vehemently refuses to associate with ▯ even though they have the opportunity to do so due to a strong inner sense that they do not in fact belong to said group collective culture _BIAS _RAKU_feu _2_RAKU_jeqfeu _ARITY_2	hó	sI	2
 ▯ does ▯ as a social pretext _BIAS _RAKU_la _2_RAKU_gaqla _ARITY_2	hó	sI	2
 ▯ is a group team gang band _BIAS _RAKU_me _2_RAKU_gaqme _ARITY_1	tá	sI	1
+▯ is a community group of interacting organisms _BIAS _RAKU_me _2_RAKU_gaqme _ARITY_1	hó	sI	1
 ▯ feels a sense of belonging to group ▯ _BIAS _RAKU_moe _2_RAKU_gaqmoe _ARITY_2	hó	sI	2
 ▯ is alone _BIAS _RAKU_sıa _2_RAKU_gaqsıa _ARITY_1	tá	sI	1
 ▯ requests ▯ accompany them _BIAS _RAKU_sue _2_RAKU_gaqsue _ARITY_2	hó	sA	2
@@ -1895,6 +1900,7 @@ fork of 1bop7ntap there s an opportunity for ▯ to happen ▯ has the opportuni
 ▯ is an employee _BIAS _RAKU_te _2_RAKU_jeate _ARITY_1	hó	sI	1
 ▯ is a work computer a computer you do your work on _BIAS _RAKU_kea _2_RAKU_jıoqkea _ARITY_1	máq	sI	1
 ▯ is a report essay completed assignment homework _BIAS _RAKU_kao _2_RAKU_guaıkao _ARITY_1	hóq	sI	1
+▯ is communism _BIAS _RAKU_chuaq _2_RAKU_mechuaq _ARITY_1	hóq	sI	1
 ▯ is a workplace office _BIAS _RAKU_rıaq _2_RAKU_guaırıaq _ARITY_1	máq	sI	1
 ▯ puts off procrastinates avoids working at satisfying ▯ _BIAS _RAKU_rıeq _2_RAKU_guaırıeq _ARITY_2	hó	sI	2
 ▯ is a workbench _BIAS _RAKU_fua _2_RAKU_toqfua _ARITY_1	máq	sI	1
@@ -2528,6 +2534,7 @@ it s ▯ out of the salient options which is what satisfies property ▯ _BIAS _
 ▯ is a murder mystery _BIAS _RAKU_lua _2_RAKU_jıamlua _ARITY_1	hóq	sI	1
 ▯ is a massacre _BIAS _RAKU_zuom _2_RAKU_jıamzuom _ARITY_1	hóq	sF	1
 ▯ is a god _BIAS _RAKU_jıao _ARITY_1	hó	sI	1
+▯ prays communicates with supernatural or divine being ▯ _BIAS _RAKU_deoq _2_RAKU_jıaodeoq _ARITY_2	hó	sI	2
 ▯ is theology _BIAS _RAKU_dıu _2_RAKU_jıaodıu _ARITY_1	hóq	sI	1
 ▯ is a temple church sanctuary synagogue shrine _BIAS _RAKU_jıo _2_RAKU_jıaojıo _ARITY_1	máq	sI	1
 ▯ is a priest _BIAS _RAKU_che _2_RAKU_kuqche _ARITY_1	hó	sI	1
@@ -3190,9 +3197,11 @@ relevantly ▯ satisfies property ▯ it is ▯ that satisfies property ▯ ▯ 
 relevantly ▯ is of related to ▯ circumstantially ▯ is identified characterized as being related to ▯ _BIAS _RAKU_po _2_RAKU_kupo _ARITY_2	tá	sF	2
 ▯ says ▯ _BIAS _RAKU_kuq _ARITY_2	hó	sA	2
 ▯ says ▯ _BIAS _RAKU_kuq _ARITY_2	hó	sA	2
+▯ is a communication channel or chat room _BIAS _RAKU_ce _2_RAKU_kuqce _ARITY_1	máq	sI	1
 ▯ is a chatter twitch discord c _BIAS _RAKU_che _2_RAKU_kuqche _ARITY_1	hó	sI	1
 ▯ insults ▯ _BIAS _RAKU_hıao _2_RAKU_kuqhıao _ARITY_2	hó	sA	2
 ▯ is a siege engine _BIAS _RAKU_kea _2_RAKU_jeqkea _ARITY_1	máq	sI	1
+▯ is a record of communication about ▯ _BIAS _RAKU_kao _2_RAKU_kuqkao _ARITY_2	hóq	sI	2
 ▯ is a phoneme _BIAS _RAKU_laı _2_RAKU_kuqlaı _ARITY_1	máq	sI	1
 ▯ says ▯ in his her their mind ▯ thinks ▯ quote _BIAS _RAKU_moı _2_RAKU_kuqmoı _ARITY_2	hó	sI	2
 ▯ is allegedly the case _BIAS _RAKU_nu _2_RAKU_kuqnu _ARITY_1	hóq	sP	1
@@ -5964,6 +5973,7 @@ doing ▯ is a way of doing ▯ _BIAS _RAKU_jı _2_RAKU_tajı _ARITY_2	hóq	sP	2
 ▯ coins a compound derived word ▯ _BIAS _RAKU_baı _2_RAKU_toabaı _ARITY_2	hó	sA	2
 ▯ is a toaqist toaq weeb toaboo _BIAS _RAKU_bu _2_RAKU_toabu _ARITY_1	hó	sI	1
 ▯ is at loss for words _BIAS _RAKU_buaq _2_RAKU_toabuaq _ARITY_1	hó	sA	1
+▯ knows ▯ but can t put it in words find words for it ▯ has incommunicable awareness of ▯ _BIAS _RAKU_chıaq _2_RAKU_buıchıaq _ARITY_2	hó	sI	2
 there s no toaq word for ▯ _BIAS _RAKU_cıa _2_RAKU_toacıa _ARITY_1	tá	sF	1
 ▯ is toadua _BIAS _RAKU_dua _2_RAKU_toadua _ARITY_1	máq	sI	1
 ▯ is a prefix _BIAS _RAKU_fıa _2_RAKU_toafıa _ARITY_1	hóq	sI	1
@@ -6000,12 +6010,14 @@ toaqist ▯ meets toaqist ▯ _BIAS _RAKU_geq _2_RAKU_toaqgeq _ARITY_2	hó	sI	2
 ▯ is ▯ s toaq heart their feeling for the language or generally the part of them that engages positively with toaq culture _BIAS _RAKU_hua _2_RAKU_toaqhua _ARITY_2	máq	sI	2
 ▯ is toaqic in essence is in accordance with the toaq dzu way _BIAS _RAKU_lıeı _2_RAKU_toaqlıeı _ARITY_1	tá	sF	1
 ▯ is toaqglish _BIAS _RAKU_zu _2_RAKU_lızu _ARITY_1 _CAPS	hóq	sF	1
+▯ is the toaq community _BIAS _RAKU_me _2_RAKU_toaqme _ARITY_1	hó	sI	1
 ▯ is the toaq sign language tmz _BIAS _RAKU_zu _2_RAKU_muqzu _ARITY_1 _CAPS	hóq	sI	1
 ▯ is in toaq _BIAS _RAKU_no _2_RAKU_toaqno _ARITY_1	tá	sF	1
 ▯ is toaqite a fictional precious toaqreo mineral _BIAS _RAKU_pıo _2_RAKU_toaqpıo _ARITY_1	máq	sI	1
 ▯ is a toaqist a person pertaining to the toaq language _BIAS _RAKU_poq _2_RAKU_toaqpoq _ARITY_1	hó	sI	1
 ▯ is toaq colored pink and white and light blue _BIAS _RAKU_reo _2_RAKU_toaqreo _ARITY_1	máq	sI	1
 ▯ is a park where toaqists have met _BIAS _RAKU_soaq _2_RAKU_toaqsoaq _ARITY_1	máq	sI	1
+▯ does toaq related things interacts with toaq or its community _BIAS _RAKU_tao _2_RAKU_toaqtao _ARITY_1	hó	sI	1
 ▯ is a toaq word _BIAS _RAKU_toa _2_RAKU_toaqtoa _ARITY_1	hóq	sI	1
 ▯ is un toaqic goes against toaq s principles _BIAS _RAKU_zıam _2_RAKU_toaqzıam _ARITY_1	tá	sF	1
 ▯ is the toaq language _BIAS _RAKU_zu _2_RAKU_toaqzu _ARITY_1 _CAPS	hóq	sI	1
@@ -6036,6 +6048,7 @@ relation ▯ is transitive _BIAS _RAKU_jeq _2_RAKU_toeqjeq _ARITY_1	hóq	sP	1
 ▯ is ethics field of study _BIAS _RAKU_dıu _2_RAKU_toıdıu _ARITY_1	hóq	sI	1
 ▯ is morally ethically right correct _BIAS _RAKU_due _2_RAKU_toıdue _ARITY_1	tá	sF	1
 ▯ is ethics moral philosophy _BIAS _RAKU_dıu _2_RAKU_duedıu _ARITY_1	hóq	sI	1
+▯ is a community group of interacting organisms _BIAS _RAKU_toım _ARITY_1	hó	sI	1
 ▯ is group theory _BIAS _RAKU_dıu _2_RAKU_toımdıu _ARITY_1	hóq	sI	1
 ▯ is hard to do ▯ to _BIAS _RAKU_noa _2_RAKU_toınoa _ARITY_2	tá	sF	2
 ▯ leaves ▯ alone _BIAS _RAKU_shaı _2_RAKU_toıshaı _ARITY_2	hó	sI	2
@@ -6199,6 +6212,7 @@ it is the intention of ▯ that ▯ happen _BIAS _RAKU_shao _2_RAKU_tuashao _ARI
 ▯ is unlikely improbable _BIAS _RAKU_zam _ARITY_1	hóq	sP	1
 ▯ is great cool fantastic _BIAS _RAKU_na _2_RAKU_zamna _ARITY_1	tá	sF	1
 ▯ is rich flavorful stimulating deep ▯ contains some special notable intense property which sets it apart from others of its kind _BIAS _RAKU_na _2_RAKU_zana _ARITY_1	tá	sF	1
+▯ take communion with each other _BIAS _RAKU_do _2_RAKU_chıeqdo _ARITY_1	hó	sI	1
 ▯ is zanasaoza a thick sauce popular in toaqgua made from fish soy sauce lime juice starch and various other ingredients _BIAS _RAKU_za _2_RAKU_saoza _ARITY_1	máq	sI	1
 ▯ knows is familiar with ▯ _BIAS _RAKU_zao _ARITY_2	hó	sI	2
 ▯ knows is familiar with ▯ _BIAS _RAKU_zao _ARITY_2	hó	sI	2
@@ -6370,6 +6384,7 @@ signature ▯ is something that makes one contextually unique in some salient re
 ▯ is a word phrase utterance production in language ▯ _BIAS _RAKU_lo _2_RAKU_zulo _ARITY_2	hóq	sF	2
 ▯ is a language game _BIAS _RAKU_cu _2_RAKU_lucu _ARITY_1	hóq	sF	1
 ▯ is a language server implementation of language server protocol _BIAS _RAKU_ce _2_RAKU_lueqce _ARITY_1	hóq	sF	1
+▯ is the community surrounding language ▯ esp a conlang _BIAS _RAKU_zum _ARITY_2	hó	sI	2
 ▯ moves _BIAS _RAKU_zum _ARITY_1	máq	sI	1
 ▯ is unskilled bad at language ▯ _BIAS _RAKU_nıeq _2_RAKU_zunıeq _ARITY_2	hó	sI	2
 ▯ is in language ▯ _BIAS _RAKU_no _2_RAKU_zuno _ARITY_2	hóq	sF	2
@@ -6470,6 +6485,7 @@ it would be nice if ▯ were true _BIAS _RAKU_gı _2_RAKU_'aogı _ARITY_1	hóq	s
 ▯ is the country austria republic of austria _BIAS _RAKU_gua _2_RAKU_raıgua _ARITY_1 _CAPS	máq	sI	1
 ▯ is punk rock _BIAS _ARITY_1	hóq	sI	1
 ▯ is a historian _BIAS _RAKU_che _2_RAKU_meche _ARITY_1	hó	sI	1
+▯ communicates with ▯ about ▯ _BIAS _ARITY_3	hó	sI	3
 ▯ is an emerald _BIAS _RAKU_pıo _2_RAKU_depıo _ARITY_1	máq	sI	1
 ▯ gaslights ▯ _BIAS _ARITY_2	hó	sA	2
 ▯ does physical exercise _BIAS _ARITY_1	hó	sI	1
