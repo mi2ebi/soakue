@@ -77399,11 +77399,11 @@ sueıguıq @jiqci 2024-06-28 #uk3PeGgpw $en ±
 suejaq @Ilmen 2019-04-06 #1Rzy91X7G $en ± %action,communication
 [t]predicate: ▯ exhorts ▯ to satisfy property ▯.
 
-suejeo @uakci 2019-02-27 #cfib-gzpt $en ±
-[t]predicate: ▯ satisfies property ▯ as ▯ asked; ▯ complies to do/be ▯ per ▯’s request.
-
 suejeo @uakci 2020-05-16 #BG6_H8mOW $en ±
 [t]predicate: ▯ is appointed to satisfy property ▯.
+
+suejeo @uakci 2019-02-27 #cfib-gzpt $en -1
+[t]predicate: ▯ satisfies property ▯ as ▯ asked; ▯ complies to do/be ▯ per ▯’s request.
 
 suejı @akesi 2020-05-12 #IT1I5jxqd $en ±
 [t]predicate: I (the speaker) request that you (the audience) do ▯
