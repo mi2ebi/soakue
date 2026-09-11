@@ -184,6 +184,15 @@ function search(q) {
           let regex = queryToRegex(normalize_query(orig, false), op != "~");
           if (regex.test(normalize(entry.head))) return 5;
         }
+            // 4:gloss
+            if (["gloss",""].includes(op) && entry.gloss) {
+                if (entry.gloss.toLowerCase() == value.toLowerCase())
+                    return 4.1;
+                if(
+                    entry.gloss.toLowerCase().includes(value.toLowerCase()) || (!value && op && entry.gloss)
+                )
+                    return 4;
+            }
         // 3: body
         if (["body", ""].includes(op)) {
           const v = normalize_query(value).replace(
@@ -202,6 +211,8 @@ function search(q) {
         }
         // 1-2: no op
         if (!op) {
+          if (normalizeToneless(entry.head).includes(normalizeToneless(value)))
+              return 1;
           if (
             entry.notes.some((n) =>
               normalize(n.content).includes(normalize_query(value)),
@@ -210,8 +221,6 @@ function search(q) {
             return 2;
           if (normalize(entry.head).startsWith(normalize_query(value)))
             return 1.1;
-          if (normalizeToneless(entry.head).includes(normalizeToneless(value)))
-            return 1;
         }
         // score
         if (op == "score") {
@@ -265,9 +274,6 @@ function search(q) {
                 (["%", "tags"].includes(op) && entry.tags && (value == "" || entry.tags.split(" ").includes(value))) ||
                 (op == "type" && entry.type && (
                     entry.type.toLowerCase().replace(/ /g, "").includes(value.toLowerCase().replace(/ /g, "")) || (!value && entry.type)
-                )) ||
-                (op == "gloss" && entry.gloss && (
-                    entry.gloss.toLowerCase().includes(value.toLowerCase()) || (!value && entry.gloss)
                 ))
         )
           return 0.1;
