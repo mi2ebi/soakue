@@ -2140,6 +2140,7 @@ echo question version of hıa ▯ is what now _BIAS _RAKU_ba _2_RAKU_hıaba _ARI
 ▯ is laughter _BIAS _RAKU_se _2_RAKU_hıaıse _ARITY_1	hóq	sI	1
 ▯ is dangerous _BIAS _RAKU_hıam _ARITY_1	tá	sF	1
 ▯ harms injures ▯ _BIAS _RAKU_hıao _ARITY_2	tá	sI	2
+▯ is safety _BIAS _RAKU_la _2_RAKU_cıala _ARITY_1	hóq	sI	1
 ▯ is a weapon _BIAS _RAKU_chuo _2_RAKU_hıaochuo _ARITY_1	máq	sI	1
 ▯ is dangerous _BIAS _RAKU_daı _2_RAKU_hıaodaı _ARITY_1	hóq	sF	1
 ▯ is emotionally scarring disturbing nsfl _BIAS _RAKU_ge _2_RAKU_hıaoge _ARITY_1	tá	sF	1
@@ -3870,6 +3871,7 @@ mo ▯ says text to ▯ _BIAS _RAKU_moao _ARITY_2	hó	sA	2
 ▯ is an ant _BIAS _RAKU_rı _2_RAKU_morı _ARITY_1	hó	sI	1
 ▯ is a member of genus myrmecophaga the giant anteater _BIAS _RAKU_chuq _2_RAKU_ruıchuq _ARITY_1	hó	sI	1
 ▯ is a formicary anthill _BIAS _RAKU_ruım _2_RAKU_moruım _ARITY_1	máq	sI	1
+▯ is a quote quotation _BIAS _RAKU_se _2_RAKU_mose _ARITY_1	máq	sI	1
 ▯ is a text _BIAS _RAKU_teo _2_RAKU_moteo _ARITY_1	hóq	sI	1
 ▯ are quotes etc _BIAS _RAKU_laı _2_RAKU_teolaı _ARITY_1	hóq	sI	1
 ▯ is a motorbike _BIAS _RAKU_sıoq _2_RAKU_gusıoq _ARITY_1	máq	sI	1

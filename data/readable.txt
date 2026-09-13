@@ -29731,6 +29731,9 @@ hıaocıa @akesi 2020-03-03 #ZWFsLd3Ja $en +1
 hıaocıa @Laqme 2021-09-27 #W2eB8TPaA $en ±
 [t]predicate: ▯ is safe for ▯.
 
+hıaocıala @TheAndSys 2026-09-11 #c-nDpWRrI $en ±
+[t]predicate: ▯ is safety
+
 hıaocıasıo @seaqtaq 2018-12-28 #rPa6CJ9fK $en ±
 [t]predicate: ▯ is the idea of safety/security
 
@@ -39697,7 +39700,7 @@ kado @el 2022-07-22 #VFmFKEDZD $en +1
 kadocıe @robintown 2023-02-06 #aji2jzqv6 $en ±
 [t]predicate: ▯ is a cod (fish of the genus Gadus).
 
-kafe [(c) (d) máq sI] @official 2026-09-07 #nYWE6T-Dpwy $en ± %cultural,beverage
+kafe [(c) (d) máq sI] @official 2026-09-07 #nYWE6T-Dpwy $en +1 %cultural,beverage
 [t]predicate: [g]‘coffee’; ▯ is coffee.
 
 kafe @jiqci 2023-07-31 #ZItYot9dje $pl ± %cultural,beverage
@@ -45919,7 +45922,7 @@ lahuq @jiqci 2024-03-14 #nb6uYPp-4 $en ±
 lahuqnulı @jiqci 2024-03-14 #CPlC4jZS_ $en ±
 [t]predicate: ▯ is castor oil.
 
-laı- @uakci 2024-01-21 #XSUlHv7i4 $en ±
+laı- @uakci 2024-01-21 #XSUlHv7i4 $en -1
 [t]prefix: ‘▯ is the digit/glyph X’
 
 laı [(c 0) (d d) hóq sI] @official 2026-09-07 #TFF-kBItQYx $en ±
@@ -49816,15 +49819,15 @@ luapım @seaqtaq 2025-05-10 #-0FwslX1T $en ±
 luapımcuao @seaqtaq 2025-05-10 #S3p577uOS $en ±
 [t]predicate: ▯ is a tritagonist / tetartagonist / pentagonist / ...; ▯ is a main character of lesser importance than a deuteragonist
 
-luapoq @fagri 2019-01-09 #Aduh-WFvV $en ±
-[t]predicate: ▯ is a character in a story (book, TV show, movie, etc)
-  fagri (2019-01-22): -1, see better version at #Qui3rWG4H
-
-luapoq @fagri 2019-01-18 #Qui3rWG4H $en ±
+luapoq @fagri 2019-01-18 #Qui3rWG4H $en +1
 [t]predicate: ▯ is a character in movie/book/TV show/story ▯
   fagri (2019-01-18): -1, see better version at #Qui3rWG4H
   fagri (2019-01-22): It's great how I accidentally linked this word to itself and now I don't know what it should be pointing to.
   fagri (2019-01-22): +1, this IS the good version
+
+luapoq @fagri 2019-01-09 #Aduh-WFvV $en ±
+[t]predicate: ▯ is a character in a story (book, TV show, movie, etc)
+  fagri (2019-01-22): -1, see better version at #Qui3rWG4H
 
 luaq [(c c) (d d) hó sA] @official 2026-09-07 #l5fKqpqJDG8 $en ± %action
 [t]predicate: [g]‘play’; ▯ plays / has fun with / uses for entertainment ▯.
@@ -55089,7 +55092,7 @@ morurı @uakci 2024-05-14 #BR-x4g-55 $en ±
 [t]predicate: ▯ is subconscious/subliminal.
   uakci (2024-05-14): < **mo–** (see **moꝡa**) + **rurı**
 
-mose @uakci 2023-12-04 #9QGc0rkCg $en ±
+mose @uakci 2023-12-04 #9QGc0rkCg $en +1
 [t]predicate: ▯ is a quote/quotation.
 
 mọseq @kazoo 2025-04-30 #h2cOR_NvH $en ±
@@ -77990,8 +77993,8 @@ súq [] @SuperSpaceNiM 2024-08-11 #gtZ6cfEBt $ru ± %deixis,discourse_participan
 súq @maigoi 2024-09-11 #A0eZh99Y8 $pt ± %deixis,discourse_participants
 [t]pronome: segunda pessoa singular
 
-súq @TheAndSys 2025-03-26 #phsi2DCAw $es ± %deixis,discourse_participants
-[t]pronombre: ‘2S‘; pronombre personal de segunda persona; tú/usted
+súq [] @TheAndSys 2025-03-26 #phsi2DCAw $es ± %deixis,discourse_participants
+[t]pronombre: [g]‘2S’; ‘2S‘; pronombre personal de segunda persona; tú/usted
 
 súq @Ilmen 2026-01-28 #UslUknUVC $jbo ± %deixis,discourse_participants
 .i sumka'i lo se tavla .i smudu'i zo "do"
