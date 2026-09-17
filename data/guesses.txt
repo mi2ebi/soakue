@@ -20,13 +20,13 @@ Top discriminative tokens (LogReg Weights) for subject:
     hóq  76.8%  (1124/1464)
     máq  89.2%  (1784/2000)
     tá   63.1%  (693/1098)
-  subject:         81.3% (10-fold CV, chained)
-    sA   91.1%  (611/671)
-    sE   54.3%  (63/116)
-    sF   59.2%  (546/923)
-    sI   85.9%  (3915/4560)
+  subject:         81.2% (10-fold CV, chained)
+    sA   90.9%  (610/671)
+    sE   55.2%  (64/116)
+    sF   58.6%  (541/923)
+    sI   85.8%  (3911/4560)
     sP   63.2%  (84/133)
-    sS   69.7%  (69/99)
+    sS   70.7%  (70/99)
 
 === PRONOUN CONFIDENCE CALIBRATION ===
   (raw softmax → estimated actual accuracy)
@@ -46,10 +46,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [PRON/SUBJ] fa #wwc9KNzUk
   actual:  [(c 1i) (d d) tá sI]
   guessed: [(c 1i) (d d) hó sA] (conf: p=82%, s=96%)
-✗ [PRON] lıao #u0GEEWauctG
+✗ [PRON] lıao #RX8iAIUy9ok5
   actual:  [(c) (d) hó sI]
   guessed: [(c) (d) máq sI] (conf: p=76%, s=100%)
-✗ [PRON] daqsheı #UfLykM26lAW
+✗ [PRON] daqsheı #pmC_x7EYV85
   actual:  [(c) (d) tá sI]
   guessed: [(c) (d) hó sI] (conf: p=63%, s=93%)
 ✗ [PRON] reo #PloWQglHg
@@ -67,10 +67,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [PRON] reqkea #fNHHpEuQl
   actual:  [(c) (d) hó sI]
   guessed: [(c) (d) máq sI] (conf: p=50%, s=100%)
-✗ [PRON/SUBJ] sheaq #4JXs0X71USA
+✗ [PRON/SUBJ] sheaq #UqxLG7bRrAtl
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) hó sA] (conf: p=50%, s=61%)
-✗ [PRON] bao #njIEWR4Re2l
+✗ [PRON] bao #JAhhvmm1sul
   actual:  [(c) (d) tá sI]
   guessed: [(c) (d) máq sI] (conf: p=49%, s=100%)
 ✗ [PRON] foajeq #birf0HP8X
@@ -88,19 +88,19 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [PRON] Pıkachu #SSRtbUeAb
   actual:  [(c) (d) hó sI]
   guessed: [(c) (d) máq sI] (conf: p=49%, s=100%)
-✗ [SUBJ] ne #0le4U1bpmzc
+✗ [SUBJ] ne #2Lac_6LXc-C
   actual:  [(c 0) (d d) hóq sI]
   guessed: [(c 0) (d d) hóq sP] (conf: p=96%, s=97%)
-✗ [SUBJ] chıe #bYqaiWazxVZ
+✗ [SUBJ] chıe #4QiLbFR9KVc
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c 1i) (d d) hó sA] (conf: p=95%, s=96%)
-✗ [SUBJ] dıochu #0aaWKmdXOZQ
+✗ [SUBJ] dıochu #HQPx2wmObFK
   actual:  [(c) (d) hóq sI]
   guessed: [(c) (d) hóq sE] (conf: p=81%, s=93%)
 ✗ [SUBJ] shuepaq #Kq14chq2U
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=94%, s=90%)
-✗ [SUBJ] chıeqfa #PPfW_mBsiPs
+✗ [SUBJ] chıeqfa #QCgPcwUo9hF
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=88%, s=89%)
 ✗ [SUBJ] fea #Kg5y2sIhH
@@ -115,10 +115,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] muıduafuı #qdKi7xTy2
   actual:  [(c) (d) hóq sI]
   guessed: [(c) (d) hóq sP] (conf: p=96%, s=88%)
-✗ [FRAME/SUBJ] gaı #n1E0KA-klkid
+✗ [FRAME/SUBJ] gaı #Jf25OioTibfo
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=88%)
-✗ [SUBJ] neq #nEdXBeoPVsS
+✗ [SUBJ] neq #UiZbV4ZumFO
   actual:  [(c c) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sE] (conf: p=81%, s=87%)
 ✗ [SUBJ] raqkoy #z8Q77TEzm
@@ -133,7 +133,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST/SUBJ] sheıdaq #UqdzaknNb
   actual:  [(c) (d) hóq sI]
   guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=84%)
-✗ [FRAME/SUBJ] shea #sU3dbMk1Chn
+✗ [FRAME/SUBJ] shea #A_s6d7fYG6F6
   actual:  [(c 1i) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=91%, s=84%)
 ✗ [SUBJ] nuq #gzW8DvP6_
@@ -142,13 +142,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST/SUBJ] tılao #hH_HCklTP
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=82%)
-✗ [SUBJ] huaqcho #4ZttYdtZ8zo
+✗ [SUBJ] huaqcho #ZNgUsG2a58c
   actual:  [(c c c) (d d d) hó sI]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=82%)
 ✗ [SUBJ] nuogaı #vQrHpMchi
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=81%)
-✗ [FRAME/SUBJ] duasho #kK7WU9vVTiH
+✗ [FRAME/SUBJ] duasho #XQnMo5Xu9Tw
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=81%)
 ✗ [SUBJ] chıaıtaosı #L5JCFpZ_E
@@ -160,7 +160,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/SUBJ] nuogaı #RZJs3Ltv3
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=79%)
-✗ [SUBJ] shuaq #uLRGqkm-JTYc
+✗ [SUBJ] shuaq #YILSqM0KQvda
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=90%, s=79%)
 ✗ [SUBJ] poanıe #f8EvYeN4O
@@ -181,7 +181,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] jıaqjeo #J0c05CNpu
   actual:  [(c c) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sP] (conf: p=91%, s=76%)
-✗ [SUBJ] sıaqpaq #8IKCs6RNB9Ui
+✗ [SUBJ] sıaqpaq #x09PswO3cDWf
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=96%, s=76%)
 ✗ [SUBJ] caloaı #uJczwjbc-
@@ -196,10 +196,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] chıaqdıeq #HWahbUjql
   actual:  [(c c c) (d d d) hó sI]
   guessed: [(c c c) (d d d) hó sA] (conf: p=92%, s=75%)
-✗ [SUBJ] roq #UhIyfSJp1vR
+✗ [SUBJ] roq #PjP5rNrb51u
   actual:  [(c) (d) hó sI]
   guessed: [(c) (d) hó sA] (conf: p=94%, s=75%)
-✗ [SUBJ] bua #Ba6Ya6Y8aVB
+✗ [SUBJ] bua #cnNOtKjlDqk
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=94%, s=75%)
 ✗ [SUBJ] bocheaq #7t6pwDn_J
@@ -241,7 +241,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/SUBJ] chıaısıtao #9SDlN5CuY
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=72%)
-✗ [FRAME/SUBJ] reo #AcDvqFdumQD
+✗ [FRAME/SUBJ] reo #QsOlAv9X1Ba
   actual:  [(c 1i) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=52%, s=72%)
 ✗ [FRAME/SUBJ] reo #YvpVsgl2o
@@ -253,7 +253,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] luaqtue #PN7GZumc8
   actual:  [(c) (d) hóq sI]
   guessed: [(c) (d) hóq sE] (conf: p=96%, s=70%)
-✗ [SUBJ] loı #sDvs1YOYJLZ
+✗ [SUBJ] loı #1f7qmnhwJaaN
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=90%, s=70%)
 ✗ [SUBJ] gıebuaı #aah_sDoDq
@@ -271,28 +271,28 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST/SUBJ] sıu #pIh3TwFDau
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sS] (conf: p=81%, s=70%)
-✗ [SUBJ] sıu #JxdLi_n3sM
+✗ [SUBJ] sıu #F2BsFpNjXBfb
   actual:  [(c c) (d d) tá sF]
   guessed: [(c c) (d d) tá sS] (conf: p=81%, s=70%)
 ✗ [DIST/SUBJ] shuıkeoı #ArV0hprXO
   actual:  [(c c) (d n) hó sI]
   guessed: [(c c) (n n) hó sA] (conf: p=89%, s=70%)
-✗ [SUBJ] mıujeq #-rIxW5Cg6K7
+✗ [SUBJ] mıujeq #YrXH2_Wxn6dV
   actual:  [(c c 0) (d d d) hó sI]
   guessed: [(c c 0) (d d d) hó sA] (conf: p=94%, s=69%)
-✗ [SUBJ] reaq #PaDa776_Vj6
+✗ [SUBJ] reaq #TyuB0VWe1nW
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=84%, s=69%)
 ✗ [SUBJ] shıq #oL8jm7NcV
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=87%, s=69%)
-✗ [SUBJ] sheo #CC-6n50i8G2
+✗ [SUBJ] sheo #oULq6-Gpe6nG
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=68%)
-✗ [SUBJ] buaq #dRfqreGB-B0
+✗ [SUBJ] buaq #jDVjm8w3Iml
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c 1i) (d d) hó sA] (conf: p=96%, s=68%)
-✗ [SUBJ] cuo #A4o4SGYfhS_
+✗ [SUBJ] cuo #clCO9yAO9PP
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c 0) (d d) hó sA] (conf: p=94%, s=68%)
 ✗ [SUBJ] eılala #1ZqP8EL7O
@@ -325,10 +325,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] boaıtao #lULwTnHGG
   actual:  [(c 1i) (d d) tá sI]
   guessed: [(c 1i) (d d) tá sA] (conf: p=50%, s=67%)
-✗ [FRAME/SUBJ] jao #7HbUkrGZaBz
+✗ [FRAME/SUBJ] jao #11ey-it9uRT
   actual:  [(c c 2xx) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sS] (conf: p=96%, s=67%)
-✗ [FRAME/SUBJ] shoe #L4a_IUZR4q-
+✗ [FRAME/SUBJ] shoe #KpbNAa8q8ewL
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=94%, s=67%)
 ✗ [SUBJ] zuohıra #rFvcasj4S
@@ -337,10 +337,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] ruabo #I5UNJQDV6
   actual:  [(c) (d) tá sI]
   guessed: [(c) (d) tá sS] (conf: p=75%, s=66%)
-✗ [SUBJ] taı #Q36YSact0v9
+✗ [SUBJ] taı #UsYfNLpsw301
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c 1i) (d d) hó sA] (conf: p=88%, s=66%)
-✗ [SUBJ] rıoq #P4B_Y-Pi1aM
+✗ [SUBJ] rıoq #y1ub9DWWaJL
   actual:  [(c c) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sF] (conf: p=91%, s=66%)
 ✗ [SUBJ] gımıu #gc9jhJxl0
@@ -355,10 +355,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST/SUBJ] jaqbeı #xQtzw43bd
   actual:  [(c) (d) hóq sF]
   guessed: [(c c) (d d) hóq sP] (conf: p=87%, s=65%)
-✗ [SUBJ] lıopaq #IQRdJ3o0G5I
+✗ [SUBJ] lıopaq #N9NUZj7oB_2R
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=95%, s=65%)
-✗ [SUBJ] maı #asAriajRlCd
+✗ [SUBJ] maı #-7ZcoTDJg_XU
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=65%)
 ✗ [SUBJ] nhoe #YHZ0AGc4-
@@ -379,7 +379,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] fatuı #2EI18fiKs
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=93%, s=64%)
-✗ [SUBJ] nuı #Ias9tE7n87e
+✗ [SUBJ] nuı #-Mo4sWWA1H0
   actual:  [(c) (d) tá sI]
   guessed: [(c) (d) tá sS] (conf: p=81%, s=64%)
 ✗ [SUBJ] nheoı #cwawoYDmR
@@ -388,7 +388,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] ıjo #x1s1-wvZO
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=94%, s=64%)
-✗ [SUBJ] teoq #HMnBIRp-7BL
+✗ [SUBJ] teoq #QER-ad3n8YMd
   actual:  [(c) (d) hóq sI]
   guessed: [(c) (d) hóq sP] (conf: p=81%, s=63%)
 ✗ [SUBJ] zukuq #1iphDF4bs
@@ -427,10 +427,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] deq #s-cB99lVy
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c 1i) (d d) hó sA] (conf: p=80%, s=62%)
-✗ [FRAME/SUBJ] jıqdua #Bsck1J0z03W
+✗ [FRAME/SUBJ] jıqdua #fGUjMrkCARA
   actual:  [(c c) (d d) hó sI]
   guessed: [(c 0) (d d) hó sA] (conf: p=96%, s=62%)
-✗ [SUBJ] juqkuaı #aEnHbDqdSlm
+✗ [SUBJ] juqkuaı #4ov4Zf2dVrv
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=61%)
 ✗ [SUBJ] jaılao #rNI717BN5
@@ -448,7 +448,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] nuq'o #CzR-CVrqm
   actual:  [(c c 2ij) (d d d) hó sI]
   guessed: [(c c 2ij) (d d d) hó sA] (conf: p=96%, s=60%)
-✗ [SUBJ] tıshue #wwuRzE2rrua
+✗ [SUBJ] tıshue #VKq_yxO_jM
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=61%, s=59%)
 ✗ [SUBJ] zuteı #VM7QR-JUp
@@ -457,7 +457,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] rao #wkh6ukInE
   actual:  [(c c) (d d) tá sF]
   guessed: [(c c) (d d) tá sS] (conf: p=71%, s=59%)
-✗ [SUBJ] soka #L97omVqNVD
+✗ [SUBJ] soka #F9DnKBIoLPX-
   actual:  [(c) (d) hóq sI]
   guessed: [(c) (d) hóq sE] (conf: p=78%, s=58%)
 ✗ [SUBJ] buzoaı #ZuMTzBphP
@@ -472,7 +472,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] kaq #-9YiR5N7i
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=93%, s=58%)
-✗ [SUBJ] de #IE0lpmp89qK
+✗ [SUBJ] de #sVN5te_0geF
   actual:  [(c) (d) tá sF]
   guessed: [(c) (d) tá sS] (conf: p=96%, s=58%)
 ✗ [SUBJ] zulucu #VPJmV2yLS
@@ -490,7 +490,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] nuoqtao #JHeVH2tPB
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=57%)
-✗ [SUBJ] paqcıa #Fgb1N_kTOAz
+✗ [SUBJ] paqcıa #L3wgJA7ZEYB
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=96%, s=57%)
 ✗ [SUBJ] reoqchuq #HJlP3ryhe
@@ -517,7 +517,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] nıhu #254C5Yb_C
   actual:  [(c c) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sP] (conf: p=84%, s=55%)
-✗ [SUBJ] keaı #BeuDu9mzhTng
+✗ [SUBJ] keaı #dVu4H5V3WNu
   actual:  [(c 1i) (d d) tá sI]
   guessed: [(c 1i) (d d) tá sF] (conf: p=55%, s=55%)
 ✗ [SUBJ] lomnua #GD70nYl8z
@@ -529,7 +529,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] desom #DKFnYTixo
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=55%)
-✗ [DIST/SUBJ] me #Hv2lf3q_OVc
+✗ [DIST/SUBJ] me #S_pLGwhQiU73
   actual:  [(c c) (d n) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=58%, s=55%)
 ✗ [SUBJ] nhame #eZqVYEE5Y
@@ -547,7 +547,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] chıdoq #dvvlv8JXL
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=96%, s=54%)
-✗ [SUBJ] pao #KsfWywo5e2k
+✗ [SUBJ] pao #5C2BRdW6kXB
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=54%)
 ✗ [FRAME/SUBJ] neqkoe #90UsEZH3o
@@ -583,7 +583,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] jıaodeoq #oPRemNDYd
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=52%)
-✗ [SUBJ] mıu #m5--hRST8uv
+✗ [SUBJ] mıu #5ACx0nZMUd7_
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c 0) (d d) hó sA] (conf: p=91%, s=52%)
 ✗ [SUBJ] buaq moaq #eXtkBvBb7
@@ -619,7 +619,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] deqbuchıaqtaqnoeqsoıtaqgıyleogıygıaqfıeqbuaqtıuloıtaqjeaq #PwS8YCEOy
   actual:  [(c c c) (d d d) hó sI]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=51%)
-✗ [SUBJ] bo #6U-zd_Nvtuc
+✗ [SUBJ] bo #irLB5At6GJf
   actual:  [(c c) (d d) hó sI]
   guessed: [(c c) (d d) hó sA] (conf: p=85%, s=51%)
 ✗ [SUBJ] nhomcheq #KGpcNNw2_
@@ -643,13 +643,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] jıe #YbopIs6U-
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c 0) (d d) hó sA] (conf: p=81%, s=49%)
-✗ [FRAME/SUBJ] kıu #JrtJPlaFKmrd
+✗ [FRAME/SUBJ] kıu #Ik3QolmYQvH
   actual:  [(c 2xi) (d d) tá sF]
   guessed: [(c c) (d d) tá sS] (conf: p=91%, s=48%)
 ✗ [SUBJ] zurune #JjgcKa3Yg
   actual:  [(c c) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sI] (conf: p=80%, s=48%)
-✗ [SUBJ] tısha #ZZf-BpCcKKI
+✗ [SUBJ] tısha #f-5sSegM2h
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=82%, s=48%)
 ✗ [SUBJ] jıqtue #XFMK3aa6z
@@ -664,7 +664,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] lucu #YNZpqQD84
   actual:  [(c) (d) hóq sI]
   guessed: [(c) (d) hóq sF] (conf: p=93%, s=46%)
-✗ [SUBJ] kopı #AoQEYBnrJtfK
+✗ [SUBJ] kopı #Ps7Eylr_kTi
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=74%, s=46%)
 ✗ [SUBJ] tuqtue #1eJUc4YBI
@@ -673,7 +673,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/SUBJ] muı #d2F-HI6OM
   actual:  [(c 0) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=80%, s=46%)
-✗ [FRAME/SUBJ] muo #UiKzbUR7OWQ
+✗ [FRAME/SUBJ] muo #S8dyxoQ_2k
   actual:  [(c 1i) (d d) tá sF]
   guessed: [(c c) (d d) tá sS] (conf: p=93%, s=45%)
 ✗ [SUBJ] zuetue #hpG2p39Xe
@@ -685,7 +685,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] noıca #JKUcJjW-D
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sE] (conf: p=77%, s=44%)
-✗ [FRAME/SUBJ] choqgı #4rB08VeM0eS
+✗ [FRAME/SUBJ] choqgı #YigY812KjgI
   actual:  [(c 1x) (d d) tá sI]
   guessed: [(c 1i) (d d) tá sS] (conf: p=86%, s=43%)
 ✗ [SUBJ] hıtıao #J46s_tnnH
@@ -700,16 +700,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/SUBJ] semıo #Qxa1e50P_
   actual:  [(c 0) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=72%, s=41%)
-✗ [SUBJ] rıaı #qDGJwMrk5jZ
+✗ [SUBJ] rıaı #uU2MHF3fXkI
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sA] (conf: p=54%, s=41%)
-✗ [SUBJ] nhuq #Q6rEp2kl1y5
+✗ [SUBJ] nhuq #WKOUcnEaYug
   actual:  [(c c) (d d) tá sF]
   guessed: [(c c) (d d) tá sS] (conf: p=75%, s=41%)
-✗ [FRAME/SUBJ] zuo #htqan6Uw55b
+✗ [FRAME/SUBJ] zuo #BVJnJslcZ61
   actual:  [(c 0) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sE] (conf: p=65%, s=41%)
-✗ [SUBJ] hıao #eIrxx8Wj_Pz
+✗ [SUBJ] hıao #VBe3jWoKlp
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=62%, s=41%)
 ✗ [SUBJ] bu dua sahu #V1Svfb1pi
@@ -718,7 +718,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [SUBJ] doka #rbKrgMi4g
   actual:  [(c c) (d d) tá sI]
   guessed: [(c c) (d d) tá sS] (conf: p=76%, s=39%)
-✗ [SUBJ] nıq #VDlyAo2z1z9
+✗ [SUBJ] nıq #PotIBbwkJqP
   actual:  [(c) (d) tá sI]
   guessed: [(c) (d) tá sF] (conf: p=80%, s=39%)
 ✗ [SUBJ] zuru #2Pde-LjjU
@@ -769,22 +769,22 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] beınoqlıao #Q_EG74UM0
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] beo #JlNGQjGtuyL
+✗ [FRAME] beo #Tb-thio2ljV
   actual:  [(c 2ix) (d d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=54%, s=88%)
 ✗ [DIST] bıaqbu #PWiq2MHHA
   actual:  [(c 1i) (d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=99%)
-✗ [FRAME] bıe #eRad7MhhAdi
+✗ [FRAME] bıe #BasBZv4YQD4
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=89%, s=100%)
-✗ [FRAME] bıejao #r7Cw0A9Rwsq
+✗ [FRAME] bıejao #I6fxx4-Fwss
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=94%, s=99%)
-✗ [FRAME] bıejuı #YC9hGJvvLdQ
+✗ [FRAME] bıejuı #CRxI1RCDjug
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=93%, s=100%)
-✗ [FRAME] boı #NVZk5Vp3UNr
+✗ [FRAME] boı #f_WeFCAbw7m
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=86%, s=100%)
 ✗ [FRAME] boq #oPKFOa9-4
@@ -814,13 +814,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] cemzıamla #awZqjXB8t
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] ceo #v-Ig1O15hUm
+✗ [FRAME] ceo #3u5IzqzHHQL
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=80%, s=97%)
 ✗ [FRAME] ceomana #lKCPg80vm
   actual:  [(c 1x) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=87%)
-✗ [DIST] cı #F3BX0wBh08z
+✗ [DIST] cı #yo3oOXDv3LN
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=95%, s=86%)
 ✗ [DIST] cıa #BaEtxfuM7
@@ -841,16 +841,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] coeq #duqEyPkL4
   actual:  [(c 2xx) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=95%, s=95%)
-✗ [FRAME] cuao #82XuWCz0zZH
+✗ [FRAME] cuao #X6fRoPHId_K
   actual:  [(c c 1x) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=87%)
-✗ [FRAME] cuaq #t9lTlAyxTSw
+✗ [FRAME] cuaq #Ie1eP8o2npI
   actual:  [(c 1x) (d d) hóq sI]
   guessed: [(c 1i) (d d) hóq sI] (conf: p=95%, s=60%)
 ✗ [DIST] cuoı #x3KU_gp9g
   actual:  [(c c 2ij) (d d d) tá sF]
   guessed: [(c c 2ij) (n n d) tá sF] (conf: p=79%, s=96%)
-✗ [DIST] cuoı #19wGP0dkgQd
+✗ [DIST] cuoı #2UXcenz0jra
   actual:  [(c c 2ij) (n n d) tá sF]
   guessed: [(c c 2ij) (d d d) tá sF] (conf: p=57%, s=90%)
 ✗ [FRAME] cuoısa #DmHq1du8c
@@ -859,7 +859,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] cuqceo #QICpa_8q1
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=96%, s=100%)
-✗ [FRAME] cha #B80pRf-CAd5
+✗ [FRAME] cha #UwCwXDUcs2V
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=78%, s=100%)
 ✗ [FRAME] chahı #Bh0ybwmiL
@@ -892,7 +892,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] cheme #SDgZtA-PV
   actual:  [(c 1x) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=75%, s=77%)
-✗ [FRAME] cheo #2nb9Ohnlefn
+✗ [FRAME] cheo #md7y59dGmme
   actual:  [(c 2xx) (n d) tá sF]
   guessed: [(c 2ix) (n d) tá sF] (conf: p=96%, s=95%)
 ✗ [FRAME] cheocuoı #o4zSRlugO
@@ -901,7 +901,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] cheocheo #iUUk6mN2t
   actual:  [(c 2xx) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=91%, s=92%)
-✗ [DIST] cheqbo #y0kCu8GEOSh
+✗ [DIST] cheqbo #fg7jtDrQGZu
   actual:  [(c) (d) tá sF]
   guessed: [(c) (n) tá sF] (conf: p=85%, s=89%)
 ✗ [DIST] cheqchuaq #9maqKVYcA
@@ -919,16 +919,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] chıaıchıchıo #SWlDJy_iR
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=68%)
-✗ [FRAME] chıaıtao #0JCD24p9T9T
+✗ [FRAME] chıaıtao #xw-IF83rUSk
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] chıaq #b7APRgr234t
+✗ [FRAME] chıaq #kLi5VWUQKk7
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=84%, s=70%)
 ✗ [FRAME] chıeja #4jIxOXAM9
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] chıetua #n0HBrSBd4Q4
+✗ [FRAME] chıetua #P79Cq_h5Htp
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] chıezu #nwED_2_n4
@@ -940,16 +940,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] choazu #pwU-qk43m
   actual:  [(c c c) (d d d) hóq sF]
   guessed: [(c c) (d d) hóq sF] (conf: p=96%, s=86%)
-✗ [FRAME] choe #V85KuMuyWA7
+✗ [FRAME] choe #jNHpAGGfqCj
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=75%, s=100%)
-✗ [FRAME] choq #04i-5BJOF3_
+✗ [FRAME] choq #FNliCe_PHnp
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] choqhuı #JUKLiIh27vC
+✗ [FRAME] choqhuı #kSWjVE54P8K
   actual:  [(c 1x) (d d) tá sI]
   guessed: [(c 1i) (d d) tá sI] (conf: p=86%, s=45%)
-✗ [DIST] chosoq #8CpO6agj_Yp
+✗ [DIST] chosoq #NNV__VBwE2L
   actual:  [(c c c) (d d n) tá sF]
   guessed: [(c c c) (d d d) tá sF] (conf: p=85%, s=84%)
 ✗ [DIST] chuıqtoqlıeı #AXQg1slZM
@@ -958,16 +958,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] chukuq #NB6GHRBpV
   actual:  [(c c) (d n) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=90%, s=100%)
-✗ [FRAME] daıchı #mosqt8lN7NQ
+✗ [FRAME] daıchı #UnRiaafdQy4
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=98%)
 ✗ [FRAME] daısıu #T6Qkm_pnQ
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=82%, s=97%)
-✗ [FRAME] daqfao #cqzzcoBp71Q
+✗ [FRAME] daqfao #Z5CYjSForOl
   actual:  [(c 0) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=89%, s=72%)
-✗ [FRAME] daqfıa #haUvMJSVEtc
+✗ [FRAME] daqfıa #E0mtUiX5uQR
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=82%, s=100%)
 ✗ [FRAME] daqheq #Tqvo-PUCi
@@ -976,16 +976,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] daqko #SCVEnTN_B
   actual:  [(c c 1x) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=95%, s=100%)
-✗ [FRAME] daqsıao #k-QIrZ_or4_
+✗ [FRAME] daqsıao #y7IBb5gsQ8G
   actual:  [(c 0) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=86%, s=64%)
-✗ [FRAME] daqsıe #Sppk5dLZHBd
+✗ [FRAME] daqsıe #otTzW2BdZoH
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=74%, s=99%)
 ✗ [FRAME/DIST] daqsheı #eJX6bX9Am
   actual:  [(c) (d) hó sI]
   guessed: [(c 1i) (d d) hó sI] (conf: p=57%, s=94%)
-✗ [FRAME] dedo #wHIaPtq4Qlu
+✗ [FRAME] dedo #XEs6j9tWFT0
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] dela #dxYzkrgFq
@@ -1006,13 +1006,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] dıa #v9BJEiZJc
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=51%, s=99%)
-✗ [DIST] dıaı #DJ60mPczRbE
+✗ [DIST] dıaı #nLpn2JRYL7T
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=94%, s=96%)
-✗ [DIST] dıaıko #acYdDBEmLms
+✗ [DIST] dıaıko #oIZSe021Abn
   actual:  [(c c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=95%, s=87%)
-✗ [FRAME] dıaq #5MX32t89sLT
+✗ [FRAME] dıaq #N_0PxbPB4TB
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=94%, s=99%)
 ✗ [DIST] dıaqko #Ucm4Y77gq
@@ -1021,7 +1021,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] dıba #KMpZVeE5S
   actual:  [(c c) (n n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=96%, s=97%)
-✗ [FRAME] dıe #8RtoYkKREsJ
+✗ [FRAME] dıe #-6nVKSEUk2b
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=89%, s=99%)
 ✗ [FRAME] dımua #G9f1QW0tx
@@ -1048,10 +1048,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] duasuao #8EyCFIvSp
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=83%, s=100%)
-✗ [FRAME] duasue #XZ9ha_S82oEO
+✗ [FRAME] duasue #2D6uMHA1qSpY
   actual:  [(c c 0) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] duashao #GgVZmDhemtr
+✗ [FRAME] duashao #p0dl9zlTOTW
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=87%)
 ✗ [FRAME] duehea #l41bJZO3C
@@ -1078,7 +1078,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] eq #RaqwykTBg
   actual:  [(c c) (n n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=80%, s=53%)
-✗ [DIST] esa #DKjx8JJRn0r4
+✗ [DIST] esa #dp2QLp7qggdC
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [DIST] faıgı #TvA3okrHi
@@ -1090,13 +1090,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] faınıugaqlıao #aa_psXVYZ
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] fao #Bhwa7PONaCjz
+✗ [FRAME] fao #K0P0TvxsH1NJ
   actual:  [(c 0) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sF] (conf: p=75%, s=74%)
-✗ [DIST] fe #QBSudxsIcoy8
+✗ [DIST] fe #Lce6pA43btIp
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=89%, s=93%)
-✗ [DIST] fea #vVZju3CEKA4n
+✗ [DIST] fea #MZq86W36Be0A
   actual:  [(c c 1i) (d d) tá sI]
   guessed: [(c c 1i) (d d d) tá sI] (conf: p=76%, s=73%)
 ✗ [FRAME/DIST] feqnoaq #qdYArWl1g
@@ -1108,7 +1108,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] fıshoem #6KGbLxQow
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=89%, s=75%)
-✗ [FRAME] foa #8amm1rdrGbM8
+✗ [FRAME] foa #e7oVFRbPgO-7
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=82%, s=61%)
 ✗ [FRAME/DIST] fomfomkıaqlıao #zIr6k-xtL
@@ -1117,10 +1117,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] fopa #1XQMguQpz
   actual:  [(0) (d) tá sE]
   guessed: [(c) (d) tá sE] (conf: p=71%, s=99%)
-✗ [DIST] fue #mkNhdrhNVR3S
+✗ [DIST] fue #VlwXbBmO5c_9
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=77%, s=95%)
-✗ [FRAME] fuı #hOJEdoGN-EyS
+✗ [FRAME] fuı #Nw06TRB_sKDM
   actual:  [(c 2xi) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=96%)
 ✗ [FRAME] gaıboq #nb1qRTmEM
@@ -1150,7 +1150,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] gıfaq #jZFMXPKtm
   actual:  [(0) (d) tá sE]
   guessed: [(c) (d) tá sE] (conf: p=74%, s=99%)
-✗ [DIST] gıga #epA0DmNP9aM
+✗ [DIST] gıga #VlLXGVl-2MZ-
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] gıle #Cczdkj3vL
@@ -1171,46 +1171,46 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] gosuq #ROPj1HuiA
   actual:  [(c 1i) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=98%)
-✗ [DIST] gu #mHb7HZTYa2t
+✗ [DIST] gu #scO1y3ToXgIY
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=88%, s=92%)
-✗ [DIST] gua #RvRjBmLXQ4e
+✗ [DIST] gua #nTLxeUEzSAR6
   actual:  [(c) (d) máq sI]
   guessed: [(c) (n) máq sI] (conf: p=96%, s=100%)
 ✗ [DIST] guaıjea #eAFZvHOix
   actual:  [(c c 1j) (d n d) hó sA]
   guessed: [(c c 1j) (d d d) hó sA] (conf: p=96%, s=100%)
-✗ [DIST] guao #-IRi42PGNTI
+✗ [DIST] guao #nDNoVqL45aKB
   actual:  [(c) (d d) máq sI]
   guessed: [(c) (d) máq sI] (conf: p=93%, s=100%)
-✗ [FRAME] guchıo #TTwTtiZBIlU
+✗ [FRAME] guchıo #Ipu1BF8OQue-
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=96%, s=100%)
-✗ [FRAME] guo #IxecoU8QFri
+✗ [FRAME] guo #p0spdebrKZGV
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=84%, s=95%)
 ✗ [FRAME] guoı #l3eEYuQEs
   actual:  [(c 2xx) (n d) tá sF]
   guessed: [(c 2ix) (n d) tá sF] (conf: p=96%, s=100%)
-✗ [FRAME] guosa #LjLyE-S4Z7L
+✗ [FRAME] guosa #X-W9zWeSRIXg
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=92%, s=99%)
-✗ [FRAME] guosıa #KQRPjLAO7CW
+✗ [FRAME] guosıa #15iu9MvLF5Fb
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=91%, s=99%)
 ✗ [FRAME] habuı #hIdOAq5kl
   actual:  [(0) (d) hóq sI]
   guessed: [(c) (d) hóq sI] (conf: p=92%, s=92%)
-✗ [DIST] hao #0RZ_fwm8Ses
+✗ [DIST] hao #S2EGnN8nWIQ8
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=94%, s=96%)
-✗ [DIST] haqbaı #PHGGV8CwnS0
+✗ [DIST] haqbaı #AK8BBFzPnVaP
   actual:  [(c c) (d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=92%, s=99%)
-✗ [DIST] heı #mPBTAWbhKl7
+✗ [DIST] heı #n74uFcKAA2M7
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=94%, s=96%)
-✗ [FRAME] heo #mk6fGnv5ON5
+✗ [FRAME] heo #8H88M_Jj3
   actual:  [(c c 2xx) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=89%, s=98%)
 ✗ [FRAME/DIST] heo #7vsitXngI
@@ -1231,7 +1231,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] hıopoaq #02IGA9SCW
   actual:  [(c) (n) hó sA]
   guessed: [(c) (d) hó sA] (conf: p=93%, s=98%)
-✗ [DIST] hıota #OELRPBiYeJQ
+✗ [DIST] hıota #1ybaX-L2afm
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] hobıpuelıao #uL6TkCLkA
@@ -1249,7 +1249,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] hoezeumlıao #U6fSZxywu
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME/DIST] huaq #Yyvn57UdLMH
+✗ [FRAME/DIST] huaq #wV8ZJkQkvXW
   actual:  [(c c 1x) (n n d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=93%, s=98%)
 ✗ [FRAME] huche #uFCpXtFMq
@@ -1258,7 +1258,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] huıdaısı #NoM7F4JZu
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=91%, s=64%)
-✗ [FRAME] huogaı #j8Lg9XxZ8s2
+✗ [FRAME] huogaı #gYYZo2YnuR2
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=68%)
 ✗ [FRAME/DIST] huohıa #KghXoXOi0
@@ -1270,19 +1270,19 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] ıjaq #U0hTVQmR_
   actual:  [(c 2ix) (n d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=96%)
-✗ [DIST] ıq #V6Go96OuiI7
+✗ [DIST] ıq #JXOu-YZe5Zt
   actual:  [(c 1i) (n d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=72%, s=86%)
 ✗ [DIST] ıq'ıq #0s40RFIHo
   actual:  [(c 1i) (n d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=100%)
-✗ [FRAME] ıqdo #QZgyiQ7Q37o
+✗ [FRAME] ıqdo #wI1cnZuPhPV
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [DIST] ıqlıgua #JciT7vuiT
   actual:  [(c) (d) máq sI]
   guessed: [(c) (n) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] ıqnua #TwK7RwWDrMG
+✗ [FRAME] ıqnua #zVLoGDDafbR
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=95%, s=100%)
 ✗ [FRAME] ıqnua #uXf5bMz5l
@@ -1300,10 +1300,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] jaqbu #2IvJBc6me
   actual:  [(0) (d) tá sP]
   guessed: [(c c 1i) (d d d) tá sP] (conf: p=78%, s=100%)
-✗ [FRAME] jaqheo #EiUdUd3-zEU
+✗ [FRAME] jaqheo #wO0wfzg6Jbx
   actual:  [(c c 1x) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=87%, s=100%)
-✗ [FRAME] jaqjeq #HR5XITOWwon
+✗ [FRAME] jaqjeq #1r9vN4BffG_
   actual:  [(c c 1x) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=96%)
 ✗ [FRAME] jeaq #PkvfmZVv2
@@ -1315,7 +1315,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] jeaqdıa #xXOtC-XZ_
   actual:  [(0) (d) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=76%, s=48%)
-✗ [DIST] jeı #unZXiGdd2oN
+✗ [DIST] jeı #-AJknuXHn8Z
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=93%, s=94%)
 ✗ [FRAME] jeomuo #yJVzpgVLN
@@ -1330,7 +1330,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] jeq #FEKKWPJiT
   actual:  [(c 2xx) (d d d) tá sF]
   guessed: [(c c 2ij) (n n d) tá sF] (conf: p=96%, s=100%)
-✗ [FRAME] jeq #34ckm5zb8PH
+✗ [FRAME] jeq #NqtJKZwHr7s
   actual:  [(c c 2xx) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=95%, s=100%)
 ✗ [FRAME] jeq #8DsWeRuK6
@@ -1348,7 +1348,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] jıoq #IQzrU8uBm
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=91%, s=100%)
-✗ [FRAME] jıoq #_dL5TArbsl4
+✗ [FRAME] jıoq #G5FwC0ZvFbT
   actual:  [(c 1x) (d d) hó sA]
   guessed: [(c 1i) (d d) hó sA] (conf: p=82%, s=100%)
 ✗ [FRAME] jıqcı #SrfV4z1D5
@@ -1357,7 +1357,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] jıuzu #qsXxtdl8R
   actual:  [(c) (d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=95%)
-✗ [DIST] jo #SfiPo0h481X
+✗ [DIST] jo #zyHizt_mkTA
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=91%, s=89%)
 ✗ [FRAME] joaıkea #0szUoLWoo
@@ -1366,19 +1366,19 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] joene #yRRuXJaXC
   actual:  [(c c 1j) (d n d) hóq sI]
   guessed: [(c c c) (d d d) hóq sI] (conf: p=74%, s=76%)
-✗ [FRAME] joetao #_xt__NR9qux
+✗ [FRAME] joetao #OuurkzOwYbm
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] joı #YS4XO-JKtIB
+✗ [FRAME] joı #vfhlbZNj3db
   actual:  [(c 0) (d d) hóq sP]
   guessed: [(c c) (d d) hóq sP] (conf: p=96%, s=100%)
-✗ [DIST] joko #Zuv05Te3Yge
+✗ [DIST] joko #poTPCwMzCv_
   actual:  [(c c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=96%, s=81%)
 ✗ [DIST] jole #Hu2b0J6Xe
   actual:  [(c 2ix) (n d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=100%)
-✗ [DIST] joq #B4HwjeIwwzG
+✗ [DIST] joq #_5_ePdgd2ES
   actual:  [(c c) (d n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=87%, s=64%)
 ✗ [DIST] juaodı #12zxcy0gW
@@ -1387,7 +1387,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] juaoduaı #ye3XIG_QV
   actual:  [(0) (d) hóq sP]
   guessed: [(c c) (d d) hóq sP] (conf: p=94%, s=100%)
-✗ [FRAME] juı #Z5DZXrVwFRU
+✗ [FRAME] juı #OGQaB5-sZu8
   actual:  [(c c 2xx) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=92%, s=82%)
 ✗ [FRAME] juıjıoq #xprUqjQnS
@@ -1405,7 +1405,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] junarıeı #I5XMnipDV
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=80%, s=100%)
-✗ [FRAME] juoı #iOxkIpKhw0E
+✗ [FRAME] juoı #dvtu-Bv1uEa
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=93%, s=99%)
 ✗ [DIST] juoıkıu #GQmcj63yt
@@ -1423,7 +1423,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] kaojuq #mxSJ5SX4G
   actual:  [(c c c) (d n n) máq sA]
   guessed: [(c c c) (d d d) máq sA] (conf: p=80%, s=99%)
-✗ [FRAME] kaqgaı #tEBJqBv-jpkV
+✗ [FRAME] kaqgaı #RvsYWg8Lrkx
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=86%)
 ✗ [FRAME/DIST] kaqhıa #s7dQCm6MD
@@ -1432,7 +1432,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] karuaq #IST14yB49
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=86%, s=99%)
-✗ [FRAME] kea #eIcXtDViRH4a
+✗ [FRAME] kea #s2jbQp4Ajrg
   actual:  [(c 1i) (d d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=94%, s=100%)
 ✗ [FRAME] keaıcoı #vNumP6cFQ
@@ -1459,7 +1459,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] keqnıu #rZPOhnQDd
   actual:  [(c c) (d d) máq sI]
   guessed: [(c) (d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] kıe #fm6nVApQ4ArE
+✗ [FRAME] kıe #0kG1B6h1ZbR
   actual:  [(c c 1j) (d d d) hó sI]
   guessed: [(c c 1i) (d d d) hó sI] (conf: p=95%, s=51%)
 ✗ [FRAME/DIST] kıem #fT-Op3vnN
@@ -1474,7 +1474,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] kıme #98LcZV31J
   actual:  [(c 2xx) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=94%)
-✗ [FRAME/DIST] ko #BAI0dkM9G7HX
+✗ [FRAME/DIST] ko #TJVSqe2vlLe
   actual:  [(c c c 1x) (d n d d) tá sF]
   guessed: [(c c c 1i) (d d d d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] koaıbuaılıao #5bYR0MiBl
@@ -1483,7 +1483,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] koe #K2KJy_vKA
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=77%, s=99%)
-✗ [FRAME/DIST] koe #p-347fjJCAAV
+✗ [FRAME/DIST] koe #q-Fp371qQlI
   actual:  [(c c c 2ij) (d d n d) hó sA]
   guessed: [(c c c c) (d d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] koemoı #QUdp3Offb
@@ -1504,22 +1504,22 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] kudote #10Pipj2ys
   actual:  [(c) (n) hó sA]
   guessed: [(c) (d) hó sA] (conf: p=86%, s=98%)
-✗ [DIST] kueq #MYoSdHI5YZ
+✗ [DIST] kueq #kI-gRyf1an5
   actual:  [(c c) (n d) tá sI]
   guessed: [(c c) (d d) tá sI] (conf: p=95%, s=46%)
-✗ [DIST] kueqtua #Ng_FKnpE_5
+✗ [DIST] kueqtua #lGXSY4RbjRC
   actual:  [(c c c) (d n d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] kuetıe #tQ-Xy8P7P
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] kuı #bMh84xjMux
+✗ [FRAME] kuı #_8sBwkcT-bB
   actual:  [(c 0) (d d) hóq sP]
   guessed: [(c c) (d d) hóq sP] (conf: p=91%, s=98%)
 ✗ [FRAME/DIST] kuocaqbıulıao #SmAN5Mm_U
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME/DIST] kuoı #lsFO4j7ijw
+✗ [FRAME/DIST] kuoı #0EsYhBWHiY1
   actual:  [(c c 1x) (n n d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=95%, s=93%)
 ✗ [DIST] kuoıchua #FBWHDflrl
@@ -1528,7 +1528,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] kuomochelıao #9SZGnrjCB
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] laı #TFF-kBItQYx
+✗ [FRAME] laı #uD2a83iCGyPr
   actual:  [(c 0) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=97%)
 ✗ [DIST] laocheo #x2VwDAZ_D
@@ -1555,7 +1555,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] lazeo #bknK3_Hy1
   actual:  [(c c) (d d) hóq sF]
   guessed: [(c) (d) hóq sF] (conf: p=78%, s=71%)
-✗ [FRAME] leaq #w-8uVfwBTRn
+✗ [FRAME] leaq #ls9l3k3UJ_mZ
   actual:  [(c c 2xx) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=92%, s=85%)
 ✗ [FRAME] leaqbıe #8geSg3FUC
@@ -1591,7 +1591,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] lıam #XFTygUdWy
   actual:  [(c 0) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sF] (conf: p=81%, s=78%)
-✗ [FRAME] lıaq #YkhVESLgfIf
+✗ [FRAME] lıaq #7NcFNTKhujcE
   actual:  [(c 1i) (d d) tá sI]
   guessed: [(c c) (d d) tá sI] (conf: p=76%, s=69%)
 ✗ [FRAME] lıedua #Zac7I46hB
@@ -1600,7 +1600,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] lılalıao #dfpkcJn5a
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [DIST] lıq'ocha #y_mAUITgg_q
+✗ [DIST] lıq'ocha #9zs_RTZH6Cq1
   actual:  [(c) (d d) hó sI]
   guessed: [(c) (d) hó sI] (conf: p=93%, s=100%)
 ✗ [DIST] lıqdenaq #k0kkxTTda
@@ -1612,13 +1612,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] luemochelıao #s9diVenUn
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] luıne #LNkIYiYHwxg
+✗ [FRAME] luıne #pPSZ02IhzzOY
   actual:  [(c 0) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=81%)
 ✗ [DIST] lum #sHqnfGZL8
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=75%, s=97%)
-✗ [DIST] luo #Xf13gI_iPHx
+✗ [DIST] luo #5il_7sEJVMTA
   actual:  [(c) (d d) hóq sI]
   guessed: [(c) (d) hóq sI] (conf: p=55%, s=85%)
 ✗ [FRAME/DIST] luozu #cEzsfAa3c
@@ -1633,22 +1633,22 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] masuım #Q4YXbIRK-
   actual:  [(c c 1j) (d n d) hó sI]
   guessed: [(c c 1j) (d d d) hó sI] (conf: p=96%, s=63%)
-✗ [DIST] meaheo #u-9OIrAT4UW
+✗ [DIST] meaheo #5u4g6gKfI8fI
   actual:  [(c c) (n n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=96%, s=85%)
-✗ [DIST] meajeq #0ETbkobgLz2
+✗ [DIST] meajeq #URDKrxkWD7Pd
   actual:  [(c c) (n n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=91%, s=96%)
 ✗ [DIST] meboraı #WzypAXfSh
   actual:  [(c) (d) tá sF]
   guessed: [(c) (n) tá sF] (conf: p=80%, s=86%)
-✗ [DIST] mega #dhclRfi79fr
+✗ [DIST] mega #ZLphPgtYGiX7
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] mekao #0Yeahs0Kx
   actual:  [(c 1x) (d d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=94%, s=73%)
-✗ [FRAME] meoq #bwPJ__3KIji
+✗ [FRAME] meoq #YoEM978dbJY-
   actual:  [(0) (d) hóq sI]
   guessed: [(c) (d) hóq sI] (conf: p=57%, s=46%)
 ✗ [DIST] metao #tsO_TYM2g
@@ -1660,37 +1660,37 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] mıaozeumlıao #jO4kGn4ei
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] mıaqgaı #0Tnc0_olAQM
+✗ [FRAME] mıaqgaı #ioNyo9Hcwhx9
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=81%)
-✗ [FRAME] mıefea #fI-w7cw0Q98
+✗ [FRAME] mıefea #aPVwj9asbPNd
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=92%, s=99%)
 ✗ [FRAME] mıeq #tYJNbmwr7
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] mıeq #Jq1V7vkUeA-
+✗ [FRAME] mıeq #1qFmYxng9wPn
   actual:  [(c 1x) (d d) hó sA]
   guessed: [(c 1i) (d d) hó sA] (conf: p=84%, s=100%)
-✗ [FRAME] mıq #8HSOrV9k1i1
+✗ [FRAME] mıq #ku7HfqS6m9kr
   actual:  [(c 2ix) (d d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=85%)
 ✗ [FRAME] mıuteoq #v1bklJz15
   actual:  [(c c 1j) (d d d) hóq sI]
   guessed: [(c c c) (d d d) hóq sI] (conf: p=87%, s=74%)
-✗ [FRAME] moaq #KmKek5KCFvv
+✗ [FRAME] moaq #GL_6ILv0G0RK
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=93%, s=99%)
 ✗ [FRAME] moaq #WD3VSMRV72kh
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=93%, s=99%)
-✗ [FRAME] moaqchuo #Ub_hjIv_-6r
+✗ [FRAME] moaqchuo #7DCYqesWz1K_
   actual:  [(c 0) (d d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=92%, s=100%)
 ✗ [FRAME] moaqde #C4vraq47r
   actual:  [(0) (d) tá sE]
   guessed: [(c) (d) tá sE] (conf: p=95%, s=98%)
-✗ [FRAME] moaqshaı #6AJ_5m4WPfO
+✗ [FRAME] moaqshaı #VowsBIDVNKLp
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=87%, s=79%)
 ✗ [FRAME] moaqtao #JRnoMrc1H
@@ -1699,10 +1699,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] moarao #fnoqoEy57
   actual:  [(c c) (d d) hóq sE]
   guessed: [(c 0) (d d) hóq sE] (conf: p=96%, s=99%)
-✗ [FRAME] moe #KsazN7rK3Ne
+✗ [FRAME] moe #cgmSUdQm-vqs
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=82%)
-✗ [FRAME] moı #aQbd9Ls0T-s
+✗ [FRAME] moı #S5ZgTIBQGndr
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=93%, s=99%)
 ✗ [FRAME] moırıeq #a3FH2C8hA
@@ -1714,16 +1714,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] muıhuı #86NKEp7On
   actual:  [(c c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=88%, s=51%)
-✗ [FRAME] muotua #dx_HWQEZJPw
+✗ [FRAME] muotua #05BkLOTgx9
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
 ✗ [DIST] naqdelıq #ehdtbnnyV
   actual:  [(c) (n) tá sI]
   guessed: [(c) (d) tá sI] (conf: p=55%, s=84%)
-✗ [DIST] neı #m3E4Smdi7aB
+✗ [DIST] neı #2JjIc6hxF5n
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=92%, s=95%)
-✗ [DIST] neıko #b-AU8xkJTtE
+✗ [DIST] neıko #oYh4aYYKj1s
   actual:  [(c c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=95%, s=89%)
 ✗ [FRAME] neq #iBXW_8Dka
@@ -1741,31 +1741,31 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] nıejeo #NIC7oNj34
   actual:  [(c) (d) hóq sF]
   guessed: [(0) (d) hóq sF] (conf: p=96%, s=62%)
-✗ [DIST] Nıkaragua #fV8pnzMshdrA
+✗ [DIST] Nıkaragua #fILpCLDdHfp2
   actual:  [(c) (d) tá sF]
   guessed: [(c) (n) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] nıloeı #kujMb-Gae
   actual:  [(0) (d) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=72%, s=80%)
-✗ [FRAME] nıqchıe #JqqDGb4HAsb
+✗ [FRAME] nıqchıe #2GlaTCxKXlG
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=85%, s=76%)
-✗ [FRAME] nıqdua #HnQiEQZpXWg
+✗ [FRAME] nıqdua #W_abCKr-gyT
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=97%)
-✗ [FRAME] nıqguokuaı #wnhw18fs6yo
+✗ [FRAME] nıqguokuaı #Xf8VCTTIZuZ
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=78%)
 ✗ [FRAME] nıuqsue #HHoiFaVwE
   actual:  [(c 1i) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] noa #f5CG2LnMhxF
+✗ [FRAME] noa #UQALJzSK06m
   actual:  [(c 2xi) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=99%)
 ✗ [DIST] nobatao #rdRTgKrqN
   actual:  [(c 1i) (n d) hó sA]
   guessed: [(c 1i) (d d) hó sA] (conf: p=90%, s=98%)
-✗ [FRAME] noqgaı #Nby2v1ujJD
+✗ [FRAME] noqgaı #ZgpnQYMoEKs
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=70%)
 ✗ [FRAME] noqgaı #14CeAOp1DHc
@@ -1774,7 +1774,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] noqhıa #lmzy3i2P-
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=96%, s=100%)
-✗ [DIST] nu #dMctx82Fc4
+✗ [DIST] nu #Ko8Eb2tDHjp
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=94%, s=91%)
 ✗ [FRAME/DIST] nueqlıao #XYqNP3LVF
@@ -1786,13 +1786,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] nuı'eku #jbyHOG5ib
   actual:  [(c c) (d d) hó sI]
   guessed: [(c) (d) hó sI] (conf: p=96%, s=100%)
-✗ [FRAME] nuıduo #wEO2imErpA0
+✗ [FRAME] nuıduo #33cJyTLEhYf
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=92%, s=100%)
 ✗ [FRAME/DIST] nuıkebo #VeUiKW4jL
   actual:  [(c c) (d d) hó sI]
   guessed: [(c) (d) hó sI] (conf: p=96%, s=100%)
-✗ [FRAME] nuogaı #e8AVSA6vt39
+✗ [FRAME] nuogaı #9lyO3e6HdPR
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=89%)
 ✗ [FRAME] nheam #1cv3ZMqtL
@@ -1822,13 +1822,13 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] paqke #1hmiVMdGG
   actual:  [(c) (d) máq sI]
   guessed: [(c) (n) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] paqtao #5OUy_FCouem
+✗ [FRAME] paqtao #B9Z7IT8ONM_
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=92%, s=100%)
 ✗ [FRAME/DIST] peı #OE1WuRVn5
   actual:  [(c) (d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=96%, s=84%)
-✗ [DIST] peta #x0AvaVGYTwu
+✗ [DIST] peta #APngXvf09aI
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] pınugaqlıao #c3kuu-JNf
@@ -1843,10 +1843,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] pıotuaıkıaqlıao #lseP9ifNx
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [DIST] po #QGYeO3GJfL7
+✗ [DIST] po #mQclvq7nzjy
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=99%)
-✗ [FRAME] poe #caBJweWOfJW
+✗ [FRAME] poe #gxyzaoYMx1J
   actual:  [(c c 2xx) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=99%)
 ✗ [DIST] poegua #ZPt61-vee
@@ -1861,7 +1861,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] puanoaılıao #-HTOTng6p
   actual:  [(c) (d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] puaqgaı #-PHyX5qSVp-
+✗ [FRAME] puaqgaı #sFygOxUIGcL
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=94%)
 ✗ [FRAME/DIST] puaqhıa #rZluq2RH6
@@ -1870,31 +1870,31 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] pucham #UZ_DECkRO
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=85%, s=99%)
-✗ [DIST] puı #wf1baa7JqfF
+✗ [DIST] puı #1IIkmIdeWhA
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=72%, s=96%)
-✗ [DIST] puısıa #d3WqFtR0dq7
+✗ [DIST] puısıa #raPQ44U2Ywu
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=96%)
-✗ [DIST] puıtua #ewxtFN71JPW
+✗ [DIST] puıtua #q0OUsdMkEIh
   actual:  [(c c) (d n) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=92%, s=100%)
-✗ [DIST] puıtuao #xi1VfwCY7UM
+✗ [DIST] puıtuao #CkH8ATptoAn
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=86%)
 ✗ [FRAME/DIST] pujıa #4nlFfK4QP
   actual:  [(0) (d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=96%, s=100%)
-✗ [DIST] puq #7RIKPae8-N7
+✗ [DIST] puq #07wVsFYT7a7
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=88%, s=99%)
 ✗ [DIST] puqko #i_PGGaLFd
   actual:  [(c c) (d n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=96%, s=96%)
-✗ [DIST] raıjeq #Yvvr8S8NlD9
+✗ [DIST] raıjeq #V8N6GwDTlMw
   actual:  [(c c) (n n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=91%, s=96%)
-✗ [FRAME] rao #uwJmBsyCM-d
+✗ [FRAME] rao #mlugVfWlZf1
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=85%, s=97%)
 ✗ [FRAME] raoheq #rc4fKJpix
@@ -1909,7 +1909,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] reaı #gYSEGw8W7
   actual:  [(c c) (n n) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=91%, s=99%)
-✗ [DIST] reı #i2U6QX7Li42
+✗ [DIST] reı #rjjggk-_LFx
   actual:  [(c c) (n d) tá sS]
   guessed: [(c c) (d d) tá sS] (conf: p=77%, s=100%)
 ✗ [DIST] reobo #V3ApLZn3H
@@ -1924,10 +1924,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] rıapuq #NSVRQ450I
   actual:  [(c c) (d d) hó sI]
   guessed: [(c) (d) hó sI] (conf: p=92%, s=99%)
-✗ [FRAME/DIST] rıaq #qLATIt13b66
+✗ [FRAME/DIST] rıaq #m29WJQU80zJ
   actual:  [(c 0) (d d) máq sI]
   guessed: [(c) (d) máq sI] (conf: p=94%, s=100%)
-✗ [DIST] rıe #H4NZM8wpBR4
+✗ [DIST] rıe #1BPmg5tKfRt
   actual:  [(c c) (d n) tá sS]
   guessed: [(c c) (d d) tá sS] (conf: p=90%, s=100%)
 ✗ [DIST] rıerea #vqAvs5Rlh
@@ -1939,22 +1939,22 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] rıteoq #OtnPfVkbx
   actual:  [(0) (d) tá sP]
   guessed: [(c) (d) tá sP] (conf: p=68%, s=99%)
-✗ [FRAME] rıu'ıqdo #hKWZDa1SoHS
+✗ [FRAME] rıu'ıqdo #MfwniCQ-IGT
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] rıudo #CKJLy-XIrwz
+✗ [FRAME] rıudo #OcBlQzRowaa
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=99%)
-✗ [DIST] roaı #JZMHdQkzL6G
+✗ [DIST] roaı #CT65C13KlbN
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=94%, s=96%)
-✗ [DIST] roaıko #u79o0J_at6N
+✗ [DIST] roaıko #EG_JOWRCoEO
   actual:  [(c c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=94%, s=90%)
 ✗ [FRAME] roajoe #aLy_tDoh-
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=95%)
-✗ [FRAME] ruao #a2GSXYWkcw7
+✗ [FRAME] ruao #fd0GfOAQPvHl
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME/DIST] ruıdaı #kmDzc2mbQ
@@ -1969,7 +1969,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] runao #HGdSEc788
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=99%)
-✗ [FRAME] ruo #ePbrlOokHhK
+✗ [FRAME] ruo #jL3bZlnrK-P_
   actual:  [(c 1i) (d d) tá sI]
   guessed: [(c c) (d d) tá sI] (conf: p=92%, s=43%)
 ✗ [DIST] ruqpaı #aduFtYdzo
@@ -1981,7 +1981,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] sacheo #Yci1resc-
   actual:  [(c 2xx) (d d) tá sF]
   guessed: [(c 2ix) (d d) tá sF] (conf: p=96%, s=99%)
-✗ [FRAME] saoduo #pXfjxOD0L6L
+✗ [FRAME] saoduo #0XPKSC0uvJW4
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=93%, s=99%)
 ✗ [FRAME/DIST] saokıoqlıao #Fvz4QisU7
@@ -1990,16 +1990,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] saopo #ZV0B19ZGv
   actual:  [(c 1x) (d d) hóq sI]
   guessed: [(c c c) (n d d) hóq sI] (conf: p=95%, s=84%)
-✗ [DIST] saq #gUOjtZNBooC
+✗ [DIST] saq #SIxa3Y1_cqeO
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=86%, s=96%)
-✗ [FRAME] saqchıo #Pr3aQm0O89u
+✗ [FRAME] saqchıo #hMJHRvpNICo-
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=96%, s=100%)
-✗ [DIST] saqko #BXxvwDMgGvW
+✗ [DIST] saqko #18ONg3lGRX_I
   actual:  [(c c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=90%, s=95%)
-✗ [FRAME] se #5s1hM6XVG8c
+✗ [FRAME] se #BhhmlJmFlE-a
   actual:  [(c 0) (d d) tá sI]
   guessed: [(c c) (d d) tá sI] (conf: p=89%, s=58%)
 ✗ [FRAME] secaq #UOSUogyBa
@@ -2014,7 +2014,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] sesıu #poA0LoBlv
   actual:  [(c) (d) hóq sI]
   guessed: [(c c) (d d) hóq sI] (conf: p=95%, s=74%)
-✗ [DIST] seta #VkdEHQXA5sS
+✗ [DIST] seta #wPX5kz3YAx1g
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] sıaja #K8hPBXVOu
@@ -2023,7 +2023,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] sıam #QSNjymbAO
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=94%, s=99%)
-✗ [FRAME] sıao #gaLrkA3hy10d
+✗ [FRAME] sıao #uqtc3DX6saHz
   actual:  [(c 0) (d d) hóq sF]
   guessed: [(c c) (d d) hóq sF] (conf: p=78%, s=85%)
 ✗ [FRAME/DIST] sıaqtakıaqlıao #hucsAxdje
@@ -2044,7 +2044,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] sıu #-4ZycrOw1
   actual:  [(c c 1x) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=99%)
-✗ [FRAME] soa #aJJJX56mNb
+✗ [FRAME] soa #q86_HODiKUZl
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=99%)
 ✗ [FRAME] soagıq #N_xdcIIlt
@@ -2062,19 +2062,19 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] soq #yXBeLlHeW
   actual:  [(c c 1x) (d d d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=100%)
-✗ [FRAME/DIST] soq #mG-nFiUfqO
+✗ [FRAME/DIST] soq #GyEb626R2NHG
   actual:  [(c c 1x) (d n d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=96%, s=99%)
 ✗ [FRAME/DIST] soqnedaq #Cdz7wodDA
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=78%, s=50%)
-✗ [FRAME] sua #r2F2_p7mg_L
+✗ [FRAME] sua #DX-HVes21VHx
   actual:  [(c 0) (d d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=75%, s=67%)
-✗ [FRAME] suahuaq #DcBERxSJeXm
+✗ [FRAME] suahuaq #mY1PbmnWPURs
   actual:  [(c 0) (d d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=86%, s=91%)
-✗ [FRAME] suaı #eSB-2OUVQ6V
+✗ [FRAME] suaı #5pus1dOY6gHx
   actual:  [(0) (d) hóq sF]
   guessed: [(c) (d) hóq sF] (conf: p=77%, s=70%)
 ✗ [FRAME/DIST] suaojıetıao #dsLqcySVo
@@ -2083,16 +2083,16 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] Subaru #kMAHWf7Fr
   actual:  [(c) (n) máq sI]
   guessed: [(c) (d) máq sI] (conf: p=96%, s=100%)
-✗ [FRAME] sue #p9uJr0BdQn9
+✗ [FRAME] sue #u3pZMc9shJas
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c 1i) (d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] suecaq #uwbF6Eey4
   actual:  [(c c 1j) (d d d) hó sA]
   guessed: [(c c c) (d d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME/DIST] suı #lz_TDIRwaKz
+✗ [FRAME/DIST] suı #dQyFygvOIAW8
   actual:  [(c c 1x) (d n d) tá sF]
   guessed: [(c c 1i) (d d d) tá sF] (conf: p=93%, s=99%)
-✗ [FRAME] suoı #SyWXGq0rRLx
+✗ [FRAME] suoı #GHiQwwcnzwUi
   actual:  [(c 1i) (d d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=87%, s=54%)
 ✗ [DIST] suoqja #vPcZDClB9
@@ -2101,7 +2101,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] suqkeo #T42VLKuc4
   actual:  [(0) (d) hóq sF]
   guessed: [(c) (d) hóq sF] (conf: p=82%, s=81%)
-✗ [FRAME] shaı #aTqfAUVGr3n
+✗ [FRAME] shaı #vkK2KkDytNPS
   actual:  [(0) (d) hóq sE]
   guessed: [(c) (d) hóq sE] (conf: p=86%, s=96%)
 ✗ [FRAME] shaobuaq #hXGo93PtH
@@ -2113,28 +2113,28 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] shekute #LNl3MynA4
   actual:  [(c 1i) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=70%)
-✗ [DIST] shı #h5nxStVAKhc
+✗ [DIST] shı #iV-p24l3lpIH
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=84%, s=88%)
-✗ [FRAME] shıchıo #BW1AYotTwwv
+✗ [FRAME] shıchıo #-VZ30If1Tazr
   actual:  [(0) (d) hóq sP]
   guessed: [(c) (d) hóq sP] (conf: p=96%, s=98%)
 ✗ [DIST] shıjo #Vtht4TjKk
   actual:  [(c c) (n d) hóq sA]
   guessed: [(c c) (d d) hóq sA] (conf: p=91%, s=99%)
-✗ [DIST] shıko #dZlcDBTuuZS
+✗ [DIST] shıko #2e6dXqaL025c
   actual:  [(c c) (d n) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=95%, s=93%)
-✗ [FRAME] shıqgaı #3fZCnqNErdp
+✗ [FRAME] shıqgaı #etJx4SkyvgEe
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=59%)
 ✗ [FRAME/DIST] shıqhıa #pcxtNemH9
   actual:  [(c) (d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=92%, s=99%)
-✗ [FRAME] shıu #6exoaX6lTJE
+✗ [FRAME] shıu #38pgiLFrQbet
   actual:  [(c 0) (d d) hóq sE]
   guessed: [(c c) (d d) hóq sE] (conf: p=87%, s=99%)
-✗ [FRAME] shıujaı #HurdCAM97kK
+✗ [FRAME] shıujaı #cqcYp6rcVcGD
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=89%)
 ✗ [FRAME/DIST] shoaı'eku #ITpT21tDKrP
@@ -2146,10 +2146,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME/DIST] shoaıheku #UEIZsEVfn
   actual:  [(c c) (d d) hó sI]
   guessed: [(c) (d) hó sI] (conf: p=84%, s=100%)
-✗ [DIST] shua #Q85TTv2L0t_
+✗ [DIST] shua #w8yfNo9WDzvy
   actual:  [(c c) (d d d) tá sI]
   guessed: [(c c) (d d) tá sI] (conf: p=71%, s=51%)
-✗ [DIST] shuo #5ICC0yQriucA
+✗ [DIST] shuo #kwyTNyREFolD
   actual:  [(c c) (d n) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=96%, s=100%)
 ✗ [FRAME] tabu #CSHc28BNA
@@ -2161,10 +2161,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] tajıkao #pWkEzZdLu
   actual:  [(c c) (d d) hóq sI]
   guessed: [(c 1i) (d d) hóq sI] (conf: p=93%, s=80%)
-✗ [FRAME] tao #Znu2gU4lW5d
+✗ [FRAME] tao #1Ks0ju5ce9RT
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
-✗ [FRAME] taocıa #3kQ7FPadfyu
+✗ [FRAME] taocıa #8kTn73kqF1id
   actual:  [(0) (d) hóq sF]
   guessed: [(c) (d) hóq sF] (conf: p=80%, s=67%)
 ✗ [FRAME] taocho #mu885Nc-6
@@ -2179,7 +2179,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] taotu #XmKFa0Qek
   actual:  [(c c 2ij) (d d d) tá sI]
   guessed: [(c c c) (d d d) tá sI] (conf: p=88%, s=54%)
-✗ [FRAME] taq #mYUMLSMLJCZ
+✗ [FRAME] taq #PWkG3CRRiRdS
   actual:  [(c 2ii) (d d) tá sF]
   guessed: [(c 1i) (d d) tá sF] (conf: p=96%, s=98%)
 ✗ [FRAME] taqshıa #WiC2Y1CG6
@@ -2188,28 +2188,28 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] teıca #EFW3J4MML
   actual:  [(c c) (n d) máq sI]
   guessed: [(c c) (d d) máq sI] (conf: p=77%, s=90%)
-✗ [FRAME] teq #eWp3_1yLM02
+✗ [FRAME] teq #uTt7M9358tTx
   actual:  [(c c c 1k) (d d d d) hó sA]
   guessed: [(c c c 1i) (d d d d) hó sA] (conf: p=96%, s=100%)
 ✗ [FRAME] teqga #WS2pS_AHf
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=87%, s=100%)
-✗ [FRAME] teqguaı #Sfme5LNQw1x
+✗ [FRAME] teqguaı #Iv-7JDoanYYN
   actual:  [(c 1i) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=96%, s=100%)
-✗ [DIST] tera #zZzH2BqxpBJ
+✗ [DIST] tera #1V5BNUqjeVS_
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=96%, s=100%)
 ✗ [FRAME] tıbumeo #FN3iVcScG
   actual:  [(c c) (d d) hó sI]
   guessed: [(c 0) (d d) hó sI] (conf: p=96%, s=98%)
-✗ [FRAME] tıbumeo #Z2TI9Tc5T6I
+✗ [FRAME] tıbumeo #pjy2ooR5Q10Z
   actual:  [(c c) (d d) hó sI]
   guessed: [(c 0) (d d) hó sI] (conf: p=96%, s=98%)
 ✗ [FRAME] tıena #WyKNtk6zl
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=90%, s=81%)
-✗ [DIST] tıopuı #d2KAXNLT-ND
+✗ [DIST] tıopuı #O4uK-RHmJv
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=87%, s=99%)
 ✗ [DIST] tıosao #A0K39NK_J
@@ -2230,10 +2230,10 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [FRAME] touche #N_1nWPjYE
   actual:  [(c 0) (d d) hó sI]
   guessed: [(c c) (d d) hó sI] (conf: p=96%, s=74%)
-✗ [FRAME] tua #VAwnGHmPmS_
+✗ [FRAME] tua #wIGchswMkvd
   actual:  [(c 0) (d d) hó sA]
   guessed: [(c c) (d d) hó sA] (conf: p=95%, s=99%)
-✗ [FRAME] tuaobu #AZbX2pO4ECO
+✗ [FRAME] tuaobu #dhrS0YeLdZf
   actual:  [(c 1i) (d d) tá sF]
   guessed: [(c c) (d d) tá sF] (conf: p=89%, s=62%)
 ✗ [FRAME] tuashao #OE1KxYuYV
@@ -2242,7 +2242,7 @@ Top discriminative tokens (LogReg Weights) for subject:
 ✗ [DIST] um #8b9TVPU_1
   actual:  [(c) (n) tá sF]
   guessed: [(c) (d) tá sF] (conf: p=77%, s=96%)
-✗ [DIST] Usonagua #1aPc4XI03ta
+✗ [DIST] Usonagua #n5Ef5O0pDxC
   actual:  [(c) (d) máq sI]
   guessed: [(c) (n) máq sI] (conf: p=96%, s=100%)
 ✗ [DIST] ꝡahu #DAMoJfMx-
