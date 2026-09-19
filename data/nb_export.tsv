@@ -2523,6 +2523,7 @@ it s ▯ out of the salient options which is what satisfies property ▯ _BIAS _
 ▯ is a bijection correspondence _BIAS _RAKU_tıem _2_RAKU_jeqtıem _ARITY_1	hóq	sI	1
 ▯ is identical to ▯ _BIAS _RAKU_tu _2_RAKU_jeqtu _ARITY_2	tá	sF	2
 ▯ is futuristic ultra modern _BIAS _RAKU_'aı _2_RAKU_jıa'aı _ARITY_1	tá	sF	1
+▯ happens tomorrow _BIAS _RAKU_cham _2_RAKU_jıacham _ARITY_1	hóq	sE	1
 ▯ is tomorrow ▯ is the day after today _BIAS _RAKU_chaq _2_RAKU_jıachaq _ARITY_1	hóq	sI	1
 ▯ is futurology _BIAS _RAKU_dıu _2_RAKU_jıadıu _ARITY_1	hóq	sI	1
 ▯ grasps holds ▯ _BIAS _RAKU_jıaı _ARITY_2	hó	sA	2
@@ -4127,6 +4128,7 @@ there is are ▯ _BIAS _RAKU_tı _2_RAKU_netı _ARITY_1	tá	sF	1
 ▯ is annual _BIAS _RAKU_dıaq _2_RAKU_nıaqdıaq _ARITY_1	hóq	sP	1
 ▯ is having their birthday it is ▯ s birthday _BIAS _RAKU_muo _2_RAKU_nıaqmuo _ARITY_1	hó	sI	1
 ▯ takes place late in the year _BIAS _RAKU_reoq _2_RAKU_nıaqreoq _ARITY_1	hóq	sE	1
+▯ happens today _BIAS _RAKU_cham _2_RAKU_nıcham _ARITY_1	hóq	sE	1
 ▯ is today _BIAS _RAKU_chaq _2_RAKU_nıchaq _ARITY_1	hóq	sI	1
 ▯ is the now _BIAS _RAKU_daq _2_RAKU_nıdaq _ARITY_1	hóq	sI	1
 ▯ is inside ▯ _BIAS _RAKU_nıe _ARITY_2	tá	sS	2
@@ -4705,7 +4707,7 @@ what does ▯ feel like how does ▯ feel _BIAS _RAKU_hıa _2_RAKU_puaqhıa _ARI
 ▯ is an tactilely dull stimulus _BIAS _RAKU_moem _2_RAKU_puaqmoem _ARITY_1	tá	sF	1
 ▯ is the typical tactile sensation perceived when touching ▯ _BIAS _RAKU_se _2_RAKU_puaqse _ARITY_2	hóq	sF	2
 ▯ focuses on touch feeling ▯ _BIAS _RAKU_sı _2_RAKU_puaqsı _ARITY_2	hó	sA	2
-▯ happened yesterday _BIAS _RAKU_cham _2_RAKU_pucham _ARITY_1	hóq	sP	1
+▯ happened yesterday _BIAS _RAKU_cham _2_RAKU_pucham _ARITY_1	hóq	sE	1
 ▯ is yesterday _BIAS _RAKU_chaq _2_RAKU_puchaq _ARITY_1	hóq	sI	1
 ▯ is a historian _BIAS _RAKU_che _2_RAKU_puche _ARITY_1	hó	sI	1
 ▯ is history branch of knowledge _BIAS _RAKU_dıu _2_RAKU_pudıu _ARITY_1	hóq	sI	1
