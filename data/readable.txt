@@ -62616,6 +62616,9 @@ nhe @el 2022-07-10 #2RZoKPpWp $tok ±
 nhe @jiqci 2023-07-31 #IF3e0TQRuU $pl ±
 [t]predicate: ▯ zachodzi w stopniu ▯.
 
+nhê @Ilmen 2026-09-19 #uSwQMKBMj $en ±
+core preposition: to degree/extent…
+
 nhe'e @TheAndSys 2025-10-12 #VAhfr5PLJ $en ±
 [t]predicate: ▯ is meant for ▯
 
@@ -64633,6 +64636,9 @@ pe @jiqci 2023-07-31 #00wWWXxGF2 $pl -1
 
 pë @evie 2024-10-28 #ja7Xt3sY0 $en ±
 [t]topic marker: relative to x, ...
+
+pê @Ilmen 2026-09-19 #WJgUlREIO $en ±
+core preposition: population of comparison, ⟪relatively to…⟫, ⟪for a…⟫, used with gradable predicates.
 
 pea [(c c) (d d) hóq sE] @official 2026-09-16 #NRWg298I2Om $en ± %time
 [t]predicate: [g]‘ago’; ▯ happened ▯ (amount of time) ago.

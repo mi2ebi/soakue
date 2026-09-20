@@ -21,11 +21,11 @@ Top discriminative tokens (LogReg Weights) for subject:
     máq  89.2%  (1784/2000)
     tá   63.1%  (693/1098)
   subject:         81.3% (10-fold CV, chained)
-    sA   90.6%  (608/671)
-    sE   55.5%  (66/119)
-    sF   58.8%  (543/923)
-    sI   85.9%  (3916/4560)
-    sP   64.4%  (85/132)
+    sA   91.2%  (612/671)
+    sE   53.8%  (64/119)
+    sF   58.3%  (538/923)
+    sI   85.9%  (3918/4560)
+    sP   65.2%  (86/132)
     sS   68.7%  (68/99)
 
 === PRONOUN CONFIDENCE CALIBRATION ===
