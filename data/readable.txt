@@ -4524,9 +4524,6 @@ bo @Hoekeiboi 2023-07-31 #diHbJAT-k $tl ± %⚠
 bo @Aburn 2026-07-04 #4mAH3G8mz $de ± %⚠
 [t]predicate: [g]‘haben’; ▯ hat/besitzt ▯
 
-bo @el 2022-11-18 #G1e3Gasmk $en -1 %⚠
-[t]predicate: For ▯, ▯ is a relevant thing that satisfies ▯
-
 boa @Ilmen 2019-04-16 #ZG2N8eMMO $en +1 %body_part
 [t]predicate: ▯ is a neck.
 
@@ -17282,7 +17279,7 @@ doıtıao @uakci 2021-09-04 #ZEaQS0bDH $en ±
 doıtoq @Laqme 2024-04-26 #4bOh2vLuD $en ±
 [t]predicate: ▯ is an altar.
 
-doje @seaqtaq 2022-01-07 #jdnpuJ72I $en ±
+doje @seaqtaq 2022-01-07 #jdnpuJ72I $en -1
 [t]predicate: ▯ enhances ▯ in function ▯ (property)
 
 dojo @Ilmen 2020-05-24 #z9X18sK1- $en ±
@@ -18185,7 +18182,7 @@ duıcha @uakci 2022-02-09 #Ce73F1KEJ $en ±
 duıcharuaq @uakci 2022-02-09 #wh4WPzUYE $en ±
 [t]predicate: ▯ Gish-gallops ▯.
 
-duıdoa @uakci 2022-02-09 #vCS5wfaI9 $en ±
+duıdoa @uakci 2022-02-09 #vCS5wfaI9 $en -1
 [t]predicate: ▯ overwhelms ▯ with property ▯.
 
 duıduaosıaıbıa @Hydro 2021-09-06 #P2-G4kqBx $en ±
@@ -26913,12 +26910,12 @@ gujachue @Ilmen 2021-10-22 #bUrn7fhPZ $en ±
 Gujarazu @eednb 2024-01-01 #CQfogEL4R $en ±
 [t]predicate: ▯ is the Gujarati language.
 
-gujeo @Ilmen 2020-01-26 #Dc9c4KwBt $en ± %logic
-[t]predicate: ▯ and ▯ are in relation ▯.
-  uakci (2023-07-28): −1: old **jeo**; redundant to **cuoı**
-
 gujeo @jiqci 2024-04-12 #GeqsNX2v8 $en ± %logic
 [t]predicate: ▯ are even in number.
+
+gujeo @Ilmen 2020-01-26 #Dc9c4KwBt $en -1 %logic
+[t]predicate: ▯ and ▯ are in relation ▯.
+  uakci (2023-07-28): −1: old **jeo**; redundant to **cuoı**
 
 gujeo @Ilmen 2020-01-26 #t4GJwgUIr $toa -1 %logic
 [t]predicate: = ▯ ▯ pa deı ▯.
@@ -43590,7 +43587,7 @@ koe @xorxes 2021-09-10 #7WIVPim3- $en -1 %cognition,quaternary_predicate
 koe @Ilmen 2022-10-27 #Va546JklR $en -1 %cognition,quaternary_predicate
 [t]predicate: ▯ chooses ▯ as being what the former will make themselves be in relation ▯ with.
 
-koe'e @Ilmen 2020-02-19 #2EoJQv2IL $en ±
+koe'e [(c c 1j) (d d d) hó sA] @Ilmen 2020-02-19 #2EoJQv2IL $en -1
 [t]predicate: [g]‘choose’; ▯ chooses ▯ for satisfying property ▯.
 
 koeba @uakci 2021-11-07 #EGZrdhPM4 $en ±
@@ -50898,12 +50895,13 @@ maheno @TheAndSys 2023-11-01 #WU6LZgjzM $en ±
 maheo @Ilmen 2018-11-17 #ice4Y9w8M $en ± %logic,conjunction
 [t]predicate: ▯ and ▯ have different truth values; ▯ XOR ▯.
 
-maheo @seaqtaq 2020-01-27 #Vtm6rfqaD $en ± %logic,conjunction
-[t]predicate: ▯ differs from ▯ concerning whether or not property ▯is satisfied
-
 maheo @Ilmen 2018-11-17 #jpx0gHDXE $en -1 %logic,conjunction
 [t]predicate: ▯ have different truth values.
   Ilmen (2018-11-17): −1
+
+maheo @seaqtaq 2020-01-27 #Vtm6rfqaD $en -1 %logic,conjunction
+[t]predicate: ▯ differs from ▯ concerning whether or not property ▯is satisfied
+  evie (2026-09-20): this can use **oı-** i think
 
 mahı @TheAndSys 2024-10-15 #aevqfgGSG $en +1
 [t]predicate: ▯ is an affliction (emotional or physical)
@@ -52451,7 +52449,7 @@ menısıu @Ilmen 2018-10-20 #2kHQFtdfq $en ± %lifeform,animal,vertebrate,mammal
 meno @seaqtaq 2024-07-27 #Q_vLmtHfw $en ±
 [t]predicate: ▯ grieves/feels a sense of loss
 
-menu @uakci 2021-09-09 #Y7vIYXz4Q $en ±
+menu @uakci 2021-09-09 #Y7vIYXz4Q $en -1
 [t]predicate: ▯ is a menu; ▯ (real or digital) displays a selection to be made among ▯ (to satisfy relation ▯ with one’s choice/s).
 
 menue @Laqme 2023-11-22 #sGPQaGV1p $en ±
@@ -79226,7 +79224,7 @@ shekute @evie 2025-07-13 #LNl3MynA4 $en ±
 [t]predicate: ▯ fears that, even if they tried to apologize for ▯, no one would accept it or wish to continue interacting with them
   evie (2025-07-13): zakaı
 
-shele @uakci 2020-04-07 #0-gbHmw-i $en ±
+shele @uakci 2020-04-07 #0-gbHmw-i $en -1
 [t]predicate: ▯ is likely to happen if ▯.
   uakci (2020-04-07): I think this should be the actual definition of **le** (in accordance with **dai**, **she**, **ao**, etc.)
 
@@ -101091,7 +101089,7 @@ Huaq and Ciqshy greet me.
 ⚠ Juoq múy chûq ja chà sa huaq meoq @examples 2026-09-16 #9LQKIa8pcUGz $en ±
 (B0061) We should eat more slowly
 
-⚠ Kaqsı mẽoq nháo áqbo reıse @examples 2026-09-16 #hHWp2dI6Vj5E $en ±
+⚠ Kaqsı mẽoq nháo áqbo reıse @examples 2026-09-16 #hHWp2dI6Vj5E $en -1
 (B0032) Slowly she looked around
 
 ⚠ Kùı hı bı chufaq gaqcıa tuı súq tì ní möy moq @examples 2026-09-16 #Kg0U055rrkCR $en ±
