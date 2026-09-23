@@ -3741,7 +3741,7 @@ bıama @seaqtaq 2024-11-20 #A4GGeNcKq $en ±
 bıamchuq @jiqci 2023-05-21 #mkOpeK8nH $en ±
 [t]predicate: ▯ is a vegan.
 
-bıamea @uakci 2020-03-02 #99nJ9I4Qc $en ±
+bıamea @uakci 2020-03-02 #99nJ9I4Qc $en -1
 [t]predicate: (Property) ▯ is a symptom of illness (group of symptoms–properties) ▯.
 
 bıamoa @seaqtaq 2024-08-12 #z1kg1e5g9 $en ±
@@ -17279,9 +17279,6 @@ doıtıao @uakci 2021-09-04 #ZEaQS0bDH $en ±
 doıtoq @Laqme 2024-04-26 #4bOh2vLuD $en ±
 [t]predicate: ▯ is an altar.
 
-doje @seaqtaq 2022-01-07 #jdnpuJ72I $en -1
-[t]predicate: ▯ enhances ▯ in function ▯ (property)
-
 dojo @Ilmen 2020-05-24 #z9X18sK1- $en ±
 [t]predicate: ▯ is a dojo.
 
@@ -18483,14 +18480,8 @@ duqgıao @Machy 2020-06-04 #hhhummk6y $en ±
 duqgıao @ijonetun 2023-01-06 #_vgXxa9yf $tok ±
 [t]predicate: ▯ la, telo li kama/lon ala.
 
-duqhuaq @Laqme 2020-01-04 #JD3ok1Qm2 $en ±
-[t]predicate: ▯ is more the case than is habitual; ▯ satisfies ▯ more / harder than usual.
-
 duqkuaı @uakci 2021-09-03 #JDOQgVLt7 $en ±
 [t]predicate: ▯ craves/is obsessed with/is addicted to satisfying property ▯.
-
-duqkuoı @seaqtaq 2024-11-09 #U1F0RDqGx $en ±
-[t]predicate: ▯ is less the case than is habitual; ▯ satisfies ▯ less / softer than usual.
 
 duqmıq @robintown 2022-02-01 #tgjBa_enL $en +2
 [t]predicate: ▯ satisfies property ▯ constantly/incessantly/over and over again.
@@ -27023,7 +27014,7 @@ guma @uakci 2023-05-17 #-L1v47W-Z $en ±
 gumaı @seaqtaq 2021-08-02 #RMn3BeuT9 $en -1
 [t]predicate: ▯ is biromantic
 
-gume @Machy 2020-06-04 #a0hmFprZO $en ±
+gume @Machy 2020-06-04 #a0hmFprZO $en -1
 [t]predicate: ▯ is paired in one-to-one correspondence with ▯ such that every item in the first grouping has exactly one correspondent in the second, and vice versa. May take the same group in both slots.
 
 gumı @jiqci 2023-10-17 #7F83Bfvoc $en ±
@@ -33207,7 +33198,7 @@ woţpêı tha thëıxauksa oţpízcıu’lu
 ıqbıa @Ilmen 2025-10-30 #ne4Eyxyjh $en ±
 [t]predicate: ▯ is afflicted by the sickness or illness of having property ▯.
 
-ıqbo @Ilmen 2022-10-14 #cXAx7Zyrv $en ±
+ıqbo @Ilmen 2022-10-14 #cXAx7Zyrv $en -1
 [t]predicate: ▯ is a property that is satisfied by ▯.
 
 ıqcheı @jiqci 2023-07-07 #h1f7Z5fIz $en ±
@@ -35408,9 +35399,6 @@ jeoruaq @fagri 2018-12-02 #J1Iw-2zd2 $en ±
 
 jeosua @uakci 2020-01-20 #wWj7XQes4 $en -1
 [t]predicate: If ▯ is true must be known in order to be able to determine if ▯ is true; ▯'s verity has ▯'s verity dependent on it; ▯ must be known to satisfy property ▯ or not if one wants to know if or if not they also satisfy property ▯.
-
-jeotaq @uakci 2020-05-20 #lfhZGDmrJ $en ±
-[t]predicate: ▯ is with themselves satisfying property ▯ in relation ▯; Given thing ▯ and property ▯: relation ▯ relates the thing with the proposition that the selfsame thing satisfies the property.
 
 jeotıao @Ilmen 2019-02-07 #lJcKM8au9 $en -1
 [t]predicate: ▯ is suitable for satisfying property ▯.
@@ -44267,7 +44255,7 @@ ku'aı @seaqtaq 2020-07-03 #tEiknLi87 $en ±
 [t]predicate: ▯ is ▯'s orientation in regard to property ▯
   seaqtaq (2020-07-03): Word form inspired by "kuaı". The second place relates to a scale and/or collection of beliefs or behaviors and the third place describes exactly what behaviors or beliefs the referent of the first place exhibits, or where they are on the scale  "Kủxāı hı súq lî củe ra cảq ja baq jủaocīao moq?"—"What is your political orientation" (Or "Please describe what properties best describe your beliefs/behaviors as relevant to ruling and managing societies")  This bisyllabic root is purposefully very broad and as such can be used to name sexual, gender, political, etc. orientation
 
-ku'aq @Ilmen 2022-11-26 #XUPoSlarc $en ±
+ku'aq @Ilmen 2022-11-26 #XUPoSlarc $en -1
 [t]predicate: ▯ displays, noticeably satisfies property ▯ with the hope that something satisfying property ▯ perceives it.
 
 ku'ıq @Ilmen 2025-03-23 #A_uAeCVEP $en ±
@@ -47845,16 +47833,16 @@ lıcagı @Ilmen 2019-04-07 #vuvTJJgJA $en ±
 lıce @evie 2026-01-10 #8gRD_LReg $en ±
 [t]predicate: ▯ is a member of genus Ilex (holly, winterberry, yerba, ...)
 
-lıco @Ilmen 2020-05-23 #Li8cL1V6K $en +1
+lıco @Ilmen 2020-01-24 #0L4YKntCI $toa ±
+= [X1X] ja ne ja shıja ja raı bı lıco né lî ja pa jeo shíba na ru mea ráı. = [X1] ja ne ja shıja bı sıahuaqjeq muoseu né na ru shema sîaseu né na sîalı shíja na pûıne né sa tuq kejeo shıja.
+
+lıco @Ilmen 2020-05-23 #Li8cL1V6K $en ±
 [t]predicate: ▯ is the number of things satisfying the property ▯; ▯ is the number of things satisfying property ▯ among what satisfies property ▯.
 
-lıco @Ilmen 2019-01-25 #R_f3ZqS6b $en ±
+lıco @Ilmen 2019-01-25 #R_f3ZqS6b $en -1
 [t]predicate: ▯ is the number of things satisfying the property ▯ (among ▯).
   uakci (2019-01-25): +1
   Ilmen (2019-01-25): {.ilka'u} in Lojban (although with a different argument order).
-
-lıco @Ilmen 2020-01-24 #0L4YKntCI $toa ±
-= [X1X] ja ne ja shıja ja raı bı lıco né lî ja pa jeo shíba na ru mea ráı. = [X1] ja ne ja shıja bı sıahuaqjeq muoseu né na ru shema sîaseu né na sîalı shíja na pûıne né sa tuq kejeo shıja.
 
 lıco @uakci 2019-01-30 #_akVVFkdH $toa -1
 [N1] lıco dóshı dógu tu ráı da [N1X] sa dótuq lu tuq hóa lî ja dó bı to ru jeo dó dógu to mea dó dósaq bı peı dóshı dótuq da
@@ -53744,9 +53732,6 @@ name verb for addressing royalty
 mırupıo @Laqme 2022-05-10 #B96UaMfir $en ±
 [t]predicate: ▯ is opal.
   Laqme (2022-05-10): the etymology is a bad English/Toaq/Ithkuil pun. I'm not sorry!!
-
-mısaosao @Machy 2022-02-13 #cnaLqXFRG $en -1
-[t]name verb: sarcastic honorific
 
 mıso @kazoo 2025-04-30 #tWBkOnYTu $en ±
 [t]predicate: ▯ is the musical note E.
@@ -69889,9 +69874,6 @@ rıdı @seaqtaq 2024-11-19 #Ca1bT6PdE $en ±
 rıe [(c c) (d n) tá sS] @official 2026-09-16 #1BPmg5tKfRt $en ±
 [t]predicate: [g]‘between’; ▯ is between/amidst/among ▯ (plural).
 
-rıe @Machy 2020-06-29 #HRhoUmf4i $en ±
-[t]predicate: [g]‘between’; ▯ is between/amidst/among ▯ (plural) in property ▯.
-
 rıe @jiqci 2023-07-31 #Ty_3lxiQe5 $pl ±
 [t]predicate: ▯ jest pomiędzy ▯.
 
@@ -69900,6 +69882,9 @@ rıe @jiqci 2023-07-31 #Ty_3lxiQe5 $pl ±
   Machy (2020-06-29): ımo: not necessarıly spatıal
   Machy (2020-06-29): c forl
   Machy (2020-06-29): k
+
+rıe [(c c 1x) (d n d) tá sF] @Machy 2020-06-29 #HRhoUmf4i $en -1
+[t]predicate: [g]‘between’; ▯ is between/amidst/among ▯ (plural) in property ▯.
 
 rıebo @uakci 2023-04-04 #u50L_zV9a $en ±
 [t]predicate: ▯ is neuter.
@@ -73003,9 +72988,6 @@ saoronuao @Ilmen 2018-10-07 #xjiKM57Hs $en ± %lifeform,animal,vertebrate
 
 saosa @Laqme 2022-05-23 #a2kbdcKuE $en ±
 [t]predicate: ▯ is sauce.
-
-saosao @akesi 2020-02-02 #YZMFvop3h $en ±
-[t]predicate: colloq. ▯ is huge, ▯ is enormous, ▯ is gigantic
 
 saose @Laqme 2021-10-09 #OkAocEr1Q $en ±
 [t]predicate: ▯ is a celebration / feast / ceremony / rite.
@@ -77508,7 +77490,7 @@ sufuq @Laqme 2025-05-11 #PQMyy9UDS $en ±
 sụgı @examples 2026-09-16 #HbjiMyXFD89 $en ±
 best
 
-sugo @Ilmen 2019-02-18 #A7MUMpT-n $en +1
+sugo @Ilmen 2019-02-18 #A7MUMpT-n $en ±
 [t]predicate: repeat the immediately preceding predicate but with its two first argument slots swapped.
   uakci (2019-02-18): +1
 
@@ -78509,11 +78491,11 @@ shaoduı @seaqtaq 2019-01-30 #egz7dYpIm $en ±
 [t]predicate: (fork of #ICzDegBgz) ▯ is greedy
   seaqtaq (2019-01-30): calqued from lojban
 
-shaoge @uakci 2021-10-09 #6SCp1y0ra $en ±
-[t]predicate: ▯ is a motivation/incentive for ▯ to make ▯ be the case.
-
 shaoge @evie 2024-11-11 #MZGsL1NEJ $en ±
 [t]predicate: ▯ is a motivation/incentive for ▯ to be the case
+
+shaoge @uakci 2021-10-09 #6SCp1y0ra $en -1
+[t]predicate: ▯ is a motivation/incentive for ▯ to make ▯ be the case.
 
 shaogı [(c) (d) tá sF] @official 2026-09-16 #2TyVisw54JiS $en ±
 [t]predicate: [g]‘good’; ▯ is good/virtuous.
@@ -81758,9 +81740,6 @@ shuotao @uakci 2021-11-07 #dFgYG21FO $en ±
 
 shuotuao @seaqtaq 2024-10-08 #5lvGK3teb $en ±
 [t]predicate: There is little (amount of)▯
-
-shuq @Laqme 2022-12-14 #-9PFeo8zj $en ±
-[t]predicate: [g]‘merely’; ▯ is merely the case; ▯ simply/merely/just satisfies property ▯.
 
 shúq @robintown 2023-04-04 #UBSfz9cvO $en +3
 [t]focus particle: 'just', 'merely', 'simply'
@@ -92122,10 +92101,6 @@ cheo meajeq @Laqme 2018-12-08 #TcOoBT1dJ $en +1
 cheo mıaı @Laqme 2018-12-08 #YaK0gF6bM $en ±
 [t]predicate: ▯ rhyme with each other.
 
-cheo nue cheo @niucuq 2019-02-16 #uXNKPfE0K $en -1
-[t]predicate: ▯ mutually promise/threaten to be in reciprocal relationship ▯ with each other.
-  niucuq (2019-02-16): -1 for a plurality problem
-
 cheo seaq @Laqme 2018-12-08 #AZkKtOYo9 $en ±
 [t]predicate: ▯ have sex with each other.
 
@@ -97311,7 +97286,7 @@ It's raining.
 Ruqshua dâqbuaı. @examples 2026-09-16 #CSMkbsX7TJ2q $en ±
 It rained for a long time.
 
-ru sugo @Ilmen 2019-02-18 #m4hV5ze8a $en +1
+ru sugo @Ilmen 2019-02-18 #m4hV5ze8a $en ±
 [t]phrase: … and vice-versa (reciprocity of the two first arguments).
   uakci (2019-02-18): +1
   Ilmen (2019-02-19): = "ru mu sủ" (#JfRSaAYqA).
