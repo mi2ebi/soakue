@@ -130,15 +130,6 @@ impl Toa {
                     && self.subject.is_some())
     }
 
-    pub const fn has_any_metadata(&self) -> bool {
-        self.frame.is_some()
-            || self.distribution.is_some()
-            || self.pronoun.is_some()
-            || self.subject.is_some()
-            || self.typ.is_some()
-            || self.gloss.is_some()
-    }
-
     pub fn fixup_metadata(&mut self) {
         let mut old = self.clone();
         if [
@@ -353,9 +344,10 @@ impl Ord for Toa {
 
             match (self_letter, other_letter) {
                 (GraphResult::Finished, GraphResult::Finished) => {
-                    // If two strings reach this point, that means that their letters are identical,
-                    // so the only way to differentiate is with the tone and whether one is a
-                    // prefix.
+                    // If two strings reach this point, that means that their
+                    // letters are identical, so the only
+                    // way to differentiate is with the tone and whether one is
+                    // a prefix.
                     if self.head.ends_with('-') && !other.head.ends_with('-') {
                         return Ordering::Less;
                     }

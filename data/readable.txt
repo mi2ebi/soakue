@@ -3556,6 +3556,10 @@ betu @seaqtaq 2024-10-01 #N73rARL5X $en ±
   seaqtaq (2024-10-01): Shortening of beotua
   evie (2026-07-10): i imagine this should be cc2jx but there isn't an option for that in the dropdown
 
+betudı @evie 2026-09-24 #WcexfJrxE $en ±
+▯ may modify/... ▯ ("has write permissions")
+  evie (2026-09-24): i realize **betu** is ditransitive but i liked how this sounded more than **beoja**dı
+
 beu @Ilmen 2019-02-23 #jDBqsaEU6 $en ±
 [t]predicate: ▯ is much the case relatively to how much it is the case for ▯; ▯ has property ▯ to a great extent relatively to how much ▯ have that property; the amount of ▯ having property ▯ is greater than the average among ▯.
   Laqme (2019-02-24): I'm curious about the semantics for the second slot in the first definition. Does it serve as the reference x₁, e.g. « Cảı súq bèu déo » = “You're strong, for a kid” ?
@@ -12912,6 +12916,9 @@ choqchua @seaqtaq 2018-12-27 #pPuUgpP56 $en -1
 choqchuo @uakci 2021-09-27 #WuJizEXu7 $en ±
 [t]predicate: ▯ is an element enabling or sustaining the use of ▯; ▯ is fuel, ammunition, ink / ink cartridge, battery / battery power, etc.
 
+choqdı @evie 2026-09-24 #MHcfFdB8w $en ±
+▯ may use/invoke/... ▯ ("has execute permissions")
+
 choqdıe @uakci 2021-10-13 #NC0_pHMzO $en ±
 [t]predicate: ▯ offers tool/solution ▯.
 
@@ -15724,12 +15731,6 @@ deomuzao @Aburn 2026-07-06 #Ag0Kv7W45 $en ±
 deopao @robintown 2025-01-10 #F4cfTpoE6 $en ±
 [t]predicate: ▯ is a parent.
 
-deoq @robintown 2023-01-15 #GtJOyIdx8 $en +2
-[t]predicate: ▯ tells / communicates to ▯ that ▯ is the case.
-  robintown (2023-01-15): I find the property version of **deoq** difficult to use in practice, and **duatua** to be a misnomer, so I propose this
-  Ilmen (2025-10-31): On the one hand, words like ⟪kuq⟫ nowadays no longer have an addressee slot. But on the other hand, removing it with ⟪deoq⟫ would result in pretty much the same thing as either ⟪kuaq⟫ or ⟪ruaq⟫ I guess, unless we adopt my idea of ⟪▯ performs speech act ▯⟫, which is unspecific with respect to the nature of the speech act…
-  Dembim (2026-02-13): Given <kuaq>/<ruaq>, I find <@Ilmen deoq> the superior definition. There is now also <nheam> for "▯ conveys the information necessary to conclude that ▯".
-
 deoq @Ilmen 2024-10-29 #eGhA6ZAmu $en +2
 [t]predicate: ▯ performs speech act ▯ (property).
   Dembim (2026-02-13): Frame: c 1i
@@ -15737,17 +15738,23 @@ deoq @Ilmen 2024-10-29 #eGhA6ZAmu $en +2
   Dembim (2026-02-13): Subject: agent
   Dembim (2026-02-13): Distribution: d d
 
-deoq [(c c 1i) (d d d) hó sA] @official 2026-09-16 #9F9hW0FKHIw $en ±
-[t]predicate: [g]‘communicate’; ▯ communicates to ▯ that they (the former) satisfy property ▯.
-
 deoq @el 2022-08-16 #rPtQUeNzN $en ±
 [t]predicate: [g]‘communicate’; ▯ communicates to ▯ that they (the former) satisfy property ▯.
   el (2022-08-16): what if we brought this back now that CVys are discouraged
   mimiaoganhaqpy (2022-11-07): +1, deoq is just better.
   Ilmen (2025-10-31): officialized: yes
 
+deoq @robintown 2023-01-15 #GtJOyIdx8 $en ±
+[t]predicate: ▯ tells / communicates to ▯ that ▯ is the case.
+  robintown (2023-01-15): I find the property version of **deoq** difficult to use in practice, and **duatua** to be a misnomer, so I propose this
+  Ilmen (2025-10-31): On the one hand, words like ⟪kuq⟫ nowadays no longer have an addressee slot. But on the other hand, removing it with ⟪deoq⟫ would result in pretty much the same thing as either ⟪kuaq⟫ or ⟪ruaq⟫ I guess, unless we adopt my idea of ⟪▯ performs speech act ▯⟫, which is unspecific with respect to the nature of the speech act…
+  Dembim (2026-02-13): Given <kuaq>/<ruaq>, I find <@Ilmen deoq> the superior definition. There is now also <nheam> for "▯ conveys the information necessary to conclude that ▯".
+
 deoq @jiqci 2023-07-31 #0pwRYp2jQU $pl ±
 [t]predicate: ▯ przekazuje ▯, że (ten pierwszy) spełnia własność ▯.
+
+deoq [(c c 1i) (d d d) hó sA] @official 2026-09-16 #9F9hW0FKHIw $en -1
+[t]predicate: [g]‘communicate’; ▯ communicates to ▯ that they (the former) satisfy property ▯.
 
 deoqchuaq @uakci 2019-03-30 #ZWRrPrOBQ $en ±
 [t]predicate: ▯ is a society of ▯.
@@ -15979,7 +15986,7 @@ déum [] @Laqme 2024-04-24 #b2lYb2glb $en +3
   seaqtaq (2024-11-21): "The very X", "X itself"
   evie (2025-08-16): "entire"
 
-deꝡoq @Ilmen 2023-01-14 #2OLy_QX8Z $en ± %action,communication,performative
+deꝡoq @Ilmen 2023-01-14 #2OLy_QX8Z $en -1 %action,communication,performative
 [t]predicate: ▯, to the attention of ▯, performs speech act property ▯.
 
 deza @mimiaoganhaqpy 2022-06-24 #_akR1ZboU $en ±
@@ -19587,7 +19594,7 @@ faıbırım @jiqci 2024-01-03 #gBtvzEudq $en ±
 faıdı @uakci 2024-09-18 #DWIqruRRW $en +1
 [t]predicate: ▯ is straight (not queer) (in terms of sexual/romantic/social attraction alike).
 
-faıdu @uakci 2019-01-16 #FHGSL8xTk $en ±
+faıdu @uakci 2019-01-16 #FHGSL8xTk $en -1
 [t]predicate: ▯ (number or representation thereof) is the least n such that the n-th element of ▯ satisfies the property ▯.
 
 faıfaı @robintown 2023-11-02 #Xh89005Jk $en ±
@@ -22299,6 +22306,9 @@ gaıchu @Laqme 2024-04-27 #GoAeGmZBJ $en ±
 gaıdeq @seaqtaq 2024-10-30 #FWxdPurD2 $en ±
 [t]predicate: ▯ is sentient; ▯ is able to perceive or feel things
   seaqtaq (2024-10-30): Less cynical and more neutral and serious synonym of **chıaqbıa**
+
+gaıdı @evie 2026-09-24 #KYsBqGA_N $en ±
+▯ may see/inspect/... ▯ ("has read permissions")
 
 gaıdu @uakci 2024-01-10 #wdFjVVCAX $en +1
 [t]predicate: ▯ appears to be the case. [formal]
@@ -39193,7 +39203,7 @@ juoımetoa @jiqci 2023-10-23 #pQ2s4VGnd $en ±
 [t]predicate: ▯ is a tatpurusa compound.
   jiqci (2024-06-10): endocentric compound
 
-juoımu @Hoemai 2019-06-23 #vLJSTCmyT $en ±
+juoımu @Hoemai 2019-06-23 #vLJSTCmyT $en -1
 [t]predicate: ▯ is described by ▯ as satisfying property ▯.
   akesi (2020-05-07): -1 uoi is deprecated
   Laqme (2021-08-08): +1 uoi is no longer deprecated
@@ -45993,7 +46003,7 @@ laıdapabo @jiqci 2023-09-02 #QE-dpxBeU $en ±
 laıdapacıa @jiqci 2023-09-02 #gli0HVf2n $en ±
 [t]predicate: ▯ is in a sans serif font.
 
-laıdıeq @uakci 2021-07-20 #kOnVx8-u4 $en ±
+laıdıeq @uakci 2021-07-20 #kOnVx8-u4 $en -1
 [t]predicate: ▯ signs/signals semantic content ▯ to ▯ with an action, gesture, hint, etc.
   uakci (2021-07-20): lảıdīeq cẻo fả hó jí da. = They gave me a signal to go/approach.
   uakci (2021-07-20): for communication in proper sign language, use **kuq**. this word refers to fallible hints, or (possibly predetermined) sign(al)s in isolation
@@ -47134,7 +47144,7 @@ leıhuı [(c 1i) (n d) tá sF] @evie 2026-07-06 #XUuwixoaJ $en +1
 leıko @Laqme 2025-05-28 #9qrXSxnUV $en +1
 [t]predicate: ▯ is kinky / not vanilla.
 
-leılı @robintown 2022-06-02 #fWqMA96Zw $en ±
+leılı @robintown 2022-06-02 #fWqMA96Zw $en -1
 [t]predicate: Property ▯ is rare/uncommon among ▯.
 
 leımuı @uakci 2022-08-06 #vY1kFm5-n $en +1
@@ -47937,7 +47947,7 @@ lıeısıu @seaqtaq 2025-05-26 #vKuLjVjch $en ±
 [t]predicate: ▯ is in the spirit of ▯; ▯ has the same vibe as ▯
   seaqtaq (2025-05-26): Synonym of **aı**
 
-lıeıtao @uakci 2025-03-07 #1t8N6A2wx $en ±
+lıeıtao @uakci 2025-03-07 #1t8N6A2wx $en -1
 [t]predicate: ▯ obeys/is in accordance with ▯ by doing property ▯.
 
 lıeıtaq @Laqme 2024-10-26 #N4NQBLIT6 $en ±
@@ -48074,7 +48084,7 @@ lıezao @robintown 2022-01-02 #I--ilOSI4 $en ±
 lıfıeq @Laqme 2019-02-27 #ncb1Nrm-H $en ±
 [t]predicate: ▯ invents something satisfying property ▯.
 
-lıhaq @Laqme 2023-02-23 #hKJv7CIU0 $en ±
+lıhaq @Laqme 2023-02-23 #hKJv7CIU0 $en +1
 [t]predicate: ▯ performs / carries out / executes / (does) ▯.
   Laqme (2023-02-23): scientific-sounding loan-synonym for **tao** based on 履行
 
@@ -50458,16 +50468,13 @@ lululemoq @seaqtaq 2026-04-13 #JX5-5eBdZ $en ±
 lum- @seaqtaq 2024-11-05 #GoRnDMKhJ $en -1
 [t]prefix: incorporate **lúm** object
 
-lum @uakci 2026-02-14 #sHqnfGZL8 $en ±
+lum @uakci 2026-02-14 #sHqnfGZL8 $en -1
 [t]predicate: ▯ is a grammatical subject; ▯ is S.
   Dembim (2026-02-15): see <um>, <nhum>
   Dembim (2026-02-15): Frame: c
   Dembim (2026-02-15): Subject: free
   Dembim (2026-02-15): Distribution: n
   uakci (2026-02-15): pronominal class: ta
-
-lumbo @seaqtaq 2024-10-23 #-9LTNGG7Z $en -1
-[t]possessive pronoun predicate: ▯ is lúm's
 
 lumeq @salarua 2022-12-13 #ITa7tUT4- $en ±
 [t]predicate: [g]‘lumen’; ▯ is a lumen
@@ -50699,7 +50706,7 @@ luqtua @seaqtaq 2018-12-28 #ctx-ql46l $en ±
 lurıaı @Ilmen 2019-05-13 #jv1RJ5UJE $en ±
 [t]predicate: ▯ justifies/warrants ▯; ▯ is a good, acceptable reason for ▯.
 
-luru @Ilmen 2020-02-25 #zcQ7BqlyV $en ± %logic
+luru @Ilmen 2020-02-25 #zcQ7BqlyV $en -1 %logic
 [t]predicate: ▯ is the proposition that ▯ and ▯ are both the case.
 
 lusu @evie 2025-12-15 #-Cay7cswY $en ±
@@ -54537,10 +54544,10 @@ moıchudıu @Laqme 2025-01-23 #0HL1LSx5Q $en ±
 moıchue @uakci 2020-05-07 #3diVMfnsi $en -1
 [t]predicate: ▯ is a train of thought; ▯ is a series of thoughts, each arising from the one before; ▯ is a sequential thought process; ▯ is a stream of consciousness.
 
-moıdeoq @uakci 2020-03-02 #t41cTS5qD $en ±
+moıdeoq @uakci 2020-03-02 #t41cTS5qD $en -1
 [t]predicate: ▯ is telepathic / practises telepathy; ▯ talks to ▯ through psychic means.
 
-moıdeoqkuq @uakci 2018-11-17 #KGp66imN- $en ±
+moıdeoqkuq @uakci 2018-11-17 #KGp66imN- $en -1
 [t]predicate: ▯ says ▯ to ▯ telepathically.
 
 moıdeqma @seaqtaq 2024-10-16 #TwesS_bze $en ±
@@ -57988,7 +57995,7 @@ nefurı @seaqtaq 2020-03-18 #aKq6tqBxJ $en -1
 negele @jiqci 2024-11-25 #uJuZzPtzH $en ±
 [t]predicate: ▯ is a carnation (genus Dianthus).
 
-negeq @robintown 2024-01-04 #IV7ToxL-l $en -1
+negeq @robintown 2024-01-04 #IV7ToxL-l $en ±
 [t]predicate: ▯ finds / comes across / runs across ▯.
   robintown (2024-01-04): **neq** + **geq**
 
@@ -62618,7 +62625,7 @@ nhea @Laqme 2025-05-25 #IbtO8svJn $en +1
 nheahoaq @seaqtaq 2024-11-13 #-kiSHwefr $en ±
 [t]predicate: ▯ smolders
 
-nheam @TheAndSys 2023-10-16 #1cv3ZMqtL $en +1
+nheam @TheAndSys 2023-10-16 #1cv3ZMqtL $en +2
 [t]predicate: ▯ communicates ▯ (even if that isn't what they actually said)
   Dembim (2026-01-28): Frame: c 0
   Dembim (2026-01-28): Pronominal_class: ho
@@ -63062,7 +63069,7 @@ nhukı @Machy 2022-04-12 #HoY8AI7WI $en ±
 nhum- @seaqtaq 2024-11-05 #xAp7Dz5Zc $en -1
 [t]prefix: incorporate **nhúm** object
 
-nhum @uakci 2026-02-14 #U23VQit4f $en ±
+nhum @uakci 2026-02-14 #U23VQit4f $en -1
 [t]predicate: ▯ is a grammatical indirect object; ▯ is IO.
   Dembim (2026-02-15): see <um>, <lum>
   Dembim (2026-02-15): Frame: c
@@ -73612,7 +73619,7 @@ seaqrıeq @uakci 2022-06-24 #ye90pq56X $en ±
 seaqrıoq @uakci 2021-08-17 #l-hj-b_c1 $en ±
 [t]predicate: ▯ is a sexual (not romantic) identity.
 
-seaqseje @seaqtaq 2020-06-01 #kVojle5Ig $en ±
+seaqseje @seaqtaq 2020-06-01 #kVojle5Ig $en -1
 [t]predicate: ▯ manifests sexuality ▯ (property)
 
 seaqtaq @uakci 2021-10-25 #brlX3TY5D $en ±
@@ -73700,11 +73707,8 @@ seısho @robintown 2023-11-03 #S_q0txDGq $en +1
 [t]predicate: ▯ is legend/folklore.
   robintown (2023-11-03): A priori
 
-seje @seaqtaq 2020-06-01 #dU3laSD-E $en ±
+seje @seaqtaq 2020-06-01 #dU3laSD-E $en -1
 [t]predicate: ▯ has ▯ (property) as gender/sexuality
-
-seje @Machy 2020-06-01 #mTmgnvHi5 $en -1
-[t]predicate: ▯ has ▯ as gender/sexuality.
 
 sekı @fagri 2023-01-24 #aVzBD4wQy $en ±
 [t]predicate: ▯ is a seki (in Go, an arrangement of stones of both colors in which neither player's stones are independently alive but neither play can capture the other)
@@ -80271,8 +80275,12 @@ shısıoq @Laqme 2025-04-01 #Tn1ZqUet0 $en ±
 shısuao @seaqtaq 2019-12-15 #VRAJwjAGu $en ±
 [t]predicate: ▯ is unique (among ▯)
 
-shısuım @Laqme 2023-07-19 #UvoaV5hX2 $en ±
+shısuım @evie 2026-09-24 #IpVuKrDmn $en ±
+▯ unifies/aligns/homogenizes ▯
+
+shısuım @Laqme 2023-07-19 #UvoaV5hX2 $en -1
 [t]predicate: ▯ unifies / aligns / homogenizes ▯ (changes them so they all ▯ one same thing.)
+  evie (2026-09-24): can use **oı-**
 
 shısha @Hoemai 2020-01-15 #lrUKz5wpu $en ±
 [t]predicate: ▯ is a shisha/an Arabic water-pipe/hookah.
@@ -88064,7 +88072,7 @@ ulaq @kazoo 2025-03-06 #uNq9EB9Qi $en ±
 um- @seaqtaq 2024-11-05 #HqPufJV_e $en -1
 [t]prefix: incorporate **úm** object
 
-um @uakci 2026-02-14 #8b9TVPU_1 $en ±
+um @uakci 2026-02-14 #8b9TVPU_1 $en -1
 [t]predicate: ▯ is a grammatical direct object; ▯ is DO.
   Dembim (2026-02-15): see <lum>, <nhum>
   Dembim (2026-02-15): Subject: free
@@ -92064,7 +92072,7 @@ cheo geqkuaı @Laqme 2018-12-08 #m3GhajvhD $en ±
 cheo goajao @Laqme 2018-12-08 #4Q1UJ1T5N $en ±
 [t]predicate: ▯ are scattered / far away from one another in space.
 
-cheo heo @fagri 2019-12-28 #rm7cJYIh6 $en ±
+cheo heo @fagri 2019-12-28 #rm7cJYIh6 $en +1
 [t]predicate: ▯ are all different in property ▯ (2-ary); ▯ are fully-characterized by what they ▯
   fagri (2019-12-28): Eg "durations are characterized by their size" means that the concept of "duration" has only one degree of freedom (size), which in still other words means that no two durations can have the same size (and "if they did", then they would actually be same duration)
   fagri (2019-12-28): To give another example, people are NOT characteriszed by their names: two people can have the same name yet be different people, so "chẻo hẻo mủ chủa túq pỏq" is FALSE
@@ -93102,7 +93110,7 @@ Hạle, ꝡä sho suhu hóe, ꝡä dana súq jí. @examples 2026-09-16 #ygf7RMKp
 It is more likely that the sun turns into a pig than that you beat me.
 
 hạnıjao lô seoq @jiqci 2024-06-21 #M1MCf1bR3 $en ±
-[t]metaphor: ▯ is very far away from here ("further than the sky").
+[t]predicate: ▯ is very far away from here ("further than the sky").
 
 hápa kuq @uakci 2019-04-23 #LYeR-jxwU $en -1
 ‘what they say’; ‘what is said’
@@ -99478,9 +99486,6 @@ Chuo chey ja teoq; Ja teoq bı, chıaı ke dü duafuı due hóa téoq
 
 ⚠ cheytaı @uakci 2022-02-11 #KTcUFYTZI $en -1
 [t]predicate: ▯ socially engineers ▯ into satisfying property ▯.
-
-⚠ cheykuq @uakci 2022-02-11 #L1t-ZtqeQ $en -1
-[t]predicate: ▯ communicates in such a way as to invoke from ▯ response ▯; ▯ speaks slyly to ▯ to trick them into satisfying property ▯.
 
 ⚠ chıchey @uakci 2022-02-11 #EboXXQGM4 $en -1
 [t]predicate: ▯ fools/manipulates/gaslights ▯ into thinking ▯.

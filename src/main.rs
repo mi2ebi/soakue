@@ -78,7 +78,5 @@ pub fn main() {
     )
     .unwrap();
 
-    // just for fun i fed claude data/readable.txt and asked it to write this
-    // function to try annotating stuff with metadata
     guess_metadata::run(&dict).unwrap();
 }

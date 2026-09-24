@@ -111,15 +111,15 @@ fn sentence_ordering() {
 
 #[test]
 fn strict_ordering() {
-    // A bunch of tests designed for every possible situation that the sort might
-    // find
+    // A bunch of tests designed for every possible situation that the sort
+    // might find
     // - Both words finish at the same time, and one is a prefix
     // - Both words finish at the same time, no prefixes
     // - Both words fail at the same time
     // - Neither word finishes, but that is enough for a success. One word would
     //   eventually fail if its parsing continued.
-    // - Neither word finishes, but that is enough for a success. No word fails and
-    //   the success is left in the hands of the tone.
+    // - Neither word finishes, but that is enough for a success. No word fails
+    //   and the success is left in the hands of the tone.
     // - One word ends, the other one fails at the same time
     // - One word ends, the other one does not, but *will* eventually fail
     let mut words =
@@ -130,7 +130,7 @@ fn strict_ordering() {
 
     let mut equalities = HashMap::new();
 
-    words.into_iter().tuple_combinations().for_each(|(a, b)| {
+    words.into_iter().array_combinations().for_each(|[a, b]| {
         // Check first order
         let key = (a.head.clone(), b.head.clone());
         let cmp = a.cmp(&b);
@@ -147,11 +147,13 @@ fn strict_ordering() {
                 );
             }
             Entry::Vacant(_) => {
-                // Make sure the sorting hasn't been done before in the opposite order
+                // Make sure the sorting hasn't been done before in the opposite
+                // order
                 let key = (b.head.clone(), a.head.clone());
 
-                // CANNOT be the invert() of the existing comparison because we are *verifying*,
-                // among other things, that `a.cmp(b).invert()` is the same as `b.cmp(a)`
+                // CANNOT be the invert() of the existing comparison because we
+                // are *verifying*, among other things, that
+                // `a.cmp(b).invert()` is the same as `b.cmp(a)`
                 let cmp = b.cmp(&a);
 
                 match equalities.entry(key) {

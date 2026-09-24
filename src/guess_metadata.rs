@@ -1,99 +1,238 @@
-// this file was written by claude for an experiment
-#![allow(
-    clippy::similar_names,
+// Metadata guesser v2.
+// disclaimer! mostly authored by gpt 5.6 luna
+
+#![expect(
     clippy::too_many_lines,
     clippy::cast_possible_truncation,
     clippy::cast_sign_loss,
-    reason = "annoying"
+    reason = "metadata experiments are intentionally data-heavy"
 )]
-
-//! Heuristic + Logistic Regression metadata guesser for Toaq dictionary
-//! entries.
-//!
-//! Writes `data/guesses.txt` with:
-//!   - Top discriminative tokens per class (sanity check)
-//!   - 10-fold cross-validation accuracy (honest held-out estimate)
-//!   - Training-data accuracy for frame/distribution (heuristics)
-//!   - Guesses for unannotated entries with calibrated pronoun confidence
-//!
-//! Frame and distribution use heuristics (~93%/96% accurate).
-//! Pronoun and subject use Logistic Regression trained on annotated entries.
-//! Subject uses classifier chaining: predicted pronoun is an additional
-//! feature. Pronoun confidence is calibrated (raw softmax → actual accuracy
-//! estimate). Subject confidence is not reported — it is essentially
-//! uncorrelated with accuracy.
 
 use std::{
     cmp::Ordering,
-    collections::HashMap,
+    collections::{HashMap, HashSet},
     fs,
     io::{self, Write as _},
+    sync::LazyLock,
+    time::Instant,
 };
+
+use rayon::prelude::*;
+use regex::Regex;
 
 use crate::toadua::{Toa, split_into_raku};
 
-// ─── feature extraction & tokenization ───────────────────────────────────────
+const VALID_PRONOUNS: &[&str] = &["hó", "máq", "hóq", "tá"];
+const VALID_SUBJECTS: &[&str] = &["sA", "sI", "sE", "sP", "sS", "sF"];
+const FRAME_SLOT_LETTERS: &str = "ijk";
 
-fn extract_features(toa: &Toa) -> String {
-    let mut tokens = tokenize(&toa.body);
+#[derive(Clone, Copy, Debug, Eq, PartialEq, Hash)]
+enum Field {
+    Frame,
+    Distribution,
+    Pronoun,
+    Subject,
+}
 
-    if let Some(rakus) = split_into_raku(&toa.head)
-        && let Some(raku0) = rakus.last()
-    {
-        tokens.push(format!("_RAKU_{raku0}"));
-        if rakus.len() >= 2
-            && let Some(raku1) = rakus.get(rakus.len() - 2)
-        {
-            tokens.push(format!("_2_RAKU_{raku1}{raku0}"));
+impl Field {
+    const ALL: [Self; 4] = [Self::Frame, Self::Distribution, Self::Pronoun, Self::Subject];
+
+    const fn name(self) -> &'static str {
+        match self {
+            Self::Frame => "frame",
+            Self::Distribution => "distribution",
+            Self::Pronoun => "pronoun",
+            Self::Subject => "subject",
         }
     }
 
+    fn get(self, toa: &Toa) -> Option<&str> {
+        match self {
+            Self::Frame => toa.frame.as_deref(),
+            Self::Distribution => toa.distribution.as_deref(),
+            Self::Pronoun => toa.pronoun.as_deref(),
+            Self::Subject => toa.subject.as_deref(),
+        }
+    }
+
+    fn valid_value(self, value: &str) -> bool {
+        match self {
+            Self::Frame | Self::Distribution => !value.is_empty(),
+            Self::Pronoun => VALID_PRONOUNS.contains(&value),
+            Self::Subject => VALID_SUBJECTS.contains(&value),
+        }
+    }
+}
+
+fn tokenize(text: &str) -> Vec<String> {
+    fn flush(current: &mut String, tokens: &mut Vec<String>) {
+        if !current.is_empty() {
+            if current.starts_with('_') {
+                tokens.push(current.clone());
+            } else {
+                tokens.push(current.to_lowercase());
+            }
+            current.clear();
+        }
+    }
+
+    let mut tokens = Vec::new();
+    let mut current = String::new();
+
+    for ch in text.chars() {
+        if ch == '▯' {
+            flush(&mut current, &mut tokens);
+            tokens.push("▯".to_string());
+        } else if ch.is_alphanumeric() || ch == '_' {
+            current.push(ch);
+        } else {
+            flush(&mut current, &mut tokens);
+        }
+    }
+    flush(&mut current, &mut tokens);
+    tokens
+}
+
+fn body_word_features(body: &str) -> Vec<String> {
+    tokenize(body).into_iter().filter(|t| !t.starts_with('_')).map(|t| format!("_W_{t}")).collect()
+}
+
+fn char_ngrams(text: &str, min_n: usize, max_n: usize) -> Vec<String> {
+    let chars: Vec<char> = text.to_lowercase().chars().collect();
+    let mut out = Vec::new();
+    for n in min_n ..= max_n {
+        if n > chars.len() {
+            break;
+        }
+        for i in 0 ..= chars.len() - n {
+            let gram: String = chars[i .. i + n].iter().collect();
+            // Combining marks on their own are almost never a useful feature.
+            if gram.chars().all(|c| !c.is_control()) {
+                out.push(format!("_C{n}_{gram}"));
+            }
+        }
+    }
+    out
+}
+
+fn metadata_features(toa: &Toa, target: Field) -> Vec<String> {
+    let mut out = Vec::new();
+
+    for (field, value) in [
+        (Field::Frame, toa.frame.as_deref()),
+        (Field::Distribution, toa.distribution.as_deref()),
+        (Field::Pronoun, toa.pronoun.as_deref()),
+        (Field::Subject, toa.subject.as_deref()),
+    ] {
+        if field as u8 != target as u8 {
+            if let Some(value) = value {
+                out.push(format!("_KNOWN_{}_{}", field.name().to_uppercase(), value));
+            } else {
+                out.push(format!("_MISSING_{}", field.name().to_uppercase()));
+            }
+        }
+    }
+
+    if let Some(typ) = &toa.typ {
+        out.push(format!("_TYPE_{typ}"));
+    }
+    if let Some(gloss) = &toa.gloss {
+        for token in tokenize(gloss) {
+            out.push(format!("_GLOSS_{token}"));
+        }
+    }
+    if let Some(tags) = &toa.tags {
+        for tag in tags.split(',').map(str::trim).filter(|x| !x.is_empty()) {
+            out.push(format!("_TAG_{}", tag.to_lowercase()));
+        }
+    }
+
+    out
+}
+
+fn extract_features(toa: &Toa, target: Field) -> Vec<String> {
+    extract_features_extra(toa, target, "")
+}
+
+fn extract_features_extra(toa: &Toa, target: Field, extra: &str) -> Vec<String> {
+    let mut tokens = tokenize(&toa.body);
+    let rakus = split_into_raku(&toa.head).unwrap_or_default();
+
+    if let Some(last) = rakus.last() {
+        tokens.push(format!("_RAKU_LAST_{last}"));
+    }
+    if let Some(first) = rakus.first() {
+        tokens.push(format!("_RAKU_FIRST_{first}"));
+    }
+    for (i, raku) in rakus.iter().enumerate().take(3) {
+        tokens.push(format!("_RAKU_POS{i}_{raku}"));
+    }
+    if rakus.len() >= 2 {
+        let a = &rakus[rakus.len() - 2];
+        let b = &rakus[rakus.len() - 1];
+        tokens.push(format!("_RAKU_LAST2_{a}_{b}"));
+    }
     tokens.push(format!("_ARITY_{}", primary_arity(&toa.body).0));
 
     if toa.head.chars().next().is_some_and(char::is_uppercase) {
         tokens.push("_CAPS".to_string());
     }
 
-    tokens.join(" ")
-}
+    for feature in char_ngrams(&toa.head, 2, 5) {
+        tokens.push(feature);
+    }
+    tokens.extend(body_word_features(&toa.body));
+    tokens.extend(metadata_features(toa, target));
 
-fn tokenize(text: &str) -> Vec<String> {
-    let mut tokens = Vec::new();
-    let mut current = String::new();
-    macro_rules! push_lowercase_unless_special {
-        () => {
-            if current.starts_with('_') {
-                tokens.push(current.clone());
-            } else {
-                tokens.push(current.to_lowercase());
-            }
-        };
+    if !extra.is_empty() {
+        tokens.push(extra.to_string());
     }
-    for ch in text.chars() {
-        if ch == '▯' {
-            if !current.is_empty() {
-                push_lowercase_unless_special!();
-                current.clear();
-            }
-            tokens.push("▯".to_string());
-        } else if ch.is_alphanumeric() || ch == '_' {
-            current.push(ch);
-        } else if !current.is_empty() {
-            push_lowercase_unless_special!();
-            current.clear();
-        }
-    }
-    if !current.is_empty() {
-        push_lowercase_unless_special!();
-    }
+
     tokens.push("_BIAS".to_string());
+
     tokens
 }
 
-/// Append predicted pronoun as a classifier-chaining feature.
-fn with_pron_feature(features: &str, pron: &str) -> String { format!("{features} _PRON_{pron}") }
+fn primary_arity(body: &str) -> (usize, &str) {
+    body.split([';', '.'])
+        .filter(|clause| clause.contains('▯'))
+        .map(|clause| (clause.chars().filter(|&c| c == '▯').count(), clause))
+        .max_by_key(|(a, _)| *a)
+        .unwrap_or_default()
+}
 
-// ─── Logistic Regression (SGD) ───────────────────────────────────────────────
+fn arity_metadata_consistent(toa: &Toa) -> bool {
+    let body_arity = primary_arity(&toa.body).0;
+
+    let frame_arity = toa.frame.as_deref().map(|frame| frame.split_whitespace().count());
+
+    let distribution_arity =
+        toa.distribution.as_deref().map(|distribution| distribution.split_whitespace().count());
+
+    frame_arity.is_none_or(|n| n == body_arity)
+        && distribution_arity.is_none_or(|n| n == body_arity)
+        && match (frame_arity, distribution_arity) {
+            (Some(frame), Some(distribution)) => frame == distribution,
+            _ => true,
+        }
+}
+
+fn class_weights(
+    labels: impl Iterator<Item = impl AsRef<str>>,
+    classes: &[String],
+) -> HashMap<String, f64> {
+    let mut counts = HashMap::<String, usize>::new();
+    let mut n = 0;
+    for label in labels {
+        *counts.entry(label.as_ref().to_string()).or_insert(0) += 1;
+        n += 1;
+    }
+    let k = classes.len().max(1) as f64;
+    counts
+        .into_iter()
+        .map(|(class, count)| (class, (f64::from(n) / (count as f64 * k)).sqrt()))
+        .collect()
+}
 
 #[derive(Clone)]
 struct LogisticRegression {
@@ -104,8 +243,10 @@ struct LogisticRegression {
 
 impl LogisticRegression {
     fn train<'a>(
-        examples: impl Iterator<Item = (&'a str, &'a str)>,
+        examples: impl Iterator<Item = (&'a [String], &'a str)>,
         weights: &HashMap<String, f64>,
+        epochs: usize,
+        learning_rate: f64,
     ) -> Self {
         let mut class_to_id = HashMap::new();
         let mut vocab = HashMap::new();
@@ -114,32 +255,33 @@ impl LogisticRegression {
         for (text, label) in examples {
             let next_class_id = class_to_id.len();
             let c_id = *class_to_id.entry(label.to_string()).or_insert(next_class_id);
-
-            let mut token_ids = Vec::new();
-            for token in tokenize(text) {
-                let next_vocab_id = vocab.len();
-                token_ids.push(*vocab.entry(token).or_insert(next_vocab_id));
-            }
+            let token_ids = text
+                .iter()
+                .map(|token| {
+                    if let Some(&token_id) = vocab.get(token) {
+                        token_id
+                    } else {
+                        let token_id = vocab.len();
+                        vocab.insert(token.clone(), token_id);
+                        token_id
+                    }
+                })
+                .collect::<Vec<_>>();
             processed_data.push((token_ids, c_id));
         }
 
         let num_classes = class_to_id.len();
         let num_tokens = vocab.len();
-
         let mut classes = vec![String::new(); num_classes];
-        for (name, &id) in &class_to_id {
-            classes[id].clone_from(name);
+        for (name, id) in class_to_id {
+            classes[id] = name;
         }
 
         let mut model = Self { weights: vec![0.; num_tokens * num_classes], classes, vocab };
 
-        let epochs = 50;
-        let learning_rate = 0.1;
-
         for epoch in 0 .. epochs {
-            let lr = learning_rate / 0.1_f64.mul_add(f64::from(epoch), 1.);
+            let lr = learning_rate / 0.05_f64.mul_add(epoch as f64, 1.);
             for (token_ids, label_id) in &processed_data {
-                // Get probabilities
                 let mut scores = vec![0.; num_classes];
                 for (c_idx, score) in scores.iter_mut().enumerate() {
                     for &t_id in token_ids {
@@ -147,33 +289,32 @@ impl LogisticRegression {
                     }
                 }
 
-                // Softmax
                 let max_score = scores.iter().copied().fold(f64::NEG_INFINITY, f64::max);
                 let exps: Vec<f64> = scores.iter().map(|s| (s - max_score).exp()).collect();
                 let sum_exps: f64 = exps.iter().sum();
 
-                // Update weights
-                for (c_idx, e) in exps.iter().enumerate().take(num_classes) {
+                for (c_idx, e) in exps.iter().enumerate() {
                     let prob = e / sum_exps;
                     let target = if c_idx == *label_id { 1. } else { 0. };
                     let error = target - prob;
-
-                    let class_name = &model.classes[c_idx];
-                    let class_weight = weights.get(class_name).unwrap_or(&1.);
-
+                    let class_weight = weights.get(&model.classes[c_idx]).copied().unwrap_or(1.);
                     for &t_id in token_ids {
-                        model.weights[t_id * num_classes + c_idx] += lr * error * class_weight;
+                        model.weights[t_id * num_classes + c_idx] = (lr * error)
+                            .mul_add(class_weight, model.weights[t_id * num_classes + c_idx]);
                     }
                 }
             }
         }
+
         model
     }
 
-    fn get_probs_from_tokens(&self, tokens: &[String]) -> Vec<f64> {
+    fn probs_from_tokens(&self, tokens: &[String]) -> Vec<f64> {
         let num_classes = self.classes.len();
+        if num_classes == 0 {
+            return Vec::new();
+        }
         let mut scores = vec![0.; num_classes];
-
         for token in tokens {
             if let Some(&t_id) = self.vocab.get(token) {
                 let offset = t_id * num_classes;
@@ -182,330 +323,670 @@ impl LogisticRegression {
                 }
             }
         }
-
         let max_score = scores.iter().copied().fold(f64::NEG_INFINITY, f64::max);
         let exps: Vec<f64> = scores.iter().map(|s| (s - max_score).exp()).collect();
         let sum_exps: f64 = exps.iter().sum();
-        exps.iter().map(|e| e / sum_exps).collect()
+        exps.into_iter().map(|e| e / sum_exps).collect()
     }
 
-    fn predict_raw(&self, text: &str) -> (String, f64) {
-        let tokens = tokenize(text);
-        let probs = self.get_probs_from_tokens(&tokens);
-        let (best_idx, &max_prob) =
-            probs.iter().enumerate().max_by(|a, b| a.1.partial_cmp(b.1).unwrap()).unwrap();
+    fn predict_raw_tokens(&self, tokens: &[String]) -> Prediction {
+        let probs = self.probs_from_tokens(tokens);
+        let mut best = None;
+        let mut second = None;
 
-        (self.classes[best_idx].clone(), max_prob)
-    }
-
-    fn predict(&self, text: &str) -> String { self.predict_raw(text).0 }
-
-    fn print_top_tokens(
-        &self,
-        label_type: &str,
-        n: usize,
-        out: &mut impl io::Write,
-    ) -> io::Result<()> {
-        writeln!(out, "Top discriminative tokens (LogReg Weights) for {label_type}:")?;
-
-        let num_classes = self.classes.len();
-
-        let mut id_to_token = vec![String::new(); self.vocab.len()];
-        for (token, &id) in &self.vocab {
-            id_to_token[id].clone_from(token);
-        }
-
-        let order = if label_type == "pronoun" { VALID_PRONOUNS } else { VALID_SUBJECTS };
-
-        for class_name in order {
-            if let Some(c_idx) = self.classes.iter().position(|c| c == class_name) {
-                let mut class_weights: Vec<(&String, f64)> = self
-                    .vocab
-                    .values()
-                    .map(|&t_id| {
-                        let weight = self.weights[t_id * num_classes + c_idx];
-                        (&id_to_token[t_id], weight)
-                    })
-                    .collect();
-
-                class_weights
-                    .sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap_or(std::cmp::Ordering::Equal));
-
-                let top: Vec<String> =
-                    class_weights.iter().take(n).map(|(t, w)| format!("{t}({w:.2})")).collect();
-
-                writeln!(out, "  {class_name}: {top:?}")?;
+        for (i, &prob) in probs.iter().enumerate() {
+            match best {
+                None => best = Some((i, prob)),
+                Some((_, best_prob)) if prob > best_prob => {
+                    second = best;
+                    best = Some((i, prob));
+                }
+                Some(_) => {
+                    if second.is_none_or(|(_, second_prob)| prob > second_prob) {
+                        second = Some((i, prob));
+                    }
+                }
             }
         }
-        Ok(())
+
+        let best = best.map_or(0, |(i, _)| i);
+        let second = second.map(|(i, _)| i);
+        Prediction {
+            label: self.classes.get(best).cloned().unwrap_or_default(),
+            raw_conf: probs.get(best).copied().unwrap_or(0.),
+            margin: probs.get(best).copied().unwrap_or(0.)
+                - second.and_then(|i| probs.get(i).copied()).unwrap_or(0.),
+            margin_label: second.and_then(|i| self.classes.get(i)).cloned().unwrap_or_default(),
+
+            probs,
+        }
+    }
+
+    fn predict_raw_allowed_tokens<F>(&self, tokens: &[String], allowed: F) -> Prediction
+    where F: Fn(&str) -> bool {
+        let probs = self.probs_from_tokens(tokens);
+        let mut allowed_mass = 0.;
+        let mut best = None;
+        let mut second = None;
+
+        for (i, class) in self.classes.iter().enumerate() {
+            if !allowed(class) {
+                continue;
+            }
+
+            let prob = probs[i];
+            allowed_mass += prob;
+
+            match best {
+                None => best = Some((i, prob)),
+                Some((_, best_prob)) if prob > best_prob => {
+                    second = best;
+                    best = Some((i, prob));
+                }
+                Some(_) => {
+                    if second.is_none_or(|(_, second_prob)| prob > second_prob) {
+                        second = Some((i, prob));
+                    }
+                }
+            }
+        }
+
+        let Some((best, best_prob)) = best else {
+            // `c` is valid for every arity. This keeps the structural invariant
+            // even if a future training set somehow contains no valid model
+            // class.
+            return Prediction {
+                label: "c".to_string(),
+                raw_conf: 0.,
+                margin: 0.,
+                margin_label: String::new(),
+                probs,
+            };
+        };
+
+        let normalizer = if allowed_mass > 0. { allowed_mass } else { 1. };
+
+        let best_prob = best_prob / normalizer;
+        let second_prob = second.map_or(0., |(_, prob)| prob / normalizer);
+
+        Prediction {
+            label: self.classes[best].clone(),
+            raw_conf: best_prob,
+            margin: best_prob - second_prob,
+            margin_label: second
+                .and_then(|(i, _)| self.classes.get(i))
+                .cloned()
+                .unwrap_or_default(),
+            probs,
+        }
+    }
+
+    fn class_probability_tokens(&self, tokens: &[String], class: &str) -> f64 {
+        let probs = self.probs_from_tokens(tokens);
+        self.classes
+            .iter()
+            .position(|c| c == class)
+            .and_then(|i| probs.get(i).copied())
+            .unwrap_or(0.)
+    }
+
+    fn oov_rate_tokens(&self, tokens: &[String]) -> f64 {
+        if tokens.is_empty() {
+            return 0.;
+        }
+        let oov = tokens.iter().filter(|t| !self.vocab.contains_key(t.as_str())).count();
+        oov as f64 / tokens.len() as f64
     }
 }
 
-// ─── calibration ─────────────────────────────────────────────────────────────
+#[derive(Clone)]
+struct Prediction {
+    label: String,
+    raw_conf: f64,
+    margin: f64,
+    margin_label: String,
+    probs: Vec<f64>,
+}
 
-/// Monotone calibration mapping raw softmax confidence → estimated actual
-/// accuracy. Fitted from CV data via pool-adjacent-violators isotonic
-/// regression.
+#[derive(Clone)]
+struct SubjectModel {
+    is_i: LogisticRegression,
+    non_i: LogisticRegression,
+}
+
+impl SubjectModel {
+    fn train(examples: &[(Vec<String>, String)], epochs: usize) -> Self {
+        let classes = vec!["sI".to_string(), "NON_I".to_string()];
+        let weights = class_weights(
+            examples.iter().map(|(_, label)| if label == "sI" { "sI" } else { "NON_I" }),
+            &classes,
+        );
+        let is_i = LogisticRegression::train(
+            examples.iter().map(|(features, label)| {
+                (features.as_slice(), if label == "sI" { "sI" } else { "NON_I" })
+            }),
+            &weights,
+            epochs,
+            0.1,
+        );
+
+        let non_i_classes = examples
+            .iter()
+            .filter(|(_, label)| label != "sI")
+            .map(|(_, label)| label.clone())
+            .collect::<HashSet<_>>()
+            .into_iter()
+            .collect::<Vec<_>>();
+        let non_i_weights = class_weights(
+            examples.iter().filter(|(_, label)| label != "sI").map(|(_, label)| label.as_str()),
+            &non_i_classes,
+        );
+        let non_i = LogisticRegression::train(
+            examples
+                .iter()
+                .filter(|(_, label)| label != "sI")
+                .map(|(features, label)| (features.as_slice(), label.as_str())),
+            &non_i_weights,
+            epochs,
+            0.1,
+        );
+
+        Self { is_i, non_i }
+    }
+
+    fn predict_raw_tokens(&self, tokens: &[String]) -> Prediction {
+        let p_i = self.is_i.class_probability_tokens(tokens, "sI");
+        let non_i = self.non_i.predict_raw_tokens(tokens);
+        let mut probs = Vec::new();
+        let mut classes = vec!["sI".to_string()];
+        probs.push(p_i);
+        for (class, p) in self.non_i.classes.iter().zip(non_i.probs.iter()) {
+            classes.push(class.clone());
+            probs.push((1. - p_i) * p);
+        }
+
+        let mut best = None;
+        let mut second = None;
+
+        for (i, &prob) in probs.iter().enumerate() {
+            match best {
+                None => best = Some((i, prob)),
+                Some((_, best_prob)) if prob > best_prob => {
+                    second = best;
+                    best = Some((i, prob));
+                }
+                Some(_) => {
+                    if second.is_none_or(|(_, second_prob)| prob > second_prob) {
+                        second = Some((i, prob));
+                    }
+                }
+            }
+        }
+
+        let best = best.map_or(0, |(i, _)| i);
+        let second = second.map(|(i, _)| i);
+
+        Prediction {
+            label: classes.get(best).cloned().unwrap_or_default(),
+            raw_conf: probs.get(best).copied().unwrap_or(0.),
+            margin: probs.get(best).copied().unwrap_or(0.)
+                - second.and_then(|i| probs.get(i).copied()).unwrap_or(0.),
+            margin_label: second.and_then(|i| classes.get(i)).cloned().unwrap_or_default(),
+            probs,
+        }
+    }
+}
+
+#[derive(Default, Clone)]
 struct Calibration {
-    /// Sorted breakpoints: (`raw_conf`, `actual_accuracy`).
     breakpoints: Vec<(f64, f64)>,
 }
 
 impl Calibration {
-    fn fit(mut results: Vec<(f64, bool)>, n_buckets: usize) -> Self {
-        results.sort_by(|a, b| a.0.partial_cmp(&b.0).unwrap());
-
-        // Bucket by quantised confidence value (steps of 1/`n_buckets`) rather
-        // than equal count, so entries with identical raw conf (e.g. 1.0) all
-        // land in the same bucket instead of spilling across several.
-        let step = 1. / n_buckets as f64;
-        let bucket_idx = |c: f64| ((c / step).floor() as usize).min(n_buckets - 1);
-
-        let mut buckets: Vec<Vec<(f64, bool)>> = vec![Vec::new(); n_buckets];
-        for &(c, ok) in &results {
-            buckets[bucket_idx(c)].push((c, ok));
+    fn fit(mut results: Vec<(f64, bool)>, buckets: usize) -> Self {
+        if results.is_empty() {
+            return Self::default();
+        }
+        results.sort_by(|a, b| a.0.partial_cmp(&b.0).unwrap_or(Ordering::Equal));
+        let buckets = buckets.max(1);
+        let step = 1. / buckets as f64;
+        let mut grouped: Vec<Vec<(f64, bool)>> = vec![Vec::new(); buckets];
+        for pair in results {
+            let idx = ((pair.0 / step).floor() as usize).min(buckets - 1);
+            grouped[idx].push(pair);
         }
 
-        let mut breakpoints: Vec<(f64, f64)> = buckets
-            .into_iter()
-            .filter(|b| !b.is_empty())
-            .map(|bucket| {
-                let mean_conf = bucket.iter().map(|(c, _)| c).sum::<f64>() / bucket.len() as f64;
-                let actual_acc =
-                    bucket.iter().filter(|(_, ok)| *ok).count() as f64 / bucket.len() as f64;
-                (mean_conf, actual_acc)
-            })
-            .collect();
+        // PAVA with weights, not the old pairwise midpoint approximation.
+        #[derive(Clone, Copy)]
+        #[allow(clippy::items_after_statements, reason = "")]
+        struct Bin {
+            x: f64,
+            y: f64,
+            n: usize,
+        }
+        let mut bins = Vec::new();
+        for group in grouped.into_iter().filter(|g| !g.is_empty()) {
+            let n = group.len();
+            let x = group.iter().map(|(c, _)| *c).sum::<f64>() / n as f64;
+            let y = group.iter().filter(|(_, ok)| *ok).count() as f64 / n as f64;
+            bins.push(Bin { x, y, n });
+        }
 
-        // pool-adjacent-violators: merge any pair where acc decreases
-        loop {
-            let mut merged = false;
-            let mut i = 0;
-            let mut next = Vec::new();
-            while i < breakpoints.len() {
-                if i + 1 < breakpoints.len() && breakpoints[i].1 > breakpoints[i + 1].1 {
-                    // merge: weighted average
-                    next.push((
-                        f64::midpoint(breakpoints[i].0, breakpoints[i + 1].0),
-                        f64::midpoint(breakpoints[i].1, breakpoints[i + 1].1),
-                    ));
-                    i += 2;
-                    merged = true;
-                } else {
-                    next.push(breakpoints[i]);
-                    i += 1;
+        let mut pooled: Vec<Bin> = Vec::new();
+        for bin in bins {
+            pooled.push(bin);
+            while pooled.len() >= 2 {
+                let b = pooled[pooled.len() - 1];
+                let a = pooled[pooled.len() - 2];
+                if a.y <= b.y {
+                    break;
+                }
+                let n = a.n + b.n;
+                let merged = Bin {
+                    x: b.x.mul_add(b.n as f64, a.x * a.n as f64) / n as f64,
+                    y: b.y.mul_add(b.n as f64, a.y * a.n as f64) / n as f64,
+                    n,
+                };
+                pooled.pop();
+                pooled.pop();
+                pooled.push(merged);
+            }
+        }
+
+        Self { breakpoints: pooled.into_iter().map(|b| (b.x, b.y)).collect() }
+    }
+
+    fn calibrate(&self, raw: f64) -> f64 {
+        if self.breakpoints.is_empty() {
+            return raw;
+        }
+        if raw <= self.breakpoints[0].0 {
+            return self.breakpoints[0].1;
+        }
+        for window in self.breakpoints.windows(2) {
+            assert_eq!(window.len(), 2, "universe broke {}", line!());
+            let (x0, y0) = window[0];
+            let (x1, y1) = window[1];
+            if raw <= x1 {
+                let t = {
+                    let t = (raw - x0) / (x1 - x0);
+                    if t.is_finite() { t } else { 1. }
+                };
+                return f64::mul_add(t, y1 - y0, y0);
+            }
+        }
+        self.breakpoints.last().map_or(raw, |(_, y)| *y)
+    }
+}
+
+#[derive(Default)]
+struct FieldReport {
+    correct: usize,
+    total: usize,
+    calibration_data: Vec<(f64, bool)>,
+    per_class: HashMap<String, (usize, usize)>,
+    // For factorized fields such as distribution, measure each component
+    // independently in addition to measuring exact whole-value correctness.
+    slot_correct: usize,
+    slot_total: usize,
+    per_slot: HashMap<usize, (usize, usize)>,
+    // Frame accuracy broken down by arity.
+    per_arity: HashMap<usize, (usize, usize)>,
+}
+impl FieldReport {
+    fn merge(mut self, other: Self) -> Self {
+        self.correct += other.correct;
+        self.total += other.total;
+        self.calibration_data.extend(other.calibration_data);
+        for (k, v) in other.per_class {
+            let entry = self.per_class.entry(k).or_default();
+            entry.0 += v.0;
+            entry.1 += v.1;
+        }
+        self.slot_correct += other.slot_correct;
+        self.slot_total += other.slot_total;
+        for (k, v) in other.per_slot {
+            let entry = self.per_slot.entry(k).or_default();
+            entry.0 += v.0;
+            entry.1 += v.1;
+        }
+        for (k, v) in other.per_arity {
+            let entry = self.per_arity.entry(k).or_default();
+            entry.0 += v.0;
+            entry.1 += v.1;
+        }
+        self
+    }
+}
+
+fn deterministic_hash(text: &str) -> u64 {
+    // Stable FNV-1a; no random dependency needed for a reproducible experiment.
+    let mut h = 0xcbf2_9ce4_8422_2325_u64;
+    for b in text.as_bytes() {
+        h ^= u64::from(*b);
+        h = h.wrapping_mul(0x0100_0000_01b3);
+    }
+    h
+}
+
+fn grouped_stratified_folds(examples: &[&Toa], field: Field, k: usize) -> Vec<Vec<usize>> {
+    let k = k.max(2).min(examples.len().max(2));
+    let mut groups: HashMap<&str, Vec<usize>> = HashMap::new();
+    for (i, example) in examples.iter().enumerate() {
+        groups.entry(example.head.as_str()).or_default().push(i);
+    }
+
+    let mut groups = groups.into_iter().collect::<Vec<_>>();
+    groups.sort_by(|a, b| {
+        let sa = deterministic_hash(a.0);
+        let sb = deterministic_hash(b.0);
+        sb.cmp(&sa)
+    });
+
+    let mut folds = vec![Vec::new(); k];
+    let mut fold_class_counts: Vec<HashMap<String, usize>> = vec![HashMap::new(); k];
+    let mut fold_sizes = vec![0; k];
+
+    for (_, indices) in groups {
+        let mut group_counts = HashMap::<String, usize>::new();
+        for &i in &indices {
+            if let Some(label) = field.get(examples[i]) {
+                *group_counts.entry(label.to_string()).or_insert(0) += 1;
+            }
+        }
+
+        let mut best_fold = 0;
+        let mut best_score = f64::INFINITY;
+        for fold in 0 .. k {
+            let mut score = fold_sizes[fold] as f64;
+            for (label, count) in &group_counts {
+                let current = *fold_class_counts[fold].get(label).unwrap_or(&0) as f64;
+                score = current.mul_add(1. + *count as f64, score);
+            }
+            if score < best_score {
+                best_score = score;
+                best_fold = fold;
+            }
+        }
+
+        for &i in &indices {
+            folds[best_fold].push(i);
+        }
+        fold_sizes[best_fold] += indices.len();
+        for (label, count) in group_counts {
+            *fold_class_counts[best_fold].entry(label).or_insert(0) += count;
+        }
+    }
+
+    folds
+}
+
+fn field_examples(dict: &[Toa], field: Field) -> Vec<&Toa> {
+    dict.iter()
+        .filter(|t| {
+            !t.warn
+                && t.scope == "en"
+                && !t.head.ends_with('-')
+                && (1 ..= 3).contains(&primary_arity(&t.body).0)
+                && arity_metadata_consistent(t)
+                && field.get(t).is_some_and(|value| match field {
+                    Field::Frame => valid_frame_value(value, primary_arity(&t.body).0),
+                    _ => field.valid_value(value),
+                })
+        })
+        .collect()
+}
+
+fn frame_last_slot(value: &str) -> Option<&str> { value.split_whitespace().last() }
+
+fn valid_frame_value(value: &str, n: usize) -> bool {
+    let slots = value.split_whitespace().collect::<Vec<_>>();
+
+    if slots.len() != n || n == 0 {
+        return false;
+    }
+
+    slots[.. n - 1].iter().all(|&slot| slot == "c") && valid_frame_last_slot(slots[n - 1], n)
+}
+
+fn valid_frame_last_slot(label: &str, n: usize) -> bool {
+    if n == 0 {
+        return false;
+    }
+
+    // The ordinary all-canonical frame is represented by `c`.
+    if label == "c" {
+        return true;
+    }
+
+    if n.saturating_sub(1) > FRAME_SLOT_LETTERS.chars().count() {
+        return false;
+    }
+
+    let digit_count = label.chars().take_while(char::is_ascii_digit).count();
+    if digit_count == 0 {
+        return false;
+    }
+
+    let Some((number, suffix)) = label.get(.. digit_count).zip(label.get(digit_count ..)) else {
+        return false;
+    };
+    let Ok(k) = number.parse::<usize>() else {
+        return false;
+    };
+
+    if suffix.chars().count() != k {
+        return false;
+    }
+
+    let allowed_letters = FRAME_SLOT_LETTERS
+        .chars()
+        .take(n.saturating_sub(1))
+        .chain(std::iter::once('x'))
+        .collect::<HashSet<_>>();
+
+    suffix.chars().all(|ch| allowed_letters.contains(&ch))
+}
+
+static RE_THE_CASE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"^(\S+\s+){0,4}the case\b").unwrap());
+static RE_IS_TRUE_FALSE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"^(is true|is false)\b").unwrap());
+static RE_THAT_WHETHER_IF: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"\b(that|whether|if)\s*$").unwrap());
+static RE_PROPERTY: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"\b(property|satisf\w+|to do|doing)\s*$").unwrap());
+static RE_MAKING_IT_THEM: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new("making (it|them)").unwrap());
+static RE_RELATION: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\brelation\w*\s*$").unwrap());
+
+fn field_training_examples(train: &[&Toa], field: Field) -> Vec<(Vec<String>, String)> {
+    let mut examples = Vec::new();
+
+    for toa in train {
+        let Some(value) = field.get(toa) else {
+            continue;
+        };
+
+        match field {
+            Field::Frame => {
+                let Some(label) = frame_last_slot(value) else {
+                    continue;
+                };
+
+                examples.push((extract_features(toa, field), label.to_string()));
+            }
+
+            Field::Distribution => {
+                let n = primary_arity(&toa.body).0;
+
+                for (slot, label) in value.split_whitespace().enumerate() {
+                    let extra = format!("_DIST_SLOT_{slot}_OF_{n}");
+
+                    examples.push((extract_features_extra(toa, field, &extra), label.to_string()));
                 }
             }
-            breakpoints = next;
-            if !merged {
-                break;
-            }
-        }
 
-        Self { breakpoints }
-    }
-
-    fn calibrate(&self, raw_conf: f64) -> f64 {
-        let bp = &self.breakpoints;
-        if bp.is_empty() {
-            return raw_conf;
-        }
-        if raw_conf <= bp[0].0 {
-            return bp[0].1;
-        }
-        if raw_conf >= bp[bp.len() - 1].0 {
-            return bp[bp.len() - 1].1;
-        }
-        for i in 0 .. bp.len() - 1 {
-            if bp[i].0 <= raw_conf && raw_conf <= bp[i + 1].0 {
-                let t = (raw_conf - bp[i].0) / (bp[i + 1].0 - bp[i].0);
-                return t.mul_add(bp[i + 1].1 - bp[i].1, bp[i].1);
-            }
-        }
-        bp[bp.len() - 1].1
-    }
-}
-
-// ─── oversampling ────────────────────────────────────────────────────────────
-
-/// Duplicate examples from under-represented classes so the model sees them
-/// more often. `min_ratio` is the target count as a fraction of the
-/// majority class (e.g. 0.4 = at least 40% as many examples as the biggest
-/// class).
-fn oversample<'a>(examples: &[(String, &'a str)], min_ratio: f64) -> Vec<(String, &'a str)> {
-    let mut counts: std::collections::HashMap<&str, usize> = std::collections::HashMap::new();
-    for (_, label) in examples {
-        *counts.entry(*label).or_insert(0) += 1;
-    }
-    let max_count = counts.values().copied().max().unwrap_or(1);
-    let target = ((max_count as f64) * min_ratio).max(1.) as usize;
-
-    let mut out = examples.to_vec();
-    for (label, count) in counts {
-        if count < target {
-            let mine: Vec<_> = examples.iter().filter(|(_, l)| *l == label).cloned().collect();
-            for i in 0 .. target - count {
-                out.push(mine[i % mine.len()].clone());
+            Field::Pronoun | Field::Subject => {
+                examples.push((extract_features(toa, field), value.to_string()));
             }
         }
     }
-    out
+
+    examples
 }
 
-// ─── k-fold CV with chaining + calibration ───────────────────────────────────
+fn train_field_models(train: &[&Toa], field: Field) -> (LogisticRegression, Option<SubjectModel>) {
+    let examples = field_training_examples(train, field);
 
-struct CvResult {
-    pron_acc: f64,
-    subj_acc: f64,
-    /// (`raw_conf`, `correct`) pairs for pronoun, used to fit calibration.
-    pron_calibration_data: Vec<(f64, bool)>,
-    /// class → (correct, total) for pronoun.
-    pron_per_class: HashMap<String, (usize, usize)>,
-    /// class → (correct, total) for subject.
-    subj_per_class: HashMap<String, (usize, usize)>,
-}
-
-fn kfold_cv(examples: &[(String, &str, &str, usize)], k: usize) -> CvResult {
-    let n = examples.len();
-    let mut correct_pron = 0;
-    let mut correct_subj = 0;
-    let mut pron_calibration_data: Vec<(f64, bool)> = Vec::new();
-    let mut pron_per_class: HashMap<String, (usize, usize)> = HashMap::new();
-    let mut subj_per_class: HashMap<String, (usize, usize)> = HashMap::new();
-
-    for fold in 0 .. k {
-        let test_start = fold * n / k;
-        let test_end = (fold + 1) * n / k;
-
-        let train: Vec<_> =
-            examples[.. test_start].iter().chain(examples[test_end ..].iter()).collect();
-        let test = &examples[test_start .. test_end];
-
-        let mut pron_weights = HashMap::new();
-        let mut p_counts = HashMap::new();
-        let mut s_counts = HashMap::new();
-
-        for (_, p, s, _) in &train {
-            *p_counts.entry(p.to_string()).or_insert(0) += 1;
-            *s_counts.entry(s.to_string()).or_insert(0) += 1;
-        }
-
-        let train_n = train.len() as f64;
-        for (name, count) in p_counts {
-            pron_weights.insert(name, train_n / (f64::from(count) * 4.)); // 4 main prons
-        }
-
-        // train pronoun model on raw features
-        let pron_model = LogisticRegression::train(
-            train.iter().map(|(f, p, ..)| (f.as_str(), *p)),
-            &pron_weights,
-        );
-
-        // train subject model with chained pronoun feature + oversampling
-        let subj_train_examples: Vec<(String, &str)> =
-            train.iter().map(|(f, p, s, _)| (with_pron_feature(f, p), *s)).collect();
-        let subj_balanced = oversample(&subj_train_examples, 0.2);
-
-        // Recompute weights on the balanced distribution
-        let mut s_counts_bal = std::collections::HashMap::new();
-        for (_, s) in &subj_balanced {
-            *s_counts_bal.entry(s.to_string()).or_insert(0) += 1;
-        }
-        let subj_n_bal = subj_balanced.len() as f64;
-        let num_subj_classes = s_counts_bal.len() as f64;
-        let subj_weights_bal: std::collections::HashMap<String, f64> = s_counts_bal
+    if matches!(field, Field::Subject) {
+        // Prediction uses the hierarchical model. Its `is_i` model sees the
+        // same examples/features as the old plain subject model did, so it
+        // also supplies the identical vocabulary for OOV reporting without
+        // requiring another training pass.
+        let hierarchical = SubjectModel::train(&examples, 55);
+        let plain = hierarchical.is_i.clone();
+        (plain, Some(hierarchical))
+    } else {
+        let classes = examples
+            .iter()
+            .map(|(_, label)| label.clone())
+            .collect::<HashSet<_>>()
             .into_iter()
-            .map(|(name, count)| {
-                (name, (subj_n_bal / (f64::from(count) * num_subj_classes)).sqrt())
-            })
-            .collect();
-
-        let subj_model = LogisticRegression::train(
-            subj_balanced.iter().map(|(f, s)| (f.as_str(), *s)),
-            &subj_weights_bal,
+            .collect::<Vec<_>>();
+        let weights = class_weights(examples.iter().map(|(_, label)| label.as_str()), &classes);
+        let model = LogisticRegression::train(
+            examples.iter().map(|(features, label)| (features.as_slice(), label.as_str())),
+            &weights,
+            55,
+            0.08,
         );
+        (model, None)
+    }
+}
 
-        for (features, pron, subj, _) in test {
-            let (pred_pron, raw_conf) = pron_model.predict_raw(features);
-            let correct_p = pred_pron == *pron;
-            if correct_p {
-                correct_pron += 1;
-            }
-            pron_calibration_data.push((raw_conf, correct_p));
-            let e = pron_per_class.entry((*pron).to_string()).or_insert((0, 0));
-            if correct_p {
-                e.0 += 1;
-            }
-            e.1 += 1;
+fn field_feature_tokens(toa: &Toa, field: Field) -> Vec<Vec<String>> {
+    match field {
+        Field::Distribution => {
+            let n = primary_arity(&toa.body).0;
 
-            let subj_features = with_pron_feature(features, &pred_pron);
-            let correct_s = subj_model.predict(&subj_features) == *subj;
-            if correct_s {
-                correct_subj += 1;
+            (0 .. n)
+                .map(|slot| {
+                    let extra = format!("_DIST_SLOT_{slot}_OF_{n}");
+                    extract_features_extra(toa, field, &extra)
+                })
+                .collect()
+        }
+
+        _ => vec![extract_features(toa, field)],
+    }
+}
+
+fn field_oov_rate(feature_sets: &[Vec<String>], model: &LogisticRegression) -> f64 {
+    if feature_sets.is_empty() {
+        return 0.;
+    }
+
+    feature_sets.iter().map(|tokens| model.oov_rate_tokens(tokens)).sum::<f64>()
+        / feature_sets.len() as f64
+}
+
+fn predict_field_from_features(
+    toa: &Toa,
+    field: Field,
+    feature_sets: &[Vec<String>],
+    model: &LogisticRegression,
+    subject: Option<&SubjectModel>,
+) -> Prediction {
+    match field {
+        Field::Frame => {
+            let n = primary_arity(&toa.body).0;
+            let tokens = feature_sets.first().map_or_else(|| &[], Vec::as_slice);
+
+            let last =
+                model.predict_raw_allowed_tokens(tokens, |label| valid_frame_last_slot(label, n));
+
+            let mut slots = Vec::with_capacity(n);
+            slots.resize(n.saturating_sub(1), "c");
+            slots.push(last.label.as_str());
+
+            Prediction {
+                label: slots.join(" "),
+                raw_conf: last.raw_conf,
+                margin: last.margin,
+                margin_label: last.margin_label,
+                probs: last.probs,
             }
-            let e = subj_per_class.entry((*subj).to_string()).or_insert((0, 0));
-            if correct_s {
-                e.0 += 1;
+        }
+
+        Field::Distribution => {
+            let n = primary_arity(&toa.body).0;
+            let mut slots = Vec::with_capacity(n);
+            let mut raw_conf = 1.;
+            let mut margin = 1_f64;
+            let margin_label = String::new();
+
+            for tokens in feature_sets.iter().take(n) {
+                let prediction = model.predict_raw_tokens(tokens);
+
+                slots.push(prediction.label);
+                raw_conf *= prediction.raw_conf;
+
+                if prediction.margin < margin {
+                    margin = prediction.margin;
+                }
             }
-            e.1 += 1;
+
+            Prediction { label: slots.join(" "), raw_conf, margin, margin_label, probs: Vec::new() }
+        }
+
+        Field::Subject => {
+            let tokens = feature_sets.first().map_or_else(|| &[], Vec::as_slice);
+
+            subject.map_or_else(
+                || model.predict_raw_tokens(tokens),
+                |subject| subject.predict_raw_tokens(tokens),
+            )
+        }
+
+        Field::Pronoun => {
+            let tokens = feature_sets.first().map_or_else(|| &[], Vec::as_slice);
+            model.predict_raw_tokens(tokens)
         }
     }
-
-    CvResult {
-        pron_acc: f64::from(correct_pron) / n as f64,
-        subj_acc: f64::from(correct_subj) / n as f64,
-        pron_calibration_data,
-        pron_per_class,
-        subj_per_class,
-    }
 }
 
-// ─── frame heuristics ────────────────────────────────────────────────────────
+fn predict_field(
+    toa: &Toa,
+    field: Field,
+    model: &LogisticRegression,
+    subject: Option<&SubjectModel>,
+) -> Prediction {
+    let feature_sets = field_feature_tokens(toa, field);
 
-fn primary_arity(body: &str) -> (usize, &str) {
-    body.split(';')
-        .filter(|clause| clause.contains('▯'))
-        .map(|clause| (clause.chars().filter(|&c| c == '▯').count(), clause))
-        .max_by_key(|(a, _)| *a)
-        .unwrap_or_default()
+    predict_field_from_features(toa, field, &feature_sets, model, subject)
 }
 
-fn normalize_body(s: &str) -> String { s.to_lowercase() }
-
-use regex::Regex;
-
-pub fn guess_frame(body: &str, n: usize) -> String {
+fn guess_frame_heuristic(body: &str, n: usize) -> String {
     if n == 0 {
         return String::new();
     }
-
     let mut frame = vec!["c"; n];
-
     let last_pos = body.rfind('▯').unwrap_or(0);
     let before = &body[.. last_pos];
     let after = &body[last_pos + '▯'.len_utf8() ..];
     let after_trimmed = after.trim_start();
     let lower = body.to_lowercase();
 
-    let re_the_case = Regex::new(r"^(\S+\s+){0,4}the case\b").unwrap();
-    let re_is_true_false = Regex::new(r"^(is true|is false)\b").unwrap();
-    let re_that_whether_if = Regex::new(r"\b(that|whether|if)\s*$").unwrap();
-
-    let re_property = Regex::new(r"\b(property|satisf\w+|to do|doing)\s*$").unwrap();
-
-    let re_making_it_them = Regex::new("making (it|them)").unwrap();
-
-    let re_relation = Regex::new(r"\brelation\w*\s*$").unwrap();
-
-    let last = if re_the_case.is_match(after_trimmed)
-        || re_is_true_false.is_match(after_trimmed)
-        || re_that_whether_if.is_match(before)
+    let last = if RE_THE_CASE.is_match(after_trimmed)
+        || RE_IS_TRUE_FALSE.is_match(after_trimmed)
+        || RE_THAT_WHETHER_IF.is_match(before)
     {
         "0"
-    } else if re_property.is_match(before) {
+    } else if RE_PROPERTY.is_match(before) {
         match n.cmp(&2) {
             Ordering::Greater => {
-                let is_manip = re_making_it_them.is_match(&lower)
+                let is_manip = RE_MAKING_IT_THEM.is_match(&lower)
                     || lower.contains("gets")
                     || lower.contains("into")
                     || lower.contains("to do");
@@ -514,7 +995,7 @@ pub fn guess_frame(body: &str, n: usize) -> String {
             Ordering::Equal => "1i",
             Ordering::Less => "1x",
         }
-    } else if re_relation.is_match(before) {
+    } else if RE_RELATION.is_match(before) {
         match n.cmp(&2) {
             Ordering::Greater => "2ij",
             Ordering::Equal => "2ix",
@@ -523,13 +1004,12 @@ pub fn guess_frame(body: &str, n: usize) -> String {
     } else {
         "c"
     };
-
     frame[n - 1] = last;
     frame.join(" ")
 }
 
-fn guess_distribution(entry: &Toa, n: usize) -> String {
-    let b = normalize_body(&entry.body);
+fn guess_distribution_heuristic(entry: &Toa, n: usize) -> String {
+    let b = entry.body.to_lowercase();
     let n_collective = if b.starts_with("▯ and ▯") {
         2
     } else {
@@ -545,364 +1025,542 @@ fn guess_distribution(entry: &Toa, n: usize) -> String {
     (0 .. n).map(|i| if i < n_collective { "n" } else { "d" }).collect::<Vec<_>>().join(" ")
 }
 
-// ─── valid label sets
-// ─────────────────────────────────────────────────────────
+fn per_field_cv(annotated: &[&Toa], field: Field, k: usize) -> FieldReport {
+    let folds = grouped_stratified_folds(annotated, field, k);
 
-const VALID_PRONOUNS: &[&str] = &["hó", "máq", "hóq", "tá"];
-const VALID_SUBJECTS: &[&str] = &["sA", "sI", "sE", "sP", "sS", "sF"];
+    folds
+        .into_par_iter()
+        .filter(|test_indices| !test_indices.is_empty())
+        .map(|test_indices| {
+            let mut report = FieldReport::default();
+            let test_set: HashSet<usize> = test_indices.iter().copied().collect();
+            let train = annotated
+                .iter()
+                .enumerate()
+                .filter_map(|(i, t)| (!test_set.contains(&i)).then_some(*t))
+                .collect::<Vec<_>>();
 
-fn is_valid_pronoun(s: &str) -> bool { VALID_PRONOUNS.contains(&s) }
-fn is_valid_subject(s: &str) -> bool { VALID_SUBJECTS.contains(&s) }
+            if train.is_empty() {
+                return report;
+            }
 
-fn oov_rate(text: &str, model: &LogisticRegression) -> f64 {
-    let tokens = tokenize(text);
-    if tokens.is_empty() {
-        return 0.;
+            let mut models =
+                HashMap::<Option<usize>, (LogisticRegression, Option<SubjectModel>)>::new();
+
+            models.insert(None, train_field_models(&train, field));
+
+            if matches!(field, Field::Frame) {
+                let arities =
+                    train.iter().map(|toa| primary_arity(&toa.body).0).collect::<HashSet<_>>();
+
+                for arity in arities {
+                    let arity_train = train
+                        .iter()
+                        .copied()
+                        .filter(|toa| primary_arity(&toa.body).0 == arity)
+                        .collect::<Vec<_>>();
+
+                    if !arity_train.is_empty() {
+                        models.insert(Some(arity), train_field_models(&arity_train, field));
+                    }
+                }
+            }
+
+            for &i in &test_indices {
+                let toa = annotated[i];
+                let Some(actual) = field.get(toa) else {
+                    continue;
+                };
+
+                let key = matches!(field, Field::Frame).then_some(primary_arity(&toa.body).0);
+                let (plain, subject) =
+                    models.get(&key).or_else(|| models.get(&None)).expect("fold model exists");
+
+                let prediction = predict_field(toa, field, plain, subject.as_ref());
+
+                let correct = match field {
+                    Field::Distribution => {
+                        prediction.label.split_whitespace().eq(actual.split_whitespace())
+                    }
+                    _ => prediction.label == actual,
+                };
+
+                report.correct += usize::from(correct);
+                report.total += 1;
+                report.calibration_data.push((prediction.raw_conf, correct));
+                if matches!(field, Field::Frame) {
+                    let arity = primary_arity(&toa.body).0;
+                    let entry = report.per_arity.entry(arity).or_insert((0, 0));
+                    entry.0 += usize::from(correct);
+                    entry.1 += 1;
+                }
+
+                let entry = report.per_class.entry(actual.to_string()).or_insert((0, 0));
+                entry.0 += usize::from(correct);
+                entry.1 += 1;
+
+                if matches!(field, Field::Distribution) {
+                    let actual_slots = actual.split_whitespace().collect::<Vec<_>>();
+                    let predicted_slots = prediction.label.split_whitespace().collect::<Vec<_>>();
+                    let slot_count = actual_slots.len().max(predicted_slots.len());
+
+                    for slot in 0 .. slot_count {
+                        let slot_correct = actual_slots.get(slot) == predicted_slots.get(slot);
+
+                        report.slot_correct += usize::from(slot_correct);
+                        report.slot_total += 1;
+
+                        let entry = report.per_slot.entry(slot).or_insert((0, 0));
+                        entry.0 += usize::from(slot_correct);
+                        entry.1 += 1;
+                    }
+                }
+            }
+            report
+        })
+        .reduce(FieldReport::default, FieldReport::merge)
+}
+fn fit_final_models(
+    dict: &[Toa],
+    reports: &HashMap<Field, FieldReport>,
+) -> (HashMap<FieldKey, LogisticRegression>, SubjectModel, HashMap<FieldKey, Calibration>) {
+    let results: Vec<_> = Field::ALL
+        .into_par_iter()
+        .map(|field| {
+            let mut models = HashMap::new();
+            let mut calibrations = HashMap::new();
+
+            let report = reports.get(&field).expect("CV report exists");
+            let examples = field_examples(dict, field);
+
+            let global_key = FieldKey { field, arity: None };
+
+            let calibration = Calibration::fit(report.calibration_data.clone(), 20);
+            calibrations.insert(global_key, calibration.clone());
+
+            let (plain, subject) = train_field_models(&examples, field);
+            models.insert(global_key, plain);
+
+            if matches!(field, Field::Frame) {
+                let arities =
+                    examples.iter().map(|toa| primary_arity(&toa.body).0).collect::<HashSet<_>>();
+
+                for arity in arities {
+                    let arity_examples = examples
+                        .iter()
+                        .copied()
+                        .filter(|toa| primary_arity(&toa.body).0 == arity)
+                        .collect::<Vec<_>>();
+
+                    if !arity_examples.is_empty() {
+                        let (arity_plain, _) = train_field_models(&arity_examples, field);
+                        let key = FieldKey { field, arity: Some(arity) };
+
+                        models.insert(key, arity_plain);
+                        calibrations.insert(key, calibration.clone());
+                    }
+                }
+            }
+            (models, subject, calibrations)
+        })
+        .collect();
+
+    let mut all_models = HashMap::new();
+    let mut all_calibrations = HashMap::new();
+    let mut subject_model = None;
+
+    for (models, subject, calibrations) in results {
+        all_models.extend(models);
+        all_calibrations.extend(calibrations);
+        if let Some(s) = subject {
+            subject_model = Some(s);
+        }
     }
-    let oov = tokens.iter().filter(|t| !model.vocab.contains_key(t.as_str())).count();
-    oov as f64 / tokens.len() as f64
+
+    (all_models, subject_model.expect("subject model trained"), all_calibrations)
 }
 
-// ─── top-level
-// ────────────────────────────────────────────────────────────────
+#[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
+struct FieldKey {
+    field: Field,
+    arity: Option<usize>,
+}
 
-struct Mismatch {
-    line: String,
-    max_ml_conf: f64,
+fn field_key(toa: &Toa, field: Field) -> FieldKey {
+    FieldKey { field, arity: matches!(field, Field::Frame).then_some(primary_arity(&toa.body).0) }
+}
+
+fn model_for_toa<'a>(
+    models: &'a HashMap<FieldKey, LogisticRegression>,
+    toa: &Toa,
+    field: Field,
+) -> &'a LogisticRegression {
+    let key = field_key(toa, field);
+
+    models
+        .get(&key)
+        // A frame arity with no training data falls back to the global frame model.
+        .or_else(|| models.get(&FieldKey { field, arity: None }))
+        .expect("final model exists")
+}
+
+fn calibration_for_toa<'a>(
+    calibrations: &'a HashMap<FieldKey, Calibration>,
+    toa: &Toa,
+    field: Field,
+) -> Option<&'a Calibration> {
+    let key = field_key(toa, field);
+
+    calibrations.get(&key).or_else(|| calibrations.get(&FieldKey { field, arity: None }))
+}
+
+fn al_item_priority(
+    toa: &Toa,
+    models: &HashMap<FieldKey, LogisticRegression>,
+    subject_model: &SubjectModel,
+    calibrations: &HashMap<FieldKey, Calibration>,
+    annotated_heads: &HashSet<&str>,
+) -> f64 {
+    let mut priority = 0.;
+
+    for field in Field::ALL {
+        if field.get(toa).is_some() {
+            continue;
+        }
+        let model = model_for_toa(models, toa, field);
+        let features = field_feature_tokens(toa, field);
+        let pred = predict_field_from_features(
+            toa,
+            field,
+            &features,
+            model,
+            matches!(field, Field::Subject).then_some(subject_model),
+        );
+        let oov = field_oov_rate(&features, model);
+        let cal = calibration_for_toa(calibrations, toa, field)
+            .map_or(pred.raw_conf, |c| c.calibrate(pred.raw_conf));
+        let uncertainty = 1. - cal;
+        let disagreement = match field {
+            Field::Frame => f64::from(
+                pred.label != guess_frame_heuristic(&toa.body, primary_arity(&toa.body).0),
+            ),
+            Field::Distribution => f64::from(
+                pred.label != guess_distribution_heuristic(toa, primary_arity(&toa.body).0),
+            ),
+            _ => 0.,
+        };
+        let class_rarity = if pred.label == "sI" || pred.label == "hóq" { 0.02 } else { 0.08 };
+        let field_priority =
+            0.20_f64.mul_add(disagreement, 0.35_f64.mul_add(oov, uncertainty)) + class_rarity;
+        priority += field_priority;
+    }
+
+    if !annotated_heads.contains(toa.head.as_str()) {
+        priority += 0.10;
+    }
+
+    priority
 }
 
 pub fn run(dict: &[Toa]) -> io::Result<()> {
+    println!("\nguessing");
+    let start = Instant::now();
     fs::create_dir_all("data")?;
     let mut out = fs::File::create("data/guesses.txt")?;
 
-    // ── collect annotated examples ────────────────────────────────────────
-    let annotated: Vec<&Toa> = dict
+    let complete_annotated = dict
         .iter()
         .filter(|t| {
-            t.has_any_metadata()
-                && primary_arity(&t.body).0 > 0
-                && t.pronoun.as_deref().is_some_and(is_valid_pronoun)
-                && t.subject.as_deref().is_some_and(is_valid_subject)
+            !t.warn
                 && t.scope == "en"
+                && !t.head.ends_with('-')
+                && (1 ..= 3).contains(&primary_arity(&t.body).0)
+                && arity_metadata_consistent(t)
+                && Field::ALL.iter().all(|field| {
+                    field.get(t).is_some_and(|value| match field {
+                        Field::Frame => valid_frame_value(value, primary_arity(&t.body).0),
+                        _ => field.valid_value(value),
+                    })
+                })
         })
-        .collect();
+        .collect::<Vec<_>>();
 
-    let cv_examples: Vec<(String, &str, &str, usize)> = annotated
-        .iter()
-        .map(|t| {
-            (
-                extract_features(t),
-                t.pronoun.as_deref().unwrap(),
-                t.subject.as_deref().unwrap(),
-                primary_arity(&t.body).0,
-            )
-        })
-        .collect();
-
-    // ── export NB training data ──
-    let mut f = fs::File::create("data/nb_export.tsv")?;
-    writeln!(f, "features\tpron\tsubj\tarity")?;
-
-    for (features, pron, subj, arity) in &cv_examples {
-        let features = features.replace(['\t', '\n'], " ");
-        writeln!(f, "{features}\t{pron}\t{subj}\t{arity}")?;
-    }
-
-    // ── 10-fold CV with chaining + calibration data ───────────────────────
-    eprint!("Running 10-fold CV... ");
-    let cv = kfold_cv(&cv_examples, 10);
-    eprintln!("done");
-
-    let calibration = Calibration::fit(cv.pron_calibration_data.clone(), 20);
-
-    // ── train final models on all annotated data ──────────────────────────
-    let mut pron_counts = std::collections::HashMap::new();
-    for (_, p, ..) in &cv_examples {
-        *pron_counts.entry(p.to_string()).or_insert(0) += 1;
-    }
-    let total_n = cv_examples.len() as f64;
-    let num_prons = pron_counts.len() as f64;
-    let pron_weights: std::collections::HashMap<String, f64> = pron_counts
-        .into_iter()
-        .map(|(name, count)| (name, total_n / (f64::from(count) * num_prons)))
-        .collect();
-    let pronoun_model = LogisticRegression::train(
-        cv_examples.iter().map(|(f, p, ..)| (f.as_str(), *p)),
-        &pron_weights,
-    );
-
-    // subject model: use predicted pronoun as chained feature + oversampling
-    let subj_train: Vec<(String, &str)> = cv_examples
-        .iter()
-        .map(|(f, _, s, _)| {
-            let pred_pron = pronoun_model.predict(f);
-            (with_pron_feature(f, &pred_pron), *s)
-        })
-        .collect();
-    let subj_balanced = oversample(&subj_train, 0.2);
-
-    let mut s_counts_bal = std::collections::HashMap::new();
-    for (_, s) in &subj_balanced {
-        *s_counts_bal.entry(s.to_string()).or_insert(0) += 1;
-    }
-    let subj_n_bal = subj_balanced.len() as f64;
-    let num_subj_classes = s_counts_bal.len() as f64;
-    let subj_weights_bal: std::collections::HashMap<String, f64> = s_counts_bal
-        .into_iter()
-        .map(|(name, count)| (name, (subj_n_bal / (f64::from(count) * num_subj_classes)).sqrt()))
-        .collect();
-
-    let subject_model = LogisticRegression::train(
-        subj_balanced.iter().map(|(f, s)| (f.as_str(), *s)),
-        &subj_weights_bal,
-    );
-
-    let mut total = 0;
-    let mut n_frame = 0;
-    let mut ok_frame = 0;
-    let mut n_dist = 0;
-    let mut ok_dist = 0;
-
-    let mut mismatches: Vec<Mismatch> = Vec::new();
-
-    for toa in annotated {
-        let n = primary_arity(&toa.body);
-        if n.0 == 0 {
-            continue;
-        }
-        total += 1;
-
-        // Guesses
-        let frame = guess_frame(n.1, n.0);
-        let dist = guess_distribution(toa, n.0);
-        let features = extract_features(toa);
-        let (pron, p_raw_conf) = pronoun_model.predict_raw(&features);
-        let p_cal_conf = calibration.calibrate(p_raw_conf);
-
-        let subj_features = with_pron_feature(&features, &pron);
-        let (subj, s_conf) = subject_model.predict_raw(&subj_features);
-
-        // Actuals
-        let af = toa.frame.as_deref().unwrap_or("?");
-        let ad = toa.distribution.as_deref().unwrap_or("?");
-        let ap = toa.pronoun.as_deref().unwrap_or("?");
-        let as_ = toa.subject.as_deref().unwrap_or("?");
-
-        let fm = frame == af;
-        let dm = dist == ad;
-        let pm = pron == ap;
-        let sm = subj == as_;
-
-        if fm {
-            ok_frame += 1;
-        }
-        n_frame += 1;
-        if dm {
-            ok_dist += 1;
-        }
-        n_dist += 1;
-
-        if !fm || !dm || !pm || !sm {
-            let mut tags = Vec::new();
-            if !fm {
-                tags.push("FRAME");
-            }
-            if !dm {
-                tags.push("DIST");
-            }
-            if !pm {
-                tags.push("PRON");
-            }
-            if !sm {
-                tags.push("SUBJ");
-            }
-
-            let tag_str = tags.join("/");
-            let line = format!(
-                "✗ [{tag_str}] {} #{}\n  actual:  [({af}) ({ad}) {ap} {as_}]\n  guessed: \
-                 [({frame}) ({dist}) {pron} {subj}] (conf: p={:.0}%, s={:.0}%)",
-                toa.head,
-                toa.id,
-                p_cal_conf * 100.,
-                s_conf * 100.
-            );
-
-            let max_ml_conf = if !pm {
-                1. + p_cal_conf
-            } else if !sm {
-                s_conf
-            } else {
-                0.
-            };
-
-            mismatches.push(Mismatch { line, max_ml_conf });
-        }
-    }
-
-    // Sort: High confidence errors first (likely annotation typos)
-    mismatches.sort_by(|a, b| b.max_ml_conf.partial_cmp(&a.max_ml_conf).unwrap());
-
-    let pct = |ok: usize, n: usize| {
-        if n == 0 { 0. } else { 100. * ok as f64 / n as f64 }
-    };
-
-    // ── write summary + discriminative tokens ─────────────────────────────
-    pronoun_model.print_top_tokens("pronoun", 10, &mut out)?;
-    writeln!(out)?;
-    subject_model.print_top_tokens("subject", 10, &mut out)?;
-    writeln!(out)?;
-
-    writeln!(out, "=== ACCURACY (n={}) ===", cv_examples.len())?;
-    writeln!(out, "  frame:           {:.1}% (heuristic, training data)", pct(ok_frame, n_frame))?;
-    writeln!(out, "  distribution:    {:.1}% (heuristic, training data)", pct(ok_dist, n_dist))?;
-    writeln!(out, "  pronoun:         {:4.1}% (10-fold CV)", cv.pron_acc * 100.)?;
-    let mut pron_classes: Vec<_> = cv.pron_per_class.iter().collect();
-    pron_classes.sort_by_key(|(k, _)| k.as_str());
-    for &(class, &(correct, total)) in &pron_classes {
-        writeln!(
-            out,
-            "    {class:4} {:4.1}%  ({correct}/{total})",
-            100. * correct as f64 / total as f64
-        )?;
-    }
-    writeln!(out, "  subject:         {:4.1}% (10-fold CV, chained)", cv.subj_acc * 100.)?;
-    let mut subj_classes: Vec<_> = cv.subj_per_class.iter().collect();
-    subj_classes.sort_by_key(|(k, _)| k.as_str());
-    for &(class, &(correct, total)) in &subj_classes {
-        writeln!(
-            out,
-            "    {class:4} {:4.1}%  ({correct}/{total})",
-            100. * correct as f64 / total as f64
-        )?;
-    }
-    writeln!(out)?;
-
-    writeln!(out, "=== PRONOUN CONFIDENCE CALIBRATION ===")?;
-    writeln!(out, "  (raw softmax → estimated actual accuracy)")?;
-    for &(raw, cal) in &calibration.breakpoints {
-        writeln!(out, "  raw {:.0}% → {:.0}%", raw * 100., cal * 100.)?;
-    }
-    writeln!(out)?;
-
-    // ── annotation QC: mismatches ─────────────────────────────────────────
-    writeln!(out, "=== MISMATCHES ON ANNOTATED ENTRIES ({}; annotation QC) ===", mismatches.len())?;
-    writeln!(out, "  Sorted by confidence: high % likely indicates a typo in the training data.")?;
-    writeln!(out)?;
-
-    for m in &mismatches {
-        writeln!(out, "{}", m.line)?;
-    }
-    writeln!(out)?;
-
-    // ── guess pass ────────────────────────────────────────────────────────
-    writeln!(out, "=== GUESSES FOR UNANNOTATED ENTRIES ===")?;
-    writeln!(out, "  conf = calibrated pronoun accuracy estimate")?;
-    writeln!(out, "  oov = fraction of tokens unseen in training")?;
-    writeln!(out)?;
-
-    let mut guesses = vec![];
-    let mut n_guessed = 0;
-    let mut confidence_sum = 0.;
-    let mut oov_sum = 0.;
-    let mut high_conf_count = 0;
-
-    for toa in dict.iter().filter(|t| {
-        (t.frame.is_none()
-            || t.distribution.is_none()
-            || t.pronoun.is_none()
-            || t.subject.is_none())
-            && !t.warn
-            && t.scope == "en"
-            && !t.head.ends_with('-')
-    }) {
-        let n = primary_arity(&toa.body);
-        if n.0 == 0 {
-            continue;
-        }
-        let frame = guess_frame(n.1, n.0);
-        let dist = guess_distribution(toa, n.0);
-        let features = extract_features(toa);
-        let (pron, raw_conf) = pronoun_model.predict_raw(&features);
-        let cal_conf = calibration.calibrate(raw_conf);
-        let subj_features = with_pron_feature(&features, &pron);
-        let subj = subject_model.predict(&subj_features);
-        let oov = oov_rate(&features, &pronoun_model);
-
-        n_guessed += 1;
-        confidence_sum += cal_conf;
-        oov_sum += oov;
-        if cal_conf >= 0.8 {
-            high_conf_count += 1;
-        }
-
-        let conf_str = format!("{:.0}%", cal_conf * 100.);
-        let oov_str = if oov > 0. { format!(" oov={:.0}%", oov * 100.) } else { String::new() };
-
-        guesses.push((toa, frame, dist, pron, subj, conf_str, oov_str));
-    }
-    guesses.sort_by(|a, b| b.5.partial_cmp(&a.5).unwrap_or(std::cmp::Ordering::Equal));
-    for (toa, frame, dist, pron, subj, conf_str, oov_str) in guesses {
-        let mut parts = Vec::new();
-        if toa.frame.is_none() {
-            parts.push(format!("({frame})"));
-        }
-        if toa.distribution.is_none() {
-            parts.push(format!("({dist})"));
-        }
-        if toa.pronoun.is_none() {
-            parts.push(pron.clone());
-        }
-        if toa.subject.is_none() {
-            parts.push(subj.clone());
-        }
-        let bracket_content = if parts.is_empty() { continue } else { parts.join(" ") };
-        writeln!(
-            out,
-            "{} #{} → [{}] conf={}{}\n  {}",
-            toa.head, toa.id, bracket_content, conf_str, oov_str, toa.body
-        )?;
-    }
-
-    writeln!(out)?;
-    writeln!(out, "=== SUMMARY ===")?;
-    writeln!(out, "  unannotated entries guessed: {n_guessed}")?;
+    writeln!(out, "=== PRODUCTION-SHAPED 10-FOLD CV ===")?;
     writeln!(
         out,
-        "  mean calibrated pronoun conf: {:.1}%",
-        100. * confidence_sum / f64::from(n_guessed)
+        "Each fold groups identical heads together; the target field is hidden, while other \
+         metadata remains available as features."
     )?;
-    writeln!(out, "  mean oov rate:                {:.1}%", 100. * oov_sum / f64::from(n_guessed))?;
-    writeln!(out, "  high-confidence (cal≥80%):    {high_conf_count}")?;
+    writeln!(out, "complete examples (all four fields present): {}", complete_annotated.len())?;
+    writeln!(out)?;
 
-    println!("data/guesses.txt: {total} annotated checked, {n_guessed} unannotated guessed");
-    println!(
-        "10-fold CV accuracy: pronoun {}{:.1}%{RESET}, subject {}{:.1}%{RESET} (chained)",
-        color(cv.pron_acc),
-        cv.pron_acc * 100.,
-        color(cv.subj_acc),
-        cv.subj_acc * 100.
-    );
+    println!("- 10fold cv for everything");
+    let mut reports = HashMap::new();
+    for field in Field::ALL {
+        let examples = field_examples(dict, field);
+        let report = per_field_cv(&examples, field, 10);
+        let pct =
+            if report.total == 0 { 0. } else { 100. * report.correct as f64 / report.total as f64 };
+
+        if matches!(field, Field::Distribution) {
+            writeln!(
+                out,
+                "{}: exact {:5.1}% ({}/{}) [training examples: {}]",
+                field.name(),
+                pct,
+                report.correct,
+                report.total,
+                examples.len()
+            )?;
+
+            let slot_pct = if report.slot_total == 0 {
+                0.
+            } else {
+                100. * report.slot_correct as f64 / report.slot_total as f64
+            };
+
+            writeln!(
+                out,
+                "  per-slot: {:5.1}% ({}/{})",
+                slot_pct, report.slot_correct, report.slot_total
+            )?;
+
+            let mut slots = report.per_slot.iter().collect::<Vec<_>>();
+            slots.sort_by_key(|&(slot, _)| *slot);
+
+            for (slot, (correct, total)) in slots {
+                writeln!(
+                    out,
+                    "  slot {:<2}  {:5.1}% ({correct}/{total})",
+                    slot + 1,
+                    100. * *correct as f64 / *total as f64
+                )?;
+            }
+        } else {
+            writeln!(
+                out,
+                "{}: {:5.1}% ({}/{}) [training examples: {}]",
+                field.name(),
+                pct,
+                report.correct,
+                report.total,
+                examples.len()
+            )?;
+            if matches!(field, Field::Frame) {
+                let mut arities = report.per_arity.iter().collect::<Vec<_>>();
+                arities.sort_by_key(|&(arity, _)| *arity);
+
+                for (arity, (correct, total)) in arities {
+                    writeln!(
+                        out,
+                        "  arity {arity:<2} {:5.1}% ({correct}/{total})",
+                        100. * *correct as f64 / *total as f64
+                    )?;
+                }
+            }
+        }
+
+        let mut classes = report.per_class.iter().collect::<Vec<_>>();
+        classes.sort_by_key(|&(class, _)| class.clone());
+
+        for (class, (correct, total)) in classes {
+            writeln!(
+                out,
+                "  {class:12} {:5.1}% ({correct}/{total})",
+                100. * *correct as f64 / *total as f64
+            )?;
+        }
+
+        writeln!(out)?;
+
+        reports.insert(field, report);
+    }
+
+    let heuristic_frame = complete_annotated
+        .iter()
+        .filter(|t| {
+            let guessed = guess_frame_heuristic(&t.body, primary_arity(&t.body).0);
+            t.frame.as_deref() == Some(guessed.as_str())
+        })
+        .count();
+    let heuristic_dist = complete_annotated
+        .iter()
+        .filter(|t| {
+            let guessed = guess_distribution_heuristic(t, primary_arity(&t.body).0);
+            t.distribution.as_deref() == Some(guessed.as_str())
+        })
+        .count();
+    println!("- heuristic frames/distributions");
+    writeln!(out, "=== RULE-BASED BASELINES ===")?;
+    writeln!(
+        out,
+        "frame heuristic: {:5.1}% ({}/{})",
+        100. * heuristic_frame as f64 / complete_annotated.len() as f64,
+        heuristic_frame,
+        complete_annotated.len()
+    )?;
+    writeln!(
+        out,
+        "distribution heuristic: {:5.1}% ({}/{})",
+        100. * heuristic_dist as f64 / complete_annotated.len() as f64,
+        heuristic_dist,
+        complete_annotated.len()
+    )?;
+    writeln!(out)?;
+
+    let (models, subject_model, calibrations) = fit_final_models(dict, &reports);
+
+    writeln!(out, "=== CALIBRATION ===")?;
+    for field in Field::ALL {
+        let key = FieldKey { field, arity: None };
+        let calibration = &calibrations[&key];
+
+        if matches!(field, Field::Frame) {
+            writeln!(out, "frame (pooled across arities):")?;
+        } else {
+            writeln!(out, "{}:", field.name())?;
+        }
+
+        for &(raw, cal) in &calibration.breakpoints {
+            writeln!(out, "  raw {:.0}% -> {:.0}%", 100. * raw, 100. * cal)?;
+        }
+    }
+    writeln!(out)?;
+
+    println!("- training data sanity check");
+    writeln!(out, "=== TRAINING-DATA SANITY CHECK ===")?;
+    for field in Field::ALL {
+        let examples = field_examples(dict, field);
+
+        let (correct, total) = examples
+            .par_iter()
+            .map(|toa| {
+                let actual = field.get(toa).unwrap();
+                let model = model_for_toa(&models, toa, field);
+                let prediction = predict_field(
+                    toa,
+                    field,
+                    model,
+                    matches!(field, Field::Subject).then_some(&subject_model),
+                );
+
+                let is_correct = match field {
+                    Field::Distribution => {
+                        prediction.label.split_whitespace().eq(actual.split_whitespace())
+                    }
+                    _ => prediction.label == actual,
+                };
+
+                (usize::from(is_correct), 1)
+            })
+            .reduce(|| (0, 0), |a, b| (a.0 + b.0, a.1 + b.1));
+
+        writeln!(
+            out,
+            "{}: {:5.1}% ({}/{})",
+            field.name(),
+            100. * correct as f64 / f64::from(total),
+            correct,
+            total
+        )?;
+    }
+    writeln!(out)?;
+
+    println!("- writing guesses");
+    writeln!(out, "=== GUESSES FOR ENTRIES NEEDING METADATA ===")?;
+
+    let mut guesses_to_write: Vec<_> = dict
+        .par_iter()
+        .filter(|t| {
+            !t.warn
+                && t.scope == "en"
+                && !t.head.ends_with('-')
+                && (1 ..= 3).contains(&primary_arity(&t.body).0)
+                && arity_metadata_consistent(t)
+                && Field::ALL.iter().any(|field| field.get(t).is_none())
+        })
+        .filter_map(|toa| {
+            let mut fields_str = Vec::new();
+            let mut missing_fields = Vec::new();
+
+            for field in Field::ALL {
+                if field.get(toa).is_some() {
+                    continue;
+                }
+                let model = model_for_toa(&models, toa, field);
+                let feature_tokens = field_feature_tokens(toa, field);
+                let prediction = predict_field_from_features(
+                    toa,
+                    field,
+                    &feature_tokens,
+                    model,
+                    matches!(field, Field::Subject).then_some(&subject_model),
+                );
+                let oov = field_oov_rate(&feature_tokens, model);
+                let confidence = calibration_for_toa(&calibrations, toa, field)
+                    .map_or(prediction.raw_conf, |c| c.calibrate(prediction.raw_conf));
+
+                fields_str.push(format!(
+                    "  {} = {} ({:.0}%, margin {:.0}%{}{}, oov {:.0}%)",
+                    field.name(),
+                    prediction.label,
+                    confidence * 100.,
+                    prediction.margin * 100.,
+                    if prediction.margin_label.is_empty() { "" } else { " " },
+                    prediction.margin_label,
+                    oov * 100.
+                ));
+                missing_fields.push(field);
+            }
+            if fields_str.is_empty() {
+                None
+            } else {
+                let priority = al_item_priority(
+                    toa,
+                    &models,
+                    &subject_model,
+                    &calibrations,
+                    &HashSet::from_iter(complete_annotated.iter().map(|t| t.head.as_str())),
+                );
+                Some((priority, toa, fields_str, missing_fields))
+            }
+        })
+        .collect();
+
+    // Sort descending by priority score (highest priority / most uncertain
+    // first)
+    guesses_to_write.sort_by(|a, b| b.0.partial_cmp(&a.0).unwrap_or(std::cmp::Ordering::Equal));
+
+    let mut guessed = 0;
+    let mut per_field_count = HashMap::<Field, usize>::new();
+
+    for (priority, toa, fields_str, missing_fields) in guesses_to_write {
+        guessed += 1;
+        for field in missing_fields {
+            *per_field_count.entry(field).or_insert(0) += 1;
+        }
+        writeln!(
+            out,
+            "{} #{} priority={:.2} ->\n{}\n  {}",
+            toa.head,
+            toa.id,
+            priority,
+            fields_str.join("\n"),
+            toa.body
+        )?;
+    }
+
+    writeln!(out)?;
+    writeln!(out, "entries needing metadata: {guessed}")?;
+    for field in Field::ALL {
+        writeln!(
+            out,
+            "  {} missing: {}",
+            field.name(),
+            per_field_count.get(&field).copied().unwrap_or(0)
+        )?;
+    }
+
+    eprintln!("- done with {} in {:?}", complete_annotated.len(), start.elapsed());
     Ok(())
-}
-
-const RED: &str = "\x1b[91m";
-const YELLOW: &str = "\x1b[93m";
-const GREEN: &str = "\x1b[92m";
-const CYAN: &str = "\x1b[96m";
-const BLUE: &str = "\x1b[94m";
-const PURPLE: &str = "\x1b[95m";
-const RESET: &str = "\x1b[m";
-fn color(p: f64) -> String {
-    assert!((0. ..= 1.).contains(&p), "uh oh how is p not between 0 and 1");
-    let k = 12_f64;
-    let i = (6. / (k - 1.) * (k.powf(p) - 1.)).floor() as usize;
-    let c = match i {
-        0 => RED,
-        1 => YELLOW,
-        2 => GREEN,
-        3 => CYAN,
-        4 => BLUE,
-        _ => PURPLE,
-    };
-    c.to_string()
 }
