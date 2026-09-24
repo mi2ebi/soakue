@@ -5,24 +5,24 @@ a- @Ilmen 2025-04-25 #_TlMNAEw- $en ±
 a- @uakci 2022-12-31 #Qn06JTEEu $en -1
 [t]prefix: interjectionalizer
 
-a [] @official 2026-09-16 #kM7F75BJ- $en ±
+a @official 2026-09-16 #kM7F75BJ- $en ±
 [t]interjection: [g]‘ah’; discovery; ah
 
 a @el 2022-10-26 #Uex9vi9jd $tok ±
 [t]nimi mu: "a!"
 
-a [] @eednb 2023-12-03 #_IsCKLhQh $lou ±
+a @eednb 2023-12-03 #_IsCKLhQh $lou ±
 [t]intèjèksyon: [g]‘a’; dékouvær; a
 
 á @mimiaoganhaqpy 2023-02-27 #vYA5HzAqJ $en ±
 [t]interjection: ‘huh?’
 
-ä [] @Laqme 2023-09-02 #85gonBvR8 $en +2
+ä @Laqme 2023-09-02 #85gonBvR8 $en +2
 [t]interjection: [g]‘nuh-uh’; dismissal ("naww / psh! / nuh-uh")
   Laqme (2023-09-02): "oh it'll be fine" in response to a worry, "don't get your hopes up" in response to a wish, "oh, stop~" in response to a compliment
   Laqme (2023-09-02): very general!! probably overlaps with **zı** but more dismissing the speech act than denying the stmt
 
-â [] @Laqme 2019-04-21 #rV-Gbi0su $en +4
+â @Laqme 2019-04-21 #rV-Gbi0su $en +4
 [t]interjection: [g]‘aha’; realization
 
 a'ala @Laqme 2024-08-06 #VrsW70rCc $en +1
@@ -164,7 +164,7 @@ achuhuche @seaqtaq 2025-02-02 #eT_I-OPZp $en ±
 achuo @uakci 2023-02-14 #FAkbYZBEA $en ±
 [t]predicate: ▯ is a resource depleted/consumed/used up as part of satisfying property ▯.
 
-ada [] @Laqme 2024-04-24 #ssbO4Ot1X $en +2
+ada @Laqme 2024-04-24 #ssbO4Ot1X $en +2
 [t]interjection: [g]‘nooo!!’; "nooo!!", despair
 
 adamoe @Laqme 2025-01-01 #V9N0BfkiP $en +1
@@ -245,10 +245,10 @@ ahaqdulılahı @eednb 2022-10-16 #pZcJQZyfV $en ±
 [t]predicate: ▯ thanks God/Zeus/Allah/some other higher deity for ▯
   eednb (2022-10-16): etymology: Arabic اَلْحَمْدُ لِلّٰهِ‎ (praise be to God)
 
-ahı [] @official 2026-09-16 #wna_Ser5gI $en ±
+ahı @official 2026-09-16 #wna_Ser5gI $en ±
 [t]interjection: [g]‘ouch’; pain; ouch
 
-ahı [] @eednb 2023-12-03 #EwIZnlx1T $lou ±
+ahı @eednb 2023-12-03 #EwIZnlx1T $lou ±
 [t]intèjèksyon: [g]‘ayeyay’; doulœr; ayeyay
 
 ahı @Laqme 2025-04-03 #O-0SGX6vV $jbo ±
@@ -278,7 +278,7 @@ ahokıaq @jiqci 2023-07-31 #eK5nMezmu $en ±
 [t]pronoun: 'y'all'; vulgar/insulting plural 2nd person pronoun
   lassc (2025-03-28): cf. **áhoq**
 
-áhoq [] @Laqme 2022-11-29 #pFgPk-44Z $en +4
+áhoq @Laqme 2022-11-29 #pFgPk-44Z $en +4
 [t]pronoun: [g]‘you’; vulgar/insulting 2nd person pronoun
   Laqme (2023-11-17): "you asshole/idiot/jerk!"
 
@@ -306,7 +306,7 @@ aı'aı @uakci 2020-04-05 #-A9n8F6W0 $en ±
 aı'aıpu @robintown 2022-08-01 #TZ_UY2QV4 $en ±
 [t]predicate: ▯ is the letter Aı.
 
-aıba [] @official 2026-09-16 #QAKScovPEa $en ±
+aıba @official 2026-09-16 #QAKScovPEa $en ±
 [t]interjection: [g]‘c'mon’; encouraging/hurrying
 
 aıbı @kazoo 2025-05-03 #rmGNgnKgg $en +1
@@ -389,7 +389,7 @@ aıjı @fagri 2023-01-24 #U-8d16OZD $en ±
 aıjuı @uakci 2022-07-29 #IazIOKv6T $en ±
 [t]predicate: ▯ feels similar to ▯ subjectively.
 
-aıka [] @Laqme 2022-05-24 #0M_k8mlsG $en +3
+aıka @Laqme 2022-05-24 #0M_k8mlsG $en +3
 [t]interjection: [g]‘well.then’; ‘well then, / alright, / moving on… / here we go…’
   Laqme (2022-05-24): Like **aıba** minus **ba** plus **ka**. and also sounds great **ĩmo** :)
 
@@ -428,7 +428,7 @@ aımu @Hoemai 2022-08-06 #zJJysQXen $en +2 %basic
   robintown (2022-10-25): See also **jeha**
   Ilmen (2025-10-31): officialized: yes
 
-aımu [] @official 2026-09-16 #SlPLcYWI3J $en ± %basic
+aımu @official 2026-09-16 #SlPLcYWI3J $en ± %basic
 [t]polarity: [g]‘NEG.CONTR’; contrastive negation: not in fact (contradicting a salient positive claim)
 
 aımujeha @seaqtaq 2024-07-24 #Ne1NC3v2w $en ±
@@ -548,13 +548,13 @@ aızıa @TheAndSys 2025-01-29 #LnyMp1gSe $en ±
 aızoq @TheAndSys 2023-05-18 #1wsB5vaw8 $en +1
 [t]predicate: ▯ is the letter y
 
-aja [] @official 2026-09-16 #V-SIm2Cn7s $en ± %emotion
+aja @official 2026-09-16 #V-SIm2Cn7s $en ± %emotion
 [t]interjection: [g]‘yay’; happiness; yay
 
 aja @el 2022-07-10 #OZu6k0rtI $tok ± %emotion
 [t]nimi mu: "pona!"
 
-aja [] @eednb 2023-12-03 #PqF4eV634 $lou ± %emotion
+aja @eednb 2023-12-03 #PqF4eV634 $lou ± %emotion
 [t]intèjèksyon: [g]‘houra’; bonnèr; houra
 
 aja @kazoo 2024-11-24 #EcwfBPHft $tr ± %emotion
@@ -775,10 +775,10 @@ am @uakci 2023-01-01 #bvXLeO4p7 $en +5
 äm @evie 2025-08-17 #-r4qMEgOr $en ±
 [t]interjection: go away
 
-áma [] @official 2026-09-16 #KC9itBRFUs $en ± %deixis,discourse_participants
+áma @official 2026-09-16 #KC9itBRFUs $en ± %deixis,discourse_participants
 [t]pronoun: [g]‘1+2+3’; 1st + 2nd + 3rd person personal pronoun; we/us (me + you + them)
 
-áma [] @eednb 2023-12-04 #p3yCT3lyn $lou ± %deixis,discourse_participants
+áma @eednb 2023-12-04 #p3yCT3lyn $lou ± %deixis,discourse_participants
 [t]prònom: [g]‘1+2+3’; prònom pèsònèl de 1ær + 2inm + 3inm pærsòn; nouzòt (mò + twa + li)
 
 amabo [(c) (d) tá sF] @official 2026-09-16 #fPwAXp2OXB $en ±
@@ -1063,7 +1063,7 @@ anhotı @lassc 2022-11-30 #KcMryLUAT $en ±
 ao- @seaqtaq 2025-07-22 #NF3N6QME5 $en ±
 [t]prefix: turns a verb X into a verb meaning "▯ X-s because some salient hypothetical event would have happened had they not"
 
-ao [] @official 2026-09-16 #NRKE6TIvao $en ±
+ao @official 2026-09-16 #NRKE6TIvao $en ±
 [t]modality: [g]‘NEC.SUBJ’; subjunctive, necessary; X would happen if ...
 
 ao @el 2022-07-10 #_OHArofRc $tok ±
@@ -1379,7 +1379,7 @@ aq @el 2022-07-10 #1Ztmamyvu $tok ±
 [t]predicate: ▯ li ona sama
   el (2022-07-10): = ▯ li ijo pi nanpa wan pi toki ni
 
-áq [] @official 2026-09-16 #zn2hDHhGRN $en ±
+áq @official 2026-09-16 #zn2hDHhGRN $en ±
 [t]pronoun: [g]‘REFL’; reflexive pronoun
 
 aq'anı [(c) (d) hóq sI] @official 2026-09-16 #HfdDBY7O7Ft $en ±
@@ -1520,7 +1520,7 @@ aqmırao @evie 2024-06-29 #IDtMCKnds $en ±
 aqmoı @lassc 2026-03-22 #RHoh5ns3E $en ±
 [t]predicate: ▯ introspects/ruminates/self-reflects/soul-searches/navel-gazes.
 
-áqna [] @robintown 2025-08-21 #cY-zD26_p $en +2
+áqna @robintown 2025-08-21 #cY-zD26_p $en +2
 [t]pronoun: [g]‘REFL.ND’; non-distributive reflexive pronoun
   robintown (2025-08-21): Subtly different in meaning to **áq**: "He kıaı hú poq áq" means "Those people (each) care for their own self (singular)", while "He kıaı hú poq áqna" means "Those people (taken as a group) care for themselves (the whole group)".
   robintown (2025-08-21): This word exists to fill out Kuna's theory of reflexives and subject-sharing, mostly. I don't quite know if this is aligned with how Hoemai imagines **áq** to work.
@@ -1935,7 +1935,7 @@ ba- @fagri 2023-01-06 #d7CKAbw2C $en +1
   fagri (2023-01-22): Can also be used for multi-part names
   uakci (2023-05-22): also see my redefinition #IHbG6HTs_
 
-ba [] @official 2026-09-16 #NM9z5AOXwtP $en ±
+ba @official 2026-09-16 #NM9z5AOXwtP $en ±
 [t]illocution: [g]‘OPT’; optative
 
 ba @el 2021-10-03 #jDadOexql $ja ±
@@ -1959,7 +1959,7 @@ bá @Laqme 2023-12-19 #w7LYmHGrf $en +1
 bä @seaqtaq 2024-10-22 #-pzYxLJo9 $en +2
 hortative/counterfactual optative illocution: "If only..."/"Were that..."
 
-bâ [] @Laqme 2021-10-11 #09NgrvVd3 $en +4
+bâ @Laqme 2021-10-11 #09NgrvVd3 $en +4
 [t]illocution: [g]‘[imperative]’; imperative illocution
 
 ⚠ baaaadı @evie 2024-10-11 #LwTY_2_Wq $en ±
@@ -2089,7 +2089,7 @@ baı @Laqme 2025-04-03 #ZURGWPCRH $jbo ±
 baı @uakci 2019-01-26 #mYVnHp3t1 $toa -1
 choq dóshı sa múoq tûa dóshı jîq dógu da
 
-baıbaı [] @Laqme 2022-03-05 #-GGQxMM5m $en +2
+baıbaı @Laqme 2022-03-05 #-GGQxMM5m $en +2
 [t]interjection: [g]‘bye-bye’; ‘bye-bye!’
 
 baıche @jiqci 2024-07-06 #Uahe_rJSV $en ±
@@ -2294,7 +2294,7 @@ banhakoq @seaqtaq 2024-11-22 #GqQLlv3tL $en ±
 [t]predicate: ▯ is an axe
   seaqtaq (2024-11-22): From vietnamese bớt nhân công
 
-bao- [] @nano 2024-08-06 #UBo-jSROl $en ±
+bao- @nano 2024-08-06 #UBo-jSROl $en ±
 [t]prefix: [g]‘X-bears’; makes a word endearingly cute
   nano (2024-08-06): etymology: bao from OswjqKSY8
 "esagi náni da!" = "that's awesome!"
@@ -2451,7 +2451,7 @@ baozu @uakci 2021-09-12 #t9LlxSTwE $en ±
 [t]predicate: ▯ is Cantonese/Yue Chinese.
   uakci (2021-09-12): from Cantonese 白話 (Baahkwá), meaning ‘plain tongue’
 
-baq- [] @official 2026-09-16 #8PdFm-lDWOa $en ±
+baq- @official 2026-09-16 #8PdFm-lDWOa $en ±
 [t]determiner prefix form: [g]‘of:GEN’; fills object of verb with báq (generic; X-kind)
 
 baq @uakci 2019-01-26 #26JJNLZgB $toa -1
@@ -2460,10 +2460,10 @@ dóshı pa, tuq lî duafuı ra raqmoıfuı jeo ja dó dógu da
 baq @Laqme 2021-10-18 #4jk0AtQvV $ja -1
 限定詞：「…全般」（個物を参照せずに「種類」を示す）
 
-báq [] @official 2026-09-16 #rgjI2eK4NU9 $en ±
+báq @official 2026-09-16 #rgjI2eK4NU9 $en ±
 [t]determiner: [g]‘GEN’; generic; X-kind
 
-báq [] @robintown 2024-07-09 #F-7uwwkD5 $en ±
+báq @robintown 2024-07-09 #F-7uwwkD5 $en ±
 [t]determiner: [g]‘GEN’; generic; an X / Xs / “the X”
   robintown (2024-07-09): The sense of "the X" shown here is that of sentences like "The tiger is a fierce predator".
   robintown (2025-03-01): This determiner is also appropriate for referring to mass nouns that would be used as bare singulars in English: "Gold is a metal" → "He loha báq eloa"
@@ -2707,7 +2707,7 @@ bdj @Laqme 2023-10-27 #1W8EgBcNt $en +1
 ⚠ bdj @el 2022-07-10 #M4tXjbWDT $tok ±
 = msa
 
-be- [] @official 2026-09-16 #7atxr07KaOQ $en ±
+be- @official 2026-09-16 #7atxr07KaOQ $en ±
 [t]prefix: [g]‘GA’; generic adjectival
 
 be- @Isi 2024-09-22 #FpHVSFO1K $toa ±
@@ -2957,7 +2957,7 @@ befese @Laqme 2024-10-06 #CTWGZxpyP $en ±
 [t]predicate: ▯ is a solution.
   Laqme (2024-10-19): as in, a mixture formed by something dissolving in something
 
-bege [] @official 2026-09-16 #DvQi1ql6WPT $en ±
+bege @official 2026-09-16 #DvQi1ql6WPT $en ±
 [t]interjection: [g]‘meh’; indifference; meh
 
 bege @uakci 2022-07-30 #h1ad__eLH $en ±
@@ -2976,10 +2976,10 @@ begonueqlıao @Snow 2024-10-06 #HuCAuarwb $en ±
 beheq @Ilmen 2018-10-29 #nW0qb0kZz $en ± %biology
 [t]predicate: ▯ is pregnant.
 
-beı- [] @official 2026-09-16 #_I7Jx2HSUR7 $en ±
+beı- @official 2026-09-16 #_I7Jx2HSUR7 $en ±
 [t]focus particle prefix form: [g]‘FOC.CONTR’; contrastive focus
 
-béı [] @official 2026-09-16 #ltx5QqjozMp $en ±
+béı @official 2026-09-16 #ltx5QqjozMp $en ±
 [t]focus particle: [g]‘FOC.CONTR’; contrastive focus
 
 beı'ıq @Ilmen 2025-03-23 #CV1nOr_JH $en ±
@@ -3577,7 +3577,7 @@ bí @uakci 2023-10-30 #C4zsuG6WT $en +1
   uakci (2023-10-30): this is under the proposal that lets you put :d3: on KÚ to get a cleft particle. mind though that **bí** is restricted to definite references
   Dembim (2025-11-26): link to proposal: https://toaq.me/Focus%E2%80%93cleft_merger
 
-bï [] @official 2026-09-16 #Y9ELLjRmJeQ $en ±
+bï @official 2026-09-16 #Y9ELLjRmJeQ $en ±
 [t]topic marker: [g]‘TOP’; marks topic
 
 bï @Ilmen 2026-01-28 #Q-Juk1kOc $ja ±
@@ -4494,7 +4494,7 @@ bıuzeum @Laqme 2023-11-15 #Zq6wN4obx $en ±
 bmj @evie 2025-02-16 #k_PtmIIHm $en ±
 [t]phrase: textspeak for **bu moaq jí** (i don't remember)
 
-bo- [] @official 2026-09-16 #rJbU3ODw8u8 $en ±
+bo- @official 2026-09-16 #rJbU3ODw8u8 $en ±
 [t]prefix: [g]‘PASS’; be X'd by …; passive
 
 bo- @kazoo 2024-11-24 #vwp6_Xpcg $tr ±
@@ -4894,7 +4894,7 @@ bojeo @uakci 2019-04-15 #Vq8n6sqeG $en ±
 Bojıpuzu @eednb 2023-12-31 #8PN_TjkkT $en ±
 [t]predicate: ▯ is the Bhojpuri language.
 
-boju [] @official 2026-09-16 #9oftYnGIjBo $en ±
+boju @official 2026-09-16 #9oftYnGIjBo $en ±
 [t]interjection: [g]‘if.I.may’; requesting to take the floor; may I speak?
 
 boju @uakci 2022-07-31 #5ppJl-TFj $en ±
@@ -5407,7 +5407,7 @@ botuq @seaqtaq 2024-07-17 #JB32yV3DM $en ±
 ⚠ bousa @Ilmen 2020-04-15 #dKLVXE-F2 $en -1
 [t]predicate: ▯ is a wasp.
 
-bu- [] @official 2026-09-16 #250WnIeSyMc $en ±
+bu- @official 2026-09-16 #250WnIeSyMc $en ±
 [t]prefix: [g]‘NEG’; non-X
 
 bu- @kazoo 2024-11-24 #wdPPtHHRB $tr ±
@@ -5416,7 +5416,7 @@ bu- @kazoo 2024-11-24 #wdPPtHHRB $tr ±
   kazoo (2024-11-24): hoş ➤ nahoş
   kazoo (2024-11-24): menkul (taşınır) ➤ gayrimenkul (taşınmaz)
 
-bu [] @official 2026-09-16 #AlIz_NR-gKZ $en ±
+bu @official 2026-09-16 #AlIz_NR-gKZ $en ±
 [t]polarity: [g]‘NEG’; not
 
 bu @Laqme 2021-10-03 #2H-07Ovv6 $jbo ±
@@ -5434,7 +5434,7 @@ bo'a jitfa
 bu @kazoo 2024-11-24 #vv8d_apvA $tr ±
 değil
 
-bu [] @TheAndSys 2025-03-26 #fFSQ6d31O $es ±
+bu @TheAndSys 2025-03-26 #fFSQ6d31O $es ±
 [t]polaridad: [g]‘NEG’; no
 
 bu @uakci 2019-01-25 #dlW-g_kok $toa -1
@@ -5669,7 +5669,7 @@ buamıa @robintown 2023-08-23 #2rrqX8dS_ $en ±
 buamıa @robintown 2023-08-23 #6I4-PC21_ $toa ±
 [t]predicate: Mıa, lâ bua hí já, ▯.
 
-búao [] @uakci 2024-07-05 #nmbaJDc4_ $en ±
+búao @uakci 2024-07-05 #nmbaJDc4_ $en ±
 [t]conjunction: [g]‘nor’; not/neither X nor Y
 
 buaq- @kazoo 2024-12-05 #RpucHGHSU $en -1
@@ -6216,7 +6216,7 @@ bujıqjeosuq @salarua 2022-11-04 #FxqoHb0FL $en ±
 [t]predicate: ▯ gatekeeps ▯
   salarua (2022-11-04): "you're not *really* a ▯"
 
-bujuı [] @Laqme 2019-02-05 #LUDt3SNtW $en +3
+bujuı @Laqme 2019-02-05 #LUDt3SNtW $en +3
 [t]degree: [g]‘barely’; barely
   Ilmen (2019-02-05): +1
   fagri (2019-02-06): +1
@@ -6450,7 +6450,7 @@ buq- @el 2022-12-07 #vGhR1ZBL9 $en +1
   el (2022-12-07): official
   Ilmen (2025-10-31): officialized: yes
 
-buq- [] @official 2026-09-16 #hGr_BAlFzlI $en ±
+buq- @official 2026-09-16 #hGr_BAlFzlI $en ±
 [t]prefix: [g]‘AUG’; augmentative
 
 buq [(c) (d) máq sI] @official 2026-09-16 #jvtJhT4b_A7 $en ± %body_part
@@ -6602,7 +6602,7 @@ buqtıetı @seaqtaq 2020-06-28 #s_B9CKDlf $en ±
 buqtuaq @Ilmen 2019-12-19 #PCfxlBNZu $en ± %body_part
 [t]predicate: ▯ is a beak.
 
-búra [] @kazoo 2025-02-23 #QlV_c98jP $en ±
+búra @kazoo 2025-02-23 #QlV_c98jP $en ±
 [t]conjunction: [g]‘implies’; not or, material implication, P → Q
 
 buraq @Laqme 2025-03-13 #3yXS9bj3N $en ±
@@ -6788,13 +6788,13 @@ búto @Ilmen 2026-01-29 #iwkUsN3o7 $en -1
 buture @salarua 2023-02-02 #hZnJXg5ba $en ±
 [t]predicate: [g]‘vulture’; ▯ is a vulture
 
-buza [] @official 2026-09-16 #6K3xWcj9zo9 $en ±
+buza @official 2026-09-16 #6K3xWcj9zo9 $en ±
 [t]interjection: [g]‘dunno’; expressing a lack of knowledge
 
-buza [] @kazoo 2024-11-24 #R26-zKNwf $tr ±
+buza @kazoo 2024-11-24 #R26-zKNwf $tr ±
 [t]ünlem: [g]‘bilmem’; bilginin eksikliğini belirtir.
 
-buza [] @robintown 2023-06-06 #_xny5MNzY $en -1
+buza @robintown 2023-06-06 #_xny5MNzY $en -1
 [t]interjection: [g]‘dunno’; expressing a lack of knowledge
   Ilmen (2025-10-22): officialized: yes
 
@@ -7808,7 +7808,7 @@ cehukao @seaqtaq 2024-11-05 #uZvP75DDw $en ±
 cehuneaı @seaqtaq 2024-11-06 #Pb4s97mBp $en ±
 [t]predicate: ▯ proves ▯ to be innocent of satisfying property▯
 
-ceı- [] @seaqtaq 2024-11-21 #jDdGWP-B_ $en ±
+ceı- @seaqtaq 2024-11-21 #jDdGWP-B_ $en ±
 [t]prefix: [g]‘meta-’; turns a verb X into a verb meaning ▯ is an X-er which concerns or has control over other X-ers
   seaqtaq (2024-11-21): cẹıdoem = metasystem, cẹıruaıjoaq == queen of queens
 
@@ -7890,7 +7890,7 @@ cemzıamla @seaqtaq 2025-06-18 #awZqjXB8t $en ±
 [t]predicate: ▯ commits action ▯, which every or nearly every other case in which they have been in a similar context have not have done, and normally would not do
   seaqtaq (2025-06-18): kw: zakaı
 
-cenhe [] @Dembim 2026-01-30 #y5liL0pTg $en ±
+cenhe @Dembim 2026-01-30 #y5liL0pTg $en ±
 [t]pseudo unit: [g]‘portion’; portion; expected/appropriate amount
   Dembim (2026-01-30): In principle, <shí> <cenhe> <nao> just means <shí> <nao>, but places special emphasis on the fact that the unit is to be understood in the present context.
   Dembim (2026-01-30): "portion" is probably the best gloss
@@ -8224,7 +8224,7 @@ cı @Ilmen 2020-01-25 #ThqOnNNQB $toa -1 %cardinality
 cı @Ilmen 2020-01-25 #kmJisw6i5 $toa -1 %cardinality
 [t]predicate: = jeı ▯ sa fe roı sa shı bü mea hóa fé.
 
-cıa- [] @Laqme 2024-12-26 #XaOxTwOhH $en +3
+cıa- @Laqme 2024-12-26 #XaOxTwOhH $en +3
 [t]prefix: [g]‘-less’; X-less, without X
   Laqme (2024-12-26): Exactly equivalent to **kịcıa, lâ haola já báq X**
 
@@ -8268,7 +8268,7 @@ cıalaı @salarua 2022-12-30 #f6FlvJAon $en ±
 cıaluq @uakci 2022-05-11 #YC_n4Zadq $en ±
 [t]predicate: ▯ is at peace; ▯ is in safety; ▯ feels secure; ▯ feels nothing of danger coming at them.
 
-cîam [] @seaqtaq 2024-11-29 #O4RC_baT7 $en ±
+cîam @seaqtaq 2024-11-29 #O4RC_baT7 $en ±
 [t]adverbial head: [g]‘without’; subject sharing, "without (also doing/being)"
   seaqtaq (2024-11-29): As regular subject sharing AdjunctP semantics may be given via "...jôı, é [hao] súbject", this head's semantics may be given by "jôıcıa, é [hao] subject"
 
@@ -8359,7 +8359,7 @@ cıduao @jiqci 2023-11-26 #aCMzz3lyG $en ±
 [t]predicate: ▯ is a hexose (6-carbon saccharide).
   jiqci (2023-11-26): using **duao** instead of **tıuq** to differentiate between N-oses and N-saccharides
 
-cıe- [] @Laqme 2025-05-16 #TSba-qHzQ $en +3
+cıe- @Laqme 2025-05-16 #TSba-qHzQ $en +3
 [t]prefix: [g]‘carelessly’; "carelessly/sloppily/messily/clumsily" form of a verb
   Laqme (2025-05-16): **cịekoı** "trudge", **cịebaı** "cobble together", **cịekaı** "scribble", **cịeceao** "smear", **cịetoe** "hack", **cịetao** "half-ass", **cịechoa** "mumble"
   Laqme (2025-05-16): Synonym of the "TH" mouth morpheme in ASL.
@@ -8737,7 +8737,7 @@ có @uakci 2023-05-30 #Rs8NuzD9J $en +3
   uakci (2023-05-30): akin to **nä** (and as such termable as a cleft) except the extracted noun phrase appears after the clause, not before. we assume that this NP appears after all adverbials (i.e., a full clause, right below CP) and participates in a cleft structure that’s exactly like **nä** but not pronounced (we’re able to pull this off because we don’t need to disambiguate the end of a noun phrase from the start of a predicate)
   uakci (2023-05-30): in other words, if a **nä**-cleft looks like [vP (fronted subject) [v' [v nä] [CPrel with hóa]], then a **có**-cleft shall look like [vP [v' [CPrel with có] [v ∅]] (fronted subject)]
 
-có [] @robintown 2024-09-09 #sCGWzZtkJ $en ±
+có @robintown 2024-09-09 #sCGWzZtkJ $en ±
 [t]pronoun: [g]‘it.SUB’; correlative pronoun for subordinate clauses
   robintown (2024-09-09): https://toaq.me/Clause_Reform
 
@@ -9342,7 +9342,7 @@ cuaq @Machy 2021-09-29 #_cLn1bxnS $en -1 %logic
   Machy (2022-02-15): See also: **sıaja**
   Ilmen (2025-10-30): Good idea, but I think the word already means that. I've clarified the official definition accordingly.
 
-cúaq [] @Laqme 2023-10-15 #9NfM8JXeD $en +3
+cúaq @Laqme 2023-10-15 #9NfM8JXeD $en +3
 [t]determiner: [g]‘concept.of’; “the concept/idea of satisfying X”
 
 cuaqbaq @Ilmen 2021-11-03 #42bsnK6Pt $en ±
@@ -9947,7 +9947,7 @@ cha @jiqci 2023-07-31 #hbMTDdwRp $pl ± %⚠⚠
 chabaq @uakci 2022-12-02 #8qjXKG07D $en ±
 [t]predicate: ▯ is a force causing ▯ to be the case.
 
-chábu [] @Laqme 2023-11-08 #Wo_9qyDjD $en +2
+chábu @Laqme 2023-11-08 #Wo_9qyDjD $en +2
 [t]conjunction: [g]‘instead.of’; 'X instead of Y'
   Laqme (2023-11-08): in lieu of, in the place of, replacing, substituting for
   Laqme (2023-11-08): I guess this is like saying **ıu hao X rú ao hao Y**.
@@ -9959,7 +9959,7 @@ chacha @Machy 2022-02-07 #tLdB3iFwB $en +1
   Machy (2022-02-07): *its
   Ilmen (2025-10-31): officialized: yes
 
-chacha [] @official 2026-09-16 #D3Lphxt_J3E $en ±
+chacha @official 2026-09-16 #D3Lphxt_J3E $en ±
 [t]interjection: [g]‘go.ahead’; giving permission; go ahead
 
 chacha @TheAndSys 2025-03-26 #2eE_XmxyZ $es ±
@@ -10130,7 +10130,7 @@ cham- @uakci 2023-11-01 #avWudCCNm $en ±
 [t]prefix: adjectival phrase head (like **kị-**): considered as a …
   uakci (2023-11-01): i don't know how this should work exactly but it should (somehow) be able to attach to pronouns just as well as compositional DP-s
 
-châm [] @uakci 2023-04-05 #9BEqxAo29 $en +2
+châm @uakci 2023-04-05 #9BEqxAo29 $en +2
 [t]adverbial head: [g]‘by’; subject-sharing, specifies manner/method
   uakci (2023-04-05): **tua jaı jí nháo châm kuaq hạosheo** “i made them happy by saying i was sorry”
   uakci (2023-04-05): **poaq tíaı châm duı geo** “the box broke through being too old”
@@ -10966,7 +10966,7 @@ cheq- @seaqtaq 2024-10-07 #29hbD9D0B $en ±
 cheq @Ilmen 2020-01-04 #TD7qAW6qA $en -1
 reciprocal personal reference predicate 'each other': creates reciprocal claims between the first argument place and this place.
 
-chéq [] @official 2026-09-16 #v5xGys7Scr7 $en ± %logic
+chéq @official 2026-09-16 #v5xGys7Scr7 $en ± %logic
 [t]pronoun: [g]‘RECP’; reciprocal pronoun
 
 cheqbo [(c) (d) tá sF] @official 2026-09-16 #fg7jtDrQGZu $en ±
@@ -12063,7 +12063,7 @@ chırıaı @Laqme 2019-11-12 #BVEm2RJtv $en ±
 chırıeq @Ilmen 2019-11-05 #rS5EXi70O $en ± %cognition
 [t]predicate: ▯ is critical/skeptical, cautious with regard to information.
 
-chıro [] @official 2026-09-16 #13SnC1V3kv0 $en ±
+chıro @official 2026-09-16 #13SnC1V3kv0 $en ±
 [t]interjection: [g]‘damn’; damn, fuck, shit
 
 chıro @jiqci 2023-07-31 #7o9h4XHCpr $pl ±
@@ -13284,7 +13284,7 @@ chuakaı @robintown 2021-10-18 #eEwi8ryH8 $en ±
 chualuı @uakci 2021-08-17 #UwibWrzr3 $en ±
 [t]predicate: ▯ is an expired name for ▯; ▯ is ▯’s deadname.
 
-chûam [] @seaqtaq 2024-12-03 #mQQr440yq $en ±
+chûam @seaqtaq 2024-12-03 #mQQr440yq $en ±
 [t]adverbial head: [g]‘thereby’; subject sharing, "which is the way/manner that..."
   seaqtaq (2024-12-03): Inverse of **châm** and often rephrasable with **oq**. "Jıaqsha jí náq châm choıdea tá" = "Choıdea jí náq chûam jıaqsha tá" = "Choıdea jí náq ôq muaq"
   seaqtaq (2025-03-21): Kw: thereby
@@ -13782,7 +13782,7 @@ chuleı @uakci 2023-08-01 #9tI0H8PcV $en +1
 chuleıse @uakci 2023-08-01 #L4Uw3OQzG $en ±
 [t]predicate: ▯ is a kink/fetish.
 
-chum [] @official 2026-09-16 #9X8zDoeIRde $en ± %aspect
+chum @official 2026-09-16 #9X8zDoeIRde $en ± %aspect
 [t]aspect: [g]‘IMPF’; imperfective (is X-ing)
 
 chumaı @TheAndSys 2023-10-15 #0ybWk7t8Q $en ±
@@ -14276,7 +14276,7 @@ da @Laqme 2021-10-03 #ETDZDNOKl $jbo +1
 da @el 2022-07-10 #fdWgdkmD0 $tok +1
 nimi "da" li nimi pini li sama "mi toki e ni: ..."
 
-da [] @official 2026-09-16 #j7vUGXoZ6CT $en ±
+da @official 2026-09-16 #j7vUGXoZ6CT $en ±
 [t]illocution: [g]‘[assertive]’; assertive
 
 da @Laqme 2021-10-03 #GV23qz9gn $ja ±
@@ -14287,7 +14287,7 @@ da @mimiaoganhaqpy 2022-04-29 #PctKFsX_x $zh ±
   mimiaoganhaqpy (2022-04-29): 言谓：断言的言谓
   mimiaoganhaqpy (2022-04-29): 還好HydroCyaNide把托昂文的參考文法已經翻譯過了。因為我不可能知道如何翻「illocution」。
 
-da [] @SuperSpaceNiM 2024-08-11 #Aqi-qWM9K $ru ±
+da @SuperSpaceNiM 2024-08-11 #Aqi-qWM9K $ru ±
 [t]цель высказывания: [g]‘[утвердительное]’; утверждение
 
 da @kazoo 2024-11-24 #ofcK1BWMg $tr ±
@@ -14300,13 +14300,13 @@ da @Ilmen 2020-01-24 #EwGq2M09r $toa -1
 da @el 2022-09-23 #6Nmg_GhAp $toa -1
 [DA] Naı ruaq jí fâq sa güo hóa ke müı hóa kúqtoaı ka.
 
-dá [] @Laqme 2023-10-22 #m7Pr0ap0a $en +4
+dá @Laqme 2023-10-22 #m7Pr0ap0a $en +4
 [t]illocution: [g]‘isn't.it’; "isn't it?"
 
 dä @jiqci 2023-03-08 #KFx27mEl5 $en +2
 [t]illocution: corrective
 
-dâ [] @official 2026-09-16 #9Ikgajv8JdQ $en ±
+dâ @official 2026-09-16 #9Ikgajv8JdQ $en ±
 [t]illocution: [g]‘EXPL’; explanatory
 
 dache @jiqci 2024-08-26 #Le1PaIzju $en +1
@@ -14333,7 +14333,7 @@ daha @Ilmen 2022-02-15 #JYpK8cMJq $en +2
 daı- @seaqtaq 2025-07-22 #-4Cmth9iI $en ±
 [t]prefix: turns a verb X into a verb meaning "▯ X-s because some salient event may happen"
 
-daı [] @official 2026-09-16 #fQH0iH_QlQA $en ±
+daı @official 2026-09-16 #fQH0iH_QlQA $en ±
 [t]modality: [g]‘POSB.IND’; indicative, possible; X can happen if ...
 
 daı @robintown 2022-01-27 #vWahB4BI_ $toa ±
@@ -15640,7 +15640,7 @@ demeoca @Dembim 2026-03-22 #vBS9pZKFA $en ±
   Dembim (2026-03-22): Monomorphic fork of <@Hoemai demeoca>
   Dembim (2026-03-22): Discriminator: 2
 
-demı [] @TheAndSys 2026-02-01 #LJxLeS_yN $en ±
+demı @TheAndSys 2026-02-01 #LJxLeS_yN $en ±
 [t]name verb: [g]‘Princess’; Princess [NAME]
   TheAndSys (2026-02-01): Whatever grammar mí has in your idiolect, démi should probably have the same.
 
@@ -15979,7 +15979,7 @@ detuasaı @Laqme 2021-10-18 #1pe_c4YhP $en ±
 deu @Laqme 2023-03-16 #UN-5lxJ0u $en ±
 [t]predicate: ▯ is allowed to be ▯-ed.
 
-déum [] @Laqme 2024-04-24 #b2lYb2glb $en +3
+déum @Laqme 2024-04-24 #b2lYb2glb $en +3
 [t]focus particle: [g]‘a.whole’; a whole… / as many as… / go as far as to…
   Laqme (2024-04-24): A kind of "dual" to **shúq**, i.e. roughly "bu shúq bu X". Also one sense of "even", I think
   Laqme (2024-11-21): "no less than...", if shúq is "nothing more than..."
@@ -16816,7 +16816,7 @@ do @jiqci 2023-07-31 #Z5qzd_-sz0 $pl ±
 do @TheAndSys 2025-03-28 #XwpK3ePyX $es ±
 [t]predicado: [g]‘dar’; ▯, a ▯, le da ▯
 
-doa [] @official 2026-09-16 #j3embQ4eUGV $en ±
+doa @official 2026-09-16 #j3embQ4eUGV $en ±
 [t]illocution: [g]‘PERM’; permissive
 
 dóa @Laqme 2024-09-09 #yi6dINBKk $en +2
@@ -17790,7 +17790,7 @@ duamuo @Ilmen 2019-06-20 #YsjayXH6U $en +1 %cognition
 [t]predicate: [g]‘certain’; ▯ is certain that ▯ is the case.
   uakci (2019-06-20): +1
 
-duana [] @Dembim 2026-01-19 #oCEa8x1rG $en +1
+duana @Dembim 2026-01-19 #oCEa8x1rG $en +1
 [t]interjection: [g]‘FYI’; 'for your information'
 
 duanoa @uakci 2020-04-02 #OhWLeJnC_ $en +1
@@ -18148,7 +18148,7 @@ duı- @lassc 2023-11-04 #fM7prt_BO $en ±
 [t]prefix: "too (much) X"
   lassc (2023-11-04): i.e duı-loq for "overheating" or "hyperthermia"
 
-duı [] @Laqme 2025-03-02 #fZMcamXBO $en +3
+duı @Laqme 2025-03-02 #fZMcamXBO $en +3
 [t]degree: [g]‘too.much’; too much
 
 duı [(0) (d) hóq sP] @official 2026-09-16 #dvzRqY9ZVoWt $en ±
@@ -18555,7 +18555,7 @@ e- @fagri 2022-12-28 #Gy0SAu3s2 $en ±
 colloquial interjection; signifies that the words uttered just right before (exact amount unspecific) were a mistake and are now going to be replaced with what is coming next.
   uakci (2019-03-20): fork of #xo9tLdsUN
 
-ë [] @official 2026-09-16 #QKdLiSL-Mq5J $en ±
+ë @official 2026-09-16 #QKdLiSL-Mq5J $en ±
 [t]event accessor: [g]‘EVA’; derive a verb referring to the following clause's event place
 
 ẹ'e @seaqtaq 2023-05-16 #bAMgXB8_H $en -1
@@ -18567,7 +18567,7 @@ e'eq @jiqci 2023-05-15 #g6HtyEFhA $en +2
 ea- @seaqtaq 2025-07-22 #WY6wRb4Ym $en ±
 [t]prefix: turns a verb X into a verb meaning "▯ X-s because some salient hypothetical event may have happened had they not"
 
-ea [] @official 2026-09-16 #tacnIuacMInc $en ± %logic,modal
+ea @official 2026-09-16 #tacnIuacMInc $en ± %logic,modal
 [t]modality: [g]‘POSB.SUBJ’; subjunctive, possible; X could happen if ...
 
 ea @Ilmen 2019-07-21 #IDEVRvPH6 $en ± %logic,modal
@@ -18740,7 +18740,7 @@ egebu @evie 2024-09-19 #qN-_XjxkZ $en +1
 ego @Machy 2022-01-05 #-i7NaUpLz $en ±
 [t]predicate: ▯ is the self-image of ▯.
 
-⚠ ëgo [] @Ilmen 2023-12-12 #Hf7peXd8h $en +1
+⚠ ëgo @Ilmen 2023-12-12 #Hf7peXd8h $en +1
 [t]eventive retroactive cleft: [g]‘EV.RETROCLE’; lift the event of the top-level clause, binding hóa to it in the following matrix clause.
 
 ehe @robintown 2022-02-05 #f-pQHgAe1 $en +2
@@ -18787,7 +18787,7 @@ eıchı @robintown 2022-08-01 #T8qj2uYLR $en ± %lifeform,animal,arthropod,insec
 eıdoe @seaqtaq 2024-11-09 #Vkr0mVfoG $en ±
 [t]predicate: ▯ functions as a ▯; ▯ circumstantially satisfies some salient property or properties the way ▯ would
 
-⚠ ëıgo [] @seaqtaq 2024-07-16 #wK2fjXFdM $en ±
+⚠ ëıgo @seaqtaq 2024-07-16 #wK2fjXFdM $en ±
 [t]eventive relative retroactive cleft: [g]‘EV.REL.RETROCLE’; lift the event of the superordinate clause, binding hóa in the following clause on the same level as said superordinate clause
   seaqtaq (2024-07-16): cf ïgo
   seaqtaq (2024-07-16): gö:ëgo::ïgo:ëıgo
@@ -18833,11 +18833,11 @@ ejı @TheAndSys 2023-10-18 #nmnIMvtTu $en -1
 [t]predicate: [g]‘deem’; ▯ deems/judges/evaluates ▯ to have property ▯
   TheAndSys (2023-10-18): might already exist, had no idea how to look it up
 
-eju [] @Laqme 2021-10-03 #qjeK82HGr $en +2
+eju @Laqme 2021-10-03 #qjeK82HGr $en +2
 [t]interjection: [g]‘let's.see’; ‘let's see…’ (searching, remembering, calculating, deciding)
   Ilmen (2025-10-31): officialized: yes
 
-eju [] @official 2026-09-16 #pLZ5G0_wQ05f $en ±
+eju @official 2026-09-16 #pLZ5G0_wQ05f $en ±
 [t]interjection: [g]‘let's.see’; searching, remembering, calculating, deciding; let's see...
 
 eka @Laqme 2025-05-25 #O7bpCR1Ik $en +1
@@ -18975,7 +18975,7 @@ elaq @Dembim 2026-02-18 #m7zaITlsU $en ±
 [t]onomatopoeia quote: turns the following quote X into a verb: ▯ is a sound represented onomatopoetically by X
   Dembim (2026-02-21): Shuaq ké naq élaq ııık teo râo, é zaq sá muse da.
 
-ele [] @official 2026-09-16 #iMbZXiS8ab53 $en ±
+ele @official 2026-09-16 #iMbZXiS8ab53 $en ±
 [t]interjection: [g]‘whatever’; I don't care either way
 
 ele @Machy 2022-08-21 #nre0kUkHo $en ±
@@ -19037,10 +19037,10 @@ em- @lassc 2025-03-28 #j_Hnz9g0W $en ±
   lassc (2025-03-28): notes: this is kinda confusing to even me at the moment. the idea is that its akin to how people use (?) when writing or will answer questions with a rising intonation on a word that they aren't sure has a better alternative (but like, sometimes both are and are not asking that actual question directly?)
   Dembim (2026-02-06): See also <ꝡéma>
 
-em [] @Laqme 2023-03-09 #nSX8fe1z5 $en +3 %cognition
+em @Laqme 2023-03-09 #nSX8fe1z5 $en +3 %cognition
 [t]interjection: [g]‘um’; "um…"
 
-ém [] @official 2026-09-16 #iORVw6QIU_1q $en ±
+ém @official 2026-09-16 #iORVw6QIU_1q $en ±
 [t]interjection: [g]‘huh?’; huh? / what? / come again?
 
 ema @TheAndSys 2024-09-08 #qJPaaqM2b $en ±
@@ -19073,12 +19073,12 @@ emu @uakci 2023-05-12 #ZAYFrZubd $en +2
 [t]interjection: ‘well’, ‘after all’, ‘essentially’, ‘what I mean is’; clarifying, specifying, shifting the discourse closer to the wishes of the speaker
   evie (2025-04-30): i.e.
 
-ena [] @Laqme 2025-02-20 #XP2_DL8cN $en +3
+ena @Laqme 2025-02-20 #XP2_DL8cN $en +3
 [t]interjection: [g]‘look.there!’; "over there!", "look at that!"
   Laqme (2025-02-20): distal **enı**
   Laqme (2025-02-20): In French, this is "voilà" and **enı** is "voici"
 
-enı [] @official 2026-09-16 #KmIQweKxNllD $en ±
+enı @official 2026-09-16 #KmIQweKxNllD $en ±
 [t]interjection: [g]‘here’; here / take this / look at this
 
 énı @Laqme 2023-12-19 #TDzuyBWHO $en ±
@@ -19121,7 +19121,7 @@ Eoropa @jiqci 2023-07-31 #bdNWEfWan $pl ± %unique,geographic_entity
 Eoropame @jiqci 2023-08-04 #GW9roo36R $en ±
 [t]predicate: ▯ is the European Union (EU).
 
-epı [] @official 2026-09-16 #EmOCflOOLjx- $en ±
+epı @official 2026-09-16 #EmOCflOOLjx- $en ±
 [t]interjection: [g]‘hooray’; excitement
 
 epımoe @Ilmen 2022-12-19 #VusbTwCRE $en ±
@@ -19400,7 +19400,7 @@ ezuı @uakci 2022-02-18 #z8PNC9bc7 $en ±
 [t]predicate: ▯ is (the abstract/metalinguistic representation of) a plural constant.
   uakci (2022-02-18): from a pretend-Chinese i saw in a dream, 景子音, apparently pronounced é zǐ yǐn (which also does not make sense)
 
-fa- [] @official 2026-09-16 #1wABRDu_7bXk $en ±
+fa- @official 2026-09-16 #1wABRDu_7bXk $en ±
 [t]prefix: [g]‘TEL’; telic
 
 fa- @kazoo 2024-11-24 #GXbn7Rzb_ $tr ±
@@ -20846,7 +20846,7 @@ feu [(c c) (d d) hó sA] @salarua 2023-01-10 #g-IRBf1F1 $en +1
 feze @jiqci 2024-01-19 #1qMy2rWa9 $en ±
 [t]predicate: ▯ is a fez/tarboosh.
 
-fı [] @official 2026-09-16 #P9lTZqBpNWA8 $en ±
+fı @official 2026-09-16 #P9lTZqBpNWA8 $en ±
 [t]aspect: [g]‘NEAR.PRSP’; near prospective (is about to X)
 
 fıa @Laqme 2023-11-03 #bOqg73SY7 $en +1
@@ -20871,7 +20871,7 @@ fíachaq @robintown 2023-10-17 #2an4kDx3Q $en +2
 fıache @seaqtaq 2024-07-28 #-g9RS1aNT $en ±
 [t]predicate: ▯ is predecessor to ▯ in the job of satisfying property ▯.
 
-fíadaq [] @Dembim 2026-06-25 #S7T04pytQ $en ±
+fíadaq @Dembim 2026-06-25 #S7T04pytQ $en ±
 [t]pronoun: [g]‘last.time’; the previous period (of a sort determined by context)
   Dembim (2026-06-25): see notes on <síedaq>
 
@@ -21248,13 +21248,13 @@ fo- @Dembim 2026-03-17 #Fd9goxTB_ $en -1
   Dembim (2026-03-17): This is a slightly weird entry I know, but I'd like to try it out.
   Dembim (2026-03-17): <@lassc zoe> would be equivalent to <fodà>
 
-fo [] @official 2026-09-16 #hIoFZxP-1DDR $en ±
+fo @official 2026-09-16 #hIoFZxP-1DDR $en ±
 [t]sentence connector: [g]‘by.the.way’; go on tangent
 
 fo @Laqme 2023-11-08 #OE9a9X3fG $en ±
 [t]interjection: ‘by the way’
 
-fo [] @mimiaoganhaqpy 2023-04-07 #bSroxwaib $en -1
+fo @mimiaoganhaqpy 2023-04-07 #bSroxwaib $en -1
 [t]sentence connector: [g]‘by.the.way’; go on tangent
   mimiaoganhaqpy (2023-04-07): ← **fou**
   Ilmen (2025-10-22): officialized: yes
@@ -23073,7 +23073,7 @@ gatesho @seaqtaq 2024-10-31 #maHK7lLVw $en ±
 gcjh @Laqme 2024-09-01 #3Did75-uc $en +1
 [t]phrase: textspeak abbreviation of **gö chı jí hóa**
 
-ge- [] @official 2026-09-16 #AgpNnz3UuU7T $en ±
+ge- @official 2026-09-16 #AgpNnz3UuU7T $en ±
 [t]prefix: [g]‘DIM’; diminutive
 
 ge- @kazoo 2024-11-24 #F_pD0OL_g $tr ±
@@ -25055,7 +25055,7 @@ gö @Laqme 2022-12-19 #XXS8Vt-RQ $en +1
   Laqme (2022-12-19): https://toaq.net/refgram/syntax/#retroactive_cp_cleft
   Laqme (2022-12-19): **Kaqgaı súq báq aıpu, gö bu chı jí hóa.** = [that] You saw a ghost, I don't believe (that).
 
-gö [] @official 2026-09-16 #KMflHe07Vs0N $en ±
+gö @official 2026-09-16 #KMflHe07Vs0N $en ±
 [t]retroactive cleft: [g]‘RETROCLE’; lift top-level clause, binding hóa in the following matrix clause
 
 gö @robintown 2024-07-31 #l02wTUAmv $en ±
@@ -25739,7 +25739,7 @@ gomeheq @Laqme 2025-05-09 #eNjxyiqx_ $en +1
 gometeı @Laqme 2022-08-14 #R2f1SK8WV $en ±
 [t]predicate: ▯ is the accusative case.
 
-gomı [] @Dembim 2026-02-08 #GmH9jtg3P $en ±
+gomı @Dembim 2026-02-08 #GmH9jtg3P $en ±
 [t]interjection: [g]‘lingering’; more of this; like <aıka> signals that the speaker is moving on, <gomı> signals that they mean to stay on this point/activity a bit longer
   Dembim (2026-02-08): Etymology: imagined squishification of <gúom> <ní>
 
@@ -25784,7 +25784,7 @@ gomtoa @lassc 2025-03-24 #9wIc0kfaA $en +1
 gomu @uakci 2021-08-16 #yMWx4j0W2 $en ±
 [t]predicate: The converse of ▯ is true; When the first and second arguments of proposition ▯ are swapped, it is the case.
 
-góna [] @Laqme 2023-11-14 #p9XJCPnlJ $en +1
+góna @Laqme 2023-11-14 #p9XJCPnlJ $en +1
 [t]pronoun: [g]‘I’; archaic/ancient 1st person singular
   Laqme (2023-11-14): From Toaq Alpha "… góu na" which means "… jí da"
 
@@ -27748,7 +27748,7 @@ guzıu @verte 2022-06-26 #C_YH-O2TK $en ±
 guzıulaı @uakci 2022-06-26 #49CKW8ycf $en ±
 [t]predicate: ▯ (sequence of digits) is binary/base-2 for ▯ (number).
 
-ha- [] @official 2026-09-16 #2Em2rEjp8i82 $en ±
+ha- @official 2026-09-16 #2Em2rEjp8i82 $en ±
 [t]prefix: [g]‘CMPR’; X-er; more X; comparative
 
 ha- @kazoo 2024-11-24 #nyWSGOLbq $tr ±
@@ -27760,7 +27760,7 @@ ha @Ilmen 2020-01-24 #bYSl2J4lZ $toa -1
 ha @el 2022-07-10 #DA_D3a4nb $tok -1
 [t]predicate: ▯ li jan ijo
 
-há [] @official 2026-09-16 #mCoDKC5FlSUP $en ±
+há @official 2026-09-16 #mCoDKC5FlSUP $en ±
 [t]pronoun: [g]‘3I.ANIM’; generic impersonal pronoun; one/you/they/people
 
 há @kazoo 2024-11-24 #_897P-Bq6 $tr ±
@@ -27842,7 +27842,7 @@ haı- @Laqme 2023-12-13 #XYYJYoDwZ $en +1
 [t]pre-aspect: 'already'
   Laqme (2023-12-13): This attaches to aspects, and allows for combinations like **hạıluı seumchuq** "has already eaten dinner" vs **hạıchum seumchuq** "is already eating dinner".
 
-haı [] @official 2026-09-16 #STDUUd9QblrC $en ± %aspect
+haı @official 2026-09-16 #STDUUd9QblrC $en ± %aspect
 [t]aspect: [g]‘SUBF’; subfective (yet/already)
 
 haı @Ilmen 2020-01-26 #WeTVAIBFE $toa -1 %aspect
@@ -27958,11 +27958,11 @@ hakashuo @uakci 2020-03-07 #vLSYW8AC1 $en ±
 hakejo @jiqci 2023-07-21 #mlU99j0rJ $en ±
 [t]predicate: ▯ = ▯ ^^ ▯. (tetration/power tower)
 
-hákı [] @lassc 2025-03-20 #z8Rtcnez0 $en +1
+hákı @lassc 2025-03-20 #z8Rtcnez0 $en +1
 [t]pronoun: [g]‘they’; vulgar/insulting 3rd-person
   lassc (2025-03-20): welcome back hákı from your 2 year long purgatory
 
-hákına [] @lassc 2025-03-28 #ZZI7N4sma $en ±
+hákına @lassc 2025-03-28 #ZZI7N4sma $en ±
 [t]pronoun: [g]‘they’; vulgar/insulting plural 3rd-person
   lassc (2025-03-28): cf **hakı**
 
@@ -28054,7 +28054,7 @@ hane @kazoo 2024-12-04 #AScdKZBzU $en ±
 hanemıu [(c 0) (d d) hó sI] @Dembim 2026-07-24 #aEpYJ5s8x $en ±
 [t]predicate: [g]‘overestimate’; ▯ overestimates the degree to which ▯ is the case.
 
-hanı [] @kazoo 2024-11-27 #kNQBFmDtJ $en +2
+hanı @kazoo 2024-11-27 #kNQBFmDtJ $en +2
 [t]interjection: [g]‘poke’; reminding someone they've forgotten something or to prompt them about a task or duty they're neglecting.
   kazoo (2024-11-27): 'aren't you missing something?' 'weren't you supposed to be doing something right now?'
   Dembim (2026-06-27): poke; bonk
@@ -28512,7 +28512,7 @@ haqsıa @uakci 2022-06-18 #xzBbuh6Xl $en ±
 haqsue @seaqtaq 2019-12-27 #tHXa4ZKcA $en +1
 [t]predicate: ▯ orders/requests dish ▯
 
-haqsupu [] @Dembim 2026-01-29 #-3_TfRe7v $en ±
+haqsupu @Dembim 2026-01-29 #-3_TfRe7v $en ±
 [t]volume unit: [g]‘tbsp’; tablespoon
   Dembim (2026-01-29): See note under <nhebıo>
   Dembim (2026-01-30): <coehaqsupu>, <usohaqsupu>, <fuıhaqsupu>, <ozıhaqsupu>
@@ -28633,13 +28633,13 @@ he- @Laqme 2024-08-22 #fC0r6SE38 $en +1
 [t]prefix: make gnomic verb (expresses aphorisms constrained in time).
   Laqme (2024-08-22): An **ë hẹjara jí** is an event during which **he jara jí** is true. Probably similar to **duq** but not the same.
 
-he [] @official 2026-09-16 #m98LqRfHAB1o $en ±
+he @official 2026-09-16 #m98LqRfHAB1o $en ±
 [t]aspect: [g]‘GNO’; gnomic (X happens as a general rule)
 
 he @Laqme 2019-02-21 #JN47-_Jts $en ±
 [t]predicate: ▯ is the case as a general truth/aphorism, regardless of time and place.
 
-he [] @robintown 2024-07-09 #MnaS62JRW $en ±
+he @robintown 2024-07-09 #MnaS62JRW $en ±
 [t]modal aspect: [g]‘GNO’; gnomic (X happens as a general rule)
   Ilmen (2025-10-31): officialized: yes
 
@@ -28755,7 +28755,7 @@ hebe @Ilmen 2019-04-07 #ITlx5lmhT $en ± %lifeform,plant
 hebesaı @Ilmen 2019-04-07 #u22S7WJrN $en ± %substance
 [t]predicate: ▯ is rubber.
 
-hece [] @Laqme 2023-11-04 #6PVfG5m8j $en +2
+hece @Laqme 2023-11-04 #6PVfG5m8j $en +2
 [t]interjection: [g]‘heck’; 'heck, dangit'
 
 hechao @uakci 2022-11-19 #s38b14W6c $en ±
@@ -29551,7 +29551,7 @@ hı hao = ke hao ru hıa.
 hı @Ilmen 2020-01-31 #FnIDbL0Ak $toa -1
 hı hao = ke hao hïa na.
 
-hí [] @official 2026-09-16 #HuH5gv7qBO $en ±
+hí @official 2026-09-16 #HuH5gv7qBO $en ±
 [t]determiner: [g]‘which’; which X? / what X?
 
 hí @TheAndSys 2025-03-26 #B7r3xSGFi $es ±
@@ -29941,7 +29941,7 @@ hıca @el 2022-06-23 #2OMfLKkIn $en +1
   el (2022-06-23): useful as a preposition
   el (2023-01-02): see also **jama**
 
-hıchu [] @official 2026-09-16 #aBoUbyhHnA $en ±
+hıchu @official 2026-09-16 #aBoUbyhHnA $en ±
 [t]interjection: [g]‘oi’; soliciting a response
 
 hıchu @uakci 2022-07-09 #4W1btE2r7 $en ±
@@ -30408,7 +30408,7 @@ hıpuı @Laqme 2022-11-14 #aEqvvirJD $en ±
   Laqme (2022-11-14): Revival of old **co** i.e. determiner form of **tıopuı**.
   Laqme (2022-11-14): Let's say "hipui X: P(X)" means "**tutuq** [X : P(X)]: tiopui(X)"
 
-hıq [] @official 2026-09-16 #_3jYRyzU4n7 $en ± %aspect
+hıq @official 2026-09-16 #_3jYRyzU4n7 $en ± %aspect
 [t]aspect: [g]‘NEAR.RETR’; near retrospective (has just X'd)
 
 hıq @el 2022-07-10 #Fa1vkNVt_ $tok ± %aspect
@@ -30621,7 +30621,7 @@ ho- @Laqme 2025-04-26 #UMJeBxPFI $en ±
 ho @Laqme 2021-10-03 #2lD8QSJB5 $jbo ±
 .i sumka'i lo pu se skicu poi danlu ja jmive ja prenu
 
-hó [] @official 2026-09-16 #l5yqeKcHB1c $en ±
+hó @official 2026-09-16 #l5yqeKcHB1c $en ±
 [t]pronoun: [g]‘it.I’; anaphoric pronoun for animate DPs (class I)
 
 hó @Laqme 2021-10-04 #SdXu4e5g9 $ja ±
@@ -30630,7 +30630,7 @@ hó @Laqme 2021-10-04 #SdXu4e5g9 $ja ±
 hó @TheAndSys 2025-03-26 #2rW1MswRm $es ±
 [t]pronombre: ‘it.I‘; pronombre anafórico para DPs animadas (clase I)
 
-ho'u [] @Dembim 2026-01-31 #eVy_lSw81 $en ±
+ho'u @Dembim 2026-01-31 #eVy_lSw81 $en ±
 [t]illocution: [g]‘suggestive’; X could happen, maybe; X is an idea
   Dembim (2026-01-31): <@fagri hou>
 
@@ -30638,7 +30638,7 @@ hoa- @Hoemai 2023-03-11 #RqPgWwlZ9 $en +1
 [t]prefix: prefills verb complement with **hoa**
   Hoemai (2023-03-11): example: sá faq ꝡë noaq jí sá họaraq
 
-hóa [] @official 2026-09-16 #JjvenadDa1S $en ±
+hóa @official 2026-09-16 #JjvenadDa1S $en ±
 [t]pronoun: [g]‘RSM’; resumptive
 
 hoabo @robintown 2022-02-16 #PF7Xgd8yc $en ±
@@ -30649,7 +30649,7 @@ hoaı- @Laqme 2023-12-13 #EgQjze177 $en +1
 [t]pre-aspect: 'still'
   Laqme (2023-12-13): This attaches to aspects, and allows for combinations like **họaıza seumchuq** "is still yet to eat dinner" vs **họaıchum seumchuq** "is still eating dinner".
 
-hoaı [] @official 2026-09-16 #0zeE3QR1PqH $en ± %aspect
+hoaı @official 2026-09-16 #0zeE3QR1PqH $en ± %aspect
 [t]aspect: [g]‘SPRF’; superfective (still)
 
 hoaı @Ilmen 2020-01-26 #UazkZlhb2 $toa -1 %aspect
@@ -31063,7 +31063,7 @@ hoeme @Laqme 2021-08-20 #Riz2kPOem $en ±
 hoemıa @Machy 2020-05-26 #1qp8npGNI $en +1
 [t]predicate: ▯ is sunny.
 
-hoemıa [] @TheAndSys 2023-04-16 #7p5PvDHfH $en ±
+hoemıa @TheAndSys 2023-04-16 #7p5PvDHfH $en ±
 [t]predıcate: [g]‘sunny’; It's sunny.
 
 hoemıao @salarua 2021-09-16 #vMTnDVkjk $en ±
@@ -31193,7 +31193,7 @@ hoheo @seaqtaq 2025-09-09 #1hKpajVt1 $en ±
 [t]determiner: "different" (plural quantifier)
   seaqtaq (2025-09-09): This is the plural counterpart to **héheo**. "Bua hú lıqdeo hóheo gua" == "Those girls are split up into groups such that each member of the group lives in a different country"
 
-hoı- [] @uakci 2024-12-30 #zUpk3aQ-r $en ±
+hoı- @uakci 2024-12-30 #zUpk3aQ-r $en ±
 [t]prefix: [g]‘PREV’; derives anaphoric pronouns referring to phrases headed by the specified stem
   uakci (2024-12-30): moved from **hụ-** (1) to free this wordform up for a **hú** filler prefix (2) to pay homage to pre-delta **hoı**, which has since swapped wordforms with **hú** (3) to shirk the awkward repetition in **hụ́hu**
 
@@ -31204,7 +31204,7 @@ hoı @robintown 2024-09-06 #yA3VpTp5k $en -1
 sentence-initial vocative
   robintown (2024-09-06): The idea here is to make use of the falling tone's sentence-initial allotone, but also disambiguate this from a sentence-final vocative in a world without sentence fences.
 
-hóı [] @official 2026-09-16 #ZivYWZCeYyM $en ± %deixis
+hóı @official 2026-09-16 #ZivYWZCeYyM $en ± %deixis
 [t]vocative: [g]‘VOC’; vocative
 
 hóı @robintown 2024-09-06 #vczKSDy8N $en ± %deixis
@@ -31312,7 +31312,7 @@ hoq- @Laqme 2025-04-26 #P-r8qZd1H $en ±
 hoq @Laqme 2021-10-03 #ccCRbOkw9 $jbo -1
 .i sumka'i lo pu se skicu poi mucti
 
-hóq [] @official 2026-09-16 #sElhiyYFXcv $en ±
+hóq @official 2026-09-16 #sElhiyYFXcv $en ±
 [t]pronoun: [g]‘it.III’; anaphoric pronoun for abstract DPs (class III)
 
 hóq @Laqme 2021-10-04 #vw0mWvk-W $ja ±
@@ -31456,7 +31456,7 @@ hosı @Ilmen 2025-02-04 #jd4D0ECT3 $en ±
 [t]predicate: ▯ is an ear.
   Ilmen (2025-02-04): Etymology: PIE ⟪h₂ṓws⟫ (whence the Latin ⟪auris⟫) and its dual form ⟪h₂ṓwsih₁⟫.
 
-hósıe [] @seaqtaq 2024-07-10 #E9aJ-Ngmg $en ±
+hósıe @seaqtaq 2024-07-10 #E9aJ-Ngmg $en ±
 [t]pronoun: [g]‘CAT.it.I’; cataphoric pronoun for animate DPs (class I)
 
 hosuqjı @Ilmen 2019-05-29 #nJFRsvPDj $en +1
@@ -31513,7 +31513,7 @@ hu- @robintown 2025-04-26 #1P1C_vUkS $en +1
 [t]prefix: incorporate **hú** object
   robintown (2025-04-26): This prefix can coexist with the prefix **hụ-** used for head variables since they attach to different parts of speech.
 
-hu- [] @official 2026-09-16 #Xdfgt8XjIW0 $en ±
+hu- @official 2026-09-16 #Xdfgt8XjIW0 $en ±
 [t]prefix: [g]‘PREV’; derives anaphoric pronouns referring to phrases headed by the specified stem
 
 hu- @Laqme 2022-12-12 #bmvqmPoJ1 $en ±
@@ -31526,7 +31526,7 @@ hu @Laqme 2021-10-05 #xOhoJ0zmS $ja ±
 hu @el 2022-07-10 #VHtI4eBmM $tok ±
 "hu X" li sama "X o!"
 
-hú [] @official 2026-09-16 #TEEsn4WONxq $en ±
+hú @official 2026-09-16 #TEEsn4WONxq $en ±
 [t]determiner: [g]‘ENDO’; endophoric; the aforementioned X
 
 hú @Laqme 2022-12-12 #OUp8klV5J $en ±
@@ -32607,7 +32607,7 @@ hupı @SuperSpaceNiM 2024-08-11 #n_iwok8CT $ru ± %lifeform,animal,vertebrate,ma
 hupıchu @TheAndSys 2024-08-19 #5zCG024lt $en ±
 [t]predicate: ▯ is a foxperson/foxgirl/foxboy
 
-huq [] @Ilmen 2018-10-08 #sah9GOqFR $en +7
+huq @Ilmen 2018-10-08 #sah9GOqFR $en +7
 [t]connective: [g]‘or.rather’; "or rather", erases the left-hand side connectand and replaces it with the right-hand side one.
   uakci (2018-11-17): +1!
   fagri (2018-11-17): +1
@@ -32769,10 +32769,10 @@ bo'a jai ckaji bo'e
 [t]pronoun: refers to an abstract agent one can ascribe occurrences to if they are not the doing of any conscious/animate agent
   uakci (2024-05-03): keyword: providence
 
-⚠ ïba [] @jiqci 2023-08-20 #mwd1CuIat $en -1
+⚠ ïba @jiqci 2023-08-20 #mwd1CuIat $en -1
 [t]reverse topic marker: [g]‘REVTOP’; marks topic/prenex at the end of a sentence.
 
-ıbe [] @Laqme 2024-04-24 #zFt1L0p2d $en +4
+ıbe @Laqme 2024-04-24 #zFt1L0p2d $en +4
 [t]interjection: [g]‘I.admit’; I admit / I concede / that's fair / you have a point
   Dembim (2026-07-11): kw: touché
 
@@ -32809,7 +32809,7 @@ Idıshızu @jiqci 2025-05-19 #AOL9kvvtV $en ±
 [t]predicate: ▯ is hydrogen.
   uakci (2022-12-31): = **naojıu**
 
-ïe [] @Laqme 2025-01-02 #-ubuUiPzI $en +4
+ïe @Laqme 2025-01-02 #-ubuUiPzI $en +4
 [t]start parenthetical: [g]‘(*’; start editorial parenthetical (closed by **kı**)
   Laqme (2025-01-02): Used inside **mó** … **teo**. This indicates a parenthetical that was not in the actual quote. Inside the parenthetical, **hóa** refers to the quoted text.
   Laqme (2025-01-02): **Kuq nháo mó «Naına Tóeqzu (ïe nu hóa kı) ꝡeı» teo.**  They said, “Toeq [sic] is so cool.”
@@ -32819,10 +32819,10 @@ Idıshızu @jiqci 2025-05-19 #AOL9kvvtV $en ±
 ıe'a @lassc 2025-04-25 #xiav5BkeU $en +1
 [t]onomatopoeia: "shrink", "retract", "deflate"
 
-ıeı [] @robintown 2025-04-30 #RbTVX0qIA $en +1
+ıeı @robintown 2025-04-30 #RbTVX0qIA $en +1
 [t]interjection: [g]‘eek’; fear, screaming; aah!
 
-ıeq [] @Laqme 2022-02-10 #b0jZ1RdbD $en +2
+ıeq @Laqme 2022-02-10 #b0jZ1RdbD $en +2
 [t]sentence connector: [g]‘I.mean’; "I mean..." "or rather..." (aborting and correcting the previous sentence)
 
 ıeshuajıuchaq @Ilmen 2024-01-30 #Djzpg45aD $en ±
@@ -32834,7 +32834,7 @@ Idıshızu @jiqci 2025-05-19 #AOL9kvvtV $en ±
 ıfı @Laqme 2025-02-04 #Y6WU8sB4b $en ±
 [t]predicate: ▯ is an odd number.
 
-ıfu [] @official 2026-09-16 #3rhlq3YU4R8 $en ±
+ıfu @official 2026-09-16 #3rhlq3YU4R8 $en ±
 [t]interjection: [g]‘eww’; disgust
 
 ıga @seaqtaq 2024-07-10 #PiiTt-Zk- $en +2
@@ -32843,7 +32843,7 @@ Idıshızu @jiqci 2025-05-19 #AOL9kvvtV $en ±
 ıgıgı @lassc 2026-03-16 #vMbOfCdIz $en ±
 [t]ideophone: shaking/shivering/trembling/shuddering
 
-⚠ ïgo [] @seaqtaq 2024-07-16 #wxeB-9cn1 $en ±
+⚠ ïgo @seaqtaq 2024-07-16 #wxeB-9cn1 $en ±
 [t]relative retroactive cleft: [g]‘RELRETROCLE’; lift superordinate clause, binding hóa in the following clause on the same level as said superordinate clause
   seaqtaq (2024-07-16): Intended to cover for a (perceived) weakness of gö—namely that it can only be used to add extra details to the main proposition, and not propositions represented in arbitrarily nested subordinate claues
   seaqtaq (2024-07-16): "Bu chı jí, ꝡá noaq nháo sá, ꝡä fa déo jéarıaq zûo pó báq noaı, ïgo bu le hóa"=I don't believe he's slowly [afterthought cleft] reading something about a boy going to the story
@@ -32968,7 +32968,7 @@ Ilakıshızu @Avaxar 2024-05-13 #eyno3iwRm $en +1
 ımala @Ilmen 2023-04-01 #_pvsxf-BK $en ±
 [t]tense: absolute existential past.
 
-íme [] @official 2026-09-16 #B3Nw5vGTrep $en ± %deixis,discourse_participants
+íme @official 2026-09-16 #B3Nw5vGTrep $en ± %deixis,discourse_participants
 [t]pronoun: [g]‘1+3’; 1st + 3rd person personal pronoun; we/us (me + them)
 
 ımebo [(c) (d) tá sF] @official 2026-09-16 #dRtpUicplvj $en ± %deixis,discourse_participants,possessive
@@ -33009,7 +33009,7 @@ Ilakıshızu @Avaxar 2024-05-13 #eyno3iwRm $en +1
 ımo @el 2022-08-18 #lwnfavEWk $toa -1
 jìe jí bı jeo [ja]
 
-ına [] @official 2026-09-16 #SBFRu3YgrM8 $en ± %action,communication
+ına @official 2026-09-16 #SBFRu3YgrM8 $en ± %action,communication
 [t]interjection: [g]‘roger’; OK, received and understood
 
 ına @Laqme 2022-02-27 #1kLcx-JOB $jbo ± %action,communication
@@ -33023,7 +33023,7 @@ ki'anai / je'e
 感嘆詞：「懂了」／「明白了」／「原來如此」
   mimiaoganhaqpy (2022-10-01): 感叹词：「懂了」／「明白了」／「原来如此」
 
-ına [] @TheAndSys 2025-03-26 #7IFV26oxQ $es ± %action,communication
+ına @TheAndSys 2025-03-26 #7IFV26oxQ $es ± %action,communication
 [t]interjección: [g]‘entendido’; OK, recibido y entendido
 
 ına @kazoo 2025-03-26 #WRs4eQc-0 $tr ± %action,communication
@@ -33066,11 +33066,11 @@ je'epei
 ⚠ ınqsem @Laqme 2024-09-25 #ZhRCVdGTd $en ±
 Don't worry, I somehow sleepily thought it was a Toaq word too, but it's just short for "inquisitive semantics".
 
-ınha [] @Laqme 2022-02-27 #nzyc_lFJR $en +3
+ınha @Laqme 2022-02-27 #nzyc_lFJR $en +3
 [t]interjection: [g]‘OK’; "OK, I'll do as you say", wilco
   Ilmen (2025-10-31): officialized: yes
 
-ınha [] @official 2026-09-16 #q1zeimTQeDo $en ±
+ınha @official 2026-09-16 #q1zeimTQeDo $en ±
 [t]interjection: [g]‘wilco’; OK, will comply
 
 ınha @Laqme 2022-02-27 #OMraJJ3Zw $jbo ±
@@ -33734,7 +33734,7 @@ Isılaqgua @countries 2026-09-16 #Z3g722nZ0GWo $en ±
 ıshıe @TheAndSys 2024-09-07 #NpTd3CG1n $en +2
 [t]predicate: ▯ subtly/quietly/discreetly satisfies property ▯
 
-ıshıgesı [] @Aburn 2026-07-07 #vcBw_aWoY $en ±
+ıshıgesı @Aburn 2026-07-07 #vcBw_aWoY $en ±
 [t]interjection: [g]‘it’s over’; giving up; ‘It’s over/done for’
 
 ıshıkusu @robintown 2025-04-01 #KJRQCSVl1 $en ± %lifeform,plant,fruit
@@ -33881,7 +33881,7 @@ ja @robintown 2024-07-02 #_Husp7ZiY $en ±
 [t]predicate: ▯ gets ▯ to satisfy property ▯.
   robintown (2024-07-02): Colloquial short form of **aıja**; appears only in the falling tone.
 
-já [] @official 2026-09-16 #JT869hTkE1E $en ±
+já @official 2026-09-16 #JT869hTkE1E $en ±
 [t]determiner: [g]‘X’; lambda
 
 Ja'aıjaoza @Ilmen 2023-05-01 #wQYAkVi_I $en ±
@@ -33925,10 +33925,10 @@ jada @salarua 2022-12-01 #je-t9oUmo $en ±
 jade @Machy 2022-01-26 #CfclvPywc $en ±
 [t]interjection: respectful greetings
 
-jadı [] @salarua 2022-12-23 #DH40vMHlj $es +1 %action,avalent
+jadı @salarua 2022-12-23 #DH40vMHlj $es +1 %action,avalent
 [t]interjección: [g]‘hola’; hola
 
-jadı [] @official 2026-09-16 #taFntytwNGo $en ± %action,avalent
+jadı @official 2026-09-16 #taFntytwNGo $en ± %action,avalent
 [t]interjection: [g]‘hi’; hi/hello
 
 jadı @Laqme 2022-06-29 #u-zgtQflp $jbo ± %action,avalent
@@ -33940,7 +33940,7 @@ jadı @Laqme 2022-07-09 #LMuhLYhrV $tok ± %action,avalent
 jadı @Laqme 2022-07-09 #zHzrWTbXu $ja ± %action,avalent
 感嘆詞：「やあ、おっす、ハロー、こんにちは」
 
-jadı [] @SuperSpaceNiM 2024-08-12 #f_e_6LI-m $ru ± %action,avalent
+jadı @SuperSpaceNiM 2024-08-12 #f_e_6LI-m $ru ± %action,avalent
 [t]междометие: [g]‘привет’; привет/здравствуй(те)
 
 jadı @kazoo 2024-11-24 #jdixnaoIG $tr ± %action,avalent
@@ -33965,14 +33965,14 @@ jadına @Laqme 2024-07-07 #40ISreDX- $en +1
 jadua @Ilmen 2025-12-25 #3YP8C-ztl $en ±
 [t]predicate: ▯ knows what has property ▯.
 
-jaga [] @Laqme 2022-02-04 #JJQhCscC_ $en +2
+jaga @Laqme 2022-02-04 #JJQhCscC_ $en +2
 [t]interjection: [g]‘congratulations’; ‘congratulations! I'm happy for you!’
   Ilmen (2025-10-31): officialized: yes
 
-jaga [] @official 2026-09-16 #RHuvb4BqODj $en ±
+jaga @official 2026-09-16 #RHuvb4BqODj $en ±
 [t]interjection: [g]‘congratulations’; congratulations, I'm happy for you
 
-jaga [] @SuperSpaceNiM 2024-08-15 #Jk2fSesuP $ru ±
+jaga @SuperSpaceNiM 2024-08-15 #Jk2fSesuP $ru ±
 [t]междометие: [g]‘поздравляю’; мои поздравления, рад(а) за тебя
 
 jagala @Ilmen 2025-11-03 #v8pN-TaFd $en ± %action,communication
@@ -34572,7 +34572,7 @@ jạteq @Laqme 2023-11-27 #M0birOn8t $en ±
 [t]predicate: ▯ pays amount/payment ▯.
   Laqme (2023-11-27): Based on #nVvhxw8gc
 
-⚠ jauı [] @TheAndSys 2023-01-08 #uR04y8SBY $en -1
+⚠ jauı @TheAndSys 2023-01-08 #uR04y8SBY $en -1
 [t]interjection: [g]‘hewwo’; hewwo
 
 jaꝡa @Avaxar 2025-07-24 #0Hf8ELxIy $en ±
@@ -34597,7 +34597,7 @@ je @Laqme 2022-12-13 #J4IP5k8Ux $en +1
   Laqme (2022-12-13): the closest English equivalent is probably sentence starters like: “Well then…” “So…” “Oh, …”
   Laqme (2022-12-13): This used to have special "sentence starter" grammar, but that's gone now. You can use **Je ꝡa…** or **Ꝡa je…** to be sure you're starting a new sentence.
 
-je [] @official 2026-09-16 #RccXfsxx7Px $en ±
+je @official 2026-09-16 #RccXfsxx7Px $en ±
 [t]sentence connector: [g]‘[new.topic]’; new topic / taking the floor
 
 je @Ilmen 2020-01-24 #_z-aNYBpN $toa -1
@@ -34913,7 +34913,7 @@ jeha @Hoemai 2022-08-06 #-MLQG4xTd $en +2
   Hoemai (2022-08-06): A: **Bủ bỉaq dẻ jí** B: **Jẻha da**. A: "I'm not pretty enough." B: "Yes, (you are)."
   robintown (2022-10-25): See also **aımu**
 
-jeha [] @official 2026-09-16 #Mi16PaE3bgI $en ±
+jeha @official 2026-09-16 #Mi16PaE3bgI $en ±
 [t]polarity: [g]‘AFF.CONTR’; contrastive affirmation: in fact (contradicting a salient negative claim)
 
 jehana @uakci 2023-11-03 #XDX9rMJgs $en +1
@@ -35074,7 +35074,7 @@ jeku @Ilmen 2020-02-26 #-UcP3HHme $en -1
 [t]predicate: ▯ is a liver.
   Ilmen (2020-02-26): From PIE root *Hyékʷ-, whence PIE "Hyókʷr" (liver), whence Latin "iecur".
 
-jela [] @official 2026-09-16 #dPbvXfQtIpu $en ± %deixis,time,tense
+jela @official 2026-09-16 #dPbvXfQtIpu $en ± %deixis,time,tense
 [t]tense: [g]‘EXS.FUT’; existential future
 
 jelam @evie 2024-11-26 #mtLw2U1kb $en +1
@@ -35167,7 +35167,7 @@ jenaı @Laqme 2022-10-05 #E-H4qRnRY $en +1
 jenalıq @uakci 2022-08-08 #NkFSOcvvk $en ±
 [t]predicate: ▯ is adrenaline.
 
-jeo [] @official 2026-09-16 #WbkxKP9Tw2E $en ± %logic
+jeo @official 2026-09-16 #WbkxKP9Tw2E $en ± %logic
 [t]polarity: [g]‘AFF’; truly/indeed
 
 jeo @uakci 2020-02-09 #i7SeKgTOO $pl -1 %logic
@@ -35747,7 +35747,7 @@ kuq dóshı ní toame da
 jı @Laqme 2021-10-03 #EXPX8WXX7 $jbo -1
 .i sumka'i lo tavla .i smudu'i zo "mi"
 
-jí [] @official 2026-09-16 #VpbJ3El13Qj $en ± %deixis,discourse_participants
+jí @official 2026-09-16 #VpbJ3El13Qj $en ± %deixis,discourse_participants
 [t]pronoun: [g]‘1S’; 1st person personal pronoun; I/me
 
 jí @Laqme 2021-10-03 #jEuQqvs2u $ja ± %deixis,discourse_participants
@@ -35757,7 +35757,7 @@ jí @Hydro 2021-10-04 #XKm3Q2Zzk $zh ± %deixis,discourse_participants
 代词：“我”（第一人称代词）
   mimiaoganhaqpy (2022-04-24): 代詞：「我」（第一人稱代詞）
 
-jí [] @SuperSpaceNiM 2024-08-11 #DntgdHlDI $ru ± %deixis,discourse_participants
+jí @SuperSpaceNiM 2024-08-11 #DntgdHlDI $ru ± %deixis,discourse_participants
 [t]местоимение: [g]‘1S’; личное мест. 1 лица; я/меня/мне/мной
 
 jí @maigoi 2024-09-11 #6yNlKiN0g $pt ± %deixis,discourse_participants
@@ -35774,10 +35774,10 @@ jí @Ilmen 2026-01-28 #e-NrP5fuW $jbo ± %deixis,discourse_participants
 ⚙ [X] Muıbo ní toa cúaq, ꝡë kuq hóa kúqtoaı, ꝡë paq ní toa hóa da.
   Ilmen (2026-01-28): discriminator: 1
 
-jí [] @Aburn 2026-07-04 #8I-ILr0HG $de ± %deixis,discourse_participants
+jí @Aburn 2026-07-04 #8I-ILr0HG $de ± %deixis,discourse_participants
 [t]pronoun: [g]‘1S’; 1. Person Singular Personalpronomen; Ich/mir/mich
 
-jıa [] @official 2026-09-16 #xdCsUO_vzvG $en ± %deixis,time,tense
+jıa @official 2026-09-16 #xdCsUO_vzvG $en ± %deixis,time,tense
 [t]tense: [g]‘FUT’; future
 
 jıa @Laqme 2021-10-04 #TpI5Ont4m $ja ± %deixis,time,tense
@@ -35919,7 +35919,7 @@ jıaıtaı @uakci 2020-04-11 #Akr4vG3lZ $en ±
 jıajaı @Aburn 2026-09-08 #KaIFBwW6T $en ±
 [t]predicate: [g]‘excited’; ▯ is excited for/expecting/anticipating ▯
 
-jıajao [] @official 2026-09-16 #HDvrlgKnvBW $en ± %deixis,time,tense
+jıajao @official 2026-09-16 #HDvrlgKnvBW $en ± %deixis,time,tense
 [t]tense: [g]‘REM.FUT’; remote future
 
 jıajao @Ilmen 2020-01-30 #8wQF83MOT $toa -1 %deixis,time,tense
@@ -35938,7 +35938,7 @@ jıajoa @Laqme 2019-02-08 #JHyatgMk6 $en ±
 jıajue @Laqme 2019-02-08 #4-nHlsre_ $en ±
 [t]predicate: ▯ is next month.
 
-jıajuı [] @official 2026-09-16 #B-clfwk2CIe $en ± %deixis,time,tense
+jıajuı @official 2026-09-16 #B-clfwk2CIe $en ± %deixis,time,tense
 [t]tense: [g]‘NEAR.FUT’; near future
 
 jıajuı @Ilmen 2020-01-30 #nDNUXsJ04 $toa ± %deixis,time,tense
@@ -36292,7 +36292,7 @@ jıba @Ilmen 2020-03-10 #9R1DDUq_M $en +1
 jıbı @uakci 2022-10-19 #jkyWp9I7C $en +1
 [t]self-vocative: used to identify or introduce the speaker
 
-jıbı [] @official 2026-09-16 #GWRnjW7jRZI $en ±
+jıbı @official 2026-09-16 #GWRnjW7jRZI $en ±
 [t]vocative: [g]‘this.is’; self-vocative: used to identify or introduce the speaker.
 
 jıbo [(c) (d) tá sF] @official 2026-09-16 #2eJCRho-Xx4 $en ± %deixis,discourse_participants,possessive
@@ -36564,7 +36564,7 @@ jıkı @Laqme 2022-06-29 #Knd4Ng_BY $jbo ±
 .i cnima'o gi'e smudu'i zo "sei'u"
   Laqme (2022-06-29): noi smusmi zo "je'e" poi da cusku ke'a ba lo nu ckire da
 
-jıkı [] @salarua 2022-12-23 #FHNFXheP9 $es ±
+jıkı @salarua 2022-12-23 #FHNFXheP9 $es ±
 [t]interjección: [g]‘de.nada’; de nada/no hay de qué
 
 jıkı @SuperSpaceNiM 2024-08-12 #DMp69kWeK $ru ±
@@ -36668,7 +36668,7 @@ jımma @seaqtaq 2024-10-08 #zQKIpvUz1 $en ±
 [t]predicate: ▯ is just a minute/second/little while
   seaqtaq (2024-10-08): Analogous to duoma and nheoıma
 
-jımna [] @Dembim 2026-02-27 #FYOjHESgx $en ±
+jımna @Dembim 2026-02-27 #FYOjHESgx $en ±
 [t]interjection: [g]‘briefly’; "in summary"
   Dembim (2026-02-27): In some situations, this could pragmatically be the same as <emu> (which I'd probably prefer)
 
@@ -36690,7 +36690,7 @@ jımroa @seaqtaq 2024-10-16 #E8SLaFd85 $en ±
 jımtea @TheAndSys 2023-02-11 #Eh8N0E_jf $en ±
 [t]predicate: [g]‘be.startled’; ▯ is startled; experiences fear in a short burst
 
-jína [] @tonybrown 2023-02-05 #irP2hh_R2 $en +2
+jína @tonybrown 2023-02-05 #irP2hh_R2 $en +2
 [t]pronoun: [g]‘1P’; 1st person plural personal pronoun; we (multiple speakers)
   mimiaoganhaqpy (2023-02-05): In many cases, one should probably say **úmo**, **íme**, or **áma** but there are some situations in which one may wish to use this word, e.g.: https://discord.com/channels/311223912044167168/334810940392341514/1071327827221295124
 
@@ -38214,10 +38214,10 @@ jozogo @Machy 2022-06-28 #fke4Pt622 $en -1
 ju- @uakci 2023-11-30 #YqJi9FM8A $en ±
 [t]prefix: adjectival phrase head (like **kị-**): nonrestrictive adjective (like **jü**, unlike **ꝡë**)
 
-jü [] @official 2026-09-16 #ZoRM9HKeubk $en ±
+jü @official 2026-09-16 #ZoRM9HKeubk $en ±
 [t]complementizer: [g]‘NRST’; opens incidental relative clause
 
-jü [] @mimiaoganhaqpy 2022-12-07 #pZWVHZoqx $en ±
+jü @mimiaoganhaqpy 2022-12-07 #pZWVHZoqx $en ±
 [t]complementizer: [g]‘which’; incidental relative clause
 
 jü @uakci 2021-09-27 #wxgAHeEcj $en -1
@@ -38225,7 +38225,7 @@ begin incidental relative clause
   uakci (2021-09-27): this has the same function as **ju**, but binds the directly preceding noun phrase to **hóa** for pure convenience and pragmatic joy
   Ilmen (2025-10-30): officialized: yes
 
-jû [] @robintown 2024-07-30 #ne7ZKDH90 $en ±
+jû @robintown 2024-07-30 #ne7ZKDH90 $en ±
 [t]adjunct head: [g]‘ADJ.NRST’; opens incidental adverbial clause
 
 ju'ao @uakci 2021-12-30 #ftycuT44F $en ±
@@ -38591,10 +38591,10 @@ juaotao @lassc 2022-12-07 #jYhH0pait $en ±
 juaotoa @Ilmen 2020-03-03 #yaKtNxbRB $en ±
 [t]predicate: ▯ is a particle (function word).
 
-juaq- [] @official 2026-09-16 #IhLTH2CoQ6z $en ±
+juaq- @official 2026-09-16 #IhLTH2CoQ6z $en ±
 [t]focus particle prefix form: [g]‘even’; even
 
-júaq [] @official 2026-09-16 #1CSgA6QfWac $en ± %basic,presuppositional
+júaq @official 2026-09-16 #1CSgA6QfWac $en ± %basic,presuppositional
 [t]focus particle: [g]‘even’; even
 
 juaq'ıq @Ilmen 2024-10-23 #qecdgh8Tq $en ±
@@ -39568,13 +39568,13 @@ juzuzeo @el 2022-06-11 #mcfpabZFN $en ±
 jꝡa @Laqme 2024-12-21 #gbeH6EQzN $en ±
 [t]phrase: textspeak for **jıaoꝡa** (omg, oh my god)
 
-⚠ k [] @Laqme 2023-11-07 #VtVZRfkoj $en +2
+⚠ k @Laqme 2023-11-07 #VtVZRfkoj $en +2
 [t]interjection: [g]‘ack’; 'gah!', 'ack!', 'ghgh', 'you…!'
 
 ka- @Ilmen 2025-12-07 #Q7srdSp3q $en +1
 [t]prefix: prefixed to a number root, it turns it into a special word meaning ⟪▯ is identified as the [number]th thing with property ▯ referenced in current C-command syntactic context⟫; its use is to disambiguate variables or clauses which would otherwise bear the same name: ⟪kaqgaı sá kato sá kato⟫ → ⟪kaqgaı sá (kạshı) kato sá kạgu kato⟫ “some cat see a second cat”, allowing referring back to the second cat as ⟪kạ́gu⟫ or ⟪kạ́gu kato⟫ subsequently in the same clause.
 
-ka [] @official 2026-09-16 #XRLK14D0t28 $en ±
+ka @official 2026-09-16 #XRLK14D0t28 $en ±
 [t]illocution: [g]‘hereby’; performative
 
 ka @kazoo 2025-10-01 #K54TpU3uD $tr ±
@@ -41335,13 +41335,13 @@ kazu @el 2022-07-20 #H8o0nGRKB $en +2
 [t]predicate: ▯ is a kazoo
   el (2022-07-20): toot toot
 
-ke- [] @official 2026-09-16 #TqqLgKo2We3 $en ±
+ke- @official 2026-09-16 #TqqLgKo2We3 $en ±
 [t]determiner prefix form: [g]‘of:EXO’; fills object of verb with ké (exophoric; this X (not previously mentioned))
 
 ke @Machy 2020-06-12 #W3hn-dAbK $en ±
 [t]quantifier: ‘the/these’; quantifier: ke X refers to specific thing(s) that are X, among all X that are in the UoD.
 
-ké [] @official 2026-09-16 #4kVCgBTp3Qv $en ±
+ké @official 2026-09-16 #4kVCgBTp3Qv $en ±
 [t]determiner: [g]‘EXO’; exophoric; this X (not previously mentioned)
 
 ké @TheAndSys 2025-03-26 #WjNn5LXuG $es ±
@@ -41762,10 +41762,10 @@ keo @mimiaoganhaqpy 2022-04-29 #oHmeTLPnc $zh -1
 keo @el 2022-07-10 #utABlrtkH $tok -1
 = taso, ...
 
-kéo [] @official 2026-09-16 #cuQbLLiGTbB $en ±
+kéo @official 2026-09-16 #cuQbLLiGTbB $en ±
 [t]conjunction: [g]‘but’; but, however
 
-kéo [] @SuperSpaceNiM 2024-08-11 #s8VEABmMD $ru ±
+kéo @SuperSpaceNiM 2024-08-11 #s8VEABmMD $ru ±
 [t]союз: [g]‘но’; но, однако
 
 kéo @Ilmen 2026-01-28 #xVbPHAyq5 $ja ±
@@ -42075,13 +42075,13 @@ kı- @Laqme 2022-12-22 #_uUjfaOtu $en +1
 [t]prefix: adjectival prefix
   Laqme (2022-12-22): https://toaq.net/refgram/syntax/#adjective_pattern
 
-kı- [] @official 2026-09-16 #INv72vE6K3m $en ±
+kı- @official 2026-09-16 #INv72vE6K3m $en ±
 [t]prefix: [g]‘ADJ’; adjective
 
 kı- @kazoo 2024-11-24 #Jf3DiDcKD $tr ±
 [t]prefix: ön ek: sıfat
 
-kı [] @official 2026-09-16 #5nmn42h74rL $en ±
+kı @official 2026-09-16 #5nmn42h74rL $en ±
 [t]end parenthetical: [g]‘)’; end parenthetical
 
 kı @Ilmen 2020-01-29 #TxaqPEriG $toa -1
@@ -42656,22 +42656,22 @@ kıjı @otodidak 2021-09-22 #9nRwkq7vT $en +1
   Machy (2021-10-06): Is it really informal?
   Machy (2021-10-06): We have **kıkı** for the informal meaning.
 
-kıjı [] @official 2026-09-16 #TizAQUvSULm $en ±
+kıjı @official 2026-09-16 #TizAQUvSULm $en ±
 [t]interjection: [g]‘thanks’; thanks
 
 kıjı @Laqme 2022-06-29 #uXJ3nt-R7 $jbo ±
 .i cnima'o gi'e smudu'i zo "ki'e"
 
-kıjı [] @salarua 2022-12-23 #LYkNGdNhW $es ±
+kıjı @salarua 2022-12-23 #LYkNGdNhW $es ±
 [t]interjección: [g]‘gracias’; gracias
 
-kıjı [] @SuperSpaceNiM 2024-08-12 #_VeHcJT44 $ru ±
+kıjı @SuperSpaceNiM 2024-08-12 #_VeHcJT44 $ru ±
 [t]междометие: [g]‘спасибо’; спасибо
 
 kıkem @salarua 2024-01-03 #yJkZ5IJ8A $en ±
 [t]predicate: ▯ is crispy/crunchy.
 
-kıkı [] @Laqme 2021-09-25 #h3egp8OD4 $en +3
+kıkı @Laqme 2021-09-25 #h3egp8OD4 $en +3
 [t]interjection: [g]‘thankies’; ta, thankies (cute/informal thanks)
   Laqme (2021-09-25): Variation of **kıjı**, which I imagine is like halfway between this word and **Kủaq kỉe ka**.
 
@@ -42846,7 +42846,7 @@ kıo- @TheAndSys 2024-05-10 #UkjGA1rlJ $en ±
 kıo @Ilmen 2020-01-29 #e_IffkwjC $toa -1
 ⚙ [KIO] Tu toame tüqfıa shú kıo hóa na ru tuqsıe shú kı hóa bı heq bíhoı sa kuqtoaı na ru tu kuqtoaı bı bu shuaq pâqdoa ra paqnua há tóame kúqtoaı na sa hëo jeone hóa kúqtoaı da.
 
-kïo [] @official 2026-09-16 #PRA_aWz9p39 $en ±
+kïo @official 2026-09-16 #PRA_aWz9p39 $en ±
 [t]start parenthetical: [g]‘(’; start parenthetical
 
 kıokı @robintown 2024-09-02 #vP8hsT92e $en ±
@@ -43836,7 +43836,7 @@ koıhua @Ilmen 2019-02-04 #rAKrG541U $en ± %body_part
 koıjuı @Laqme 2024-07-03 #20UP5ESE0 $en ±
 [t]predicate: ▯ is within walking distance of ▯.
 
-koıka [] @lassc 2022-12-02 #vVM0H8pgJ $en +5
+koıka @lassc 2022-12-02 #vVM0H8pgJ $en +5
 [t]interjection: [g]‘farewell’; indication of departure without expectation of return
   lassc (2022-12-02): **reına** for acknowledgement, **oka**/**junı** for situations in which you expect return
   robintown (2023-10-17): goodbye
@@ -43969,7 +43969,7 @@ koluqbao @Hoemai 2019-04-03 #ZwTCjNuA4 $en ±
 kom- @seaqtaq 2024-10-03 #AH12i1oGc $en ±
 [t]prefix: incorporate kóm object
 
-kóm [] @Laqme 2023-02-14 #GxY0OW3nq $en +2
+kóm @Laqme 2023-02-14 #GxY0OW3nq $en +2
 [t]exophoric pronoun: [g]‘it’; inanimate tangible, 'it'
   TheAndSys (2023-10-26): we should bring this back
 
@@ -44241,7 +44241,7 @@ koꝡeja @jiqci 2024-07-03 #mcUTNFzYN $en ±
 ⚠ ksk @el 2022-06-23 #DoB85MEVR $toa -1
 = kuaq sheo ka
 
-ku- [] @official 2026-09-16 #_WX9slQPst4 $en ±
+ku- @official 2026-09-16 #_WX9slQPst4 $en ±
 [t]focus particle prefix form: [g]‘FOC’; non-contrastive focus
 
 ku @Ilmen 2019-01-29 #gyuugc8jF $toa -1
@@ -44251,7 +44251,7 @@ ku @uakci 2021-10-09 #49wKmpHxJ $en -1
 [t]experimental usage: without fourth-tone complement, mark semantic focus; with fourth-tone complement, turn it into a “focus marker” (e.g., **ku juaq** ‘even’, **ku leo** ‘“attemptedly”’)
   uakci (2021-10-09): this second usage similar to older **meq**, newer **cu** (among other names). see this discussion https://discord.com/channels/311223912044167168/334810940392341514/883774887611744287
 
-kú [] @official 2026-09-16 #r_OFPuNaqSg $en ±
+kú @official 2026-09-16 #r_OFPuNaqSg $en ±
 [t]focus particle: [g]‘FOC’; non-contrastive focus
 
 ku'aı @seaqtaq 2020-07-03 #Twooh8oMY $en ±
@@ -44600,7 +44600,7 @@ kudao @uakci 2022-07-29 #UVmvD7fs7 $en +1
 interjection of wanting/craving/needing/longing/yearning
   Ilmen (2025-10-31): officialized: yes
 
-kudao [] @official 2026-09-16 #RbHQ3sBsKrB $en ±
+kudao @official 2026-09-16 #RbHQ3sBsKrB $en ±
 [t]interjection: [g]‘sigh’; longing, yearning, craving
 
 kudeta @robintown 2023-12-06 #g-Drfl_Sb $en +1
@@ -45767,7 +45767,7 @@ kusumaı @robintown 2022-03-03 #4Dj4BzCud $en ±
 kusunıu @Laqme 2022-05-18 #Q9FS-KqsO $en ±
 [t]predicate: ▯ is a plant/vine of genus Cucurbita (squashes, gourds, pumpkins).
 
-kushe [] @official 2026-09-16 #eWTcEX76gYfK $en ±
+kushe @official 2026-09-16 #eWTcEX76gYfK $en ±
 [t]interjection: [g]‘sorry’; sorry
 
 kushe @Machy 2022-04-15 #YfPnDhwFs $en ±
@@ -45825,7 +45825,7 @@ unary property complementizer with subject implicitly filled with **já**
   uakci (2023-04-06): i mean **ꝡé**
   uakci (2023-12-31): let us say by fiat that this surfaces as **la**, first-tone, for object incorporation, seeing how useful object-incorporating **lá** phrases seems
 
-lä [] @official 2026-09-16 #rt3sQ_bUsO1X $en ±
+lä @official 2026-09-16 #rt3sQ_bUsO1X $en ±
 [t]complementizer: [g]‘λ’; opens property clause
 
 lä @mimiaoganhaqpy 2022-12-07 #_y6kVmIa3 $en -1
@@ -47577,7 +47577,7 @@ lezı @evie 2024-07-05 #W4zB5GlH_ $en ±
 lezurom @Laqme 2024-06-19 #o94wynLn8 $en ±
 [t]predicate: ▯ is a large language model.
 
-lı- [] @lassc 2025-03-22 #ciQ4ovqmE $en ±
+lı- @lassc 2025-03-22 #ciQ4ovqmE $en ±
 [t]prefix: [g]‘-level’; level/tier/stage/status/rank of X
   lassc (2025-03-22): trimmed from **lıuq**. an example would be like a rhythm game difficulty of lı̣joe as like "the difficulty level intended for skilled players"
   lassc (2025-03-23): i generalized this definition to allow uses similar to "-dan" or "duan" in martial arts/rhythm-gaming contexts
@@ -48595,7 +48595,7 @@ lo @fagri 2019-03-20 #ykZS9ALeG $en -1
 [t]predicate: [LU] Generates a predicate meaning "▯ is an instantiation of [the contained predication]"
   fagri (2019-03-20): With apologies to @uakci for taking a word form you wanted for something. I think the spreadsheet proposal of this word is older.
 
-ló [] @official 2026-09-16 #LzmVI3y1H-GY $en ±
+ló @official 2026-09-16 #LzmVI3y1H-GY $en ±
 [t]determiner: [g]‘the’; allomorph of the endophoric definite determiner (◌́) used for object incorporation
 
 loa [(c) (d) tá sI] @official 2026-09-16 #KYyVjdqZr8EO $en ± %has_color,trichromatic,pseudo-absolute
@@ -49738,7 +49738,7 @@ lualom @seaqtaq 2025-06-26 #YKVe5QoY2 $en ±
 lualomsıo @seaqtaq 2025-06-26 #q91SrQXAp $en ±
 [t]predicate: ▯ is the idea or concept of plot armor
 
-luam [] @Dembim 2026-01-30 #tGzzreZey $en +1
+luam @Dembim 2026-01-30 #tGzzreZey $en +1
 [t]degree: [g]‘medium’; middlingly
   Dembim (2026-01-30): roughly dead between "very much" and "barely at all"
   Dembim (2026-01-30): kw: medium
@@ -50337,7 +50337,7 @@ luhoq @Ilmen 2018-09-26 #pe4vhOZLV $en -1
 [t]predicate: ▯ is the proposition referred to by the previous lu-clause.
   Ilmen (2018-09-26): Including lu-less content clauses marked with a peaking tone.
 
-luı [] @official 2026-09-16 #Ce5PxyG3hE5o $en ± %aspect
+luı @official 2026-09-16 #Ce5PxyG3hE5o $en ± %aspect
 [t]aspect: [g]‘RETR’; retrospective (have X'd)
 
 luıcuajuoq @uakci 2022-02-19 #u6zk8fKEF $en ±
@@ -50750,13 +50750,13 @@ ma- @eednb 2023-11-21 #gZ_rCyuHo $en ±
 ma @robintown 2024-12-05 #e6Y6a31vf $en +1
 [t]polarity: whether; yes/no?
 
-ma [] @official 2026-09-16 #jjM08Abtupc4 $en ±
+ma @official 2026-09-16 #jjM08Abtupc4 $en ±
 [t]complementizer: [g]‘whether’; opens polar question matrix clause
 
 ma @kazoo 2024-12-05 #--fJj0kfy $tr ±
 [t]edat: mi?
 
-mä [] @official 2026-09-16 #7ji0sk_k1axa $en ±
+mä @official 2026-09-16 #7ji0sk_k1axa $en ±
 [t]complementizer: [g]‘whether’; opens polar question subordinate clause
 
 ma'epıqꝡarı @Ilmen 2023-06-29 #m9Sk-MkTR $en ±
@@ -51250,7 +51250,7 @@ makuı @Ilmen 2020-01-05 #zKt4u6MMO $en ± %logic
 makuı @Ilmen 2018-11-17 #yMscjPRAV $en -1 %logic
 [t]predicate: whether ▯ is the case conditions whether ▯ is the case.
 
-mala [] @official 2026-09-16 #LMtdUpHmIfHu $en ± %deixis,time,tense
+mala @official 2026-09-16 #LMtdUpHmIfHu $en ± %deixis,time,tense
 [t]tense: [g]‘EXS.PST’; existential past
 
 malahı @xorxes 2020-06-05 #GPBqIP9ZX $en +1
@@ -51423,13 +51423,13 @@ manha @uakci 2022-07-25 #_cGpc_MP_ $en +2
 [t]predicate: ▯ believes in / roots for / cheers for / prays for / keeps their fingers crossed for ▯, helping the latter in their endeavour to satisfy property ▯.
   uakci (2022-07-25): **mana** + **nha**. ▯ is in a psychological state that is meant to performatively support ▯ in their struggles
 
-mao- [] @official 2026-09-16 #_GUi8S4pZRi1 $en ±
+mao- @official 2026-09-16 #_GUi8S4pZRi1 $en ±
 [t]focus particle prefix form: [g]‘also’; also
 
 mao @el 2022-07-10 #Wfcu5wwej $tok -1
 ≈ kin
 
-máo [] @official 2026-09-16 #K1RjYKRw2SXw $en ± %basic,presuppositional
+máo @official 2026-09-16 #K1RjYKRw2SXw $en ± %basic,presuppositional
 [t]focus particle: [g]‘also’; also
 
 máo @Ilmen 2026-01-28 #EZ49cU1WZ $tok ± %basic,presuppositional
@@ -51502,7 +51502,7 @@ maomu @uakci 2022-07-12 #wSO4fH5jO $en -1
 [t]focus prefix: amongst others; not just
   Isi (2024-08-30): see also **zéı**
 
-maona [] @uakci 2023-11-11 #-EnWSePW7 $en +1
+maona @uakci 2023-11-11 #-EnWSePW7 $en +1
 [t]interjection: [g]‘moreover’; ‘in addition’; [in some contexts] ‘let alone’
 
 maoneı @jiqci 2024-10-31 #IR07tJIq0 $en +3
@@ -51524,7 +51524,7 @@ maq- @magnap 2024-10-06 #LdtQATDo5 $en +1
 maq- @magnap 2024-10-06 #KuLj_GOo3 $en -1
 [t]experimental: apply inquisitive semantics *?* (P or not P) to the result of ("outside") this quantifier or predicate
 
-máq [] @official 2026-09-16 #rVK38Vty6_lR $en ±
+máq @official 2026-09-16 #rVK38Vty6_lR $en ±
 [t]pronoun: [g]‘it.II’; anaphoric pronoun for inanimate DPs (class II)
 
 máq @Laqme 2021-10-04 #5lPMnJZ-I $ja ±
@@ -51585,7 +51585,7 @@ maqpa @Laqme 2018-12-08 #k83A22z70 $en ±
 maqraı @Ilmen 2019-01-28 #vb_YXd_TK $en -1
 [t]predicate: ▯ is inanimate.
 
-máqsıe [] @seaqtaq 2024-07-10 #JLbgzA9JU $en ±
+máqsıe @seaqtaq 2024-07-10 #JLbgzA9JU $en ±
 [t]pronoun: [g]‘CAT.it.II’; cataphoric pronoun for inanimate DPs (class II)
 
 maqtoa [(c) (d) hóq sI] @Dembim 2026-01-08 #zfZ0zRg2S $en ±
@@ -51826,7 +51826,7 @@ me @Ilmen 2019-01-31 #BSianGzz5 $toa -1 %mereology
 me'e @lassc 2025-03-16 #q5n7PwIwk $en ±
 [t]onomatopoeia: baa [sheep, goat, etc]
 
-mea- [] @Laqme 2023-10-31 #TGbviYv0k $en +2
+mea- @Laqme 2023-10-31 #TGbviYv0k $en +2
 [t]turns focus particle into conjunction: [g]‘out.of’; X **mẹ́aku** Y = "out of X, **kú** Y"
   Laqme (2024-05-14): X is the "domain of alternatives" in which Y is focused/selected by the particle.
   Laqme (2024-05-14): For example **Lıq chíeche mẹ́ato súq** means "Out of the students, only you are female"
@@ -52425,7 +52425,7 @@ memı @uakci 2020-01-27 #po5KmBzdZ $en ±
 memu @uakci 2022-10-08 #toNwZmUmM $en -1
 [t]focus marker: all of X, not just (or not necessarily) some among it. (< **meamuo**)
 
-mene [] @Dembim 2025-11-12 #ta8ApT7ND $en +1
+mene @Dembim 2025-11-12 #ta8ApT7ND $en +1
 [t]interjection: [g]‘embarrassed’; consciousness of a fault.
   Dembim (2025-11-12): sheepish
 
@@ -52713,7 +52713,7 @@ mı @uakci 2023-06-03 #ioiqJZ3A0 $en ±
 [t]name verb: [g]‘NAME’; turns following word X into verb: ▯ is called X; ▯ is something satisfying property ▯ that is called X.
   uakci (2023-06-03): this pans out better for names with “classifiers” like **mı Lue hıu** ‘the Yellow River’ or **mı Alesaqdo suoı** ‘Alexander the Great’
 
-mí [] @Isi 2024-09-06 #IfvZShzCx $en +4
+mí @Isi 2024-09-06 #IfvZShzCx $en +4
 [t]name pronoun: [g]‘NAME’; turns following word X into pronoun: the thing called X.
   Isi (2024-09-06): Then **chua** would be used for the predicate “▯ is called X”.
   robintown (2024-09-06): This pairs well with https://toaq.me/Pronoun_structure I think: you can have "mí Chuaılo hıu" for "the Chuailo river".
@@ -53386,7 +53386,7 @@ mıezueq @Ilmen 2023-01-13 #wfefuYJtu $en ±
 mıhao @Machy 2022-02-14 #ZYHSAEl3P $en -1
 [t]name verb for hedging: turns following phrase X into verb: ▯ is symbolically/pragmatically X.
 
-mıhem [] @Aburn 2026-07-12 #LK1kSFXXA $en +1
+mıhem @Aburn 2026-07-12 #LK1kSFXXA $en +1
 [t]interjection : [g]‘mischief’; mischief; hehe
 
 mıja @uakci 2022-07-24 #7T0_nqVdn $en +3
@@ -54991,10 +54991,10 @@ moq @Laqme 2021-10-03 #btbd-6Gc- $jbo -1
 moq @el 2021-10-03 #cmyS-5mos $ja -1
 返事を要求する言語行為を表す語尾。日本語での「〜か？」の同義
 
-móq [] @official 2026-09-16 #tU5LFy7PHIhT $en ±
+móq @official 2026-09-16 #tU5LFy7PHIhT $en ±
 [t]illocution: [g]‘INT’; interrogative
 
-môq [] @official 2026-09-16 #xS5mpNYWv $en ±
+môq @official 2026-09-16 #xS5mpNYWv $en ±
 [t]illocution: [g]‘RHET.INT’; rhetorical interrogative
 
 Moqgala @mimiaoganhaqpy 2023-06-26 #xkOmOI2yC $en ±
@@ -55147,7 +55147,7 @@ mozıu @Laqme 2022-06-26 #SbZjvFrdZ $en ±
 mshr? @evie 2025-11-16 #HNcIy21Q9 $en ±
 [t]phrase: wdyt? (textspeak for **mıu súq hí raı?**)
 
-mu- [] @official 2026-09-16 #2bxAILWhHH $en ±
+mu- @official 2026-09-16 #2bxAILWhHH $en ±
 [t]prefix: [g]‘OPP’; un-X; forms antonyms
 
 mu'uı @evie 2025-05-09 #2cIQ5BIa1 $en ±
@@ -55188,7 +55188,7 @@ múam @uakci 2023-07-23 #COP4UGXsJ $en ±
 [t]focus prefix and negation head: **béı** **aımu**; paired with a **béı** elsewhere, forms a contrastive pair
   uakci (2023-07-23): note that **aımu** or even **bu** is already enough; this is just for those times where you want a neatly coupled pair of phrases ("*not* this *but* that", etc.)
 
-muana [] @Laqme 2023-10-19 #TXB91TMh9 $en +6
+muana @Laqme 2023-10-19 #TXB91TMh9 $en +6
 [t]interjection: [g]‘for.example’; 'for example'
   Laqme (2023-10-19):  I don't know if writing "for example" again in the notes will move this up in the search results but it's worth a shot
 
@@ -56153,7 +56153,7 @@ muomsaı @robintown 2025-02-13 #f0J6BK0WG $en ±
 muomuı @Ilmen 2022-10-21 #t2aWLDaFO $en ±
 [t]predicate: speech act symbol or complete utterance ▯ represents speech act ▯.
 
-muona [] @Dembim 2026-02-27 #3PaLUNTvo $en ±
+muona @Dembim 2026-02-27 #3PaLUNTvo $en ±
 [t]interjection: [g]‘entirely’; "wholly"; "to say it all at once"; "putting the pieces together"
   Dembim (2026-02-27): Indicates an intention to describe something in its entirety, usually for the sake of checking or demonstrating understanding (or so I imagine— maybe there's some other, potentially more frequent use)
   Dembim (2026-02-27): Perhaps sometimes "to be pedantic about it"
@@ -56509,7 +56509,7 @@ mụrıem @Laqme 2023-12-11 #cmy90fDJv $en ±
 mụroa @robintown 2025-05-04 #jG_etr9O0 $en +1
 [t]predicate: ▯ is artificial.
 
-muru [] @Dembim 2026-03-15 #HPrwsEOUB $en ±
+muru @Dembim 2026-03-15 #HPrwsEOUB $en ±
 [t]conjunction: [g]‘nand’; not (X and Y)
 
 murum @jiqci 2023-11-04 #BelQ7MtBf $en +1
@@ -56607,14 +56607,14 @@ mutu @Ilmen 2021-11-03 #dA-4PYQgw $en -1
 mutu @el 2022-07-08 #daCHXQvyV $toa -1
 = meyq mu tulı ga
 
-na- [] @official 2026-09-16 #vqzXuJemIe4 $en ±
+na- @official 2026-09-16 #vqzXuJemIe4 $en ±
 [t]prefix: [g]‘CONJ’; conjunctionizer: converts a transitive verb into a conjunction.
 
 na- @Laqme 2022-12-22 #nrgZkzGae $en ±
 [t]prefix: turns transitive verbs into conjunctions
   Laqme (2022-12-22): e.g. **X nạ́rao Y** = X at the same time as Y
 
-⚠ na- [] @oldofficial 2023-01-13 #u3aNHTV9BC $en -1
+⚠ na- @oldofficial 2023-01-13 #u3aNHTV9BC $en -1
 [t]prefix: [g]‘CONJ’; conjunctionizer
   Isi (2024-07-19): Described in https://toaq.net/refgram/syntax/#nonce_coordination
 
@@ -56625,7 +56625,7 @@ na @TheAndSys 2025-04-08 #V_QgzSsqh $en +1
 clause terminator
   TheAndSys (2025-04-08): just to have it on record that this is something people are considering to have again
 
-nä [] @official 2026-09-16 #CLDHr4S4kEu $en ±
+nä @official 2026-09-16 #CLDHr4S4kEu $en ±
 [t]cleft verb: [g]‘CLE’; raise argument to the front of the clause
 
 nä @uakci 2023-01-07 #u0JnbARC4 $en ±
@@ -56700,7 +56700,7 @@ nadeq @uakci 2018-12-08 #SIUZZTlDh $en -1
 nạ́dıam @Laqme 2024-10-25 #onzruaYbh $en +1
 [t]conjunction: "enabling", "allowing"
 
-nádu [] @Laqme 2023-11-21 #FAhP7Bo1_ $en +3
+nádu @Laqme 2023-11-21 #FAhP7Bo1_ $en +3
 [t]pronoun: [g]‘that.event’; 'that event/situation' (that you are / they are in)
 
 naga @Hoemai 2019-04-03 #FBFzUIRIy $en ±
@@ -56726,11 +56726,11 @@ nahonam @evie 2024-08-11 #97nKR3uMv $en +1
 nahonam @SuperSpaceNiM 2024-08-11 #GXSPcdY08 $ru ±
 [t]predicate: ▯ — чесночный хлеб!!
 
-náhu [] @Laqme 2024-12-21 #YBnmvzy2O $en +1
+náhu @Laqme 2024-12-21 #YBnmvzy2O $en +1
 [t]determiner: [g]‘that’; distal endophoric; the non-recently aforementioned X
   Laqme (2024-12-21): **náhu X** = "that X we were talking about earlier"
 
-naı [] @official 2026-09-16 #pvnmDi1ZV_k $en ± %deixis,time
+naı @official 2026-09-16 #pvnmDi1ZV_k $en ± %deixis,time
 [t]tense: [g]‘PRS’; present
 
 naı @Laqme 2021-10-04 #DDZMyjtR6 $ja ± %deixis,time
@@ -57092,17 +57092,17 @@ nạ́nejeq @Laqme 2025-03-10 #1g8DBzh5l $en +1
 [t]conjunction: "as much as"
   Laqme (2025-03-10): **He cho jí báq pıano nạ́nejeq báq gıta.** I like pianos as much as guitars.
 
-nanı [] @Hoemai 2023-08-02 #WQDyI_Lzt $en +1
+nanı @Hoemai 2023-08-02 #WQDyI_Lzt $en +1
 [t]determiner: [g]‘that’; demonstrative; that X
   Hoemai (2023-08-02): synonym of #7tg2NkMmm and follows the same idea, I just prefer this form
   Laqme (2023-09-04): I assume this should be **nánı**
   Dembim (2026-06-04): Presumably, the above-linked entry was <níjao>?
 
-nánı [] @robintown 2024-08-21 #9WxZGE8ys $en +2 %deixis,demonstrative
+nánı @robintown 2024-08-21 #9WxZGE8ys $en +2 %deixis,demonstrative
 [t]determiner: [g]‘that’; distal demonstrative
   Ilmen (2026-01-25): Etymology: Related to Thai ⟪นั่น⟫, ⟪nân⟫, distal demonstrative.
 
-náno [] @nano 2024-10-10 #a7fl5oZcg $en +1
+náno @nano 2024-10-10 #a7fl5oZcg $en +1
 [t]pronoun: [g]‘nano’; nano's personal pronoun referring to it/itself
   nano (2024-10-10): ligature: ń
 
@@ -58005,7 +58005,7 @@ nego @Ilmen 2019-02-14 #xqgb_Y0F_ $en ± %amount
 neheo @seaqtaq 2020-01-27 #5MEYbThNV $en ±
 [t]predicate: ▯ differs from ▯ in the extent to which property ▯is satisfied
 
-nehera [] @Dembim 2026-02-01 #Eq6tpCb9F $en +1
+nehera @Dembim 2026-02-01 #Eq6tpCb9F $en +1
 [t]conjunction: [g]‘or.actually’; X or Y, unless X is not contextually equivalent to Y, in which case Y
   Dembim (2026-02-01): Obviously this has the same truth value as Y— it just allows the speaker to introduce the idea that they expect X and Y to be equal.
   Dembim (2026-06-17): see also <ꝡoshı>, which is similar
@@ -58476,7 +58476,7 @@ neupeq @Laqme 2023-10-19 #ngKb11vG- $en ±
 [t]predicate: ▯ is an invoice / bill.
   Laqme (2023-10-19): Etymologically: a summation/itemization of costs (like "l'addition" in French).
 
-néuq [] @Laqme 2024-01-08 #pIqCw4ITl $en +2
+néuq @Laqme 2024-01-08 #pIqCw4ITl $en +2
 [t]focus particle: [g]‘of.all.things’; 'X of all things! (what good/bad luck!)'
   Laqme (2024-01-08): coincidentally, "what a coincidence!"
   uakci (2024-01-08): if i understand the intent correctly, this is like a mirative particle, which unlike plain **kú** indicates an element of surprise, but is also unlike plain **béı**, which merely denies some other ambient claim
@@ -58497,7 +58497,7 @@ Nhanhuzu @funbreaker 2024-03-02 #OukvwLK_i $en ±
 Nhúꝡoko @jiqci 2025-08-25 #lbGcMe87u $en ±
 [t]proper noun: New York City
 
-nı- [] @official 2026-09-16 #87d4MHaxR8z $en ±
+nı- @official 2026-09-16 #87d4MHaxR8z $en ±
 [t]determiner prefix form: [g]‘of:this’; fills object of verb with ní (demonstrative; this/that X)
 
 nı @Ilmen 2020-01-26 #a2ZVpGP0R $toa ±
@@ -58520,13 +58520,13 @@ nı @uakci 2022-10-30 #3zDGo1C5x $en -1
 [t]determiner: this X
   uakci (2022-10-30): also see **nıtı**
 
-ní [] @robintown 2024-08-21 #bgHwgXNcb $en +3 %deixis,demonstrative
+ní @robintown 2024-08-21 #bgHwgXNcb $en +3 %deixis,demonstrative
 [t]determiner: [g]‘this’; proximal demonstrative
 
-ní [] @official 2026-09-16 #gQxGOiASTLV $en ± %deixis,demonstrative
+ní @official 2026-09-16 #gQxGOiASTLV $en ± %deixis,demonstrative
 [t]determiner: [g]‘this’; demonstrative; this/that X
 
-ní [] @SuperSpaceNiM 2024-08-11 #OslcK-ens $ru ± %deixis,demonstrative
+ní @SuperSpaceNiM 2024-08-11 #OslcK-ens $ru ± %deixis,demonstrative
 [t]определитель: [g]‘этот’; указательное мест.; этот/тот X
 
 ní @TheAndSys 2025-03-26 #70AdBlFuS $es ± %deixis,demonstrative
@@ -58982,7 +58982,7 @@ nıdıosıao @fagri 2019-12-16 #-eK_WK8Ll $en ±
 [t]predicate: ▯ is this morning (the most recent morning)
   fagri (2019-12-16): Including right now if necessary, I guess
 
-nídu [] @Laqme 2023-11-21 #S8LEae8Vd $en +3
+nídu @Laqme 2023-11-21 #S8LEae8Vd $en +3
 [t]pronoun: [g]‘this.event’; 'this event/situation' (that I am / we are in)
 
 nıe- @kazoo 2024-12-05 #V-wBILyxe $en -1
@@ -59270,10 +59270,10 @@ nıjao @Ilmen 2020-02-26 #gdXVV1t_n $en ±
 nıjao @el 2022-09-02 #rvR3KnXQl $jbo ±
 bo'a .uftu gi'e ckaji bo'e
 
-níjao [] @official 2026-09-16 #N58P_8IXEQO $en ± %deixis,demonstrative
+níjao @official 2026-09-16 #N58P_8IXEQO $en ± %deixis,demonstrative
 [t]determiner: [g]‘DIST’; distal demonstrative; that X over there
 
-níjao [] @SuperSpaceNiM 2024-08-11 #ozswnOnmh $ru ± %deixis,demonstrative
+níjao @SuperSpaceNiM 2024-08-11 #ozswnOnmh $ru ± %deixis,demonstrative
 [t]определитель: [g]‘DIST’; дальнее указательное мест.; тот X вон там
 
 nıjaofa @Ilmen 2020-02-25 #44rbMCBDT $en ±
@@ -59285,7 +59285,7 @@ nıjaojeaq @Ilmen 2020-02-26 #0N9xWi1JI $en ±
 nıjaq @Laqme 2020-02-15 #h6Zexp2Gj $en ±
 [t]predicate: ▯ is the case to this/that extent; ▯ satisfies ▯ this much / that much.
 
-nıjeo [] @Laqme 2023-11-03 #oBgcL8C0_ $en +2
+nıjeo @Laqme 2023-11-03 #oBgcL8C0_ $en +2
 [t]interjection: [g]‘affirmative’; "affirmative, indeed, that's correct"
   Laqme (2023-11-03): Something we can imagine **nho** to be short for. I imagine it has kind of a dry, official, legal, maybe even military vibe. "yes sir/ma'am/mx."
 
@@ -59319,10 +59319,10 @@ nıjuı @Ilmen 2020-02-26 #5mpXVL0S8 $en ±
 nıjuı @el 2022-09-02 #yUuyugSv4 $jbo ±
 bo'a .ifti gi'e ckaji bo'e
 
-níjuı [] @official 2026-09-16 #zFu-sKxMMmZ $en ± %deixis,demonstrative
+níjuı @official 2026-09-16 #zFu-sKxMMmZ $en ± %deixis,demonstrative
 [t]determiner: [g]‘PROX’; proximal demonstrative; this X over here
 
-níjuı [] @SuperSpaceNiM 2024-08-11 #Iq3tL-eFX $ru ± %deixis,demonstrative
+níjuı @SuperSpaceNiM 2024-08-11 #Iq3tL-eFX $ru ± %deixis,demonstrative
 [t]определитель: [g]‘PROX’; ближнее указательное мест.; этот X вот здесь
 
 nıjuıfa @Ilmen 2020-02-25 #g1WvUN8UB $en +1
@@ -59600,7 +59600,7 @@ nıoshuaı @robintown 2021-12-27 #FnzTSsVil $en ±
 Nıpoaq @jiqci 2023-06-29 #Iek6z8der $en ±
 [t]predicate: ▯ is Japanese, pertains to the Japanese occupiers during WW2 (pejorative term).
 
-nıq- [] @Laqme 2023-11-20 #9ouLPkK-M $en +3
+nıq- @Laqme 2023-11-20 #9ouLPkK-M $en +3
 [t]prefix: [g]‘re-’; ‘re-’
   Laqme (2023-11-20): Doing something again/anew, especially improving/correcting/obsoleting an earlier action
 
@@ -59869,7 +59869,7 @@ nısıbecıoq @jiqci 2023-06-25 #LUcPuKcea $en ±
 nısıcıoq @Laqme 2025-01-06 #4AfB9KAnP $en ±
 [t]predicate: ▯ is a gear stick / gearshift.
 
-nísıe [] @Laqme 2023-04-23 #fWBlMaSHR $en +2
+nísıe @Laqme 2023-04-23 #fWBlMaSHR $en +2
 [t]determiner: [g]‘the.following’; 'the following X'
   Laqme (2023-04-23): "the X below" (in written text), "the X introduced / presented hereafter"
 
@@ -62364,16 +62364,16 @@ It is what it is. / It can't be helped. / Things are as they are. (nullary predi
 nutushua @jiqci 2025-10-15 #52SBwAApQ $en ±
 [t]predicate: ▯ precipitates (out of a solution).
 
-nha- [] @official 2026-09-16 #h7mfw_CxNxR $en ±
+nha- @official 2026-09-16 #h7mfw_CxNxR $en ±
 [t]prefix: [g]‘VAR’; derives ad-hoc variable out of following material
 
 nha- @el 2023-01-06 #vVvP95giM $tok ±
 [t]nimi open: nimi ni li lon la kon li kama ni: "▯ li ijo"
 
-nha [] @official 2026-09-16 #89SZ35RVijp $en ±
+nha @official 2026-09-16 #89SZ35RVijp $en ±
 [t]illocution: [g]‘PROM’; promissive
 
-nha [] @Hoemai 2020-06-12 #fb4IyiEbi $en ±
+nha @Hoemai 2020-06-12 #fb4IyiEbi $en ±
 [t]illocution: [g]‘PRM’; promissive illocution
   Ilmen (2025-10-31): officialized: yes
 
@@ -62381,7 +62381,7 @@ nhá @uakci 2023-03-22 #0KkER9w3c $en +1
 [t]illocution: promissive–interrogative; “do you promise …?”, “will you [commit to] …?”
   uakci (2023-03-22): ≈ **ba**
 
-nhä [] @TheAndSys 2024-09-22 #aesA9Xp98 $en +1
+nhä @TheAndSys 2024-09-22 #aesA9Xp98 $en +1
 [t]complementizer: [g]‘INDQ’; opens indirect question clause
   TheAndSys (2024-09-22): This word has been bouncing around in my head a lot. Accepting this word would mean that ꝡä is eclusively for direct questions
 
@@ -62449,7 +62449,7 @@ nhamo @uakci 2022-03-23 #LbwVwTQbU $en ±
 nhampaı @Laqme 2024-09-15 #RR_8HeSaE $en ±
 [t]predicate: ▯ is a close/dear friend of ▯.
 
-nhána [] @official 2026-09-16 #JOC8uWf2h_1 $en ±
+nhána @official 2026-09-16 #JOC8uWf2h_1 $en ±
 [t]pronoun: [g]‘3P’; 3rd person plural personal pronoun; they/them
 
 nhanabo [(c) (d) tá sF] @official 2026-09-16 #RccbPB6LpNh $en ±
@@ -62471,7 +62471,7 @@ nhanhoq [(c) (d) hóq sI] @official 2026-09-16 #alrS_h0MfU6 $en ±
 nhanhoq @jiqci 2023-07-31 #cun1HGYD4H $pl ±
 [t]predicate: ▯ to litera Nh.
 
-nháo [] @official 2026-09-16 #gfaqci5PdA4 $en ±
+nháo @official 2026-09-16 #gfaqci5PdA4 $en ±
 [t]pronoun: [g]‘3S’; 3rd person singular personal pronoun; he/she/they / him/her/them
 
 nháo @Laqme 2021-10-04 #v8AjZkxV- $ja ±
@@ -62490,13 +62490,13 @@ nhaojı @Machy 2022-02-01 #XDNejeTkR $en -1
 nhaotoa @el 2022-11-27 #TJJot4dXI $en ±
 [t]predicate: ▯ is an exophoric pronoun
 
-nhaq- [] @evie 2026-07-07 #Fnw_FlGiR $en ±
+nhaq- @evie 2026-07-07 #Fnw_FlGiR $en ±
 [t]prefix: [g]‘of.3PL’; incorporate **nhána** object
 
 nhaq- @magnap 2024-10-06 #Ex3BV2WS8 $en -1
 [t]experimental: allow inquisitiveness to bubble up past the domain restriction of a restricted quantifier. example: «he pua nhaqbáq poq, naqꝡë naqjòe hí hóa, sía» (using prefix reform) "what are people who enjoy nothing skilled at?"
 
-nhaq [] @el 2021-12-19 #xLyC14SY_ $en +23
+nhaq @el 2021-12-19 #xLyC14SY_ $en +23
 [t]interjection: [g]‘nyaan’; nyaan
   el (2021-12-19): enough compounds with nhaq it may as well have its own definition
   Machy (2022-04-15): +1. If only I could +1000.
@@ -62548,7 +62548,7 @@ nhaqla @mimiaoganhaqpy 2025-03-23 #rx0v8j2YK $en ±
 nhaqluaı @nano 2024-06-17 #mjoOLvzRZ $en ±
 [t]predicate: ▯ is silly :3
 
-nháqna [] @uakci 2023-02-19 #GXpvqk86S $en +1
+nháqna @uakci 2023-02-19 #GXpvqk86S $en +1
 [t]pronoun: [g]‘3P.FELINE’; 3rd person plural personal pronoun restricted to feline antecedents; they/them / those catgirls/catboys
 
 nhaqnhaq @robintown 2023-05-20 #IIV7Tglth $en +1
@@ -62761,7 +62761,7 @@ nho- @robintown 2022-12-10 #paLtydbz4 $en +1
 nho- @Ilmen 2024-10-14 #u5A4KEtml $en -1
 [t]prefix: presupposition marker.
 
-nho [] @official 2026-09-16 #ew-xDKSHLlU $en ±
+nho @official 2026-09-16 #ew-xDKSHLlU $en ±
 [t]interjection: [g]‘yes’; yes
 
 nho @uakci 2021-10-29 #T4XVlXUhl $ja ±
@@ -62770,7 +62770,7 @@ nho @uakci 2021-10-29 #T4XVlXUhl $ja ±
 nho @el 2022-07-10 #Hnro0Ui_Y $tok ±
 [t]nimi a: "lon"
 
-nho [] @SuperSpaceNiM 2024-08-12 #9ATekHQ5q $ru ±
+nho @SuperSpaceNiM 2024-08-12 #9ATekHQ5q $ru ±
 [t]междометие: [g]‘да’; да
 
 nho @TheAndSys 2025-03-26 #7AXf1zjL3 $es ±
@@ -62783,7 +62783,7 @@ nhó @robintown 2021-12-30 #xFp_MuDto $en +2
 [t]interjection: right?, okay?
   Ilmen (2025-10-31): officialized: yes
 
-nhó [] @official 2026-09-16 #kMwBO74Qk3D $en ±
+nhó @official 2026-09-16 #kMwBO74Qk3D $en ±
 [t]interjection: [g]‘yes?’; is that so?
 
 nhoa- @lassc 2023-11-18 #j6qqmz3zE $en ±
@@ -62791,7 +62791,7 @@ nhoa- @lassc 2023-11-18 #j6qqmz3zE $en ±
   lassc (2023-11-18): cf. **dụı-** for too much of something
   lassc (2023-11-18): comparison ex. nhoa-loq for hypothermia
 
-nhoa [] @Laqme 2025-03-02 #wY1KqKKLl $en +3
+nhoa @Laqme 2025-03-02 #wY1KqKKLl $en +3
 [t]degree: [g]‘too.little’; too little
 
 nhoa @uakci 2022-07-29 #Zs9xy9XVL $en ±
@@ -63010,7 +63010,7 @@ nhu- @Neaqbua 2024-10-02 #hYS_LAmyo $en ±
   Neaqbua (2024-10-02): 	‹nhu-X› can only be rebound by ‹**nhuaı-**X›. For clarity in long texts, you can introduce new ‹nhu-X› bindings always with ‹**nhuaı**-X›.
   Neaqbua (2024-10-02): 	In contrast to **nha-**, the verb is not arbitrary: ‹nhú-raımı›, like ‹ráımı›, is restricted by the "raımı(_)" predicate.
 
-nhu [] @official 2026-09-16 #Ged8E8wVCJt $en ±
+nhu @official 2026-09-16 #Ged8E8wVCJt $en ±
 [t]sentence connector: [g]‘anyway’; return to old topic
 
 nhuaı- @Neaqbua 2024-10-02 #S_5mEGPtU $en ±
@@ -63219,7 +63219,7 @@ oa @kazoo 2025-05-23 #b7DGhStcS $en ±
 [t]meta-particle: next word is as if it carries the hiatus tone.
   kazoo (2025-05-23): only for the direst of situations
 
-oaı [] @official 2026-09-16 #_L9hiWh0wlc $en ±
+oaı @official 2026-09-16 #_L9hiWh0wlc $en ±
 [t]interjection: [g]‘uh-oh’; concern or realization of a problem; uh-oh, oh no
 
 oaı @el 2022-10-26 #xL4rooBEN $tok ±
@@ -63243,7 +63243,7 @@ oba @Ilmen 2019-12-24 #fywkQA_-c $en ±
 obane @Ilmen 2019-12-24 #a9THeIma_ $en ±
 [t]predicate: ▯ is the mass of ▯.
 
-obe [] @official 2026-09-16 #I_1_Yfnnt-D $en ± %emotion
+obe @official 2026-09-16 #I_1_Yfnnt-D $en ± %emotion
 [t]interjection: [g]‘oh’; surprise; oh
 
 obe @el 2022-10-26 #aeE0VXUzj $tok ± %emotion
@@ -63346,7 +63346,7 @@ oe @Laqme 2021-10-03 #kHOxYV_3z $en +1
   Ilmen (2025-10-31): officialized: yes
   Ilmen (2025-10-31): Modulo the fact that maybe the original intent was meant to have a more abrupt tone to it… If the official definition is unsatisfying, feel free to comment ⟪officialized: no⟫ for cancelling my above marking (intended for program reading the dictionary).
 
-oe [] @official 2026-09-16 #UHamdtWbtZ7 $en ±
+oe @official 2026-09-16 #UHamdtWbtZ7 $en ±
 [t]interjection: [g]‘hey.there’; getting someone's attention; hey there
 
 oeke @Laqme 2024-05-12 #vG1ZUvcWj $en ±
@@ -63407,7 +63407,7 @@ ohı @lassc 2025-04-01 #lZEDhdxaw $en ±
 Ohomıazu @eednb 2023-12-31 #7bKufF2Zv $en ±
 [t]predicate: ▯ is the Assamese language.
 
-oı- [] @Dembim 2025-12-09 #myrCeSfwU $en +2
+oı- @Dembim 2025-12-09 #myrCeSfwU $en +2
 [t]prefix: [g]‘in.property’; for a verb of valence N that involves some "salient property", produces a verb of valence N+1 with an additional slot at which the property may be passed explicitly. Prefix form of <oı>.
   Dembim (2025-12-09): Sometimes one may want the IO serialization behavior of many c c 1 verbs, even if one is generally in favor of the c c ôı 1 pattern.
   Ilmen (2025-12-16): discriminator: 2
@@ -63477,7 +63477,7 @@ ojarua @lassc 2025-03-12 #Kjjt4AN5c $en ±
   lassc (2025-03-12): calque from Spanish toloache ← Classical Nahuatl toloatzin (toloa "bow one's head" + -tzin (honorific/diminutive))
   lassc (2026-03-22): kw: Solanaceae, nightshades, moonflowers, metel, pricklyburr, devil (or angel??)'s-trumpets, mad apples, devil's weed (😭), hell's bells
 
-oka [] @lassc 2022-12-02 #BqntvW_Vp $en +5
+oka @lassc 2022-12-02 #BqntvW_Vp $en +5
 [t]interjection: [g]‘goodbye’; indication of departure with expectation of return
   lassc (2022-12-02): **junı** for acknowledgement, **koıka**/**reına** for situations in which you do not expect return
 
@@ -63501,7 +63501,7 @@ okeı @Laqme 2019-11-08 #dH3dUir_c $en +1
 okeı @el 2022-07-10 #qNbaAwMNj $tok ±
 [t]predicate: ▯ li pona
 
-okeı [] @Dembim 2025-12-11 #a0gNkyuIa $en ±
+okeı @Dembim 2025-12-11 #a0gNkyuIa $en ±
 [t]interjection: [g]‘OK’; "this/that/it is OK (fine, acceptable, alright)"
   Dembim (2025-12-11): Copied from <@Laqme okeı>: Doesn't cover the “passable, but not especially good” meaning that “OK” sometimes has in English (as in “the party was OK”).
   Dembim (2025-12-14): see also <@Dembim ıao>
@@ -63570,7 +63570,7 @@ omorashı @nsfw 2023-05-27 #u16XferJk $en ±
 omorı @jiqci 2023-09-02 #mUnEqFYvF $en +2
 [t]predicate: ▯ is a hermit/recluse.
 
-one [] @Laqme 2025-03-26 #OF5oAGJ8a $en +3
+one @Laqme 2025-03-26 #OF5oAGJ8a $en +3
 [t]interjection: [g]‘honey’; "babe", "honey", "dear"
   Laqme (2025-03-26): vocative for your partner
 
@@ -63618,7 +63618,7 @@ opuru @Ilmen 2024-03-19 #ivsSBt_o8 $en ±
 oq @fagri 2021-07-28 #u8vcOf5Ul $en -1
 [t]particle: accepts a predicate in the fourth tone and produces a high adverb that takes no complement
 
-ôq [] @Laqme 2023-02-18 #70rCWf6zQ $en +4
+ôq @Laqme 2023-02-18 #70rCWf6zQ $en +4
 [t]adjunct head: [g]‘making.object.be’; "resulting in the direct object being…"
   Laqme (2023-02-18): **Hıeq jí kíoq ôq nıe tíaı** "I throw the ball into the box"
   fagri (2023-05-26): Should the adverbial have «sho» added for «ôq sho nıe»?
@@ -63680,7 +63680,7 @@ orıganom @robintown 2025-05-05 #jRoWgKMNd $en ±
 orıoqkea @jiqci 2023-08-28 #MW25Np_wf $en ±
 [t]predicate: ▯ is a nuclear pulse engine.
 
-oro [] @official 2026-09-16 #-vun3Mgnxk6 $en ±
+oro @official 2026-09-16 #-vun3Mgnxk6 $en ±
 [t]interjection: [g]‘ugh’; annoyance, exasperation; ugh
 
 ôro @uakci 2022-06-20 #vgOdMlfLn $en +1
@@ -63711,7 +63711,7 @@ osaraı @Ilmen 2023-01-13 #cB3i8T_aa $en ± %lifeform,animal,mollusc
 osaraısıu @Ilmen 2023-01-13 #xU96Fnw7M $en ± %lifeform,animal,mollusc
 [t]predicate: ▯ is a true oyster (Ostreidae family).
 
-ose [] @Laqme 2022-02-04 #KVSBe6ZgZ $en +2
+ose @Laqme 2022-02-04 #KVSBe6ZgZ $en +2
 [t]interjection: [g]‘good job’; ‘good job! you did it! you worked hard!’
   lassc (2025-04-21): kw: "well done!", "great work!"
 
@@ -63809,7 +63809,7 @@ pa @el 2022-10-20 #6GYakxr1u $en -1
   el (2022-10-20): with the DP marked <1> moving up to the node marked _1
   Hoemai (2022-10-20): Looks like this (slightly adjusted): https://dprebyl.github.io/syntree/#%5BSAP%20%5BCP%20%5BC%20%C3%98%5D%20%5BFP%20%5BDP_1%20j%C3%AD%5D%20%5BF'%20%5BF%20pa%5D%20%5BVP%20%5BDP%20t%3C1%3E%5D%20%5BV'%20%5BV%20fa%5D%20%5BDP%20%5BD%20t2%5D%20%5BV%20jeariaq%5D%5D%5D%5D%5D%5D%5D%20%5BSA%20%C3%98%5D%5D
 
-pá [] @Laqme 2022-08-17 #f_T-L2FKt $en +2
+pá @Laqme 2022-08-17 #f_T-L2FKt $en +2
 [t]illocution marker: [g]‘imperative’; imperative with elided súq subject
   Laqme (2022-08-17): for example **Kaqsı jí pá!** = "look at me!". the subject DP had moved into SA, leaving a trace that makes the sentence "VO"
   Laqme (2022-08-17): I just think súq...bâ imperatives aren't very snappy
@@ -64088,7 +64088,7 @@ palatıdı @Ilmen 2025-11-02 #FlGlQmVtP $en ±
 palatına @Laqme 2022-05-10 #bm0ejAvJS $en ±
 [t]predicate: ▯ is platinum.
 
-pam- [] @seaqtaq 2024-07-23 #PCsVX6uuL $en ±
+pam- @seaqtaq 2024-07-23 #PCsVX6uuL $en ±
 [t]prefix: [g]‘sub-’; X→is a subpart of X
 
 pam @Laqme 2023-03-17 #rN3B9OM4k $en +1
@@ -65781,7 +65781,7 @@ Pıtesamızu [(c) (d) hóq sI] @salarua 2023-12-06 #dP4x_pEJn $en ±
 pıtoguı @jiqci 2023-03-07 #ZLni2CiG8 $en ±
 [t]predicate: ▯ is a python.
 
-pıu- [] @Laqme 2025-04-16 #hj1LfAcx8 $en +4
+pıu- @Laqme 2025-04-16 #hj1LfAcx8 $en +4
 [t]prefix: [g]‘-pilled’; 'X-pilled'
 
 pıu [(c) (d) máq sI] @official 2026-09-16 #HTNKa-9hs-v $en ± %body_part
@@ -66812,7 +66812,7 @@ pozola @robintown 2022-02-19 #Gvk4eppiV $en ±
   Laqme (2022-10-23): The word for "predicate _word_" aka "atomic verb" is **jeotoa**.
   Dembim (2026-02-03): The word for "predicate _word_" aka "atomic verb" is also (and as most seem to prefer) <faqtoa>.
 
-pu [] @official 2026-09-16 #hxUb2kIh_e5 $en ± %deixis,time,tense
+pu @official 2026-09-16 #hxUb2kIh_e5 $en ± %deixis,time,tense
 [t]tense: [g]‘PST’; past
 
 pu @Ilmen 2020-01-24 #gdQwr5JGU $toa ± %deixis,time,tense
@@ -66839,7 +66839,7 @@ pua @jiqci 2023-07-31 #Vakpc1wtv $pl ± %emotion
 pua @uakci 2019-04-14 #eZ_oYO9Oi $toa -1 %emotion
 foa dóshı sa lú gıjıe dóshı hóa na rào jêo dóshı dógu da
 
-puaba [] @Isi 2024-10-07 #KDPlJ6lSl $en ±
+puaba @Isi 2024-10-07 #KDPlJ6lSl $en ±
 [t]interjection: [g]‘enjoy’; Enjoy! / Have fun!
 
 puacıa @lassc 2023-11-22 #VJsUujYRT $en +1
@@ -67623,7 +67623,7 @@ puıtuao @Ilmen 2020-01-29 #XFIB9EeAZ $toa -1 %⚠,cardinality
 puıtuq @fagri 2019-01-09 #4uKe4IVTE $en ±
 [t]predicate: ▯ is a significant portion of the things satisfying property ▯
 
-pujao [] @official 2026-09-16 #S2KV3sRgyqs $en ± %duplicate
+pujao @official 2026-09-16 #S2KV3sRgyqs $en ± %duplicate
 [t]tense: [g]‘REM.PST’; remote past
 
 pujao @Ilmen 2020-01-30 #e3EhI8RBl $toa -1 %duplicate
@@ -67652,7 +67652,7 @@ pujoa @Laqme 2019-02-08 #o8I6Wiuth $en ±
 pujue @Laqme 2019-02-08 #xuoe6jFUS $en ±
 [t]predicate: ▯ is last month.
 
-pujuı [] @official 2026-09-16 #A7XVfk9SG95 $en ± %duplicate
+pujuı @official 2026-09-16 #A7XVfk9SG95 $en ± %duplicate
 [t]tense: [g]‘NEAR.PST’; near past
 
 pujuı @el 2022-07-10 #042D9fqBZ $tok ± %duplicate
@@ -67878,7 +67878,7 @@ puqchıo @Ilmen 2020-01-30 #XCTq0Bii7 $en ± %aspect
 puqdeu @Laqme 2023-03-16 #iJGOkowxE $en ±
 [t]predicate: ▯ is shared/collective: it may be ▯-ed by more than one party.
 
-puqdı [] @uakci 2023-11-12 #C5f9JtDyG $en -1
+puqdı @uakci 2023-11-12 #C5f9JtDyG $en -1
 [t]interjection: [g]‘hello’; said by one who’s entering to one who’s already present
   uakci (2023-12-02): see **shıdı**
 
@@ -68039,7 +68039,7 @@ ra @el 2022-07-10 #uVza-FlUP $tok ±
 ra @Ilmen 2020-01-24 #frCh3OJgo $toa -1
 = jıoı tora ga.
 
-rá [] @official 2026-09-16 #RbjgBQa7FEc $en ± %logic,conjunction
+rá @official 2026-09-16 #RbjgBQa7FEc $en ± %logic,conjunction
 [t]conjunction: [g]‘or’; inclusive or
 
 ra'aq @seaqtaq 2024-06-27 #8HZYZLM2L $en ±
@@ -68310,7 +68310,7 @@ rakuzıu @Dembim 2026-02-04 #XHHw15ilt $en ±
 [t]predicate: there are ▯ (number) <raku> in the word/phrase ▯.
   Dembim (2026-02-04): how many
 
-ram- [] @Laqme 2022-12-22 #CNk5sopzb $en +2
+ram- @Laqme 2022-12-22 #CNk5sopzb $en +2
 [t]prefix: [g]‘frequentative’; frequentative form of verb
   Laqme (2023-11-22): "ram-X" is like a spatiotemporal burst of small X-ings viewed as a single event: "X repeatedly" or "X around" or "X here and there".
   Laqme (2023-11-22): This is something like "crack → crackle" and "spark → sparkle" in English, or "-ella" in Finnish
@@ -69679,7 +69679,7 @@ rı @el 2022-07-13 #H1XST2EYN $en -1
   el (2022-07-26): responses don't necessarily have to be Nko, but it's still a "choose one" question
   uakci (2022-07-26): +1 for the overall idea, but i don't think there needs to be an implicit requirement that the answer be one-pronged – there are situations where it makes sense to have that and situations where it doesn't, and it's better to leave that to context
 
-rí [] @official 2026-09-16 #Kq76vt7ODhj $en ±
+rí @official 2026-09-16 #Kq76vt7ODhj $en ±
 [t]conjunction: [g]‘or?’; conjunction question
 
 rıa [(c) (d) tá sI] @official 2026-09-16 #yNR3kac-Zw5 $en ± %⚠
@@ -69960,7 +69960,7 @@ rıemıa @seaqtaq 2025-04-16 #10oJllDeK $en ±
 rıemkuq @Laqme 2023-12-11 #P2EDIwrBp $en ±
 [t]predicate: ▯ speaks their mind, saying ▯.
 
-rıemna [] @Laqme 2023-12-11 #fFSZJe9mc $en +2
+rıemna @Laqme 2023-12-11 #fFSZJe9mc $en +2
 [t]interjection: [g]‘to.be.honest’; 'to be honest'
   Dembim (2025-12-28): TBH
 
@@ -70020,7 +70020,7 @@ rıeqtaı @seaqtaq 2024-07-07 #VicNkjwDL $en ±
 rıerea @Ilmen 2026-08-27 #vqAvs5Rlh $en ±
 [t]predicate: ▯ is a boundary delimiting or separating ▯ from each other.
 
-ríeroı [] @uakci 2023-07-26 #xI_1hofA0 $en ±
+ríeroı @uakci 2023-07-26 #xI_1hofA0 $en ±
 [t]conjunction: [g]‘definitionally.mixed.with’; some of X, some of Y; half-X half-Y; between X and Y
 
 rıerueq @Ilmen 2024-12-16 #2BAxgcPPW $en ±
@@ -70436,7 +70436,7 @@ rıtıgıa @jiqci 2023-04-20 #Edi-NeYge $en ±
 [t]predicate: ▯ is a ziptie.
   jiqci (2023-04-20): etymology: onomatopoeia
 
-rıu- [] @lassc 2025-03-29 #v_hJW1S7O $en ±
+rıu- @lassc 2025-03-29 #v_hJW1S7O $en ±
 [t]prefix: [g]‘un-’; specifies the inverse/reverse of a verb
   lassc (2025-03-29): i.e. «rı̣uhao» "salient property ▯ is undone", «rı̣ucoe» "▯ is disconnected from ▯"
   lassc (2025-03-29): cf. **nıq-**
@@ -70585,7 +70585,7 @@ ro @Laqme 2021-10-04 #yrzGUDGFw $ja ±
 ro @el 2022-07-10 #2mXgdcgkE $tok ±
 ≈ anu
 
-ró [] @official 2026-09-16 #vuTWQuX20PW $en ±
+ró @official 2026-09-16 #vuTWQuX20PW $en ±
 [t]conjunction: [g]‘xor’; exclusive or
 
 ro'aq @seaqtaq 2024-06-27 #wujbqYzl9 $en ±
@@ -70823,7 +70823,7 @@ roazu @Machy 2021-09-18 #053l66QQR $en ±
 roazuom @jiqci 2024-11-25 #dD4e5jJ17 $en ±
 [t]predicate: ▯ is a natural disaster.
 
-robu [] @Laqme 2022-03-18 #fVc0HBs0E $en +2
+robu @Laqme 2022-03-18 #fVc0HBs0E $en +2
 [t]conjunction: [g]‘xnor/iff’; ‘xnor/iff’; either both or neither
   Laqme (2022-03-18): I think this uncommon conjunction doesn't deserve **re**.
   uakci (2022-07-13): material iff
@@ -70922,15 +70922,15 @@ roı @Ilmen 2020-01-24 #H5BHTu3ui $toa -1
 roı @el 2022-10-28 #GCIpD_OEH $toa -1
 = nahu raroı
 
-róı [] @official 2026-09-16 #DsgoPTVI2p9 $en ± %logic
+róı @official 2026-09-16 #DsgoPTVI2p9 $en ± %logic
 [t]plural coordinator: [g]‘and’; plural and
 
-roıbu [] @Laqme 2022-08-09 #P4BSTvnkD $en +1
+roıbu @Laqme 2022-08-09 #P4BSTvnkD $en +1
 [t]conjunction: [g]‘except’; plural difference
   robintown (2022-08-09): Note that unlike roı, roıbu can fail if there is no difference between the two pluralities. Using it claims that there *is* a difference.
   Laqme (2024-09-03): as of Delta, normally seen in the rising tone, **róıbu**.
 
-róıbu [] @Laqme 2024-09-03 #te-EZ99jc $en ±
+róıbu @Laqme 2024-09-03 #te-EZ99jc $en ±
 [t]conjunction: [g]‘except’; plural difference
 
 roıgıq @uakci 2019-07-11 #68u1qppCZ $en ±
@@ -71170,7 +71170,7 @@ rotojeq @uakci 2023-07-11 #TCXLJL4Sk $en ±
 ⚠ roujeo @uakci 2022-02-04 #9LJFETSSc $en -1
 [t]predicate: ▯ satisfies the predicate that defines **rou**.
 
-ru- [] @Laqme 2022-12-08 #22d1OScLP $en +2
+ru- @Laqme 2022-12-08 #22d1OScLP $en +2
 [t]prefix: [g]‘humble’; honorific, shows respect / humility toward tagged word
   Laqme (2022-12-08): like o-/go-/-sama in Japanese, or "sonkeigo" in general
 
@@ -71186,10 +71186,10 @@ ru @el 2022-07-10 #oYwvItLCb $tok ±
 ru @el 2022-10-20 #wqy-D-WVG $toa -1
 = jıoı joı
 
-rú [] @official 2026-09-16 #LnnWlqgpeAN $en ± %logic,conjunction
+rú @official 2026-09-16 #LnnWlqgpeAN $en ± %logic,conjunction
 [t]conjunction: [g]‘and’; and
 
-rú [] @SuperSpaceNiM 2024-08-11 #gIfWdhC96 $ru ± %logic,conjunction
+rú @SuperSpaceNiM 2024-08-11 #gIfWdhC96 $ru ± %logic,conjunction
 [t]союз: [g]‘и’; и
 
 rua [(c) (d) máq sI] @official 2026-09-16 #3d1Exw7U0KV $en ± %body_part
@@ -71492,12 +71492,12 @@ rúbıe @Laqme 2024-01-06 #cql1Bd8WO $en ±
 ruboq @uakci 2019-03-15 #VzuC3NiG- $en ±
 [t]predicate: ▯ omits doing ▯; ▯ could’ve done/been ▯ while doing/being ▯, but they chose to avoid the former and did/were just the latter.
 
-rubu [] @Laqme 2021-10-01 #oRdJnWe3W $en +2
+rubu @Laqme 2021-10-01 #oRdJnWe3W $en +2
 [t]conjunction: [g]‘and.not’; and not
   Machy (2021-10-10): +1
   Ilmen (2025-10-02): The lemma form for this word should be ⟪rúbu⟫.
 
-rúbu [] @Ilmen 2025-10-02 #Vb4JdcLsz $en +1
+rúbu @Ilmen 2025-10-02 #Vb4JdcLsz $en +1
 [t]conjunction: [g]‘and.not’; and not
 
 rubuıq @uakci 2024-05-02 #t9Dk5AWnT $en ±
@@ -71687,7 +71687,7 @@ rugajı @el 2022-09-13 #m1lFZLaIQ $toa ±
 rugo @Ilmen 2019-02-07 #Gv5YQnQqX $en ± %logic
 [t]predicate: ▯ and ▯ are in relation ▯ with each other.
 
-ruı- [] @official 2026-09-16 #zmuJftxNKd4Z $en ±
+ruı- @official 2026-09-16 #zmuJftxNKd4Z $en ±
 [t]prefix: [g]‘ATEL’; atelic
 
 ruı- @kazoo 2024-11-24 #Zx-piKMeO $tr ±
@@ -71830,7 +71830,7 @@ rúmao @Laqme 2024-07-15 #Z4oVPTXtx $en ±
 rumetoa @jiqci 2024-06-10 #olnIt0aQW $en ±
 [t]predicate: ▯ is an appositional compound,
 
-rumı [] @TheAndSys 2026-02-01 #kbalfPfaw $en ±
+rumı @TheAndSys 2026-02-01 #kbalfPfaw $en ±
 [t]name verb: [g]‘Prince’; Prince [NAME]
   TheAndSys (2026-02-01): Whatever grammar mí has in your idiolect, rúmi should probably have the same.
 
@@ -72196,7 +72196,7 @@ ruqshua @el 2022-07-10 #nwNoneA_D $tok ±
 ruqshua @jiqci 2023-07-31 #19WNGOCGL $pl ±
 Pada deszcz.
 
-ruqshua [] @SuperSpaceNiM 2024-08-11 #Z0QI24BVu $ru ±
+ruqshua @SuperSpaceNiM 2024-08-11 #Z0QI24BVu $ru ±
 [t]предикат: [g]‘дождь’; Идёт дождь.
 
 Ruqshua. @examples 2026-09-16 #ICahgooteeC $en ±
@@ -72292,7 +72292,7 @@ rushıu @Laqme 2022-05-26 #wMeoGS2xy $en ±
 rútıu @Laqme 2024-01-04 #9vDYRpgoq $en ±
 [t]conjunction: X, and therefore Y
 
-sa- [] @official 2026-09-16 #s2nl8ux1Y0Z4 $en ±
+sa- @official 2026-09-16 #s2nl8ux1Y0Z4 $en ±
 [t]determiner prefix form: [g]‘of:some’; fills object of verb with sá (existential quantifier)
 
 sa @Laqme 2021-10-04 #AaE42TwQm $ja ±
@@ -72304,7 +72304,7 @@ sa @Ilmen 2020-01-26 #35YaHsFz4 $toa -1
 sa @Laqme 2021-10-03 #z5v2qqNi6 $jbo -1
 .i ku'antora valsi gi'e smudu'i zo "su'oi" (noi panra zo "su'o" tu'a lo me zei logji)
 
-sá [] @official 2026-09-16 #X284rPViW7lI $en ±
+sá @official 2026-09-16 #X284rPViW7lI $en ±
 [t]determiner: [g]‘some’; existential quantifier
 
 sá @TheAndSys 2025-03-26 #WxIOAXnS9 $es ±
@@ -72421,7 +72421,7 @@ saheq @TheAndSys 2023-05-16 #9y9giIaiE $en ±
 saheqbeaq @jiqci 2023-09-08 #qwWysk3V9 $en ±
 [t]predicate: ▯ is a spindle.
 
-sahoı [] @Laqme 2023-02-10 #rfjkQQ6M0 $en +2
+sahoı @Laqme 2023-02-10 #rfjkQQ6M0 $en +2
 [t]interjection: [g]‘start.Lojban’; "I'm switching to Lojban" (Lojban toggle)
   Laqme (2023-02-10): Opposite of Lojban word "to'au" (which switches to Toaq). In Lojban, "sa'oi" also means "start of text".
 
@@ -73347,7 +73347,7 @@ sashe @Laqme 2024-09-01 #cCtnU3SAH $en +1
 sashe @robintown 2024-09-01 #qGidEui__ $toa ±
 [t]predicate: Daı juna ▯; bu dua sahu há ▯.
 
-sashı [] @Laqme 2021-11-03 #yt0nfCe_N $en +2
+sashı @Laqme 2021-11-03 #yt0nfCe_N $en +2
 [t]quantifier: [g]‘some.single’; same as "sa", but only quantifies over individuals
   Laqme (2021-11-03): forked from **syq**. apologies to rheological paste
 
@@ -74068,7 +74068,7 @@ seq- @seaqtaq 2024-07-16 #Eu6r2UvSD $en +1
 seq @robintown 2023-12-20 #UqQ9GKt82 $en +2
 [t]predicatizer: ‘other than’; turns following phrase X into verb: ▯ is not X; ▯ is something other than X.
 
-seqbu [] @seaqtaq 2024-07-16 #judRXfe8n $en ±
+seqbu @seaqtaq 2024-07-16 #judRXfe8n $en ±
 [t]polarity: [g]‘OTHR’; something other than X
   seaqtaq (2024-07-16): "Seqbu jaı jí" == "I feel not exactly happy"
   seaqtaq (2024-07-17): Seqbu X ló Y ≈ Iq ló Y sá seq, lä X já
@@ -74256,7 +74256,7 @@ sı @Laqme 2025-04-03 #Llh6uPRbQ $jbo ± %cognition
 sı @uakci 2019-01-27 #IyR_O0wxp $toa -1 %cognition
 bıaq raqmoı dóshı dógu da
 
-sıa- [] @official 2026-09-16 #TSvS1v1CfB-0 $en ±
+sıa- @official 2026-09-16 #TSvS1v1CfB-0 $en ±
 [t]determiner prefix form: [g]‘of:no’; fills object of verb with sía (zero quantifier)
 
 sıa @Laqme 2021-10-05 #cOBd-bk5z $ja ±
@@ -74268,7 +74268,7 @@ sıa @el 2022-07-10 #2mN9IHiMK $tok ±
 sıa @Ilmen 2020-01-26 #wfqK0OlN9 $toa -1
 ⚙ [SA] Shu sıa cótoa müıbo hóa cúaq sıalı da.
 
-sía [] @official 2026-09-16 #MjbaBpKpOJCs $en ±
+sía @official 2026-09-16 #MjbaBpKpOJCs $en ±
 [t]determiner: [g]‘no’; zero quantifier
 
 sía @TheAndSys 2025-03-26 #vadb_uy0Y $es ±
@@ -74554,7 +74554,7 @@ sıaomıaı [(c c) (d d) tá sI] @Dembim 2025-12-27 #WxVwv9Z2W $en ±
   Dembim (2026-02-12): Subject: individual
   Dembim (2026-02-12): Distribution: d d
 
-sıaona [] @uakci 2023-11-11 #svdpZDRnQ $en +1
+sıaona @uakci 2023-11-11 #svdpZDRnQ $en +1
 [t]interjection: [g]‘firstly’; ‘to begin’; ‘first things first’; opp. **faona**
   jiqci (2023-11-11): "for starters"
   seaqtaq (2024-11-14): to preface
@@ -74811,7 +74811,7 @@ sıechıo @seaqtaq 2024-07-30 #r5hx34nww $en ±
 sıedao @Ilmen 2020-01-16 #2Yc--Y2LK $en -1
 [t]predicate: ▯ is a sequence; ▯ is the sequence ⟨▯, ▯ (, ▯ (, ▯ (…)))⟩.
 
-síedaq [] @Dembim 2026-06-25 #zrsfMRp15 $en ±
+síedaq @Dembim 2026-06-25 #zrsfMRp15 $en ±
 [t]pronoun: [g]‘next.time’; the next period (of a sort determined by context)
   Dembim (2026-06-25): Depending on context, this means "tomorrow", "next month", "next semester", etc.
 
@@ -75702,7 +75702,7 @@ sıumuo @Ilmen 2019-02-08 #qikzj02zJ $en ±
 sıumuo @seaqtaq 2019-07-15 #gLcyPErkQ $jbo ±
 [t]predicate: ▯ mlumitu▯
 
-sıuq [] @TheAndSys 2023-03-13 #qBDLZVZcT $en +1
+sıuq @TheAndSys 2023-03-13 #qBDLZVZcT $en +1
 [t]interjection: [g]‘like’; Delayed filler
 
 sızıum [(c) (d) máq sI] @Dembim 2026-07-03 #Yg0Pr4H-M $en ±
@@ -75716,7 +75716,7 @@ so- @kazoo 2025-04-30 #GqUpLXLcn $en ±
 so @Machy 2022-02-07 #XMTv7iECL $en -1
 [t]complementizer: non-polar question
 
-só [] @Dembim 2025-12-14 #B0Yy-q2PJ $en +1
+só @Dembim 2025-12-14 #B0Yy-q2PJ $en +1
 [t]determiner: [g]‘NAME’; proper noun; for use with Kuna/Eatoaq/Koıtıeq variable-style names; ignores local bindings to facilitate binding to referents in the salient context
   Dembim (2025-12-14): Whatever ends up happening with mí, this seems like a worthwhile thing to have access to. Perhaps that usefulness will be overcome by future events.
   Dembim (2025-12-14): see also <@Ilmen ıqmı>
@@ -76938,7 +76938,7 @@ sozıgoa @jiqci 2025-01-29 #vn2NfaQO4 $en ±
 ⚠ stenokaı @Laqme 2025-03-30 #klHnKpo9B $en ±
 [t]predicate: ▯ writes ▯ using stenography.
 
-su- [] @official 2026-09-16 #UnNof1FrFZ2F $en ±
+su- @official 2026-09-16 #UnNof1FrFZ2F $en ±
 [t]prefix: [g]‘SUP’; X-est; most X; superlative
 
 su- @kazoo 2024-11-24 #2iNO2vy8T $tr ±
@@ -76947,7 +76947,7 @@ su- @kazoo 2024-11-24 #2iNO2vy8T $tr ±
 sua- @seaqtaq 2024-07-27 #arr3kH8M4 $en ±
 [t]prefix: unrestricted existential (prefix form of sula)
 
-sua [] @Dembim 2026-01-28 #62FkZ73Kh $en +1 %logic
+sua @Dembim 2026-01-28 #62FkZ73Kh $en +1 %logic
 [t]modality: [g]‘NEC.IND.CONTRA’; X is necessary for ... to happen
   Ilmen (2026-01-28): discriminator: 2
 
@@ -77408,7 +77408,7 @@ suelıeı @Laqme 2024-09-29 #12Fl9LQAv $en +1
 [t]predicate: ▯ obeys ▯.
   Laqme (2024-09-29): I think the object can be a person or a rule or a principle, as long as it has some request associated with it.
 
-suena [] @Laqme 2023-10-01 #l0I5gKKjI $en +2
+suena @Laqme 2023-10-01 #l0I5gKKjI $en +2
 [t]interjection: [g]‘please’; ‘please’
   Laqme (2023-10-01): Softens a **ba** sentence.
   Laqme (2023-10-01): While also marking it as a request and not a wish I guess. **ba** is so vague aaahh
@@ -77517,7 +77517,7 @@ suhedıu @seaqtaq 2019-12-27 #HPz5FWo4R $en ±
 suhezudıu @seaqtaq 2025-04-18 #RhsXr9wz3 $en ±
 [t]predicate: ▯ is the field of psycholinguistics
 
-súho [] @official 2026-09-16 #VdrTdb1M_1zp $en ±
+súho @official 2026-09-16 #VdrTdb1M_1zp $en ±
 [t]pronoun: [g]‘2+3’; 2nd + 3rd person personal pronoun; you + them
 
 suhobo [(c) (d) tá sF] @official 2026-09-16 #0bd8KgOBMpJd $en ± %deixis,discourse_participants,possessive
@@ -77691,7 +77691,7 @@ sujo @Laqme 2025-08-04 #2vRqIEPV5 $en ±
 [t]predicate: ▯ is a bundle of strings, ropes, wires, etc that are all running parallel to each other
   fagri (2021-09-15): a priori
 
-súkena [] @lassc 2025-03-29 #31_RGG3f9 $en ±
+súkena @lassc 2025-03-29 #31_RGG3f9 $en ±
 [t]pronoun: [g]‘you’; vulgar/arrogant/superior 2nd person plural
   lassc (2025-03-29): cf. **súqke**, **áhoq**, **áhona**
 
@@ -77724,7 +77724,7 @@ sukuaıpoq @TheAndSys 2024-02-06 #T5DPyo-fd $en ±
 sukuaıse @salarua 2025-02-02 #cLjkMdXQZ $en ±
 [t]predicate: ▯ is an urging/strong advice
 
-sula [] @official 2026-09-16 #xRJHafISs3Rb $en ± %deixis,time,tense
+sula @official 2026-09-16 #xRJHafISs3Rb $en ± %deixis,time,tense
 [t]tense: [g]‘EXS’; unrestricted existential
 
 sulam @evie 2024-11-26 #IO5aIl4OU $en +1
@@ -77747,7 +77747,7 @@ sumake @el 2022-10-03 #GGsDQSPoW $en ±
 sumo @Hoemai 2019-03-17 #0_-t908_9 $en ±
 [t]predicate: ▯ is sumo wrestling.
 
-súna [] @official 2026-09-16 #yUQVKDqqO1kx $en ± %deixis,discourse_participants
+súna @official 2026-09-16 #yUQVKDqqO1kx $en ± %deixis,discourse_participants
 [t]pronoun: [g]‘2P’; 2nd person plural personal pronoun; y'all (multiple listeners)
 
 sunabo [(c) (d) tá sF] @official 2026-09-16 #u5xhlsM0hJOu $en ±
@@ -77765,7 +77765,7 @@ sunekıaq @jiqci 2023-05-21 #pI8UGx0OA $en ±
 sunem @Laqme 2024-05-16 #ya9rzIGI2 $en ±
 [t]predicate: ▯ is a fabric / net / web / lattice / wicker / (something woven).
 
-súnı [] @Laqme 2024-12-21 #l1_d-TE_C $en +1
+súnı @Laqme 2024-12-21 #l1_d-TE_C $en +1
 [t]determiner: [g]‘that’; second person / medial demonstrative
 
 suo- @TheAndSys 2023-05-13 #vclzktXT8 $en ±
@@ -77971,19 +77971,19 @@ shao jí sî dóshı kûq jí ní toame da
 suq @Ilmen 2020-01-24 #QH15GoEky $toa -1
 ⚙ [X] Muıbo ní toa cúaq jeı lú kuq kúq kúqtoaı hóa da.
 
-súq [] @official 2026-09-16 #XWkJI5LP-OQA $en ± %deixis,discourse_participants
+súq @official 2026-09-16 #XWkJI5LP-OQA $en ± %deixis,discourse_participants
 [t]pronoun: [g]‘2S’; 2nd person singular personal pronoun; you
 
 súq @Laqme 2021-10-04 #EyesSvx6a $ja ± %deixis,discourse_participants
 代名詞：「あなた」（二人称代名詞）
 
-súq [] @SuperSpaceNiM 2024-08-11 #gtZ6cfEBt $ru ± %deixis,discourse_participants
+súq @SuperSpaceNiM 2024-08-11 #gtZ6cfEBt $ru ± %deixis,discourse_participants
 [t]местоимение: [g]‘2S’; личное мест. 2 лица ед. ч.; ты/тебя/тебе/тобой
 
 súq @maigoi 2024-09-11 #A0eZh99Y8 $pt ± %deixis,discourse_participants
 [t]pronome: segunda pessoa singular
 
-súq [] @TheAndSys 2025-03-26 #phsi2DCAw $es ± %deixis,discourse_participants
+súq @TheAndSys 2025-03-26 #phsi2DCAw $es ± %deixis,discourse_participants
 [t]pronombre: [g]‘2S’; ‘2S‘; pronombre personal de segunda persona; tú/usted
 
 súq @Ilmen 2026-01-28 #UslUknUVC $jbo ± %deixis,discourse_participants
@@ -78191,7 +78191,7 @@ shacaı @Laqme 2023-12-13 #KcbSq_bUJ $en ±
 shachoa @robintown 2022-02-18 #iLIchY0G8 $en ±
 [t]predicate: ▯ hisses (utters a hissing sound).
 
-shadı [] @official 2026-09-16 #DUmpXLXH-hrG $en ±
+shadı @official 2026-09-16 #DUmpXLXH-hrG $en ±
 [t]interjection: [g]‘welcome’; welcome
 
 shadı @uakci 2022-04-15 #_yTN1H_MQ $en ±
@@ -78300,7 +78300,7 @@ shaıcıakaqsı @evie 2024-07-03 #Yqw_xDtZ4 $en ±
 shaıdeqtao @Machy 2022-05-14 #ksvf6Femt $en ±
 [t]predicate: ▯ abnegates / doesn't allow themself to satisfy property ▯.
 
-shaıdı [] @mimiaoganhaqpy 2022-10-20 #M77jB2A8F $en ±
+shaıdı @mimiaoganhaqpy 2022-10-20 #M77jB2A8F $en ±
 [t]interjection: [g]‘bye’; goodbye / bye
 
 shaıdıru @Laqme 2023-12-02 #XaK3xO3Vy $en ±
@@ -78776,7 +78776,7 @@ shatı @jiqci 2023-07-31 #2s2d79_wT $pl ±
 she- @seaqtaq 2025-07-22 #ChRUMmCz9 $en ±
 [t]prefix: turns a verb X into a verb meaning "▯ X-s because some salient event happened"
 
-she [] @official 2026-09-16 #2lt8bhlposBG $en ± %logic,modal,duplicate
+she @official 2026-09-16 #2lt8bhlposBG $en ± %logic,modal,duplicate
 [t]modality: [g]‘NEC.IND’; indicative, necessary; X happens if ...
 
 she @el 2022-07-10 #qe7aMXPo9 $tok ± %logic,modal,duplicate
@@ -79054,13 +79054,13 @@ sheba @uakci 2022-04-15 #jE6uDFkAN $en +1
 [t]interjection: move / clear the way / make way for me; excuse me
   Ilmen (2025-10-31): officialized: yes
 
-sheba [] @official 2026-09-16 #O6ardrO8uXE3 $en ±
+sheba @official 2026-09-16 #O6ardrO8uXE3 $en ±
 [t]interjection: [g]‘please.move’; clear the way / move / excuse me
 
 sheba @uakci 2021-09-09 #HTQqNl-QF $en ±
 [t]predicate: If ▯ is the case, I command you to make ▯ be the case.
 
-sheba [] @salarua 2022-12-23 #2-9JMIfff $es ±
+sheba @salarua 2022-12-23 #2-9JMIfff $es ±
 [t]interjección: [g]‘perdón’; perdón/con permiso
 
 shebaqsı'eku @Ilmen 2019-09-17 #I0rSsujuRxw $en ±
@@ -79656,7 +79656,7 @@ shıchuoı @Ilmen 2019-09-17 #mzehzhGi4cs $en ±
 shıdeu @Laqme 2023-03-16 #0H9ykfcka $en ±
 [t]predicate: ▯ is private: it may be ▯-ed by only one party.
 
-shıdı [] @uakci 2023-11-12 #ELd975aqG $en -1
+shıdı @uakci 2023-11-12 #ELd975aqG $en -1
 [t]interjection: [g]‘welcome’; said by one who’s already present to one who’s entering
   uakci (2023-11-12): ‘welcome back’ as opposed to **shadı**
   uakci (2023-12-02): see **puqdı**
@@ -81789,7 +81789,7 @@ ta- @uakci 2023-01-15 #Zz0S8bSiW $en +2
 ta- @Laqme 2025-04-26 #KwD8Ywxyz $en ±
 [t]prefix: incorporate **tá** object
 
-tá [] @official 2026-09-16 #m8z5CMy1YmWE $en ±
+tá @official 2026-09-16 #m8z5CMy1YmWE $en ±
 [t]pronoun: [g]‘it.IV’; anaphoric pronoun for adjective DPs (class IV)
 
 tá @Laqme 2021-10-04 #1H-YG0GpK $ja ±
@@ -82007,7 +82007,7 @@ tale @robintown 2023-08-23 #Tooh9Cul- $en ±
 [t]predicate: ▯ is taro (Colocasia esculenta).
   robintown (2023-08-23): From Proto-Malayo-Polynesian *taləs
 
-tam [] @official 2026-09-16 #RkDIZ8sTykuN $en ±
+tam @official 2026-09-16 #RkDIZ8sTykuN $en ±
 [t]aspect: [g]‘PERF’; perfective
 
 tama @seaqtaq 2022-10-01 #T8C72kjys $en +1 %lifeform,plant,fruit
@@ -82801,7 +82801,7 @@ tası [(c) (d) máq sI] @official 2026-09-16 #UWgFaSFkfEMI $en ±
 tası @jiqci 2023-07-31 #frPiXsRjzz $pl ±
 [t]predicate: ▯ to taksówka.
 
-tásıe [] @seaqtaq 2024-07-10 #Zw4dv3LSH $en ±
+tásıe @seaqtaq 2024-07-10 #Zw4dv3LSH $en ±
 [t]pronoun: [g]‘CAT.it.IV’; cataphoric pronoun for adjective DPs (class IV)
 
 tashı @fagri 2021-09-28 #O80bwFueX $en -1
@@ -82827,7 +82827,7 @@ tatoa [(c) (d) hóq sI] @Dembim 2026-01-28 #j-mGXF-hl $en ±
 tatu @uakci 2022-07-21 #ffd2moXrR $en +1
 [t]predicate: ▯ is a tattoo.
 
-te- [] @official 2026-09-16 #S7dO3p9PRr6T $en ±
+te- @official 2026-09-16 #S7dO3p9PRr6T $en ±
 [t]prefix: [g]‘PPF’; have been X'd by …; passive perfect
 
 te- @kazoo 2024-11-24 #4WLgeAKpE $tr ±
@@ -83426,13 +83426,13 @@ tenısı @Hoemai 2019-03-17 #ivMPC6P8t $en ±
 tenısıkıoq @Laqme 2023-10-06 #Ytj6_0NDs $en ±
 [t]predicate: ▯ is a tennis ball.
 
-teo [] @official 2026-09-16 #3EKdTCKH845O $en ±
+teo @official 2026-09-16 #3EKdTCKH845O $en ±
 [t]end quote: [g]‘UNQUOTE’; end full-text quote
 
 teo @Ilmen 2020-01-29 #iH0AaooTw $toa -1
 ⚙ [TEO] Tu toame tüqfıa shú mo hóa na ru tuqsıe shú teo hóa bı, doemıatoame tóame, na ru paq go shú mo sa laqgeateı müıbo hóa dôe tóame hı na, na ru heq bíhoı sa kuqse, na ru muıbo tóame lî meajeq ja kúqse hëq tóame hóa da.
 
-tëo [] @TheAndSys 2023-05-22 #ySPEybew4 $en +1
+tëo @TheAndSys 2023-05-22 #ySPEybew4 $en +1
 [t]cleft quote: [g]‘CLEQ’; Raise mó quote to the front of the clause
   TheAndSys (2023-05-22): Uakci said it's possible that it has to be a full clause and that she's not sure if it can be a SAP, but also that it could be made to be able to take that. So there's that.
   uakci (2023-05-22): in the sense that if **tëo** has **gö** grammar then it can quote TP-s for free, but we could absolutely special-case it to accept CPs/SAPs, maybe even NPs as necessary
@@ -83440,7 +83440,7 @@ tëo [] @TheAndSys 2023-05-22 #ySPEybew4 $en +1
 teolaı @el 2022-06-20 #FqydLmvM- $en ±
 [t]predicate: ▯ is a close-quote (», ”, etc)
 
-teom [] @Laqme 2023-10-13 #eoAxw04TA $en +2
+teom @Laqme 2023-10-13 #eoAxw04TA $en +2
 [t]interjection: [g]‘you.mean’; rephrasing and correcting, "you mean ... / I'd phrase it like ..."
   Laqme (2023-10-13): jocularly it can act as "more like ... am I right!"
   evie (2025-03-01): can mean "technically" in some sense
@@ -83659,7 +83659,7 @@ teqluaq @Laqme 2022-07-01 #rPHZLNfFy $en ±
 teqmıeqdıu @jiqci 2026-09-07 #Vbsskj59d $en ±
 [t]predicate: ▯ is econometrics.
 
-téqna [] @Laqme 2023-11-14 #90IKSueYo $en +2
+téqna @Laqme 2023-11-14 #90IKSueYo $en +2
 [t]pronoun: [g]‘thou’; archaic/ancient 2nd person singular
   Laqme (2023-11-14): From Toaq Alpha "… téq na" which means "… súq da"
 
@@ -84617,7 +84617,7 @@ tıjuı @Laqme 2025-04-03 #g42Q7pzRL $jbo ±
 tıjuq @uakci 2023-12-03 #wRtaHL29Z $en ±
 [t]predicate: ▯ (non-agentively) inserts/slots itself into ▯.
 
-tıka [] @Laqme 2024-09-18 #zYmiM50NJ $en +4
+tıka @Laqme 2024-09-18 #zYmiM50NJ $en +4
 [t]interjection: [g]‘here.I.am’; "here I am" / "I'm home" / "I'm back"
 
 tıla @jiqci 2025-01-05 #vQnsZeDc_ $en ±
@@ -84731,10 +84731,10 @@ tıo- @kazoo 2025-10-22 #0z99RohVZ $en ±
 tıo @robintown 2024-10-24 #kVz-T8NFj $en +1
 [t]degree: how much?
 
-tıo [] @official 2026-09-16 #1K6B2mKCBm $en ±
+tıo @official 2026-09-16 #1K6B2mKCBm $en ±
 [t]complementizer: [g]‘how.much’; opens degree question matrix clause
 
-tïo [] @official 2026-09-16 #El7eIPi2O $en ±
+tïo @official 2026-09-16 #El7eIPi2O $en ±
 [t]complementizer: [g]‘how.much’; opens degree question subordinate clause
 
 tıoba @robintown 2025-04-24 #b8lBJFcJ2 $en ±
@@ -84995,7 +84995,7 @@ tısue @uakci 2021-09-18 #sgfF23Tsz $en ±
 tısuım @Laqme 2024-08-01 #fQwaMXpMr $en ±
 [t]predicate: ▯ puts ▯ where it belongs.
 
-tısupu [] @Dembim 2026-01-29 #vX0Zr0StH $en ±
+tısupu @Dembim 2026-01-29 #vX0Zr0StH $en ±
 [t]volume unit: [g]‘tsp’; teaspoon
   Dembim (2026-01-29): see note under <@Dembim nhebıo>
   Ilmen (2026-01-29): discriminator: 2
@@ -85107,13 +85107,13 @@ tıu @Hoemai 2019-03-24 #kfmih3BlN $en +2
 [t]sentence prefix: then, in that case, so
   Ilmen (2025-10-31): officialized: yes
 
-tıu [] @official 2026-09-16 #QS4KBLkGlr $en ±
+tıu @official 2026-09-16 #QS4KBLkGlr $en ±
 [t]sentence connector: [g]‘therefore’; so/therefore
 
 tıu @Laqme 2024-01-04 #pWc4VwNi3 $en ±
 [t]interjection: then, so, thus
 
-tíu [] @salarua 2023-03-04 #Z-80MUDxy $en ±
+tíu @salarua 2023-03-04 #Z-80MUDxy $en ±
 [t]conjunction: [g]‘therefore’; therefore, so, thus
   salarua (2023-03-04): example: Duo koı jóaq tíu póqme da. "The leader, and therefore the crowd, marched on."
   uakci (2023-03-04): X, and therefore, Y
@@ -85193,10 +85193,10 @@ tızuo @Ilmen 2024-09-25 #2Nag2eiUO $en ±
 tızuodo @Ilmen 2024-09-25 #EL7UD3ZN_ $en ±
 [t]predicate: ▯ puts ▯ to prepared storage location ▯.
 
-to- [] @official 2026-09-16 #0ZuvBH_Mtt $en ±
+to- @official 2026-09-16 #0ZuvBH_Mtt $en ±
 [t]focus particle prefix form: [g]‘only’; only
 
-tó [] @official 2026-09-16 #5ip9HeEfb9 $en ±
+tó @official 2026-09-16 #5ip9HeEfb9 $en ±
 [t]focus particle: [g]‘only’; only
 
 to'ıgu @jiqci 2023-07-07 #w0CAVzUWC $en ±
@@ -86519,7 +86519,7 @@ tozıkeshe @zepeliq 2025-08-15 #OtQNZgflZ $en -1
 [t]predicate: ▯ is a tram car.
   Ilmen (2025-10-22): Interesting phonotactics. While this is obviously intentional, how about ⟪taramchao⟫?
 
-tu- [] @official 2026-09-16 #5UNXZN8-g4w $en ±
+tu- @official 2026-09-16 #5UNXZN8-g4w $en ±
 [t]determiner prefix form: [g]‘of:each’; fills object of verb with tú (singular universal quantifier)
 
 tu @Ilmen 2020-01-26 #gg2i-1dmv $toa -1
@@ -86528,7 +86528,7 @@ tu @Ilmen 2020-01-26 #gg2i-1dmv $toa -1
 tu @Laqme 2021-10-04 #clKDzZ-hs $ja -1
 限定詞：「あらゆる…」（全称記号、∀）
 
-tú [] @official 2026-09-16 #Mu_fKbNTaM_ $en ± %logic,quantification,binary_quantifier
+tú @official 2026-09-16 #Mu_fKbNTaM_ $en ± %logic,quantification,binary_quantifier
 [t]determiner: [g]‘each’; singular universal quantifier
 
 tú @kazoo 2024-11-24 #wbuxwZLVZ $tr ± %logic,quantification,binary_quantifier
@@ -87421,7 +87421,7 @@ tupaꝡeam @uakci 2023-07-19 #Uy-CmT30B $en ±
   uakci (2023-07-19): psm of english ‘tupperware’ with **tupa** **ꝡeam** (connoting highly multiple). the english term in turn derives from tupper (the name of the inventor, who also ran a multi-level marketing scheme. for the girlies. ❤)
   uakci (2023-07-19): *connoting highly multiple reüse
 
-tuq- [] @official 2026-09-16 #t560PO09shF $en ±
+tuq- @official 2026-09-16 #t560PO09shF $en ±
 [t]determiner prefix form: [g]‘of:all’; fills object of verb with túq (collective universal quantifier)
 
 tuq @Laqme 2021-10-03 #eesEbHmsa $jbo -1
@@ -87435,7 +87435,7 @@ tuq @Laqme 2021-10-04 #YR5BR-BNA $ja -1
 tuq @el 2022-07-10 #WUyKKUWkQ $tok -1
 «tuq X» li sama "X ale wan"
 
-túq [] @official 2026-09-16 #8yC6n2JJbE_ $en ±
+túq @official 2026-09-16 #8yC6n2JJbE_ $en ±
 [t]determiner: [g]‘all’; collective universal quantifier
 
 túq @TheAndSys 2025-03-26 #KxEqjNdV0 $es ±
@@ -87495,7 +87495,7 @@ tuqheq @seaqtaq 2024-10-18 #02SZTF-7r $en ±
 [t]predicate: ▯ is comprised of/made up of ▯ exhaustively
   seaqtaq (2024-10-18): **tuqpaq** with inverted word order
 
-tuqhı [] @Machy 2021-10-10 #bOmxTGGOR $en -1
+tuqhı @Machy 2021-10-10 #bOmxTGGOR $en -1
 [t]quantifier: [g]‘which’; which?, exhaustive. Every possible answer that would render the predicate true, considered together, satisfies a **tuqhı** question.
 
 tuqjane @uakci 2022-04-22 #0uPnCU6_Q $en -1
@@ -87741,7 +87741,7 @@ tutu @el 2022-08-08 #rvADAWxJr $en +1
   el (2022-08-08): equivalent to official **tu**
   el (2023-01-12): as of Delta, no longer equivalent to official **tu** (which is now singular)
 
-tútu [] @official 2026-09-16 #8_ugQ2DjKpa $en ±
+tútu @official 2026-09-16 #8_ugQ2DjKpa $en ±
 [t]determiner: [g]‘every’; universal quantifier
 
 tutulı @Ilmen 2020-01-11 #En88AqdTz $en +1 %logic,quantification
@@ -87817,7 +87817,7 @@ u'upoq @fagri 2019-12-26 #8PFb-ApRL $en ±
 [t]predicate: ▯ is a "woo woo" person
   fagri (2019-12-26): Etymology: In English, the word "woo" or the phrase "woo woo" can refer to mystical/semi-mystical things like meditation, mindfulness, astrological signs, etc (note that things that actually work are not necessarily excluded)
 
-ua [] @official 2026-09-16 #AW4Jebu2Crq $en ±
+ua @official 2026-09-16 #AW4Jebu2Crq $en ±
 [t]interjection: [g]‘wow’; amazement; wow, woah
 
 ua @el 2022-07-10 #OXQ31fCCB $tok ±
@@ -87856,7 +87856,7 @@ uao @nano 2023-11-20 #VW8KIbAmM $en +1
 üaq @kazoo 2025-11-03 #JmcFoRGgv $en +1
 [t]complementizer: the probability of ...
 
-ubaı [] @official 2026-09-16 #3T9ssvKFKds $en ±
+ubaı @official 2026-09-16 #3T9ssvKFKds $en ±
 [t]interjection: [g]‘alas’; alas
 
 ubaımoe @Ilmen 2022-07-09 #n-ehwa6mm $en ±
@@ -87910,10 +87910,10 @@ udo @salarua 2023-02-19 #C95AlV9KA $en ±
 ⚠ ùe @xorxes 2020-06-05 #NnTp0a1k4 $en -1
 [t]interjection: expression of surprise, with overtones of disagreement or protest.
 
-ue'ıa [] @Aburn 2026-07-14 #HUKaBhO6w $en ±
+ue'ıa @Aburn 2026-07-14 #HUKaBhO6w $en ±
 [t]interjection: [g]‘protest’; insolence, insubordination, protest; hey! no!
 
-ûe'ıa [] @Dembim 2026-08-06 #qPz_o6xX0 $en +1
+ûe'ıa @Dembim 2026-08-06 #qPz_o6xX0 $en +1
 [t]interjection: [g]‘know.your.place’; contempt and disdain; indignation
   Dembim (2026-08-06): For the basic emotion of "all robot & computers must shut the hell up", "you have no right to speak in my holy tongue", "why are you acting as though you are my equal?", "idiot. you die now", "do not cite the Deep Magic to me, Witch!", and other similar admonishments of hubris.
 
@@ -87924,7 +87924,7 @@ Uesekozu @eednb 2023-12-31 #Y-h1-x8dO $en ±
 ufa @TheAndSys 2024-09-14 #aU9bzt_iI $en ±
 [t]interjection: oof
 
-ufu [] @official 2026-09-16 #Y3-lukFed0H $en ±
+ufu @official 2026-09-16 #Y3-lukFed0H $en ±
 [t]interjection: [g]‘phew’; relief; phew
 
 ûfu @Laqme 2023-12-19 #PKZdRRhPc $en +1
@@ -87992,7 +87992,7 @@ uıbokato @jiqci 2024-04-28 #a6MC9Dn8Y $en ±
 uıjatoq @robintown 2023-09-09 #rIxBD6vf9 $en +1
 [t]predicate: ▯ is an Ouija board.
 
-uım [] @Aburn 2026-07-13 #ag8Nany4V $en +1
+uım @Aburn 2026-07-13 #ag8Nany4V $en +1
 [t]interjection: [g]‘>~<’; expression of being cutely uncomfortable or embarrassed; >~<
   Aburn (2026-07-13): Sadly I can’t have a word pronounced /ɯ/… (╯﹏╰）
   Dembim (2026-07-13): See also <mene>
@@ -88093,7 +88093,7 @@ umarele @jiqci 2024-05-06 #MC8GjoxlB $en +1
 umbo @seaqtaq 2024-10-23 #qYivnVkUc $en -1
 [t]possessive pronoun predicate: ▯ is úm's
 
-ume [] @official 2026-09-16 #tZ8ctmcqUHT $en ±
+ume @official 2026-09-16 #tZ8ctmcqUHT $en ±
 [t]interjection: [g]‘mmm’; pleasure; mmm
 
 ume @el 2022-07-10 #rHtDYkNfT $tok ±
@@ -88133,7 +88133,7 @@ umılaı @jiqci 2023-11-26 #PoG8NSMzy $en ±
 umızeq @jiqci 2023-11-26 #2rMIxYtTg $en ±
 [t]predicate: ▯ is uracil.
 
-úmo [] @official 2026-09-16 #2KIoM_AXMZr $en ± %deixis,discourse_participants
+úmo @official 2026-09-16 #2KIoM_AXMZr $en ± %deixis,discourse_participants
 [t]pronoun: [g]‘1+2’; 1st + 2nd person personal pronoun; we/us (me + you)
 
 umobo [(c) (d) tá sF] @official 2026-09-16 #balsZ7iq-uq $en ± %deixis,discourse_participants,possessive
@@ -88190,7 +88190,7 @@ uoıtı @uakci 2021-09-03 #FSPqgVS6x $en ±
 uokuaı @uakci 2023-09-06 #TKz6RC3L2 $en +3
 [t]predicate: ▯ is eepy.
 
-upa [] @official 2026-09-16 #ykbDQaI005E $en ±
+upa @official 2026-09-16 #ykbDQaI005E $en ±
 [t]interjection: [g]‘oops’; admitting a minor mistake; oops, whoops
 
 upa @el 2022-07-10 #OruN634NQ $tok ±
@@ -88215,7 +88215,7 @@ upatoa @evie 2024-07-13 #LVG9gP_kA $en +1
 upıdatı @Maigoi 2024-10-17 #zSP792Asd $en ±
 [t]predicate: ▯ is a dictionary webapp/api which messes up to which language each word will output, although being pleasant in regard ▯, it still needs some work
 
-uq [] @official 2026-09-16 #O_rJ59RbVfr $en ±
+uq @official 2026-09-16 #O_rJ59RbVfr $en ±
 [t]interjection: [g]‘mhm’; backchanneling, signifying that you're still following along; mhm
 
 uq @Ilmen 2019-07-21 #_K1k7gzrz $en -1
@@ -88311,7 +88311,7 @@ Usonagua @countries 2026-09-16 #jnTyYqZtv3_4 $en ± %cultural,country
 usonakafe @salarua 2022-08-31 #0Z39mnH4R $en ±
 [t]predicate: ▯ is caffe americano
 
-usonhebıo [] @Dembim 2026-01-29 #mPzv4FXg- $en ±
+usonhebıo @Dembim 2026-01-29 #mPzv4FXg- $en ±
 [t]volume unit: [g]‘US.cup’; US customary cup (236.5882365 ml)
 
 usoq @Machy 2022-04-23 #22Q9mNUkU $en ±
@@ -88383,27 +88383,27 @@ uzıu @Laqme 2023-12-29 #NFFzaKlGm $en +1
 [t]prefix: turns verb into a pronoun referring to a proposition underpinning that verb
   seaqtaq (2024-07-09): Autofills all slots of the verb with sá: lạ́de = ꝡá de sá; ꝡámaı = ꝡá maı sá sá, etc.
 
-ꝡa [] @official 2026-09-16 #XjYggxlRlf2 $en ±
+ꝡa @official 2026-09-16 #XjYggxlRlf2 $en ±
 [t]complementizer: [g]‘COMP’; opens declarative matrix clause
 
-ꝡa [] @mimiaoganhaqpy 2022-12-07 #6tK27kCf1 $en ±
+ꝡa @mimiaoganhaqpy 2022-12-07 #6tK27kCf1 $en ±
 [t]complementizer: [g]‘that’; declarative clause
   el (2022-12-25): also seen written **vya**, **va**, **wa**, **ya**
   Ilmen (2025-10-31): officialized: yes
 
-ꝡa [] @eednb 2023-08-27 #JRifpWaVa $fr ±
+ꝡa @eednb 2023-08-27 #JRifpWaVa $fr ±
 [t]complémenteur: [g]‘COMP’; commence une proposition principale déclarative
 
-ꝡa [] @eednb 2023-12-03 #m15GUSAFJ $lou ±
+ꝡa @eednb 2023-12-03 #m15GUSAFJ $lou ±
 [t]komplémentœr: [g]‘COMP’; komens in pròpozisyon prinsipal déklarativ
 
-ꝡä [] @official 2026-09-16 #mCArXHelLfJ $en ±
+ꝡä @official 2026-09-16 #mCArXHelLfJ $en ±
 [t]complementizer: [g]‘COMP’; opens declarative subordinate clause
 
-ꝡä [] @eednb 2023-08-27 #nVU1xm257 $fr ±
+ꝡä @eednb 2023-08-27 #nVU1xm257 $fr ±
 [t]complémenteur: [g]‘COMP’; commence une proposition subordonnée déclarative
 
-ꝡä [] @eednb 2023-12-03 #aQqzc359_ $lou ±
+ꝡä @eednb 2023-12-03 #aQqzc359_ $lou ±
 [t]komplémentœr: [g]‘COMP’; komens in pròpozisyon sibòrdoné déklarativ
 
 ꝡa'emele @Ilmen 2025-03-23 #R7Z1_Ic_L $en ±
@@ -88496,7 +88496,7 @@ vague definite determiner; ‘the’
 ꝡamꝡam @uakci 2023-11-17 #KzWj5mQdN $en ±
 [t]interjection: taunting, teasing; ‘come at me’
 
-ꝡane [] @Laqme 2024-10-01 #Z6qRq48vj $en ±
+ꝡane @Laqme 2024-10-01 #Z6qRq48vj $en ±
 [t]complementizer: [g]‘that’; archaic synonym of **ꝡä**
 
 ꝡao @eednb 2023-01-14 #yfPzZfQVi $en +1
@@ -88527,7 +88527,7 @@ vague definite determiner; ‘the’
 [t]predicate: ▯ is brassica rapa.
   Snow (2023-06-02): From cantonese 蕓薹 wan4 toi4
 
-ꝡaqꝡaq [] @uakci 2023-08-05 #Iypc3LRXH $en ±
+ꝡaqꝡaq @uakci 2023-08-05 #Iypc3LRXH $en ±
 [t]onomatopoeia: [g]‘woof’; ‘bark’; ‘yip’ (esp. with /j/)
 
 ꝡara @TheAndSys 2024-05-03 #7_WLNnLh- $en ±
@@ -88580,17 +88580,17 @@ vague definite determiner; ‘the’
 ꝡaꝡao @evie 2025-03-30 #FdgGvDlB8 $en ±
 [t]interjection: cuter **ꝡadı**
 
-ꝡe [] @mimiaoganhaqpy 2025-02-11 #2vo_GPGUu $en ±
+ꝡe @mimiaoganhaqpy 2025-02-11 #2vo_GPGUu $en ±
 [t]free relative: [g]‘that.which’; turn clause into predicate
   mimiaoganhaqpy (2025-11-08): Example: Ꝡe maı hóa hóe, jí da. = "I am one who loves the sun."
 
 ꝡé @mimiaoganhaqpy 2022-12-18 #pC-pFAWo3 $toa +2
 = ló ꝡë
 
-ꝡë [] @official 2026-09-16 #LQgupn5Knbp $en ±
+ꝡë @official 2026-09-16 #LQgupn5Knbp $en ±
 [t]complementizer: [g]‘RST’; opens restrictive relative clause
 
-ꝡë [] @mimiaoganhaqpy 2022-12-07 #SEGk7IieI $en ±
+ꝡë @mimiaoganhaqpy 2022-12-07 #SEGk7IieI $en ±
 [t]complementizer: [g]‘which’; relative clause
   Ilmen (2025-10-31): officialized: yes
 
@@ -88615,7 +88615,7 @@ vague definite determiner; ‘the’
 ꝡefajom @jiqci 2024-03-14 #4PvLfHdhw $en ±
 [t]predicate: ▯ is an imp.
 
-ꝡeı [] @Laqme 2023-01-27 #fnDUBIWMl $en +5
+ꝡeı @Laqme 2023-01-27 #fnDUBIWMl $en +5
 [t]speech act particle: [g]‘exclamative’; "what a ...!" / "how ...!"
   Laqme (2023-01-27):  **Fıe sáka da** = The shirt is ugly, **Fıe sáka ꝡeı!** = What an ugly shirt!
   Laqme (2023-01-27): Conveys an impression/emotional impact, more subjective/phatic/self-directed than **da**
@@ -88644,7 +88644,7 @@ vague definite determiner; ‘the’
 ꝡem @uakci 2023-01-10 #qJgmgtixG $en ±
 [t]predicate: ▯ is intense/excruciating/unbearable.
 
-ꝡéma [] @Dembim 2026-02-02 #nzxUH09i3 $en +2
+ꝡéma @Dembim 2026-02-02 #nzxUH09i3 $en +2
 [t]focus particle: [g]‘(?)’; meta dubious/questionable
   Dembim (2026-02-02): I'm not sure this is actually focus per-se, but the grammar seems right.
   Dembim (2026-02-02): Non-prefix form of <@lassc em->; marks the attached constituent as dubious or questionable in whether it really means what the speaker intends. "for lack of a better word", in some cases or "(?)" in others. Essentially a parenthetical question or assertion of uncertainty about the current utterance.
@@ -88724,7 +88724,7 @@ vague definite determiner; ‘the’
 ꝡo- @uakci 2022-12-31 #r601pVmeT $en +1
 [t]prefix: reduce verb valency to nullary (forming what’s often called an “observative”)
 
-ꝡo [] @official 2026-09-16 #cH3xBapUnAT $en ±
+ꝡo @official 2026-09-16 #cH3xBapUnAT $en ±
 [t]illocution: [g]‘ADM’; admonitive
 
 ꝡo @kazoo 2025-10-01 #TuL2Dkpxh $tr ±
@@ -88851,7 +88851,7 @@ faux relative clause marker piecing a noun form and a subject-truncated clause t
 ⚠ ꝡuꝡoꝡıtı @Avaxar 2024-05-22 #Sh1JV3Y0e $en ±
 [t]predicate: ▯ is unintelligible gibberish.
 
-za [] @official 2026-09-16 #GK4YwTwhobk $en ±
+za @official 2026-09-16 #GK4YwTwhobk $en ±
 [t]aspect: [g]‘PRSP’; prospective (is going to)
 
 za @uakci 2021-10-29 #puvw3wdeb $ja ±
@@ -89333,7 +89333,7 @@ focus prefix in KU, opposite of **tou**; marks that this *isn't* the only case w
 zeı @el 2022-07-09 #Yzi0uwORZ $toa -1
 = kueu deı lâ ja raı ja shıja bı mua ráı baq jëo hóa shíja ga ga
 
-zéı [] @Laqme 2024-08-20 #_G220-Xoz $en +4
+zéı @Laqme 2024-08-20 #_G220-Xoz $en +4
 [t]focus particle: [g]‘for.one’; 'for one'
   Laqme (2024-08-20): zéı X = "X and stuff", "X to name just one thing", "X for example", "X (but not only X)"
   Laqme (2024-08-20): inexhaustiveness marker
@@ -89595,7 +89595,7 @@ zı- @evie 2025-05-26 #sqrZTfcdc $en ±
   evie (2025-08-11): i swear the pun about this vs **nho-** is unintentional
   evie (2025-09-27): **zịjo** "about four", **zịhuıcıa** "almost perfectly"
 
-zı [] @official 2026-09-16 #7ydsghUOayZ $en ±
+zı @official 2026-09-16 #7ydsghUOayZ $en ±
 [t]interjection: [g]‘no’; no
 
 zı @uakci 2021-10-29 #f4BkTji8s $ja ±
@@ -89604,16 +89604,16 @@ zı @uakci 2021-10-29 #f4BkTji8s $ja ±
 zı @el 2022-07-10 #GjFH_Zt1j $tok ±
 [t]nimi a: "ala"
 
-zı [] @SuperSpaceNiM 2024-08-12 #prsXN-oYz $ru ±
+zı @SuperSpaceNiM 2024-08-12 #prsXN-oYz $ru ±
 [t]междометие: [g]‘нет’; нет
 
-zı [] @TheAndSys 2025-03-26 #rbbuN_p7o $es ±
+zı @TheAndSys 2025-03-26 #rbbuN_p7o $es ±
 [t]interjección: [g]‘no’; no
 
 zı @kazoo 2025-10-22 #aN9ar5VAd $tr ±
 ünlem: hayır/yok.
 
-zí [] @official 2026-09-16 #NsmWt1MS9YP $en ±
+zí @official 2026-09-16 #NsmWt1MS9YP $en ±
 [t]interjection: [g]‘no?’; isn't it?
 
 zıa @Hoemai 2021-08-22 #7nxHRwiGN $en +4
@@ -90180,7 +90180,7 @@ Mark following word as ad-hoc coinage.
   el (2021-12-02): lojban {za'e}
   Machy (2021-12-02): example: zóq moikea ~= mind-machine ~= AI.
 
-zóq [] @salarua 2022-12-17 #H0MHXq0CR $en +4
+zóq @salarua 2022-12-17 #H0MHXq0CR $en +4
 [t]determiner: [g]‘you.know.what’; a certain X, a specific implicitly contextually identified X known to the speaker and (presumably) listener
   salarua (2022-12-17): example: Kuq cháocaq zóq toa bîe é jeojuı doka = "The driver said a few choice words after nearly crashing"
   lassc (2023-10-18): this is nice +1
@@ -90545,7 +90545,7 @@ zujuoıse @evie 2025-06-01 #DWuS6MR0x $en ±
 zujuoqse @evie 2025-06-01 #5d7XAHvpD $en ±
 [t]predicate: ▯ is the case prescriptively
 
-zukı [] @Dembim 2025-11-12 #FMqNS1vXZ $en ±
+zukı @Dembim 2025-11-12 #FMqNS1vXZ $en ±
 [t]interjection: [g]‘disagree’; feelings of disagreement
   Dembim (2025-11-12): cf. nhuki
   Dembim (2025-11-12): weaker than « zı », connoting a feeling of disagreement or lack of acceptance
@@ -93022,7 +93022,7 @@ I didn’t like the story because it was about death.
 Gı sá daqmoa da. @examples 2026-09-16 #8HaOzkfst0H $en ±
 There are good moments.
 
-- go [] @Dembim 2026-01-27 #DNEEchMyk $en ±
+- go @Dembim 2026-01-27 #DNEEchMyk $en ±
 [t]pseudo-suffix: [g]‘FUNC’; akin to suffixed «<che>» but for non-agents (tools, elements, components), forming words for objects that have passive purpose/function
   Dembim (2026-01-27): One should probably prefer «<kea>» for active or system-level (i.e. machine) functions
   Dembim (2026-01-27): This is ~roughly~ equivalent to «<chuo>» in compounds
@@ -100172,7 +100172,7 @@ loaırıo(saı) @seaqtaq 2020-02-26 #N5p9iI0nQ $en ±
 ⚠ lymao @uakci 2020-03-16 #yBhTnI-I6 $en -1
 [t]predicate: ▯ laughs their ass off / laughs their arse off.
 
-⚠ ly [] @ykulvaarlck 2020-06-21 #ZPyoMwg-n $en -1
+⚠ ly @ykulvaarlck 2020-06-21 #ZPyoMwg-n $en -1
 [t]statement prefix: [g]‘that’; turn phrase into a predicate
   ykulvaarlck (2020-06-21): this is supposed to bind 0 or more (contrary to li's one or more) ja's (contrary to lu's hoa), and to replace lû's ja binding mechanism, allowing all forms of lu to bind hoa.
 

@@ -268,26 +268,16 @@ impl Display for Toa {
             "{}{head}{} @{user} {} #{id} ${scope} {}{}\n{}{}{body}{}",
             if warn { "⚠ " } else { "" },
             if self.has_all_metadata() {
-                format!(
-                    " [{}{}{}{}]",
-                    frame.clone().map_or_else(String::new, |f| format!("({f})")),
-                    distribution.clone().map_or_else(String::new, |d| format!(
-                        "{}({d})",
-                        if frame.is_some() { " " } else { "" }
-                    )),
-                    pronoun.clone().map_or_else(String::new, |p| format!(
-                        "{}{p}",
-                        if frame.is_some() || distribution.is_some() { " " } else { "" }
-                    )),
-                    subject.map_or_else(String::new, |s| format!(
-                        "{}{s}",
-                        if frame.is_some() || distribution.is_some() || pronoun.is_some() {
-                            " "
-                        } else {
-                            ""
-                        }
-                    )),
-                )
+                let meta = [
+                    frame.map(|f| format!("({f})")),
+                    distribution.map(|d| format!("({d})")),
+                    pronoun,
+                    subject,
+                ]
+                .into_iter()
+                .flatten()
+                .join(" ");
+                if meta.is_empty() { String::new() } else { format!(" [{meta}]") }
             } else {
                 String::new()
             },
