@@ -3321,6 +3321,7 @@ beotua @el 2022-03-29 #KWso3M3DA $en ±
 [t]predicate: ▯ changes ▯ in property ▯
   el (2022-03-29): not my word
   robintown (2023-02-05): modify
+  evie (2026-09-25): (c c 2jx)
 
 beotue @uakci 2022-09-25 #_r8bTPm4E $en ±
 [t]predicate: ▯ is an event/occurrence/action (change in state).
@@ -27685,7 +27686,7 @@ gusheaq @Ilmen 2019-04-13 #Yzq0AH2dU $en ± %action,body_action
 gusheaqhe @Ilmen 2019-04-13 #3MxEuEpb6 $en ± %biology
 [t]predicate: ▯ is a bipede.
 
-gushı @uakci 2018-09-29 #xRiLL5b7x $en ±
+gushı @uakci 2018-09-29 #xRiLL5b7x $en -1
 [t]predicate: ▯ is either ▯ or ▯, but not both.
 
 gushıaqmechom @zearen 2024-08-31 #8zq6ocHpc $en ±
@@ -34075,6 +34076,7 @@ jaıshom @Laqme 2024-10-25 #Ygk8f1ym9 $en ±
 jaıtuka [(c) (d) hó sI] @Aburn 2026-07-12 #FEvpI_3tT $en ±
 [t]predicate: [g]‘rejoice’; ▯ rejoices, is glad, joyful and shows it
   Aburn (2026-07-12): Etymology: jaı + tuku + da
+  Aburn (2026-09-24): jaıjo would be much better
 
 jaja @akesi 2020-02-09 #vRUv8Acho $en +2
 [t]predicate: colloq. ▯ is very/extremely/totally ▯
@@ -34792,7 +34794,7 @@ jeaqjeaq @seaqtaq 2020-05-09 #f5Rx3n6Cb $en ±
 jeaqjıqzıu @verte 2022-06-26 #hnfktnkVY $en ±
 [t]predicate: ▯ is a hyperreal number.
 
-jeaqjuoı @uakci 2022-06-30 #88ow0qBAQ $en ±
+jeaqjuoı @uakci 2022-06-30 #88ow0qBAQ $en -1
 [t]predicate: ▯ elaborates on ▯ as having property ▯.
 
 jeaqkambe @Snow 2023-06-02 #L5jOzWi0P $en ±
@@ -44192,7 +44194,7 @@ Kosofogua @countries 2026-09-16 #c2cchyDK2ZKx $en ±
 kosoı @fagri 2023-01-24 #LfsJLe6Mr $en ±
 [t]predicate: ▯ has a ko-fight with ▯ (in Go, a phenomenon in which the players repeatedly flip a local situation back and forth between two states while making and responding to threats elsewhere on the board to avoid violating the ko rule)
 
-kosope @el 2022-07-27 #b2Ma3knHY $toa ±
+kosope @el 2022-07-27 #b2Ma3knHY $toa -1
 Sope [ja] [ja] [ja raı] by hîko ja ráı da
 
 koshıkogu @uakci 2021-08-27 #qp_duZzHU $en ±
@@ -64741,7 +64743,7 @@ peıcuaq @Machy 2021-10-10 #FPqvdd1BB $en ±
 peıchua @uakci 2021-11-07 #FFU3tHYNm $en ±
 [t]predicate: ▯ is a monomial / term; ▯ is tensor/coefficient ▯ × variable/unit ▯.
 
-peıhuaq @Ilmen 2019-12-30 #9TDnRy8J1 $en ±
+peıhuaq @Ilmen 2019-12-30 #9TDnRy8J1 $en -1
 [t]predicate: ▯ are more numerous that anything satisfying property ▯.
 
 peıjuı @fagri 2018-12-30 #gfqvj0Q5P $en ±
@@ -70292,7 +70294,7 @@ rıoqjeqchuq @Ilmen 2019-01-31 #G2ogHZLVR $en ±
 [t]predicate: ▯ is a cannibal.
   Ilmen (2019-01-31): = #mıerīoqjēqchūq
 
-rıoqjuoı @uakci 2022-06-30 #6nHNQDh65 $en ±
+rıoqjuoı @uakci 2022-06-30 #6nHNQDh65 $en -1
 [t]predicate: ▯ narrows down / specifies ▯ as having property ▯.
 
 rıoqlım @Laqme 2025-05-01 #wEKUFOAX1 $en ±
@@ -73074,7 +73076,7 @@ sapu @jiqci 2023-06-06 #QKvg_tJ-n $en ±
 sapuhupa @jiqci 2023-06-06 #RGRvosjvw $en ±
 [t]predicate: ▯ sweeps ▯ off ▯.
 
-sapuı @seaqtaq 2020-05-25 #ULXMRc4nb $en ±
+sapuı @seaqtaq 2020-05-25 #ULXMRc4nb $en -1
 [t]predicate: ▯ are at least ▯ in number
 
 sapulıaı @jiqci 2023-06-06 #_lecPO1XD $en ±
@@ -76567,9 +76569,6 @@ sope @Ilmen 2025-10-22 #2UPKWZmLE $en ±
 [t]predicate: ▯ swap, exchange values, with respect to what they are in relation ▯ with.
   Ilmen (2025-10-22): (First proposed by El.)
 
-sope @Machy 2021-10-10 #p24WieCry $en -1
-[t]predicate: ▯ and ▯ get their places switched.
-
 sope @el 2022-01-08 #dqSC_eKP8 $en -1
 [t]predicate: (fork of #p24WieCry) ▯ and ▯ exchange values of property ▯
 
@@ -79872,7 +79871,7 @@ shıkoe @uakci 2020-05-15 #tUVvXNzy6 $en ±
 shıkogıq @Ilmen 2020-06-04 #NejcE_q8t $en ± %mathematics
 [t]predicate: ▯ is last among ▯ sorted by property ▯.
 
-shıkotao @uakci 2020-02-07 #tKibQKARS $en ±
+shıkotao @uakci 2020-02-07 #tKibQKARS $en -1
 [t]predicate: ▯ is done firstly / in the first place; ▯ does ▯ firstly / as the first thing (out of ▯).
 
 shıkuluq @Laqme 2025-03-10 #pGH5HTIDT $en ±
@@ -86990,7 +86989,7 @@ tubı @Ilmen 2019-02-09 #o7SMnGs5e $en +1 %logic
 tubom @uakci 2023-08-11 #_c_ygh8nl $en ±
 [t]predicate: ▯ is gravity.
 
-tubuo @seaqtaq 2020-03-18 #KWJKTrgxr $en ±
+tubuo @seaqtaq 2020-03-18 #KWJKTrgxr $en -1
 [t]predicate: [g]‘already’; ▯ is already the case; ▯ already satisfies property ▯.
 
 tucaı @Hoemai 2022-08-04 #gdaPWC48v $en ±
