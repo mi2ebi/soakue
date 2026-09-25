@@ -1,5 +1,5 @@
 // Metadata guesser v2.
-// disclaimer! mostly authored by gpt 5.6 luna
+// disclaimer! mostly authored by gpt 5.6 luna and sonnet 5
 
 #![expect(
     clippy::too_many_lines,
@@ -93,10 +93,6 @@ fn tokenize(text: &str) -> Vec<String> {
     tokens
 }
 
-fn body_word_features(body: &str) -> Vec<String> {
-    tokenize(body).into_iter().filter(|t| !t.starts_with('_')).map(|t| format!("_W_{t}")).collect()
-}
-
 fn char_ngrams(text: &str, min_n: usize, max_n: usize) -> Vec<String> {
     let chars: Vec<char> = text.to_lowercase().chars().collect();
     let mut out = Vec::new();
@@ -124,9 +120,13 @@ fn metadata_features(toa: &Toa, target: Field) -> Vec<String> {
         (Field::Pronoun, toa.pronoun.as_deref()),
         (Field::Subject, toa.subject.as_deref()),
     ] {
-        if field as u8 != target as u8 {
+        if field != target {
             if let Some(value) = value {
-                out.push(format!("_KNOWN_{}_{}", field.name().to_uppercase(), value));
+                out.push(format!(
+                    "_KNOWN_{}_{}",
+                    field.name().to_uppercase(),
+                    value.replace(' ', "")
+                ));
             } else {
                 out.push(format!("_MISSING_{}", field.name().to_uppercase()));
             }
@@ -142,7 +142,7 @@ fn metadata_features(toa: &Toa, target: Field) -> Vec<String> {
         }
     }
     if let Some(tags) = &toa.tags {
-        for tag in tags.split(',').map(str::trim).filter(|x| !x.is_empty()) {
+        for tag in tags.split(' ').map(str::trim).filter(|x| !x.is_empty()) {
             out.push(format!("_TAG_{}", tag.to_lowercase()));
         }
     }
@@ -164,9 +164,6 @@ fn extract_features_extra(toa: &Toa, target: Field, extra: &str) -> Vec<String> 
     if let Some(first) = rakus.first() {
         tokens.push(format!("_RAKU_FIRST_{first}"));
     }
-    for (i, raku) in rakus.iter().enumerate().take(3) {
-        tokens.push(format!("_RAKU_POS{i}_{raku}"));
-    }
     if rakus.len() >= 2 {
         let a = &rakus[rakus.len() - 2];
         let b = &rakus[rakus.len() - 1];
@@ -178,10 +175,9 @@ fn extract_features_extra(toa: &Toa, target: Field, extra: &str) -> Vec<String> 
         tokens.push("_CAPS".to_string());
     }
 
-    for feature in char_ngrams(&toa.head, 2, 5) {
+    for feature in char_ngrams(&toa.head, 2, 3) {
         tokens.push(feature);
     }
-    tokens.extend(body_word_features(&toa.body));
     tokens.extend(metadata_features(toa, target));
 
     if !extra.is_empty() {
@@ -191,6 +187,24 @@ fn extract_features_extra(toa: &Toa, target: Field, extra: &str) -> Vec<String> 
     tokens.push("_BIAS".to_string());
 
     tokens
+}
+
+fn token_entry_counts(dict: &[Toa], field: Field, arity: Option<usize>) -> HashMap<String, usize> {
+    let mut counts = HashMap::<String, usize>::new();
+    for toa in field_examples(dict, field) {
+        if arity.is_some_and(|a| primary_arity(&toa.body).0 != a) {
+            continue;
+        }
+        let feature_sets = field_feature_tokens(toa, field);
+        let mut seen = HashSet::new();
+        for tokens in feature_sets {
+            seen.extend(tokens);
+        }
+        for token in seen {
+            *counts.entry(token).or_insert(0) += 1;
+        }
+    }
+    counts
 }
 
 fn primary_arity(body: &str) -> (usize, &str) {
@@ -232,6 +246,33 @@ fn class_weights(
         .into_iter()
         .map(|(class, count)| (class, (f64::from(n) / (count as f64 * k)).sqrt()))
         .collect()
+}
+
+/// Duplicate examples from under-represented classes so the model sees them
+/// more often. `min_ratio` is the target count as a fraction of the
+/// majority class, computed across *all* classes present in `examples`
+/// (matching v1's scope — this must be called before any subset of the
+/// label space is filtered out, or `max_count` stops meaning "the true
+/// majority class").
+fn oversample(examples: &[(Vec<String>, String)], min_ratio: f64) -> Vec<(Vec<String>, String)> {
+    let mut counts = HashMap::<&str, usize>::new();
+    for (_, label) in examples {
+        *counts.entry(label.as_str()).or_insert(0) += 1;
+    }
+    let max_count = counts.values().copied().max().unwrap_or(1);
+    let target = ((max_count as f64) * min_ratio).max(1.) as usize;
+
+    let mut out = examples.to_vec();
+    for (label, count) in counts {
+        if count >= target {
+            continue;
+        }
+        let mine: Vec<_> = examples.iter().filter(|(_, l)| l == label).cloned().collect();
+        for i in 0 .. target - count {
+            out.push(mine[i % mine.len()].clone());
+        }
+    }
+    out
 }
 
 #[derive(Clone)]
@@ -350,14 +391,9 @@ impl LogisticRegression {
         }
 
         let best = best.map_or(0, |(i, _)| i);
-        let second = second.map(|(i, _)| i);
         Prediction {
             label: self.classes.get(best).cloned().unwrap_or_default(),
             raw_conf: probs.get(best).copied().unwrap_or(0.),
-            margin: probs.get(best).copied().unwrap_or(0.)
-                - second.and_then(|i| probs.get(i).copied()).unwrap_or(0.),
-            margin_label: second.and_then(|i| self.classes.get(i)).cloned().unwrap_or_default(),
-
             probs,
         }
     }
@@ -392,42 +428,14 @@ impl LogisticRegression {
         }
 
         let Some((best, best_prob)) = best else {
-            // `c` is valid for every arity. This keeps the structural invariant
-            // even if a future training set somehow contains no valid model
-            // class.
-            return Prediction {
-                label: "c".to_string(),
-                raw_conf: 0.,
-                margin: 0.,
-                margin_label: String::new(),
-                probs,
-            };
+            return Prediction { label: "c".to_string(), raw_conf: 0., probs };
         };
 
         let normalizer = if allowed_mass > 0. { allowed_mass } else { 1. };
 
         let best_prob = best_prob / normalizer;
-        let second_prob = second.map_or(0., |(_, prob)| prob / normalizer);
 
-        Prediction {
-            label: self.classes[best].clone(),
-            raw_conf: best_prob,
-            margin: best_prob - second_prob,
-            margin_label: second
-                .and_then(|(i, _)| self.classes.get(i))
-                .cloned()
-                .unwrap_or_default(),
-            probs,
-        }
-    }
-
-    fn class_probability_tokens(&self, tokens: &[String], class: &str) -> f64 {
-        let probs = self.probs_from_tokens(tokens);
-        self.classes
-            .iter()
-            .position(|c| c == class)
-            .and_then(|i| probs.get(i).copied())
-            .unwrap_or(0.)
+        Prediction { label: self.classes[best].clone(), raw_conf: best_prob, probs }
     }
 
     fn oov_rate_tokens(&self, tokens: &[String]) -> f64 {
@@ -437,104 +445,41 @@ impl LogisticRegression {
         let oov = tokens.iter().filter(|t| !self.vocab.contains_key(t.as_str())).count();
         oov as f64 / tokens.len() as f64
     }
+
+    fn top_tokens_per_class(&self, n: usize) -> Vec<(String, Vec<(String, f64)>)> {
+        let num_classes = self.classes.len();
+        let mut id_to_token = vec![String::new(); self.vocab.len()];
+        for (token, &id) in &self.vocab {
+            id_to_token[id].clone_from(token);
+        }
+
+        let mut classes = self.classes.clone();
+        classes.sort();
+
+        classes
+            .into_iter()
+            .map(|class_name| {
+                let c_idx = self.classes.iter().position(|c| *c == class_name).unwrap();
+                let mut weights: Vec<(String, f64)> = self
+                    .vocab
+                    .values()
+                    .map(|&t_id| {
+                        (id_to_token[t_id].clone(), self.weights[t_id * num_classes + c_idx])
+                    })
+                    .collect();
+                weights.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap_or(Ordering::Equal));
+                weights.truncate(n);
+                (class_name, weights)
+            })
+            .collect()
+    }
 }
 
 #[derive(Clone)]
 struct Prediction {
     label: String,
     raw_conf: f64,
-    margin: f64,
-    margin_label: String,
     probs: Vec<f64>,
-}
-
-#[derive(Clone)]
-struct SubjectModel {
-    is_i: LogisticRegression,
-    non_i: LogisticRegression,
-}
-
-impl SubjectModel {
-    fn train(examples: &[(Vec<String>, String)], epochs: usize) -> Self {
-        let classes = vec!["sI".to_string(), "NON_I".to_string()];
-        let weights = class_weights(
-            examples.iter().map(|(_, label)| if label == "sI" { "sI" } else { "NON_I" }),
-            &classes,
-        );
-        let is_i = LogisticRegression::train(
-            examples.iter().map(|(features, label)| {
-                (features.as_slice(), if label == "sI" { "sI" } else { "NON_I" })
-            }),
-            &weights,
-            epochs,
-            0.1,
-        );
-
-        let non_i_classes = examples
-            .iter()
-            .filter(|(_, label)| label != "sI")
-            .map(|(_, label)| label.clone())
-            .collect::<HashSet<_>>()
-            .into_iter()
-            .collect::<Vec<_>>();
-        let non_i_weights = class_weights(
-            examples.iter().filter(|(_, label)| label != "sI").map(|(_, label)| label.as_str()),
-            &non_i_classes,
-        );
-        let non_i = LogisticRegression::train(
-            examples
-                .iter()
-                .filter(|(_, label)| label != "sI")
-                .map(|(features, label)| (features.as_slice(), label.as_str())),
-            &non_i_weights,
-            epochs,
-            0.1,
-        );
-
-        Self { is_i, non_i }
-    }
-
-    fn predict_raw_tokens(&self, tokens: &[String]) -> Prediction {
-        let p_i = self.is_i.class_probability_tokens(tokens, "sI");
-        let non_i = self.non_i.predict_raw_tokens(tokens);
-        let mut probs = Vec::new();
-        let mut classes = vec!["sI".to_string()];
-        probs.push(p_i);
-        for (class, p) in self.non_i.classes.iter().zip(non_i.probs.iter()) {
-            classes.push(class.clone());
-            probs.push((1. - p_i) * p);
-        }
-
-        let mut best = None;
-        let mut second = None;
-
-        for (i, &prob) in probs.iter().enumerate() {
-            match best {
-                None => best = Some((i, prob)),
-                Some((_, best_prob)) if prob > best_prob => {
-                    second = best;
-                    best = Some((i, prob));
-                }
-                Some(_) => {
-                    if second.is_none_or(|(_, second_prob)| prob > second_prob) {
-                        second = Some((i, prob));
-                    }
-                }
-            }
-        }
-
-        let best = best.map_or(0, |(i, _)| i);
-        let second = second.map(|(i, _)| i);
-
-        Prediction {
-            label: classes.get(best).cloned().unwrap_or_default(),
-            raw_conf: probs.get(best).copied().unwrap_or(0.),
-            margin: probs.get(best).copied().unwrap_or(0.)
-                - second.and_then(|i| probs.get(i).copied()).unwrap_or(0.),
-            margin_label: second.and_then(|i| classes.get(i)).cloned().unwrap_or_default(),
-            probs,
-        }
-    }
 }
 
 #[derive(Default, Clone)]
@@ -799,6 +744,9 @@ static RE_PROPERTY: LazyLock<Regex> =
 static RE_MAKING_IT_THEM: LazyLock<Regex> =
     LazyLock::new(|| Regex::new("making (it|them)").unwrap());
 static RE_RELATION: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\brelation\w*\s*$").unwrap());
+static RE_HAPPENS: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"^(\S+\s+){0,2}happen(s|ing)?\b").unwrap());
+static RE_AFFAIRS: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"\baffairs\s*$").unwrap());
 
 fn field_training_examples(train: &[&Toa], field: Field) -> Vec<(Vec<String>, String)> {
     let mut examples = Vec::new();
@@ -836,33 +784,25 @@ fn field_training_examples(train: &[&Toa], field: Field) -> Vec<(Vec<String>, St
     examples
 }
 
-fn train_field_models(train: &[&Toa], field: Field) -> (LogisticRegression, Option<SubjectModel>) {
+const EPOCHS: usize = 150;
+fn train_field_models(train: &[&Toa], field: Field) -> LogisticRegression {
     let examples = field_training_examples(train, field);
-
-    if matches!(field, Field::Subject) {
-        // Prediction uses the hierarchical model. Its `is_i` model sees the
-        // same examples/features as the old plain subject model did, so it
-        // also supplies the identical vocabulary for OOV reporting without
-        // requiring another training pass.
-        let hierarchical = SubjectModel::train(&examples, 55);
-        let plain = hierarchical.is_i.clone();
-        (plain, Some(hierarchical))
-    } else {
-        let classes = examples
-            .iter()
-            .map(|(_, label)| label.clone())
-            .collect::<HashSet<_>>()
-            .into_iter()
-            .collect::<Vec<_>>();
-        let weights = class_weights(examples.iter().map(|(_, label)| label.as_str()), &classes);
-        let model = LogisticRegression::train(
-            examples.iter().map(|(features, label)| (features.as_slice(), label.as_str())),
-            &weights,
-            55,
-            0.08,
-        );
-        (model, None)
-    }
+    let examples =
+        if matches!(field, Field::Subject) { oversample(&examples, 0.2) } else { examples };
+    let classes = examples
+        .iter()
+        .map(|(_, label)| label.clone())
+        .collect::<HashSet<_>>()
+        .into_iter()
+        .collect::<Vec<_>>();
+    let weights = class_weights(examples.iter().map(|(_, label)| label.as_str()), &classes);
+    let lr = 0.05;
+    LogisticRegression::train(
+        examples.iter().map(|(features, label)| (features.as_slice(), label.as_str())),
+        &weights,
+        EPOCHS,
+        lr,
+    )
 }
 
 fn field_feature_tokens(toa: &Toa, field: Field) -> Vec<Vec<String>> {
@@ -896,7 +836,6 @@ fn predict_field_from_features(
     field: Field,
     feature_sets: &[Vec<String>],
     model: &LogisticRegression,
-    subject: Option<&SubjectModel>,
 ) -> Prediction {
     match field {
         Field::Frame => {
@@ -910,61 +849,34 @@ fn predict_field_from_features(
             slots.resize(n.saturating_sub(1), "c");
             slots.push(last.label.as_str());
 
-            Prediction {
-                label: slots.join(" "),
-                raw_conf: last.raw_conf,
-                margin: last.margin,
-                margin_label: last.margin_label,
-                probs: last.probs,
-            }
+            Prediction { label: slots.join(" "), raw_conf: last.raw_conf, probs: last.probs }
         }
 
         Field::Distribution => {
             let n = primary_arity(&toa.body).0;
             let mut slots = Vec::with_capacity(n);
             let mut raw_conf = 1.;
-            let mut margin = 1_f64;
-            let margin_label = String::new();
 
             for tokens in feature_sets.iter().take(n) {
                 let prediction = model.predict_raw_tokens(tokens);
 
                 slots.push(prediction.label);
                 raw_conf *= prediction.raw_conf;
-
-                if prediction.margin < margin {
-                    margin = prediction.margin;
-                }
             }
 
-            Prediction { label: slots.join(" "), raw_conf, margin, margin_label, probs: Vec::new() }
+            Prediction { label: slots.join(" "), raw_conf, probs: Vec::new() }
         }
 
-        Field::Subject => {
-            let tokens = feature_sets.first().map_or_else(|| &[], Vec::as_slice);
-
-            subject.map_or_else(
-                || model.predict_raw_tokens(tokens),
-                |subject| subject.predict_raw_tokens(tokens),
-            )
-        }
-
-        Field::Pronoun => {
+        Field::Pronoun | Field::Subject => {
             let tokens = feature_sets.first().map_or_else(|| &[], Vec::as_slice);
             model.predict_raw_tokens(tokens)
         }
     }
 }
 
-fn predict_field(
-    toa: &Toa,
-    field: Field,
-    model: &LogisticRegression,
-    subject: Option<&SubjectModel>,
-) -> Prediction {
+fn predict_field(toa: &Toa, field: Field, model: &LogisticRegression) -> Prediction {
     let feature_sets = field_feature_tokens(toa, field);
-
-    predict_field_from_features(toa, field, &feature_sets, model, subject)
+    predict_field_from_features(toa, field, &feature_sets, model)
 }
 
 fn guess_frame_heuristic(body: &str, n: usize) -> String {
@@ -974,13 +886,14 @@ fn guess_frame_heuristic(body: &str, n: usize) -> String {
     let mut frame = vec!["c"; n];
     let last_pos = body.rfind('▯').unwrap_or(0);
     let before = &body[.. last_pos];
-    let after = &body[last_pos + '▯'.len_utf8() ..];
-    let after_trimmed = after.trim_start();
+    let after = &body[last_pos + '▯'.len_utf8() ..].trim_start();
     let lower = body.to_lowercase();
 
-    let last = if RE_THE_CASE.is_match(after_trimmed)
-        || RE_IS_TRUE_FALSE.is_match(after_trimmed)
+    let last = if RE_THE_CASE.is_match(after)
+        || RE_IS_TRUE_FALSE.is_match(after)
+        || RE_HAPPENS.is_match(after)
         || RE_THAT_WHETHER_IF.is_match(before)
+        || RE_AFFAIRS.is_match(before)
     {
         "0"
     } else if RE_PROPERTY.is_match(before) {
@@ -1044,8 +957,7 @@ fn per_field_cv(annotated: &[&Toa], field: Field, k: usize) -> FieldReport {
                 return report;
             }
 
-            let mut models =
-                HashMap::<Option<usize>, (LogisticRegression, Option<SubjectModel>)>::new();
+            let mut models = HashMap::<Option<usize>, LogisticRegression>::new();
 
             models.insert(None, train_field_models(&train, field));
 
@@ -1073,10 +985,10 @@ fn per_field_cv(annotated: &[&Toa], field: Field, k: usize) -> FieldReport {
                 };
 
                 let key = matches!(field, Field::Frame).then_some(primary_arity(&toa.body).0);
-                let (plain, subject) =
+                let plain =
                     models.get(&key).or_else(|| models.get(&None)).expect("fold model exists");
 
-                let prediction = predict_field(toa, field, plain, subject.as_ref());
+                let prediction = predict_field(toa, field, plain);
 
                 let correct = match field {
                     Field::Distribution => {
@@ -1123,7 +1035,7 @@ fn per_field_cv(annotated: &[&Toa], field: Field, k: usize) -> FieldReport {
 fn fit_final_models(
     dict: &[Toa],
     reports: &HashMap<Field, FieldReport>,
-) -> (HashMap<FieldKey, LogisticRegression>, SubjectModel, HashMap<FieldKey, Calibration>) {
+) -> (HashMap<FieldKey, LogisticRegression>, HashMap<FieldKey, Calibration>) {
     let results: Vec<_> = Field::ALL
         .into_par_iter()
         .map(|field| {
@@ -1138,7 +1050,7 @@ fn fit_final_models(
             let calibration = Calibration::fit(report.calibration_data.clone(), 20);
             calibrations.insert(global_key, calibration.clone());
 
-            let (plain, subject) = train_field_models(&examples, field);
+            let plain = train_field_models(&examples, field);
             models.insert(global_key, plain);
 
             if matches!(field, Field::Frame) {
@@ -1153,7 +1065,7 @@ fn fit_final_models(
                         .collect::<Vec<_>>();
 
                     if !arity_examples.is_empty() {
-                        let (arity_plain, _) = train_field_models(&arity_examples, field);
+                        let arity_plain = train_field_models(&arity_examples, field);
                         let key = FieldKey { field, arity: Some(arity) };
 
                         models.insert(key, arity_plain);
@@ -1161,23 +1073,19 @@ fn fit_final_models(
                     }
                 }
             }
-            (models, subject, calibrations)
+            (models, calibrations)
         })
         .collect();
 
     let mut all_models = HashMap::new();
     let mut all_calibrations = HashMap::new();
-    let mut subject_model = None;
 
-    for (models, subject, calibrations) in results {
+    for (models, calibrations) in results {
         all_models.extend(models);
         all_calibrations.extend(calibrations);
-        if let Some(s) = subject {
-            subject_model = Some(s);
-        }
     }
 
-    (all_models, subject_model.expect("subject model trained"), all_calibrations)
+    (all_models, all_calibrations)
 }
 
 #[derive(Clone, Copy, Debug, Hash, Eq, PartialEq)]
@@ -1217,7 +1125,6 @@ fn calibration_for_toa<'a>(
 fn al_item_priority(
     toa: &Toa,
     models: &HashMap<FieldKey, LogisticRegression>,
-    subject_model: &SubjectModel,
     calibrations: &HashMap<FieldKey, Calibration>,
     annotated_heads: &HashSet<&str>,
 ) -> f64 {
@@ -1229,13 +1136,7 @@ fn al_item_priority(
         }
         let model = model_for_toa(models, toa, field);
         let features = field_feature_tokens(toa, field);
-        let pred = predict_field_from_features(
-            toa,
-            field,
-            &features,
-            model,
-            matches!(field, Field::Subject).then_some(subject_model),
-        );
+        let pred = predict_field_from_features(toa, field, &features, model);
         let oov = field_oov_rate(&features, model);
         let cal = calibration_for_toa(calibrations, toa, field)
             .map_or(pred.raw_conf, |c| c.calibrate(pred.raw_conf));
@@ -1260,6 +1161,28 @@ fn al_item_priority(
     }
 
     priority
+}
+
+fn write_top_tokens(
+    out: &mut impl io::Write,
+    field: Field,
+    model: &LogisticRegression,
+    token_counts: &HashMap<String, usize>,
+    n: usize,
+) -> io::Result<()> {
+    writeln!(out, "{}:", field.name())?;
+    for (class_name, tokens) in model.top_tokens_per_class(n) {
+        let formatted: Vec<String> = tokens
+            .iter()
+            .map(|(t, w)| {
+                let count = token_counts.get(t).copied().unwrap_or(0);
+                format!("{w:4.2} {count:5} {t}")
+            })
+            .collect();
+
+        writeln!(out, "  {class_name:12} {}", formatted.join("\n               "))?;
+    }
+    writeln!(out)
 }
 
 pub fn run(dict: &[Toa]) -> io::Result<()> {
@@ -1376,39 +1299,77 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         reports.insert(field, report);
     }
 
-    let heuristic_frame = complete_annotated
+    let frame_examples = field_examples(dict, Field::Frame);
+    let heuristic_frame = frame_examples
         .iter()
         .filter(|t| {
             let guessed = guess_frame_heuristic(&t.body, primary_arity(&t.body).0);
             t.frame.as_deref() == Some(guessed.as_str())
         })
         .count();
-    let heuristic_dist = complete_annotated
+
+    let distribution_examples = field_examples(dict, Field::Distribution);
+    let heuristic_dist = distribution_examples
         .iter()
         .filter(|t| {
             let guessed = guess_distribution_heuristic(t, primary_arity(&t.body).0);
             t.distribution.as_deref() == Some(guessed.as_str())
         })
         .count();
+
     println!("- heuristic frames/distributions");
     writeln!(out, "=== RULE-BASED BASELINES ===")?;
     writeln!(
         out,
         "frame heuristic: {:5.1}% ({}/{})",
-        100. * heuristic_frame as f64 / complete_annotated.len() as f64,
+        100. * heuristic_frame as f64 / frame_examples.len() as f64,
         heuristic_frame,
-        complete_annotated.len()
+        frame_examples.len()
     )?;
     writeln!(
         out,
         "distribution heuristic: {:5.1}% ({}/{})",
-        100. * heuristic_dist as f64 / complete_annotated.len() as f64,
+        100. * heuristic_dist as f64 / distribution_examples.len() as f64,
         heuristic_dist,
-        complete_annotated.len()
+        distribution_examples.len()
     )?;
     writeln!(out)?;
 
-    let (models, subject_model, calibrations) = fit_final_models(dict, &reports);
+    let (models, calibrations) = fit_final_models(dict, &reports);
+
+    writeln!(out, "=== TOP TOKENS ===")?;
+
+    writeln!(out, "frame (pooled across arities):")?;
+    write_top_tokens(
+        &mut out,
+        Field::Frame,
+        &models[&FieldKey { field: Field::Frame, arity: None }],
+        &token_entry_counts(dict, Field::Frame, None),
+        10,
+    )?;
+
+    let mut frame_arities: Vec<usize> = models
+        .keys()
+        .filter_map(|k| (k.field == Field::Frame).then_some(k.arity).flatten())
+        .collect();
+    frame_arities.sort_unstable();
+
+    for arity in frame_arities {
+        writeln!(out, "frame (arity {arity}):")?;
+        write_top_tokens(
+            &mut out,
+            Field::Frame,
+            &models[&FieldKey { field: Field::Frame, arity: Some(arity) }],
+            &token_entry_counts(dict, Field::Frame, Some(arity)),
+            10,
+        )?;
+    }
+
+    for field in [Field::Distribution, Field::Pronoun, Field::Subject] {
+        let model = &models[&FieldKey { field, arity: None }];
+        write_top_tokens(&mut out, field, model, &token_entry_counts(dict, field, None), 10)?;
+    }
+    writeln!(out)?;
 
     writeln!(out, "=== CALIBRATION ===")?;
     for field in Field::ALL {
@@ -1437,12 +1398,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             .map(|toa| {
                 let actual = field.get(toa).unwrap();
                 let model = model_for_toa(&models, toa, field);
-                let prediction = predict_field(
-                    toa,
-                    field,
-                    model,
-                    matches!(field, Field::Subject).then_some(&subject_model),
-                );
+                let prediction = predict_field(toa, field, model);
 
                 let is_correct = match field {
                     Field::Distribution => {
@@ -1489,25 +1445,17 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
                 }
                 let model = model_for_toa(&models, toa, field);
                 let feature_tokens = field_feature_tokens(toa, field);
-                let prediction = predict_field_from_features(
-                    toa,
-                    field,
-                    &feature_tokens,
-                    model,
-                    matches!(field, Field::Subject).then_some(&subject_model),
-                );
+                let prediction = predict_field_from_features(toa, field, &feature_tokens, model);
                 let oov = field_oov_rate(&feature_tokens, model);
-                let confidence = calibration_for_toa(&calibrations, toa, field)
-                    .map_or(prediction.raw_conf, |c| c.calibrate(prediction.raw_conf));
+                let calibration = calibration_for_toa(&calibrations, toa, field);
 
+                let confidence =
+                    calibration.map_or(prediction.raw_conf, |c| c.calibrate(prediction.raw_conf));
                 fields_str.push(format!(
-                    "  {} = {} ({:.0}%, margin {:.0}%{}{}, oov {:.0}%)",
+                    "  {} = {} ({:.0}%, oov {:.0}%)",
                     field.name(),
                     prediction.label,
                     confidence * 100.,
-                    prediction.margin * 100.,
-                    if prediction.margin_label.is_empty() { "" } else { " " },
-                    prediction.margin_label,
                     oov * 100.
                 ));
                 missing_fields.push(field);
@@ -1518,7 +1466,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
                 let priority = al_item_priority(
                     toa,
                     &models,
-                    &subject_model,
                     &calibrations,
                     &HashSet::from_iter(complete_annotated.iter().map(|t| t.head.as_str())),
                 );
@@ -1561,6 +1508,6 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         )?;
     }
 
-    eprintln!("- done with {} in {:?}", complete_annotated.len(), start.elapsed());
+    eprintln!("- done guessing {guessed} in {:?}", start.elapsed());
     Ok(())
 }
