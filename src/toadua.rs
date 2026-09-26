@@ -175,12 +175,6 @@ impl Toa {
             println!("{} #{} has an empty frame, removing", self.head, self.id);
             self.frame = None;
         }
-        if let Some(frame) = self.frame.clone()
-            && frame.is_empty()
-        {
-            println!("{} #{} has an empty frame, removing", self.head, self.id);
-            self.frame = None;
-        }
         if let Some(dist) = self.distribution.clone()
             && dist.is_empty()
         {

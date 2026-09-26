@@ -16,8 +16,27 @@ use serde_json::{from_str, to_string};
 
 use crate::dedup::dictify;
 
+fn parse_feature_flags() -> guess_metadata::FeatureFlags {
+    let args: Vec<String> = std::env::args().collect();
+    let mut spec = String::new();
+    let mut iter = args.iter().skip(1);
+    while let Some(arg) = iter.next() {
+        if arg == "-g" || arg == "--guess-features" {
+            if let Some(val) = iter.next() {
+                spec.clone_from(val);
+            }
+        } else if let Some(val) = arg.strip_prefix("--guess-features=") {
+            spec = val.to_string();
+        }
+    }
+    guess_metadata::FeatureFlags::parse(&spec)
+}
+
 #[allow(clippy::missing_panics_doc, reason = "github actions")]
 pub fn main() {
+    let flags = parse_feature_flags();
+    println!("guess-metadata features: {flags:?}");
+    guess_metadata::init_features(flags);
     let client =
         Client::builder().timeout(Duration::from_mins(3)).build().expect("Building client failed");
 

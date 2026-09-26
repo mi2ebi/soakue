@@ -13,7 +13,7 @@ use std::{
     collections::{HashMap, HashSet},
     fs,
     io::{self, Write as _},
-    sync::LazyLock,
+    sync::{LazyLock, OnceLock},
     time::Instant,
 };
 
@@ -25,6 +25,60 @@ use crate::toadua::{Toa, split_into_raku};
 const VALID_PRONOUNS: &[&str] = &["hó", "máq", "hóq", "tá"];
 const VALID_SUBJECTS: &[&str] = &["sA", "sI", "sE", "sP", "sS", "sF"];
 const FRAME_SLOT_LETTERS: &str = "ijk";
+
+static FEATURES: OnceLock<FeatureFlags> = OnceLock::new();
+
+#[derive(Clone, Copy, Debug)]
+#[allow(clippy::struct_excessive_bools, reason = "feature flags")]
+pub struct FeatureFlags {
+    pub boundary_indexed: bool,
+    pub boundary_anydist: bool,
+    pub boundary_bigram: bool,
+    pub char_ngrams: bool,
+    pub raku_last2: bool,
+}
+
+impl Default for FeatureFlags {
+    // matches what's currently shipped: everything on
+    fn default() -> Self {
+        Self {
+            boundary_indexed: true,
+            boundary_anydist: true,
+            boundary_bigram: true,
+            char_ngrams: true,
+            raku_last2: true,
+        }
+    }
+}
+
+impl FeatureFlags {
+    pub fn parse(spec: &str) -> Self {
+        let mut flags = Self::default();
+        for tok in spec.split(',').map(str::trim).filter(|s| !s.is_empty()) {
+            let (name, enable) = tok.strip_prefix("no-").map_or((tok, true), |rest| (rest, false));
+            match name {
+                "boundary" => {
+                    flags.boundary_indexed = enable;
+                    flags.boundary_anydist = enable;
+                    flags.boundary_bigram = enable;
+                }
+                "anydist" => flags.boundary_anydist = enable,
+                "indexed" => flags.boundary_indexed = enable,
+                "bigram" => flags.boundary_bigram = enable,
+                "char-ngrams" => flags.char_ngrams = enable,
+                "raku-last2" => flags.raku_last2 = enable,
+                other => eprintln!("warning: unknown feature flag `{other}` in -g, ignoring"),
+            }
+        }
+        flags
+    }
+}
+
+pub fn init_features(flags: FeatureFlags) {
+    FEATURES.set(flags).expect("init_features called more than once");
+}
+
+fn features() -> FeatureFlags { FEATURES.get().copied().unwrap_or_default() }
 
 #[derive(Clone, Copy, Debug, Eq, PartialEq, Hash)]
 enum Field {
@@ -150,13 +204,59 @@ fn metadata_features(toa: &Toa, target: Field) -> Vec<String> {
     out
 }
 
-fn extract_features(toa: &Toa, target: Field) -> Vec<String> {
-    extract_features_extra(toa, target, "")
+fn slot_boundary_features(body: &str, slot: Option<usize>, window: usize) -> Vec<String> {
+    let Some(slot) = slot else { return Vec::new() };
+    let Some((pos, _)) = body.match_indices('▯').nth(slot) else { return Vec::new() };
+
+    let before_tokens = tokenize(&body[.. pos]);
+    let after_tokens = tokenize(&body[pos + '▯'.len_utf8() ..]);
+    let flags = features();
+
+    let mut out = Vec::new();
+    for (i, tok) in before_tokens.iter().rev().take(window).enumerate() {
+        if flags.boundary_indexed {
+            out.push(format!("_BOUND_BEFORE_{}_{tok}", i + 1));
+        }
+        if flags.boundary_anydist {
+            out.push(format!("_BOUND_BEFORE_ANYDIST_{tok}"));
+        }
+    }
+    for (i, tok) in after_tokens.iter().take(window).enumerate() {
+        if flags.boundary_indexed {
+            out.push(format!("_BOUND_AFTER_{}_{tok}", i + 1));
+        }
+        if flags.boundary_anydist {
+            out.push(format!("_BOUND_AFTER_ANYDIST_{tok}"));
+        }
+    }
+    if flags.boundary_bigram {
+        if before_tokens.len() >= 2 {
+            let n = before_tokens.len();
+            out.push(format!("_BOUND_BEFORE_BI_{}_{}", before_tokens[n - 2], before_tokens[n - 1]));
+        }
+        if after_tokens.len() >= 2 {
+            out.push(format!("_BOUND_AFTER_BI_{}_{}", after_tokens[0], after_tokens[1]));
+        }
+    }
+    out
 }
 
-fn extract_features_extra(toa: &Toa, target: Field, extra: &str) -> Vec<String> {
+fn boundary_slot(target: Field, body: &str, slot: Option<usize>) -> Option<usize> {
+    match target {
+        Field::Frame => Some(primary_arity(body).0.saturating_sub(1)),
+        Field::Distribution => slot,
+        Field::Pronoun | Field::Subject => None,
+    }
+}
+
+fn extract_features(toa: &Toa, target: Field) -> Vec<String> {
+    extract_features_extra(toa, target, None)
+}
+
+fn extract_features_extra(toa: &Toa, target: Field, slot: Option<usize>) -> Vec<String> {
     let mut tokens = tokenize(&toa.body);
     let rakus = split_into_raku(&toa.head).unwrap_or_default();
+    let flags = features();
 
     if let Some(last) = rakus.last() {
         tokens.push(format!("_RAKU_LAST_{last}"));
@@ -164,7 +264,7 @@ fn extract_features_extra(toa: &Toa, target: Field, extra: &str) -> Vec<String> 
     if let Some(first) = rakus.first() {
         tokens.push(format!("_RAKU_FIRST_{first}"));
     }
-    if rakus.len() >= 2 {
+    if flags.raku_last2 && rakus.len() >= 2 {
         let a = &rakus[rakus.len() - 2];
         let b = &rakus[rakus.len() - 1];
         tokens.push(format!("_RAKU_LAST2_{a}_{b}"));
@@ -175,17 +275,20 @@ fn extract_features_extra(toa: &Toa, target: Field, extra: &str) -> Vec<String> 
         tokens.push("_CAPS".to_string());
     }
 
-    for feature in char_ngrams(&toa.head, 2, 3) {
-        tokens.push(feature);
+    if flags.char_ngrams {
+        for feature in char_ngrams(&toa.head, 2, 3) {
+            tokens.push(feature);
+        }
     }
     tokens.extend(metadata_features(toa, target));
+    tokens.extend(slot_boundary_features(&toa.body, boundary_slot(target, &toa.body, slot), 4));
 
-    if !extra.is_empty() {
-        tokens.push(extra.to_string());
+    if let (Field::Distribution, Some(slot)) = (target, slot) {
+        let n = primary_arity(&toa.body).0;
+        tokens.push(format!("_DIST_SLOT_{slot}_OF_{n}"));
     }
 
     tokens.push("_BIAS".to_string());
-
     tokens
 }
 
@@ -261,6 +364,8 @@ fn oversample(examples: &[(Vec<String>, String)], min_ratio: f64) -> Vec<(Vec<St
     }
     let max_count = counts.values().copied().max().unwrap_or(1);
     let target = ((max_count as f64) * min_ratio).max(1.) as usize;
+    let mut counts: Vec<_> = counts.into_iter().collect();
+    counts.sort_by_key(|(k, _)| *k);
 
     let mut out = examples.to_vec();
     for (label, count) in counts {
@@ -766,12 +871,9 @@ fn field_training_examples(train: &[&Toa], field: Field) -> Vec<(Vec<String>, St
             }
 
             Field::Distribution => {
-                let n = primary_arity(&toa.body).0;
-
                 for (slot, label) in value.split_whitespace().enumerate() {
-                    let extra = format!("_DIST_SLOT_{slot}_OF_{n}");
-
-                    examples.push((extract_features_extra(toa, field, &extra), label.to_string()));
+                    examples
+                        .push((extract_features_extra(toa, field, Some(slot)), label.to_string()));
                 }
             }
 
@@ -809,15 +911,8 @@ fn field_feature_tokens(toa: &Toa, field: Field) -> Vec<Vec<String>> {
     match field {
         Field::Distribution => {
             let n = primary_arity(&toa.body).0;
-
-            (0 .. n)
-                .map(|slot| {
-                    let extra = format!("_DIST_SLOT_{slot}_OF_{n}");
-                    extract_features_extra(toa, field, &extra)
-                })
-                .collect()
+            (0 .. n).map(|slot| extract_features_extra(toa, field, Some(slot))).collect()
         }
-
         _ => vec![extract_features(toa, field)],
     }
 }
@@ -1215,6 +1310,8 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
          metadata remains available as features."
     )?;
     writeln!(out, "complete examples (all four fields present): {}", complete_annotated.len())?;
+    let flags = features();
+    writeln!(out, "feature_flags: {flags:?}")?;
     writeln!(out)?;
 
     println!("- 10fold cv for everything");
