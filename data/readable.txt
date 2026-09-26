@@ -20876,7 +20876,7 @@ fíadaq @Dembim 2026-06-25 #S7T04pytQ $en ±
 [t]pronoun: [g]‘last.time’; the previous period (of a sort determined by context)
   Dembim (2026-06-25): see notes on <síedaq>
 
-fıagu @Ilmen 2022-11-26 #EDTr0Kcq1 $en ±
+fıagu @Ilmen 2022-11-26 #EDTr0Kcq1 $en -1
 [t]predicate: ▯ is the ordered pair with head, first element ▯, and tail, last element ▯.
 
 fıaho @Ilmen 2019-01-05 #BsUU23S4M $en ±
@@ -29020,9 +29020,6 @@ heo [(c c 2xx) (d d d) tá sF] @official 2026-09-25 #kPbBYlOGCC8 $en ± %logic
 heo @uakci 2019-01-26 #7VPCKG2KZ $toa ± %logic
 = bu #jeq
 
-heo @Ilmen 2022-07-02 #MhJ2biQcS $en ± %logic
-[t]predicate: [g]‘different’; ▯ is different from ▯; ▯ differs from ▯ in what they are in relation ▯ with.
-
 heo @el 2022-07-05 #7vsitXngI $en ± %logic
 [t]predicate: ▯ and ▯ differ in what the answer to ▯ (indirect question + property) is
 
@@ -29037,6 +29034,9 @@ heo @jiqci 2023-07-31 #sWvF3ijpCO $pl ± %logic
 
 heo @salarua 2025-03-26 #MpucRIC8C $en ± %logic
 [t]predicate: ▯ (plural) are different.
+
+heo @Ilmen 2022-07-02 #MhJ2biQcS $en -1 %logic
+[t]predicate: [g]‘different’; ▯ is different from ▯; ▯ differs from ▯ in what they are in relation ▯ with.
 
 heo'aq @akesi 2020-04-20 #4DWQfZXAe $en -1
 [t]predicate: ▯ is hypocritical, ▯ is a hypocrite
@@ -34069,12 +34069,6 @@ jaıshe @Ilmen 2019-12-11 #1DF2N0HX_ $en ± %emotion
 
 jaıshom @Laqme 2024-10-25 #Ygk8f1ym9 $en ±
 [t]predicate: ▯ is a smile (one's smiling face).
-
-jaıtuka [(c) (d) hó sI] @Aburn 2026-07-12 #FEvpI_3tT $en ±
-[t]predicate: [g]‘rejoice’; ▯ rejoices, is glad, joyful and shows it
-  Aburn (2026-07-12): Etymology: jaı + tuku + da
-  Aburn (2026-09-24): jaıjo would be much better
-  Aburn (2026-09-25): Can someone add fame etc. to jaıjo so that I can delete this? Thanks
 
 jaja @akesi 2020-02-09 #vRUv8Acho $en +2
 [t]predicate: colloq. ▯ is very/extremely/totally ▯
@@ -45094,7 +45088,7 @@ kuluq @Laqme 2024-10-30 #9Bg4_Wevu $en ±
   Laqme (2024-10-30): onomatopoeic
   Laqme (2024-12-06): "clang!"
 
-kum @uakci 2023-01-02 #slHVQiKuF $en ±
+kum @uakci 2023-01-02 #slHVQiKuF $en -1
 [t]predicate: ▯ is ▯-th among ▯, counting from zero.
   uakci (2023-01-02): while 0-based counting isn't the most natural mode for Humans, et al., it does appear in natural settings, such as the hours of the day (**hora kụmkoam**)
   jiqci (2024-12-19): also (for some) floors of a building
@@ -52112,7 +52106,7 @@ meate @Laqme 2025-03-25 #hCuCLwJLw $en ±
 ⚠ meatou @el 2022-12-03 #aor2Ih00E $toa -1
 [Ja aqnhy] [ja bunhy] [ja shıja] bı, ıq tou áqnhy îq ja mea búnhy shíja
 
-meatuq @Ilmen 2019-06-20 #OtnFPLqIX $en ± %logic
+meatuq [(c c) (n n) tá sF] @Ilmen 2019-06-20 #OtnFPLqIX $en ± %logic
 [t]predicate: [g]‘same’; ▯ is the same thing as ▯.
 
 meatushıbo @Ilmen 2022-10-28 #i_l17DJng $en ±
@@ -53880,14 +53874,14 @@ mıule @uakci 2022-07-21 #kWblMJB9N $en ±
 mıuleı @uakci 2022-07-21 #-7Br8C_ZF $en +2
 [t]predicate: ▯ has “unpopular opinion” ▯.
 
-mıum @uakci 2023-05-20 #wsi1ZHvl6 $en ±
-[t]onomatopoeia: mewl
-
 mıum @evie 2025-03-27 #Q9mjdRM8e $en ±
 [t]interjection: <3
 
 mıum @evie 2025-03-27 #cvjnf92yT $jbo ±
 .iu
+
+mıum @uakci 2023-05-20 #wsi1ZHvl6 $en -1
+[t]onomatopoeia: mewl
 
 mıumıa @seaqtaq 2024-07-23 #eMvMmOVGT $en ±
 [t]predicate: ▯ is widely believed
@@ -56707,7 +56701,7 @@ nahao @seaqtaq 2024-11-16 #vdmTm8M26 $en ±
 [t]predicate: ▯ is present at/hanging around there doing whatever they are doing
   seaqtaq (2024-11-16): == hao X tî nánı
 
-nahı @uakci 2018-10-20 #aSwm5mIc0 $en ±
+nahı @uakci 2018-10-20 #aSwm5mIc0 $en -1
 [t]predicate: ▯ is neither the case nor not the case; ▯ neither satisfies nor not satisfies property ▯.
 
 naho @el 2022-01-17 #QzW0faM9Y $en +2 %lifeform,plant
@@ -63766,7 +63760,7 @@ otanıu @Machy 2022-07-09 #eVIHxYWNr $en ±
 otanoaı @Laqme 2025-02-19 #pLVPVBeX6 $en ±
 [t]predicate: ▯ is oat milk.
 
-ote @Ilmen 2020-02-28 #kTVKuE8HL $en ±
+ote @Ilmen 2020-02-28 #kTVKuE8HL $en -1
 [t]predicate: ▯ is the case to an average extent (neither great nor small); ▯ satisfies property ▯ to an average extent.
   Ilmen (2020-02-28): A priori.
   Ilmen (2020-02-28): Does not imply strict average extent, but rather closeness to the average value.
@@ -68566,7 +68560,7 @@ raq @SuperSpaceNiM 2024-08-12 #ubdqBK4qP $ru ± %cognition
   lassc (2025-03-18): "with regards to"
   lassc (2025-03-20): concerning
 
-raqbı @uakci 2026-02-18 #sDcN8zoFf $en ±
+raqbı @uakci 2026-02-18 #sDcN8zoFf $en -1
 [t]predicate: Here’s something to contemplate: ▯.
   uakci (2026-02-18): see also **gemna** (a particle; this one is a verb)
   uakci (2026-02-18): Just putting this out there: ▯; Not sure what to say about it yet but here’s something relevant to the topic at hand: ▯; Consider ▯.
@@ -72206,8 +72200,8 @@ ruqshua @uakci 2022-12-22 #oT94YKI7S $en -1
 [t]predicate: ‘for it to rain’; It rains.
   Ilmen (2025-10-31): officialized: yes
 
-ruqshuanaı @fagri 2019-02-27 #4B6jV8zN0 $en ±
-It's raining.
+ruqshuanaı @fagri 2019-02-27 #4B6jV8zN0 $en -1
+[t]predicate: It's raining.
   fagri (2019-02-27): (0-ary predicate)
 
 ruqtıe @uakci 2019-01-23 #YutJ_tJI3 $en +1
@@ -77369,7 +77363,7 @@ suedo @Ilmen 2020-03-19 #cu8VnUHbI $en -1
 suedocıu @Ilmen 2020-03-19 #YTDnGa1qi $en ± %action,body_action,involuntary_action
 [t]predicate: ▯ sweats ▯.
 
-suefa @uakci 2020-05-16 #5cTEttr_f $en ±
+suefa @uakci 2020-05-16 #5cTEttr_f $en -1
 [t]predicate: ▯ goes on a quest; ▯ is appointed to go to ▯.
 
 sueguaı @uakci 2023-08-29 #28wqiz0-_ $en +1
@@ -77692,7 +77686,7 @@ súkena @lassc 2025-03-29 #31_RGG3f9 $en ±
 sukıfımeaq @Xeizzen 2018-12-20 #ymAWpTjBi $en ±
 [t]predicate: ▯ is a skiff type of a boat
 
-suku @fagri 2021-10-04 #OljfKvofQ $en +1
+suku @fagri 2021-10-04 #OljfKvofQ $en ±
 [t]predicate: ▯ are different from ▯ (different identities)
   Machy (2022-04-19): "other"
 
