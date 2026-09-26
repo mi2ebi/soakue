@@ -5,7 +5,7 @@
     clippy::too_many_lines,
     clippy::cast_possible_truncation,
     clippy::cast_sign_loss,
-    reason = "metadata experiments are intentionally data-heavy"
+    reason = "annoying"
 )]
 
 use std::{
@@ -156,10 +156,7 @@ fn char_ngrams(text: &str, min_n: usize, max_n: usize) -> Vec<String> {
         }
         for i in 0 ..= chars.len() - n {
             let gram: String = chars[i .. i + n].iter().collect();
-            // Combining marks on their own are almost never a useful feature.
-            if gram.chars().all(|c| !c.is_control()) {
-                out.push(format!("_C{n}_{gram}"));
-            }
+            out.push(format!("_C{n}_{gram}"));
         }
     }
     out

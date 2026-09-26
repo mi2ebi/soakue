@@ -12806,7 +12806,7 @@ cholıreı @jiqci 2024-05-05 #r_P7x2KVX $en ±
 cholırıaı @Ilmen 2022-10-28 #XuAhQ7ayH $en ±
 [t]predicate: ▯ cushions ▯ (i.e. the former physically supports the latter).
 
-chom @uakci 2022-12-19 #rXos1daEz $en +2
+chom @uakci 2022-12-19 #rXos1daEz $en +3
 [t]predicate: ▯ is an insect/bug.
   uakci (2022-12-19): < **chome**
   Ilmen (2026-01-28): frame: c
@@ -25496,11 +25496,8 @@ gohı @Ilmen 2022-10-07 #d8jpU-R0R $en ± %logic
 gohı @Ilmen 2020-01-27 #u-UZ1CUmA $toa -1 %logic
 = ja jane ja raı ja guja bı tu sıeme bı jeo re lu gujeo ráı hóa gúja na mêjeo jáne síeme.
 
-gohı'ı @Ilmen 2020-03-04 #Y7V3G8Aas $en ±
+gohı'ı @Ilmen 2020-03-04 #Y7V3G8Aas $en -1
 [t]predicate: The proposition "what satisfies the predicate ▯" is such that ▯ is in relation ▯ with that proposition; more precisely: considering the predicate ▯, the thing ▯ and the relation ▯: for all X, the proposition that X is an argument structure which satisfies the predicate is true iff the thing is in that relation with the proposition, and furthermore, the proposition that X is an argument structure which doesn't satisfy the predicate is true iff the thing is in that relation with the proposition.
-
-gohı'ı @Ilmen 2020-01-27 #MQAV85kaC $toa -1
-= ja jane ja raı ja guja bı tu sıeme bı to ru mêjeo jáne síeme to mêbu jáne síeme pa jeo re lu gujeo ráı hóa gúja.
 
 goho @Ilmen 2019-02-18 #2kVapmzpv $en ±
 [t]predicate: ▯ is in relation ▯ with them/her/him.
@@ -29575,9 +29572,6 @@ hıa @el 2022-07-10 #EFPYfGco7 $tok ±
 hıa @uakci 2022-08-24 #SpDQxv5xQ $en ±
 [t]predicate: ▯ is/does what?;  What is ▯?; ▯ satisfies what property?
 
-hıa @uakci 2024-01-19 #D4NgXFm9t $en ±
-[t]predicate: ▯ is what? ▯ satisfies what property?
-
 hıa @Ilmen 2020-01-29 #4UC8aEen2 $toa -1
 = deı hı ga
 
@@ -30246,7 +30240,7 @@ hılonotuqkea @Ilmen 2023-02-13 #jbRnwXfw2 $en ±
 hıloruka @jiqci 2024-06-22 #MaiNNh-3g $en ±
 [t]predicate: ▯ is a jetpack.
 
-hılu @Ilmen 2019-02-19 #5byQlDfpm $en ±
+hılu @Ilmen 2019-02-19 #5byQlDfpm $en -1
 [t]predicate: ▯ is the proposition P such that the things X having property ▯ are such that P is that X have that property.
   Ilmen (2019-02-19): "dủa jí hílū nủo" = "dủa jí lû nủo hı ráı".
 
@@ -34402,7 +34396,7 @@ jaq'acı @Machy 2022-09-29 #pEpuhRIN3 $en ±
 jaqbalaja @seaqtaq 2019-09-23 #Pz84FBD4_ $en -1
 [t]predicate: ▯ is jambalaya—a Cajun dish of rice with shrimp, chicken, and vegetables.
 
-jaqbeı @uakci 2019-07-02 #xQtzw43bd $en +4
+jaqbeı @uakci 2019-07-02 #xQtzw43bd $en +3
 [t]predicate: ▯ is so much the case; ▯ is so ▯/1. (emphatic; expressive)
   seaqtaq (2019-07-21): +1, just want to bring more attention to this word
 
@@ -34476,7 +34470,7 @@ jaqjeq [(c c 1x) (d d d) tá sF] @official 2026-09-25 #4uvGqK-ENMB $en ± %amoun
 jaqjeq @jiqci 2023-07-31 #pW7I-DfoV $pl ± %amount,comparison
 [t]predicate: ▯ w tym samym stopniu / tyle samo co ▯ spełnia własność ▯.
 
-jaqjuı @fagri 2019-02-03 #mQEYFCeK5 $en ±
+jaqjuı @fagri 2019-02-03 #mQEYFCeK5 $en -1
 [t]predicate: ▯ is about the same as ▯ in property ▯(1)
 
 jaqkafe @salarua 2022-08-31 #vFfg2N-QT $en +1
@@ -42445,7 +42439,7 @@ kıboeq @TheAndSys 2024-08-28 #SlnmOW4O5 $en ±
 [t]predicate: ▯ is a keyboard
   TheAndSys (2024-08-28): from kiboy
 
-kıbu @seaqtaq 2021-09-05 #Fuxdn1hUw $en ±
+kıbu @seaqtaq 2021-09-05 #Fuxdn1hUw $en +1
 [t]predicate: ▯ is impervious/immune to experiencing satisfying property ▯
   seaqtaq (2021-09-05): Somewhat resembles "kiubu", an unsatisfying but nearly appropriate etymology
   seaqtaq (2021-09-06): Also: invulnerable
@@ -61678,10 +61672,10 @@ nuıtama @Laqme 2024-09-08 #fKB-UwAjD $en ±
 nuıꝡaqtoı @Snow 2023-06-02 #3iYNRD8E- $en ±
 [t]predicate: ▯ is komatsuna; ▯ is brassica rapa var. perviridis.
 
-nuja @Ilmen 2021-12-05 #thLIjt5Jt $en ±
+nuja @Ilmen 2021-12-05 #thLIjt5Jt $en -1
 [t]predicate: ▯ makes with ▯ an exchange of a service for another service, these services being the two properties in the pair ▯, the first one being the service done by the first agent and the second one by the second agent.
 
-nuja @Ilmen 2021-12-05 #2DJn7YV4G $en ±
+nuja @Ilmen 2021-12-05 #2DJn7YV4G $en -1
 [t]predicate: ▯ makes with ▯ an exchange of a service for another service, these services being being defined by the “nuju” predicate ▯.
 
 nujao @Laqme 2024-04-25 #2nG50cDP0 $en +1
@@ -61690,7 +61684,7 @@ nujao @Laqme 2024-04-25 #2nG50cDP0 $en +1
 nujaq @Laqme 2020-02-15 #gJrKu9In8 $en ±
 [t]predicate: ▯ is the case this much / that much.
 
-nuju @Ilmen 2021-12-05 #c9Q1kAgUX $en ±
+nuju @Ilmen 2021-12-05 #c9Q1kAgUX $en -1
 [t]predicate: ▯ is a predicate defining a pair of properties representing services exchanged by two agents, the first one doing service ▯ and the second one doing ▯.
 
 nujuı @Laqme 2024-04-25 #2NZpRFGgW $en +1
@@ -63772,7 +63766,7 @@ otanıu @Machy 2022-07-09 #eVIHxYWNr $en ±
 otanoaı @Laqme 2025-02-19 #pLVPVBeX6 $en ±
 [t]predicate: ▯ is oat milk.
 
-ote @Ilmen 2020-02-28 #kTVKuE8HL $en +1
+ote @Ilmen 2020-02-28 #kTVKuE8HL $en ±
 [t]predicate: ▯ is the case to an average extent (neither great nor small); ▯ satisfies property ▯ to an average extent.
   Ilmen (2020-02-28): A priori.
   Ilmen (2020-02-28): Does not imply strict average extent, but rather closeness to the average value.
@@ -65079,7 +65073,7 @@ pesokuoq @jiqci 2024-09-11 #s5H57F66I $en ±
 pesopıu @uakci 2019-04-12 #mVvXRRFcH $en ±
 [t]predicate: ▯ is foreskin.
 
-pesoq @seaqtaq 2024-07-03 #1Dxp8ZrLG $en ±
+pesoq @seaqtaq 2024-07-03 #1Dxp8ZrLG $en -1
 [t]predicate: ▯, for/by standard ▯ superlatively satisfies property ▯
   seaqtaq (2024-07-03): E.g. "Pesoq joetaı kıaı nhána báq req kéa" = "They cared for the machine as well as a human could"
 
@@ -82909,7 +82903,7 @@ teagı @robintown 2023-11-07 #45T33HU4p $en ±
 teague @seaqtaq 2024-10-29 #PqTBpv8rf $en ±
 [t]predicate: ▯ recoils in fear; ▯ cowers
 
-teaı @Machy 2022-02-07 #kyaa-w7jQ $en +1
+teaı @Machy 2022-02-07 #kyaa-w7jQ $en +2
 [t]predicate: ▯ is averse/afraid/disgusted of satisfying property ▯.
   Machy (2022-02-07): This word was missing an English definition.
   Laqme (2022-02-07): reluctant
@@ -86137,7 +86131,7 @@ toıduesıo @Ilmen 2020-04-23 #JG_RCq_wa $en ±
 toıfıe @Laqme 2023-11-03 #0LtbIn-pD $en ±
 [t]predicate: ▯ is morally reprehensible / despicable / heinous / atrocious.
 
-toıfuı @Laqme 2022-02-11 #s8Z8zx53N $en ±
+toıfuı @Laqme 2022-02-11 #s8Z8zx53N $en +1
 [t]predicate: ▯ is easy to do ▯ to.
 
 toıfuılı @uakci 2022-02-11 #9xS3hPY-L $en ±
@@ -92666,11 +92660,6 @@ Do you have a tea- or coffee-drinking habit?
 
 du rua jaq de @examples 2026-09-25 #BWFMotty34A $en ±
 very beautiful (thing) which seems to be a flower
-
-du ru bu @Ilmen 2019-02-08 #YzKMBhhgT $en ±
-[t]predicate: ▯ is seemingly the case (but actually isn't); ▯ seemingly satisfies the property ▯ (but actually doesn't).
-  Hoemai (2019-03-18): +1 nice language
-  uakci (2023-04-02): note: this no longer works in delta (but **du ru sahu** does). i think you can also do **du kị'aımu faq**
 
 Du ꝡä fa tó súq ríaq. @examples 2026-09-25 #G8b67Cq1OjUP $en ±
 It seems like only YOU went to the place.
