@@ -42127,7 +42127,7 @@ kıachaq [(c) (d) hóq sI] @official 2026-09-25 #e2YZ7CIXHO- $en ± %cultural,we
 kıachaq @jiqci 2023-07-31 #auabtPlK2m $pl ± %cultural,weekday
 [t]predicate: ▯ to poniedziałek.
 
-kıage @Ilmen 2020-03-10 #CPULxn_Px $en ± %has_color,trichromatic,pseudo-absolute
+kıage @Ilmen 2020-03-10 #CPULxn_Px $en -1 %has_color,trichromatic,pseudo-absolute
 [t]predicate: ▯ is red.
 
 kıageıchı @jiqci 2025-04-10 #Mn6Sudhoo $en ±
@@ -53886,11 +53886,11 @@ mıum @uakci 2023-05-20 #wsi1ZHvl6 $en -1
 mıumıa @seaqtaq 2024-07-23 #eMvMmOVGT $en ±
 [t]predicate: ▯ is widely believed
 
-mıumıeq @seaqtaq 2018-12-26 #T4cjoelZs $en ±
+mıumıeq @seaqtaq 2018-12-26 #T4cjoelZs $en +1
 [t]predicate: ▯ polls ▯ about ▯
   uakci (2018-12-26): -1, I prefer my version more
 
-mıumıeq @uakci 2018-12-26 #Us6ybmZaX $en ±
+mıumıeq @uakci 2018-12-26 #Us6ybmZaX $en -1
 [t]predicate: ▯ polls ▯ (people) about ▯/1; ▯ collects opinions of all of ▯ about ▯/1.
   uakci (2018-12-26): +1, I prefer this over seaqtaq’s
 
@@ -63777,6 +63777,9 @@ Oteraıgua @Laqme 2023-12-17 #ZrarJrXZz $en ±
 otoaı @uakci 2020-05-06 #9V1YwXVlv $en ±
 [t]predicate: ▯ is a non-atomic unit of measurement comprising ▯ (how many of what).
   uakci (2020-05-06): ỏtōaı baq sẻkūq baq 9192631770 cảısīfūrīdāqtōaı — the second is a unit equal to 9192631770 caesium jiggles
+
+Otomaq @jiqci 2026-09-26 #YBWD-DvNp $en ±
+▯ is of / pertains to the Ottoman Empire.
 
 oꝡa @uakci 2023-03-16 #1pNQjQocH $en ±
 [t]interjection: epiphanous realization
@@ -86931,6 +86934,9 @@ tuaqbosa @Ilmen 2020-05-06 #Fykjx0IJW $en ± %lifeform,animal,arthropod,insect
 
 tuaqbosıu @Ilmen 2018-10-14 #5zi7Pky7e $en ± %lifeform,animal,vertebrate,mammal
 [t]predicate: ▯ is a deer (Cervidae).
+
+tuaqchea @jiqci 2026-09-26 #IBrmKk9e3 $en ±
+▯ is a baseball cap.
 
 tuaqnam @jiqci 2024-12-11 #r4X0I0mev $en ±
 [t]predicate: ▯ is a croissant / crescent roll.
