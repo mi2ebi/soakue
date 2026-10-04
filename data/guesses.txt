@@ -106,8 +106,8 @@ frame:
                1.11     7 _BOUND_BEFORE_4_among
   2ii          2.76    11 itself
                2.68    21 _RAKU_LAST_taq
-               1.75     1 _RAKU_LAST2_shı_taq
                1.75     1 _BOUND_AFTER_BI_with_itself
+               1.75     1 _RAKU_LAST2_shı_taq
                1.75    25 each
                1.73     2 _BOUND_AFTER_2_itself
                1.73     3 _BOUND_AFTER_ANYDIST_itself
@@ -248,21 +248,21 @@ frame:
                0.94    46 be
                0.83    13 _BOUND_BEFORE_BI_in_relation
                0.83    27 _BOUND_BEFORE_4_to
+               0.82     1 _BOUND_AFTER_ANYDIST_able
                0.82     1 _RAKU_FIRST_kıu
-               0.82     1 _BOUND_AFTER_1_able
   2xx          1.33    24 relation
                1.06    34 are
                0.96    22 _BOUND_BEFORE_1_relation
                0.90    23 _BOUND_BEFORE_ANYDIST_relation
                0.90     9 _RAKU_LAST_cheo
                0.76     4 member
+               0.75     2 _BOUND_BEFORE_1_relationship
                0.75     2 _BOUND_BEFORE_ANYDIST_relationship
                0.75     2 relationship
-               0.75     2 _BOUND_BEFORE_1_relationship
                0.74    21 _C3_heo
-  c            0.82  1486 _ARITY_2
-               0.82  1486 _TYPE_predicate
+  c            0.82  1486 _TYPE_predicate
                0.82  1486 _BIAS
+               0.82  1486 _ARITY_2
                0.53    37 s
                0.52    61 _KNOWN_SUBJECT_sS
                0.52  1486 ▯
@@ -301,8 +301,8 @@ frame:
                0.52    34 _BOUND_BEFORE_ANYDIST_satisfy
                0.51    96 _BOUND_BEFORE_1_property
                0.50     5 _BOUND_BEFORE_1_do
-               0.50     5 _BOUND_BEFORE_BI_to_do
                0.50     5 _BOUND_BEFORE_ANYDIST_do
+               0.50     5 _BOUND_BEFORE_BI_to_do
   1x           0.91     6 _TAG_amount
                0.91    57 is
                0.76    96 _BOUND_BEFORE_1_property
@@ -13550,6 +13550,12 @@ cholıbo #ZIBX_kBZT priority=1.64 ->
   pronoun = hó (56%, oov 13%)
   subject = sF (53%, oov 20%)
   ▯ is cushioned (i.e. having cushions among its components).
+kapıame #3Q6ZcbFKe priority=1.64 ->
+  frame = c (98%, oov 16%)
+  distribution = d (99%, oov 21%)
+  pronoun = máq (49%, oov 14%)
+  subject = sF (58%, oov 21%)
+  ▯ is a fellowship (a close association of people)
 hıaıreum #WYaQ_XCRH priority=1.64 ->
   frame = c (97%, oov 28%)
   distribution = d (99%, oov 24%)
@@ -94186,8 +94192,8 @@ sıe #-cBjMWU2A priority=0.33 ->
   subject = sF (89%, oov 6%)
   ▯ is sequentially after ▯.
 
-entries needing metadata: 15620
-  frame missing: 15587
-  distribution missing: 15620
-  pronoun missing: 15590
-  subject missing: 15620
+entries needing metadata: 15621
+  frame missing: 15588
+  distribution missing: 15621
+  pronoun missing: 15591
+  subject missing: 15621
