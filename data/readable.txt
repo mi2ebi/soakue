@@ -13651,7 +13651,7 @@ chuhe @uakci 2021-11-06 #84S-kI7sZ $en ±
 chuhe @uakci 2021-11-06 #yroNzmmJO $toa ±
 [t]predicate: he chuge ▯ há
 
-chuhuaq @Ilmen 2018-11-24 #fh8KuOtFj $en ± %amount
+chuhuaq @Ilmen 2018-11-24 #fh8KuOtFj $en -1 %amount
 [t]predicate: ▯ is greater than the median among ▯ when sorted on the scale ▯ (property).
 
 chuhuo @Laqme 2025-07-28 #xihfdtF0c $en +2
@@ -15076,12 +15076,12 @@ daqkea @jiqci 2023-07-31 #VG66bO4l5j $pl ± %artifact,machine
 daqkea @kazoo 2024-11-24 #-P_oD0qud $tr ± %artifact,machine
 [t]predicate: ▯ bir saattir. (zamanı gösteren cihaz)
 
-daqko @fagri 2018-11-21 #SCVEnTN_B $en +1
-[t]predicate: ▯ is the ▯th among those satisfying property ▯, sorted by time
-
 daqko @fagri 2018-11-21 #hpnOBbz5D $en +1
 [t]predicate: ▯, among those satisfying property ▯, is the ▯th
   fagri (2018-11-21): +1 for conforming to abstraction-ordering simplification
+
+daqko @fagri 2018-11-21 #SCVEnTN_B $en ±
+[t]predicate: ▯ is the ▯th among those satisfying property ▯, sorted by time
 
 daqleaq @uakci 2020-05-19 #Iq5Dfx29L $en ±
 [t]predicate: ▯ meets with ▯ in time; ▯ and ▯ happen adjacently / 'in quick succession'.
@@ -25502,9 +25502,6 @@ gohı @Ilmen 2022-10-07 #d8jpU-R0R $en ± %logic
 gohı @Ilmen 2020-01-27 #u-UZ1CUmA $toa -1 %logic
 = ja jane ja raı ja guja bı tu sıeme bı jeo re lu gujeo ráı hóa gúja na mêjeo jáne síeme.
 
-gohı'ı @Ilmen 2020-03-04 #Y7V3G8Aas $en -1
-[t]predicate: The proposition "what satisfies the predicate ▯" is such that ▯ is in relation ▯ with that proposition; more precisely: considering the predicate ▯, the thing ▯ and the relation ▯: for all X, the proposition that X is an argument structure which satisfies the predicate is true iff the thing is in that relation with the proposition, and furthermore, the proposition that X is an argument structure which doesn't satisfy the predicate is true iff the thing is in that relation with the proposition.
-
 goho @Ilmen 2019-02-18 #2kVapmzpv $en ±
 [t]predicate: ▯ is in relation ▯ with them/her/him.
   Laqme (2019-02-18): +1
@@ -28276,7 +28273,7 @@ haqbaıcase @fagri 2021-10-10 #xWsizQtfF $en ±
 haqbaıche @Ilmen 2020-03-03 #IRFRK7M2n $en ±
 [t]predicate: ▯ is a cook.
 
-haqbaıjı @fagri 2019-02-09 #5gGR-1ucz $en ±
+haqbaıjı @fagri 2019-02-09 #5gGR-1ucz $en -1
 [t]predicate: Satisfying property ▯ is a way of preparing food ▯
   fagri (2019-02-09): A.k.a., "recipe"
   fagri (2019-02-09): The "-ji" suffix comes from tajī.
@@ -29020,6 +29017,9 @@ henocaqrom @Laqme 2023-11-29 #Jpv2u_4ux $en ±
 heo- @uakci 2022-12-18 #HtkjiWApw $en ±
 [t]prefix: ‘different subject’; specifies that the affected exophor has switched referents since last mention
 
+heo @salarua 2025-03-26 #MpucRIC8C $en +1 %logic
+[t]predicate: ▯ (plural) are different.
+
 heo [(c c 2xx) (d d d) tá sF] @official 2026-10-04 #bV-hCrg_tcrl $en ± %logic
 [t]predicate: [g]‘different’; ▯ differs from ▯ in property ▯.
 
@@ -29037,9 +29037,6 @@ heo @zearen 2023-03-07 #u7YMEo97A $jbo ± %logic
 
 heo @jiqci 2023-07-31 #sWvF3ijpCO $pl ± %logic
 [t]predicate: ▯ jest odmienny/inny niż ▯; ▯_ różni się od ▯ pod względem własności ▯.
-
-heo @salarua 2025-03-26 #MpucRIC8C $en ± %logic
-[t]predicate: ▯ (plural) are different.
 
 heo @Ilmen 2022-07-02 #MhJ2biQcS $en -1 %logic
 [t]predicate: [g]‘different’; ▯ is different from ▯; ▯ differs from ▯ in what they are in relation ▯ with.
@@ -29167,7 +29164,7 @@ heome @Ilmen 2019-09-08 #jWLwt98zy $en ±
 heome @Ilmen 2019-04-07 #VTaIwhWSg $en -1
 [t]predicate: ▯ has a heterogenous composition.
 
-heomıa @Ilmen 2020-03-11 #IiS9VR-QP $en +2
+heomıa @Ilmen 2020-03-11 #IiS9VR-QP $en +3
 [t]predicate: ▯ are varied.
   Laqme (2022-05-22): various, miscellaneous
   uakci (2023-03-11): diverse, sundry, assorted. this word doesn't really make sense to use with singular referents, but you can say sth like **me bâq heomıa ní fuaq**
@@ -29531,11 +29528,11 @@ hezıfebı @jiqci 2023-06-09 #_WtNpYo2V $en ±
 hezıkıoq @el 2022-11-28 #XqeBKydT_ $en ±
 [t]predicate: ▯ is a plasma ball
 
-hezo @TheAndSys 2024-09-12 #78dGTpCsf $en +1
+hezo @TheAndSys 2024-09-12 #78dGTpCsf $en +2
 [t]predicate: ▯ is another thing of its same kind
   TheAndSys (2024-09-12): really weird word but for example **cho jí gíaq hezo** means "i like other songs"
 
-hezo @el 2022-09-25 #5GI_rDl3a $en ±
+hezo @el 2022-09-25 #5GI_rDl3a $en -1
 [t]predicate: ▯ is something other than ▯, both of which are ▯/1
   el (2022-09-25): see toaq defn for precise meaning
   mimiaoganhaqpy (2023-01-08): "another"
@@ -32872,7 +32869,7 @@ Gaq [ja raı] cheq, lûaq ja mí Igo
 [t]predicate: ▯ is marl.
   Snow (2024-03-21): Borrowed from 이회암 .
 
-ıhole @TheAndSys 2024-09-10 #blqhzQToz $en +1
+ıhole @TheAndSys 2024-09-10 #blqhzQToz $en ±
 [t]interjection: ah shit, oh fuck, oh dang
   TheAndSys (2024-09-10): from spanish "híjole"
 
@@ -34371,7 +34368,7 @@ Jaoza @jiqci 2024-11-16 #yHhpxPRU0 $en ±
 jaozum @jiqci 2024-01-11 #4NyZoieYA $en ±
 [t]predicate: ▯ zooms out of / away from on-scrren object ▯.
 
-jaq @robintown 2024-10-24 #8Fd3WJVlo $en +1 %amount,statistical_evaluation,with_greatness_property,median_based,adjectival_amount
+jaq @robintown 2024-10-24 #8Fd3WJVlo $en +2 %amount,statistical_evaluation,with_greatness_property,median_based,adjectival_amount
 [t]degree: very, extremely
 
 jaq [(0) (d) hóq sP] @official 2026-10-04 #Bqf8lODVbzt $en ± %amount,statistical_evaluation,with_greatness_property,median_based,adjectival_amount
@@ -34457,12 +34454,6 @@ jaqheo @jiqci 2023-07-31 #w9FmvfwdRt $pl ± %amount
 
 jaqjaokaqhao @jiqci 2024-01-30 #R3eCinZuk $en ±
 [t]predicate: ▯ gives/exhibits the "thousand-yard stare".
-
-jaqjaq @fagri 2019-01-02 #HXuGRkojP $en ±
-[t]predicate: ▯ is very, VERY much the case; ▯ is very, VERY ▯
-
-jaqjaq @uakci 2019-05-07 #DMHzJD1bs $en ±
-[t]predicate: ▯ is extremely the case.
 
 jaqjeq [(c c 1x) (d d d) tá sF] @official 2026-10-04 #B6jH_lntkKk $en ± %amount,comparison
 [t]predicate: [g]‘to.same.degree’; ▯ is as much as ▯ in property ▯.
@@ -35459,9 +35450,6 @@ jeq @el 2022-07-10 #CWexL80Ei $tok ± %logic
 
 jeq @jiqci 2023-07-31 #OZ4ukGG9i_ $pl ± %logic
 [t]predicate: ▯ jest taki sam jak ▯ pod względem własności ▯.
-
-jeq @evie 2026-06-28 #kxhvMNLmC $en -1 %logic
-[t]predicate: ▯ are similar
 
 jeqbıao @Dembim 2026-02-16 #LlxsNsiyL $en ±
 [t]predicate: ▯ conflates the members of ▯ (plural), mistakenly behaving as though they are the same/interchangeable.
@@ -42710,10 +42698,6 @@ kılo @Hoemai 2019-03-28 #2cuSz2CrV $en ±
 kılo @fagri 2018-12-30 #B7_nfX35S $en -1
 [t]predicate: ▯ masses exactly ▯ kilograms
 
-kılo @xorxes 2021-08-27 #i4wGU2AZ- $en -1
-[t]predicate: ▯ is/are (a) kilogram(s); ▯ is/are kilograms of things satisfying property ▯.
-  xorxes (2021-08-27): **Hıa numērō kılō shamū ní moq?** 'What number of kilos of apples are these?'
-
 kılobatahora @jiqci 2024-09-21 #-QPk0r2IG $en ±
 [t]predicate: ▯ is a kilowatt-hour (kWh).
 
@@ -42784,6 +42768,7 @@ kımpaq @Dembim 2026-01-20 #dBVX6ttRg $en ±
   Dembim (2026-01-20): see also <@uakci kım'ıq>— synonyms but for slot order
   Dembim (2026-01-22): Pronominal_class: hoq
   Dembim (2026-02-13): Distribution: d d
+  evie (2026-10-07): how is this different from **kım**?
 
 kımsope @Laqme 2024-01-12 #QLF_zcWu1 $en ±
 [t]predicate: ▯ swap identities / personas.
@@ -43232,13 +43217,13 @@ ko @xorxes 2021-09-05 #_s7CDnVtp $en +1
 ko @uakci 2023-01-02 #6QH-Y-UcS $en +1
 [t]predicate: ▯ is ▯-th among ▯.
 
-ko [(c c c 1x) (d n d d) tá sF] @official 2026-10-04 #9vtN-eH2_LC $en ±
-[t]predicate: [g]‘nth’; ▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.
-
 ko @uakci 2019-01-27 #nYd6qptxZ $toa ±
 bu huaq puı dósaq dógu, na ru jèojeq shî dósaq pa, soq dóshı dójo dógu, na ru jèojeq bû puq dósaq na sa dó lı shı sa túq lu bu jeojeq mêa hóa ja ráı na mêa hóa dósaq bı, ko dóshı sa lú dóheo hoa bı soq go dójo cu dógu fı sa lú tuq hóa lú bu jeojeq mêa hóa dóheo na mêa hóa dógu ceı ceı ceı dó dójo da
   uakci (2019-01-27): +1
   uakci (2019-01-27): soq(S, x2, x4); if(shi(x3)) x1 = S; else ko(x1, x2 \ S, x3 - 1, x4)
+
+ko [(c c c 1x) (d n d d) tá sF] @official 2026-10-04 #9vtN-eH2_LC $en -1
+[t]predicate: [g]‘nth’; ▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.
 
 ko @Ilmen 2019-01-30 #14uIYEUYz $toa -1
 = [XX12] Mea dóshı dógu na ru sa dosaq dógu sa dǒjo hóa dóshı.
@@ -43752,7 +43737,7 @@ kogekı @nano 2024-09-23 #euBUioc0c $en -1
   nano (2024-09-23):  攻撃
   Ilmen (2026-07-23): It's better to frame it as ⟪▯ harasses or attack ▯⟫ and do the event noun with ⟪ë⟫.
 
-kogıq @Ilmen 2019-01-05 #c9M4vMgVl $en ± %ordinality,quaternary_predicate
+kogıq @Ilmen 2019-01-05 #c9M4vMgVl $en -1 %ordinality,quaternary_predicate
 [t]predicate: __ is the x-th to last among ▯ where x is the number ▯, when sorted by property ▯.
 
 kogıq @Ilmen 2019-01-05 #x2AfizkSb $en -1 %ordinality,quaternary_predicate
@@ -44225,7 +44210,7 @@ kotua @uakci 2019-07-11 #Ek6SoPrA6 $en ±
   uakci (2019-07-11): ‘set’ not in the literal meaning of the word – just hinting at its unorderedness
   uakci (2019-07-11): (not in the mathematical sense)
 
-kotuase @uakci 2019-07-11 #psDH-B0jT $en ±
+kotuase @uakci 2019-07-11 #psDH-B0jT $en -1
 [t]predicate: ▯ is a sequence sorted by property ▯.
 
 koꝡa @eednb 2023-06-20 #Qv6GMpswC $en ±
@@ -58387,7 +58372,7 @@ nerıe @Ilmen 2020-07-07 #kVnoNocrd $en ± %mathematics
 nese @uakci 2022-09-29 #0f2Rx_KfC $en ±
 [t]predicate: ▯ is an impact/result(ing circumstance)/aftermath of ▯.
 
-nesıe @uakci 2018-11-29 #uOVjaiByx $en ±
+nesıe @uakci 2018-11-29 #uOVjaiByx $en -1
 [t]predicate: Sequence ▯ is sorted by property ▯; an element in sequence ▯ comes earlier if it scores higher on scale ▯.
 
 nete @jiqci 2023-05-14 #Cz4o5Tj_y $en ±
@@ -63101,10 +63086,6 @@ nhuogı @uakci 2021-11-07 #ywmrPSY6f $en ±
 [t]predicate: ▯ are ordered / neatly arranged.
   Ilmen (2025-10-22): keyword: tidy
 
-nhuogı @Snow 2024-09-25 #XHyNB23Ec $en -1
-[t]predicate: ▯ is tidy/in a neat order.
-  Ilmen (2025-10-22): It may be better to add keywords in notes of the original definition.
-
 nhuohuı @uakci 2021-11-07 #i6uTFXt_J $en ±
 [t]predicate: ▯ are disorderly / chaotic / messy / strung about all over the place.
 
@@ -64213,7 +64194,7 @@ paparua @el 2022-06-20 #si9zpytny $en ±
 [t]predicate: ▯ is a poppy (genus Papaver)
   el (2022-06-20): < greek παπαρούνα, dropping the /n/ to form **rua**
 
-papıka @ArcyFox 2020-04-27 #U-kjBP6I7 $en ±
+papıka [(c) (d) máq sI] @ArcyFox 2020-04-27 #U-kjBP6I7 $en ±
 [t]predicate: [g]‘paprike’; ▯ is paprika.
   ArcyFox (2020-04-27): Found in #Xtt61cF5XK_
   Ilmen (2026-01-28): frame: c
@@ -74890,7 +74871,7 @@ sıeme @Ilmen 2019-01-07 #3xtw_2R4z $en +1 %mathematics,sequences
 [t]predicate: ▯ is a sequence (abstract entity).
   seaqtaq (2019-04-18): Conflicts with #fdI6xT0Bt
 
-sıeme @fagri 2019-01-05 #5X4DiXPDJ $en ± %mathematics,sequences
+sıeme @fagri 2019-01-05 #5X4DiXPDJ $en -1 %mathematics,sequences
 [t]predicate: ▯ is a sequence of the things in ▯ (roi) sorted by property ▯
   fagri (2019-01-23): +1
   fagri (2019-01-23): (This is not meant to create an explicit sequence through the third slot, it's meant for uses like "Please make the sequence of your readings of these stories be sorted by the same property that sorts the stories into this list."
@@ -79869,19 +79850,19 @@ shıkı @lassc 2022-12-03 #aepuXwRef $en ±
 shıko [(c c) (d n) tá sF] @official 2026-10-04 #wZEHa2lyRX1 $en ± %⚠,ordinality
 [t]predicate: [g]‘first’; ▯ is first among ▯.
 
-shıko @Ilmen 2020-06-04 #qNHfVdkCy $en ± %⚠,ordinality
-[t]predicate: ▯ is first among ▯ sorted by property ▯.
-
 shıko @el 2022-07-10 #cm3z5utcn $tok ± %⚠,ordinality
 [t]predicate: ▯₂ la ▯₁ li nanpa wan
 
 shıko @jiqci 2023-07-31 #N4W4FEduQJ $pl ± %⚠,ordinality
 [t]predicate: ▯ jest pierwszy spośród ▯.
 
+shıko @Ilmen 2020-06-04 #qNHfVdkCy $en -1 %⚠,ordinality
+[t]predicate: ▯ is first among ▯ sorted by property ▯.
+
 shıkoe @uakci 2020-05-15 #tUVvXNzy6 $en ±
 [t]predicate: ▯ has only got ▯ to choose from to be in relation ▯ with; Chooser ▯, thing ▯, and relation ▯ are such that it is only the thing which the chooser can choose to be in said relation with.
 
-shıkogıq @Ilmen 2020-06-04 #NejcE_q8t $en ± %mathematics
+shıkogıq @Ilmen 2020-06-04 #NejcE_q8t $en -1 %mathematics
 [t]predicate: ▯ is last among ▯ sorted by property ▯.
 
 shıkotao @uakci 2020-02-07 #tKibQKARS $en -1
@@ -87538,9 +87519,6 @@ Tuqjıbogua @zearen 2025-10-02 #_5zPPxnyc $jbo ±
 tuqko [(c c) (d d) tá sF] @Dembim 2026-06-09 #9CDs8q3q_ $en ±
 [t]predicate: [g]‘last’; ▯ is last among ▯.
   Ilmen (2026-07-02): discriminator: 2
-
-tuqko @fagri 2020-06-20 #UQOJmtWJU $en -1
-[t]predicate: ▯ is last among ▯ sorted by property ▯
 
 tuqloı @Machy 2022-05-14 #Zg-6H6qn7 $en ±
 [t]predicate: ▯ is abominable.

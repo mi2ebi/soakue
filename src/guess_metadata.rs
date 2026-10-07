@@ -184,9 +184,6 @@ fn metadata_features(toa: &Toa, target: Field) -> Vec<String> {
         }
     }
 
-    if let Some(typ) = &toa.typ {
-        out.push(format!("_TYPE_{typ}"));
-    }
     if let Some(gloss) = &toa.gloss {
         for token in tokenize(gloss) {
             out.push(format!("_GLOSS_{token}"));

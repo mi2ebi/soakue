@@ -131,7 +131,6 @@ impl Toa {
     }
 
     pub fn fixup_metadata(&mut self) {
-        let mut old = self.clone();
         if [
             self.frame.clone(),
             self.pronoun.clone(),
@@ -154,7 +153,6 @@ impl Toa {
         if let Some(pronoun) = &self.pronoun {
             self.pronoun =
                 Some(format!("{}\u{0301}{}", &pronoun[0 .. 2], &pronoun[2 ..]).nfc().to_string());
-            old = Self { pronoun: self.pronoun.clone(), ..old };
         }
         if let Some(subject) = &self.subject {
             if ["agent", "individual", "shape", "free", "event", "proposition"]
@@ -163,7 +161,6 @@ impl Toa {
                 self.subject = Some(
                     "s".to_string() + &subject.chars().next().unwrap().to_uppercase().to_string(),
                 );
-                old = Self { subject: self.subject.clone(), ..old };
             } else {
                 println!("{} #{} has subject \"{}\", removing", self.head, self.id, subject);
                 self.subject = None;
@@ -208,10 +205,6 @@ impl Toa {
                     self.body = new_body.to_string();
                 }
             }
-        }
-        if *self != old {
-            println!("old entry:\n\x1b[91m{old}\x1b[m");
-            println!("new entry:\n\x1b[92m{self}\x1b[m");
         }
     }
 }

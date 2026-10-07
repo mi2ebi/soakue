@@ -35,7 +35,7 @@ fn parse_feature_flags() -> guess_metadata::FeatureFlags {
 #[allow(clippy::missing_panics_doc, reason = "github actions")]
 pub fn main() {
     let flags = parse_feature_flags();
-    println!("guess-metadata features: {flags:?}");
+    println!("guess-metadata features: {flags:#?}");
     guess_metadata::init_features(flags);
     let client =
         Client::builder().timeout(Duration::from_mins(3)).build().expect("Building client failed");
