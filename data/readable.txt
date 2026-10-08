@@ -5991,6 +5991,9 @@ bugıbugı @Neaqbua 2024-09-30 #2l1v3NbTT $en ±
 bugısı @Avaxar 2025-07-24 #Y29NDw9Ce $en ±
 [t]predicate: ▯ pertains to Bugis/Buginese culture, language, etc.
 
+buhıam @Ilmen 2026-10-07 #-Jp9xiRmf $en ±
+[t]predicate: ▯ is harmless, inoffensive, benign, safe.
+
 buhuı @Machy 2022-04-15 #uH0CqCuFr $en ±
 [t]predicate: ▯ is nice.
 
@@ -6963,6 +6966,10 @@ caı- @seaqtaq 2024-11-12 #R_7IxK7po $en ±
 caı [(c) (d) tá sF] @official 2026-10-04 #Zh6vWyBOv-0 $en ± %⚠
 [t]predicate: [g]‘strong’; ▯ is strong.
 
+⚠ caı @oldofficial 2019-05-05 #DTUC46Qeiz $en ± %⚠
+[t]predicate: [g]‘strong’; ▯ is strong.
+  uakci (2022-05-23): probably means ‘▯ is pronounced in intensity/impact’ rather than ‘▯ is durable’ or ‘▯ is capable of strength’
+
 caı @Laqme 2021-10-05 #Z1dGjZ0ob $ja ± %⚠
 [t]predicate: ▯は強い
 
@@ -6977,10 +6984,6 @@ caı @Hoekeiboi 2023-08-01 #PlCdhyFo8 $tl ± %⚠
 
 caı @kazoo 2024-11-24 #AfddfYP5r $tr ± %⚠
 [t]predicate: ▯ güçlüdür.
-
-⚠ caı @oldofficial 2019-05-05 #DTUC46Qeiz $en -1 %⚠
-[t]predicate: [g]‘strong’; ▯ is strong.
-  uakci (2022-05-23): probably means ‘▯ is pronounced in intensity/impact’ rather than ‘▯ is durable’ or ‘▯ is capable of strength’
 
 caıbace @jiqci 2024-07-06 #OWHi5uX26 $en ±
 [t]predicate: ▯ is pewter.
@@ -29726,6 +29729,9 @@ hıaocıa @akesi 2020-03-03 #ZWFsLd3Ja $en +1
 hıaocıa @Laqme 2021-09-27 #W2eB8TPaA $en ±
 [t]predicate: ▯ is safe for ▯.
 
+hıaocıa @Ilmen 2026-10-07 #FcJGxkgsl $en ±
+[t]predicate: ▯ is harmless, inoffensive, benign, safe.
+
 hıaocıala @TheAndSys 2026-09-11 #c-nDpWRrI $en ±
 [t]predicate: ▯ is safety
 
@@ -42769,6 +42775,7 @@ kımpaq @Dembim 2026-01-20 #dBVX6ttRg $en ±
   Dembim (2026-01-22): Pronominal_class: hoq
   Dembim (2026-02-13): Distribution: d d
   evie (2026-10-07): how is this different from **kım**?
+  Dembim (2026-10-07): This is "▯ is a part or aspect of what ▯ considers to be themselves". I understand kım to be "▯ identifies ▯ with themself".
 
 kımsope @Laqme 2024-01-12 #QLF_zcWu1 $en ±
 [t]predicate: ▯ swap identities / personas.
@@ -44845,6 +44852,7 @@ kugo @robintown 2023-05-20 #Z047Xst3M $en ±
 [t]predicate: ▯ is sturdy/durable/lasting.
   robintown (2023-05-20): From Iban 'kukoh'
   Dembim (2026-03-17): kw: resilient; tough; abiding
+  Ilmen (2026-10-07): kw: sturdy; robust
 
 kugu @Machy 2021-08-25 #nP9lNAnsx $en ±
 [t]predicate: ▯ is sneaking.
@@ -49312,7 +49320,7 @@ lommıq @seaqtaq 2025-05-03 #G0OFAK2CN $en ±
 lommıqtoı @seaqtaq 2025-05-03 #TO-STXlrG $en ±
 [t]predicate: ▯ is ▯'s salvation (theological); ▯ saves ▯ on some deep emotional or spiritual level
 
-lommoe @Laqme 2023-05-10 #cB7TV39C0 $en ±
+lommoe @Laqme 2023-05-10 #cB7TV39C0 $en +1
 [t]predicate: ▯ feels safe.
 
 lomna @seaqtaq 2025-05-03 #q8rIkopWD $en +2
@@ -54195,6 +54203,7 @@ moe @jiqci 2023-07-31 #utWGf6Wcbl $pl ± %emotion
 
 moecaı @Ilmen 2024-11-18 #ffjVdlV7W $en ±
 [t]predicate: predicate: ▯ is emotionally strong, stoical, impassible, tough-skinned, thick-skinned, insensitive (in a positive sense).
+  Ilmen (2026-10-07): For a word meaning “to feel strong emotions”, see “caımoe” instead.
 
 moecıa @uakci 2022-06-23 #RVcJiRdYv $en ±
 [t]predicate: ▯ is emotionless/callous/indifferent/ruthless/insensitive/desensitized.
@@ -54240,6 +54249,9 @@ moefoa @uakci 2021-11-07 #huAZBmXGI $en ±
 moefoa @Ilmen 2024-12-27 #okITSvzOZ $en ±
 [t]predicate: ▯ is in (mental/emotional) mood ▯ (general mental condition quale).
 
+moefoa @Ilmen 2026-10-07 #zsMX8WChb $en ±
+[t]predicate: ▯ has emotional mood ▯.
+
 moefuı @seaqtaq 2024-08-09 #MRfq-BKK- $en ±
 [t]predicate: ▯ is being emotional/feeling/passionate (in general)
 
@@ -54248,6 +54260,9 @@ moegaq [(c c) (d d) hó sA] @Laqme 2019-02-02 #_iG7z_KU- $en +3
 
 moegaq @seaqtaq 2020-02-22 #iz3oTZC9S $en -1
 [t]predicate: ▯ sympathizes with ▯in feeling ▯
+
+moegaqle @Ilmen 2026-10-07 #a9O7PdnSI $en ±
+[t]predicate: ▯ is empathic, tends to feel empathy.
 
 moege @Laqme 2019-02-08 #muf0hR4HB $en ±
 [t]predicate: ▯ is emotionally moving / elicits an emotional response.
@@ -54300,6 +54315,9 @@ moekuaqsıa @Ilmen 2018-10-09 #cZnhNgsht $en ±
 
 moekugo [(c) (d) hó sI] @Dembim 2026-03-17 #GXrbOOgJz $en ±
 [t]predicate: [g]‘emotionally.strong’; ▯ is emotionally strong (e.g. in the face of hard times).
+
+moekugo @Ilmen 2026-10-07 #aC6moTO5M $en ±
+predicate: ▯ is emotionally strong, stoical, impassible, tough-skinned, thick-skinned, insensitive (in a positive sense).
 
 moela @TheAndSys 2024-05-29 #X5m9HsYKU $en ±
 [t]predicate: ▯ is an emotion
@@ -63911,6 +63929,7 @@ paıge @uakci 2025-02-06 #btQTLy0mQ $en ±
 
 paıgı [(c c) (d d) hó sI] @official 2026-10-04 #JuHXxG3ms4hP $en ±
 [t]predicate: [g]‘friendly’; ▯ is friendly towards ▯.
+  Ilmen (2026-10-07): keywords: kind
 
 paıgı @jiqci 2023-07-31 #M7UkC-kc0i $pl ±
 [t]predicate: ▯ jest przyjazny/miły dla ▯.
@@ -75895,6 +75914,9 @@ soaofeao @Laqme 2023-12-08 #Xh5800JH5 $en +1
 soaofuı @Laqme 2024-06-08 #azUTRTHE7 $en ±
 [t]predicate: ▯ is personable / approachable / easy to talk to or get along with.
 
+soaogı @Ilmen 2026-10-07 #cqfKRqoDP $en ±
+[t]predicate: ▯ is polite, socially well-behaved.
+
 soaogoeq @Laqme 2024-04-26 #VIIOpevSx $en +1
 [t]predicate: ▯ is an interpersonal boundary.
 
@@ -80744,6 +80766,9 @@ tua dóshı sıa lú boq hóa tâo dógu dósaq da
 shoecaq @seaqtaq 2024-10-31 #C2TRyyb_2 $en ±
 [t]predicate: ▯ macromanages ▯; ▯ manages from afar/at a high level ▯
 
+shoegı @Ilmen 2026-10-07 #Q3doktQ4P $en ±
+[t]predicate: ▯ is adequately tolerant, e.g. tolerating the inoffensive but not what is harmful.
+
 shoehuao @uakci 2022-02-27 #XoF6jef4w $en ±
 [t]predicate: ▯ is lean (permissive, not strict).
 
@@ -80760,6 +80785,9 @@ shoekata @zearen 2024-09-26 #yIwnVCyd1 $en ±
 
 shoelaı @uakci 2022-07-17 #ABqVE3eS- $en ±
 [t]predicate: ▯ is a word of permission from ▯ permitting ▯ to be the case.
+
+shoele @Ilmen 2026-10-07 #OssbSsPXJ $en ±
+▯ is tolerant, permissive, indulgent.
 
 shoem [(c c) (d d) tá sF] @Laqme 2024-06-25 #miSA-A7oz $en +3
 [t]predicate: [g]‘steeped’; ▯ is steeped / immersed / submerged in ▯.
