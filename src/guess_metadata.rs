@@ -1345,7 +1345,7 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
             for (slot, (correct, total)) in slots {
                 writeln!(
                     out,
-                    "  slot {:<2}  {:5.1}% ({correct}/{total})",
+                    "  slot {:<2}   {:5.1}% ({correct}/{total})",
                     slot + 1,
                     100. * *correct as f64 / *total as f64
                 )?;
