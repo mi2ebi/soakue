@@ -55567,13 +55567,13 @@ mueıpeone @Laqme 2023-09-14 #eRVHa2Knk $en ±
 mueıpıo @Laqme 2023-09-14 #CXDDC3Hkt $en ±
 [t]predicate: ▯ is a lodestone.
 
-mueq @uakci 2021-11-06 #lCVrHxxPF $en ±
+mueq @uakci 2021-11-06 #lCVrHxxPF $en -1
 [t]predicate: It is reckoned/measured/reasoned that ▯ is true.
   uakci (2021-11-06): determined through calculation, experiment, logical thought
   uakci (2021-11-06): cf. **mıeq**
   uakci (2021-11-06): oh and cf. **jıoq**. this root is a somewhat explicit conflation of the two
 
-mueq @uakci 2021-11-06 #BAbmf2x00 $toa ±
+mueq @uakci 2021-11-06 #BAbmf2x00 $toa -1
 [t]predicate: ▯ bı, joı mîeq ra jıoq sa sa po bíy ky dûasha sa bíy
 
 mueqkea @uakci 2021-11-06 #kAw9A0ji9 $en ±
@@ -90085,9 +90085,6 @@ zoaıchı @Dembim 2026-02-08 #6pK5omA-F $en ±
   Dembim (2026-02-08): Frame: c
   Dembim (2026-02-08): Pronominal_class: ho
 
-zoaıchıja @jiqci 2024-08-17 #yRn8qNyFK $en ±
-[t]predicate: ▯ gaslights ▯ into believing that ▯ is the case.
-
 zoaıchıja [(c c) (d d) hó sA] @Dembim 2026-02-08 #CkpTQ3XJb $en ±
 [t]predicate: [g]‘gaslight’; ▯ gaslights ▯.
   Dembim (2026-02-08): Frame: c c
@@ -90095,6 +90092,9 @@ zoaıchıja [(c c) (d d) hó sA] @Dembim 2026-02-08 #CkpTQ3XJb $en ±
   Dembim (2026-02-08): Upstream: <@jiqci zoaıchıja>
   Dembim (2026-02-08): Use <ôq> <chı> for "into believing that ..."
   Ilmen (2026-02-10): discriminator: 2
+
+zoaıchıja @jiqci 2024-08-17 #yRn8qNyFK $en -1
+[t]predicate: ▯ gaslights ▯ into believing that ▯ is the case.
 
 zoaıge @uakci 2022-07-01 #djupzy6Kk $en +2
 [t]predicate: ▯ is suspicious/raises suspicion.
