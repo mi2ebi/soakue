@@ -3455,6 +3455,13 @@ bero [(c c) (d d) tá sS] @Laqme 2021-09-25 #W6E8QtUmW $en +6
   Dembim (2026-02-04): Frame: c c
   Dembim (2026-02-04): Pronominal_class: ta
 
+Bero'erıe @malu 2026-10-11 #lMDMnp4n0 $en ±
+▯ pertains to the culture and people of Northern Ireland.
+  malu (2026-10-11): the part of the UK, not the northern half of the island of Ireland
+
+Bero'erıegua @malu 2026-10-11 #DEQuZNLom $en ±
+▯ is Northern Ireland.
+
 Beroafarı @kazoo 2025-05-03 #1R-EhmLHy $en ±
 [t]predicate: ▯ is North Africa.
 
@@ -8174,6 +8181,10 @@ ceurıo @robintown 2023-02-06 #fy-tR8bqg $en ±
 ceuse @robintown 2023-02-10 #Z5ZiGGc0N $en ±
 [t]predicate: ▯ is breath.
 
+⚠ cfnj @malu 2026-10-11 #dkeHg3j0s $en ±
+abbreviation of **Ca feı ní jí** (this pisses me off,  ts pmo)
+  malu (2026-10-11): cfnj jîq 🥀
+
 Chatısagazu @eednb 2023-12-31 #sLz8nxzzB $en ±
 [t]predicate: ▯ is the Chhattisgarhi language.
 
@@ -8432,6 +8443,9 @@ Juku [ja] [ja cıe]
 
 cıejukuche @Ilmen 2026-02-16 #eDLKzRrna $en ±
 [t]predicate: ▯ is a fisher.
+
+cıekubo @malu 2026-10-11 #Fzy_I3sOw $en ±
+[t]predicate: ▯ is caviar.
 
 cıela @robintown 2023-10-17 #UQCAgSUiH $en ±
 [t]predicate: ▯ wriggles/flops/flounders about.
@@ -9317,6 +9331,13 @@ cuaona @uakci 2023-11-11 #Th1QiD4x- $en ±
 
 cuaonaq @uakci 2021-11-07 #kC4OPJ62w $en ±
 [t]predicate: ▯ is a transgender man; ▯ is transmasc; ▯ is FtM (female-to-male).
+
+cuaoreq @malu 2026-10-11 #bOXVf0jS6 $en ±
+[t]predicate: ▯ is transhuman / pertains to transhumanism.
+  malu (2026-10-11): idk if this fits more in line with transpeople or transhumans. lmk what yall think.
+
+cuaoreqchuaq @malu 2026-10-11 #fwcDckWjk $en ±
+[t]predicate: ▯ is transhumanism.
 
 cuaosaı @lassc 2025-03-15 #P04yWtcQC $en +1
 [t]predicate: ▯ is aether/sky/void/quintessence/the "fifth classical element".
@@ -12008,7 +12029,7 @@ chıopaq @uakci 2022-08-06 #CXyn49Nsa $en ±
 chıopuı @uakci 2019-02-27 #6FPJosdSj $en ±
 [t]predicate: ▯ happens many times, from time to time, often.
 
-chıoq @salarua 2023-05-22 #P4Xkhkamv $en ±
+chıoq [(c) (d) hó sI] @salarua 2023-05-22 #P4Xkhkamv $en ±
 [t]predicate: [g]‘exhausted’; ▯ is exhausted
 
 chıosıbı @jiqci 2023-03-12 #gtQOgD3rz $en ±
@@ -36544,7 +36565,7 @@ jıkı @salarua 2022-12-23 #FHNFXheP9 $es ±
 jıkı @SuperSpaceNiM 2024-08-12 #DMp69kWeK $ru ±
 междометие: ответ на **kıjı** 'спасибо' (не за что, да пожалуйста)
 
-jıko [(c) (d) hóq sI] @robintown 2022-12-04 #ZMkRYPNMf $en +7
+jıko [(c) (d) hóq sI] @robintown 2022-12-04 #ZMkRYPNMf $en +8
 [t]predicate: [g]‘internet’; ▯ is the World Wide Web; ▯ is the Internet.
   eednb (2022-12-04): +1!
   Laqme (2025-01-01): from **jıaqkoaı**
@@ -40284,7 +40305,7 @@ kampuq @jiqci 2026-03-29 #YN_A7Lj1c $en ±
 Kamrı @robintown 2025-05-02 #ysQ6uJkor $en ±
 [t]predicate: ▯ is Welsh.
 
-Kamrıgua @robintown 2025-05-02 #ZQoeas4tw $en ±
+Kamrıgua @robintown 2025-05-02 #ZQoeas4tw $en +1
 [t]predicate: ▯ is Wales.
 
 Kanabao @mati 2026-02-16 #v9Jd8tVwH $en ±
@@ -41191,7 +41212,7 @@ katıa @salarua 2025-06-07 #P0Pqf252d $en ±
 [t]predicate: ▯ is a soul
   salarua (2025-06-07): Etymology: contraction of **kaqhuatıa** "behind the eyes"
 
-kato [(c) (d) hó sI] @Ilmen 2018-09-24 #mih9DrlXs $en +10 %lifeform,animal,vertebrate,mammal
+kato [(c) (d) hó sI] @Ilmen 2018-09-24 #mih9DrlXs $en +11 %lifeform,animal,vertebrate,mammal
 [t]predicate: [g]‘cat’; ▯ is a cat.
   uakci (2018-09-24): +1!
   Ilmen (2018-10-30): +1
@@ -44758,7 +44779,7 @@ kueqcoeq @robintown 2022-08-10 #opdNOHRjX $toa ±
 kueqcoeq @robintown 2022-08-10 #E93GjrYt6 $toa -1
 [t]predicate: Chuecuoı ra mu chuecuoı ▯ chéq ▯.
 
-kueqdute @Ilmen 2026-01-18 #FDRSo6Us9 $en ±
+kueqdute @Ilmen 2026-01-18 #FDRSo6Us9 $en +1
 [t]predicate: ▯ do a public demonstration or protest gathering or march.
 
 kueqgıq @uakci 2020-03-01 #3-gXC-Qmp $en ±
@@ -44911,6 +44932,12 @@ kuıdo @seaqtaq 2024-08-11 #NeBVATGXT $en +1
 
 kuıdoa @xorxes 2020-06-06 #Mt3YaIrkP $en -1
 [t]predicate: ▯ explains/gives reasons for why ▯ is the case.
+
+kuıdua @Ilmen 2026-10-10 #j-iZmV006 $en ±
+[t]predicate: ▯ understands concept ▯, has it intergrated with their other knowledges.
+
+kuıdua @Ilmen 2026-10-10 #s0X5nK2tW $jbo ±
+[t]predicate: ▯ jimpe ▯.
 
 kuıfıeq @uakci 2019-05-02 #KG5hDmey5 $en ±
 [t]predicate: ▯ rationalises (rationalizes) ▯; ▯ explains to themselves that ▯ was caused by ▯.
@@ -45167,6 +45194,9 @@ kune @jiqci 2023-07-31 #XUX3zE3yvd $pl ± %lifeform,animal,vertebrate,mammal,car
 
 kune @TheAndSys 2025-03-26 #d-3rL2PyM $es ± %lifeform,animal,vertebrate,mammal,carnivorian
 [t]predicate: ▯ es un perro (miembro del genus Canis, incluye perros, lobos, coyotes, etc)
+
+kune @malu 2026-10-11 #hVAAEbwpJ $fr ± %lifeform,animal,vertebrate,mammal,carnivorian
+[t]prédicat: ▯ est un chien, un membre du genre Canis (y compris les loups, les chiens, les coyotes etc.)
 
 kunechoa @seaqtaq 2019-05-06 #N6Q1F-peL $en -1
 [t]predicate: ▯ barks (▯)
@@ -48334,6 +48364,9 @@ lıqbo @uakci 2023-04-04 #RJ8WbRCdl $en +1
 lıqcıo @Laqme 2022-04-15 #3wypDbSFV $en +1
 [t]predicate: ▯ is an adolescent girl / young woman.
 
+lıqchuaq @malu 2026-10-11 #hw3l-Ghna $en ±
+[t]predicate: ▯ is feminism.
+
 lıqde @uakci 2021-11-11 #EGmQUnTm4 $en +2
 [t]predicate: ▯ has feminine beauty; ▯’s aesthetic comes off as having a female(-aligned) undertone.
   fagri (2021-11-11): +1
@@ -48467,6 +48500,9 @@ lıqseo @SuperSpaceNiM 2024-08-16 #F473mYMXN $ru ± %kinship
 
 lıqsuoq @Machy 2020-06-30 #FfqQCA8NG $en ±
 [t]predicate: ▯ is a daughter of ▯. (not necessarily biological)
+
+lıqtacheı @malu 2026-10-11 #nHm2Qmo-Q $en ±
+[t]predicate: ▯ is misogynistic / pertains to misogyny.
 
 Lıqteqtaı @countries 2026-10-04 #5lxkwJysIC0q $en ±
 ▯ pertains to the culture of Liechtenstein – Principality of Liechtenstein.
@@ -49376,7 +49412,7 @@ loqcıu @uakci 2022-05-30 #1W2brdgsB $en ±
 loqcheokea @jiqci 2023-02-13 #URXPfusEs $en ±
 [t]predicate: ▯ is a heat exchanger.
 
-loqchıoq @salarua 2023-08-16 #GKT6xAjno $en ±
+loqchıoq [(c) (d) hó sI] @salarua 2023-08-16 #GKT6xAjno $en ±
 [t]predicate: [g]‘heat.exhaustion’; ▯ suffers heat exhaustion
 
 loqdea @Ilmen 2024-09-15 #r0AQ5R4Ki $en ±
@@ -50191,7 +50227,7 @@ luelaısaı @Laqme 2025-03-28 #hsUNbtCjH $en ±
 lueloha @seaqtaq 2019-01-30 #-14sBHub6 $en -1
 [t]predicate: (fork of #n5yoso9Q4) ▯ is gold
 
-lueloqbıa @Ilmen 2021-10-28 #HlzrYbbM_ $en ±
+lueloqbıa @Ilmen 2021-10-28 #HlzrYbbM_ $en +1
 [t]predicate: ▯ suffers from yellow fever.
 
 luemochelıao @Snow 2024-10-06 #s9diVenUn $en ±
@@ -50222,6 +50258,9 @@ lueqche @jiqci 2023-07-31 #Ja6t5ez1TR $pl ±
 
 lueqduaı @seaqtaq 2020-03-09 #vL_APngLA $en ±
 [t]predicate: ▯ is a slave to ▯
+
+lueqgua @malu 2026-10-11 #Rg9ei3fCi $en ±
+[t]predicate: ▯ is a vassal state, puppet state, satellite state.
 
 lueqjuq @uakci 2019-01-01 #onbH7TjYV $en ±
 [t]predicate: ▯ is a client; ▯ receives ▯’s service ▯.
@@ -54493,6 +54532,9 @@ moıbıadıu @Ilmen 2020-01-12 #uI0KeeWHN $en ± %science
 moıbıadıuche @Ilmen 2020-01-12 #TjL4uw4OM $en ± %profession
 [t]predicate: ▯ is a psychiatrist.
 
+moıbıajıo @malu 2026-10-11 #0w0rzvmLR $en ±
+[t]predicate: ▯ is a mental hospital, ▯ is an asylum
+
 moıbuaq @jiqci 2023-11-07 #SPhg1i9ba $en ±
 [t]predicate: ▯ is baffled / bewildered / dumbfounded / flabbergasted / stupefied; "▯'s brain short-circuits"; ▯ is so utterly perplexed that they struggle to come up with a coherent thought.
 
@@ -55400,7 +55442,7 @@ muaqjom @Laqme 2023-12-16 #7N5LM8H8c $en ±
 muaqjuı @Laqme 2024-06-25 #2KBEQCcuv $en ±
 [t]predicate: ▯ is dying / nearly dead / near death.
 
-muaqjuo @uakci 2019-05-30 #aKoQrIo6e $en +1
+muaqjuo @uakci 2019-05-30 #aKoQrIo6e $en +2
 [t]predicate: ▯ is a letter left behind by a person about to die (perhaps expressing their last will); ▯ is a testament/(last) will; ▯ is a death note/suicide note.
   Ilmen (2019-05-30): +1
 
@@ -57208,6 +57250,9 @@ naohaq @Ilmen 2019-02-27 #tk2c2TKpl $en ± %food,prepared_food
 Naohıedam @jiqci 2024-04-06 #FO_Qj9tyW $en ±
 [t]predicate: ▯ is the star sign Aquarius.
 
+naojam @malu 2026-10-11 #rjjYfhtQS $en ±
+[t]predicate: ▯ is a water clock, clepsydra.
+
 naojeoq @Ilmen 2020-02-02 #6IphvkadG $en ±
 [t]predicate: ▯ is a well.
 
@@ -57659,6 +57704,9 @@ naqseo @SuperSpaceNiM 2024-08-16 #NItLnHdfx $ru ± %kinship
 
 naqsuoq @Machy 2020-06-30 #0EXHxmDAM $en ±
 [t]predicate: ▯ is a son of ▯. (not necessarily biological)
+
+naqtacheı @malu 2026-10-11 #gnLhHZQ-u $en ±
+[t]predicate: ▯ is misandrist / pertains to misandry.
 
 narabı @uakci 2021-10-25 #c7nr3Jvv7 $en ±
 [t]predicate: ▯ is a tray; ▯ is something to line things up on.
@@ -61192,6 +61240,9 @@ nuaqhoe @Ilmen 2019-04-11 #ZWwVsNKVx $en ±
 
 nuaqhoenıq @TheAndSys 2023-05-22 #750in1hRU $en ±
 [t]predicate: ▯ is a supernova
+
+nuaqjıo @malu 2026-10-11 #RRH0qvECV $en +1
+[t]predicate: ▯ is a nightclub.
 
 nuaqkaqkea @jiqci 2023-02-14 #oa4dCSG4T $en ±
 [t]predicate: ▯ is a night vision device.
@@ -66599,6 +66650,9 @@ poqcıachao @jiqci 2024-08-27 #44arTkK8u $en ±
 
 poqchua @Laqme 2019-02-12 #kllXnaiKS $en ±
 [t]predicate: ▯ is a given name / first name of ▯.
+
+poqchuaq @malu 2026-10-11 #tEimRSPJp $en ±
+[t]predicate: ▯ is populism.
 
 poqde @uakci 2021-07-24 #kQw1kFgpG $en ±
 [t]predicate: ▯ is charming, alluring, fascinating; ▯ has personal charm [regardless of sexual/romantic connotations].
@@ -73295,7 +73349,7 @@ saqza @sq 2026-07-04 #kSu8tGZCD $en ±
 [t]predicate: ▯ is a Chinese hawthorn/mountain hawthorn berry (fruit of the species Crataegus pinnatifida).
   sq (2026-07-04): from the Hokkien reading of "山楂" san-cha
 
-saqzao [(c) (d) hó sI] @Laqme 2023-11-11 #h4OyGnQrZ $en +2
+saqzao [(c) (d) hó sI] @Laqme 2023-11-11 #h4OyGnQrZ $en +3
 [t]predicate: [g]‘moron’; ▯ is a moron / idiot / halfwit / dunce / fool.
   Laqme (2023-11-11): I imagine there used to be a little Toaq joke/saying like "that guy knows only 3 things: ..." and it got reduced to this word. This isn't nice to say but it isn't vulgar.
 
@@ -76263,6 +76317,9 @@ soıbuaq @mimiaoganhaqpy 2022-11-20 #O30fpezmH $en ±
 soıcıa @uakci 2020-04-08 #q2pIqyXgH $en +1
 [t]predicate: ▯ is at peace with ▯.
 
+soıcıachuaq @malu 2026-10-11 #7QShWMfss $en ±
+[t]predicate: ▯ is pacifism.
+
 soıcıalao @Machy 2022-05-13 #AJtdmzIAu $en ±
 [t]predicate: ▯ abides by ▯ being the case.
 
@@ -78404,7 +78461,7 @@ shamu @TheAndSys 2025-03-26 #jLxrV7Q8B $es ± %lifeform,plant,fruit
 shamu @seaqtaq 2020-06-09 #FobPGP1_G $en -1 %lifeform,plant,fruit
 [t]predicate: property ▯ is arrived at by ▯
 
-shamuao @jiqci 2023-03-28 #Za6t_NFY8 $en ±
+shamuao @jiqci 2023-03-28 #Za6t_NFY8 $en +1
 [t]predicate: ▯ is an apple tree (genus Malus).
   jiqci (2023-03-28): haplology yay
 
@@ -99511,7 +99568,7 @@ chıheokıao(toq) @seaqtaq 2019-06-23 #0AsFrhVIg $en ±
 [t]predicate: ▯ is a door that you keep wanting to push but it's actually a pull door, or vice-versa
   seaqtaq (2019-06-23): from sajem tan's "femekukmunkanöt"
 
-⚠ chıry @Laqme 2022-03-05 #flaIRgM1q $en +1
+⚠ chıry @Laqme 2022-03-05 #flaIRgM1q $en ±
 [t]interjection: ‘fuck! shit!’
   Laqme (2022-12-13): → **chıro**
 
@@ -99567,7 +99624,7 @@ as seldom occurs
 [t]predicate: ▯ is the colour pink.
   akesi (2020-06-06): from latin "dianthus" - formerly known as "pink" in English
 
-⚠ doqhey @uakci 2022-05-13 #m0G1x4vnu $en ±
+⚠ doqhey @uakci 2022-05-13 #m0G1x4vnu $en -1
 [t]predicate: ▯ is an abbreviation of ▯.
 
 ⚠ duaonaby @uakci 2020-04-08 #UiQnilOxS $en ±
@@ -99723,9 +99780,6 @@ guaqleoq(tao)kuaı @seaqtaq 2019-05-28 #bDIyUqq9y $en ±
 
 ⚠ gujey @uakci 2021-11-07 #O1xoJqzkd $en -1
 [t]predicate: ▯ is bigender.
-
-⚠ guqdoy @Amo 2021-09-12 #OCeAvU-PB $en -1
-[t]predicate: [g]‘subway’; ▯ is a metro; ▯ is a subway (underground rail transit system).
 
 ⚠ guqgıepıy @el 2022-07-10 #2-JID9Gvn $en +1
 [t]predicate: ▯ is annoyed because they don't know where to put their lower arm while cuddling
@@ -100202,7 +100256,7 @@ loaırıo(saı) @seaqtaq 2020-02-26 #N5p9iI0nQ $en ±
   uakci (2022-06-21): doesn’t say what kind of copy, how faithful to the original, what differs, which one came first (this predicate is symmetrical), etc.; semantic focus is on not being the same object. **meaheo** + **hey**
   uakci (2022-06-21): **tỉfaı baq mëahey hóa ní nỉqkue da** ‘this (issue of the) newspaper is widely copied (distributed)’
 
-⚠ meıly @Machy 2022-09-03 #1BzxoNpvO $en +1
+⚠ meıly @Machy 2022-09-03 #1BzxoNpvO $en ±
 [t]predicate: ▯ is an apple tree (of the genus Malus).
   Machy (2022-09-03): Wikipedia gives /ˈmeɪləs/ for "Malus."
 
