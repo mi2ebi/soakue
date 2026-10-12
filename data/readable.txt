@@ -845,6 +845,9 @@ amını [(c) (d) hó sI] @salarua 2023-05-31 #Tzb5oSw6K $en +2
 amıq @jiqci 2023-11-26 #FHt7bTP8q $en ±
 [t]predicate: ▯ is an amine.
 
+amıq'acı @malu 2026-10-11 #sav5kcLVz $en ±
+▯ is an amino acid.
+
 amıqrıo @jiqci 2023-05-25 #shYsRrxWx $en ±
 [t]predicate: ▯ is ammonia.
 
@@ -1812,7 +1815,7 @@ ashelaı @el 2022-06-20 #2GeShNgso $en +1
 [t]predicate: ▯ is the letter Æ
   el (2022-06-20): < "ash" + ae
 
-asholo @salarua 2021-07-24 #48CmCWrvD $en +1
+asholo @salarua 2021-07-24 #48CmCWrvD $en +2
 [t]predicate: ▯ is an axolotl
 
 ashu @Laqme 2024-10-15 #_3FA_m-br $en ±
@@ -4337,6 +4340,13 @@ bıra @kazoo 2024-11-24 #WEmMqfswV $tr ± %cultural,beverage
 bıraı @seaqtaq 2019-07-09 #OYhqipHPE $en ±
 [t]predicate: ▯ is a topic
   seaqtaq (2019-07-09): In spirit of horai, maqrai, etc
+
+Bıreısı @malu 2026-10-11 #9su0E8uaK $en ±
+▯ is Breton / pertains to Brittany.
+  malu (2026-10-11): from Breton Breizh /ˈbrɛjs/
+
+Bıreısıgua @malu 2026-10-11 #MUAWnQ0C8 $en ±
+▯ is Brittany.
 
 bırım @jiqci 2024-12-22 #VoLhx8jE1 $en ±
 [t]predicate: ▯ is a bream (genus Abramis).
@@ -13808,7 +13818,7 @@ chukıa @Laqme 2026-02-25 #tGxxnVH_c $en ±
 chukuq @Hoemai 2019-04-08 #NB6GHRBpV $en +1
 [t]predicate: ▯ mediates between/among ▯.
 
-chuleı @uakci 2023-08-01 #9tI0H8PcV $en +1
+chuleı @uakci 2023-08-01 #9tI0H8PcV $en +2
 [t]predicate: ▯ has a kink/fetish for satisfying property ▯.
   uakci (2023-08-01): < **chunı** + **leı**
 
@@ -17823,7 +17833,7 @@ duamıa @Ilmen 2019-11-05 #Yzv8kA5Mz $en ±
 duamıq @jiqci 2024-07-01 #e41OOa5XA $en ±
 [t]predicate: ▯ is omniscient.
 
-duamuo @Ilmen 2019-06-20 #YsjayXH6U $en +1 %cognition
+duamuo [(c 0) (d d) hó sI] @Ilmen 2019-06-20 #YsjayXH6U $en +1 %cognition
 [t]predicate: [g]‘certain’; ▯ is certain that ▯ is the case.
   uakci (2019-06-20): +1
 
@@ -19120,6 +19130,9 @@ enı @official 2026-10-04 #yRv8JF2QL4nB $en ±
 
 énı @Laqme 2023-12-19 #TDzuyBWHO $en ±
 [t]interjection: "show me?", "can I see/have it?"
+
+enıbeı @TheAndSys 2026-10-11 #rwvPQ5yP9 $en ±
+Interjection: "Anyways"; Literal calque from English
 
 enınho @jiqci 2023-09-29 #5l8PCEkhx $en ±
 [t]predicate: ▯ is an El Niño phenomenon.
@@ -26524,6 +26537,9 @@ guaqteıdıu @Ilmen 2022-11-09 #8A6UK7mES $en +1 %science
 guaqteıdıu @Ilmen 2019-04-11 #WvsK1lpL1 $en ± %science
 [t]predicate: ▯ is geomorphology.
 
+guaqtetabo @Ilmen 2026-10-11 #Igdg4NiPp $en ±
+[t]predicate: ▯ is a terrestrial turtle or tortoise.
+
 guaqtoe @Ilmen 2022-06-24 #SsYvpO2bP $en ±
 [t]predicate: ▯ plows ▯.
 
@@ -29072,12 +29088,15 @@ heocu @uakci 2020-03-06 #bNLHV9o_N $en ±
 
 heocua @Hoemai 2019-03-18 #5i0hf_VRy $en +1
 [t]predicate: ▯ has an allergic reaction to ▯.
+  Dembim (2026-10-11): kw: allergy
 
 heocuage @Hoemai 2019-03-18 #gCz2fR7xV $en +1
 [t]predicate: ▯ is an allergen.
+  Dembim (2026-10-11): kw: allergy
 
 heocuahe @Hoemai 2019-03-18 #ndfZ9XkCw $en +1
 [t]predicate: ▯ is allergic to ▯.
+  Dembim (2026-10-11): kw: allergy
 
 heoche @Laqme 2024-08-02 #5tm2fcm5B $en +1
 [t]predicate: ▯ is someone who's interested in alternative/fringe/experimental systems, as a hobby.
@@ -29261,6 +29280,9 @@ heosıu @nuimshuao 2024-09-07 #yBIqi42E6 $en ±
 
 heoshaq @Machy 2021-10-10 #skRXIhOeD $en ±
 [t]predicate: ▯ is a side of ▯.
+
+heoshıu @malu 2026-10-11 #wNbPEF6gc $en ±
+▯ is an alternate history.
 
 heotı @uakci 2022-07-25 #hUVAzK_gr $en ±
 [t]predicate: ▯ is off / out / away / elsewhere.
@@ -31847,6 +31869,9 @@ huasaıdıu @salarua 2023-12-17 #bwiqXH9J6 $en ±
 
 huasaıdıuche @salarua 2023-12-17 #CUaRuY0YA $en ±
 [t]predicate: ▯ is a histologist.
+
+huatoaı @malu 2026-10-11 #TAeUvYwLe $en ±
+[t]predicate: ▯ is an organelle.
 
 huatuq @uakci 2023-12-14 #UtVYjhIEi $en ±
 [t]predicate: ▯ is an organism.
@@ -57429,6 +57454,9 @@ naora @jiqci 2023-07-05 #QNM9CkjvA $en ±
 naorere @TheAndSys 2024-10-31 #YSV3o0Ju0 $en ±
 [t]predicate: ▯ is a waterlily
 
+naorıeq @malu 2026-10-11 #KjANzUTQA $en ±
+▯ is hydrophobic.
+
 naorıo @el 2021-10-25 #GvP5L5X0I $en +1
 [t]predicate: ▯ is steam
 
@@ -60233,7 +60261,7 @@ noaıbao @Laqme 2022-05-09 #WrUqBvrxF $en ±
 noaıcıu @robintown 2023-10-10 #gumeUv5nk $en ±
 [t]predicate: ▯ lactates.
 
-noaıchaı @uakci 2018-11-03 #Eamk7-BrW $en +4
+noaıchaı @uakci 2018-11-03 #Eamk7-BrW $en +5
 [t]predicate: ▯ is milk tea!!!
   evie (2024-01-21): 🥺
   Dembim (2026-02-10): Pronominal_class: maq
@@ -66800,6 +66828,15 @@ posa @Ilmen 2020-03-15 #6UxKtz37E $en ±
 poso @Ilmen 2023-05-04 #lAj6Nt6Jt $en ±
 [t]predicate: ▯ is phosphorus.
 
+posokeaq @malu 2026-10-11 #AqBqWfblx $en ±
+▯ pertains to phosphate.
+
+posokeaqdo @malu 2026-10-11 #_m8xxIgY8 $en ±
+▯ adds phosphate group to ▯.
+
+posokeaqsaı @malu 2026-10-11 #VgrpnbULl $en ±
+▯ is phosphate / a phosphate group.
+
 posopo @Ilmen 2023-05-04 #PeDRMxyki $en ±
 [t]predicate: ▯ is phosphorus.
 
@@ -67553,7 +67590,11 @@ puımıeqche @salarua 2022-12-09 #9uTsTYq2Y $en ±
 puımıeqdıu @jiqci 2024-12-17 #v05GhQabl $en ±
 [t]predicate: ▯ is combinatorics.
 
-puımıeqtaı @Ilmen 2020-01-23 #imbotnqEv $en ±
+puımıeqtaı @Ilmen 2026-10-11 #EEiVF4dx3 $en ±
+[t]predicate: ▯ counts that ▯ is the number of things having property ▯.
+  Ilmen (2026-10-11): discriminator: 2
+
+puımıeqtaı @Ilmen 2020-01-23 #imbotnqEv $en -1
 [t]predicate: ▯ counts that the number of things among ▯ is ▯.
 
 puımıq @Ilmen 2020-01-12 #6V6-l7857 $en ± %cardinality
@@ -77218,6 +77259,9 @@ suamrom @Dembim 2026-02-08 #XCFEuk_Ko $en ±
   Dembim (2026-02-08): Frame: c
   Dembim (2026-02-08): Pronominal_class: hoq
 
+suamroq @malu 2026-10-11 #1rD4TGoa7 $en ±
+▯ sheds crocodile tears.
+
 suana @uakci 2024-01-18 #lpD5ZgVe8 $en ±
 [t]interjection: ‘and this needs saying’; ‘and we mustn’t forget/leave it unsaid that’
 
@@ -81929,6 +81973,10 @@ taıba @lassc 2022-12-02 #-YA6dX5vM $en +2
 [t]interjection: "break a leg"; well-wishes towards upcoming endeavor(s)
   robintown (2024-08-31): keywords: good luck
 
+taıba @Ilmen 2026-10-11 #Is5psULAO $en ±
+Good luck! / Here's to success!
+  Ilmen (2026-10-11): discriminator: 1
+
 Taıbaq @countries 2026-10-04 #0jkUr38Gz4YN $en ±
 ▯ pertains to the culture of Taiwan (Republic of China) → Taiwan.
 
@@ -85389,7 +85437,7 @@ toaı @jiqci 2023-07-31 #I33jRYWLk3 $pl ±
 toaı @uakci 2019-01-25 #KCBaN2owu $toa -1
 tu lú paq hóa dógu pa, bu huaq sao dóshı da
 
-toaı'acı @jiqci 2023-01-23 #t1UYFludW $en ±
+toaı'acı @jiqci 2023-01-23 #t1UYFludW $en -1
 [t]predicate: ▯ is an amino-acid.
 
 toaıcadıushuedamataotenuoqreamoıhuabo @slush 2022-10-16 #6NAxXub0S $en ±
@@ -89857,6 +89905,9 @@ zıqdıem @Laqme 2024-05-14 #1A8EmgDd- $en ±
 
 zıqfafuaq @seaqtaq 2024-11-05 #j5DxeJ5Pm $en ±
 [t]predicate: ▯ is a digital animation
+
+zıqgıaq @malu 2026-10-11 #pqN1YwaZl $en ±
+▯ is electronic music.
 
 zıqhuıche @Laqme 2022-07-10 #rI0sSBhin $en +1
 [t]predicate: ▯ is a black-hat computer hacker.
