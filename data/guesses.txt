@@ -153,8 +153,8 @@ frame:
                1.17   358 _C3_che
                1.14     8 _BOUND_BEFORE_4_from
                1.10     1 _GLOSS_adjacent
-               1.10     2 adjacent
                1.10     2 _RAKU_LAST_leaq
+               1.10     2 adjacent
   c            1.39  6614 _BIAS
                1.18  4877 _ARITY_1
                0.95  4627 _KNOWN_DISTRIBUTION_d
@@ -176,12 +176,12 @@ frame:
                1.39    23 _BOUND_AFTER_3_case
                1.29    14 good
                1.15     4 proposition
-               1.10     1 _BOUND_AFTER_BI_is_slow
                1.10     1 _GLOSS_slow
+               1.10     1 _BOUND_AFTER_BI_is_slow
   1x           2.82    11 property
                1.85    98 _KNOWN_SUBJECT_sP
-               1.76     4 _BOUND_BEFORE_ANYDIST_property
                1.76     4 _BOUND_BEFORE_1_property
+               1.76     4 _BOUND_BEFORE_ANYDIST_property
                1.32     1 _RAKU_LAST2_ıq_ma
                1.32     2 _C3_ıqm
                1.32     4 _RAKU_LAST_ma
@@ -189,8 +189,8 @@ frame:
                1.31   182 _C2_lı
                1.30    55 _C2_qm
   c            0.54  3888 _KNOWN_SUBJECT_sI
-               0.28  4877 _BIAS
                0.28  4877 _ARITY_1
+               0.28  4877 _BIAS
                0.28   669 _KNOWN_SUBJECT_sF
                0.27   969 _KNOWN_PRONOUN_hó
                0.20  4877 ▯
@@ -210,7 +210,7 @@ frame:
                1.09     1 _GLOSS_aware
                1.06    15 place
                1.02    53 _KNOWN_SUBJECT_sE
-               0.95     2 _BOUND_BEFORE_1_means
+               0.95     2 _BOUND_BEFORE_BI_▯_means
   1i           2.15   222 property
                1.79   196 _BOUND_BEFORE_1_property
                1.70   199 _BOUND_BEFORE_ANYDIST_property
@@ -235,10 +235,10 @@ frame:
                1.42     8 _RAKU_LAST_taq
                1.22    10 _C3_taq
                1.08    80 _C2_ta
-               0.95     1 _BOUND_BEFORE_BI_by_property
                0.95     1 _GLOSS_self
-               0.95     2 _BOUND_BEFORE_3_itself
+               0.95     1 _BOUND_BEFORE_BI_by_property
                0.95     2 _BOUND_BEFORE_ANYDIST_itself
+               0.95     2 _BOUND_BEFORE_3_itself
                0.94     5 related
                0.89    29 _BOUND_BEFORE_4_to
   2ix          1.61     9 _BOUND_BEFORE_BI_in_property
@@ -268,11 +268,11 @@ frame:
                0.89     9 _RAKU_LAST_cheo
                0.77     4 member
                0.75    21 _C3_heo
-               0.74     2 _BOUND_BEFORE_1_relationship
-               0.74     2 _BOUND_BEFORE_ANYDIST_relationship
                0.74     2 relationship
-  c            0.97  1497 _BIAS
-               0.97  1497 _ARITY_2
+               0.74     2 _BOUND_BEFORE_ANYDIST_relationship
+               0.74     2 _BOUND_BEFORE_1_relationship
+  c            0.97  1497 _ARITY_2
+               0.97  1497 _BIAS
                0.65  1497 ▯
                0.53    39 s
                0.52    80 _C2_uq
@@ -306,8 +306,8 @@ frame:
                0.56    18 _C2_oq
   1j           0.64   159 _KNOWN_PRONOUN_hó
                0.59     6 _BOUND_BEFORE_BI_to_do
-               0.59     6 _BOUND_BEFORE_1_do
                0.59     6 _BOUND_BEFORE_ANYDIST_do
+               0.59     6 _BOUND_BEFORE_1_do
                0.55    99 _BOUND_BEFORE_1_property
                0.53    17 _KNOWN_DISTRIBUTION_dnd
                0.53   126 _KNOWN_SUBJECT_sA

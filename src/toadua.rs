@@ -107,7 +107,7 @@ impl Toa {
                 })
                 || self
                     .body
-                    .split([';', '.'])
+                    .split([';', '.', '；'])
                     .filter(|clause| clause.contains('▯'))
                     .map(|clause| clause.chars().filter(|&c| c == '▯').count())
                     .sorted()

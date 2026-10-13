@@ -4618,7 +4618,7 @@ boaq @Laqme 2024-08-22 #-1Z3Wbh7u $en +1
 boaq [(c) (d) máq sI] @official 2026-10-12 #iF8zJ73jURQ $en ±
 [t]predicate: [g]‘shadow’; ▯ is a shadow.
 
-boaq @Laqme 2021-10-29 #x5N7HUNAJ $ja ±
+⚠ boaq @Laqme 2021-10-29 #x5N7HUNAJ $ja ±
 [t]predicate: ▯は影；▯は▯の影
 
 boaq @nano 2023-03-07 #6eHrIS4o2 $tok ±
@@ -5449,7 +5449,7 @@ bu @official 2026-10-12 #U2awIg-y-D7 $en ±
 ⚠ bu @Laqme 2021-10-03 #2H-07Ovv6 $jbo ±
 [t]predicate: ▯ jitfa .i na ku ▯ ckaji ▯
 
-bu @Laqme 2021-10-29 #ruxwVSh6j $ja ±
+⚠ bu @Laqme 2021-10-29 #ruxwVSh6j $ja ±
 [t]predicate: ▯は事実でない／偽；▯はプロパティ▯を満たしていない
 
 bu @el 2022-08-13 #mC4BMbvg_ $tok ±
@@ -14096,7 +14096,7 @@ chupoaı @Ilmen 2023-02-13 #4vEe6P77r $en ±
 chuq [(c c) (d d) hó sA] @official 2026-10-12 #vkZGFc2bAcT $en ± %action,body_action
 [t]predicate: [g]‘eat’; ▯ eats ▯.
 
-chuq @Laqme 2021-10-04 #86YQpTMwJ $ja ± %action,body_action
+⚠ chuq @Laqme 2021-10-04 #86YQpTMwJ $ja ± %action,body_action
 [t]predicate: ▯は食べる；▯は▯を食べる
 
 chuq @el 2022-07-10 #7mTgUQHaY $tok ± %action,body_action
@@ -16778,7 +16778,7 @@ dıtao @uakci 2022-05-28 #yciPLLJaf $en ±
 dıu [(c) (d) hóq sI] @official 2026-10-12 #dKcTODaFWD6 $en ± %science
 [t]predicate: [g]‘science’; ▯ is a science.
 
-dıu @mimiaoganhaqpy 2022-04-29 #X6nSZ1SAu $zh ± %science
+⚠ dıu @mimiaoganhaqpy 2022-04-29 #X6nSZ1SAu $zh ± %science
 [t]predicate: 謂詞：「科學」；▯是一種研究▯的知識；▯是科學。
   mimiaoganhaqpy (2022-04-29): 谓词：「科学」；▯是一种研究▯的知识；▯是科学。
 
@@ -25982,7 +25982,7 @@ gu @Ilmen 2020-01-25 #7eOr2jYAc $toa ± %cardinality
 [t]predicate: = jeı ▯ sa shı roı sa shı bu jeı shí.
   Ilmen (2020-01-25): Courtesy of @fagri.
 
-gu @Laqme 2021-10-04 #V9heT8lPf $ja ± %cardinality
+⚠ gu @Laqme 2021-10-04 #V9heT8lPf $ja ± %cardinality
 [t]predicate: ▯は二つである；▯は▯というプロパティに当てはまる事の二つである
 
 gu @el 2022-07-10 #K9fQykeAX $tok ± %cardinality
@@ -35226,7 +35226,7 @@ jeo @fagri 2021-07-21 #5yBzCKsn0 $en -1 %logic
 [t]predicate: ▯ satisfies property ▯
   fagri (2021-07-21): Binary part only of official jeo, see #e6VxdqGUP for the unary part
 
-jeo @uakci 2021-10-29 #ZPl5LWcWT $ja -1 %logic
+⚠ jeo @uakci 2021-10-29 #ZPl5LWcWT $ja -1 %logic
 [t]predicate: ▯はまことである；▯は性質▯を果たす
   uakci (2021-10-29): 【見出し語〰一項】真・誠（まこと）、そうである、その通りである、実際（じっさい）、現実（現実）、叶う（かなう）、成立（せいりつ）している
   uakci (2021-10-29): 【見出し語〰二項】性質（せいしつ）、属性（ぞくせい）、特徴（とくちょう）、プロパティ（ぷろぱてぃ）、果たす（はたす）、当て嵌める（あてはめる）、該当（がいとう）、呈する（ていする）
@@ -59737,7 +59737,7 @@ nıq @robintown 2022-05-15 #r9UnapQch $en +4
 nıq [(c) (d) tá sI] @official 2026-10-12 #2F22rmbfTIbt $en ±
 [t]predicate: [g]‘new’; ▯ is new.
 
-nıq @Laqme 2021-10-05 #q7RJ3VvBx $ja ±
+⚠ nıq @Laqme 2021-10-05 #q7RJ3VvBx $ja ±
 [t]predicate: ▯は新しい；▯は▯にとって新しい
 
 nıq @el 2022-07-10 #BiiRktyQ1 $tok ±
@@ -64006,7 +64006,7 @@ pahukorı @Ilmen 2020-04-02 #G1cuHGyEd $en ± %lifeform,animal,arthropod,insect
 paı [(c c) (d d) hó sI] @official 2026-10-12 #ePWSNGJ9X8 $en ± %⚠
 [t]predicate: [g]‘friend’; ▯ is a friend of ▯.
 
-paı @Laqme 2021-10-05 #EXPOjQZdA $ja ± %⚠
+⚠ paı @Laqme 2021-10-05 #EXPOjQZdA $ja ± %⚠
 [t]predicate: ▯は友達／友人；▯は▯の友達／友人
 
 paı @el 2022-07-10 #ue5DzEll_ $tok ± %⚠
@@ -69401,7 +69401,7 @@ reo @Laqme 2025-01-22 #PloWQglHg $en +2
 reo [(c 1i) (d d) tá sI] @official 2026-10-12 #Gi6t47R2SvA $en ±
 [t]predicate: [g]‘has.colour’; ▯ is of colour ▯.
 
-reo @Laqme 2021-10-11 #6IJ87o3PD $ja ±
+⚠ reo @Laqme 2021-10-11 #6IJ87o3PD $ja ±
 [t]predicate: ▯は色付き；▯に▯という色が付いている
 
 ⚠ reo @Machy 2022-01-26 #wQoDYPWb2 $en ±
@@ -71267,7 +71267,7 @@ roq @robintown 2022-01-01 #_BWlKrQz4 $en +2
 roq [(c) (d) hó sI] @official 2026-10-12 #gSR5phfL0ag $en ±
 [t]predicate: [g]‘weep’; ▯ cries/sobs/weeps.
 
-roq @Laqme 2021-10-11 #ljfloNIK- $ja ±
+⚠ roq @Laqme 2021-10-11 #ljfloNIK- $ja ±
 [t]predicate: ▯は泣く；▯は▯（涙）を流す
 
 roq @el 2022-07-10 #hXfMZOLIm $tok ±
@@ -79604,7 +79604,7 @@ tu raı měa hóa dóshı bı mea dóshı ráı
 shı @Ilmen 2020-01-24 #21d5Uxw-t $toa ± %cardinality
 = ja shıko tu raı mëa hóa shíko bı mea shíko ráı.
 
-shı @Laqme 2021-10-04 #3t8cKEXng $ja ± %cardinality
+⚠ shı @Laqme 2021-10-04 #3t8cKEXng $ja ± %cardinality
 [t]predicate: ▯は一つである；▯は▯というプロパティに当てはまる事の一つである
 
 shı @uakci 2022-03-03 #1R8_nT87V $toa ± %cardinality
@@ -86246,7 +86246,7 @@ toı- @seaqtaq 2024-07-16 #2lusJqoHb $en ±
 toı [(c c 2ij) (d d d) hó sA] @official 2026-10-12 #bvcQPJdz9Xm $en ± %action
 [t]predicate: [g]‘act.towards’; ▯ does to ▯ relation ▯.
 
-toı @uakci 2021-10-29 #apYKSBhBu $ja ± %action
+⚠ toı @uakci 2021-10-29 #apYKSBhBu $ja ± %action
 [t]predicate: ▯は▯に〚それを冒して／それにしむけて〛▯［二項関係］をする；▯は▯に／まで、それと二項関係をもって、やる
   uakci (2021-10-29): ▯は▯と二項関係▯を持つ。更に、この状態には、甲が遣り手で、乙が『遣られ手』である
 

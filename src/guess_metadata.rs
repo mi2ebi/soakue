@@ -305,7 +305,7 @@ fn token_entry_counts(dict: &[Toa], field: Field, arity: Option<usize>) -> HashM
 }
 
 fn primary_arity(body: &str) -> (usize, &str) {
-    body.split([';', '.'])
+    body.split([';', '.', '；'])
         .filter(|clause| clause.contains('▯'))
         .map(|clause| (clause.chars().filter(|&c| c == '▯').count(), clause))
         .max_by_key(|(a, _)| *a)
