@@ -88,23 +88,31 @@ impl Toa {
     pub fn set_warning(&mut self) {
         let toneless: String =
             self.head.nfd().filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c)).collect();
-        self.warn = (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
-            .iter()
-            .any(|v| toneless.contains(v))
-            || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
-            || self.head.nfc().any(|c| {
-                !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
-                  AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
-                  .,?!-\u{0301}\u{0302}\u{0308}\u{0323}()«»‹›"
-                    .contains(c)
-            })
-            || self.user.starts_with("old")
-            || self.head.split_whitespace().any(|word| {
-                word.nfd().contains(&'\u{0308}')
-                    && split_into_raku(word).is_some_and(|rakus| rakus.len() > 1)
-            }))
-            && !self.body.contains("textspeak")
-            && !self.notes.iter().any(|n| n.content.contains("textspeak"));
+        self.warn = !self.body.contains("textspeak")
+            && !self.notes.iter().any(|n| n.content.contains("textspeak"))
+            && (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
+                .iter()
+                .any(|v| toneless.contains(v))
+                || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
+                || self.head.nfc().any(|c| {
+                    !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
+                      AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
+                      .,?!-\u{0301}\u{0302}\u{0308}\u{0323}()«»‹›"
+                        .contains(c)
+                })
+                || self.user.starts_with("old")
+                || self.head.split_whitespace().any(|word| {
+                    word.nfd().contains(&'\u{0308}')
+                        && split_into_raku(word).is_some_and(|rakus| rakus.len() > 1)
+                })/*   || self
+            .body
+            .split([';', '.'])
+            .filter(|clause| clause.contains('▯'))
+            .map(|clause| clause.chars().filter(|&c| c == '▯').count())
+            .sorted()
+            .dedup()
+            .count()
+            == 1*/);
     }
 
     pub fn fix_note_dates(&mut self) {

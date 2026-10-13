@@ -3141,6 +3141,9 @@ Benejuelagua @countries 2026-10-12 #zvpvKfCRykR $en ±
 Benelu @robintown 2025-07-28 #vnHtqlCYF $en ±
 [t]predicate: ▯ pertains to the Benelux.
 
+Benesuela @Ilmen 2026-10-13 #oBDIIhmBS $en ±
+[t]predicate: ▯ pertains to the culture of Venezuela, the Bolivarian Republic of Venezuela.
+
 Benıq @countries 2026-10-12 #u-SQ8xGPojn $en ±
 ▯ pertains to the culture of Benin – Republic of Benin.
 
@@ -12373,6 +12376,9 @@ choaıhuı @Laqme 2023-12-02 #aQ67sYbfq $en ±
 [t]predicate: ▯ isn't worth its cost.
   Laqme (2023-12-02): overpriced, rip-off, "bad deal" kinda
 
+choaıhuoq @Ilmen 2026-10-13 #xf6Zg35Em $en ±
+▯ is expensive, costly.
+
 choaıjaq @seaqtaq 2018-12-23 #8oOjWt67Q $en -1
 [t]predicate: ▯ is expensive
   Ilmen (2026-02-06): I would favor <choaımıa> for this meaning.
@@ -14249,7 +14255,7 @@ chuqroe @uakci 2019-05-19 #F4MJZ4YMJ $en ±
 [t]predicate: ▯ is healthy to eat.
   uakci (2019-05-19): (I’m aware that the metaphor is somewhat janky).
 
-chuqsao @Ilmen 2020-06-05 #t2xfpU2OQ $en +1
+chuqsao @Ilmen 2020-06-05 #t2xfpU2OQ $en +2
 [t]predicate: ▯ is fat/obese.
 
 chuqsheq @uakci 2022-10-31 #lraSp6b0K $en ±
@@ -19047,7 +19053,7 @@ eleme @Hoemai 2019-09-17 #X6L6XZS6my9 $en ±
 eletom @Snow 2023-05-22 #-d5HRYgat $en ±
 [t]predicate: ▯is an electron.
 
-eloa [(c) (d) máq sI] @Laqme 2022-07-20 #buaYc7-HZ $en +2
+eloa [(c) (d) máq sI] @Laqme 2022-07-20 #buaYc7-HZ $en +3
 [t]predicate: [g]‘gold’; ▯ is gold.
 
 eloabaıche @jiqci 2024-07-06 #Pi_8KuK5A $en ±
@@ -26764,8 +26770,9 @@ guesheaq @fagri 2019-12-29 #Cy3R0fDy8 $en ±
 [t]predicate: ▯ kneels
   fagri (2019-12-29): Probably only bipeds can do this
 
-guesheq @jiqci 2024-07-03 #LEnRfVjwZ $en ±
+guesheq @jiqci 2024-07-03 #LEnRfVjwZ $en +1
 [t]predicate: ▯ is a sabre.
+  malu (2026-10-13): Could be used to refer to a cutlass, scimitar or any bent sword.
 
 gueteı @seaqtaq 2019-06-25 #UTIm_6_ph $en ±
 [t]predicate: ▯ is a bend/curve
@@ -32569,6 +32576,9 @@ huonhuaı @Ilmen 2022-11-10 #vLJxeI8Tg $en ± %perception
 huopuao @lassc 2022-11-28 #YeUSToqZM $en +1
 [t]predicate: ▯ is muffled/dampened.
 
+huoq @Ilmen 2026-10-13 #hBe3pUF-F $en ±
+degree: more than relative 0, ‘much’, ‘more than average or normal’… Default degree for gradable predicates; opposite of ⟪tuao⟫.
+
 huoraı @Laqme 2024-09-24 #Hoj-TBIk- $en ±
 [t]predicate: ▯ is auditory.
 
@@ -33190,7 +33200,7 @@ cnivla jecu smudu'i zo «.ie»
 ıoqhashoa @salarua 2022-12-02 #_diwfjXRE $en ±
 [t]predicate: ▯ is Yom HaShoah
 
-ıota @seaqtaq 2019-12-20 #gqia0ZvZC $en ±
+ıota [(c) (n) tá sF] @seaqtaq 2019-12-20 #gqia0ZvZC $en ±
 [t]predicate: [g]‘yotta’; ▯ are 10<sup>24</sup> (1,000,000,000,000,000,000,000,000) in number; ▯ are a septillion.
 
 ıpı @Machy 2022-04-10 #2FxYa2tEy $en ±
@@ -40501,14 +40511,14 @@ kaojache [(c) (d) hó sI] @Kaojache 2026-01-25 #xLzZ9ghEY $en ±
 kaojeaqkaı @Ilmen 2024-10-21 #-fBkvIez2 $en ±
 [t]predicate: ▯ types ▯ into file ▯.
 
-kaojuq @Ilmen 2019-04-17 #mxSJ5SX4G $en +1
+kaojuq @uakci 2023-06-07 #m0K9cBZwP $en +1
+[t]predicate: ▯ downloads / receives file ▯.
+
+kaojuq @Ilmen 2019-04-17 #mxSJ5SX4G $en ±
 [t]predicate: ▯ downloads / receives file ▯ from ▯.
   uakci (2019-04-17): +1, anothère wòrdé gôudé
   seaqtaq (2019-04-17): +1, so long have I needed these two
   salarua (2023-06-06): -1, argument order
-
-kaojuq @uakci 2023-06-07 #m0K9cBZwP $en +1
-[t]predicate: ▯ downloads / receives file ▯.
 
 kaokaıche @seaqtaq 2019-11-26 #m_3QOSKgV $en ±
 [t]predicate: ▯ is a scribe
@@ -40576,10 +40586,6 @@ kaopeq @fagri 2020-01-09 #wcOxK77Yr $en ±
 
 kaosıoq @uakci 2023-10-22 #G-jvlMTa0 $en ±
 [t]predicate: ▯ is an optical hard drive.
-
-kaosu @uakci 2019-01-24 #nXCenlokm $en -1
-chaos
-  evie (2024-11-13): -1 no slots
 
 kaoshaı @seaqtaq 2018-12-27 #Rb5IReczJ $en ±
 [t]predicate: ▯ logs out of ▯
@@ -44085,6 +44091,9 @@ kopı [(c c) (d d) tá sI] @official 2026-10-12 #KmM1at7mUIm $en ±
 
 kopı @jiqci 2023-07-31 #p8-wQ49OSk $pl ±
 [t]predicate: ▯ to kopia ▯.
+
+kopıla @evie 2026-10-13 #2BDnrZ-pg $en ±
+▯ copies ▯
 
 kopınua @robintown 2023-07-02 #EL1pJGOVd $en ±
 [t]predicate: ▯ copies ▯ for their own usage/possession.
@@ -55477,6 +55486,9 @@ muaqdıeqme @uakci 2021-08-25 #163CpQrBf $en ±
 muaqdueq @fagri 2022-12-26 #vt0iDYdoM $en ±
 [t]predicate: ▯ is a graveyard
 
+muaqfua @malu 2026-10-13 #jzfRfipvn $en ±
+▯ is a deathbed.
+
 muaqgueq @kazoo 2025-10-11 #chugDoDWG $en ±
 [t]predicate: ▯ is a shroud.
 
@@ -56646,6 +56658,9 @@ musılım @salarua 2025-03-26 #ActiBtK06 $en +2
 
 muso @Neaqbua 2024-10-06 #SkgC6iVQO $en +3
 [t]predicate: ▯ is wood
+
+mụsoao @malu 2026-10-13 #B5RM5PAj0 $en ±
+▯ is antisocial towards ▯.
 
 mụsuoı @seaqtaq 2024-08-07 #a3IP3PqWF $en ±
 [t]predicate: ▯ is terribly/awfully/horribly/pathetically ▯
@@ -60196,6 +60211,10 @@ nıusıao @Laqme 2019-02-05 #iEOLuld3Q $en ±
 nıusoaq @Laqme 2022-09-15 #g673dA-BK $en ±
 [t]predicate: ▯ is a botanical garden.
 
+nıusheq @malu 2026-10-13 #PN26Lfiqf $en ±
+[t]predicate: ▯ is a machete.
+  malu (2026-10-13): loosely calqued from Finnish "viidakkoveitsi" (jungle knife).
+
 nıushuaqdıu @seaqtaq 2019-04-14 #nAhDZczXT $en ±
 [t]predicate: (fork of #teR-oLaTU) ▯ is agriculture.
 
@@ -61886,7 +61905,7 @@ nulıpıo @seaqtaq 2019-06-01 #v3XfaYw0Y $en ±
 nulısaı @uakci 2020-05-19 #ci4SshkN_ $en ±
 [t]predicate: ▯ is butter.
 
-nulısao @Ilmen 2020-06-05 #LRaT_cdc5 $en +1
+nulısao @Ilmen 2020-06-05 #LRaT_cdc5 $en +2
 [t]predicate: ▯ is fat/obese.
 
 nulıse @Machy 2022-02-23 #T9PDS_AIT $en -1
@@ -64480,7 +64499,7 @@ paqjuq @robintown 2024-12-28 #0BDDFzLJr $en ±
 paqkaı @seaqtaq 2019-07-04 #V_8Sxz193 $en ±
 [t]predicate: ▯ spells out ▯
 
-paqke @uakci 2022-02-08 #1hmiVMdGG $en +2
+paqke @uakci 2022-02-08 #1hmiVMdGG $en +3
 [t]predicate: ▯ are American-style pancakes (smallish, round, rather thick, not rolled up, usually stacked on top of each other for gluttony’s worth).
 
 paqkenıu @Laqme 2025-02-11 #UthdaNSu- $en ±
@@ -69168,6 +69187,9 @@ rebo @el 2022-11-07 #vHSbN330i $en -1
 redıcate @jiqci 2023-10-17 #nsQE-sspI $en ±
 [t]predicate: ▯ is SEO (search engine optimization) content and keywords put on a site to make it more prominent in the search results.
   jiqci (2023-10-17): toaqization of **predıcate**
+
+regeıgıaq @malu 2026-10-13 #HNcn6Xw77 $en ±
+▯ is reggae music.
 
 regochıu @Ilmen 2021-12-31 #M1gq9bENr $en ±
 [t]predicate: ▯ is the Gregorian date of ▯.
@@ -82046,6 +82068,9 @@ taıchu [(c 1i) (d d) hó sI] @Laqme 2023-07-18 #XfbtF7JoZ $en +2
 taıchugıa @jiqci 2024-02-11 #7w71mpgix $en ±
 [t]predicate: ▯ is a progress bar.
 
+taıga @malu 2026-10-13 #NtahHhpHa $en ±
+▯ is a taiga.
+
 taıho @seaqtaq 2024-08-22 #d7lQ7pgfs $en ±
 [t]predicate: ▯ feels a sense of unexpected dissatisfaction or lack of satiation after having achieved a major milestone or reached a significant goal
   seaqtaq (2024-08-22): Keyword: zakaı
@@ -89009,8 +89034,9 @@ faux relative clause marker piecing a noun form and a subject-truncated clause t
 ꝡoshı @uakci 2023-01-09 #gmB9jiWQX $en +3
 [t]predicate: ▯ is true in the sense that ▯ is true; ▯ is the case, by which what is (actually) meant is that ▯ is the case.
 
-ꝡota @evie 2025-12-19 #K5SlsVxrD $en ±
+ꝡota @evie 2025-12-19 #K5SlsVxrD $en +1
 [t]number component: 10^24 / septillion / yotta-
+  tcima (2026-10-13): beat me to it lol
 
 ꝡoꝡo @uakci 2022-12-12 #DHfmAPOuG $en ±
 [t]predicate: ▯ is a yo-yo.
@@ -89453,6 +89479,12 @@ zeache @Laqme 2025-02-02 #Vs7f0_AUp $en ±
 
 zeafa @Laqme 2025-02-02 #-7k1DxCdi $en ±
 [t]predicate: ▯ breaks into / trespasses on ▯.
+
+zeakaojuq @malu 2026-10-13 #nwMiRYs0g $en -1
+▯ pirates / illegally downloads file ▯ from ▯.
+
+zeakopıla @evie 2026-10-13 #t4dsCzIj- $en +1
+▯ pirates / illegally copies ▯
 
 zeanua @Laqme 2025-02-02 #l226MmiHX $en ±
 [t]predicate: ▯ steals ▯.
