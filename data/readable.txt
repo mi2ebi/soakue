@@ -1163,6 +1163,10 @@ aocıoq @Laqme 2024-12-24 #BhUs609Wu $en ±
 aocha @Laqme 2023-11-15 #11moAEELI $en ±
 [t]predicate: ▯ takes place in such a manner as if ▯ were the case.
 
+aodabuatetabo @tcima 2026-10-14 #EMqqe-_tC $en ±
+[t]predicate: ▯ is an Aldabra giant tortoise.
+  tcima (2026-10-14): Aldabrachelys gigantea, native to Aldabra atoll in the Seychelles
+
 aodu @robintown 2025-01-07 #4BHkvcqJO $en ±
 [t]predicate: It seems as if ▯ were the case (but it's not).
 
@@ -1171,6 +1175,9 @@ aodu @robintown 2025-01-07 #4BHkvcqJO $en ±
 
 aofabeta @robintown 2022-12-11 #fxLVMNxkG $en ±
 [t]predicate: ▯ is an alphabet.
+
+aofakarotoqsaı @tcima 2026-10-14 #FHIwgqocU $en ±
+▯ is α-carotene, alpha-carotene.
 
 aofalaı @Laqme 2025-01-10 #p7Ih_1qpR $en ±
 [t]predicate: ▯ is an alpha (the letter α).
@@ -1277,6 +1284,9 @@ aopu @lassc 2026-03-22 #zRc805uIO $en ±
 
 aora @Laqme 2025-05-09 #J0JZaMX3v $en +1
 [t]predicate: ▯ is an aura / vibe.
+
+aorashuaq @malu 2026-10-14 #Tuh9rM4XJ $en ±
+▯ aurafarms.
 
 aoro @robintown 2023-06-06 #Hhhd_4vC6 $en +1
 [t]predicate: ▯ is a bamboo plant.
@@ -2613,6 +2623,13 @@ baratagua @Machy 2022-04-15 #KIXzqchWB $en ±
 Baratanaomı @jiqci 2024-10-24 #YgPM94g_d $en ±
 [t]predicate: ▯ is the Indian Ocean.
 
+Barazıu @tcima 2026-10-14 #nEvSDWeCN $en +2
+▯ is Brazilian, pertains to Brazil.
+  tcima (2026-10-14): fork of official Barajıu since it doesn’t make sense to loan the /z/ as -j- if we have -z-. see also Benesuela ‘Venezuelan’ for official Benejuela
+
+Barazıugua @malu 2026-10-14 #tcpWf_f9p $en +1
+▯ is the country Brazil – Federative Republic of Brazil.
+
 barıqcı @Ilmen 2019-02-03 #j890wPTUQ $en -1
 [t]predicate: ▯ is a plant belonging to the Oryza genus.
   Ilmen (2019-02-03): Proto-Dravidian *wariñci, Old Persian *vrinǰi- → Greek ὄρυζα (óruza).
@@ -3222,6 +3239,10 @@ beoja @Ilmen 2025-12-25 #lYH6vRrH8 $en -1
 [t]predicate: What has the property ▯ changes.
   mimiaoganhaqpy (2025-12-26): discriminator: 2
 
+beojaqmı @Aburn 2026-10-14 #LuTIiKnRW $en ±
+[t]predicate: [g]‘abrosexual’; ▯ is abrosexual
+  Aburn (2026-10-14): Gender to which one is attracted changes, similar to genderfluidity, but for the attracted gender instead of one’s own.
+
 beojeqda @salarua 2021-08-17 #IumsiWd_j $en ±
 [t]predicate: ▯ is genderfluid
 
@@ -3542,6 +3563,9 @@ Berotoaqgua @shuaida 2023-04-16 #WOZloB_Fh $en ±
 beshı @seaqtaq 2024-11-28 #f3oLNkclT $en ±
 [t]predicate: ▯ is a joint
   seaqtaq (2024-11-28): portmanteau and abstraction of bea and shıo
+
+betakarotoqsaı @tcima 2026-10-14 #qprWF1dCp $en ±
+▯ is β-carotene, beta-carotene.
 
 betalaı @kazoo 2025-05-05 #25beVf35p $en ±
 [t]predicate: ▯ is the Greek letter beta (β).
@@ -22561,6 +22585,9 @@ gala @Ilmen 2022-07-26 #QCuQ9_ubN $en ±
 galaoko @Ilmen 2021-12-31 #8cKIlSTbd $en ±
 [t]predicate: ▯ is a member of the Glaucus family (blue dragon sea slugs).
 
+galapagotetabo @tcima 2026-10-14 #_I-_6TCmE $en ±
+[t]predicate: ▯ is a Galápagos giant tortoise.
+
 gale @Machy 2021-11-17 #X_BglWICR $en +2
 [t]predicate: ▯ teaches ▯ to satisfy property ▯.
   Machy (2021-11-17): ex forma
@@ -33065,6 +33092,10 @@ Ilakıshızu @Avaxar 2024-05-13 #eyno3iwRm $en +1
 [t]predicate: ▯ is a giant.
   jiqci (2024-04-17): from Arabic عملاق ʕimlāq
 
+ımlaqtetabo [(c) (d) hó sI] @tcima 2026-10-14 #KZ9Sao0Uy $en ±
+[t]predicate: [g]‘giant tortoise’; ▯ is a giant tortoise.
+  tcima (2026-10-14): there are two species of giant tortoises — Aldabra giant tortoises and Galápagos giant tortoises
+
 ımo @uakci 2022-05-15 #7ncxA4NxF $en ±
 [t]predicate: In my opinion, ▯; The way I see it, ▯; ▯ is according to me.
 
@@ -34547,6 +34578,10 @@ jaqlunelı @Ilmen 2020-01-28 #5wLyuOCA5 $toa -1 %amount
 
 jaqmaıchıtoı @uakci 2021-09-03 #1NR3rhD8k $en ±
 [t]predicate: ▯ love-bombs ▯.
+
+jaqmı @Aburn 2026-10-14 #WCeFBENUg $en ±
+[t]predicate: [g]‘sexual orientation’; ▯ is a sexual orientation
+  Aburn (2026-10-14): from gamma ‘jeymai’, and with about the same meaning
 
 jaqnuı [(c) (d) tá sS] @official 2026-10-12 #RDpHbxr-xj3O $en ± %amount,relative,pseudo_absolute
 [t]predicate: [g]‘tiny’; ▯ is tiny.
@@ -41185,6 +41220,9 @@ karotoq @Ilmen 2018-10-08 #utedEf9eA $en +2 %lifeform,plant
   Ilmen (2018-10-08): From Ancient Greek.
   fagri (2019-01-17): +1, this is my favorite vegetable
   uakci (2019-01-17): +1, it’s definitely in my Top 3, although I can’t make out what takes the first place in it
+
+karotoqsaı @tcima 2026-10-14 #0quGuRuk1 $en ±
+▯ is carotene.
 
 Karotuaqdam @jiqci 2024-04-06 #dnL1-sMYZ $en ±
 [t]predicate: ▯ is the star sign Capricorn.
@@ -56932,7 +56970,10 @@ naına @Laqme 2023-01-26 #zUF4Fb55N $en +1
 naınaı @TheAndSys 2023-07-19 #P9N_FFYcI $en +1
 [t]interjection: Good night! (used when about to sleep)
 
-naınuaq @Ilmen 2022-10-28 #i_IY4MDqY $en ± %deixis,time
+naınıaq @Ilmen 2026-10-14 #iNI8HTfJ7 $en ±
+[t]predicate: ▯ is this year.
+
+naınuaq [(c) (d) hóq sI] @Ilmen 2022-10-28 #i_IY4MDqY $en ± %deixis,time
 [t]predicate: [g]‘tonight’; ▯ is tonight.
 
 ⚠ naıpu @fagri 2019-02-15 #NUnMVxJol $en -1
@@ -58973,6 +59014,9 @@ nıaqmuo @Laqme 2022-09-23 #rm3iBHDsh $en +1
 nıaqmuo @Laqme 2024-01-08 #KrfQh6gTN $nl ±
 [t]predicate: ▯ is jarig.
 
+nıaqnaı @Ilmen 2026-10-14 #ekFE-UBNQ $en ±
+[t]predicate: ▯ is the case this year.
+
 nıaqne @Ilmen 2018-10-13 #4zzNgBHqo $en -1
 [t]predicate: ▯ is the duration of a year (multiplied by ▯).
   fagri (2019-01-24): Should this be "multiplied by the cardinality of anything satisfying ▯"?
@@ -59092,8 +59136,8 @@ nıdaqgoa @Ilmen 2020-02-05 #PBQQC2LnF $en ± %deixis,spacetime
 nıdaqme @Ilmen 2020-02-13 #dfwt63vRX $en ± %deixis,time
 [t]predicate: ▯ is this time period.
 
-nıdaqrıaq @Ilmen 2023-02-14 #XIVvT40rH $en -1
-is the here and now.
+nıdaqrıaq @Ilmen 2023-02-14 #XIVvT40rH $en ±
+[t]predicate: ▯ is the here and now.
 
 nıdaqtıao @uakci 2022-07-05 #9dc8hhPUm $en ±
 [t]predicate: ▯ is modern/up-to-date/current/contemporary.
@@ -59523,6 +59567,9 @@ nımnıa @Laqme 2023-12-09 #60R4d_-O4 $en ±
 
 nınıam @TheAndSys 2023-10-03 #-EJoNJubL $en ±
 [t]predicate: ▯ happens this year
+
+nınıaq @Ilmen 2026-10-14 #4-IoPuFKz $en ±
+[t]predicate: ▯ is this year.
 
 nınıaqme @Ilmen 2020-03-15 #9reo_rC_U $en ± %deixis,demonstrative
 [t]predicate: ▯ is the current era.
@@ -67088,6 +67135,9 @@ puaırıe @robintown 2022-07-06 #OUCCfnR6q $en ±
 
 puaırıechıbıq @jiqci 2024-03-27 #gL-0H1I5t $en ±
 [t]predicate: ▯ is a barn swallow (Hirundo rustica).
+
+puaırıegıaq @malu 2026-10-14 #6knTEg-TP $en ±
+▯ is country music.
 
 puaısıq @jiqci 2024-02-26 #pCPcjEB08 $en ±
 [t]predicate: ▯ is virginal / untouched by human activity.
@@ -80099,6 +80149,11 @@ shıma @Laqme 2024-06-11 #hNcPixGf6 $en +2
 shımagoeq @jiqci 2024-11-12 #K3FEKQIuf $en ±
 [t]predicate: ▯ is a nasal septum.
 
+shımahako @tcima 2026-10-14 #t3FWHZgzi $en ±
+▯ is a coati.
+  tcima (2026-10-14): calque of ja ハナグマ hanaguma lit. nose-bear
+  tcima (2026-10-14): this genuinely sounds like a Japanese loanword instead of a calque from Japanese but しまはこ shimahako would mean like, 'island-box' in Japanese, so it isn't
+
 shımakuoq @jiqci 2025-08-21 #WqlR9OTg1 $en ±
 [t]predicate: ▯ is a nasal bone.
 
@@ -83932,11 +83987,13 @@ teta @jiqci 2023-08-31 #QKZZqzjSe $en +1
   jiqci (2023-08-31): back-formed from **tetabo**
   Ilmen (2026-01-28): frame: c
   Ilmen (2026-01-28): pronominal_class: ho
+  tcima (2026-10-14): ← Latin testa 'shell'. ‹tetabo› 'turtle' is literally 'shell-haver'.
 
 tetabo @Ilmen 2018-10-19 #arTLoN_p8 $en +1 %lifeform,animal,vertebrate,testudinata
 [t]predicate: ▯ is a turtle, tortoise or terrapin (Testudines taxonomic order).
   Ilmen (2026-01-28): frame: c
   Ilmen (2026-01-28): pronominal_class: ho
+  Ilmen (2026-10-14): etymology: ⟪teta⟫ + ⟪bo⟫.
 
 tetabokuoq @robintown 2022-02-19 #0s4aal81O $en ±
 [t]predicate: ▯ is a turtle shell.
@@ -87133,6 +87190,10 @@ tuaqchea @jiqci 2026-09-26 #IBrmKk9e3 $en ±
 
 tuaqnam @jiqci 2024-12-11 #r4X0I0mev $en ±
 [t]predicate: ▯ is a croissant / crescent roll.
+
+tuaqsaı @tcima 2026-10-14 #bEbOCPXAi $en ±
+▯ is keratin.
+  tcima (2026-10-14): maybe this should be ‹tuaqrıaısaı›, horn-protein, but I think just 'horn-substance' is clear enough
 
 tuaruao @takoda 2024-11-11 #m3YMoX_41 $en ±
 [t]predicate: ▯ forgives the one(s) who makes ▯ happen.
@@ -100553,7 +100614,7 @@ pejorative demonstrative (points out / singles out a referent in a decrying/demo
 ⚠ noruzy @salarua 2022-12-02 #tKmEWuTUJ $en -1
 [t]predicate: ▯ is Nowruz
 
-⚠ noy @akesi 2020-04-23 #HNfwskBLG $en ±
+⚠ noy @akesi 2020-04-23 #HNfwskBLG $en -1
 [t]predicate: ▯ is liquid
 
 ⚠ nuaoduy @uakci 2022-05-27 #5rW_A9arQ $en ±
