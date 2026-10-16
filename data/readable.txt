@@ -177,6 +177,10 @@ adaso @robintown 2023-03-17 #Fg2af4OD4 $en ±
 adasokumıq @abcdeusername 2025-05-03 #9UFK_V8WT $en ±
 [t]predicate: ▯ is caraway.
 
+adea @malu 2026-10-15 #5iluIJBx6 $en ±
+▯ is a heron (member of Ardeidae genus)
+  malu (2026-10-15): derived from Latin "ardea"
+
 adı @Machy 2020-05-26 #rPkdsMZuc $en ±
 [t]predicate: ▯ is fat(the substance).
 
@@ -42081,11 +42085,17 @@ kerapıusaı @jiqci 2023-09-05 #hguAuhl1A $en ±
 keraseraq @jiqci 2025-09-04 #9SPJZKKui $en ±
 [t]predicate: ▯ suffers a stroke.
 
+kerataıjıoqdıu @Ilmen 2026-10-15 #A3EdfG6Gs $en ±
+[t]predicate: ▯ is neuromorphic computing.
+
 keratanı @jiqci 2025-01-13 #Y9QOQAsAK $en ±
 [t]predicate: ▯ is a brain stem.
 
 keratıaı @jiqci 2025-01-13 #8cGhMuN5H $en ±
 [t]predicate: ▯ is a cranium / braincase (skull sans facial bones).
+
+keratıaobeo @Ilmen 2026-10-15 #e78VpeTNx $en ±
+[t]predicate: ▯ is neuroplastic, undergoes neuroplasticity, neuroplastic adaptation.
 
 kere @seaqtaq 2019-06-20 #pww3ap6Vb $en ±
 [t]predicate: ▯ is a scrotum/ballsack
@@ -53262,6 +53272,9 @@ mıeıkata @robintown 2025-11-20 #jdBPJNnRu $en ±
 mıeıkuo @Laqme 2025-05-20 #b2xvEu5bL $en ±
 [t]predicate: ▯ is notorious / infamous / ill-famed.
 
+mıejıoqkea @Ilmen 2026-10-15 #f61vz0cEK $en ±
+[t]predicate: ▯ is a biological computer.
+
 mıekaze @lassc 2022-12-05 #5MHauIhoA $en ±
 [t]predicate: ▯ is the heartbeat of ▯.
 
@@ -54092,7 +54105,7 @@ mjs @evie 2024-01-15 #HT220Th0l $en +4
 [t]phrase: textspeak for **maı** **jí** **súq** (ily)
   evie (2024-01-15): for extra Flair keep the tone marks: mj́ś
 
-mo- @kazoo 2025-02-16 #eOboknUm7 $en +1
+mo- @kazoo 2025-02-16 #eOboknUm7 $en ±
 [t]prefix: converts string of syllables into base64 Geo64 code, where each syllable represents a base64 digit.
   kazoo (2025-02-16): described in https://toaq.me/Geocode
   kazoo (2025-02-16): Geo64 in https://github.com/neuekatze/geo64
@@ -54132,6 +54145,9 @@ moaı [(c) (d) tá sI] @official 2026-10-12 #WR8UQKJ6uLsK $en ± %⚠,amount,rel
 
 moaı @jiqci 2023-07-31 #Pndr7udvbw $pl ± %⚠,amount,relative
 [t]predicate: ▯ jest gruby.
+
+moaıbuleqbıa @malu 2026-10-16 #P8pcez05M $en ±
+▯ suffers from cystic fibrosis / mucoviscidosis.
 
 moaıcheı @Laqme 2023-12-04 #HmpH1uYmL $en ±
 [t]predicate: ▯ is a thumb / big toe.
@@ -54395,6 +54411,8 @@ moefuı @seaqtaq 2024-08-09 #MRfq-BKK- $en ±
 
 moegaq [(c c) (d d) hó sA] @Laqme 2019-02-02 #_iG7z_KU- $en +3
 [t]predicate: [g]‘empathize’; ▯ empathizes with ▯.
+  tcima (2026-10-15): kw: I feel you
+  mimiaoganhaqpy (2026-10-15): kw: empathises with
 
 moegaq @seaqtaq 2020-02-22 #iz3oTZC9S $en -1
 [t]predicate: ▯ sympathizes with ▯in feeling ▯
@@ -55231,7 +55249,7 @@ morurı @uakci 2024-05-14 #BR-x4g-55 $en ±
 mose @uakci 2023-12-04 #9QGc0rkCg $en +1
 [t]predicate: ▯ is a quote/quotation.
 
-mọseq @kazoo 2025-04-30 #h2cOR_NvH $en ±
+mọseq @kazoo 2025-04-30 #h2cOR_NvH $en -1
 [t]predicate: ▯ is an area stretching from Occitan to  Georgia - Russia, from middle of Saudi Arabia to half of Algeria.
 
 mosıe @seaqtaq 2024-07-28 #E9dVi0w-W $en ±
@@ -67001,7 +67019,7 @@ potuq @seaqtaq 2020-06-21 #e7xCFWIDn $en ±
 ⚠ pou @el 2022-11-04 #nTCJBE_Lo $en ±
 [t]predicate: ▯ owns/possesses ▯
 
-poꝡa @kazoo 2025-04-25 #czZG4OJJi $en ±
+poꝡa @kazoo 2025-04-25 #czZG4OJJi $en -1
 [t]predicate: ▯ is a post office.
   kazoo (2025-04-25): from bulgarian поща
 
@@ -73085,6 +73103,10 @@ saofa @fagri 2020-06-13 #4LuRQm9tS $en ±
 saoguaı @Laqme 2024-04-26 #x28d2YkV0 $en ±
 [t]predicate: ▯ works hard / does their best at satisfying property ▯.
 
+saohuınua @malu 2026-10-15 #hUzpFy6oF $en ±
+▯ raids, from ▯, ▯.
+  malu (2026-10-15): pillages, plunders, loots
+
 saoja @Hoemai 2019-04-03 #wM930oJ9K $en ±
 [t]predicate: ▯ is a member of genus Cavia (guinea pigs, cavies).
 
@@ -73260,6 +73282,10 @@ saoꝡaqtoı @Snow 2023-06-02 #J3VUWxheq $en ±
 
 saoza @Lisaki 2025-09-17 #-RuoTlkgh $en ±
 [t]predicate: ▯ is sauce (synonym of **saosa**)
+
+saozanua @malu 2026-10-15 #sCp-LZCTg $en ±
+▯ raids, from ▯, ▯.
+  malu (2026-10-15): pillages, plunders, loots
 
 sapa @Ilmen 2019-04-18 #JDFIYVL2Q $en ± %cognition
 [t]predicate: ▯ accepts that ▯ be the case.
@@ -84241,6 +84267,9 @@ gıjıe dógu jêo dóshı dósaq da
 tıaobeo @uakci 2022-02-19 #exFA_mVrc $en ±
 [t]predicate: ▯ adjusts to match/fit/suit ▯ in property ▯.
 
+tıaobeo @Ilmen 2026-10-15 #2LqvKlJxn $en ±
+[t]predicate: ▯ adapts to having property ▯.
+
 tıaocıa @uakci 2022-02-10 #j2PWa1Tc8 $en ±
 [t]predicate: ▯ does ▯ inadequately.
 
@@ -88300,6 +88329,12 @@ Ukaınagua @mimiaoganhaqpy 2022-09-22 #7E_oW2-9u $en ±
 
 Ukaınazu @Laqme 2023-12-17 #R81FR0k3h $en ±
 [t]predicate: ▯ is the Ukrainian language.
+
+Ukaraına @Ilmen 2026-10-15 #0GQ-LJPQX $en ±
+[t]predicate: ▯ pertains to the culture of Ukraine.
+
+Ukaraınagua @Ilmen 2026-10-15 #FmiSNOxMa $en ±
+[t]predicate: ▯ is Ukraine.
 
 ukıu [(c) (d) tá sF] @salarua 2022-12-27 #xPaW20tHu $en +2
 [t]predicate: [g]‘adorable’; ▯ is adorable
@@ -101044,12 +101079,6 @@ perfective aspect
 
 ⚠ uchy @uakci 2020-04-15 #4dU5NDvVw $en ±
 [t]predicate: ▯, in Universal Coordinated Time (UTC), is at time ▯.
-
-⚠ ukyraına @Ilmen 2022-06-27 #CzQ1Fk-zW $en -1
-[t]predicate: ▯ pertains to the culture of Ukraine.
-
-⚠ ukyraınagua @Ilmen 2022-06-27 #OjUNVTKGz $en -1
-[t]predicate: ▯ is Ukraine.
 
 ⚠ ũq @uakci 2022-02-21 #eHY-9ObaI $en -1
 [t]interjection: “hm, yeah, lemme think…” (phatic; asserting one’s turn in the conversation &/ asking the interlocutor to stop/slow down)
