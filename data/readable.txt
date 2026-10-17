@@ -1449,6 +1449,10 @@ aqcho @uakci 2021-08-15 #8VEQHRTWJ $en -1
 [t]predicate: ▯ likes ▯-self.
   evie (2026-04-10): i don't know how this is meant to work
 
+Aqdalu @req 2026-10-16 #D8BfHY-ji $en ±
+▯ is Andalusian.
+  req (2026-10-16): From Andalusian heheante speakers' pronunciation of the word 'andaluz'.
+
 aqdepıo @robintown 2021-10-20 #6sIdxoNN5 $en ±
 [t]predicate: ▯ is andesite.
 
@@ -7022,6 +7026,7 @@ caı- @seaqtaq 2024-11-12 #R_7IxK7po $en ±
 
 caı [(c) (d) tá sF] @official 2026-10-12 #uAYjBSa1TFu $en ± %⚠
 [t]predicate: [g]‘strong’; ▯ is strong.
+  tcima (2026-10-16): possibly from Lojban tsali
 
 ⚠ caı @oldofficial 2019-05-05 #DTUC46Qeiz $en ± %⚠
 [t]predicate: [g]‘strong’; ▯ is strong.
@@ -20307,6 +20312,7 @@ fatuı @Laqme 2023-09-30 #2EI18fiKs $en +1
 
 fe [(c) (n) tá sF] @official 2026-10-12 #K0x2JBBJwZbg $en ± %cardinality
 [t]predicate: [g]‘five’; ▯ are five in number.
+  tcima (2026-10-16): cf. Loglan fe ‘five’, which may be this word’s etymology
 
 fe @el 2022-07-10 #kog5kAH94 $tok ± %cardinality
 [t]predicate: ▯ li ijo luka
@@ -20511,6 +20517,9 @@ feı @jiqci 2023-07-31 #QKfUu79rbE $pl ± %emotion
 
 feı @uakci 2019-04-14 #HE8Mza0Jb $toa -1 %emotion
 ca bû tıaojaı dóshı sa ráı na môı dóshı sa púı caı da
+
+feı'aıpu @malu 2026-10-16 #jKytd4KhO $en ±
+▯ is a poltergeist
 
 feıbıa @jiqci 2023-08-17 #kCVIUTrJA $en ±
 [t]predicate: ▯ is rabid, affected with rabies.
@@ -30653,6 +30662,7 @@ hıtuq @el 2022-07-01 #9yhDo-_vd $en ±
 
 hıu [(c) (d) máq sI] @official 2026-10-12 #Ssyn8fYFmnbG $en ± %geographic_feature
 [t]predicate: [g]‘river’; ▯ is a river.
+  Ilmen (2026-10-16): etymology: Possibly Brazilian Portuguese ⟪rio⟫.
 
 hıu @Laqme 2021-10-04 #PWpD8QNMg $ja ± %geographic_feature
 [t]predicate: ▯は川
@@ -34188,6 +34198,9 @@ jakaısem @seaqtaq 2025-08-21 #vnLcC5sge $en ±
 [t]predicate: ▯ doesn't step in on ▯'s argument or rant despite knowing full well that the latter is operating on an incorrect premise, thereby making a fool of themselves
   seaqtaq (2025-08-21): Keyword: zakaı
   seaqtaq (2025-08-21): **jakaı**+**sem**
+
+jakaraqda @malu 2026-10-16 #fDzUOvore $en ±
+▯ is a jacaranda tree (Jacaranda genus).
 
 jake [(c) (d) máq sI] @official 2026-10-12 #e8CzyjQ1fEzI $en ± %cultural,clothing
 [t]predicate: [g]‘jacket’; ▯ is a jacket.
@@ -38758,6 +38771,7 @@ juchı @uakci 2023-04-05 #9ZtcIlPig $en ±
 
 jue [(c) (d) hóq sI] @official 2026-10-12 #uZuScZbb74E $en ± %cultural,measure_unit
 [t]predicate: [g]‘month’; ▯ is a month.
+  tcima (2026-10-16): possibly from Mandarin 月 yuè, with j- because Toaq words can’t begin with /ju/.
 
 jue @el 2022-07-10 #ECnRhimSX $tok ± %cultural,measure_unit
 [t]predicate: ▯ li tenpo mun
@@ -41280,6 +41294,12 @@ katachıetao @robintown 2026-03-28 #qz-6mnQtX $en ±
 
 katala @salarua 2022-12-13 #AQ6tdZsoU $en ±
 [t]predicate: [g]‘katal’; ▯ is a katal
+
+Katalaq @malu 2026-10-16 #J9u99RssB $en ±
+▯ pertains to Catalan culture.
+
+Katalaqgua @malu 2026-10-16 #lboLQaVYi $en ±
+▯ is Catalonia.
 
 katam @jiqci 2023-11-15 #6vXreM1Fg $en ±
 [t]predicate: ▯ is a sturgeon (genus Acipenser).
@@ -47554,6 +47574,10 @@ leoshaıcıa @robintown 2022-01-05 #gVWS6whG6 $en ±
 leotao @uakci 2019-07-04 #c3g7Lw6IT $en ±
 [t]predicate: ▯ does ▯ as a trial; ▯ tries out doing ▯; ▯ takes a stab at / has a shot at ▯-ing.
   jiqci (2024-06-21): gives doing ▯ a try
+
+lepakaq @malu 2026-10-16 #9R3CjRKZ_ $en ±
+▯ is a leprechaun.
+  malu (2026-10-16): Derived from Irish "leipreachán"
 
 lepo @Ilmen 2018-10-20 #gM68P97pi $en ± %lifeform,animal,vertebrate,mammal
 [t]predicate: ▯ belongs to the Lepus taxonomic genus (the hares and jackrabbits).
@@ -55249,9 +55273,6 @@ morurı @uakci 2024-05-14 #BR-x4g-55 $en ±
 mose @uakci 2023-12-04 #9QGc0rkCg $en +1
 [t]predicate: ▯ is a quote/quotation.
 
-mọseq @kazoo 2025-04-30 #h2cOR_NvH $en -1
-[t]predicate: ▯ is an area stretching from Occitan to  Georgia - Russia, from middle of Saudi Arabia to half of Algeria.
-
 mosıe @seaqtaq 2024-07-28 #E9dVi0w-W $en ±
 [t]predicate: [MO] ▯ then says [text]
   seaqtaq (2024-07-28): Inspired by moao
@@ -56594,6 +56615,9 @@ muqla [(c c) (d d) hó sA] @Laqme 2023-08-31 #JpshpbDh5 $en +2
 muqlaı @uakci 2022-06-19 #srktz4hXZ $en ±
 [t]predicate: ▯ is a hand shaped in a way that conveys ▯; ▯ is a handsign that signs ▯.
 
+muqmadıjoaı @malu 2026-10-16 #jYQhVRp5Q $en ±
+▯ divines ▯ using palm reading / palmistry.
+
 muqmuq @lassc 2023-10-28 #jjfHM0sg3 $en ±
 [t]predicate: ▯'s hand is attached to ▯'s hand.
   lassc (2023-10-28): redefinition aiming to broaden the semantic space of the word. i'd imagine you could modify this to get the kind of interaction past this
@@ -57397,6 +57421,9 @@ naojeoq @seaqtaq 2019-04-02 #I8WTWZlsk $en -1
 
 naojıu @elements 2020-02-26 #HZ9sgAD3z $en -1
 [t]predicate: ▯ is hydrogen (element 1)
+
+naojoaıgıeı @malu 2026-10-16 #z01xA7rn3 $en ±
+▯ is a dowsing rod.
 
 naokaıchuo @fagri 2021-08-13 #RWMKF4zvC $en ±
 [t]predicate: ▯ is a pen (any writing utensil based on a liquid writing material)
@@ -58710,6 +58737,7 @@ ní @robintown 2024-08-21 #bgHwgXNcb $en +3 %deixis,demonstrative
 
 ní @official 2026-10-12 #Ne8klPuPu7vY $en ± %deixis,demonstrative
 [t]determiner: [g]‘this’; demonstrative; this/that X
+  Ilmen (2026-10-16): etymology: Possibly from Thai ⟪นี้⟫ ⟪níi⟫.
 
 ní @SuperSpaceNiM 2024-08-11 #OslcK-ens $ru ± %deixis,demonstrative
 [t]определитель: [g]‘этот’; указательное мест.; этот/тот X
@@ -58959,6 +58987,7 @@ níaq- @Laqme 2024-08-01 #2N6zlzbbi $en ±
 
 nıaq [(c) (d) hóq sI] @official 2026-10-12 #0JOkxBXq8iK8 $en ±
 [t]predicate: [g]‘year’; ▯ is a year.
+  tcima (2026-10-16): possibly from Mandarin 年 nián
 
 nıaq @el 2022-07-10 #jhmIHvFj4 $tok ±
 [t]predicate: ▯ li tenpo pi sike suno
@@ -60201,6 +60230,9 @@ nıula @uakci 2024-03-10 #I6qUmfyVw $en +1
 
 nıuluı @uakci 2023-11-07 #Auk4GED2i $en +4
 [t]predicate: ▯ is a bunny/bnuuy/buppet.
+
+nıummadıjoaı @malu 2026-10-16 #eU6nJzqOG $en ±
+▯ divines ▯ using astrology.
 
 nıunaqpoaı @Ilmen 2020-03-05 #asnmQMxTV $en ± %biology
 [t]predicate: ▯ is pollen.
@@ -71424,6 +71456,7 @@ ru @el 2022-10-20 #wqy-D-WVG $toa -1
 
 rú @official 2026-10-12 #zUctyx6EHXe $en ± %logic,conjunction
 [t]conjunction: [g]‘and’; and
+  tcima (2026-10-16): etymology: the r- is shared by the other conjunctions (rá, ró, rói). the -u breaks the pattern of the other ones, which follow the vowels they have in Lojban: rá (ja), ró (jonai), rói (joi).
 
 rú @SuperSpaceNiM 2024-08-11 #gIfWdhC96 $ru ± %logic,conjunction
 [t]союз: [g]‘и’; и
@@ -75484,6 +75517,7 @@ sınha @seaqtaq 2024-11-05 #2RIvCcDR- $en ±
 
 sıo [(c) (d) hóq sI] @official 2026-10-12 #keiquHD8yms $en ± %cognition
 [t]predicate: [g]‘thought’; ▯ is a thought/idea.
+  tcima (2026-10-16): possibly ← Lojban si’o (particle similar to Toaq cúaq), -si’o- (combining form of sidbo ‘idea’)
 
 sıo @el 2022-07-10 #Hh3gywShi $tok ± %cognition
 [t]predicate: ▯ li isipin
