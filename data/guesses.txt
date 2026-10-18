@@ -143,8 +143,8 @@ frame:
                1.05    40 _BOUND_BEFORE_4_to
                1.04   279 _BOUND_BEFORE_ANYDIST_to
                1.00    19 _BOUND_BEFORE_BI_in_relation
-               0.99     1 _BOUND_AFTER_ANYDIST_able
                0.99     1 _BOUND_AFTER_1_able
+               0.99     1 _BOUND_AFTER_ANYDIST_able
   2xx          1.93    30 _BOUND_BEFORE_BI_in_property
                1.49    19 _TAG_mathematics
                1.36    40 relation
@@ -176,8 +176,8 @@ frame:
                1.43    66 _KNOWN_SUBJECT_sE
                1.29    14 good
                1.14     4 proposition
+               1.10     1 _BOUND_AFTER_ANYDIST_slow
                1.10     1 _GLOSS_slow
-               1.10     1 _BOUND_AFTER_BI_is_slow
   1x           2.82    11 property
                1.86    99 _KNOWN_SUBJECT_sP
                1.76     4 _BOUND_BEFORE_1_property
@@ -189,8 +189,8 @@ frame:
                1.31   182 _C2_lı
                1.30    55 _C2_qm
   c            0.54  3912 _KNOWN_SUBJECT_sI
-               0.28  4903 _BIAS
                0.28  4903 _ARITY_1
+               0.28  4903 _BIAS
                0.28   672 _KNOWN_SUBJECT_sF
                0.27   978 _KNOWN_PRONOUN_hó
                0.20  4903 ▯
@@ -210,7 +210,7 @@ frame:
                1.09     1 _GLOSS_aware
                1.02    53 _KNOWN_SUBJECT_sE
                1.01    16 place
-               0.95     2 _BOUND_BEFORE_ANYDIST_means
+               0.95     2 _BOUND_BEFORE_BI_▯_means
   1i           2.16   223 property
                1.79   197 _BOUND_BEFORE_1_property
                1.70   200 _BOUND_BEFORE_ANYDIST_property
@@ -235,8 +235,8 @@ frame:
                1.42     8 _RAKU_LAST_taq
                1.22    10 _C3_taq
                1.08    80 _C2_ta
-               0.95     1 _BOUND_BEFORE_BI_by_property
                0.95     1 _GLOSS_self
+               0.95     1 _BOUND_BEFORE_BI_by_property
                0.95     2 _BOUND_BEFORE_3_itself
                0.95     2 _BOUND_BEFORE_ANYDIST_itself
                0.94     5 related
@@ -258,8 +258,8 @@ frame:
                0.94    46 be
                0.93   233 _KNOWN_SUBJECT_sF
                0.84    13 _BOUND_BEFORE_BI_in_relation
-               0.83     1 _BOUND_AFTER_1_able
                0.83     1 _BOUND_AFTER_ANYDIST_able
+               0.83     1 _BOUND_AFTER_1_able
                0.83     1 _RAKU_FIRST_kıu
   2xx          1.34    24 relation
                1.05    34 are
@@ -269,10 +269,10 @@ frame:
                0.77     4 member
                0.75    21 _C3_heo
                0.74     2 _BOUND_BEFORE_ANYDIST_relationship
-               0.74     2 _BOUND_BEFORE_1_relationship
                0.74     2 relationship
-  c            0.97  1502 _BIAS
-               0.97  1502 _ARITY_2
+               0.74     2 _BOUND_BEFORE_1_relationship
+  c            0.97  1502 _ARITY_2
+               0.97  1502 _BIAS
                0.65  1502 ▯
                0.52    39 s
                0.52    61 _KNOWN_SUBJECT_sS
@@ -325,8 +325,8 @@ frame:
                0.56     6 or
                0.54     5 _BOUND_BEFORE_4_among
   2ij          1.45    16 relation
-               1.40    15 _BOUND_BEFORE_1_relation
                1.40    15 _BOUND_BEFORE_ANYDIST_relation
+               1.40    15 _BOUND_BEFORE_1_relation
                0.73     5 _C2_ot
                0.66    12 _C2_tu
                0.63     2 _C3_otu
@@ -374,7 +374,7 @@ distribution:
                2.05   358 _C3_che
                1.93   118 are
                1.81     1 _RAKU_LAST_eq
-               1.74     4 grammatical
+               1.74     4 _BOUND_AFTER_3_grammatical
                1.74     4 _BOUND_AFTER_ANYDIST_grammatical
 
 pronoun:
@@ -82307,6 +82307,12 @@ fuaqtuaı #HYvKQRDj3 priority=0.82 ->
   pronoun = máq (93%, oov 10%)
   subject = sI (83%, oov 17%)
   ▯ is an image/picture on a physical support.
+soqjuıchuaq #Egk9F5PEw priority=0.82 ->
+  frame = c (98%, oov 17%)
+  distribution = d (92%, oov 22%)
+  pronoun = hóq (96%, oov 10%)
+  subject = sI (85%, oov 17%)
+  ▯ is extremism.
 zuoluoq #Hfw-Qi0J8 priority=0.82 ->
   frame = c c (96%, oov 23%)
   distribution = d d (99%, oov 26%)
@@ -91866,8 +91872,8 @@ durubeq #NAOqHE3BS priority=0.36 ->
   subject = sI (95%, oov 12%)
   ▯ is a gall / oak apple.
 
-entries needing metadata: 15228
-  frame missing: 15205
-  distribution missing: 15228
-  pronoun missing: 15208
-  subject missing: 15228
+entries needing metadata: 15229
+  frame missing: 15206
+  distribution missing: 15229
+  pronoun missing: 15209
+  subject missing: 15229
