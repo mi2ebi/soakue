@@ -13262,6 +13262,10 @@ chuacıa @uakci 2022-03-09 #idEjBBp5S $en ±
 chuachoq @Ilmen 2022-10-16 #2kLdnKbu_ $en ±
 [t]predicate: [g]‘call by name’; ▯ uses name ▯ for referring to ▯.
 
+chuachoq @tcima 2026-10-22 #uNDrqLzwj $en ±
+[t]predicate: ▯ calls ▯ by name ▯; ▯ uses, for ▯, name ▯.
+  tcima (2026-10-22): this is different from **chuado**. **chuado** means giving someone or something a new name, while this is just using a name to refer to something
+
 chuachoq @uakci 2022-01-08 #GpJZ4Jfy- $en -1
 [t]predicate: ▯ assigns name ▯ to ▯; ▯ sees name ▯ as referring to ▯; ▯ uses name ▯ to refer to ▯.
   uakci (2024-02-06): ▯ addresses, with name ▯, thing ▯
@@ -31649,7 +31653,7 @@ hotoa [(c) (d) hóq sI] @Dembim 2026-01-08 #DrWLoqX0z $en ±
 ⚠ hou @fagri 2021-10-10 #x_OjIEfP6 $en -1
 [t]illocution: suggestive ("X could happen, maybe", "X is an idea")
 
-⚠ house @uakci 2022-07-30 #Xfol-mvXH $en ±
+⚠ house @uakci 2022-07-30 #Xfol-mvXH $en -1
 [t]predicate: ▯ is a suggestion 🏡.
 
 ⚠ housı @Ilmen 2022-10-15 #UxR4Bs94O $en -1
@@ -41375,7 +41379,7 @@ katam @jiqci 2023-11-15 #6vXreM1Fg $en ±
   jiqci (2023-11-15): etym: Vietnamese cá tầm
 
 katamarı @jiqci 2026-10-22 #fmgqhLq5I $en ±
-▯ progressively accumulates / snowballs.
+▯ progressively accumulates / snowballs / spirals out of control.
 
 katame @akesi 2020-04-02 #dRctcyw4b $en +1
 [t]predicate: [g]‘deck’; ▯ is a deck of cards.
@@ -90226,13 +90230,16 @@ zıe [(c c) (d d) tá sF] @uakci 2023-12-01 #ygtWRf4WM $en +1
 zıecheı [(c) (d) máq sI] @Laqme 2023-12-03 #9H5rcmRqx $en +1
 [t]predicate: [g]‘index finger’; ▯ is an index finger.
 
-zıekuq @uakci 2020-01-23 #r8MiTsIN5 $en ±
+zıekuq @evie 2026-10-22 #vAJzRayjx $en +1
+[t]predicate: ▯ (agent) mentions ▯
+
+zıekuq @uakci 2020-01-23 #r8MiTsIN5 $en -1
 [t]predicate: [g]‘mention’; ▯ mentiones / makes mention of ▯ to listener ▯.
 
-zıekuqduı @kazoo 2025-01-16 #5SSyYtuwV $en ±
+zıekuqduı @kazoo 2025-01-16 #5SSyYtuwV $en -1
 [t]predicate: [g]‘mention too much’; ▯ mentions ▯ too much to listener ▯.
 
-zıekuqduı @kazoo 2025-01-16 #MGl6NzhP8 $tr ±
+zıekuqduı @kazoo 2025-01-16 #MGl6NzhP8 $tr -1
 [t]predicate: ▯, ▯ hakkında ▯ dinleyicisine gereğinden fazla bahseder.
 
 zıelaı [(c) (d) hóq sI] @uakci 2020-01-23 #5MtNFEm-h $en +1
