@@ -9560,12 +9560,12 @@ cuaqtao [(c c) (d d) hó sA] @uakci 2020-04-11 #F8lzYek8e $en +2
 cuaqtue @uakci 2020-04-11 #6rwlPT9Mo $en -1
 [t]predicate: ▯ is an event/celebration of ▯.
 
+cuase [(c c) (d d) hóq sI] @robintown 2022-01-26 #ncTu7iNWO $en +1
+[t]predicate: [g]‘response’; ▯ is a response to ▯.
+
 cuase @uakci 2021-11-07 #QUy3gXdxv $en ±
 [t]predicate: [g]‘be answer to question’; ▯ is an answer to question ▯.
   uakci (2021-11-07): this word could also have meant “reaction” but screw that patch of the vast and trunkless semantic space
-
-cuase [(c c) (d d) hóq sI] @robintown 2022-01-26 #ncTu7iNWO $en ±
-[t]predicate: [g]‘response’; ▯ is a response to ▯.
 
 cuasho @uakci 2022-02-08 #pUfEzKzyU $en ±
 [t]predicate: [g]‘internalize response’; ▯ internalizes response ▯.
@@ -15022,6 +15022,12 @@ daqchıu [(c c) (d d) hóq sI] @official 2026-10-18 #Gpi1chsU54E $en ±
 daqchıu @jiqci 2023-07-31 #ya1iO15RUM $pl ±
 [t]predicate: ▯ to współrzędne czasowe (data i/lub godzina) zdarzenia ▯.
 
+daqchoaıhuoq @Ilmen 2026-10-23 #AgBx4z7dh $en ±
+[t]predicate: ▯ is chronophage, time-consuming.
+
+daqchoaısao @Ilmen 2026-10-23 #3om3VgBPP $en ±
+[t]predicate: ▯ is chronophage, time-consuming.
+
 daqchoq [(c 1i) (d d) hó sA] @Ilmen 2019-01-23 #RVm2b1YfS $en +1
 [t]predicate: [g]‘spend time’; ▯ spends time to do ▯.
   uakci (2019-01-23): +1
@@ -15032,8 +15038,8 @@ daqchoq [(c c 1i) (d d d) hó sA] @Laqme 2024-01-04 #Kulbr5hRL $en +1
 daqchue @uakci 2022-10-02 #OGUmx-rWn $en ±
 [t]predicate: ▯ is a temporal succession of ▯; ▯ are ▯ (time periods, events) back-to-back.
 
-daqchuq @Ilmen 2019-02-08 #32wWRIBSY $en ±
-[t]predicate: [g]‘chronophage’; ▯ is chronophage.
+daqchuq [(c) (d) hóq sI] @Ilmen 2019-02-08 #32wWRIBSY $en ±
+[t]predicate: [g]‘chronophage’; ▯ is chronophage, time-consuming.
 
 daqdeaı @fagri 2021-09-21 #CzkUM7wq- $en +1
 [t]predicate: [g]‘worthwhile’; ▯ is worthwhile; time spent helping/improving/working-on ▯ is time well spent
@@ -22632,7 +22638,7 @@ gaja [(c) (d) máq sI] @seaqtaq 2019-06-09 #R2exVNBOR $en +2
 [t]predicate: [g]‘planet earth’; ▯ is the planet earth
   jiqci (2026-02-06): headcanon etym: shortened from **guaq**+**jıaq**
 
-gajachuaq @salarua 2021-08-10 #edqJyMYiW $en ±
+gajachuaq [(c) (d) hóq sI] @salarua 2021-08-10 #edqJyMYiW $en ±
 [t]predicate: [g]‘environmentalism’; ▯ is environmentalism/green politics
 
 Gajachuguaq @kazoo 2025-05-02 #p1uCtf1Jn $en ±
@@ -32971,6 +32977,9 @@ Ibozu @eednb 2024-01-01 #jg7cYrJGC $en ±
 
 Idıshızu @jiqci 2025-05-19 #AOL9kvvtV $en ±
 [t]predicate: ▯ is the Yiddish language.
+
+ıdo @evie 2026-10-23 #5JhV1q78_ $en ±
+▯ is a fork/modification of or otherwise inspired by ▯
 
 ıdojeq @uakci 2022-12-31 #UgbQ7DjBn $en ±
 [t]predicate: ▯ is hydrogen.
@@ -52621,7 +52630,7 @@ mejıo @Laqme 2023-01-14 #nsC7IBIzL $en ±
 meka @uakci 2020-05-06 #ejpcDvb58 $en ±
 [t]predicate: [g]‘crane’; ▯ is a crane (framework).
 
-mekajıao @uakci 2020-05-06 #6OlH3ULGb $en ±
+mekajıao [(c) (d) hóq sI] @uakci 2020-05-06 #6OlH3ULGb $en ±
 [t]predicate: [g]‘deus ex machina’; ▯ is a deus ex machina (in the abstract sense); ▯ is a contrived solution to a problem from outside.
 
 mekao @Laqme 2022-07-06 #0Yeahs0Kx $en ±
@@ -64167,7 +64176,7 @@ pa @el 2022-10-20 #6GYakxr1u $en -1
   el (2022-10-20): with the DP marked <1> moving up to the node marked _1
   Hoemai (2022-10-20): Looks like this (slightly adjusted): https://dprebyl.github.io/syntree/#%5BSAP%20%5BCP%20%5BC%20%C3%98%5D%20%5BFP%20%5BDP_1%20j%C3%AD%5D%20%5BF'%20%5BF%20pa%5D%20%5BVP%20%5BDP%20t%3C1%3E%5D%20%5BV'%20%5BV%20fa%5D%20%5BDP%20%5BD%20t2%5D%20%5BV%20jeariaq%5D%5D%5D%5D%5D%5D%5D%20%5BSA%20%C3%98%5D%5D
 
-pá @Laqme 2022-08-17 #f_T-L2FKt $en +2
+pá @Laqme 2022-08-17 #f_T-L2FKt $en +3
 [t]illocution marker: [g]‘imperative’; imperative with elided súq subject
   Laqme (2022-08-17): for example **Kaqsı jí pá!** = "look at me!". the subject DP had moved into SA, leaving a trace that makes the sentence "VO"
   Laqme (2022-08-17): I just think súq...bâ imperatives aren't very snappy
@@ -70753,7 +70762,7 @@ rıq @SuperSpaceNiM 2024-08-11 #8Ib26E-wt $ru ± %has_color,trichromatic,pseudo-
 rıq @uakci 2019-04-15 #rL-VYTZTi $toa -1 %has_color,trichromatic,pseudo-absolute
 reo sa báq nıu dóshı da
 
-rıqchaı @uakci 2018-11-03 #i67bN1ZS1 $en ±
+rıqchaı [(c) (d) máq sI] @uakci 2018-11-03 #i67bN1ZS1 $en ±
 [t]predicate: [g]‘green tea’; ▯ is green tea.
 
 rıqchaq [(c) (d) hóq sI] @official 2026-10-18 #W1z_nCQQwZ9M $en ± %cultural,weekday
@@ -70777,7 +70786,7 @@ rıqkepa @Snow 2024-10-02 #x_xirQSuv $en ±
 rıqkuao @Machy 2022-01-26 #7miHNId_o $en ±
 [t]predicate: [g]‘spring green’; ▯ is of color/colour "spring" green.
 
-rıqkuao @Machy 2022-01-26 #QqLe2tj7z $en ±
+rıqkuao [(c) (d) tá sF] @Machy 2022-01-26 #QqLe2tj7z $en ±
 [t]predicate: [g]‘spring green’; ▯ is of color/colour spring green.
 
 rıqkuq @uakci 2021-11-07 #sqoi5IBGd $en ±
@@ -72943,9 +72952,10 @@ ser un espíritu de un elemento natural
 saıjueq [(c c) (d d) hó sA] @Laqme 2022-01-26 #MaSSb_ql9 $en +1
 [t]predicate: [g]‘stirs’; ▯ stirs ▯.
 
-saıku @jiqci 2023-01-16 #qBOrhhXvC $en +1
+saıku [(c) (d) hóq sI] @jiqci 2023-01-16 #qBOrhhXvC $en +1
 [t]predicate: [g]‘Discord server’; ▯ is a Discord server.
   jiqci (2023-01-16): Laiqbun borrowing
+  Ilmen (2026-10-23): I guess it could also be regarded as a loan from English “circle” (in the social sense)…
 
 saımaqgu @jiqci 2024-10-19 #m8kYi_9BK $en ±
 [t]predicate: ▯ is chemically inert / nonreactive.
