@@ -13900,7 +13900,7 @@ chukıa @Laqme 2026-02-25 #tGxxnVH_c $en ±
 chukuq [(c c) (d n) hó sA] @Hoemai 2019-04-08 #NB6GHRBpV $en +1
 [t]predicate: [g]‘mediate’; ▯ mediates between/among ▯.
 
-chuleı @uakci 2023-08-01 #9tI0H8PcV $en +2
+chuleı [(c 1i) (d d) hó sI] @uakci 2023-08-01 #9tI0H8PcV $en +2
 [t]predicate: [g]‘has a kink’; ▯ has a kink/fetish for satisfying property ▯.
   uakci (2023-08-01): < **chunı** + **leı**
 
@@ -13969,7 +13969,7 @@ chunıleı @robintown 2023-12-23 #ncBrsODZ7 $en ±
 chunıluaq @ExclusiveOr 2023-08-01 #29YRQ7LCj $en ±
 [t]predicate: [g]‘kink’; ▯is a kink for satisfying property ▯
 
-chunımoe @fagri 2021-11-06 #zCwKTmXuJ $en +2
+chunımoe [(c) (d) hó sI] @fagri 2021-11-06 #zCwKTmXuJ $en +2
 [t]predicate: [g]‘horny’; ▯ is horny
   fagri (2021-11-06): Works better than "seaq" compounds for people with fetishes that have nothing to do with sex
 
@@ -14321,7 +14321,7 @@ chuqroe @uakci 2019-05-19 #F4MJZ4YMJ $en ±
 [t]predicate: [g]‘healthy to eat’; ▯ is healthy to eat.
   uakci (2019-05-19): (I’m aware that the metaphor is somewhat janky).
 
-chuqsao @Ilmen 2020-06-05 #t2xfpU2OQ $en +2
+chuqsao [(c) (d) hó sI] @Ilmen 2020-06-05 #t2xfpU2OQ $en +2
 [t]predicate: [g]‘fat’; ▯ is fat/obese.
 
 chuqsheq @uakci 2022-10-31 #lraSp6b0K $en ±
@@ -20400,7 +20400,7 @@ fea [(c c 1i) (d d) tá sI] @official 2026-10-18 #9_yaw-xjYuE $en ±
 fea @jiqci 2023-07-31 #aP7qppMmX $pl ±
 [t]predicate: ▯ wytrzymuje spełnianie własności ▯ spełniając własność ▯.
 
-feabeo @seaqtaq 2024-10-02 #QZM3ctndr $en +2
+feabeo [(c 1i) (d d) hó sI] @seaqtaq 2024-10-02 #QZM3ctndr $en +2
 [t]predicate: [g]‘adapts to survive’; ▯ adapts to survive/be able to endure having property ▯
   takoda (2024-10-30): evolves
 
@@ -52406,7 +52406,7 @@ meazua [(c c c) (d d d) hó sA] @uakci 2024-05-01 #0x8xthbza $en +1
 meazua @Laqme 2022-08-16 #b1wWL_QWK $en ±
 [t]predicate: [g]‘exclude’; ▯ excludes ▯ from group ▯.
 
-mebo @seaqtaq 2024-10-02 #xhgRTsKXm $en +2
+mebo [(c c) (d d) hó sI] @seaqtaq 2024-10-02 #xhgRTsKXm $en +2
 [t]predicate: [g]‘collectively own’; ▯ collectively own/share ▯
 
 mebo @Machy 2020-06-06 #5SEXdWQ0O $en -1
@@ -61246,7 +61246,7 @@ nozıu @Dembim 2026-02-16 #Lbn8hySDN $en ±
 nozu [(c c) (d d) hó sA] @seaqtaq 2025-05-03 #WTumxgW3g $en +1
 [t]predicate: [g]‘solve’; ▯ solves / finds a solution to problem ▯
 
-nu- @uakci 2022-12-10 #KUJvdoPQQ $en ±
+nu- @uakci 2022-12-10 #KUJvdoPQQ $en -1
 [t]prefix: [g]‘verbalizer’; turn arbitrary particle type into verb
   uakci (2022-12-10): assumes that every particle class has one sensible way of having its semantic content represented as a verb, e.g., RU → ‘▯ is the case RU ▯ is the case’, SA → ‘SA things which satisfy property ▯ satisfy property ▯’, etc. otherwise undefined
 
@@ -62139,7 +62139,7 @@ nulıpıo [(c) (d) máq sI] @seaqtaq 2019-06-01 #v3XfaYw0Y $en ±
 nulısaı [(c) (d) máq sI] @uakci 2020-05-19 #ci4SshkN_ $en ±
 [t]predicate: [g]‘butter’; ▯ is butter.
 
-nulısao @Ilmen 2020-06-05 #LRaT_cdc5 $en +2
+nulısao [(c) (d) hó sI] @Ilmen 2020-06-05 #LRaT_cdc5 $en +2
 [t]predicate: [g]‘fat’; ▯ is fat/obese.
 
 nulıse @Machy 2022-02-23 #T9PDS_AIT $en -1
@@ -66857,7 +66857,7 @@ pom @uakci 2022-12-19 #bLaA_7qIg $en ±
 pomaq @Ilmen 2020-01-30 #6O3ib5MBS $toa -1
 [t]predicate: = po máq ga ▯.
 
-pomı @Laqme 2021-10-23 #ww35SJreG $en +2
+pomı [(c) (d) tá sF] @Laqme 2021-10-23 #ww35SJreG $en +2
 [t]predicate: [g]‘of that called’; object incorporating+name verb: ‘of that called’; turns following phrase X into verb: ▯ is of that which is called X.
   robintown (2021-10-23): Useful for avoiding the pileup of terminators in pỏ mí … ga ga, though it would be nice to know what quantifier "that which" is meant to represent
   Laqme (2021-10-23): I think it's **ke**
@@ -88088,6 +88088,9 @@ tuqsıe @jiqci 2023-07-31 #GzDGRbFXqn $pl ± %mathematics,sequences
 
 tuqsıelaıme @seaqtaq 2019-01-08 #H8qnsWBZD $en -1
 [t]predicate: (fork of #pifwTswbn) ▯ is an ending
+
+tuqsomsaı @malu 2026-10-26 #EHIbNTZ1w $en ±
+▯ is a panacea, cure-all.
 
 tuqsuao @seaqtaq 2019-12-15 #el2HQZ_Fw $en ±
 [t]predicate: [g]‘unique’; ▯ is unique (among ▯)
