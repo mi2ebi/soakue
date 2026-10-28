@@ -107,9 +107,9 @@ frame:
                1.13   169 _C2_ma
   2ii          2.62    11 itself
                2.58    21 _RAKU_LAST_taq
-               1.65     1 _RAKU_LAST2_shı_taq
-               1.65     1 _BOUND_AFTER_BI_with_itself
                1.65     1 _GLOSS_itself
+               1.65     1 _BOUND_AFTER_BI_with_itself
+               1.65     1 _RAKU_LAST2_shı_taq
                1.65     6 _GLOSS_each
                1.64    25 each
                1.60     2 _BOUND_AFTER_2_itself
@@ -153,8 +153,8 @@ frame:
                1.10   307 _BOUND_BEFORE_3_▯
                1.10     8 _BOUND_BEFORE_4_from
                1.09    37 _BOUND_BEFORE_1_relation
-               1.08     2 adjacent
                1.08     2 _RAKU_LAST_leaq
+               1.08     2 adjacent
   c            1.39  6789 _BIAS
                1.17  4997 _ARITY_1
                0.95  4749 _KNOWN_DISTRIBUTION_d
@@ -177,11 +177,11 @@ frame:
                1.20    15 good
                1.12     4 proposition
                1.12    30 it
-               1.10     1 _BOUND_AFTER_BI_is_slow
+               1.10     1 _GLOSS_slow
   1x           2.95    11 property
                1.94   103 _KNOWN_SUBJECT_sP
-               1.84     4 _BOUND_BEFORE_1_property
                1.84     4 _BOUND_BEFORE_ANYDIST_property
+               1.84     4 _BOUND_BEFORE_1_property
                1.62     1 _RAKU_LAST2_ıq_ma
                1.62     3 _C3_ıqm
                1.61     4 _RAKU_LAST_ma
@@ -189,8 +189,8 @@ frame:
                1.58    56 _C2_qm
                1.49   148 _C2_ma
   c            0.53  3981 _KNOWN_SUBJECT_sI
-               0.29  4997 _BIAS
                0.29  4997 _ARITY_1
+               0.29  4997 _BIAS
                0.28   688 _KNOWN_SUBJECT_sF
                0.27   997 _KNOWN_PRONOUN_hó
                0.21  4997 ▯
@@ -235,8 +235,8 @@ frame:
                1.41     8 _RAKU_LAST_taq
                1.20    11 _C3_taq
                1.06    82 _C2_ta
-               0.97     1 _GLOSS_self
                0.97     1 _BOUND_BEFORE_BI_by_property
+               0.97     1 _GLOSS_self
                0.97     2 _BOUND_BEFORE_ANYDIST_itself
                0.97     2 _BOUND_BEFORE_3_itself
                0.95     5 related
@@ -258,9 +258,9 @@ frame:
                0.94    48 be
                0.91   240 _KNOWN_SUBJECT_sF
                0.84    13 _BOUND_BEFORE_BI_in_relation
-               0.84     1 _RAKU_FIRST_kıu
-               0.84     1 _BOUND_AFTER_ANYDIST_able
                0.84     1 _BOUND_AFTER_1_able
+               0.84     1 _BOUND_AFTER_ANYDIST_able
+               0.84     1 _RAKU_FIRST_kıu
   2xx          1.33    24 relation
                1.08    35 are
                0.95    22 _BOUND_BEFORE_1_relation
@@ -270,7 +270,7 @@ frame:
                0.73    21 _C3_heo
                0.72     2 two
                0.72     2 _BOUND_BEFORE_ANYDIST_relationship
-               0.72     2 relationship
+               0.72     2 _BOUND_BEFORE_1_relationship
   c            0.98  1549 _ARITY_2
                0.98  1549 _BIAS
                0.65  1549 ▯
@@ -305,8 +305,8 @@ frame:
                0.56    17 _TAG_action
                0.55     5 _TAG_communication
   1j           0.63   162 _KNOWN_PRONOUN_hó
-               0.59     6 _BOUND_BEFORE_1_do
                0.59     6 _BOUND_BEFORE_ANYDIST_do
+               0.59     6 _BOUND_BEFORE_1_do
                0.59     6 _BOUND_BEFORE_BI_to_do
                0.55   126 _KNOWN_SUBJECT_sA
                0.55    99 _BOUND_BEFORE_1_property
@@ -325,8 +325,8 @@ frame:
                0.55    25 _C2_eo
                0.54     6 or
   2ij          1.42    16 relation
-               1.37    15 _BOUND_BEFORE_ANYDIST_relation
                1.37    15 _BOUND_BEFORE_1_relation
+               1.37    15 _BOUND_BEFORE_ANYDIST_relation
                0.68     5 _C2_ot
                0.60    12 _C2_tu
                0.59     2 _C3_otu
@@ -428,8 +428,8 @@ subject:
                1.43     6 works
                1.36    45 _KNOWN_DISTRIBUTION_nd
                1.35    15 _RAKU_LAST_koı
-               1.34     1 _GLOSS_avoid
                1.34     1 evades
+               1.34     1 _GLOSS_avoid
   sE           3.73    28 event
                2.84  1515 _KNOWN_PRONOUN_hóq
                2.58    45 happens
