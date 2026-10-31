@@ -3476,7 +3476,7 @@ beqzebeq @Ilmen 2026-04-17 #osZQEgPDM $en ±
 beqzeq @jiqci 2023-01-17 #iSUzKK2IP $en ±
 [t]predicate: ▯ is benzene.
 
-Berabaqzu @mimiaoganhaqpy 2023-03-20 #hKUMWJuXq $en ±
+Berabaqzu @mimiaoganhaqpy 2023-03-20 #hKUMWJuXq $en -1
 [t]predicate: ▯ is Eberban (a logical language).
 
 Bereoropa @kazoo 2025-05-02 #7FTPpOPZf $en ±
@@ -77572,6 +77572,12 @@ suaıseao @Laqme 2023-07-18 #aufoQ83mf $en ±
 suaısıumoı @Xylochoron 2019-03-30 #sGzuslwfw $en ±
 [t]predicate: [g]‘intuit’; ▯ intuits ▯
 
+suaısoı [(c c) (d d) hó sI] @Laqme 2026-10-30 #JJPvIeou5 $en ±
+[t]predicate: [g]‘race’; ▯ races against ▯.
+
+suaısoıchao [(c) (d) máq sI] @Laqme 2026-10-30 #b9MDtV6Wq $en ±
+[t]predicate: [g]‘racecar’; ▯ is a racecar.
+
 suaısua @Ilmen 2019-04-17 #pwcjSptaZ $en ±
 [t]predicate: [g]‘urgent’; It is urgent that ▯ be the case for ▯ to be the case.
 
@@ -81366,6 +81372,10 @@ shojunao @uakci 2022-05-23 #BE4wsjQfo $en ±
 
 shom [(c) (d) máq sI] @Laqme 2022-12-13 #pjCiKA-J7 $en +2
 [t]predicate: [g]‘face’; ▯ is a face.
+
+shombao [(c) (d) hó sI] @Laqme 2026-10-30 #AEzlcU63f $en ±
+[t]predicate: [g]‘pale’; ▯ is pale in the face.
+  Dembim (2026-10-30): Do you have a particular object of comparison in mind? E.g. is this as compared to their usual complexion, compared to others, etc, or is that contextually supplied?
 
 shomdapa @Ilmen 2025-10-23 #32FpsH8eo $en ±
 [t]predicate: ▯ facepalms.
@@ -99891,7 +99901,7 @@ zue jearıaq @robintown 2022-06-28 #RZ5_jZ8Nk $en ±
 ⚠ berılysaı @elements 2020-02-26 #lEYrkr_6H $en -1
 [t]predicate: ▯ is beryllium (element 4)
 
-⚠ beryzu [(c) (d) hóq sI] @uakci 2021-09-27 #ig2HGUIfi $en ±
+⚠ beryzu [(c) (d) hóq sI] @uakci 2021-09-27 #ig2HGUIfi $en -1
 [t]predicate: [g]‘eberban’; ▯ is eberban (a logical language).
 
 ⚠ bıgosy @Hoemai 2020-02-09 #XezqKwGN9 $en -1
