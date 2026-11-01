@@ -51734,15 +51734,16 @@ maohuaq @Machy 2022-01-23 #vtNOAmajC $en ±
 maoja [(c) (d) máq sI] @official 2026-10-29 #IhV-3yVTcVA $en ± %lifeform,plant,fruit
 [t]predicate: [g]‘banana’; ▯ is a banana.
 
-⚠ maoja @oldofficial 2019-05-05 #av_HGWpfnP $en ± %lifeform,plant,fruit
-[t]predicate: [g]‘banana’; ▯ is a banana.
-  Laqme (2024-09-10): Maybe from Arabic مَوْزَة mawza?
-
 maoja @jiqci 2023-07-31 #tW_LDYD_JA $pl ± %lifeform,plant,fruit
 [t]predicate: ▯ to banan.
 
 maoja @kazoo 2024-11-24 #0O66haHPI $tr ± %lifeform,plant,fruit
 [t]predicate: ▯ muzdur.
+
+⚠ maoja @oldofficial 2019-05-05 #av_HGWpfnP $en -1 %lifeform,plant,fruit
+[t]predicate: [g]‘banana’; ▯ is a banana.
+  Laqme (2024-09-10): Maybe from Arabic مَوْزَة mawza?
+  tcima (2026-10-31): ← Arabic mawza. originally a southern dialect word, hence the -j- (southern Toaq has -j- for northern Toaq -z-). the northern dialect word was **banana**, but bananas were not as common in northern Toaqgua, so the word fell out of use in favor of the southern **maoja**.
 
 maoja @seaqtaq 2023-01-27 #JG6kiGnem $en -1 %lifeform,plant,fruit
 [t]predicate: ▯ , too, feels detached/dissociated/distant /insentient.
@@ -52682,7 +52683,7 @@ mem @uakci 2022-12-28 #VFBgY4zY0 $en +1
 memaı @lassc 2025-04-07 #jFZHuECEN $en ±
 [t]predicate: ▯ is well-liked/beloved/widely cherished.
 
-meme @uakci 2020-01-27 #rwACRo8V1 $en +1
+meme [(c) (d) hóq sI] @uakci 2020-01-27 #rwACRo8V1 $en +1
 [t]predicate: [g]‘meme’; ▯ is a meme.
   lassc (2025-04-02): +1 because acting as if its etymology is **me** + **me** is true and beautiful
 
@@ -52691,7 +52692,7 @@ meme @fagri 2023-11-04 #4zvKdy42n $en ±
   fagri (2023-11-04): Use with «kûq» to say what the person murmurs
   fagri (2023-11-04): Etymology: calque of English "murmur" and onomatoeia
 
-memea @Ilmen 2019-01-24 #emKalshTP $en ± %mathematics,sets
+memea [(c c) (d d) tá sF] @Ilmen 2019-01-24 #emKalshTP $en ± %mathematics,sets
 [t]predicate: [g]‘member of’; ▯ is a member of the set ▯.
 
 memea @Ilmen 2020-01-25 #5Vg4pJi76 $toa -1 %mathematics,sets
@@ -55719,6 +55720,9 @@ muaqlua @seaqtaq 2019-05-30 #eihEUnSfu $en ±
 
 muaqmajı @Vinterfred 2023-11-26 #BtiU67mMV $en ±
 [t]predicate: ▯ does/performs necromancy
+
+muaqmeaq [(c) (d) máq sI] @Laqme 2026-10-31 #0YlM5VWt_ $en ±
+[t]predicate: [g]‘shipwreck’; ▯ is a shipwreck.
 
 muaqmeo [(c c) (d d) hó sI] @Hoemai 2019-03-31 #4rB5ng-Qd $en +1
 [t]predicate: [g]‘mourn’; ▯ mourns/grieves over the death of ▯.
@@ -81376,6 +81380,7 @@ shom [(c) (d) máq sI] @Laqme 2022-12-13 #pjCiKA-J7 $en +2
 shombao [(c) (d) hó sI] @Laqme 2026-10-30 #AEzlcU63f $en ±
 [t]predicate: [g]‘pale’; ▯ is pale in the face.
   Dembim (2026-10-30): Do you have a particular object of comparison in mind? E.g. is this as compared to their usual complexion, compared to others, etc, or is that contextually supplied?
+  Laqme (2026-10-31): that's up to context!
 
 shomdapa @Ilmen 2025-10-23 #32FpsH8eo $en ±
 [t]predicate: ▯ facepalms.
