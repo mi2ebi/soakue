@@ -5239,7 +5239,7 @@ boqloq @seaqtaq 2024-08-08 #xdw9IBz4u $en ±
 boqmıaq @uakci 2023-05-25 #qymX9JDFC $en ±
 [t]predicate: ▯ is unrealized/squandered value in ▯.
 
-boqnua @Laqme 2025-01-21 #PGKrIoTC6 $en ±
+boqnua [(c c) (d d) hó sA] @Laqme 2025-01-21 #PGKrIoTC6 $en ±
 [t]predicate: [g]‘unleash’; ▯ unleashes / unfetters / unshackles / unchains / sets ▯ free.
 
 boqnhoa @Dembim 2026-03-05 #StkTe4_P0 $en ±
@@ -9919,12 +9919,12 @@ cuoısuım @Laqme 2023-07-19 #8TWNZGar5 $en ±
 cuoısuq @Ilmen 2022-08-19 #uYiccFjYX $en ±
 [t]predicate: [g]‘you relate’; You are, with ▯, in relation ▯.
 
-cuoıshı @uakci 2022-11-30 #r3O9JsEke $en ±
-[t]predicate: [g]‘exactly one with all’; Exactly one among ▯ that satisfies with every one among ▯ relation ▯.
-  uakci (2022-11-30): injective, one-to-one. quantifier order is messed up here in the english, but little can be done about it
-
 cuoıshı @uakci 2022-11-30 #7kMPgbCvj $toa ±
 mu shıcuoı
+
+cuoıshı @uakci 2022-11-30 #r3O9JsEke $en -1
+[t]predicate: [g]‘exactly one with all’; Exactly one among ▯ that satisfies with every one among ▯ relation ▯.
+  uakci (2022-11-30): injective, one-to-one. quantifier order is messed up here in the english, but little can be done about it
 
 ⚠ cuokeo @Ilmen 2020-02-25 #iAbe96NEt $en ±
 [t]predicate: [g]‘real’; ▯ is real/actual; ▯ really/actually satisfies property ▯ (insinuating a contrast with norms or assumptions).
@@ -10018,7 +10018,7 @@ cutaq @uakci 2020-02-29 #z5Y9r1zkl $en +1 %logic
 cutaq @Ilmen 2020-01-25 #5Xdm5oXPL $toa -1 %logic
 [t]predicate: = [XX3] ▯ cu hoı ▯ pa deı ▯.
 
-cutua @uakci 2022-08-29 #TIkJ4UVz2 $en ±
+cutua @uakci 2022-08-29 #TIkJ4UVz2 $en -1
 [t]predicate: [g]‘inner relation’; ▯ satisfies with ▯ the inner relation induced by ternary predicate ▯.
   uakci (2022-08-29): **tu sảqja tu shỉnhy tu gủnhy tu sảqnhy, shè dêı sáqja shínhy gúnhy sáqnhy bı, tủa ra cả shínhy cûtua gúnhy sáqnhy sáqja**
 
@@ -10672,7 +10672,7 @@ cheaqgı @Ilmen 2018-09-26 #RdT14OD97 $en ±
 cheaqhuı @Laqme 2024-04-29 #LB2RuuE55 $en ±
 [t]predicate: ▯ is untrustworthy / unreliable.
 
-cheaqja @Laqme 2023-12-30 #llaYdi2lG $en ±
+cheaqja [(c c 1j) (d d d) tá sI] @Laqme 2023-12-30 #llaYdi2lG $en ±
 [t]predicate: [g]‘rely on’; ▯ trusts / relies on ▯ to satisfy property ▯.
 
 cheaqjıe @seaqtaq 2024-11-04 #78dYWuefC $en ±
@@ -14824,7 +14824,7 @@ daomıeq @fagri 2021-12-14 #sqh8ueFyG $en ±
 daone [(c c) (d d) hóq sI] @seaqtaq 2019-01-01 #8ZwPS5PXk $en ±
 [t]predicate: [g]‘filesize’; ▯ is the size of file/cache/folder ▯
 
-daonoa @uakci 2020-02-08 #xqHQlXCCu $en ±
+daonoa @uakci 2020-02-08 #xqHQlXCCu $en -1
 [t]predicate: [g]‘disorganized’; ▯ is disorganized (disorganised) in aspect ▯; It is hard to remember or reason about how ▯ satisfies property ▯.
   uakci (2020-02-08): to be of high entropy
 
@@ -25442,9 +25442,6 @@ goanuı @Laqme 2018-12-08 #z87kRErOM $en ±
 goanhe @seaqtaq 2024-07-17 #nwKh9TueR $en ±
 [t]predicate: ▯ has volume ▯
 
-goao @Ilmen 2020-06-19 #DU4Dm6cX8 $en ±
-[t]predicate: [g]‘related to’; [PO] ▯ is in relation ▯ with [complement].
-
 goape @seaqtaq 2024-07-07 #wj99L_VLl $en ±
 [t]predicate: [g]‘wide scale’; ▯ occurs on a ▯-wide scale
   seaqtaq (2024-07-07): "Hạodoe téqfuaı jıbo gôape báq doaq"="My company operates city-wide"
@@ -28824,8 +28821,9 @@ hea @jiqci 2023-07-31 #0xbMeeT3F4 $pl ±
 headache [(c) (d) hó sI] @uakci 2024-08-26 #D2L6gYCRh $en +2
 [t]predicate: [g]‘bikesheds’; ▯ bikesheds/splits hairs.
 
-heam @seaqtaq 2024-10-14 #X5VYhmjTr $en +1
+heam [(c) (d) tá sF] @seaqtaq 2024-10-14 #X5VYhmjTr $en +2
 [t]predicate: [g]‘moral’; ▯ is moral/decent/respectable/modest
+  evie (2026-11-03): opp **nhuoı**
 
 heamjıe @seaqtaq 2024-11-05 #b_Yc6akn0 $en ±
 [t]predicate: ▯ finds ▯ to be proper/decent; ▯ approves of ▯
@@ -30633,7 +30631,7 @@ hıra [(c 1i) (d d) tá sF] @robintown 2022-07-02 #ervWcwhoc $en +2
 hıra @robintown 2022-08-10 #slxrypQQd $toa ±
 [t]predicate: Cuoı ▯ ▯ lâ ja ko shı ja ko gu bı ıq kó shı kó gu na keoru bu dua jí îq hı raı kó gu.
 
-hıraı @Ilmen 2019-09-17 #aG85AWGKHCF $en ±
+hıraı [(c) (d) tá sF] @Ilmen 2019-09-17 #aG85AWGKHCF $en -1
 [t]predicate: [g]‘is what?’; ▯ is/does what?
 
 hıraıchua @uakci 2019-05-01 #9oA6I498p $en ±
@@ -31952,7 +31950,7 @@ huaqloı [(c c 1j) (d d d) hó sI] @uakci 2019-01-24 #uA4HLjJh4 $en +1
   uakci (2019-01-24): jealous of*
   Laqme (2019-01-25): +1 nice word :)
 
-huaqme @Ilmen 2019-09-19 #ouLwh211d $en ± %mathematics,sequences
+huaqme @Ilmen 2019-09-19 #ouLwh211d $en -1 %mathematics,sequences
 [t]predicate: [g]‘ranking’; The sequence ▯ is one of the possible results of sorting the things ▯ according to how much they satisfy property ▯, in decreasing order.
 
 huaqmea @seaqtaq 2019-01-29 #-cyCH-uCO $en ±
@@ -32085,6 +32083,7 @@ huhu @lassc 2022-12-07 #AYK-9dzvS $en +1
 
 huı [(c) (d) tá sF] @official 2026-10-29 #DucJXhOhMTT1 $en ± %subjective_property
 [t]predicate: [g]‘bad’; ▯ is bad.
+  tcima (2026-11-02): possibly ← Mandarin 壞 huài or Portuguese ruim
 
 huı @Laqme 2021-10-04 #FOE_5Pkrt $ja ± %subjective_property
 [t]predicate: ▯は悪い
@@ -32886,12 +32885,6 @@ hushue @Laqme 2025-03-25 #THzIpUT5r $en ±
 
 ıa @el 2022-11-30 #9_ZcwhXHj $toa -1
 [Ja raı] bı ıq hâo ráı cy [ja shıja]
-
-ıa @el 2022-11-30 #gdBG3hDWe $en -1
-[t]predicate: Some t5-clause involving ▯, satisfies ▯/1
-  el (2022-11-30): idiomatic toaq is to use pó for this (or more accurately {tu'a}), but that doesn't play nicely in serials
-  el (2022-11-30): convenience in serials is also why this is not a PO
-  el (2022-11-30): ıa X Y ≈ ıq vêrb ... X ... cy Y, with some (left to context) verb and other arguments
 
 ıa @el 2022-11-30 #4BqIGiL1r $jbo -1
 bo'a jai ckaji bo'e
@@ -39254,7 +39247,7 @@ junajuao @seaqtaq 2024-10-18 #yLlS9N2SS $en ±
 junajuı [(0) (d) hóq sP] @Ilmen 2024-10-25 #qDsGdM09S $en ±
 [t]predicate: [g]‘almost’; ▯ is almost the case.
 
-junakoe @Neaqbua 2024-10-04 #j1a1Hq0LD $en ±
+junakoe [(c 0) (d d) hó sI] @Neaqbua 2024-10-04 #j1a1Hq0LD $en +1
 [t]predicate: [g]‘pretend’; ▯ pretends / makes believe that ▯ is the case
 
 junama @Ilmen 2025-12-04 #86gujhs2- $en ± %logic
@@ -39760,6 +39753,9 @@ juze @TheAndSys 2025-03-19 #QSednuIlj $en +1
 [t]predicate: [g]‘for’; ▯ is done for ▯
   TheAndSys (2025-03-19): at their request/for their sake/in their name/etc
 
+juzenı @TheAndSys 2026-11-03 #Cd9ciwGvi $en ±
+▯ is a dedication (section of a publication for the expression of friendly connection or thanks by the author towards other people.)
+
 juzuzeo @el 2022-06-11 #mcfpabZFN $en ±
 [t]predicate: ▯ is a yuzu (Citrus junos), an East Asian citrus
 
@@ -39953,9 +39949,6 @@ kagajeq @uakci 2022-08-09 #3VqGQ9-tW $en ±
 
 kagakoı @jiqci 2024-06-28 #2eiqSEP83 $en ±
 [t]predicate: [g]‘among the least’; ▯ is one of those that satisfy property ▯ the least.
-
-kagame @uakci 2022-08-05 #xjVrAqn-8 $en ±
-[t]predicate: [g]‘mass’; ▯ is a mass/group/aggregate of ▯ governed by the following law: it satisfies any property P just in case most of its members satisfy P.
 
 kagaq @kazoo 2024-12-07 #4IKx-KxmB $en ±
 [t]predicate: ▯ is a Khan/Khagan/Han
@@ -41877,7 +41870,7 @@ kejeo @Ilmen 2019-06-18 #5jda4-R-4 $en ±
 kejeo @Ilmen 2020-01-26 #WtAWlbz_2 $toa -1
 [t]predicate: = [X1] jeo ▯ lú jeo hóa ▯.
 
-keke @uakci 2020-04-07 #xxola_hXo $en ±
+keke @uakci 2020-04-07 #xxola_hXo $en -1
 [t]predicate: [g]‘these’; ▯ is the combination of things I have in mind that satisfies relation ▯.
 
 kekeoı @Laqme 2023-12-11 #WSvkD8Zap $en ±
@@ -43279,7 +43272,7 @@ kıqsıeme @Laqme 2020-01-10 #pzSE-ZGxY $en ±
 kıqsıemea [(c c) (d d) hóq sI] @Laqme 2020-01-10 #lfgslktqz $en ±
 [t]predicate: [g]‘episode’; ▯ is an episode of series ▯.
 
-kıqtao @uakci 2020-05-16 #y7RPSvau_ $en ±
+kıqtao [(c 0) (d d) hó sA] @uakci 2020-05-16 #y7RPSvau_ $en +1
 [t]predicate: [g]‘film’; ▯ films (state of affairs) ▯.
 
 kıqtıaı @Laqme 2024-09-18 #uY0v0otTc $en ±
@@ -43443,10 +43436,6 @@ ko- @robintown 2022-12-10 #nY8ziX1nT $en ±
 [g]‘nth in sequence’; turns a natural number N into the verb "▯ is Nth in sequence ▯."
   robintown (2022-12-10): ordinal
 
-ko @xorxes 2021-09-05 #_s7CDnVtp $en +1
-[t]predicate: [g]‘nth’; ▯ is the last of those satisfying number property ▯, who are the first to do so.
-  xorxes (2021-09-05): **ko cı sha tı nı jí da** 'I am the sixth to arrive here.'
-
 ko @uakci 2023-01-02 #6QH-Y-UcS $en +1
 [t]predicate: [g]‘nth’; ▯ is ▯-th among ▯.
 
@@ -43457,6 +43446,10 @@ ko @uakci 2019-01-27 #nYd6qptxZ $toa ±
 bu huaq puı dósaq dógu, na ru jèojeq shî dósaq pa, soq dóshı dójo dógu, na ru jèojeq bû puq dósaq na sa dó lı shı sa túq lu bu jeojeq mêa hóa ja ráı na mêa hóa dósaq bı, ko dóshı sa lú dóheo hoa bı soq go dójo cu dógu fı sa lú tuq hóa lú bu jeojeq mêa hóa dóheo na mêa hóa dógu ceı ceı ceı dó dójo da
   uakci (2019-01-27): +1
   uakci (2019-01-27): soq(S, x2, x4); if(shi(x3)) x1 = S; else ko(x1, x2 \ S, x3 - 1, x4)
+
+ko @xorxes 2021-09-05 #_s7CDnVtp $en ±
+[t]predicate: [g]‘nth’; ▯ is the last of those satisfying number property ▯, who are the first to do so.
+  xorxes (2021-09-05): **ko cı sha tı nı jí da** 'I am the sixth to arrive here.'
 
 ko @Ilmen 2019-01-30 #14uIYEUYz $toa -1
 = [XX12] Mea dóshı dógu na ru sa dosaq dógu sa dǒjo hóa dóshı.
@@ -43828,7 +43821,7 @@ koecem @Laqme 2025-02-10 #vR-Wws7fZ $en ±
 koechuaq @seaqtaq 2019-05-28 #n5yMBp5c4 $en ±
 [t]predicate: [g]‘existentialism’; ▯ is existentialism
 
-koedeoqcheo @Ilmen 2023-01-14 #fhtMnlN8c $en ±
+koedeoqcheo [(c c 1x) (n n d) tá sI] @Ilmen 2023-01-14 #fhtMnlN8c $en ±
 [t]predicate: [g]‘deliberate’; ▯ are deliberating on which of the different options ▯ will satisfy property ▯.
 
 koedeq @lassc 2025-03-20 #BNnDudx4O $en ±
@@ -43969,9 +43962,6 @@ kogekı @nano 2024-09-23 #euBUioc0c $en -1
 [t]predicate: ▯ is a harassment/attack (Puyo Puyo).
   nano (2024-09-23):  攻撃
   Ilmen (2026-07-23): It's better to frame it as ⟪▯ harasses or attack ▯⟫ and do the event noun with ⟪ë⟫.
-
-kogıq @Ilmen 2019-01-05 #c9M4vMgVl $en -1
-[t]predicate: __ is the x-th to last among ▯ where x is the number ▯, when sorted by property ▯.
 
 kogıq @Ilmen 2019-01-05 #x2AfizkSb $en -1
 [t]predicate: ▯ is the x-th to last among ▯ where x is the number ▯, when sorted by property ▯.
@@ -44231,7 +44221,7 @@ konı [(c) (d) hó sI] @Ilmen 2018-10-20 #jP2ZpQt9H $en +1 %lifeform,animal,vert
 [t]predicate: [g]‘European rabbit’; ▯ is a European rabbit (Oryctolagus cuniculus).
   Ilmen (2019-03-24): +1
 
-konıaq @Laqme 2019-02-08 #R6OdrL6Fi $en ±
+konıaq @Laqme 2019-02-08 #R6OdrL6Fi $en -1
 [t]predicate: [g]‘year’; ▯ is year ▯/n.
   Laqme (2019-02-08): In lengthier terms: “▯ is the year n, where n is the cardinality of something satisfying property ▯.” So «kónīaq gủbīqhēınēı» is “the year 2019 (of some implicit era or calendar)”.
   Laqme (2019-02-08): In practice, this implicit era or calendar will often be the “Common Era” starting at 1 CE, but I didn't really want to encode this baggage in the predicate. I think something like #kogīqnīaq would be nice for years before the implicit epoch, say “year n BCE”.
@@ -44441,7 +44431,7 @@ Kotıbuare @countries 2026-10-29 #QBMPnafE1D6 $en ±
 Kotıbuaregua @countries 2026-10-29 #1KwF5MQlwDK $en ±
 ▯ is the country Côte d'Ivoire → Ivory Coast.
 
-kotua @uakci 2019-07-11 #Ek6SoPrA6 $en ±
+kotua @uakci 2019-07-11 #Ek6SoPrA6 $en -1
 [t]predicate: [g]‘sort’; ▯ sorts/arranges set ▯ by property ▯.
   uakci (2019-07-11): ‘set’ not in the literal meaning of the word – just hinting at its unorderedness
   uakci (2019-07-11): (not in the mathematical sense)
@@ -44716,7 +44706,7 @@ kuaqgı @Ilmen 2019-04-09 #t4knflvkD $en ±
 kuaqgıq @xorxes 2020-06-05 #53Bi3p5iC $en ±
 [t]predicate: [g]‘repress’; ▯ represses/hides/suppresses property ▯.
 
-kuaqhuı @Ilmen 2020-04-23 #4XuU8JwHk $en ±
+kuaqhuı @Ilmen 2020-04-23 #4XuU8JwHk $en -1
 [t]predicate: [g]‘deceitfully’; ▯ deceitfully/dishonestly displays property ▯ to ▯ (for deceitful purposes).
   Machy (2020-04-23): keyword: bad faith
 
@@ -44957,7 +44947,7 @@ kuepo [(c) (d) máq sI] @Hoemai 2019-03-25 #Ww_gu3C4O $en ±
 kueponao @seaqtaq 2019-07-02 #eB3lc0RCW $en ±
 [t]predicate: [g]‘vaginal discharge’; ▯ is vaginal discharge
 
-kueq [(c) (d) tá sF] @Laqme 2024-09-06 #9PjGGIJQO $en +2
+kueq [(c) (n) tá sF] @Laqme 2024-09-06 #9PjGGIJQO $en +2
 [t]predicate: [g]‘gather’; ▯ (plural) gather/come together.
 
 kueq [(c c) (n d) tá sI] @official 2026-10-29 #VTZLBJwIx-q $en ±
@@ -47413,7 +47403,7 @@ leısuoı @Laqme 2022-08-02 #U-bWyrtFV $en ±
 leıshoe @Laqme 2020-03-01 #KVcXjooq7 $en ±
 [t]predicate: [g]‘make exception’; ▯ lets/allows/permits ▯ to happen “just this time” / as an exception.
 
-leıtuq @uakci 2020-02-08 #_sJiqLuVy $en ±
+leıtuq @uakci 2020-02-08 #_sJiqLuVy $en -1
 [t]predicate: [g]‘rare group’; ▯ are a group of things such that to have one among them be in relation ▯ with Y is uncommon for Y; ▯ are a group of things, such that for each such X of which the things that X is in relation ▯ with are rare in that regard.
   Laqme (2026-10-20): what on earth does this mean
 
@@ -48045,7 +48035,7 @@ lıaq @jiqci 2023-07-31 #T8nKbXbxeQ $pl ±
 [t]predicate: [g]‘tuple’; ▯ is a ▯-tuple.
   Ilmen (2019-12-29): This predicate is about aggregates and not sets.
 
-lıaqdı @uakci 2019-04-17 #Dx9aGixmb $en ±
+lıaqdı @uakci 2019-04-17 #Dx9aGixmb $en -1
 [t]predicate: [g]‘has arity’; Predicate ▯ might take ▯ places; ▯ has as one of its arities ▯.
   uakci (2019-04-17): What’s funny is, this predicate may be used in the sixth tone: «Mảo ja ráı lìaqdī tu péı shỉ ra sỉapūı da.»
 
@@ -48424,7 +48414,7 @@ lımı @Ilmen 2019-01-26 #wJj2xRI4g $en ± %mathematics
 lımısona @jiqci 2024-12-26 #5uNplqacV $en ±
 [t]predicate: ▯ is a horocycle (in hyperbolic geometry).
 
-lımja @Laqme 2024-10-03 #xW2isSPnf $en ±
+lımja [(c c c) (d d d) hó sA] @Laqme 2024-10-03 #xW2isSPnf $en ±
 [t]predicate: [g]‘make understand’; ▯ gets ▯ to understand ▯.
   Laqme (2024-10-03): explains
 
@@ -51302,7 +51292,7 @@ maıkuaı [(c c) (d d) hó sI] @Laqme 2019-11-12 #Bjj9iRa8n $en +2
 maıkuaq @Laqme 2023-11-24 #G3Kr9XqDH $en ±
 [t]predicate: ▯ confesses their love to ▯.
 
-maıkueq [(c) (d) hó sA] @Laqme 2025-05-19 #LuYI7yI1l $en +2
+maıkueq [(c) (n) hó sA] @Laqme 2025-05-19 #LuYI7yI1l $en +2
 [t]predicate: [g]‘make love’; ▯ (plural) make love.
 
 maılaı @Laqme 2023-11-09 #N8PbkX-Pz $en ±
@@ -53515,11 +53505,11 @@ mıeqkıubu @Laqme 2024-04-26 #p61fFjxue $en ±
 mıeqkıubunhe @Laqme 2024-04-26 #TThScWvOY $en ±
 [t]predicate: [g]‘immeasurably’; ▯ is the case to an immeasurably great extent.
 
-mıeqleo @seaqtaq 2024-10-15 #hmm5AotBD $en ±
+mıeqleo @seaqtaq 2024-10-15 #hmm5AotBD $en -1
 [t]predicate: ▯ conducts experiment ▯ (property)
   seaqtaq (2024-10-15): Etymologically partially derives from latin's experiri-to try=leo
 
-mıeqleose @seaqtaq 2024-11-05 #Wf-S8QwE3 $en ±
+mıeqleose @seaqtaq 2024-11-05 #Wf-S8QwE3 $en -1
 [t]predicate: ▯ are the results of an experiment
 
 mıeqlıam [(c 0) (d d) hóq sI] @seaqtaq 2024-11-05 #QQ8NDuNCM $en ±
@@ -54122,7 +54112,7 @@ mıuheo @Laqme 2022-06-30 #Zgi4GaxTF $en ±
 mıuheoraq @Machy 2022-10-05 #LwspTwREH $en ±
 [t]predicate: [g]‘disagree’; ▯ and ▯ disagree regarding ▯.
 
-mıuheotao @salarua 2023-01-11 #HGn3c68p_ $en ±
+mıuheotao [(c c 1i) (d d d) hó sA] @salarua 2023-01-11 #HGn3c68p_ $en ±
 [t]predicate: [g]‘protest’; ▯ protests against ▯ by satisfying property ▯
 
 mıuhıa [(c) (d) tá sF] @Laqme 2023-12-05 #DO7QDYzuB $en +1
@@ -54191,7 +54181,7 @@ mıumumıa @uakci 2020-03-07 #-jXQsw1xM $en ±
 mıunoba @lassc 2022-12-05 #TltMsqrvV $en ±
 [t]predicate: [g]‘biased by belief’; ▯ is cognitively biased with regards to ▯ due to their prior beliefs/opinions.
 
-mıuq [(c 1i) (d d) hó sA] @Laqme 2022-12-17 #tDliApEBW $en +2
+mıuq [(c 1i) (d d) hó sA] @Laqme 2022-12-17 #tDliApEBW $en +3
 [t]predicate: [g]‘feign’; ▯ feigns/simulates/pretends to satisfy property ▯.
 
 mıuqche @seaqtaq 2024-11-05 #5wneHlCiC $en ±
@@ -55837,7 +55827,7 @@ muche @TheAndSys 2023-05-31 #Lru0-DeOZ $en ±
 muchoa @uakci 2020-03-01 #5_ASK1I_o $en ±
 [t]predicate: [g]‘moo’; ▯ moos; ▯ makes a moo sound.
 
-mụdıaq @seaqtaq 2024-07-30 #aOfVTJiiT $en ±
+mụdıaq [(c) (d) hóq sE] @seaqtaq 2024-07-30 #aOfVTJiiT $en +1
 [t]predicate: [g]‘irregular’; ▯ occurs at irregular intervals
 
 mụdıoq [(c) (d) tá sF] @Laqme 2023-09-15 #IcmqY1wD7 $en +1
@@ -55883,6 +55873,7 @@ mueq @uakci 2021-11-06 #lCVrHxxPF $en -1
   uakci (2021-11-06): determined through calculation, experiment, logical thought
   uakci (2021-11-06): cf. **mıeq**
   uakci (2021-11-06): oh and cf. **jıoq**. this root is a somewhat explicit conflation of the two
+  evie (2026-11-03): -1 can use **bo-** on mieq/jioq
 
 mueq @uakci 2021-11-06 #BAbmf2x00 $toa -1
 [t]predicate: ▯ bı, joı mîeq ra jıoq sa sa po bíy ky dûasha sa bíy
@@ -58407,7 +58398,7 @@ nejumochıu @Ilmen 2025-10-22 #nHtgaBYpo $en ±
 nejumozuom @Ilmen 2026-10-12 #Mt1VzF_Tp $en ±
 [t]predicate: ▯ is a RAMpocalypse.
 
-neka @Ilmen 2020-03-15 #EMxjKuSKb $en +1
+neka @Ilmen 2020-03-15 #EMxjKuSKb $en ±
 [t]predicate: [g]‘filters through’; ▯ filters through ▯.
   Ilmen (2020-03-15): Etymology: a priori.
 
@@ -60758,7 +60749,7 @@ nochuq @seaqtaq 2023-09-03 #FJVlAedaT $en ±
 nodo @uakci 2024-08-16 #IQvStsMQG $en ±
 [t]predicate: [g]‘embody’; ▯ expresses/embodies ▯ through medium ▯.
 
-nodu @uakci 2022-01-08 #rYADcXu2k $en ±
+nodu @uakci 2022-01-08 #rYADcXu2k $en -1
 [t]predicate: [g]‘seem’; ▯ seems to satisfy property ▯, as suggested by the properties it satisfies that fall under categorization relation ▯ [such as **kaq**]; ▯ seems to be ▯, judging from its ▯-ish properties.
 
 noeq @uakci 2023-01-21 #pMWjWikWJ $en +3
@@ -63038,7 +63029,7 @@ nhefaı @uakci 2022-07-29 #640WmIcK7 $en ±
 [t]predicate: ▯ happens to a normal/average extent.
   uakci (2022-07-29): = **nefaı**
 
-nheheo @el 2022-06-06 #M7VZiCaLm $en ±
+nheheo [(c c 1x) (d d d) tá sF] @el 2022-06-06 #M7VZiCaLm $en ±
 [t]predicate: [g]‘differ in extent’; ▯ and ▯ satisfy property ▯ to different extents
 
 nheheo @el 2022-09-13 #VTNJijDrm $toa -1
@@ -63432,7 +63423,7 @@ nhuemeo @seaqtaq 2025-07-22 #GVNYvt0Ur $en ±
 nhuemeobıa @seaqtaq 2025-07-22 #F_pmevchZ $en ±
 [t]predicate: ▯ has mourning sickness
 
-nhuga @kazoo 2025-04-17 #JTylEUTT_ $en ±
+nhuga @kazoo 2025-04-17 #JTylEUTT_ $en -1
 [t]predicate: [g]‘integral’; ▯ is the integral of function ▯ with respect to variable ▯.
   kazoo (2025-04-17): the range can be specified with an adjunct, possibly with tî
   kazoo (2025-10-31): keyword: antiderivative, anti-derivative
@@ -63480,11 +63471,12 @@ nhuogı [(c) (n) tá sF] @uakci 2021-11-07 #ywmrPSY6f $en ±
 [t]predicate: [g]‘ordered’; ▯ are ordered / neatly arranged.
   Ilmen (2025-10-22): keyword: tidy
 
-nhuohuı @uakci 2021-11-07 #i6uTFXt_J $en ±
+nhuohuı @uakci 2021-11-07 #i6uTFXt_J $en -1
 [t]predicate: [g]‘disorderly’; ▯ are disorderly / chaotic / messy / strung about all over the place.
 
-nhuoı @seaqtaq 2024-10-14 #__alvdk6p $en ±
+nhuoı @seaqtaq 2024-10-14 #__alvdk6p $en +2
 [t]predicate: ▯ is immoral/indecent/immodest/obscene/crude/offensive/vulgar
+  evie (2026-11-03): opp **heam**
 
 nhuoıjıe @seaqtaq 2024-11-05 #MSsUkqA4a $en ±
 [t]predicate: ▯ finds ▯ to be offensive; ▯ disapproves of ▯
@@ -65191,7 +65183,7 @@ pema @seaqtaq 2024-10-16 #5gd2Iotq4 $en ±
 pene @uakci 2022-02-08 #jX9w_AvZy $en ±
 [t]predicate: [g]‘relatively’; ▯ is relatively how much ▯ is the case for a ▯.
 
-penhe @uakci 2022-02-08 #-iVK_D227 $en ±
+penhe @uakci 2022-02-08 #-iVK_D227 $en -1
 [t]predicate: [g]‘as much as’; ▯, relatively wrt ▯, is ▯ as much the case.
 
 peo- @Laqme 2024-05-03 #IQ-qUaAWK $en +1
@@ -69514,7 +69506,7 @@ reıkı @jiqci 2025-05-06 #BPo7rVB17 $en ±
 reıkıguaq @jiqci 2025-05-06 #O54aVvC-G $en ±
 [t]predicate: ▯ is a moor / heathland.
 
-reıkueq @Laqme 2021-09-21 #_UMqsEOFe $en ±
+reıkueq [(c c) (n d) tá sF] @Laqme 2021-09-21 #_UMqsEOFe $en ±
 [t]predicate: [g]‘gather around’; ▯ gather around ▯.
 
 reıla @seaqtaq 2024-10-02 #arrXHHKhp $en ±
@@ -71297,8 +71289,10 @@ roehuı @Laqme 2022-07-01 #14l-YRxBG $en ±
 roeluoq @uakci 2023-04-25 #nelHDJkiV $en +1
 [t]predicate: [g]‘balanced with’; ▯ is homeostatically balanced with ▯.
 
-roem @seaqtaq 2024-09-30 #mKXdRVQNx $en +1
+roem @seaqtaq 2024-09-30 #mKXdRVQNx $en +2
 [t]predicate: [g]‘partial’; ▯ is partial/incomplete in aspect ▯.
+  evie (2026-11-03): ▯ partially satisfies property ▯
+  evie (2026-11-03): see also **paq-**
 
 roemoı @fagri 2021-11-05 #ytdlWizpQ $en ±
 [t]predicate: [g]‘mental workout’; ▯ exercises their mind
@@ -72458,7 +72452,7 @@ ruomu @Laqme 2020-01-11 #T8B8I8SOg $en ±
 ruonıeq @uakci 2019-04-05 #BmkS5E06g $en -1
 clumsy, awkward
 
-ruonua @uakci 2022-02-16 #9UzfNA9Jw $en ±
+ruonua @uakci 2022-02-16 #9UzfNA9Jw $en -1
 [t]predicate: [g]‘oust’; ▯ replaces/drives out/ousts/obsoletes ▯ in performing function ▯.
 
 ruoq [(c) (d) tá sI] @official 2026-10-29 #vh4BeGIkw1 $en ±
@@ -72764,9 +72758,10 @@ sabıtoa @uakci 2022-08-17 #iExuUNgt4 $en ±
   uakci (2022-08-17): **jêo sa ja**\*
   uakci (2022-08-17): this word is probably not applicable to non-"true quantifiers" like **ja** or **hı**, who knows actually
 
-sabo @uakci 2022-09-10 #9VurH0BTH $en ±
+sabo [(c 2xi) (d d) tá sF] @uakci 2022-09-10 #9VurH0BTH $en -1
 [t]predicate: [g]‘something relates’; ▯ has something satisfy relation ▯ with it.
   uakci (2022-09-10): like the “passivizer” redefinition of **bo** #94BC2ROUg, but with the second place removed; equivalent to **samu** if it meant **củoı sa [ja] [ja]**
+  evie (2026-11-02): frame: c 2xi
 
 sabu @uakci 2023-02-04 #L215KvucN $en ±
 [t]predicate: ▯ is noise/din/clamor (sound deemed insignificant or troublesome/irritating).
@@ -75033,11 +75028,11 @@ sıaotoa @uakci 2022-03-09 #gKfgJHvHT $en -1
 sıaotu @seaqtaq 2020-03-18 #V_3PQ5uel $en ±
 [t]predicate: [g]‘original’; ▯ is original
 
-sıapeı @uakci 2022-06-26 #6IFl-azzZ $en ±
+sıapeı @uakci 2022-06-26 #6IFl-azzZ $en -1
 [t]predicate: ▯ is the number zero.
   uakci (2022-06-26): contraction of **peı sỉapuı** or something
 
-sıapuı @uakci 2018-11-13 #zag3YbSj1 $en ±
+sıapuı @uakci 2018-11-13 #zag3YbSj1 $en -1
 [t]predicate: [g]‘zero’; ▯ is zero in number [by @solpahi].
 
 sıapuı @uakci 2019-01-26 #Fm3KUaNQj $toa -1
@@ -77862,7 +77857,7 @@ sueı @uakci 2022-08-11 #yRxC9ujl_ $en ±
 sueıguıq [(c c) (d d) hó sA] @jiqci 2024-06-28 #uk3PeGgpw $en ±
 [t]predicate: [g]‘get things done’; ▯ gets things ▯ done / handled / taken care of.
 
-suejaq @Ilmen 2019-04-06 #1Rzy91X7G $en ± %action,communication
+suejaq [(c c 1j) (d d d) hó sA] @Ilmen 2019-04-06 #1Rzy91X7G $en ± %action,communication
 [t]predicate: [g]‘exhort’; ▯ exhorts ▯ to satisfy property ▯.
 
 suejeo @uakci 2020-05-16 #BG6_H8mOW $en ±
@@ -78993,7 +78988,7 @@ shaogı @jiqci 2023-07-31 #kE79kGt79z $pl ±
 shaogıq @robintown 2023-11-10 #09kHs2x5d $en ±
 [t]predicate: ▯ goes against the wishes/desires of ▯.
 
-shaoha @uakci 2019-05-20 #wqasxrkoJ $en +1
+shaoha [(0) (d) hóq sP] @uakci 2019-05-20 #wqasxrkoJ $en +1
 [t]predicate: [g]‘desirably’; ▯ is as one would want it; One would want ▯ to be the case; Desirably, ▯.
   Ilmen (2019-05-20): +1
 
@@ -80078,7 +80073,7 @@ shıcuoı @uakci 2022-11-30 #wZcI3e0Ow $en ±
 shıcuoı @uakci 2022-11-30 #eFuBvlz05 $toa ±
 tu shı mea [ja] bı, shı tutuq mea [ja] ga cüoı zé hóa [ja guja]
 
-shıcuoıshı @uakci 2022-11-30 #-yDO_GK1I $en ±
+shıcuoıshı @uakci 2022-11-30 #-yDO_GK1I $en -1
 [t]predicate: [g]‘one to one’; Each one among ▯ has exactly one among ▯ satisfying relation ▯ with it, and vice versa.
   uakci (2022-11-30): bijective, one-to-one correspondence
 
@@ -80348,9 +80343,6 @@ shıko @el 2022-07-10 #cm3z5utcn $tok ± %⚠,ordinality
 shıko @jiqci 2023-07-31 #N4W4FEduQJ $pl ± %⚠,ordinality
 [t]predicate: ▯ jest pierwszy spośród ▯.
 
-shıko @Ilmen 2020-06-04 #qNHfVdkCy $en -1 %⚠,ordinality
-[t]predicate: ▯ is first among ▯ sorted by property ▯.
-
 shıkoe @uakci 2020-05-15 #tUVvXNzy6 $en ±
 [t]predicate: [g]‘only choice’; ▯ has only got ▯ to choose from to be in relation ▯ with; Chooser ▯, thing ▯, and relation ▯ are such that it is only the thing which the chooser can choose to be in said relation with.
 
@@ -80470,7 +80462,7 @@ shıolı @jiqci 2023-11-30 #Ecl-oIqvk $en ±
 shıolıtıuq @jiqci 2023-11-30 #iI7Lz9ij5 $en ±
 [t]predicate: ▯ is rhamnose.
 
-shıopuegao @Laqme 2019-11-12 #NRovvIBhj $en ±
+shıopuegao [(c) (d) máq sI] @Laqme 2019-11-12 #NRovvIBhj $en ±
 [t]predicate: [g]‘thigh-high socks’; ▯ are thigh-high ("near the hip") socks.
 
 shıoq [(c) (d) máq sI] @Laqme 2024-10-24 #kaQVoGOwF $en +1
@@ -83256,7 +83248,7 @@ taqtao @uakci 2020-05-18 #Pfwi5V7eC $en -1
 taqtıem @jiqci 2025-09-23 #u-Ksp6q69 $en ±
 [t]predicate: ▯ is an automorphism.
 
-taqtua @xorxes 2020-06-05 #HVz7MqodU $en +1
+taqtua [(c 1i) (d d) hó sA] @xorxes 2020-06-05 #HVz7MqodU $en +1
 [t]predicate: [g]‘make oneself’; ▯ make themselves satisfy property ▯.
 
 taqzoaı @jiqci 2024-10-05 #JJCHsJBBT $en ±
@@ -87356,9 +87348,10 @@ tuamebo @Machy 2020-06-06 #buMVUjpbI $en ±
 tuamu @uakci 2019-05-29 #DEO80VKK0 $en ±
 [t]predicate: [g]‘made to do’; ▯ is (being) made to have property ▯; They make (are making) ▯ do/be ▯.
 
-tuanoba @lassc 2022-12-05 #RvQ7MwqBo $en ±
+tuanoba [(c c 1j) (d d d) tá sF] @lassc 2022-12-05 #RvQ7MwqBo $en ±
 [t]predicate: [g]‘influence’; ▯ influences ▯ to satisfy property ▯.
   lassc (2022-12-05): implies coercion compared to **dıetaı** etc
+  evie (2026-11-02): what type is the subject?
 
 tuao- @uakci 2023-06-07 #3nGDKU1dV $en ±
 [t]prefix: [g]‘stage of’; given a verb, derive a verb that expresses: Some stage of [verb] takes place.
@@ -88219,7 +88212,7 @@ tusa @Ilmen 2021-11-11 #IbeKKBX0u $en +1 %logic
 tusa @Ilmen 2021-09-02 #NzHx_bO-N $en -1 %logic
 [t]predicate: ▯ and ▯ are such that each of the former is such that some of the latter is in relation ▯ with it, and each of the latter is in that relation with some of the former.
 
-tusashı @Ilmen 2022-10-28 #t96DN5nhw $en ± %logic
+tusashı @Ilmen 2022-10-28 #t96DN5nhw $en -1 %logic
 [t]predicate: [g]‘each exactly one’; ▯ and ▯ are such that each one of the formers is in relation ▯ with exactly one of the latters, and each one of the latters is such that exactly one of the formers is in that relation with it.
 
 tuseaq @seaqtaq 2021-08-02 #bO1nnksXj $en -1
@@ -88353,7 +88346,7 @@ ua @el 2022-07-10 #OXQ31fCCB $tok ±
 uage @uakci 2021-11-07 #TcY9BbnjY $en +1
 [t]predicate: [g]‘amazing’; ▯ is amazing/bombastic/jaw-dropping.
 
-uaıloı @seaqtaq 2024-07-26 #5UnZwz-Y3 $en ±
+uaıloı [(c 1i) (d d) hó sI] @seaqtaq 2024-07-26 #5UnZwz-Y3 $en ±
 [t]predicate: [g]‘anger’; ▯ feels anger, frustration, annoyance, irritation, indignance, or some other negative emotion upon thinking about built-in biological limitation/restriction ▯ (property) being placed upon them
   seaqtaq (2024-07-26): Close to tuaıloı on purpose, but that sounds more specific
   seaqtaq (2024-07-26): Keyword: zakaı
@@ -89893,7 +89886,7 @@ zeılaı @jiqci 2025-10-09 #Ga8K1yC0X $en ±
 zejeo @uakci 2022-02-04 #WEg0X-83V $en -1
 [t]predicate: ▯ satisfies the predicate that defines **ze**.
 
-zejı @lassc 2025-04-15 #pT-komPas $en ±
+zejı @lassc 2025-04-15 #pT-komPas $en +1
 [t]predicate: ▯ is chaotic/disorganized/disorderly/messy.
 
 zejuq @uakci 2023-02-22 #NSHdUYQsh $en ±
@@ -90076,7 +90069,7 @@ zeqde [(c) (d) tá sF] @Laqme 2025-03-14 #QM44Q6i_c $en +4
 zeqdeo [(c) (d) hó sI] @Laqme 2025-03-14 #qDEvnbx5n $en +2
 [t]predicate: [g]‘non-binary kid’; ▯ is a non-binary kid/child.
 
-zeqma @seaqtaq 2024-06-27 #8428itbKA $en ±
+zeqma [(c 1x) (d d) hóq sP] @seaqtaq 2024-06-27 #8428itbKA $en +1
 [t]predicate: [g]‘abstraction’; ▯ (property) is an abstraction/generalization of ▯ (property)
   seaqtaq (2024-06-27): Can be used to relate hypernyms to hyponyms, e.g. "zeqma lä haq ja lä shamu ja", but it has more uses than that. Can likely be rephrased using tuq and eq, but I thought having this as a lexicon entry seemed rather convenient
 
@@ -91417,22 +91410,22 @@ zuzu @evie 2025-02-22 #_y3TD0PaT $en ±
 Aımu foıge ní fafuaq. @examples 2026-10-29 #82XhAxTGiR6C $en ±
 _No_, the movie _isn't_ boring.
 
-Ano jí sá lıq ꝡë hê, ꝡä suaq hóa nä, huosı júaq jıao da. @examples 2026-10-29 #kP3gZ5wE6nL $en ±
+Ano jí sá lıq ꝡë hê, ꝡä suaq hóa nä, huosı júaq jıao da. @examples 2026-11-02 #vioOnF4lupYJ $en ±
 I love a woman who, when she sings, even the gods listen.
 
-Ano jí sá naq ꝡë hê, ꝡä suaq hóa nä, huosı júaq jıao da. @examples 2026-10-29 #2X0jWz8jlYG $en ±
+Ano jí sá naq ꝡë hê, ꝡä suaq hóa nä, huosı júaq jıao da. @examples 2026-11-02 #vmj-1MLYDIvg $en ±
 I love a man who, when he sings, even the gods listen.
 
-Ano jí súq, rá nasa jí da. @examples 2026-10-29 #tyIfK5_KUQE $en ±
+Ano jí súq, rá nasa jí da. @examples 2026-11-02 #mq3jWxLy3r- $en ±
 I love you, or I’m crazy.
 
-Ano jí súq, rı nasa jí móq? @examples 2026-10-29 #-9uB8_IoxRJ $en ±
+Ano jí súq, rı nasa jí móq? @examples 2026-11-02 #vy3vRlsRSDy $en ±
 Do I love you, or am I crazy?
 
-Ano jí súq, rú kuaı dua jí, mä ano súq jí da. @examples 2026-10-29 #0d4bt2J7xPc $en ±
+Ano jí súq, rú kuaı dua jí, mä ano súq jí da. @examples 2026-11-02 #C0n-v9ma-Sp $en ±
 I love you, and I want to know if you love me.
 
-Ano jí súq, rú kuaı luaofuo jí súq da. @examples 2026-10-29 #VzYrryljArC $en ±
+Ano jí súq, rú kuaı luaofuo jí súq da. @examples 2026-11-02 #xVdpH1yKhAB $en ±
 I love you and I want to kiss you.
 
 Ao cho súq ní lua. @examples 2026-10-29 #1ZBez6-_oNzY $en ±
@@ -91459,10 +91452,10 @@ There's a spider!
 asuım bâq toakue @Laqme 2024-05-22 #iztzrm7O9 $en ±
 [t]metaphor: [g]‘pointless work’; ▯ does meaningless or redundant work ("alphabetizes dictionaries").
 
-Bao báq peq, rú kuo báq pıo da. @examples 2026-10-29 #X2xkN8yc0Ep $en ±
+Bao báq peq, rú kuo báq pıo da. @examples 2026-11-02 #Hybmig_Gl2f $en ±
 Paper is white and stone is black.
 
-Bao péq, rú kuo pío da. @examples 2026-10-29 #xVNBhNQHlSj $en ±
+Bao péq, rú kuo pío da. @examples 2026-11-02 #hXi6EZ63UB1 $en ±
 The paper is white and the stone is black.
 
 Báq bısaq pomı Bafalo, ꝡë teasuaı hóa báq bısaq pomı Bafalo, nä, teasuaı báq bısaq pomı Bafalo hóa. @jiqci 2023-08-22 #UHM8x85Ae $en -1
@@ -91588,22 +91581,22 @@ It won't be possible for me to go with.
 Bu daı hóq da. @examples 2026-10-29 #S5N2h3SxxOz $en ±
 It is not possible.
 
-Bu daı, ꝡä shua hóe da. @examples 2026-10-29 #6lT8PUjohjc $en ±
+Bu daı, ꝡä shua hóe da. @examples 2026-11-02 #icPSdcJ2YF $en ±
 It’s not possible for the sun to fall.
 
-Bu daı, ꝡä shua míao da. @examples 2026-10-29 #6QW_5weXm6I $en ±
+Bu daı, ꝡä shua míao da. @examples 2026-11-02 #3VY0_8wVKk $en ±
 It’s not possible for the moon to fall.
 
-Bu daı, ꝡä shua púao da. @examples 2026-10-29 #lo_FQn5wp5D $en ±
+Bu daı, ꝡä shua púao da. @examples 2026-11-02 #92R36v0KW_ $en ±
 It’s not possible for the clouds to fall.
 
-Bu daı, ꝡä shua ríochao da. @examples 2026-10-29 #U0qWqaFZe_w $en ±
+Bu daı, ꝡä shua ríochao da. @examples 2026-11-02 #ZGXZdu7lij $en ±
 It’s not possible for the plane to fall.
 
-Bu daı, ꝡä shua séoq da. @examples 2026-10-29 #vCSPRpsftu5 $en ±
+Bu daı, ꝡä shua séoq da. @examples 2026-11-02 #t4pT63e7BL $en ±
 It’s not possible for the sky to fall.
 
-Bu daı, ꝡä shua shúao da. @examples 2026-10-29 #dooxtP38Qd6 $en ±
+Bu daı, ꝡä shua shúao da. @examples 2026-11-02 #12xvmjxF5p $en ±
 It’s not possible for the bird to fall.
 
 Bu daqfaı taoshao fa jí da. @examples 2026-10-29 #xJm7QDW0G0aj $en ±
@@ -91633,13 +91626,13 @@ I don't know whether he prefers coffee or tea.
 Bu dua jí, ꝡä tı jáolaq jıbo hí da. @examples 2026-10-29 #VdYszB3c0VN $en ±
 I don't know where my phone is.
 
-Bu dua nháo, ꝡä jeı nháo ꝡé ano jí hóa da. @examples 2026-10-29 #7OjhM4EVK1N $en ±
+Bu dua nháo, ꝡä jeı nháo ꝡé ano jí hóa da. @examples 2026-11-02 #apQUAJM6KT-C $en ±
 They don’t know that they’re the one I love.
 
-Bu dua nháo, ꝡä jeı ꝡé ano jí hóa, nháo da @examples 2026-10-29 #TqU7-awH55j $en ±
+Bu dua nháo, ꝡä jeı ꝡé ano jí hóa, nháo da @examples 2026-11-02 #OIvB6j96LNoI $en ±
 They don’t know that they’re the one I love.
 
-Bu dua nháo, ꝡä kaqgaı jí nháo da. @examples 2026-10-29 #T_nsgMDNI2b $en ±
+Bu dua nháo, ꝡä kaqgaı jí nháo da. @examples 2026-11-02 #wNE4tfm0qOkb $en ±
 They don’t know that I can see them.
 
 bu dua sahu @robintown 2026-04-02 #V1Svfb1pi $en ±
@@ -91762,13 +91755,13 @@ Breakfast is ready.
 Bu pıe déo báq kafe ba. @examples 2026-10-29 #Ty1W7C8e2wb $en ±
 May the child not drink coffee.
 
-Bu po jí sío da. @examples 2026-10-29 #zdO8m0vO9hj $en ±
+Bu po jí sío da. @examples 2026-11-02 #ERPFBFTe2F8Y $en ±
 The idea is not mine.
 
-Bu po nháo sío da. @examples 2026-10-29 #kz9M_UXhinN $en ±
+Bu po nháo sío da. @examples 2026-11-02 #71yLhAEYlMAQ $en ±
 The idea is not theirs.
 
-Bu po súq sío da. @examples 2026-10-29 #scQCZvDafnE $en ±
+Bu po súq sío da. @examples 2026-11-02 #D4FhpXNipcri $en ±
 The idea is not yours.
 
 Bu pua jí, lä rıe já báq poq puı da. @examples 2026-10-29 #MPZG_tY0m8r $en ±
@@ -91877,16 +91870,16 @@ They are not here.
 Bu tuı súq tóqfua ba. @examples 2026-10-29 #EEU0WAw_cbo $en ±
 Don't sit on the table.
 
-Bu zao jí póq ꝡë kaqsı hóa jí da. @examples 2026-10-29 #6vqW87gL7cP $en ±
+Bu zao jí póq ꝡë kaqsı hóa jí da. @examples 2026-11-02 #ZV1N5IyJd5KT $en ±
 I don’t know the person who’s looking at me.
 
-Bu zao jí póq ꝡë kaqsı hóa súq da. @examples 2026-10-29 #h00nxj02dJC $en ±
+Bu zao jí póq ꝡë kaqsı hóa súq da. @examples 2026-11-02 #PTqGix5lriwF $en ±
 I don’t know the person who’s looking at you.
 
-Bu zao jí póq ꝡë kaqsı jí hóa da. @examples 2026-10-29 #4AT-9SlFjJB $en ±
+Bu zao jí póq ꝡë kaqsı jí hóa da. @examples 2026-11-02 #wg433_1F5bRU $en ±
 I don’t know the person I’m looking at.
 
-Bu zao jí póq ꝡë kaqsı súq hóa da. @examples 2026-10-29 #3WN433HVnmg $en ±
+Bu zao jí póq ꝡë kaqsı súq hóa da. @examples 2026-11-02 #ZaHizGnIMCDb $en ±
 I don’t know the person you’re looking at.
 
 Bu zueqja gẹ́dıao pío da, zueqja sá dıao faı pío @kazoo 2025-01-07 #CuAKwi3cR $en -1
@@ -91940,61 +91933,61 @@ cause to be small
 ca poaq @el 2022-10-26 #XGfi6Mfuy $tok ±
 [t]predicate: tan ▯ la ▯ li kama tu
 
-Ca sá puı hóq da. @examples 2026-10-29 #p-BSEArs7ul $en ±
+Ca sá puı hóq da. @examples 2026-11-02 #amHpoD9rMs $en ±
 Many things cause this.
 
-Ca tó sá bu puı hóq da. @examples 2026-10-29 #H3lUPLbji9g $en ±
+Ca tó sá bu puı hóq da. @examples 2026-11-02 #aOpf9dWqZV $en ±
 Only a few things cause this.
 
-Ca, ꝡä bu hıo súq jí, ꝡä meo jí ru ꝡä pızı jí da. @examples 2026-10-29 #pwxxOHPbuXG $en ±
+Ca, ꝡä bu hıo súq jí, ꝡä meo jí ru ꝡä pızı jí da. @examples 2026-11-02 #yxEuMqnOV7c $en ±
 You not greeting me makes me feel sad and annoyed.
 
-Ca, ꝡä bu tı jí máq, hóq da. @examples 2026-10-29 #CgdQqTHXllG $en ±
+Ca, ꝡä bu tı jí máq, hóq da. @examples 2026-11-02 #gXtE0z2QDay $en ±
 It’s because I’m not there.
 
-Ca, ꝡä chı súq ní rú kuq súq ní, ꝡä mıu moıbıa jí súq da. @examples 2026-10-29 #l6H8GljLU7t $en ±
+Ca, ꝡä chı súq ní rú kuq súq ní, ꝡä mıu moıbıa jí súq da. @examples 2026-11-02 #MPcV-Gu5U8u $en ±
 You saying this and believing this makes me think you’re mentally unwell.
 
-Ca, ꝡä chı súq ní rú kuq súq ní, ꝡä mıu moınıeq jí súq rú kuaı shaı paı jí súq da. @examples 2026-10-29 #7Is-FBEb2RK $en ±
+Ca, ꝡä chı súq ní rú kuq súq ní, ꝡä mıu moınıeq jí súq rú kuaı shaı paı jí súq da. @examples 2026-11-02 #zPFL7dyJ-Gq $en ±
 You saying this and believing this makes me think you’re an idiot and want to stop being your friend.
 
-Ca, ꝡä de káqhua nhaobo, ꝡä de nháo rú maı jí nháo da. @examples 2026-10-29 #PIIgrnC6qWp $en ±
+Ca, ꝡä de káqhua nhaobo, ꝡä de nháo rú maı jí nháo da. @examples 2026-11-02 #4E9-1rN3jEt $en ±
 Their eyes being beautiful makes them beautiful and makes me love them.
 
-Ca, ꝡä jí nháo, hóq da. @examples 2026-10-29 #YCq_cvoMLJQ $en ±
+Ca, ꝡä jí nháo, hóq da. @examples 2026-11-02 #1GNq5MAbNn $en ±
 It’s because I love them.
 
-Ca, ꝡä kaqsı jí káqhua nhaobo, ꝡä cho jí máq rú maı jí nháo da. @examples 2026-10-29 #8nCBbV0jIQe $en ±
+Ca, ꝡä kaqsı jí káqhua nhaobo, ꝡä cho jí máq rú maı jí nháo da. @examples 2026-11-02 #JAvRw4SvXnd $en ±
 Me seeing their eyes made me like their eyes and love them.
 
-Ca, ꝡä kaqsı jí nháo, ꝡä cho jí káqhua nhaobo rú maı jí nháo da. @examples 2026-10-29 #d2lZPZTGJz4 $en ±
+Ca, ꝡä kaqsı jí nháo, ꝡä cho jí káqhua nhaobo rú maı jí nháo da. @examples 2026-11-02 #G0Hya4uhJiW $en ±
 Me seeing them made me like their eyes and love them.
 
-Ca, ꝡä kuq sía, hóq da. @examples 2026-10-29 #Xz00klw_fpB $en ±
+Ca, ꝡä kuq sía, hóq da. @examples 2026-11-02 #Zsjf-8UKsB7 $en ±
 It’s because no one is talking.
 
-Ca, ꝡä kuq súq ní, ꝡä loı jí súq rú kıeqca súq jí da. @examples 2026-10-29 #KRjwDhV6Jiu $en ±
+Ca, ꝡä kuq súq ní, ꝡä loı jí súq rú kıeqca súq jí da. @examples 2026-11-02 #ffVUNz2CmKM $en ±
 You saying this makes me hate you and find you disgusting.
 
-Ca, ꝡä kuq súq ní, ꝡä meo jí rú pızı jí da. @examples 2026-10-29 #361P957nqVc $en ±
+Ca, ꝡä kuq súq ní, ꝡä meo jí rú pızı jí da. @examples 2026-11-02 #8wEhz5Q6-vS $en ±
 You saying this makes me sad and annoyed.
 
-Ca, ꝡä kuq tú, hóq da. @examples 2026-10-29 #y4ui2lBiu9S $en ±
+Ca, ꝡä kuq tú, hóq da. @examples 2026-11-02 #MvMiHfy7Stc $en ±
 It’s because everyone is talking.
 
-Ca, ꝡä maı jí súq, hóq da. @examples 2026-10-29 #YJEOp6Kgs2c $en ±
+Ca, ꝡä maı jí súq, hóq da. @examples 2026-11-02 #AYdSSmgXqC $en ±
 It’s because I love you.
 
-Ca, ꝡä paı jí nháo, hóq da. @examples 2026-10-29 #xcks2INE16t $en ±
+Ca, ꝡä paı jí nháo, hóq da. @examples 2026-11-02 #pXX93aKsf5 $en ±
 It’s because I’m their friend.
 
-Ca, ꝡä paı jí súq, hóq da. @examples 2026-10-29 #Nwctpc2-UMk $en ±
+Ca, ꝡä paı jí súq, hóq da. @examples 2026-11-02 #Bv_EFc6zLV $en ±
 It’s because I’m your friend.
 
-Ca, ꝡä suaq nháo, ꝡä chıaq de jí nháo, rú kuaı maıjıaı jí nháo da. @examples 2026-10-29 #pZpqO03iHsJ $en ±
+Ca, ꝡä suaq nháo, ꝡä chıaq de jí nháo, rú kuaı maıjıaı jí nháo da. @examples 2026-11-02 #Tga2ZEWC66s $en ±
 Their singing makes me realize they’re beautiful and want to hug them.
 
-Ca, ꝡä tı jí máq, hóq da. @examples 2026-10-29 #KU5lgrC06AD $en ±
+Ca, ꝡä tı jí máq, hóq da. @examples 2026-11-02 #GyEBHmoAYWr $en ±
 It’s because I’m there.
 
 Chaocaq jí ké teasaora da! @examples 2026-10-29 #CZYL_K7Xla2B $en ±
@@ -92048,10 +92041,10 @@ I believe six things.
 Chı jí sía paq hôq da. @examples 2026-10-29 #ofGiE98N1_4 $en ±
 I believe not one part of it.
 
-Chı jí, ꝡä ano nháo jí da. @examples 2026-10-29 #ODXBM0PYI0V $en ±
+Chı jí, ꝡä ano nháo jí da. @examples 2026-11-02 #gr7RVLU2WgoR $en ±
 I think they love me.
 
-Chı jí, ꝡä bu ano nháo jí da. @examples 2026-10-29 #kLnS-5jgHoY $en ±
+Chı jí, ꝡä bu ano nháo jí da. @examples 2026-11-02 #nbrzlNXini3d $en ±
 I don’t think they love me.
 
 Chı jí, ꝡä bu luı huogaı nháo, ꝡä kuq súq sá da. @examples 2026-10-29 #Pe5yPXFYZ-Fs $en ±
@@ -92060,46 +92053,46 @@ I think he didn't hear you say anything.
 Chı jí ꝡä cho nháo súq. @examples 2026-10-29 #4r1_VWDp4Fs1 $en ±
 I believe he likes you.
 
-Chı jí, ꝡä heomaı nháo da. @examples 2026-10-29 #vhvJK2aZnod $en ±
+Chı jí, ꝡä heomaı nháo da. @examples 2026-11-02 #pdp8MIcpq38X $en ±
 I think they’re straight.
 
 Chı jí, ꝡä heq náo sá cıe da. @examples 2026-10-29 #OgjGmaeV_3I $en ±
 I believe the water contains some fish.
 
-Chı jí, ꝡä jeqmaı nháo da. @examples 2026-10-29 #BgJZa2Ei4tt $en ±
+Chı jí, ꝡä jeqmaı nháo da. @examples 2026-11-02 #yCbB1lUSdOJU $en ±
 I think they’re gay.
 
-Chı jí, ꝡä joe suaq jí da. @examples 2026-10-29 #Bs28MTjb4b3 $en ±
+Chı jí, ꝡä joe suaq jí da. @examples 2026-11-02 #T9QD0KuJnJQz $en ±
 I think I’m good at singing.
 
-Chı jí, ꝡä kagashı ocha nä, bu dua hó, tïo de hó da. @examples 2026-10-29 #aJ_gThrGRRU $en ±
+Chı jí, ꝡä kagashı ocha nä, bu dua hó, tïo de hó da. @examples 2026-11-02 #-EmkMJ6eQlMp $en ±
 I think most humans don’t know how beautiful they are.
 
-Chı jí, ꝡä kagashı ocha nä, bu dua ócha, tïo de ócha da. @examples 2026-10-29 #3RSIIMTSCHg $en ±
+Chı jí, ꝡä kagashı ocha nä, bu dua ócha, tïo de ócha da. @examples 2026-11-02 #cu2mm_mh2HFA $en ±
 I think most humans don’t know how beautiful they are.
 
-Chı jí, ꝡä lıqmaı nháo da. @examples 2026-10-29 #W_fWJSrdLVX $en ±
+Chı jí, ꝡä lıqmaı nháo da. @examples 2026-11-02 #593SQ2MBDY3m $en ±
 I think they’re interested in women.
 
-Chı jí, ꝡä naqmaı nháo da. @examples 2026-10-29 #tWNICr9rTzh $en ±
+Chı jí, ꝡä naqmaı nháo da. @examples 2026-11-02 #vNZw7ISkVs1v $en ±
 I think they’re interested in men.
 
-Chı jí, ꝡä nıeq suaq jí da. @examples 2026-10-29 #lIasa8TLHrP $en ±
+Chı jí, ꝡä nıeq suaq jí da. @examples 2026-11-02 #LqB5P8osOCrT $en ±
 I don’t think I’m any good at singing.
 
-Chı jí, ꝡä sía ocha nä, dua hó, tïo de hó da. @examples 2026-10-29 #oYmyB-hHeEs $en ±
+Chı jí, ꝡä sía ocha nä, dua hó, tïo de hó da. @examples 2026-11-02 #pO27ZCf7ijUi $en ±
 I think no human knows how beautiful they are.
 
-Chı jí, ꝡä sía ocha nä, dua ócha, tïo de ócha da. @examples 2026-10-29 #7ozGcXNkd01 $en ±
+Chı jí, ꝡä sía ocha nä, dua ócha, tïo de ócha da. @examples 2026-11-02 #ekPZcSh_3leF $en ±
 I think no human knows how beautiful they are.
 
-Chı jí, ꝡä sı nháo ké kaqhua jıbo da. @examples 2026-10-29 #EhCckCfUEiP $en ±
+Chı jí, ꝡä sı nháo ké kaqhua jıbo da. @examples 2026-11-02 #mZ54TmQuGjqv $en ±
 I think they were paying attention to my eyes.
 
-Chı jí, ꝡä sı nháo ké muq jıbo da. @examples 2026-10-29 #uG2lKp4w5f8 $en ±
+Chı jí, ꝡä sı nháo ké muq jıbo da. @examples 2026-11-02 #NEp1DeZvK7Uw $en ±
 I think they were paying attention to my hands.
 
-Chı jí, ꝡä sı nháo ké tuaı jıbo da. @examples 2026-10-29 #ZRF7XfjAUIz $en ±
+Chı jí, ꝡä sı nháo ké tuaı jıbo da. @examples 2026-11-02 #oYLMYZ_SQm6i $en ±
 I think they were paying attention to my body.
 
 Chı mıe díaı chéq da. @examples 2026-10-29 #1x4lGmqyr0c $en ±
@@ -92117,28 +92110,28 @@ These six believed each other to be dead.
 Chı nháo, ꝡä geaq báq suhu da. @examples 2026-10-29 #9CDv8dj_igad $en ±
 They believe that pigs are dirty.
 
-Chı nháo, ꝡä jeı jí múaqtua da. @examples 2026-10-29 #1m4bksbG5MX $en ±
+Chı nháo, ꝡä jeı jí múaqtua da. @examples 2026-11-02 #xuaoMs7Aczq $en ±
 They believe that I am the killer.
 
-Chı nháo, ꝡä jeı mí Chaq múaqtua da. @examples 2026-10-29 #-jnO6s1sLC- $en ±
+Chı nháo, ꝡä jeı mí Chaq múaqtua da. @examples 2026-11-02 #1hciANKvqpg $en ±
 They believe that Chang is the killer.
 
-Chı nháo, ꝡä jeı múaqtua jí da. @examples 2026-10-29 #azW2mBWGCrj $en ±
+Chı nháo, ꝡä jeı múaqtua jí da. @examples 2026-11-02 #8h8JKkRFer7 $en ±
 They believe that the killer is me.
 
-Chı nháo, ꝡä jeı múaqtua mí Chaq da. @examples 2026-10-29 #yFGvvFEEaeU $en ±
+Chı nháo, ꝡä jeı múaqtua mí Chaq da. @examples 2026-11-02 #XC4aarZK29O $en ±
 They believe that the killer is Chang.
 
-Chı nháo, ꝡä jeı múaqtua súq da. @examples 2026-10-29 #blO55hhizNt $en ±
+Chı nháo, ꝡä jeı múaqtua súq da. @examples 2026-11-02 #-HkZzB62b8L $en ±
 They believe that the killer is you.
 
-Chı nháo, ꝡä jeı nháo ꝡé ano jí hóa da. @examples 2026-10-29 #ToKQglgHWqR $en ±
+Chı nháo, ꝡä jeı nháo ꝡé ano jí hóa da. @examples 2026-11-02 #b6erwfVXiQZ6 $en ±
 They think they’re the one I love.
 
-Chı nháo, ꝡä jeı súq múaqtua da. @examples 2026-10-29 #OYbYZofgONx $en ±
+Chı nháo, ꝡä jeı súq múaqtua da. @examples 2026-11-02 #xPJ2paqrlCA $en ±
 They believe that you are the killer.
 
-Chı nháo, ꝡä jeı ꝡé ano jí hóa, nháo da. @examples 2026-10-29 #29g2QezG5M2 $en ±
+Chı nháo, ꝡä jeı ꝡé ano jí hóa, nháo da. @examples 2026-11-02 #YqUjTR2wLsZm $en ±
 They think they’re the one I love.
 
 Chı sía poq, ꝡä jıa taı góıche da. @examples 2026-10-29 #aRSbig1UtkZ $en ±
@@ -92153,16 +92146,16 @@ This food is expensive.
 Choaıtuao máq da. @examples 2026-10-29 #nD0N83pCnhT $en ±
 It's cheap.
 
-Choa jí kûı, ꝡä noı gí po jí da. @examples 2026-10-29 #QhIjBvzpuK1 $en ±
+Choa jí kûı, ꝡä noı gí po jí da. @examples 2026-11-02 #gtEF0T0hs79l $en ±
 I moan because there’s pain in my arm.
 
-Choa nháo kûı, ꝡä noı gí po nháo da. @examples 2026-10-29 #0dbft8edZ16 $en ±
+Choa nháo kûı, ꝡä noı gí po nháo da. @examples 2026-11-02 #YoOVT5XubMFu $en ±
 They moan because there’s pain in their arm.
 
 Choaq nháo jí râo pújoa da. @examples 2026-10-29 #wSAPCxjAq0_ $en ±
 He visited me last week.
 
-Choa súq kûı, ꝡä noı gí po súq da, zí? @examples 2026-10-29 #YJI6WyuAclL $en ±
+Choa súq kûı, ꝡä noı gí po súq da, zí? @examples 2026-11-02 #VWf83AKhDTga $en ±
 You moan because there’s pain in your arm, right?
 
 Chó bï, guaı hó da. @examples 2026-10-29 #EbJrSOOxMkqq $en ±
@@ -92180,82 +92173,82 @@ I like water.
 Cho jí bọ́reo lô sueta suqbo da. @examples 2026-10-29 #6Z0MAg9-XHD $en ±
 I like the color of your sweater.
 
-Cho jí ké saro po nháo da. @examples 2026-10-29 #1Ht6T2pgWpY $en ±
+Cho jí ké saro po nháo da. @examples 2026-11-02 #1IXSXENths83 $en ±
 I like your skirt/kilt.
 
-Cho jí ké saro po súq da. @examples 2026-10-29 #EcZXGZ0NPfX $en ±
+Cho jí ké saro po súq da. @examples 2026-11-02 #GuQt39Lm-8dc $en ±
 I like your skirt/kilt.
 
-Cho jí ké sıo po jí da. @examples 2026-10-29 #l3ClX8VhJCf $en ±
+Cho jí ké sıo po jí da. @examples 2026-11-02 #r3AWQNa7wFP5 $en ±
 I like my idea.
 
-Cho jí ké sıo po nháo da. @examples 2026-10-29 #eafy_RbQesm $en ±
+Cho jí ké sıo po nháo da. @examples 2026-11-02 #h5pBxcXhD4vN $en ±
 I like their idea.
 
-Cho jí ké sıo po súq da. @examples 2026-10-29 #KtBLQwSRZDC $en ±
+Cho jí ké sıo po súq da. @examples 2026-11-02 #NffCpl3ZysXE $en ±
 I like your idea.
 
-Cho jí ké shatı po nháo da. @examples 2026-10-29 #lQba8VNaBat $en ±
+Cho jí ké shatı po nháo da. @examples 2026-11-02 #4Z8CnQCA60jJ $en ±
 I like their shirt.
 
-Cho jí ké shatı po súq da. @examples 2026-10-29 #F5X58Hd5AHZ $en ±
+Cho jí ké shatı po súq da. @examples 2026-11-02 #k-iv0xg0In8Q $en ±
 I like your shirt.
 
-Cho jí ké shıaqfuq po nháo da. @examples 2026-10-29 #Js-c6SNUM1e $en ±
+Cho jí ké shıaqfuq po nháo da. @examples 2026-11-02 #TWviFpbKUvwX $en ±
 I like their pants.
 
-Cho jí ké shıaqfuq po súq da. @examples 2026-10-29 #5LGMgXRQ8xb $en ±
+Cho jí ké shıaqfuq po súq da. @examples 2026-11-02 #2Ul8GhhxxniE $en ±
 I like your pants.
 
-Cho jí lúa kûı, ꝡä raq máq báq daıbu da. @examples 2026-10-29 #u_DHYlsr2cz $en ±
+Cho jí lúa kûı, ꝡä raq máq báq daıbu da. @examples 2026-11-02 #icdehLwEN7Ri $en ±
 I liked the story because it was about things that could never happen.
 
-Cho jí lúa kûı, ꝡä raq máq báq jaıca da. @examples 2026-10-29 #wH3uDNjrRCI $en ±
+Cho jí lúa kûı, ꝡä raq máq báq jaıca da. @examples 2026-11-02 #pw2ivMrL5gJ- $en ±
 I liked the story because it was about happy things.
 
-Cho jí lúa kûı, ꝡä raq máq báq taıguo da. @examples 2026-10-29 #ay-4vESYR8u $en ±
+Cho jí lúa kûı, ꝡä raq máq báq taıguo da. @examples 2026-11-02 #13uGNj4F1NqX $en ±
 I liked the story because it was about success.
 
-Cho jí ní bıo kûı, ꝡä de máq da. @examples 2026-10-29 #eUuMQ2WVDag $en ±
+Cho jí ní bıo kûı, ꝡä de máq da. @examples 2026-11-02 #N7Je0fDjo35n $en ±
 I like this glass because it’s pretty.
 
 Cho jí nháo rú páı nhaobo da. @examples 2026-10-29 #q6tSb6zVFrL $en ±
 I like them and their friends.
 
-Cho jí sáro po nháo da. @examples 2026-10-29 #0jG4v_e06pI $en ±
+Cho jí sáro po nháo da. @examples 2026-11-02 #Ek8zRII2VzSC $en ±
 I like their skirt/kilt.
 
-Cho jí sáro po súq da. @examples 2026-10-29 #KY5YCh5dNNC $en ±
+Cho jí sáro po súq da. @examples 2026-11-02 #RfoLRmQKJw1h $en ±
 I like your skirt/kilt.
 
-Cho jí sío po jí da. @examples 2026-10-29 #IYcaXcBENbv $en ±
+Cho jí sío po jí da. @examples 2026-11-02 #cKEvWO9cq7Oz $en ±
 I like my idea.
 
-Cho jí sío po nháo da. @examples 2026-10-29 #D2ltAH9FjB2 $en ±
+Cho jí sío po nháo da. @examples 2026-11-02 #z5ZEga5cUdwy $en ±
 I like their idea.
 
-Cho jí sío po súq da. @examples 2026-10-29 #YRAXJQvFZBY $en ±
+Cho jí sío po súq da. @examples 2026-11-02 #JuzdOOc-Jfuj $en ±
 I like your idea.
 
 Cho jí súq da. @examples 2026-10-29 #8J0EoK9j-1I $en ±
 I'm fond of you.
 
-Cho jí súq kûı, ꝡä de súq da. @examples 2026-10-29 #vO1UxMQG-nu $en ±
+Cho jí súq kûı, ꝡä de súq da. @examples 2026-11-02 #IMfHlAuMSXTp $en ±
 I like you because you’re handsome.
 
 Cho jí súq rú cho súq jí. @examples 2026-10-29 #Sev3NNvJCu9F $en ±
 I like you and you like me.
 
-Cho jí shátı po nháo da. @examples 2026-10-29 #tCY2kpjQ0JG $en ±
+Cho jí shátı po nháo da. @examples 2026-11-02 #vAFgGzoyp3FF $en ±
 I like their shirt.
 
-Cho jí shátı po súq da. @examples 2026-10-29 #ekzxBknITSn $en ±
+Cho jí shátı po súq da. @examples 2026-11-02 #1vFRzEbhAvKk $en ±
 I like your shirt.
 
-Cho jí shíaqfuq po nháo da. @examples 2026-10-29 #lj_89T-Oz9b $en ±
+Cho jí shíaqfuq po nháo da. @examples 2026-11-02 #YXkwcbrScQSw $en ±
 I like their pants.
 
-Cho jí shíaqfuq po súq da. @examples 2026-10-29 #6Fb_bU8c1fo $en ±
+Cho jí shíaqfuq po súq da. @examples 2026-11-02 #TkuergvVP1dh $en ±
 I like your pants.
 
 Cho jí, ꝡä guaı jí râo báq nuaq da. @examples 2026-10-29 #V33kH8pl5Y5 $en ±
@@ -92279,25 +92272,25 @@ He likes money and the word "money".
 Cho nháo cháı da. @examples 2026-10-29 #WfSwxZUvFzi $en ±
 He likes the tea.
 
-Cho nháo mí Caılu rí náq geo móq? @examples 2026-10-29 #d79uhDzg5bUO $en ±
+Cho nháo mí Caılu rí náq geo móq? @examples 2026-11-02 #JdMAlVm4sZO $en ±
 Does she like Cailu or the old man? (which?)
 
-Cho nháo mí Huaq rí mí Cıqshe móq? @examples 2026-10-29 #rd0wApuirqGq $en ±
+Cho nháo mí Huaq rí mí Cıqshe móq? @examples 2026-11-02 #fpONXdU0Ei5 $en ±
 Does she like Huaq or Ciqshy? (which?)
 
-Cho nháo mí Shı rí mí Gu móq? @examples 2026-10-29 #MVavN-jM1MiV $en ±
+Cho nháo mí Shı rí mí Gu móq? @examples 2026-11-02 #ivVegvxyKI0 $en ±
 Does she like Shi or Gu? (which?)
 
 Choq jí báq daqkea rá báq daqdekı da. @examples 2026-10-29 #kMIs3ViEvA0 $en ±
 I’ll use a clock or a stopwatch (or both).
 
-Choq jí báq daqkea ró báq daqdekı da. @examples 2026-10-29 #iyLshKhJZ5U $en ±
+Choq jí báq daqkea ró báq daqdekı da. @examples 2026-11-02 #kYYI9qCbx $en ±
 I’ll use a clock or a stopwatch (not both).
 
 Choq jí báq naokaıchuo rá báq lohakaıchuo da. @examples 2026-10-29 #W413Bn2RP1l $en ±
 I’ll use a pen or a pencil (or both).
 
-Choq jí báq naokaıchuo ró báq lohakaıchuo da. @examples 2026-10-29 #SZmYrBexzHa $en ±
+Choq jí báq naokaıchuo ró báq lohakaıchuo da. @examples 2026-11-02 #kDIBsijpa3T $en ±
 I’ll use a pen or a pencil (not both).
 
 Choq jí ké buaıdekı. @examples 2026-10-29 #yVz-Kgk2Gfpu $en ±
@@ -92312,70 +92305,70 @@ I used the balance.
 Choq jí ké loqdekı. @examples 2026-10-29 #StoYHoUR5NWT $en ±
 I used the thermometer.
 
-Choq jí ké moehua po jí ba. @examples 2026-10-29 #z3Z89uuKlHC $en ±
+Choq jí ké moehua po jí ba. @examples 2026-11-02 #y-JHyYZnrVqB $en ±
 I should use my heart.
 
-Choq jí ké moıhua po jí ba. @examples 2026-10-29 #AM5pUuSpyEM $en ±
+Choq jí ké moıhua po jí ba. @examples 2026-11-02 #Lt6ZPy6au1Vm $en ±
 I should use my brain.
 
 Choq jí ké tuoqdekı. @examples 2026-10-29 #g3Xl_uqCkchb $en ±
 I used the scale.
 
-Choq jí móehua po jí ba. @examples 2026-10-29 #Zlks-1HOVn $en ±
+Choq jí móehua po jí ba. @examples 2026-11-02 #Srzt9m3MaRxI $en ±
 I should use my heart.
 
-Choq jí móıhua po jí ba. @examples 2026-10-29 #NqdyrZaQ4p $en ±
+Choq jí móıhua po jí ba. @examples 2026-11-02 #_rWYJrXDnP6i $en ±
 I should use my brain.
 
 Choq jí sá pıano rú sá gıta da. @examples 2026-10-29 #Njvi-_LFfda $en ±
 I use a piano and a guitar.
 
-Choq nháo ké moehua po nháo ba. @examples 2026-10-29 #8r5d7ns6bYu $en ±
+Choq nháo ké moehua po nháo ba. @examples 2026-11-02 #GXE8vD3evKS4 $en ±
 They should use their heart.
 
-Choq nháo ké moıhua po nháo ba. @examples 2026-10-29 #KNYIycu3hyI $en ±
+Choq nháo ké moıhua po nháo ba. @examples 2026-11-02 #FIw92TPpFNvu $en ±
 Their should use their brain.
 
-Choq nháo móehua po nháo ba. @examples 2026-10-29 #Q77w5uV99Y $en ±
+Choq nháo móehua po nháo ba. @examples 2026-11-02 #C3DGMxqw2v5I $en ±
 They should use their heart.
 
-Choq nháo móıhua po nháo ba. @examples 2026-10-29 #mAJsaAtsIJ $en ±
+Choq nháo móıhua po nháo ba. @examples 2026-11-02 #8r4obyo_vmxV $en ±
 Their should use their brain.
 
-Choq súq ké moehua po súq ba. @examples 2026-10-29 #xlW4X2t79Xw $en ±
+Choq súq ké moehua po súq ba. @examples 2026-11-02 #c9nKHXhB2Wny $en ±
 Use your heart.
 
-Choq súq ké moıhua po súq ba. @examples 2026-10-29 #nfcebfRyvy5 $en ±
+Choq súq ké moıhua po súq ba. @examples 2026-11-02 #UymJpTdIC5dQ $en ±
 Use your brain.
 
-Choq súq móehua po súq ba. @examples 2026-10-29 #37jtH2rBKl $en ±
+Choq súq móehua po súq ba. @examples 2026-11-02 #4yp6zei4hUS3 $en ±
 Use your heart.
 
-Choq súq móıhua po súq ba. @examples 2026-10-29 #_BABqStMA2 $en ±
+Choq súq móıhua po súq ba. @examples 2026-11-02 #3XJzLnKj6vST $en ±
 Use your brain.
 
-Choq súq ní buaıdekı hóq ba. @examples 2026-10-29 #xHJRiOInHOX $en ±
+Choq súq ní buaıdekı hóq ba. @examples 2026-11-02 #iZNrWVO21Xe $en ±
 Use this ruler to do it.
 
 Choq súq ní buaıdekı, lä mıeq já hóq ba. @examples 2026-10-29 #Azn7yopDzA9 $en ±
 Use this ruler to measure it.
 
-Choq súq ní chuo hóq ba. @examples 2026-10-29 #3iNCjgGGPO_ $en ±
+Choq súq ní chuo hóq ba. @examples 2026-11-02 #3YZeC5PfIBc $en ±
 Use this tool to do it.
 
-Choq súq ní daqdekı hóq ba. @examples 2026-10-29 #STr7riHsCHr $en ±
+Choq súq ní daqdekı hóq ba. @examples 2026-11-02 #jT2D7tajRxN $en ±
 Use this stopwatch to do it.
 
 Choq súq ní daqdekı, lä mıeq já hóq ba. @examples 2026-10-29 #g8ehAAp3cjY $en ±
 Use this stopwatch to measure it.
 
-Choq súq ní kılodekı hóq ba. @examples 2026-10-29 #nWYFa8zagJf $en ±
+Choq súq ní kılodekı hóq ba. @examples 2026-11-02 #k5AkyPaOTMt $en ±
 Use this balance to do it.
 
 Choq súq ní kılodekı, lä mıeq já hóq ba. @examples 2026-10-29 #DhWwuNpQhdv $en ±
 Use this balance to measure it.
 
-Choq súq ní loqdekı hóq ba. @examples 2026-10-29 #E0-qyUIpdqF $en ±
+Choq súq ní loqdekı hóq ba. @examples 2026-11-02 #CYueIJkXZEs $en ±
 Use this thermometer to do it.
 
 Choq súq ní loqdekı, lä mıeq já hóq ba. @examples 2026-10-29 #MzzYJckLLx4 $en ±
@@ -92384,19 +92377,19 @@ Use this thermometer to measure it.
 Choq súq ní rá níjao ba. @examples 2026-10-29 #SgHSUOIW_WN $en ±
 Use either this or that (or both).
 
-Choq súq ní ró níjao ba. @examples 2026-10-29 #S1tK5KAykl0 $en ±
+Choq súq ní ró níjao ba. @examples 2026-11-02 #0jGcnfJKDUB $en ±
 Use either this or that (not both).
 
-Choq súq ní tuoqdekı hóq ba. @examples 2026-10-29 #7nrZTxkgn5n $en ±
+Choq súq ní tuoqdekı hóq ba. @examples 2026-11-02 #j8ocHhXk3kS $en ±
 Use this scale to do it.
 
 Choq súq ní tuoqdekı, lä mıeq já hóq ba. @examples 2026-10-29 #79RBYOJXAir $en ±
 Use this scale to measure it.
 
-Cho sá bu puı jí da. @examples 2026-10-29 #CbJ8p3J86HW $en ±
+Cho sá bu puı jí da. @examples 2026-11-02 #INv7OuVy8sZ $en ±
 A few people like me.
 
-Cho sá puı jí da. @examples 2026-10-29 #2rPMhCjgh3F $en ±
+Cho sá puı jí da. @examples 2026-11-02 #j5GzWbG-tqF $en ±
 Many people like me.
 
 Cho súq hí gıaq móq? @examples 2026-10-29 #p-pyyFbEACN $en ±
@@ -92408,16 +92401,16 @@ What movies do you like?
 Cho súq hí reoge móq? @examples 2026-10-29 #iIBsKC9NL1Vx $en ±
 Which color do you like?
 
-Cho súq mí Caılu rí náq geo móq? @examples 2026-10-29 #OHWx92eFyWX7 $en ±
+Cho súq mí Caılu rí náq geo móq? @examples 2026-11-02 #PQUeM-n6XGz $en ±
 Do you like Cailu or the old man? (which?)
 
-Cho súq mí Chı rí mí Gu móq? @examples 2026-10-29 #qgZ9bhKgN6Vp $en ±
+Cho súq mí Chı rí mí Gu móq? @examples 2026-11-02 #JF0Hh8b_nqf $en ±
 Do you like Shi or Gu? (which?)
 
-Cho súq mí Huaq rí mí Cıqshe móq? @examples 2026-10-29 #CIO7Cki5RNwA $en ±
+Cho súq mí Huaq rí mí Cıqshe móq? @examples 2026-11-02 #OOcKSjm8LnO $en ±
 Do you like Huaq or Ciqshy? (which?)
 
-Cho tó sá bu puı jí da. @examples 2026-10-29 #TfSFn8y7Eeu $en ±
+Cho tó sá bu puı jí da. @examples 2026-11-02 #l1hXgZgnaof $en ±
 Only a few people like me.
 
 Cho tú mı Julıa báq rua da. @examples 2026-10-29 #uH-is9DWfsB $en ±
@@ -92483,7 +92476,7 @@ No students are surrounding the building.
 Chum tao jí hí môq? @examples 2026-10-29 #UnalwWVVE7P5 $en ±
 What am I doing?
 
-Chúo ꝡë chôq hóa nä muaqtua súq jí nä, zao jí máq da. @examples 2026-10-29 #C77N4OIM-5Z $en ±
+Chúo ꝡë chôq hóa nä muaqtua súq jí nä, zao jí máq da. @examples 2026-11-02 #51Os6MaUDTqB $en ±
 The tool you used to kill me – I recognize it.
 
 Chuq jí béı shamu. @examples 2026-10-29 #ZFT4uVUw6eK4 $en ±
@@ -92549,47 +92542,47 @@ cuaq mıe @Laqme 2019-02-05 #DAvQFBpzq $en ±
 cuaq muaq @Laqme 2019-02-05 #sV1UpFh1j $en ±
 [t]predicate: [g]‘concept of death’; ▯ is the concept of death.
 
-Cuo bu po nháo jí sío da. @examples 2026-10-29 #QsJL0Gnk52I $en ±
+Cuo bu po nháo jí sío da. @examples 2026-11-02 #3GOYxA7gMGR7 $en ±
 I assume the idea isn’t theirs.
 
-Cuo bu po súq jí sío da. @examples 2026-10-29 #AGDnZnoEBia $en ±
+Cuo bu po súq jí sío da. @examples 2026-11-02 #iJLNlgghvsl8 $en ±
 I assume the idea isn’t yours.
 
-Cuo jí lâ bu po nháo sío da. @examples 2026-10-29 #0rXAMNHyTTh $en ±
+Cuo jí lâ bu po nháo sío da. @examples 2026-11-02 #hfDOgCVH_QyB $en ±
 I assume the idea isn’t theirs.
 
-Cuo jí lâ bu po súq sío da. @examples 2026-10-29 #0ApLrG9BmfN $en ±
+Cuo jí lâ bu po súq sío da. @examples 2026-11-02 #MIk4r8VBnRRq $en ±
 I assume the idea isn’t yours.
 
-Cuo jí lâ po nháo sío da. @examples 2026-10-29 #otML6DAqQzX $en ±
+Cuo jí lâ po nháo sío da. @examples 2026-11-02 #7tRdhCcQXDoy $en ±
 I assume the idea is theirs.
 
-Cuo jí lâ po súq sío da. @examples 2026-10-29 #R9kcu4f9Ix6 $en ±
+Cuo jí lâ po súq sío da. @examples 2026-11-02 #v00E7JfoUJ6M $en ±
 I assume the idea is yours.
 
-Cuo jí, ꝡä bu po nháo sío da. @examples 2026-10-29 #57xNJyZ8eUH $en ±
+Cuo jí, ꝡä bu po nháo sío da. @examples 2026-11-02 #qn8LR7dykgfM $en ±
 I assume the idea isn’t theirs.
 
-Cuo jí, ꝡä bu po súq sío da. @examples 2026-10-29 #8Yf2vlTyvxe $en ±
+Cuo jí, ꝡä bu po súq sío da. @examples 2026-11-02 #NCQUfGFCsGv7 $en ±
 I assume the idea isn’t yours.
 
-Cuo jí, ꝡä nıeq suaq jí da. @examples 2026-10-29 #74s4_2jb0ba $en ±
+Cuo jí, ꝡä nıeq suaq jí da. @examples 2026-11-02 #n7lvR5rbmAD- $en ±
 I assume I’m no good at singing.
 
-Cuo jí, ꝡä po nháo sío da. @examples 2026-10-29 #mMlxOJe3kiJ $en ±
+Cuo jí, ꝡä po nháo sío da. @examples 2026-11-02 #whAm2oW827-j $en ±
 I assume the idea is theirs.
 
-Cuo jí, ꝡä po súq sío da. @examples 2026-10-29 #H42n8PLalG5 $en ±
+Cuo jí, ꝡä po súq sío da. @examples 2026-11-02 #TPmbheo9Ag6J $en ±
 I assume the idea is yours.
 
 Cuokeo jıdao dú chuqguao suqbo ꝡo. @jiqci 2024-05-07 #Si5eRaeum $en ±
 [t]phrase: Be careful, your fork is actually a fennec.
   jiqci (2024-05-07): ithkuil script example sentence
 
-Cuo po nháo jí sío da. @examples 2026-10-29 #D7WsSRVjEWb $en ±
+Cuo po nháo jí sío da. @examples 2026-11-02 #ZCGbnoja1Ypa $en ±
 I assume the idea is theirs.
 
-Cuo po súq jí sío da. @examples 2026-10-29 #cw4t8Neu3w4 $en ±
+Cuo po súq jí sío da. @examples 2026-11-02 #FdaZHeUvAYYW $en ±
 I assume the idea is yours.
 
 chao bụkıa @examples 2026-10-29 #PVCSwwmtNPdz $en ±
@@ -92702,10 +92695,10 @@ It's possible that he hates me now.
 daısoq chuı @uakci 2021-09-07 #LihUBCLxf $en ±
 [t]predicate: [g]‘ASAP’; ▯ happens as soon as possible / ASAP.
 
-Dâı, ꝡä sho zao jí ní ocha, nä ano jí hó da. @examples 2026-10-29 #LEyom2UnDbT $en ±
+Dâı, ꝡä sho zao jí ní ocha, nä ano jí hó da. @examples 2026-11-02 #inBpUVNU_BmZ $en ±
 I could love this person if I got to know them.
 
-Dâı, ꝡä sho zao ní ocha jí, nä ano hó jí da. @examples 2026-10-29 #tegNd-nNOqz $en ±
+Dâı, ꝡä sho zao ní ocha jí, nä ano hó jí da. @examples 2026-11-02 #2V_LCxmVB4Km $en ±
 This person could love me if they got to know me.
 
 daochue bu keaı @uakci 2022-04-15 #9IkKkJaES $en ±
@@ -92738,10 +92731,10 @@ The two men love each other eternally.
 Daqmıq, ꝡä maı náq roı líq chéq móq? @examples 2026-10-29 #SgcgU7cYHS_ $en ±
 The man and the woman love each other eternally.
 
-⚠ Dáqmoa ꝡë bòı hóa nä, dua ano jí áq súq nä, jaq bıe máq ꝡé ano jí bòı hóa da. @examples 2026-10-29 #H7J9GwfSHt8 $en ±
+⚠ Dáqmoa ꝡë bòı hóa nä, dua ano jí áq súq nä, jaq bıe máq ꝡé ano jí bòı hóa da. @examples 2026-11-02 #S91pMk71YXZX $en ±
 The moment at which I knew I loved you was long after I started loving you.
 
-⚠ Dáqmoa ꝡë bòı hóa nä, dua ano jí áq súq nä, jaq pujao hóq da. @examples 2026-10-29 #VmKipmP2acH $en ±
+⚠ Dáqmoa ꝡë bòı hóa nä, dua ano jí áq súq nä, jaq pujao hóq da. @examples 2026-11-02 #4CAwEPKZaONR $en ±
 The moment at which I knew I loved you was a very long time ago.
 
 Deaqsha sá kamcụkeq áhoq ba. @mimiaoganhaqpy 2023-01-22 #VorF-QXFV $eo ±
@@ -92756,10 +92749,10 @@ Deaqsha sá kamcụkeq áhoq ba. @mimiaoganhaqpy 2023-01-22 #eq9s6O9lN $eo ±
 Deaqsha sá kamcụkeq áhoq ba. @mimiaoganhaqpy 2023-01-22 #otcs3vhSq $eo ±
 May shit land on you. (insult)
 
-De ké shatı po nháo da. @examples 2026-10-29 #4Ep1FyfLry3 $en ±
+De ké shatı po nháo da. @examples 2026-11-02 #Kk2mY3RAzqpn $en ±
 Their shirt is cute.
 
-De ké shatı po súq da. @examples 2026-10-29 #QTsDKWrhfE1 $en ±
+De ké shatı po súq da. @examples 2026-11-02 #3pO-z19tDIK- $en ±
 Your shirt is cute.
 
 De níchaq da. @examples 2026-10-29 #NNtncZigP3y $en ±
@@ -92774,7 +92767,7 @@ This music is beautiful.
 De ní móq? @examples 2026-10-29 #r9dgtKTG_YT $en ±
 Is this beautiful?
 
-De nháo jîe áq da. @examples 2026-10-29 #7MF9scQwme3 $en ±
+De nháo jîe áq da. @examples 2026-11-02 #NijaYzvGTTKH $en ±
 They think they’re beautiful.
 
 Deo rá koaq tú heqfa shı da. @examples 2026-10-29 #EZdObmstZmC $en ±
@@ -92783,10 +92776,10 @@ Every elf is a child or an adult (or both).
 Deo rá koaq tú req shı da. @examples 2026-10-29 #Jjb8vQLOqv7 $en ±
 Every human is a child or an adult (or both).
 
-Deo ro koaq tú heqfa shı da. @examples 2026-10-29 #tv9t6yzsZMb $en ±
+Deo ro koaq tú heqfa shı da. @examples 2026-11-02 #6_SpYX05DH $en ±
 Every elf is a child or an adult (not both).
 
-Deo ro koaq tú req shı da. @examples 2026-10-29 #06UTY_0TUJ7 $en ±
+Deo ro koaq tú req shı da. @examples 2026-11-02 #QtNXdHYB99 $en ±
 Every human is a child or an adult (not both).
 
 Déo, ꝡë pıa hóa jí, nä gu hó da. @examples 2026-10-29 #YVR4iEwwFmSb $en ±
@@ -92813,16 +92806,16 @@ Today, I can do anything.
 De ru sao jíaq da. @examples 2026-10-29 #ymFxpYNH3wIy $en ±
 The world is beautiful and big.
 
-De súqbo kaqhua, rú de máo tú suku paq sûq da. @examples 2026-10-29 #H90lxZtKxFe $en ±
+De súqbo kaqhua, rú de máo tú suku paq sûq da. @examples 2026-11-02 #OjOe4VDWL_6 $en ±
 Your are are beautiful, and so is every other part of you.
 
 De súq da. @examples 2026-10-29 #4z4FPkWF4xo $en ±
 You are beautiful.
 
-De shátı po nháo da. @examples 2026-10-29 #L928J78wqY $en ±
+De shátı po nháo da. @examples 2026-11-02 #KLnO42F5Amn5 $en ±
 Their shirt is cute.
 
-De shátı po súq da. @examples 2026-10-29 #gX0yk5LIo $en ±
+De shátı po súq da. @examples 2026-11-02 #2YMPWZ1xtWiA $en ±
 Your shirt is cute.
 
 De tú poq da. @examples 2026-10-29 #U2cXnzkzSxLA $en ±
@@ -92965,19 +92958,19 @@ I know whether they want it to happen.
 Dua jí, mä shao súna hóq da. @examples 2026-10-29 #50vpSd_dluY $en ±
 I know whether you want it to happen.
 
-Dua jí sá raı po nháo da. @examples 2026-10-29 #wFnaBMnX8W $en ±
+Dua jí sá raı po nháo da. @examples 2026-11-02 #X0Kp23nhbrOw $en ±
 I know something about them.
 
-Dua jí sá raı po súq da. @examples 2026-10-29 #53eMZX0-A6 $en ±
+Dua jí sá raı po súq da. @examples 2026-11-02 #toGUTa9mEkIu $en ±
 I know something about you.
 
-Dua jí sá sıgı po nháo da. @examples 2026-10-29 #YfGJ4yQLhhr $en ±
+Dua jí sá sıgı po nháo da. @examples 2026-11-02 #6rHwv8YJTKzg $en ±
 I know something interesting about them.
 
-Dua jí sá sıgı po súq da. @examples 2026-10-29 #Gh8_ELtErgP $en ±
+Dua jí sá sıgı po súq da. @examples 2026-11-02 #i8Exhlexf0av $en ±
 I know something interesting about you.
 
-Dua jí sá ꝡë âo ꝡä dua súq hóa nä, sho nasa súq da. @examples 2026-10-29 #MFuSRl_aTO8 $en ±
+Dua jí sá ꝡë âo ꝡä dua súq hóa nä, sho nasa súq da. @examples 2026-11-02 #DIdpdlJJMiBU $en ±
 I know something that would make you go crazy if you knew it.
 
 Dua jí sía. @examples 2026-10-29 #1tISI4dPFQuw $en ±
@@ -93016,7 +93009,7 @@ I know how much you want it to happen.
 Dua jí tú po súq da. @examples 2026-10-29 #m-5xs6lrpHER $en ±
 I know everything about you.
 
-Dua jí tú ꝡë raq hóa súq da. @examples 2026-10-29 #lFd9kAckaUX $en ±
+Dua jí tú ꝡë raq hóa súq da. @examples 2026-11-02 #Ukg6XJbxbVko $en ±
 I know everything about you.
 
 Dua jí, ꝡä chı súq, ꝡä sahuruaq jí, rû ꝡä bu sahuruaq jí. @examples 2026-10-29 #Wtm3IGHtnV4w $en ±
@@ -93043,7 +93036,7 @@ I know that your name is Sara.
 Dua jí, ꝡä nıe súq kúa, rú ꝡä feı súq. @examples 2026-10-29 #BGAHhvZ5GIfk $en ±
 I know that you are in the room and that you are angry.
 
-Dua jí, ꝡä paı súq jí, rú juoq he ruogı há bọ́paı hâ da. @examples 2026-10-29 #3ftosR9d81K $en ±
+Dua jí, ꝡä paı súq jí, rú juoq he ruogı há bọ́paı hâ da. @examples 2026-11-02 #WUaIxmIdG-i $en ±
 I know that you’re my friend, and that people should be kind to their friends.
 
 Dua jí ꝡä ruqshua. @examples 2026-10-29 #83ogoQtwT8BL $en ±
@@ -93163,7 +93156,7 @@ I want to know how well the boy is.
 Duashao nháo, ꝡä hıa ní da. @examples 2026-10-29 #3Jqhw3ad1z $en ±
 They want to know what this is.
 
-Duasho nháo, ꝡä kaqgaı jí nháo da. @examples 2026-10-29 #hHVCMKhr5oU $en ±
+Duasho nháo, ꝡä kaqgaı jí nháo da. @examples 2026-11-02 #Wb4kV8ON9CbP $en ±
 They realize that I can see them.
 
 Dua tea sía poq jí. @examples 2026-10-29 #GAwVRffy-NTD $en ±
@@ -93369,118 +93362,118 @@ fuı dua @robintown 2022-06-28 #NOjiyQ8Hm $en ±
 fuı lım @Laqme 2023-11-26 #t7UV-kK6k $en ±
 [t]predicate: ▯ is easy to understand.
 
-Gaı jí áq da. @examples 2026-10-29 #9kVAm2AlK7_ $en ±
+Gaı jí áq da. @examples 2026-11-02 #ovror_1NRAj_ $en ±
 I sense myself.
 
 Gaı jí sá hıaq reo da. @examples 2026-10-29 #PGset9U6--L $en ±
 I see something with not many colors.
 
-Gaı jí, tïo de nháo da. @examples 2026-10-29 #OSNrEOcwhDic $en ±
+Gaı jí, tïo de nháo da. @examples 2026-11-02 #cxUh_4cGynj $en ±
 I see how beautiful they are.
 
-Gaı jí, tïo de súq da. @examples 2026-10-29 #aJYBIcWmgkjy $en ±
+Gaı jí, tïo de súq da. @examples 2026-11-02 #xrUx6ZF53ls $en ±
 I see how beautiful you are.
 
-Gaı jí, ꝡä ano nháo jí da. @examples 2026-10-29 #Nfy8JjXc0CW $en ±
+Gaı jí, ꝡä ano nháo jí da. @examples 2026-11-02 #okycbJHlMpuK $en ±
 Apparently they love me.
 
-Gaı jí, ꝡä ano súq sá da. @examples 2026-10-29 #cMEOdA7S342 $en ±
+Gaı jí, ꝡä ano súq sá da. @examples 2026-11-02 #rSODJ75cWM8 $en ±
 I see you love someone.
 
-Gaı jí, ꝡä bu ano nháo jí da. @examples 2026-10-29 #pt1QkQplE5W $en ±
+Gaı jí, ꝡä bu ano nháo jí da. @examples 2026-11-02 #vCqGNSYdmSC5 $en ±
 Apparently they don’t love me.
 
-Gaı jí, ꝡä feı súq rú shao súq, ꝡä beo hao jí da. @examples 2026-10-29 #09gkuqgxXLt $en ±
+Gaı jí, ꝡä feı súq rú shao súq, ꝡä beo hao jí da. @examples 2026-11-02 #aABBHAmYuSC $en ±
 I see that you’re angry and that you want me to change.
 
-Gaı jí, ꝡä haı ano súq sá da. @examples 2026-10-29 #nIi4awJ1TOC $en ±
+Gaı jí, ꝡä haı ano súq sá da. @examples 2026-11-02 #PkTGOWN1cLH $en ±
 I see you already love someone.
 
-Gaı jí, ꝡä joe suaq jí da. @examples 2026-10-29 #MdB-_UtCdAK $en ±
+Gaı jí, ꝡä joe suaq jí da. @examples 2026-11-02 #txeEefHuSMA8 $en ±
 I see I’m good at singing.
 
-Gaı jí, ꝡä nıeq suaq jí da. @examples 2026-10-29 #tGEYY3F_1Pl $en ±
+Gaı jí, ꝡä nıeq suaq jí da. @examples 2026-11-02 #RKvU8p0QMruC $en ±
 I see I’m no good at singing.
 
-Gaı jí, ꝡä raq kúe góıdıu da. @examples 2026-10-29 #6XBLc5ldPDU $en ±
+Gaı jí, ꝡä raq kúe góıdıu da. @examples 2026-11-02 #0pq5F_nC9p $en ±
 I see that the book is about medicine.
 
-Gaı jí, ꝡä raq kúe sía da. @examples 2026-10-29 #HDhkJxKRsFx $en ±
+Gaı jí, ꝡä raq kúe sía da. @examples 2026-11-02 #5ssfKuKvBMS $en ±
 I see that the book isn’t about anything.
 
-Gaı jí, ꝡä raq kúe téıdıu da. @examples 2026-10-29 #rmSHiXDGKOB $en ±
+Gaı jí, ꝡä raq kúe téıdıu da. @examples 2026-11-02 #2oScT0F2Ch $en ±
 I see that the book is about geometry.
 
-Gaı jí, ꝡä raq péaq kue sía da. @examples 2026-10-29 #bn3ozsSpuZl $en ±
+Gaı jí, ꝡä raq péaq kue sía da. @examples 2026-11-02 #-O6Ff2F4CAz $en ±
 I see that there are many books that aren’t about anything.
 
-Gaı jí, ꝡä raq sá puı kue góıdıu da. @examples 2026-10-29 #wOCd6f2enWb $en ±
+Gaı jí, ꝡä raq sá puı kue góıdıu da. @examples 2026-11-02 #FZfeVGBn2fP $en ±
 I see that there are many books about medicine.
 
-Gaı jí, ꝡä raq sá puı kue téıdıu da. @examples 2026-10-29 #KaxH8VVr6J_ $en ±
+Gaı jí, ꝡä raq sá puı kue téıdıu da. @examples 2026-11-02 #ppIRc8iSyL7 $en ±
 I see that there are many books about geometry.
 
-Gaı jí, ꝡä sho shua bıo da. @examples 2026-10-29 #tU7uYxMoopv $en ±
+Gaı jí, ꝡä sho shua bıo da. @examples 2026-11-02 #Mutgk0LJKyF4 $en ±
 I see that the glass is starting to fall.
 
-Gaı jí, ꝡä shua bío da. @examples 2026-10-29 #xU1xwnRxii3 $en ±
+Gaı jí, ꝡä shua bío da. @examples 2026-11-02 #XwYCdMEKuaZq $en ±
 I see that the glass is falling.
 
-Gaı jí, ꝡä shua shíabıo rú ꝡä tua kú káto hụ́ꝡa da. @examples 2026-10-29 #E4w8fjhJeLc $en ±
+Gaı jí, ꝡä shua shíabıo rú ꝡä tua kú káto hụ́ꝡa da. @examples 2026-11-02 #l8yA5NH0kb0 $en ±
 I see that the glass fell and that the cat is the one that caused it.
 
-Gaı nháo, ꝡä he bu shua báq puao da. @examples 2026-10-29 #DbQGQ4x5yXc $en ±
+Gaı nháo, ꝡä he bu shua báq puao da. @examples 2026-11-02 #ID8mxKBPyosl $en ±
 They saw that clouds didn’t fall.
 
-Gaı nháo, ꝡä he bu shua báq rıochao da. @examples 2026-10-29 #jUfkqgcQSlN $en ±
+Gaı nháo, ꝡä he bu shua báq rıochao da. @examples 2026-11-02 #cOoWcYboBBti $en ±
 They saw that planes didn’t fall.
 
-Gaı nháo, ꝡä he bu shua báq shuao da. @examples 2026-10-29 #G8tK2memSt4 $en ±
+Gaı nháo, ꝡä he bu shua báq shuao da. @examples 2026-11-02 #_ioAg-eXi7 $en ±
 They saw that birds didn’t fall.
 
-Gaı nháo, ꝡä he bu shua hóe da. @examples 2026-10-29 #F6KKulB9Agg $en ±
+Gaı nháo, ꝡä he bu shua hóe da. @examples 2026-11-02 #nvYHQVfRry $en ±
 They saw that the sun didn’t fall.
 
-Gaı nháo, ꝡä he bu shua míao da. @examples 2026-10-29 #hL42331e1WF $en ±
+Gaı nháo, ꝡä he bu shua míao da. @examples 2026-11-02 #0XlFwNfa6B $en ±
 They saw that the moon didn’t fall.
 
-Gaı nháo, ꝡä he bu shua séoq da. @examples 2026-10-29 #zPi078x2UZz $en ±
+Gaı nháo, ꝡä he bu shua séoq da. @examples 2026-11-02 #BLA8pRkdK $en ±
 They saw that the sky didn’t fall.
 
-Gaı nháo, ꝡä ruqshua bû joı, ꝡä laq da. @examples 2026-10-29 #6zRz-QgyjjW $en ±
+Gaı nháo, ꝡä ruqshua bû joı, ꝡä laq da. @examples 2026-11-02 #EDD8J4F4487n $en ±
 They saw how it rained without making sound.
 
-Gaı nháo, ꝡä shua rúq bû joı, ꝡä laq da. @examples 2026-10-29 #8HQFI8872bW $en ±
+Gaı nháo, ꝡä shua rúq bû joı, ꝡä laq da. @examples 2026-11-02 #CiEqA4_4bxPH $en ±
 They saw how the rain fell without sound.
 
-Gaı súq, ꝡä ano jí sá ba. @examples 2026-10-29 #1e3r3xkbkBS $en ±
+Gaı súq, ꝡä ano jí sá ba. @examples 2026-11-02 #FBln0iFFABK $en ±
 See that I love someone.
 
-Gaı súq, ꝡä de jí ba. @examples 2026-10-29 #QIUiINzgvza $en ±
+Gaı súq, ꝡä de jí ba. @examples 2026-11-02 #BdSD1rnhHGl $en ±
 See that I’m beautiful!
 
-Gaı súq, ꝡä fıe jí ba. @examples 2026-10-29 #GQPTPqSZx9_q $en ±
+Gaı súq, ꝡä fıe jí ba. @examples 2026-11-02 #cBL7f5ltBQm $en ±
 See that I’m ugly!
 
-Gaı súq, ꝡä haı ano jí sá ba. @examples 2026-10-29 #iHEtfWO1X9Q $en ±
+Gaı súq, ꝡä haı ano jí sá ba. @examples 2026-11-02 #SDeIGVf4FMS $en ±
 See that I already love someone.
 
-Gaı súq, ꝡä moıjoe jí ba. @examples 2026-10-29 #J0KfM2cmnXLb $en ±
+Gaı súq, ꝡä moıjoe jí ba. @examples 2026-11-02 #IjgRBQUsv7M $en ±
 See that I’m smart!
 
-Gaı súq, ꝡä moınıeq jí ba. @examples 2026-10-29 #AGtazrTNupRf $en ±
+Gaı súq, ꝡä moınıeq jí ba. @examples 2026-11-02 #FoDxHf7Wbxm $en ±
 See that I’m dumb!
 
-Gaı súq ꝡä shaı jıaı jí bío, câ lâ shua bío ba. @examples 2026-10-29 #t0ymAh2Ep4C $en ±
+Gaı súq ꝡä shaı jıaı jí bío, câ lâ shua bío ba. @examples 2026-11-02 #baIpMCrczgXb $en ±
 See how I drop the cup, causing it to fall.
 
-Gaı súq ꝡä shaı jıaı jí bío, câ lâ shua máq ba. @examples 2026-10-29 #VPK0mpop3jv $en ±
+Gaı súq ꝡä shaı jıaı jí bío, câ lâ shua máq ba. @examples 2026-11-02 #i1fKhRvkfaPW $en ±
 See how I drop the cup, causing it to fall.
 
-Gaı súq ꝡä shaı jıaı jí bío, câ, ꝡä shua bío ba. @examples 2026-10-29 #Dq5dl8bvW5c $en ±
+Gaı súq ꝡä shaı jıaı jí bío, câ, ꝡä shua bío ba. @examples 2026-11-02 #BAwYP30bj3wq $en ±
 See how I drop the cup, causing it to fall.
 
-Gaı súq ꝡä shaı jıaı jí bío, câ, ꝡä shua máq ba. @examples 2026-10-29 #U8znAAdBg2M $en ±
+Gaı súq ꝡä shaı jıaı jí bío, câ, ꝡä shua máq ba. @examples 2026-11-02 #ZlCp0mSKDPJ5 $en ±
 See how I drop the cup, causing it to fall.
 
 gaı tı [(c c c) (d d d) hó sI] @robintown 2022-12-04 #r9DFXpaOa $en +1
@@ -93559,16 +93552,16 @@ Happy new year!
 Gı núaq da. @examples 2026-10-29 #Kl4-6y2wglj $en ±
 The night is good.
 
-Gıo mí Caılu róı géo naq jí da. @examples 2026-10-29 #CsT1aq0bqag $en ±
+Gıo mí Caılu róı géo naq jí da. @examples 2026-11-02 #lvhlMd31UE $en ±
 Cailu and the old man greet me.
 
-Gıq cho jí lúa kûı, ꝡä raq máq báq daıbu da. @examples 2026-10-29 #eVYXydTi_5w $en ±
+Gıq cho jí lúa kûı, ꝡä raq máq báq daıbu da. @examples 2026-11-02 #TGmSx6Y4O1IS $en ±
 I didn’t like the story because it was about things that could never happen.
 
-Gıq cho jí lúa kûı, ꝡä raq máq báq meoca da. @examples 2026-10-29 #ZEN1nkUL0mb $en ±
+Gıq cho jí lúa kûı, ꝡä raq máq báq meoca da. @examples 2026-11-02 #SNk85-uiNvFe $en ±
 I didn’t like the story because it was about sad things.
 
-Gıq cho jí lúa kûı, ꝡä raq máq báq muaqguo da. @examples 2026-10-29 #cN3pb3IHlqF $en ±
+Gıq cho jí lúa kûı, ꝡä raq máq báq muaqguo da. @examples 2026-11-02 #A2JHzaE85t6z $en ±
 I didn’t like the story because it was about death.
 
 Gı sá daqmoa da. @examples 2026-10-29 #hrCSptvI_X1 $en ±
@@ -93676,22 +93669,22 @@ The food that is your making tastes good.
 He bu pıe jí báq bıra. @examples 2026-10-29 #on8WsLRYZRfw $en ±
 I don't drink beer.
 
-He bu shua báq puao kûı hí móq? @examples 2026-10-29 #OnV2kmTNppY $en ±
+He bu shua báq puao kûı hí móq? @examples 2026-11-02 #JMLEoiknewcD $en ±
 Why don’t clouds fall?
 
-He bu shua báq rıochao kûı hí móq? @examples 2026-10-29 #D8WsIOgn3a7 $en ±
+He bu shua báq rıochao kûı hí móq? @examples 2026-11-02 #ojwOb6BBJplc $en ±
 Why don’t planes fall?
 
-He bu shua báq shuao kûı hí móq? @examples 2026-10-29 #urW0-c8-0dx $en ±
+He bu shua báq shuao kûı hí móq? @examples 2026-11-02 #jcTSR_FI2oeJ $en ±
 Why don’t birds fall?
 
-He bu shua hóe kûı hí móq? @examples 2026-10-29 #tImtsgJ6x-R $en ±
+He bu shua hóe kûı hí móq? @examples 2026-11-02 #UjS8MbEFDvMo $en ±
 Why doesn’t the sun fall?
 
-He bu shua míao kûı hí móq? @examples 2026-10-29 #j55DeyJwSEB $en ±
+He bu shua míao kûı hí móq? @examples 2026-11-02 #UD9bQz6jvU9d $en ±
 Why doesn’t the moon fall?
 
-He bu shua séoq kûı hí móq? @examples 2026-10-29 #yj3RByBVhiZ $en ±
+He bu shua séoq kûı hí móq? @examples 2026-11-02 #CcoBkAGkPYVI $en ±
 Why doesn’t the sky fall?
 
 He cho há báq joafao da. @examples 2026-10-29 #NJZ_t6Ps-EnZ $en ±
@@ -93824,10 +93817,10 @@ The Universe is indifferent.
 Hemuo ısa sá. @jiqci 2024-06-12 #H-WC5z347 $en ±
 [t]phrase: [g]‘silver lining’; There is always a silver lining.
 
-He noalıe jí, lä sı já báq kıq da. @examples 2026-10-29 #xpAowQwzD_j $en ±
+He noalıe jí, lä sı já báq kıq da. @examples 2026-11-02 #jCeYwVAe9NC6 $en ±
 It’s hard for me to pay attention to films.
 
-He noalıe jí, lä sı já raı ní jôı ꝡä kudote ráı da. @examples 2026-10-29 #YkMbbT7aFe6 $en ±
+He noalıe jí, lä sı já raı ní jôı ꝡä kudote ráı da. @examples 2026-11-02 #0X-5VMa6_q-R $en ±
 It’s hard for me to pay attention to this while in a conversation.
 
 heo me @uakci 2022-07-06 #S3Gw6ZCJo $en ±
@@ -93839,13 +93832,13 @@ A hand has five fingers.
 heqshea guaq @robintown 2022-06-25 #FP6cgJh8y $en ±
 [t]predicate: ▯ is the middle of nowhere.
 
-He shua báq bu sı bâq jeoq. @examples 2026-10-29 #7Nf8InXhH7J $en ±
+He shua báq bu sı bâq jeoq. @examples 2026-11-02 #1Vmc0vG7UOqG $en ±
 People who don’t pay attention to holes fall.
 
-Hê, ꝡä guaı nháo, nä jaı nháo da. @examples 2026-10-29 #dtF2Ljv19LP $en ±
+Hê, ꝡä guaı nháo, nä jaı nháo da. @examples 2026-11-02 #41-Uzhbub0JY $en ±
 They’re happy when they’re working.
 
-Hê, ꝡä koı nháo, nä noılıe nháo da. @examples 2026-10-29 #lulvtUSuYRa $en ±
+Hê, ꝡä koı nháo, nä noılıe nháo da. @examples 2026-11-02 #ITs8H4P8YUW4 $en ±
 They hurt when they walk.
 
 Hıaı súq kûı hí raı móq? @examples 2026-10-29 #WHMO31NpPuAD $en ±
@@ -93881,52 +93874,52 @@ You don't have many opinions.
 Hí haq nä shao súq, ꝡä bojea jí háq móq? @examples 2026-10-29 #LM9cRswX8xL $en ±
 What food do you want me to buy?
 
-Hıo jí líq da. @examples 2026-10-29 #Nw1THOQVdy9 $en ±
+Hıo jí líq da. @examples 2026-11-02 #hzzznNH1cUN $en ±
 I greet the women.
 
-Hıo jí líq râo, ꝡä tısha jí da. @examples 2026-10-29 #2jTiwUJz2Jk $en ±
+Hıo jí líq râo, ꝡä tısha jí da. @examples 2026-11-02 #gC9MDKcwAWVe $en ±
 I greeted the woman when I arrived.
 
-Hıo jí líq róı ké päı hó da. @examples 2026-10-29 #YvFoW70RJpB $en ±
+Hıo jí líq róı ké päı hó da. @examples 2026-11-02 #orRHqz_iyI $en ±
 I greet the woman and her friend.
 
-Hıo jí mí Caılu róı géo naq da. @examples 2026-10-29 #QaR6VVAkGpl $en ±
+Hıo jí mí Caılu róı géo naq da. @examples 2026-11-02 #2JPJMxwXlj $en ±
 I greet Cailu and the old man.
 
-Hıo jí mí Huaq róı mí Cıqshe da. @examples 2026-10-29 #U9edUWcjuwU $en ±
+Hıo jí mí Huaq róı mí Cıqshe da. @examples 2026-11-02 #GfFcZOZQvD $en ±
 I greet Huaq and Ciqshy.
 
-Hıo jí mí Shı róı mí Gu da. @examples 2026-10-29 #iiiHgjQRswu $en ±
+Hıo jí mí Shı róı mí Gu da. @examples 2026-11-02 #BKH1LRq7sS $en ±
 I greet Shi and Gu.
 
-Hıo jí náq da. @examples 2026-10-29 #s55Ihsts33m $en ±
+Hıo jí náq da. @examples 2026-11-02 #iFIkDlXvSin $en ±
 I greet the men.
 
-Hıo jí náq râo, ꝡä tısha jí da. @examples 2026-10-29 #hzc6F2PQnYl $en ±
+Hıo jí náq râo, ꝡä tısha jí da. @examples 2026-11-02 #isaQf-gfa8BN $en ±
 I greeted the man when I arrived.
 
-Hıo jí náq róı ké päı hó da. @examples 2026-10-29 #r4D9PA93nR- $en ±
+Hıo jí náq róı ké päı hó da. @examples 2026-11-02 #sd-I_v_9Zc $en ±
 I greet the man and his friend.
 
-Hıo jí ní lıq râo, ꝡä tısha hó da. @examples 2026-10-29 #dDbJ1OU02yV $en ±
+Hıo jí ní lıq râo, ꝡä tısha hó da. @examples 2026-11-02 #tysbI9ZIt0za $en ±
 I greeted this woman when he arrived.
 
-Hıo jí ní naq râo, ꝡä tısha hó da. @examples 2026-10-29 #9E33sO5ro1L $en ±
+Hıo jí ní naq râo, ꝡä tısha hó da. @examples 2026-11-02 #yawb279rHkp6 $en ±
 I greeted this man when he arrived.
 
-Hıo jí ní poq râo, ꝡä tısha hó da. @examples 2026-10-29 #4dIepTbiwIq $en ±
+Hıo jí ní poq râo, ꝡä tısha hó da. @examples 2026-11-02 #_t8kwhEwJd1u $en ±
 I greeted this person when they arrived.
 
-Hıo jí nháo da. @examples 2026-10-29 #TtwauOGD3qO $en ±
+Hıo jí nháo da. @examples 2026-11-02 #1P3Wc2B4fml $en ±
 I greet them.
 
-Hıo jí póq râo, ꝡä tısha hó da. @examples 2026-10-29 #mZA8rvEuJcX $en ±
+Hıo jí póq râo, ꝡä tısha hó da. @examples 2026-11-02 #eCWzHxeU5hqs $en ±
 I greeted the person when I arrived.
 
-Hıo jí réq da. @examples 2026-10-29 #sLyLuQULIn4 $en ±
+Hıo jí réq da. @examples 2026-11-02 #MBb4HKSsgbu $en ±
 I greet the people.
 
-Hıo jí réq róı ké päı hó da. @examples 2026-10-29 #QldFqRWZYaM $en ±
+Hıo jí réq róı ké päı hó da. @examples 2026-11-02 #AAKx_w09Ag $en ±
 I greed the person and their friend.
 
 Hıo jí súna ka. @examples 2026-10-29 #pOUP0URya4- $en ±
@@ -93938,28 +93931,28 @@ I hereby greet you.
 Hıo ka! @examples 2026-10-29 #8mK1MKn--N-c $en ±
 Hello!
 
-Hıo líq jí, rú hıo jí líq da. @examples 2026-10-29 #yFH7RwKPHc1 $en ±
+Hıo líq jí, rú hıo jí líq da. @examples 2026-11-02 #f93ZuOSQ79t $en ±
 The woman greeted me, and I greeted her.
 
-Hıo mí Shı róı mí Gu jí da. @examples 2026-10-29 #MqdwFP4YGDg $en ±
+Hıo mí Shı róı mí Gu jí da. @examples 2026-11-02 #Niu9a34AJw $en ±
 Shi and Gu greet me.
 
-Hıo náq jí, rú hıo jí náq da. @examples 2026-10-29 #IOqxLBdQzPo $en ±
+Hıo náq jí, rú hıo jí náq da. @examples 2026-11-02 #LHJPqZnelG9 $en ±
 The man greeted me, and I greeted him.
 
-Hıo ní poq jí bîe, ꝡä hıo jí póq da. @examples 2026-10-29 #l2SIAe2FktY $en ±
+Hıo ní poq jí bîe, ꝡä hıo jí póq da. @examples 2026-11-02 #XWj_7ErOY0lu $en ±
 This one greeted me after I greeted them.
 
-Hıo ní poq jí shîu, ꝡä hıo jí póq da. @examples 2026-10-29 #I_JMySHlDpp $en ±
+Hıo ní poq jí shîu, ꝡä hıo jí póq da. @examples 2026-11-02 #CW-PcwCS2jHJ $en ±
 This one greeted me before I greeted them.
 
-Hıo póq jí, rú hıo jí póq da. @examples 2026-10-29 #PO4D9P0hxvA $en ±
+Hıo póq jí, rú hıo jí póq da. @examples 2026-11-02 #6xQedGWb6_h $en ±
 The person greeted me, and I greeted them.
 
 Hıoqgıq jí @examples 2026-10-29 #cYUChWad8b5 $en ±
 (B0671) I feel ashamed of myself
 
-Hıo réq jí, rú hıo jí réq da. @examples 2026-10-29 #SoJp9kNDCIA $en ±
+Hıo réq jí, rú hıo jí réq da. @examples 2026-11-02 #iQEHGZrC7dl $en ±
 The human greeted ma, and I greeted them.
 
 Hıq jea sá núı'eku jıbo. @examples 2026-10-29 #wgQ8YiboOQnB $en ±
@@ -93971,7 +93964,7 @@ Which thing (X) [is such that] you know that I like the thing (X)?
 Hí rıaq nä shao súq, ꝡä fa súq ríaq móq? @examples 2026-10-29 #XIlpA9Z4RG $en ±
 Which place [is such that] you want to go to the place?
 
-⚠ Hoaq jí, cà, ꝡä sho hoaqpuo jí da. @examples 2026-10-29 #GNu9ZS0Xds_ $en ±
+⚠ Hoaq jí, cà, ꝡä sho hoaqpuo jí da. @examples 2026-11-02 #2pLI5F6TCSiF $en ±
 I burn, and turn into ash.
 
 Hoaq ké chôe, ꝡä shıao júaq kúoq da. @examples 2026-10-29 #FSTWrbTm0rB $en ±
@@ -94028,31 +94021,31 @@ Everybody be quiet!
 Ijı súq ba, hu róaqpıa @examples 2026-10-29 #8DRmJnxoo2H $en ±
 (B0690) Cousin, be merry
 
-Iq lâ ano jí hóa, súq da. @examples 2026-10-29 #4oR5umeQW2p $en ±
+Iq lâ ano jí hóa, súq da. @examples 2026-11-02 #IB9CUzA_xIfA $en ±
 I love you.
 
-Iq lâ dua jí hóa, máo, ꝡä ano jí súq da. @examples 2026-10-29 #ke3WC5G6WwB $en ±
+Iq lâ dua jí hóa, máo, ꝡä ano jí súq da. @examples 2026-11-02 #sv948nx4lV6y $en ±
 Another thing I know is that I love you.
 
-Iq lâ dua jí hóa, tó, ꝡä ano jí súq da. @examples 2026-10-29 #pIToKa-Q47s $en ±
+Iq lâ dua jí hóa, tó, ꝡä ano jí súq da. @examples 2026-11-02 #JjOsCDzbr88H $en ±
 The only thing I know is that I love you.
 
-Iq lâ dua jí máo hóa, ꝡä ano jí súq da. @examples 2026-10-29 #hxzUpIuskS3 $en ±
+Iq lâ dua jí máo hóa, ꝡä ano jí súq da. @examples 2026-11-02 #bA0TaKUGFD2O $en ±
 Another thing I know is that I love you.
 
-Iq lâ dua jí tó hóa, ꝡä ano jí súq da. @examples 2026-10-29 #6yhtSGk8PCm $en ±
+Iq lâ dua jí tó hóa, ꝡä ano jí súq da. @examples 2026-11-02 #kRMQ1R6tPeff $en ±
 All I know is that I love you.
 
-Iq lâ gıneq hóa jí, ꝡä bu ano nháo jí da. @examples 2026-10-29 #G1wTSdqqf3X $en ±
+Iq lâ gıneq hóa jí, ꝡä bu ano nháo jí da. @examples 2026-11-02 #K42x84wjG5v9 $en ±
 Luckily for me, they don’t love me.
 
-Iq lâ huıneq hóa jí, ꝡä bu ano nháo jí da. @examples 2026-10-29 #EvM8xT_sFAe $en ±
+Iq lâ huıneq hóa jí, ꝡä bu ano nháo jí da. @examples 2026-11-02 #8q6FC7VZ_gmF $en ±
 Unfortunately for me, they don’t love me.
 
-Iq lâ shua bıo âo hóa, kú ꝡä shaı jıaı jí bío da. @examples 2026-10-29 #xFUbnoH5Eoj $en ±
+Iq lâ shua bıo âo hóa, kú ꝡä shaı jıaı jí bío da. @examples 2026-11-02 #RszzBAKOnMMx $en ±
 What would make the cup fall is if I dropped it.
 
-Iq lâ shua bío kûı hóa, kú ꝡä shaı jıaı jí bío da. @examples 2026-10-29 #4OGWXbGdE59 $en ±
+Iq lâ shua bío kûı hóa, kú ꝡä shaı jıaı jí bío da. @examples 2026-11-02 #56MwwXVVKMFc $en ±
 The reason the cup is falling is that I dropped it.
 
 Iq ní, lä tofu já. @examples 2026-10-29 #b1zapK3y5xeI $en ±
@@ -94103,7 +94096,7 @@ This building is very old.
 Jaq gı máq da. @examples 2026-10-29 #OadHnoXtOss $en ±
 It's very good.
 
-Jaq haqkuaı jí da. @examples 2026-10-29 #oUWZqrEqGpF $en ±
+Jaq haqkuaı jí da. @examples 2026-11-02 #UI048KRi7I $en ±
 I’m very hungry.
 
 ⚠ Jaq he cêo cheo gaq háo rào sa duı reoq @examples 2026-10-29 #kSdagPW200N $en ±
@@ -94226,13 +94219,13 @@ I’m the only one who doesn’t want that.
 Je, bu shao tó nháo hóq da. @examples 2026-10-29 #aU5IEBpO17hN $en ±
 She’s the only one who doesn’t want that.
 
-Je, cho sá bu puı jí da. @examples 2026-10-29 #R0eZrL2b1ft $en ±
+Je, cho sá bu puı jí da. @examples 2026-11-02 #EUAWGZ1Dr5m $en ±
 A few people like me.
 
-Je, cho sá puı jí da. @examples 2026-10-29 #r1xl57Jl9k3 $en ±
+Je, cho sá puı jí da. @examples 2026-11-02 #rhxBqXyuWKh $en ±
 Many people like me.
 
-Je, cho tó sá bu puı jí da. @examples 2026-10-29 #w25fBvbHR_q $en ±
+Je, cho tó sá bu puı jí da. @examples 2026-11-02 #53rZ9Y-qJU7 $en ±
 Only a few people like me.
 
 Je, dua jí kú, ꝡä jıa faq hí da. @examples 2026-10-29 #BP9zUfs-P-PE $en ±
@@ -94265,7 +94258,7 @@ It's me.
 Jeı jí jía taı ba! @examples 2026-10-29 #MR7hfKM0kAp4 $en ±
 May I be the one to succeed!
 
-Jeı jí múaqtua da. @examples 2026-10-29 #04S_zE2I7zA $en ±
+Jeı jí múaqtua da. @examples 2026-11-02 #tgj02C_RJIc $en ±
 I am the killer.
 
 Jeı jí ní da. @examples 2026-10-29 #qCqOz5ShZqW $en ±
@@ -94274,88 +94267,88 @@ This is me.
 Jeı jí róı mí Joana hú gu. @examples 2026-10-29 #L4J3azPROI8- $en ±
 The aforementioned two are me and Joana.
 
-Jeı jí sá poq ꝡë sía toa nä, tıao muıbo tóa hóa da. @examples 2026-10-29 #gTdpv7cQCeG $en ±
+Jeı jí sá poq ꝡë sía toa nä, tıao muıbo tóa hóa da. @examples 2026-11-02 #uwSUg9moA_wr $en ±
 I’m a person of whom no word is an appropriate description.
 
 Jeı jí ꝡé jıa taı hóa ba! @examples 2026-10-29 #VAxj7i57Ip71 $en ±
 May I be the one to succeed!
 
-Jeı mí Chaq múaqtua da. @examples 2026-10-29 #SErnemxL4Jd $en ±
+Jeı mí Chaq múaqtua da. @examples 2026-11-02 #UjKnvvx4-sF $en ±
 Chang is the killer.
 
 Jeı múaqta ní poq. @examples 2026-10-29 #9a9W7CQPkCuX $en ±
 This person is the killer.
 
-Jeı múaqtua jí da. @examples 2026-10-29 #b7l4uZt8F26 $en ±
+Jeı múaqtua jí da. @examples 2026-11-02 #hUPDkGlme5l $en ±
 I am the killer.
 
-Jeı múaqtua mí Chaq da. @examples 2026-10-29 #P57K8jv4vKn $en ±
+Jeı múaqtua mí Chaq da. @examples 2026-11-02 #cvFTNhaku_w $en ±
 Chang is the killer.
 
-Jeı ní ké goısaı ꝡë chôq hóa nä, goı jí áq da. @examples 2026-10-29 #iY1Q1AIRK8N $en ±
+Jeı ní ké goısaı ꝡë chôq hóa nä, goı jí áq da. @examples 2026-11-02 #BcR735f6jRCQ $en ±
 This is the medicine with which I treated myself.
 
-Jeı ní ké kaıfua ꝡë hê ꝡä guaı jí nä tı jí hóa da. @examples 2026-10-29 #1c7toph9l36 $en ±
+Jeı ní ké kaıfua ꝡë hê ꝡä guaı jí nä tı jí hóa da. @examples 2026-11-02 #cDpopYdXZjc_ $en ±
 This is the desk I sit at when I work.
 
-Jeı ní ké kaıfua ꝡë hê ꝡä guaı jí nä tuı jí tî hóa da. @examples 2026-10-29 #IyWIDyNCxqQ $en ±
+Jeı ní ké kaıfua ꝡë hê ꝡä guaı jí nä tuı jí tî hóa da. @examples 2026-11-02 #ymKQgOBk4hfF $en ±
 This is the desk I sit at when I work.
 
-Jeı ní ké req ꝡë ano jí hóa râo tú da. @examples 2026-10-29 #uL1WGIy10iP $en ±
+Jeı ní ké req ꝡë ano jí hóa râo tú da. @examples 2026-11-02 #Uy_fYaMQEGcq $en ±
 The is the person I will love forever.
 
-Jeı ní ké req ꝡë ano jí hóa râotu da. @examples 2026-10-29 #XNSPgVh3l7R $en ±
+Jeı ní ké req ꝡë ano jí hóa râotu da. @examples 2026-11-02 #o8VyNALirxEv $en ±
 This is the person I will love forever.
 
-Jeı ní ꝡé kuaı chuq jí hóa da. @examples 2026-10-29 #VcBUbrSqx1O $en ±
+Jeı ní ꝡé kuaı chuq jí hóa da. @examples 2026-11-02 #3zYdpMRNoIF $en ±
 This is what I want to eat.
 
-Jeı ní ꝡé pu duashao jí, mä faq hóa da. @examples 2026-10-29 #xCysOtW-81O $en ±
+Jeı ní ꝡé pu duashao jí, mä faq hóa da. @examples 2026-11-02 #GrWatq5ZFt3 $en ±
 This is what I wondered whether it would happen or not.
 
-Jeı ní ꝡé pu lemıu jí hóa da. @examples 2026-10-29 #RHltq5GjLx6 $en ±
+Jeı ní ꝡé pu lemıu jí hóa da. @examples 2026-11-02 #GjAKBTi9WFG $en ±
 This is what I expected.
 
-Jeı ní ꝡé pu shao jí hóa da. @examples 2026-10-29 #0TO4uTP8D3h $en ±
+Jeı ní ꝡé pu shao jí hóa da. @examples 2026-11-02 #IOoutQnqoTo $en ±
 This is what I wanted to happen.
 
-Jeı ní ꝡé pu shaotaq tua dua jí súq hóa da. @examples 2026-10-29 #mRjXSIIHYBg $en ±
+Jeı ní ꝡé pu shaotaq tua dua jí súq hóa da. @examples 2026-11-02 #IHdM8062iVn $en ±
 This is what I wanted to tell you.
 
-Jeı nháo ké req ꝡë loı jí hóa râo tú da. @examples 2026-10-29 #aavAjM6t8Pu $en ±
+Jeı nháo ké req ꝡë loı jí hóa râo tú da. @examples 2026-11-02 #CNkh0Bker1JY $en ±
 They are the person I will hate forever.
 
-Jeı nháo ké req ꝡë loı jí hóa râotu da. @examples 2026-10-29 #AlD_D2ZuJzX $en ±
+Jeı nháo ké req ꝡë loı jí hóa râotu da. @examples 2026-11-02 #9iFnZoPKZfRD $en ±
 They are the person I will hate forever.
 
 Jeı súq núo da. @examples 2026-10-29 #H60tOGAeT-X $en ±
 The ones who sleep are you.
 
-Jeı súq ꝡé ano jí hóa da. @examples 2026-10-29 #W3hXpeK_gQJ $en ±
+Jeı súq ꝡé ano jí hóa da. @examples 2026-11-02 #eCGoHSRH30h $en ±
 You are the (only) one I love.
 
-Jeı súq ꝡé deq ano jí hóa da. @examples 2026-10-29 #T4iEFjH4wrI $en ±
+Jeı súq ꝡé deq ano jí hóa da. @examples 2026-11-02 #hiQihFKe5ih $en ±
 You are the (only) one I can love.
 
-Jeı, ꝡé ano jí hóa, súq da. @examples 2026-10-29 #BIJU9KvkzKx $en ±
+Jeı, ꝡé ano jí hóa, súq da. @examples 2026-11-02 #D7XULVlUO2p $en ±
 The (only) one I love is you.
 
-Jeı, ꝡé deq ano jí hóa, súq da. @examples 2026-10-29 #RMgeIK_S3U0 $en ±
+Jeı, ꝡé deq ano jí hóa, súq da. @examples 2026-11-02 #8EbLP9mkSqb $en ±
 The (only) one I can love is you.
 
-Jeı, ꝡé kuaı chuq jí hóa, ní da. @examples 2026-10-29 #HshKhyUYwp_ $en ±
+Jeı, ꝡé kuaı chuq jí hóa, ní da. @examples 2026-11-02 #DvlxO3Vjnro $en ±
 What I want to eat is this.
 
-Jeı, ꝡé pu duashao jí, mä faq hóa, ní da. @examples 2026-10-29 #WotiNlXm_z1 $en ±
+Jeı, ꝡé pu duashao jí, mä faq hóa, ní da. @examples 2026-11-02 #cP0pua-d_QU $en ±
 What I wondered if it would happen was this.
 
-Jeı, ꝡé pu lemıu jí hóa, ní da. @examples 2026-10-29 #AJBmb2nrB3R $en ±
+Jeı, ꝡé pu lemıu jí hóa, ní da. @examples 2026-11-02 #4C60RmhyDxd $en ±
 What I expected to happen is this.
 
-Jeı, ꝡé pu shao jí hóa, ní da. @examples 2026-10-29 #T1Rtlb5ktIT $en ±
+Jeı, ꝡé pu shao jí hóa, ní da. @examples 2026-11-02 #ZwzAAYT_gba $en ±
 What I wanted to happen was this.
 
-Jeı, ꝡé pu shaotaq tua dua jí súq hóa, ní da. @examples 2026-10-29 #lk5vLc_b9Ii $en ±
+Jeı, ꝡé pu shaotaq tua dua jí súq hóa, ní da. @examples 2026-11-02 #GYPr36w38EU $en ±
 What I wanted to tell you is this.
 
 Je, jıa tao áma hóq da. @examples 2026-10-29 #_2PVpVxTUBF- $en ±
@@ -94364,13 +94357,13 @@ We all will do it.
 Je, jıa tao kú áma hóq da. @examples 2026-10-29 #uzJBtUn6QFEw $en ±
 We all will be the ones to do it.
 
-Je, maı sá bu puı jí da. @examples 2026-10-29 #lQh8IMyJcqz $en ±
+Je, maı sá bu puı jí da. @examples 2026-11-02 #0d8pkky2KFQ $en ±
 A few people love me.
 
-Je, maı sá puı jí da. @examples 2026-10-29 #QhPhDbYY0N_ $en ±
+Je, maı sá puı jí da. @examples 2026-11-02 #8Doa6rCIJMd $en ±
 Many people love me.
 
-Je, maı tó sá bu puı jí da. @examples 2026-10-29 #juSdfA1b0Bk $en ±
+Je, maı tó sá bu puı jí da. @examples 2026-11-02 #zQdDLy39l5N $en ±
 Only a few people love me.
 
 Jeo bé hı kaq moq @examples 2026-10-29 #j2KqiKHtBN2 $en ±
@@ -94388,13 +94381,13 @@ He is indeed Chinese.
 Jeo maı jí tó sá shı da. @examples 2026-10-29 #QnAgJRbpCRCs $en ±
 I only truly love one thing.
 
-Je, paı sá bu puı jí da. @examples 2026-10-29 #EOmubw1jfa9 $en ±
+Je, paı sá bu puı jí da. @examples 2026-11-02 #As9LXwewjsm $en ±
 I have a few friends.
 
-Je, paı sá puı jí da. @examples 2026-10-29 #ba85ZOqDUUv $en ±
+Je, paı sá puı jí da. @examples 2026-11-02 #FEY71bOAj4f $en ±
 I have many friends.
 
-Je, paı tó sá bu puı jí da. @examples 2026-10-29 #YhvClU86BCL $en ±
+Je, paı tó sá bu puı jí da. @examples 2026-11-02 #Bs0nZ6RrgRz $en ±
 I have only a few friends.
 
 Je, pu tao áma hóq da. @examples 2026-10-29 #iWj8Kv_KXw1L $en ±
@@ -94490,22 +94483,22 @@ We should do it.
 Jıa chaocaq súq gúsıoq ró ríochao. @examples 2026-10-29 #U7zYJaEIv-NT $en ±
 You will either ride the bike or (pilot) the airplane.
 
-Jıa choq jí kú ké muq po jí da. @examples 2026-10-29 #MWWteGORqPJ $en ±
+Jıa choq jí kú ké muq po jí da. @examples 2026-11-02 #2eHyaj80uaWS $en ±
 I’ll use my hands
 
-Jıa choq jí kú múq po jí da. @examples 2026-10-29 #sGnEujJNfj $en ±
+Jıa choq jí kú múq po jí da. @examples 2026-11-02 #G0vbAo9GUPzE $en ±
 I’ll use my hands
 
-Jıa choq nháo kú ké muq po nháo da. @examples 2026-10-29 #IZe6Aib5dda $en ±
+Jıa choq nháo kú ké muq po nháo da. @examples 2026-11-02 #3_XYuFgMXXHu $en ±
 They’ll use their hands.
 
-Jıa choq nháo kú múq po nháo da. @examples 2026-10-29 #vYOnH3_ENZ $en ±
+Jıa choq nháo kú múq po nháo da. @examples 2026-11-02 #6EcFO9_8TtMn $en ±
 They’ll use their hands.
 
-Jıa choq súq kú ké muq po súq da. @examples 2026-10-29 #4kC3cNl2zvv $en ±
+Jıa choq súq kú ké muq po súq da. @examples 2026-11-02 #6tX9KAVHVTuV $en ±
 You’ll use your hands.
 
-Jıa choq súq kú múq po súq da. @examples 2026-10-29 #Kp82Fr5Gr8 $en ±
+Jıa choq súq kú múq po súq da. @examples 2026-11-02 #P46BsXYuAWj- $en ±
 You’ll use your hands.
 
 Jıa fa jí méı da. @examples 2026-10-29 #cCGJx5j8RsJ $en ±
@@ -94553,19 +94546,19 @@ I promise I’ll join you later today.
 Jıa haqsue jí báq gosonueq ró báq guobenueq. @examples 2026-10-29 #Ri8VtFS3KO7 $en ±
 I will order either chicken or beef, but not both.
 
-Jıa hıo jí líq da. @examples 2026-10-29 #gVI5CR2lyd4 $en ±
+Jıa hıo jí líq da. @examples 2026-11-02 #dKuOYPiTsYD $en ±
 I will greet the women.
 
-Jıa hıo jí náq da. @examples 2026-10-29 #Ch9FsPzx9Qa $en ±
+Jıa hıo jí náq da. @examples 2026-11-02 #looFzC_QjL_ $en ±
 I will greet the men.
 
-Jıa hıo jí nháo da. @examples 2026-10-29 #TIeAV9onQQg $en ±
+Jıa hıo jí nháo da. @examples 2026-11-02 #aPUeq0Y_TWw $en ±
 I will greet them.
 
-Jıa hıo jí nháo róbu jıa hıo nháo jí da. @examples 2026-10-29 #CVyJ585AuHo $en ±
+Jıa hıo jí nháo róbu jıa hıo nháo jí da. @examples 2026-11-02 #Doix88Pyni0 $en ±
 I will greet them if they will greet me.
 
-Jıa hıo jí réq da. @examples 2026-10-29 #WuqMxDG2PWb $en ±
+Jıa hıo jí réq da. @examples 2026-11-02 #uFfiiN02nYW $en ±
 I will greet the people.
 
 Jıaı jí ké cıe da. @examples 2026-10-29 #8lJgDHWb3yoT $en ±
@@ -94604,16 +94597,16 @@ Jıa ruqshua râo níchaq ꝡo. @examples 2026-10-29 #V-ik9jqJha1z $en ±
 Jıa sea nháo bîe, ꝡä guaı nháo da. @examples 2026-10-29 #VxdWQkHP_yY $en ±
 He will relax after he works.
 
-Jıa sho joe suaq jí da. @examples 2026-10-29 #xsaws6lVEJh7 $en ±
+Jıa sho joe suaq jí da. @examples 2026-11-02 #ls3EKfDMkNs $en ±
 I will become good at singing.
 
-Jıa tua dua góıche úmo, mä bıa déo da. @examples 2026-10-29 #ZlETYRRP2uV $en ±
+Jıa tua dua góıche úmo, mä bıa déo da. @examples 2026-11-02 #1weSYw-LSJ $en ±
 The doctor will tell us whether the child is well.
 
-Jıa tua dua góıche úmo, mä bıa líqdeo da. @examples 2026-10-29 #THAsPYzKLIA $en ±
+Jıa tua dua góıche úmo, mä bıa líqdeo da. @examples 2026-11-02 #u2K6dL6YiW $en ±
 The doctor will tell us whether the girl is well.
 
-Jıa tua dua góıche úmo, mä bıa náqdeo da. @examples 2026-10-29 #emlPNSus0Vc $en ±
+Jıa tua dua góıche úmo, mä bıa náqdeo da. @examples 2026-11-02 #7e7ZHZocGr $en ±
 The doctor will tell us whether the boy is well.
 
 Jıa tua dua góıche úmo, mä roe déo da. @examples 2026-10-29 #r6wE7WFjjQV $en ±
@@ -94737,7 +94730,7 @@ I also saw a butterfly.
 Juna rá sahu tú shı da. @examples 2026-10-29 #s4mKWwTIDSu $en ±
 Everything is true or false (or both).
 
-Juna ro sahu tú shı da. @examples 2026-10-29 #nGJQmrFwK80 $en ±
+Juna ro sahu tú shı da. @examples 2026-11-02 #rxySXRHh1z $en ±
 Everything is true or false (not both).
 
 Juna sía, ꝡë ruaq súq hóa da. @examples 2026-10-29 #9WvP8dFwoDot $en ±
@@ -94761,13 +94754,13 @@ Write at least seven good sentences.
 Kaqgaı jí é marao súq. @examples 2026-10-29 #EJi88hrKE4xO $en ±
 I saw you dance.
 
-⚠ Kaqgaı jí káqhua nhaobo, cà shâo jí mâıjıaı jí nháo rá luaofuo jí nháo da. @examples 2026-10-29 #w4EDrIzZfPv $en ±
+⚠ Kaqgaı jí káqhua nhaobo, cà shâo jí mâıjıaı jí nháo rá luaofuo jí nháo da. @examples 2026-11-02 #yIruB_OU184 $en ±
 I saw their eyes, and it made me want to hug them or kiss them.
 
-Kaqgaı jí káqhua nhaobo, rú ca ní mâı jí nháo da. @examples 2026-10-29 #Fxz3aW935An $en ±
+Kaqgaı jí káqhua nhaobo, rú ca ní mâı jí nháo da. @examples 2026-11-02 #kvPHMtYgqu- $en ±
 I saw their eyes, and this made me love them.
 
-Kaqgaı jí káqhua nhaobo, rú ca ní shâo jí mâıjıaı jí nháo rá luaofuo jí nháo da. @examples 2026-10-29 #mszhoRy_oD0 $en ±
+Kaqgaı jí káqhua nhaobo, rú ca ní shâo jí mâıjıaı jí nháo rá luaofuo jí nháo da. @examples 2026-11-02 #-OWCYiSxN4I $en ±
 I saw their eyes, and it made me want to hug them or kiss them.
 
 Kaqgaı jí kú sá shuao. @examples 2026-10-29 #pt2I-aWZTnGq $en ±
@@ -94869,70 +94862,70 @@ As for that night, her new clothing got very dirty.
 Kéo bu boq hóq, ꝡä joe suaq súq da. @examples 2026-10-29 #0R4daE3r-BJ_ $en ±
 But that doesn’t prevent you from being a good singer.
 
-Kéo bu chıetuache jí da. @examples 2026-10-29 #ob-IC38GcMXa $en ±
+Kéo bu chıetuache jí da. @examples 2026-11-02 #yzdqhBc7uwG $en ±
 But I’m not a teacher.
 
-Kéo bu doekaıche jí da. @examples 2026-10-29 #d-jq4sHZohKS $en ±
+Kéo bu doekaıche jí da. @examples 2026-11-02 #hdd0MeY2Z7W $en ±
 But I’m not a programmer.
 
-Kéo bu gıaqche jí da. @examples 2026-10-29 #1Me9m8eDbmv7 $en ±
+Kéo bu gıaqche jí da. @examples 2026-11-02 #K_8icgdgqOP $en ±
 But I’m not a musician.
 
-Kéo bu goıche jí da. @examples 2026-10-29 #zyB-eAfT_V8i $en ±
+Kéo bu goıche jí da. @examples 2026-11-02 #IpChFxeguDN $en ±
 But I’m not a doctor.
 
 Kéo bu kuq súq ké, ꝡë kuq jí hóa ba. @examples 2026-10-29 #KFa9dn8f_nIT $en ±
 But don’t say what I say.
 
-Kéo bu leache jí da. @examples 2026-10-29 #IXQsV84n4c6p $en ±
+Kéo bu leache jí da. @examples 2026-11-02 #aY85GH487N7 $en ±
 But I’m not an artist.
 
 Kéo bu lıe jí, lä joe suaq já da. @examples 2026-10-29 #cPZKUjTQ7V2A $en ±
 But I don’t feel like a good singer.
 
-Kéo bu pumeche jí da. @examples 2026-10-29 #jpmjoKRQJSjh $en ±
+Kéo bu pumeche jí da. @examples 2026-11-02 #YgwQp1eaC28 $en ±
 But I’m not a historian.
 
-Kéo bu suaqche jí da. @examples 2026-10-29 #61mjwTWBvAu0 $en ±
+Kéo bu suaqche jí da. @examples 2026-11-02 #HU_LNkcZPkq $en ±
 But I’m not a singer.
 
-Kéo bu zuche jí da. @examples 2026-10-29 #ikKuNxtJuYXQ $en ±
+Kéo bu zuche jí da. @examples 2026-11-02 #8PgJfYJd2zj $en ±
 But I’m not a linguist.
 
-Kéo chıetuache sía mea nhána da. @examples 2026-10-29 #wFpZNvqehwZJ $en ±
+Kéo chıetuache sía mea nhána da. @examples 2026-11-02 #Jt37uUl0b8b $en ±
 But none of them are teachers.
 
-Kéo chıetuache sía mea súna da. @examples 2026-10-29 #yEExiwu-dSoo $en ±
+Kéo chıetuache sía mea súna da. @examples 2026-11-02 #PmInfbfx1Td $en ±
 But none of you are teachers.
 
-Kéo, cho sá bu puı jí da. @examples 2026-10-29 #FMaH6pwjdNr $en ±
+Kéo, cho sá bu puı jí da. @examples 2026-11-02 #lzRg8ZHA6l9 $en ±
 But a few people like me.
 
-Kéo, cho sá puı jí da. @examples 2026-10-29 #Fhctt0pusTf $en ±
+Kéo, cho sá puı jí da. @examples 2026-11-02 #IqXNOX6B-Bz $en ±
 But many people like me.
 
-Kéo, cho tó sá bu puı jí da. @examples 2026-10-29 #aEmr1LiXQkZ $en ±
+Kéo, cho tó sá bu puı jí da. @examples 2026-11-02 #N8hsaRjnj1u $en ±
 But only a few people like me.
 
-Kéo doekaıche sía mea nhána da. @examples 2026-10-29 #4vq4VhlB8gqX $en ±
+Kéo doekaıche sía mea nhána da. @examples 2026-11-02 #a05j-2-Iz4B $en ±
 But none of them are programmers.
 
-Kéo doekaıche sía mea súna da. @examples 2026-10-29 #VIu4eDHqlZD3 $en ±
+Kéo doekaıche sía mea súna da. @examples 2026-11-02 #PS_53rRE-pZ $en ±
 But none of you are programmers.
 
 Kéo gaq jí kú nháo! @examples 2026-10-29 #aluhgq4VLRl $en ±
 But I'm with him!
 
-Kéo gıaqche sía mea nhána da. @examples 2026-10-29 #gcWvaHpcUYZq $en ±
+Kéo gıaqche sía mea nhána da. @examples 2026-11-02 #HgIgK4mnnEQ $en ±
 But none of them are musicians.
 
-Kéo gıaqche sía mea súna da. @examples 2026-10-29 #FzZ8vxi5z1pP $en ±
+Kéo gıaqche sía mea súna da. @examples 2026-11-02 #sKNB2q76nrM $en ±
 But none of you are musicians.
 
-Kéo goıche sía mea nhána da. @examples 2026-10-29 #vE_eYe0zhKv- $en ±
+Kéo goıche sía mea nhána da. @examples 2026-11-02 #lTokPN9ONyf $en ±
 But none of them are doctors.
 
-Kéo goıche sía mea súna da. @examples 2026-10-29 #45PJND-dZCjH $en ±
+Kéo goıche sía mea súna da. @examples 2026-11-02 #K1Bt3bS-N84 $en ±
 But none of you are doctors.
 
 Kéo, haı koe tao jí da! @examples 2026-10-29 #d3msseaCKpe $en ±
@@ -94956,58 +94949,58 @@ But you’re a good singer!
 Kéo kuoı joe suaq jí ní poq da. @examples 2026-10-29 #s1BmisW_WiHI $en ±
 But I’m not as good a singer as these people.
 
-Kéo leache sía mea nhána da. @examples 2026-10-29 #4vNBeVTmzTtF $en ±
+Kéo leache sía mea nhána da. @examples 2026-11-02 #XK1r2n2BrMm $en ±
 But none of them are artists.
 
-Kéo leache sía mea súna da. @examples 2026-10-29 #4L9WbnSELbOL $en ±
+Kéo leache sía mea súna da. @examples 2026-11-02 #yhwiyuegjdC $en ±
 But none of you are artists.
 
 Kéo líq bï, joe suaq nháo da. @examples 2026-10-29 #eyd0BI53a_S1 $en ±
 But as for the woman, she is a good singer.
 
-Kéo, maı sá bu puı jí da. @examples 2026-10-29 #pLOstmdAMHS $en ±
+Kéo, maı sá bu puı jí da. @examples 2026-11-02 #dPVYo6wMN2a $en ±
 But a few people love me.
 
-Kéo, maı sá puı jí da. @examples 2026-10-29 #MyXEekA-4EN $en ±
+Kéo, maı sá puı jí da. @examples 2026-11-02 #eu1ufbeYOkQ $en ±
 But many people love me.
 
-Kéo, maı tó sá bu puı jí da. @examples 2026-10-29 #uFKszYetU8c $en ±
+Kéo, maı tó sá bu puı jí da. @examples 2026-11-02 #nsjXC7zAkhz $en ±
 But only a few people love me.
 
 Kéo náq bï, nıeq suaq nháo da. @examples 2026-10-29 #sibNY_nytHBq $en ±
 But as for the man, he is not a good singer.
 
-Kéo, paı sá bu puı jí da. @examples 2026-10-29 #wFhhX9iDz0C $en ±
+Kéo, paı sá bu puı jí da. @examples 2026-11-02 #JTvb-_STY8q $en ±
 But I have a few friends.
 
-Kéo, paı sá puı jí da. @examples 2026-10-29 #A05J9pHCCOn $en ±
+Kéo, paı sá puı jí da. @examples 2026-11-02 #zbEcr5DkW9v $en ±
 But I have many friends.
 
-Kéo, paı tó sá bu puı jí da. @examples 2026-10-29 #PbWAhKNwLyF $en ±
+Kéo, paı tó sá bu puı jí da. @examples 2026-11-02 #YMG1C8CBBB4 $en ±
 But I have only a few friends.
 
 Kéo pujuı suaq súq châ sá de. @examples 2026-10-29 #uoDnY05lI48Y $en ±
 But you sang beautifully just now.
 
-Kéo pumeche sía mea nhána da. @examples 2026-10-29 #NyMFwR6Wv682 $en ±
+Kéo pumeche sía mea nhána da. @examples 2026-11-02 #NgeqJA_gD8C $en ±
 But none of them are historians.
 
-Kéo pumeche sía mea súna da. @examples 2026-10-29 #UKYT23pl3dWO $en ±
+Kéo pumeche sía mea súna da. @examples 2026-11-02 #U6WTaQBrvIB $en ±
 But none of you are historians.
 
 Kéo sua hóq da. @examples 2026-10-29 #QWCu4SAwlpdT $en ±
 But it’s necessary.
 
-Kéo suaqcha sía mea súna da. @examples 2026-10-29 #W_1Ebb-qZKh1 $en ±
+Kéo suaqcha sía mea súna da. @examples 2026-11-02 #W59Y0opsaVD $en ±
 But none of you are singers.
 
-Kéo suaqche sía mea nhána da. @examples 2026-10-29 #8QaZ-1rvwoPr $en ±
+Kéo suaqche sía mea nhána da. @examples 2026-11-02 #bk2XPSg3hRI $en ±
 But none of them are singers.
 
-Kéo zuche sía mea nhána da. @examples 2026-10-29 #vzLnpP58rRow $en ±
+Kéo zuche sía mea nhána da. @examples 2026-11-02 #lqtmF1_12Nl $en ±
 But none of them are linguists.
 
-Kéo zuche sía mea súna da. @examples 2026-10-29 #mpdHTHJxyvhp $en ±
+Kéo zuche sía mea súna da. @examples 2026-11-02 #I8h6KY0RZl5 $en ±
 But none of you are linguists.
 
 Ké req bï, nuo hó da. @examples 2026-10-29 #D10dJ7df1zMX $en ±
@@ -95055,13 +95048,13 @@ My hands are cold.
 Koa ní nao móq? @examples 2026-10-29 #enpuh8SKGIu $en ±
 Is this water cold?
 
-Koe jí ní poq ka. @examples 2026-10-29 #i1CYclReU0T $en ±
+Koe jí ní poq ka. @examples 2026-11-02 #0vXFhw0Zeh1 $en ±
 I choose this person.
 
-Koe jí ní req ka. @examples 2026-10-29 #OuPKR6A4tt4 $en ±
+Koe jí ní req ka. @examples 2026-11-02 #xH4J8W9vvSS $en ±
 I choose this person.
 
-Koe jí súq ka. @examples 2026-10-29 #q1efqQj9BnX $en ±
+Koe jí súq ka. @examples 2026-11-02 #c8MI9sLc1sb $en ±
 I choose you.
 
 Koe jí súq, lä maı já já mea túq poq da. @examples 2026-10-29 #4pvu0Z5ojPl $en ±
@@ -95085,19 +95078,19 @@ Pick something appropriate.
 Ko neı jue po baq nıaq baq neıjue @examples 2026-10-29 #ekpWS6Pdyp5 $en ±
 (B0322) September is the ninth month of the year
 
-Kuaı bo súq díaıko rí róaıko móq? @examples 2026-10-29 #0rZWOg0IKN0r $en ±
+Kuaı bo súq díaıko rí róaıko móq? @examples 2026-11-02 #9ACdQD6ge0n $en ±
 Do you want the seventh or the eighth?
 
-Kuaı bo súq féko rí cíko móq? @examples 2026-10-29 #w4ThgU8R0M8 $en ±
+Kuaı bo súq féko rí cíko móq? @examples 2026-11-02 #IkMugbKhNu1 $en ±
 Do you want the fifth or the sixth?
 
-Kuaı bo súq néıko rí héıko móq? @examples 2026-10-29 #cSWAcEX6F1JE $en ±
+Kuaı bo súq néıko rí héıko móq? @examples 2026-11-02 #HG1O01LG-S7 $en ±
 Do you want the ninth or the tenth?
 
-Kuaı bo súq sáqko rí jóko móq? @examples 2026-10-29 #F9Oyo9Ybe4A $en ±
+Kuaı bo súq sáqko rí jóko móq? @examples 2026-11-02 #8cmjG3MTJfp $en ±
 Do you want the third or the forth?
 
-Kuaı bo súq shíko rí gúko móq? @examples 2026-10-29 #8q5GZjfj2mD $en ±
+Kuaı bo súq shíko rí gúko móq? @examples 2026-11-02 #5taXFeRH1P $en ±
 Do you want the first or the second?
 
 ⚠ kuaı chuq @robintown 2022-06-28 #VFlB_Yf4m $en ±
@@ -95145,22 +95138,22 @@ I want to sleep.
 Kuaı jí, lä sı sá já da. @examples 2026-10-29 #svC1Ck9IzlJ $en ±
 I need somebody's attention. / I need attention targeted towards me.
 
-Kuaı jí, lä sho de já da. @examples 2026-10-29 #x4v-a4-XsWXc $en ±
+Kuaı jí, lä sho de já da. @examples 2026-11-02 #RvD4sKTy0Dw $en ±
 I want to become beautiful.
 
-Kuaı jí, lä sho joe suaq já da. @examples 2026-10-29 #iv8Zzs19cFip $en ±
+Kuaı jí, lä sho joe suaq já da. @examples 2026-11-02 #XZCJwQ0coFV $en ±
 I want to become good at singing.
 
 kuaı nuo @robintown 2022-06-28 #bWevOu8tJ $en ±
 [t]predicate: ▯ is tired/sleepy.
 
-Kuaı pıe súq báq kafe rí báq chaı móq? @examples 2026-10-29 #WINOfKYoAOXS $en ±
+Kuaı pıe súq báq kafe rí báq chaı móq? @examples 2026-11-02 #aAo-sggqWzG $en ±
 Do you want to drink coffee or tea?
 
-Kuaı pıe súq báq nao rí báq zeonao móq? @examples 2026-10-29 #yWCj1A8t6lvk $en ±
+Kuaı pıe súq báq nao rí báq zeonao móq? @examples 2026-11-02 #uB__kAJuMpL $en ±
 Do you want to drink water or juice?
 
-Kuaı pıe súq báq noaı rí báq naraqzeonao móq? @examples 2026-10-29 #X1lZik3jk7jn $en ±
+Kuaı pıe súq báq noaı rí báq naraqzeonao móq? @examples 2026-11-02 #NOrHmP_dZgB $en ±
 Do you want to drink milk or orange juice?
 
 Kuaı puagoaı jí áq da. @examples 2026-10-29 #p0cdtu-jWLW $en ±
@@ -95179,10 +95172,10 @@ kuaı shaı gaıkıu @niucuq 2019-02-15 #I1dG8_sRx $en ±
 [t]predicate: [g]‘hunger to disappear’; ▯ has a hunger/urge/longing to disappear.
   niucuq (2019-02-15): (inspired by the lojban lujvo {cancydji})
 
-Kuaı sho de jí da. @examples 2026-10-29 #UjbtOiqa5ZgX $en ±
+Kuaı sho de jí da. @examples 2026-11-02 #D0VX9ZXRNeG $en ±
 I want to become beautiful.
 
-Kuaı sho joe suaq jí da. @examples 2026-10-29 #GaFNTQD6hx5p $en ±
+Kuaı sho joe suaq jí da. @examples 2026-11-02 #usBJxSfLQDi $en ±
 I want to become good at singing.
 
 kua po páı @examples 2026-10-29 #xaQvKUqMhR0h $en ±
@@ -95200,40 +95193,40 @@ I hereby express my gratitude.
 Kuaq kıe jí súq ka. @examples 2026-10-29 #oOuaz51gxyU $en ±
 I hereby thank you.
 
-Kuaq kıe jí súq, lä do já jí ní ka. @examples 2026-10-29 #RbNYX43Ot5R $en ±
+Kuaq kıe jí súq, lä do já jí ní ka. @examples 2026-11-02 #GzYB3oSumUT $en ±
 Thank you for giving this to me.
 
-Kuaq kıe jí súq, lä hıo já jí ka. @examples 2026-10-29 #ZAgLEli3ymB $en ±
+Kuaq kıe jí súq, lä hıo já jí ka. @examples 2026-11-02 #CrTFCXCkkDr $en ±
 Thank you for greeting me.
 
-Kuaq kıe jí súq, lä kuq já ní ka. @examples 2026-10-29 #3Q5LPahlf8K $en ±
+Kuaq kıe jí súq, lä kuq já ní ka. @examples 2026-11-02 #kzwYUO3wHIW $en ±
 Thank you for saying that.
 
-Kuaq kıe jí súq, lä kuq já sá côm jí ka. @examples 2026-10-29 #Cv0Id-MUrj7 $en ±
+Kuaq kıe jí súq, lä kuq já sá côm jí ka. @examples 2026-11-02 #HhFX6oK7IWL $en ±
 Thank you for talking to me.
 
-Kuaq kıe jí súq, lä ruaq já ní ka. @examples 2026-10-29 #8NEM7Evp8_P $en ±
+Kuaq kıe jí súq, lä ruaq já ní ka. @examples 2026-11-02 #xAf-4pnGN97 $en ±
 Thank you for saying that.
 
-Kuaq kıe jí súq, lä ruogı já côm jí ka. @examples 2026-10-29 #eYwDsllRkzx $en ±
+Kuaq kıe jí súq, lä ruogı já côm jí ka. @examples 2026-11-02 #c31E93_UoOg $en ±
 Thank you for being nice to me.
 
-Kuaq kıe jí súq, lä ruogı já nháo ka. @examples 2026-10-29 #hYgcTKUo2uY $en ±
+Kuaq kıe jí súq, lä ruogı já nháo ka. @examples 2026-11-02 #gKdDliHqK62 $en ±
 Thank you for being nice to them.
 
-Kuaq kıe jí súq, lä ruogı ka. @examples 2026-10-29 #mriP2MACSy3 $en ±
+Kuaq kıe jí súq, lä ruogı ka. @examples 2026-11-02 #PFBBjoirhc4 $en ±
 Thank you for being nice.
 
-Kuaq kıe jí súq, lä soa já jí ka! @examples 2026-10-29 #ZwhM4JKDZPa $en ±
+Kuaq kıe jí súq, lä soa já jí ka! @examples 2026-11-02 #F_V5JRa-SfG $en ±
 Thank for for helping me!
 
-Kuaq kıe jí súq, lä sho tı já ní ka. @examples 2026-10-29 #pby56U-J4Jx $en ±
+Kuaq kıe jí súq, lä sho tı já ní ka. @examples 2026-11-02 #2Fcgo7OVihz $en ±
 Thank you for coming here.
 
-Kuaq kıe jí súq, lä tua dua já jí ní ka. @examples 2026-10-29 #-SZKOn_8zb- $en ±
+Kuaq kıe jí súq, lä tua dua já jí ní ka. @examples 2026-11-02 #G4moYwQmpTp $en ±
 Thank you for telling me this.
 
-Kuaq kıe ka! @examples 2026-10-29 #bhLuNkjJJRX $en ±
+Kuaq kıe ka! @examples 2026-11-02 #5GyMytSvNOO $en ±
 Thank you!
 
 Kuaq kıe súq nháo ba. @examples 2026-10-29 #TV6yu6-0RXD $en ±
@@ -95248,10 +95241,10 @@ kuaq soıtaı [(c c) (d d) hó sA] @robintown 2021-12-29 #n9ToMXpM1 $en ±
 Kuaq sheo jí ka. @examples 2026-10-29 #EVF6Uqx4NKm $en ±
 I apologize.
 
-Kuaq sheo nháo, kéo hoaı feı jí da. @examples 2026-10-29 #VLjhweT3NHz $en ±
+Kuaq sheo nháo, kéo hoaı feı jí da. @examples 2026-11-02 #Aw7GTkN1ZZ0 $en ±
 They apologized, but I’m still angry.
 
-Kuaq sheo nháo, rá sho mıu pú feı, ꝡä bu sua ké da. @examples 2026-10-29 #SnYO6h6krkU $en ±
+Kuaq sheo nháo, rá sho mıu pú feı, ꝡä bu sua ké da. @examples 2026-11-02 #kHM4nGfjARC $en ±
 Either they apologized, or the one who was angry decided they didn’t need to.
 
 Kuaq sheo tua gıq foaq jí súq ka. @examples 2026-10-29 #TpP-YYx7kwaN $en ±
@@ -95293,13 +95286,13 @@ Why is it?
 Kuı hóq ꝡä maı jí súq, rá ꝡä paı jí súq da. @examples 2026-10-29 #_Fr6EBl22k0 $en ±
 It’s either because I love you or because we’re friends (or both).
 
-Kuı hóq, ꝡä maı jí súq ró ꝡä paı jí súq da. @examples 2026-10-29 #zlDlPOLmj9Y $en ±
+Kuı hóq, ꝡä maı jí súq ró ꝡä paı jí súq da. @examples 2026-11-02 #NzW41__CUN $en ±
 It’s either because I love you or because we’re friends (not both).
 
 Kuı hóq ꝡä sua hóq sá, rá ꝡä shao sá hóq da. @examples 2026-10-29 #hp25SmoRtTb $en ±
 It’s either because it was necessary or because someone wanted it (or both).
 
-Kuı hóq, ꝡä sua hóq sá ró ꝡä shao sá hóq da. @examples 2026-10-29 #iMLiEj4WYyn $en ±
+Kuı hóq, ꝡä sua hóq sá ró ꝡä shao sá hóq da. @examples 2026-11-02 #_tQcZXGdNr $en ±
 It’s either because it was necessary or because someone wanted it (not both).
 
 Kune ní da. @examples 2026-10-29 #MBBPfOv_5qz $en ±
@@ -95326,19 +95319,19 @@ This coffee is black.
 Kúq bï, guaı hó da. @examples 2026-10-29 #eh5-8HK5FrbF $en ±
 As for the talker, they’re talking.
 
-Kuq côm jí súq sá ba. @examples 2026-10-29 #ucCjcYyEUwd $en ±
+Kuq côm jí súq sá ba. @examples 2026-11-02 #cQ7qmCQqeBA $en ±
 Say something to me.
 
-Kuq côm jí súq sía ba. @examples 2026-10-29 #6i1gKzTIrP6 $en ±
+Kuq côm jí súq sía ba. @examples 2026-11-02 #ENvxfBFlQDZ $en ±
 Don’t talk to me.
 
-Kuq côm nháo súq sá ba. @examples 2026-10-29 #mXy3mXZDLwK $en ±
+Kuq côm nháo súq sá ba. @examples 2026-11-02 #Ma6lw0hf87N $en ±
 Say something to them.
 
-Kuq côm nháo súq sía ba. @examples 2026-10-29 #FLZLg_KjnEV $en ±
+Kuq côm nháo súq sía ba. @examples 2026-11-02 #4dlkQku1F0X $en ±
 Don’t talk to them.
 
-Kuq ní poq sá câ, ꝡä huogaı jí póq da. @examples 2026-10-29 #_rMYdlRgZu2 $en ±
+Kuq ní poq sá câ, ꝡä huogaı jí póq da. @examples 2026-11-02 #H_VqifNm1O4c $en ±
 This one speaks, causing me to hear them.
 
 Kuq nháo, câ péaq raı da. @examples 2026-10-29 #PkVWnulkZup $en ±
@@ -95353,7 +95346,7 @@ Say something.
 Kuq súq shú hıo rá shú shaıhıo ba. @examples 2026-10-29 #at_TT_VszO8 $en ±
 Say either “hello” or “goodbye” (or both).
 
-Kuq súq shú hıo ró shú shaıhıo ba. @examples 2026-10-29 #a5CbGcS4qCm $en ±
+Kuq súq shú hıo ró shú shaıhıo ba. @examples 2026-11-02 #rYzShYXJUxB $en ±
 Say either “hello” or “goodbye” (not both).
 
 kû rao kíachaq @examples 2026-10-29 #B5yGnmf3avfb $en ±
@@ -95575,7 +95568,7 @@ I don’t hate anyone.
 Loı jí sía raı da. @examples 2026-10-29 #GQ7GlQUZf_E0 $en ±
 I don’t hate anyone.
 
-Loı jí tú ꝡë ruaq huı hóa Jíao rá chı hóa ꝡä Jıao sía da. @examples 2026-10-29 #cCdlNFuIJLn $en ±
+Loı jí tú ꝡë ruaq huı hóa Jíao rá chı hóa ꝡä Jıao sía da. @examples 2026-11-02 #oojdjsKrewt $en ±
 I hate anyone who says God is bad or doesn’t believe in a God.
 
 Loı nháo báq meaheo sûq da. @examples 2026-10-29 #0I4pMlr6a4- $en ±
@@ -95680,43 +95673,43 @@ Did she respond by getting angry?
 Ma cheo paı nhána? @examples 2026-10-29 #vc6EcG26JhQn $en ±
 Are they (pl.) friends with each other?
 
-Ma chı súq, ꝡä jeı ní ꝡé juoq chuq jí hóa móq? @examples 2026-10-29 #V3WhJEJErgG $en ±
+Ma chı súq, ꝡä jeı ní ꝡé juoq chuq jí hóa móq? @examples 2026-11-02 #fQF-TlfOFoYg $en ±
 Do you think this is what I should eat?
 
-Ma chı súq, ꝡä jeı ní ꝡé pu lemıu jí hóa móq? @examples 2026-10-29 #zisEZdcEy3g $en ±
+Ma chı súq, ꝡä jeı ní ꝡé pu lemıu jí hóa móq? @examples 2026-11-02 #UqVFSnze-TRh $en ±
 Do you think this is what I expected?
 
-Ma chı súq, ꝡä jeı ní ꝡé pu shao jí hóa móq? @examples 2026-10-29 #vqzAw-BjMS9 $en ±
+Ma chı súq, ꝡä jeı ní ꝡé pu shao jí hóa móq? @examples 2026-11-02 #aGRavz8iWtUx $en ±
 Do you think this is what I wanted?
 
-Ma chı súq, ꝡä jeı ní ꝡé pu shaotaq tua dua jí nháo hóa móq? @examples 2026-10-29 #cOHe29hadas $en ±
+Ma chı súq, ꝡä jeı ní ꝡé pu shaotaq tua dua jí nháo hóa móq? @examples 2026-11-02 #Yzx0kjOL3T7x $en ±
 Do you think that’s what they wanted to tell me?
 
 Ma chı súq, ꝡä jeı nháo mí Chaq móq? @examples 2026-10-29 #f-klphqzg4d $en ±
 Do you think he is Chang?
 
-Ma chı súq, ꝡä jeı súq ꝡé ano jí hóa móq? @examples 2026-10-29 #LMpmO4T_GCS $en ±
+Ma chı súq, ꝡä jeı súq ꝡé ano jí hóa móq? @examples 2026-11-02 #f40_lIftmyeu $en ±
 Do you think you’re the (only) one I love?
 
-Ma chı súq, ꝡä jeı súq ꝡé deq ano jí hóa móq? @examples 2026-10-29 #Cb7RXT4YZpE $en ±
+Ma chı súq, ꝡä jeı súq ꝡé deq ano jí hóa móq? @examples 2026-11-02 #4_BGQ_42mjLO $en ±
 Do you think you’re the (only) one I can love?
 
-Ma chı súq, ꝡä jeı ꝡé ano jí hóa, súq móq? @examples 2026-10-29 #NnN7gv8ACPJ $en ±
+Ma chı súq, ꝡä jeı ꝡé ano jí hóa, súq móq? @examples 2026-11-02 #qU94UvMKApwd $en ±
 Do you think you’re the (only) one I love?
 
-Ma chı súq, ꝡä jeı ꝡé deq ano jí hóa, súq móq? @examples 2026-10-29 #JRZWbuOC81t $en ±
+Ma chı súq, ꝡä jeı ꝡé deq ano jí hóa, súq móq? @examples 2026-11-02 #C8C1R-bzMI78 $en ±
 Do you think you’re the (only) one I can love?
 
-Ma chı súq, ꝡä jeı ꝡé juoq chuq jí hóa, ní móq? @examples 2026-10-29 #xAAQD-LKtzo $en ±
+Ma chı súq, ꝡä jeı ꝡé juoq chuq jí hóa, ní móq? @examples 2026-11-02 #owv-7Q6sxpGT $en ±
 Do you think this is what I should eat?
 
-Ma chı súq, ꝡä jeı ꝡé pu lemıu jí hóa, ní móq? @examples 2026-10-29 #GPoCM1eEORK $en ±
+Ma chı súq, ꝡä jeı ꝡé pu lemıu jí hóa, ní móq? @examples 2026-11-02 #KrN7_SrnqtVd $en ±
 Do you think this is what I expected?
 
-Ma chı súq, ꝡä jeı ꝡé pu shao jí hóa, ní móq? @examples 2026-10-29 #d7rhSia4USP $en ±
+Ma chı súq, ꝡä jeı ꝡé pu shao jí hóa, ní móq? @examples 2026-11-02 #ApKsLb7fgy5- $en ±
 Do you think this is what I wanted?
 
-Ma chı súq, ꝡä jeı ꝡé pu shaotaq tua dua jí nháo hóa, ní móq? @examples 2026-10-29 #T-l2H-sdGib $en ±
+Ma chı súq, ꝡä jeı ꝡé pu shaotaq tua dua jí nháo hóa, ní móq? @examples 2026-11-02 #YVgSt3ZDSqGf $en ±
 Do you think this is what they wanted to tell me?
 
 Ma chı súq, ꝡä jıao sá móq? @examples 2026-10-29 #ArwoMwXgGFXa $en ±
@@ -95728,25 +95721,25 @@ Do you believe any gods exist?
 Ma choaqjıo huı máq móq? @examples 2026-10-29 #L99pnISE6M- $en ±
 Is it a bad hotel?
 
-Ma cho nháo mí Caılu rá náq geo móq? @examples 2026-10-29 #XXLKZUrOxOve $en ±
+Ma cho nháo mí Caılu rá náq geo móq? @examples 2026-11-02 #zbOy2L7YvIe $en ±
 Does she like Cailu or the old man? (yes/no?)
 
-Ma cho nháo mí Huaq rá mí Cıqshe móq? @examples 2026-10-29 #YcV9blAUijMs $en ±
+Ma cho nháo mí Huaq rá mí Cıqshe móq? @examples 2026-11-02 #j-tQTJNJ1_R $en ±
 Does she like Huaq or Ciqshy? (yes/no?)
 
-Ma cho nháo mí Shı rá mí Gu móq? @examples 2026-10-29 #HgqQ1EBpEXlH $en ±
+Ma cho nháo mí Shı rá mí Gu móq? @examples 2026-11-02 #KnAF1zCKpyQ $en ±
 Does she like Shi or Gu? (yes/no?)
 
 Ma cho súq kúa nhaobo móq? @examples 2026-10-29 #-pXu2VX8VPr $en ±
 Did you like his room?
 
-Ma cho súq mí Caılu rá náq geo móq? @examples 2026-10-29 #xRnNN1wv_RPD $en ±
+Ma cho súq mí Caılu rá náq geo móq? @examples 2026-11-02 #XrV4yzmyN-K $en ±
 Do you like Cailu or the old man? (yes/no?)
 
-Ma cho súq mí Chı rá mí Gu móq? @examples 2026-10-29 #lmoDZNmt5rta $en ±
+Ma cho súq mí Chı rá mí Gu móq? @examples 2026-11-02 #DUo1lByI-eh $en ±
 Do you like Shi or Gu? (yes/no?)
 
-Ma cho súq mí Huaq rá mí Cıqshe móq? @examples 2026-10-29 #9iOu1gZh1p_f $en ±
+Ma cho súq mí Huaq rá mí Cıqshe móq? @examples 2026-11-02 #3VmEB3kgr6l $en ±
 Do you like Huaq or Ciqshy? (yes/no?)
 
 Ma chum kaqgaı súq jí móq? @examples 2026-10-29 #8ytiNChRiYYX $en ±
@@ -95908,19 +95901,19 @@ Shi loves herself.
 Maı náq roı líq chéq da. @examples 2026-10-29 #K6KhaAnWjws $en ±
 The man and the woman love each other.
 
-Maı nháo mí Caılu rí náq geo móq? @examples 2026-10-29 #Fn_67tWz6mmN $en ±
+Maı nháo mí Caılu rí náq geo móq? @examples 2026-11-02 #QRKAvNCF7hS $en ±
 Does she love Cailu or the old man? (which?)
 
-Maı nháo mí Huaq rí mí Cıqshe móq? @examples 2026-10-29 #tW8hxYs54Yjc $en ±
+Maı nháo mí Huaq rí mí Cıqshe móq? @examples 2026-11-02 #5P5Kc3rA6wy $en ±
 Does she love Huaq or Ciqshy? (which?)
 
-Maı nháo mí Shı rí mí Gu móq? @examples 2026-10-29 #QPM2OqGhitqi $en ±
+Maı nháo mí Shı rí mí Gu móq? @examples 2026-11-02 #pYGhWqjbThA $en ±
 Does she love Shi or Gu? (which?)
 
 Ma ıqshao paı súq jí móq? @examples 2026-10-29 #on7ztKqBt4Yn $en ±
 Do you want to be my friend?
 
-Maı sá bu puı jí da. @examples 2026-10-29 #DzhHI2gjfcx $en ±
+Maı sá bu puı jí da. @examples 2026-11-02 #x7y8Kbo78Ss $en ±
 A few people love me.
 
 Maı sá lıq sía naq da. @examples 2026-10-29 #pjzFBia2joEo $en ±
@@ -95929,7 +95922,7 @@ Some women don’t love any men.
 Maı sá naq sía lıq da. @examples 2026-10-29 #DZ7pFn-nq8Xq $en ±
 Some men don’t love any women.
 
-Maı sá puı jí da. @examples 2026-10-29 #ww2qwsELBJx $en ±
+Maı sá puı jí da. @examples 2026-11-02 #y6ZX2i5JkaO $en ±
 Many people love me.
 
 Maı sía jí da. @examples 2026-10-29 #qhGaCcQrYsjs $en ±
@@ -95941,16 +95934,16 @@ No one loves me.
 Maı súq áq ba. @examples 2026-10-29 #p6IsJfn6GGU $en ±
 Love yourself.
 
-Maı súq mí Caılu rí náq geo móq? @examples 2026-10-29 #Jk8LkNlglVBO $en ±
+Maı súq mí Caılu rí náq geo móq? @examples 2026-11-02 #oQoawDUv16M $en ±
 Do you love Cailu or the old man? (which?)
 
-Maı súq mí Huaq rí mí Cıqshe móq? @examples 2026-10-29 #sT-4JSKxacjA $en ±
+Maı súq mí Huaq rí mí Cıqshe móq? @examples 2026-11-02 #LZR69CVvQVj $en ±
 Do you love Huaq or Ciqshy? (which?)
 
-Maı súq mí Shı rí mí Gu móq? @examples 2026-10-29 #b2gha69hCN9A $en ±
+Maı súq mí Shı rí mí Gu móq? @examples 2026-11-02 #2zl1J_iXuHm $en ±
 Do you love Shi or Gu? (which?)
 
-Maı tó sá bu puı jí da. @examples 2026-10-29 #z6Ud5bV-X3z $en ±
+Maı tó sá bu puı jí da. @examples 2026-11-02 #BFl5pkD4kRl $en ±
 Only a few people love me.
 
 Maı tú apı sá rua. @examples 2026-10-29 #7B6E_uoEfayH $en ±
@@ -95983,13 +95976,13 @@ Are you never happy?
 Ma jeı hó ní móq? @examples 2026-10-29 #D7UYVxyFRXnH $en ±
 Is that him?
 
-Ma jeı mí Chaq múaqtua móq? @examples 2026-10-29 #IpRxKpXNirS $en ±
+Ma jeı mí Chaq múaqtua móq? @examples 2026-11-02 #tq8dEPVck2A $en ±
 Is Chang the killer?
 
-Ma jeı múaqtua mí Chaq móq? @examples 2026-10-29 #Wye2oBOlrdN $en ±
+Ma jeı múaqtua mí Chaq móq? @examples 2026-11-02 #cNaUrPPS7r0 $en ±
 Is Chang the killer?
 
-Ma jeı múaqtua súq móq? @examples 2026-10-29 #FbFeZgyB1Cm $en ±
+Ma jeı múaqtua súq móq? @examples 2026-11-02 #G4gb0hHpA2o $en ±
 Are you the killer?
 
 Ma jeı nháo ní móq? @examples 2026-10-29 #Fc8lUQEx_PPy $en ±
@@ -95998,7 +95991,7 @@ Is he this guy?
 Ma jeı súq mí Lı móq? @examples 2026-10-29 #4D0YeF_8B_- $en ±
 Are you Lee?
 
-Ma jeı súq múaqtua móq? @examples 2026-10-29 #Etb4fWRnZI5 $en ±
+Ma jeı súq múaqtua móq? @examples 2026-11-02 #EGX9EYd5XYx $en ±
 Are you the killer?
 
 Ma jeı súq ní móq? @examples 2026-10-29 #Qh9VYG-Tpo2o $en ±
@@ -96007,16 +96000,16 @@ Is this you?
 Ma jıa gaq súq móq? @examples 2026-10-29 #d27fea0OW8M $en ±
 Will you join?
 
-Ma jıa shua hóe móq? @examples 2026-10-29 #UulNuVcgQ825 $en ±
+Ma jıa shua hóe móq? @examples 2026-11-02 #NV-hT9WClFP $en ±
 Is the sun going to fall?
 
-Ma jıa shua míao móq? @examples 2026-10-29 #T-87r6-u6atT $en ±
+Ma jıa shua míao móq? @examples 2026-11-02 #YjAkg51t5zR $en ±
 Is the moon going to fall?
 
-Ma jıa shua púao móq? @examples 2026-10-29 #3XC2NZ0YKGmz $en ±
+Ma jıa shua púao móq? @examples 2026-11-02 #-KV3T0xzIlO $en ±
 Are the clouds going to fall?
 
-Ma jıa shua séoq móq? @examples 2026-10-29 #Mt3XMHlDbka_ $en ±
+Ma jıa shua séoq móq? @examples 2026-11-02 #dn0KIwImV2s $en ±
 Is the sky going to fall?
 
 ⚠ Ma jıu súq tì mí Seılu'ı moq? @examples 2026-10-29 #oTSmdTPF-3x $en ±
@@ -96069,25 +96062,25 @@ Do the two men love each other?
 Ma maı náq roı líq chéq móq? @examples 2026-10-29 #vzxWu_QQ0vr $en ±
 Do the man and the woman love each other?
 
-Ma maı nháo mí Caılu rá náq geo móq? @examples 2026-10-29 #SU10aF-Vk_gT $en ±
+Ma maı nháo mí Caılu rá náq geo móq? @examples 2026-11-02 #TpExHt4BHoT $en ±
 Does she love Cailu or the old man? (yes/no?)
 
-Ma maı nháo mí Huaq rá mí Cıqshe móq? @examples 2026-10-29 #nSdc0g52TgFn $en ±
+Ma maı nháo mí Huaq rá mí Cıqshe móq? @examples 2026-11-02 #yxiRiFmf_Cc $en ±
 Does she love Huaq or Ciqshy? (yes/no?)
 
-Ma maı nháo mí Shı rá mí Gu móq? @examples 2026-10-29 #JR8PmPUw-H9- $en ±
+Ma maı nháo mí Shı rá mí Gu móq? @examples 2026-11-02 #Es278dka1uW $en ±
 Does she love Shi or Gu? (yes/no?)
 
 Ma maı súq jí móq? @examples 2026-10-29 #FJWTQqeF6UYh $en ±
 Do you love me?
 
-Ma maı súq mí Caılu rá náq geo móq? @examples 2026-10-29 #shuquXDLetaM $en ±
+Ma maı súq mí Caılu rá náq geo móq? @examples 2026-11-02 #KOOohRz15xA $en ±
 Do you love Cailu or the old man? (yes/no?)
 
-Ma maı súq mí Huaq rá mí Cıqshe móq? @examples 2026-10-29 #CMmOEWdteej1 $en ±
+Ma maı súq mí Huaq rá mí Cıqshe móq? @examples 2026-11-02 #VXJuP1Pwzxp $en ±
 Do you love Huaq or Ciqshy? (yes/no?)
 
-Ma maı súq mí Shı rá mí Gu móq? @examples 2026-10-29 #VN-vHbbCC35L $en ±
+Ma maı súq mí Shı rá mí Gu móq? @examples 2026-11-02 #eypsw52lh-C $en ±
 Do you love Shi or Gu? (yes/no?)
 
 Máma jıbo, jü bua hó báq meaq, nä poq bụqgı hó. @examples 2026-10-29 #YA_mCsUzaVSW $en ±
@@ -96150,13 +96143,13 @@ Do you remember in which room the cat is?
 Ma moaq súq sía raı móq? @examples 2026-10-29 #DD6C2QLZiZy $en ±
 Do you remember nothing?
 
-Ma muı ní ꝡé chua hóa jí móq? @examples 2026-10-29 #vllrZR7CKJ1 $en ±
+Ma muı ní ꝡé chua hóa jí móq? @examples 2026-11-02 #tz-sijw_2o-h $en ±
 Is this the meaning of my name?
 
-Ma muı sá ꝡé chua hóa nháo móq? @examples 2026-10-29 #bOWD_oPQpoZ $en ±
+Ma muı sá ꝡé chua hóa nháo móq? @examples 2026-11-02 #Ru__jppIis1S $en ±
 Does their name have a meaning?
 
-Ma muı sá ꝡé chua hóa súq móq? @examples 2026-10-29 #WErB_gVzY82 $en ±
+Ma muı sá ꝡé chua hóa súq móq? @examples 2026-11-02 #6dGemJG0G5Yo $en ±
 Does your name have a meaning?
 
 Ma naqfu sía raı súq móq? @examples 2026-10-29 #2g-oCq2ubcy $en ±
@@ -96280,7 +96273,7 @@ He's ready for anything.
 Mıa dua nháo da. @examples 2026-10-29 #X10Ukxffnhq $en ±
 She knows a lot.
 
-Mıaqmıq ru daqdeaı tú ocha da. @examples 2026-10-29 #ZZSU-BfyrF7r $en ±
+Mıaqmıq ru daqdeaı tú ocha da. @examples 2026-11-02 #6tkqRKfvOfa $en ±
 All human beings are precious and worthwhile.
 
 mí Bıoıcıa @Laqme 2024-09-27 #xmN6LqPmZ $en ±
@@ -96542,7 +96535,7 @@ They think that it, too, is good.
 Mıu nháo, ꝡä gı máq da. @examples 2026-10-29 #79P-8JE6VD- $en ±
 They think it is good.
 
-Mıu nháo, ꝡä tú raı, ꝡë tao jí hóa nä, huı ráı da. @examples 2026-10-29 #JaY6oCj-pZc $en ±
+Mıu nháo, ꝡä tú raı, ꝡë tao jí hóa nä, huı ráı da. @examples 2026-11-02 #POpEvGlXs3pb $en ±
 They think everything I do is bad.
 
 Mıu sía ꝡä gı hóq da. @examples 2026-10-29 #R5hWBUKpttC $en ±
@@ -96573,7 +96566,7 @@ What do you remember of that day?
 Moe buetı súq ba, hu jíbo paı @examples 2026-10-29 #3SakWSQGC9a $en ±
 (B0621) Make yourselves at home, my friends
 
-Moı jí dâı, ꝡä shaı choa súq da. @examples 2026-10-29 #06-ASPUYKi0 $en ±
+Moı jí dâı, ꝡä shaı choa súq da. @examples 2026-11-02 #BiGY4clw4yXk $en ±
 I could think if you would shut up.
 
 moısı bâq gochıq @Laqme 2024-05-22 #itU1Bl8v9 $en ±
@@ -96591,7 +96584,7 @@ I dislike the thing that's going to happen.
 Mụcho nháo jéa lô chao. @examples 2026-10-29 #9rK3A5fHmRRa $en ±
 He dislikes the buyer of the vehicle.
 
-Muıbo ní toa múı lô toa da. @examples 2026-10-29 #vaBP2LTPu76 $en ±
+Muıbo ní toa múı lô toa da. @examples 2026-11-02 #MBxWvtyjuXrm $en ±
 This word means what it means.
 
 Muıbo sía toa shı sá puq ba. @examples 2026-10-29 #vB8mmwshbRa $en ±
@@ -96603,58 +96596,58 @@ He doesn't understand any of my words.
 Muıdua nháo sía, ꝡë kuq jí hóa da. @examples 2026-10-29 #u7UiZ8Qx8J9s $en ±
 He doesn't understand anything that I say.
 
-Muı hí mó «Ano jí súq» teo móq? @examples 2026-10-29 #a74Idyh0pOn $en ±
+Muı hí mó «Ano jí súq» teo móq? @examples 2026-11-02 #L9pEe9g8KwwI $en ±
 What is the meaning of the sentence “Ảnou jí súq"?
 
-Muı hí mó «Bu dua jí ní da.» teo móq? @examples 2026-10-29 #2Ou2bvfGbdA $en ±
+Muı hí mó «Bu dua jí ní da.» teo móq? @examples 2026-11-02 #Ew3-GFWPbS4c $en ±
 What is the meaning of the sentence “Bủ dủa jí ní da.”?
 
-Muı hí mó «Fı sıshaı jí da.» teo da. @examples 2026-10-29 #Iv_Z49xj5Ty $en ±
+Muı hí mó «Fı sıshaı jí da.» teo da. @examples 2026-11-02 #_huIn1Mtzr5s $en ±
 What is the meaning of the sentence “Zả sỉshaı jí da."?
 
-⚠ Muı hí mó «Hello» teo móq? @examples 2026-10-29 #x4cie_Vt47k $en ±
+⚠ Muı hí mó «Hello» teo móq? @examples 2026-11-02 #E2ItadiNtZz4 $en ±
 What is the meaning of the sentence “Hello"?
 
-Muı hí mó «Hıo ka» teo móq? @examples 2026-10-29 #e0rwNtgzaN6 $en ±
+Muı hí mó «Hıo ka» teo móq? @examples 2026-11-02 #GXwn_3q6j26k $en ±
 What is the meaning of the sentence “Hỉo ka"?
 
-⚠ Muı hí mó «I loꝡe ꝡou» teo móq? @examples 2026-10-29 #xH_jij1p7V7 $en ±
+⚠ Muı hí mó «I loꝡe ꝡou» teo móq? @examples 2026-11-02 #zd2PdxapS8e1 $en ±
 What is the meaning of the sentence “I love you"?
 
-⚠ Muı hí mó «I should sleep» teo móq? @examples 2026-10-29 #o-pjRMGxI14 $en ±
+⚠ Muı hí mó «I should sleep» teo móq? @examples 2026-11-02 #7zWyZ_ZzHmzq $en ±
 What is the meaning of the sentence “I should sleep"?
 
-Muı hí mó «Nuo jí ba.» teo móq? @examples 2026-10-29 #AZTCmi8ECC6 $en ±
+Muı hí mó «Nuo jí ba.» teo móq? @examples 2026-11-02 #_gY0b0NNrj4R $en ±
 What is the meaning of the sentence “Nủo jí ba."?
 
-Muı hí ꝡé chua hóa nháo móq? @examples 2026-10-29 #23B7E-Y1vtf $en ±
+Muı hí ꝡé chua hóa nháo móq? @examples 2026-11-02 #kBfRo3hFQE41 $en ±
 What is the meaning of their name?
 
-Muı hí ꝡé chua hóa súq móq? @examples 2026-10-29 #dZ8SY0VJsZs $en ±
+Muı hí ꝡé chua hóa súq móq? @examples 2026-11-02 #kjkYT7yIQzxK $en ±
 What is the meaning of your name?
 
-⚠ Muıjeq mó «Anou jí súq» teo mó «Mu ano súq jí» teo da. @examples 2026-10-29 #RYmrCDh3xvI $en ±
+⚠ Muıjeq mó «Anou jí súq» teo mó «Mu ano súq jí» teo da. @examples 2026-11-02 #ReN37FsuSka8 $en ±
 “Ảnou jí súq” means the same thing as “Mủ ảnou súq jí".
 
-Muıjeq mó «Bu dua jí ní da» teo mó «Bu dua jí ké da» teo da. @examples 2026-10-29 #MQNspM294D4 $en ±
+Muıjeq mó «Bu dua jí ní da» teo mó «Bu dua jí ké da» teo da. @examples 2026-11-02 #rLhplGvreqha $en ±
 “Bủ dủa jí ní da" means the same thing as “Bủ dủa jí ráy da".
 
-Muıjeq mó «Fı sıshaı jí da» teo mó «Fı shaı sı jí ní da» teo da. @examples 2026-10-29 #GwJWyBBqfTW $en ±
+Muıjeq mó «Fı sıshaı jí da» teo mó «Fı shaı sı jí ní da» teo da. @examples 2026-11-02 #0uGfbwlxvrIk $en ±
 “Zả sỉshaı jí da” means the same thing as “Zả shảı sỉ jí da".
 
-⚠ Muıjeq mó «Hello» teo mó «Hello, ꝡou» teo da. @examples 2026-10-29 #HQFBOmE4TJJ $en ±
+⚠ Muıjeq mó «Hello» teo mó «Hello, ꝡou» teo da. @examples 2026-11-02 #-Jrm4FKAzhR8 $en ±
 “Hello" means the same thing as “Hello you".
 
-Muıjeq mó «Hıo ka» teo mó «Hıo jí súq ka» teo da. @examples 2026-10-29 #yQt0GuNWp5Z $en ±
+Muıjeq mó «Hıo ka» teo mó «Hıo jí súq ka» teo da. @examples 2026-11-02 #CPPOmdMQIikc $en ±
 “Hỉo ka" means the same thing as “Hỉo jí súq ka".
 
-⚠ Muıjeq mó «I should sleep» teo mó «I should sleep now» teo da. @examples 2026-10-29 #okGRvoAUbJw $en ±
+⚠ Muıjeq mó «I should sleep» teo mó «I should sleep now» teo da. @examples 2026-11-02 #vuktsGuCMHSn $en ±
 “I should sleep” means the same thing as “I should sleep now".
 
-Muıjeq mó «Nuo jí ba» teo mó «Fı nuo jí ba» teo da. @examples 2026-10-29 #2KqOCS0Fk2V $en ±
+Muıjeq mó «Nuo jí ba» teo mó «Fı nuo jí ba» teo da. @examples 2026-11-02 #tw7e7wf9EisN $en ±
 “Nủo jí ba” means the same thing as “Zả nủo jí ba".
 
-Muı ní sá toa ꝡë jîe jí nä, de hóa da. @examples 2026-10-29 #j7DEDjmw-tj $en ±
+Muı ní sá toa ꝡë jîe jí nä, de hóa da. @examples 2026-11-02 #2rWc-Dyir7H5 $en ±
 This is the meaning of a word which, to me, is beautiful.
 
 Mụle, ꝡä hoaı moaq róaqroaq sá po súq da. @examples 2026-10-29 #ocVjJlKrLUs $en ±
@@ -96859,10 +96852,10 @@ Someone is in the bathroom.
 Ní fıeq bï zao jí hó da. @examples 2026-10-29 #FQ49lHuyihK $en ±
 That creator I'm familiar with.
 
-Níjao nä, bu cho jí hóa da. @examples 2026-10-29 #EP48ge1gBZH $en ±
+Níjao nä, bu cho jí hóa da. @examples 2026-11-02 #-daeoR_x52to $en ±
 As for that, I don’t like it.
 
-Níjao nä, cho jí hóa da. @examples 2026-10-29 #6657iVtHoPO $en ±
+Níjao nä, cho jí hóa da. @examples 2026-11-02 #SLFeUJDsLHd6 $en ±
 As for that, I like it.
 
 Nıjuıfa súq ba, hu súoq jı @examples 2026-10-29 #nXl9rflYRyA $en ±
@@ -96871,10 +96864,10 @@ Nıjuıfa súq ba, hu súoq jı @examples 2026-10-29 #nXl9rflYRyA $en ±
 Ní lıqdeo nä ruaq hó ꝡä fu hó súq da. @examples 2026-10-29 #jbaBlxyFW8hh $en ±
 This girl said she was your daughter.
 
-Ní nä, bu cho jí hóa da. @examples 2026-10-29 #bUcbGhllvSU $en ±
+Ní nä, bu cho jí hóa da. @examples 2026-11-02 #a0zhbT0K7IAU $en ±
 As for this, I don’t like it.
 
-Ní nä, cho jí hóa da. @examples 2026-10-29 #p9TtFYTvi-C $en ±
+Ní nä, cho jí hóa da. @examples 2026-11-02 #_sR9ozU9f2XD $en ±
 As for this, I like it.
 
 Ní nä mea páı jî hóa da. @examples 2026-10-29 #_wJPN1KR9QM $en ±
@@ -96960,7 +96953,7 @@ Taste this pear.
 Noqgı báq chaı da. @examples 2026-10-29 #nNWz7OJaGyh $en ±
 Tea tastes good.
 
-Noqgı báq pıca, rú noqhuı báq chuqnıu da. @examples 2026-10-29 #QaUwlgj7A61 $en ±
+Noqgı báq pıca, rú noqhuı báq chuqnıu da. @examples 2026-11-02 #P5B5GIVNLw9 $en ±
 Pizza tastes good and vegetables taste bad.
 
 Noqgı háq, ꝡë luı baı súq hóa da. @examples 2026-10-29 #Lx9xvRHlmkLn $en ±
@@ -97068,16 +97061,16 @@ One should be a friend to oneself.
 Paı jí ké poq. @examples 2026-10-29 #tTsLJ37Pc5RC $en ±
 I’m friends with the person.
 
-⚠ Paı jí nháo, cà jâı jí da. @examples 2026-10-29 #7tApcYw98Ws $en ±
+⚠ Paı jí nháo, cà jâı jí da. @examples 2026-11-02 #TvNXRlMSgmyi $en ±
 I’m friends with them, which makes them happy.
 
 Paı jí nháo rú páı nhaobo da. @examples 2026-10-29 #kFpXYxfn_IH $en ±
 I’m friends with them and with their friends.
 
-Paı jí sá poq ꝡë sía raı bü jeı jí nä, paı hóa ráı da. @examples 2026-10-29 #lKTrCpHfXK7 $en ±
+Paı jí sá poq ꝡë sía raı bü jeı jí nä, paı hóa ráı da. @examples 2026-11-02 #31JozLrKhtmJ $en ±
 I’m friends with somebody who doesn’t have any friends except for me.
 
-Paı jí sá poq ꝡë sía raı nä, cho hóa ráı da. @examples 2026-10-29 #bRbHFjTkXJe $en ±
+Paı jí sá poq ꝡë sía raı nä, cho hóa ráı da. @examples 2026-11-02 #T39TE9Ry98JE $en ±
 I’m friends with somebody who doesn’t like anything.
 
 Paı jí sía da. @examples 2026-10-29 #EI0Xx7_BH8p $en ±
@@ -97125,19 +97118,19 @@ Huaq is friends with them, too.
 Paı mí Sara. @examples 2026-10-29 #zeG9AHS6iJ8u $en ±
 Sara is a friend.
 
-⚠ Paı nháo jí, cà jâı jí da. @examples 2026-10-29 #GIRfGIJDcZd $en ±
+⚠ Paı nháo jí, cà jâı jí da. @examples 2026-11-02 #2YSM5xmBrUcd $en ±
 They’re friends with me, which makes me happy.
 
 Paı nháo mí Shı rá mí Gu da. @examples 2026-10-29 #vU09J8Slj-s $en ±
 They’re friends with either Shi or Gu (or both).
 
-Paı nháo mí Shı ró mí Gu da. @examples 2026-10-29 #PpjkYorLKUi $en ±
+Paı nháo mí Shı ró mí Gu da. @examples 2026-11-02 #o7BUXo6u8_B $en ±
 They’re friends with either Shi or Gu (not both).
 
-Paı sá bu puı jí da. @examples 2026-10-29 #nGjPXQ0Bsz8 $en ±
+Paı sá bu puı jí da. @examples 2026-11-02 #betdXnC3x2f $en ±
 I have a few friends.
 
-Paı sá puı jí da. @examples 2026-10-29 #xGhkXfiefmv $en ±
+Paı sá puı jí da. @examples 2026-11-02 #jsFHwXi2IzX $en ±
 I have many friends.
 
 Paı súq hípuı móq? @examples 2026-10-29 #4KVXNDubI8nq $en ±
@@ -97149,7 +97142,7 @@ How many of my friends are you friends with?
 Paı súq hípuı raı móq? @examples 2026-10-29 #I5rlnbnGldS_ $en ±
 How many friends do you have?
 
-Paı tó sá bu puı jí da. @examples 2026-10-29 #JYXmgjg8S42 $en ±
+Paı tó sá bu puı jí da. @examples 2026-11-02 #E6xHNJ4fwyF $en ±
 I have only a few friends.
 
 Paı túq poq chéq ba. @examples 2026-10-29 #1GlL3iJaWWt $en ±
@@ -97192,7 +97185,7 @@ Drink!
 Pıe súq hí raı móq? @examples 2026-10-29 #HmsiIjYfJK $en ±
 What (thing) are you drinking?
 
-Pızı jí kûı, ꝡä dua ruohuı'aı nháo tóa kéo kuq nháo tóa da. @examples 2026-10-29 #CSr887WKgvw $en ±
+Pızı jí kûı, ꝡä dua ruohuı'aı nháo tóa kéo kuq nháo tóa da. @examples 2026-11-02 #ElmREPRg-xN $en ±
 I’m annoyed because they know the word is rude and they said it anyway.
 
 Po báq elu tíse. @examples 2026-10-29 #QQln-Ga6xkcn $en ±
@@ -97204,40 +97197,40 @@ po jíaqheoq @robintown 2022-02-19 #uf0LGgpS0 $en ±
 Po jí rí súq ní bıo móq? @examples 2026-10-29 #o66SjRPiBwf $en ±
 This cup, is it mine or yours?
 
-Po jí sío da. @examples 2026-10-29 #L__jZ_FE5RG $en ±
+Po jí sío da. @examples 2026-11-02 #Q3GEpyQImXSR $en ±
 The idea is mine.
 
-Pó nháo nä, chıaı hóa da. @examples 2026-10-29 #pznrvJEonsB $en ±
+Pó nháo nä, chıaı hóa da. @examples 2026-11-02 #QwLQ3irk8Ja $en ±
 As for theirs, it was wrong.
 
-Pó nháo nä, dua jí hóa da. @examples 2026-10-29 #euXT2DgsLGu $en ±
+Pó nháo nä, dua jí hóa da. @examples 2026-11-02 #Ms-Mo9r5bzx $en ±
 As for theirs, I know it.
 
-Pó nháo nä, due hóa da. @examples 2026-10-29 #12bER_SqLqq $en ±
+Pó nháo nä, due hóa da. @examples 2026-11-02 #EPF4w2nNIIA $en ±
 As for theirs, it was right.
 
-Pó nháo nä, jıa nua jí nháo hóa da. @examples 2026-10-29 #tqIdod9WL9w $en ±
+Pó nháo nä, jıa nua jí nháo hóa da. @examples 2026-11-02 #_carb60ne1z $en ±
 As for theirs, I will take it from them.
 
-Pó nháo nä, pu do jí nháo hóa da. @examples 2026-10-29 #Bi856qaUxbf $en ±
+Pó nháo nä, pu do jí nháo hóa da. @examples 2026-11-02 #u7VMqW9crEQ $en ±
 As for theirs, I gave it to them.
 
-Pó nháo nä, sıo chıaı hóa da. @examples 2026-10-29 #27ltPrG_XKN $en ±
+Pó nháo nä, sıo chıaı hóa da. @examples 2026-11-02 #tB2vTQ6hoTq $en ±
 As for theirs, it was the wrong idea.
 
-Pó nháo nä, sıo due hóa da. @examples 2026-10-29 #rz6SNPwJyyb $en ±
+Pó nháo nä, sıo due hóa da. @examples 2026-11-02 #9X3VO4Q7VSW $en ±
 As for theirs, it was the right idea.
 
-Pó nháo nä, shao bu jí, ꝡä tao súq hóa da. @examples 2026-10-29 #a6-za2nOBtR $en ±
+Pó nháo nä, shao bu jí, ꝡä tao súq hóa da. @examples 2026-11-02 #48PphTEEZOX $en ±
 As for theirs, I hope you don’t do it.
 
-Pó nháo nä, shao jí, ꝡä tao súq hóa da. @examples 2026-10-29 #J3ADWqnK1sv $en ±
+Pó nháo nä, shao jí, ꝡä tao súq hóa da. @examples 2026-11-02 #8zBy5zbrm0j $en ±
 As for theirs, I hope you do it.
 
-Po nháo sío da. @examples 2026-10-29 #Nf2CPsAbS1E $en ±
+Po nháo sío da. @examples 2026-11-02 #UDQPq848KuAM $en ±
 The idea is theirs.
 
-Po nháo, ꝡé dua jí hóa da. @examples 2026-10-29 #MtW5v64NKK1 $en ±
+Po nháo, ꝡé dua jí hóa da. @examples 2026-11-02 #zDklJsS0SvY8 $en ±
 The thing I know is about them.
 
 Poq áma da. @examples 2026-10-29 #iZ52ELnFerWi $en ±
@@ -97294,52 +97287,52 @@ Every human is a person.
 Poq úmo da. @examples 2026-10-29 #rwEj6CG1P4N9 $en ±
 We are people.
 
-Póq ꝡë ano súq hóa nä, ano máo jí hó da. @examples 2026-10-29 #1iNKhqFpSmV $en ±
+Póq ꝡë ano súq hóa nä, ano máo jí hó da. @examples 2026-11-02 #9zF4R3Qw1xgF $en ±
 The person you love – I love them too.
 
-Póq ꝡë ano súq hóa nä, ano máo jí póq da. @examples 2026-10-29 #ILQLhtYiIId $en ±
+Póq ꝡë ano súq hóa nä, ano máo jí póq da. @examples 2026-11-02 #yvOoWEB_dMav $en ±
 The person you love – I love them too.
 
-Pó súq nä, chıaı hóa da. @examples 2026-10-29 #tmjCxFXmZ_w $en ±
+Pó súq nä, chıaı hóa da. @examples 2026-11-02 #hTmdlzI3Afk $en ±
 As for yours, it was wrong.
 
-Pó súq nä, cho jí, ꝡä tao súq hóa da. @examples 2026-10-29 #bwWAp6V28Vm $en ±
+Pó súq nä, cho jí, ꝡä tao súq hóa da. @examples 2026-11-02 #maxbPYU0huF $en ±
 As for yours, I’m glad you did it.
 
-Pó súq nä, dua jí hóa da. @examples 2026-10-29 #tydAPBlPTvl $en ±
+Pó súq nä, dua jí hóa da. @examples 2026-11-02 #_983aj5Lvoj $en ±
 As for yours, I know it.
 
-Pó súq nä, due hóa da. @examples 2026-10-29 #0dKC4Jro7J1 $en ±
+Pó súq nä, due hóa da. @examples 2026-11-02 #TWaZWQfTrhr $en ±
 As for yours, it was right.
 
-Pó súq nä, gıq cho jí, ꝡä tao súq hóa da. @examples 2026-10-29 #e5MD7xy9UJJ $en ±
+Pó súq nä, gıq cho jí, ꝡä tao súq hóa da. @examples 2026-11-02 #yKhFRe8bpcQ $en ±
 As for yours, I’m not happy that you did it.
 
-Pó súq nä, jıa nua jí súq hóa da. @examples 2026-10-29 #PdZFJ-vBiY4 $en ±
+Pó súq nä, jıa nua jí súq hóa da. @examples 2026-11-02 #qhzNa8TR43l $en ±
 As for yours, I will take it from you.
 
-Pó súq nä, juna hóa da. @examples 2026-10-29 #M8JqdHr8Gsv $en ±
+Pó súq nä, juna hóa da. @examples 2026-11-02 #ZXmPStxPDSj $en ±
 As for yours, it’s true.
 
-Pó súq nä, pu do jí súq hóa da. @examples 2026-10-29 #mCEFCdfKoH6 $en ±
+Pó súq nä, pu do jí súq hóa da. @examples 2026-11-02 #Jx6TmqMwvmz $en ±
 As for yours, I gave it to you.
 
-Pó súq nä, sahu hóa da. @examples 2026-10-29 #Lrt5T_VGjv- $en ±
+Pó súq nä, sahu hóa da. @examples 2026-11-02 #a9j_xpIjBsp $en ±
 As for yours, it’s false.
 
-Pó súq nä, sıo chıaı hóa da. @examples 2026-10-29 #MGWdF7i8pJ9 $en ±
+Pó súq nä, sıo chıaı hóa da. @examples 2026-11-02 #Ksnik85i763 $en ±
 As for yours, it was the wrong idea.
 
-Pó súq nä, sıo due hóa da. @examples 2026-10-29 #2cwBcmsccSP $en ±
+Pó súq nä, sıo due hóa da. @examples 2026-11-02 #zkjM7Q4cliC $en ±
 As for yours, it was the right idea.
 
 Po súq ní toese ka. @examples 2026-10-29 #O8kJy9PouEs $en ±
 This slice is hereby yours.
 
-Po súq sío da. @examples 2026-10-29 #ALsoXM9uRM6 $en ±
+Po súq sío da. @examples 2026-11-02 #NCSqdZcCI4S8 $en ±
 The idea is yours.
 
-Po súq, ꝡé dua jí hóa da. @examples 2026-10-29 #hGoHf3LEEdX $en ±
+Po súq, ꝡé dua jí hóa da. @examples 2026-11-02 #GbQQbqXIAZtc $en ±
 The thing I know is about you.
 
 Pua chuq súq ba! @examples 2026-10-29 #Ivh7ZWYAbN1B $en ±
@@ -97360,22 +97353,22 @@ I bought too many things (at once).
 ⚠ Pu boq chuq nháo áq dùo sa dıaı chaq däqsao @examples 2026-10-29 #W6LXnCxLNZu $en ±
 (B0685) Seven long days and nights he fasted
 
-Pu choq jí kú káqhua po jí da. @examples 2026-10-29 #H0DV3xiTen $en ±
+Pu choq jí kú káqhua po jí da. @examples 2026-11-02 #B2Ed2ouv74ro $en ±
 I used my eyes.
 
-Pu choq jí kú ké kaqhua po jí da. @examples 2026-10-29 #Ac6FGarYiEU $en ±
+Pu choq jí kú ké kaqhua po jí da. @examples 2026-11-02 #oR-yPlfV0GSd $en ±
 I used my eyes.
 
-Pu choq nháo kú káqhua po nháo da. @examples 2026-10-29 #cbDmUx2vx3 $en ±
+Pu choq nháo kú káqhua po nháo da. @examples 2026-11-02 #vvwrV1wFzWg3 $en ±
 They used their eyes.
 
-Pu choq nháo kú ké kaqhua po nháo da. @examples 2026-10-29 #uSgZXzO7yij $en ±
+Pu choq nháo kú ké kaqhua po nháo da. @examples 2026-11-02 #wfQz4NCqyDci $en ±
 They used their eyes.
 
-Pu choq súq kú káqhua po súq da. @examples 2026-10-29 #kP_2cShVVk $en ±
+Pu choq súq kú káqhua po súq da. @examples 2026-11-02 #j92HqgvzXcaj $en ±
 Your used your eyes.
 
-Pu choq súq kú ké kaqhua po súq da. @examples 2026-10-29 #5WDV02wreiq $en ±
+Pu choq súq kú ké kaqhua po súq da. @examples 2026-11-02 #ZdqzOzgN6B8q $en ±
 Your used your eyes.
 
 Pu chufaq meoqkoı sa dıaı nuı pıa tëı baq chue hó @examples 2026-10-29 #ZvuPcNcrFCc $en ±
@@ -97414,34 +97407,34 @@ The animal perceived my presence.
 Pu hıaotao jí áq @examples 2026-10-29 #SB4JFNh4gYD $en ±
 (B0665) I hurt myself
 
-Pu hıo jí líq da. @examples 2026-10-29 #bfjeAHX7dMl $en ±
+Pu hıo jí líq da. @examples 2026-11-02 #6qRrbnEehoj $en ±
 I greeted the women.
 
-Pu hıo jí náq da. @examples 2026-10-29 #PJM9-MBbCO2 $en ±
+Pu hıo jí náq da. @examples 2026-11-02 #cgdGkVd7Kyz $en ±
 I greeted the men.
 
-Pu hıo jí nháo da. @examples 2026-10-29 #n0awGyM8Z14 $en ±
+Pu hıo jí nháo da. @examples 2026-11-02 #JBBmXqftboL $en ±
 I greeted them.
 
-Pu hıo jí réq da. @examples 2026-10-29 #ScQMW7rZVA2 $en ±
+Pu hıo jí réq da. @examples 2026-11-02 #jFSJRe1bCRc $en ±
 I greeted the people.
 
-Puı cá da. @examples 2026-10-29 #pP7d1rlYA9cN $en ±
+Puı cá da. @examples 2026-11-02 #_gfxDseUEFc $en ±
 The reasons are many.
 
 Puıdeq baq puı da. @uakci 2020-03-01 #HoUidnYNh $en ±
 [t]phrase: There's strength in numbers.
 
-Puı íme da. @examples 2026-10-29 #ulYcvb9WAD6Q $en ±
+Puı íme da. @examples 2026-11-02 #ToN4Szy5xOd $en ±
 We are many.
 
-Puı púao da. @examples 2026-10-29 #K-m6v1KVnwZp $en ±
+Puı púao da. @examples 2026-11-02 #DWxY_jJ_75H $en ±
 The clouds are many.
 
-Puı súna da. @examples 2026-10-29 #eiuBQFIkgJ3Q $en ±
+Puı súna da. @examples 2026-11-02 #YpqirECuTSE $en ±
 You are many.
 
-Pu jaı jí, rú pu hıaı jí da. @examples 2026-10-29 #MzqMrJ3jd88 $en ±
+Pu jaı jí, rú pu hıaı jí da. @examples 2026-11-02 #rDetmZCv1IT $en ±
 I was happy, and I laughed.
 
 Pu jea jí sá sá kue roaı da. @examples 2026-10-29 #QUE2T1CfG01F $en ±
@@ -97565,7 +97558,7 @@ Pu luı caqbo nháo sá jıoꝡo da. @jiqci 2023-09-16 #8Xol7Ea5J $en +1
 [t]phrase: He had had in his possesion a bunchberry plant.
   jiqci (2023-09-16): xłp̓x̣ʷłtłpłłskʷc̓
 
-Pu meo jí, rú pu roq jí da. @examples 2026-10-29 #9paN94ti6nk $en ±
+Pu meo jí, rú pu roq jí da. @examples 2026-11-02 #r-jNctWkprw $en ±
 I was sad, and I cried.
 
 Pu meoq chufaq jeaq doq bóaq pö baq muao @examples 2026-10-29 #vwuAU1th9cv $en ±
@@ -97583,7 +97576,7 @@ As for the ones who were sleeping, they’re working now.
 Puoq ní hí raı móq? @examples 2026-10-29 #pU3pK5y5VmrZ $en ±
 What is this for?
 
-Pu paı gú chéq, rú naı maıgaq gú chéq da. @examples 2026-10-29 #8xX8MbLykyn $en ±
+Pu paı gú chéq, rú naı maıgaq gú chéq da. @examples 2026-11-02 #QqCtPOdiCXv $en ±
 They were friends, and now they are dating.
 
 Pu pua pıe jí cháı da. @examples 2026-10-29 #ewKh8SMIH8F $en ±
@@ -97635,7 +97628,7 @@ raı fı raı @uakci 2019-04-23 #kmeCgXVJg $en -1
 Raı sía bọshao jıbo. @kazoo 2025-04-15 #xX3JmNrET $en ±
 I don't want anything.
 
-Ráı ꝡë chôq hóa nä muaqtua súq jí nä, zao jí ráı da. @examples 2026-10-29 #dSfHPXO5OsJ $en ±
+Ráı ꝡë chôq hóa nä muaqtua súq jí nä, zao jí ráı da. @examples 2026-11-02 #UfmZwYtdaVWZ $en ±
 The thing you used to kill me – I recognize it.
 
 Rao hóq sá heı da. @examples 2026-10-29 #h1P-c7RtvRNI $en ±
@@ -97722,25 +97715,25 @@ While we sleep, the person is working.
 Raq héı chéq da. @examples 2026-10-29 #qo5_QMAMeM1 $en ±
 The ten things relate to one another.
 
-Raq kúe góıdıu da. @examples 2026-10-29 #bdglt1XhjCU $en ±
+Raq kúe góıdıu da. @examples 2026-11-02 #P4fx9aIOTz $en ±
 The book is about medicine.
 
-Raq kúe sía da. @examples 2026-10-29 #IBTgkjuaJrb $en ±
+Raq kúe sía da. @examples 2026-11-02 #ZGnOW63bm7 $en ±
 The book isn’t about anything.
 
-Raq kúe téıdıu da. @examples 2026-10-29 #Ka89cT0iWv8 $en ±
+Raq kúe téıdıu da. @examples 2026-11-02 #soaXKMjfyu $en ±
 The book is about geometry.
 
 Raq ní heı chéq da. @examples 2026-10-29 #DiG0xk27cG2 $en ±
 These ten things relate to one another.
 
-Raq péaq kue sía da. @examples 2026-10-29 #SFK4yaTFFpc $en ±
+Raq péaq kue sía da. @examples 2026-11-02 #Fuccvs8mMQE $en ±
 There are many books that aren’t about anything.
 
-Raq sá puı kue góıdıu da. @examples 2026-10-29 #FQaBpPPE9nU $en ±
+Raq sá puı kue góıdıu da. @examples 2026-11-02 #bZS6HHq9Zod $en ±
 There are many books about medicine.
 
-Raq sá puı kue téıdıu da. @examples 2026-10-29 #qeA-TtlviQG $en ±
+Raq sá puı kue téıdıu da. @examples 2026-11-02 #jMtvplVX25O $en ±
 There are many books about geometry.
 
 Réq bï, guaı hó da. @examples 2026-10-29 #kvyCwjy7qrt3 $en ±
@@ -97791,22 +97784,22 @@ This girl said she was your daughter.
 ruaq huıtua @Laqme 2019-02-09 #OqYBhRmBK $en ±
 [t]predicate: [g]‘criticize’; ▯ asserts that ▯ made bad thing ▯ happen;  ▯ criticizes ▯ for ▯.
 
-Ruaq jí, ꝡä heomaı jí da. @examples 2026-10-29 #LJOslvEXEnh $en ±
+Ruaq jí, ꝡä heomaı jí da. @examples 2026-11-02 #0A6DikKN_5v7 $en ±
 I said I was straight.
 
-Ruaq jí, ꝡä jeqmaı jí da. @examples 2026-10-29 #nufltBQUPCw $en ±
+Ruaq jí, ꝡä jeqmaı jí da. @examples 2026-11-02 #1stCekyvQz4L $en ±
 I said I was gay.
 
-Ruaq jí, ꝡä lıqmaı jí da. @examples 2026-10-29 #yBKVK50uJKm $en ±
+Ruaq jí, ꝡä lıqmaı jí da. @examples 2026-11-02 #4AJtwUYvRLYI $en ±
 I said I was interested in women.
 
-Ruaq jí, ꝡä naqmaı jí da. @examples 2026-10-29 #WBVX37yHa_k $en ±
+Ruaq jí, ꝡä naqmaı jí da. @examples 2026-11-02 #RW27KQuX3fq1 $en ±
 I said I was interested in men.
 
 Ruaq juna súq hóq, rá ruaq sahu súq hóq ba. @examples 2026-10-29 #I3W6ck8H_go $en ±
 Either say it’s true or say it’s false (or both).
 
-Ruaq juna súq hóq ró ruaq sahu súq hóq ba. @examples 2026-10-29 #vsZKUoNEOJk $en ±
+Ruaq juna súq hóq ró ruaq sahu súq hóq ba. @examples 2026-11-02 #jg6u0e6wgDG $en ±
 Either say it’s true or say it’s false (not both).
 
 Ruaq nháo sá jua ru ꝡä tıecıa súq. @examples 2026-10-29 #Emaq3-Mv4UIi $en ±
@@ -97818,7 +97811,7 @@ There's not a true thing that you say.
 Ruaq súq ꝡä juna hóq rá ꝡä sahu hóq da. @examples 2026-10-29 #_hwhJDzECS- $en ±
 Say that it’s true or say that it’s false (or both).
 
-Ruaq súq ꝡä juna hóq ró ꝡä sahu hóq da. @examples 2026-10-29 #KHyhMV3hZxm $en ±
+Ruaq súq ꝡä juna hóq ró ꝡä sahu hóq da. @examples 2026-11-02 #f-aumxbv0cL $en ±
 Say that it’s true or say that it’s false (not both).
 
 Rụıbaı jí báq anıjıo nûıduo. @examples 2026-10-29 #uYjyV8qh2Mz9 $en ±
@@ -98054,10 +98047,10 @@ Oh, stop it, you clown!
 Shaı buoq súq ba. @examples 2026-10-29 #suhenDI-ykLx $en ±
 Stop being silly.
 
-Shaı jıaı jí bío, câ, ꝡä shua bío da. @examples 2026-10-29 #iWm5ydMu5Lk $en ±
+Shaı jıaı jí bío, câ, ꝡä shua bío da. @examples 2026-11-02 #hYg0T6FvtwQz $en ±
 I dropped the cup, causing it to fall.
 
-Shaı jıaı jí bío, câ, ꝡä shua máq da. @examples 2026-10-29 #0opWtKpAvPT $en ±
+Shaı jıaı jí bío, câ, ꝡä shua máq da. @examples 2026-11-02 #DN4I5cN1CJTz $en ±
 I dropped the cup, causing it to fall.
 
 Shaı nu kaqsı súq jí ba. @examples 2026-10-29 #fe99FiSbjqH5 $en ±
@@ -98108,22 +98101,22 @@ I want you to eat this.
 Shao jí, ꝡä gaq súq nháo râo níchaq da. @examples 2026-10-29 #LTmXxiVr0L1 $en ±
 I want you to accompany him today.
 
-Shao jí, ꝡä he jaı súq, rú he jaı jí da. @examples 2026-10-29 #NUFgtMAjwNY $en ±
+Shao jí, ꝡä he jaı súq, rú he jaı jí da. @examples 2026-11-02 #1715vZ0V2t6 $en ±
 I want you to be happy, and I want to be happy.
 
-Shao jí, ꝡä he jaı súq, rû shao jí, ꝡä he jaı jí da. @examples 2026-10-29 #wSDpXCwLwnr $en ±
+Shao jí, ꝡä he jaı súq, rû shao jí, ꝡä he jaı jí da. @examples 2026-11-02 #-tIyCr1hxAy $en ±
 I want you to be happy, and I want to be happy.
 
-Shao jí, ꝡä joe suaq jí da. @examples 2026-10-29 #78jSV3QTuWQ $en ±
+Shao jí, ꝡä joe suaq jí da. @examples 2026-11-02 #gqW2uJlO42ZG $en ±
 I want to be good at singing.
 
 Shao jí, ꝡä kaqgaı sía raı jí. @examples 2026-10-29 #ofEkqnvzmAh $en ±
 I want nothing to see me.
 
-Shao jí, ꝡä sho de jí da. @examples 2026-10-29 #J1ctoWEyloPb $en ±
+Shao jí, ꝡä sho de jí da. @examples 2026-11-02 #9-ddFwoRACU $en ±
 I want to become beautiful.
 
-Shao jí, ꝡä sho joe suaq jí da. @examples 2026-10-29 #0pSVN3xk-N2z $en ±
+Shao jí, ꝡä sho joe suaq jí da. @examples 2026-11-02 #A_a_u1cCveB $en ±
 I want to become good at singing.
 
 Shao jí, ꝡä tao kú jí hóq da. @examples 2026-10-29 #Jp2Xxbn5Y-XN $en ±
@@ -98138,7 +98131,7 @@ I want you all to be the ones to do it.
 Shao jí, ꝡä tao kú súq hóq da. @examples 2026-10-29 #VZ-NmCYySaEP $en ±
 I want you to be the one to do it.
 
-Shao ní poq, ꝡä che doekaı hó da. @examples 2026-10-29 #_x2CKBxDTh1 $en ±
+Shao ní poq, ꝡä che doekaı hó da. @examples 2026-11-02 #t4lCofYLfjcC $en ±
 This person wants to be a programmer.
 
 Shao nháo sá roaı da. @examples 2026-10-29 #k0U3AAOLCPqo $en ±
@@ -98159,7 +98152,7 @@ No one wants that to happen.
 Shao súq hí raı móq? @examples 2026-10-29 #Yx9VKALiS2DS $en ±
 What do you want?
 
-Shao sho joe suaq jí jí da. @examples 2026-10-29 #6Oq5tsUp7ib8 $en ±
+Shao sho joe suaq jí jí da. @examples 2026-11-02 #5xuDBdiTI6- $en ±
 I want to become good at singing.
 
 Shao tó jí hóq da. @examples 2026-10-29 #eL-RtUhoy2j- $en ±
@@ -98192,10 +98185,10 @@ If you are my biological parent, then I'm your biological offspring.
 Shê, ꝡä sahu hóq nä kuq jí mó «Kuaq kıe jí ka.» teo da. @examples 2026-10-29 #-0ZkYBOCrMp $en ±
 If not, I’ll say “Thanks”.
 
-Shê, ꝡä sho zao jí ní ocha, nä ano jí hó da. @examples 2026-10-29 #akx8ljZHype $en ±
+Shê, ꝡä sho zao jí ní ocha, nä ano jí hó da. @examples 2026-11-02 #E5arLs-f2kqi $en ±
 I would love this person if I got to know them.
 
-Shê, ꝡä sho zao ní ocha jí, nä ano hó jí da. @examples 2026-10-29 #mh9H6uagwzt $en ±
+Shê, ꝡä sho zao ní ocha jí, nä ano hó jí da. @examples 2026-11-02 #Y6tYiYK3E8fi $en ±
 This person would love me if they got to know me.
 
 Shıaq nhaobo sá buaı da. @examples 2026-10-29 #cTlrbuDMKkHH $en ±
@@ -98234,40 +98227,40 @@ Let me help you.
 Shoe súq, ꝡä soa jí súq ba. @examples 2026-10-29 #OPobj8lF8yZR $en ±
 Let me help you.
 
-Sho gaı jí hóe da. @examples 2026-10-29 #OlORZDm_7z65 $en ±
+Sho gaı jí hóe da. @examples 2026-11-02 #fB9zghbN1V6 $en ±
 I notice the sun.
 
-Sho gaı jí míao da. @examples 2026-10-29 #wu_WCKexsWVS $en ±
+Sho gaı jí míao da. @examples 2026-11-02 #Nmw1Cc1JCF1 $en ±
 I notice the moon.
 
-Sho gaı jí púao da. @examples 2026-10-29 #Q6sB7PODvy_P $en ±
+Sho gaı jí púao da. @examples 2026-11-02 #ooLnNIxpBaw $en ±
 I notice the clouds.
 
-Sho gaı jí, ꝡä gıoshuaq hóe da. @examples 2026-10-29 #nN2Pe6W6C53Z $en ±
+Sho gaı jí, ꝡä gıoshuaq hóe da. @examples 2026-11-02 #C-daZ7Vti4Z $en ±
 I notice the sun is shining.
 
-Sho gaı jí, ꝡä nuoq bâq gıo míao da. @examples 2026-10-29 #0HLJEdSMqS8v $en ±
+Sho gaı jí, ꝡä nuoq bâq gıo míao da. @examples 2026-11-02 #7p1XBdFU-q2 $en ±
 I notice the moon is “shining”.
 
-Sho gaı jí, ꝡä raq kúe góıdıu da. @examples 2026-10-29 #Svi8o75xDSV $en ±
+Sho gaı jí, ꝡä raq kúe góıdıu da. @examples 2026-11-02 #dw0_vX_A5Aa $en ±
 I begin to see that the book is about medicine.
 
-Sho gaı jí, ꝡä raq kúe sía da. @examples 2026-10-29 #ewY5bvIwdar $en ±
+Sho gaı jí, ꝡä raq kúe sía da. @examples 2026-11-02 #1RV26KtAXr2 $en ±
 I begin to see that the book isn’t about anything.
 
-Sho gaı jí, ꝡä raq kúe téıdıu da. @examples 2026-10-29 #2tqLQnUegc0 $en ±
+Sho gaı jí, ꝡä raq kúe téıdıu da. @examples 2026-11-02 #mpF54umCi-1 $en ±
 I begin to see that the book is about geometry.
 
-Sho gaı jí, ꝡä raq péaq kue sía da. @examples 2026-10-29 #AuuUQ-r58V3 $en ±
+Sho gaı jí, ꝡä raq péaq kue sía da. @examples 2026-11-02 #lZpLspCuDkl $en ±
 I begin to see that there are many books that aren’t about anything.
 
-Sho gaı jí, ꝡä raq sá puı kue góıdıu da. @examples 2026-10-29 #fRaac_3EL81 $en ±
+Sho gaı jí, ꝡä raq sá puı kue góıdıu da. @examples 2026-11-02 #YbZAkdRoDCo $en ±
 I begin to see that there are many books about medicine.
 
-Sho gaı jí, ꝡä raq sá puı kue téıdıu da. @examples 2026-10-29 #3Ou0ptTiMLp $en ±
+Sho gaı jí, ꝡä raq sá puı kue téıdıu da. @examples 2026-11-02 #QHyTgku_kk0 $en ±
 I begin to see that there are many books about geometry.
 
-Sho gaı jí, ꝡä shuaq bâq ruq púao da. @examples 2026-10-29 #TaMdRvuZGznQ $en ±
+Sho gaı jí, ꝡä shuaq bâq ruq púao da. @examples 2026-11-02 #WALOyYJPrZa $en ±
 I notice the clouds are making rain.
 
 ⚠ Shoı jáı deo chà mûo jaı hó @examples 2026-10-29 #H4o_SkZ1Nd $en ±
@@ -98300,34 +98293,34 @@ I fall asleep.
 Sho joe tua shaı tea nháo áqshe. @examples 2026-10-29 #-gOK_uAt_Fu1 $en ±
 He became skilled at making the donkey stop being scared.
 
-Sho sı jí râo, ꝡä sho kuq súq da. @examples 2026-10-29 #_ClTKqtNCGUz $en ±
+Sho sı jí râo, ꝡä sho kuq súq da. @examples 2026-11-02 #xHy5Ix6fxyi $en ±
 I started paying attention when you started talking.
 
-Sho shua kúe râo ꝡä shaı jıaı jí da. @examples 2026-10-29 #MIYP_E27skl $en ±
+Sho shua kúe râo ꝡä shaı jıaı jí da. @examples 2026-11-02 #DWnWRfdtAyz $en ±
 The book began to fall when I let go of it.
 
 Sho zudeq jí Tóaqzu nha @examples 2026-10-29 #PgFCTkcy3J6P $en ±
 I'm going to become a speaker of Toaq!
 
-Shua jí da. @examples 2026-10-29 #9feQPiUBWgZ $en ±
+Shua jí da. @examples 2026-11-02 #uhutTfNYD5u_ $en ±
 I’m falling.
 
 ⚠ Shua múao bộtao jí. @examples 2026-10-29 #IWVHMUnMKd4s $en ±
 The tree was felled by me.
 
-Shua ní bıo kûı, ꝡä shaı jıaı jí bío da. @examples 2026-10-29 #KFxhGiUD9f2 $en ±
+Shua ní bıo kûı, ꝡä shaı jıaı jí bío da. @examples 2026-11-02 #CqvESklmWfEJ $en ±
 This glass fell because I dropped it.
 
 Shuao nuı sá saq shâq jío, ꝡë bua jí hóa da. @examples 2026-10-29 #srFuF4ca25HX $en ±
 There are three little birds in front of my house.
 
-Shua ríochao da! @examples 2026-10-29 #5aYAMsqRr6S $en ±
+Shua ríochao da! @examples 2026-11-02 #36JkRBcMJc5w $en ±
 The plane is falling!
 
 Shua rúq baq nıa @examples 2026-10-29 #KS-Xg5_ssm $en ±
 (B0025) Down came the rain
 
-Shua rúq bû joı, ꝡä laq da. @examples 2026-10-29 #Y9wOUT4-VcR $en ±
+Shua rúq bû joı, ꝡä laq da. @examples 2026-11-02 #5WrWDCvPL6Vp $en ±
 The rain fell without sound.
 
 Shua ru ruefuo ke bao sao nıaotoaı @examples 2026-10-29 #We3yCl0sJp2F $en ±
@@ -98357,10 +98350,10 @@ Sı ba. @Ilmen 2019-04-13 #W8UjHxZW7 $en -1
 Sıgı ní kue @examples 2026-10-29 #X9E9PAlWF97 $en ±
 (B0278) This book is interesting
 
-Sı jí bôı, ꝡä sho kuq súq da. @examples 2026-10-29 #ouozN5xOjiBs $en ±
+Sı jí bôı, ꝡä sho kuq súq da. @examples 2026-11-02 #KKQvLLoRv_R $en ±
 I’ve been paying attention since you started talking.
 
-Sı jí dâı, ꝡä shaı choa súq da. @examples 2026-10-29 #GULwQRUWloN $en ±
+Sı jí dâı, ꝡä shaı choa súq da. @examples 2026-11-02 #FT4dhBw8FZ5c $en ±
 I could focus if you would shut up.
 
 Sı jí, tïo bıa déo da. @examples 2026-10-29 #lNuthiFZf5R $en ±
@@ -98385,52 +98378,52 @@ sîna sá nao luq @salarua 2024-09-26 #lMLj80kWI $en +2
 [t]idiom: [g]‘from still waters’; ‘from still waters’, used to express the unexpectedness of an event
   salarua (2024-09-26): equivalent to English "out of the blue"
 
-Sı ní req, tïo noılıe réq da. @examples 2026-10-29 #NtQ1fTrtq5m $en ±
+Sı ní req, tïo noılıe réq da. @examples 2026-11-02 #hA9VPEs0XLPV $en ±
 This person focuses on how much pain they’re in.
 
-Sı nháo ké kaqhua jıbo da. @examples 2026-10-29 #ep6W6BJv8On $en ±
+Sı nháo ké kaqhua jıbo da. @examples 2026-11-02 #75r-VMPE4320 $en ±
 They were paying attention to my eyes.
 
-Sı nháo ké muq jıbo da. @examples 2026-10-29 #TsO4jFPgzA5 $en ±
+Sı nháo ké muq jıbo da. @examples 2026-11-02 #lSLFBIPbV3FB $en ±
 They were paying attention to my hands.
 
-Sı nháo ké tuaı jıbo da. @examples 2026-10-29 #3qrC226fQCT $en ±
+Sı nháo ké tuaı jıbo da. @examples 2026-11-02 #ofQ90nBixVbZ $en ±
 They were paying attention to my body.
 
-Sı nháo, ꝡä ruqshua bû joı, ꝡä laq da. @examples 2026-10-29 #Xd_Kdmodr8F $en ±
+Sı nháo, ꝡä ruqshua bû joı, ꝡä laq da. @examples 2026-11-02 #Qz4dftX1RVnj $en ±
 They focused on how it rained without making sound.
 
-Sı nháo, ꝡä shua rúq bû joı, ꝡä laq da. @examples 2026-10-29 #YpaWbvIu5_T $en ±
+Sı nháo, ꝡä shua rúq bû joı, ꝡä laq da. @examples 2026-11-02 #159jXOAdEhRv $en ±
 They focused on how the rain fell without sound.
 
-Sı sía meaheo jî, tïo poqnıeq jí da. @examples 2026-10-29 #LcJZddjD002 $en ±
+Sı sía meaheo jî, tïo poqnıeq jí da. @examples 2026-11-02 #L4xwETq1t5Jg $en ±
 No one besides me is paying attention to how awkward I am.
 
-Sı sía meaheo jî ꝡä huojeo jí hí da. @examples 2026-10-29 #czgTJc1tW8G $en ±
+Sı sía meaheo jî ꝡä huojeo jí hí da. @examples 2026-11-02 #0n1nTODRX6pf $en ±
 No one besides me is paying attention to how I sound.
 
-Sı sía meaheo jî ꝡä kaqjeo jí hí da. @examples 2026-10-29 #dZgcq7xD0hQ $en ±
+Sı sía meaheo jî ꝡä kaqjeo jí hí da. @examples 2026-11-02 #eXaj0VDvzM-- $en ±
 No one besides me is paying attention to how I look.
 
-Sı sía meaheo sûq, tïo poqnıeq súq da. @examples 2026-10-29 #me3Ta1FJUk0 $en ±
+Sı sía meaheo sûq, tïo poqnıeq súq da. @examples 2026-11-02 #iVrSfVwZJzle $en ±
 No one besides you is paying attention to how awkward you are.
 
-Sı sía meaheo sûq ꝡä huojeo súq hí da. @examples 2026-10-29 #CVRqyWxRgkr $en ±
+Sı sía meaheo sûq ꝡä huojeo súq hí da. @examples 2026-11-02 #QT4u5pOxCSn_ $en ±
 No one besides you is paying attention to how you sound.
 
-Sı sía meaheo sûq ꝡä kaqjeo súq hí da. @examples 2026-10-29 #Mrdxv-ZLjyp $en ±
+Sı sía meaheo sûq ꝡä kaqjeo súq hí da. @examples 2026-11-02 #abwVBWg1bLYi $en ±
 No one besides you is paying attention to how you look.
 
-Sı súq béı jí ba. @examples 2026-10-29 #rz0F-6-le8f $en ±
+Sı súq béı jí ba. @examples 2026-11-02 #thMCG2Ye1QJL $en ±
 Focus on me.
 
 sıtue hoa @uakci 2019-03-26 #DE8h_a2Ia $en ±
 [t]predicate: [g]‘attention-seeking person’; ▯ is an attention-seeking person.
 
-Sı tú ꝡä de jí da! @examples 2026-10-29 #yKqSCctO6sp $en ±
+Sı tú ꝡä de jí da! @examples 2026-11-02 #o5cYjlau000p $en ±
 Everyone is paying attention to how I’m beautiful!
 
-Sı tú ꝡä fıe jí da! @examples 2026-10-29 #_00EqtW-GKf $en ±
+Sı tú ꝡä fıe jí da! @examples 2026-11-02 #dRbZ7pOW8Qic $en ±
 Everyone is paying attention to how I’m ugly!
 
 - sıu @jiqci 2023-07-05 #k5y3nViCV $en ±
@@ -98509,73 +98502,73 @@ They’re the only one who’s singing this.
 Suaq tuq mea déo @examples 2026-10-29 #VcH5f21kz-S $en ±
 (B0036) All the children are singing
 
-Suecaq jí súq, lä do já jí ní ka. @examples 2026-10-29 #MSTmW_hPl9J $en ±
+Suecaq jí súq, lä do já jí ní ka. @examples 2026-11-02 #X4PUFdIaKav $en ±
 I command you to give that to me.
 
-Suecaq jí súq, lä hıo já jí ka. @examples 2026-10-29 #P62mn9Lj0OB $en ±
+Suecaq jí súq, lä hıo já jí ka. @examples 2026-11-02 #zRmcreI_Ddn $en ±
 I command you to greet me.
 
-Suecaq jí súq, lä kuq já ní ka. @examples 2026-10-29 #rlJx3HbsZ3f $en ±
+Suecaq jí súq, lä kuq já ní ka. @examples 2026-11-02 #IHGAxpchH6r $en ±
 I command you to say these words.
 
-Suecaq jí súq, lä kuq já sá côm jí ka. @examples 2026-10-29 #zHqCIZBqU_L $en ±
+Suecaq jí súq, lä kuq já sá côm jí ka. @examples 2026-11-02 #Lmi8s3gzAwc $en ±
 I command you to talk to me.
 
-Suecaq jí súq, lä ruaq já ní ka. @examples 2026-10-29 #mV5oFL-gXEq $en ±
+Suecaq jí súq, lä ruaq já ní ka. @examples 2026-11-02 #GvaLx_MBzIV $en ±
 I command you to say this.
 
-Suecaq jí súq, lä ruogı já côm jí ka. @examples 2026-10-29 #7CYA4EmVWDn $en ±
+Suecaq jí súq, lä ruogı já côm jí ka. @examples 2026-11-02 #CZpqNBOITxx $en ±
 I command you to be nice to me.
 
-Suecaq jí súq, lä ruogı já côm nháo ka. @examples 2026-10-29 #hQhxM9PLG5O $en ±
+Suecaq jí súq, lä ruogı já côm nháo ka. @examples 2026-11-02 #NRx9MzE_GOo $en ±
 I command you to be nice to them.
 
-Suecaq jí súq, lä ruogı ka. @examples 2026-10-29 #4KH-_uH_WrM $en ±
+Suecaq jí súq, lä ruogı ka. @examples 2026-11-02 #DTLls9KybG4 $en ±
 I command you to be nice.
 
-Suecaq jí súq, lä soa já jí ka! @examples 2026-10-29 #IxCX3viW2ob $en ±
+Suecaq jí súq, lä soa já jí ka! @examples 2026-11-02 #TMxY-ZE-BnD $en ±
 I command you to help me.
 
-Suecaq jí súq, lä sho tı já ní ka. @examples 2026-10-29 #_-rPXMOAmom $en ±
+Suecaq jí súq, lä sho tı já ní ka. @examples 2026-11-02 #dFrs0Pkooab $en ±
 I command you to come here.
 
-Suecaq jí súq, lä tua dua já jí ní ka. @examples 2026-10-29 #wrTYOpREHj8 $en ±
+Suecaq jí súq, lä tua dua já jí ní ka. @examples 2026-11-02 #S-R7iOlD8Q8 $en ±
 I command you to tell me this.
 
 Sue góıche jí, lä bu pıe já báq bıra da. @examples 2026-10-29 #4AiKp4RSi6d $en ±
 The doctor asked me not to drink beer.
 
-Sue jí súq, lä do já jí ní ka. @examples 2026-10-29 #jHYPmroevkc $en ±
+Sue jí súq, lä do já jí ní ka. @examples 2026-11-02 #MItI9a8ozIu $en ±
 Please give that to me.
 
-Sue jí súq, lä hıo já jí ka. @examples 2026-10-29 #jE7pt0s1AoF $en ±
+Sue jí súq, lä hıo já jí ka. @examples 2026-11-02 #KQh4RkaQvNy $en ±
 Please greet me.
 
-Sue jí súq, lä kuq já ní ka. @examples 2026-10-29 #VTSkCrE7huY $en ±
+Sue jí súq, lä kuq já ní ka. @examples 2026-11-02 #mMVsuQVZY49 $en ±
 Please say these words.
 
-Sue jí súq, lä kuq já sá côm jí ka. @examples 2026-10-29 #vaVRF--3WUm $en ±
+Sue jí súq, lä kuq já sá côm jí ka. @examples 2026-11-02 #3Z8jOTKExWV $en ±
 Please say something to me.
 
-Sue jí súq, lä ruaq já ní ka. @examples 2026-10-29 #giAOU1BXgjp $en ±
+Sue jí súq, lä ruaq já ní ka. @examples 2026-11-02 #O7-QLJ0LQ_g $en ±
 Please say this.
 
-Sue jí súq, lä ruogı já côm jí ka. @examples 2026-10-29 #xfVjbxdJmec $en ±
+Sue jí súq, lä ruogı já côm jí ka. @examples 2026-11-02 #z12N-z5hgze $en ±
 Please be nice to me.
 
-Sue jí súq, lä ruogı já côm nháo ka. @examples 2026-10-29 #oFDCamqYAJ0 $en ±
+Sue jí súq, lä ruogı já côm nháo ka. @examples 2026-11-02 #Q0U0sojA_Jl $en ±
 Please be nice to them.
 
-Sue jí súq, lä ruogı ka. @examples 2026-10-29 #YvOvHuab6Wk $en ±
+Sue jí súq, lä ruogı ka. @examples 2026-11-02 #M_SNacCDqRr $en ±
 Please be nice.
 
-Sue jí súq, lä soa já jí ka! @examples 2026-10-29 #0gELGDQ6cRP $en ±
+Sue jí súq, lä soa já jí ka! @examples 2026-11-02 #rUGJESfMU5c $en ±
 Please help me!
 
-Sue jí súq, lä sho tı já ní ka. @examples 2026-10-29 #tn-3XKF61PI $en ±
+Sue jí súq, lä sho tı já ní ka. @examples 2026-11-02 #WY5fnqBchSe $en ±
 Please come here.
 
-Sue jí súq, lä tua dua já jí ní ka. @examples 2026-10-29 #uLuyxERnDg9 $en ±
+Sue jí súq, lä tua dua já jí ní ka. @examples 2026-11-02 #__qNG_oG7S9 $en ±
 Please tell me this.
 
 Suejı ꝡä choq súq ní koqpıuta ka. @examples 2026-10-29 #gx4UX17jD2Ge $en ±
@@ -98718,10 +98711,10 @@ I intend not to go often.
 Taoshao daqfaı bu fa jí da. @examples 2026-10-29 #d5VbGNaR9bZL $en ±
 I intend to often not go.
 
-Taoshao jí, ꝡä sho de jí da. @examples 2026-10-29 #MjsDETZ5OXm- $en ±
+Taoshao jí, ꝡä sho de jí da. @examples 2026-11-02 #4WLBk739XDL $en ±
 I intend to become beautiful.
 
-Taoshao sho de jí da. @examples 2026-10-29 #1WpJG8eSHzkv $en ±
+Taoshao sho de jí da. @examples 2026-11-02 #dYUWxlv2NhA $en ±
 I intend to become beautiful.
 
 Tao úmo hóq ba. @examples 2026-10-29 #xz-pMYaN7fQx $en ±
@@ -98733,16 +98726,16 @@ taq ao gı [(0) (d) hóq sP] @fagri 2020-01-11 #NQ07kmzBQ $en ±
   fagri (2020-01-11): I mean *serial, not compound
   fagri (2020-01-11): (This depends on the frame of modals being `0 c`, but I think that's been decided upon)
 
-Taq chı gaı jí, ꝡä bu sı nháo da. @examples 2026-10-29 #-mwPEbDzVk_S $en ±
+Taq chı gaı jí, ꝡä bu sı nháo da. @examples 2026-11-02 #kWTGdz3rgNn $en ±
 I thought I perceived that they weren’t paying attention.
 
-Taq chı gaı jí, ꝡä moıjoe nháo da. @examples 2026-10-29 #chiLZpwLfeZH $en ±
+Taq chı gaı jí, ꝡä moıjoe nháo da. @examples 2026-11-02 #jJOf3Uw4kyy $en ±
 I thought I perceived that they were smart.
 
-Taq chı gaı jí, ꝡä moınıeq nháo da. @examples 2026-10-29 #1r2zAEdq463d $en ±
+Taq chı gaı jí, ꝡä moınıeq nháo da. @examples 2026-11-02 #uulfr_Yr8Q2 $en ±
 I thought I perceived that they were dumb.
 
-Taq chı gaı jí, ꝡä sı nháo da. @examples 2026-10-29 #iUY7lVhtU8YZ $en ±
+Taq chı gaı jí, ꝡä sı nháo da. @examples 2026-11-02 #Tt-XmmpYnXd $en ±
 I thought I perceived that they were paying attention.
 
 taq cho @uakci 2021-08-15 #cf7qUmXXb $en ±
@@ -99077,22 +99070,22 @@ Are you staying or leaving?
 Tı tú shı áq da. @examples 2026-10-29 #05XS4WvXWQE $en ±
 Everything is at itself.
 
-Tıu bu raq ní súq da. @examples 2026-10-29 #lnmmGmH_B5a $en ±
+Tıu bu raq ní súq da. @examples 2026-11-02 #J5Kd7nmOi5h $en ±
 So this doesn’t pertain to you.
 
-Tıu cheo maı jí roı súq ba. @examples 2026-10-29 #jCnED_hWhh_ $en ±
+Tıu cheo maı jí roı súq ba. @examples 2026-11-02 #v-uoS-iGFlC $en ±
 So we should love each other.
 
-Tıu cheo paı jí roı súq ba. @examples 2026-10-29 #c4KXRo8OKlw $en ±
+Tıu cheo paı jí roı súq ba. @examples 2026-11-02 #rY4xPM6eTeG $en ±
 So we should be friends.
 
-Tıu cho jí nháo da. @examples 2026-10-29 #-zi6VkIa3cu $en ±
+Tıu cho jí nháo da. @examples 2026-11-02 #82xx0-niYTQ $en ±
 So I liked them.
 
-Tıu doekaıche kûı hí súq móq? @examples 2026-10-29 #KPjityCEbQ $en ±
+Tıu doekaıche kûı hí súq móq? @examples 2026-11-02 #JNVtGQ8Zg8B $en ±
 So why are you a programmer?
 
-Tıu doekaıche súq kûı hí móq? @examples 2026-10-29 #FXMbyJHBke $en ±
+Tıu doekaıche súq kûı hí móq? @examples 2026-11-02 #HX0ijasJcB8 $en ±
 So why are you a programmer?
 
 Tıu dua jí, mä chı nháo hóq da. @examples 2026-10-29 #ixXc8k0Hcny $en ±
@@ -99119,43 +99112,43 @@ So I know how much they want it to happen.
 Tıu dua jí, tïo shao súq hóa da. @examples 2026-10-29 #fApLdmvwe7- $en ±
 So I know how much you want it to happen.
 
-Tıu gıaqche kûı hí súq móq? @examples 2026-10-29 #SH6_Wtbzky $en ±
+Tıu gıaqche kûı hí súq móq? @examples 2026-11-02 #DWWuLMgpkVX $en ±
 So why are you a musician?
 
-Tıu gıaqche súq kûı hí móq? @examples 2026-10-29 #E8YSQ0xMq7 $en ±
+Tıu gıaqche súq kûı hí móq? @examples 2026-11-02 #H7m0c7jWZLS $en ±
 So why are you a musician?
 
-Tıu gı ní sıo da. @examples 2026-10-29 #8K84xVfyZvg $en ±
+Tıu gı ní sıo da. @examples 2026-11-02 #cjBDCu2nguh $en ±
 So this idea is good.
 
-Tıu gıq cho jí nháo da. @examples 2026-10-29 #KSlxG6XJH8t $en ±
+Tıu gıq cho jí nháo da. @examples 2026-11-02 #v6-5LCYgiLc $en ±
 So I didn’t like them.
 
-Tıu goıche kûı hí súq móq? @examples 2026-10-29 #CpJnc0-wCn $en ±
+Tıu goıche kûı hí súq móq? @examples 2026-11-02 #tBWvh4v0X0f $en ±
 So why are you a doctor?
 
-Tıu goıche súq kûı hí móq? @examples 2026-10-29 #GFMLm7Kve $en ±
+Tıu goıche súq kûı hí móq? @examples 2026-11-02 #woCeKAzkdWK $en ±
 So why are you a doctor?
 
-Tıu huı ní sıo da. @examples 2026-10-29 #O72q2Nj69L7 $en ±
+Tıu huı ní sıo da. @examples 2026-11-02 #ClqZDbxg_g9 $en ±
 So this idea is bad.
 
-Tıu jaq bu raq ní súq da. @examples 2026-10-29 #JvMkXLydr1A $en ±
+Tıu jaq bu raq ní súq da. @examples 2026-11-02 #IehTDTXqOU- $en ±
 So this really doesn’t pertain to you.
 
-Tıu jaq raq ní súq da. @examples 2026-10-29 #tiQhac-tzny $en ±
+Tıu jaq raq ní súq da. @examples 2026-11-02 #0qV7PJJjpEF $en ±
 So this very much pertains to you.
 
-Tıu leache kûı hí súq móq? @examples 2026-10-29 #DfObPaQBia $en ±
+Tıu leache kûı hí súq móq? @examples 2026-11-02 #fGf8tD4vbaM $en ±
 So why are you an artist?
 
-Tıu leache súq kûı hí móq? @examples 2026-10-29 #iG7sPJ4v1Z $en ±
+Tıu leache súq kûı hí móq? @examples 2026-11-02 #eHfBw0SlSFU $en ±
 So why are you an artist?
 
-Tıu maı jí roı súq chéq ba. @examples 2026-10-29 #vJ_5SS4rEiH $en ±
+Tıu maı jí roı súq chéq ba. @examples 2026-11-02 #wuws7OD4eHJ $en ±
 So we should love each other.
 
-Tıu maı súq jí ba. @examples 2026-10-29 #sP1VNXHmj7 $en ±
+Tıu maı súq jí ba. @examples 2026-11-02 #6zPlBxeCApW $en ±
 Then love me.
 
 Tıu mıeq jí, mä haı tı nháo da. @examples 2026-10-29 #Rm691m3mfYW $en ±
@@ -99167,52 +99160,52 @@ So I’ll check whether they’re listening.
 Tıu mıeq jí, mä kaqgaı nháo shítuaq da. @examples 2026-10-29 #0uXjhVxqd0w $en ±
 So I’ll check whether they saw the unicorn.
 
-Tıu mıu jí, ꝡä sıo gı ní da. @examples 2026-10-29 #FkMZK9UIa2w $en ±
+Tıu mıu jí, ꝡä sıo gı ní da. @examples 2026-11-02 #T4h6mEyrbXE $en ±
 So I think this is a good idea.
 
-Tıu mıu jí, ꝡä sıo huı ní da. @examples 2026-10-29 #a2TAqmRjUIs $en ±
+Tıu mıu jí, ꝡä sıo huı ní da. @examples 2026-11-02 #rOk7m-s9BaW $en ±
 So I think this is a bad idea.
 
-Tıu paı jí roı súq chéq ba. @examples 2026-10-29 #6a5beYBdqHB $en ±
+Tıu paı jí roı súq chéq ba. @examples 2026-11-02 #8JrklKvtPeo $en ±
 So we should be friends.
 
-Tıu paı súq jí ba. @examples 2026-10-29 #-QL7eccP-1 $en ±
+Tıu paı súq jí ba. @examples 2026-11-02 #-4a9dX7pATY $en ±
 Then be my friend.
 
-Tıu pumeche kûı hí súq móq? @examples 2026-10-29 #niqAkw7aq_ $en ±
+Tıu pumeche kûı hí súq móq? @examples 2026-11-02 #gAnsEvFIVoe $en ±
 So why are you a historian?
 
-Tıu pumeche súq kûı hí móq? @examples 2026-10-29 #FDZAvnB4kX $en ±
+Tıu pumeche súq kûı hí móq? @examples 2026-11-02 #d2vTyYtdYyZ $en ±
 So why are you a historian?
 
-Tıu raq ní sía da. @examples 2026-10-29 #Hx4d1wPBjXE $en ±
+Tıu raq ní sía da. @examples 2026-11-02 #9AsgmM3tD7O $en ±
 So this isn’t related to anything.
 
-Tıu raq ní súq da. @examples 2026-10-29 #-7VIoiaurrr $en ±
+Tıu raq ní súq da. @examples 2026-11-02 #0kTWz2zcTut $en ±
 So this pertains to you.
 
-Tıu raq ní tú da. @examples 2026-10-29 #G0vepBBW0f7 $en ±
+Tıu raq ní tú da. @examples 2026-11-02 #cYzrI1TpCJU $en ±
 So this is related to everything.
 
-Tıu sıo gı ní da. @examples 2026-10-29 #xLI9_hX9vFW $en ±
+Tıu sıo gı ní da. @examples 2026-11-02 #mIZtmxteBq2 $en ±
 So this is a good idea.
 
-Tıu sıo huı ní da. @examples 2026-10-29 #JVGojmSR_cS $en ±
+Tıu sıo huı ní da. @examples 2026-11-02 #pR0gMb18iLW $en ±
 So this is a bad idea.
 
-Tıu sı súq ba. @examples 2026-10-29 #96sgkQ_8Jds $en ±
+Tıu sı súq ba. @examples 2026-11-02 #B297Z9F17f4 $en ±
 So pay attention.
 
-Tıu sı súq jí ba. @examples 2026-10-29 #-b6D0adqjQD $en ±
+Tıu sı súq jí ba. @examples 2026-11-02 #v7dOh2wsEJW $en ±
 So pay attention to me.
 
-Tıu sı súq nháo ba. @examples 2026-10-29 #dDFU_Qsg2CQ $en ±
+Tıu sı súq nháo ba. @examples 2026-11-02 #EvCizxuYs4s $en ±
 So pay attention to them.
 
-Tıu suaqche kûı hí súq móq? @examples 2026-10-29 #YFjiE83hWD $en ±
+Tıu suaqche kûı hí súq móq? @examples 2026-11-02 #PwOcF421_og $en ±
 So why are you a singer?
 
-Tıu suaqche súq kûı hí móq? @examples 2026-10-29 #8T3tIQ-p25 $en ±
+Tıu suaqche súq kûı hí móq? @examples 2026-11-02 #5DicyyXo1Cu $en ±
 So why are you a singer?
 
 Tıu tao jí hóq nha. @examples 2026-10-29 #jNvz0rQuyPPa $en ±
@@ -99224,10 +99217,10 @@ So someone should do it.
 Tıu tao súq hóq ba! @examples 2026-10-29 #35mYrC8KAEBb $en ±
 So do it!
 
-Tıu zuche kûı hí súq móq? @examples 2026-10-29 #LVFlGsbEZq $en ±
+Tıu zuche kûı hí súq móq? @examples 2026-11-02 #AaRy4t2Enyy $en ±
 So why are you a linguist?
 
-Tıu zuche súq kûı hí móq? @examples 2026-10-29 #y6-w6HXlxu $en ±
+Tıu zuche súq kûı hí móq? @examples 2026-11-02 #4WjuuupbUDa $en ±
 So why are you a linguist?
 
 Tofu ní. @examples 2026-10-29 #tXyPUlM4GM3p $en ±
@@ -99280,22 +99273,22 @@ Tell me whether the girl is ill.
 Tua dua súq jí, mä bıa náqdeo ba. @examples 2026-10-29 #lAqaZteC4K- $en ±
 Tell me whether the boy is ill.
 
-Tua dua súq jí, mä maı nháo sá bu jeı jí ba. @examples 2026-10-29 #TTxCp4VhsGu $en ±
+Tua dua súq jí, mä maı nháo sá bu jeı jí ba. @examples 2026-11-02 #IvlRmHcQgQ $en ±
 Tell me whether they love someone else.
 
-Tua dua súq jí, mä maı súq sá bu jeı jí ba. @examples 2026-10-29 #cxnZEQeAHFf $en ±
+Tua dua súq jí, mä maı súq sá bu jeı jí ba. @examples 2026-11-02 #ULtVrH7CSc $en ±
 Tell me whether you love someone else.
 
-Tua dua súq jí, mä mıa paı nháo ba. @examples 2026-10-29 #J9ueRk1ycdd $en ±
+Tua dua súq jí, mä mıa paı nháo ba. @examples 2026-11-02 #ELzJAqie-E $en ±
 Tell me whether they have a lot of friends.
 
-Tua dua súq jí, mä mıa paı súq ba. @examples 2026-10-29 #OeMZrcrP9dt $en ±
+Tua dua súq jí, mä mıa paı súq ba. @examples 2026-11-02 #WuF0YuusGd $en ±
 Tell me whether you have a lot of friends.
 
-Tua dua súq jí, mä paı súq nháo ba. @examples 2026-10-29 #hRtYpcKKOKQ $en ±
+Tua dua súq jí, mä paı súq nháo ba. @examples 2026-11-02 #H6FgVhDBFI $en ±
 Tell me whether you’re friends with them.
 
-Tua dua súq jí, mä paı súq roı nháo chéq ba. @examples 2026-10-29 #nF3tSw_JQeN $en ±
+Tua dua súq jí, mä paı súq roı nháo chéq ba. @examples 2026-11-02 #MSuQInw1Yh $en ±
 Tell me whether you’re friends with them.
 
 Tua dua súq jí, mä roe déo ba. @examples 2026-10-29 #h51rsSL7ZWN $en ±
@@ -99307,22 +99300,22 @@ Tell me whether the girl is well.
 Tua dua súq jí, mä roe náqdeo ba. @examples 2026-10-29 #5trGa9SpDtT $en ±
 Tell me whether the boy is well.
 
-Tua dua súq jí, ꝡä he bu shua báq puao kûı hí ba. @examples 2026-10-29 #WVJj8XZeclQ $en ±
+Tua dua súq jí, ꝡä he bu shua báq puao kûı hí ba. @examples 2026-11-02 #3MiuSWs4uxNY $en ±
 Tell me why clouds don’t fall.
 
-Tua dua súq jí, ꝡä he bu shua báq rıochao kûı hí ba. @examples 2026-10-29 #fvv8uJsS-yf $en ±
+Tua dua súq jí, ꝡä he bu shua báq rıochao kûı hí ba. @examples 2026-11-02 #H2FSJOmGtAok $en ±
 Tell me why planes don’t fall.
 
-Tua dua súq jí, ꝡä he bu shua báq shuao kûı hí ba. @examples 2026-10-29 #_br_At0UQj4 $en ±
+Tua dua súq jí, ꝡä he bu shua báq shuao kûı hí ba. @examples 2026-11-02 #Gkd2SFSh28rH $en ±
 Tell me why birds don’t fall.
 
-Tua dua súq jí, ꝡä he bu shua hóe kûı hí ba. @examples 2026-10-29 #XgV3ZC668-6 $en ±
+Tua dua súq jí, ꝡä he bu shua hóe kûı hí ba. @examples 2026-11-02 #21a0juuPeemE $en ±
 Tell me why the sun doesn’t fall.
 
-Tua dua súq jí, ꝡä he bu shua míao kûı hí ba. @examples 2026-10-29 #U6sMDtUn72B $en ±
+Tua dua súq jí, ꝡä he bu shua míao kûı hí ba. @examples 2026-11-02 #b0H8UNhi9vtC $en ±
 Tell me why the moon doesn’t fall.
 
-Tua dua súq jí, ꝡä he bu shua séoq kûı hí ba. @examples 2026-10-29 #1ByqTIW_Zvl $en ±
+Tua dua súq jí, ꝡä he bu shua séoq kûı hí ba. @examples 2026-11-02 #05m1Jvcmw-Jd $en ±
 Tell me why the sky doesn’t fall.
 
 tua hoaq @seaqtaq 2019-01-30 #yvlndUYCr $en ±
@@ -99627,16 +99620,16 @@ It’s possible she came here from the US.
 Ꝡáıfaı bï shuıtoa kú shú «madurudura». @robintown 2025-05-20 #aZ7PSc-0u $en +1
 [t]phrase: The Wi-Fi password is 'madurudura'.
 
-Ꝡä jaı nháo bï, jaıca hụ́ꝡa jí da. @examples 2026-10-29 #W7E-T6UD3F3 $en ±
+Ꝡä jaı nháo bï, jaıca hụ́ꝡa jí da. @examples 2026-11-02 #n5n9SVYa4_tY $en ±
 Them being happy makes me happy.
 
-Ꝡä jaı súq bï, jaıca hụ́ꝡa jí da. @examples 2026-10-29 #1GWujKt0cKQ $en ±
+Ꝡä jaı súq bï, jaıca hụ́ꝡa jí da. @examples 2026-11-02 #ohxi3cL5_g1F $en ±
 You being happy makes me happy.
 
-Ꝡä jeı súq múaqtua bï, ma dua sá raı hụ́ꝡa móq? @examples 2026-10-29 #gI-xTmmINuC $en ±
+Ꝡä jeı súq múaqtua bï, ma dua sá raı hụ́ꝡa móq? @examples 2026-11-02 #sYKfuatBb-w0 $en ±
 As for you being the killer, does anyone know it?
 
-Ꝡä jeı súq múaqtua bï, ma jaıca hụ́ꝡa súq móq? @examples 2026-10-29 #_mDL3HR2jn_ $en ±
+Ꝡä jeı súq múaqtua bï, ma jaıca hụ́ꝡa súq móq? @examples 2026-11-02 #4hVfmaX48NGf $en ±
 As for you being the killer, are you happy about that?
 
 Ꝡä jıa maı jí déo bï, daı hụ́ꝡa da. @examples 2026-10-29 #PNS71m0MIsI $en ±
@@ -99700,67 +99693,67 @@ Your being a friend to me makes me a friend to all people.
 [t]phrase: I'm happy that you're here.
   robintown (2023-10-30): Lynn and I had a discussion about this, where we concluded that neither **kûı** or **gêm** really make sense for this meaning. As adjuncts, both constructions imply that you are, on the whole, happy. But imagine a situation in which you're having a bad day, and a friend comes to comfort you: you might say "I'm happy that you're here" even if it wouldn't be genuine to say "I'm happy". We found a paper https://www.semanticsarchive.net/Archive/DIzYWZkM/clauses.doc which claims that the clausal constituent participates in the semantics by a "regarding" relation, which suggests that a topic is the appropriate construction in Toaq. And there's similar evidence in Japanese to support this.
 
-Ꝡé bo nháo hóa nä, jıa nua jí nháo hóa da. @examples 2026-10-29 #xd7qvUkhxNv $en ±
+Ꝡé bo nháo hóa nä, jıa nua jí nháo hóa da. @examples 2026-11-02 #ibuU3a1_qaB $en ±
 As for what belongs to them, I will take it from them.
 
-Ꝡé bo nháo hóa nä, pu do jí nháo hóa. @examples 2026-10-29 #8xNaqH6wLcO $en ±
+Ꝡé bo nháo hóa nä, pu do jí nháo hóa. @examples 2026-11-02 #ZhK_Y62w-P- $en ±
 As for what belongs to them, I gave it to them.
 
-Ꝡé bo súq hóa nä, jıa nua jí súq hóa da. @examples 2026-10-29 #cwCmW7vUonz $en ±
+Ꝡé bo súq hóa nä, jıa nua jí súq hóa da. @examples 2026-11-02 #p6M1GEwYiTx $en ±
 As for what belongs to you, I will take it from you.
 
-Ꝡé bo súq hóa nä, pu do jí súq hóa da. @examples 2026-10-29 #p0VxsO1eN72 $en ±
+Ꝡé bo súq hóa nä, pu do jí súq hóa da. @examples 2026-11-02 #PA3L-PkIAe9 $en ±
 As for what belongs to you, I gave it to you.
 
-Ꝡé chı nháo hóa nä, dua jí hóa da. @examples 2026-10-29 #2f4GHHHxRGR $en ±
+Ꝡé chı nháo hóa nä, dua jí hóa da. @examples 2026-11-02 #8b5rJ5WGoLo $en ±
 As for what they believe, I know it.
 
-Ꝡé chı súq hóa nä, dua jí hóa da. @examples 2026-10-29 #XZnKJ57pRIP $en ±
+Ꝡé chı súq hóa nä, dua jí hóa da. @examples 2026-11-02 #U01YlAcPyUP $en ±
 As for what you believe, I know it.
 
-Ꝡé chı súq hóa nä, juna hóa da. @examples 2026-10-29 #Dne7oo3Zkuj $en ±
+Ꝡé chı súq hóa nä, juna hóa da. @examples 2026-11-02 #7W9jlSnruYl $en ±
 As for what you believe, it’s true.
 
-Ꝡé chı súq hóa nä, sahu hóa da. @examples 2026-10-29 #jZmA_a3bbMR $en ±
+Ꝡé chı súq hóa nä, sahu hóa da. @examples 2026-11-02 #zGILw6IPC_Y $en ±
 As for what you believe, it’s false.
 
-Ꝡé fıeq súq hóa sıo nä, due hóa da. @examples 2026-10-29 #nfmm3O5Z9Ow $en ±
+Ꝡé fıeq súq hóa sıo nä, due hóa da. @examples 2026-11-02 #wPH_KNkp_De $en ±
 As for the idea that you came up with, it was correct.
 
-Ꝡé ruaq nháo hóa nä, chıaı hóa da. @examples 2026-10-29 #yMzVj0phwnl $en ±
+Ꝡé ruaq nháo hóa nä, chıaı hóa da. @examples 2026-11-02 #IlvUGhnlQql $en ±
 As for what they said, it was wrong.
 
-Ꝡé ruaq nháo hóa nä, due hóa da. @examples 2026-10-29 #G1UGFFlUXGT $en ±
+Ꝡé ruaq nháo hóa nä, due hóa da. @examples 2026-11-02 #VpPnyemUL8d $en ±
 As for what they said, it was right.
 
-Ꝡé ruaq súq hóa nä, chıaı hóa da. @examples 2026-10-29 #375m0tHmzH9 $en ±
+Ꝡé ruaq súq hóa nä, chıaı hóa da. @examples 2026-11-02 #lxmm8nASPne $en ±
 As for what you said, it was wrong.
 
-Ꝡé ruaq súq hóa nä, due hóa da. @examples 2026-10-29 #GrsR52YWfUo $en ±
+Ꝡé ruaq súq hóa nä, due hóa da. @examples 2026-11-02 #c9f9IniUgPU $en ±
 As for what you said, it was right.
 
-Ꝡé sıo hóa rú fıeq nháo hóa nä, chıaı hóa da. @examples 2026-10-29 #AcsvKbQkltn $en ±
+Ꝡé sıo hóa rú fıeq nháo hóa nä, chıaı hóa da. @examples 2026-11-02 #YXPovR3lxVJ $en ±
 As for the idea that they came up with, it was wrong.
 
-Ꝡé sıo hóa rú fıeq nháo hóa nä, due hóa da. @examples 2026-10-29 #xZdJX7G_i3c $en ±
+Ꝡé sıo hóa rú fıeq nháo hóa nä, due hóa da. @examples 2026-11-02 #xIELjm3IhP0 $en ±
 As for the idea that they came up with, it was right.
 
-Ꝡé sıo hóa rú fıeq súq hóa nä, chıaı hóa da. @examples 2026-10-29 #SGUYTOpQDCb $en ±
+Ꝡé sıo hóa rú fıeq súq hóa nä, chıaı hóa da. @examples 2026-11-02 #IWIV0hjzzrN $en ±
 As for the idea that you came up with, it was wrong.
 
-Ꝡé sıo hóa rú fıeq súq hóa nä, due hóa da. @examples 2026-10-29 #4iFqndPyaPC $en ±
+Ꝡé sıo hóa rú fıeq súq hóa nä, due hóa da. @examples 2026-11-02 #i93H7k0-gAy $en ±
 As for the idea that you came up with, it was right.
 
-Ꝡé tao nháo hóa nä, shao bu jí, ꝡä tao súq hóa da. @examples 2026-10-29 #-z3YHxlIyfJ $en ±
+Ꝡé tao nháo hóa nä, shao bu jí, ꝡä tao súq hóa da. @examples 2026-11-02 #QGxo6QOnFdC $en ±
 As for what they did, I hope you don’t do it.
 
-Ꝡé tao nháo hóa nä, shao jí, ꝡä tao súq hóa da. @examples 2026-10-29 #ZWKh2puTodK $en ±
+Ꝡé tao nháo hóa nä, shao jí, ꝡä tao súq hóa da. @examples 2026-11-02 #ebnw-lTdij2 $en ±
 As for what they did, I hope you do it.
 
-Ꝡé tao súq hóa nä, cho jí, ꝡä tao súq hóa da. @examples 2026-10-29 #3Bxdmpm9GV_ $en ±
+Ꝡé tao súq hóa nä, cho jí, ꝡä tao súq hóa da. @examples 2026-11-02 #g3gq6s29law $en ±
 As for what you did, I like that you did it.
 
-Ꝡé tao súq hóa nä, gıq cho jí, ꝡä tao súq hóa da. @examples 2026-10-29 #RSX1OAE1L1W $en ±
+Ꝡé tao súq hóa nä, gıq cho jí, ꝡä tao súq hóa da. @examples 2026-11-02 #TlW2wV7_sfi $en ±
 As for what you did, I don’t like that you did it.
 
 Za doesho dáqboe @examples 2026-10-29 #jI9izRXyYLY $en ±
@@ -99796,16 +99789,16 @@ I know this person.
 Zao jí nháo rú páı nhaobo da. @examples 2026-10-29 #W4cLdF61M5S $en ±
 I know them and their friends.
 
-Zao jí póq ꝡë kaqsı hóa jí da. @examples 2026-10-29 #CMoe46z9L1s $en ±
+Zao jí póq ꝡë kaqsı hóa jí da. @examples 2026-11-02 #ve2xGY27T4_S $en ±
 I know the person who’s looking at me.
 
-Zao jí póq ꝡë kaqsı hóa súq da. @examples 2026-10-29 #tIWobfZkKzb $en ±
+Zao jí póq ꝡë kaqsı hóa súq da. @examples 2026-11-02 #2fWTsYwLJWam $en ±
 I know the person who’s looking at you.
 
-Zao jí póq ꝡë kaqsı jí hóa da. @examples 2026-10-29 #1LzorUv5M_k $en ±
+Zao jí póq ꝡë kaqsı jí hóa da. @examples 2026-11-02 #qcyv73k-6huy $en ±
 I know the person I’m looking at.
 
-Zao jí póq ꝡë kaqsı súq hóa da. @examples 2026-10-29 #xmAB4xBl0LW $en ±
+Zao jí póq ꝡë kaqsı súq hóa da. @examples 2026-11-02 #zttGn-AkXs5G $en ±
 I know the person you’re looking at.
 
 Zao jí sá mı Gaohıu da. @examples 2026-10-29 #ULqtAl9pcMy $en ±
@@ -99841,7 +99834,7 @@ I know someone named Shi.
 Zao jí sá mı Taq da. @examples 2026-10-29 #3OA3mJPbj5m $en ±
 I know someone named Taq.
 
-Zao jí sá poq ꝡë sía raı nä, cho hóa ráı da. @examples 2026-10-29 #tDy1LS03fH0 $en ±
+Zao jí sá poq ꝡë sía raı nä, cho hóa ráı da. @examples 2026-11-02 #X-J55uOTxPgg $en ±
 I know someone who doesn’t like anything.
 
 Zao tó jí tú toa. @examples 2026-10-29 #f-JHqmvIlkm- $en ±
@@ -101506,7 +101499,7 @@ the relation ▯ is the N-th iterate or N-th relational power of the relation �
 ⚠ Bĩejuı bı shagıq tı gú jua choaq @examples 2026-10-29 #3qd3a-A-fK6 $en ±
 (B0173) The two strange guests soon went away
 
-⚠ Ca, ꝡä kuq súq tóa, pîy jí rú mıu he ruohuı jí súq da. @examples 2026-10-29 #okSBQs_jGUD $en ±
+⚠ Ca, ꝡä kuq súq tóa, pîy jí rú mıu he ruohuı jí súq da. @examples 2026-11-02 #RJTvLvYEo2O $en ±
 You saying this word annoys me and makes me think you’re a rude person.
 
 ⚠ Ceo fa chúe sìy mí Seılu'ı rào díochu @examples 2026-10-29 #DFB6sSfjMXm $en ±
@@ -101581,7 +101574,7 @@ Foa súq hı raı (móq)? @panWaja 2023-01-05 #-H_d-nJ0k $en -1
 ⚠ Hıaı géo naq rüogı cy pũage @examples 2026-10-29 #cVWAR_pnOTtH $en ±
 (B0018) The kind old man laughed pleasantly
 
-⚠ Hıo mí Huaq róı mí Cíqshy jí da. @examples 2026-10-29 #cqvkoJH-x6J $en ±
+⚠ Hıo mí Huaq róı mí Cíqshy jí da. @examples 2026-11-02 #F1jqc8PyDj $en ±
 Huaq and Ciqshy greet me.
 
 ⚠ hîq X nä Y @seaqtaq 2024-09-01 #kEzOsHg5R $en ±
@@ -101632,7 +101625,7 @@ Huaq and Ciqshy greet me.
 ⚠ lûı X nä Y @seaqtaq 2024-09-01 #UiPhumSE0 $en ±
 [t]phrase: [g]‘at the time had’; At the time of X happening, Y has happened
 
-⚠ Lú muaqtua chôq hóa súq jí nä, zao jí kúy da. @examples 2026-10-29 #rgbkiwrz5Cg $en ±
+⚠ Lú muaqtua chôq hóa súq jí nä, zao jí kúy da. @examples 2026-11-02 #KvvdZEfMIK-o $en ±
 What you killed me with – I recognize it.
 
 ⚠ Ma chua shu ‹ Lı › súq móq? @examples 2026-10-29 #DdlT38OvBEc $en ±
@@ -101680,17 +101673,14 @@ mı Maqtomuoı(tıaı) @nozz 2019-10-30 #Nl8j1pVlE $en ±
 ⚠ mı ▯ jí da. @mimiaoganhaqpy 2022-07-09 #r5IvZXwW1 $tok ±
 [t]predicate: nimi mi li ▯.
 
-⚠ Muı hí mó «I don’t know» teo móq? @examples 2026-10-29 #h6ZYph-A_GO $en ±
+⚠ Muı hí mó «I don’t know» teo móq? @examples 2026-11-02 #T0rOlAaVO0gu $en ±
 What is the meaning of the sentence “I don’t know”?
 
-⚠ Muı hí mó «I’m about to hop off» teo da. @examples 2026-10-29 #_ZgXG_KfW-I $en ±
+⚠ Muı hí mó «I’m about to hop off» teo da. @examples 2026-11-02 #0p-cpaP-YxTB $en ±
 What is the meaning of the sentence “I’m about to hop off"?
 
 ⚠ Muı hí raı shú ‹sueta› móq? @examples 2026-10-29 #AMPLqt9XU3zv $en ±
 What does "sueta" mean?
-
-⚠ Muı hí shú ‹nuaı› móq? @examples 2026-10-29 #IRoot1SRcOj $en ±
-What is the meaning of the word “nuaı”?
 
 ⚠ Muı hí shú ‹goa› móq? @examples 2026-10-29 #6P51dsiUAwf $en ±
 What does the word “goa” mean?
@@ -101719,40 +101709,43 @@ What does the word “cuakuq” mean?
 ⚠ Muı hí shú ‹duasho› móq? @examples 2026-10-29 #4Jl5DCcyVP5 $en ±
 What does the word “duasho” mean?
 
-⚠ Muı hí shú ‹toa› móq? @examples 2026-10-29 #fr6KxpKbmHj $en ±
+⚠ Muı hí shú ‹nuaı› móq? @examples 2026-11-02 #ob8-nTD_W $en ±
+What is the meaning of the word “nuaı”?
+
+⚠ Muı hí shú ‹toa› móq? @examples 2026-11-02 #4QuHZZ4bowQ3 $en ±
 What is the meaning of the word “toa”?
 
-⚠ Muı hí shú ‹koa› móq? @examples 2026-10-29 #dmF3IMaq2rF $en ±
+⚠ Muı hí shú ‹koa› móq? @examples 2026-11-02 #c3mbXA-EL-nO $en ±
 What is the meaning of the word “koa”?
 
-⚠ Muı hí shú ‹poq› móq? @examples 2026-10-29 #LHl306Y3aVB $en ±
+⚠ Muı hí shú ‹poq› móq? @examples 2026-11-02 #pyEYs_tkWi83 $en ±
 What is the meaning of the word “poq”?
 
-⚠ Muı hí shú ‹dao› móq? @examples 2026-10-29 #rEwPf25thEF $en ±
+⚠ Muı hí shú ‹dao› móq? @examples 2026-11-02 #qric4xXrnqTu $en ±
 What is the meaning of the word “dao”?
 
-⚠ Muı hí shú ‹money› móq? @examples 2026-10-29 #yPpTOas8vg2 $en ±
+⚠ Muı hí shú ‹money› móq? @examples 2026-11-02 #8jaWpZNko2NF $en ±
 What is the meaning of the word “money”?
 
-⚠ Muı hí shú ‹ꝡord› móq? @examples 2026-10-29 #IH5HSwjt1JF $en ±
+⚠ Muı hí shú ‹ꝡord› móq? @examples 2026-11-02 #D1oSVhLoC-wY $en ±
 What is the meaning of the word “word”?
 
-⚠ Muı hí shú ‹cold› móq? @examples 2026-10-29 #Z8z3lwOdrtT $en ±
+⚠ Muı hí shú ‹cold› móq? @examples 2026-11-02 #fCUEEOxUndhF $en ±
 What is the meaning of the word “cold”?
 
-⚠ Muı hí shú ‹person› móq? @examples 2026-10-29 #ACh0hGEqItV $en ±
+⚠ Muı hí shú ‹person› móq? @examples 2026-11-02 #8xCPZF5Qlse2 $en ±
 What is the meaning of the word “person”?
 
-⚠ Muı hí shú ‹data› móq? @examples 2026-10-29 #haYlNtbtWN7 $en ±
+⚠ Muı hí shú ‹data› móq? @examples 2026-11-02 #_cUJ_jgYAPlO $en ±
 What is the meaning of the word “data”?
 
-⚠ Muıjeq mó «I don’t know» teo mó «I don’t know the answer» teo da. @examples 2026-10-29 #cNneGtI8lqi $en ±
+⚠ Muıjeq mó «I don’t know» teo mó «I don’t know the answer» teo da. @examples 2026-11-02 #sgYkQHkv9e2D $en ±
 “I don’t know" means the same thing as “I don’t know the answer".
 
-⚠ Muıjeq mó «I loꝡe ꝡou» teo mó «You are loꝡed by me» teo da. @examples 2026-10-29 #GHAqcR83LMU $en ±
+⚠ Muıjeq mó «I loꝡe ꝡou» teo mó «You are loꝡed by me» teo da. @examples 2026-11-02 #p5rKvN_ViLkG $en ±
 “I love you” means the same thing as “You are loved by me".
 
-⚠ Muıjeq mó «I’m about to hop off» teo mó «I’m about to leaꝡe» teo da. @examples 2026-10-29 #wcaJtQKkaFI $en ±
+⚠ Muıjeq mó «I’m about to hop off» teo mó «I’m about to leaꝡe» teo da. @examples 2026-11-02 #mqskJMTQKTXm $en ±
 “I’m about to hop off” means the same thing as “I’m about to leave".
 
 ⚠ Muoıduy põı jeaq tıjao chéıleoqmy @examples 2026-10-29 #QafMa0iXwBZ $en ±
