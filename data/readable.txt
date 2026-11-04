@@ -17767,7 +17767,7 @@ duafa @Ilmen 2020-02-22 #YBQ_LTGBa $en ± %action
 duafaı @Laqme 2019-02-25 #kFK6dFzNq $en ±
 [t]predicate: [g]‘widely known’; ▯ is widely / commonly known to be the case.
 
-duafuı @fagri 2021-08-18 #lJStqyOEx $en +1
+duafuı [(c c) (d d) hó sI] @fagri 2021-08-18 #lJStqyOEx $en +1
 [t]predicate: [g]‘find obvious’; ▯ finds ▯ obvious
 
 duafuı [(c) (d) hóq sP] @Laqme 2023-10-23 #OmODjdhKN $en +1
@@ -34241,6 +34241,7 @@ jaıpoaısıaıcıu @akesi 2020-05-18 #mhwBhrrPK $en ±
 jaıraq @jiqci 2023-09-07 #AD7SX3crx $en +1
 [t]predicate: [g]‘killjoy’; ▯ is a killjoy; ▯ kills / ruins / spoils the mood.
   jiqci (2023-09-07): **jaı** + **faıraq**
+  jiqci (2026-11-03): literally "fundal"
 
 jaıroq [(c) (d) hó sA] @robintown 2022-01-01 #6MnPYdgke $en ±
 [t]predicate: [g]‘cry out of happiness’; ▯ cries out of happiness.
@@ -61714,8 +61715,8 @@ nueqrıeq [(c) (d) hó sI] @Laqme 2019-02-03 #Eu0ryArl6 $en +2
 nueqrıeqchuq @uakci 2021-10-02 #Di3gZ9AHv $en -1
 [t]predicate: ▯ is (a) vegetarian; ▯ does not eat meat.
 
-nueqsueqseraq @Ilmen 2024-08-12 #XExkWZe9n $en ±
-[t]predicate: [g]‘meat wave’; ▯ carries meat wave assault or Zerg rush on ▯.
+nueqsueqseraq [(c c) (d d) hó sI] @Ilmen 2024-08-12 #XExkWZe9n $en ±
+[t]predicate: [g]‘meat wave’; ▯ carries meat wave assault, banzai charge or Zerg rush on ▯.
 
 nueqshoaı @Ilmen 2018-10-07 #Twevuz0Zd $en ± %lifeform,animal,vertebrate,fish
 [t]predicate: [g]‘lobe-finned fish’; ▯ is a Sarcopterygii.
