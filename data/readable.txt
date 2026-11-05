@@ -14442,7 +14442,7 @@ dache @jiqci 2024-08-26 #Le1PaIzju $en +1
 [t]predicate: [g]‘focus on’; ▯ focuses on / dedicates themself to ▯.
   jiqci (2024-08-26): back-formed from **headache**
 
-dada @Ilmen 2018-10-01 #REvymov0J $en ± %body_part
+dada [(c) (d) máq sI] @Ilmen 2018-10-01 #REvymov0J $en ± %body_part
 [t]predicate: [g]‘chest’; ▯ is a chest (anatomy).
   Ilmen (2018-10-01): Malay "dada", Proto-Austronesian "daSdaS"…
 
@@ -14589,7 +14589,7 @@ daıtea @seaqtaq 2024-08-04 #udf4HLZp9 $en +1
 dakacarachuo @jiqci 2023-06-06 #irgulUdzf $en ±
 [t]predicate: ▯ is a machine gun.
 
-dakı @Ilmen 2018-10-09 #lJ33fg1XP $en ± %body_part
+dakı [(c) (d) máq sI] @Ilmen 2018-10-09 #lJ33fg1XP $en ± %body_part
 [t]predicate: [g]‘forehead’; ▯ is a forehead.
   Ilmen (2018-10-09): Proto-Austronesian "daqis".
 
@@ -22378,7 +22378,7 @@ ga'akıoq @salarua 2022-08-05 #8037PO7j8 $en ±
 [t]predicate: ▯ is a globe
   salarua (2022-08-05): fork of #QPpMeykSt
 
-gace @Ilmen 2018-10-01 #JLA25co9v $en ±
+gace [(c) (d) máq sI] @Ilmen 2018-10-01 #JLA25co9v $en ±
 [t]predicate: [g]‘itch’; ▯ feels itchy.
   Ilmen (2018-10-01): Proto-Austronesian "gaCel".
 
@@ -23206,7 +23206,7 @@ garapue [(c) (d) hó sI] @Hoemai 2019-04-03 #fKARfu8ED $en ± %lifeform,animal,m
 garapuekato [(c) (d) hó sI] @akesi 2020-01-31 #_9kl39BHN $en +2
 [t]predicate: [g]‘slug-cat’; ▯ is a slug-cat.
 
-garu @Ilmen 2018-10-01 #5UVsk0Prw $en ±
+garu [(c c) (d d) hó sI] @Ilmen 2018-10-01 #5UVsk0Prw $en ±
 [t]predicate: [g]‘combs’; ▯ combs ▯.
   Ilmen (2018-10-01): Proto-Austronesian "garuC".
 
@@ -51981,7 +51981,7 @@ Masaragua @countries 2026-10-29 #Yetdv7jx_do $en ±
 Masazu @eednb 2023-12-31 #cJUsOvujM $en ±
 [t]predicate: ▯ is the Egyptian Arabic language.
 
-masua @Ilmen 2018-10-01 #WQyNyJtGt $en ± %involuntary_action
+masua [(c) (d) hó sI] @Ilmen 2018-10-01 #WQyNyJtGt $en ± %involuntary_action
 [t]predicate: [g]‘yawns’; ▯ yawns.
   Ilmen (2018-10-01): Proto-Austronesian "ma-suab".
 
@@ -64446,7 +64446,7 @@ palakuoq @jiqci 2025-08-21 #elSHCFLen $en ±
 palalaq @Ilmen 2019-09-17 #1kip4yeyYKx $en ±
 [t]predicate: [g]‘palatal consonant’; ▯ is a palatal consonant.
 
-palaq @Ilmen 2019-05-17 #wLvYrRXKl $en ± %body_part
+palaq [(c) (d) máq sI] @Ilmen 2019-05-17 #wLvYrRXKl $en ± %body_part
 [t]predicate: [g]‘palm’; ▯ is a hand palm / foot sole.
   Ilmen (2019-05-17): From PIE *palam- (or some similar form) and also Proto-Austronesian *pálag (both meaning "palm of the hand" and being coincidentally similar in sound).
 
@@ -74121,7 +74121,7 @@ sedeqzua @seaqtaq 2024-08-06 #PcWdu8Yu8 $en ±
 [t]predicate: ▯ is incapacitated
   seaqtaq (2024-08-06): Lexicalized from sẹdeqzua
 
-sedu @Ilmen 2022-03-18 #4zKqtEWgy $en +1 %involuntary_action
+sedu [(c) (d) hó sI] @Ilmen 2022-03-18 #4zKqtEWgy $en +1 %involuntary_action
 [t]predicate: [g]‘hiccup’; ▯ hiccups.
   Ilmen (2022-03-18): Malay, Proto-Austronesian.
 
