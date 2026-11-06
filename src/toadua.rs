@@ -43,7 +43,10 @@ pub struct Toa {
     pub warn: bool,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub frame: Option<String>,
-    #[serde(rename(deserialize = "pronominal_class"), skip_serializing_if = "Option::is_none")]
+    #[serde(
+        rename(deserialize = "pronominal_class"),
+        skip_serializing_if = "Option::is_none"
+    )]
     pub pronoun: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub distribution: Option<String>,
@@ -70,7 +73,10 @@ fn normalize_for_validation(text: &str) -> String {
         .replace(" ı", "'i")
         .replace(" o", "'o")
         .replace(" u", "'u")
-        .replace(|x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x), "")
+        .replace(
+            |x| !filter(x) || "\u{0301}\u{0302}\u{0308}\u{0323}".contains(x),
+            "",
+        )
 }
 pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
     let normalized = normalize_for_validation(word);
@@ -86,13 +92,18 @@ pub fn split_into_raku(word: &str) -> Option<Vec<String>> {
 
 impl Toa {
     pub fn set_warning(&mut self) {
-        let toneless: String =
-            self.head.nfd().filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c)).collect();
+        let toneless: String = self
+            .head
+            .nfd()
+            .filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c))
+            .collect();
         self.warn = !self.body.contains("textspeak")
             && !self.notes.iter().any(|n| n.content.contains("textspeak"))
-            && (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
-                .iter()
-                .any(|v| toneless.contains(v))
+            && ([
+                "ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq",
+            ]
+            .iter()
+            .any(|v| toneless.contains(v))
                 || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
                 || self.head.nfc().any(|c| {
                     !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
@@ -156,22 +167,38 @@ impl Toa {
         if let Some(pronoun) = &self.pronoun
             && !["ho", "maq", "hoq", "ta", "raı"].contains(&pronoun.as_str())
         {
-            println!("{} #{} has pronoun \"{}\", removing", self.head, self.id, pronoun);
+            println!(
+                "{} #{} has pronoun \"{}\", removing",
+                self.head, self.id, pronoun
+            );
             self.pronoun = None;
         }
         if let Some(pronoun) = &self.pronoun {
-            self.pronoun =
-                Some(format!("{}\u{0301}{}", &pronoun[0 .. 2], &pronoun[2 ..]).nfc().to_string());
+            self.pronoun = Some(
+                format!("{}\u{0301}{}", &pronoun[0..2], &pronoun[2..])
+                    .nfc()
+                    .to_string(),
+            );
         }
         if let Some(subject) = &self.subject {
-            if ["agent", "individual", "shape", "free", "event", "proposition"]
-                .contains(&subject.as_str())
+            if [
+                "agent",
+                "individual",
+                "shape",
+                "free",
+                "event",
+                "proposition",
+            ]
+            .contains(&subject.as_str())
             {
                 self.subject = Some(
                     "s".to_string() + &subject.chars().next().unwrap().to_uppercase().to_string(),
                 );
             } else {
-                println!("{} #{} has subject \"{}\", removing", self.head, self.id, subject);
+                println!(
+                    "{} #{} has subject \"{}\", removing",
+                    self.head, self.id, subject
+                );
                 self.subject = None;
             }
         }
@@ -199,8 +226,9 @@ impl Toa {
         {
             let after_open = rest.strip_prefix('\'').or_else(|| rest.strip_prefix('‘'));
             if let Some(after_open) = after_open {
-                let extracted =
-                    after_open.split_once("'; ").or_else(|| after_open.split_once("’; "));
+                let extracted = after_open
+                    .split_once("'; ")
+                    .or_else(|| after_open.split_once("’; "));
                 if let Some((gloss, new_body)) = extracted
                     && !gloss.is_empty()
                     && !gloss.contains(' ')
@@ -214,6 +242,13 @@ impl Toa {
                     self.body = new_body.to_string();
                 }
             }
+        }
+    }
+    pub fn check_for_multiword_gloss(&self) {
+        if let Some(ref gloss) = self.gloss
+            && gloss.contains(' ')
+        {
+            println!("{} #{} has multiword gloss `{gloss}`", self.head, self.id);
         }
     }
 }
@@ -273,11 +308,15 @@ impl Display for Toa {
                 .into_iter()
                 .flatten()
                 .join(" ");
-                if meta.is_empty() { String::new() } else { format!(" [{meta}]") }
+                if meta.is_empty() {
+                    String::new()
+                } else {
+                    format!(" [{meta}]")
+                }
             } else {
                 String::new()
             },
-            &date[0 .. 10],
+            &date[0..10],
             match score {
                 0 => "±".to_string(),
                 x if x > 0 => format!("+{score}"),
@@ -291,7 +330,7 @@ impl Display for Toa {
             } else {
                 notes
                     .iter()
-                    .map(|n| format!("\n  {} ({}): {}", n.user, &n.date[0 .. 10], n.content))
+                    .map(|n| format!("\n  {} ({}): {}", n.user, &n.date[0..10], n.content))
                     .join("")
             }
         )
@@ -299,7 +338,9 @@ impl Display for Toa {
 }
 
 impl PartialOrd for Toa {
-    fn partial_cmp(&self, other: &Self) -> Option<Ordering> { Some(self.cmp(other)) }
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
 }
 
 impl Ord for Toa {

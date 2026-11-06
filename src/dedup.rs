@@ -29,12 +29,17 @@ pub fn dictify(the: &str) -> Vec<Toa> {
         .into_iter()
         .filter(|toa| toa.score > -2)
         .map(|mut toa| {
-            toa.scope = toa.scope.strip_suffix("-arch").unwrap_or(&toa.scope).to_string();
+            toa.scope = toa
+                .scope
+                .strip_suffix("-arch")
+                .unwrap_or(&toa.scope)
+                .to_string();
             toa
         })
         .update(Toa::fix_note_dates)
         .update(Toa::set_warning)
         .update(Toa::fixup_metadata)
+        .inspect(Toa::check_for_multiword_gloss)
         .sorted_by(Toa::cmp)
         .collect();
     println!("deduplicating");
@@ -45,8 +50,11 @@ pub fn dictify(the: &str) -> Vec<Toa> {
     groups
         .values()
         .map(|indices| {
-            let keeper_idx =
-                if indices.len() == 1 { indices[0] } else { choose_keeper(&entries, indices) };
+            let keeper_idx = if indices.len() == 1 {
+                indices[0]
+            } else {
+                choose_keeper(&entries, indices)
+            };
             entries[keeper_idx].clone()
         })
         .sorted_by(Toa::cmp)
@@ -57,19 +65,35 @@ pub fn choose_keeper(entries: &[Toa], duplicates: &[usize]) -> usize {
     let non_duplicate_notes: Vec<usize> = duplicates
         .iter()
         .filter(|&&idx| {
-            !entries[idx].notes.iter().any(|n| n.content.to_lowercase().contains("duplicate"))
+            !entries[idx]
+                .notes
+                .iter()
+                .any(|n| n.content.to_lowercase().contains("duplicate"))
         })
         .copied()
         .collect();
-    let candidates = if non_duplicate_notes.is_empty() { duplicates } else { &non_duplicate_notes };
-    let empty_notes: Vec<usize> =
-        candidates.iter().filter(|&&i| entries[i].notes.is_empty()).copied().collect();
+    let candidates = if non_duplicate_notes.is_empty() {
+        duplicates
+    } else {
+        &non_duplicate_notes
+    };
+    let empty_notes: Vec<usize> = candidates
+        .iter()
+        .filter(|&&i| entries[i].notes.is_empty())
+        .copied()
+        .collect();
     if empty_notes.len() > 1 {
         let best_score = empty_notes.iter().map(|&i| entries[i].score).max().unwrap();
-        let same_score: Vec<usize> =
-            empty_notes.iter().filter(|&&i| entries[i].score == best_score).copied().collect();
+        let same_score: Vec<usize> = empty_notes
+            .iter()
+            .filter(|&&i| entries[i].score == best_score)
+            .copied()
+            .collect();
         if same_score.len() > 1 {
-            return *same_score.iter().max_by_key(|&&i| &entries[i].date).unwrap();
+            return *same_score
+                .iter()
+                .max_by_key(|&&i| &entries[i].date)
+                .unwrap();
         }
         return same_score[0];
     }
