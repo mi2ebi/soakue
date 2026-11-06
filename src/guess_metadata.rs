@@ -200,7 +200,9 @@ fn metadata_features(toa: &Toa, target: Field) -> Vec<String> {
 
 fn slot_boundary_features(body: &str, slot: Option<usize>, window: usize) -> Vec<String> {
     let Some(slot) = slot else { return Vec::new() };
-    let Some((pos, _)) = body.match_indices('▯').nth(slot) else { return Vec::new() };
+    let Some((pos, _)) = body.match_indices('▯').nth(slot) else {
+        return Vec::new();
+    };
 
     let before_tokens = tokenize(&body[.. pos]);
     let after_tokens = tokenize(&body[pos + '▯'.len_utf8() ..]);
@@ -1579,9 +1581,10 @@ pub fn run(dict: &[Toa]) -> io::Result<()> {
         }
         writeln!(
             out,
-            "{} #{} priority={:.2} ->\n{}\n  {}",
+            "{} #{} {} priority={:.2} ->\n{}\n  {}",
             toa.head,
             toa.id,
+            &toa.date[.. 10],
             priority,
             fields_str.join("\n"),
             toa.body
