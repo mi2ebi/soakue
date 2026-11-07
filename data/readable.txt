@@ -6269,6 +6269,9 @@ buja [(c c) (d d) hó sA] @official 2026-10-29 #3hoAzyAE2Pv $en ±
 buja @jiqci 2023-07-31 #aiqIwru9jl $pl ±
 [t]predicate: ▯ całuje ▯.
 
+bujafuha [(c) (d) hó sI] @Laqme 2026-11-06 #OWe7oRSKI $en ±
+[t]predicate: [g]‘blow a kiss’; ▯ blows a kiss.
+
 bujaloa @Laqme 2024-11-20 #b_61a3ArL $en ±
 [t]predicate: ▯ is a hickey.
 
@@ -22039,10 +22042,10 @@ fufufu @Ilmen 2020-01-12 #WMaL47hHU $en ± %kinship
 [t]predicate: [g]‘grand-grandchild’; ▯ is a grand-grandchild of ▯; ▯ is an offspring of an offspring of an offspring of ▯.
 
 fuha [(c) (d) tá sF] @jiqci 2023-08-01 #zYhstG_sk $en +2
-[t]predicate: [g]‘blows’; ▯ blows.
+[t]predicate: [g]‘blow’; ▯ blows.
 
-fuhacea @jiqci 2023-08-01 #d6VHcFbrz $en ±
-[t]predicate: ▯ are bellows.
+fuhacea [(c) (d) máq sI] @jiqci 2023-08-01 #d6VHcFbrz $en ±
+[t]predicate: [g]‘bellows’; ▯ are bellows.
 
 fuheq @uakci 2021-09-27 #vxGFT-jXB $en ±
 [t]predicate: [g]‘pregnant with’; ▯ is pregnant with child ▯.
@@ -23160,8 +23163,8 @@ garachom @jiqci 2023-02-10 #v40KDDbi2 $en ±
 garafıtı @robintown 2023-11-24 #ml18pYlfm $en ±
 [t]predicate: ▯ is graffiti.
 
-garafuha @jiqci 2023-11-18 #ezh7eG7Q2 $en ±
-[t]predicate: ▯ burps / belches.
+garafuha [(c) (d) hó sI] @jiqci 2023-11-18 #ezh7eG7Q2 $en ±
+[t]predicate: [g]‘burp’; ▯ burps / belches.
 
 garafuı @jiqci 2024-01-03 #RroiSrYQe $en ±
 [t]predicate: ▯ is light on the stomach / easily digested.
@@ -49060,8 +49063,8 @@ loaqdea @fagri 2021-11-11 #jSQ9YKUd6 $en ±
 loaqfeotı @Ilmen 2019-08-24 #arDAF_QOd $en ± %spatial_position,anatomical_direction
 [t]predicate: [g]‘behind’; ▯ is at the rear direction of ▯; ▯ is behind ▯.
 
-loaqfuha @jiqci 2023-11-18 #nlJH9kTRb $en ±
-[t]predicate: ▯ farts / flatulates / passes gas.
+loaqfuha [(c) (d) hó sI] @jiqci 2023-11-18 #nlJH9kTRb $en ±
+[t]predicate: [g]‘fart’; ▯ farts / flatulates / passes gas.
 
 loaqjeoq @seaqtaq 2019-01-17 #PllD-cr6p $en ±
 [t]predicate: [g]‘asscrack’; ▯ is an asscrack/ buttcrack
@@ -95264,7 +95267,7 @@ kueshıqdao gạnıq @seaqtaq 2024-10-28 #q7hCyHar_ $en ±
 Kuı hî raı, ꝡä bu kuaq sheo súq móq? @examples 2026-10-29 #DahBkn9TyK5t $en ±
 Why aren't you apologizing?
 
-Kuı hî, ꝡä bu guaı súq móq? @examples 2026-10-29 #8azWny09DE2 $en ±
+Kuı hí, ꝡä bu guaı súq móq? @examples 2026-11-06 #ei0Gibkui $en -1
 Why aren't you working?
 
 Kuı hóq hí móq? @examples 2026-10-29 #91pJoZACBPnS $en ±
@@ -99898,7 +99901,7 @@ zue jearıaq @robintown 2022-06-28 #RZ5_jZ8Nk $en ±
 ⚠ bıy @Ilmen 2021-11-11 #RylNI1UCR $en -1
 [t]anaphoric pronoun: sentence topic established with "bı".
 
-⚠ boareımy @mimiaoganhaqpy 2022-08-26 #i-r4iwDJk $en ±
+⚠ boareımy @mimiaoganhaqpy 2022-08-26 #i-r4iwDJk $en -1
 [t]predicate: ▯ is a choker.
   mimiaoganhaqpy (2022-12-18): ← **boareı**
 
