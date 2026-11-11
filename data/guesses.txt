@@ -107,8 +107,8 @@ frame:
                1.13    30 _BOUND_AFTER_ANYDIST_property
   2ii          2.66    11 itself
                2.63    22 _RAKU_LAST_taq
-               1.70     1 _GLOSS_itself
                1.70     1 _BOUND_AFTER_BI_with_itself
+               1.70     1 _GLOSS_itself
                1.70     1 _RAKU_LAST2_shı_taq
                1.70     6 _GLOSS_each
                1.69    27 each
@@ -177,11 +177,11 @@ frame:
                1.24    32 it
                1.15    15 good
                1.11     4 proposition
-               1.09     1 _GLOSS_slow
+               1.09     1 _BOUND_AFTER_BI_is_slow
   1x           2.95    11 property
                1.94   108 _KNOWN_SUBJECT_sP
-               1.85     4 _BOUND_BEFORE_ANYDIST_property
                1.85     4 _BOUND_BEFORE_1_property
+               1.85     4 _BOUND_BEFORE_ANYDIST_property
                1.59     1 _RAKU_LAST2_ıq_ma
                1.59     3 _C3_ıqm
                1.58     4 _RAKU_LAST_ma
@@ -236,8 +236,8 @@ frame:
                1.18    13 _C3_taq
                1.05    86 _C2_ta
                0.95     1 _GLOSS_self
-               0.95     2 _BOUND_BEFORE_3_itself
                0.95     2 _BOUND_BEFORE_ANYDIST_itself
+               0.95     2 _BOUND_BEFORE_3_itself
                0.95     3 _BOUND_BEFORE_BI_by_property
                0.94     6 related
                0.90    30 _BOUND_BEFORE_4_to
@@ -270,7 +270,7 @@ frame:
                0.69    32 _BOUND_BEFORE_ANYDIST_by
                0.69     3 two
                0.68     5 member
-               0.67     2 _BOUND_BEFORE_1_relationship
+               0.67     2 relationship
   c            0.98  1596 _BIAS
                0.98  1596 _ARITY_2
                0.67  1596 ▯
@@ -292,8 +292,8 @@ frame:
                0.64    27 that
                0.62     9 _BOUND_AFTER_3_case
                0.58    13 _BOUND_AFTER_2_the
-               0.58     2 _C3_dua
                0.58     2 _RAKU_FIRST_dua
+               0.58     2 _C3_dua
   1i           1.38   128 property
                0.89   122 _BOUND_BEFORE_ANYDIST_property
                0.83    46 _C2_aq
@@ -306,8 +306,8 @@ frame:
                0.61     6 _C2_es
   1j           0.59   178 _KNOWN_PRONOUN_hó
                0.59     6 _BOUND_BEFORE_BI_to_do
-               0.56     7 _BOUND_BEFORE_1_do
                0.56     7 _BOUND_BEFORE_ANYDIST_do
+               0.56     7 _BOUND_BEFORE_1_do
                0.52   120 _BOUND_BEFORE_1_property
                0.50    43 _BOUND_BEFORE_ANYDIST_satisfy
                0.50     8 do
@@ -323,7 +323,7 @@ frame:
                0.67    31 _C2_eo
                0.54     6 or
                0.54    13 _C2_ru
-               0.53     1 _RAKU_LAST2_soı_luaq
+               0.53     1 compete
   2ij          1.42    17 relation
                1.36    16 _BOUND_BEFORE_1_relation
                1.36    16 _BOUND_BEFORE_ANYDIST_relation
