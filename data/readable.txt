@@ -3354,7 +3354,7 @@ beoreaı @seaqtaq 2020-04-27 #bMxOIds9X $en ±
 [t]predicate: [g]‘being stubborn’; ▯ is being stubborn
   seaqtaq (2020-04-27):  (circumstantial behavior)
 
-beoreaıhe @seaqtaq 2020-04-27 #8NRxomYoG $en ±
+beoreaıhe [(c) (d) hó sI] @seaqtaq 2020-04-27 #8NRxomYoG $en ±
 [t]predicate: [g]‘stubborn’; ▯ is stubborn
   seaqtaq (2020-04-27): personality trait
 
@@ -36058,7 +36058,7 @@ jıaıgaocoa @robintown 2023-02-06 #zsvhClu1C $en ±
 jıaıguao @Laqme 2023-10-15 #kOxVbm2yy $en ±
 [t]predicate: ▯ is a pair of tongs.
 
-jıaıgue @uakci 2019-04-08 #O9SLk8oUa $en ±
+jıaıgue [(c) (d) máq sI] @uakci 2019-04-08 #O9SLk8oUa $en ±
 [t]predicate: [g]‘hook’; ▯ is a hook.
 
 jıaıjuq @uakci 2022-05-15 #dsZMlHwtG $en ±
@@ -44345,7 +44345,7 @@ koqto @seaqtaq 2018-12-28 #7Zao-ah3w $en -1
   fagri (2021-10-13): tags: profile, user, login, identity
   Laqme (2022-03-09): I think it can also be a non-Internet account
 
-koqtofuaq @fagri 2021-10-13 #QLzykLzUu $en +1
+koqtofuaq [(c) (d) máq sI] @fagri 2021-10-13 #QLzykLzUu $en +1
 [t]predicate: [g]‘profile picture’; ▯ is a profile picture
 
 koraqle @Laqme 2024-10-25 #HJJzQpLnA $en ±
@@ -49839,7 +49839,7 @@ loseduhu [(c) (d) tá sI] @Ilmen 2019-09-03 #LE8IUnjZG $en +2
 lota @kazoo 2025-02-11 #f3mIfgaxM $en ±
 [t]predicate: ▯ fishes; ▯ makes an attempt to catch fish from a body of water and potentially succeeds
 
-lotıehua @RaineTheEnby 2019-09-17 #Keir_7ReKOs $en ±
+lotıehua [(c c) (d d) máq sI] @RaineTheEnby 2019-09-17 #Keir_7ReKOs $en -1
 [t]predicate: [g]‘exoskeleton’; ▯ is a mechanical exoskeleton worn by ▯
 
 lotuq [(c) (d) tá sF] @robintown 2023-11-07 #Zsl1Dk_fl $en +2
@@ -49895,7 +49895,7 @@ luafao @Laqme 2024-04-29 #NHpVyB11m $en ±
 luafaq @fagri 2019-01-18 #DxuLj6HAC $en ±
 [t]predicate: [g]‘plot’; ▯ is the plot of story ▯
 
-luafuom @seaqtaq 2025-06-26 #Iq6rOnJBz $en ±
+luafuom [(c) (d) hóq sI] @seaqtaq 2025-06-26 #Iq6rOnJBz $en ±
 [t]predicate: [g]‘plot’; ▯ is the plot of a story or narrative
 
 luaı [(c) (d) tá sF] @official 2026-11-10 #3_OzpmvBFHD $en ± %emotion,subjective
@@ -50136,7 +50136,7 @@ luaqchukao @Laqme 2022-05-11 #zqxRSU_cb $en ±
 luaqchuo @Ilmen 2020-04-11 #fPriHXYEC $en +1 %artifact
 [t]predicate: [g]‘toy’; ▯ is a toy, plaything or other thing designed for playing.
 
-luaqchuo @Laqme 2018-12-09 #0-20OQSmh $en ± %artifact
+luaqchuo [(c) (d) máq sI] @Laqme 2018-12-09 #0-20OQSmh $en ± %artifact
 [t]predicate: [g]‘toy’; ▯ is a toy.
 
 luaqdea @seaqtaq 2020-03-01 #R18AS9Z3z $en ±
@@ -50353,7 +50353,7 @@ luaruochuo @jiqci 2023-09-06 #td0XR4lyP $en ±
 luası @uakci 2019-06-22 #z69AfTQ1N $en +1
 [t]predicate: [g]‘listen’; ▯ listens to / watches / enjoys / reads story ▯.
 
-luashıoq @seaqtaq 2025-06-26 #GnqQ4IRxG $en ±
+luashıoq [(c) (d) hóq sI] @seaqtaq 2025-06-26 #GnqQ4IRxG $en ±
 [t]predicate: [g]‘plot’; ▯ is "plot" considered in a quasi-mystical sense; ▯ is the driving force which demands that a narrative continue
   seaqtaq (2025-06-26): Not to be confused with **luafaq** or **luafuom**, which merely denote the content or outline of a story
 
@@ -57458,6 +57458,9 @@ naoboenıu [(c) (d) máq sI] @robintown 2021-10-20 #9CPkaKmoJ $en ±
 naoboqboe @Ilmen 2024-11-19 #wb2sxHhn7 $en ±
 [t]predicate: ▯ is a tarpaulin, a waterproof sheet.
 
+naocaha @Ilmen 2026-11-12 #WhG4TTBzz $en ±
+[t]predicate: ▯ drowns.
+
 naoce @jiqci 2024-08-02 #wdjbyCh4- $en ±
 [t]predicate: ▯ is a port/harbor/haven.
 
@@ -62111,6 +62114,9 @@ nulıloeq [(c) (d) tá sI] @Dembim 2025-10-31 #V2jj3OwoV $en ±
   Dembim (2026-02-12): Subject: individual
   Dembim (2026-02-12): Distribution: d
 
+nulıloeq @Ilmen 2026-11-12 #yc6C9XOBR $en ±
+[t]predicate: ▯ fries, is fried.
+
 nulımeaq @jiqci 2023-06-27 #_gmCx0jdr $en ±
 [t]predicate: ▯ is a tanker ship.
 
@@ -65853,7 +65859,7 @@ pıla @fagri 2021-09-28 #-jxE0MzlT $en ±
 [t]predicate: [g]‘nail’; ▯ is a nail (the thing driven in by a hammer)
   fagri (2021-09-28): etymology: a priori
 
-pılachuo @fagri 2021-09-28 #Qad4RaKgh $en ±
+pılachuo [(c) (d) máq sI] @fagri 2021-09-28 #Qad4RaKgh $en ±
 [t]predicate: [g]‘hammer’; ▯ is a hammer
 
 Pılıpına @countries 2026-11-10 #ZjfJ25LGZbt $en ±
@@ -67016,7 +67022,7 @@ poqhoıtoa @seaqtaq 2019-01-08 #76y-psWgk $en ±
 poqhuımoı @TheAndSys 2023-01-08 #OqF5UvE-5 $en ±
 [t]predicate: ▯ is social anxiety
 
-poqjeo @uakci 2021-08-10 #gDmkUuJ3Q $en ±
+poqjeo @uakci 2021-08-10 #gDmkUuJ3Q $en -1
 [t]predicate: [g]‘have personality trait’; ▯ has personality trait ▯.
 
 poqjeose [(c c) (d d) hóq sI] @uakci 2021-08-10 #mlYQ78YdK $en ±
@@ -88130,7 +88136,7 @@ tuqtue @Laqme 2024-07-31 #1eJUc4YBI $en ±
 ⚠ tuqtuq @uakci 2021-09-03 #lMUE2UJdH $en ±
 [t]predicate: [g]‘stim’; ▯ stims; ▯ does ▯ as a stim.
 
-tuqtuqchuo @uakci 2021-09-03 #fh11efTlo $en ±
+tuqtuqchuo [(c) (d) máq sI] @uakci 2021-09-03 #fh11efTlo $en ±
 [t]predicate: [g]‘fidget toy’; ▯ is a fidget toy or stress reliever.
 
 tuqtuqke @uakci 2023-12-06 #DerB01lBv $en ±
