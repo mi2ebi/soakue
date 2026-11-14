@@ -806,7 +806,7 @@ Amarazu @eednb 2023-12-31 #jXsnQvc1x $en ±
 amba @lassc 2025-03-21 #kvpVNPn9i $en ±
 [t]interjection: [g]‘hold on’; "stay strong!", "keep going!", "hold on!"
 
-ame @lassc 2025-03-18 #j6guO__qF $en +1
+ame @lassc 2025-03-18 #j6guO__qF $en +2
 [t]interjection: [g]‘end’; early termination of sentence
   lassc (2025-03-18): clarification: this is used as a way of essentially going "no, i shant" as you're saying something. i can imagine this being used in a variety of ways, like a playful way of getting the other person to "fill the blank" for what you were about to say, genuinely just stopping yourself before you say something embarassing, etc etc
   lassc (2025-03-18): cf. **sıanha**, which is very similar but avoids the connotation of discouragement of seeking further information and the connotation of negation of what was previously said
@@ -53566,7 +53566,7 @@ mıerıoqdıu [(c) (d) hóq sI] @seaqtaq 2019-01-29 #yP20NFDOu $en ±
 mıerıoqjeq @Ilmen 2018-11-03 #wPY3kbFGz $en ± %biology
 [t]predicate: [g]‘fellow creature’; ▯ is a fellow creature of ▯; ▯ is of the same species as ▯.
 
-mıerıoqjeqchuq @Ilmen 2018-11-03 #nP8OAGUQZ $en ±
+mıerıoqjeqchuq [(c) (d) hó sI] @Ilmen 2018-11-03 #nP8OAGUQZ $en ±
 [t]predicate: [g]‘cannibal’; ▯ is a cannibal.
   Ilmen (2019-01-31): = #rıoqjēqchūq
 
@@ -70703,7 +70703,7 @@ rıoqhıa @Laqme 2025-12-14 #Q0iMQ7nIv $en ±
 [t]predicate: [g]‘is what kind?’; What type/kind is ▯ (individual)?
   Laqme (2025-12-14): i.e. "To what type/kind does ▯ belong?"
 
-rıoqjeqchuq @Ilmen 2019-01-31 #G2ogHZLVR $en ±
+rıoqjeqchuq [(c) (d) hó sI] @Ilmen 2019-01-31 #G2ogHZLVR $en ±
 [t]predicate: [g]‘cannibal’; ▯ is a cannibal.
   Ilmen (2019-01-31): = #mıerīoqjēqchūq
 
