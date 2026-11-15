@@ -23,7 +23,7 @@ const BREVE = "\u0306"; // extra-short
 const TONE_MARKS = { [GRAVE]: "fall", "\u0301": "rise", "\u0308": "glottal", "\u0302": "hiatus" };
 
 // contours as pitch heights, 1 (bottom) to 5 (top)
-const CONTOURS = { fall: [5, 1], rise: [1, 5], low: [3, 1], hiatus: [5, 1] };
+const CONTOURS = { fall: [5, 1], rise: [1, 5], glottal: [3, 1], hiatus: [5, 1] };
 const TONE_GLYPHS = {
     letters: [, "˩", "˨", "˧", "˦", "˥"],
     numbers: [, "¹", "²", "³", "⁴", "⁵"],
