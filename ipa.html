@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>toaq → ipa · sóakue</title>
+    <link href="fonts.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="nuifuaq.png" type="image/png" />
+    <style>
+     #src {
+       width: 100%;
+       min-height: 5.5em;
+       padding: 12px 16px;
+       font-family: var(--font);
+       font-size: 20px;
+       background-color: var(--input);
+       color: var(--fg);
+       border: 2px solid transparent;
+       border-radius: 8px;
+       resize: vertical;
+       &:hover { border-color: var(--purple); }
+       &:focus-visible { outline: none; border-color: var(--focus); }
+     }
+     .opts {
+       display: flex;
+       flex-wrap: wrap;
+       gap: 8px 16px;
+       align-items: center;
+       margin: 12px 0;
+       label { cursor: pointer; }
+     }
+     #out {
+       padding: 12px 16px;
+       background: var(--input);
+       border-radius: 8px;
+       font-size: 1.25rem;
+       line-height: 1.9;
+       white-space: pre-wrap;
+       min-height: 3.5em;
+       &:empty::before { content: "...and ipa will appear here"; color: var(--gray); }
+     }
+     #warn {
+       color: var(--adv);
+       font-size: 0.9rem;
+       white-space: pre-wrap;
+     }
+     .bad {
+       color: var(--adv);
+       text-decoration: underline wavy;
+       text-underline-offset: calc(25% + 1px);
+     }
+     #howto li { margin: 0.3em 0; }
+     a.toa {
+       text-decoration-line: underline;
+     }
+    </style>
+  </head>
+  <body>
+    <h1>toaq → ipa</h1>
+    <p><a href="index.html">sóakue</a> · <a href="https://github.com/mi2ebi/soakue">github</a></p>
+    <textarea id="src" spellcheck="false" autocomplete="off" placeholder="type toaq here..."></textarea>
+    <div class="opts">
+      <label><input type="checkbox" id="brk" checked /> [brackets]</label>
+      <label>
+        tones
+        <select id="tones">
+          <option value="letters">˥˩</option>
+          <option value="numbers">⁵¹</option>
+          <option value="none">off</option>
+        </select>
+      </label>
+      <label>
+        pronunciation
+        <select id="pron">
+          <option value="official">official</option>
+          <option value="reform">prefix reform</option>
+          <option value="hiatus">&amp;'s hiatus</option>
+          <option value="reform hiatus">both</option>
+        </select>
+      </label>
+      <button type="button" id="copy">copy</button>
+    </div>
+    <div id="out"></div>
+    <p id="warn"></p>
+    <p class="gray">
+      try:
+      <a href="#" class="ex toa">ẹlao</a>
+      <a href="#" class="ex toa">ëlao</a>
+      <a href="#" class="ex toa">êlao</a>
+      <a href="#" class="ex toa">ệlao</a>
+      <a href="#" class="ex toa">ê'elao</a>
+      <a href="#" class="ex toa">ẹqlao</a>
+      <a href="#" class="ex toa">egẹlao</a>
+      <br />reform:
+      <a href="#" class="ex toa" data-pron="reform">mufòaq</a>
+      <a href="#" class="ex toa" data-pron="reform">botâo</a>
+      <a href="#" class="ex toa" data-pron="reform">toꝡä</a>
+      <a href="#" class="ex toa" data-pron="reform">e'àno</a>
+      <br />reform++:
+      <a href="#" class="ex toa" data-pron="reform">bō tâo</a>
+      <a href="#" class="ex toa" data-pron="reform">pū chūm gòıchuq</a>
+      <br />&amp;'s hiatus:
+      <a href="#" class="ex toa" data-pron="hiatus">tıà</a>
+    </p>
+    <p>
+      syllables in the ipa without marked tones plateau. “[ꝡ]” indicates your choice of [j] or [w] where it doesn't
+      matter
+    </p>
+    <script src="ipa.js"></script>
+  </body>
+</html>
