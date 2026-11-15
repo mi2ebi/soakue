@@ -32430,7 +32430,7 @@ hukıse @mimiaoganhaqpy 2023-04-29 #T_4Rd5NBE $en ±
 [t]predicate: ▯ is a punishment.
 
 huko @salarua 2022-10-23 #aiAAF-Q4x $en +3
-[t]interjection: [g]‘no way’; "no way", "you've gotta be kidding me", "give me a break"; amazement (negative connotation), exasperation, frustration
+[t]interjection: "no way", "you've gotta be kidding me", "give me a break"; amazement (negative connotation), exasperation, frustration
   salarua (2022-10-23): examples of use: seeing a really high price for something you need, finding a big mess to clean up, receiving inconvenient news, general frustration
   salarua (2022-10-23): can be classed as an expletive
   lassc (2025-03-17): cf **hıte**
@@ -43358,7 +43358,7 @@ Kısımasalaochaq @robintown 2024-12-24 #6myv57OiW $en ±
 [t]predicate: ▯ is Christmas Eve.
 
 kıta @uakci 2022-06-21 #qK4jH5NRZ $en +2
-[t]interjection: [g]‘there we are’; ‘finally!’, ‘at last!’, ‘it’s finally here’, ‘there we are’; used when one is relieved or excited to get what they’ve been waiting for or finish what they’ve been long working on
+[t]interjection: [g]‘finally’; ‘finally!’, ‘at last!’, ‘it’s finally here’, ‘there we are’; used when one is relieved or excited to get what they’ve been waiting for or finish what they’ve been long working on
   uakci (2022-06-21): from Japanese きた ‘it came’
   evie (2024-10-26): i like the parallel between this and **tıka**
 
@@ -54149,7 +54149,7 @@ mıule @uakci 2022-07-21 #kWblMJB9N $en ±
 [t]predicate: ▯ is plausible/believable/reasonable (as a position one could come up with).
 
 mıuleı [(c c) (d d) hó sI] @uakci 2022-07-21 #-7Br8C_ZF $en +2
-[t]predicate: [g]‘has “unpopular opinion”’; ▯ has “unpopular opinion” ▯.
+[t]predicate: [g]‘has.unpopular.opinion’; ▯ has “unpopular opinion” ▯.
 
 mıum @evie 2025-03-27 #Q9mjdRM8e $en ±
 [t]interjection: [g]‘heart’; <3
@@ -62115,7 +62115,8 @@ nulıloeq [(c) (d) tá sI] @Dembim 2025-10-31 #V2jj3OwoV $en ±
   Dembim (2026-02-12): Distribution: d
 
 nulıloeq @Ilmen 2026-11-12 #yc6C9XOBR $en ±
-[t]predicate: ▯ fries, is fried.
+[t]predicate: ▯ fries, undergoes frying.
+  Dembim (2026-11-14): Why máq, rather than tá for this?
 
 nulımeaq @jiqci 2023-06-27 #_gmCx0jdr $en ±
 [t]predicate: ▯ is a tanker ship.
@@ -79293,7 +79294,7 @@ sheabaga @TheAndSys 2023-03-14 #UVcLtsRpR $en -1
 [t]predicate: ▯ sucks / applies suction on ▯
 
 sheabıa [(c) (d) hó sI] @el 2022-06-23 #MbKLsjcXX $en +2
-[t]predicate: [g]‘has depression’; ▯ has depression
+[t]predicate: [g]‘depressed’; ▯ has depression
   uakci (2022-06-23): ennui, abolition
   uakci (2022-06-23): avolition*
   el (2022-06-23): keyword: depressed
@@ -81204,8 +81205,8 @@ shoarom @Laqme 2024-05-25 #DMzY4AzF3 $en ±
 [t]predicate: ▯ is a machine executable / compiled / native program.
   Laqme (2024-05-25): The metaphor is that the program is executed "deep down" by the hardware, rather than interpreted "high up" by other software (see **fıurom**).
 
-shoasıeq [(c c) (d d) hó sI] @Hoemai 2019-04-01 #uU3PXaCbO $en +4
-[t]predicate: [g]‘feel reverence’; ▯ feels reverence at the unfathomable depth of ▯.
+shoasıeq @Hoemai 2019-04-01 #uU3PXaCbO $en +4
+[t]predicate: ▯ feels reverence at the unfathomable depth of ▯.
   Hoemai (2019-04-01): Trying to capture the emotion I experience when I see underwater footage of whales in the ocean.
   Machy (2020-07-01): nice literary vocabulary
 
@@ -83409,7 +83410,7 @@ teague @seaqtaq 2024-10-29 #PqTBpv8rf $en ±
 [t]predicate: ▯ recoils in fear; ▯ cowers
 
 teaı [(c 1i) (d d) hó sI] @Machy 2022-02-07 #kyaa-w7jQ $en +2
-[t]predicate: [g]‘is averse’; ▯ is averse/afraid/disgusted of satisfying property ▯.
+[t]predicate: [g]‘averse’; ▯ is averse/afraid/disgusted of satisfying property ▯.
   Machy (2022-02-07): This word was missing an English definition.
   Laqme (2022-02-07): reluctant
 
@@ -89111,7 +89112,7 @@ uzıu [(c) (d) hóq sI] @Laqme 2023-12-29 #NFFzaKlGm $en +1
 [t]predicate: ▯ is badass.
 
 ꝡaꝡao @evie 2025-03-30 #FdgGvDlB8 $en ±
-[t]interjection: [g]‘cute ꝡadı’; cuter **ꝡadı**
+[t]interjection: [g]‘haiii’; cuter **ꝡadı**
 
 ꝡe @mimiaoganhaqpy 2025-02-11 #2vo_GPGUu $en ±
 [t]free relative: [g]‘that.which’; turn clause into predicate
@@ -98375,7 +98376,7 @@ Sı jí, tïo roe náqdeo da. @examples 2026-11-10 #bIS-J8Pp64d $en ±
 I’m thinking about how well the boy is.
 
 sîna sá nao luq @salarua 2024-09-26 #lMLj80kWI $en +2
-[t]idiom: [g]‘from still waters’; ‘from still waters’, used to express the unexpectedness of an event
+[t]idiom: ‘from still waters’, used to express the unexpectedness of an event
   salarua (2024-09-26): equivalent to English "out of the blue"
 
 Sı ní req, tïo noılıe réq da. @examples 2026-11-10 #DPgkz1Ps9a $en ±
