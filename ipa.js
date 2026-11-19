@@ -98,8 +98,10 @@ function newRaku() {
 function parseWord(word, hiatusReform) {
     const cursor = new Cursor(word);
     const rakus = [], errs = [], tones = [];
+    const ctx = { index: 0, hiatusReform, errs, tones, skipped: false };
     while (!cursor.done) {
-        const raku = readRaku(cursor, { index: rakus.length, hiatusReform, errs, tones });
+        ctx.index = rakus.length;
+        const raku = readRaku(cursor, ctx);
         if (raku) rakus.push(raku);
     }
     const { tone, stem } = resolveStem(rakus, tones, errs);
@@ -110,28 +112,32 @@ function parseWord(word, hiatusReform) {
 function readRaku(cursor, ctx) {
     const raku = newRaku();
     if (!readOnset(cursor, ctx, raku)) return null;
-    
+
     if (cursor.isVowel()) {
         raku.nucleus = readNucleus(cursor, ctx, raku);
         // two nuclei only when the first is a plain vowel: CVV, CVF
         if (raku.nucleus.length === 1 && cursor.isVowel()) raku.second = readNucleus(cursor, ctx, raku);
-    } else ctx.errs.push(`no vowel after “${raku.onset}”`);
-    
-    readFinal(cursor, ctx, raku);
-    
+        readFinal(cursor, ctx, raku);
+    } else {
+        ctx.errs.push(`no vowel after “${raku.onset}”`);
+        // a final right after the missing vowel belongs to it, so it doesn't get reported again
+        if (isFinal(cursor)) cursor.next();
+    }
+
     // a hyphen, colon or period after a raku: the stem starts next
     const separator = cursor.char();
     if (separator && ":-.".includes(separator)) {
         raku.boundary = true;
         cursor.next();
     }
-    
+
     // hiatus reform: a grave on the second vowel is the hiatus tone, if there is one
     if (raku.graveOnSecond) {
         if (raku.second && raku.nucleus.length === 1) ctx.tones.push({ name: "hiatus", raku: ctx.index });
         else ctx.errs.push("the tone mark goes on the first vowel of a raku");
     }
     checkPhonotactics(raku, ctx.errs);
+    ctx.skipped = false;
     return raku;
 }
 
@@ -147,10 +153,11 @@ function readOnset(cursor, ctx, raku) {
         cursor.next();
     } else if (VOWELS.includes(c)) {
         // vowel-initial: only the word's first raku can drop its onset
-        if (ctx.index > 0) ctx.errs.push("only the first raku can start with a vowel (use ' for ʔ)");
+        if (ctx.index > 0 && !ctx.skipped) ctx.errs.push("only the first raku can start with a vowel (use ' for ʔ)");
         raku.onset = "'";
     } else {
         ctx.errs.push(c === "q" ? "q can only be a final" : `unknown letter “${c}”`);
+        ctx.skipped = true; // whatever raku comes next isn't really "vowel-initial", it's after junk
         cursor.next();
         return false;
     }
@@ -187,9 +194,14 @@ function readVowel(cursor, ctx, raku) {
 }
 
 /** q, or m when it isn't the next raku's onset */
-function readFinal(cursor, ctx, raku) {
+function isFinal(cursor) {
     const c = cursor.char();
-    if (c !== "q" && !(c === "m" && !cursor.isVowel(1))) return;
+    return c === "q" || (c === "m" && !cursor.isVowel(1));
+}
+
+function readFinal(cursor, ctx, raku) {
+    if (!isFinal(cursor)) return;
+    const c = cursor.char();
     if ((raku.second || raku.nucleus).length === 1) raku.coda = c;
     else ctx.errs.push("a diphthong can't take a final");
     cursor.next();
@@ -215,17 +227,24 @@ function resolveStem(rakus, tones, errs) {
     const tone = tones[0]?.name ?? "fall";
     const toneRaku = tones.at(-1)?.raku ?? -1;
     if (tones.length > 1) errs.push("words can't have multiple tones");
-    
+
     const hasMacrons = rakus.some((r) => r.macron);
     // indices of rakus followed by an underdot or hyphen (ignored when ā is used)
     const boundaries = hasMacrons ? [] : rakus.flatMap((r, k) => (r.underdot || r.boundary ? [k] : []));
     let stem = 0;
-    let official = boundaries.length > 0;
-    
-    if (boundaries.length > 1) errs.push("words can have at most one prefix boundary");
-    if (boundaries.length) {
+    // once the prefix structure is wrong there is no stem to measure the tone against,
+    // so the checks below would only report side effects
+    let broken = false;
+
+    if (boundaries.length > 1) {
+        errs.push("words can have at most one prefix boundary");
+        broken = true;
+    } else if (boundaries.length) {
         stem = boundaries[0] + 1;
-        if (stem >= rakus.length) errs.push("a prefix needs a stem after it");
+        if (stem >= rakus.length) {
+            errs.push("a prefix needs a stem after it");
+            broken = true;
+        }
     }
     if (hasMacrons) {
         // reform++: the stem is the first raku without a macron
@@ -233,18 +252,21 @@ function resolveStem(rakus, tones, errs) {
         if (stem < 0) {
             errs.push("a prefix needs a stem after it");
             stem = 0;
-        } else if (rakus.slice(stem).some((r) => r.macron)) errs.push("prefixes (ā) have to come before the stem");
+            broken = true;
+        } else if (rakus.slice(stem).some((r) => r.macron)) {
+            errs.push("prefixes (ā) have to come before the stem");
+            broken = true;
+        }
     }
-    
-    if (tones.length === 1) {
+
+    if (tones.length === 1 && !broken) {
         if (hasMacrons) {
             if (toneRaku !== stem) errs.push("the tone mark goes on the stem's first vowel");
         } else if (!boundaries.length) stem = toneRaku;
-        else if (toneRaku === 0) official = true;
-        else if (toneRaku === stem) official = false;
-        else errs.push("the tone mark has to be on the word's first vowel or on the stem's");
+        else if (toneRaku !== 0 && toneRaku !== stem)
+            errs.push("the tone mark has to be on the word's first vowel or on the stem's");
         if (toneRaku > 0 && rakus.some((r) => r.underdot)) errs.push("the reform spelling has no underdots");
-  }
+    }
     return { tone, stem };
 }
 
@@ -340,29 +362,29 @@ function nucleusIPA(syllable, stressed, tone) {
 function renderParts(syllables, { tone, stem, stressedIndex }, style) {
     const { tones } = style;
     syllables.forEach((syllable, k) => {
-        syllable.prefix = style.reform && syllable.raku < stem;
+        syllable.prefix = style.prefixReform && syllable.raku < stem;
         if (k === stressedIndex && tone === "glottal") syllable.chop = true; // the glottal tone is a chop too
     });
-    
+
     const parts = [];
     const hiatusSecondHalves = new Set();
     syllables.forEach((syllable, k) => {
         const stressed = k === stressedIndex;
         const onset = syllable.onset ? ONSETS[syllable.onset] : "";
         const coda = syllable.coda === "q" ? "ŋ" : syllable.coda;
-        
+
         if (hiatusSecondHalves.has(syllable)) {
             // &'s: ti35 a51, the hiatus is just the syllable break
             const t = tones.split(CONTOURS.hiatus, syllable.chop);
             parts.push({ str: "ˈ" + nucleusIPA(syllable, true, t) + coda + t.end, onset: "", coda: syllable.coda });
             return;
         }
-        
+
         const next = syllables[k + 1];
         const t = stressed
               ? tones.split(CONTOURS[tone], syllable.chop)
               : { mid: "", end: syllable.prefix && syllable.endsRaku ? tones.level(3) : "" };
-        
+
         if (style.hiatusReform && stressed && tone === "hiatus" && next?.raku === syllable.raku) {
             next.chop = syllable.chop;
             syllable.chop = false;
@@ -409,19 +431,19 @@ function joinParts(parts) {
 function transcribeWord(word, style) {
     const parsed = parseWord(word, style.hiatusReform);
     const { errs, rakus, tone, stem } = parsed;
-    if (!style.reform && !errs.length && tone === "glottal" && stem > 0)
+    if (!style.prefixReform && !errs.length && tone === "glottal" && stem > 0)
         errs.push("the official pronunciation can't combine the glottal tone with a prefix");
     if (!rakus.length && !errs.length) errs.push("nothing to transcribe");
     if (errs.length) return { errs };
-    
+
     // official pronunciation: the underdot chops the last prefix, and raku 0 is stressed.
     // reform pronunciation: no chop, and the stem is stressed
     rakus.forEach((raku, k) => {
-        raku.chop = !style.reform && stem > 0 && k === stem - 1;
+        raku.chop = !style.prefixReform && stem > 0 && k === stem - 1;
     });
     const syllables = toSyllables(rakus);
-    const stressedIndex = style.reform ? syllables.findIndex((s) => s.raku === stem) : 0;
-    
+    const stressedIndex = style.prefixReform ? syllables.findIndex((s) => s.raku === stem) : 0;
+
     const parts = renderParts(syllables, { tone, stem, stressedIndex }, style);
     return {
         errs: [],
@@ -436,8 +458,8 @@ function transcribeWord(word, style) {
 /** ꝡ is [j] after u/o and [w] otherwise */
 function glideAfter(previousText) {
     const last = previousText.replace(NOT_A_SEGMENT, "").slice(-1);
-    return last && "uoɔʊ".includes(last)
-        ? "j" : last && "iɪeɛ".includes(last) ? "w" : "ꝡ";
+    return last && "uoɔʊw".includes(last)
+        ? "j" : last && "iɪeɛj".includes(last) ? "w" : "ꝡ";
 }
 
 /** [leading punctuation, the word, trailing punctuation] */
@@ -473,13 +495,13 @@ function mergePrefixWords(chunks, hiatusReform) {
 function convert(text, options) {
     const style = {
         tones: toneWriter(options.tones),
-        reform: options.pron.includes("reform"),
+        prefixReform: options.pron.includes("prefix"),
         hiatusReform: options.pron.includes("hiatus"),
     };
     const tokens = [], warnings = [];
     const textSoFar = () => tokens.map((t) => t.text).join("");
     let previousWord = null; // the word just before, if only whitespace separates it from here
-    
+
     const chunks = normalize(text).split(/(\s+)/).filter(Boolean);
     for (const chunk of mergePrefixWords(chunks, style.hiatusReform)) {
         if (/^\s+$/.test(chunk)) {
@@ -562,18 +584,18 @@ function update() {
 function init() {
     ui.src.addEventListener("input", update);
     for (const id of ["brk", "tones", "pron"]) ui[id].addEventListener("change", update);
-    ui.copy.addEventListener("click", () => navigator.clipboard.writeText(ui.out.textContent));
-    
-    // the example links fill in the text and the pronunciation they're meant for
-    for (const link of document.querySelectorAll(".ex")) {
-        link.addEventListener("click", (event) => {
-            event.preventDefault();
-            ui.src.value = link.textContent;
-            ui.pron.value = link.dataset.pron || "official";
-            update();
-        });
-    }
-    
+    let copytimer;
+    ui.copy.addEventListener("click", () => {
+        navigator.clipboard.writeText(ui.out.textContent);
+        ui.copy.innerText = "copied";
+        ui.copy.style.color = "var(--teal)";
+        clearTimeout(copytimer);
+        copytimer = setTimeout(() => {
+            ui.copy.innerText = "copy";
+            ui.copy.style.color = "";
+        }, 1000)
+    });
+
     const params = new URLSearchParams(location.search);
     const pron = params.get("pron");
     if ([...ui.pron.options].some((option) => option.value === pron)) ui.pron.value = pron;

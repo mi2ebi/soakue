@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>toaq → ipa · sóakue</title>
+    <title>toaq → ipa</title>
     <link href="fonts.css" rel="stylesheet" />
     <link href="style.css" rel="stylesheet" />
     <meta charset="utf-8" />
@@ -59,11 +59,14 @@
   <body>
     <h1>toaq → ipa</h1>
     <p><a href="index.html">sóakue</a> · <a href="https://github.com/mi2ebi/soakue">github</a></p>
-    <textarea id="src" spellcheck="false" autocomplete="off" placeholder="type toaq here..."></textarea>
+    <label for="src">
+      <span style="padding: 0 20px 3px 0;">toaq text</span>
+      <textarea id="src" spellcheck="false" autocomplete="off" placeholder="type toaq here..."></textarea>
+    </label>
     <div class="opts">
-      <label><input type="checkbox" id="brk" checked /> [brackets]</label>
+      <label style="padding-block: 15px;"><input type="checkbox" id="brk" checked /> [brackets]</label>
       <label>
-        tones
+        tones<br/>
         <select id="tones">
           <option value="letters">˥˩</option>
           <option value="numbers">⁵¹</option>
@@ -71,42 +74,23 @@
         </select>
       </label>
       <label>
-        pronunciation
+        pronunciation<br/>
         <select id="pron">
           <option value="official">official</option>
-          <option value="reform">prefix reform</option>
+          <option value="prefix">prefix reform</option>
           <option value="hiatus">&amp;'s hiatus</option>
-          <option value="reform hiatus">both</option>
+          <option value="prefix hiatus">both</option>
         </select>
       </label>
       <button type="button" id="copy">copy</button>
     </div>
     <div id="out"></div>
     <p id="warn"></p>
-    <p class="gray">
-      try:
-      <a href="#" class="ex toa">ẹlao</a>
-      <a href="#" class="ex toa">ëlao</a>
-      <a href="#" class="ex toa">êlao</a>
-      <a href="#" class="ex toa">ệlao</a>
-      <a href="#" class="ex toa">ê'elao</a>
-      <a href="#" class="ex toa">ẹqlao</a>
-      <a href="#" class="ex toa">egẹlao</a>
-      <br />reform:
-      <a href="#" class="ex toa" data-pron="reform">mufòaq</a>
-      <a href="#" class="ex toa" data-pron="reform">botâo</a>
-      <a href="#" class="ex toa" data-pron="reform">toꝡä</a>
-      <a href="#" class="ex toa" data-pron="reform">e'àno</a>
-      <br />reform++:
-      <a href="#" class="ex toa" data-pron="reform">bō tâo</a>
-      <a href="#" class="ex toa" data-pron="reform">pū chūm gòıchuq</a>
-      <br />&amp;'s hiatus:
-      <a href="#" class="ex toa" data-pron="hiatus">tıà</a>
-    </p>
     <p>
       syllables in the ipa without marked tones plateau. “[ꝡ]” indicates your choice of [j] or [w] where it doesn't
       matter
     </p>
+    <p>supports ascii fallbacks for letters and prefixes, but not numbered tones</p>
     <script src="ipa.js"></script>
   </body>
 </html>

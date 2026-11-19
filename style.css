@@ -241,7 +241,8 @@ dd {
 }
 .toa {
   color: var(--pink);
-  font-weight: 700;
+  dt & { font-weight: 700; }
+  dd & { font-weight: 600; }
   a& {
       text-underline-offset: calc(25% + 1px);
   }
