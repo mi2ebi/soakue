@@ -107,9 +107,9 @@ frame:
                1.13    30 _BOUND_AFTER_ANYDIST_property
   2ii          2.48    11 itself
                2.47    22 _RAKU_LAST_taq
-               1.37     1 _RAKU_LAST2_shı_taq
                1.37     1 _GLOSS_itself
                1.37     1 _BOUND_AFTER_BI_with_itself
+               1.37     1 _RAKU_LAST2_shı_taq
                1.37     6 _GLOSS_each
                1.36    27 each
                1.33     2 _BOUND_AFTER_2_itself
@@ -177,11 +177,11 @@ frame:
                1.23    32 it
                1.15    15 good
                1.11     4 proposition
-               1.09     1 _BOUND_AFTER_BI_is_slow
+               1.09     1 _BOUND_AFTER_2_slow
   1x           2.96    11 property
                1.95   108 _KNOWN_SUBJECT_sP
-               1.85     4 _BOUND_BEFORE_1_property
                1.85     4 _BOUND_BEFORE_ANYDIST_property
+               1.85     4 _BOUND_BEFORE_1_property
                1.61     1 _RAKU_LAST2_ıq_ma
                1.60     3 _C3_ıqm
                1.60     4 _RAKU_LAST_ma
@@ -189,8 +189,8 @@ frame:
                1.57    57 _C2_qm
                1.47   149 _C2_ma
   c            0.54  4056 _KNOWN_SUBJECT_sI
-               0.29  5077 _BIAS
                0.29  5077 _ARITY_1
+               0.29  5077 _BIAS
                0.29   693 _KNOWN_SUBJECT_sF
                0.27  1017 _KNOWN_PRONOUN_hó
                0.21  5077 ▯
@@ -236,8 +236,8 @@ frame:
                1.18    13 _C3_taq
                1.06    86 _C2_ta
                0.95     1 _GLOSS_self
-               0.95     2 _BOUND_BEFORE_ANYDIST_itself
                0.95     2 _BOUND_BEFORE_3_itself
+               0.95     2 _BOUND_BEFORE_ANYDIST_itself
                0.95     3 _BOUND_BEFORE_BI_by_property
                0.93     6 related
                0.90    30 _BOUND_BEFORE_4_to
@@ -270,7 +270,7 @@ frame:
                0.69    33 _BOUND_BEFORE_ANYDIST_by
                0.69     3 two
                0.68     5 member
-               0.67     2 _BOUND_BEFORE_1_relationship
+               0.67     2 relationship
   c            0.98  1601 _ARITY_2
                0.98  1601 _BIAS
                0.67  1601 ▯
@@ -306,8 +306,8 @@ frame:
                0.61    18 _TAG_action
   1j           0.59     6 _BOUND_BEFORE_BI_to_do
                0.59   179 _KNOWN_PRONOUN_hó
-               0.56     7 _BOUND_BEFORE_ANYDIST_do
                0.56     7 _BOUND_BEFORE_1_do
+               0.56     7 _BOUND_BEFORE_ANYDIST_do
                0.52   121 _BOUND_BEFORE_1_property
                0.50    43 _BOUND_BEFORE_ANYDIST_satisfy
                0.50     8 do
@@ -325,8 +325,8 @@ frame:
                0.53     1 _RAKU_LAST2_soı_luaq
                0.53     1 compete
   2ij          1.42    17 relation
-               1.36    16 _BOUND_BEFORE_ANYDIST_relation
                1.36    16 _BOUND_BEFORE_1_relation
+               1.36    16 _BOUND_BEFORE_ANYDIST_relation
                0.69     6 _C2_ot
                0.68    93 to
                0.60     2 _C3_otu
@@ -373,8 +373,8 @@ distribution:
                2.01   102 _BOUND_AFTER_1_are
                1.92   366 _C3_che
                1.79     4 _BOUND_AFTER_ANYDIST_grammatical
-               1.79     4 grammatical
                1.79     4 _BOUND_AFTER_3_grammatical
+               1.79     4 grammatical
                1.78     3 _GLOSS_stuff
 
 pronoun:
