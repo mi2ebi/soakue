@@ -88,32 +88,44 @@ impl Toa {
     pub fn set_warning(&mut self) {
         let toneless: String =
             self.head.nfd().filter(|&c| !"\u{0301}\u{0302}\u{0308}\u{0323}".contains(c)).collect();
-        self.warn = !self.body.contains("textspeak")
-            && !self.notes.iter().any(|n| n.content.contains("textspeak"))
-            && (["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
-                .iter()
-                .any(|v| toneless.contains(v))
-                || !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes())
-                || self.head.nfc().any(|c| {
-                    !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
-                      AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
-                      .,?!-\u{0301}\u{0302}\u{0308}\u{0323}()«»‹›"
-                        .contains(c)
-                })
-                || self.user.starts_with("old")
-                || self.head.split_whitespace().any(|word| {
-                    word.nfd().contains(&'\u{0308}')
-                        && split_into_raku(word).is_some_and(|rakus| rakus.len() > 1)
-                })
-                || self
-                    .body
-                    .split([';', '.', '；'])
-                    .filter(|clause| clause.contains('▯'))
-                    .map(|clause| clause.chars().filter(|&c| c == '▯').count())
-                    .sorted()
-                    .dedup()
-                    .count()
-                    > 1);
+        // cases to warn
+        let bad_raku = ["ae", "au", "ou", "nhı", "ꝡı", "ꝡu", "aıq", "aoq", "eıq", "oıq"]
+            .iter()
+            .any(|v| toneless.contains(v));
+        let non_raku = !MANY_RAKU.is_match(normalize_for_validation(&self.head).as_bytes());
+        let bad_chars = self.head.nfc().any(|c| {
+            !"aáäâạbcdeéëêẹfghıíïîịjklmnoóöôọpqrstuúüûụꝡz'\
+              AÁÄÂẠBCDEÉËÊẸFGHIÍÏÎỊJKLMNOÓÖÔỌPQRSTUÚÜÛỤꝠZ \
+              .,?!-\u{0301}\u{0302}\u{0308}\u{0323}()«»‹›"
+                .contains(c)
+        });
+        let deprecated = self.user.starts_with("old");
+        let multiraku_d3 = self.head.split_whitespace().any(|word| {
+            word.nfd().contains(&'\u{0308}')
+                && split_into_raku(word).is_some_and(|rakus| rakus.len() > 1)
+        });
+        let multi_arities = self
+            .body
+            .split([';', '.', '；'])
+            .filter(|clause| clause.contains('▯'))
+            .map(|clause| clause.chars().filter(|&c| c == '▯').count())
+            .sorted()
+            .dedup()
+            .count()
+            > 1;
+        let contains_deprec = ["puoq", "cıoı"].iter().any(|t| self.head.contains(t));
+        // cases to not warn
+        let fine = self.body.contains("textspeak")
+            || self.notes.iter().any(|n| n.content.contains("textspeak"));
+        // combine
+        let warn = bad_raku
+            || non_raku
+            || bad_chars
+            || deprecated
+            || multiraku_d3
+            || multi_arities
+            || contains_deprec;
+        self.warn = warn && !fine;
     }
 
     pub fn fix_note_dates(&mut self) {
