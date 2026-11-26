@@ -32,8 +32,7 @@
       />
       <span id="post">
         <span id="btns">
-          <button type="reset" id="clear">sheaja</button>
-          <button type="button" id="english">tọ'ıqlızuno</button>
+          <button type="reset" id="clear">clear</button>
         </span>
         <span id="len"></span>
       </span>
@@ -54,7 +53,11 @@
       <hr />
       <details>
         <summary>ways to search things</summary>
-        <p>bare terms and operator arguments can be quoted to include spaces</p>
+        <p>
+          spaces mean "and". bare terms and operator arguments can be quoted to include spaces,
+          and a term that starts with a quote is always plain text. <code>order:</code> and
+          <code>count:</code> can't go inside parentheses
+        </p>
         <table>
           <tr>
             <th>operator</th>
@@ -112,16 +115,6 @@
             <td><code>date:2018-09-17</code><br /><code>date:>=2025</code></td>
           </tr>
           <tr>
-            <td><code>!</code></td>
-            <td>negate a query</td>
-            <td><code>!@official</code></td>
-          </tr>
-          <tr>
-            <td><code>|</code></td>
-            <td>disjoin some queries</td>
-            <td><code>|"dog bird"</code></td>
-          </tr>
-          <tr>
             <td><code>w:</code></td>
             <td>show problematic words (<code>@oldofficial</code>, invalid phonotactics, etc)</td>
             <td>most useful as <code class="nobr">!w:</code></td>
@@ -159,7 +152,7 @@
           <tr>
             <td><code>order:</code></td>
             <td>sort the results differently</td>
-            <td><code>order:alpha</code><br /><code>order:newest</code><br /><code>order:random</code></td>
+            <td><code>order:alpha</code><br /><code>order:new</code><br /><code>order:random</code></td>
           </tr>
           <tr>
             <td><code>count:</code></td>
@@ -176,7 +169,23 @@
             <td>filter note authors</td>
             <td><code>noteby:ilmen</code></td>
           </tr>
+          <tr>
+            <td><code>!</code></td>
+            <td>negate a query or group</td>
+            <td><code>!@official</code><br /><code>!(cat | dog)</code></td>
+          </tr>
+          <tr>
+            <td><code>|</code></td>
+            <td>either of two queries (put spaces around it)</td>
+            <td><code>cat | dog</code></td>
+          </tr>
+          <tr>
+            <td><code>( )</code></td>
+            <td>group queries</td>
+            <td><code>(cat | dog) !@official</code></td>
+          </tr>
         </table>
+        <p><code>!</code> binds tightest, then spaces, then <code>|</code></p>
         <p>in <code>=</code> and <code>~</code> searches you can also glob different types of letters:</p>
         <table>
           <tr>

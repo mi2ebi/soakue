@@ -181,6 +181,7 @@ a {
   }
 }
 code {
+  white-space: nowrap;
   color: var(--orange);
   font-family: var(--mono);
 }

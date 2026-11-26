@@ -28,10 +28,10 @@ const ORDERS = {
     default: (a, b) => b[1] - a[1],
     random: null,
     alpha: (a, b) => dict_index.get(a[0]) - dict_index.get(b[0]),
-    highest: (a, b) => b[0].score - a[0].score,
-    lowest: (a, b) => a[0].score - b[0].score,
-    newest: (a, b) => timestamps.get(b[0]) - timestamps.get(a[0]),
-    oldest: (a, b) => timestamps.get(a[0]) - timestamps.get(b[0]),
+    best: (a, b) => b[0].score - a[0].score,
+    worst: (a, b) => a[0].score - b[0].score,
+    new: (a, b) => timestamps.get(b[0]) - timestamps.get(a[0]),
+    old: (a, b) => timestamps.get(a[0]) - timestamps.get(b[0]),
 };
 
 function shuffle(a) {
@@ -153,7 +153,6 @@ const stripAcute = (s) => s.normalize("NFD").replace(/\u0301/g, "");
 //   tokens   what people type: a symbol like "@", or a word with its colon like "user:"
 //   parse    (query) => { err } or extra fields to put on the term. optional.
 //            terms always get `orig` (the query as typed) and `value` (lowercased)
-//   prepare  (term) => { err }, runs once per search; for operators that run searches of their own
 //   match    (entry, term) => score, 0 meaning no match. every term has to match
 //   modifier changes the results rather than filtering them (order:, count:)
 const BARE = {
@@ -323,32 +322,6 @@ const OPERATORS = [
         ),
     },
     {
-        // everything not matching the query: `!@official`
-        name: "not",
-        tokens: ["!", "not:"],
-        prepare: (term) => {
-            const results = search(term.orig);
-            if (results.err) return results;
-            term.ids = new Set(results.map(([entry]) => entry.id));
-        },
-        match: (entry, t) => (t.ids.has(entry.id) ? 0 : SCORE.filter),
-    },
-    {
-        // anything matching any of the (space-separated) queries: `|"dog bird"`
-        name: "or",
-        tokens: ["|", "or:"],
-        prepare: (term) => {
-            term.hits = new Map();
-            for (const part of term.orig.split(" ")) {
-                const results = search(part);
-                if (results.err) return results;
-                for (const [entry, score] of results)
-                    term.hits.set(entry.id, Math.max(score, term.hits.get(entry.id) ?? 0));
-            }
-        },
-        match: (entry, t) => t.hits.get(entry.id) ?? 0,
-    },
-    {
         name: "order",
         tokens: ["order:", "ord:"],
         modifier: true,
@@ -357,10 +330,10 @@ const OPERATORS = [
             ? undefined
             : bad(
                 query,
-                "is not an ordering. available orderings:"
+                "is not an ordering. available orderings: "
                     + Object.keys(ORDERS)
                     .map((name) => `<code>${name}</code>`)
-                    .join(" ")
+                    .join(", ")
             ),
     },
     {
@@ -379,29 +352,165 @@ const OPERATORS_BY_TOKEN = new Map(
     OPERATORS.flatMap((def) => def.tokens.map((token) => [token, def])),
 );
 
-function tokenize(q) {
-    let terms = [], quote = false, current = "";
-    for (const c of q) {
-        if (c == '"') quote ^= true;
-        else if (c == " " && !quote) {
-            terms.push(current);
-            current = "";
-        } else current += c;
-    }
-    if (quote) return { err: `unclosed quote` };
-    if (current) terms.push(current);
-    return terms;
-}
+const fail = (err) => {
+    throw err;
+};
 
-// a term is { def, op, orig, value, ...whatever def.parse adds }, or { err }
-function parseTerm(token) {
-    const [, opToken, rest] = token.match(/^([=~@#/$!%|]|[a-z]*:)(.*)/) ?? [];
+// a term is { def, op, orig, value, ...whatever def.parse adds }
+// `literal` terms (the ones that started with a quote) are always plain text, never operators
+function parseTerm(token, literal = false) {
+    const [, opToken, rest] = (!literal && token.match(/^([=~@#/$%]|[a-z]*:)(.*)/)) || [];
+    // the word forms of ! and |, for old links
+    if (opToken == "not:") return { kind: "not", kid: parseQuery(rest) };
+    if (opToken == "or:") return { kind: "or", kids: rest.split(" ").map(parseQuery) };
     const def = opToken ? OPERATORS_BY_TOKEN.get(opToken) : BARE;
-    if (!def) return bad(opToken.replace(/:$/, ""), "is not an operator");
+    if (!def) fail(bad(opToken.replace(/:$/, ""), "is not an operator"));
     const query = opToken ? rest : token;
     const extra = def.parse?.(query);
-    if (extra?.err) return extra;
-    return { def, op: def.name, orig: query, value: query.toLowerCase(), ...extra };
+    if (extra?.err) fail(extra);
+    return { kind: "term", term: { def, op: def.name, orig: query, value: query.toLowerCase(), ...extra } };
+}
+
+// QUERIES
+// a query is parsed into a tree of
+//   { kind: "term", term }   one operator and its argument (see OPERATORS)
+//   { kind: "and", kids }    everything has to match (this is what spaces mean)
+//   { kind: "or", kids }     any of them: a | b
+//   { kind: "not", kid }     none of it: !a
+// grammar, loosest binding first:
+//   or    := and ("|" and)*
+//   and   := unary*
+//   unary := "!" unary | "(" or ")" | term
+// quotes group characters, so note:"see also" works, and a term that *starts* with a quote
+// is plain text: "/2" looks for the text /2 instead of being the arity operator
+
+// text → [{ type: "(" | ")" | "!" | "|" } | { type: "term", text, literal }]
+// ( ! | only mean something at the start of a term, and ) only at the end of one while a group
+// is open, so regexes and bodies with parens in them e.g. =a(b, body:(x) mostly just work
+function lex(q) {
+    const items = [];
+    let current = "", started = false, literal = false, quote = false;
+    let open = 0; // unclosed ( inside the current term
+    let depth = 0; // groups we're inside
+    const flush = () => {
+        if (current) items.push({ type: "term", text: current, literal });
+        current = "";
+        started = literal = false;
+        open = 0;
+    };
+    const chars = [...q];
+    chars.forEach((c, i) => {
+        const next = chars[i + 1];
+        const atStart = !started && !quote;
+        if (c == '"') {
+            if (atStart) literal = true;
+            started = true;
+            quote = !quote;
+        } else if (quote) current += c;
+        else if (c == " ") flush();
+        else if (atStart && c == "(") {
+            items.push({ type: "(" });
+            depth++;
+        } else if (atStart && (c == "!" || c == "|")) items.push({ type: c });
+        else if (c == ")" && depth > 0 && open == 0 && (next === undefined || next == " " || next == ")")) {
+            flush();
+            items.push({ type: ")" });
+            depth--;
+        } else {
+            if (c == "(") open++;
+            else if (c == ")" && open > 0) open--;
+            current += c;
+            started = true;
+        }
+    });
+    if (quote) fail({ err: `unclosed quote` });
+    flush();
+    return items;
+}
+
+const isEmpty = (node) => node.kind == "and" && !node.kids.length;
+
+function parseQuery(q) {
+    const items = lex(q);
+    let pos = 0;
+    const peek = () => items[pos]?.type;
+    
+    function parseOr() {
+        const alts = [parseAnd()];
+        while (peek() == "|") {
+            pos++;
+            alts.push(parseAnd());
+        }
+        if (alts.length > 1 && alts.some(isEmpty))
+            fail({ err: `<code>|</code> needs a query on both sides` });
+        return alts.length == 1 ? alts[0] : { kind: "or", kids: alts };
+    }
+    function parseAnd() {
+        const kids = [];
+        while (peek() && peek() != "|" && peek() != ")") kids.push(parseUnary());
+        return kids.length == 1 ? kids[0] : { kind: "and", kids };
+    }
+    function parseUnary() {
+        const item = items[pos++];
+        if (item.type == "(") {
+            const inner = parseOr();
+            if (peek() != ")") fail({ err: `unclosed <code>(</code>` });
+            pos++;
+            if (isEmpty(inner)) fail({ err: `empty <code>()</code>` });
+            return inner;
+        }
+        if (item.type == "!") {
+            if (!peek() || peek() == "|" || peek() == ")")
+                fail({ err: `<code>!</code> needs something after it` });
+            return { kind: "not", kid: parseUnary() };
+        }
+        return parseTerm(item.text, item.literal);
+    }
+    
+    const root = parseOr();
+    if (pos < items.length) fail({ err: `unexpected <code>)</code>` });
+    return root;
+}
+
+// order: and count: change the results instead of filtering them, so they only make sense
+// on the outside of a query. this takes them off the top level of the tree.
+const isModifier = (node) => node.kind == "term" && node.term.def.modifier;
+const childrenOf = (node) => node.kids ?? (node.kid ? [node.kid] : []);
+const hasModifier = (node) => isModifier(node) || childrenOf(node).some(hasModifier);
+
+function splitModifiers(root) {
+    const top = root.kind == "and" ? root.kids : [root];
+    const modifiers = top.filter(isModifier).map((node) => node.term);
+    const rest = top.filter((node) => !isModifier(node));
+    if (rest.some(hasModifier))
+        fail({
+            err: `<code>order:</code> and <code>count:</code> have to go outside any <code>()</code>, <code>|</code> or <code>!</code>`,
+        });
+    // `order:alpha` on its own means "everything, in that order"
+    if (modifiers.length && !rest.length) rest.push(parseTerm("~"));
+    return { filter: { kind: "and", kids: rest }, modifiers };
+}
+
+// the score of an entry against a tree, or 0 for no match.
+// the empty query matches everything, with a score of -Infinity (which sorts as "don't care")
+function evaluate(node, entry) {
+    switch (node.kind) {
+    case "term":
+        return node.term.def.match(entry, node.term);
+    case "and": {
+        let best = -Infinity;
+        for (const kid of node.kids) {
+            const score = evaluate(kid, entry);
+            if (!score) return 0;
+            best = Math.max(best, score);
+        }
+        return best;
+    }
+    case "or":
+        return Math.max(...node.kids.map((kid) => evaluate(kid, entry)));
+    case "not":
+        return evaluate(node.kid, entry) ? 0 : SCORE.filter;
+    }
 }
 
 // official entries first, old ones and the example/country dumps last
@@ -416,40 +525,25 @@ function bonus(entry) {
 }
 
 function search(q) {
-    const tokens = tokenize(q);
-    if (tokens.err) return tokens;
-    const terms = tokens.map(parseTerm);
-    const count = (name) => terms.filter((t) => t.op == name).length;
-    if (count("order") > 1) return { err: `it is not possible to have multiple orders` };
-    if (count("count") > 1) return { err: `it is not possible to have multiple counts` };
-    const failed = terms.find((t) => t.err);
-    if (failed) return failed;
-    // `order:alpha` on its own means "everything, in that order"
-    if (terms.length == 1 && terms[0].def.modifier) terms.push(parseTerm("~"));
-    for (const term of terms) {
-        const err = term.def.prepare?.(term);
-        if (err) return err;
-    }
-    
-    const filters = terms.filter((t) => !t.def.modifier);
-    let res = [];
-    for (const entry of dict) {
-        let best = -Infinity;
-        for (const term of filters) {
-            const score = term.def.match(entry, term);
-            if (!score) {
-                best = null;
-                break;
-            }
-            best = Math.max(best, score);
+    try {
+        const { filter, modifiers } = splitModifiers(parseQuery(q));
+        const named = (name) => modifiers.filter((m) => m.op == name);
+        if (named("order").length > 1) fail({ err: `it is not possible to have multiple orders` });
+        if (named("count").length > 1) fail({ err: `it is not possible to have multiple counts` });
+        
+        let res = [];
+        for (const entry of dict) {
+            const score = evaluate(filter, entry);
+            if (score) res.push([entry, score + bonus(entry)]);
         }
-        if (best !== null) res.push([entry, best + bonus(entry)]);
+        const order = named("order")[0]?.value ?? "default";
+        res = order == "random" ? shuffle(res) : res.sort(ORDERS[order]);
+        const limit = named("count")[0];
+        return limit ? res.slice(0, +limit.value) : res;
+    } catch (e) {
+        if (typeof e?.err == "string") return e;
+        throw e;
     }
-    
-    const order = terms.find((t) => t.op == "order")?.value ?? "default";
-    res = order == "random" ? shuffle(res) : res.sort(ORDERS[order]);
-    const limit = terms.find((t) => t.op == "count");
-    return limit ? res.slice(0, +limit.value) : res;
 }
 
 onmessage = (e) => {
