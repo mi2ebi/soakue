@@ -1,8 +1,12 @@
 "use strict";
 
-// tables
+const {
+    SINGLE_INITIALS, DIGRAPH_INITIALS, INITIALS, VOWELS, DIPHTHONGS, GRAVE, UNDERDOT, TONE_MARKS, normalize
+} = phonology;
 
-const ONSETS = {
+// tables (how each thing in phonology.js is pronounced)
+
+const ONSET_IPA = {
     p: "pʰ", t: "tʰ", k: "kʰ", b: "b", d: "d", g: "ɡ",
     c: "ʦʰ", z: "ʣ", ch: "ʨʰ", j: "ʥ",
     f: "f", s: "s", sh: "ɕ", h: "h",
@@ -10,17 +14,16 @@ const ONSETS = {
     "ꝡ": "ꝡ", // filled in later
     "'": "ʔ",
 };
-const DIGRAPH_ONSETS = ["ch", "sh", "nh"];
+const DIPHTHONG_IPA = { aı: "aj", ao: "aw", oı: "ɔj", eı: "ej" };
 
-const VOWELS = "aeıou";
-const DIPHTHONGS = { aı: "aj", ao: "aw", oı: "ɔj", eı: "ej" };
+for (const initial of INITIALS)
+    if (!(initial in ONSET_IPA)) throw new Error(`no IPA for the initial “${initial}”`);
+for (const diphthong of DIPHTHONGS)
+    if (!(diphthong in DIPHTHONG_IPA)) throw new Error(`no IPA for the diphthong “${diphthong}”`);
 
-const GRAVE = "\u0300";
-const UNDERDOT = "\u0323"; // marks the last prefix (official spelling)
 const MACRON = "\u0304"; // marks a prefix (reform++)
 const BREVE = "\u0306"; // extra-short
-
-const TONE_MARKS = { [GRAVE]: "fall", "\u0301": "rise", "\u0308": "glottal", "\u0302": "hiatus" };
+// (UNDERDOT, which marks the last prefix in the official spelling, comes from phonology.js)
 
 // contours as pitch heights, 1 (bottom) to 5 (top)
 const CONTOURS = { fall: [5, 1], rise: [1, 5], glottal: [3, 1], hiatus: [5, 1] };
@@ -35,12 +38,6 @@ const NON_LETTER = "[^\\p{L}\\p{M}']";
 const PUNCTUATION_SPLIT = new RegExp(`^(${NON_LETTER}*)([\\s\\S]*?)(${NON_LETTER}*)$`, "u");
 
 // input
-
-const normalize = (text) =>
-      text.normalize("NFD").toLowerCase()
-      .replace(/[’‘`x]/g, "'")
-      .replace(/i/g, "ı")
-      .replace(/[vwy]/g, "ꝡ");
 
 /** a word as base letters, each with the combining marks that follow it */
 function splitLetters(word) {
@@ -112,7 +109,7 @@ function parseWord(word, hiatusReform) {
 function readRaku(cursor, ctx) {
     const raku = newRaku();
     if (!readOnset(cursor, ctx, raku)) return null;
-
+    
     if (cursor.isVowel()) {
         raku.nucleus = readNucleus(cursor, ctx, raku);
         // two nuclei only when the first is a plain vowel: CVV, CVF
@@ -123,14 +120,14 @@ function readRaku(cursor, ctx) {
         // a final right after the missing vowel belongs to it, so it doesn't get reported again
         if (isFinal(cursor)) cursor.next();
     }
-
+    
     // a hyphen, colon or period after a raku: the stem starts next
     const separator = cursor.char();
     if (separator && ":-.".includes(separator)) {
         raku.boundary = true;
         cursor.next();
     }
-
+    
     // hiatus reform: a grave on the second vowel is the hiatus tone, if there is one
     if (raku.graveOnSecond) {
         if (raku.second && raku.nucleus.length === 1) ctx.tones.push({ name: "hiatus", raku: ctx.index });
@@ -144,11 +141,11 @@ function readRaku(cursor, ctx) {
 function readOnset(cursor, ctx, raku) {
     const c = cursor.char();
     const digraph = c + (cursor.char(1) ?? "");
-    if (DIGRAPH_ONSETS.includes(digraph)) {
+    if (DIGRAPH_INITIALS.includes(digraph)) {
         raku.onset = digraph;
         cursor.next();
         cursor.next();
-    } else if (Object.hasOwn(ONSETS, c)) {
+    } else if (SINGLE_INITIALS.includes(c)) {
         raku.onset = c;
         cursor.next();
     } else if (VOWELS.includes(c)) {
@@ -167,7 +164,7 @@ function readOnset(cursor, ctx, raku) {
 /** a vowel or a falling diphthong */
 function readNucleus(cursor, ctx, raku) {
     let nucleus = readVowel(cursor, ctx, raku);
-    if (cursor.isVowel() && DIPHTHONGS[nucleus + cursor.char()]) nucleus += readVowel(cursor, ctx, raku);
+    if (cursor.isVowel() && DIPHTHONGS.includes(nucleus + cursor.char())) nucleus += readVowel(cursor, ctx, raku);
     return nucleus;
 }
 
@@ -342,7 +339,7 @@ function nucleusIPA(syllable, stressed, tone) {
     const { nucleus } = syllable;
     if (!nucleus) return "";
     if (nucleus.length === 2) {
-        const ipa = DIPHTHONGS[nucleus];
+        const ipa = DIPHTHONG_IPA[nucleus];
         const diphthong = stressed ? ipa.slice(0,1) + "ː" + ipa.slice(1) : ipa;
         return syllable.chop ? vowelIPA(nucleus[0], syllable) + tone.mid + "ʔ" + diphthong : diphthong;
     }
@@ -370,7 +367,7 @@ function renderParts(syllables, { tone, stem, stressedIndex }, style) {
     const hiatusSecondHalves = new Set();
     syllables.forEach((syllable, k) => {
         const stressed = k === stressedIndex;
-        const onset = syllable.onset ? ONSETS[syllable.onset] : "";
+        const onset = syllable.onset ? ONSET_IPA[syllable.onset] : "";
         const coda = syllable.coda === "q" ? "ŋ" : syllable.coda;
 
         if (hiatusSecondHalves.has(syllable)) {
