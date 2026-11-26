@@ -53,11 +53,6 @@
       <hr />
       <details>
         <summary>ways to search things</summary>
-        <p>
-          spaces mean "and". bare terms and operator arguments can be quoted to include spaces,
-          and a term that starts with a quote is always plain text. <code>order:</code> and
-          <code>count:</code> can't go inside parentheses
-        </p>
         <table>
           <tr>
             <th>operator</th>
@@ -185,7 +180,10 @@
             <td><code>(cat | dog) !@official</code></td>
           </tr>
         </table>
-        <p><code>!</code> binds tightest, then spaces, then <code>|</code></p>
+        <p>
+          <code>!</code> binds tightest, then spaces, then <code>|</code>. operator values can be surrounded with
+          quotes to include spaces (e.g. <code>~"m m"</code>).
+        </p>
         <p>in <code>=</code> and <code>~</code> searches you can also glob different types of letters:</p>
         <table>
           <tr>
