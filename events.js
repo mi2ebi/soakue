@@ -50,13 +50,3 @@ $`clear`.addEventListener("click", function () {
   $`search`.focus();
   navigate("", false);
 });
-$`english`.addEventListener("click", function () {
-  let newQuery = $`search`.value
-    .split(" ")
-    .filter((t) => !/^([!-]|not:)*(\$|scope:)/.test(t))
-    .concat(["$en"])
-    .join(" ")
-    .trim();
-  $`search`.focus();
-  navigate(newQuery, false);
-});
