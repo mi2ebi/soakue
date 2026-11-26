@@ -1918,7 +1918,7 @@ atomzıa @Ilmen 2023-02-13 #SJpQoEgJg $en +1
 [t]predicate: [g]‘radioactive’; ▯ emits radioactivity, nuclear radiation ▯.
 
 áꝡa @uakci 2023-11-05 #G7fiMCu2v $en +3
-[t]pronoun: [g]‘[pronoun]’; referring to the 1st, 2nd, or 3rd “person” when the individual in question does not want to have **jí**/**súq**/**nháo** used to refer to them
+[t]pronoun: referring to the 1st, 2nd, or 3rd “person” when the individual in question does not want to have **jí**/**súq**/**nháo** used to refer to them
   uakci (2023-11-05): sometimes seen as ‘this one’ in english, or as consistent use of a 3rd “person” pronoun or a name instead of the «appropriate» personal pronoun
   uakci (2023-11-05): in a conversation between an **áꝡa** user and a non-**áꝡa** user, the former would use **áꝡa** to refer to themselves and **súq** to the listener, but the latter would use **áꝡa** for the listener. when both entities involved are **áꝡa** users then the referent is ambiguous but let me assure you they’re gonna enjoy it that way too
 
@@ -9195,8 +9195,8 @@ cu- @salarua 2022-12-07 #NXy24X4Ha $en ±
 [t]prefix: [g]‘pejorative’; pejorative
   salarua (2022-12-07): examples: rude person → jackass; billionaire → fat cat; motel → flea trap
 
-cu [(c c) (d d) hóq sE] @Laqme 2025-03-02 #NSPwLIb2q $en +2
-[t]predicate: [g]‘[recipient]’; ▯ happens with recipient ▯.
+cu @Laqme 2025-03-02 #NSPwLIb2q $en +2
+[t]predicate: ▯ happens with recipient ▯.
   Laqme (2025-03-02): ▯ is an event whose PATIENT arrives at belonging to ▯.
   Laqme (2025-03-02): = **dona** I think, but I just want it to be short and not have **do** in it
 
@@ -18691,10 +18691,6 @@ e- @fagri 2022-12-28 #Gy0SAu3s2 $en ±
 [t]prefix: [g]‘event of’; An event of [verb]
   fagri (2022-12-28): Example: «Gaı jı́ ẹ́dea» = "I saw the hitting"
 
-⚠ è @uakci 2019-03-20 #FHXjoUP-g $en -1
-colloquial interjection; signifies that the words uttered just right before (exact amount unspecific) were a mistake and are now going to be replaced with what is coming next.
-  uakci (2019-03-20): fork of #xo9tLdsUN
-
 ë @official 2026-11-23 #BRIT4DaaaI6 $en ±
 [t]event accessor: [g]‘EVA’; derive a verb referring to the following clause's event place
 
@@ -25216,7 +25212,7 @@ gjjh @jiqci 2024-03-16 #UhlEWT1nh $en +1
   evie (2024-11-14): kw: textspeak
 
 go- @uakci 2023-08-12 #8N9cUaefr $en +3
-[t]prefix: [g]‘[verb-object]’; combine two verbs into a verb–object compound where the action denoted by the verb is specialized by the class of object
+[t]prefix: combine two verbs into a verb–object compound where the action denoted by the verb is specialized by the class of object
   uakci (2023-08-12): in other words, **A gọ-B** is a kind of **A** specific to **B**-s. for example, if A = ‘to sit sb’ and B = ‘baby’, then A **gọ-**B would mean babysitting, or the kind of sitting that’s specific to babies
   uakci (2023-08-12): note: the verb retains its original valency
   fagri (2023-11-25): +1
@@ -26079,7 +26075,7 @@ gotıko @robintown 2023-09-18 #6Iqx4NmAA $en ±
 [t]predicate: [g]‘collude’; ▯ and ▯ collude/compromise by establishing relation ▯.
 
 gu- @seaqtaq 2024-10-30 #IYM0jF4sQ $en ±
-[t]determiner prefix form: [g]‘two things’; fills object of verb with **nhọ́gu (raı)**
+[t]determiner prefix form: [g]‘of:two’; fills object of verb with **nhọ́gu (raı)**
   seaqtaq (2024-10-30): E.g. gụreo: "bichromatic",
 
 gu [(c) (n) tá sF] @official 2026-11-23 #Kh70E2sWMFy $en ± %cardinality
@@ -34046,7 +34042,7 @@ Itıopıagua @countries 2026-11-23 #8suLrkO09Ed $en ±
 [t]predicate: [g]‘signed integer’; ▯ is a signed integer.
 
 ja- @evie 2025-09-27 #StkUuIRlY $en ±
-[t]prefix: [g]‘X.INCORP’; fills object with **já raı**
+[t]prefix: [g]‘of:X’; fills object with **já raı**
 
 ja- @eednb 2023-11-21 #Gt7yDuu1N $en -1
 [t]prefix: drop indirect object argument on ditransitive verb
@@ -37563,7 +37559,7 @@ jıumrıe @sq 2026-07-04 #shO-zxd6a $en ±
 jıunım @Laqme 2023-12-09 #KU-Q69rZO $en ±
 [t]predicate: [g]‘caste’; ▯ is a caste.
 
-jıupea @Ilmen 2020-07-07 #Ad6psBWfF $en +1
+jıupea [(c c) (d d) hó sI] @Ilmen 2020-07-07 #Ad6psBWfF $en +1
 [t]predicate: [g]‘have age’; person/animal ▯ has age ▯ (time elapsed since birth).
 
 jıupoaq @Laqme 2024-06-24 #e9V72HO9z $en ±
@@ -39770,6 +39766,7 @@ jꝡa @Laqme 2024-12-21 #gbeH6EQzN $en ±
 
 ⚠ k @Laqme 2023-11-07 #VtVZRfkoj $en +2
 [t]interjection: [g]‘ack’; 'gah!', 'ack!', 'ghgh', 'you…!'
+  evie (2026-11-26): bonus points if you say it like [kx̩] or [cç̍]
 
 ka- @Ilmen 2025-12-07 #Q7srdSp3q $en +1
 [t]prefix: [g]‘nth referenced’; prefixed to a number root, it turns it into a special word meaning ⟪▯ is identified as the [number]th thing with property ▯ referenced in current C-command syntactic context⟫; its use is to disambiguate variables or clauses which would otherwise bear the same name: ⟪kaqgaı sá kato sá kato⟫ → ⟪kaqgaı sá (kạshı) kato sá kạgu kato⟫ “some cat see a second cat”, allowing referring back to the second cat as ⟪kạ́gu⟫ or ⟪kạ́gu kato⟫ subsequently in the same clause.
@@ -39824,7 +39821,7 @@ kabokaıchuochoıchuo @fagri 2021-08-13 #dMI_8asNV $en -1
   Laqme (2022-10-09): too long :(
 
 kaboqsaıbusho @Aburn 2026-11-25 #LbctUUZCm $en ±
-▯ is an ester (chemistry)
+▯ is an aldehyde (chemistry)
 
 kabosaı @seaqtaq 2020-02-26 #_5Zmw65dV $en ±
 [t]predicate: [g]‘carbon’; ▯ is (a quantity of) Carbon (element 6)
@@ -39961,6 +39958,9 @@ kagakoı @jiqci 2024-06-28 #2eiqSEP83 $en ±
 
 kagaq @kazoo 2024-12-07 #4IKx-KxmB $en ±
 [t]predicate: ▯ is a Khan/Khagan/Han
+
+kaguoqsaıbusho @Aburn 2026-11-25 #bGDzEy44n $en ±
+▯ is an ester (chemistry)
 
 kaha [(c) (d) hó sA] @official 2026-11-23 #v1ALSJj_qHM $en ± %action,body_action
 [t]predicate: [g]‘cough’; ▯ coughs.
@@ -40793,7 +40793,7 @@ kapusaka @seaqtaq 2024-08-08 #wm6a3qFIS $en ±
 [t]predicate: ▯ is a hoodie
 
 kaq- @salarua 2023-02-07 #zuhHqOhQT $en ±
-[t]prefix: [g]‘drop argument’; reduces arity by one and fills dropped place with kága
+[t]prefix: [g]‘of:most’; reduces arity by one and fills dropped place with kága
   salarua (2023-02-07): etymology: abbreviated **kaga**
 
 kaq [(c c) (d d) hó sI] @Laqme 2023-10-22 #-9YiR5N7i $en +1 %perception
@@ -41847,7 +41847,7 @@ kehosıo @seaqtaq 2025-04-16 #XhjUbm-ds $en ±
 [t]predicate: ▯ is infernalism / the belief that Hell exists
 
 keı- @Laqme 2024-08-20 #TuLHnUF8m $en +1
-[t]prefix: [g]‘several’; fill direct object with **kéı raı**
+[t]prefix: [g]‘of:several’; fill direct object with **kéı raı**
   Laqme (2024-08-20): for example, **kẹızudeq** = to know several languages
 
 kéı @Laqme 2024-08-20 #a-nLVd0Ww $en +1
@@ -63015,7 +63015,7 @@ nheam [(c 0) (d d) hó sA] @TheAndSys 2023-10-16 #1cv3ZMqtL $en +2
 nheaze @uakci 2023-02-20 #F5TxJ6AAp $en ±
 [t]predicate: [g]‘sedative drink’; ▯ is a drink with sedative properties (e.g., chamomile tea).
 
-nhebıju @Laqme 2023-08-13 #Ey3bUod-L $en ±
+nhebıju @Laqme 2023-08-13 #Ey3bUod-L $en +1
 [t]predicate: [g]‘edgy’; ▯ is edgy / provocative / comes close to breaking the rules.
 
 nhebıo @Dembim 2026-01-29 #U63mt3AsN $en ±
@@ -67338,7 +67338,7 @@ puaırıechıbıq @jiqci 2024-03-27 #gL-0H1I5t $en ±
 puaırıegıaq @malu 2026-10-14 #6knTEg-TP $en ±
 [t]predicate: ▯ is country music.
 
-puaısıq @jiqci 2024-02-26 #pCPcjEB08 $en ±
+puaısıq [(c) (d) máq sI] @jiqci 2024-02-26 #pCPcjEB08 $en ±
 [t]predicate: [g]‘virginal’; ▯ is virginal / untouched by human activity.
 
 puaısuhu [(c) (d) hó sI] @jiqci 2023-02-03 #zGJ1Jz9tc $en ±
@@ -67815,7 +67815,7 @@ puhe @Laqme 2024-07-17 #hVYScZwbr $en ±
   Laqme (2024-07-17): This has the same grammar as **he**, whatever we eventually decide that is.
 
 puı- @Laqme 2024-08-20 #Atjon5R0q $en ±
-[t]prefix: [g]‘filler’; fill direct object with **púı raı**
+[t]prefix: [g]‘of:many’; fill direct object with **púı raı**
   Laqme (2024-08-20): for example, **pụıraqfeao** = to have many worries
 
 puı- @uakci 2023-02-07 #6HRnOK7Gn $en -1
@@ -70748,8 +70748,8 @@ rıosho [(c) (d) máq sI] @Ilmen 2018-12-08 #AWit-TfOW $en +1 %natural_phenomeno
 rıoshonutu @jiqci 2025-10-15 #hhCp_pnio $en ±
 [t]predicate: ▯ is an evaporite.
 
-rıq- @uakci 2024-11-04 #YD0KVrcjn $en ±
-[t]prefix: [g]‘filler’; fills object slot with **lä hao já (já)**
+rıq- @uakci 2024-11-04 #YD0KVrcjn $en -1
+[t]prefix: [g]‘of:property’; fills object slot with **lä hao já (já)**
   uakci (2024-11-04): <~ **ıq rê**. see **ré**
   uakci (2024-11-04): allows lowering words with abstract relation slots like **tıao** or **gaq** to “simple” verbs relating concretes and opens up an indirect object slot for direct object incorporation
 
@@ -73522,7 +73522,7 @@ saputua @jiqci 2023-06-06 #jOeFzlMpZ $en ±
 [t]predicate: [g]‘sweep surface’; ▯ sweeps surface ▯.
 
 saq- @seaqtaq 2024-10-30 #NZsCEHelo $en ±
-[t]determiner prefix form: [g]‘three things’; fills object of verb with **nhọ́saq (raı)**
+[t]determiner prefix form: [g]‘of:three’; fills object of verb with **nhọ́saq (raı)**
 
 saq [(c) (n) tá sF] @official 2026-11-23 #dN9Ubk5osec $en ± %cardinality
 [t]predicate: [g]‘three’; ▯ are three in number.
@@ -75599,10 +75599,10 @@ sılıkoqzu [(c) (d) hóq sI] @fagri 2023-01-06 #uiIwtwgWX $en ±
 [t]predicate: [g]‘assembly language’; ▯ is an assembly language (programming)
 
 sım- @Laqme 2024-08-20 #WYuqAKQhn $en ±
-[t]prefix: [g]‘few filler’; fill direct object with **sím raı**
+[t]prefix: [g]‘of:few’; fill direct object with **sím raı**
   Laqme (2024-08-20): for example, **sịmbo** = to own few things
 
-sım [(c) (d) tá sI] @Laqme 2022-12-13 #zxyd85fiK $en +2
+sım [(c) (n) tá sI] @Laqme 2022-12-13 #zxyd85fiK $en +2
 [t]predicate: [g]‘few’; ▯ are few in number.
   seaqtaq (2024-08-21): = puıtuao
 
@@ -79889,7 +79889,7 @@ sheze @lassc 2025-04-25 #luKlWPy2V $en +1
   lassc (2025-04-25): that's right. we're ideophones now.
 
 shı- @Laqme 2024-08-07 #Wepvv32nb $en ±
-[t]determiner prefix form: [g]‘object filler’; fills object of verb with **nhọ́shı (raı)**
+[t]determiner prefix form: [g]‘of:one’; fills object of verb with **nhọ́shı (raı)**
   Laqme (2024-08-07): **shịzudeq** "monolingual"
 
 shı [(c) (n) tá sF] @official 2026-11-23 #DRIlqa9ZjiZ $en ± %cardinality
@@ -86098,9 +86098,6 @@ toaqchıe @SuperSpaceNiM 2024-08-15 #79Bm91QYj $ru ±
 toaqchoa @Laqme 2022-10-15 #P6LEURyOT $en ±
 [t]predicate: [g]‘utter Toaq word’; ▯ utters Toaq word(s) ▯.
 
-toaqchoq @Ilmen 2020-02-23 #FCMfDM5xk $en -1
-[t]predicate: ▯ uses language ▯ for doing ▯.
-
 Toaqchuaq @robintown 2023-02-01 #ATeRqH76y $en ±
 [t]predicate: [g]‘the Tòaq Dzũ Way’; ▯ is The Tòaq Dzũ Way.
 
@@ -88311,7 +88308,7 @@ tuzeo [(c) (d) máq sI] @uakci 2023-12-02 #JO2TGmWKM $en +1
   uakci (2023-12-02): with no intention to replace **tama**. etymologically twofold: < **tuze** + **zeo**, as a fruit with a soupy, swampy interior; < **tu** + **zeo**, as a fruit with versatile culinary use
   uakci (2023-12-02): @Laqme also notes tomato soup exists and is popular. so there goes a third leg for the etymology
 
-u- @eednb 2023-11-21 #rNCE0T_hW $en +2
+u- @eednb 2023-11-21 #rNCE0T_hW $en +1
 [t]prefix: [g]‘[drop DO]’; drop direct object argument on ditransitive verb
 
 u @Laqme 2022-12-13 #62IXWjZlQ $en ±
