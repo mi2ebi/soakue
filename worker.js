@@ -65,7 +65,9 @@ function search(q) {
       "tags",
         "or",
         "type",
-        "gloss"
+        "gloss",
+        "note",
+        "noteby"
     ];
     if (colon && !operators.includes(operator))
       return { err: `<code>${escapeHTML(operator)}</code> is not an operator` };
@@ -209,18 +211,18 @@ function search(q) {
             return 3;
           }
         }
-        // 1-2: no op
+            // 2: notes
+            if (op == "note" || !op) {
+                if (entry.notes.some((n) =>
+                    normalize(n.content).includes(normalize_query(value))
+                )) return 2;
+            }
+            // 1: no op
         if (!op) {
           if (normalizeToneless(entry.head).includes(normalizeToneless(value)))
-              return 1;
-          if (
-            entry.notes.some((n) =>
-              normalize(n.content).includes(normalize_query(value)),
-            )
-          )
-            return 2;
+              return 1.1;
           if (normalize(entry.head).startsWith(normalize_query(value)))
-            return 1.1;
+            return 1;
         }
         // score
         if (op == "score") {
@@ -274,7 +276,8 @@ function search(q) {
                 (["%", "tags"].includes(op) && entry.tags && (value == "" || entry.tags.split(" ").includes(value))) ||
                 (op == "type" && entry.type && (
                     entry.type.toLowerCase().replace(/ /g, "").includes(value.toLowerCase().replace(/ /g, "")) || (!value && entry.type)
-                ))
+                )) ||
+                (op == "noteby" && (entry.notes.some(n => n.user.toLowerCase() == value.toLowerCase()) || !value && entry.notes.length))
         )
           return 0.1;
       });
