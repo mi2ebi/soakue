@@ -9298,7 +9298,7 @@ cuaınıao @Ilmen 2026-01-25 #CFfPRwlAQ $en ±
 cuaıshıqhua @Ilmen 2018-10-20 #qSWKzFY1u $en ± %body_part
 [t]predicate: [g]‘rhinarium’; ▯ is a rhinarium / nose leather.
 
-cuaıtue @uakci 2022-07-21 #CGhRKgr_u $en +1
+cuaıtue [(c) (d) máq sI] @uakci 2022-07-21 #CGhRKgr_u $en +1
 [t]predicate: [g]‘flood’; ▯ is a flood / insistent rain.
 
 cuaja @seaqtaq 2024-07-21 #wgVYZpeQo $en ±
@@ -18390,7 +18390,7 @@ duıqsao @Laqme 2025-11-04 #U8KKQHMdk $en ±
 duıreum @jiqci 2024-05-11 #5AqZ1LXsP $en ±
 [t]predicate: [g]‘histrionically’; ▯ satisfies property ▯ in an overly dramatic / exaggerated / histrionic way.
 
-duıruq @Ilmen 2022-10-26 #8h7jsWsep $en ±
+duıruq [(c) (d) máq sI] @Ilmen 2022-10-26 #8h7jsWsep $en ±
 [t]predicate: [g]‘rain flood’; ▯ is a rainfall flood.
 
 duısı @Laqme 2023-09-04 #t3az6PoaM $en ±
@@ -28022,7 +28022,7 @@ hâıba @Laqme 2024-04-29 #Ap12T9yAP $en +1
 haıchoe @seaqtaq 2024-07-10 #6pVfQ8M5H $en ±
 [t]predicate: [g]‘already by the time’; ▯ has already happened by the time ▯ happens
 
-haıda [(c c) (d d) hó sA] @jiqci 2024-06-25 #SWYNyjrIE $en +4
+haıda [(c c) (d d) hó sI] @jiqci 2024-06-25 #SWYNyjrIE $en +5
 [t]predicate: [g]‘destroy’; ▯ destroys / devastates / lays waste / obliterates ▯.
 
 haıdakıoq @jiqci 2025-01-13 #lIrQHzQJR $en ±
@@ -35108,6 +35108,7 @@ jehaꝡa @TheAndSys 2025-04-04 #9vf6EtJkE $en ±
 
 jehoq @Ilmen 2018-09-26 #JxSOwr8sr $en -1
 [t]predicate: ▯ is the proposition expressed by the previous sentence.
+  Ilmen (2026-11-26): This old word proposal is superseded by the newer ⟪ꝡánho⟫.
 
 jehua @uakci 2019-01-05 #BFK-OLwHb $en ±
 [t]predicate: [g]‘body part’; ▯ is a/the body part satisfying property ▯ of body ▯.
@@ -39172,7 +39173,7 @@ jukuche @Ilmen 2026-02-16 #JoarfDlmH $en ±
 jukufase @Ilmen 2024-12-02 #HEtAJVh1_ $en ±
 [t]predicate: ▯ does a hunting safari.
 
-jukuluoı @uakci 2024-05-05 #4lExVvgEN $en ±
+jukuluoı [(c c) (d d) hó sI] @uakci 2024-05-05 #4lExVvgEN $en ±
 [t]predicate: [g]‘prey’; ▯ is prey of ▯.
 
 jukunıaı @TheAndSys 2024-05-05 #8xKu3MPft $en ±
@@ -48492,7 +48493,7 @@ lıoma @Laqme 2024-11-10 #2uSlLLDoc $en ±
 lıomuq @Laqme 2022-08-02 #fD5hbjsH8 $en ±
 [t]predicate: [g]‘left hand’; ▯ is a left hand.
 
-lıomuqpoq @Ilmen 2019-05-01 #e_wRSYMNy $en ±
+lıomuqpoq [(c) (d) hó sI] @Ilmen 2019-05-01 #e_wRSYMNy $en ±
 [t]predicate: [g]‘left-handed’; ▯ is left-handed.
 
 lıopao @Laqme 2024-11-10 #9T5wWTvWd $en ±
@@ -50777,7 +50778,7 @@ luocheo @fagri 2020-06-24 #udkFACPjy $toa -1
 luochua @Laqme 2019-02-12 #np5Vc91Ud $en ±
 [t]predicate: [g]‘family name’; ▯ is a family name / surname of ▯.
 
-luoı @Laqme 2021-10-27 #0K6tOmkd8 $en ±
+luoı [(c c) (d d) tá sF] @Laqme 2021-10-27 #0K6tOmkd8 $en ±
 [t]predicate: [g]‘be target’; ▯ is a target/goal/focus/direction of action ▯.
   Laqme (2021-10-27): by Hoemai in #toashuaq (2019-03-15). An earlier quote hints at a possible usage of this passivizer: “For example, I would want to express "prey" using "hunt" + "target", rather than just using mu for everything.”
   uakci (2022-06-20): input
@@ -62949,7 +62950,7 @@ nharu [(c) (d) máq sI] @robintown 2023-05-20 #B5Tm-3IHV $en +1
 [t]predicate: [g]‘violent storm’; ▯ is a violent storm.
   robintown (2023-05-20): From Iban 'nyaru'
 
-nhạ́ru @Ilmen 2025-04-28 #RFzkjbQ1H $en -1
+nhạ́ru @Ilmen 2025-04-28 #RFzkjbQ1H $en ±
 [t]pronoun: the connectand at the left-hand side of the current logical connection.
 
 nharuaq [(c 0) (d d) hó sA] @robintown 2021-12-29 #fT5EvdBMk $en ±
@@ -65735,7 +65736,7 @@ pıehaq @Laqme 2018-12-09 #X6Y2k3Buz $en ±
 pıehaq @el 2022-07-10 #C7vLZRHUl $tok ±
 [t]predicate: ▯ li telo moku
 
-pıejaq @seaqtaq 2018-12-29 #WoYq-430D $en ±
+pıejaq [(c c) (d d) hó sI] @seaqtaq 2018-12-29 #WoYq-430D $en ±
 [t]predicate: [g]‘gulps down’; ▯ gulps down ▯
 
 pıeka @Laqme 2024-05-01 #FBPN_ilY4 $en ±
@@ -69752,6 +69753,9 @@ reonımtacheı [(c) (d) hóq sF] @jiqci 2024-01-13 #g63fE6vRh $en ±
 
 reonhea @jiqci 2023-06-17 #kcCs2VvZC $en ±
 [t]predicate: [g]‘gradient’; ▯ is colored with a colour gradient.
+
+reonhuaı @Ilmen 2026-11-26 #HBKDUataW $en ±
+[t]predicate: ▯ is a color.
 
 reoq [(c) (d) hóq sE] @official 2026-11-23 #oNnSZW40kXY $en ± %⚠
 [t]predicate: [g]‘late’; ▯ is late.
@@ -86546,14 +86550,18 @@ Tohaqzu [(c) (d) hóq sF] @jiqci 2023-05-01 #FhTxkUmrf $en ±
 tohe @uakci 2021-11-13 #kEfjg-yqm $en ±
 [t]sentence connector: [g]‘in other words’; “in other words…”, “to recap…”
 
-tohoı @Ilmen 2018-12-26 #BtfyhqM3e $en ±
+tohoı [(c) (d) hóq sI] @Ilmen 2018-12-26 #BtfyhqM3e $en ±
 [t]predicate: [g]‘left connectand’; ▯ is the connectand at the left-hand side of the current logical connection.
   uakci (2018-12-26): +1 – the world needs you, @Ilmen
 
-tohoq @Ilmen 2018-09-26 #DHLWZVZfn $en ±
+tohoq [(c) (d) hóq sI] @Ilmen 2018-09-26 #DHLWZVZfn $en -1
 [t]predicate: [g]‘left proposition’; ▯ is the proposition at the left-hand side of the current logical connection.
   Ilmen (2018-09-26): Example: «To ru tủa sỉq jí níoq to shìu tóhōq bı tảofā nủo da.»
   Ilmen (2018-09-26): Example: «Tủa sỉq jí níoq na ru shìu tóhōq bı tảofā nủo da.»
+  Ilmen (2026-11-26): Nowadays, ⟪tóhu⟫ should be used instead.
+
+tóhu @Ilmen 2026-11-26 #S1m0IN8dc $en ±
+pronoun: ▯ is the connectand at the left-hand side of the current coordination phrase (typically used in the right-hand side for referring back to what was in the left-hand side).
 
 tohuq @Ilmen 2020-01-31 #AFv7BBg-X $toa -1
 [t]predicate: = raı ▯ na ru jeo ▯.
@@ -89033,6 +89041,10 @@ uzıu [(c) (d) hóq sI] @Laqme 2023-12-29 #NFFzaKlGm $en +1
 
 ꝡane @Laqme 2024-10-01 #Z6qRq48vj $en ±
 [t]complementizer: [g]‘that’; archaic synonym of **ꝡä**
+
+ꝡánho @Ilmen 2026-11-26 #yngGobqju $en ±
+pronoun: what was said in the last utterance.
+  Ilmen (2026-11-26): etymology: ꝡä⁓ꝡá + nho
 
 ꝡao @eednb 2023-01-14 #yfPzZfQVi $en +1
 [t]interjection: [g]‘indeed’; "for real/indeed", agreement + emphasis towards previous statement
@@ -101474,9 +101486,6 @@ the relation ▯ is the N-th iterate or N-th relational power of the relation �
 
 ⚠ yko @Ilmen 2020-04-13 #NNXmdffC9 $en -1
 [t]predicate: ▯ is the relation obtained by composing the relation ▯ with itself N times, i.e. the former is the N-th iterate or N-th relational power of the latter, with N being the cardinality of anything satisfying property ▯.
-
-⚠ yqgy @uakci 2021-09-06 #Ei8kQtNvB $en -1
-[t]predicate: ▯ swallows/gulps.
 
 ⚠ y @Laqme 2022-03-23 #WNy9kjCcA $en -1
 [t]interjection: ‘uh…’ (filler / hesitation noise)
