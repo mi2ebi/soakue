@@ -6915,6 +6915,7 @@ ca- @Ilmen 2024-09-14 #bqy4wQsM- $en +2
 
 ca [(c 0) (d d) hóq sE] @Laqme 2026-10-19 #LVrwY1zhx $en +1
 [t]predicate: [g]‘cause’; ▯ causes ▯ to be the case.
+  Ilmen (2026-11-27): discriminator: 2
 
 ca [(c 0) (d d) hóq sE] @official 2026-11-23 #R_OLlf899E6 $en ±
 [t]predicate: [g]‘cause’; ▯ physically causes ▯ to be the case.
@@ -7639,7 +7640,7 @@ carajeoq @jiqci 2023-07-19 #mSZIO3v7n $en ±
 [t]predicate: [g]‘rocket’; ▯ is a rocket/missile silo
   jiqci (2023-07-19): using the first rockets as missiles has been a disaster for the human race
 
-caram @Laqme 2024-07-03 #RzauE1Fy1 $en ±
+caram [(c) (d) máq sI] @Laqme 2024-07-03 #RzauE1Fy1 $en ±
 [t]predicate: [g]‘bullet’; ▯ is a bullet / round of ammunition.
   Laqme (2024-07-03): shot, slug, pellet
 
@@ -9931,7 +9932,7 @@ cuoıshı @uakci 2022-11-30 #7kMPgbCvj $toa ±
 mu shıcuoı
 
 cuoıshı @uakci 2022-11-30 #r3O9JsEke $en -1
-[t]predicate: [g]‘exactly one with all’; Exactly one among ▯ that satisfies with every one among ▯ relation ▯.
+[t]predicate: Exactly one among ▯ that satisfies with every one among ▯ relation ▯.
   uakci (2022-11-30): injective, one-to-one. quantifier order is messed up here in the english, but little can be done about it
   evie (2026-11-06): i don't think this is a sentence
 
@@ -12991,6 +12992,7 @@ choq [(c c) (d d) hó sA] @robintown 2021-09-18 #qGSG86kIt $en +5 %action
 
 choq @Laqme 2025-04-03 #m2RK9P3GH $jbo +2 %action
 [t]predicate: ▯ pilno ▯
+  Ilmen (2026-11-27): discriminator: 2
 
 choq [(c c 1j) (d d d) hó sA] @official 2026-11-23 #UrWY1_YL3a4 $en ± %action
 [t]predicate: [g]‘use’; ▯ uses ▯ for ▯.
@@ -12998,18 +13000,23 @@ choq [(c c 1j) (d d d) hó sA] @official 2026-11-23 #UrWY1_YL3a4 $en ± %action
 choq @Laqme 2021-10-05 #agKenf1lz $ja ± %action
 [t]predicate: ▯は▯を▯に使う
   uakci (2021-10-05): 【見出し語】つかう、利用（りよう）、使用（しよう）、用いる（もちいる）
+  Ilmen (2026-11-27): discriminator: 1
 
 choq @nano 2023-05-23 #T-Mn49Ohp $tok ± %action
 [t]predicate: ▯ li kepeken ▯ tawa ▯.
+  Ilmen (2026-11-27): discriminator: 1
 
 choq @jiqci 2023-07-31 #NJNzYawzvH $pl ± %action
 [t]predicate: ▯ używa ▯ do spełnienia własności ▯.
+  Ilmen (2026-11-27): discriminator: 1
 
 choq @SuperSpaceNiM 2024-08-15 #NPEpMsPDN $ru ± %action
 [t]predicate: предикат: ‘использовать’; ▯ использует, применяет ▯.
+  Ilmen (2026-11-27): discriminator: 2
 
 choq @kazoo 2024-11-24 #ZNm7evgAl $tr ± %action
 [t]predicate: ▯, ▯'i ▯ için kullanır.
+  Ilmen (2026-11-27): discriminator: 1
 
 choq @uakci 2019-04-14 #Kkq4o2eAv $toa -1 %action
 ca tâo dóshı sa lú raq hóa dógu na na jêaq fuı dósaq dóshı da
@@ -13019,6 +13026,7 @@ choq @Ilmen 2020-01-26 #_NMoe5oLh $toa -1 %action
 
 choq @el 2022-07-10 #a76LXkIea $tok -1 %action
 [t]predicate: ▯ li kepeken e ▯
+  Ilmen (2026-11-27): discriminator: 2
 
 choqcueq @Laqme 2024-08-17 #BcUjyP5aD $en ±
 [t]predicate: ▯ may be used by anyone / is free for public use.
@@ -13267,18 +13275,19 @@ chuaboe [(c) (d) máq sI] @robintown 2021-10-24 #fk64g7_9X $en ±
 chuacıa @uakci 2022-03-09 #idEjBBp5S $en ±
 [t]predicate: [g]‘nameless’; ▯ is nameless/anonymous/impersonal; ▯ has no designated name.
 
-chuachoq @Ilmen 2022-10-16 #2kLdnKbu_ $en ±
+chuachoq [(c c c) (d d d) hó sI] @Ilmen 2022-10-16 #2kLdnKbu_ $en ±
 [t]predicate: [g]‘call by name’; ▯ uses name ▯ for referring to ▯.
 
 chuachoq @tcima 2026-10-22 #uNDrqLzwj $en ±
 [t]predicate: ▯ calls ▯ by name ▯; ▯ uses, for ▯, name ▯.
   tcima (2026-10-22): this is different from **chuado**. **chuado** means giving someone or something a new name, while this is just using a name to refer to something
+  Ilmen (2026-11-27): discriminator: 2
 
 chuachoq @uakci 2022-01-08 #GpJZ4Jfy- $en -1
 [t]predicate: ▯ assigns name ▯ to ▯; ▯ sees name ▯ as referring to ▯; ▯ uses name ▯ to refer to ▯.
   uakci (2024-02-06): ▯ addresses, with name ▯, thing ▯
 
-chuachoqhe @Ilmen 2022-10-16 #njQcbLwRN $en ±
+chuachoqhe [(c c c) (d d d) hó sI] @Ilmen 2022-10-16 #njQcbLwRN $en ±
 [t]predicate: [g]‘always call by name’; ▯ always uses name ▯ for referring to ▯.
 
 chuadıu [(c) (d) hóq sI] @Ilmen 2025-05-07 #uihvhHy7m $en ±
@@ -16952,6 +16961,7 @@ do @TheAndSys 2025-03-28 #XwpK3ePyX $es ±
 
 do @malu 2026-10-21 #VAdivEJC7 $fr ±
 [t]predicate: ▯ donne, à ▯, la possession de ▯.
+  Ilmen (2026-11-27): discriminator: 1
 
 doa @official 2026-11-23 #RpAKHnKJwZw $en ±
 [t]illocution: [g]‘PERM’; permissive
@@ -22355,7 +22365,7 @@ ga- @uakci 2023-11-01 #ZV2R-s68D $en ±
   uakci (2023-11-01): **rao gạma** (misspelling)
   uakci (2023-11-01): one other thing this prefix is nice for (apart from ad-hoc-ing compounds and decomposing existing compounds for the benefit of the listener) is breaking down an enormous word into two tone contours
 
-gâ @Hoemai 2025-03-07 #a2boFbpIg $en ±
+gâ @Hoemai 2025-03-07 #a2boFbpIg $en +1
 [t]pendent particle: [g]‘topicalizer’; allows placing an argument in front and outside of a phrase in order to bind a variable within that phrase
   Hoemai (2025-03-07): Originally I thought that this would just be an empty preposition and therefore precede its complement. But this would require a change to the rules governing adjunct placement and scope, because pendent constructions often appear between subject and object (see examples below), and it would also limit its application.
   Hoemai (2025-03-07): I also seem to prefer the feel of **gâ** as a postposition. Given these points, I propose that **gâ** be like a barnacle.
@@ -22652,7 +22662,7 @@ gajakıoq @salarua 2021-10-08 #QPpMeykSt $en ±
 gala @Ilmen 2022-07-26 #QCuQ9_ubN $en ±
 [t]predicate: [g]‘I perceive’; I now directly perceive that ▯ is the case; my senses are telling me that ▯ is the case.
 
-galaoko @Ilmen 2021-12-31 #8cKIlSTbd $en ±
+galaoko [(c) (d) hó sI] @Ilmen 2021-12-31 #8cKIlSTbd $en ±
 [t]predicate: [g]‘Glaucus’; ▯ is a member of the Glaucus family (blue dragon sea slugs).
 
 galapagotetabo @tcima 2026-10-14 #_I-_6TCmE $en ±
@@ -24654,15 +24664,16 @@ gına @uakci 2022-04-15 #yew9mV0iY $en ±
 [t]predicate: [g]‘meh’; ▯ is meh, just okay, good-but-unimpressive, mediocre.
   uakci (2022-04-15): **gı** + **ına**
 
-gıne @Machy 2020-07-04 #fEyiYPBmH $en ±
-[t]predicate: [g]‘have worth’; ▯ has worth/quality/merit ▯.
-  Machy (2020-07-04): should these be reversed?
+gıne [(c c) (d d) hóq sI] @salarua 2026-11-22 #UsFxCA3vg $en +1
+[t]predicate: [g]‘quality’; ▯ is the quality/worth/merit of ▯
+  Ilmen (2026-11-27): discriminator: 3
 
 gıne @lassc 2025-03-20 #JszdwE6Dn $en ±
 [t]predicate: ▯ is a rating/grade/score.
 
-gıne [(c c) (d d) hóq sI] @salarua 2026-11-22 #UsFxCA3vg $en ±
-[t]predicate: [g]‘quality’; ▯ is the quality/worth/merit of ▯
+gıne [(c c) (d d) tá sF] @Machy 2020-07-04 #fEyiYPBmH $en -1
+[t]predicate: [g]‘have worth’; ▯ has worth/quality/merit ▯.
+  Machy (2020-07-04): should these be reversed?
 
 gıneq [(c c) (d d) tá sE] @official 2026-11-23 #rld2xRwHG8j $en ±
 [t]predicate: [g]‘fortunate’; ▯ is fortunate for ▯.
@@ -24974,7 +24985,7 @@ gıqkıo @jiqci 2024-03-12 #rGTYGo1aK $en ±
 ⚠ gıqkuq @fagri 2019-01-05 #aX6xmFWKs $en ±
 [t]predicate: [g]‘sarcastic’; ▯ is sarcastic; ▯ says ▯ sarcastically to ▯
 
-gıqluapoq @fagri 2019-01-18 #Nde3B4W-z $en ±
+gıqluapoq [(c c) (d d) hó sI] @fagri 2019-01-18 #Nde3B4W-z $en ±
 [t]predicate: [g]‘antagonist’; ▯ is an antagonist in story/movie/book/TV show ▯
 
 gıqmıaı @uakci 2018-09-24 #cfzeDlIlL $en ±
@@ -25646,9 +25657,10 @@ gogu [(c) (d) hó sI] @Laqme 2023-09-22 #_ER75cK5K $en +1
 goha @Ilmen 2020-01-30 #wt7MpsMtu $toa ±
 [t]predicate: gujeo ▯ há ▯.
 
-gohao @uakci 2022-08-30 #nAeusREmo $en ±
-[t]predicate: [g]‘given first’; Given first place ▯, ▯ satisfies the property induced by the second place of binary relation ▯ when that place is fed a concrete rather than an abstract/proposition.
+gohao @uakci 2022-08-30 #nAeusREmo $en -1
+[t]predicate: Given first place ▯, ▯ satisfies the property induced by the second place of binary relation ▯ when that place is fed a concrete rather than an abstract/proposition.
   uakci (2022-08-30): **shảo jí pó sa shảmu** = **shảo jí gôhao shảo ja sa shảmu**
+  evie (2026-11-27): -1 what why
 
 gohı @Ilmen 2022-10-07 #d8jpU-R0R $en ± %logic
 [t]predicate: [g]‘given relation’; The proposition "what satisfies the predicate ▯" is such that ▯ is in relation ▯ with that proposition. More precisely: considering the predicate ▯, the thing ▯ and the relation ▯: for all X, the proposition that X is an argument structure which satisfies the predicate is true iff the thing is in that relation with the proposition.
@@ -29814,8 +29826,9 @@ hıaımuaq @salarua 2023-09-30 #12sxg4AGz $en +1
 [t]predicate: [g]‘die.from.laughter’; ▯ dies from laughter
   salarua (2023-09-30): abbreviated «hmq» in text messaging
 
-hıaına @Ilmen 2019-09-25 #mKaKkEZsW $en ±
+hıaına [(c) (d) hó sI] @Ilmen 2019-09-25 #mKaKkEZsW $en ±
 [t]predicate: [g]‘hyena’; ▯ is a hyena.
+  Ilmen (2026-11-27): sememe: nulofa
 
 hıaıpoaq @Laqme 2025-09-07 #LhivcN4dQ $en ±
 [t]predicate: ▯ breaks into laughter / fails to contain their laughter.
@@ -30199,8 +30212,9 @@ hıemzam @seaqtaq 2024-11-20 #4H52BKZ3z $en ±
 [t]predicate: ▯ rapes ▯
   seaqtaq (2024-11-20): From vietnamese hiếp dâm. I quite dislike the etymology of **neaogıaı**
 
-hıena @Hoemai 2019-09-24 #j4Q2HZFX1 $en ±
+hıena [(c) (d) hó sI] @Hoemai 2019-09-24 #j4Q2HZFX1 $en ±
 [t]predicate: [g]‘hyena’; ▯ is a hyena.
+  Ilmen (2026-11-27): sememe: nulofa
 
 hıeq- @kazoo 2025-05-18 #D8TBPo5ya $en +1
 [t]prefix: [g]‘victim of’; victim of X
@@ -31058,9 +31072,6 @@ hoe @Laqme 2021-10-05 #NLOwPiDKy $ja ± %astronomy
 hoe @el 2022-07-10 #u1yFDXg35 $tok ± %astronomy
 [t]predicate: ▯ li suno
 
-hoe @robintown 2023-01-11 #8322Q10gy $en ± %astronomy
-[t]predicate: [g]‘sun’; ▯ is a sun of celestial body ▯.
-
 hoe @jiqci 2023-07-31 #bLo_CCbINF $pl ± %astronomy
 [t]predicate: ▯ to słońce.
 
@@ -31072,9 +31083,13 @@ hoe @kazoo 2024-11-24 #nzGnYJjFI $tr ± %astronomy
 
 hoe @malu 2026-10-19 #JqvOzkhnu $fr ± %astronomy
 [t]predicate: ▯ est un soleil.
+  Ilmen (2026-11-27): discriminator: 1
 
 hoe @uakci 2019-01-26 #WTN9TfqBP $toa -1 %astronomy
 sao ru loq dóshı, na ru gaıkıu rào sa ráı tî dóshı sa séoq da
+
+hoe [(c c) (d d) máq sI] @robintown 2023-01-11 #8322Q10gy $en -1 %astronomy
+[t]predicate: [g]‘sun’; ▯ is a sun of celestial body ▯.
 
 hoe'achu @fagri 2021-11-18 #0V1uy-EnC $en ±
 [t]predicate: [g]‘sun-sneeze’; ▯ sun-sneezes
@@ -33721,6 +33736,9 @@ Iqlaqtoaq @Ilmen 2020-03-19 #t15pd_aLQ $en ± %language,natlang
   Dembim (2026-02-04): Frame: c 1i
   Dembim (2026-02-04): Pronominal_class: ta
 
+ıqtıaobeo @Ilmen 2026-11-27 #wvIMu5Ygk $en ±
+[t]predicate: ▯ adapts to having property ▯.
+
 ıqtıubo @Ilmen 2025-12-19 #MGCk6Pppe $en ±
 [t]predicate: [g]‘semantically entail’; Having property ▯ semantically entails having property ▯.
 
@@ -33918,7 +33936,7 @@ Isılaqgua @countries 2026-11-23 #O8OPv_WGc7z $en ±
   robintown (2025-04-01): Calque of Vietnamese 'dưa chuột'
 
 ıshoı @seaqtaq 2022-08-18 #ybRVTik0q $en ±
-[t]predicate: [g]‘in-group’; ▯, as a member of a group sharing a contextually significanty property (whether it be ideology, religion, ethnic group, sports team preference, etc.), becomes wary/apprehensive upon a perceived outsider of said group joining in ongoing derision/criticism commonly held by typical members of said group due to being in said group—oftentimes of the group itself, but not always—being discussed by the group, where the perceived outsider joins in on the derision for a wholly different reason, as they don't share the contextually significant property
+[t]predicate: ▯, as a member of a group sharing a contextually significanty property (whether it be ideology, religion, ethnic group, sports team preference, etc.), becomes wary/apprehensive upon a perceived outsider of said group joining in ongoing derision/criticism commonly held by typical members of said group due to being in said group—oftentimes of the group itself, but not always—being discussed by the group, where the perceived outsider joins in on the derision for a wholly different reason, as they don't share the contextually significant property
   seaqtaq (2022-08-18): e.g.:  Socialists when a right winger joins in on making fun of liberals  LGBT people when a social conservative enters the conversation on the commodification of LGBT activism and its subsequent detriment to the overall movement, where the conservative is simply annoyed by pride flags being shown "everywhere"  A few members of [Insert ethnic group here] having fun embracing stereotypes and throwing slurs  at one another being suddenly interrupted by a true racist not of the ethnic group expressing agreement with the stereotypes being satisfied and asking the members of the ethnic group to agree to [insert racist belief here]  A bunch of Finns poking fun at serious issues in their nation when a non-finn comes along and begins to unironically hate on finland with an air of superiority
   seaqtaq (2024-07-11): zakaı
 
@@ -34298,6 +34316,7 @@ jalam [(c) (d) hó sI] @Laqme 2025-05-17 #2kPtQrsLv $en +2
   Ilmen (2026-01-28): frame: c
   Ilmen (2026-01-28): pronominal_class: ho
   Ilmen (2026-09-18): Curiously, in dialectal Indonesian, ⟪jaran⟫ can mean ⟦horse⟧.
+  Ilmen (2026-11-27): sememe: qibawe
 
 jam- @robintown 2023-05-22 #6Pu9h5COY $en ±
 [t]prefix: [g]‘clock time’; marks the following number as a clock time (HHcoMMcoSS)
@@ -35447,7 +35466,7 @@ jeohı @Ilmen 2019-06-25 #FX2cx3EsC $en +1
 jeohıa @el 2022-08-24 #Fw70vot-c $toa -1
 jeo hı moq
 
-jeohuı @uakci 2020-03-30 #sR7AU7Rwt $en ±
+jeohuı [(c 2xi) (d d) tá sF] @uakci 2020-03-30 #sR7AU7Rwt $en ±
 [t]predicate: [g]‘bad to’; ▯ is not good for one to ▯; ▯ is such that it is bad for most to be in relation ▯ with it.
 
 jeojao @fagri 2021-10-09 #jZpYaTHVY $en ±
@@ -38256,7 +38275,7 @@ joqkua @fagri 2018-12-15 #dLIu4HRE6 $en ±
 joqlaqteı @salarua 2022-12-23 #V0QvCOtOR $en ±
 [t]predicate: [g]‘falling.tone’; ▯ is the falling tone
 
-joqluapoq @fagri 2019-01-18 #tgFyEZczq $en ±
+joqluapoq [(c c) (d d) hó sI] @fagri 2019-01-18 #tgFyEZczq $en ±
 [t]predicate: [g]‘protagonist’; ▯ is a protagonist in story/movie/book/TV show ▯
 
 joqmua @seaqtaq 2020-01-10 #tHa9U826K $en ±
@@ -39571,8 +39590,9 @@ juqce @seaqtaq 2024-07-20 #bo2__c9nc $en +1
 juqcha @Ilmen 2020-02-11 #E-BBdNkQ4 $en ±
 [t]predicate: [g]‘recipient’; in proposition ▯, ▯ is an intended recipient.
 
-juqdeaı @Ilmen 2020-03-07 #HYJftiqhx $en ± %⚠
+juqdeaı [(c c 1i) (d d d) hó sI] @Ilmen 2020-03-07 #HYJftiqhx $en -1 %⚠
 [t]predicate: [g]‘deserve’; ▯ deserves/merits/earns the rewards of satisfying property ▯ for the service of satisfying property ▯.
+  evie (2026-11-27): -1 even assuming this word should remain ditransitive, it'd be nice for it to serialize as "deserve to" instead of "deserve for"
 
 juqdı @uakci 2023-06-04 #8WywwliMN $en ±
 [t]predicate: [g]‘submissive’; ▯ is (sexually/romantically) submissive / a sub.
@@ -39878,10 +39898,10 @@ kadea [(c c) (d d) hó sA] @Laqme 2025-02-19 #5jmOronSC $en +1
 [t]predicate: [g]‘smash’; ▯ smashes/crushes ▯.
   Laqme (2025-02-19): crunchy/deforming hit
 
-kadeoq @Ilmen 2020-01-25 #CNUYKakjZ $en ±
+kadeoq @Ilmen 2020-01-25 #CNUYKakjZ $en -1
 [t]predicate: [g]‘declare’; ▯ declares/pronounces that he/she/they satisfy property ▯ to audience ▯.
 
-kadeoq @Ilmen 2020-01-25 #F130MtheW $en ±
+kadeoq @Ilmen 2020-01-25 #F130MtheW $en -1
 [t]predicate: [g]‘declare’; ▯ declares/pronounces that ▯ is the case to audience ▯.
 
 kadıo @fagri 2021-09-30 #rvmz9wY74 $en ±
@@ -39980,8 +40000,9 @@ kahıa @Machy 2022-02-02 #v9Mi3J9f- $en ±
 [t]predicate: [g]‘great’; ▯ is great/good/honorable.
   mimiaoganhaqpy (2025-02-14): "honourable"
 
-kahıu @jiqci 2023-03-01 #f19PQnQTg $en ±
+kahıu [(c) (d) hó sI] @jiqci 2023-03-01 #f19PQnQTg $en ±
 [t]predicate: [g]‘mollusk’; ▯ is a mollusk / mollusc.
+  Ilmen (2026-11-27): sememe: fayuke
 
 kahu @Ilmen 2020-01-13 #5Y7cpWc4B $en +1 %body_part
 [t]predicate: [g]‘tail’; ▯ is a tail (body part).
@@ -43855,11 +43876,11 @@ koejıaq @seaqtaq 2024-07-12 #ETDUNJHKd $en ±
 [t]predicate: ▯ is a "dimension"/different plane of reality
   seaqtaq (2024-07-12): Meant to be used mostly for plot expansion devices in fictional stories
 
-koejoaı @uakci 2022-10-23 #W_9clHr8J $en ±
+koejoaı [(c c 1x) (d n d) hó sA] @uakci 2022-10-23 #W_9clHr8J $en ±
 [t]predicate: [g]‘consider choosing’; ▯ considers which among ▯ to choose to have satisfy property ▯.
   uakci (2022-10-23): atelic **koe** (if that **koe** is defined as ‘▯ chooses ▯ to have satisfy property ▯’
 
-koejoaı @el 2022-10-23 #zFV481oL9 $en ±
+koejoaı @el 2022-10-23 #zFV481oL9 $en -1
 [t]predicate: [g]‘consider answer’; ▯ considers what answer to choose for ▯ (indirect question)
 
 koejoe [(c) (d) hó sI] @Dembim 2026-04-24 #7p5cqGlSp $en +1
@@ -44380,7 +44401,7 @@ koroqbıa @Ilmen 2024-10-22 #M5orprMt5 $en ±
 korotaloq @Laqme 2022-05-07 #AUlkTcYxj $en ± %lifeform,animal,vertebrate,squamate,snake
 [t]predicate: [g]‘rattlesnake’; ▯ is a rattlesnake of Crotalus genus.
 
-korotu @Ilmen 2018-10-19 #7dXOUkGcy $en ± %lifeform,animal,vertebrate,mammal,carnivoran
+korotu [(c) (d) hó sI] @Ilmen 2018-10-19 #7dXOUkGcy $en ± %lifeform,animal,vertebrate,mammal,carnivoran
 [t]predicate: [g]‘spotted hyena’; ▯ is a spotted hyena (Crocuta crocuta).
   Ilmen (2018-10-19): From Sanskrit "kroshṭu(ka)".
   eednb (2022-10-16): could also be applied to the genus Crocuta
@@ -47807,7 +47828,7 @@ leuqshuı [(c) (d) hó sI] @seaqtaq 2024-11-03 #xl2TGeImD $en ±
 [t]predicate: [g]‘closeted’; ▯ is "in the closet" in regards to their LGBT+ identity
   seaqtaq (2024-11-03): == shuıhe leuq
 
-leusho @robintown 2023-02-06 #-g7K1Vdo0 $en ±
+leusho [(c) (d) máq sI] @robintown 2023-02-06 #-g7K1Vdo0 $en ±
 [t]predicate: [g]‘melt’; ▯ melts.
 
 lezı @evie 2024-07-05 #W4zB5GlH_ $en ±
@@ -47958,7 +47979,7 @@ lıam [(c 0) (d d) hóq sF] @Laqme 2024-09-29 #XFTygUdWy $en +4
   Dembim (2026-02-04): Pronominal_class: hoq
   Dembim (2026-02-09): kw: suggests, diagnostic
 
-lıamboı @seaqtaq 2024-11-18 #jC12iiRTl $en ±
+lıamboı [(c 0) (d d) hóq sE] @seaqtaq 2024-11-18 #jC12iiRTl $en ±
 [t]predicate: [g]‘on cue’; ▯ happens on cue of ▯ happening; ▯ happens right when/just upon ▯ happening
   seaqtaq (2024-11-18): Like **moaboı** but weakly implies a causal connection between the two events, namely that the latter event has something to do with the former event happening at all
 
@@ -48068,7 +48089,7 @@ lıbaı @fagri 2019-02-26 #9D9Jkhsbd $en +1
   fagri (2019-02-26): See also #tuabai
   Laqme (2019-02-27): +1
 
-lıbı @Ilmen 2020-01-10 #fz6kx6m0X $en -1 %logic
+lıbı [(c 1x) (d d) hóq sP] @Ilmen 2020-01-10 #fz6kx6m0X $en -1 %logic
 [t]predicate: [g]‘true of everything satisfying’; ▯ is true with a quantification domain restricted exhaustively to what satisfies property ▯.
 
 lıbo @Ilmen 2019-03-24 #uFlcoil9W $en ± %logic
@@ -50071,18 +50092,19 @@ luapım @seaqtaq 2025-05-10 #-0FwslX1T $en ±
 luapımcuao [(c) (d) hó sI] @seaqtaq 2025-05-10 #S3p577uOS $en ±
 [t]predicate: [g]‘tritagonist’; ▯ is a tritagonist / tetartagonist / pentagonist / ...; ▯ is a main character of lesser importance than a deuteragonist
 
-luapoq @fagri 2019-01-18 #Qui3rWG4H $en +1
+luapoq [(c c) (d d) hó sI] @fagri 2019-01-18 #Qui3rWG4H $en +1
 [t]predicate: [g]‘character’; ▯ is a character in movie/book/TV show/story ▯
   fagri (2019-01-18): -1, see better version at #Qui3rWG4H
   fagri (2019-01-22): It's great how I accidentally linked this word to itself and now I don't know what it should be pointing to.
   fagri (2019-01-22): +1, this IS the good version
 
-luapoq @fagri 2019-01-09 #Aduh-WFvV $en ±
+luapoq [(c) (d) hó sI] @fagri 2019-01-09 #Aduh-WFvV $en ±
 [t]predicate: [g]‘character’; ▯ is a character in a story (book, TV show, movie, etc)
   fagri (2019-01-22): -1, see better version at #Qui3rWG4H
 
 luapoq [(c) (d) hó sI] @Laqme 2026-11-24 #46pNVRHcX $en ±
 [t]predicate: [g]‘fictional character’; ▯ is a fictional character.
+  Ilmen (2026-11-27): discriminator: 1
 
 luaq [(c c) (d d) hó sA] @official 2026-11-23 #LXNi4nKx7Y- $en ± %action
 [t]predicate: [g]‘play’; ▯ plays / has fun with / uses for entertainment ▯.
@@ -51909,6 +51931,7 @@ maraq @Ilmen 2026-01-23 #ujca5r4_B $en ±
   Ilmen (2026-01-23): Mostly replaced in usage by ⟪jalam⟫.
   Ilmen (2026-01-28): frame: c
   Ilmen (2026-01-28): pronominal_class: ho
+  Ilmen (2026-11-27): sememe: qibawe
 
 mararujı @jiqci 2023-08-01 #zorOyeKQC $en +1
 [t]predicate: [g]‘whipped cream’; ▯ is whipped cream.
@@ -54653,7 +54676,7 @@ moepıa @fagri 2021-09-09 #c1Mb2ny0g $en +1
 moepoaq @jiqci 2023-09-02 #KqXJEjOeo $en +1
 [t]predicate: [g]‘have a breakdown’; ▯ has a mental breakdown.
 
-moeq @jiqci 2023-07-08 #fL1bLKodd $en ±
+moeq [(c) (d) tá sF] @jiqci 2023-07-08 #fL1bLKodd $en ±
 [t]predicate: [g]‘molten’; ▯ is molten.
   jiqci (2023-07-08): opposite of **chuaı**
 
@@ -54666,7 +54689,7 @@ moeqpıo @Iako 2025-04-21 #YfuRmJuSW $en ±
 moeqsoı @nabbbyspi 2021-11-13 #2saueIJhi $en -1
 [t]predicate: ▯ is defiant/rebellious
 
-moeqsho @jiqci 2023-07-08 #QVwh4iSv1 $en ±
+moeqsho [(c) (d) máq sI] @jiqci 2023-07-08 #QVwh4iSv1 $en ±
 [t]predicate: [g]‘melt’; ▯ melts/liquifies.
 
 moerıaq [(c) (d) hóq sI] @official 2026-11-23 #GAQrdZRrgnp $en ± %body_part
@@ -55162,7 +55185,7 @@ mokaqfuq @jiqci 2024-07-01 #JDoidDK8x $en ±
 moko @Ilmen 2023-03-11 #o5ZHSJQbh $en ±
 [t]predicate: [g]‘mucus’; ▯ is mucus.
 
-mokoaı @uakci 2024-05-14 #EYcfLREFx $en ±
+mokoaı [(c) (d) hó sI] @uakci 2024-05-14 #EYcfLREFx $en -1
 [t]predicate: [g]‘lucid-dream’; ▯ lucid-dreams/dreamweaves/astral-projects.
   uakci (2024-05-14): < **mo–** (see **moꝡa**) + **koaı**
 
@@ -57513,7 +57536,7 @@ naogoeq [(c) (d) máq sI] @Laqme 2022-06-03 #rgpWyMRDD $en ±
 naoguaq [(c) (d) máq sI] @official 2026-11-23 #xiMlZ_uswwp $en ± %geographic_feature
 [t]predicate: [g]‘island’; ▯ is an island.
 
-naoguobe @uakci 2022-06-20 #BwEZAK8yV $en ±
+naoguobe [(c) (d) hó sI] @uakci 2022-06-20 #BwEZAK8yV $en ±
 [t]predicate: [g]‘sea slug’; ▯ is a sea slug.
   uakci (2022-06-20): Japanese ウミウシ (‘sea cow’)
 
@@ -58168,7 +58191,7 @@ neaıfao @robintown 2024-09-12 #vtskK8gWV $en ±
 neaıkao [(c 0) (d d) hóq sI] @Laqme 2024-07-13 #LImqdhQpV $en +1
 [t]predicate: [g]‘proof’; ▯ is a proof that ▯ is the case.
 
-neaılıeı @seaqtaq 2024-11-27 #dfn1qdzF_ $en ±
+neaılıeı @seaqtaq 2024-11-27 #dfn1qdzF_ $en -1
 [t]predicate: ▯ passes/is verified by/is certified according to test/examination/filter ▯
   seaqtaq (2024-11-27): This describes a state of being certified/passing, and not the event of being examined
 
@@ -61593,9 +61616,10 @@ nuaqshıe [(c) (d) hó sI] @Dembim 2026-07-23 #lM7yzrchp $en ±
 nuaqshoa @TheAndSys 2025-03-08 #A9V92JOSY $en ±
 [t]predicate: ▯ happens late at night
 
-nuaqtıqshoaı @Laqme 2019-02-25 #rk9nxEFoU $en ±
+nuaqtıqshoaı [(c) (d) hó sI] @Laqme 2019-02-25 #rk9nxEFoU $en ±
 [t]predicate: [g]‘moth’; ▯ is a moth.
   Laqme (2019-02-25): calqued from Finnish yöperhonen (night butterfly).
+  Ilmen (2026-11-27): sememe: milana
 
 nuatoeq @uakci 2023-12-03 #BYlYl3uj_ $en ±
 [t]predicate: [g]‘inherit’; ▯ inherits, from ▯, possession of ▯.
@@ -62110,9 +62134,6 @@ nulıdoa @Machy 2022-02-23 #SM3oHwCvF $en ±
 nulıhıeq @el 2022-11-09 #QbFiqtkXt $en ±
 [t]predicate: [g]‘spatter oil’; ▯ spatters oil (when cooking, for instance)
 
-nulıloeq @Ilmen 2025-04-12 #HwuywBsYm $en ±
-[t]predicate: ▯ is fried.
-
 nulıloeq [(c) (d) tá sI] @Dembim 2025-10-31 #V2jj3OwoV $en ±
 [t]predicate: [g]‘fry’; ▯ cooks/ is cooked through contact with fat/oil.
   Dembim (2025-10-31): fry/fries/fried
@@ -62125,6 +62146,11 @@ nulıloeq [(c) (d) tá sI] @Dembim 2025-10-31 #V2jj3OwoV $en ±
 nulıloeq @Ilmen 2026-11-12 #yc6C9XOBR $en ±
 [t]predicate: ▯ fries, undergoes frying.
   Dembim (2026-11-14): Why máq, rather than tá for this?
+  Ilmen (2026-11-27): discriminator: 1
+  Ilmen (2026-11-27): @Dembim: I don't really see why not, but I see that plain ⟪loeq⟫ is of TÁ type, so I shall make this word be consistent with it in this respect.
+
+nulıloeq @Ilmen 2025-04-12 #HwuywBsYm $en -1
+[t]predicate: ▯ is fried.
 
 nulımeaq @jiqci 2023-06-27 #_gmCx0jdr $en ±
 [t]predicate: [g]‘tanker ship’; ▯ is a tanker ship.
@@ -62289,18 +62315,19 @@ nuoduna [(c) (d) hó sI] @robintown 2023-11-13 #hA9Z-uPKy $en +1
 nuofa [(c) (d) hó sI] @official 2026-11-23 #lRzgY7b2NK1 $en ±
 [t]predicate: [g]‘go.to.bed’; ▯ goes to bed.
 
-nuofa @uakci 2018-12-30 #9_uKDQvDW $en ±
+nuofa [(c) (d) hó sI] @uakci 2018-12-30 #9_uKDQvDW $en ±
 [t]predicate: [g]‘go to bed’; ▯ goes to bed; ▯ goes to sleep.
   Ilmen (2025-10-31): officialized: yes
-
-nuofa @Ilmen 2022-02-20 #DvfHQx7lD $en ±
-[t]predicate: [g]‘sleepwalk’; ▯ sleepwalks, somnambulates.
 
 nuofa @jiqci 2023-07-31 #S1aKmAiYky $pl ±
 [t]predicate: ▯ idzie spać.
 
 nuofa @malu 2026-10-19 #oviEM2yt2 $fr ±
 [t]predicate: ▯ se couche, va au lit.
+  Ilmen (2026-11-27): discriminator: 1
+
+nuofa [(c) (d) hó sI] @Ilmen 2022-02-20 #DvfHQx7lD $en -1
+[t]predicate: [g]‘sleepwalk’; ▯ sleepwalks, somnambulates.
 
 nuofua [(c) (d) máq sI] @official 2026-11-23 #8zfXL7CgDbD $en ± %artifact,furniture
 [t]predicate: [g]‘bed’; ▯ is a bed.
@@ -65191,8 +65218,9 @@ pema @seaqtaq 2024-10-16 #5gd2Iotq4 $en ±
 pene @uakci 2022-02-08 #jX9w_AvZy $en ±
 [t]predicate: [g]‘relatively’; ▯ is relatively how much ▯ is the case for a ▯.
 
-penhe @uakci 2022-02-08 #-iVK_D227 $en -1
+penhe [(c c 1i) (d d d) tá sF] @uakci 2022-02-08 #-iVK_D227 $en -1
 [t]predicate: [g]‘as much as’; ▯, relatively wrt ▯, is ▯ as much the case.
+  evie (2026-11-27): ▯ and ▯ are equally ▯
 
 peo- @Laqme 2024-05-03 #IQ-qUaAWK $en +1
 [t]prefix: [g]‘inverse’; turns a number component N into 1/N
@@ -69335,7 +69363,7 @@ reaı [(c c) (n n) hó sA] @seaqtaq 2024-05-21 #gYSEGw8W7 $en +1
 [t]predicate: [g]‘violate’; ▯ (agent) violates / defies / goes against / is in opposition with ▯
   seaqtaq (2025-05-10): See **zıam** for non-agentive equivalent
 
-reaıluapoq @jiqci 2024-06-26 #CTHS6jpbK $en ±
+reaıluapoq [(c c) (d d) hó sI] @jiqci 2024-06-26 #CTHS6jpbK $en ±
 [t]predicate: [g]‘antagonist’; ▯ is an antagonist in story/movie/book/TV show ▯
 
 reaıtao @seaqtaq 2024-05-21 #nP00J8CM2 $en ±
@@ -70963,7 +70991,7 @@ rıusıaıbıu @uakci 2020-03-07 #LrF2omhPK $en ±
 rıusıbı [(c) (d) máq sI] @jiqci 2023-03-12 #xX7oHVIQO $en ±
 [t]predicate: [g]‘vein’; ▯ is a vein.
 
-rıusoı @uakci 2019-04-05 #6h93010io $en ±
+rıusoı @uakci 2019-04-05 #6h93010io $en -1
 [t]predicate: [g]‘take revenge’; ▯ revenges on ▯ by doing ▯.
 
 rıusha @robintown 2024-08-29 #THaYPmQDO $en ±
@@ -71077,6 +71105,7 @@ roaı @jiqci 2023-07-31 #PdhCw-waY4 $pl ± %cardinality
 
 roaıgıe @jiqci 2024-07-31 #rvlvpsfX6 $en ±
 [t]predicate: ▯ is an octopus (order Octopoda).
+  Ilmen (2026-11-27): sememe: yuwoga
 
 roaıgua @seaqtaq 2020-05-25 #xa7zMooZ_ $en ±
 [t]predicate: [g]‘entity of eight nations’; ▯ is an autonomous entity emergent of an assembly of eight nations
@@ -71105,8 +71134,9 @@ roaıkoroq @TheAndSys 2024-09-20 #AxXG4SGLD $en -1
 roaıpaqgıaqlaı @jiqci 2023-08-15 #TAqoCkWlR $en ±
 [t]predicate: [g]‘eighth note’; ▯ is an eighth note / quaver.
 
-roaıpue @Ilmen 2020-03-03 #4xPbPSfPH $en ± %lifeform,animal,mollusc
+roaıpue [(c) (d) hó sI] @Ilmen 2020-03-03 #4xPbPSfPH $en ± %lifeform,animal,mollusc
 [t]predicate: [g]‘octopus’; ▯ is an octopus.
+  Ilmen (2026-11-27): sememe: yuwoga
 
 roaıpue @jiqci 2024-07-31 #7OwcpaLmW $en ± %lifeform,animal,mollusc
 [t]predicate: ▯ is an arachnid (class Arachnida).
@@ -71518,6 +71548,7 @@ roneu @Laqme 2024-07-20 #eBTcITlKu $en ±
 
 roq [(c) (d) hó sA] @robintown 2022-01-01 #_BWlKrQz4 $en +2
 [t]predicate: [g]‘cries’; ▯ cries/sobs/weeps.
+  Ilmen (2026-11-27): officialized: yes
 
 roq [(c) (d) hó sI] @official 2026-11-23 #7dp_Ct5tVJ4 $en ±
 [t]predicate: [g]‘weep’; ▯ cries/sobs/weeps.
@@ -77674,7 +77705,7 @@ suaojıe @jiqci 2023-07-31 #khTzZRERXe $pl ±
 [t]predicate: [g]‘worth esteem’; ▯ is worth esteem / has dignity; ▯ is worth esteem from ▯.
   uakci (2019-01-11): +1
 
-suaoluapoq @fagri 2019-01-18 #jpgyyuHpe $en ±
+suaoluapoq [(c c) (d d) hó sI] @fagri 2019-01-18 #jpgyyuHpe $en ±
 [t]predicate: [g]‘main character’; ▯ is a main character of story/movie/book/TV show ▯
 
 suaomıa @seaqtaq 2024-10-17 #aQSCvXqmw $en ±
@@ -77709,7 +77740,7 @@ suaotuao @Ilmen 2018-12-23 #SD9jtJJ0g $en ±
 suaotuaomıu @Ilmen 2018-12-23 #gEimAjx-t $en ± %emotion
 [t]predicate: [g]‘despise’; ▯ despises ▯; ▯ regards ▯ with contempt or scorn.
 
-suaq @Machy 2021-09-21 #tP-60ydhn $en +1
+suaq [(c c) (d d) hó sI] @Machy 2021-09-21 #tP-60ydhn $en +1
 [t]predicate: [g]‘sings’; ▯ sings ▯.
   Machy (2021-09-21): fork, mf-che
 
@@ -77727,6 +77758,11 @@ suaq @Laqme 2025-04-03 #-viocU-Yl $jbo ±
 
 suaq @malu 2026-10-19 #Ip-_5YKTH $fr ±
 [t]predicate: ▯ chante ▯.
+  Ilmen (2026-11-27): discriminator: 2
+
+suaq @Ilmen 2026-11-27 #rwG_xYldK $fr ±
+▯ chante.
+  Ilmen (2026-11-27): discriminator: 1
 
 suaq @uakci 2019-04-14 #zY6oEwZkP $toa -1
 choa dóshı dógu gıaq da
@@ -78005,12 +78041,14 @@ suhu @jiqci 2023-07-31 #iov9urHkxe $pl ± %lifeform,animal,vertebrate,mammal
 suhugıa @uakci 2020-05-19 #tww8hR9LD $en ±
 [t]predicate: [g]‘bacon’; ▯ is bacon.
 
-suhulıq @Ilmen 2018-10-19 #oTflZYJfI $en ± %lifeform,animal,vertebrate,mammal,carnivoran
+suhulıq [(c) (d) hó sI] @Ilmen 2018-10-19 #oTflZYJfI $en ± %lifeform,animal,vertebrate,mammal,carnivoran
 [t]predicate: [g]‘striped hyena’; ▯ is a striped hyena (Hyaena hyaena).
   eednb (2022-10-16): could also be applied to the genus Hyaena
+  Ilmen (2026-11-27): sememe: totovu
 
-suhulıqsıu @Ilmen 2018-10-19 #YSIskaQ_n $en ± %lifeform,animal,vertebrate,mammal
+suhulıqsıu [(c) (d) hó sI] @Ilmen 2018-10-19 #YSIskaQ_n $en ± %lifeform,animal,vertebrate,mammal
 [t]predicate: [g]‘hyena’; ▯ is a hyena (Hyaenidae taxonomic family).
+  Ilmen (2026-11-27): sememe: nulofa
 
 suhunueq [(c) (d) máq sI] @Laqme 2019-02-03 #Ne0DFGarH $en +1
 [t]predicate: [g]‘pork’; ▯ is pork / pig meat.
@@ -80071,12 +80109,12 @@ shıcoe [(c) (n) tá sS] @TheAndSys 2023-05-22 #eK_5ugsKH $en ±
 shıcuaq @uakci 2020-04-07 #_0tyMe2P_ $en ±
 [t]predicate: [g]‘property’; ▯ is a property.
 
-shıcuoı @uakci 2022-11-30 #wZcI3e0Ow $en ±
-[t]predicate: [g]‘each with exactly one’; Each one among ▯ satisfies with exactly one among ▯ relation ▯.
-  uakci (2022-11-30): surjective, onto mapping, function
-
 shıcuoı @uakci 2022-11-30 #eFuBvlz05 $toa ±
 tu shı mea [ja] bı, shı tutuq mea [ja] ga cüoı zé hóa [ja guja]
+
+shıcuoı @uakci 2022-11-30 #wZcI3e0Ow $en -1
+[t]predicate: [g]‘each with exactly one’; Each one among ▯ satisfies with exactly one among ▯ relation ▯.
+  uakci (2022-11-30): surjective, onto mapping, function
 
 shıcuoıshı @uakci 2022-11-30 #-yDO_GK1I $en -1
 [t]predicate: [g]‘one to one’; Each one among ▯ has exactly one among ▯ satisfying relation ▯ with it, and vice versa.
@@ -82259,14 +82297,15 @@ shúq @robintown 2023-04-04 #UBSfz9cvO $en +3
 shurıkeq @Laqme 2022-05-07 #bY-IgCxS5 $en ±
 [t]predicate: [g]‘shuriken’; ▯ is a shuriken / throwing star.
 
-shuse @jiqci 2023-06-28 #WYmC_vmo9 $en ±
+shuse [(c) (d) hó sI] @jiqci 2023-06-28 #WYmC_vmo9 $en ±
 [t]predicate: [g]‘hamster’; ▯ is a hamster.
   jiqci (2023-06-28): shortened from **shuo** + **muse**
+  Ilmen (2026-11-27): sememe: bowara
 
 shuse @SuperSpaceNiM 2024-08-11 #dOh_BTGfA $ru ±
 [t]predicate: ▯ — хомяк.
 
-shusekıoq @jiqci 2023-06-28 #HeYTwJ-O7 $en ±
+shusekıoq [(c) (d) máq sI] @jiqci 2023-06-28 #HeYTwJ-O7 $en ±
 [t]predicate: [g]‘hamster ball’; ▯ is a hamster ball.
 
 shushu @uakci 2021-09-03 #3BsxHYhhO $en ±
@@ -82795,9 +82834,6 @@ taogıq [(c 1i) (d d) hó sI] @Ilmen 2020-01-10 #oYd969ikJ $en +3
 
 ⚠ taoguo @uakci 2020-04-11 #5-jhduQ4Y $en ±
 [t]predicate: [g]‘activity’; ▯ is an activity; ▯ is an instance of ▯ doing ▯.
-
-taohıao @uakci 2019-01-06 #-_LkZ_q0- $en -1
-[t]predicate: ▯ attacks ▯ by doing ▯.
 
 taoja @seaqtaq 2024-07-23 #h1y4m1yq- $en ±
 [t]predicate: [g]‘get to do’; ▯ has/gets ▯ to do ▯
@@ -84094,7 +84130,7 @@ teqboe @uakci 2021-11-07 #JHfkdetQM $en ±
 teqdıu @Laqme 2024-08-26 #QEyxCllkY $en ±
 [t]predicate: ▯ is economics.
 
-teqdo @TheAndSys 2023-06-02 #4t--r4RVZ $en ±
+teqdo [(c c c) (d d d) hó sI] @TheAndSys 2023-06-02 #4t--r4RVZ $en -1
 [t]predicate: [g]‘sell’; ▯ sells ▯ in exchange for ▯
 
 teqdoa @uakci 2022-10-25 #J935evXZb $en -1
@@ -84512,6 +84548,7 @@ tıaobeo [(c c 1j) (d d d) tá sF] @uakci 2022-02-19 #exFA_mVrc $en ±
 
 tıaobeo @Ilmen 2026-10-15 #2LqvKlJxn $en ±
 [t]predicate: ▯ adapts to having property ▯.
+  Ilmen (2026-11-27): discriminator: 2
 
 tıaocıa @uakci 2022-02-10 #j2PWa1Tc8 $en ±
 [t]predicate: [g]‘inadequately’; ▯ does ▯ inadequately.
@@ -85076,7 +85113,7 @@ tıhao @seaqtaq 2024-11-16 #29s45kxt4 $en ±
 tıhı @jiqci 2024-10-02 #3jKs0fiKh $en ±
 [t]predicate: [g]‘where’; Where is ▯?
 
-tıjaı @Ilmen 2018-10-01 #o-R_HTMQQ $en ± %emotion
+tıjaı [(c c) (d d) hó sI] @Ilmen 2018-10-01 #o-R_HTMQQ $en ± %emotion
 [t]predicate: [g]‘glad of presence’; ▯ is happy that ▯ is present.
   Machy (2021-10-16): welcome
 
@@ -88522,6 +88559,7 @@ uı- @salarua 2025-06-13 #WkDvS34mP $en +1
 
 uıbo [(c) (d) hó sI] @Laqme 2023-01-26 #fF82lwu7o $en +1
 [t]predicate: [g]‘slug’; ▯ is a slug.
+  Ilmen (2026-11-27): sememe: woguro
 
 uıbokato [(c) (d) hó sI] @jiqci 2024-04-28 #a6MC9Dn8Y $en ±
 [t]predicate: [g]‘slugcat’; ▯ is a slugcat.
@@ -90288,6 +90326,7 @@ zıecheı [(c) (d) máq sI] @Laqme 2023-12-03 #9H5rcmRqx $en +1
 
 zıekuq [(c c) (d d) hó sA] @evie 2026-10-22 #vAJzRayjx $en +1
 [t]predicate: [g]‘mention’; ▯ (agent) mentions ▯
+  Ilmen (2026-11-27): discriminator: 2
 
 zıekuq @uakci 2020-01-23 #r8MiTsIN5 $en -1
 [t]predicate: [g]‘mention’; ▯ mentiones / makes mention of ▯ to listener ▯.
